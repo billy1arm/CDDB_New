@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20010
+#	41580
+#	60022
+#	74422
+#	92039
+#	108809
+#	125384
+#	142266
+#	166408
+#	181595
+#	206480
+#	213500
+#	230997
+#	250549
+#	267866
+#	285918
+#	303123
+#	328600
+#
+# Disc length: 4676 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=07124213
+DTITLE=Various Artist - EXIT TUNES PRESENTS Vocalogenesis
+DYEAR=2010
+DGENRE=Vocaloid
+TTITLE0=のりぴー feat.鏡音レン - 右肩の蝶
+TTITLE1=cosMo@暴走P feat.初音ミク - 初音ミクの暴走 -Full ver.-
+TTITLE2=銀サク feat.鏡音リン - いろは唄
+TTITLE3=wowaka(現実逃避P) feat.初音ミク - ローリンガール
+TTITLE4=オワタP feat.鏡音レン - パラジクロロベンゼン
+TTITLE5=SCL Project(natsuP) feat.VanaN'Ice - IMITATION BLACK
+TTITLE6=れれれP feat.鏡音レン - イケ恋歌
+TTITLE7=仕事してP feat.MEIKO・KAITO - 番凩
+TTITLE8=DATEKEN feat.鏡音リン・レン - 紡唄 -つむぎうた- 
+TTITLE9=mothy_悪ノP feat.鏡音リン - リグレットメッセージ
+TTITLE10=どぶウサギ feat.KAITO - しねばいいのに
+TTITLE11=KAZU-k&桃華なゆた feat.初音ミク - リア充爆発しろ！
+TTITLE12=azuma feat.初音ミク - charActe
+TTITLE13=ぼーかりおどP(noa) feat.初音ミク - 1/6 -genesis mix-
+TTITLE14=HzEdge(クリスタルP) feat.鏡音レン・KAITO - erase or zero (Vocalogenesis only NewMix)
+TTITLE15=yuukiss feat.MEIKO - Nostalogic (single edit) 
+TTITLE16=AVTechNO! feat.巡音ルカ - DYE
+TTITLE17=ジミーサムP feat.初音ミク・巡音ルカ - Genesi
+TTITLE18=のりぴー feat.鏡音レン - 右肩の蝶 -Ver.3.0.1-
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

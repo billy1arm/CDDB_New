@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9922
+#	23232
+#	38906
+#	47992
+#	62420
+#	78629
+#	88928
+#	101870
+#	120277
+#	132678
+#	146794
+#	161232
+#	173687
+#	191558
+#	208963
+#	225790
+#	236123
+#	263608
+#
+# Disc length: 4440 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=09115613
+DTITLE=Sarah Vaughan - That's Jazz Collection
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Perdido
+TTITLE1=Dreamy
+TTITLE2=Sarah Vaughan (voc) - Barney Kessel (g) - Joe Comfort (b) - Key Largo
+TTITLE3=Sarah Vaughan and Billy May and his Orch. - Them Three Eyes
+TTITLE4=Sarah Vaughan and Gerald Wilson and his Orch. - Moanin'
+TTITLE5=More Than You Know
+TTITLE6=When Your Love Has Gone
+TTITLE7=Sarah Vaughan and Count Basie and his Orch. - Teach Me Tonight
+TTITLE8=Sarah Vaughan and Benny Carter and his Orch. - Lonely Hours
+TTITLE9=Sarah Vaughan (voc) - Mundell Lowe (g) - George Duvivier (b) -  My Favorite Things
+TTITLE10=Snowbound
+TTITLE11=Sarah Vaughan and Benny Carter and his Orch. - Nobody Else But Me (Showboat)
+TTITLE12=Once Upon A Summertime
+TTITLE13=You're Mine You
+TTITLE14=Sophisticated Lady
+TTITLE15=These Foolish Things
+TTITLE16=Great Day
+TTITLE17=Round Midnight
+TTITLE18=Data
+EXTD=YEAR: 1999
+EXTT0=(Juan Tizol, Harry Lenker, Ervin Drake]\n(P)1954
+EXTT1=(E. Garner, S. Shaw]\n(P)1964
+EXTT2=(Carter, Suessdorf, Worth)\(P)1962
+EXTT3=(Maceo Pinkard, William Tracy, Dan Tauber]\n(P)1960
+EXTT4=(Bob Timmons, Jon Hendricks)\(P)1965
+EXTT5=(L. Bragg, T. Collins]\n(P)1963
+EXTT6=(Einer A. Swan]\n(P)1960
+EXTT7=(Gene De Paul, Sammy Cahn]\n(P)1960
+EXTT8=(Gabriele Glaser-Solomon)
+EXTT9=(Richard Rodgers, Oscar Hammerstein II]\n(P)1961
+EXTT10=(Faith, Kehner]\n(P)1962
+EXTT11=(Jerome Kern, Oscar Hammerstein II]\n(P)1962
+EXTT12=(Barclay, Marnay, Legrand]\n(P)1962
+EXTT13=(John Green, Edward Heyman]\n(P)1962
+EXTT14=(Parish, Ellington, Mills]\n(P)1961
+EXTT15=(Jack Strachey, Eric Marschwitz]\n(P)1963
+EXTT16=(Vincent Youmans, Edward Eliscu, Billy Rose]\n(P)1962
+EXTT17=(Thelonious Monk, Cootie Williams, Bernard Hanighen]\n(P)1965
+EXTT18=Playback Software
+PLAYORDER=

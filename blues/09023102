@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     24175
+# 
+# Disc length: 563 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=09023102
+DTITLE=Celso Blues Boy and B.B. King - Mississipi
+DYEAR=1900
+DGENRE=
+TTITLE0=Mississipi (Album Version)
+TTITLE1=Mississipi (Radio Version)
+EXTD=Great single! :) Won in a trivia contest, BTW.
+EXTT0=About Robert Johnson
+EXTT1=About Robert Johnson
+PLAYORDER=

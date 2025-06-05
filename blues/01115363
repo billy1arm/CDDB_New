@@ -1,0 +1,313 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31151
+#	35685
+#	64098
+#	74298
+#	78671
+#	81667
+#	84698
+#	87704
+#	90706
+#	94876
+#	99108
+#	101332
+#	103554
+#	105755
+#	107977
+#	110190
+#	115130
+#	116751
+#	122322
+#	124538
+#	126631
+#	128301
+#	129943
+#	132735
+#	134769
+#	136204
+#	137729
+#	143094
+#	147019
+#	149896
+#	153012
+#	160230
+#	162405
+#	164328
+#	167085
+#	169926
+#	173016
+#	174741
+#	191220
+#	192686
+#	193841
+#	194949
+#	196060
+#	197195
+#	198355
+#	199504
+#	200645
+#	201886
+#	202995
+#	204167
+#	205314
+#	206447
+#	207564
+#	208881
+#	209990
+#	211154
+#	212305
+#	213507
+#	214716
+#	219201
+#	221619
+#	223338
+#	224481
+#	225393
+#	226279
+#	227130
+#	228104
+#	229110
+#	230061
+#	230926
+#	231751
+#	232659
+#	233667
+#	234657
+#	235670
+#	236652
+#	237513
+#	238487
+#	239495
+#	241527
+#	243544
+#	244714
+#	245902
+#	247668
+#	249342
+#	257593
+#	264122
+#	269561
+#	274015
+#	278195
+#	286256
+#	291017
+#	295592
+#	299975
+#	303771
+#	308689
+#	312618
+#	318394
+#
+# Disc length: 4437 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta5
+#
+DISCID=01115363
+DTITLE=Benevides Chiréia Júnior - Método Harmonica Blues 
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Apresentação
+TTITLE1=Manejo
+TTITLE2=Embocadura
+TTITLE3=Exercícios Preliminares
+TTITLE4=Exercício nº 01
+TTITLE5=Exercício nº 02
+TTITLE6=Exercício nº 03
+TTITLE7=Exercício nº 04
+TTITLE8=Exercício nº 05
+TTITLE9=Exercício nº 06
+TTITLE10=Exercício nº 07
+TTITLE11=Exercício nº 08
+TTITLE12=Exercício nº 09
+TTITLE13=Exercício nº 10
+TTITLE14=Exercício nº 11
+TTITLE15=Exercício nº 12
+TTITLE16=Prisioner's Lament (Ex.13)
+TTITLE17=Skip To My Lou (Ex. 14)
+TTITLE18=Oh Susanah (Ex. 15)
+TTITLE19=Exercício nº 16 (Primeira Posição)
+TTITLE20=Exercício nº 17
+TTITLE21=Exercício nº 18
+TTITLE22=Exercício nº 19
+TTITLE23=Exercício nº 20
+TTITLE24=Exercício nº 21
+TTITLE25=Exercício nº 22
+TTITLE26=Exercício nº 23
+TTITLE27=Exercício nº 24
+TTITLE28=Camptown Races (Ex.25)
+TTITLE29=Sweet Betsy From Pike (Ex.26)
+TTITLE30=Oh Shenandoah (Ex.27)
+TTITLE31=Soldiers Joy (Ex.28)
+TTITLE32=Banks Of Ohio (Ex.29)
+TTITLE33=Little Liza Jane (Ex.30)
+TTITLE34=Street's Of Laredo (Ex.31)
+TTITLE35=Street's Of Laredo (Ex.32)
+TTITLE36=When The Saint's Go Marching In (Ex.33)
+TTITLE37=Wabash Cannonbal (Ex.34)
+TTITLE38=Efeitos De Sonorização
+TTITLE39=Exercício nº 35 (Alteração De 1 Semitom)
+TTITLE40=Exercício nº 36
+TTITLE41=Exercício nº 37
+TTITLE42=Exercício nº 38
+TTITLE43=Exercício nº 39
+TTITLE44=Exercício nº 40
+TTITLE45=Exercício nº 41
+TTITLE46=Exercício nº 42
+TTITLE47=Exercício nº 43 (Alteração De 2 Semitons)
+TTITLE48=Exercício nº 44
+TTITLE49=Exercício nº 45
+TTITLE50=Exercício nº 46
+TTITLE51=Exercício nº 47
+TTITLE52=Exercício nº 48
+TTITLE53=Exercício nº 49 (Alteração De 3 Semitons)
+TTITLE54=Exercício nº 50
+TTITLE55=Exercício nº 51
+TTITLE56=Exercício nº 52
+TTITLE57=Exercício nº 53
+TTITLE58=Exercício nº 54
+TTITLE59=Oh Susanah (Ex.55)
+TTITLE60=When The Saint's Go Marching In (Ex.56)
+TTITLE61=Little Liza Jane (Ex.57)
+TTITLE62=Exercício nº 58 (Técnicos - Bend)
+TTITLE63=Exercício nº 59
+TTITLE64=Exercício nº 60
+TTITLE65=Exercício nº 61
+TTITLE66=Exercício nº 62
+TTITLE67=Exercício nº 63
+TTITLE68=Exercício nº 64
+TTITLE69=Exercício nº 65
+TTITLE70=Exercício nº 66
+TTITLE71=Exercício nº 67
+TTITLE72=Exercício nº 68
+TTITLE73=Exercício nº 69
+TTITLE74=Exercício nº 70
+TTITLE75=Exercício nº 71
+TTITLE76=Exercício nº 72
+TTITLE77=Exercício nº 73
+TTITLE78=Exercício nº 74
+TTITLE79=Exercício nº 75 (Progressão 01)
+TTITLE80=Exercício nº 76 (Progressão 02)
+TTITLE81=Exercício nº 77
+TTITLE82=Exercício nº 78
+TTITLE83=Exercício nº 79
+TTITLE84=Exercício nº 80
+TTITLE85=Riff's (01 até 10)
+TTITLE86=Riff's (11 até 20)
+TTITLE87=Blues nº 01
+TTITLE88=Blues nº 02
+TTITLE89=Blues nº 03
+TTITLE90=Blues nº 04
+TTITLE91=Blues nº 05
+TTITLE92=Blues nº 06
+TTITLE93=Blues nº 07
+TTITLE94=Blues nº 08
+TTITLE95=Blues nº 09
+TTITLE96=Blues nº 10
+TTITLE97=Conclusão
+TTITLE98=Blues De Improviso
+EXTD=YEAR: 2001 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=
