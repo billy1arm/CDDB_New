@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13977
+#	29000
+#	42030
+#	54372
+#	68857
+#	82365
+#	97105
+#	110692
+#	123740
+#	137522
+#	149795
+#	162837
+#	179470
+#	193227
+#
+# Disc length: 2758 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.94
+#
+DISCID=eb0ac40f
+DTITLE=Various Artists   - Chicago Style =Cool Playing Blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Little Papa Joe    - Moaning Blues (Groan My Blues Away)    
+TTITLE1=Little Papa Joe    - What A Fool I've Been (I Feel So All Alone)    
+TTITLE2=Little Papa Joe    - Easy Lovin'    
+TTITLE3=Little Papa Joe    - Looking For My Baby    
+TTITLE4=L.C. McKinley   - Rosalie Blues    
+TTITLE5=L.C. McKinley   - All Alone Blues    
+TTITLE6=Curtis Jones   - Wrong Blues    
+TTITLE7=Curtis Jones   - Cool Playing Blues    
+TTITLE8=St. Louis Jimmy   - Murder In The First Degree    
+TTITLE9=St. Louis Jimmy   - Going Down Slow    
+TTITLE10=Jo Jo Adams   - Call My Baby    
+TTITLE11=Jo Jo Adams   - Rebecca    
+TTITLE12=Nature Boy Brown   - I'm Wise    
+TTITLE13=Nature Boy Brown   - Lookout    
+TTITLE14=Nature Boy Brown   - Blue Blues Boogie    
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18019
+#	35878
+#	60498
+#	85105
+#	103355
+#	121598
+#	137055
+#	152508
+#	169872
+#	187088
+#	215553
+#	244079
+#	265835
+#	287586
+#	313584
+#	339576
+#
+# Disc length: 4546 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ef11c011
+DTITLE=Hal Leonard - Gerry Mulligan Favorites Play Along Vol42
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Bark for Barksdale Split Track
+TTITLE1=Bark for Barksdale Full Track
+TTITLE2=Dragonfly Split Track
+TTITLE3=Dragonfly Full Track
+TTITLE4=Elevation Split Track
+TTITLE5=Elevation Full Track
+TTITLE6=Idol Gossip Split Track
+TTITLE7=Idol Gossip Full Track
+TTITLE8=Jeru Split Track
+TTITLE9=Jeru Full Track
+TTITLE10=The Lonely Night aka Night Lights Split Track
+TTITLE11=The Lonely Night aka Night Lights Full Track
+TTITLE12=Rock Salt aka Rocker Split Track
+TTITLE13=Rock Salt aka Rocker Full Track
+TTITLE14=Theme for Jobim Split Track
+TTITLE15=Theme for Jobim Full Track
+TTITLE16=Bb Tuning Notes
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

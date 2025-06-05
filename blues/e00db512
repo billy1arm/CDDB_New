@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	1088
+#	13195
+#	29428
+#	46133
+#	57725
+#	70323
+#	92390
+#	123498
+#	136758
+#	151543
+#	162853
+#	172568
+#	185413
+#	197290
+#	221278
+#	236763
+#	246733
+#
+# Disc length: 3511 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=e00db512
+DTITLE=Kaiser Mansfield - Slow Burn
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Seen and Unseen
+TTITLE1=Cover Me
+TTITLE2=You're Gonna Need Somebody on Your Bond
+TTITLE3=Threw It Away
+TTITLE4=Witness Cloud
+TTITLE5=God Dont Lie
+TTITLE6=Jesus on the Mainline
+TTITLE7=Slow Burn
+TTITLE8=Blind Willie Glickman
+TTITLE9=On My Dyin' Bed
+TTITLE10=Great White Throne
+TTITLE11=Wonderful God
+TTITLE12=This Little Light
+TTITLE13=PS 99
+TTITLE14=Been down that Road
+TTITLE15=Slidin
+TTITLE16=Blessed Be
+TTITLE17=Long Way from My Home
+EXTD=YEAR: 1993 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

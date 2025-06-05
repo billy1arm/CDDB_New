@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21275
+#	42967
+#	60842
+#	78788
+#	98665
+#	118128
+#	138983
+#	159113
+#	178408
+#	198103
+#	219443
+#	237585
+#	261220
+#	283810
+#	298978
+#
+# Disc length: 4240 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=e5108e10
+DTITLE=北島三郎・鳥羽一郎 - 北島三郎・鳥羽一郎特選集?
+DYEAR=1900
+DGENRE=JPop
+TTITLE0=01-花の兄弟
+TTITLE1=02-北の男船
+TTITLE2=03-北の鴎唄
+TTITLE3=04-漁歌
+TTITLE4=05-昭和北前船
+TTITLE5=06-度胸船
+TTITLE6=07-海の祈り
+TTITLE7=08-東京しぐれ
+TTITLE8=09-演歌兄弟
+TTITLE9=10-男の港
+TTITLE10=11-北の漁場
+TTITLE11=12-北斗船
+TTITLE12=13-やん衆酒場
+TTITLE13=14-泉洲春木港
+TTITLE14=15-黒潮漁歌　かつお船
+TTITLE15=16-兄貴のふるさと
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

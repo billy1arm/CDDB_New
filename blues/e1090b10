@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10488
+#	23243
+#	35878
+#	46053
+#	55745
+#	67210
+#	76778
+#	88678
+#	101633
+#	111405
+#	123745
+#	132608
+#	143583
+#	154398
+#	162005
+#
+# Disc length: 2317 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=e1090b10
+DTITLE=Carl Perkins - Original Sun Greatest Hits
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Blue Suede Shoes
+TTITLE1=Honey Don't
+TTITLE2=Boppin' The Blues
+TTITLE3=Everybody's Trying To Be My Baby
+TTITLE4=Movie Magg
+TTITLE5=Sure To Fall
+TTITLE6=All Mama's Children
+TTITLE7=Perkin's Wiggle
+TTITLE8=Put Your Cat Clothes On
+TTITLE9=Matchbox
+TTITLE10=Your True Love
+TTITLE11=Lend Me Your Comb
+TTITLE12=Dixie Fried
+TTITLE13=You Can Do No Wrong
+TTITLE14=Glad All Over
+TTITLE15=Gone,Gone,Gone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

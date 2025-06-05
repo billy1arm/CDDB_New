@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9547
+#	24549
+#	41651
+#	59353
+#	74235
+#	82174
+#	94424
+#	111071
+#	123338
+#	135265
+#	155474
+#	172844
+#	215033
+#	236860
+#	256287
+#
+# Disc length: 3675 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=e40e5910
+DTITLE=Los Angeles Guitar Quartet - L.A.G.Q.
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Africa Suite: Mbira
+TTITLE1=Africa Suite: Djembe
+TTITLE2=A Furiosa (Maxixe)
+TTITLE3=Gongan
+TTITLE4=Mysterious Habitats
+TTITLE5=Klezmer Dances - I. Introduction
+TTITLE6=Klezmer Dances - II. Terkish (Der Yid In Yerushalayim)
+TTITLE7=Klezmer Dances - III. Freilachs (Medley)
+TTITLE8=Dredlocked
+TTITLE9=Fiesta - I. La Fiesta de la Tirana
+TTITLE10=Fiesta - II. Tarantella
+TTITLE11=Kojo-No-Tsuki
+TTITLE12=Passage
+TTITLE13=Muir Woods
+TTITLE14=Spain
+TTITLE15=Farewell to Stromness
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

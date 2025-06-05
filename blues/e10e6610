@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14849
+#	32965
+#	44717
+#	64419
+#	77704
+#	96993
+#	109871
+#	138453
+#	153152
+#	171268
+#	183020
+#	202722
+#	216007
+#	235296
+#	248174
+#
+# Disc length: 3688 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.09
+#
+DISCID=e10e6610
+DTITLE=Paul Honey - Play Piano with ... Ray Charles
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Drown In My Own Tears
+TTITLE1=Georgia On My Mind
+TTITLE2=Hallelujah I Love Her So
+TTITLE3=I Can't Stop Loving You
+TTITLE4=Shake A Tail Feather
+TTITLE5=A Song For You
+TTITLE6=Unchain My Heart
+TTITLE7=What'd I Say (Part 1 and 2)
+TTITLE8=Drown In My Own Tears
+TTITLE9=Georgia On My Mind
+TTITLE10=Hallelujah I Love Her So
+TTITLE11=I Can't Stop Loving You
+TTITLE12=Shake A Tail Feather
+TTITLE13=A Song For You
+TTITLE14=Unchain My Heart
+TTITLE15=What'd I Say (Part 1 and 2)
+EXTD=Piano play-along.\nCompiled: Nick Crispin\nArranged: Paul Honey\nPiano: Paul Honey\n YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

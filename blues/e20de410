@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18919
+#	40190
+#	56561
+#	71017
+#	89158
+#	105917
+#	118403
+#	139959
+#	154910
+#	163345
+#	182144
+#	196580
+#	215492
+#	235139
+#	243135
+#
+# Disc length: 3558 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta1
+#
+DISCID=e20de410
+DTITLE=De-Phazz - Godsdog
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Track 01:The Mambo Craze
+TTITLE1=Track 02: Cafe Coco
+TTITLE2=Track 03: Jazz Music
+TTITLE3=Track 04: Steps Ahead
+TTITLE4=Track 05: Zero Zero
+TTITLE5=Track 06: Happiness
+TTITLE6=Track 07: Sqeeze The Trigger
+TTITLE7=Track 08: April Shower
+TTITLE8=Track 09: Godsdog
+TTITLE9=Track 10: Low Budget Hotel
+TTITLE10=Track 11: Time Slips
+TTITLE11=Track 12: Havana Moon
+TTITLE12=Track 13: Information
+TTITLE13=Track 14: Next Message
+TTITLE14=Track 15: Radio Sol
+TTITLE15=Track 16: Anchorless
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

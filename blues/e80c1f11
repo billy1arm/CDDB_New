@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	13795
+#	24552
+#	36270
+#	53455
+#	65787
+#	78025
+#	93755
+#	108307
+#	120022
+#	133925
+#	148357
+#	162340
+#	179432
+#	192430
+#	206552
+#	220570
+#
+# Disc length: 3105 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=e80c1f11
+DTITLE=Sonny Stitt - Sonny Stitt/Bud Powell/J.J. Johnson
+DYEAR=1949
+DGENRE=Jazz
+TTITLE0=All God's Chillun Got Rhythm
+TTITLE1=Sonny Side
+TTITLE2=Bud's Blues
+TTITLE3=Sunset
+TTITLE4=Fine And Dandy (take1)
+TTITLE5=Fine And Dandy (take2)
+TTITLE6=Strike Up The Band
+TTITLE7=I Want To Be Happy
+TTITLE8=Taking A Chance On Love
+TTITLE9=Afternoon In Paris (take2)
+TTITLE10=Elora (take2)
+TTITLE11=Teapot (take2)
+TTITLE12=Blue Mode (take1)
+TTITLE13=Blue Mode (take2)
+TTITLE14=Afternoon In Paris (take1)
+TTITLE15=Elora (take1)
+TTITLE16=Teapot (take1)
+EXTD=YEAR: 1949/1950
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

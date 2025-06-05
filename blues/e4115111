@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23200
+#	42325
+#	64150
+#	84975
+#	99975
+#	116950
+#	133825
+#	151475
+#	172525
+#	192912
+#	211337
+#	229550
+#	249287
+#	271475
+#	292712
+#	314675
+#
+# Disc length: 4435 seconds
+#
+# Revision: 27
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.82
+#
+DISCID=e4115111
+DTITLE=Various Artist - Kuschel Rock 4 - CD1
+DYEAR=1990
+DGENRE=Pop
+TTITLE0=Sinead O'Connor - Nothing Compares 2 U
+TTITLE1=Michael Bolton - How Am I Supposed To Live Without You
+TTITLE2=Roxette - Listen To Your Heart
+TTITLE3=Living In A Box - Room In Your Heart
+TTITLE4=Reo Speedwagon - Keep On Loving You
+TTITLE5=Them - It's All Over Now, Baby Blue
+TTITLE6=Stan Bush - Forever
+TTITLE7=Art Garfunkel - Bright Eyes
+TTITLE8=Gloria Estefan - Here We Are
+TTITLE9=Robin Beck - Tears In The Rain
+TTITLE10=Depeche Mode - Somebody
+TTITLE11=Cutting Crew - (I Just) Died In Your Arms
+TTITLE12=Richard Marx - Right Here Waiting
+TTITLE13=Genesis - In Too Deep
+TTITLE14=Starship - Sara
+TTITLE15=Toto - I Won't Hold You Back
+TTITLE16=Gary Moore - Still Got The Blues (For You)
+EXTD=YEAR: 1990
+EXTT0=[Sinead O'Connor]
+EXTT1=[Michael Bolton]
+EXTT2=[Roxette]
+EXTT3=[Living In A Box]
+EXTT4=[REO Speedwagon]
+EXTT5=[Them]
+EXTT6=[Stan Bush]
+EXTT7=[Art Garfunkel]
+EXTT8=[Gloria Estefan]
+EXTT9=[Robin Beck]
+EXTT10=[Depeche Mode]
+EXTT11=[Cutting Crew]
+EXTT12=[Richard Marx]
+EXTT13=[Genesis]
+EXTT14=[Starship]
+EXTT15=[Toto]
+EXTT16=[Gary Moore]
+PLAYORDER=

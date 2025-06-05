@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	14683
+#	45133
+#	63045
+#	91870
+#	106983
+#	126733
+#	155570
+#	175908
+#	200020
+#	222895
+#	241458
+#	258408
+#	283958
+#	303108
+#	329118
+#
+# Disc length: 4682 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=eb124810
+DTITLE=Sweet d'Buster - Magic Moments
+DYEAR=1900
+DGENRE=
+TTITLE0=One way or Another
+TTITLE1=Tip of my Tongue
+TTITLE2=You're gonna be a Winner
+TTITLE3=Minutes (have come to a chain)
+TTITLE4=Bread
+TTITLE5=Ready for Love
+TTITLE6=Magic Moment
+TTITLE7=Going Nowhere
+TTITLE8=Angel
+TTITLE9=Hard Stone Jungle
+TTITLE10=Still Believe
+TTITLE11=Money Song
+TTITLE12=Stir up the Fire
+TTITLE13=Smash the Mirror
+TTITLE14=I've gotta know
+TTITLE15=It Takes a lot of Time (to let all people know)
+EXTD=(R)1992 Ariola Benelux
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  10758
+#  26670
+#  36395
+#  51370
+#  65368
+#  84075
+#  100225
+#  117565
+#  131485
+#  144068
+#  152593
+#  170945
+#  183753
+#  198473
+#  210583
+#  220743
+#
+# Disc length: 3115 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=e80c2911
+DTITLE=Various Artist - Joy To The World
+DYEAR=1900
+DGENRE=
+TTITLE0=Joy To The World
+TTITLE1=O Holy Night
+TTITLE2=Good Christian Men Rejoice
+TTITLE3=O Little Town of Belthlehem
+TTITLE4=Messiah and the Glory of the Lord
+TTITLE5=What Child Is This
+TTITLE6=Adeste Fideles
+TTITLE7=Concerto For Two 
+TTITLE8=Hark The Herald Angels Sing
+TTITLE9=God Rest Ye Merry Gentlement
+TTITLE10=O Tannenbaum
+TTITLE11=Messiah For Unto Us A Child Is Born
+TTITLE12=The First Noel
+TTITLE13=Some Children
+TTITLE14=I'll Be Home For Christmas
+TTITLE15=Concerto for Two
+TTITLE16=Silent Night
+EXTD=Mostly lame choral renditions of tired holiday tunes
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

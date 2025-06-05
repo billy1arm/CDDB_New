@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9830
+#	24745
+#	26389
+#	36499
+#	37906
+#	54781
+#	68437
+#	83951
+#	99740
+#	113645
+#	137163
+#	154835
+#	166866
+#	183172
+#	200897
+#	203580
+#	221195
+#
+# Disc length: 3297 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 7
+#
+DISCID=e90cdf12
+DTITLE=Nieznany wykonawca - Nieznany album
+DYEAR=1900
+DGENRE=Nieznany gatunek
+TTITLE0=Utwór 1
+TTITLE1=Utwór 2
+TTITLE2=Utwór 3
+TTITLE3=Utwór 4
+TTITLE4=Utwór 5
+TTITLE5=Utwór 6
+TTITLE6=Utwór 7
+TTITLE7=Utwór 8
+TTITLE8=Utwór 9
+TTITLE9=Utwór 10
+TTITLE10=Utwór 11
+TTITLE11=Utwór 12
+TTITLE12=Utwór 13
+TTITLE13=Utwór 14
+TTITLE14=Utwór 15
+TTITLE15=Utwór 16
+TTITLE16=Utwór 17
+TTITLE17=Utwór 18
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

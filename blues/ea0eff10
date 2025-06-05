@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18255
+#     31877
+#     47237
+#     69720
+#     90002
+#     105230
+#     119002
+#     136497
+#     158970
+#     175605
+#     194942
+#     208525
+#     223452
+#     239750
+#     257577
+# 
+# Disc length: 3841 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=ea0eff10
+DTITLE=Naomi Tamura - Tamura's Motown Live
+DYEAR=1900
+DGENRE=
+TTITLE0=Shotgun
+TTITLE1=I Can't Help Myself
+TTITLE2=Ain't Too Proud to Beg
+TTITLE3=What's Going On
+TTITLE4=I'll Be There
+TTITLE5=Signed, Sealed, Delivered I'm Yours
+TTITLE6=You Can't Hurry Love
+TTITLE7=Love Machine
+TTITLE8=Square Biz
+TTITLE9=I Just Want To Celebrate
+TTITLE10=Superstition
+TTITLE11=Sir Duke
+TTITLE12=Upside Down
+TTITLE13=Dancing Machine
+TTITLE14=The Love You Save
+TTITLE15=Sail On
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

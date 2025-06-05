@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14375
+#	28496
+#	40289
+#	58264
+#	72691
+#	88704
+#	97134
+#	110998
+#	123723
+#	141625
+#	158548
+#	174235
+#	190208
+#	203724
+#
+# Disc length: 2930 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=eb0b700f
+DTITLE=Various Artist - STTW-1266
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Mary Wells - My Guy
+TTITLE1=Marianne Faithfull - As Tears Go By
+TTITLE2=Sam The Sham And The Pharaohs - Wooly Bully
+TTITLE3=Chris Farlowe - Out Of Time
+TTITLE4=Supremes The - You Can't Hurry Love
+TTITLE5=Four Tops The - Reach Out I'll Be There
+TTITLE6=Shirley Bassey - Big Spender
+TTITLE7=Andy Williams - Music To Watch The Girls By
+TTITLE8=Dusty Springfield - Son Of A Preacher Man
+TTITLE9=Aretha Franklin - I Say A Little Prayer
+TTITLE10=Mama Cass - Dream A Little Dream Of Me
+TTITLE11=Bob Seger - Old Time Rock N' Roll
+TTITLE12=Marvin Gaye - I Heard It Through The Grapevine
+TTITLE13=Dean Martin - Gentle On My Mind
+TTITLE14=Smokey Robinson And The Miracles - Tracks Of My Tears
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

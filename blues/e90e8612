@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15369
+#	31520
+#	43685
+#	56969
+#	70664
+#	85869
+#	112329
+#	124412
+#	137337
+#	151615
+#	166151
+#	179785
+#	191301
+#	213030
+#	227429
+#	250166
+#	267474
+#
+# Disc length: 3720 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=e90e8612
+DTITLE=Various Artist - Blues Masters Volume 8 - Mississippi Delta Blues
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Tommy Johnson - Big Road Blues
+TTITLE1=Tommy Johnson - Cool Drink Of Water Blues
+TTITLE2=Charley Patton - Rattlesnake Blues
+TTITLE3=Willie Brown - Future Blues
+TTITLE4=Louis Johnson - On The Wall
+TTITLE5=Rube Lacy - Mississippi Jail House Groan
+TTITLE6=Son House - Preachin' The Blues Pts. 1&2
+TTITLE7=Robert Johnson - Cross Road Blues
+TTITLE8=Robert Petway - Catfish Blues
+TTITLE9=Muddy Waers - I Feel Like Going Home
+TTITLE10=Floyd Jones - Dark Road
+TTITLE11=Sonny Boy Williamson - Eyesight To The Blind
+TTITLE12=Howlin' Wolf - Sitting On Top Of The World
+TTITLE13=Robert Nighthawk - Goin' Down To Eli's
+TTITLE14=Elmore James - I Believe
+TTITLE15=Elmore James - Something Inside Me
+TTITLE16=B.B. King - Sweet Little Angel
+TTITLE17=Albert King - Crosscut Saw
+EXTD=YEAR: 1993
+EXTT0=Tommy Johnson
+EXTT1=Tommy Johnson
+EXTT2=Charlie Patton
+EXTT3=Willie Brown
+EXTT4=Louise Johnson
+EXTT5=Rube Lacy
+EXTT6=Son House
+EXTT7=Robert Johnson
+EXTT8=Robert Petway
+EXTT9=Muddy Waters
+EXTT10=Floyd Jones
+EXTT11=Sonny Boy Williamson
+EXTT12=Howlin' Wolf
+EXTT13=Robert Nighthawk
+EXTT14=Elmore James
+EXTT15=Elmore James
+EXTT16=B.B. King
+EXTT17=Albert King
+PLAYORDER=

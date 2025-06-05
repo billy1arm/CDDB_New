@@ -1,0 +1,66 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12787
+#	27300
+#	42464
+#	55737
+#	70462
+#	84889
+#	99566
+#	112089
+#	126414
+#	140888
+#	153391
+#	166564
+#	179677
+#	192858
+#	208297
+#
+# Disc length: 2969 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=e60b9710
+DTITLE=Various Artist - Full Spectrum Blues, Disk Three, Classic Blues
+DTITLE=and Vaudeville
+DYEAR=1900
+DGENRE=
+TTITLE0=Bo-Weavil Blues
+TTITLE1=The St. Louis Blues
+TTITLE2=Crazy Blues
+TTITLE3=Texas Moaner Blues
+TTITLE4=Coffin Blues
+TTITLE5=Elevator Papa, Switchboard Mama
+TTITLE6=Barrel House Blues
+TTITLE7=Pratt City Blues
+TTITLE8=Sobbin' Sister Blues
+TTITLE9=Mississippi Blues
+TTITLE10=Death Sting Me Blues
+TTITLE11=Come On Coot, Do That Thing
+TTITLE12=Laughin Cryin' Blues
+TTITLE13=I'm A Mighty Tight Woman
+TTITLE14=I Hate A Man Like You
+TTITLE15=T.B. Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

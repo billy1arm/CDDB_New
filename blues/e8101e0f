@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	49958
+#	63370
+#	81333
+#	93683
+#	110533
+#	121495
+#	146845
+#	164758
+#	195608
+#	220145
+#	241883
+#	258358
+#	282020
+#	303745
+#
+# Disc length: 4128 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=e8101e0f
+DTITLE=Various Artist - The Watt Works Family Album (sampler)
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Carla Bley - Fleur Carnivore
+TTITLE1=Karen Mantler - Best Of Friends
+TTITLE2=Carla Bley - Walking Batteriewoman
+TTITLE3=Michael Mantler - A L'Abattoir
+TTITLE4=Steve Swallow - Crab Alley
+TTITLE5=Michael Mantler - When I Run
+TTITLE6=Steve Weisberg - I Can't Stand Another Night Alone (In Bed With You)
+TTITLE7=Michael Mantler - Alien (Part 2)
+TTITLE8=Carla Bley - Talking Hearts
+TTITLE9=Michael Mantler - Twenty
+TTITLE10=Carla Bley - I Hate To Sing
+TTITLE11=Michael Mantler - Movie Six
+TTITLE12=Carla Bley - Ad Infinitum
+TTITLE13=Michael Mantler - The Doubtful Guest
+TTITLE14=Carla Bley - Funnybird Song
+EXTD=1989 WATT/ECM/Polygram  WATT/22  841 478-2\ncompilation\n YEAR: 1989
+EXTT0=Carla Bley\nfrom "Fleur Carnivore"  WATT/21\n
+EXTT1=Karen Mantler\nfrom "My Cat Arnold"  XtraWATT/3\n
+EXTT2=Carla Bley and Steve Swallow\nfrom "Duets"  WATT/20\n
+EXTT3=Michael Mantler\nfrom "Many Have No Speech"  WATT/19\n
+EXTT4=Steve Swallow\nfrom "Carla"  XtraWATT/2\n
+EXTT5=Michael Mantler\nfrom "Michael Mantler Live"  WATT/18\n
+EXTT6=Steve Weisberg\nfrom "I Can't Stand Another Night Alone (In Bed\n With You)"  XtraWATT/1\n\n
+EXTT7=Michael Mantler\nfrom "Alien"  WATT/15\n
+EXTT8=Carla Bley\nfrom "Heavy Heart"  WATT/14\n
+EXTT9=Michael Mantler\nfrom "Something There"  WATT/13\n
+EXTT10=The Carla Bley Band\nfrom "I Hate To Sing"  WATT/12½\n
+EXTT11=Michael Mantler\nfrom "Movies"  WATT/7\n
+EXTT12=Carla Bley\nfrom "Dinner Music"  WATT/6\n
+EXTT13=Michael Mantler\nfrom "The Hapless Child and other inscrutable\nstories"  WATT/4\n
+EXTT14=Carla Bley\nfrom "Tropic Appetites"  WATT/1\n
+PLAYORDER=

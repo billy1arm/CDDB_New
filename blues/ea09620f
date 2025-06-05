@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  14795
+#  28997
+#  44435
+#  56562
+#  67350
+#  78250
+#  89337
+#  101650
+#  110695
+#  123625
+#  137517
+#  146940
+#  155825
+#  169325
+#
+# Disc length: 2404 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=ea09620f
+DTITLE=Mance Lipscomb - Texas Blues Guitar
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Ain't It Hard
+TTITLE1=Big Boss Man
+TTITLE2='Bout A Spoonful
+TTITLE3=Freddie
+TTITLE4=Knockin' Down Windows
+TTITLE5=Mama Don't Allow
+TTITLE6=Mama, Let Me Lay It On You
+TTITLE7=Motherless Children
+TTITLE8=Rag In G
+TTITLE9=Shake, Shake Mama
+TTITLE10=So Different Blues
+TTITLE11=Sugar Babe
+TTITLE12=Take Me Back
+TTITLE13=Willie Poor Boy
+TTITLE14=You Got To Reap What You Sow
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28670
+#	42465
+#	60399
+#	78244
+#	107063
+#	131290
+#	159681
+#	183147
+#	202679
+#	224217
+#	248806
+#	268438
+#	293912
+#	323405
+#	335950
+#
+# Disc length: 4677 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ed124310
+DTITLE=Perry Rhodan - Silber Edition 12-Der Anti-CD 04
+DYEAR=2007
+DGENRE=Other
+TTITLE0=Kapitel 8-3
+TTITLE1=Kapitel 8-4
+TTITLE2=Kapitel 8-5
+TTITLE3=Kapitel 8-6
+TTITLE4=Kapitel 8-8
+TTITLE5=Kapitel 8-7
+TTITLE6=Kapitel 8-9
+TTITLE7=Kapitel 8-10
+TTITLE8=Kapitel 8-11
+TTITLE9=Kapitel 8-12
+TTITLE10=Kapitel 9-1
+TTITLE11=Kapitel 9-2
+TTITLE12=Kapitel 9-3
+TTITLE13=Kapitel 9-4
+TTITLE14=Kapitel 9-5
+TTITLE15=Kapitel 9-6
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14955
+#	25172
+#	35617
+#	44517
+#	63727
+#	86165
+#	100812
+#	118947
+#	160800
+#	187527
+#	244252
+#	255232
+#	260852
+#	276877
+#	285302
+#
+# Disc length: 4390 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=e6112410
+DTITLE=James Brown - James Brown Live
+DYEAR=1900
+DGENRE=
+TTITLE0=I Got You (I Feel Good)
+TTITLE1=Papas Got A Brand New Bag
+TTITLE2=Get Up Offa That Thing
+TTITLE3=I Can't Stand Myself
+TTITLE4=Give It Up Or Turn It Loose
+TTITLE5=It's Too Funky In There
+TTITLE6=Get On The Good Foot
+TTITLE7=We're Gonna Have A Funky Good Time
+TTITLE8=Prisoner Of Love
+TTITLE9=Georgia On My Mind
+TTITLE10=It's A Man's Man's World
+TTITLE11=Disco Rap
+TTITLE12=Cold Sweat
+TTITLE13=I Got The Feelin'
+TTITLE14=Try Me
+TTITLE15=Super Bad
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

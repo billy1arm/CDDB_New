@@ -1,0 +1,271 @@
+# xmcd
+#
+# Track frame offsets: 
+#        150
+#        8024
+#        15910
+#        21128
+#        23362
+#        26457
+#        28649
+#        30824
+#        32992
+#        35230
+#        37419
+#        39636
+#        41807
+#        44002
+#        46187
+#        48363
+#        50545
+#        52697
+#        54890
+#        57104
+#        59318
+#        61510
+#        63702
+#        65855
+#        68091
+#        70269
+#        72526
+#        74784
+#        76720
+#        78633
+#        80551
+#        82549
+#        84505
+#        86579
+#        88632
+#        99929
+#        106181
+#        121719
+#        124240
+#        128950
+#        133496
+#        138800
+#        145493
+#        148032
+#        153381
+#        155300
+#        161995
+#        165535
+#        169014
+#        185290
+#        191823
+#        195196
+#        200459
+#        203507
+#        207951
+#        211014
+#        214083
+#        217175
+#        220254
+#        223374
+#        226505
+#        229597
+#        232689
+#        235777
+#        238869
+#        241961
+#        245033
+#        248166
+#        251257
+#        254366
+#        257479
+#        260552
+#        263663
+#        266816
+#        269895
+#        272992
+#        276146
+#        279298
+#        282368
+#        285442
+#        288595
+#        291674
+#        294970
+#        298084
+#        310058
+#
+# Disc length: 4267 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: ExactAudioCopy v0.99pb5
+#
+DISCID=ec10a955
+DTITLE=Wolfang Wiezyk - Die Blues and Boogie-Methode
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Boogie-Kette I_S.27
+TTITLE1=Boogie-Kette II_S.49
+TTITLE2=Boogie-Kette III_S.66
+TTITLE3=Boogie 1_S.9
+TTITLE4=Boogie 2_S.11
+TTITLE5=Boogie 3a_S.13
+TTITLE6=Boogie 3b_S.14
+TTITLE7=Boogie 4a_S.15
+TTITLE8=Boogie 4b_S.16
+TTITLE9=Boogie 5a_S.18
+TTITLE10=Boogie 5b_S.19
+TTITLE11=Boogie 6a_S.20
+TTITLE12=Boogie 6b_S.21
+TTITLE13=Boogie 7a_S.22
+TTITLE14=Boogie 7b_S.23
+TTITLE15=Boogie 8a_S.24
+TTITLE16=Boogie 8b_S.25
+TTITLE17=Boogie 9_S.26
+TTITLE18=Blues und Boogie 11a_S.37
+TTITLE19=Blues und Boogie 11b_S.38
+TTITLE20=Blues und Boogie 11c_S.39
+TTITLE21=Boogie 12a_S.42
+TTITLE22=Boogie 12b_S.43
+TTITLE23=Boogie 12c_S.44
+TTITLE24=Boogie 13a_S.45
+TTITLE25=Boogie 13b_S.46
+TTITLE26=Boogie 13c_S.48
+TTITLE27=Boogie 14a_S.57
+TTITLE28=Boogie 14b_S.59
+TTITLE29=Boogie 14c_S.61
+TTITLE30=Boogie 15a_S.62
+TTITLE31=Boogie 15b_S.64
+TTITLE32=Boogie 15c_S.66
+TTITLE33=Hobbie-Boogie_S.73
+TTITLE34=Schrille Nacht_S.75
+TTITLE35=Lady Be Good_S.78_slow
+TTITLE36=Let´s Work Together_S.28
+TTITLE37=Groovebeispiele_S.12
+TTITLE38=Begleitvarianten zweihändig_S.17
+TTITLE39=Neue Licks und Tricks_S.33
+TTITLE40=Variation der Basis-Licks_S.36
+TTITLE41=Lick-Variationen_S.47
+TTITLE42=Boogie-Kette II_S.49
+TTITLE43=Walking-Bass in G_S.54+56
+TTITLE44=Trillerübung_S.55
+TTITLE45=Die Sexten-Connection_S.58
+TTITLE46=Triller und Crushed Oktave_S.60
+TTITLE47=Cluster_S.63
+TTITLE48=Die Amen-Formel_S.65
+TTITLE49=Lick-Rolls_S.67
+TTITLE50=Intros_S.79
+TTITLE51=Endings_S.71+72
+TTITLE52=Boogie 1_S.9_slow
+TTITLE53=Boogie 2_S.11_slow
+TTITLE54=Boogie 3a_S.13_slow
+TTITLE55=Boogie 3b_S.14_slow
+TTITLE56=Boogie 4a_S.15_slow
+TTITLE57=Boogie 4b_S.16_slow
+TTITLE58=Boogie 5a_S.18_slow
+TTITLE59=Boogie 5b_S.19_slow
+TTITLE60=Boogie 6a_S.20_slow
+TTITLE61=Boogie 6b_S.21_slow
+TTITLE62=Boogie 7a_S.22_slow
+TTITLE63=Boogie 7b_S.23_slow
+TTITLE64=Boogie 8a_S.24_slow
+TTITLE65=Boogie 8b_S.25_slow
+TTITLE66=Boogie 9_S.26_slow
+TTITLE67=Blues und Boogie 11a_S.37_slow
+TTITLE68=Blues und Boogie 11b_S.38_slow
+TTITLE69=Blues und Boogie 11c_S.39_slow
+TTITLE70=Boogie 12a_S.42_slow
+TTITLE71=Boogie 12b_S.43_slow
+TTITLE72=Boogie 12c_S.44_slow
+TTITLE73=Boogie 13a_S.45_slow
+TTITLE74=Boogie 13b_S.46_slow
+TTITLE75=Boogie 13c_S.48_slow
+TTITLE76=Boogie 14a_S.57_slow
+TTITLE77=Boogie 14b_S.59_slow
+TTITLE78=Boogie 14c_S.61_slow
+TTITLE79=Boogie 15a_S.62_slow
+TTITLE80=Boogie 15b_S.64_slow
+TTITLE81=Boogie 15c_S.66_slow
+TTITLE82=Hobbie-Boogie_S.73_slow
+TTITLE83=Schrille Nacht_S.75_slow
+TTITLE84=Lady Be Good_S.78_slow
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+PLAYORDER=

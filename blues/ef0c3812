@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17237
+#	31087
+#	45935
+#	57799
+#	69386
+#	84326
+#	96921
+#	111630
+#	122984
+#	136048
+#	148103
+#	165132
+#	173560
+#	186176
+#	195060
+#	206207
+#	218802
+#
+# Disc length: 3130 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ef0c3812
+DTITLE=Various Artist - Verve Jazzclub - Bosa Nova Singers
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Elis Regina - So tinha de ser com voce
+TTITLE1=Luiz Henrique - Mas que nada
+TTITLE2=Sylvia Telles - Manha de carnaval
+TTITLE3=Jorge Ben - Oba, la, la
+TTITLE4=Nara Leao - Berimbau
+TTITLE5=Lucio Alves - O barquinho
+TTITLE6=Quarteto Em Cy and Tamba Trio - Agua de beber
+TTITLE7=Chico Feitosa - Fim de noite
+TTITLE8=Marcia - Samba da pergunta
+TTITLE9=Edu Lobo and Tamba Trio - Reza
+TTITLE10=Joyce - Bloco do eu sozinho
+TTITLE11=Joao Gilberto and Stan Getz - So danco samba
+TTITLE12=Astrud Gilberto - Bim bom
+TTITLE13=Luiz Bonfa - Samba de duas notas
+TTITLE14=Marcos and Anamaria Valle - The Face I Love
+TTITLE15=Dick Farney and Norma Bengell - Voce
+TTITLE16=Antonio Carlos Jobim - Lamento
+TTITLE17=Joao Donato - Lugar comum
+EXTD=YEAR: 2007
+EXTT0=So tinha de ser com voce
+EXTT1=Mas que nada
+EXTT2=Manha de carnaval
+EXTT3=Oba, la, la
+EXTT4=Berimbau
+EXTT5=O barquinho
+EXTT6=Agua de beber
+EXTT7=Fim de noite
+EXTT8=Samba da pergunta
+EXTT9=Reza
+EXTT10=Bloco do eu sozinho
+EXTT11=So danco samba
+EXTT12=Bim bom
+EXTT13=Samba de duas notas
+EXTT14=The Face I Love
+EXTT15=Voce
+EXTT16=Lamento
+EXTT17=Lugar comum
+PLAYORDER=

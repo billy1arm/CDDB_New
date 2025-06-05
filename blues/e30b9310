@@ -1,0 +1,66 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15443
+#	30085
+#	44033
+#	62878
+#	80813
+#	85063
+#	102695
+#	114678
+#	131845
+#	142988
+#	162605
+#	181525
+#	192058
+#	202470
+#	211675
+#
+# Disc length: 2965 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=e30b9310
+DTITLE=Various Artist - From Spirituals to Swing - Carnegie Hall Concerts 1
+DTITLE=938/1939
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=I Got Rhythm - Benny Goodman Sextet
+TTITLE1=Flying Home - Benny Goodman Sextet
+TTITLE2=Memories of You - Benny Goodman Sextet
+TTITLE3=Blues with Helen - Helen Humes - Count Basie - etc
+TTITLE4=Mortgage Stomp - Count Basie, etc
+TTITLE5=One O'clock Jump - Count Basie Band
+TTITLE6=Blues with Lips - Hot Lips Page, trumpet - Basie Band
+TTITLE7=That Rhythm Man - Basie Band
+TTITLE8=Good Morning Blues - Kansas City Six
+TTITLE9=Way Down Yonder in New Orleans - Kansas City Six
+TTITLE10=I Ain't Got Nobody - Basie - Jones - Page
+TTITLE11=Don't Be That Way - Basie - Young - Clayton - Page
+TTITLE12=Mule Walk Stomp - James P. Johnson, piano
+TTITLE13=Carolina Shout - James P. Johnson, piano
+TTITLE14=Weary Blues - New Orleans Feetwarmers
+TTITLE15=I Wish I Could Shimmy Like My Sister Kate - New Orleans Feetwarmers
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

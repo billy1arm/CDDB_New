@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20330
+#     39345
+#     57955
+#     73480
+#     96062
+#     113910
+#     132542
+#     156550
+#     175630
+#     192555
+#     208325
+#     227925
+#     247732
+#     263290
+#     280677
+# 
+# Disc length: 3943 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=e60f6510
+DTITLE=Varios artistas - Discos de platino Ripley 4
+DYEAR=1900
+DGENRE=
+TTITLE0=S lo dame otra oprtunidad
+TTITLE1=Fuego contra fuego
+TTITLE2=Te conozco
+TTITLE3=Si esto es amor
+TTITLE4=Se ora de las cuatro d cadas
+TTITLE5=Siempre estuve enamorado de ti
+TTITLE6=No te olvido
+TTITLE7=D jame llevarte hasta el cielo
+TTITLE8=Naci  de ti
+TTITLE9=Primera vez
+TTITLE10=Tus viejas cartas
+TTITLE11=Mi cara en la arena
+TTITLE12=Sabor, sabor
+TTITLE13=No me pidas m s
+TTITLE14=De ley
+TTITLE15=Tr tame suavemente
+EXTD=
+EXTT0=Los Enanitos Verdes\n
+EXTT1=Ricki Martin\n
+EXTT2=Ricardo Arjona\n
+EXTT3=Miguel Bos \n
+EXTT4=Ricardo Arjona\n
+EXTT5=Emanuel Ortega\n
+EXTT6=Ariztia\n
+EXTT7=Emanuel Ortega\n
+EXTT8=Ariztia\n
+EXTT9=Ricardo Arjona\n
+EXTT10=Los Enanitos Verdes\n
+EXTT11=David Lebon\n
+EXTT12=Rosario\n
+EXTT13=Ricki Martin\n
+EXTT14=Rosario\n
+EXTT15=Soda Stereo\n
+PLAYORDER=

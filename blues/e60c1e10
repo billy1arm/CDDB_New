@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11750
+#     25290
+#     38077
+#     50597
+#     67130
+#     82045
+#     105977
+#     117987
+#     131955
+#     144840
+#     160000
+#     176245
+#     192777
+#     207417
+#     220027
+# 
+# Disc length: 3104 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=e60c1e10
+DTITLE=Various Artist - Soul Collection Vol. 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Soul Man
+TTITLE1=My Girl
+TTITLE2=You Send Me
+TTITLE3=The In Crowd
+TTITLE4=This Love Is For Real
+TTITLE5=Take It To The Top
+TTITLE6=Could It Be Love
+TTITLE7=Slip Away
+TTITLE8=What Becomes Of The Broken Hearted?
+TTITLE9=Jimmy Mack
+TTITLE10=Hey There Lonely Girl
+TTITLE11=If You Don't Know Me By Now
+TTITLE12=Living For The City
+TTITLE13=I Get The Sweetest Feeling
+TTITLE14=Rescue Me
+TTITLE15=(Sittin' On The) Dock Of The Bay
+EXTD=
+EXTT0=Sam and Dave\n
+EXTT1=The Temptations\n
+EXTT2=The Drifters\n
+EXTT3=Dobie Gray\n
+EXTT4=The Manhattans\n
+EXTT5=De Barge\n
+EXTT6=Chuck Brown And The Soul Searchers\n
+EXTT7=Clarence Carter\n
+EXTT8=Jummy Ruffin\n
+EXTT9=Martha Reeves\n
+EXTT10=Eddie Holman\n
+EXTT11=Harold Melvin and The Blue Notes\n
+EXTT12=Ike and Tina Turner\n
+EXTT13=The Platters\n
+EXTT14=Fontella Bass\n
+EXTT15=The Drifters\n
+PLAYORDER=

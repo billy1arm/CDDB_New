@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13584
+#	27489
+#	40556
+#	56765
+#	80705
+#	95603
+#	110448
+#	122720
+#	138977
+#	151511
+#	164863
+#	178038
+#	194839
+#	209418
+#	229977
+#
+# Disc length: 3275 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=e20cc910
+DTITLE=Various Artist - ZM-PA-26
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Shirley Bassey -  Goldfinger
+TTITLE1=Sheena Easton -  For Your Eyes Only
+TTITLE2=Shirley Bassey -  Diamonds Are Forever
+TTITLE3=Tina Turner - Goldeneye
+TTITLE4=Gladys Knight - Licence To Kill
+TTITLE5=Wings - Live And Let Die
+TTITLE6=Shirley Bassey - Moonraker
+TTITLE7=Matt Monro - From Russia With Love
+TTITLE8=Carly Simon - Nobody Does It Better
+TTITLE9=Lulu - The Man With Golden Gun
+TTITLE10=Tom Jones - Thunderball
+TTITLE11=Nancy Sinatra - You Only Live Twice
+TTITLE12=Duran Duran - A View To A Kill
+TTITLE13=Rita Coolidge - All Time High
+TTITLE14=A-Ha - The Living Daylights
+TTITLE15=Louis Armstrong - We Have All The Time In The World 
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

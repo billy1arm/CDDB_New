@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22213
+#	44515
+#	63835
+#	84088
+#	109623
+#	128530
+#	148648
+#	173953
+#	208402
+#	232158
+#	244786
+#	276269
+#	293941
+#	319852
+#
+# Disc length: 4559 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=e211cd0f
+DTITLE=Various Artist - WaMu 2
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Candy Dulfer - 2 Funky
+TTITLE1=Candy Dulfer - Bob's Jazz
+TTITLE2=Candy Dulfer - Home In Not A House
+TTITLE3=Candy Dulfer - Lily Was Here (DNA Remix)
+TTITLE4=Candy Dulfer - Man In The Desert
+TTITLE5=Herb Alpert - TKO
+TTITLE6=Herb Alpert - Baila Conmigo (Dance With Me)
+TTITLE7=Herb Alpert - Behind the Rain
+TTITLE8=Herb Alpert - Rise
+TTITLE9=Herb Alpert - Rotation
+TTITLE10=Herb Alpert - Taste Of Honey
+TTITLE11=Frankie Knuckles - The Whistle Song
+TTITLE12=Kenny G - Havana-Rhythm Mix
+TTITLE13=Spyro Gyra - Heliopolis
+TTITLE14=Spyro Gyra - Starburst
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

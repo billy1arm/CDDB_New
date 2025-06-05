@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17440
+#	40485
+#	69395
+#	86688
+#	103803
+#	120593
+#	130153
+#	144195
+#	156885
+#	168480
+#	183755
+#	198758
+#	216413
+#	230700
+#	250120
+#	267575
+#
+# Disc length: 3789 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ed0ecb11
+DTITLE=Various Artist - Texas Bluesmen
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Baby Don't Work
+TTITLE1=Tell Me The Reason Why
+TTITLE2=Part Time Love
+TTITLE3=I Want Your Love
+TTITLE4=Mambo Jambo
+TTITLE5=Love My Baby
+TTITLE6=Everyday I Have The Blues
+TTITLE7=Outskirts Of Town
+TTITLE8=Mardis Gras
+TTITLE9=Bartender
+TTITLE10=Night Time Is The Right Time
+TTITLE11=Wine Spodee-O-Dee
+TTITLE12=Mojo Backfired
+TTITLE13=The Hustler
+TTITLE14=Blue Monday
+TTITLE15=Chitlin Circuit
+TTITLE16=Butterbeans
+EXTD=YEAR: 1993
+EXTT0=Performed by Robert Ealey\n
+EXTT1=Performed by Robert Ealey\n
+EXTT2=Performed by Robert Ealey\n
+EXTT3=Performed by Robert Ealey\n
+EXTT4=Performed by Robert Ealey\n
+EXTT5=Performed by Robert Ealey\n
+EXTT6=Performed by Curly Barefoot Miller\n
+EXTT7=Performed by Curly Barefoot Miller\n
+EXTT8=Performed by Curly Barefoot Miller\n
+EXTT9=Performed by Curly Barefoot Miller\n
+EXTT10=Performed by Curly Barefoot Miller\n
+EXTT11=Performed by Curly Barefoot Miller\n
+EXTT12=Performed by Joe Jonas\n
+EXTT13=Performed by Joe Jonas\n
+EXTT14=Performed by Joe Jonas\n
+EXTT15=Performed by Joe Jonas\n
+EXTT16=Performed by Curly Barefoot Miller\n
+PLAYORDER=

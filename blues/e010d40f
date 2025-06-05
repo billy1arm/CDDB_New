@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	151
+#	31918
+#	69647
+#	87234
+#	101886
+#	142971
+#	156675
+#	173567
+#	205327
+#	217038
+#	248448
+#	259966
+#	278207
+#	287746
+#	311339
+#
+# Disc length: 4310 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=e010d40f
+DTITLE=Jimi Hendrix - The Total Experience
+DYEAR=1966
+DGENRE=Blues
+TTITLE0=Sunshine of your love
+TTITLE1=Bleeding heart
+TTITLE2=Fire
+TTITLE3=Little wing
+TTITLE4=Voodoo chile
+TTITLE5=Purple haze
+TTITLE6=Wild thing
+TTITLE7=Sunshine of your love
+TTITLE8=Smashing of the amps
+TTITLE9=Redhouse
+TTITLE10=Sweet thing
+TTITLE11=Blues blues
+TTITLE12=Groove maker
+TTITLE13=People's peoples
+TTITLE14=She's a fox
+EXTD=YEAR: 1966 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

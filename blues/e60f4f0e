@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23183
+#	44909
+#	65651
+#	85298
+#	112887
+#	132442
+#	149351
+#	168247
+#	187444
+#	209081
+#	237624
+#	256463
+#	282829
+#
+# Disc length: 3921 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=e60f4f0e
+DTITLE=Danny Summer - 諳 III
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=諳
+TTITLE1=獅子山下
+TTITLE2=幻影
+TTITLE3=追憶
+TTITLE4=情人
+TTITLE5=似水流年
+TTITLE6=信
+TTITLE7=雪中情
+TTITLE8=儂本多情
+TTITLE9=無奈
+TTITLE10=陪著你走
+TTITLE11=眼淚為你流
+TTITLE12=Georgia on my mind
+TTITLE13=諳 Reprise
+EXTD=^^ YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

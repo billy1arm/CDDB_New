@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11232
+#	35242
+#	47355
+#	57725
+#	75517
+#	104165
+#	128695
+#	138225
+#	162545
+#	192352
+#	226272
+#	255985
+#	266565
+#	293232
+#	303295
+#
+# Disc length: 4518 seconds
+#
+# Revision: 11
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=e311a410
+DTITLE=Various Artist - The blues collection Disc 1
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Eric Clapton - Snake Drive
+TTITLE1=Muddy Waters - Dust My Broom (Live)
+TTITLE2=John Lee Hooker - I'm In The Mood
+TTITLE3=King Bisuit Boy - Step Back Baby
+TTITLE4=John Mayall and The Bluesbreakers - Telephone Blues
+TTITLE5=Buddy Guy - First Time I Met The Blues (live)
+TTITLE6=Byther Smith - Hold That Train
+TTITLE7=The All Stars And Jimmy Page - L.A. Breakdown
+TTITLE8=Jimmy Johnson - Looking For My Baby
+TTITLE9=Luther Allison - You Upset Me Baby (live)
+TTITLE10=Albert Collins - I've Got A mind To Travel (live)
+TTITLE11=Eddie Clearwater - Came Up The Hard Way
+TTITLE12=Tony Mcphee - You Don't Love Me
+TTITLE13=Alexis Corner - Stormy Monday Blues
+TTITLE14=John Lee Hooker - Dimples
+TTITLE15=Muddy Waters - Howlin' Wolf (live)
+EXTD=YEAR: 1995
+EXTT0=Eric Clapton
+EXTT1=Muddy Walters
+EXTT2=John Lee Hooker
+EXTT3=King Biscuit Boy
+EXTT4=John Mayall and The Bluesbreakers
+EXTT5=Buddy Guy
+EXTT6=Byther Smith
+EXTT7=All Stars and Jimmy Page
+EXTT8=Jimmy Johnson
+EXTT9=Luther Allison
+EXTT10=Albert Collins
+EXTT11=Eddie Clearwater
+EXTT12=Tony McPhee
+EXTT13=Alexis Corner
+EXTT14=John Lee Hooker
+EXTT15=Muddy Walters
+PLAYORDER=

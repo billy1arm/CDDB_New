@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	16852
+#	35825
+#	54715
+#	67777
+#	83645
+#	102520
+#	117637
+#	129012
+#	146140
+#	164952
+#	182972
+#	200552
+#	218037
+#	231355
+#
+# Disc length: 3286 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=e10cd40f
+DTITLE=Les Voix De Légende - CD 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Florent Pagny - Oh Happy Day
+TTITLE1=Patricia Kaas - Mon Mec A Moi
+TTITLE2=Dalida - J'attendrai
+TTITLE3=Michel Sardou - Petit
+TTITLE4=Serge Lama - D'aventures En Aventures
+TTITLE5=Claude François - Comme D'habitude
+TTITLE6=Mike Brant - C'est Comme Ca Que Je T'aime
+TTITLE7=Nicoletta - Les Volets Clos
+TTITLE8=Viktor Lazlo - Pleurer Des Rivières
+TTITLE9=Johnny Halliday - Quelque Chose De Tennessee
+TTITLE10=Alain Bashung - Gaby Oh Gaby
+TTITLE11=Daniel Balavoine - Le Chanteur
+TTITLE12=Maurane - Toutes Les Mamas
+TTITLE13=Pow Wow - Le Lion Est Mort Ce Soir
+TTITLE14=Khaled - Didi
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

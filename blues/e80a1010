@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10365
+#	21230
+#	31987
+#	44170
+#	56655
+#	70230
+#	81325
+#	94787
+#	109425
+#	121702
+#	134580
+#	146950
+#	158307
+#	170247
+#	182692
+#
+# Disc length: 2578 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=e80a1010
+DTITLE=Chuck Berry - The Blues Collection
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=01-Chuck Berry - Memphis Tennessee
+TTITLE1=02-Chuck Berry - Almost Grown
+TTITLE2=03-Chuck Berry - Maybellene
+TTITLE3=04-Chuck Berry - Johnny B. Goode
+TTITLE4=05-Chuck Berry - No Particular Place to go
+TTITLE5=06-Chuck Berry - No Money Down
+TTITLE6=07-Chuck Berry - Thirty Days
+TTITLE7=08-Chuck Berry - Too Much Monkey Business
+TTITLE8=09-Chuck Berry - Sweet Little 16
+TTITLE9=10-Chuck Berry - Around and Around
+TTITLE10=11-Chuck Berry - Carol
+TTITLE11=12-Chuck Berry - Little Queenie
+TTITLE12=13-Chuck Berry - Back In The USA
+TTITLE13=14-Chuck Berry - Nadine (Is It You_)
+TTITLE14=15-Chuck Berry - You Never Can Tell
+TTITLE15=16-Chuck Berry - Promised Land
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

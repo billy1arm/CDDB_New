@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12798
+#	29258
+#	45046
+#	66497
+#	94114
+#	116204
+#	127769
+#	143402
+#	164315
+#	178838
+#	200702
+#	215818
+#	227415
+#	263339
+#	285583
+#	308558
+#	331105
+#
+# Disc length: 4603 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.85
+#
+DISCID=ee11f912
+DTITLE=Various Artist - Il Grande Blues - La musica del Diavolo
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=Highway 49 [Howlin' Wolf, feat. Eric Clapton]
+TTITLE1=Pride And Joy [Stevie Ray Vaughan and Double Trouble]
+TTITLE2=I Can't Be Satisfied [Muddy Waters, feat. Johnny Winter]
+TTITLE3=Dimples [John Lee Hooker, feat. Van Morrison]
+TTITLE4=Back Door Man [Willie Dixon]
+TTITLE5=Mojo Boogie [Johnny Winter]
+TTITLE6=Born Blind [Sonny Boy Williamson II]
+TTITLE7=Good Ol' Shoe [Edgar Winter, feat. Leon Russel]
+TTITLE8=Operator [AlexisKorner, feat. RobertPlant]
+TTITLE9=Too Tired [Johnny Lang]
+TTITLE10=Bad To The Bone [George Thorogood]
+TTITLE11=Tuff Enuff [Fabulous Thunderbirds]
+TTITLE12=Night Life [B. B. King]
+TTITLE13=Drifting Blues (Live) [Albert King]
+TTITLE14=On the Road Again [Canned Heat]
+TTITLE15=Hesitation Blues (Live) [Hot Tuna]
+TTITLE16=Rocky Mountain Blues [Lightnin' Hopkins]
+TTITLE17=Muddy Water [Bessie Smith]
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=
