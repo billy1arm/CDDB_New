@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	30033
+#	60558
+#	82833
+#	103308
+#	128883
+#	149283
+#	185733
+#	214008
+#	233658
+#	257733
+#	283608
+#
+# Disc length: 4107 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a310090c
+DTITLE=Beethoven - Violin Sonatas N°1-4  (Arthur Grumiaux, violin - Clara Haskil, piano)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Sonata for violin and piano N°1 in D major, Op.12 n°1 - I. Allegro con brio
+TTITLE1=Sonata for violin and piano N°1 in D major, Op.12 n°1 - II. Tema con variazioni - Andante con moto
+TTITLE2=Sonata for violin and piano N°1 in D major, Op.12 n°1 - III. Rondo - Allegro
+TTITLE3=Sonata for violin and piano N°2 in A major, Op.12 n°2 - I. Allegro vivace
+TTITLE4=Sonata for violin and piano N°2 in A major, Op.12 n°2 - II. Andante più tosto allegretto
+TTITLE5=Sonata for violin and piano N°2 in A major, Op.12 n°2 - III. Allegro piacevole
+TTITLE6=Sonata for violin and piano N°3 in E flat major, Op.12 n°3 - I. Allegro con spirito
+TTITLE7=Sonata for violin and piano N°3 in E flat major, Op.12 n°3 - II. Adagio con molt' espressione
+TTITLE8=Sonata for violin and piano N°3 in E flat major, Op.12 n°3 - III. Rondo - Allegro molto
+TTITLE9=Sonata for violin and piano N°4 in A minor, Op.23 - I. Presto
+TTITLE10=Sonata for violin and piano N°4 in A minor, Op.23 - II. Andante scherzoso, più allegretto
+TTITLE11=Sonata for violin and piano N°4 in A minor, Op.23 - III. Allegro molto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

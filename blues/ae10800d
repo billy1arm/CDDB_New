@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32537
+#	53680
+#	77445
+#	97586
+#	123970
+#	141904
+#	165082
+#	185791
+#	204408
+#	239811
+#	267493
+#	298736
+#
+# Disc length: 4226 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ae10800d
+DTITLE=Muddy Waters - Windy City Blues
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Last Night (Instrumental)
+TTITLE1=Harry's Grove (Instrumental)
+TTITLE2=Nine Below Zero
+TTITLE3=Baby Please Don't Go
+TTITLE4=They Call Me Muddy Waters
+TTITLE5=Everything's Gonna Be Alright
+TTITLE6=Manish Boy
+TTITLE7=Lonsome in my Bedroom
+TTITLE8=Corrine Corrina
+TTITLE9=Kansas City
+TTITLE10=Caledonia
+TTITLE11=Long Distance Call
+TTITLE12=Got My Mojo Working (Encore)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

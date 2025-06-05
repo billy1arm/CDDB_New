@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13055
+#	25462
+#	40610
+#	52070
+#	66725
+#	82460
+#	90000
+#	117980
+#	134687
+#	150647
+#	167007
+#
+# Disc length: 2426 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=a509780c
+DTITLE=Jimi Hendrix Experience - SMASH HITS
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=Purple Haze 
+TTITLE1=Fire 
+TTITLE2=The Wind Cries Mary
+TTITLE3=Can You See Me 
+TTITLE4=Hey Joe 
+TTITLE5=All Along The Watchtower
+TTITLE6=Stone Free 
+TTITLE7=Crosstown Traffic
+TTITLE8=Manic Depression
+TTITLE9=Remember 
+TTITLE10=Red House
+TTITLE11=Foxey Lady 
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

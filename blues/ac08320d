@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12246
+#	28527
+#	34314
+#	45096
+#	59350
+#	72068
+#	89536
+#	101308
+#	116569
+#	127421
+#	136617
+#	146635
+#
+# Disc length: 2100 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL1
+#
+DISCID=ac08320d
+DTITLE=Josh Alan - Blacks 'n' Jews
+DYEAR=1900
+DGENRE=
+TTITLE0=Black 'n' Jews
+TTITLE1=Harlem Time
+TTITLE2=Untitled Instrumental
+TTITLE3=I'm Workin'
+TTITLE4=No One Owns the Blues
+TTITLE5=Jeff's Boogie
+TTITLE6=Angels of Animals
+TTITLE7=Shayna Maydala
+TTITLE8=You Don't Have To Strut
+TTITLE9=Wretched Day
+TTITLE10=Matchbox
+TTITLE11=Acoustic Feedback
+TTITLE12=Learned To Read
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

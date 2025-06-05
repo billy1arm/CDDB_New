@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     23842
+#     39257
+#     53985
+#     77872
+#     92985
+#     111200
+#     127312
+#     144382
+#     166905
+#     182205
+#     201667
+# 
+# Disc length: 2790 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=ae0ae40c
+DTITLE=Camarillo Brillo - Lonely wolf
+DYEAR=1900
+DGENRE=
+TTITLE0=Angelin
+TTITLE1=Loenly wolf
+TTITLE2=Good enough
+TTITLE3=The reason why
+TTITLE4=She's my baby
+TTITLE5=The beat of your heart
+TTITLE6=Come on fighting
+TTITLE7=Hard times
+TTITLE8=Love hungry woman
+TTITLE9=Once upon a time
+TTITLE10=Last bridge from paradise
+TTITLE11=My woman don't love me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

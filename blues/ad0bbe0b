@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26100
+#	50512
+#	72562
+#	95455
+#	119937
+#	137487
+#	155857
+#	171864
+#	191551
+#	204676
+#
+# Disc length: 3008 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=ad0bbe0b
+DTITLE=Kondo Toshinori - Once Upon a Time in Tokyo
+DYEAR=2018
+DGENRE=Jazz
+TTITLE0=China Demonstration
+TTITLE1=Fly Jack
+TTITLE2=Tokyo Girl
+TTITLE3=Ice City
+TTITLE4=Banana Plantation
+TTITLE5=Kimatta Oretachi
+TTITLE6=Fire makes Darkness
+TTITLE7=Metal Bind
+TTITLE8=Marginal Moon
+TTITLE9=Space Radio
+TTITLE10=Space Killer
+EXTD=YEAR: 2018
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

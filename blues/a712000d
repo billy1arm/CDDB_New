@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	37072
+#	75307
+#	95625
+#	108407
+#	132187
+#	155950
+#	180857
+#	218405
+#	241345
+#	265757
+#	292882
+#	306767
+#
+# Disc length: 4610 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a712000d
+DTITLE=VPO - Previn - Schmidl - Werba  - Strauss Wind Concertos (Previn)
+DYEAR=1996
+DGENRE=Concerto
+TTITLE0=Concerto for Oboe in D -I- Allegro moderato
+TTITLE1=Concerto for Oboe in D -II- Andante
+TTITLE2=Concerto for Oboe in D -III- Vivace - attacca
+TTITLE3=Concerto for Oboe in D -IV- Allegro
+TTITLE4=Concerto for Natural Horn No.1 in Eb -I- Allegro
+TTITLE5=Concerto for Natural Horn No.1 in Eb -II- Andante
+TTITLE6=Concerto for Natural Horn No.1 in Eb -III- Rondo. Allegro
+TTITLE7=Second Horn Concerto in Eb -I- Allegro
+TTITLE8=Second Horn Concerto in Eb -II- Andante con moto
+TTITLE9=Second Horn Concerto in Eb -III- Rondo. Allegro molto
+TTITLE10=Duet-Concertino for Clarinet, Bassoon and Harp -I- Allegro moderato
+TTITLE11=Duet-Concertino for Clarinet, Bassoon and Harp -II- Andante
+TTITLE12=Duet-Concertino for Clarinet, Bassoon and Harp -III- Rondo. Allegro ma non troppo
+EXTD=Richard Strauss\n\nHorn Concertos Nos. 1 and 2 - Duet Concertino - Oboe Concerto YEAR: 1996
+EXTT0=Richard Strauss (1864 - 1949]\nConcerto for Oboe and Small Orchestra in D major\nMartin Gabriel, Oboe\n\nMvt I - Allegro moderato
+EXTT1=Richard Strauss (1864 - 1949]\nConcerto for Oboe and Small Orchestra in D major\nMartin Gabriel, Oboe\n\nMvt II - Andante
+EXTT2=Richard Strauss (1864 - 1949]\nConcerto for Oboe and Small Orchestra in D major\nMartin Gabriel, Oboe\n\nMvt III - Vivace - attacca:
+EXTT3=Richard Strauss (1864 - 1949]\nConcerto for Oboe and Small Orchestra in D major\nMartin Gabriel, Oboe\n\nMvt IV- Allegro
+EXTT4=Richard Strauss (1864 - 1949]\nConcerto for NAtural Horn and Orchestra no. 1 in E flat major\nLars-Michael Stransky, Horn\n\nMvt I - Allegro
+EXTT5=Richard Strauss (1864 - 1949]\nConcerto for NAtural Horn and Orchestra no. 1 in E flat major\nLars-Michael Stransky, Horn\n\nMvt II - Andante
+EXTT6=Richard Strauss (1864 - 1949]\nConcerto for NAtural Horn and Orchestra no. 1 in E flat major\nLars-Michael Stransky, Horn\n\nMvt III - Rondo. Allegro
+EXTT7=Richard Strauss (1864 - 1949]\nSecond Horn Concerto\nRonald Janezic, Horn\n\nMvt I - Allegro
+EXTT8=Richard Strauss (1864 - 1949]\nSecond Horn Concerto\nRonald Janezic, Horn\n\nMvt II - Andante con moto
+EXTT9=Richard Strauss (1864 - 1949]\nSecond Horn Concerto\nRonald Janezic, Horn\n\nMvt III - Rondo. Allegro molto
+EXTT10=Richard Strauss (1864 - 1949]\nDuet - Concertino for Clarinet and Bassoon with String Orchestra and Harp\nPeter Schmidl, Clarinet\nMichael Webra, Bassoon\n\nMvt I - Allegro moderato
+EXTT11=Richard Strauss (1864 - 1949]\nDuet - Concertino for Clarinet and Bassoon with String Orchestra and Harp\nPeter Schmidl, Clarinet\nMichael Webra, Bassoon\n\nMvt II - Andante
+EXTT12=Richard Strauss (1864 - 1949]\nDuet - Concertino for Clarinet and Bassoon with String Orchestra and Harp\nPeter Schmidl, Clarinet\nMichael Webra, Bassoon\n\nMvt III - Rondo. Allegro ma non troppo
+PLAYORDER=

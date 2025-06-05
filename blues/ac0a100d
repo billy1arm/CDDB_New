@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16801
+#	39752
+#	57678
+#	74929
+#	87305
+#	100506
+#	111344
+#	128258
+#	141009
+#	156497
+#	166398
+#	178511
+#
+# Disc length: 2578 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ac0a100d
+DTITLE=Triocéphale - Route Paris Nice
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Route Paris Nice (Route 66)
+TTITLE1=Carre Mambo
+TTITLE2=Ella
+TTITLE3=Joint de culasse
+TTITLE4=Le parapluie
+TTITLE5=La complainte du progrès
+TTITLE6=Belle Houri
+TTITLE7=Django
+TTITLE8=Le piano désaccordé
+TTITLE9=Le blues du dentiste
+TTITLE10=Oh Oui!
+TTITLE11=La java des bombes atomique
+TTITLE12=Tête d'affiche à Broadway
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

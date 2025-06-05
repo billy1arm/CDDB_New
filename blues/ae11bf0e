@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16753
+#	28552
+#	60105
+#	68259
+#	93808
+#	106149
+#	197743
+#	207964
+#	282940
+#	290310
+#	317465
+#	325263
+#	334074
+#
+# Disc length: 4545 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ae11bf0e
+DTITLE=Various Artist - Weihnachts Blues CD02
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=Weihnachten bringt alles durcheinander - Gerd Köster
+TTITLE1=Bluesnotes: Bluesy morning
+TTITLE2=Der unschuldige Tannenzweig - Thommie Bayer
+TTITLE3=Bluesnotes: Something's wrong
+TTITLE4=Die 12 Schrecken der Weihnacht - Hannes Jaenicke
+TTITLE5=Bluesnotes: Tell me no lies
+TTITLE6=Weihnachtsüberraschung - Klaus Lage
+TTITLE7=Bluesnotes: Zweimal
+TTITLE8=Das Geschenk der Weisen - Sebastian Krummbiegel
+TTITLE9=Bluesnotes: Go, tell it to the Mountains
+TTITLE10=Weihnachtsmorgen - Xavier Naidoo
+TTITLE11=Bluenotes: Stage Mood
+TTITLE12=Weihnachtsnaach - Wolfgang Niedecken
+TTITLE13=Bluesnotes: Posaunenblues
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     3995
+#     22595
+#     39690
+#     59777
+#     78547
+#     96447
+#     115110
+#     134777
+#     151320
+#     171962
+#     191340
+#     200355
+# 
+# Disc length: 3078 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=ac0c040d
+DTITLE=Billy Lawrence - Paradise
+DYEAR=1900
+DGENRE=
+TTITLE0=Intro
+TTITLE1=Come On
+TTITLE2=Hooked On You
+TTITLE3=Paradise
+TTITLE4=Crazy Love
+TTITLE5=Whirlpool of Love
+TTITLE6=So Into You
+TTITLE7=Heaven
+TTITLE8=Tell Me Why
+TTITLE9=Give It to Me
+TTITLE10=Chances Are
+TTITLE11=Footsteps Poem
+TTITLE12=Footsteps
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10875
+#	29250
+#	45000
+#	54450
+#	70275
+#	88050
+#	99000
+#	113850
+#	130125
+#	157125
+#	172125
+#	182550
+#	195150
+#
+# Disc length: 2771 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.14
+#
+DISCID=ab0ad10e
+DTITLE=Various Artist - Chicago The Blues Today Vol 2
+DYEAR=1966
+DGENRE=Blues
+TTITLE0=Jimmy Cotton Blues Quartet - Cotton Crop Blues
+TTITLE1=Jimmy Cotton Blues Quartet - The Blues Keep Falling
+TTITLE2=Jimmy Cotton Blues Quartet - Love Me or Leave
+TTITLE3=Jimmy Cotton Blues Quartet - Rocket 88
+TTITLE4=Jimmy Cotton Blues Quartet - West Helena Blues
+TTITLE5=The Otis Rush Band - Everything's Going To Turn Out Alright
+TTITLE6=The Otis Rush Band - It's A Mean Old World
+TTITLE7=The Otis Rush Band - I Can't Quit You Baby
+TTITLE8=The Otis Rush Band - Rock
+TTITLE9=The Otis Rush Band - It's My Own Fault
+TTITLE10=Homesick James and His Dusters - Dust My Broom
+TTITLE11=Homesick James and His Dusters - Somebody Been Talkin'
+TTITLE12=Homesick James and His Dusters - Set A Date
+TTITLE13=Homesick James and His Dusters - Mean To Me
+EXTD=YEAR: 1966
+EXTT0=The James Cotton Blues Quartet\n
+EXTT1=The James Cotton Blues Quartet\n
+EXTT2=The James Cotton Blues Quartet\n
+EXTT3=The James Cotton Blues Quartet\n
+EXTT4=The James Cotton Blues Quartet\n
+EXTT5=The Otis Rush Blues Band\n
+EXTT6=The Otis Rush Blues Band\n
+EXTT7=The Otis Rush Blues Band\n
+EXTT8=The Otis Rush Blues Band\n
+EXTT9=The Otis Rush Blues Band\n
+EXTT10=Homesick James and His Dusters\n
+EXTT11=Homesick James and His Dusters\n
+EXTT12=Homesick James and His Dusters\n
+EXTT13=Homesick James and His Dusters\n
+PLAYORDER=

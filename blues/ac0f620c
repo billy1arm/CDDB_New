@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	13407
+#	41587
+#	67367
+#	101495
+#	118422
+#	137690
+#	156910
+#	180962
+#	205812
+#	225565
+#	246932
+#
+# Disc length: 3940 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=ac0f620c
+DTITLE=Jimmy Witherspoon - Spoon's Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Playful Baby
+TTITLE1=Spoon's Life Blues
+TTITLE2=Lotus Blossom
+TTITLE3=Christmas Blues
+TTITLE4=Mean Ole Frisco
+TTITLE5=Sad Life
+TTITLE6=I'll Always Be In Love With You
+TTITLE7=Sweet Slumber
+TTITLE8=Past Forty Blues
+TTITLE9=Lowdown Dirty Shame
+TTITLE10=Lonely Boy Blues
+TTITLE11=Spoon's Testimony
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17958
+#	36497
+#	57750
+#	70724
+#	94189
+#	117119
+#	125858
+#	139459
+#	149680
+#	160515
+#	183019
+#
+# Disc length: 2634 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta5_freedb
+#
+DISCID=af0a480c
+DTITLE=Robbie McIntosh - Hush Hour
+DYEAR=1900
+DGENRE=
+TTITLE0=Kenny Bell
+TTITLE1=Hidden Badger
+TTITLE2=Angel Of The North
+TTITLE3=Crouching Hedgehog
+TTITLE4=Dad's Chair
+TTITLE5=Jumping Bean
+TTITLE6=By Gum
+TTITLE7=Highland
+TTITLE8=Boogie Woogie 24
+TTITLE9=Bouncy Castle
+TTITLE10=Downtown D18
+TTITLE11=Sparky
+EXTD=(c) flying sparks records 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

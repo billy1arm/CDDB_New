@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26218
+#	44288
+#	64393
+#	82563
+#	131663
+#	146708
+#	159988
+#	172113
+#	197645
+#	216865
+#	243458
+#
+# Disc length: 3661 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ab0e4b0c
+DTITLE=Various Artist - Duke Ellington's Greatest Hits
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=Caravan
+TTITLE1=Satin Doll
+TTITLE2=Cottontail
+TTITLE3=Echoes Of Harlem
+TTITLE4=New World A Comin'
+TTITLE5=Night Train
+TTITLE6=Prelude To A Kiss
+TTITLE7=Sophisticated Lady
+TTITLE8=In A Sentimental Mood
+TTITLE9=Perdido
+TTITLE10=Come Sunday
+TTITLE11=Take The "A" Train
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

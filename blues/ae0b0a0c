@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	16485
+#	35865
+#	55145
+#	71670
+#	89445
+#	106802
+#	123597
+#	140172
+#	154710
+#	172977
+#	193300
+#
+# Disc length: 2828 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=ae0b0a0c
+DTITLE=Vários - Elas Cantam Caetano Veloso
+DYEAR=1994
+DGENRE=Pop
+TTITLE0=Beth Bruno - Dom de iludir
+TTITLE1=Elaine Guedes - Rapte-me camaleoa
+TTITLE2=Sylvia Patricia - Sorvete
+TTITLE3=Jussara - Silveira - Dama do cassino
+TTITLE4=Itamara Koorax - A rã
+TTITLE5=Solange - Lindeza
+TTITLE6=Paula Santoro - Meu bem, meu mal
+TTITLE7=Nanná Tribuzy - Luz do sol
+TTITLE8=Suzana Bello - Gema
+TTITLE9=Roberta Little - Odara
+TTITLE10=Kátia Bronstein - Cá já
+TTITLE11=Belô Velloso - Trilhos urbanos
+EXTD=YEAR: 1994 ID3G: 13
+EXTT0=Beth Bruno\n
+EXTT1=Elaine Guedes\n
+EXTT2=Sylvia Patricia\n
+EXTT3=Jussara Silveira\n
+EXTT4=Ithamara Koorax\n
+EXTT5=Solange\n
+EXTT6=Paula Santoro\n
+EXTT7=Nann  Tribuzu\n
+EXTT8=Suzana Bello\n
+EXTT9=Roberta Little\n
+EXTT10=K tia Bronstein\n
+EXTT11=Bel  Velloso\n
+PLAYORDER=

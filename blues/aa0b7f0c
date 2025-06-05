@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18547
+#	33192
+#	48207
+#	60542
+#	71187
+#	81675
+#	104382
+#	118012
+#	130052
+#	173120
+#	201367
+#
+# Disc length: 2945 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=aa0b7f0c
+DTITLE=Various Artist - Starbucks Cool Notes Of Summer
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Sarah Vaughan - The Man I Love
+TTITLE1=Bobby Darin - Hello Dolly
+TTITLE2=Peggy Lee - Fever
+TTITLE3=Lou Rawls - Nobody But Me
+TTITLE4=Nancy Wilson - The Best Is Yet To Come
+TTITLE5=Dinah Washington - That Old Feeling
+TTITLE6=T.S. Monk - Una Mas
+TTITLE7=Nat King Cole - Just You, Just Me
+TTITLE8=Chet Baker - Look For The Silver Lining
+TTITLE9=Art Blakely and the Jazz Messengers - Moanin'
+TTITLE10=Benny Green - Pensativa
+TTITLE11=Holly Cole - I Can See Clearly Now
+EXTD=YEAR: 1995
+EXTT0=Sarah Vaughn
+EXTT1=Boby Darin
+EXTT2=Peggy Lee
+EXTT3=Lou Rawls
+EXTT4=Nancy Wilson
+EXTT5=Dinah Washington
+EXTT6=T.S. Monk
+EXTT7=Nat King Cole
+EXTT8=Chet Baker
+EXTT9=Art Blakey and The Jazz Messengers
+EXTT10=Benny Green
+EXTT11=Holly Cole
+PLAYORDER=

@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17427
+#	40350
+#	55075
+#	75772
+#	93242
+#	115950
+#	138507
+#	156662
+#	177322
+#	192885
+#	213832
+#	228220
+#	246225
+#
+# Disc length: 3458 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=af0d800e
+DTITLE=Dan Fogelberg - Love Songs
+DYEAR=1990
+DGENRE=Folk-Rock
+TTITLE0=Anyway I Love You
+TTITLE1=More Than Ever
+TTITLE2=Longer
+TTITLE3=Leader of the Band
+TTITLE4=Go Down Easy
+TTITLE5=Beggar's Game
+TTITLE6=The Loving Cup
+TTITLE7=Gypsy Wind
+TTITLE8=Believe In Me
+TTITLE9=Stars
+TTITLE10=Sweet Magnolia (And The Travelling Salesman)
+TTITLE11=The Last To Know
+TTITLE12=Hard To Say
+TTITLE13=Looking For A Lady
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

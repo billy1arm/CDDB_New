@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  7875
+#  58975
+#  70702
+#  134812
+#  141710
+#  188077
+#  194142
+#  214452
+#  221392
+#
+# Disc length: 3309 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.20
+#
+DISCID=ac0ceb0a
+DTITLE=Duke Ellington - Orchestral Works
+DYEAR=1900
+DGENRE=
+TTITLE0=Poetic Commentary A
+TTITLE1=New World A'coming
+TTITLE2=Poetic Commentary B
+TTITLE3=Harlem - The Golden Broom and The Green Apple
+TTITLE4=Poetic Commentary C
+TTITLE5=Stanza 1: The Golden Broom
+TTITLE6=Poetic Commentary D
+TTITLE7=Stanza 2: The Green Apple
+TTITLE8=Poetic Commentary E
+TTITLE9=Stanza 3: The Handsome Traffic Policeman
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

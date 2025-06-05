@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24945
+#	49083
+#	81960
+#	103836
+#	130954
+#	159818
+#	193095
+#	225327
+#	253322
+#	289013
+#	314952
+#
+# Disc length: 4486 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a411840c
+DTITLE=Michele Giuttari - Rachefeuer
+DYEAR=2007
+DGENRE=Hoerbuch
+TTITLE0=027 Rachefeuer
+TTITLE1=028 Rachefeuer
+TTITLE2=029 Rachefeuer
+TTITLE3=030 Rachefeuer
+TTITLE4=031 Rachefeuer
+TTITLE5=032 Rachefeuer
+TTITLE6=033 Rachefeuer
+TTITLE7=034 Rachefeuer
+TTITLE8=035 Rachefeuer
+TTITLE9=036 Rachefeuer
+TTITLE10=037 Rachefeuer
+TTITLE11=038 Rachefeuer
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

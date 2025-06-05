@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12058
+#	28122
+#	49854
+#	68961
+#	89893
+#	108987
+#	132391
+#	149064
+#	159992
+#	179442
+#	192105
+#
+# Disc length: 2846 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5.4
+#
+DISCID=ad0b1c0c
+DTITLE=Elizabeth Sanderson - Beyond the Blue
+DYEAR=1900
+DGENRE=
+TTITLE0=Concept of Colour
+TTITLE1=Why is it?
+TTITLE2=Pushing the line
+TTITLE3=Again
+TTITLE4=Stepping through the door backwards
+TTITLE5=Time is running down
+TTITLE6=Flying
+TTITLE7=Another grey morning
+TTITLE8=My favourite things
+TTITLE9=My old man
+TTITLE10=Joni and JT
+TTITLE11=Now that you're gone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

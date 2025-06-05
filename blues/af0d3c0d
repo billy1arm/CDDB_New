@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18810
+#	36902
+#	52965
+#	71697
+#	90985
+#	110025
+#	136765
+#	156175
+#	175772
+#	199397
+#	218055
+#	238245
+#
+# Disc length: 3390 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=af0d3c0d
+DTITLE=Big Jack Johnson with Kim Wilson - The Memphis Barbecue Sessions
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Oh Baby
+TTITLE1=Humming Blues
+TTITLE2=Don't Care Nothing
+TTITLE3=Smokestack Lightning
+TTITLE4=I'm Going Out Walking
+TTITLE5=My Babe
+TTITLE6=Blue Bird
+TTITLE7=Lonesome Road
+TTITLE8=Get Along Little Cindy
+TTITLE9=Humming Bird
+TTITLE10=Big Boss Man
+TTITLE11=Things I Used To Do
+TTITLE12=Dust My Broom
+EXTD=\nYEAR: 2000  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

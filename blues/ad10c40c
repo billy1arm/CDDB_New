@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20735
+#	35897
+#	66222
+#	84837
+#	104250
+#	138350
+#	170082
+#	207640
+#	239542
+#	272932
+#	308272
+#
+# Disc length: 4294 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL0
+#
+DISCID=ad10c40c
+DTITLE=As blue as they can be/Jimmy Witherspoon-Richard Holmes-Odetta
+DYEAR=1900
+DGENRE=
+TTITLE0=Goove's Goove
+TTITLE1=California Blues
+TTITLE2=Wonderful World
+TTITLE3=Misty
+TTITLE4=Walking on a tightrope
+TTITLE5=Slow blues in G
+TTITLE6=Song for my father
+TTITLE7=My friend
+TTITLE8=Lonesome road blues
+TTITLE9=On say a joy
+TTITLE10=Danger zone is everywhere
+TTITLE11=The time has come
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

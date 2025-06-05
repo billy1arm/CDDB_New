@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20160
+#     45560
+#     65245
+#     88192
+#     108240
+#     133032
+#     156112
+#     176880
+#     200837
+#     224350
+# 
+# Disc length: 3286 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=aa0cd40b
+DTITLE=Karyn White - Make Him Do Right
+DYEAR=1900
+DGENRE=
+TTITLE0=Hungah
+TTITLE1=Can I Stay With You
+TTITLE2=Weakness
+TTITLE3=Nobody But My Baby
+TTITLE4=Here Comes The Pain Again
+TTITLE5=I'd Rather Be Alone
+TTITLE6=Make Him Do Right
+TTITLE7=Simple Pleasures
+TTITLE8=I'm Your Woman
+TTITLE9=Thinkin' 'bout Love
+TTITLE10=One Minute
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

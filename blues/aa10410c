@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27255
+#	51632
+#	71735
+#	96120
+#	120235
+#	156155
+#	189892
+#	211432
+#	235427
+#	256280
+#	276087
+#
+# Disc length: 4163 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=aa10410c
+DTITLE=Miles Davis - Ballads
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=My Funny Valentine
+TTITLE1='Round Midnight
+TTITLE2=When I Fall In Love
+TTITLE3=It Never Entered My Mind
+TTITLE4=There's No Greater Love
+TTITLE5=The Man I Love (Take 2)
+TTITLE6=Just Squeeze Me
+TTITLE7=I See Your Face Before Me
+TTITLE8=You're My Everything
+TTITLE9=In Your Own Sweet Way
+TTITLE10=You Don't Know What Love Is
+TTITLE11=Autumn Leaves
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

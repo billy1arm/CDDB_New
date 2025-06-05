@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28174
+#	41441
+#	65563
+#	85246
+#	103004
+#	120535
+#	134055
+#	150432
+#	169234
+#	190101
+#	215901
+#
+# Disc length: 3111 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ab0c250c
+DTITLE=Various Artist - CD3: beginner's guide to blues music
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Need Your Love So Bad - Fleetwood Mac
+TTITLE1=Statesboro Blues - Taj Mahal
+TTITLE2=Texas Flood - Stevie Ray Vaughan
+TTITLE3=Turtle Blues - Big Brother and The Holding Company
+TTITLE4=I Ain't Got Nothing But The Blues - Mose Allison
+TTITLE5=Mean Mistreater - Johnny Winter
+TTITLE6=Every Morning - Keb Mo
+TTITLE7=Natchez Shopping Blues - Olu Dara
+TTITLE8=Killing Floor - The electric Flag
+TTITLE9=Laundromat - Rory Gallagher
+TTITLE10=Cause We've Ended As Lovers - Jeff Beck
+TTITLE11=La Grange - ZZ Top
+EXTD=
+EXTT0=Fleetwood Mac
+EXTT1=Taj Mahal
+EXTT2=Stevie Ray Vaughan
+EXTT3=Big Brother and The Holding Company
+EXTT4=Mose Allison
+EXTT5=Johnny Winter
+EXTT6=Keb Mo
+EXTT7=Olu Dara
+EXTT8=Mike Bloomfield and Electric Flag
+EXTT9=Rory Gallagher
+EXTT10=Jeff Beck
+EXTT11=ZZ Top
+PLAYORDER=

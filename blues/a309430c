@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13600
+#	45285
+#	56080
+#	67202
+#	78540
+#	93175
+#	107370
+#	124277
+#	138392
+#	148750
+#	167030
+# Disc length: 2373 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=a309430c
+DTITLE=Various Artist - More Treasures from the Vault
+DYEAR=1900
+DGENRE=
+TTITLE0=Three O'Clock Blues
+TTITLE1=Sweet Sixteen
+TTITLE2=Recession Blues
+TTITLE3=Don't Break Your Promise
+TTITLE4=Bowlegged Woman, Knock-Kneed Man
+TTITLE5=Good Boy
+TTITLE6=Will My Gal Be Home Tonight
+TTITLE7=No Do Right
+TTITLE8=Get It On With Me
+TTITLE9=Don't Keep Me Waiting
+TTITLE10=Open House At My House
+TTITLE11=Tickle Britches
+EXTD=Jewel Records\nJCD5066\n(C)(P) Jewel Records\nP.O. Box 1125\nShrevepo
+EXTD=rt, LA  71163-1125\n(800) 446-2865 or\n(318) 227-0304\nhttp://wwwjew
+EXTD=el-paula.com\n
+EXTT0=B.B. King and Bobby Blue Bland\n
+EXTT1=B.B. King \n
+EXTT2=B.B. King \n
+EXTT3=B.B. King \n
+EXTT4=Bobby Rush\n
+EXTT5=T-Bone Walker\n
+EXTT6=T-Bone Walker\n\n
+EXTT7=T-Bone Walker\n
+EXTT8=Bobby Rush\n
+EXTT9=B. B. King\n
+EXTT10=Little Joe Blue\n
+EXTT11=B. B. King\n
+PLAYORDER=

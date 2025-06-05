@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11335
+#	22402
+#	32033
+#	42530
+#	55329
+#	66412
+#	73962
+#	85030
+#	96805
+#	107627
+#	118405
+#
+# Disc length: 1722 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=ae06b80c
+DTITLE=Jimmy Reed - Plays 12 String Guitar Blues
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Bright Lights Big City
+TTITLE1=St. Louis Blues
+TTITLE2=Blue Carnegie
+TTITLE3=New Chicago Blues
+TTITLE4=Big Boss Man
+TTITLE5=Hush Hush
+TTITLE6=Blues For Twelve Strings
+TTITLE7=Baby What You Want Me To Do
+TTITLE8=Boogie In The Dark
+TTITLE9=Take Out Some Insurance
+TTITLE10=Aw, Shucks
+TTITLE11=Close Together
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

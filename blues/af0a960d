@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14437
+#     28661
+#     43532
+#     62660
+#     76250
+#     104628
+#     119831
+#     137669
+#     158481
+#     167990
+#     179202
+#     195143
+# 
+# Disc length: 2712 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=af0a960d
+DTITLE=Don Wise - In Wise Hands
+DYEAR=1900
+DGENRE=blues
+TTITLE0=I Don't Want To Start Over
+TTITLE1=Bourbon and Vodka (Vodka and Me)
+TTITLE2=Never Been Rocked Enough
+TTITLE3=Look What Love Can Do
+TTITLE4=John Friday's Son
+TTITLE5=Just For A Thrill/Who Will Your Next Fool Be
+TTITLE6=Siftin' Through The Ashes
+TTITLE7=Headin' Home
+TTITLE8=Honky Tonk Song/Honky Tonk
+TTITLE9=Hold The Mayo
+TTITLE10=America (The Beautiful)
+TTITLE11=I'm Not Sad Tonight
+TTITLE12=Wally's Whirled
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

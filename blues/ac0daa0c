@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     23675
+#     43267
+#     63605
+#     85487
+#     104752
+#     130355
+#     153067
+#     170115
+#     191495
+#     220172
+#     237935
+# 
+# Disc length: 3500 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=ac0daa0c
+DTITLE=Naughty by Nature - Naughty by Nature
+DYEAR=1900
+DGENRE=
+TTITLE0=Yoke the Joker
+TTITLE1=Wickedest Man Alive
+TTITLE2=O.P.P.
+TTITLE3=Everything's Gonna Be Alright
+TTITLE4=Let the Ho's Go
+TTITLE5=Everyday All Day
+TTITLE6=Guard Your Grill
+TTITLE7=Pin the Tail on the Donkey
+TTITLE8=1,2,3
+TTITLE9=Strike a Nerve
+TTITLE10=Rhyme'll Shine On
+TTITLE11=Thankx for Sleepwalking
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

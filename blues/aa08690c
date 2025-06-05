@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10680
+#     22045
+#     38038
+#     52030
+#     67298
+#     79473
+#     88380
+#     105625
+#     119358
+#     135365
+#     148615
+# 
+# Disc length: 2155 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=aa08690c
+DTITLE=Deep River Quartet - Live Jubiliee
+DYEAR=1900
+DGENRE=
+TTITLE0=Casey Jones
+TTITLE1=In the shade of the old appletree
+TTITLE2=Mister Paganini
+TTITLE3=Johua fit the battle 'round Jericho
+TTITLE4=The gipsy
+TTITLE5=Paperdoll
+TTITLE6=Brother Moses smote the water
+TTITLE7=St. Louis blues
+TTITLE8=Hush, Hush
+TTITLE9=Address Unknown
+TTITLE10=Choo, choo, ch'boogie
+TTITLE11=When the saints go marchin' in
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

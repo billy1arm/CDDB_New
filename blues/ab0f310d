@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24517
+#	52261
+#	82713
+#	102637
+#	139688
+#	159856
+#	179659
+#	206365
+#	222285
+#	235584
+#	250284
+#	270973
+#
+# Disc length: 3891 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ab0f310d
+DTITLE=Various Artist - 5 Jahre Jazz in den Ministergärten
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=You're My Spring
+TTITLE1=Halftime Shuffle
+TTITLE2=Compare To What
+TTITLE3=Morlocks
+TTITLE4=Deep
+TTITLE5=Lagrimas Negras
+TTITLE6=Samba De Orfeu
+TTITLE7=Eleven
+TTITLE8=La Tierra
+TTITLE9=I Feel Good
+TTITLE10=Sometimes Woman
+TTITLE11=Rocking' In Rhythm
+TTITLE12=Bin Im Delirium
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     30642
+#     57572
+#     86812
+#     114297
+#     138012
+#     164802
+#     196147
+#     231167
+#     254840
+#     280860
+#     304940
+# 
+# Disc length: 4445 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=ad115b0c
+DTITLE=Joe Satriani - G3 - Live in Concert
+DYEAR=1900
+DGENRE=
+TTITLE0=Cool No.9
+TTITLE1=Flying In A Blue Dream
+TTITLE2=Summer Song
+TTITLE3=Zap
+TTITLE4=Manhattan
+TTITLE5=Camel's Night Out
+TTITLE6=Answers
+TTITLE7=For The Love Of God
+TTITLE8=The Attitude Song
+TTITLE9=Going Down
+TTITLE10=My Guitar Wants To Kill Your Mama
+TTITLE11=Red House
+EXTD=
+EXTT0=Joe Satriani\n
+EXTT1=Joe Satriani\n
+EXTT2=Joe Satriani\n
+EXTT3=Eric Johnson\n
+EXTT4=Eric Johnson\n
+EXTT5=Eric Johnson\n
+EXTT6=Steve Vai\n
+EXTT7=Steve Vai\n
+EXTT8=Steve Vai\n
+EXTT9=Joe Satriani, Eric Johnson, Steve Vai\n
+EXTT10=Joe Satriani, Eric Johnson, Steve Vai\n
+EXTT11=Joe Satriani, Eric Johnson, Steve Vai\n
+PLAYORDER=

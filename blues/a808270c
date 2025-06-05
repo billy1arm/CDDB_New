@@ -1,0 +1,53 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13005
+#	26135
+#	39185
+#	51637
+#	62965
+#	76022
+#	90745
+#	107467
+#	121385
+#	132697
+#	146917
+#
+# Disc length: 2089 seconds
+#
+# Revision: 12
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a808270c
+DTITLE=Frank Sinatra - Gold
+DYEAR=1997
+DGENRE=Pop
+TTITLE0=Young-At-Heart
+TTITLE1=All The Way
+TTITLE2=Witchcraft
+TTITLE3=Nice 'N' Easy
+TTITLE4=My Funny Valentine
+TTITLE5=I Get A Kick Out Of You
+TTITLE6=The Lady Is A Tramp
+TTITLE7=I've Got You Under My Skin
+TTITLE8=Three Coins In The Fountain
+TTITLE9=Same Old Saturday Night
+TTITLE10=Don't Worry 'Bout Me
+TTITLE11=Chicago
+EXTD=EMI-Capitol Special Markets, When Sinatra formed the Reprise label in the sixties, he re-recorded most of his hits from the Capitol Years. This compilation appear to be the original Capitol version of some of his hits from those earlier years. YEAR:
+EXTD=1997
+EXTT0=(Capitol Version)
+EXTT1=(Capitol Version)
+EXTT2=(Capitol Version)
+EXTT3=(Capitol Version)
+EXTT4=(Capitol Version)
+EXTT5=(Capitol Version)
+EXTT6=(Capitol Version)
+EXTT7=(Capitol Version)
+EXTT8=(Capitol Version)
+EXTT9=(Capitol Version)
+EXTT10=(Capitol Version)
+EXTT11=(Capitol Version)
+PLAYORDER=

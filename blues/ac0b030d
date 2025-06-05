@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13875
+#     32325
+#     49087
+#     63487
+#     79650
+#     92137
+#     106312
+#     120675
+#     139912
+#     157387
+#     172650
+#     189712
+# 
+# Disc length: 2821 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=ac0b030d
+DTITLE=John Brim - The Ice Cream Man
+DYEAR=1900
+DGENRE=
+TTITLE0=Ice Cream Man
+TTITLE1=Jump With Me
+TTITLE2=Lonesome Man Blues
+TTITLE3=Tough Times
+TTITLE4=Wake Up America
+TTITLE5=This Old Hangover
+TTITLE6=Old Time Boogie
+TTITLE7=Be Carefull
+TTITLE8=Standin' Around Cryin'
+TTITLE9=Messin' Around
+TTITLE10=Can't Hold Out Much Longer
+TTITLE11=I Wonder Why
+TTITLE12=Goin' Down Slow
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

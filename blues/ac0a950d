@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22940
+#	41005
+#	58384
+#	78033
+#	92361
+#	113234
+#	123391
+#	130510
+#	137311
+#	145364
+#	156572
+#	177707
+#
+# Disc length: 2711 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ac0a950d
+DTITLE=Michael Hoppe and Harold Moses - Serenity
+DYEAR=1995
+DGENRE=New Age
+TTITLE0=Serenity I - January
+TTITLE1=Serenity II - February
+TTITLE2=Serenity III - March
+TTITLE3=Serenity IV - April
+TTITLE4=Serenity V - May
+TTITLE5=Serenity VI - June
+TTITLE6=Serenity VII - July
+TTITLE7=Serenity VIII - August
+TTITLE8=Serenity IX - September
+TTITLE9=Serenity X - October
+TTITLE10=Serenity XI - November
+TTITLE11=Serenity XII - December
+TTITLE12=Serenity XIII - New Year
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

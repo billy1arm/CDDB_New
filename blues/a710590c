@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	46065
+#	64653
+#	84640
+#	108215
+#	134869
+#	155805
+#	181010
+#	212694
+#	238081
+#	267096
+#	292857
+#
+# Disc length: 4187 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=a710590c
+DTITLE=DMB - The Lillywhite Sessions
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Bartender
+TTITLE1=Busted Stuff
+TTITLE2=Digging a Ditch
+TTITLE3=Grace is Gone
+TTITLE4=Grey Street
+TTITLE5=Unknown
+TTITLE6=Kit Kat Jam
+TTITLE7=Monkey Man
+TTITLE8=JTR
+TTITLE9=Raven
+TTITLE10=Spotlight
+TTITLE11=Sweet Up and Down
+EXTD=YEAR: 2000 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

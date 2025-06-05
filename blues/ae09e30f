@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2777
+#	8880
+#	15018
+#	21159
+#	27112
+#	33155
+#	42204
+#	61159
+#	70679
+#	89634
+#	99044
+#	120677
+#	143233
+#	164118
+#
+# Disc length: 2533 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ae09e30f
+DTITLE=Frank Vignola - Rhythm Changes Volume 1
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Tune Note A
+TTITLE1=Basic #1 - C
+TTITLE2=Basic #2 - C
+TTITLE3=Basic #3 - Bb
+TTITLE4=Basic #4 - Bb
+TTITLE5=Basic #5 - Bb
+TTITLE6=Rhythm Changes #1 (Slow)
+TTITLE7=Rhythm Changes #1
+TTITLE8=Rhythmn Changes #2 (Slow)
+TTITLE9=Rhythm Changes #2
+TTITLE10=Rhythm Changes #3 (Slow)
+TTITLE11=Rhythm Changes #3
+TTITLE12=Rhythm Changes #4
+TTITLE13=Rhythm Changes #5
+TTITLE14=Rhythm Changes #6\
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

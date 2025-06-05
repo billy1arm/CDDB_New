@@ -1,0 +1,60 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#       150
+#       15956
+#       34226
+#       51492
+#       65882
+#       86714
+#       99233
+#       113525
+#       128687
+#       146564
+#       162180
+#       175191
+#       197633
+#
+# Disc length: 3088 seconds
+#
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+#CATEGORY=blues
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=aa0c0e0d
+DTITLE=Paul Rishell and Annie Raines - Goin' Home
+DYEAR=2004
+DGENRE=blues
+TTITLE0=Hunkie Tunkie Blues
+TTITLE1=You've Got It Made
+TTITLE2=I Had a Good Mother and Father
+TTITLE3=I'm Goin' Home
+TTITLE4=It Ain't Right
+TTITLE5=Candy
+TTITLE6=Memphis Town
+TTITLE7=Black Horse Blues
+TTITLE8=Black Eye Blues
+TTITLE9=Ragtime Millionaire
+TTITLE10=Custard Pie
+TTITLE11=Some of These Days
+TTITLE12=Lookin' Good
+EXTD=Dedicated to Steve and Annie Jacobs\n
+EXTD=Copyright 2004 Tone-Cool Records\n
+EXTD=http://www.paulandannie.com
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

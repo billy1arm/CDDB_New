@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15665
+#	48095
+#	69372
+#	89035
+#	97280
+#	122667
+#	147015
+#	160980
+#	176250
+#	205195
+#	216305
+#	255012
+#
+# Disc length: 3560 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ae0de60d
+DTITLE=こわいCD - こわいCD ２
+DYEAR=1900
+DGENRE=Cult
+TTITLE0=ポケベルの怪
+TTITLE1=水質検査の男
+TTITLE2=舞い降りてくる友達
+TTITLE3=はこ乗り
+TTITLE4=心霊写真
+TTITLE5=やらせてくれない女
+TTITLE6=非通知の電話
+TTITLE7=落ち武者
+TTITLE8=押し入れの中
+TTITLE9=絹の道
+TTITLE10=あるラジオ局のトイレで
+TTITLE11=歌声
+TTITLE12=１５分恐怖
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

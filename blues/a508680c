@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     12910
+#     28107
+#     40397
+#     53697
+#     67067
+#     77642
+#     90612
+#     104645
+#     119292
+#     132195
+#     145975
+# 
+# Disc length: 2154 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=a508680c
+DTITLE=Various Artist - The Blues Volume 5
+DYEAR=1900
+DGENRE=
+TTITLE0=Jimmy Rogers - That's all right
+TTITLE1=Muddy Waters - Honey bee
+TTITLE2=Howlin' Wolf - How many years
+TTITLE3=John Lee Hooker - Ground hog blues
+TTITLE4=Jimmy Nelson - Free and easy mind
+TTITLE5=Percey Mayfield - Double dealing
+TTITLE6=Willie Mabon - Seventh son
+TTITLE7=Lowell Fulson - Check Yourself
+TTITLE8=Sonny Boy Williamson - The key
+TTITLE9=Memphis Minnie - Me and my chauffeur
+TTITLE10=Little Walter - Confessin' the blues
+TTITLE11=Eddie Boyd - Twenty-four hours
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

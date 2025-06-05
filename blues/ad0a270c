@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16205
+#	36147
+#	49240
+#	65762
+#	80625
+#	102197
+#	113950
+#	129675
+#	142042
+#	160200
+#	179592
+#
+# Disc length: 2601 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=ad0a270c
+DTITLE=Various Artist - Drive Entertainment INC - Drive Archiv
+DTITLE=e Blues Sampler
+DYEAR=1900
+DGENRE=
+TTITLE0=Stormin' On The Deep Blue Sea
+TTITLE1=Crazy ixed Up World
+TTITLE2=Got To Move
+TTITLE3=Get Right Church
+TTITLE4=Baby Please Don't Go
+TTITLE5=I Got Up One Morning Blues
+TTITLE6=Lovin' Sam
+TTITLE7=Jelly Roll Blues
+TTITLE8=Blues Before Sunrise
+TTITLE9=I'm A Stranger Here
+TTITLE10=Howlin' For My Darlin'
+TTITLE11=Prison Blues
+EXTD=
+EXTT0=John Lee Hooker
+EXTT1=John Lee Hooker
+EXTT2=Missippi Fred McDowell\n
+EXTT3=Missippi Fred McDowell
+EXTT4=Big Bill Broonzy
+EXTT5=Big Bill Broonzy
+EXTT6=Sippie Wallace w/ Otis Spann and Jim Kweskin Blues Band
+EXTT7=Same as track 7
+EXTT8=Elmore James
+EXTT9=Sonny Terry and Brwnie McGhee
+EXTT10=Howlin' Wolf
+EXTT11=Lightnin' Hopkins
+PLAYORDER=

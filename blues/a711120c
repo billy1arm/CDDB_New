@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	21367
+#	60617
+#	73172
+#	89637
+#	111807
+#	150635
+#	180405
+#	192265
+#	254075
+#	272592
+#	302480
+#
+# Disc length: 4372 seconds
+#
+# Revision: 11
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=a711120c
+DTITLE=Various Artist - Atlantic Jazz Legends Sampler
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=David "Fathead" Newman - Hard Times
+TTITLE1=Les McCann and Eddie Harris - Compared to What
+TTITLE2=Hank Crawford - Whispering Grass
+TTITLE3=Modern Jazz Quartet - The Golden Striker
+TTITLE4=Rahsaan Roland Kirk - The Inflated Tear
+TTITLE5=Herbie Mann - Comin' Home Baby
+TTITLE6=Ornette Coleman - Ramblin'
+TTITLE7=Mose llison - Your Mind is on Vacation
+TTITLE8=John Coltrane /My Favorite Things
+TTITLE9=Ray Charles - Sweet Sixteen Bars
+TTITLE10=Yusef Lateef - Nubian Lady
+TTITLE11=Charles Mingus - Wednesday Night Prayer Meeting
+EXTD="Atlantic Jazz Legends" is the first sampler in the \nRhino/Atlantic Jazz Gallery series.\n   \n   \n   \n   \n   \n   \n    \n  \n   \n  \nSubmitted by Maurice O'Donnell <mo@world.std.com> YEAR: 1993
+EXTT0=by David "Fathead" Newman
+EXTT1=by Les McCann and Eddie Harris
+EXTT2=by Hank Crawford
+EXTT3=The Modern Jazz Quartet
+EXTT4=by Rahsaan Roland Kirk
+EXTT5=by Herbie Mann
+EXTT6=by Ornette Coleman
+EXTT7=by Mose Allison
+EXTT8=by John Coltrane
+EXTT9=by Ray Charles
+EXTT10=by Yusef Lateef
+EXTT11=by Charles Mingus
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	185
+#	11207
+#	33270
+#	49500
+#	65305
+#	87780
+#	105995
+#	119867
+#	139290
+#	156700
+#	176900
+#	192322
+#
+# Disc length: 2799 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=aa0aed0c
+DTITLE=Alexis Korner - Live in Paris
+DYEAR=1980
+DGENRE=Blues
+TTITLE0=alexis korner - blue monday
+TTITLE1=alexis korner - key to the highway
+TTITLE2=alexis korner - catcote rag
+TTITLE3=alexis korner - phonograph blues
+TTITLE4=alexis korner - little bitty gal blues
+TTITLE5=alexis korner - sweet home chicago
+TTITLE6=alexis korner - cherry red
+TTITLE7=alexis korner - i got my mojo working
+TTITLE8=alexis korner - gospelship
+TTITLE9=alexis korner - geneva
+TTITLE10=alexis korner - working in the coalmine
+TTITLE11=alexis korner - flocking with you
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

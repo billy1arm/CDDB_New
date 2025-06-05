@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16440
+#	29068
+#	51900
+#	71108
+#	86640
+#	109383
+#	127148
+#	139530
+#	157855
+#	175900
+#	192910
+#
+# Disc length: 2765 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=ad0acb0c
+DTITLE=John Pizzarelli - John Pizzarelli meets The Beatles
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Can't Buy Me Love
+TTITLE1=I've Just Seen A Face
+TTITLE2=Here Comes The Sun
+TTITLE3=Things We Said Today
+TTITLE4=You've Got To Hide Your Love Away
+TTITLE5=Eleanor Rigby
+TTITLE6=And I Love Her
+TTITLE7=When I'm 64
+TTITLE8=Oh Darling
+TTITLE9=Get Back
+TTITLE10=The Long and Winding Road
+TTITLE11=For No One
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	17293
+#	31288
+#	44225
+#	58075
+#	71118
+#	84438
+#	97205
+#	110860
+#	124158
+#	137790
+#	150473
+#
+# Disc length: 2192 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=ab088e0c
+DTITLE=B.B.King - The Fabulous B.B.King
+DYEAR=1900
+DGENRE=
+TTITLE0=Three O'Clock Blues
+TTITLE1=You Know I Love You
+TTITLE2=Please Love Me
+TTITLE3=You Upset Me Baby
+TTITLE4=Bad Luck
+TTITLE5=On My Word Of Honor
+TTITLE6=Everyday I Have The Blues
+TTITLE7=Woke Up This Morning (My Baby's Gone)
+TTITLE8=When My Heart Beats Like A Hammer
+TTITLE9=Sweet Little Angel
+TTITLE10=Ten Long Years
+TTITLE11=Whole Lotta Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

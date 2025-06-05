@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34221
+#	71219
+#	101639
+#	130389
+#	164106
+#	187083
+#	199815
+#	216842
+#	234382
+#	243335
+#
+# Disc length: 3424 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ac0d5e0b
+DTITLE=Various Artist - Yehudi Menuhin - Vol.06
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Max Bruch - Violin Concerto N°1 in G minor, Op.26 - I. Prelude - Allegro moderato [London Sym. Orch, Landon Ronald - 1931]
+TTITLE1=Max Bruch - Violin Concerto N°1 in G minor, Op.26 - II. Adagio
+TTITLE2=Max Bruch - Violin Concerto N°1 in G minor, Op.26 - I. Finale - Allegro energico
+TTITLE3=Beethoven - Violin Sonata N°1 in D major, Op.12 n°1 - I. Allegro con brio  [Hubert Giesen, piano - 1929]
+TTITLE4=Beethoven - Violin Sonata N°1 in D major, Op.12 n°1 - II. Tema con variazioni - Andante con moto
+TTITLE5=Beethoven - Violin Sonata N°1 in D major, Op.12 n°1 - III. Rondo - Allegro
+TTITLE6=Johannes Brahms - Hungarian Dance N°1 in G minor  [arr. Joachim - Marcel Gazelle, piano: 1936]
+TTITLE7=Johannes Brahms - Hungarian Dance N°4 in B minor
+TTITLE8=Johannes Brahms - Hungarian Dance N°6 in B flat major
+TTITLE9=Johannes Brahms - Hungarian Dance N°7 in A major
+TTITLE10=Johannes Brahms - Hungarian Dance N°17 in F sharp minor
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

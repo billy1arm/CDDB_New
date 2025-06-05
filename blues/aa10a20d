@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50825
+#	76533
+#	97770
+#	115648
+#	135468
+#	154458
+#	197765
+#	213375
+#	247613
+#	263080
+#	283523
+#	305933
+#
+# Disc length: 4260 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=aa10a20d
+DTITLE=Jimi Hendrix - Live at the Deutschlandhalle Berlin
+DYEAR=1970
+DGENRE=Blues
+TTITLE0=Interview with Jimi by Chris Bromberg
+TTITLE1=Straight Ahead
+TTITLE2=Spanish Castle Magic
+TTITLE3=Sunshine Of Your Love
+TTITLE4=Hey Baby (Land Of The New Rising Sun)
+TTITLE5=Message To Love
+TTITLE6=Machine Gun
+TTITLE7=Purple Haze
+TTITLE8=Red House
+TTITLE9=Foxy Lady
+TTITLE10=Ezy Rider
+TTITLE11=Hey Joe
+TTITLE12=Power Of Soul - Lover Man
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

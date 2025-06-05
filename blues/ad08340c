@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12898
+#	26605
+#	39303
+#	52383
+#	65995
+#	79195
+#	92508
+#	106393
+#	119943
+#	132555
+#	144095
+#
+# Disc length: 2102 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.16
+#
+DISCID=ad08340c
+DTITLE=B.B. KING - Singin' the Blues
+DYEAR=1957
+DGENRE=Blues
+TTITLE0=Please Love Me
+TTITLE1=You Upset Me Baby
+TTITLE2=Everyday I Have the Blues
+TTITLE3=Bad Luck
+TTITLE4=3 O'Clock Blues
+TTITLE5=Blind Love
+TTITLE6=Woke Up This Morning
+TTITLE7=You Know I Love You
+TTITLE8=Sweet Little Angel
+TTITLE9=Ten Long Years
+TTITLE10=Did You Ever Love a Woman
+TTITLE11=Crying Won't Help You
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

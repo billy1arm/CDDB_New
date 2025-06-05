@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16318
+#     45136
+#     75474
+#     96171
+#     119619
+#     159618
+#     174893
+#     201882
+#     223492
+#     249088
+#     263959
+#     301384
+# 
+# Disc length: 4421 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a511430d
+DTITLE=Bluespumpm - 20 Years Party-Album
+DYEAR=1900
+DGENRE=
+TTITLE0=Wuffi Blues
+TTITLE1=Men From Milwaukee
+TTITLE2=Blues In Love
+TTITLE3=Two Turning Wheels
+TTITLE4=Ring Of Fire
+TTITLE5=In The Morning
+TTITLE6=Lonelyness Blues
+TTITLE7=Suzie Q
+TTITLE8=You Got It
+TTITLE9=Durst My Broom
+TTITLE10=Chicken Blues
+TTITLE11=My Baby Is Crying
+TTITLE12=Hallelujah I Love Her So
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

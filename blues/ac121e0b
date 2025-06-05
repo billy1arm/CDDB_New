@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35601
+#	58112
+#	93967
+#	128140
+#	172474
+#	195645
+#	232416
+#	276282
+#	316235
+#	326899
+#
+# Disc length: 4640 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=ac121e0b
+DTITLE=Allan Holdsworth - 2 Vinnie Coliuta Gigs - Miami and San Antonio 1989 plus Bonus IOU rarities
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Funnels - Miami
+TTITLE1=Shallow Sea - Miami
+TTITLE2=Looking Glass - Miami
+TTITLE3=Pud Wud - Miami
+TTITLE4=White Line - Miami
+TTITLE5=Shallow Sea - San Antonio
+TTITLE6=Pud Wud - San Antonio
+TTITLE7=Devil Takes the Hindmost - San Antonio
+TTITLE8=Vinnie Solo - Non-Brewed Condiment - San Antonio
+TTITLE9=Water on the Brain (Lost IOU sessions)
+TTITLE10=White Line (Lost IOU sessions - Unknown Female Vocals)
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

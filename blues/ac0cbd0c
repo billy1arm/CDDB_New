@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20920
+#	58395
+#	70797
+#	78545
+#	106875
+#	116075
+#	136787
+#	168787
+#	182347
+#	216652
+#	229980
+#
+# Disc length: 3263 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ac0cbd0c
+DTITLE=Duke Ellington - Festival Session
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=Perdido
+TTITLE1=Copout Extension
+TTITLE2=Duael Fuel - Part I
+TTITLE3=Duael Fuel - Part II
+TTITLE4=Duael Fuel - Part III
+TTITLE5=Idiom '59 - Part I
+TTITLE6=Idiom '59 - Part II
+TTITLE7=Idiom '59 - Part III
+TTITLE8=Things Ain't What They Used To Be
+TTITLE9=Launching Pad
+TTITLE10=V.I.P.'s Boogie
+TTITLE11=Jam With Sam
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

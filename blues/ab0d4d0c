@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	18220
+#	40442
+#	58892
+#	82122
+#	97240
+#	125412
+#	160465
+#	181935
+#	200065
+#	219855
+#	241905
+#
+# Disc length: 3407 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=ab0d4d0c
+DTITLE=Benoit Blue Boy - Parlez vous français
+DYEAR=1990
+DGENRE=Blues
+TTITLE0=Benoit Blue Boy - Elle rentre dedans
+TTITLE1=Benoit Blue Boy - Oh chérie oh
+TTITLE2=Benoit Blue Boy - La porte en arrière
+TTITLE3=Benoit Blue Boy - Assis la nerveux
+TTITLE4=Benoit Blue Boy - Petite fille
+TTITLE5=Benoit Blue Boy - Ils sont partis
+TTITLE6=Benoit Blue Boy - Louisiana
+TTITLE7=Benoit Blue Boy - Qu'est ce que t'en f'ras
+TTITLE8=Benoit Blue Boy - J'marche doucement
+TTITLE9=Benoit Blue Boy - Angela
+TTITLE10=Benoit Blue Boy - Parlez vous français
+TTITLE11=Benoit Blue Boy - Téléphone Port Arthur
+EXTD=YEAR: 1990 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

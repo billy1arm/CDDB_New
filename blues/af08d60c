@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     14085
+#     29505
+#     41607
+#     58392
+#     70985
+#     88702
+#     99525
+#     114095
+#     125530
+#     142392
+#     158065
+# 
+# Disc length: 2264 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=af08d60c
+DTITLE=Juanita Hall - Juanita Hall Sings The Blues
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Hold That Train
+TTITLE1=You've Been  A Good Old Wagon
+TTITLE2=After You're Gone
+TTITLE3=Nobody Want You When You're Down and Out
+TTITLE4=I Don't Want It Second Hand
+TTITLE5=A Good Man Is Hard To Find
+TTITLE6=Baby Won't You Please Come Home
+TTITLE7=Gulf Coast Blues
+TTITLE8=Second Fiddle
+TTITLE9=Downhearted Blues
+TTITLE10=Gimme A Pigfoot
+TTITLE11=Lovin' Sam From Alabam
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

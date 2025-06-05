@@ -1,0 +1,49 @@
+# xmcd
+#
+# Track frame offsets:
+#	183
+#	26170
+#	51815
+#	74030
+#	100878
+#	120965
+#	142120
+#	158990
+#	179855
+#	200820
+#	219925
+#
+# Disc length: 3235 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: dBpowerAMP V4.0
+#
+DISCID=ae0ca10b
+DTITLE=MichaelMcDonald,StLouis,MO - TakeItToHeart;Reprise7599-25979-2
+DYEAR=1990
+DGENRE=Slow Rock
+TTITLE0=AllWeGot(PeterLeinheiser,MMcDonald;1990,MichaelMcDonald,StLouis,MO)
+TTITLE1=GetTheWordStarted(DavidPack,MMcDonald;1990,MichaelMcDonald,StLouis,MO)
+TTITLE2=LoveCanBreakYourHeart(PaulCarrack,MMcDonald;1990,MichaelMcDonald,StLouis,MO)
+TTITLE3=TakeItToHeart(DianeWarren,MMcDonald;1990,MichaelMcDonald,StLouis,MO)
+TTITLE4=TearItUp(GardnerCole,SethSwirsky;1990,MichaelMcDonald,StLouis,MO)
+TTITLE5=LonelyTalk(ChuckSabatino,MMcDonald;1990,MichaelMcDonald,StLouis,MO)
+TTITLE6=Searchin'ForUnderstanding(DarrellBrown,MMcDonald;1990,MichaelMcDonald,StLouis,MO)
+TTITLE7=Homeboy(EdSanford,MMcDonald;1990,MichaelMcDonald,StLouis,MO)
+TTITLE8=NoAmountOfReason(GeorgeHawkins,MMcDonald;1990,MichaelMcDonald,StLouis,MO)
+TTITLE9=OneStepAway(TomWhitlock,ChrisThompson;1990,MichaelMcDonald,StLouis,MO)
+TTITLE10=YouShowMe(HarryGarfield,MMcDonald;1990,MichaelMcDonald,StLouis,MO)
+EXTD=corrected\nmore info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Composer;Date,Artist,Location,State,Country)
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

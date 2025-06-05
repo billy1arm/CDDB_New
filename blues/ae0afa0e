@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12075
+#	21150
+#	32775
+#	40200
+#	61650
+#	72675
+#	85200
+#	98700
+#	110475
+#	121500
+#	142725
+#	154725
+#	172125
+#
+# Disc length: 2812 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: freeDBTagger 0.5
+#
+DISCID=ae0afa0e
+DTITLE=Various Artist - Dive Into Disney
+DYEAR=2002
+DGENRE=rock
+TTITLE0=Mickey Mouse Club March [Mickey Mouse Club]
+TTITLE1=Yo Ho [Disneyland]
+TTITLE2=Main Street Electrical Parade [Disneyland]
+TTITLE3=It's A Small World [Disneyland]
+TTITLE4=When You Wish Upon A Star [Pinocchio]
+TTITLE5=Baby Mine [Dumbo]
+TTITLE6=Chim Chim Cher-Ee [Mary Poppins]
+TTITLE7=Forever And Ever [Winnie The Pooh's Most Grand Adventure]
+TTITLE8=I Wan'na Be Like You [The Jungle Book]
+TTITLE9=Supercalifragilistic Expialidoucious [Mary Poppins]
+TTITLE10=Go To The Distance [Hercules]
+TTITLE11=Bibbidi-Bobbidi-Boo [Cinderella]
+TTITLE12=Hakuna Matata [The Lion King]
+TTITLE13=Someone's Waiting For You [The Rescuers]
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31016
+#	48400
+#	80723
+#	104608
+#	150106
+#	186791
+#	209458
+#	241809
+#	284196
+#	302120
+#	327266
+#
+# Disc length: 4722 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a212700c
+DTITLE=Bembeya_Jazz_National - The_Syliphone_Years_CD2
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Beyla
+TTITLE1=Fatoumata
+TTITLE2=Moussogbe
+TTITLE3=Sou
+TTITLE4=N'gamokoro
+TTITLE5=Ballake
+TTITLE6=Mussofing
+TTITLE7=Dya_Dya
+TTITLE8=Sina_Mousso
+TTITLE9=N'temenna
+TTITLE10=Telephone
+TTITLE11=Petit_Sekou
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

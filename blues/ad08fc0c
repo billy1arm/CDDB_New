@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	23848
+#	43115
+#	59698
+#	72423
+#	86580
+#	102880
+#	116360
+#	128130
+#	138168
+#	147908
+#	161933
+#
+# Disc length: 2312 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=ad08fc0c,af08f90c
+DTITLE=Rolling Stones - The Rolling Stones Now!
+DYEAR=1900
+DGENRE=
+TTITLE0=Everybody Needs Somebody To Love
+TTITLE1=Down Home Girl
+TTITLE2=You Can't Catch Me
+TTITLE3=Heart Of Stone
+TTITLE4=What A Shame
+TTITLE5=Mona (I Need You Baby)
+TTITLE6=Down The Road Apiece
+TTITLE7=Off The Hook
+TTITLE8=Pain In My Heart
+TTITLE9=Oh Baby (We Got A Good Thing Going)
+TTITLE10=Little Red Rooster
+TTITLE11=Surprise, Surprise
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

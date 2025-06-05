@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  17950
+#  38320
+#  57245
+#  72380
+#  82125
+#  96752
+#  114907
+#  134675
+#  148965
+#  167652
+#  181630
+#  197312
+#
+# Disc length: 2899 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=ae0b510d
+DTITLE=David Elias - Lost in the Green
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Time to Sleep Corrina
+TTITLE1=Lost in the Green
+TTITLE2=Eternal Youth
+TTITLE3=Light as a Rail
+TTITLE4=Dollar Bill Blues
+TTITLE5=Nothin'
+TTITLE6=Rhythm of Light
+TTITLE7=Season of the Fall
+TTITLE8=May People
+TTITLE9=Stone House on Blueberry Hill
+TTITLE10=Every Hour, Every Day
+TTITLE11=Mainland
+TTITLE12=The Great Unknown
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

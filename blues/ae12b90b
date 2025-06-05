@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28330
+#	46365
+#	95802
+#	143907
+#	176645
+#	198495
+#	247240
+#	293417
+#	314715
+#	340750
+#
+# Disc length: 4795 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=ae12b90b
+DTITLE=Various Artist - blue note, the finest in jazz from 1939 to 2003 - disc 1
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=blues march - art blakey and the jazz messengers
+TTITLE1=midnight blue - kenny burrell
+TTITLE2=autumn leaves - cannonball adderley feat. miles davis
+TTITLE3=blue train - john coltrane
+TTITLE4=song for my father - the horace silver quintet
+TTITLE5=fungii mama - jimmy smith
+TTITLE6=cantaloop island - herbie hancock
+TTITLE7=the sidewinder - lee morgan
+TTITLE8=september second - michel petrucciani
+TTITLE9=thinkin' about your body - bobby mcferrin
+TTITLE10=copy control player
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

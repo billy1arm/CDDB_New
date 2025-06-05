@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13320
+#	26306
+#	43530
+#	56224
+#	70263
+#	82181
+#	94809
+#	106363
+#	123713
+#	141884
+#	155669
+#
+# Disc length: 2224 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ab08ae0c
+DTITLE=Dave Pell Octet - Plays Rodgers and Hart
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Why Do You Suppose?
+TTITLE1=Have You Met Miss Jones?
+TTITLE2=You Are Too Beautiful
+TTITLE3=Mountain Greenery
+TTITLE4=A Ship Without a Sail
+TTITLE5=The Blue Room
+TTITLE6=I've Got Five Dollars
+TTITLE7=Sing for Your Supper
+TTITLE8=It Never Entered My Mind
+TTITLE9=The Lady Is a Tramp
+TTITLE10=Spring Is Here
+TTITLE11=Ten Cents a Dance
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

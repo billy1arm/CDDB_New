@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21275
+#	38205
+#	50402
+#	76397
+#	92470
+#	108572
+#	127682
+#	142212
+#	160505
+#	182317
+#	201492
+#	221635
+#
+# Disc length: 3210 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ab0c880d
+DTITLE=Carol Welsman - The Language of Love
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Every Breath You Take
+TTITLE1=You Take Me Away
+TTITLE2=On A Slow Boat To China
+TTITLE3=A Nightingale Sang In Berkeley Square
+TTITLE4=Can't Help Falling in Love
+TTITLE5=Just One Of Those Things
+TTITLE6=Coracao Leviano
+TTITLE7=Taking A Chance On Love
+TTITLE8=A Fool I Know
+TTITLE9=There's No Such Thing As Love
+TTITLE10=The Man I Love
+TTITLE11=Chanson de Maxence
+TTITLE12=Senza Fine
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22768
+#	40867
+#	64852
+#	86040
+#	109240
+#	133593
+#	156191
+#	181452
+#	206894
+#	231690
+#	254650
+#
+# Disc length: 3553 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=af0ddf0c
+DTITLE=Hermann Hesse - Unterm Rad
+DYEAR=2002
+DGENRE=Hoerbuch
+TTITLE0=63 Unterm Rad
+TTITLE1=64 Unterm Rad
+TTITLE2=65 Unterm Rad
+TTITLE3=66 Unterm Rad
+TTITLE4=67 Unterm Rad
+TTITLE5=68 Unterm Rad
+TTITLE6=69 Unterm Rad
+TTITLE7=70 Unterm Rad
+TTITLE8=71 Unterm Rad
+TTITLE9=72 Unterm Rad
+TTITLE10=73 Unterm Rad
+TTITLE11=74 Unterm Rad
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

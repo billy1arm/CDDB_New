@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12144
+#	46017
+#	70858
+#	91798
+#	112422
+#	147964
+#	166171
+#	182329
+#	206873
+#	228209
+#	247019
+#	296363
+#
+# Disc length: 4438 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ac11540d
+DTITLE=Alvin Lee and Ten Years After - Pure Blues
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Don't Want You Woman
+TTITLE1=The Bluest Blues
+TTITLE2=I Woke Up This Morning
+TTITLE3=Real Life Blues
+TTITLE4=The Stomp
+TTITLE5=Slow Blues In C (Live)
+TTITLE6=Wake Up Moma
+TTITLE7=Talk Don't Bother Me
+TTITLE8=Every Blues You've Ever Heard
+TTITLE9=I Get All Shook Up
+TTITLE10=Lost In Love
+TTITLE11=Help Me (Live)
+TTITLE12=Outside My Window
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10485
+#	24205
+#	36683
+#	53226
+#	66582
+#	78055
+#	91915
+#	106263
+#	120524
+#	136209
+#	148217
+#	160903
+#
+# Disc length: 2290 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ad08f00d
+DTITLE=Louis Armstrong - Most Request Songs
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=What A Wonderful World
+TTITLE1=Nobody Knows The Troubles I've Seen
+TTITLE2=Shadrack
+TTITLE3=Go Down Moses
+TTITLE4=Rock My Soul
+TTITLE5=Ezekiel Saw De Wheel
+TTITLE6=On My Way
+TTITLE7=Down By The Riverside
+TTITLE8=Swing Low, Sweet Chariot
+TTITLE9=Sometime I Feel Like Motherless Child
+TTITLE10=Jonah And The Whale
+TTITLE11=Didn't It Rain
+TTITLE12=This Train
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

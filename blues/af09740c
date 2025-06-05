@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14382
+#     29740
+#     47017
+#     64455
+#     77877
+#     88472
+#     102135
+#     121082
+#     133985
+#     147102
+#     161880
+# 
+# Disc length: 2422 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=af09740c
+DTITLE=Rogers and Hart - Great American Songwriters
+DYEAR=1900
+DGENRE=
+TTITLE0=Dancing On The Ceiling
+TTITLE1=My Romance
+TTITLE2=Ten Cents A Dance
+TTITLE3=Where Or When
+TTITLE4=She Was Too Good To Me
+TTITLE5=Nobody's Heart
+TTITLE6=Isn't It Romantic
+TTITLE7=I Could Write A Book
+TTITLE8=Nothing But You
+TTITLE9=You Are Too Beautiful
+TTITLE10=Ther's A Small Hotel
+TTITLE11=It Never Entered My Mind
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

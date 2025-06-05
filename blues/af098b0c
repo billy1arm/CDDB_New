@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21682
+#	32130
+#	50202
+#	62320
+#	78210
+#	92072
+#	107117
+#	124952
+#	138717
+#	155902
+#	167957
+#
+# Disc length: 2445 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=af098b0c
+DTITLE=Josh Davis and English Dave - Turnpike Cruiser
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Fish-n-Chips
+TTITLE1=10-inch Record
+TTITLE2=Trunpike Cruiser
+TTITLE3=Listen To Me
+TTITLE4=Bobby's Rock
+TTITLE5=Bye-Bye
+TTITLE6=Please Come Home
+TTITLE7=You So Fine
+TTITLE8=Porcupine
+TTITLE9=I Love The Life I Live
+TTITLE10=Annabelle
+TTITLE11=Jack-n-The Beanstalk
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12675
+#     24900
+#     35250
+#     51375
+#     66375
+#     75375
+#     88350
+#     99825
+#     121275
+#     135150
+#     149775
+#     161250
+# 
+# Disc length: 2359 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a809350d
+DTITLE=Bob Margolin - The Old School
+DYEAR=1900
+DGENRE=
+TTITLE0=Just Keep Lovin' Her
+TTITLE1=The Old School
+TTITLE2=Later For You
+TTITLE3=River's Invitation
+TTITLE4=Lonesome Blues
+TTITLE5=The Window
+TTITLE6=Kindhearted Woman
+TTITLE7=At My Front Door (Crazy Little Mama)
+TTITLE8=Memory Pain
+TTITLE9=Young Fashioned Ways
+TTITLE10=Ooh Wee
+TTITLE11=My Life Is Ruined
+TTITLE12=Mean Woman Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

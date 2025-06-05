@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34528
+#	54050
+#	69750
+#	92088
+#	124805
+#	149698
+#	164048
+#	187953
+#	214248
+#	239938
+#	249295
+#
+# Disc length: 3575 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ab0df50c
+DTITLE=アカデミー室内管弦楽団 - モーツァルト 交響曲集「アイネ・クライネ・ナハトムジーク」
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=交響曲 第25番 ト短調 第一楽章 アレグロ・ブリオ
+TTITLE1=交響曲 第25番 ト短調 第二楽章 アンダンテ
+TTITLE2=交響曲 第25番 ト短調 第三楽章 メヌエット&トリオ
+TTITLE3=交響曲 第25番 ト短調 第四楽章 アレグロ
+TTITLE4=交響曲 第29番 イ長調 第一楽章 アレグロ・モデラート
+TTITLE5=交響曲 第29番 イ長調 第二楽章 アンダンテ
+TTITLE6=交響曲 第29番 イ長調 第三楽章 メヌエット&トリオ
+TTITLE7=交響曲 第29番 イ長調 第四楽章 アレグロ・スピリート
+TTITLE8=アイネ・クライネ・ナハトムジーク 第一楽章 アレグロ
+TTITLE9=アイネ・クライネ・ナハトムジーク 第二楽章 ロマンス(アンダンテ)
+TTITLE10=アイネ・クライネ・ナハトムジーク 第三楽章 メヌエット&トリオ
+TTITLE11=アイネ・クライネ・ナハトムジーク 第四楽章 ロンド(アレグロ)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

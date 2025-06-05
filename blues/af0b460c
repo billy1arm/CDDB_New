@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	20762
+#	38765
+#	57695
+#	72387
+#	87645
+#	106520
+#	126832
+#	140635
+#	154422
+#	171875
+#	191465
+#
+# Disc length: 2888 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=af0b460c
+DTITLE=Marc Minelli - Les tziganes turcs d'Istambul
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=In your eyes
+TTITLE1=Let's go to Moscow
+TTITLE2=loving you (like I do)
+TTITLE3=Down in Mexico
+TTITLE4=I just wanna make love to you
+TTITLE5=Love will allways
+TTITLE6=Alcohol
+TTITLE7=Temptation
+TTITLE8=Goodtimes are back
+TTITLE9=So crazy
+TTITLE10=Take me to america
+TTITLE11=Crashing in the train
+EXTD=YEAR: 1994 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

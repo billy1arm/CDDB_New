@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23850
+#	48262
+#	65122
+#	88537
+#	111000
+#	132630
+#	150740
+#	171450
+#	190500
+#	209775
+#	229950
+#
+# Disc length: 3320 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta4
+#
+DISCID=ae0cf60c
+DTITLE=Howard and the White Boys - The Big Score
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Leave The Lights On
+TTITLE1=Judge
+TTITLE2=It's All You
+TTITLE3=I Need Some Cash
+TTITLE4=I Thank You
+TTITLE5=The Last Time
+TTITLE6=Trouble Follows You
+TTITLE7=You'll Come Back
+TTITLE8=Walk Before You Run
+TTITLE9=A Fool For You, Baby
+TTITLE10=Bring It On
+TTITLE11=All Work And No Play
+EXTD=YEAR: 1999 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19655
+#	50197
+#	65352
+#	82105
+#	96880
+#	109890
+#	123635
+#	144430
+#	160457
+#	178505
+#	190405
+#
+# Disc length: 2878 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=ae0b3c0c
+DTITLE=Kokomo Blues - to be or what
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=Living in limbo
+TTITLE1=Rainy night in Taupo
+TTITLE2=Working class shuffle
+TTITLE3=Broken china
+TTITLE4=The end of the world (came today)
+TTITLE5=Throwin' up my hands
+TTITLE6=Sugar rush
+TTITLE7=(it's all so) joy joy happy happy
+TTITLE8=Thirty days
+TTITLE9=Downhearted blues
+TTITLE10=Penguin glove
+TTITLE11=G B boogie
+EXTD=\nYEAR: 1996  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

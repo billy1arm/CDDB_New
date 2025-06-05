@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18729
+#	42391
+#	62251
+#	74699
+#	95410
+#	123500
+#	144663
+#	165873
+#	198043
+#	223135
+#	242040
+#
+# Disc length: 3794 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 7
+#
+DISCID=ab0ed00c
+DTITLE=Sampler - A Taste Of Blues (Audio 2002)
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=[01] Everighting I Need
+TTITLE1=[02] Voodoo Chile
+TTITLE2=[03] Strangers Blues
+TTITLE3=[04] Boogie 2000
+TTITLE4=[05] You Can't Always Get What You Want
+TTITLE5=[06] Five Miles Above
+TTITLE6=[07] Baby Chile
+TTITLE7=[08] Livin' Every Day
+TTITLE8=[09] Hometown
+TTITLE9=[10] Living In The House Of The Blues
+TTITLE10=[11] I Still Heaven't Found What I'm Looking Fo
+TTITLE11=[12] Comparsion For The Blues
+EXTD=Sampler - A Taste Of Blues (Audio 2002)01. Ainsley Lister - Ever
+EXTD=ighting I Need	04:0702. Eric Gales and Trudy Linn - Voodoo Chile	05
+EXTD=:1503. Larry Garner - Strangers Blues	04:2404. CannedHeat - Boog
+EXTD=ie 2000	02:4505. Luther Allison - You Can't AlwaysGet What You Wa
+EXTD=nt	04:3606. Eric Bibb - Five Miles Above	06:1407. Bernard Alison
+EXTD=Baby Chile	04:4208. Walter Trout - Livin' Every Day	04:4209. 
+EXTD=Ana Popovic - Hometown	07:0810. Luther Allison - Living In The Ho
+EXTD=use Of The Blues	05:3411. Friend'N Fellow - I Still Heaven't Foun
+EXTD=d What I'm Looking For	04:1212. Buddy Miles - Comparsion For The 
+EXTD=Blues	09:27© 2002 Ruf Records
+EXTT0=A Taste of Blues 2002
+EXTT1=A Taste of Blues 2002
+EXTT2=A Taste of Blues 2002
+EXTT3=A Taste of Blues 2002
+EXTT4=A Taste of Blues 2002
+EXTT5=A Taste of Blues 2002
+EXTT6=A Taste of Blues 2002
+EXTT7=A Taste of Blues 2002
+EXTT8=A Taste of Blues 2002
+EXTT9=A Taste of Blues 2002
+EXTT10=A Taste of Blues 2002
+EXTT11=A Taste of Blues 2002
+PLAYORDER=

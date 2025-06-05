@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17922
+#     39275
+#     57610
+#     71880
+#     104572
+#     116867
+#     141125
+#     156555
+#     170512
+#     194392
+# 
+# Disc length: 3105 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=aa0c1f0b
+DTITLE=Tony Spinner - My '64
+DYEAR=1900
+DGENRE=
+TTITLE0=My '64
+TTITLE1=High Cotton
+TTITLE2=Goin' To Missouri
+TTITLE3=Looks Like It's Gonna Rain
+TTITLE4=Do Yoy Remember?
+TTITLE5=Arkansas Shuffle
+TTITLE6=One Woman
+TTITLE7=All Over You
+TTITLE8=Tell Me
+TTITLE9=Goodbye
+TTITLE10=Ballad Of T.S.
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,58 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9202
+#	24870
+#	35255
+#	49647
+#	63430
+#	79142
+#	91442
+#	102252
+#	111750
+#	123337
+#	136215
+#	147570
+#	159417
+# Disc length: 2306 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=aa09000e
+DTITLE=Frank Sinatra - A Jolly Christmas From Frank Sinatra
+DYEAR=1900
+DGENRE=
+TTITLE0=Jingle Bells
+TTITLE1=The Christmas Song
+TTITLE2=Mistletoe And Holly
+TTITLE3=I'll Be Home For Christmas
+TTITLE4=The Christmas Waltz
+TTITLE5=Have Yourself A Merry Little Christmas
+TTITLE6=The First Noel
+TTITLE7=Hark! The Herald Angels Sing
+TTITLE8=O Little Town Of Bethlehem
+TTITLE9=Adeste Fideles
+TTITLE10=It Came Upon A Midnight Clear
+TTITLE11=Silent Night
+TTITLE12=White Christmas
+TTITLE13=The Christmas Waltz (alternate version)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

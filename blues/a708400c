@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14502
+#	28330
+#	38432
+#	51577
+#	65207
+#	77925
+#	91585
+#	104675
+#	120087
+#	134060
+#	146290
+#
+# Disc length: 2114 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=a708400c
+DTITLE=Neal Hefti - Singing Instrumentals
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Opus #1
+TTITLE1=Jersey Bounce
+TTITLE2=Redskin Rhumba
+TTITLE3=Mood Indigo
+TTITLE4=Woodchopper's Ball
+TTITLE5=Skyliner
+TTITLE6=One O'Clock Jump
+TTITLE7=I Can't Get Started
+TTITLE8=Intermission Riff
+TTITLE9=Begin The Beguine
+TTITLE10=Summit Ridge Drive
+TTITLE11=Back Beat Boogie
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

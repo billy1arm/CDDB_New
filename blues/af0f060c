@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	23662
+#	48205
+#	78472
+#	101032
+#	124325
+#	138420
+#	154270
+#	177717
+#	201660
+#	223770
+#	262657
+#
+# Disc length: 3848 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=af0f060c
+DTITLE=Robben Ford - Tiger Walk
+DYEAR=1900
+DGENRE=
+TTITLE0=In the Beginning
+TTITLE1=Ghosts
+TTITLE2=Freedom
+TTITLE3=Red Lady w/ Cello
+TTITLE4=Oasis
+TTITLE5=Just Like It Is
+TTITLE6=I Cant Stand the Rain
+TTITLE7=The Champ
+TTITLE8=Tiger Walk
+TTITLE9=Comin' up
+TTITLE10=Ray Charles Bonus Track
+TTITLE11=Cadillac
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	35497
+#	56430
+#	73815
+#	103152
+#	118710
+#	134835
+#	157205
+#	176847
+#	217807
+#	235435
+#
+# Disc length: 3357 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ac0d1b0b
+DTITLE=Hermann Baumann - Collection [CD03) Mozart
+DYEAR=1985
+DGENRE=Classical
+TTITLE0=Mozart - Horn Concerto No. 3 in E flat K447 - I. Allergo
+TTITLE1=Mozart - Horn Concerto No. 3 in E flat K447 - II. Romanze - Larghetto
+TTITLE2=Mozart - Horn Concerto No. 3 in E flat K447 - III. Allegro
+TTITLE3=Mozart - Horn Concerto No. 2 in E flat K417 - I. Allegro Maestoso
+TTITLE4=Mozart - Horn Concerto No. 2 in E flat K417 - II. Andante
+TTITLE5=Mozart - Horn Concerto No. 2 in E flat K417 - III. Rondo
+TTITLE6=Mozart - Horn Concerto in D K412,514 - I. Allegro
+TTITLE7=Mozart - Horn Concerto in D K412,514 - II. Rondo - Allegro
+TTITLE8=Mozart - Horn Concerto No. 4 in E flat K495 - I. Allegro Moderato
+TTITLE9=Mozart - Horn Concerto No. 4 in E flat K495 - II. Romanza - Andante
+TTITLE10=Mozart - Horn Concerto No. 4 in E flat K495 - III. Rondo - Allegro Vivace
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

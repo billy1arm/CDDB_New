@@ -1,0 +1,211 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11640
+#	23107
+#	27175
+#	38187
+#	49205
+#	60737
+#	74457
+#	90252
+#	107240
+#	108122
+#	109095
+#	111775
+#	112712
+#	113610
+#	117357
+#	130925
+#	131975
+#	135270
+#	136285
+#	137917
+#	150010
+#	151825
+#	152422
+#	153932
+#	155470
+#	156432
+#	167077
+#	168015
+#	169655
+#	179690
+#	180537
+#	181135
+#	182022
+#	197082
+#	198052
+#	198950
+#	200515
+#	203940
+#	214885
+#	229350
+#	240340
+#	252137
+#	262747
+#	274515
+#	284407
+#	294932
+#	297462
+#	299932
+#	302395
+#	304822
+#	307350
+#	309862
+#	312402
+#	314872
+#	317310
+#	319757
+#	322212
+#	324755
+#	327305
+#	329842
+#	332385
+#	334822
+#	337285
+#	339752
+#
+# Disc length: 4562 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ad11d041
+DTITLE=Sonoton Authentic Series - SAS 203 - Asia Today 3
+DYEAR=1995
+DGENRE=Contentum
+TTITLE0=China - Never ending dreams 2
+TTITLE1=China - Never ending dreams 3
+TTITLE2=China - Never ending dreams 4
+TTITLE3=China - Hard life 2
+TTITLE4=China - Hard life 3
+TTITLE5=China - Utopia 2
+TTITLE6=Thailand - Puenthapi 2
+TTITLE7=Thailand - Tuanjai 2
+TTITLE8=India - Longing for love 2
+TTITLE9=India - Longing for love 3
+TTITLE10=India - Longing for love 4
+TTITLE11=India - Longing for love 5
+TTITLE12=India - Longing for love 6
+TTITLE13=India - Longing for love 7
+TTITLE14=India - Longing for love 8
+TTITLE15=India - Heart sweet heart 2
+TTITLE16=India - Heart sweet heart 3
+TTITLE17=India - Heart sweet heart 4
+TTITLE18=India - Heart sweet heart 5
+TTITLE19=India - Heart sweet heart 6
+TTITLE20=India - Joyours ride 1
+TTITLE21=India - Joyours ride 2
+TTITLE22=India - Joyours ride 3
+TTITLE23=India - Joyours ride 4
+TTITLE24=India - Joyours ride 5
+TTITLE25=India - Joyours ride 6
+TTITLE26=India - Asia Europe mix 1
+TTITLE27=India - Asia Europe mix 2
+TTITLE28=India - Asia Europe mix 3
+TTITLE29=India - Calcutta rush 1
+TTITLE30=India - Calcutta rush 2
+TTITLE31=India - Calcutta rush 3
+TTITLE32=India - Calcutta rush 4
+TTITLE33=India - Honeymoon in Kashmir 1
+TTITLE34=India - Honeymoon in Kashmir 2
+TTITLE35=India - Honeymoon in Kashmir 3
+TTITLE36=India - Honeymoon in Kashmir 4
+TTITLE37=India - Honeymoon in Kashmir 5
+TTITLE38=Japan - Festival of Tsugaru
+TTITLE39=Japan - Kyoto Sanden in 
+TTITLE40=Japan - Mount Fuji
+TTITLE41=Japan - The Kabuki Danjuro
+TTITLE42=Japan - The Jagi bushi
+TTITLE43=Japan - Asakusa Sanja matsuri
+TTITLE44=Indonesia - Biru puti cintaku
+TTITLE45=Indonesia - Kembang wangi
+TTITLE46=29 second versions - Never ending dreams
+TTITLE47=29 second versions - Hard life
+TTITLE48=29 second versions - Utopia
+TTITLE49=29 second versions - Puenthai
+TTITLE50=29 second versions - Tuanjai
+TTITLE51=29 second versions - Longing for love
+TTITLE52=29 second versions - Heart, sweet heart
+TTITLE53=29 second versions - Joyours ride
+TTITLE54=29 second versions - Asia Europe mix
+TTITLE55=29 second versions - Calcutta rush
+TTITLE56=29 second versions - Honeymoon in Kashmir
+TTITLE57=29 second versions - Festival of Tsugaru
+TTITLE58=29 second versions - Kyoto sanzen in
+TTITLE59=29 second versions - Mount Fuji
+TTITLE60=29 second versions - The Kubaki danjuro
+TTITLE61=29 second versions - The Jagi bushi
+TTITLE62=29 second versions - Asakusa sanja matsuri
+TTITLE63=29 second versions - Biru puthi cintaku
+TTITLE64=29 second versions - Kembang wangi
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+PLAYORDER=

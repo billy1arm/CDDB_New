@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	21495
+# 	39514
+# 	61377
+# 	77060
+# 	105477
+# 	123732
+# 	145035
+# 	167105
+# 	185037
+# 	207617
+# 	235207
+#
+# Disc length: 3697 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=ae0e6f0c
+DTITLE=Bob Malone - The Darkest Part of the Night
+DYEAR=1900
+DGENRE=
+TTITLE0=I Didn't Get You
+TTITLE1=I Know He's Your Husband
+TTITLE2=Gold Rush Inn
+TTITLE3=It Took an Older Woman
+TTITLE4=Where My Heart Will be Found
+TTITLE5=One Foot on the Gas
+TTITLE6=Southern Fried Lovin'
+TTITLE7=Caught up in Christmas
+TTITLE8=Highway 61 Revisited
+TTITLE9=Just 'Cause I Came in Here Alone
+TTITLE10=Drinking for a Living
+TTITLE11=The Darkest Part of the Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=(by Bob Dylan)
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

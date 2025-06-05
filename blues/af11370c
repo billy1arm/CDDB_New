@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    183
+#    38258
+#    74408
+#    100280
+#    117763
+#    128003
+#    164908
+#    194408
+#    207608
+#    214833
+#    247658
+#    288220
+#
+# Disc length: 4409 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.1.9  (wjohn@fix.net)
+#
+DISCID=af11370c
+DTITLE=Stevie Ray Vaughan - Life Without You - Disc 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Tell Me Where We're Going (Instrumental)
+TTITLE1=Life Without You (Take 2)
+TTITLE2=Lightin' Sky Hopkins (Take 2)
+TTITLE3=Hangnails And Boogers/Lightin' Sky Hopkins
+TTITLE4=Hug You Squeeze You (Take 1)
+TTITLE5=May I Have A Little Talk With You (Take 1)
+TTITLE6=I'm Leaving You (Commit A Crime)
+TTITLE7=Blues
+TTITLE8=Guitar Solo
+TTITLE9=Say What (Take 2)
+TTITLE10=Jazzy Thing
+TTITLE11=Chitlins Con Carne
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

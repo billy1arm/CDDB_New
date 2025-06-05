@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12672
+#	24778
+#	37162
+#	50246
+#	64341
+#	78117
+#	91938
+#	106000
+#	119861
+#	132523
+#	146774
+#
+# Disc length: 2114 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ab08400c
+DTITLE=Erroll Garner - 1999_Recopilacion American Jazz and Blues History
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Stardust
+TTITLE1=On the sunny side of the street
+TTITLE2=Red sails in the sunset
+TTITLE3=All of me
+TTITLE4=Rosalie
+TTITLE5=Body and soul
+TTITLE6=I only have eyes for you
+TTITLE7=All the things you are
+TTITLE8=Penthouse serenade
+TTITLE9=More than you know
+TTITLE10=September song
+TTITLE11=I can't believe that you're in love with me
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

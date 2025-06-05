@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17333
+#	38823
+#	54033
+#	69790
+#	105773
+#	121088
+#	140540
+#	158838
+#	177225
+#	191685
+#	208438
+#	224953
+#
+# Disc length: 3330 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=af0d000d
+DTITLE=Knockout Greg and Blue Weather - Blues Disease
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Blues Disease
+TTITLE1=It's my fault darling
+TTITLE2=Shut your mouth
+TTITLE3=Chokin'
+TTITLE4=The telephone is ringing
+TTITLE5=Got my shades on
+TTITLE6=A losing game
+TTITLE7=Christmas time
+TTITLE8=Cool 64
+TTITLE9=Shake yours
+TTITLE10=My habits changed
+TTITLE11=Hooked on love
+TTITLE12=You're the one
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32545
+#	61852
+#	95255
+#	115452
+#	144587
+#	178810
+#	216140
+#	239787
+#	274460
+#	286382
+#
+# Disc length: 4112 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ac100e0b
+DTITLE=Per Henrik Wallin - Blues For Allan 
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Thelonius
+TTITLE1=Blues for Saara 
+TTITLE2=Talking and Thinking
+TTITLE3=Hur har du det med kärleken idag?
+TTITLE4=Ryssland
+TTITLE5=The Breeze and I
+TTITLE6=Blues for Allan Pettersson
+TTITLE7=Winter Rhapsody
+TTITLE8=Sweet and Lovely
+TTITLE9=Spring is Here
+TTITLE10=Harry's Tune
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

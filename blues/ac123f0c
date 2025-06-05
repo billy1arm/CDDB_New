@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12958
+#	47219
+#	61913
+#	83922
+#	110373
+#	152240
+#	201327
+#	267376
+#	282607
+#	311349
+#	323928
+#
+# Disc length: 4673 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ac123f0c
+DTITLE=Various Artist - 読書ジャズ 
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=Lover，Come Back To Me
+TTITLE1=Things Aint What They Used To Be
+TTITLE2=Easter Parade
+TTITLE3=The Touch Of Your Lips
+TTITLE4=Bo-Do
+TTITLE5=I Can’t Get Started
+TTITLE6=Jatp Blues
+TTITLE7=Tel Aviv
+TTITLE8=Flying Home
+TTITLE9=Time To Smile
+TTITLE10=Always
+TTITLE11=Young And Foolish
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

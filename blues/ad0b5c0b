@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22425
+#	37390
+#	52152
+#	73130
+#	86560
+#	104492
+#	131765
+#	153880
+#	178980
+#	197655
+#
+# Disc length: 2910 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ad0b5c0b
+DTITLE=Wes Montgomery - The Wes Montgomery Trio
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0='Round Midnight
+TTITLE1=Yesterdays
+TTITLE2=The End Of A Love Affair
+TTITLE3=Whisper Not
+TTITLE4=Ecorah
+TTITLE5=Satin Doll (Take 7)
+TTITLE6=Missile Blues (Take 6)
+TTITLE7=Too Late Now
+TTITLE8=Jingles
+TTITLE9=Satin Doll (Take 5)
+TTITLE10=Missile Blues (Take 5)
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=
