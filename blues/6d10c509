@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10761
+#	29993
+#	74663
+#	113563
+#	161534
+#	189766
+#	229079
+#	300568
+#
+# Disc length: 4295 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d10c509
+DTITLE=RUBEN SIMEO - RUBEN and SIENA Wind Orchestra
+DYEAR=2008
+DGENRE=Trumpet Ensemble
+TTITLE0=Flight ofthe Bumblebee(R.Korsakov)
+TTITLE1=The Virgin of the Macarena(Mendez)
+TTITLE2=The Carnival of Venice(Arban)
+TTITLE3=Maribel-Fantasia Espanola(Ferran)
+TTITLE4=Reve D'amour(Hock)
+TTITLE5=La Concha Flamenca(Artola)
+TTITLE6=Viva Navarra ! (Larregla)
+TTITLE7=Concerto for Trumpet(Arutiunian)
+TTITLE8=Fantasia para Mari(J.V.Simeo)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

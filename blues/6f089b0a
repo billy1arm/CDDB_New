@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13580
+#	42172
+#	54435
+#	70170
+#	84305
+#	105830
+#	120005
+#	132565
+#	152170
+#
+# Disc length: 2205 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=6f089b0a
+DTITLE=Mordechai Ben David - Hineni
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=Ki Lo Yitosh
+TTITLE1=Hineni
+TTITLE2=Yevorechecho
+TTITLE3=Achas
+TTITLE4=Hinay Lo Yanum
+TTITLE5=Shema Yisroel
+TTITLE6=Shema Hashem
+TTITLE7=Es Tzemach
+TTITLE8=Keli
+TTITLE9=Od Yishoma
+EXTD=\n\n\nYEAR: 1992  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30905
+#	62213
+#	92806
+#	122119
+#	154049
+#	181715
+#	227479
+#	254857
+#
+# Disc length: 3739 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e0e9909
+DTITLE=Lionel Loueke - Karibu
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Karibu
+TTITLE1=Seven Teens
+TTITLE2=Skylark
+TTITLE3=Zala
+TTITLE4=Naima
+TTITLE5=Benny's Tune
+TTITLE6=Light Dark
+TTITLE7=Agbannon Blues
+TTITLE8=Nonvignon
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18265
+#	39411
+#	67059
+#	89902
+#	101586
+#	132217
+#	152342
+#	173160
+#
+# Disc length: 2655 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f0a5d09
+DTITLE=Chris Speed Trio - Iffy
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=A Little Odd
+TTITLE1=Graphic Ridiculous
+TTITLE2=FMU
+TTITLE3=Gina
+TTITLE4=Part III
+TTITLE5=Skew
+TTITLE6=Skipping Really High
+TTITLE7=Coo Coo
+TTITLE8=Slippers
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

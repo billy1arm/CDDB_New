@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44670
+#	71119
+#	95832
+#	128252
+#	146801
+#	180288
+#	189898
+#
+# Disc length: 2831 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6e0b0d08
+DTITLE=Oxymore Quintet - Oxymore Quintet
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Gopala
+TTITLE1=Silhouette
+TTITLE2=Passarelle
+TTITLE3=Mike's Dance
+TTITLE4=Bo3eog
+TTITLE5=Laksh
+TTITLE6=Etoile De Brume Suspendue
+TTITLE7=Optimistic
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

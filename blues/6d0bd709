@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22819
+#	51855
+#	78156
+#	107729
+#	129562
+#	152783
+#	177376
+#	203905
+#
+# Disc length: 3033 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d0bd709
+DTITLE=Lyne Arriale - Arise
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Frevo
+TTITLE1=American Woman
+TTITLE2=Arise
+TTITLE3=Lean On Me
+TTITLE4=Esperanza
+TTITLE5=Change The World
+TTITLE6=The Fallen
+TTITLE7=Upswing
+TTITLE8=Kum Ba Ya
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

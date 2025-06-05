@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21429
+#	52707
+#	70206
+#	93990
+#	106454
+#	124056
+#	149070
+#
+# Disc length: 2228 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=6f08b208
+DTITLE=Gard Nilssen's Acoustic Unity - Firehouse
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=When Pigs Fly
+TTITLE1=Roundtrip
+TTITLE2=Adam's Ale
+TTITLE3=Salada Days
+TTITLE4=Mojo
+TTITLE5=The Resistance
+TTITLE6=Turtlehead
+TTITLE7=Life, Somwhere Before the Exit Signs
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

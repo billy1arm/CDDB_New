@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	23882
+#	33135
+#	45870
+#	98397
+#	130390
+#	176217
+#	190262
+#	199255
+#
+# Disc length: 3527 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d0dc509
+DTITLE=Alan Silva - Johannes Bauer - Roger Turner - In the tradition
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Standard 1 (Vandoeuvre-les-nancy)
+TTITLE1=Standard 2 (Vandoeuvre-les-nancy)
+TTITLE2=Standard 3 (Vandoeuvre-les-nancy)
+TTITLE3=Standard 4 (Vandoeuvre-les-nancy)
+TTITLE4=Standard 5 (Vandoeuvre-les-nancy)
+TTITLE5=Standard 6 (Vandoeuvre-les-nancy)
+TTITLE6=Standard 7 (Vandoeuvre-les-nancy)
+TTITLE7=Standard 8 (Vandoeuvre-les-nancy)
+TTITLE8=Standard 9 (Vandoeuvre-les-nancy)
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

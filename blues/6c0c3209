@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27668
+#	62449
+#	84456
+#	106388
+#	128480
+#	150925
+#	181655
+#	208483
+#
+# Disc length: 3124 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=6c0c3209
+DTITLE=Ekyo - Earth Music
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=Bendigo
+TTITLE1=Dreaming
+TTITLE2=Cajun Blue
+TTITLE3=Outeast
+TTITLE4=The Harley
+TTITLE5=Mandjani
+TTITLE6=Anthem
+TTITLE7=Pastorale
+TTITLE8=Djuet
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

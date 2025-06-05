@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18488
+#	45965
+#	71195
+#	84255
+#	97055
+#	122773
+#	134693
+#
+# Disc length: 1977 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.10
+#
+DISCID=6a07b708
+DTITLE=SHA-LA-VAH - Windswept Melodies
+DYEAR=1986
+DGENRE=New Age
+TTITLE0=Last Light
+TTITLE1=Morning
+TTITLE2=Shepherd's Song
+TTITLE3=Free
+TTITLE4=Refuge
+TTITLE5=Bright And Morning Star
+TTITLE6=Ever Present Love
+TTITLE7=Lo How A Rose Ere Blooming
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21790
+#	47221
+#	87800
+#	111497
+#	147874
+#	182800
+#	204641
+#
+# Disc length: 3107 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f0c2108
+DTITLE=Fuhr Brothers - Reconstruction
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=Hot Hut
+TTITLE1=Steps of M.C. Escher
+TTITLE2=Horizons
+TTITLE3=Pamukkale
+TTITLE4=Green Table Speech
+TTITLE5=Mägdelein
+TTITLE6=Elongate
+TTITLE7=Old Ballad
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

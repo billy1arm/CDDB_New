@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26079
+#	57864
+#	92163
+#	118761
+#	138753
+#	158945
+#	214234
+#
+# Disc length: 3246 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=6d0cac08
+DTITLE=Yonathan Avishai - Joys and Solitudes
+DYEAR=2019
+DGENRE=Jazz
+TTITLE0=Mood Indigo
+TTITLE1=Song For Anny
+TTITLE2=Tango
+TTITLE3=Joy
+TTITLE4=Shir Boker
+TTITLE5=Lya
+TTITLE6=When Things Fall Apart
+TTITLE7=Les pianos De Brazzaville
+EXTD=YEAR: 2019
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

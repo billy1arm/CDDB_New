@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37888
+#	55944
+#	79163
+#	87845
+#	110916
+#	131110
+#	155924
+#
+# Disc length: 2381 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6a094b08
+DTITLE=Volker Kriegel, Featuring Wolfgang Schlüter, Vibraphone - House-Boat (LP)
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=House-Boat
+TTITLE1=Are You Really Living Next To Me?
+TTITLE2=Achterbahn
+TTITLE3=See The Changes
+TTITLE4=In Your Way
+TTITLE5=Your Face, Your Voice
+TTITLE6=Chateau Sentimental
+TTITLE7=Memory Delay
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

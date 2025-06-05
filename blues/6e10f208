@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	193
+#	35483
+#	50653
+#	78385
+#	128230
+#	184913
+#	234948
+#	275818
+#
+# Disc length: 4340 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=6e10f208
+DTITLE=Live - Parigi - 1 Ottobre 1964 - Chicago All Stars - George Russell Sextet - Uptown All Stars
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Pee Wee Blues
+TTITLE1=Three Little Words
+TTITLE2=St Louis Blues
+TTITLE3=The Outer View
+TTITLE4=Volupte
+TTITLE5=You're My Sunshine
+TTITLE6=D C Divertimento
+TTITLE7=Caravan
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

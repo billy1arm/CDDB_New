@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22565
+#	48572
+#	84260
+#	109902
+#	129397
+#	158080
+#	183825
+#	209912
+#
+# Disc length: 3085 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6c0c0b09
+DTITLE=Thorsten Klenze Quartet - Tigrib
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Good to see You
+TTITLE1=A real Love Affair
+TTITLE2=Sad Waltz
+TTITLE3=Tigrib
+TTITLE4=Hall Blues
+TTITLE5=Autumn Ballad
+TTITLE6=Still Life Watercolor
+TTITLE7=Sandro's Blues
+TTITLE8=Temptation
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

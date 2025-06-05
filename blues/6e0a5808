@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33458
+#	62129
+#	89529
+#	105111
+#	129280
+#	149571
+#	185150
+#
+# Disc length: 2650 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e0a5808
+DTITLE=Nils Petter Molvaer - ER
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Hover
+TTITLE1=Softer
+TTITLE2=Water
+TTITLE3=Only These Things Count
+TTITLE4=Sober
+TTITLE5=Darker
+TTITLE6=Feeder
+TTITLE7=Eater
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23976
+#	47401
+#	65026
+#	93341
+#	116041
+#	133292
+#	152189
+#
+# Disc length: 2521 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e09d708
+DTITLE=D¿em - Ceg³a
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Czerwony Jak Ceg³a
+TTITLE1=Whisky
+TTITLE2=Nieudany Skok
+TTITLE3=Ballada O Dziwnym Malarzu
+TTITLE4=Jesiony
+TTITLE5=Powia³ Boczny Wiatr
+TTITLE6=Kim Jestem - Jestem Sobie
+TTITLE7=Oh, S³odka
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

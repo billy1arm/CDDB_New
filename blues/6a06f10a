@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15497
+#	29452
+#	40790
+#	50625
+#	64505
+#	78325
+#	90250
+#	104335
+#	120857
+#
+# Disc length: 1779 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=6a06f10a
+DTITLE=B.B. King - Sings Spirituals
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Precious Lord
+TTITLE1=Save A Seat For Me
+TTITLE2=Ole Time Religion
+TTITLE3=Sweet Chariot
+TTITLE4=Servant´s Prayer
+TTITLE5=Jesus Gave Me Water
+TTITLE6=I Never Heard A Man
+TTITLE7=Army Of The Lord
+TTITLE8=I Am Willing To Run All The Way
+TTITLE9=I´m Working On The Building
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,94 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12425
+#	22480
+#	31987
+#	42392
+#	51900
+#	59707
+#	66312
+#	76240
+#	81945
+#	82245
+#	82890
+#	91627
+#	98565
+#	108800
+#	119612
+#	123552
+#	124367
+#	134360
+#	142052
+#	142750
+#	153087
+#	164632
+#	174352
+#	183840
+#	206037
+#
+# Disc length: 2952 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=6f0b861a
+DTITLE=YUKA TSUJIYOKO - FIRE EMBLEM THE BEST Vol.1
+DYEAR=1997
+DGENRE=Game
+TTITLE0=オープニング タイトル～デモ
+TTITLE1=ストーリー2 各マップの始まり
+TTITLE2=戦闘マップ2 CP側の攻撃
+TTITLE3=戦闘マップ1 プレイヤー側の攻撃
+TTITLE4=ストーリー1 村
+TTITLE5=ストーリー5 出会い
+TTITLE6=店1 武器の店、預かり所、村
+TTITLE7=戦い2 CP側の攻撃
+TTITLE8=戦い1 プレイヤー側の攻撃
+TTITLE9=味方 倒れる
+TTITLE10=ライブの杖使用時
+TTITLE11=戦闘マップ3 勝利近し(プレイヤー側)
+TTITLE12=戦い3 中ボスとの戦い
+TTITLE13=ストーリー4 各マップの勝利
+TTITLE14=勝利のうた
+TTITLE15=店3 闘技場
+TTITLE16=オーバー
+TTITLE17=ストーリー3 会話
+TTITLE18=店2 魔導の館
+TTITLE19=ユニットチェンジ
+TTITLE20=戦闘マップ4 最終マップ(プレイヤー側)
+TTITLE21=戦闘マップ5 最終マップ(CP側)
+TTITLE22=戦い4 メディウスとの戦い
+TTITLE23=ストーリー6 マルスとシーダの会話
+TTITLE24=エンディング(オムニバス)
+TTITLE25=エンディング(バラード)
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+PLAYORDER=

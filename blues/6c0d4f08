@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	33162
+#	75540
+#	117592
+#	155162
+#	181837
+#	219735
+#	239732
+#
+# Disc length: 3409 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=6c0d4f08
+DTITLE=Toni Donadio - Nic Niedermann - Tonic Strings
+DYEAR=1900
+DGENRE=
+TTITLE0=Mystic Chords
+TTITLE1=Pensieri
+TTITLE2=Open Mood
+TTITLE3=Moda
+TTITLE4=The Night of the Red Moon
+TTITLE5=Luna
+TTITLE6=Tonic Waters
+TTITLE7=Talgo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

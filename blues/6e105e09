@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31245
+#	76465
+#	114233
+#	166653
+#	200263
+#	227130
+#	252523
+#	283098
+#
+# Disc length: 4192 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6e105e09
+DTITLE=Tim Warfield Quintet - A Cool Blue
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Titi Boom I
+TTITLE1=Summertime
+TTITLE2=I Didn't Know What Time It Was
+TTITLE3=Dedicated To You
+TTITLE4=Night Train
+TTITLE5=A Cool Blue
+TTITLE6=Titi Boom II (Complex Dialog)
+TTITLE7=Waltz For The Ordinary
+TTITLE8=Mr. Jin
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

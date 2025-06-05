@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41964
+#	64734
+#	78455
+#	102864
+#	132658
+#	151850
+#	161913
+#
+# Disc length: 2502 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6b09c408
+DTITLE=Grunt - Someone is watching
+DYEAR=1997
+DGENRE=Expérimental
+TTITLE0=Watch your back
+TTITLE1=Someone is watching
+TTITLE2=You can't hide
+TTITLE3=Information
+TTITLE4=Secrets of Technology
+TTITLE5=Conversation
+TTITLE6=Hidden microphones
+TTITLE7=SuPo
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

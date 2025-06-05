@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	61125
+#	96300
+#	115125
+#	167325
+#	198150
+#	235425
+#	244800
+#	285075
+#
+# Disc length: 4285 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6e10bb09
+DTITLE=Premonitions - Free Jazz Quintet
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Roma Geese
+TTITLE1=Red Flag
+TTITLE2=Gathering clouds
+TTITLE3=Eddystone
+TTITLE4=Cry Wolf
+TTITLE5=Nudge-Nudge
+TTITLE6=Graffito
+TTITLE7=Old Moore´s
+TTITLE8=Tocsin
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12152
+#     23387
+#     45412
+#     64065
+#     73562
+#     87507
+#     100515
+#     125020
+#     135012
+# 
+# Disc length: 2112 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=6f083e0a
+DTITLE=James Cotton Blues Band - Feelin' Good
+DYEAR=1900
+DGENRE=
+TTITLE0=Off The Wall
+TTITLE1=Don't Start Me Talking
+TTITLE2=Dealing With The Devil
+TTITLE3=The Creeper
+TTITLE4=Ya Know It Ain't Right
+TTITLE5=Feelin' Good
+TTITLE6=Knock On Wood
+TTITLE7=Sweet Sixteen
+TTITLE8=I Need You So Bad
+TTITLE9='Fore Day Blues
+EXTD=
+EXTT0=W. Jacobs
+EXTT1=S. Williamson
+EXTT2=R. Miller
+EXTT3=J. Cotton
+EXTT4=J. Cotton
+EXTT5=H. Parker
+EXTT6=Sylvia Fine
+EXTT7=B.B. King/Bihri
+EXTT8=J. Cotton
+EXTT9=J. Cotton
+PLAYORDER=

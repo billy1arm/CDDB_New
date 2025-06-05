@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36898
+#	72937
+#	109939
+#	147445
+#	182348
+#	215900
+#
+# Disc length: 3383 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a0d3507
+DTITLE=Dexter Gordon - The Complete Trio and Quartet Studio Recordings Disc 3
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Just Friends - Take 1
+TTITLE1=Just Friends - Take 2
+TTITLE2=Just Friends - Take 3
+TTITLE3=Misty - Take 1
+TTITLE4=Misty - Take 2
+TTITLE5=Misty - Take 3
+TTITLE6=So What
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

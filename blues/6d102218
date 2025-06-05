@@ -1,0 +1,88 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11512
+#	21634
+#	30373
+#	41930
+#	54234
+#	74259
+#	83868
+#	98912
+#	115464
+#	126024
+#	138782
+#	151794
+#	169739
+#	182929
+#	193785
+#	208027
+#	223163
+#	237379
+#	248212
+#	259957
+#	273321
+#	286491
+#	296690
+#
+# Disc length: 4132 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6d102218
+DTITLE=Jag - Juke Joint Boogie
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Juke Joint Boogie
+TTITLE1=Lay Down Your Plow
+TTITLE2=My Momma Told Me
+TTITLE3=Walkin At Midnight
+TTITLE4=I'm Troubled
+TTITLE5=Boogie In E
+TTITLE6=Tumbleweed
+TTITLE7=House Rockin
+TTITLE8=Boogie In A
+TTITLE9=Rollin And Tumblin'
+TTITLE10=Slow Blues
+TTITLE11=Pearline
+TTITLE12=Alone At the Station
+TTITLE13=Bijou Sunrise
+TTITLE14=Cat n Mouse
+TTITLE15=Jitterbug Rag
+TTITLE16=Jump Boogie
+TTITLE17=Loaded Gun Blues
+TTITLE18=Midnight Creeper
+TTITLE19=Procrastination Blues
+TTITLE20=Street Corner Boogie
+TTITLE21=Sweet Tooth
+TTITLE22=The Stumble
+TTITLE23=Jukin'
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+PLAYORDER=

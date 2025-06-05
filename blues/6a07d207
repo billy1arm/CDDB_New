@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19310
+#	35950
+#	56230
+#	73475
+#	97655
+#	127020
+#
+# Disc length: 2004 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6a07d207
+DTITLE=Earl Bostic - Jazz Time
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Don't Do It Please
+TTITLE1=Ten Out
+TTITLE2=Telestar Drive
+TTITLE3=A Taste Of Fresh Air
+TTITLE4=Hunt And Peck
+TTITLE5=Fast Track
+TTITLE6=Apple Cake
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

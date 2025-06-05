@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41122
+#	77662
+#	121785
+#	152417
+#	193955
+#	222480
+#	259127
+#
+# Disc length: 3971 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6c0f8108
+DTITLE=Art Farmer - Soul Eyes Live At The Blue Note
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Time On My Hands
+TTITLE1=Will You Still Be Mine
+TTITLE2=Soul Eyes
+TTITLE3=Ishfahan
+TTITLE4=I'm Old Fashioned
+TTITLE5=Sad To Say
+TTITLE6=Recorda Me
+TTITLE7=Straight No Chaser
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

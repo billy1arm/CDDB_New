@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36272
+#	83385
+#	113867
+#	145060
+#	194082
+#	222270
+#	257725
+#
+# Disc length: 3762 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f0eb008
+DTITLE=Kevin Hays - El Matador
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=El Matador
+TTITLE1=Emperor Leon
+TTITLE2=Like Sonny
+TTITLE3=The Good Life
+TTITLE4=The Brahmin's Son
+TTITLE5=Nobilissima Visione
+TTITLE6=Snake Eyes
+TTITLE7=No Such Luck
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

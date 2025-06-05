@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     17523
+#     39828
+#     53640
+#     79310
+#     86553
+#     90743
+#     112013
+#     127805
+#     153933
+# 
+# Disc length: 2319 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6a090d0a
+DTITLE=Silvina Garr  - Creeras en milagros
+DYEAR=1900
+DGENRE=
+TTITLE0=Palmas azules para m 
+TTITLE1=Sereno como aquellas ma anas
+TTITLE2=Un cassette roto
+TTITLE3=Un nuevo tiempo
+TTITLE4=Carrodilla y Bourbon (I)
+TTITLE5=Carrodilla y Bourbon (II)
+TTITLE6=M s cerquita del cielo
+TTITLE7=Gitanitos y morenos
+TTITLE8=Verano del '81
+TTITLE9=Cuaresma
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

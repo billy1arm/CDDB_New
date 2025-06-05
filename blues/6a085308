@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18864
+#	42498
+#	63285
+#	81136
+#	103444
+#	121471
+#	137674
+#
+# Disc length: 2133 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6a085308
+DTITLE=Herb Geller and His All Stars - Gypsy
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=EVERYTHING'S COMING UP ROSES
+TTITLE1=YOU'LL NEVER GET AWAY FROM ME
+TTITLE2=TOGETHER
+TTITLE3=LITTLE LAMB 
+TTITLE4=SOME PEOPLE
+TTITLE5=MAMA'S TALKIN' SOFT
+TTITLE6=COW SONG
+TTITLE7=SMALL WORLD
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

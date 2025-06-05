@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26552
+#	54733
+#	90952
+#	132763
+#	164590
+#	199033
+#	221863
+#
+# Disc length: 3278 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d0ccc08
+DTITLE=Hakuei Kim Trio - Shadow Of Time
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Loud Zee
+TTITLE1=Elsa
+TTITLE2=Holy Land
+TTITLE3=Time On My Hands
+TTITLE4=Dona Dona
+TTITLE5=A Hundred Years From Today
+TTITLE6=Lady Bird
+TTITLE7=In The Wee Small Hours Of The Morning
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

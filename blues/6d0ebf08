@@ -1,0 +1,46 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     53919
+#     70240
+#     93894
+#     167709
+#     189995
+#     209806
+#     270331
+# 
+# Disc length: 3777 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=6d0ebf08
+DTITLE=Various Artist - Slow Jams
+DYEAR=1900
+DGENRE=
+TTITLE0=Slow Jam Medley Part 1
+TTITLE1=When You Touch Me
+TTITLE2=Loves Train
+TTITLE3=Slow Jam Medley Part 2
+TTITLE4=This Is For The Lover In You
+TTITLE5=Very Special
+TTITLE6=Slow Jam Medley Part 3
+TTITLE7=You Are Everything
+EXTD=
+EXTT0=Very Special-Debra Laws,  T.K.O.-Teddy Pendergrass, How About Us-Champ
+EXTT0=agne\nInsatiable Woman-Isley Brothers, If You Thimk Your Loneloy Now- 
+EXTT0=Bobby Womack
+EXTT1=Skyy
+EXTT2=Con Funk Shun
+EXTT3=Rock Me- Freddy Jackson, A Piece Of Love- Guy,\nCan't Hide Love-Earth,
+EXTT3=Wind and Fire\nTheir Never Be- Switch
+EXTT4=Shalamar
+EXTT5=Debra Lewis
+EXTT6=Let Me Be Your Angel-Stacy Lattisaw, Slow Jam-Midnight Star\nLove YOu 
+EXTT6=Down-RFTW, Sukyaki- Taste Of Honey\nOne In A Miliion You-Larry Graham,
+EXTT6=When You Touch Me-Skyy\nYou Are My Star Ship- Norman Connores
+EXTT7=Stylistic
+PLAYORDER=

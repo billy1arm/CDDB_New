@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31177
+#	55697
+#	84700
+#	125812
+#	152165
+#	182230
+#	219542
+#
+# Disc length: 3350 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=6c0d1408
+DTITLE=Toshinori Kondo - Nerve Tripper
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Open the Gate
+TTITLE1=Lonely Way
+TTITLE2=Insane Moon Moves Innocent Man
+TTITLE3=Savage Satellite
+TTITLE4=Where You Appear
+TTITLE5=Dream Vibrates With Space
+TTITLE6=Attaining the Esoteric Life
+TTITLE7=Eternal Quest
+EXTD=YEAR: 2003 ID3G: 8
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

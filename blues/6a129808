@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	121367
+#	174006
+#	196252
+#	238556
+#	264748
+#	296561
+#	325116
+#
+# Disc length: 4762 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.75
+#
+DISCID=6a129808
+DTITLE=Sonny Rollins - Rollins plays for Bird
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=01 Medley
+TTITLE1=02 Kids Know
+TTITLE2=03 I have grown accustomed to her face
+TTITLE3=04 The house I live in
+TTITLE4=05 Compulsion
+TTITLE5=06 The serpents tooth (take 1)
+TTITLE6=07 The serpents tooth (take 2)
+TTITLE7=08 Round midnight
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

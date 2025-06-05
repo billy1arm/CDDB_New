@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19580
+#	33552
+#	62385
+#	86087
+#	104035
+#	125590
+#	146790
+#
+# Disc length: 2265 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e08d708
+DTITLE=Sonny Stitt - Sonny Stitt
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Propapagoon
+TTITLE1=This Is Always
+TTITLE2=Jack Spratt
+TTITLE3=Just You, Just Me
+TTITLE4=Cool Blues
+TTITLE5=Mr. Sun
+TTITLE6=Dancing On The Ceiling
+TTITLE7=Everyone Does
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

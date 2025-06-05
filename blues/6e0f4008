@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30603
+#	72844
+#	110502
+#	147363
+#	190823
+#	218845
+#	257274
+#
+# Disc length: 3906 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e0f4008
+DTITLE=Cyril Achard Quintet - Essensuel
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Seul Au Monde
+TTITLE1=Incertitudes
+TTITLE2=Pensee Intime
+TTITLE3=El Amor Vencera
+TTITLE4=Aqui Estare
+TTITLE5=Lucia
+TTITLE6=Is No Blues
+TTITLE7=Evolution
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

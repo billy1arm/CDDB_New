@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20967
+#	40879
+#	66560
+#	84413
+#	98843
+#	117559
+#	135768
+#
+# Disc length: 1912 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6b077608
+DTITLE=Eva Olmerova - LEGENDA
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Vadi nevadi
+TTITLE1=Ohen
+TTITLE2=Jablko stul a strom
+TTITLE3=Cas kdy clovek svlikne kuzi
+TTITLE4=Mene tekel
+TTITLE5=Konec stoleti
+TTITLE6=A svet se provali
+TTITLE7=Vadi nevadi II
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

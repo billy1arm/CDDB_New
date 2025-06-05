@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17820
+#	38607
+#	50682
+#	70742
+#	82182
+#	103817
+#	123970
+#	172775
+#
+# Disc length: 2532 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6f09e209
+DTITLE=Duke Jordan - Chocolate Shake
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=chocolate shake
+TTITLE1=my funny valentine
+TTITLE2=now's the time
+TTITLE3=call me to your arms
+TTITLE4=dig
+TTITLE5=no problem
+TTITLE6=all theh things you are
+TTITLE7=how deep is the ocean
+TTITLE8=out of nowhere
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

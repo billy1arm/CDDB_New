@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36360
+#	68492
+#	93156
+#	126788
+#	170675
+#	213486
+#	260427
+#
+# Disc length: 4185 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=6c105708
+DTITLE=Andy McGhee - A Tribute to Jimmy Woode
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Midnight Blues
+TTITLE1=On Green Dolphin Street
+TTITLE2=Sophisticated Lady
+TTITLE3=Ballad for Miles
+TTITLE4=My kind of World
+TTITLE5=In a Mellow Tone
+TTITLE6=The Theme
+TTITLE7=Summertime
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

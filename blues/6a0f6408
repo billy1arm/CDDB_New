@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43362
+#	83147
+#	122815
+#	173590
+#	197062
+#	234195
+#	267605
+#
+# Disc length: 3942 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a0f6408
+DTITLE=ART BLAKEY - the blue note years
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=MOARNIN'
+TTITLE1=MINOR'S HOLIDAY
+TTITLE2=DATE DERE
+TTITLE3=A NIGHT IN TUNISIA
+TTITLE4=MOON RIVER
+TTITLE5=MOSAIC
+TTITLE6=CALLING MISS KHADIJA
+TTITLE7=BLUES MARCH
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20215
+#     39762
+#     60287
+#     83710
+#     99712
+#     123520
+#     144240
+#     166992
+# 
+# Disc length: 2550 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6a09f409
+DTITLE=M.C. Luscious - Boom!
+DYEAR=1900
+DGENRE=
+TTITLE0=Boom! I Got You Boyfriend
+TTITLE1=Let's Go
+TTITLE2=Dance To The Music
+TTITLE3=Get On The Dance Floor
+TTITLE4=Pump It
+TTITLE5=I Want Your Car
+TTITLE6=Ride That Monkey
+TTITLE7=Boom! I Got Your Boyfriend (House Mix)
+TTITLE8=It's My Thang
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

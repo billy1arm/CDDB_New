@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25605
+#	50907
+#	81535
+#	105165
+#	129435
+#	154415
+#	184180
+#	210142
+#
+# Disc length: 3010 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=6f0bc009
+DTITLE=Original Moon - Graffiti
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Graffiti
+TTITLE1=Emily's Dance
+TTITLE2=Sco Mo
+TTITLE3=First Impression
+TTITLE4=Fuzzy And Chic
+TTITLE5=His Spirit
+TTITLE6=To Early Sunday Morning
+TTITLE7=The Remembering
+TTITLE8=Barrelhouse
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28212
+#	50822
+#	98304
+#	127805
+#	153495
+#	175287
+#	207682
+#
+# Disc length: 3080 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6a0c0608
+DTITLE=Edgar Knecht - Good Morning Lilofee
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Heisses Kathreinerle
+TTITLE1=Nachts um 3/4
+TTITLE2=Thule
+TTITLE3=Maria
+TTITLE4=Valse Bleu
+TTITLE5=Simsala
+TTITLE6=Froh...
+TTITLE7=Schlaf
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

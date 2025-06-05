@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	15647
+#	31550
+#	49322
+#	62505
+#	74025
+#	113775
+#	132302
+#
+# Disc length: 2040 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a07f608
+DTITLE=David Bowie - Stage [CD1]
+DYEAR=1991
+DGENRE=Rock
+TTITLE0=Hang On To Yourself
+TTITLE1=Ziggy Stardust
+TTITLE2=Five Years
+TTITLE3=Soul Love
+TTITLE4=Star
+TTITLE5=Station To Station
+TTITLE6=Fame
+TTITLE7=TVC 15
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

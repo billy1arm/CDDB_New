@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31347
+#	56942
+#	82102
+#	109435
+#	151210
+#	171602
+#	196042
+#
+# Disc length: 3301 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d0ce308
+DTITLE=Gabor Szabo - Macho
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Hungarian Rhapsody #2
+TTITLE1=Time
+TTITLE2=Transylvania Boogie
+TTITLE3=Ziggidy Zag
+TTITLE4=Macho
+TTITLE5=Poetry Man
+TTITLE6=Evening In The Country
+TTITLE7=Macho (alt. version)
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

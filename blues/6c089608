@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	21805
+#	42662
+#	59890
+#	80652
+#	94842
+#	108190
+#	119270
+#
+# Disc length: 2200 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=6c089608
+DTITLE=Groundhogs - Who Will Save The World?
+DYEAR=1972
+DGENRE=Blues
+TTITLE0=Earth Is Not Room Enough
+TTITLE1=Wages Of Peace
+TTITLE2=Body In Mind
+TTITLE3=Music Is The Food Of Thought
+TTITLE4=Bog Roll Blues
+TTITLE5=Death Of The Sun
+TTITLE6=Amazing Grace
+TTITLE7=The Grey Maze
+EXTD=ARD BGO Records BGOCD 77 1972 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

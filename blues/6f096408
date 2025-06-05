@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  49762
+#  71475
+#  89750
+#  107387
+#  130100
+#  147575
+#  165712
+#
+# Disc length: 2406 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.61
+#
+DISCID=6f096408
+DTITLE=Eros Ramazotti - Musica
+DYEAR=1900
+DGENRE=
+TTITLE0=Musica è
+TTITLE1=La Luce Buona Delle Stelle (remix)
+TTITLE2=Ti Sposer Perch
+TTITLE3=In Segno D'Amicizia
+TTITLE4=Solo Con Te
+TTITLE5=Uno Di Noi
+TTITLE6=Voglio Volare
+TTITLE7=Occhi Di Speranza (remix)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

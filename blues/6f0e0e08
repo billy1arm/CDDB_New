@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25821
+#	71261
+#	109820
+#	140117
+#	160260
+#	197728
+#	236920
+#
+# Disc length: 3600 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f0e0e08
+DTITLE=Peter Beets - new york trio page3
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Prelude In E Minor
+TTITLE1=The Judge
+TTITLE2=Degage
+TTITLE3=Tristity
+TTITLE4=I've Got Love To Keep Me Warm
+TTITLE5=Is It Wrong To Be Right
+TTITLE6=Django
+TTITLE7=Passport
+EXTD=YEAR: 2005
+EXTT0=Written by: F. Chopin
+EXTT1=Written by: P. Beets
+EXTT2=Written by: P. Beets
+EXTT3=Written by: P. Beets
+EXTT4=Written by: I. Berlin
+EXTT5=Written by: P. Beets
+EXTT6=Written by: J. Lewis
+EXTT7=Written by: C. Parker
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34652
+#	80709
+#	112705
+#	154870
+#	195266
+#	220676
+#	265019
+#	286230
+#
+# Disc length: 4297 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=6c10c709
+DTITLE=Pat Metheny Group - Speaking Of Now
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=As It Is
+TTITLE1=Proof
+TTITLE2=Another Life
+TTITLE3=The Gathering Sky
+TTITLE4=You
+TTITLE5=On Her Way
+TTITLE6=A Place In The World
+TTITLE7=Afternoon
+TTITLE8=Wherever You Go
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

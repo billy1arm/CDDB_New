@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3205
+#	28052
+#	64060
+#	115117
+#	143850
+#	187805
+#	216665
+#
+# Disc length: 3020 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c0bca08
+DTITLE=Vintage Band - Live in Eskulap
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Zapowiedz
+TTITLE1=Funkoman (P. Kaluzny)
+TTITLE2=PeKa Boogie (P. Kaluzny)
+TTITLE3=J.P. (P. Kaluzny, K. Przybylowicz, Z. Wrombel)
+TTITLE4=PeKa Rock (P. Kaluzny)
+TTITLE5=Preludia (Z. Wrombel)
+TTITLE6=Spekulacje (P. Kaluzny)
+TTITLE7=K 4 (P. Kaluzny)
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

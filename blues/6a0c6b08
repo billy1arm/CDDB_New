@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28006
+#	60129
+#	94370
+#	118608
+#	157054
+#	185393
+#	212926
+#
+# Disc length: 3181 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6a0c6b08
+DTITLE=Gerry Mulligan - The Best of Gerry Mulligan
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Blight of the Fumble Bee
+TTITLE1=Song for Jonny Hodges
+TTITLE2=Gerry Meets Hamp
+TTITLE3=Limelight
+TTITLE4=Blues for Gerry
+TTITLE5=Apple Core
+TTITLE6=Line for Lyons
+TTITLE7=Walking Shoes
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

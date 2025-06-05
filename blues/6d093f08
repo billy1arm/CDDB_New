@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20435
+#	43302
+#	62805
+#	91100
+#	111007
+#	139820
+#	144542
+#
+# Disc length: 2369 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=6d093f08
+DTITLE=Bob Thompson - Say What You Want
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Say What You Want
+TTITLE1=My Heart Is Dancing
+TTITLE2=Uptown Serenade
+TTITLE3=Someone
+TTITLE4=On The Horizon
+TTITLE5=Is This Love
+TTITLE6=New River Blue (intro)
+TTITLE7=New River Blue
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

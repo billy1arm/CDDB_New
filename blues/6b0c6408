@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31507
+#	63335
+#	83232
+#	121140
+#	140707
+#	181295
+#	200200
+#
+# Disc length: 3174 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b0c6408
+DTITLE=Babatune Olatunji - Drums of Passion and more Box 4/4
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Ayinde
+TTITLE1=Omo pupa
+TTITLE2=Bethelehemu
+TTITLE3=Alose
+TTITLE4=Ire dodo ye
+TTITLE5=Frekoba
+TTITLE6=Wasalu
+TTITLE7=Mbira
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

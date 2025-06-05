@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14681
+#	48280
+#	94691
+#	119046
+#	143833
+#	180354
+#	211914
+#
+# Disc length: 3399 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6b0d4508
+DTITLE=Eliah - Funk
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Bella Luz
+TTITLE1=Camino Del Amor
+TTITLE2=Playa Mistica
+TTITLE3=Gypsy
+TTITLE4=Crown Alley
+TTITLE5=Solitario
+TTITLE6=Loto Blanco
+TTITLE7=Immaculate Heart
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20135
+#	52320
+#	72962
+#	94212
+#	115440
+#	144757
+#	165285
+#
+# Disc length: 2495 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6e09bd08
+DTITLE=Pat Thomi - Night Of The Coral
+DYEAR=1993
+DGENRE=New Age
+TTITLE0=Night of The Coral
+TTITLE1=Wishing Wells
+TTITLE2=Out Of The Blue
+TTITLE3=Nine Lives
+TTITLE4=Earthbound
+TTITLE5=Sisters
+TTITLE6=I Am The Walrus
+TTITLE7=Rocketman
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

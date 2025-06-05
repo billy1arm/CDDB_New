@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11457
+#     29637
+#     55457
+#     80750
+#     95482
+#     112645
+#     129092
+#     150332
+#     168367
+# 
+# Disc length: 2520 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6d09d60a
+DTITLE=The Acappella Company - Acappella Jazz
+DYEAR=1900
+DGENRE=
+TTITLE0=Old Time Gospel
+TTITLE1=Two hearts
+TTITLE2=Am I Worthy
+TTITLE3=No More Wasted Years
+TTITLE4=His Grace is True
+TTITLE5=Running Back
+TTITLE6=Giving Me Joy
+TTITLE7=Education
+TTITLE8=I Know Love
+TTITLE9=Right Way
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

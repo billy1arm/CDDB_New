@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38757
+#	87107
+#	116015
+#	141375
+#	176907
+#	214555
+#	247980
+#
+# Disc length: 3676 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6b0e5a08
+DTITLE=Dave Brubeck Quartett - Live at Montreux 1982
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Tri Tones
+TTITLE1=Koto Sone
+TTITLE2=Improvisation
+TTITLE3=Ol' Bill Baise
+TTITLE4=What did i do to be so black and blue
+TTITLE5=Take Five
+TTITLE6=Benjamin Christopher David Brubeck
+TTITLE7=Blue Rondo  A La Turk
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

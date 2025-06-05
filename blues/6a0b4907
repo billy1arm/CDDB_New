@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29740
+#	66480
+#	101230
+#	132920
+#	159580
+#	192375
+#
+# Disc length: 2891 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,43,1226
+#
+DISCID=6a0b4907
+DTITLE=Duke Ellington Back to basics - Play the Blues
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Wabash Blues
+TTITLE1=Basin Street Blues
+TTITLE2=Beale Street Blues
+TTITLE3=Weary Blues
+TTITLE4=The St. Louis Blues
+TTITLE5=Loveless Love
+TTITLE6=Royal Garden Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

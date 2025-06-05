@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16952
+#	31565
+#	41382
+#	52345
+#	61720
+#	76810
+#	87702
+#	99970
+#	107425
+#
+# Disc length: 1635 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=6a06610a
+DTITLE=Bob Dylan - Nashville Skyline
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Girl From The North Country (With Johnny Cash)
+TTITLE1=Nashville Skyline Rag
+TTITLE2=To Be Alone With You
+TTITLE3=I Threw It All Away
+TTITLE4=Peggy Day
+TTITLE5=Lay Lady Lay
+TTITLE6=One More Night
+TTITLE7=	tell Me That It Isn't True
+TTITLE8=Country Pie
+TTITLE9=Tonight I'll Be Staying Here With You
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

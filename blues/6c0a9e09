@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24705
+#	44335
+#	70665
+#	84515
+#	109575
+#	136110
+#	155483
+#	195508
+#
+# Disc length: 2720 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c0a9e09
+DTITLE=Faces - Long Player
+DYEAR=1971
+DGENRE=Rock
+TTITLE0=Bad 'N' Ruin
+TTITLE1=Tell Everyone
+TTITLE2=Sweet Lady Mary
+TTITLE3=Richmond
+TTITLE4=Maybe I'm Amazed (Live)
+TTITLE5=Had Me A Real Good Time
+TTITLE6=On The Beach
+TTITLE7=I Feel So Good (Live)
+TTITLE8=Jerusalem
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=\n
+EXTT8=
+PLAYORDER=

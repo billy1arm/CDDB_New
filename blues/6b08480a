@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13480
+#	25090
+#	38340
+#	49790
+#	83532
+#	99732
+#	114392
+#	128322
+#	144080
+#
+# Disc length: 2122 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b08480a
+DTITLE=Les Haricots Rouges - Les Antilles
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=Serpent Maigre
+TTITLE1=Voisine en moins
+TTITLE2=Au Bar des Iles
+TTITLE3=En route pour les Antilles
+TTITLE4=Touloulou
+TTITLE5=Le Court-Bouillon
+TTITLE6=Vloppez Moin Doudou
+TTITLE7=Ravet Mode
+TTITLE8=En Ti Punch
+TTITLE9=La Ri Z'Abymes
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

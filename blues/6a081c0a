@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24153
+#	35605
+#	47843
+#	60753
+#	75460
+#	86513
+#	99870
+#	123913
+#	145150
+#
+# Disc length: 2078 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a081c0a
+DTITLE=Townes Van Zandt - Townes Van Zandt
+DYEAR=1969
+DGENRE=Country
+TTITLE0=For the Sake of the Song
+TTITLE1=Columbine
+TTITLE2=Waiting Around to Die
+TTITLE3=Don't Take it too Bad
+TTITLE4=Colorado Girl
+TTITLE5=Lungs
+TTITLE6=I'll be Here in the Morning
+TTITLE7=Fare Thee Well, Miss Carousel
+TTITLE8=(Quicksilver Daydreams of) Maria
+TTITLE9=None But the Rain
+EXTD=YEAR: 1969
+EXTT0=\n
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

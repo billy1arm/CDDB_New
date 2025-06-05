@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26917
+#	48302
+#	63982
+#	79162
+#	120437
+#	161477
+#	190357
+#	240165
+#
+# Disc length: 3533 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b0dcb09
+DTITLE=Miles Davis - This is Jazz 8
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0='Round Midnight
+TTITLE1=Stella by Starlight
+TTITLE2=Springsville
+TTITLE3=Summertime
+TTITLE4=So What
+TTITLE5=Someday My Prince Will Come
+TTITLE6=Seven Steps to Heaven
+TTITLE7=Walkin'
+TTITLE8=E.S.P
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

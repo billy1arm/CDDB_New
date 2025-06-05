@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20407
+#	43697
+#	55166
+#	72745
+#	92535
+#	113227
+#	130519
+#	151092
+#
+# Disc length: 2442 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=6e098809
+DTITLE=Gary Burton - Throb 1969
+DYEAR=1969
+DGENRE=Jazz
+TTITLE0=Henniger Flats
+TTITLE1=Turn Of The Century
+TTITLE2=Chickens
+TTITLE3=Arise, Her Eyes
+TTITLE4=Prime Time
+TTITLE5=Throb
+TTITLE6=Doin The Pig
+TTITLE7=Triple Portrait
+TTITLE8=Some Echoes
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

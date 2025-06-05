@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49325
+#	86942
+#	114386
+#	138347
+#	180293
+#	196407
+#	234731
+#
+# Disc length: 3723 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6b0e8908
+DTITLE=藤井郷子 - Undulation
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Metal
+TTITLE1=Water
+TTITLE2=Wood
+TTITLE3=The Moon
+TTITLE4=The Sun
+TTITLE5=Undulation
+TTITLE6=Fire
+TTITLE7=The Earth
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

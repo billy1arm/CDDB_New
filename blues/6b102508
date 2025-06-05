@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	40137
+#	61285
+#	94320
+#	125902
+#	167320
+#	211012
+#	251817
+#
+# Disc length: 4135 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6b102508
+DTITLE=千住真理子 - Symphonie espagnole For Violin And Orchestra, Op. 21 Concerto No.3 For Violin and Orchestra In B Minor, Op.61
+DYEAR=1990
+DGENRE=Classical
+TTITLE0=Lalo-Symphonie espagnole Op. 21-1-Allegro non troppo
+TTITLE1=Lalo-Symphonie espagnole Op. 21-2-Scherzando-Allegro molto
+TTITLE2=Lalo-Symphonie espagnole Op. 21-3-Intermezzo-Allegretto non troppo
+TTITLE3=Lalo-Symphonie espagnole Op. 21-4-Andante
+TTITLE4=Lalo-Symphonie espagnole Op. 21-5-Rondo-Allegro
+TTITLE5=Saint saens-Concerto No.3 B Minor, Op.61-1-Allegro non troppo
+TTITLE6=Saint saens-Concerto No.3 B Minor, Op.61-2-Andantino quasi allegretto
+TTITLE7=Saint saens-Concerto No.3 B Minor, Op.61-3-Molto moderato e maestoso
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19920
+#	44765
+#	64293
+#	91910
+#	109470
+#	129140
+#	142993
+#
+# Disc length: 2387 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6f095108
+DTITLE=Manal - reunion
+DYEAR=1981
+DGENRE=Blues
+TTITLE0=Doblé en una esquina
+TTITLE1=Como si fuera a tocar las estrellas
+TTITLE2=Juega el juego jugador
+TTITLE3=te daré mi mano
+TTITLE4=sacudeme la vida
+TTITLE5=nos veremos mañana
+TTITLE6=tengo algo en mente para vos
+TTITLE7=la centuria
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

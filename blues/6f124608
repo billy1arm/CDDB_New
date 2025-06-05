@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46853
+#	81133
+#	131698
+#	179054
+#	196332
+#	247458
+#	310575
+#
+# Disc length: 4680 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6f124608
+DTITLE=Chet Baker - The Sesjun Radio Shows CD1
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=There will never be another you
+TTITLE1=I'm old fashioned
+TTITLE2=Ray's idea
+TTITLE3=Chet's theme
+TTITLE4=This is always
+TTITLE5=Just friends
+TTITLE6=Lady bird
+TTITLE7=Blue 'n' boogie
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

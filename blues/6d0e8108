@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37200
+#	64350
+#	108800
+#	136675
+#	171525
+#	210000
+#	249525
+#
+# Disc length: 3715 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d0e8108
+DTITLE=The Genuines - Nights With The Cape Gypsies
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Jompass
+TTITLE1=Bulala Ekabe
+TTITLE2=Slide Slow
+TTITLE3=Night With The Cape Gypsies
+TTITLE4=Wie Is Frank ?
+TTITLE5=Wave After Wave
+TTITLE6=Chris Is Slams
+TTITLE7=National Explosion
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

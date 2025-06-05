@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33989
+#	75079
+#	122194
+#	152163
+#	187108
+#	215878
+#	246978
+#
+# Disc length: 3728 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.10
+#
+DISCID=6b0e8e08
+DTITLE=Orange Lake Drive - Driven
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Sierra Leone
+TTITLE1=The 9th Life
+TTITLE2=Reflection
+TTITLE3=Down Time
+TTITLE4=Imagine That
+TTITLE5=Von Gogh's Ear
+TTITLE6=S.O.L. (Son of Orange Lake)
+TTITLE7=Mr. Happy
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

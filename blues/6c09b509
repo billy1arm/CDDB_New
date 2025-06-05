@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21320
+#	39482
+#	70858
+#	89447
+#	106814
+#	129120
+#	146342
+#	166928
+#
+# Disc length: 2487 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=6c09b509
+DTITLE=Stari psi - Promeny
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Cold day in hell
+TTITLE1=Walking by myself
+TTITLE2=Story of the blues
+TTITLE3=Oh pretty woman
+TTITLE4=All your love
+TTITLE5=Midnight blues
+TTITLE6=Only fool in town
+TTITLE7=Misto lasky
+TTITLE8=Mit vetsi zajem
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

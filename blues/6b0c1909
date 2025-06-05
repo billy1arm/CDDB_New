@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27757
+#	59623
+#	78947
+#	101709
+#	130969
+#	162818
+#	189061
+#	211740
+#
+# Disc length: 3099 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6b0c1909
+DTITLE=Andy Snitzer - Sugar
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Sugar
+TTITLE1=You Don't Know What Love Is 
+TTITLE2=T. Time
+TTITLE3=Wild Horses
+TTITLE4=Blue Train
+TTITLE5=Moritat
+TTITLE6=Blue Seven
+TTITLE7=A Song For You
+TTITLE8=Mr. Groove
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

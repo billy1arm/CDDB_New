@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18210
+#	31105
+#	53310
+#	72057
+#	91635
+#	106185
+#	122760
+#	137835
+#	157855
+#	187595
+#
+# Disc length: 2755 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=6d0ac10b
+DTITLE=Earl Thomas - Extra Soul
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Lose Control
+TTITLE1=Do You Remember
+TTITLE2=Could We Be The Same
+TTITLE3=Water Under Your Bridge
+TTITLE4=The First And The Last Thing
+TTITLE5=Jeckyll And Hyde
+TTITLE6=Ain't No Man
+TTITLE7=Can't Live Without You
+TTITLE8=I Am The Cool
+TTITLE9=Nobody
+TTITLE10=Lost Alone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

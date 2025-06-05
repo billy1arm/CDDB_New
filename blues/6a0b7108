@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38233
+#	73255
+#	82855
+#	117032
+#	134450
+#	169906
+#	198300
+#
+# Disc length: 2931 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a0b7108
+DTITLE=Franco Tonani - Night in Fonorama
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Vamos
+TTITLE1=U-Boat
+TTITLE2=Drum-Ding
+TTITLE3=Junior's Idea
+TTITLE4=Stella by Starlight
+TTITLE5=Solar
+TTITLE6=Hard Mode (Take 1)
+TTITLE7=Hard Mode (Take 2)
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

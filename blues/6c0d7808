@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25068
+#	61516
+#	93985
+#	130194
+#	160309
+#	185801
+#	215994
+#
+# Disc length: 3450 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c0d7808
+DTITLE=Gregor Hübner Quintet - Januschke's Time
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=910 columbus ave
+TTITLE1=jazz like
+TTITLE2=short cuts
+TTITLE3=la juana
+TTITLE4=air-lines
+TTITLE5=hidden enemies
+TTITLE6=havana mañana
+TTITLE7=in line again
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

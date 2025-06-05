@@ -1,0 +1,94 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10860
+#	21420
+#	32718
+#	45595
+#	58153
+#	70560
+#	80675
+#	95108
+#	106150
+#	119873
+#	129570
+#	142800
+#	156030
+#	170290
+#	181803
+#	192213
+#	202820
+#	214668
+#	226983
+#	242793
+#	255033
+#	272235
+#	282705
+#	294015
+#	305425
+#
+# Disc length: 4248 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6c10961a
+DTITLE=Chuck Willis - Let's Jump Tonight! The Best Of Chuck Willis from 1951 - '56
+DYEAR=1956
+DGENRE=R&B
+TTITLE0=Be Good Or Be Gone
+TTITLE1=Let's Jump Tonight
+TTITLE2=Can't You See
+TTITLE3=It's Too Late Baby
+TTITLE4=I Rule My House
+TTITLE5=My Baby's On My Mind
+TTITLE6=Loud Mouth Lucy
+TTITLE7=My Story
+TTITLE8=Wrong Lake To Catch A Fish
+TTITLE9=Don't Deceive Me (Please Don't Go)
+TTITLE10=My Baby's Coming Home
+TTITLE11=Going To The River
+TTITLE12=I Feel So Bad
+TTITLE13=You're Still My Baby
+TTITLE14=What's Your Name
+TTITLE15=Keep A Knockin'
+TTITLE16=If I Had A Million
+TTITLE17=My Heart's Been Broke Again
+TTITLE18=I Don't Mind If I Do
+TTITLE19=Blow Freddy Jackson
+TTITLE20=If I Were You
+TTITLE21=Lawdy Miss Mary
+TTITLE22=Search My Heart
+TTITLE23=One More Break
+TTITLE24=Bless Her Heart
+TTITLE25=Charged With Cheating
+EXTD=All Selections are mono. YEAR: 1956
+EXTT0=(H. Willis]\nmaster #: CO 45094\nrec: 1/26/51, rel: OKEH 6805\nOrchestra Unknown
+EXTT1=(H. Willis]\nmaster #: CO 45096\nrec: 1/26/51, rel: OKEH 6805\nOrchestra Unknown
+EXTT2=(H. Willis]\nmaster #: CO 45093\nrec: 1/26/51, rel: Columbia 30238\nOrchestra Unknown
+EXTT3=(H. Willis]\nmaster #: CO 46453\nrec: 6/27/51, rel: OKEH 6841\nOrchestra Unknown
+EXTT4=(H. Willis]\nmaster #: CO 46454\nrec: 6/27/51, rel: OKEH 6810\nOrchestra Unknown
+EXTT5=(H. Willis]\nmaster #: CO 48520\nrec: 6/27/51, rel: previously unissued in the U.S.\nOrchestra Unknown
+EXTT6=(H. Willis]\nmaster #: CO 47714\nrec: 2/27/52, rel: OKEH 6930\nOrchestra under the direction of Roy Mays
+EXTT7=(H. Willis]\nmaster #: CO 48097\nrec: 2/27/52, rel: OKEH 6905\nOrchestra Unknown
+EXTT8=(H. Willis]\nmaster #: CO 48096\nrec: 2/27/52, rel: OKEH 6930\nOrchestra Unknown
+EXTT9=(H. Willis]\nmaster #: CO 48563\nrec: 11/19/52, rel: OKEH 6985\nOrchestra Unknown
+EXTT10=(H. Willis]\nmaster #: CO 48564\nrec: 11/19/52, rel: OKEH 7004\nOrchestra Unknown
+EXTT11=(A. Domino/D. Bartholomew]\nmaster #: CO 48950\nrec: 2/5/53, rel: OKEH 6953\nOrchestra under the direction of Leroy Kirkland
+EXTT12=(H. Willis]\nrec: 9/17/53, rel: OKEH 7029\nOrchestra under the direction of Leroy Kirkland
+EXTT13=(H. Willis]\nmaster #: CO 49810\nrec: 9/17/53, rel: OKEH 7015\nOrchestra under the direction of Leroy Kirkland
+EXTT14=(H. Willis]\nmaster #: CO 49811\nrec: 9/17/53, rel: OKEH 7015\nOrchestra under the direction of Leroy Kirkland
+EXTT15=(H. Willis]\nmaster #: CO 50784\nrec: 2/5/54, rel: previously unissued in the U.S.\nOrchestra under the direction of Leroy Kirkland
+EXTT16=(H. Willis]\nmaster #: CO 50785\nrec: 2/5/54, rel: previously unissued\nOrchestra under the direction of Leroy Kirkland
+EXTT17=(H. Willis]\nmaster #: CO 51640\nrec:6/24/54, rel: OKEH 7041\nOrchestra under the direction of Freddy Jackson
+EXTT18=(H. Willis]\nmaster #: CO 51641\nrec:6/24/54, rel: previously unissued in the U.S.\nOrchestra under the direction of Freddy Jackson
+EXTT19=featuring Freddy Jackson on Tenor Sax\n(H. Willis]\nmaster #: CO 51642\nrec:6/24/54, rel: previously unissued\nChuck Willis and His Orchestra featuring Freddy Jackson - Tenor Sax
+EXTT20=featuring Freddy Jackson on Tenor Sax\n(H. Willis]\nmaster #: CO 52795\nrec:12/17/54, rel: OKEH 7067\nChuck Willis and His Orchestra featuring Freddy Jackson - Tenor Sax
+EXTT21=featuring Freddy Jackson on Tenor Sax\n(H. Willis]\nmaster #: CO 52796\nrec:12/17/54, rel: OKEH 7051\nChuck Willis and His Orchestra featuring Freddy Jackson - Tenor Sax
+EXTT22=(H. Willis]\nmaster #: CO 53223\nrec:4/15/55, rel: previously unissued alternate version\nOrchestra under the direction of Quincy Jones
+EXTT23=(H. Willis]\nmaster #: CO 53230\nrec:4/21/55, rel: OKEH 7055\nOrchestra under the direction of Quincy Jones
+EXTT24=(H. Willis]\nmaster #: CO 54425\nrec:1/26/56, rel: previously unissued in the U.S.\nOrchestra under the direction of Ray Ellis
+EXTT25=(H. Willis]\nmaster #: CO 54424\nrec:1/26/56, rel: OKEH 7070\nOrchestra under the direction of Ray Ellis
+PLAYORDER=

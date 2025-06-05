@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39930
+#	73365
+#	111800
+#	151230
+#	200567
+#	239580
+#	271585
+#
+# Disc length: 4262 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b10a408
+DTITLE=Detroit Symphony Orchestra - Jaarvi - Fibich Symphonies
+DYEAR=1994
+DGENRE=Symphonic
+TTITLE0=Symphony No.2 in Eb Op.38 -I- Allegro moderato
+TTITLE1=Symphony No.2 in Eb Op.38 -II- Adagio
+TTITLE2=Symphony No.2 in Eb Op.38 -III- Scherzo. Presto - Trio. Molto meno mosso - Presto
+TTITLE3=Symphony No.2 in Eb Op.38 -IV- Finale. Allegro energico
+TTITLE4=Symphony No.3 in E minor Op.53 -I- Allegro inquieto
+TTITLE5=Symphony No.3 in E minor Op.53 -II- Allegro con fuoco - Adagio
+TTITLE6=Symphony No.3 in E minor Op.53 -III- Scherzo - Vivo e grazioso - Trio. Andante con moto - Vivo e grazioso
+TTITLE7=Symphony No.3 in E minor Op.53 -IV- Allegro maestoso - Allegro vivace
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

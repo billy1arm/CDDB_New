@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17175
+#	32350
+#	48200
+#	68675
+#	83132
+#	101762
+#	114837
+#	134325
+#	151125
+#
+# Disc length: 2221 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=6f08ab0a
+DTITLE=Sonny Terry And Brownie McGhee - Midnight Special (Disk 1)
+DYEAR=1900
+DGENRE=
+TTITLE0=Sonny's Squall
+TTITLE1=Red River Blues
+TTITLE2=Gone Gal
+TTITLE3=Blues Before Sunrise
+TTITLE4=Sweet Lovin' Kind
+TTITLE5=Midnight Special
+TTITLE6=Take This Hammer Whup
+TTITLE7=Too Nicey Mama
+TTITLE8=Meet Me Down The Bottom
+TTITLE9=Tryin' To Win
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

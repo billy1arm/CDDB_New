@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26380
+#	43109
+#	61878
+#	100286
+#	133726
+#	155771
+#	183581
+#
+# Disc length: 2765 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b0acb08
+DTITLE=Pepa Paivinen Trio - Umpsukkelis
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Umpsukkelis
+TTITLE1=Nikola
+TTITLE2=Iisakki
+TTITLE3=Pohjakosketus
+TTITLE4=Doggy Dog
+TTITLE5=Be Aware
+TTITLE6=Jakobe
+TTITLE7=Cap Au Sud
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

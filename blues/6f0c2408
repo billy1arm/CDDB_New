@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15517
+#	49483
+#	78613
+#	117208
+#	155886
+#	186964
+#	206084
+#
+# Disc length: 3110 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6f0c2408
+DTITLE=DPZ - He's Looking at you, kid
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=He's looking at you, kid
+TTITLE1=Alix sans X
+TTITLE2=Mamelles
+TTITLE3=Australopitheques
+TTITLE4=Pale estime
+TTITLE5=Le cygne du destin
+TTITLE6=Nicht nein my love
+TTITLE7=Rosee superbe
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

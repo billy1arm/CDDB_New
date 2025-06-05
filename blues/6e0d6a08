@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42471
+#	73243
+#	106339
+#	132439
+#	162270
+#	193537
+#	225561
+#
+# Disc length: 3436 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6e0d6a08
+DTITLE=Libor Smoldas - Intuition
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Mike's Song
+TTITLE1=In Case You Missed It
+TTITLE2=Off The Playground
+TTITLE3=5:15 In The Morning
+TTITLE4=Ferry Tale
+TTITLE5=Letter Home
+TTITLE6=Side Steps
+TTITLE7=Twists And Turns
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

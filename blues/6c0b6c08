@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22420
+#	52708
+#	82038
+#	102460
+#	124203
+#	166740
+#	199485
+#
+# Disc length: 2926 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=6c0b6c08
+DTITLE=George Cables - Night and day
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=I thought about you
+TTITLE1=Night and day
+TTITLE2=Very early
+TTITLE3=I love you
+TTITLE4=Three view of a secret
+TTITLE5=Ebony moonbeams
+TTITLE6=Grear is here
+TTITLE7=Doxy
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

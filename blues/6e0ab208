@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	21167
+#	55210
+#	81172
+#	114652
+#	149242
+#	162035
+#	178160
+#
+# Disc length: 2740 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=6e0ab208
+DTITLE=Archie Shepp - Attica Blues Big Band - Live At The Palais Des Glaces
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Attica Blues, Part 1
+TTITLE1=Steam
+TTITLE2=Quiet Dawn
+TTITLE3=Hi-Fly
+TTITLE4=U-Jaama
+TTITLE5=Antes De Andios
+TTITLE6=Star Love
+TTITLE7=Moon Bees
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18170
+#     38172
+#     59337
+#     77537
+#     100500
+#     121300
+#     141120
+#     159230
+#     181825
+# 
+# Disc length: 2708 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6c0a920a
+DTITLE=Jack Semple - Saskadelphia
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm your Loverman
+TTITLE1=Do what 'cha do best
+TTITLE2=Broken in Two
+TTITLE3=Down to the Mardi Gras
+TTITLE4=Saskadelphia
+TTITLE5=Hello Misery
+TTITLE6=I can't stay away from you
+TTITLE7=Poison or Medicine
+TTITLE8=The Hog Report
+TTITLE9=I gotta' keep it together
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

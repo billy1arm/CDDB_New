@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15463
+#	34877
+#	70774
+#	83305
+#	99688
+#	113215
+#	132903
+#	171310
+#
+# Disc length: 2613 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=6b0a3309
+DTITLE=Dave Brubeck - Two Generations Of Brubeck
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=Circadian Dysrhythmia
+TTITLE1=Three To Get Ready
+TTITLE2=Blue Rondo A La Turk
+TTITLE3=Unsquare Dance
+TTITLE4=The Holy One
+TTITLE5=Call Of The Wild
+TTITLE6=Knives
+TTITLE7=Tin Sink
+TTITLE8=Thank You (Dziekuje)
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

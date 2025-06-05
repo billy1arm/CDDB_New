@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22930
+#	49576
+#	70017
+#	94105
+#	121844
+#	155746
+#	189316
+#	208095
+#
+# Disc length: 2921 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6f0b6709
+DTITLE=James Moody - Heritage Hum
+DYEAR=1971
+DGENRE=Jazz
+TTITLE0=Heritage Hum
+TTITLE1=Sound for sore ears
+TTITLE2=Road runner
+TTITLE3=Can't fool around with love
+TTITLE4=Rainy days
+TTITLE5=Travel on
+TTITLE6=Soul searching
+TTITLE7=Parker's mood
+TTITLE8=Pennies from Heaven
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

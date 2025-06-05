@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20550
+#	40520
+#	59767
+#	81530
+#	105362
+#	124837
+#	145412
+#
+# Disc length: 2305 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d08ff08
+DTITLE=高橋直純 - scene 〜残したい風景〜
+DYEAR=2005
+DGENRE=Vocal
+TTITLE0=初恋
+TTITLE1=カナリヤ
+TTITLE2=なごり雪
+TTITLE3=夏色の翼
+TTITLE4=REPLAY
+TTITLE5=どんなときも
+TTITLE6=まほうの手
+TTITLE7=雨の空は晴れだった
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

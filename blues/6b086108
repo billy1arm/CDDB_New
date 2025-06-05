@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     180
+#     20828
+#     38361
+#     53190
+#     73649
+#     95410
+#     114537
+#     132533
+# 
+# Disc length: 2147 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6b086108
+DTITLE=The Wesley Jefferson Band - Live from the Do Drop Inn!
+DYEAR=1900
+DGENRE=
+TTITLE0=Just a Little Bit
+TTITLE1=You don't Love Me
+TTITLE2=I'll Play The Blues for You
+TTITLE3=Young Folks With the Blues
+TTITLE4=Do You Want a Man?
+TTITLE5=Frankie and Johnnie/Baby That Hurts
+TTITLE6=Tame Me to the Country
+TTITLE7=Bad Compagny Keeper
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

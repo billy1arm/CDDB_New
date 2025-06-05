@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20630
+#	43870
+#	72601
+#	102346
+#	124727
+#	159714
+#	181504
+#
+# Disc length: 3257 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=6c0cb708
+DTITLE=Joëlle Léandre - For Flowers
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Hibiscus
+TTITLE1=Whity lily
+TTITLE2=Water lily
+TTITLE3=Violet
+TTITLE4=Crocus
+TTITLE5=Tulips
+TTITLE6=Lilac and Red Poppy
+TTITLE7=Iris
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

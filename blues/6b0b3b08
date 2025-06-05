@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30096
+#	57520
+#	84239
+#	104884
+#	141924
+#	171460
+#	199635
+#
+# Disc length: 2877 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b0b3b08
+DTITLE=John Zorn - The Gnostic Preludes
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Prelude 1 - The Middle Pillar
+TTITLE1=Prelude 2 - The Book Of Pleasure
+TTITLE2=Prelude 3 - Prelude Of Light
+TTITLE3=Prelude 4 - Diatesseron
+TTITLE4=Prelude 5 - Music Of The Spheres
+TTITLE5=Prelude 6 - Circumambulation
+TTITLE6=Prelude 7 - Sign And Sigil
+TTITLE7=Prelude 8 - The Invisibles
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

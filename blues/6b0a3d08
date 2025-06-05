@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13705
+#	30340
+#	50712
+#	104267
+#	122667
+#	146665
+#	178277
+#
+# Disc length: 2623 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b0a3d08
+DTITLE=Paul Horn - The Sound Of Paul Horn
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Benny's Buns
+TTITLE1=Without A Song
+TTITLE2=Yazz Per Favore
+TTITLE3=Mirage For Miles
+TTITLE4=Short Politician
+TTITLE5=My Funny Valentine
+TTITLE6=Blue On Blue
+TTITLE7=Moer Or Less
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

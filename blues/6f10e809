@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43259
+#	85701
+#	107012
+#	155829
+#	194348
+#	231359
+#	263577
+#	300410
+#
+# Disc length: 4330 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f10e809
+DTITLE=Sumrrá - Sumrrá
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Lisboa 5pm
+TTITLE1=Exit
+TTITLE2=Apunte
+TTITLE3=Segovia`s mood
+TTITLE4=Libertas
+TTITLE5=Abril (22)
+TTITLE6=Blues on
+TTITLE7=Canción do serán
+TTITLE8=Kika
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

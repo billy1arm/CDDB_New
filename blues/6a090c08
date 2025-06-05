@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	26105
+#	43720
+#	62042
+#	87545
+#	116530
+#	141267
+#	153195
+#
+# Disc length: 2318 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a090c08
+DTITLE=Julian Watkins - The Jazz Modes
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=The Oblong
+TTITLE1=1-2-3-4-0 In Syncopation
+TTITLE2=Blue Flame
+TTITLE3=Mood in Motion
+TTITLE4=Knittin'
+TTITLE5=This 'N' That
+TTITLE6=Glat That I Found You
+TTITLE7=Princess
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

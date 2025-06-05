@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29404
+#	51208
+#	78631
+#	109631
+#	138650
+#	160419
+#	191544
+#
+# Disc length: 2929 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b0b6f08
+DTITLE=Arnd Stein - Pilates Musik 1
+DYEAR=2012
+DGENRE=New Age
+TTITLE0=Sudwind
+TTITLE1=Dreams 'n' Drums
+TTITLE2=Fly Around The World
+TTITLE3=Lighthearted Futur
+TTITLE4=Dreams Of Jamaica
+TTITLE5=Nada Brahma
+TTITLE6=Enchanted Village
+TTITLE7=Rhythm Of Djembre
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

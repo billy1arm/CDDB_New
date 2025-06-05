@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12976
+#	38501
+#	57752
+#	85344
+#	89812
+#	120315
+#	122189
+#	143256
+#
+# Disc length: 2129 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a084f09
+DTITLE=今沢カゲロウ - Amplified
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Daylight
+TTITLE1=Amplified
+TTITLE2=Star Pointer
+TTITLE3=Nuclear
+TTITLE4=Shell Game
+TTITLE5=Gambler's Wives
+TTITLE6=Gods
+TTITLE7=Adam
+TTITLE8=The End
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

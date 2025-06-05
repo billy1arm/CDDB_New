@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16248
+#	27466
+#	47562
+#	65520
+#	88521
+#	102511
+#	121517
+#	145727
+#
+# Disc length: 2183 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=6d088509
+DTITLE=Muddy Waters - The London Muddy Waters Sessions
+DYEAR=1971
+DGENRE=Blues
+TTITLE0=Blind Man Blues
+TTITLE1=Key To The Highway
+TTITLE2=Young Fashioned Ways
+TTITLE3=I'm Gonna Move To The Outskirts Of Town
+TTITLE4=Who's Gonna Be Your Sweet Man When I'm Gone
+TTITLE5=Walkin' Blues
+TTITLE6=I'm Ready
+TTITLE7=Sad Sad Day
+TTITLE8=I Don't Know Why
+EXTD=ID3G:   0 YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

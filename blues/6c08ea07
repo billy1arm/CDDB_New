@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21513
+#	48518
+#	71791
+#	90913
+#	119227
+#	146948
+#
+# Disc length: 2284 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6c08ea07
+DTITLE=Pierre-Lois Garcia - Die Grupen
+DYEAR=1984
+DGENRE=Jazz
+TTITLE0=Blanc Sur Blanc
+TTITLE1=Rhodes Island
+TTITLE2=Tiens Bon Farinelle
+TTITLE3=Tipaza
+TTITLE4=Palestine
+TTITLE5=Free Dance Company
+TTITLE6=Die Grupen
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

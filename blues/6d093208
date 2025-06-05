@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17630
+#	47524
+#	67128
+#	87727
+#	115421
+#	131818
+#	151937
+#
+# Disc length: 2356 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d093208
+DTITLE=Spooge - Demo
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Ewe Are In My Dreams
+TTITLE1=Imp Of The Perverse
+TTITLE2=Mr. (h)ED
+TTITLE3=Pee Pee - Chick'n'Dix
+TTITLE4=Ra! (Shouts Out)
+TTITLE5=Savannah Cobain
+TTITLE6=Spooge - (The Coming Of The Lord)
+TTITLE7=Tiberius
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

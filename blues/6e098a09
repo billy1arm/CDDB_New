@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25584
+#	50312
+#	66719
+#	78206
+#	102929
+#	118685
+#	141798
+#	173441
+#
+# Disc length: 2444 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e098a09
+DTITLE=Jazzover Hybrid Project - hybrid
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Amanogawa
+TTITLE1=We face the future
+TTITLE2=Se Maje Ore
+TTITLE3=Ritmo
+TTITLE4=One in the Colors
+TTITLE5=Echo
+TTITLE6=Rhinoceros
+TTITLE7=Clover
+TTITLE8=Peace and quiet
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

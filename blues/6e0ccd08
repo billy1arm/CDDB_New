@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30190
+#	69888
+#	95935
+#	118095
+#	145946
+#	192527
+#	211707
+#
+# Disc length: 3279 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e0ccd08
+DTITLE=Bill Evans Trio - 1976 in Köln   (1|2)
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Bill Evans - Porgy
+TTITLE1=Bill Evans - Since We Met
+TTITLE2=Bill Evans - I Should Care
+TTITLE3=Bill Evans - TTT
+TTITLE4=Bill Evans - Up With The Lark
+TTITLE5=Bill Evans - I Your Own Sweet Way
+TTITLE6=Bill Evans - All Mine
+TTITLE7=Bill Evans - All Of You
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

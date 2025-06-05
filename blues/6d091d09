@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15679
+#	51483
+#	82351
+#	90819
+#	99071
+#	116476
+#	127473
+#	153279
+#
+# Disc length: 2335 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD2 v3.00 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=6d091d09
+DTITLE=Eagan (MN) High School - A Festival of Sounds
+DYEAR=1900
+DGENRE=
+TTITLE0=Wind Ensemble - Pas Redouble
+TTITLE1=Wind Ensamble - Symphony on Themes by John Philip Sousa II. After the 
+TTITLE1=Thunderer
+TTITLE2=Wind Ensemble - The Inferno from "The Devine Comedy"
+TTITLE3=Winter Drumline - Nenovsko Gruncharsko
+TTITLE4=Winter Drumline - Song for Segovia
+TTITLE5=Winter Drumline - The Ascension from "The Divine Comedy"
+TTITLE6=Jazz I - Georgia On My Mind
+TTITLE7=Jazz I - Stolen Moments
+TTITLE8=Jazz I - City
+EXTD=An Production By Eagan High Schoo in Eagan, MN. Recorded 1997 by AVU Reco
+EXTD=rds\nWind Ensemble - Thomas Maeck, Conductor\n\nWinter Drumline - Amy Jam
+EXTD=es, Barry Peterson and Jeff Christiansen, directors\n\nJazz I - Conrad Misk
+EXTD=a, director
+EXTT0=Camille Saint-Saens\narr. Arthur Frackenpohl
+EXTT1=Ira Hearshen
+EXTT2=Robert W. Smith\n\nSolos: Elissa Burggraff, Denise Feda, Nate Zoellner, 
+EXTT2=Lindsey Fish, Andy LaMere.
+EXTT3=Bulgarian Folk Song\narr. Amy James and Barry Peterson
+EXTT4=Brian Slawson\narr. Jeff Christiansen and Amy James
+EXTT5=Robert W. Smith\narr. Amy James, Barry Peterson and Jeff Christiansen
+EXTT6=Hoagy Carmichael\narr. Mark Taylor\n\nSolo: Heidi Hemmen, piano
+EXTT7=Oliver Nelson\narr. Paul Jennings\n\nSolos: Jeff VanOverbeke, J.R. Schmi
+EXTT7=dt, Lindsey Fish, Jeremy Spring
+EXTT8=Jeff Lorber\narr. Mike Tomaro\n\nSolos: Lindsey Fish, J.R. Schmidt, Dan 
+EXTT8=Huiting
+PLAYORDER=

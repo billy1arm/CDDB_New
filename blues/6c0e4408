@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31897
+#	69977
+#	115886
+#	139741
+#	174346
+#	203161
+#	253913
+#
+# Disc length: 3654 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c0e4408
+DTITLE=Broadview (Ted Warren, Mike Murley, Rich Brown) - Two of Clubs
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Rich Murlted
+TTITLE1=Lullabye
+TTITLE2=Open Spaces
+TTITLE3=International Idle
+TTITLE4=Winter Flower
+TTITLE5=Tango Ruby
+TTITLE6=Hibiscus
+TTITLE7=On The Lemonade
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

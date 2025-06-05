@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	79608
+#	127943
+#	186033
+#	215508
+#	224433
+#	249033
+#	268458
+#
+# Disc length: 3715 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6f0e8108
+DTITLE=Various Artist - Shine - The Complete Classic Cd 1
+DYEAR=1997
+DGENRE=Soundtrack
+TTITLE0=Piano concerto no. 3 in D minor - Allegro ma non tanto
+TTITLE1=Piano concerto no. 3 in D minor - Intermezzo. Adagio
+TTITLE2=Piano concerto no. 3 in D minor - Finale. Alla breve
+TTITLE3=Polonaise No. 6 in A flat, Op. 53 "Eroic"
+TTITLE4=Kinderszenen, Op. 15
+TTITLE5=Prelude in D flat, Op. 28 No. 15 "Raindrop"
+TTITLE6=6 Etudes d'execution transcendante d'apres Paganini:- No.3 La campanella
+TTITLE7=Gloria in D, RV 589 - Gloria in excelsis Deo - Allegro
+EXTD=YEAR: 1997
+EXTT0=Serge Rachmaninoff
+EXTT1=Serge Rachmaninoff
+EXTT2=Serge Rachmaninoff
+EXTT3=Frederic Chopin
+EXTT4=Robert Schumann
+EXTT5=Frederic Chopin
+EXTT6=Franz Liszt
+EXTT7=Antonio Vivaldi
+PLAYORDER=

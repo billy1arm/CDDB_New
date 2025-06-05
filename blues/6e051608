@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	12812
+#	25917
+#	37477
+#	48055
+#	59120
+#	71772
+#	86755
+#
+# Disc length: 1304 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=6e051608
+DTITLE=Elmore James - King Of The Slide Guitar
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=The Sky Is Crying
+TTITLE1=Dust My Broom
+TTITLE2=Rollin' and Tumblin'
+TTITLE3=Done Somebody Wrong
+TTITLE4=One Way Out
+TTITLE5=Shake Your Moneymaker
+TTITLE6=It Hurts Me Too
+TTITLE7=Look On Younder Wall
+EXTD=YEAR: 1992 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

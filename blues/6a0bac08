@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33329
+#	61477
+#	86256
+#	110511
+#	127493
+#	151222
+#	194453
+#
+# Disc length: 2990 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=6a0bac08
+DTITLE=Staffelsee-Quartet - A Night Of Blues And Ballads
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=So Far Away Yet So Near (Larry Porter)
+TTITLE1=Bazaar Blues (Larry Porter)
+TTITLE2=Little Sleeper (Johannes Enders)
+TTITLE3=I Gat It (Larry Porter)
+TTITLE4=Please Stop Me Now (Johannes Enders)
+TTITLE5=To Be Frank (Johannes Enders)
+TTITLE6=Blues Ballad For Bicio - In Memory Of Maurizio Caldura (Larry Porter)
+TTITLE7=The Old Country (Nat Adderley)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

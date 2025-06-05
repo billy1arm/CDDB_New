@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20713
+#	35743
+#	48165
+#	63061
+#	79908
+#	94534
+#	114258
+#	137808
+#
+# Disc length: 2032 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=6d07ee09
+DTITLE=Markus Gisin und Band - Bluesmagie
+DYEAR=2006
+DGENRE=Blues
+TTITLE0=Barrakuda Blues
+TTITLE1=Arbeitslos
+TTITLE2=Dust My Broom
+TTITLE3=Es Bitzeli
+TTITLE4=Hey Job
+TTITLE5=No Shoes
+TTITLE6=Pirate
+TTITLE7=Rock'n Roll Lady
+TTITLE8=Uf Liese Sohle
+EXTD=YEAR: 2006 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

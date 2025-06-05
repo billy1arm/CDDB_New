@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23556
+#	55187
+#	92368
+#	123386
+#	171367
+#	190825
+#	217478
+#
+# Disc length: 3393 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6b0d3f08
+DTITLE=Max Grosch - Brahms meets Jazz
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Violin sonata A major
+TTITLE1=Hungarian Dance #5
+TTITLE2=Intermezzo A minor
+TTITLE3=Presto
+TTITLE4=Violin Concerto D major
+TTITLE5=Capriccio
+TTITLE6=Symphony #3
+TTITLE7=Hungarian Dance #16
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

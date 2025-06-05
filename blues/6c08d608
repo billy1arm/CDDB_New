@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18325
+#	41117
+#	62555
+#	81050
+#	99690
+#	126937
+#	148862
+#
+# Disc length: 2264 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c08d608
+DTITLE=Kevin Eubanks - Opening Night
+DYEAR=1984
+DGENRE=Jazz
+TTITLE0=Opening Night
+TTITLE1=Shades Of Black
+TTITLE2=The Navigator
+TTITLE3=Thought About Thinking
+TTITLE4=In Flight From Omelas
+TTITLE5=A Place Before you've Been
+TTITLE6=Vera's Isle
+TTITLE7=To Be Continued
+EXTD=1985 YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15535
+#	44000
+#	59519
+#	79736
+#	95880
+#	120458
+#	135685
+#
+# Disc length: 2120 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c084608
+DTITLE=Narada - Discover
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Oscar Lopez - Armando's Fire
+TTITLE1=Warren Hill - Mambo 2000
+TTITLE2=Jesse Cook - Air
+TTITLE3=Cuba L.A. - Kila Quique Y Chocolate
+TTITLE4=Lila Downs - Simuna
+TTITLE5=Willie and Lobo - Seven Veils
+TTITLE6=Sheila Chandra - O.U.R.
+TTITLE7=Vas - Inward Coil
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

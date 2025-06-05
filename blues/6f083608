@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25417
+#	39567
+#	65797
+#	79240
+#	104850
+#	116250
+#	143567
+#
+# Disc length: 2104 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f083608
+DTITLE=Milt Jackson - Statements
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Statement
+TTITLE1=Slowly
+TTITLE2=A Thrill From The Blues
+TTITLE3=Paris Blues
+TTITLE4=Put Off
+TTITLE5=A Beautiful Romance
+TTITLE6=Sonnymoon For Two
+TTITLE7=The Bad And The Beautiful
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

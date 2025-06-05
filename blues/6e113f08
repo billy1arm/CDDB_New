@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48853
+#	96480
+#	128569
+#	174317
+#	221357
+#	281778
+#	330667
+#
+# Disc length: 4417 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=6e113f08
+DTITLE=Melek-Tha - The Sulfurik Vortex
+DYEAR=2000
+DGENRE=Dark Industrial
+TTITLE0=Phase One: The Arrival
+TTITLE1=Phase Two: Alien's New Eden
+TTITLE2=Hearth Colonisation
+TTITLE3=Generation Kelemath
+TTITLE4=Dark Ekstasy
+TTITLE5=Phase Three: The Sulfurik Vortex
+TTITLE6=Phase Four: Impulse To Destroy
+TTITLE7=Untitled
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

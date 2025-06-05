@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26027
+#	45328
+#	69028
+#	91592
+#	112048
+#	134575
+#	160034
+#	178459
+#
+# Disc length: 3599 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f0e0d09
+DTITLE=Narnia - Desert Land
+DYEAR=1900
+DGENRE=Hard Rock
+TTITLE0=Inner Sanctum
+TTITLE1=The Witch And The Lion
+TTITLE2=Falling From The Throne
+TTITLE3=Revolution Of Mother Earth
+TTITLE4=The Light At The End Of The Tunnel
+TTITLE5=Angels Are Crying
+TTITLE6=Walking The Wire
+TTITLE7=Misty Morning
+TTITLE8=Trapped In This Age
+EXTD=extracted by dzarko\n\n* instrumental
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=* instrumental
+EXTT5=
+EXTT6=
+EXTT7=* instrumental
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31970
+#	60870
+#	85020
+#	115302
+#	144907
+#	177655
+#	204572
+#	237127
+#
+# Disc length: 3579 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f0df909
+DTITLE=Jimmy Knepper Quintet - Dream Dancing
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Dream Dancing
+TTITLE1=Goodbye
+TTITLE2=All Through The Night
+TTITLE3=In The Interim
+TTITLE4=Of Things Past
+TTITLE5=This Time The Dream Is On Me
+TTITLE6=In The Interim
+TTITLE7=Dream Dancing
+TTITLE8=Night Vision
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24576
+#	43865
+#	69674
+#	81656
+#	115988
+#	143017
+#	160936
+#
+# Disc length: 2362 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f093808
+DTITLE=Dave Brubeck - The Riddle
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Hey, Ho, Anybody home?
+TTITLE1=The Twig
+TTITLE2=Blue Ground
+TTITLE3=Offshoot
+TTITLE4=Swingin' 'Round
+TTITLE5=Quiet Mood
+TTITLE6=The Riddle
+TTITLE7=Yet We Shall Be Merry
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

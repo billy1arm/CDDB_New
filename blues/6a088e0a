@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16000
+#     27853
+#     42008
+#     64290
+#     78885
+#     91623
+#     112628
+#     128768
+#     147395
+# 
+# Disc length: 2192 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=6a088e0a
+DTITLE=Tracy Nelson - Sweet Soul Music
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Sweet Soul Music
+TTITLE1=Looking For A Sign
+TTITLE2=Joabim
+TTITLE3=Nothing I Can't Handle
+TTITLE4=Baby I Found Out
+TTITLE5=Lies
+TTITLE6=Same Old Blues
+TTITLE7=We Just Can't Make It Anymore
+TTITLE8=I'll Be Your Baby Tonight
+TTITLE9=Going To Tennessee
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

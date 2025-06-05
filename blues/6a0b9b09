@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34553
+#	60296
+#	70944
+#	90412
+#	101926
+#	132112
+#	158602
+#	190235
+#
+# Disc length: 2973 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=6a0b9b09
+DTITLE=Lithium - Red
+DYEAR=2017
+DGENRE=Jazz
+TTITLE0=Bruin Bay (Alex Tuomarila)
+TTITLE1=Falling (Jonne Taavitsainen)
+TTITLE2=Interstellar (Alexi Tuomarila)
+TTITLE3=Substellar (Alexi Tuomarila)
+TTITLE4=Green (Alexi Tuomarila)
+TTITLE5=Vagabond (Alexi Tuomarila)
+TTITLE6=Chill (Alexi Tuomarila)
+TTITLE7=Shadows (Alexi Tuomarila)
+TTITLE8=The Times They are A-Changing (Bob Dylan)
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

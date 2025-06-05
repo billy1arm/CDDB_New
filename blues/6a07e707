@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29940
+#	46733
+#	66655
+#	87735
+#	116559
+#	137562
+#
+# Disc length: 2025 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a07e707
+DTITLE=Della-Maestra Sextet - Live Demo
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Rio rush (Abe Laboriel)
+TTITLE1=Crosswind (Billy Cobham)
+TTITLE2=Love's like that (James Boney)
+TTITLE3=Do like Eddie (John Scofield)
+TTITLE4=Goodby pork pie hat (Charles Mingus)
+TTITLE5=Watermelon man (Herbie Hancok)
+TTITLE6=Biji (Sonnis Rollins)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

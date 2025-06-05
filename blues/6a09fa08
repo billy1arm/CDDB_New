@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	27702
+#	51412
+#	73930
+#	109272
+#	132000
+#	150057
+#	169725
+#
+# Disc length: 2556 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 1.5.7
+#
+DISCID=6a09fa08
+DTITLE=Sonora Poncena - Conquista Musical
+DYEAR=1976
+DGENRE=Salsa
+TTITLE0=Nanara Cai
+TTITLE1=Bomba Carambomba
+TTITLE2=Canto Al Jibarito
+TTITLE3=La Clave
+TTITLE4=Esta Es Venezuela
+TTITLE5=La Pollera Colora
+TTITLE6=El Tiempo
+TTITLE7=El Pio Pio
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

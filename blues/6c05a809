@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12299
+#	25584
+#	33337
+#	46667
+#	59109
+#	72931
+#	86908
+#	93259
+#
+# Disc length: 1450 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6c05a809
+DTITLE=Fernant Zeste - Live at de Loge
+DYEAR=2011
+DGENRE=Blues
+TTITLE0=Come back home
+TTITLE1=Louise I
+TTITLE2=Kitchen
+TTITLE3=Little devil
+TTITLE4=Stupid girl
+TTITLE5=Snowblind
+TTITLE6=Welle
+TTITLE7=Hoist
+TTITLE8=Louise II
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

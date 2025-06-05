@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31402
+#	59950
+#	98670
+#	109857
+#	140167
+#	167087
+#	180800
+#
+# Disc length: 2565 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=6c0a0308
+DTITLE=Jim Hall - Jazz Impressions Of Japan
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Light
+TTITLE1=Careful
+TTITLE2=Kyoto Bells
+TTITLE3=Without Words
+TTITLE4=Echo
+TTITLE5=Young One
+TTITLE6=Two Special People
+TTITLE7=Something For Now
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

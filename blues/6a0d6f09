@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29552
+#	47822
+#	84862
+#	102355
+#	110280
+#	158140
+#	190812
+#	210340
+#
+# Disc length: 3441 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a0d6f09
+DTITLE=Yellow Seeds - Music In Elevator
+DYEAR=1995
+DGENRE=Rock
+TTITLE0=Staples
+TTITLE1=Silver Moon Comes
+TTITLE2=Sisters 3
+TTITLE3=Scene Zero
+TTITLE4=Spanish Song
+TTITLE5=Act Sonic
+TTITLE6=Freeze
+TTITLE7=Yellow Seeds
+TTITLE8=Asphodel
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	31830
+#	60082
+#	88360
+#	112600
+#	139032
+#	165630
+#	194102
+#	227167
+#
+# Disc length: 3314 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e0cf009
+DTITLE=Günter Wehinger - As Promised
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=The Glide
+TTITLE1=Twilight
+TTITLE2=T.M.
+TTITLE3=I Don't Care
+TTITLE4=Red Ballad
+TTITLE5=Eronel
+TTITLE6=To Be With You
+TTITLE7=Spring '89
+TTITLE8=Chelsea Bridge
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

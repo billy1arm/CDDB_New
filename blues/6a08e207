@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23900
+#	44325
+#	73050
+#	96450
+#	119475
+#	145425
+#
+# Disc length: 2276 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6a08e207
+DTITLE=Thelonious Monk Quintet - Monk
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=We See
+TTITLE1=Smoke Gets in Your Eyes
+TTITLE2=Locomotive
+TTITLE3=Hackensack
+TTITLE4=Let's Call This
+TTITLE5=Think of One (take 2)
+TTITLE6=Think of One (take 1)
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

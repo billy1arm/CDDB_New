@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34708
+#	70029
+#	111017
+#	138293
+#	160261
+#	183448
+#	200803
+#
+# Disc length: 3331 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6b0d0108
+DTITLE=Gillespi - Live in Gonnet
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Dada
+TTITLE1=The meters
+TTITLE2=Masquarade
+TTITLE3=El La Mi
+TTITLE4=Extrabrut
+TTITLE5=Inbetweenies
+TTITLE6=Garota de Ipanema
+TTITLE7=The man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

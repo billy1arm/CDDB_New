@@ -1,0 +1,41 @@
+# xmcd
+#
+# Track frame offsets:
+# 150
+# 47580
+# 68570
+# 91190
+# 125532
+# 145857
+# 169380
+# 214202
+#
+# Disc length: 3783 seconds
+#
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.93 
+#
+DISCID=6f0ec508
+DTITLE=Bundesjugenorchester - Schumann - Strauß - Berg
+DYEAR=2000
+DGENRE=Klassik
+TTITLE0=Ziemlich langsam - lebhaft
+TTITLE1=Romanze, ziemlich langsam
+TTITLE2=Scherzo, lebhaft
+TTITLE3=Langsam - lebhaft
+TTITLE4=Präludium
+TTITLE5=Reigen
+TTITLE6=Marsch
+TTITLE7=till Eulenspiegels lustige Streiche
+EXTD=
+EXTT0=Schumann Sinfonie Nr. 4 D-Mol lop. 120
+EXTT1=Schumann Sinfonie Nr. 4 D-Moll op. 120
+EXTT2=Schumann Sinfonie Nr. 4 D-Mollop.
+EXTT3=Schumann Sinfonie Nr. 4 D-Mol lop. 120
+EXTT4=Alban Berg - 3 Orchesterstücke
+EXTT5=Alban Berg - 3 Orchesterstücke
+EXTT6=Alban Berg - 3 Orchesterstücke
+EXTT7=Richard Strauß
+PLAYORDER=

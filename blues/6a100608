@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25385
+#	58535
+#	96288
+#	130013
+#	184973
+#	210263
+#	248963
+#
+# Disc length: 4104 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a100608
+DTITLE=Tetsuo Sakurai - Gentle Hearts Tour 2004
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Samurai Faith
+TTITLE1=The Invisible Way
+TTITLE2=Pavane Pur Une Infante Defunte
+TTITLE3=Punk Jazz
+TTITLE4=Extraction
+TTITLE5=Gentle Hearts
+TTITLE6=Brain Storm
+TTITLE7=Wonderland in the Sky
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	152
+#	11806
+#	28842
+#	55990
+#	82085
+#	103126
+#	127023
+#	166412
+#
+# Disc length: 2700 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d0a8a08
+DTITLE=Yazoo Country Blues - Blues and Roots
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=Do your duty
+TTITLE1=San Francisco Bay Blues
+TTITLE2=Truckin' little baby
+TTITLE3=No ice in my bourbon
+TTITLE4=Little red rooster
+TTITLE5=She was a deramer
+TTITLE6=Freight train
+TTITLE7=Brother can you spare a dime
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

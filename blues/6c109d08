@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40495
+#	88754
+#	133830
+#	166397
+#	213405
+#	250199
+#	277506
+#
+# Disc length: 4255 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6c109d08
+DTITLE=Alex Sipiagin - Mirages
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=One For Mike I
+TTITLE1=Mirages
+TTITLE2=Live Score
+TTITLE3=Levitin's Kingdom
+TTITLE4=Just One Of Those Things
+TTITLE5=Tetragon
+TTITLE6=Iris
+TTITLE7=One For Mike II
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

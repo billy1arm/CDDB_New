@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	107420
+#	183797
+#	202642
+#	227275
+#	259660
+#	281343
+#	295184
+#	312591
+#
+# Disc length: 4430 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6c114c09
+DTITLE=Regalia band - Live at The Home Nightclub 1973_Disc1
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=Regalia_Track 01
+TTITLE1=Regalia_Track 02
+TTITLE2=Regalia_Track 03
+TTITLE3=Moondance
+TTITLE4=Golden Lady
+TTITLE5=Regalia_Track 06
+TTITLE6=Regalia_Track 07
+TTITLE7=Regalia_Track 08
+TTITLE8=For Once In My Life
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

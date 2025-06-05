@@ -1,0 +1,44 @@
+# xmcd
+#
+# Track frame offsets:
+# 150
+# 28288
+# 52500
+# 82871
+# 109677
+# 139956
+# 159258
+# 181425
+# 204536
+#
+# Disc length: 2836 seconds
+#
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.945 
+#
+DISCID=6c0b1209
+DTITLE=Elton John - Madman Across the Water [DTS]
+DYEAR=1971
+DGENRE=Rock
+TTITLE0=Tiny Dancer
+TTITLE1=Levon
+TTITLE2=Razor Face
+TTITLE3=Madman Across the Water
+TTITLE4=Indian Sunset
+TTITLE5=Holiday Inn
+TTITLE6=Rotten Peaches
+TTITLE7=All the Nasties
+TTITLE8=Goodbye
+EXTD=DTS -> WAV -> DTS (burrrn)
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

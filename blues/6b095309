@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     30200
+#     51125
+#     68003
+#     82068
+#     93193
+#     117445
+#     140693
+#     167363
+# 
+# Disc length: 2389 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6b095309
+DTITLE=Manal - Manal En Vivo
+DYEAR=1900
+DGENRE=
+TTITLE0=Do a Laura
+TTITLE1=Mas All  Del Valle Del Tiempo
+TTITLE2=No Pibe
+TTITLE3=Necesito Un Amor
+TTITLE4=Avenida Rivadavia
+TTITLE5=Avellaneda Blues
+TTITLE6=No Hay Tiempo De Mas
+TTITLE7=Elena
+TTITLE8=Jugo De Tomate Fr o
+EXTD=Grabado en el Estadio Obras Sanitarias en 1980.
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

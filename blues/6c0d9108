@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39247
+#	62035
+#	100725
+#	121358
+#	151157
+#	186676
+#	223664
+#
+# Disc length: 3475 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6c0d9108
+DTITLE=Le Heureux Soleil En Provence - C'est La Vie - Terra Humma Group
+DYEAR=2003
+DGENRE=New Age
+TTITLE0=Rosée du martin
+TTITLE1=A la conquete du cial
+TTITLE2=Aurore printanière
+TTITLE3=Parfum du soir
+TTITLE4=La source
+TTITLE5=Souffle caresse
+TTITLE6=Message du lointain
+TTITLE7=Le vent de la mémoire
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

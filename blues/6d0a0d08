@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26672
+#	54912
+#	79217
+#	97982
+#	127422
+#	141067
+#	164807
+#
+# Disc length: 2575 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d0a0d08
+DTITLE=Sonny Red - Out Of The Blue
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Bluesville
+TTITLE1=Stay As A Sweet As You Are
+TTITLE2=I've Never Been In Love Before
+TTITLE3=Nadia
+TTITLE4=Blues In The Pocket
+TTITLE5=Alone Too Long
+TTITLE6=The Lope
+TTITLE7=Starway To The Stars
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

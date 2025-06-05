@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15731
+#	32412
+#	49733
+#	69996
+#	86287
+#	110280
+#	131299
+#	144060
+#	154203
+#
+# Disc length: 2243 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d08c10a
+DTITLE=Miles Davis - The Complete Recordings 1945 - 1960 - 25. Miles Ahead
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=01 Springville
+TTITLE1=02 The Maids Of Cadiz
+TTITLE2=03 The Duke
+TTITLE3=04 My Ship
+TTITLE4=05 Miles Ahead
+TTITLE5=06 Blues For Pablo
+TTITLE6=07 New Rhumba
+TTITLE7=08 The Meaning Of The Blues
+TTITLE8=09 Lamnet
+TTITLE9=10 I Don't Wanna Be Kissed
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

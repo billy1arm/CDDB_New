@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24518
+#	50762
+#	89162
+#	113985
+#	142528
+#	164237
+#	182376
+#
+# Disc length: 2516 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a09d208
+DTITLE=Allan Holdsworth - Wardenclyffe Tower
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=5 to 10
+TTITLE1=Sphere of Innocence
+TTITLE2=Wardenclyffe Tower
+TTITLE3=Dodgy Boat
+TTITLE4=Zarabeth
+TTITLE5=Against the clock
+TTITLE6=Questions
+TTITLE7=Oneiric moor
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

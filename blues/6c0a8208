@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23975
+#	51350
+#	80460
+#	110385
+#	118360
+#	146187
+#	167352
+#
+# Disc length: 2692 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=6c0a8208
+DTITLE=SALT - SALT
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=844
+TTITLE1=SALAMI
+TTITLE2=KOME KOME KOME
+TTITLE3=OPASI RERA
+TTITLE4=KAI-TOH-SEI
+TTITLE5=INFAMOUS PIZZA
+TTITLE6=SENYA ICHIYA
+TTITLE7=KAPPA
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

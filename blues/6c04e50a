@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10690
+#     21732
+#     30582
+#     38180
+#     47427
+#     56720
+#     65317
+#     75865
+#     85035
+# 
+# Disc length: 1255 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6c04e50a
+DTITLE=Fats Domino - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Blueberry Hill
+TTITLE1=Ain't That A Shame
+TTITLE2=Walking To New Orleans
+TTITLE3=Whole Lotta Loving
+TTITLE4=I'M Ready
+TTITLE5=I'm Walkin'
+TTITLE6=Valley Of Tears
+TTITLE7=I want To Walk You Home
+TTITLE8=I'm In Love Again
+TTITLE9=It's You I Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49693
+#	93089
+#	139038
+#	147738
+#	188402
+#	199191
+#	246311
+#
+# Disc length: 3985 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6f0f8f08
+DTITLE=Prysm - Five
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Reflexion
+TTITLE1=Secret World
+TTITLE2=Temps Dense
+TTITLE3=X-Ray - Intro
+TTITLE4=X-Ray
+TTITLE5=Thre Stone Cutter - Intro
+TTITLE6=Thre Stone Cutter
+TTITLE7=Un Des Sens
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

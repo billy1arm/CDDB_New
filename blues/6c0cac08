@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33581
+#	60618
+#	96759
+#	127150
+#	165243
+#	195939
+#	223923
+#
+# Disc length: 3246 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=6c0cac08
+DTITLE=Edgar Knecht - Personal Seasons
+DYEAR=2019
+DGENRE=Jazz
+TTITLE0=Schalmei
+TTITLE1=Schnitter Tod
+TTITLE2=Italian Summer
+TTITLE3=The Ship
+TTITLE4=Winterschall
+TTITLE5=Spring Fever
+TTITLE6=Sommerschall
+TTITLE7=Bunte Waelder
+EXTD=YEAR: 2019
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

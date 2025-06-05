@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19744
+#	35724
+#	60425
+#	76318
+#	89697
+#	109225
+#	129396
+#	153752
+#
+# Disc length: 2424 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6a097609
+DTITLE=Blood, Sweat and Tears - New Blood
+DYEAR=1972
+DGENRE=Jazz
+TTITLE0=Down In The Flood
+TTITLE1=Touch Me
+TTITLE2=Alone
+TTITLE3=Velvet
+TTITLE4=I Can't Move No Mountains
+TTITLE5=Over The Hill
+TTITLE6=So Long Dixie
+TTITLE7=Snow Queen
+TTITLE8=Maiden Voyage
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

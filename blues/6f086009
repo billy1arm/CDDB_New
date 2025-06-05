@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11528
+#	38571
+#	55001
+#	66267
+#	82110
+#	100062
+#	121224
+#	145915
+#
+# Disc length: 2146 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f086009
+DTITLE=New Celeste - On the line
+DYEAR=1979
+DGENRE=New Age
+TTITLE0=Morrison's Jig
+TTITLE1=P. Stands for Paddy
+TTITLE2=Ploughmen
+TTITLE3=Building a motorway
+TTITLE4=Nova scotia
+TTITLE5=Johnny
+TTITLE6=Winter brings a melody
+TTITLE7=Mykeepers
+TTITLE8=On the line
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

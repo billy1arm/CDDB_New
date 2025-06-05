@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34499
+#	67822
+#	104485
+#	127875
+#	173341
+#	191107
+#	209608
+#
+# Disc length: 3045 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6e0be308
+DTITLE=Koncert Droga Do Ciebie - Jazzmeni Janowi Pawlowi II, 11.VI.1999, Sopot - Koncert Droga Do Ciebie - Jazzmeni Janowi Pawlowi II
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=God Bless the Child - Dranicki, Sikala
+TTITLE1=Ministranczyni - W Staroniewicz, S Jaskolke, T Sowinski, P Lemanczyk
+TTITLE2=Zmiany - G Nagorski, M Sikala, C Paciorek, J Mackiewicz, A Czerwinski
+TTITLE3=Moose the Mooche - E Kowalski, J Mackiewicz, C Paciorek, A Czerwinski
+TTITLE4=Odnaleziona Owieczka - M Sikala, P Lemanczyk, T Sowinski
+TTITLE5=Droga do Ciebie Panie - L Dranicki, M Sikala, C Paciorek, J Mackiewicz, T Sowinski
+TTITLE6=Nie scigaj sie z Miloscia - sl. ks. Krzysztof Niedaltowski, muz. Cezary Paciorek
+TTITLE7=Oto sa baranki mlode - Non Serio, C Paciorek, Maciej Sikala, Tomasz Sowinski, Piotr Lemanczyk
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

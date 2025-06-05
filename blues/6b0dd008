@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54177
+#	87599
+#	117775
+#	148387
+#	180825
+#	211959
+#	244175
+#
+# Disc length: 3538 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b0dd008
+DTITLE=John Coltrane - Blue Train  [CD 04-10]
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Tommy's Time
+TTITLE1=Minor Mishap
+TTITLE2=Witches' Pit
+TTITLE3=Mary's Blues
+TTITLE4=Cat Walk
+TTITLE5=Route Four
+TTITLE6=Dakar
+TTITLE7=Velvet Scene
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

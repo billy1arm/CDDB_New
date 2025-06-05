@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28870
+#	60178
+#	82315
+#	121923
+#	153005
+#	191805
+#	223175
+#
+# Disc length: 3342 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6a0d0c08
+DTITLE=Llibert Fortuny Electric Quintet - Double Step
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=WTF jam sessions
+TTITLE1=Kira
+TTITLE2=Les tres Maries
+TTITLE3=Mau mau
+TTITLE4=El Corredor de la mort
+TTITLE5=Double step
+TTITLE6=Morfina
+TTITLE7=Eleven
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

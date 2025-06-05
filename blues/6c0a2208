@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31875
+#	56025
+#	74325
+#	100575
+#	126975
+#	154050
+#	170175
+#
+# Disc length: 2596 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c0a2208
+DTITLE=Evan Mannell - Fineline
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Stella By Starlight
+TTITLE1=Love Sugar
+TTITLE2=Cherry Bombs In Parking Meters
+TTITLE3=Fineline
+TTITLE4=Best From The 40'
+TTITLE5=24hr Surveillance
+TTITLE6=Activist In Adidas
+TTITLE7=Audix
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

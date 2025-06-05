@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27520
+#	54645
+#	85747
+#	104667
+#	135575
+#	155240
+#	173235
+#
+# Disc length: 2644 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=6c0a5208
+DTITLE=Benny Golson's - New York Scene
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Something In B Flat
+TTITLE1=Whisper Not
+TTITLE2=Step Lightly
+TTITLE3=Just By Myself
+TTITLE4=Blues  It
+TTITLE5=You're Mine You
+TTITLE6=Capri
+TTITLE7=B.G.'s  Holiday
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

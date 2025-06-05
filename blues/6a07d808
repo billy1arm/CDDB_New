@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17234
+#	34306
+#	51046
+#	70111
+#	90643
+#	107202
+#	128978
+#
+# Disc length: 2010 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a07d808
+DTITLE=The Highway Trio - Recording At Music Inside 03-22-2008
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=St. Louis Blues
+TTITLE1=Body And Soul
+TTITLE2=Stranger Blues
+TTITLE3=Casual Blues
+TTITLE4=Take Five
+TTITLE5=Water Mellon Man
+TTITLE6=Autumn Lives
+TTITLE7=Jazz Life
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

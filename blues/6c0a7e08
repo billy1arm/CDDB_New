@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32215
+#	57682
+#	71290
+#	98537
+#	120022
+#	147275
+#	179845
+#
+# Disc length: 2688 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=6c0a7e08
+DTITLE=Herb Ellis - Nothing But The Blues 
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Pap's Blues
+TTITLE1=Big Red's Boogie Woogie
+TTITLE2=Tin Roof Blues
+TTITLE3=Soft Winds
+TTITLE4=Royal Garden Blues
+TTITLE5=Patti Cake
+TTITLE6=Blues For Janet
+TTITLE7=Blues For Junior
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

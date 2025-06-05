@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+# 150
+# 31347
+# 54995
+# 72725
+# 87982
+# 105122
+# 135402
+# 149142
+# 
+# Disc length: 2410 seconds
+# 
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: SuperSonic v3.01
+# 
+DISCID=6d096808
+DTITLE=Renee Geyer - Blues License
+DYEAR=1900
+DGENRE=
+TTITLE0=The thrill is gone
+TTITLE1=That did it babe
+TTITLE2=Set me free
+TTITLE3=Bellhop Blues
+TTITLE4=Won't be long
+TTITLE5=Stormy Monday
+TTITLE6=Dust my blues
+TTITLE7=Feeling is believing
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

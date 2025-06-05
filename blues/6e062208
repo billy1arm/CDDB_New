@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15005
+#	29480
+#	42625
+#	59785
+#	72625
+#	87955
+#	104460
+#
+# Disc length: 1572 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e062208
+DTITLE=Bud Powell - Piano Solos
+DYEAR=1950
+DGENRE=Jazz
+TTITLE0=So Sorry Please
+TTITLE1=April In Paris
+TTITLE2=Get Happy
+TTITLE3=Tea For Two
+TTITLE4=Sweet Georgia Brown
+TTITLE5=Body And Soul
+TTITLE6=Sometimes I'm Happy
+TTITLE7=Hallelujah
+EXTD=YEAR: 1950
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

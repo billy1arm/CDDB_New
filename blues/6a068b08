@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11805
+#	26706
+#	45746
+#	64101
+#	77587
+#	88301
+#	118350
+#
+# Disc length: 1677 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a068b08
+DTITLE=bad art - Blues Town
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=bad_art_A_Message_From_My_Baby
+TTITLE1=bad_art_LAs_Hot_Tonight
+TTITLE2=bad_art_Im_Happy
+TTITLE3=bad_art_1_2_3_Baby
+TTITLE4=bad_art_Worried_About_Our_Love
+TTITLE5=bad_art_Baby_Thats_For_Sure
+TTITLE6=bad_art_You_Always_Loved_Me
+TTITLE7=bad_art_You_Might_Understand
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

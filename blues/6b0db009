@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46842
+#	79636
+#	112196
+#	146546
+#	172628
+#	190166
+#	219073
+#	246766
+#
+# Disc length: 3506 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=6b0db009
+DTITLE=Ambient Orcestra - Wellness For Cats CD2
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Up On The Tree
+TTITLE1=Wind In The Gras
+TTITLE2=Mysterious Cat
+TTITLE3=Place Of Meditation
+TTITLE4=Listen To The Air
+TTITLE5=Cat's Eyes
+TTITLE6=The Hour Of Playing
+TTITLE7=Sunny Places
+TTITLE8=Cat's World
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

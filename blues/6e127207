@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	62015
+#	95996
+#	137115
+#	190820
+#	246456
+#	298503
+#
+# Disc length: 4724 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e127207
+DTITLE=Rachmaninoff - Symphonies N°1 and 3 (Gennady Rozhdestvensky, USSR Symphony Orchestra)
+DYEAR=1990
+DGENRE=Classique
+TTITLE0=Symphony N°1 in D minor Op.13 - I. Grave - Allegro ma non troppo  ...  [rec.1990]
+TTITLE1=Symphony N°1 in D minor Op.13 - II. Allegro animato
+TTITLE2=Symphony N°1 in D minor Op.13 - III. Larghetto
+TTITLE3=Symphony N°1 in D minor Op.13 - IV. Allegro con fuoco
+TTITLE4=Symphony N°3 in A minor Op.44 - I. Lento - Allegro moderato  ...  [rec.1991]
+TTITLE5=Symphony N°3 in A minor Op.44 - II. Adagio ma non troppo
+TTITLE6=Symphony N°3 in A minor Op.44 - III. Allegro
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

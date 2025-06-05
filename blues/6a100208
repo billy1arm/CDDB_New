@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23660
+#	69705
+#	99925
+#	154720
+#	207662
+#	231037
+#	268325
+#
+# Disc length: 4100 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6a100208
+DTITLE=Fra Fra Bigband - A Tanzo
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=What Me Worry
+TTITLE1=Te Jaw Fre
+TTITLE2=Abahilija
+TTITLE3=In Certain Seasons
+TTITLE4=M-Zee
+TTITLE5=Gonza
+TTITLE6=The Sport
+TTITLE7=One For Malinga
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

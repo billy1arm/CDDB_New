@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18328
+#	55784
+#	78351
+#	104052
+#	131477
+#	148401
+#	160153
+#
+# Disc length: 2624 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 1.5.6
+#
+DISCID=6a0a3e08
+DTITLE=Nada Brahma - Ethnojazz
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Upendo
+TTITLE1=Moderna Ghandi
+TTITLE2=Die Freiheit Dem Puter
+TTITLE3=Ova Battita Rubato
+TTITLE4=Bayati Nawa
+TTITLE5=Owtphrunt
+TTITLE6=Tembea
+TTITLE7=Centre Street
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

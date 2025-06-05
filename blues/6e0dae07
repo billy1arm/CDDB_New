@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	65965
+#	81780
+#	123609
+#	154329
+#	185777
+#	220985
+#
+# Disc length: 3504 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6e0dae07
+DTITLE=Grandmothers - Live at 34. Jazzfestival des HR [CD 2)
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Neon Meat Dream Of A Octafish
+TTITLE1=Immaculate Deception
+TTITLE2=Eric Dolphy Memorial Barbecue
+TTITLE3=The Idiot Bastard Son
+TTITLE4=Montana
+TTITLE5=Stolen Moments
+TTITLE6=Village Of The Sun - Echidnas Arf Of You
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4986
+#	14294
+#	17906
+#	122468
+#	170876
+#	181409
+#	195792
+#	196953
+#
+# Disc length: 3010 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6c0bc009
+DTITLE=Fachgruppe Hilfsmittel des ÖBSV - 15. ordentliche Generalversammlung
+DYEAR=2010
+DGENRE=Information
+TTITLE0=01 01_04 Mag. Beate Hattinger - Begrueszung und Totengedenken
+TTITLE1=02 02_04 Mag. Beate Hattinger - Entschuldigungen, Tagesordnung, Beschlussfaehigkeit
+TTITLE2=03 00_48 Mag. Beate Hattinger - Verlesung des Protokolls der 14. ordentlichen Generalversammlung
+TTITLE3=04 23_14 Mag. Beate Hattinger, Eva Papst, Franz Kirnbauer - Taetigkeitsbericht
+TTITLE4=05 10_45 Mag. Beate Hattinger, Eva Papst - Kassabericht
+TTITLE5=06 02_20 Eva Papst, Gerhard Fink - Revisionsbericht, Entlastung des Vorstandes
+TTITLE6=07 03_11 Mag. Beate Hattinger - Neuwahlen der Leitung und der Rechnungspruefung
+TTITLE7=08 00_15 Mag. Beate Hattinger - Antraege
+TTITLE8=09 06_24 Mag. Beate Hattinger - Allfaelliges
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

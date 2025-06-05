@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	33495
+#	51408
+#	77683
+#	98908
+#	118458
+#	142058
+#	172558
+#
+# Disc length: 2672 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a0a6e08
+DTITLE=Oscar Pettiford - The Best of Oscar Pettiford
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=Oscar Blues
+TTITLE1=All the Things You Are
+TTITLE2=There Will Never Be Another You
+TTITLE3=Vienna Blues
+TTITLE4=Cohn's Limit
+TTITLE5=Blues In The Closet
+TTITLE6=The Gentle Art Of Love
+TTITLE7=Stardust
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

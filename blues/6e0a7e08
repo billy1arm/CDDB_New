@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20422
+#     58200
+#     86745
+#     97002
+#     103830
+#     131115
+#     153527
+# 
+# Disc length: 2688 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6e0a7e08
+DTITLE=Stevie Ray Vaughan And Double Trouble - Let It Happen
+DYEAR=1900
+DGENRE=
+TTITLE0=Texas Flood
+TTITLE1=Stormy Monday Blues
+TTITLE2=Matchbox Blues
+TTITLE3=Instrumental Jam 1
+TTITLE4=Instrumental Jam 2
+TTITLE5=Pride And Joy
+TTITLE6=Ask Me No Questions
+TTITLE7=Outskirts Of Town
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

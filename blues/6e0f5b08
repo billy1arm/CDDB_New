@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34850
+#	68667
+#	119860
+#	151162
+#	215677
+#	248600
+#	259022
+#
+# Disc length: 3933 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.10
+#
+DISCID=6e0f5b08
+DTITLE=Francois Carrier - Travelling Lights
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Americas
+TTITLE1=Asia
+TTITLE2=Oceania
+TTITLE3=Antarctica
+TTITLE4=Europe
+TTITLE5=Africa
+TTITLE6=Sea
+TTITLE7=Island
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

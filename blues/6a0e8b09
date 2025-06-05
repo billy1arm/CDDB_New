@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37574
+#	70031
+#	92966
+#	124744
+#	162652
+#	196577
+#	226363
+#	250083
+#
+# Disc length: 3725 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6a0e8b09
+DTITLE=Triology - Presence
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Solar
+TTITLE1=Afro Blue
+TTITLE2=Away From Home
+TTITLE3=14th Spring
+TTITLE4=Blues On The Bridge
+TTITLE5=Caravan
+TTITLE6=All the Things You Are
+TTITLE7=Sooky Sooky Now
+TTITLE8=Peace
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

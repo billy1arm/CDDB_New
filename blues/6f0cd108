@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27964
+#	61248
+#	91770
+#	115288
+#	139282
+#	175929
+#	213696
+#
+# Disc length: 3283 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f0cd108
+DTITLE=Pete Oxley and Nicolas Meier - The Colours of Time Quartet
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=The Followers
+TTITLE1=Looking West
+TTITLE2=Chasing Kites
+TTITLE3=Riversides
+TTITLE4=Tales
+TTITLE5=The Purple Panther
+TTITLE6=Breeze
+TTITLE7=Fethiye Crossroads
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

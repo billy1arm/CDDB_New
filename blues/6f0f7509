@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32180
+#	49545
+#	84015
+#	170922
+#	198887
+#	210800
+#	244505
+#	269742
+#
+# Disc length: 3959 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6f0f7509
+DTITLE=Jim Hall  - Jim Hall   Concierto
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=You'd Be So Nice To Come Home To (Album Version)
+TTITLE1=Two's Blues (Album Version)
+TTITLE2=The Answer Is Yes (Album Version)
+TTITLE3=Concierto De Aranjuez (Album Version)
+TTITLE4=Rock Skippin' (Album Version)
+TTITLE5=Unfinished Business (Album Version)
+TTITLE6=You'd Be So Nice To Come Home To (Alt. Take)
+TTITLE7=The Answer Is Yes (Alt. Take)
+TTITLE8=Rock Skippin' (Alt. Take)
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

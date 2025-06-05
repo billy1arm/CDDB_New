@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26505
+#	46433
+#	68871
+#	94196
+#	118481
+#	151724
+#	178242
+#
+# Disc length: 2659 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a0a6108
+DTITLE=Michael Spearman and Jim Muller - Sierra Madre
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Rio Bravo
+TTITLE1=Bolivar Blues
+TTITLE2=Tenderly
+TTITLE3=Eddie's Tune
+TTITLE4=Sierra Madre
+TTITLE5=Say Hello to Thomas
+TTITLE6=All The Things You Are
+TTITLE7=Take Five
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

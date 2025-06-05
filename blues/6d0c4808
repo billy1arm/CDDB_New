@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23400
+#	49310
+#	88355
+#	116010
+#	151325
+#	182700
+#	209815
+#
+# Disc length: 3146 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d0c4808
+DTITLE=Charlie Hunter and Bobby Previte - Come in Red Dog, this is Tango Leader
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=All Hell Broke Loose
+TTITLE1=Ow!
+TTITLE2=Up There
+TTITLE3=Said God
+TTITLE4=The Red Dog Strays
+TTITLE5=Okay, Okay
+TTITLE6=Wave Link
+TTITLE7=Can You Hear Me, Tango Leader?
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

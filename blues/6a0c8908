@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39415
+#	70337
+#	83547
+#	95616
+#	133351
+#	195364
+#	207931
+#
+# Disc length: 3211 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a0c8908
+DTITLE=Joseph Haydn - Symphonies N°64 and N°45  (Thomas Fey, Schlierbacher Kammerorchester)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Symphonie N°64  en la majeur ''Tempora Mutantur'' - I. Allegro con spirito
+TTITLE1=Symphonie N°64  en la majeur ''Tempora Mutantur'' - II. Largo
+TTITLE2=Symphonie N°64  en la majeur ''Tempora Mutantur'' - III. Menuet - Allegretto
+TTITLE3=Symphonie N°64  en la majeur ''Tempora Mutantur'' - IV. Finale - Presto
+TTITLE4=Symphonie N°45  en fa dièse mineur ''Les Adieux'' - I. Allegro assai
+TTITLE5=Symphonie N°45  en fa dièse mineur ''Les Adieux'' - II. Adagio
+TTITLE6=Symphonie N°45  en fa dièse mineur ''Les Adieux'' - III. Menuet - Allegretto
+TTITLE7=Symphonie N°45  en fa dièse mineur ''Les Adieux'' - IV. Finale - Presto - Adagio
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=
