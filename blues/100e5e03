@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	90001
+#	181791
+#
+# Disc length: 3680 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=100e5e03
+DTITLE=Planet E. - mystic dream  CD1/3
+DYEAR=2002
+DGENRE=New Age
+TTITLE0=mystic dream
+TTITLE1=labyrinth
+TTITLE2=dark voices
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	65306
+#	151552
+#
+# Disc length: 2835 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=150b1103
+DTITLE=Zoot Sims - Zoot Sims and Light House Allstars 1954 (ABCJ-524)
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Goofy Eyes
+TTITLE1=All the Things You Are
+TTITLE2=Bag's Groove
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

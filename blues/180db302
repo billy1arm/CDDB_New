@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	133275
+#
+# Disc length: 3509 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=180db302
+DTITLE=Jost Ziegner - Bergwelt
+DYEAR=1900
+DGENRE=Meditative
+TTITLE0=Bergwiese
+TTITLE1=Auf dem Gipfel
+EXTD=ID3G: 45
+EXTT0=
+EXTT1=
+PLAYORDER=

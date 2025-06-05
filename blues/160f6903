@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	91042
+#	144804
+#
+# Disc length: 3947 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=160f6903
+DTITLE=Adam Melbye - Hakon Berre - Peter Brotzmann - A Tale of Three Cities
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Bahnhof
+TTITLE1=Bakskuld
+TTITLE2=Bebo Blues
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

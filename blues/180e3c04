@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	120037
+#	165127
+#	255267
+#
+# Disc length: 3646 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=180e3c04
+DTITLE=Tony Bianco and Paul Dunmall with Marcio Mattos and Paul Rogers - 2002 [CD1/2)
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Hour Glass - Part 1
+TTITLE1=Hour Glass - Part 2
+TTITLE2=Hour Glass - Part 3
+TTITLE3=Hour Glass - Part 4
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

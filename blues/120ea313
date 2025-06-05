@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17700
+#	29775
+#	41775
+#	54875
+#	63867
+#	73875
+#	87450
+#	98615
+#	115200
+#	134250
+#	156957
+#	174900
+#	204375
+#	215400
+#	239625
+#	253875
+#	263175
+#	270075
+#
+# Disc length: 3749 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=120ea313
+DTITLE=Various Artist - Jean-Pierre Rampal ~ L'art de la flûte  [CD 1-3]
+DYEAR=2010
+DGENRE=Classique
+TTITLE0=Vivaldi A - Concerto pour flûte et orchestre en ré majeur, Op.10 n°3, RV.428 ''Il Gardellino'' - I. Allegro  [1985]
+TTITLE1=Vivaldi A - Concerto pour flûte et orchestre en ré majeur, Op.10 n°3, RV.428 ''Il Gardellino'' - II. Largo
+TTITLE2=Vivaldi A - Concerto pour flûte et orchestre en ré majeur, Op.10 n°3, RV.428 ''Il Gardellino'' - III. Allegro
+TTITLE3=Vivaldi A - oncerto pour flûte et orchestre en fa majeur, Op.10 n°1, RV.433 ''La tempesta di mare'' - I. Allegro  [1985}
+TTITLE4=Vivaldi A - Concerto pour flûte et orchestre en fa majeur, Op.10 n°1, RV.433 ''La tempesta di mare'' - II.  Largo
+TTITLE5=Vivaldi A - Concerto pour flûte et orchestre en fa majeur, Op.10 n°1, RV.433 ''La tempesta di mare'' - III. Presto
+TTITLE6=Bach J.S - Concerto pour flûte, cordes et basse continue en sol mineur, BWV.1056 - I.   [1984]
+TTITLE7=Bach J.S - Concerto pour flûte, cordes et basse continue en sol mineur, BWV.1056 - II. Largo
+TTITLE8=Bach J.S - Concerto pour flûte, cordes et basse continue en sol mineur, BWV.1056 - III. Presto
+TTITLE9=Bach J.S - Concerto pour flûte, cordes et basse continue en ut majeur, BWV.1055 - I. Allegro  [1984]
+TTITLE10=Bach J.S - Concerto pour flûte, cordes et basse continue en ut majeur, BWV.1055 - II. Larghetto
+TTITLE11=Bach J.S - Concerto pour flûte, cordes et basse continue en ut majeur, BWV.1055 - III. Allegro
+TTITLE12=Telemann G.P - Suite pour flûte et orchestre en la majeur - Ouverture  [1978]
+TTITLE13=Telemann G.P - Suite pour flûte et orchestre en la majeur - Les Plaisirs
+TTITLE14=Telemann G.P - Suite pour flûte et orchestre en la majeur - Air à l'itallien
+TTITLE15=Telemann G.P - Suite pour flûte et orchestre en la majeur - Menuets I and II
+TTITLE16=Telemann G.P - Suite pour flûte et orchestre en la majeur - Réjouissance
+TTITLE17=Telemann G.P - Suite pour flûte et orchestre en la majeur - Passepieds I and II
+TTITLE18=Telemann G.P - Suite pour flûte et orchestre en la majeur - Polonaise
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

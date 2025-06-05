@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	132634
+#
+# Disc length: 3590 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=180e0402
+DTITLE=Arnd Stein - Atlantis
+DYEAR=2006
+DGENRE=New Age
+TTITLE0=Atlantis Teil 1
+TTITLE1=Atlantis Teil 2
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+PLAYORDER=

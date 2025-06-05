@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12807
+#	28775
+#	40030
+#	51425
+#	62532
+#	74605
+#	90040
+#	102525
+#	116040
+#	134085
+#	146672
+#	161072
+#	172310
+#	185460
+#	197905
+#	210465
+#	221500
+#
+# Disc length: 3140 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=120c4212
+DTITLE=Dinah Washington - Swingin' Miss 'D'
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=They Didn't Believe Me
+TTITLE1=You're Crying
+TTITLE2=Makin' Whoopee
+TTITLE3=Ev'ry Time We Say Goodbye
+TTITLE4=But Not For Me
+TTITLE5=Caravan
+TTITLE6=Perdido
+TTITLE7=Never Let Me Go
+TTITLE8=Is You Is Or Is You Ain't My Baby?
+TTITLE9=I'll Close My Eyes
+TTITLE10=Somebody Loves Me
+TTITLE11=I'll Drown In My Tears
+TTITLE12=You Let My Love Grow Cold
+TTITLE13=Bargain Day
+TTITLE14=Relax Max
+TTITLE15=Tears To Burn
+TTITLE16=The Kissing Way Home
+TTITLE17=I Know
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

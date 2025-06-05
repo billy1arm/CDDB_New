@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	84806
+#	199110
+#
+# Disc length: 3033 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=180bd703
+DTITLE=John Zorn - Godard, Spillane
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Godard
+TTITLE1=Spillane
+TTITLE2=Blues Noël
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,71 @@
+# xmcd
+# Copyright (c) 1998 CDDB Inc.
+#
+# Track frame offsets:
+#	150
+#	14915
+#	29702
+#	38750
+#	56075
+#	69015
+#	80220
+#	94287
+#	110795
+#	126872
+#	141070
+#	154732
+#	169222
+#	180357
+#	191877
+#	204475
+#	217115
+#	232167
+#
+# Disc length: 3215 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.83.01
+#
+DISCID=150c8d12
+DTITLE=Various Artist - Kings of Swing - The Hits Of the 40's
+DYEAR=1900
+DGENRE=Oldies
+TTITLE0=Benny Goodman - Don't Be That Way
+TTITLE1=Glenn Miller - Pennsylvania 6-5000
+TTITLE2=Frank Sinatra - On The Sunny Side Of The Street
+TTITLE3=Benny Goodman - St. Louis Blues
+TTITLE4=Glenn Miller - Johnson Rag
+TTITLE5=Frank Sinatra - Night And Day
+TTITLE6=Harry James - Music Makers
+TTITLE7=Benny Goodman - One O'Clock Jump
+TTITLE8=Glenn Miller - In The Mood
+TTITLE9=Frank Sinatra - Begin The Beguine
+TTITLE10=Duke Ellington - Mood Indigo
+TTITLE11=Benny Goodman - Sing, Sing, Sing
+TTITLE12=Nat King Cole - You're The Cream In My Coffee
+TTITLE13=Frank Sinatra - Blue Skies
+TTITLE14=Harry James - All Or Nothing At All
+TTITLE15=Benny Goodman - Bugle Call Rag
+TTITLE16=Glenn Miller - I've Got A Girl In Kalamazoo
+TTITLE17=Frank Sinatra - They Didn't Believe Me
+EXTD=
+EXTT0=Benny Goodman
+EXTT1=Glenn Miller
+EXTT2=Frank Sinatra
+EXTT3=Benny Goodman
+EXTT4=Glenn Miller
+EXTT5=Frank Sinatra
+EXTT6=Harry James
+EXTT7=Benny Goodman
+EXTT8=Glenn Miller
+EXTT9=Frank Sinatra
+EXTT10=Duke Ellington
+EXTT11=Benny Goodman
+EXTT12=Nat King Cloe
+EXTT13=Frank Sinatra
+EXTT14=Harry James
+EXTT15=Benny Goodman
+EXTT16=Glenn Miller
+EXTT17=Frank Sinatra
+PLAYORDER=

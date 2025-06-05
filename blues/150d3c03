@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30020
+#	142932
+#
+# Disc length: 3390 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=150d3c03
+DTITLE=Sounds of Nature - Oceans of Tranquillity CD1
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=Pachelbel's Canon
+TTITLE1=Dolphin Dreams
+TTITLE2=Dance of the Dolphins
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

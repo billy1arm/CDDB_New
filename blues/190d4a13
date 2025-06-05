@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11175
+#	27750
+#	37350
+#	46125
+#	82650
+#	99150
+#	109725
+#	123150
+#	134850
+#	144825
+#	157125
+#	167550
+#	179925
+#	193200
+#	202350
+#	209700
+#	222900
+#	232500
+#
+# Disc length: 3404 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=190d4a13
+DTITLE=Baroque Brass Quintet - In the mood
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Bugler's Holiday
+TTITLE1=In the mood
+TTITLE2=Mexican folk-medley
+TTITLE3=Laura
+TTITLE4=The metro suite
+TTITLE5=Waltz Peruano
+TTITLE6=The pink panther
+TTITLE7=Charleston time
+TTITLE8=Girl from Ipanema
+TTITLE9=Tie a yellow ribbon round the ole oak tree
+TTITLE10=Black and white rag
+TTITLE11=Little brown jug
+TTITLE12=The entertainer
+TTITLE13=Just a closer walk
+TTITLE14=Blue moon
+TTITLE15=Charleston
+TTITLE16=Puttin' on the ritz
+TTITLE17=Traffik
+TTITLE18=Tuba tiger rag
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

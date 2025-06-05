@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11060
+#	24785
+#	38703
+#	49020
+#	64370
+#	97961
+#	110953
+#	131125
+#	149006
+#	168128
+#	182792
+#	201645
+#	222685
+#	234337
+#	245159
+#	262856
+#	278928
+#
+# Disc length: 3883 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=170f2912
+DTITLE=Louis Armstrong - The Wonderful World of Louis Armstrong
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Hello Dolly
+TTITLE1=C'est Si Bon
+TTITLE2=Kiss of Fire
+TTITLE3=What a Wonderful World
+TTITLE4=La Vie En Rose
+TTITLE5=Otchi-Tchor-Ni-Ya
+TTITLE6=Blueberry Hill
+TTITLE7=A Kiss to Build a Dream On
+TTITLE8=I Gotte Right to Sing the Blues
+TTITLE9=Stormy Weather
+TTITLE10=When It's Sleepy Time Down South
+TTITLE11=Top Hat, White Tie and Tails
+TTITLE12=Jeepers Creepers
+TTITLE13=Heebie Jeebies
+TTITLE14=I Love Jazz
+TTITLE15=High Society
+TTITLE16=Star Dust
+TTITLE17=When the Saints Go Marching In
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

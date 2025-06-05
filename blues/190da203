@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	92595
+#	196062
+#
+# Disc length: 3492 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=190da203
+DTITLE=五代目 古今亭志ん生 - 落語ベスト集08
+DYEAR=2001
+DGENRE=Comedy
+TTITLE0=宿屋の富
+TTITLE1=大山詣り
+TTITLE2=甲府い
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

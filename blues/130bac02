@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	101185
+#
+# Disc length: 2990 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=130bac02
+DTITLE=Jan Garbarek - Live at the Tempodrom Berlin CD1
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=01-Part 1
+TTITLE1=02-Part 2
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+PLAYORDER=
