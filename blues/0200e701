@@ -1,0 +1,19 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#
+# Disc length: 233 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0200e701
+DTITLE=Foo Fighters - Monkey Wrench [PROMO]
+DYEAR=2005
+DGENRE=Rock
+TTITLE0=Monkey Wrench
+EXTD=YEAR: 2005
+EXTT0=
+PLAYORDER=

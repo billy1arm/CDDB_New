@@ -1,0 +1,77 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12785
+#     33037
+#     49672
+#     65847
+#     83472
+#     94815
+#     123147
+#     138140
+#     150627
+#     162532
+#     174675
+#     188382
+#     210120
+#     226755
+#     239302
+#     266190
+#     281037
+#     292777
+#     305175
+# 
+# Disc length: 4296 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=0210c614
+DTITLE=Various Artist - Mad About The Girls: Twenty Soulful Ballads
+DYEAR=1900
+DGENRE=
+TTITLE0=Mad About The Boy
+TTITLE1=All Through The Night
+TTITLE2=Dreams
+TTITLE3=I Ain't Movin'
+TTITLE4=Love Is Here To Stay
+TTITLE5=The Shadow Of Your Smile
+TTITLE6=Bewitched
+TTITLE7=Fever
+TTITLE8=Don't Let Me Be Misunderstood
+TTITLE9=Gone With The Wind
+TTITLE10=Make Yourself Comfortable
+TTITLE11=Some Of Your Lovin'
+TTITLE12=Use Me
+TTITLE13=Bad Day
+TTITLE14=Lover Man
+TTITLE15='Round Midnight
+TTITLE16=I Should Care
+TTITLE17=Move Over Darling
+TTITLE18=Crazy
+TTITLE19=Perfect Year
+EXTD=
+EXTT0=Dinah Washington\n
+EXTT1=Cyndi Lauper\n
+EXTT2=Gabrielle\n
+EXTT3=Des'ree\n
+EXTT4=Ella Fitzgerald\n
+EXTT5=Astrud Gilberto\n
+EXTT6=Laura Fygi\n
+EXTT7=Peggy Lee\n
+EXTT8=Nina Simone\n
+EXTT9=Patti Page\n
+EXTT10=Sarah Vaughn\n
+EXTT11=Dusty Springfield\n
+EXTT12=Gabrielle Goodman\n
+EXTT13=Carmel\n
+EXTT14=Billie Holiday\n
+EXTT15=Cassandra Wilson\n
+EXTT16=Julie London\n
+EXTT17=Doris Day\n
+EXTT18=Patsy Cline\n
+EXTT19=Dina Carroll\n
+PLAYORDER=

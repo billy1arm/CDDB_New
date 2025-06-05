@@ -1,0 +1,19 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#
+# Disc length: 3616 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=020e1e01
+DTITLE=Blizzard - Diablo II - CD1 (DE)
+DYEAR=2000
+DGENRE=Data
+TTITLE0=Software - Install-CD
+EXTD=YEAR: 2000 ID3G: 254
+EXTT0=
+PLAYORDER=

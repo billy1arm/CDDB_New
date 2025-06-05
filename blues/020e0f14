@@ -1,0 +1,77 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	13979
+#	28171
+#	39056
+#	53479
+#	64472
+#	75935
+#	88202
+#	100903
+#	115317
+#	127422
+#	141557
+#	153056
+#	165180
+#	175516
+#	188214
+#	202710
+#	229442
+#	242755
+#	257300
+#
+# Disc length: 3601
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 2.0
+# Normalized: r1:DSETVAR1,TDELIM( - )
+#
+DISCID=020e0f14
+DTITLE=Various Artist - The Best Of Boogie Woogie - CD 5
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Deep Morgan Boogie - Henry Brown
+TTITLE1=Number 29 - Wesley Wallace
+TTITLE2=The Boogie Woogie - Cleo Brown
+TTITLE3=Roll 'em Boogie - Benny Goodman Orchestra
+TTITLE4=Chitling Ball - King Porter
+TTITLE5=Mary's Boogie Woogie - Mary Lou Williams
+TTITLE6=Horse'n'boogie - Abe Lyman
+TTITLE7=Ross Tavern Boogie - Ard Hodes
+TTITLE8=The Woodchopper's Ball - Woody Herman
+TTITLE9=The Honky Tonk - Rene Faure
+TTITLE10=Beat Me Daddy - Woody Herman
+TTITLE11=Overnight Hop - Red Nichols
+TTITLE12=Wiggle The Woogie - Count Basie Orchestra
+TTITLE13=Quicksilver Boogie - Will Bradley and His Orchestra
+TTITLE14=Eight Letters - Raymond Scott
+TTITLE15=Cow Cow Boogie - Ella Mae Morse
+TTITLE16=Brazilian Boogie - Lena Horne
+TTITLE17=Boogie Woogie Express - Derryck Sampson
+TTITLE18=Boogie Woogie Boogie - Erroll Garner
+TTITLE19=The Dive Bomber Boogie - Pete Johnson
+EXTD=
+EXTT0=(Brown)
+EXTT1=(Wallace)
+EXTT2=(Brown)
+EXTT3=(Williams)
+EXTT4=(Porter)
+EXTT5=(Williams)
+EXTT6=(Lyman)
+EXTT7=(Hodes)
+EXTT8=(Bishop/Herman)
+EXTT9=(Faure)
+EXTT10=(Herman)
+EXTT11=(Nichols)
+EXTT12=(Basie)
+EXTT13=(Bradley)
+EXTT14=(Scott)
+EXTT15=(Carter/Rave/DePaul)
+EXTT16=(Unknown)
+EXTT17=(Sampson)
+EXTT18=(Garner)
+EXTT19=(Johnson)
+PLAYORDER=

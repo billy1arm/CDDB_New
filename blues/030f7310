@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18145
+#	28717
+#	50102
+#	65245
+#	92972
+#	108827
+#	129437
+#	149142
+#	163487
+#	179357
+#	201760
+#	218952
+#	236217
+#	255547
+#	274452
+#
+# Disc length: 3957 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=030f7310
+DTITLE=Das Beste vom neuen Chanson
+DYEAR=1900
+DGENRE=
+TTITLE0=Phillip - Georgette Dee and Terry Truck
+TTITLE1=Krank vor Liebe - Die Popette Betancor
+TTITLE2=Chemin de papier - Mouron
+TTITLE3=Tabou - Cora Frost
+TTITLE4=Du, nur Du - Georgette Dee and Terry Truck
+TTITLE5=Halluzinationen - Die Popette Betancor
+TTITLE6=Picture this - Terry Truck
+TTITLE7=Dicke Marie - Cora Frost
+TTITLE8=Kunststueck - Desiree Nick
+TTITLE9=Le coer gros comme un Tango - Mouron
+TTITLE10=Prinzen and Engel - Georgette Dee and Terry Truck
+TTITLE11=Goodbye Mama - Cora Frost
+TTITLE12=Alles vergeben - Die Popette Betancor
+TTITLE13=Der Traum vom Fliegen - Georgette Dee and Terry Truck
+TTITLE14=Oh, wehe Schneewehe - Cora Frost
+TTITLE15=Fuer Dich - Georgette Dee and Terry Truck
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

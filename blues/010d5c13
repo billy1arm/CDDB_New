@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12270
+#	31317
+#	46087
+#	56572
+#	70725
+#	78592
+#	91210
+#	103757
+#	113565
+#	129729
+#	146727
+#	157292
+#	170032
+#	187900
+#	205057
+#	220100
+#	229652
+#	241005
+#
+# Disc length: 3422 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=010d5c13
+DTITLE=Various Artist - San Diego Blues Jam
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Tom Courtney and Henry Ford Thompson: Somebody's Been Knockin'
+TTITLE1=Bob Jefferey and Sam Chatmon: Watergate Blues
+TTITLE2=Thomas Shaw: Jack of Diamonds
+TTITLE3=Sam Chatmon: She's My Baby
+TTITLE4=Bob Jefferey: Too Shakin'
+TTITLE5=Bob Jefferey: Handsome Stranger
+TTITLE6=Tom Courtney and Louis Major: Early One Morning
+TTITLE7=Bonnie Jefferson: Take Me Back
+TTITLE8=Louis Major: Handy Brandy
+TTITLE9=Thomas Shaw: Hey Mr. Nixon
+TTITLE10=Tom Courtney and Henry Ford Thompson: Dust My Blues
+TTITLE11=Sam Chatmon: Sweet Old San Diego
+TTITLE12=Bonnie Jefferson: Got the Blues So Bad
+TTITLE13=Bob Jefferey: 73 Hop
+TTITLE14=Louis Major: Shotgun Blues
+TTITLE15=Sam Chatmon and Bob Jefferey: Ash Tray Taxi
+TTITLE16=Bonnie Jefferson: Crow Rooster Crow
+TTITLE17=Tom Courtney and Henry Ford Thompson: Just Goes to Show You
+TTITLE18=Sam Chatmon and Bob Jefferey: Shake 'Em Down
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

@@ -1,0 +1,18 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#
+# Disc length: 483
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cddb.el 1.0 (Emacs 25.0.50.12)
+#
+DISCID=0201e101
+DTITLE=Not On The Guest List - Safe-Well CD/Disc-Pack
+DYEAR=2015
+DGENRE=Geraeusche
+TTITLE0=(untitled)
+EXTD=YEAR: 1989
+EXTT0=
+PLAYORDER=

@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13405
+#     25995
+#     43397
+#     55560
+#     68690
+#     85970
+#     98092
+#     111360
+#     121170
+#     134145
+#     153952
+#     168452
+#     178557
+#     189640
+#     202157
+#     213890
+#     227730
+# 
+# Disc length: 3176 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=020c6612
+DTITLE=Various Artist - Grand Piano Disc One
+DYEAR=1900
+DGENRE=
+TTITLE0=Cast Your Fate To The Wind
+TTITLE1=Fly Me To The Moon
+TTITLE2=Autumn Leaves
+TTITLE3=Theme From Love Story
+TTITLE4=Our Winter Love
+TTITLE5=The Homecoming
+TTITLE6=The Entertainer
+TTITLE7=San Antonio Rose
+TTITLE8=Music Box Dancer
+TTITLE9=Alley Cat
+TTITLE10=The In Crowd
+TTITLE11=Satin Doll
+TTITLE12=Near You
+TTITLE13=More Than You Know
+TTITLE14=September Song
+TTITLE15=Smoke Gets In Your Eyes
+TTITLE16=Last Date
+TTITLE17=Wrap Your Troubles In Dreams
+EXTD=
+EXTT0=Vince Guaraldi\n
+EXTT1=Joe Harnell\n
+EXTT2=Roger Williams\n
+EXTT3=Henry Mancini\n
+EXTT4=Bill Pursell\n
+EXTT5=Hagood Hardy\n
+EXTT6=Marvin Hamlisch\n
+EXTT7=Floyd Cramer\n
+EXTT8=Frank Mills\n
+EXTT9=Bent Fabric\n
+EXTT10=Ramsey Lewis\n
+EXTT11=Duke Ellington\n
+EXTT12=Roger Williams\n
+EXTT13=Andre Previn\n
+EXTT14=Liberace\n
+EXTT15=Richard Clayderman\n
+EXTT16=Floyd Cramer\n
+EXTT17=Earl Hines\n
+PLAYORDER=

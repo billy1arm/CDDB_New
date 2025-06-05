@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14448
+#	28353
+#	41418
+#	55000
+#	68808
+#	80710
+#	93233
+#	103350
+#	116908
+#	130823
+#	144370
+#	156488
+#	169803
+#	181765
+#	196630
+#	210503
+#	220228
+#
+# Disc length: 3117 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=010c2b12
+DTITLE=Billie Holiday - The Essential Billie Holiday Disc 2
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=I'll Get By
+TTITLE1=Moanin' Low
+TTITLE2=A Sailboat In The Moonlight
+TTITLE3=Foolin' Myself
+TTITLE4=Getting Some Fun Out Of Life
+TTITLE5=Me, Myself And I
+TTITLE6=Sugar
+TTITLE7=Trav'lin All Alone
+TTITLE8=Night And Day
+TTITLE9=More Than You Know
+TTITLE10=Body And Soul
+TTITLE11=I Hear Music
+TTITLE12=Let's Do It
+TTITLE13=Ghost Of Yesterday
+TTITLE14=Pennies From Heaven
+TTITLE15=Easy Living
+TTITLE16=I'm Gonna Lock My Heart And Throw Away The Key
+TTITLE17=God Bless The Child
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

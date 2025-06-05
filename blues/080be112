@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11795
+#	23945
+#	36692
+#	50055
+#	64025
+#	75270
+#	87935
+#	101165
+#	112705
+#	124305
+#	137087
+#	149880
+#	163755
+#	176685
+#	189032
+#	202012
+#	216045
+#
+# Disc length: 3043 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=080be112
+DTITLE=Leo Marini - Latin Trumpets - Bolero
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Maringa
+TTITLE1=Dos Almas
+TTITLE2=Caribe Soy
+TTITLE3=En La Palma De La Mano
+TTITLE4=Falsaria
+TTITLE5=Fichas Negras
+TTITLE6=Historia De Un Amor
+TTITLE7=Mi Todo
+TTITLE8=Dulce Aventura
+TTITLE9=Pierdo La Calma
+TTITLE10=Por Un Puñado De Oro
+TTITLE11=Tristeza Marina
+TTITLE12=Vieja Deuda
+TTITLE13=Yo Vivo Mi Vida
+TTITLE14=Lagrimas De Hombre
+TTITLE15=Cobardia
+TTITLE16=Mi Dicha Lejana
+TTITLE17=Cancion Del Dolor
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=
