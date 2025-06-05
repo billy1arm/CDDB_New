@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23380
+#	43607
+#	61367
+#
+# Disc length: 952 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2603b604
+DTITLE=B.B. Queen - Blues House
+DYEAR=1990
+DGENRE=House
+TTITLE0=Blueshouse (Radio Mix)
+TTITLE1=Blueshouse (House Mix)
+TTITLE2=Blueshouse (76 Mix)
+TTITLE3=Blueshouse (Balled Mix)
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

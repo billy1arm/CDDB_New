@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	56472
+#	82815
+#	132952
+#
+# Disc length: 2255 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=2708cd04
+DTITLE=Kenny Dorham - Trompeta toccata
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Trompeta Toccata
+TTITLE1=Night Watch
+TTITLE2=Mamacita
+TTITLE3=The Fox
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

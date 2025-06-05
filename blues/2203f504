@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20460
+#	38322
+#	58557
+#
+# Disc length: 1015 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=2203f504
+DTITLE=Do As Infinity - 遠くまで
+DYEAR=2001
+DGENRE=Vocal
+TTITLE0=遠くまで
+TTITLE1=シグナル
+TTITLE2=遠くまで Instrumental
+TTITLE3=シグナル Instrumental
+EXTD=YEAR: 2001 ID3G: 28
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

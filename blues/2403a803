@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	29822
+#	49740
+#
+# Disc length: 938 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=2403a803
+DTITLE=Jules Issa - Dangerous Game (Single)
+DYEAR=1900
+DGENRE=
+TTITLE0=descent into the bass
+TTITLE1=3rd Mix
+TTITLE2=single version
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

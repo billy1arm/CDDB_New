@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14625
+#	31705
+#	50525
+#
+# Disc length: 960 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta6
+#
+DISCID=2903be04
+DTITLE=The Shed Men - The Shed Men
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Boiling Pot
+TTITLE1=Tease Me
+TTITLE2=Lies
+TTITLE3=Off Like a Gun
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

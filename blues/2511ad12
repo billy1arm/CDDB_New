@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21172
+#	38630
+#	63699
+#	81100
+#	97351
+#	110518
+#	134044
+#	140350
+#	174095
+#	192339
+#	216570
+#	239849
+#	248077
+#	260357
+#	277323
+#	295245
+#	305720
+#
+# Disc length: 4527 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2511ad12
+DTITLE=Double Espresso - Tricky Theater 10 januari
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=01 Connected not Connected
+TTITLE1=02 Mes and Vork
+TTITLE2=03 Haitian Fight Song
+TTITLE3=04 2AM Express
+TTITLE4=05 You go to my head
+TTITLE5=06 Chicago Breakdown
+TTITLE6=07 Buzzing
+TTITLE7=08 Interview 1
+TTITLE8=09 Ayla
+TTITLE9=10 The Attic
+TTITLE10=11 Sham Time
+TTITLE11=12 Where's Curtis
+TTITLE12=13 Poor Buttermilk
+TTITLE13=14 Manoir de mes reves
+TTITLE14=15 Sidewinder
+TTITLE15=16 Zindering
+TTITLE16=17 Here there and everywhere
+TTITLE17=18 Afreaka
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

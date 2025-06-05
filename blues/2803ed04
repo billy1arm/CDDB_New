@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17560
+#	37961
+#	55354
+#
+# Disc length: 1007 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=2803ed04
+DTITLE=松田悟志 - Destiny
+DYEAR=2006
+DGENRE=J-pop
+TTITLE0=Destiny
+TTITLE1=pillow talk
+TTITLE2=Destiny(instrumental)
+TTITLE3=pillow talk(instrumental)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

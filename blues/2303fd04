@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16850
+#	38547
+#	55200
+#
+# Disc length: 1023 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2303fd04
+DTITLE=JAM Project - FIRE WARS
+DYEAR=2001
+DGENRE=Anime
+TTITLE0=FIRE WARS
+TTITLE1=TORNADO
+TTITLE2=FIRE WARS(カラオケ)
+TTITLE3=TORNADO(カラオケ)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

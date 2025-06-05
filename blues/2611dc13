@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10461
+#	29061
+#	47090
+#	70822
+#	89781
+#	105537
+#	126170
+#	140433
+#	180198
+#	195531
+#	202266
+#	210741
+#	222226
+#	245527
+#	270150
+#	287190
+#	304771
+#	321927
+#
+# Disc length: 4574 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,33,711
+#
+DISCID=2611dc13
+DTITLE=Paul Asaro - Parlor Piano Solos
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=When You're Alone (Victor Herbert)
+TTITLE1=Rose Leaf Rag (Scott Joplin)
+TTITLE2=Pep (Jelly Roll Morton)
+TTITLE3=A Real Slow Drag (Scott Joplin)
+TTITLE4=Echo of Spring (Willie "The Lion" Smith)
+TTITLE5=Tiger Rag (Nick LaRocca)
+TTITLE6=Blueberry Rhyme (James P. Johnson)
+TTITLE7=The Cascades (Scott Joplin)
+TTITLE8=The Crave (Jelly Roll Morton)
+TTITLE9=Prelude to Act II (Scott Joplin)
+TTITLE10=Newsreel (Randy Newman)
+TTITLE11=Train Ride (Randy Newman)
+TTITLE12=One More Hour (Randy Newman)
+TTITLE13=King Porter Stomp (Jelly Roll Morton)
+TTITLE14=Solace, A Mexican Serenade (Scott Joplin)
+TTITLE15=Mr. Joe (Jelly Roll Morton)
+TTITLE16=Fig Leaf Rag (Jelly Roll Morton)
+TTITLE17=Spanish Swat (Jelly Roll Morton)
+TTITLE18=Through for the Day (Willie "The Lion" Smith)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

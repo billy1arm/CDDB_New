@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22500
+#	53025
+#	66225
+#
+# Disc length: 1277 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2604fb04
+DTITLE=Richard Schumacher - Wine meets Jazz
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Chardonnay Groove
+TTITLE1=Shiraz Grenache Moments
+TTITLE2=Cabernet Moods
+TTITLE3=Shiraz Vibes
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22832
+#	45507
+#	68939
+#
+# Disc length: 1279 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2804fd04
+DTITLE=Spring-Tide - Discover The Light
+DYEAR=2001
+DGENRE=Rock
+TTITLE0=Supernatural
+TTITLE1=Nomansplace
+TTITLE2=Travelling
+TTITLE3=Can You Feel
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

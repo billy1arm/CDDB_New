@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16351
+#	36779
+#	52980
+#
+# Disc length: 975 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2703cd04
+DTITLE=ZONE - 太陽のKiss (EP)
+DYEAR=2004
+DGENRE=Pop
+TTITLE0=太陽のKiss
+TTITLE1=Real
+TTITLE2=太陽のKiss (Backing Track)
+TTITLE3=Real (Backing Track)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

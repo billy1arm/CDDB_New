@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#       150
+#       20157
+#       38993
+#
+# Disc length: 682 seconds
+#
+# Submitted via: cddb-tool 0.4.7
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+#CATEGORY=rock
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=2102a803
+DTITLE=Sauma - Demo
+DYEAR=1900
+DGENRE=
+TTITLE0=Apua
+TTITLE1=Ilta j‰‰
+TTITLE2=Sauma
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

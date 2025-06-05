@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	18273
+#	37425
+#
+# Disc length: 768 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=2102fe03
+DTITLE=great white - call it rock n' roll
+DYEAR=1900
+DGENRE=Rock
+TTITLE0=call it rock n' roll
+TTITLE1=the hunter
+TTITLE2=train to nowhere
+EXTD=ID3G: 17
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

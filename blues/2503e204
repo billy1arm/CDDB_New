@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	175
+#	15992
+#	34695
+#	55307
+#
+# Disc length: 996 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 1.4
+#
+DISCID=2503e204
+DTITLE=John Lee Hooker - Boom Boom
+DYEAR=1900
+DGENRE=
+TTITLE0=Boom Boom
+TTITLE1=Homework
+TTITLE2=Thought I Heard
+TTITLE3=Boom Boom
+EXTD=
+EXTT0=Edit version
+EXTT1=
+EXTT2=
+EXTT3=Full length version
+PLAYORDER=

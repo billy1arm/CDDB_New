@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6880
+#	31543
+#	104978
+#
+# Disc length: 2561 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2809ff04
+DTITLE=Rachmaninoff - Monna Vanna  [Opera in one act]  (Igor Buketoff, Iceland Symphonie Orchestra)
+DYEAR=2008
+DGENRE=Classique
+TTITLE0=Monna Vanna - Introduction  [Opera orchestrated by Igor Buketoff]
+TTITLE1=Monna Vanna - Scene 1
+TTITLE2=Monna Vanna - Scene 2
+TTITLE3=Monna Vanna - Scene 3
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

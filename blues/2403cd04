@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8678
+#	27443
+#	50280
+#
+# Disc length: 975 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=2403cd04
+DTITLE=Shinohara Emi - Sailorjupiter
+DYEAR=1996
+DGENRE=Anime
+TTITLE0=Prologue
+TTITLE1=Poem
+TTITLE2=We Believe You
+TTITLE3=We Believe You (Karaoke)
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

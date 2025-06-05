@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     26645
+#     45280
+#     73570
+# 
+# Disc length: 1249 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=2904df04
+DTITLE=Massive Attack - Massive Attack E.P.
+DYEAR=1900
+DGENRE=
+TTITLE0=Hymn Of The Big Wheel (Nellee Hooper Mix)
+TTITLE1=Home Of The Whale
+TTITLE2=Be Thankful (Paul Oakenfold Mix)
+TTITLE3=Any Love (Larry Heard Mix)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

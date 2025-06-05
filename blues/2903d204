@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17540
+#	36067
+#	58858
+#
+# Disc length: 980 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2903d204
+DTITLE=The Invisible Wires - Live 06
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Every Day
+TTITLE1=Along For The Ride
+TTITLE2=Uh Oh
+TTITLE3=Alright
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

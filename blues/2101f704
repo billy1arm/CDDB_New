@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6001
+#	19678
+#	34740
+#
+# Disc length: 505 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2101f704
+DTITLE=visceral infest - demo single cd 2005
+DYEAR=2005
+DGENRE=death grind
+TTITLE0=intro
+TTITLE1=mening ovascular heurosyphilis
+TTITLE2=glomer rulonephritis
+TTITLE3=outro
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

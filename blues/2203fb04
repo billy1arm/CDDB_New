@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18995
+#	40627
+#	62329
+#
+# Disc length: 1021 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2203fb04
+DTITLE=The Sidewinders - Demo CD
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Tumbleweed
+TTITLE1=Right as Rain
+TTITLE2=Thrill is Gone
+TTITLE3=Too Tired
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

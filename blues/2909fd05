@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53512
+#	76697
+#	112747
+#	154965
+#
+# Disc length: 2559 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=2909fd05
+DTITLE=Toots Thielemans - Live in the Netherlands
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Blues in the Closet
+TTITLE1=The Mooche
+TTITLE2=Thriving From a Riff
+TTITLE3=Autumn Leaves
+TTITLE4=Someday My Prince Will Come
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

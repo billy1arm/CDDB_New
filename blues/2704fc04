@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33600
+#	56320
+#	67500
+#
+# Disc length: 1278 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2704fc04
+DTITLE=ピアニカ前田 - ピアニカアンセム
+DYEAR=1993
+DGENRE=JPop
+TTITLE0=PIANICA ANTHEM(DESPERRADOES VERSION)
+TTITLE1=PIANICA ANTHEM(BASIC DEMO BEAT)
+TTITLE2=PIANICA ANTHEM(ORIGINAL SHORT VERSION)
+TTITLE3=TENDERLY(BONUS TRACK,LIVE AT CAY.)
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

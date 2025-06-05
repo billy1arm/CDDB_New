@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16065
+#	31075
+#	47200
+#
+# Disc length: 964 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=2303c204
+DTITLE=Sabine Sabine - Cat Walk
+DYEAR=1988
+DGENRE=Maxi-CD´s
+TTITLE0=Cat Walk (Singel Version)
+TTITLE1=Cat Walk (A Capella Version)
+TTITLE2=Cat Walk (French Version)
+TTITLE3=Cat Walk (Long Version)
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30405
+#	56717
+#	87012
+#
+# Disc length: 1506 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2505e004
+DTITLE=長渕剛 - CLOSE YOUR EYES/YAMATO
+DYEAR=2005
+DGENRE=JPop
+TTITLE0=CLOSE YOUR EYES
+TTITLE1=YAMATO
+TTITLE2=CLOSE YOUR EYES(Instrumental)
+TTITLE3=YAMATO(Instrumental)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

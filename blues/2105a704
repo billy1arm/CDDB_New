@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15507
+#	42467
+#	76727
+#
+# Disc length: 1449 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=2105a704
+DTITLE=East 17 - Steam
+DYEAR=1994
+DGENRE=Dance
+TTITLE0=Steam(Vapoureyes Mix)
+TTITLE1=Steam(Overworld Haze Mix)
+TTITLE2=Steam(P And C Mix)
+TTITLE3=Steam(Man City Overheat Mix)
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

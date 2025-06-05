@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17952
+#	37865
+#	55755
+#
+# Disc length: 1005 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=2703eb04
+DTITLE=Scarlet - Love Hangover CD 2
+DYEAR=1995
+DGENRE=Pop
+TTITLE0=Love Hangover
+TTITLE1=Get Naked (Medley)
+TTITLE2=Love Hangover (Orchestral Mix)
+TTITLE3=Independent Love Song (Italian Mix)
+EXTD=YEAR: 1995 ID3G: 13
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

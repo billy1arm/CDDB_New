@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43625
+#	81008
+#	116500
+#
+# Disc length: 2242 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDLips V1.00
+#
+DISCID=2708c004
+DTITLE=Koichi Sugiyama - Symphony "IDEON"
+DYEAR=1900
+DGENRE=
+TTITLE0=Chapter1
+TTITLE1=Chapter2
+TTITLE2=Chapter3
+TTITLE3=Chapter4
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

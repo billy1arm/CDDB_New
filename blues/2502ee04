@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16119
+#	31494
+#	42267
+#
+# Disc length: 752 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2502ee04
+DTITLE=Parallax1 - The High Priestess
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Jawbreaker
+TTITLE1=Subatomic
+TTITLE2=Fireball
+TTITLE3=Otherside
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

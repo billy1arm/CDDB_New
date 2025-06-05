@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	16225
+#	39572
+#	60540
+#
+# Disc length: 1020 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2803fa04
+DTITLE=Matthias Carras - ich bin dein co-pilot
+DYEAR=1999
+DGENRE=New Age
+TTITLE0=ich bin dein co-pilot (SingleMix)
+TTITLE1=ich bin dein co-pilot (MaxiMix)
+TTITLE2=ich bin dein co-pilot (DanceMix)
+TTITLE3=ich bin dein co-pilot (OkeMix)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

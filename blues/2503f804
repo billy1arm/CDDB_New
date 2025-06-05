@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16642
+#	40887
+#	59270
+#
+# Disc length: 1018 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=2503f804
+DTITLE=ZZ Top - What's Up With That
+DYEAR=1996
+DGENRE=Blues-Rock
+TTITLE0=What's Up With That (Radio Version)
+TTITLE1=What's Up With That (Original Version)
+TTITLE2=Stop Breakin' Down Blues (Live)
+TTITLE3=Nasty Dogs And Funky Kings (Live)
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=
