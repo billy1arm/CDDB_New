@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22890
+#	35180
+#	51300
+#	130170
+#
+# Disc length: 2688 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.73
+#
+DISCID=3f0a7e05
+DTITLE=Steve Reich - New York Counterpoint - Eight Lines - Four Organs
+DYEAR=1996
+DGENRE=Avantgarde
+TTITLE0=New York Counterpoint Fast
+TTITLE1=New York Counterpoint Slow
+TTITLE2=New York Counterpoint Fast
+TTITLE3=Eight Lines (Octet)
+TTITLE4=Four Organs
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

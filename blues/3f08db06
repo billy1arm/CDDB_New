@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42912
+#	54517
+#	84055
+#	115750
+#	137497
+#
+# Disc length: 2269 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3f08db06
+DTITLE=Jukka Tolonen - Hysterica
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Jimi
+TTITLE1=Django
+TTITLE2=Hysterica
+TTITLE3=Tiger
+TTITLE4=Silva The Cat
+TTITLE5=Windermere Avenue
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27832
+#	71342
+#	116844
+#	142729
+#
+# Disc length: 2540 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta4
+#
+DISCID=3b09ea05
+DTITLE=Elliott Sharp's Terraplane - Live at the Old Office, March 1998
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Like Showers Of Rain
+TTITLE1=Twistin
+TTITLE2=Rails
+TTITLE3=Work Or Leave
+TTITLE4=Clank
+EXTD=YEAR: 1998 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

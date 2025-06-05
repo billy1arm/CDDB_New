@@ -1,0 +1,34 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  52127
+#  118045
+#  157977
+#  230020
+#
+# Disc length: 3203 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=3e0c8105
+DTITLE=Skriabin-Balakirev-Maiskovsky - Russian Romanticism
+DYEAR=1900
+DGENRE=
+TTITLE0=Sonata Fantasy for piano no.2 op. 19 G sharp minor - Alexander Sk
+TTITLE0=riabin
+TTITLE1=Sonata no.6 op.62 Alexander Skriabin
+TTITLE2=Islamey-Oriental fantasy for piano - Mily Alexejewitsch Balakirev
+TTITLE2=
+TTITLE3=Sonata no.2 op.13 in F sharp minor - Nikolai Miaskovsky
+TTITLE4=Little Bird - Nikolai Miaskovsky
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

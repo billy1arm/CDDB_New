@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23275
+#	51312
+#	78250
+#	99362
+#	125525
+#
+# Disc length: 2145 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3b085f06
+DTITLE=Gerry Mulligan - The Gerry Mulligan Quartet
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=I'm Getting Sentimental over You
+TTITLE1=Piano Train
+TTITLE2=Lost in the Stars
+TTITLE3=I Believe in You
+TTITLE4=Love in New Orleans
+TTITLE5=I Know, Don't Know How
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

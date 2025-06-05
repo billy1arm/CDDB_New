@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	67457
+#	102077
+#	148152
+#
+# Disc length: 2872 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3d0b3604
+DTITLE=菊地雅章 - SUSTO
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=CIRCLE LINE
+TTITLE1=CITY SNOW
+TTITLE2=GUMBO
+TTITLE3=NEW NATIVE
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

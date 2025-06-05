@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43451
+#	80075
+#	125912
+#
+# Disc length: 2288 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3b08ee04
+DTITLE=Johnny Griffin - Modern Jazz Hard Bop CD 067
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=The Way You Look Tonight
+TTITLE1=Ball Bearing
+TTITLE2=All The Things You Are
+TTITLE3=Smoke Stack
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

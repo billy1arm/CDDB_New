@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	77649
+#	107385
+#	156714
+#	220492
+#
+# Disc length: 3630 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3e0e2c05
+DTITLE=Various Artist - Jazz Ballads 20 All-Star Jam Sessions
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Clifford Brown All Stars - You Go to My Head
+TTITLE1=Buck Clayton Jam Session - Blue and Sentimental
+TTITLE2=Buck Clayton´s Band - I Can't Get Started
+TTITLE3=Buck Clayton´s Jam Session - Blue Moon
+TTITLE4=All Star Jam Session - Ballad Medley
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16952
+#	33675
+#	50107
+#	60802
+#
+# Disc length: 1004 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3a03ea05
+DTITLE=How - 5 Songs
+DYEAR=1998
+DGENRE=Rock
+TTITLE0=Warmth Of My Mind
+TTITLE1=冬
+TTITLE2=青空へ向かって
+TTITLE3=ひとりごと
+TTITLE4=雪
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

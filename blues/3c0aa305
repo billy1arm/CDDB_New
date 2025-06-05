@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19959
+#	56147
+#	115331
+#	166067
+#
+# Disc length: 2725 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3c0aa305
+DTITLE=Chick Corea - Blue Note, New York City, Dec 2001 [1|2]
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Chick Corea - Armando's Rhumba
+TTITLE1=Chick Corea - Concierto De Aranjuez - Spain
+TTITLE2=Chick Corea - Concierto De Aranjuez - Spain
+TTITLE3=Chick Corea - Autumn Leaves
+TTITLE4=Chick Corea - Bessie's Blues
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

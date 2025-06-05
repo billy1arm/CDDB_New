@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	22410
+#	52442
+#	82000
+#
+# Disc length: 1443 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3a05a104
+DTITLE=Various Artist - Deejay Exclusive Volume 1
+DYEAR=2005
+DGENRE=Mix
+TTITLE0=Queen - Another one bites the Dust
+TTITLE1=Human League - Being Boiled
+TTITLE2=Snap - Rhythm is a Dancer
+TTITLE3=Cherles and Eddie - Would i lie to you
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

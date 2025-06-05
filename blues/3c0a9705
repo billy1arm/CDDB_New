@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	77944
+#	103324
+#	159098
+#	200035
+#
+# Disc length: 2713 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=3c0a9705
+DTITLE=Miles Davis - Quintet in Holland
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=So What
+TTITLE1='round Midnight
+TTITLE2=On Green Dolphin Street
+TTITLE3=Walkin'
+TTITLE4=The Theme
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

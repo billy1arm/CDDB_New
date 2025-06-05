@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13213
+#	41987
+#	70756
+#	97905
+#
+# Disc length: 1670 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=3c068405
+DTITLE=Crazy Frog - Axel F (Maxi-Single)
+DYEAR=2005
+DGENRE=Dance
+TTITLE0=Axel F (Radio Mix)
+TTITLE1=Axel F (Extended Mix)
+TTITLE2=Axel F (Instrumental Mix)
+TTITLE3=Axel F (In The 80s)
+TTITLE4=Crazy Frog Video
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

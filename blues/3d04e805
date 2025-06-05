@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14850
+#	34875
+#	49575
+#	80682
+#
+# Disc length: 1258 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3d04e805
+DTITLE=未知 - 未知
+DYEAR=1900
+DGENRE=
+TTITLE0=トラック 1
+TTITLE1=トラック 2
+TTITLE2=トラック 3
+TTITLE3=トラック 4
+TTITLE4=トラック 5
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16578
+#	36303
+#	52020
+#	66114
+#
+# Disc length: 1160 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3a048605
+DTITLE=fanfare touzdec - le gras aussi c'est bon
+DYEAR=2005
+DGENRE=Rhythmic Soul
+TTITLE0=01- boeuf bourguignon brass band (bbbb)
+TTITLE1=02-bartok
+TTITLE2=03-gras
+TTITLE3=04-circus gadget
+TTITLE4=05-l homme chinois
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

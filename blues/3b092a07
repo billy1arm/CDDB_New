@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24072
+#	45337
+#	68337
+#	87627
+#	112667
+#	151797
+#
+# Disc length: 2348 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3b092a07
+DTITLE=Buddy Guy - Hold That Plane!
+DYEAR=1972
+DGENRE=Blues
+TTITLE0=Watermelon Man
+TTITLE1=Hold That Plane
+TTITLE2=I'm Ready
+TTITLE3=My Time After Awhile
+TTITLE4=You Don't Love Me
+TTITLE5=Come See About Me
+TTITLE6=Hello San Francisco
+EXTD=1972, Vanguard Records YEAR: 1972
+EXTT0=by Herbie Hancock
+EXTT1=by Buddy Guy
+EXTT2=by Willie Dixon
+EXTT3=by Robert Geddins
+EXTT4=by Ellis McDaniel
+EXTT5=by Buddy Guy and Philip Guy
+EXTT6=by Robert Geddins
+PLAYORDER=

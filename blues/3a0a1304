@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	46841
+#	95929
+#	141648
+#
+# Disc length: 2581 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3a0a1304
+DTITLE=Medwyn Goodall - The Dragon's Breath
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=The Dragon's Breath
+TTITLE1=The Wizard
+TTITLE2=Amulet
+TTITLE3=The Elven Forest
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

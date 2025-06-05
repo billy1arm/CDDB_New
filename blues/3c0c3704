@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	67413
+#	115855
+#	215418
+#
+# Disc length: 3129 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3c0c3704
+DTITLE=Albert Mangelsdorff Quartet - Live At Dug, Tokyo
+DYEAR=1971
+DGENRE=Jazz
+TTITLE0=Sing and Swing
+TTITLE1=Open Space
+TTITLE2=Mahüsale
+TTITLE3=Triple Trip
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

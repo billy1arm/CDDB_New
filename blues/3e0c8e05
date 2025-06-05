@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43136
+#	78023
+#	125924
+#	181483
+#
+# Disc length: 3216 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3e0c8e05
+DTITLE=Richard Ford - Eifersüchtig
+DYEAR=1995
+DGENRE=Audiobook
+TTITLE0=Eifersüchtig 0101
+TTITLE1=Eifersüchtig 0102
+TTITLE2=Eifersüchtig 0103
+TTITLE3=Eifersüchtig 0104
+TTITLE4=Eifersüchtig 0105
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48910
+#	100305
+#	137720
+#	170607
+#
+# Disc length: 2712 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=3e0a9605
+DTITLE=Hancock, Herbie - F. Hubbard - J. Henderson - R. Carter - T.  Williams - Town Hall Concert
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=Canteloupe Island
+TTITLE1=Recorda Me
+TTITLE2=Little B's Poem
+TTITLE3=Boquet
+TTITLE4=Hat And Beard
+EXTD=Recorded live at Town Hall, New York City\nFebruary 22, 1985\n YEAR: 1985
+EXTT0=Herbie Hancock\nFreddie Hubbard\nJoe Henderson\nRon Carter\nTony Wil
+EXTT1=Joe Henderson\nHerbie Hancock\nFreddie Hubbard\nBobby Hutcherson\nRo
+EXTT2=Bobby Hutcherson\nJames Newton\nHerbie Hancock\nRon Carter\nTony Wil
+EXTT3=Bobby Hutcherson\nHerbie Hancock\nRon Carter
+EXTT4=Eric Dolphy\nJames Newton\nBobby Hutcherson\nRon Carter\nTony Willia
+PLAYORDER=

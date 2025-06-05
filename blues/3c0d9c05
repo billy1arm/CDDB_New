@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49142
+#	80088
+#	152643
+#	253824
+#
+# Disc length: 3486 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.88
+#
+DISCID=3c0d9c05
+DTITLE=John Coltrane Quartet - Olympia Theatre Paris France 18/11/1961 First Concert
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Impressions
+TTITLE1=I Want to Talk About You
+TTITLE2=Blue Train
+TTITLE3=My Favorite Things
+TTITLE4=Announcements by Norman Granz
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

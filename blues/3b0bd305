@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35028
+#	75833
+#	133895
+#	174686
+#
+# Disc length: 3029 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3b0bd305
+DTITLE=Dexter Gordon - Jazz at Highschool
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=Soy Califa
+TTITLE1=The Shadow of Your Smile
+TTITLE2=Society Red
+TTITLE3=For All We Know
+TTITLE4=The Blues Up and Down
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

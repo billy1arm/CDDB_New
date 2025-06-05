@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47530
+#	130786
+#	237191
+#	314140
+#
+# Disc length: 4663 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3e123505
+DTITLE=Globe unity orchestra and Guests - Baden-Baden `75
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Maranao (Enrico Rava)
+TTITLE1=U-487 (Anthony Braxton)
+TTITLE2=Jahrmarkt (Peter Kowald)
+TTITLE3=Hanebüchen (Alexander v. Schlippenbach)
+TTITLE4=The Forge (Alexander v. Schlippenbach)
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

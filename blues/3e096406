@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41252
+#	61612
+#	83945
+#	123910
+#	144105
+#
+# Disc length: 2406 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3e096406
+DTITLE=The Rod Levitt Orchestra - The Dynamic Sound Patterns of The Rod Levitt Orchestra
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Holler
+TTITLE1=Ah! Spain
+TTITLE2=Jelly Man
+TTITLE3=Upper Bay
+TTITLE4=El General
+TTITLE5=His Master's Voice
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21167
+#	49280
+#	75290
+#	95782
+#	120880
+#
+# Disc length: 2044 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3e07fa06
+DTITLE=Cannonball Adderley Quintet w John Coltrane - Quintet in Chicago
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=Limehouse blues
+TTITLE1=Stars fell on Alabama
+TTITLE2=Wabash
+TTITLE3=Grand  central
+TTITLE4=You're a weaver of dreams
+TTITLE5=The sleeper
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

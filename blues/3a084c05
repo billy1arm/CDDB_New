@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40940
+#	60520
+#	78780
+#	126595
+#
+# Disc length: 2126 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3a084c05
+DTITLE=John McLaughlin - Where Fortune Smiles
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Glancing Backwards
+TTITLE1=Earth Bound Hearts
+TTITLE2=Where Fortune Smiles
+TTITLE3=New Place, Old Place
+TTITLE4=Hope
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

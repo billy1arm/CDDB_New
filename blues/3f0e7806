@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13515
+#	40635
+#	108890
+#	157413
+#	256090
+#
+# Disc length: 3706 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=3f0e7806
+DTITLE=Led Zeppelin - Plays The Blues
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Led Zeppelin-Train Kept A-Rollin'
+TTITLE1=Led Zeppelin-I Can't Quit You Baby
+TTITLE2=Led Zeppelin-Dazed And Confused
+TTITLE3=Led Zeppelin-You Shook Me
+TTITLE4=Led Zeppelin-How Many More Times
+TTITLE5=Led Zeppelin-Communications Breakdown
+EXTD=YEAR: 1997 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

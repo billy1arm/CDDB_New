@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23397
+#	33192
+#	66972
+#	128785
+#	225570
+#
+# Disc length: 3344 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3e0d0e06
+DTITLE=Matthew Shipp and Sabir Mateen - SaMa Live in Moscow
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=SaMa Blues
+TTITLE1=Ma Solo
+TTITLE2=Moscow Spaces
+TTITLE3=Yesterdays
+TTITLE4=Inner Chambers
+TTITLE5=Kinetic
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

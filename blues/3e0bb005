@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	61750
+#	111950
+#	156562
+#	179267
+#
+# Disc length: 2994 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3e0bb005
+DTITLE=David Young - Inner Journey's
+DYEAR=1989
+DGENRE=New Age
+TTITLE0=1
+TTITLE1=2
+TTITLE2=3
+TTITLE3=4
+TTITLE4=5
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

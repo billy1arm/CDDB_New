@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22742
+#	61085
+#	89062
+#	134065
+#
+# Disc length: 2337 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=3d091f05
+DTITLE=Mal Waldron - Mal-3
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Tension
+TTITLE1=Ollie's Caravan
+TTITLE2=The Cattin' Toddler
+TTITLE3=Portrait Of A Young Mother
+TTITLE4=For Every Man There's A Woman
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

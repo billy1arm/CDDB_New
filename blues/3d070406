@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21727
+#	48527
+#	75057
+#	93145
+#	113102
+#
+# Disc length: 1798 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=3d070406
+DTITLE=Various Artist - In-akustik Promotion Disc
+DYEAR=1991
+DGENRE=Blues
+TTITLE0=Blues Company - Fool
+TTITLE1=Blues Company - Silent Nite
+TTITLE2=Stan Webb's Chicken Shack - Sweetest Little Thing
+TTITLE3=Stan Webb's Chicken Shack - Were You Pushed Or Did You Fall
+TTITLE4=Stytz Syndicate - Don't Keep Me Waiting
+TTITLE5=Stytz Syndicate - Heaven On Earth
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

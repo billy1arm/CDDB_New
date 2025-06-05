@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2747
+#	57506
+#	109176
+#	174618
+#
+# Disc length: 3274 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3c0cc805
+DTITLE=Hampel, Gunther and Schubert, Matthias - Dialog
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Spielplatz
+TTITLE1=her he's world
+TTITLE2=18 bar blues
+TTITLE3=after the  fact
+TTITLE4=encore
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

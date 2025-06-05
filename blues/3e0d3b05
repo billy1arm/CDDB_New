@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	82360
+#	113002
+#	175671
+#	220874
+#
+# Disc length: 3389 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3e0d3b05
+DTITLE=Thomas Chapin Trio - Live In Glasgow - 1994
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Anima
+TTITLE1=Raise Four
+TTITLE2=Night Bird Song
+TTITLE3=Cliff Island
+TTITLE4=Aeolus
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

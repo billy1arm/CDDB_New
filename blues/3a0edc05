@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57227
+#	77783
+#	130052
+#	196803
+#
+# Disc length: 3806 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=3a0edc05
+DTITLE=Art Pepper - The Croydon Concert May 14 1981 [CD1]
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Blues for Blanche
+TTITLE1=talk, band Intro
+TTITLE2=Ophelia
+TTITLE3=Mambo de la Pinta
+TTITLE4=Patricia
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

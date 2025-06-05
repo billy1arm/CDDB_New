@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26511
+#	53371
+#	76703
+#	102214
+#	130745
+#	165229
+#
+# Disc length: 2655 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3d0a5d07
+DTITLE=Sam Rivers - A New Conception
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=When I Fall In Love
+TTITLE1=I'll Never Smile Again
+TTITLE2=Detour Ahead
+TTITLE3=That's All
+TTITLE4=What A Difference A Day Makes
+TTITLE5=Temptation
+TTITLE6=Secret Love
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

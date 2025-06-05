@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41015
+#	84537
+#	128341
+#	157730
+#	204405
+#
+# Disc length: 3138 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=3c0c4006
+DTITLE=Jonas Hellborg - Time Is The Enemy
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Heretics
+TTITLE1=Wherever You Walk
+TTITLE2=Space Time Continuum
+TTITLE3=The Kings Letter
+TTITLE4=Barua a Soldani
+TTITLE5=Time Is The Enemy
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

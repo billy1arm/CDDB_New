@@ -1,0 +1,32 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49308
+#	88205
+#	112515
+#	190970
+#
+# Disc length: 3132 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=3a0c3a05
+DTITLE=冨田勲 - 組曲「惑星」
+DYEAR=1977
+DGENRE=Techno
+TTITLE0=火星 Mars, The Bringer of War
+TTITLE1=金星 Venus, The Bringer of Peace
+TTITLE2=水星 Mercury, The Winged Messenger
+TTITLE3=木星-土星 Jupiter, The Bringer of Jollity - Saturn, The Bringer of Old Age
+TTITLE4=天王星-海王星 Uranus, The Magician - Neptune, The Mystic
+EXTD=Holst\nThe Planets\nElectronically performed by Isao Tomita\nProduced by Plasma Music, Inc.\nRecorded in 1976\nSound design and Dolby Surround (TM) Remix Supervisor: Nathaniel S. Johnson\nEngineer: Marian Conaty\nDolby(R) Lab Consultants: Robert S.W
+EXTD=arren and Michael V. DiCosimo\n YEAR: 1977
+EXTT0=The Bringer of War
+EXTT1=The bringer of Peace
+EXTT2=The Winged messenger
+EXTT3=The bringer of Jollity
+EXTT4=The Magician and The Mystic
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22186
+#	40728
+#	60840
+#	82877
+#	101419
+#
+# Disc length: 1618 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3a065006
+DTITLE=AKB48 - ジワるDAYS TypeC
+DYEAR=2019
+DGENRE=JPop
+TTITLE0=ジワるDAYS
+TTITLE1=指原莉乃／私だってアイドル！
+TTITLE2=IZ4648／必然性
+TTITLE3=ジワるDAYS -off vocal ver.-
+TTITLE4=指原莉乃／私だってアイドル！ -off vocal ver.-
+TTITLE5=IZ4648／必然性 -off vocal ver.-
+EXTD=YEAR: 2019
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

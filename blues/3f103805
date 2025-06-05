@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	56348
+#	120770
+#	200238
+#	249748
+#
+# Disc length: 4154 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3f103805
+DTITLE=Gustav Mahler - Symphony no.5 in C sharp - Bernstein
+DYEAR=1963
+DGENRE=Classical
+TTITLE0=5 1 C#m Trauermarsch In Gemessenem Schritt Streng Wie Ein Kondukt
+TTITLE1=5 2 C#m Sturmisch bewegt Mit Groster Vehemenz
+TTITLE2=5 3 C#m Scherzo Kraftig Nicht Zu Schnell
+TTITLE3=5 4 C#m Adagietto Sehr Langsam
+TTITLE4=5 5 C#m Rondo Finale Allegro
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

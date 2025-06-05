@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23507
+#	49182
+#	82265
+#	105082
+#	129042
+#	157630
+#
+# Disc length: 2336 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=3d091e07
+DTITLE=Tommy Flanagan, Hank Jones - Our Delights
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=Our Delight
+TTITLE1=Autumn Leaves
+TTITLE2=Robbins Nest
+TTITLE3=Jordu
+TTITLE4=Confirmation
+TTITLE5=A child is born
+TTITLE6=Lady bird
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

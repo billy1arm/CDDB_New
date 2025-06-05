@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39887
+#	126210
+#	188075
+#	220695
+#
+# Disc length: 3664 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3b0e4e05
+DTITLE=Anton Bruckner - Symphonie N°3 en ré mineur  (George Szell, Sächsische Staatskapelle Dresden)
+DYEAR=1965
+DGENRE=Classique
+TTITLE0=Beethoven - ''Egmont''  Ouverture Op.84  . . . . .  { George Szell - Salzburg, 2 August 1965}
+TTITLE1=Symphonie N°3  en ré mineur - I. Mehr langsam. Misterioso
+TTITLE2=Symphonie N°3  en ré mineur - II. Adagio. Bewegt, quasi Andante
+TTITLE3=Symphonie N°3  en ré mineur - III. Ziemlich schnell - Trio
+TTITLE4=Symphonie N°3  en ré mineur - IV. Allegro
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

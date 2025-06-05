@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47930
+#	101158
+#	132828
+#	157918
+#
+# Disc length: 2684 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3c0a7a05
+DTITLE=Shorter, Wayne - The all seeing eye
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=The all seeing eye
+TTITLE1=Genesis
+TTITLE2=Chaos
+TTITLE3=Face of the deep
+TTITLE4=Mephistopheles
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

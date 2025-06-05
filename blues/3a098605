@@ -1,0 +1,36 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	51701
+#	90699
+#	126042
+#	165168
+#
+# Disc length: 2440 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=3a098605
+DTITLE=John McLaughlin, Al di Meola, Paco de Lucia - Friday Night In San Fra
+DTITLE=ncisco
+DYEAR=1981
+DGENRE=Blues
+TTITLE0=a. Mediterranean Sundance - b. Rio Ancho
+TTITLE1=Short Tales Of The Black Forest
+TTITLE2=Frevo Rasgado
+TTITLE3=Fantasia Suite
+TTITLE4=Guardian Angel
+EXTD=Recorded Live at The Warfield Theatre, San Francisco,\nCalifornia, Frid
+EXTD=ay, YEAR: 1981 ID3G:   0
+EXTT0=Paco de Lucia (Left Channel) and\nAl di Meola (Right Channel)
+EXTT1=John McLaughlin (Left Channel) and\nAl di Meola (Right Channel)
+EXTT2=John McLaughlin (Left Channel) and\nPaco de Lucia (Right Channel)
+EXTT3=Paco de Lucia (Left Channel), John McLaughlin\n(Middle Channel) and Al
+EXTT3=di 
+EXTT4=Paco de Lucia (Left Channel), John McLaughlin\n(Middle Channel) and Al
+EXTT4=di 
+PLAYORDER=

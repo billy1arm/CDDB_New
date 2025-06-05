@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	30865
+#	61578
+#	94013
+#	115553
+#	135805
+#	174488
+#
+# Disc length: 2700 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3f0a8a07
+DTITLE=Jimmy GOURLEY - Good News
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=Repetition (Neal Hefti)
+TTITLE1=Don't blame me (Fields and Mc Hugh)
+TTITLE2=I wish I knew (Gordon and Warren)
+TTITLE3=Tats (Jimmy Gourley)
+TTITLE4=No more (Russel and Camarata)
+TTITLE5=Haroosh (Al Cohn)
+TTITLE6=Embraceable you (I and G Gershwin)
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

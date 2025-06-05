@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33477
+#	55140
+#	94040
+#	120088
+#	127736
+#
+# Disc length: 3081 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=3d0c0706
+DTITLE=Genesis - Foxtrott
+DYEAR=1900
+DGENRE=Rock
+TTITLE0=Watcher of the Skies
+TTITLE1=Time Table
+TTITLE2=Get 'em out by Friday
+TTITLE3=Can - Utility and the Coastliners
+TTITLE4=HorizonÄs
+TTITLE5=Supper's Ready
+EXTD=ID3G: 17
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

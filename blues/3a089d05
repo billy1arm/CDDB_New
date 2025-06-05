@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	34817
+#	56727
+#	84882
+#	137091
+#
+# Disc length: 2207 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3a089d05
+DTITLE=Frank Lowe - Fresh
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Epistrophy
+TTITLE1=Play Some Blues
+TTITLE2=Fresh
+TTITLE3=Mysterioso
+TTITLE4=Chu's Blues
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

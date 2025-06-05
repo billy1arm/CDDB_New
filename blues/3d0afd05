@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53717
+#	96210
+#	129638
+#	171191
+#
+# Disc length: 2815 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3d0afd05
+DTITLE=Miles Davis - Miles Davis in New York 1975-Second set
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Right Off
+TTITLE1=Mtume
+TTITLE2=Latin
+TTITLE3=Ife
+TTITLE4=Untitled Original 750505
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

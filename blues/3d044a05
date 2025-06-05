@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18767
+#	34265
+#	49364
+#	69558
+#
+# Disc length: 1100 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3d044a05
+DTITLE=TOKIO HOTEL - SPRING NICHT - MAXI SINGLE
+DYEAR=2007
+DGENRE=Rock
+TTITLE0=SPRING NICHT (Single Version)
+TTITLE1=SPRING NICHT (Robots To Mars Remix)
+TTITLE2=IN DIE NACHT
+TTITLE3=483 TOURPROBEN OUTTAKES
+TTITLE4=Data track
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

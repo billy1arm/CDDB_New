@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     28373
+#     50393
+#     72740
+# 
+# Disc length: 1188 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=3a04a204
+DTITLE=Aretha Franklin - It Isn't, It Wasn't, It Ain't Never Gonna Be
+DYEAR=1900
+DGENRE=
+TTITLE0=It Isn't, It Wasn't, It Ain't Never Gonna Be (Extended Radio Mix)
+TTITLE1=It Isn't, It Wasn't, It Ain't Never Gonna Be
+TTITLE2=It Isn't, It Wasn't, It Ain't Never Gonna Be (Hip Hop Mix)
+TTITLE3=Think (1989)
+EXTD=
+EXTT0=(Duet with Whitney Houston)
+EXTT1=(Duet with Whitney Houston)
+EXTT2=(Duet with Whitney Houston)
+EXTT3=
+PLAYORDER=

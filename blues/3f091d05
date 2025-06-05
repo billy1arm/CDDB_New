@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38897
+#	84505
+#	109925
+#	138670
+#
+# Disc length: 2335 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3f091d05
+DTITLE=Joe Henderson - Our Thing
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Teeter Totter
+TTITLE1=Pedro's Time
+TTITLE2=Our Thing
+TTITLE3=Back Road
+TTITLE4=Escapade
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

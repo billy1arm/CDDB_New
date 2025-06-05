@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28499
+#	58750
+#	77518
+#	106220
+#
+# Disc length: 1903 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: ACXtractor (MTCDDB.DLL V2003.07.15)
+#
+DISCID=3a076d05
+DTITLE=M24 Bluez Band - Don't Let The Devil Ride
+DYEAR=2016
+DGENRE=Blues
+TTITLE0=Don't Let The Devil Ride
+TTITLE1=Everybody Wants To Go To Heaven
+TTITLE2=I Have Decided
+TTITLE3=Old Cheap Bottle Of Wine
+TTITLE4=Christian Woman
+EXTD=ID3G:   0 YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

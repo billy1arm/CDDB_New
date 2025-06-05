@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25761
+#	46452
+#	72513
+#	94888
+#
+# Disc length: 1588 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3f063205
+DTITLE=Larry Carlton - Cool Jazz Collection 37
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Room 335
+TTITLE1=Sleepwalk
+TTITLE2=Smiles and Smiles to Go
+TTITLE3=Minute by Minute
+TTITLE4=Hello Tomorrow
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

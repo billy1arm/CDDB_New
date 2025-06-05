@@ -1,0 +1,31 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	36525
+#	73650
+#	113050
+#	152337
+#
+# Disc length: 2530 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=3b09e005
+DTITLE=効果音 - 効果音大全集（自然編）雷
+DYEAR=1900
+DGENRE=Soundtrack
+TTITLE0=遠雷（イ）
+TTITLE1=遠雷（ロ）
+TTITLE2=雨中の雷
+TTITLE3=落雷（イ）
+TTITLE4=落雷（ロ）
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

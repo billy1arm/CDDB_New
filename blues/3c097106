@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30778
+#	45947
+#	69830
+#	96318
+#	145696
+#
+# Disc length: 2419 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3c097106
+DTITLE=Bobby Hutcherson - Medina
+DYEAR=1969
+DGENRE=Jazz
+TTITLE0=Avis
+TTITLE1=Comes Spring
+TTITLE2=Dave's Chant
+TTITLE3=Orientale
+TTITLE4=Medina
+TTITLE5=Ungano
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

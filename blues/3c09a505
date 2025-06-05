@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43937
+#	84715
+#	134545
+#	165928
+#
+# Disc length: 2471 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3c09a505
+DTITLE=Сборник - Jazz At The Old Fortress - April 1998
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Р. Роджерс - Мои любимые вещи
+TTITLE1=Ф. Хаббард - Кризис
+TTITLE2=Ф. Хаббард - Подсолнух
+TTITLE3=Дж. Гершвин - Обнимая тебя
+TTITLE4=Д. Серебров - Самба для Новокузнецка
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

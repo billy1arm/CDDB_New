@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45076
+#	73883
+#	119310
+#	243966
+#
+# Disc length: 3425 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=3a0d5f05
+DTITLE=Deuter - Buddha Nature
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=01 Amida
+TTITLE1=02 Blessings
+TTITLE2=03 Buddha Nature
+TTITLE3=04 Illumination
+TTITLE4=05 Joyful Path
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

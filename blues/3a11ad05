@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39827
+#	114615
+#	197781
+#	271024
+#
+# Disc length: 4527 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3a11ad05
+DTITLE=Ludwig van Beethoven - Missa solemnis  (Otto Klemperer, Kölner Rundfunk-Sinfonie-Orchester)
+DYEAR=1955
+DGENRE=Classique
+TTITLE0=Missa solemnis in D major, Op.123 - I. Kyrie - Assai sostenuto. Mit Andacht
+TTITLE1=Missa solemnis in D major, Op.123 - II. Gloria - Allrgro vivace
+TTITLE2=Missa solemnis in D major, Op.123 - III. Credo - Allegro ma non troppo
+TTITLE3=Missa solemnis in D major, Op.123 - IV. Sanctus - Adagio. Mit Andacht
+TTITLE4=Missa solemnis in D major, Op.123 - V. Agnus Dei - Adagio
+EXTD=YEAR: 1955
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

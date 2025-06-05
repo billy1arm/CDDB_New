@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	89209
+#	153051
+#	183875
+#	214844
+#
+# Disc length: 3732 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3b0e9205
+DTITLE=London Jazz Composers Orchestra - Study II - Stringer
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Study II
+TTITLE1=Stringer - Part I
+TTITLE2=Stringer - Part II
+TTITLE3=Stringer - Part III
+TTITLE4=Stringer - Part IV
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

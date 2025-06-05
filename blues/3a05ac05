@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24520
+#	43212
+#	61565
+#	80953
+#
+# Disc length: 1454 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=3a05ac05
+DTITLE=Bertama - Songs For Detourer
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=lady Indigo
+TTITLE1=昔愛した女
+TTITLE2=afternoon tea
+TTITLE3=white album
+TTITLE4="chronicle"
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

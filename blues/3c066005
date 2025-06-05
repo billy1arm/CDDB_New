@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27469
+#	43269
+#	82209
+#	101270
+#
+# Disc length: 1634 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3c066005
+DTITLE=Zoot Sims - The Cool Jazz Collection 65
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Talking a Chance on Love
+TTITLE1=Dancing in the Dark
+TTITLE2=Zoot Swings the Blues
+TTITLE3=I Wish I Knew
+TTITLE4=Moonlight in Vermont
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

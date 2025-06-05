@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47625
+#	94700
+#	156725
+#	212600
+#
+# Disc length: 3547 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3f0dd905
+DTITLE=Fumio Miyashita - Yin Yang Five Element Music Therapy
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Wood
+TTITLE1=Fire
+TTITLE2=Earth
+TTITLE3=Metal
+TTITLE4=Water
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

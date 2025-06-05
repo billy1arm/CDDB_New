@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29150
+#	90277
+#	135690
+#	185522
+#
+# Disc length: 3226 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=3d0c9805
+DTITLE=Wes Montgomery - Complete Live In Paris 1965 [CD1)
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Four On Six
+TTITLE1=Twisted Blues
+TTITLE2=Impressions
+TTITLE3=To When
+TTITLE4=Jingles
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

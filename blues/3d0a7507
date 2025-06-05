@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23516
+#	65537
+#	90852
+#	123246
+#	159862
+#	161312
+#
+# Disc length: 2679 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=3d0a7507
+DTITLE=Speargrass - Live at the Boulevard Cafe
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Diamond Epiphany
+TTITLE1=Sheriff
+TTITLE2=Dem Blues
+TTITLE3=Ceiling
+TTITLE4=Ceiling Reprise
+TTITLE5=(blank)
+TTITLE6=You Can't Always Get What You Want
+EXTD=YEAR: 2001 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

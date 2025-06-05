@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49270
+#	113357
+#	133097
+#	169845
+#
+# Disc length: 3149 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=3c0c4b05
+DTITLE=Miles Davis Quintet - Live in Manchester [CD1]
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Four
+TTITLE1=All Of You
+TTITLE2=Walkin' (incomplete)
+TTITLE3=Four (incomplete)
+TTITLE4=All Blues
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

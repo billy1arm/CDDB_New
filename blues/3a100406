@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33342
+#	92399
+#	173658
+#	235089
+#	258331
+#
+# Disc length: 4102 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3a100406
+DTITLE=John Coltrane - Black Pearls
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Lover, Come Back to Me
+TTITLE1=Black Pearls
+TTITLE2=Sweet Saphire Blues
+TTITLE3=The Believer
+TTITLE4=Do I Love You Because You're Beautiful
+TTITLE5=Nakatini Serenade
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

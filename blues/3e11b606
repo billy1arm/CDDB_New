@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	71140
+#	129355
+#	174812
+#	235213
+#	300027
+#
+# Disc length: 4536 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3e11b606
+DTITLE=KVHW - 99-12-10 Disc1
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Africa
+TTITLE1=Cissy Strut
+TTITLE2=Same World
+TTITLE3=Slumber
+TTITLE4=Shotgun House
+TTITLE5=Mr Potato Head
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

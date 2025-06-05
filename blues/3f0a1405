@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30225
+#	74656
+#	115276
+#	168526
+#
+# Disc length: 2582 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3f0a1405
+DTITLE=Atomic - Theater Tilters [CD2]
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Roma
+TTITLE1=Sanguine
+TTITLE2=Edit
+TTITLE3=Barylite
+TTITLE4=Two Boxes
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

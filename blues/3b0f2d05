@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	52346
+#	114846
+#	213009
+#	241186
+#
+# Disc length: 3887 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3b0f2d05
+DTITLE=Horace Tapscott - Lighthouse 79 Vol. 2
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Acirfa
+TTITLE1=Niger's Theme
+TTITLE2=Stella by Starlight
+TTITLE3=Lush Life
+TTITLE4=Inspiration of Silence
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

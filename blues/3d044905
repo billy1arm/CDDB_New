@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3058
+#	22445
+#	48625
+#	68116
+#
+# Disc length: 1099 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3d044905
+DTITLE=MR21c - 交響詩 「月姫」 LIME LIGHT
+DYEAR=1900
+DGENRE=ゲーム
+TTITLE0=灯 火
+TTITLE1=月 下
+TTITLE2=望 郷
+TTITLE3=月明かりの先に
+TTITLE4=灯火 LIVE! (retune)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

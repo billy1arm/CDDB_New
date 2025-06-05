@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21582
+#	45827
+#	63404
+#	78818
+#	99324
+#
+# Disc length: 1616 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.74
+#
+DISCID=3c064e06
+DTITLE=Watchdog - You're Welcome
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=Last Dreamer
+TTITLE1=Blind Drunk
+TTITLE2=Watchdog
+TTITLE3=Candy Dream
+TTITLE4=Goose Bumps
+TTITLE5=Three Monkeys
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

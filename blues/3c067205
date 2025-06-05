@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25439
+#	43218
+#	70350
+#	90855
+#
+# Disc length: 1652 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3c067205
+DTITLE=Anton Schwartz - holiday time
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Jingle Bells
+TTITLE1=Winter Wonderland
+TTITLE2=The Christmas Song
+TTITLE3=Sleigh Ride
+TTITLE4=In the Wee Small Hours of the Morning
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44646
+#	143780
+#	184555
+#	263315
+#
+# Disc length: 4425 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=3c114705
+DTITLE=Charles Kaczynski - 5 Sens
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Ouïe
+TTITLE1=Odorat
+TTITLE2=Vue
+TTITLE3=Toucher
+TTITLE4=Goût
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

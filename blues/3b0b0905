@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42250
+#	84912
+#	125877
+#	161702
+#
+# Disc length: 2827 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3b0b0905
+DTITLE=Thelonious Monk - Vol.09 - Bag's Groove
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Bag's Groove
+TTITLE1=Bemsha Swing
+TTITLE2=Swing Spring
+TTITLE3=The Man I Love
+TTITLE4=Bag's Groove
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

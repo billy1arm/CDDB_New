@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6150
+#	20356
+#	64846
+#	83357
+#	109160
+#
+# Disc length: 2087 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3b082506
+DTITLE=マリアコーポレーション - ゲッセマネの祈り
+DYEAR=2003
+DGENRE=瞑想音楽
+TTITLE0=ゲッセマネの祈り（ナレーション）
+TTITLE1=ゲッセマネの祈り（祈り）
+TTITLE2=ゲッセマネの祈り（懺悔）
+TTITLE3=ゲッセマネの祈り（感謝）
+TTITLE4=ゲッセマネの祈り（願望）
+TTITLE5=ゲッセマネの祈り（エンディング）
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

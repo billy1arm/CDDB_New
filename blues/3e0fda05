@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	87456
+#	142025
+#	183957
+#	256097
+#
+# Disc length: 4060 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3e0fda05
+DTITLE=Gratkowski, Frank - Artikulationen II
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=a2a
+TTITLE1=a2b
+TTITLE2=a2c
+TTITLE3=a2d
+TTITLE4=a2e
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

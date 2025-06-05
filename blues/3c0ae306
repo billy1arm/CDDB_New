@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32252
+#	72152
+#	102755
+#	126150
+#	159752
+#
+# Disc length: 2789 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=3c0ae306
+DTITLE=Dave Burrel and David Murray - Brother to Brother
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=The box
+TTITLE1=Icarus
+TTITLE2=Dancing with monika
+TTITLE3=New Orleans blues
+TTITLE4=Brother to Brother
+TTITLE5=What it means to a woman
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

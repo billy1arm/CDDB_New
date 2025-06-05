@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	90188
+#	169384
+#	211388
+#	295663
+#
+# Disc length: 4322 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3d10e005
+DTITLE=Horace Tapscott - Lighthouse 79 Vol.01
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Acirfa
+TTITLE1=Dem, Folks
+TTITLE2=I Remember Clifford
+TTITLE3=Leland's Song
+TTITLE4=Acirfa
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

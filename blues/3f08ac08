@@ -1,0 +1,42 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  22595
+#  37955
+#  60795
+#  91122
+#  112580
+#  130185
+#  152332
+#
+# Disc length: 2222 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=3f08ac08
+DTITLE=Willie Rosario - Platino
+DYEAR=1900
+DGENRE=
+TTITLE0=Mi Amigo El Payaso
+TTITLE1=La Mitad
+TTITLE2=El Antifaz
+TTITLE3=Ignorante
+TTITLE4=A Todo Cuba Le Gusta
+TTITLE5=Atizame El Fogon
+TTITLE6=Amigo
+TTITLE7=El Condenado
+EXTD=1994 Rodven Records Inc. 3191 Coral Way, Suite 110, Miami, FL 33145 
+EXTD=\nNo. 7-86367-31672-4
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

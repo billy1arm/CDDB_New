@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30132
+#	50957
+#	76183
+#	106580
+#	127950
+#
+# Disc length: 2051 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3a080106
+DTITLE=Javajazz - Joy Joy Joy, Disc 1
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Exit Permit
+TTITLE1=Border Line
+TTITLE2=I Wish
+TTITLE3=Joy Joy Joy
+TTITLE4=Going Home
+TTITLE5=Java's Weather
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=
