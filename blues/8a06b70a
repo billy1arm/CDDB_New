@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13660
+#  26130
+#  38940
+#  50720
+#  64137
+#  77885
+#  92922
+#  107150
+#  118110
+#
+# Disc length: 1721 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=8a06b70a
+DTITLE=Muddy Waters - Mississippi Rolling Stone
+DYEAR=1900
+DGENRE=
+TTITLE0=She Moves Me
+TTITLE1=All Aboard
+TTITLE2=Forty Days And Forty Nights
+TTITLE3=Goin' Home
+TTITLE4=Rollin' and Tumblin'
+TTITLE5=I'm Ready
+TTITLE6=Rock Me
+TTITLE7=Rollin' Stone
+TTITLE8=Standin' Around Cryin'
+TTITLE9=I Feel So Good
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

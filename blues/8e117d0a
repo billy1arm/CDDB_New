@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20370
+#     49585
+#     97797
+#     112435
+#     157227
+#     190505
+#     207092
+#     253850
+#     290827
+# 
+# Disc length: 4479 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8e117d0a
+DTITLE=Stevie Ray Vaughan And Double Trouble - Force Of Nature II - Disc 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Instrumental
+TTITLE1=Instrumental
+TTITLE2=Voodoo Child
+TTITLE3=Tell Me
+TTITLE4=Texas Flood
+TTITLE5=I'm Leaving You
+TTITLE6=Pride And Joy
+TTITLE7=Little Wing
+TTITLE8=Third Stone From The Sun
+TTITLE9=Lenny
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22425
+#	41741
+#	64486
+#	88547
+#	113720
+#	134932
+#	164190
+#
+# Disc length: 2480 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=8109ae08
+DTITLE=Crosscut - No Easy Way to Work
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=no easy way to work
+TTITLE1=come go dancing
+TTITLE2=sinner's blues
+TTITLE3=been there, done that blues
+TTITLE4=sorry, try again
+TTITLE5=come around to the blues
+TTITLE6=she's gone to stay
+TTITLE7=don't harp on me
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

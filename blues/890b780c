@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17392
+#	42570
+#	64502
+#	79962
+#	114317
+#	123860
+#	137560
+#	154470
+#	165350
+#	180935
+#	195870
+#
+# Disc length: 2938 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=890b780c
+DTITLE=Eb Davis Blues Band - Good Time Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Mr. DJ (Why Don't You Play No Blues)
+TTITLE1=I Love To Sing The Blues
+TTITLE2=Dirty Dance
+TTITLE3=Wait, Honey !
+TTITLE4=What You Gonna Do
+TTITLE5=Don't Wanna Leave This Town
+TTITLE6=She's Like The Weather
+TTITLE7=Since You Left Me
+TTITLE8=A Little Love And A Good Blues Song
+TTITLE9=Love You So Long
+TTITLE10=You Better Treat Me Right
+TTITLE11=Groovin' Together
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

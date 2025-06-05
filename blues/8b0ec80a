@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40930
+#	68757
+#	77868
+#	99996
+#	126846
+#	162552
+#	189625
+#	221833
+#	257460
+#
+# Disc length: 3786 seconds
+#
+# Revision: 11
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.99.1
+#
+DISCID=8b0ec80a
+DTITLE=Friedrich Gulda - Beethoven - Die Klaviersonaten, CD 05
+DYEAR=1967
+DGENRE=Klavier
+TTITLE0=Klaviersonate Nr. 15 D-dur op. 28 "Pastorale" - I. Allegro
+TTITLE1=Klaviersonate Nr. 15 D-dur op. 28 "Pastorale" - II. Andante
+TTITLE2=Klaviersonate Nr. 15 D-dur op. 28 "Pastorale" - III. Scherzo: Allegro vivace
+TTITLE3=Klaviersonate Nr. 15 D-dur op. 28 "Pastorale" - IV. Rondo: Allegro ma non troppo
+TTITLE4=Klaviersonate Nr. 16 G-dur op.31,1 - I. Allegro vivace
+TTITLE5=Klaviersonate Nr. 16 G-dur op.31,1 - II. Adagio grazioso
+TTITLE6=Klaviersonate Nr. 16 G-dur op.31,1 - III. Rondo: Allegretto - Adagio - Presto
+TTITLE7=Klaviersonate Nr. 17 d-moll op.31,2 "Der Sturm" - I. Largo - Allegro
+TTITLE8=Klaviersonate Nr. 17 d-moll op.31,2 "Der Sturm" - II. Adagio
+TTITLE9=Klaviersonate Nr. 17 d-moll op.31,2 "Der Sturm" - III. Allegretto
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

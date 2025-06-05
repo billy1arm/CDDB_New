@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19337
+#	48730
+#	71709
+#	88971
+#	115187
+#	133928
+#	166186
+#	187317
+#
+# Disc length: 2873 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8a0b3709
+DTITLE=christophe marget sextet - reflections
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=city roots
+TTITLE1=cosmopolite
+TTITLE2=run
+TTITLE3=inside
+TTITLE4=au-dessus de la ville
+TTITLE5=mouvement
+TTITLE6=marche - emergency
+TTITLE7=vers l'oubli
+TTITLE8=comedie
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

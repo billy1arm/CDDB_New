@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	26175
+# 	44325
+# 	67425
+# 	90375
+# 	119100
+# 	141900
+# 	160875
+# 	181425
+#
+# Disc length: 2732 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=890aaa09
+DTITLE=Aretha Franklin - Aretha
+DYEAR=1900
+DGENRE=
+TTITLE0=Jimmy Lee
+TTITLE1=I Knew You Were Waiting (For Me)
+TTITLE2=Do You Still Remember
+TTITLE3=Jumpin' Jack Flash
+TTITLE4=Rock-a-Lott
+TTITLE5=An Angel Cries
+TTITLE6=He'll Come Along
+TTITLE7=If You Need My Love Tonight
+TTITLE8=Look To the Rainbow
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

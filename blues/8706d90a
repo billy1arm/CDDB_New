@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	13400
+# 	27687
+# 	38000
+# 	51875
+# 	65197
+# 	78225
+# 	90697
+# 	104497
+# 	117762
+#
+# Disc length: 1755 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=8706d90a
+DTITLE=Muddy Waters - Blues Legend
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm Your Hoochie Coochie Man
+TTITLE1=I Feel Like Going Home
+TTITLE2=Tiger In Your Tank
+TTITLE3=Lonesome Road Blues
+TTITLE4=Mannish Boy
+TTITLE5=Forty Days And Fourty Nights
+TTITLE6=Five Long Years
+TTITLE7=Mad Love ( I Want You To Love Me)
+TTITLE8=Born Lover
+TTITLE9=Close To You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

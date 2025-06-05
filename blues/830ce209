@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29766
+#	57789
+#	82178
+#	112017
+#	135350
+#	167262
+#	185903
+#	215809
+#
+# Disc length: 3300 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=830ce209
+DTITLE=Shaun Paul - A Walk Through Time
+DYEAR=2005
+DGENRE=New Age
+TTITLE0=In The Beginning
+TTITLE1=Setting Sail
+TTITLE2=Shadows Of Yesterday
+TTITLE3=Enchanted
+TTITLE4=Journey Not Forgotten
+TTITLE5=The Eye Of The Storm
+TTITLE6=A Dream For Tomorrow
+TTITLE7=Land Of The Unknown
+TTITLE8=Triumph Of The Soul
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

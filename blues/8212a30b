@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3148
+#	55156
+#	114702
+#	117973
+#	180947
+#	236386
+#	239432
+#	308128
+#	309943
+#	355164
+#
+# Disc length: 4773 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=8212a30b
+DTITLE=Ludwig Thoma - Lausbubengeschichten
+DYEAR=2004
+DGENRE=Hörspiel
+TTITLE0=Lausbuben-Thema
+TTITLE1=Tante Frieda I
+TTITLE2=Tante Frieda II
+TTITLE3=Lausbuben Part 3
+TTITLE4=Hauptmann Semmelmeier I
+TTITLE5=Hauptmann Semmelmeier II
+TTITLE6=Zitherstück Part 2
+TTITLE7=Die Indianerin
+TTITLE8=Lausbubenblues Part 1
+TTITLE9=Meine erste Liebe
+TTITLE10=Lausbuben Part 2
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

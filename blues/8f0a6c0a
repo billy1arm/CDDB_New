@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21400
+#	41055
+#	57365
+#	79250
+#	97410
+#	134865
+#	160080
+#	175905
+#	189955
+#
+# Disc length: 2670 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8f0a6c0a
+DTITLE=Чёрные Индюки - ГовноРок
+DYEAR=1990
+DGENRE=Rock
+TTITLE0=Он
+TTITLE1=Больше Презеров
+TTITLE2=Самцы и Самки
+TTITLE3=Компостер Мозгов
+TTITLE4=Не могу Кончить
+TTITLE5=Соловей
+TTITLE6=ГовноРок
+TTITLE7=С ящиком Пива
+TTITLE8=Гуляли Бляди
+TTITLE9=Трясись Хайрастия
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

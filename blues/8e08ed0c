@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11123
+#	30325
+#	40768
+#	54750
+#	72225
+#	86868
+#	100998
+#	109068
+#	128140
+#	137498
+#	152275
+#
+# Disc length: 2287 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: QuintessentialCD v1.1 (c) 1998 Paul Quinn
+#
+DISCID=8e08ed0c
+DTITLE=BBR Band - Unknown CD
+DYEAR=1900
+DGENRE=
+TTITLE0=She don`t love me
+TTITLE1=Mr.James
+TTITLE2=No particular place to go
+TTITLE3=Walkin`on the sunset
+TTITLE4=Startin`allover again
+TTITLE5=I thank you
+TTITLE6=Before you accuse me
+TTITLE7=Jigsaw puzzle blues
+TTITLE8=Got my mojo working
+TTITLE9=Not fade away
+TTITLE10=Still i`m sad
+TTITLE11=Hideaway my h.b.h.
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

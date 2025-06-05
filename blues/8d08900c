@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     195
+#     15260
+#     27167
+#     40492
+#     52817
+#     64465
+#     79822
+#     92240
+#     105785
+#     118180
+#     140397
+#     152412
+# 
+# Disc length: 2194 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8d08900c
+DTITLE=The Platters - Grandes Leyendas: The Platters
+DYEAR=1900
+DGENRE=
+TTITLE0=The Great Pretender
+TTITLE1=With This Ring
+TTITLE2=I'm Sorry
+TTITLE3=Washed Ashore (On a lonely island in the Sun)
+TTITLE4=Only You
+TTITLE5=My Prayer
+TTITLE6=Twilight Time
+TTITLE7=Harbour Lights
+TTITLE8=I Love You 1000 times
+TTITLE9=Unchained Melody
+TTITLE10=Sleepy Lagoon
+TTITLE11=Crying in the Chapel
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

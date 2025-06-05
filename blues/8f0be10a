@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     167
+#     20647
+#     37740
+#     56122
+#     97330
+#     133470
+#     145662
+#     175972
+#     195667
+#     210027
+# 
+# Disc length: 3043 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8f0be10a
+DTITLE=Various Artist - Black Top Blues-A-Rama, Volume 5
+DYEAR=1900
+DGENRE=
+TTITLE0=Love At First Sight
+TTITLE1=Keep Holding On Baby
+TTITLE2=Can't Keep From Crying
+TTITLE3=I Found A New Love
+TTITLE4=Love Rent
+TTITLE5=A Weary Silent Night
+TTITLE6=Night Time is The Right Time
+TTITLE7=Mother-In-Law Blues
+TTITLE8=Don't Run from Your Own Shadow
+TTITLE9=You Know You Didn't Want Me
+EXTD=
+EXTT0=Ronnie Earl and the Broadcasters\n
+EXTT1=Ronnie Earl and the Broadcasters\n
+EXTT2=Ronnie Earl and the Broadcasters\n
+EXTT3=Ronnie Earl and the Broadcasters\n\n\n\n
+EXTT4=Earl King\n
+EXTT5=Earl King\n
+EXTT6=Earl King\n
+EXTT7=Joe Guitar Hughes\n
+EXTT8=Joe Guitar Hughes\n
+EXTT9=Joe Guitar Hughes\n
+PLAYORDER=

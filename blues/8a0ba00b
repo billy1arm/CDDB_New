@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18923
+#     36135
+#     60183
+#     79820
+#     101803
+#     119690
+#     141790
+#     158405
+#     182995
+#     203665
+# 
+# Disc length: 2978 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8a0ba00b
+DTITLE=Ohio Players - Back
+DYEAR=1900
+DGENRE=
+TTITLE0=Get 2 the Good Part
+TTITLE1=Sweat
+TTITLE2=From Now ON (Let's Play)
+TTITLE3=Show Off
+TTITLE4=Just to Show My Love
+TTITLE5=I'm Madd!
+TTITLE6=Vibe Alive
+TTITLE7=Rock the House
+TTITLE8=Just a Minute
+TTITLE9=Reputation
+TTITLE10=Try
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

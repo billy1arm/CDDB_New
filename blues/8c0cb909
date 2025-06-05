@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27627
+#	67429
+#	107419
+#	126549
+#	152909
+#	178213
+#	198821
+#	216098
+#
+# Disc length: 3259 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=8c0cb909
+DTITLE=Al DiMeola - DiMeola Plays Piazzolla
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Obliviyn
+TTITLE1=Tango Suite, Pt. 1
+TTITLE2=Tango Suite, Pt. 3
+TTITLE3=Verano Reflections
+TTITLE4=Night Club 1960
+TTITLE5=Tango II
+TTITLE6=Bordel 1900
+TTITLE7=Miloga del Angel
+TTITLE8=Last Tango for Astor
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	18517
+#	39532
+#	59395
+#	75552
+#	99275
+#	120145
+#	136137
+#	154185
+#	175027
+#	194942
+#
+# Disc length: 2827 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=850b090b
+DTITLE=Michel Delpech - Le roi de Rien
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Le roi de rien
+TTITLE1=Mon ami est ridicule
+TTITLE2=Cartier-Bresson
+TTITLE3=Tu l'aimes
+TTITLE4=C'est à Paris
+TTITLE5=Les salauds
+TTITLE6=Être un saint
+TTITLE7=On pourra plus siffler les filles
+TTITLE8=Sans remords ni regret
+TTITLE9=Une chanson légère
+TTITLE10=Ballade pour une vieille indienne
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

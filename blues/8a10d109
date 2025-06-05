@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     36207
+#     59152
+#     96200
+#     130670
+#     147650
+#     203540
+#     229150
+#     273725
+# 
+# Disc length: 4307 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=8a10d109
+DTITLE=Otis Clay - Otis Clay Live
+DYEAR=1900
+DGENRE=blues
+TTITLE0=I've Got To Find A Way (To Get You Back)
+TTITLE1=Let Me In
+TTITLE2=Precious Precious
+TTITLE3=If I Could Reach Out (And Help Somebody)
+TTITLE4=Slow And Easy
+TTITLE5=Is It Over - That's How It Is (When You're In Love)
+TTITLE6=Turn Back The Hands of Time
+TTITLE7=Trying To Live My Life Without You
+TTITLE8=I Die A Little Each Day
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

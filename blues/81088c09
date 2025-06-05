@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24682
+#	42442
+#	50997
+#	73132
+#	88690
+#	105375
+#	120060
+#	141640
+#
+# Disc length: 2190 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=81088c09
+DTITLE=Pete Fountain - Alive in New Orleans
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Jazz Me Blue
+TTITLE1=Stranger On The Shore
+TTITLE2=Little Girl
+TTITLE3=When Your Lover Has Gone
+TTITLE4=Struttin' With Some Barbeque
+TTITLE5=Georgia On My Mind
+TTITLE6=Diane
+TTITLE7=Margie
+TTITLE8=Indiana
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17455
+#	36055
+#	56587
+#	78425
+#	92675
+#	116360
+#	132935
+#	154175
+#	169377
+#	186837
+#
+# Disc length: 2835 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: freeDB plugin v1.0
+#
+DISCID=840b110b
+DTITLE=アーティスト情報なし - アルバム情報なし (2005/04/11 22:10:14)
+DYEAR=1900
+DGENRE=Rock
+TTITLE0=トラック 1
+TTITLE1=トラック 2
+TTITLE2=トラック 3
+TTITLE3=トラック 4
+TTITLE4=トラック 5
+TTITLE5=トラック 6
+TTITLE6=トラック 7
+TTITLE7=トラック 8
+TTITLE8=トラック 9
+TTITLE9=トラック 10
+TTITLE10=トラック 11
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

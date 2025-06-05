@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13645
+#     35300
+#     49178
+#     89838
+#     105198
+#     124043
+#     143320
+#     170385
+#     188908
+#     210365
+# 
+# Disc length: 3255 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=840cb50b
+DTITLE=Jerry Lightfoot and The Essentials - Burning Desire
+DYEAR=1900
+DGENRE=
+TTITLE0=Someone's Doggin' My Baby
+TTITLE1=Who's Been Talkin'
+TTITLE2=Lost In The Shuffle
+TTITLE3=Change My Way
+TTITLE4=Fantasy World
+TTITLE5=You Can't Hurt Me No More
+TTITLE6=You Gotta Rock
+TTITLE7=Night Train (From Oakland)
+TTITLE8=I'm On The Rock
+TTITLE9=The Preacher Talks and Plays The Blues
+TTITLE10=Walkin' With Colleen
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

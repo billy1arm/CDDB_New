@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31943
+#	74427
+#	105824
+#	130043
+#	168261
+#	198128
+#	223509
+#	249905
+#	269798
+#
+# Disc length: 3954 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=830f700a
+DTITLE=Brad Shepik - Human Activity Suite
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Lima (South America)
+TTITLE1=Blindspot (North America)
+TTITLE2=Human Activity
+TTITLE3=Stir (Antarctica)
+TTITLE4=Not So Far (Australia)
+TTITLE5=Current
+TTITLE6=Carbonic
+TTITLE7=Blue Marble (Africa)
+TTITLE8=By a Foot (Europe)
+TTITLE9=Waves (Asia)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

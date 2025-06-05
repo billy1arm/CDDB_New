@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	31382
+#	64992
+#	93665
+#	121117
+#	146395
+#	166410
+#	191915
+#	199492
+#
+# Disc length: 3004 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=850bba09
+DTITLE=Jazzorange - Echelle 1:1
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=A vol d'oiseau
+TTITLE1=Soleil même la nuit
+TTITLE2=Soirée mondaine
+TTITLE3=Premiers instants
+TTITLE4=XY=Z
+TTITLE5=En route
+TTITLE6=Lara
+TTITLE7=Victor, tu dors
+TTITLE8=Siempre pa'lante
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

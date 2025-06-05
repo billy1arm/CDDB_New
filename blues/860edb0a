@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54698
+#	83683
+#	113536
+#	140005
+#	157205
+#	182478
+#	221120
+#	240772
+#	265205
+#
+# Disc length: 3805 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=860edb0a
+DTITLE=Luigi Boccherini - Trois symphonies  (Giorgio Bernasconi, Accademia Strumentale Italiana)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Symphonie N°3 en ut majeur, Op.21 - I. Grave - Allegro e con impeto
+TTITLE1=Symphonie N°3 en ut majeur, Op.21 - II. Grave
+TTITLE2=Symphonie N°3 en ut majeur, Op.21 - III. Allegro
+TTITLE3=Symphonie N°5 en mi bémol majeur, Op.35 - I. Allegro con moto
+TTITLE4=Symphonie N°5 en mi bémol majeur, Op.35 - II. Andante
+TTITLE5=Symphonie N°5 en mi bémol majeur, Op.35 - III. Tempo di minuetto
+TTITLE6=Symphonie N°3 en ré mineur, Op.37 - I. Allegro moderato
+TTITLE7=Symphonie N°3 en ré mineur, Op.37 - II. Minuetto con moto - Trio
+TTITLE8=Symphonie N°3 en ré mineur, Op.37 - III. Andante amoroso
+TTITLE9=Symphonie N°3 en ré mineur, Op.37 - IV. Allegro vivo ma non presto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22145
+#	51340
+#	88845
+#	143587
+#	165112
+#	192467
+#	220905
+#	239747
+#	285760
+#
+# Disc length: 4222 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=8c107c0a
+DTITLE=Jan Akkerman - 10.000 Clowns On A Rainy Day - Disc 1
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Intro (10.000 Clowns)
+TTITLE1=Puccini's Café 
+TTITLE2=Skydancer
+TTITLE3=Eruptions
+TTITLE4=Focus 2
+TTITLE5=Pre Madonna
+TTITLE6=Virgin Mary
+TTITLE7=Soft Focus
+TTITLE8=Pedestrians
+TTITLE9=No Hang Ups
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=Orpheo\nQuestions Answers\nDistant Drums\nPuppilla\nTommy\nAnswers Questions\nThe New Bridge\nOrpheo\n
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=Miss En Scene\nNico's Delight\nJ's 2000 Flight\n
+EXTT9=
+PLAYORDER=

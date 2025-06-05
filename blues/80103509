@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38978
+#	67304
+#	93129
+#	141276
+#	173569
+#	210172
+#	251851
+#	287589
+#
+# Disc length: 4151 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=80103509
+DTITLE=Luigi Inc. - Fear Not
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Witch Hunt
+TTITLE1=Lady's Blues
+TTITLE2=What If
+TTITLE3=My Foolish Heart
+TTITLE4=Najia
+TTITLE5=Little Boy
+TTITLE6=Arabian Shuffle
+TTITLE7=Stolen Moments
+TTITLE8=Things Ain't What They Used To Be
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#  180
+#  23750
+#  37590
+#  53480
+#  72555
+#  80975
+#  99510
+#  112375
+#  128460
+#  144280
+#
+# Disc length: 2239 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: AltoMP3 Maker 3.0
+#
+DISCID=8008bd0a
+DTITLE=Jean-Jacques Milteau and Chris Lancry - 10 Themes de Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Saint Louis Blues
+TTITLE1=Blueberry Hill
+TTITLE2=See See Rider
+TTITLE3=House of The Rising Sun
+TTITLE4=Summertime
+TTITLE5=The Hook
+TTITLE6=Trouble in Mind
+TTITLE7=AA Booghee
+TTITLE8=Saint James Infirmary
+TTITLE9=Special 20
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17477
+#     28942
+#     47467
+#     65600
+#     92030
+#     109962
+#     136302
+#     152895
+#     175227
+#     198040
+# 
+# Disc length: 2941 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8d0b7b0b
+DTITLE=La Blues Band De Granada - Negro En Tierra De Blancos
+DYEAR=1900
+DGENRE=
+TTITLE0=Highway Of Blues
+TTITLE1=Drinkin' And Walkin'
+TTITLE2=Drinkin' And Walkin' (The Band Version)
+TTITLE3=I Hear You Knockin'
+TTITLE4=Some Of My Best Friends Are In Welfare
+TTITLE5=Borderline Blues
+TTITLE6=High Water Everywhere
+TTITLE7=Another Pretty Woman
+TTITLE8=Black In Whiteland
+TTITLE9=The Inner Warrior
+TTITLE10=I Got No Blues
+EXTD=Music From Spain (CGC)
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

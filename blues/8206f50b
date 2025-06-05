@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11265
+#	21970
+#	36349
+#	49725
+#	67838
+#	79319
+#	89000
+#	99813
+#	109623
+#	124815
+#
+# Disc length: 1783 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8206f50b
+DTITLE=Avalon Jazz Band - My Gypsy Jazz Christmas
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Sleigh Ride
+TTITLE1=White Christmas
+TTITLE2=Rudolph the Red-Nosed Reindeer
+TTITLE3=Let it Snow
+TTITLE4=The Christmas Song
+TTITLE5=Jingle Bell Rock
+TTITLE6=Frosty the Snowman
+TTITLE7=Have Yourself a Merry Little Christmas
+TTITLE8=Rockin' Around the Christmas Tree
+TTITLE9=Winter Wonderland
+TTITLE10=Here Comes Santa Claus
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

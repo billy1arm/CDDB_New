@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	19628
+#	48238
+#	71197
+#	97480
+#	117647
+#	190700
+#	222845
+#	255195
+#
+# Disc length: 3780 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=800ec209
+DTITLE=Alain Caron Le Band - "Play"
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=P.A.C. Man
+TTITLE1=In and out
+TTITLE2=D-CODE
+TTITLE3=Ton jardin
+TTITLE4=Grand café
+TTITLE5=Impressions
+TTITLE6=Après la pluie. ..
+TTITLE7=B 12
+TTITLE8=Trouble
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

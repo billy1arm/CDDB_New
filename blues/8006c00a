@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13450
+#     25665
+#     37272
+#     49050
+#     64527
+#     77122
+#     87952
+#     106077
+#     118342
+# 
+# Disc length: 1730 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=8006c00a
+DTITLE=John Lee Hooker - Trouble Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Baby Lee
+TTITLE1=Frisco Blues
+TTITLE2=Boogie Chillun
+TTITLE3=Hard Headed Woman
+TTITLE4=Tupelo
+TTITLE5=Trouble Blues
+TTITLE6=Keep Your Hands To Yourself
+TTITLE7=Wednesday Evening Blues
+TTITLE8=I'm In The Mood
+TTITLE9=Good Rockin' Mama
+EXTD=Good Blues album!
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

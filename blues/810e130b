@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	1357
+#	25593
+#	55663
+#	82691
+#	117527
+#	138171
+#	170575
+#	204837
+#	237455
+#	256961
+#
+# Disc length: 3605 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=810e130b
+DTITLE=Lars Duppler Trio - Le Grand Lustucru
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Intro
+TTITLE1=Polly's Song
+TTITLE2=Zuhälterballade
+TTITLE3=Nannas Lied
+TTITLE4=Grabschrift
+TTITLE5=Der Morgenchoral des Peachum
+TTITLE6=Das Lied des Lotterieagenten
+TTITLE7=Liebeslied
+TTITLE8=Das erste Dreigroschenfinale
+TTITLE9=My Ship
+TTITLE10=Die Moritat des Mackie Messer
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

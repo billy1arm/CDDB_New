@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	54425
+#	74742
+#	108721
+#	115656
+#	162992
+#	175376
+#	218820
+#	231051
+#
+# Disc length: 3562 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=820de709
+DTITLE=Steve Swell - Moons Of Jupiter
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=For Henry Darger
+TTITLE1=Callisto
+TTITLE2=The I Refuse Blues
+TTITLE3=Io
+TTITLE4=Moons Of Jupiter
+TTITLE5=Europa
+TTITLE6=The Human Touch
+TTITLE7=Ganymede
+TTITLE8=(be) Conversational
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

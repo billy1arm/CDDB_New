@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25112
+#	47539
+#	70862
+#	88942
+#	106022
+#	123510
+#	154459
+#	180865
+#	202995
+#	224315
+#
+# Disc length: 3292 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8d0cda0b
+DTITLE=Dieter Ilg Trio - Folk Songs
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Guter Mond du gehst so stille
+TTITLE1=Es tagt der Sonne Morgenstrahl
+TTITLE2=Frere Jacques
+TTITLE3=Arirang
+TTITLE4=Wann ich des morgens frueh aufsteh
+TTITLE5=Im Maerzen der Bauer
+TTITLE6=Alles schweiget
+TTITLE7=Maienzeit bannet Leid
+TTITLE8=In stiller Nacht
+TTITLE9=So sei gegruesst viel tausendmal
+TTITLE10=Der Mond ist aufgegangen
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

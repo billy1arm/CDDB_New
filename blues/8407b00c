@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14295
+#     22660
+#     34290
+#     48925
+#     60815
+#     72865
+#     86032
+#     98357
+#     108362
+#     122337
+#     136975
+# 
+# Disc length: 1970 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8407b00c
+DTITLE=Cole, Nat King - St. Louis Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Overture: Love Theme - Hesitating Blues
+TTITLE1=Harlem Blues
+TTITLE2=Chantez Les Bas
+TTITLE3=Friendless Blues
+TTITLE4=Stay
+TTITLE5=Joe Turner's Blues
+TTITLE6=Beale Street Blues
+TTITLE7=Careless Love
+TTITLE8=Morning Star
+TTITLE9=Memphis Blues
+TTITLE10=Yellow Dog Blues
+TTITLE11=St. Louis Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

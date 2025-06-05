@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11702
+#	25820
+#	36820
+#	59995
+#	72245
+#	86845
+#	114315
+#	122712
+#	137262
+#
+# Disc length: 1938 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL0
+#
+DISCID=8707900a
+DTITLE=Fats Domino - Hit Collection Live
+DYEAR=1900
+DGENRE=
+TTITLE0=The Fat Man
+TTITLE1=Blueberry Hill
+TTITLE2=Oh, What A Price
+TTITLE3=Domino Twist
+TTITLE4=Let The Four Winds Blow
+TTITLE5=I'm In The Mood For Love
+TTITLE6=Please Don't Leave Me
+TTITLE7=I'm Ready
+TTITLE8=I'm In Love Again
+TTITLE9=Be My Guest
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

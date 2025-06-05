@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	30695
+#	64283
+#	96433
+#	120608
+#	140145
+#	160233
+#	191133
+#	212383
+#
+# Disc length: 3192 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=860c7609
+DTITLE=sam lay blues band - live
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=giong to new york
+TTITLE1=medley_bo diddley_who do you love
+TTITLE2=caress me baby
+TTITLE3=shake your money maker
+TTITLE4=hush hush
+TTITLE5=bobby's rock
+TTITLE6=joe turner m_honey hush_flip flop and fly
+TTITLE7=correct it all
+TTITLE8=close to you
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

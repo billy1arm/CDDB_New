@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34027
+#	52587
+#	83415
+#	110042
+#	143687
+#	159750
+#	181977
+#	204257
+#	234655
+#	268300
+#	292512
+#
+# Disc length: 4358 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=8f11040c
+DTITLE=Kenny Davern - A Night With Eddie Condon
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=At the Jazz Band Ball
+TTITLE1=Rosetta
+TTITLE2=Royal Garden Blues
+TTITLE3=Ain't Misbehavin'
+TTITLE4=Jazz Me Blues
+TTITLE5=Rose of Washington Square
+TTITLE6=Muskrat Ramble
+TTITLE7=I Can't Get Started
+TTITLE8=China Boy
+TTITLE9=Rose Room
+TTITLE10=That's A-Plenty
+TTITLE11=St. Louis Blues
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

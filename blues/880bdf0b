@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25397
+#	47072
+#	68410
+#	85960
+#	113635
+#	130135
+#	154435
+#	167400
+#	184510
+#	203700
+#
+# Disc length: 3041 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=880bdf0b
+DTITLE=Gabo Dusik - The ships of history
+DYEAR=1997
+DGENRE=New Age
+TTITLE0=resolution
+TTITLE1=ariel
+TTITLE2=argo
+TTITLE3=fram
+TTITLE4=victory
+TTITLE5=U-47
+TTITLE6=hispaniola
+TTITLE7=golden hind
+TTITLE8=taiping
+TTITLE9=cutty sark
+TTITLE10=nautilius
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

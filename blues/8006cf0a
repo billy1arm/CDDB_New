@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14312
+#	27532
+#	39050
+#	51670
+#	62525
+#	77927
+#	91192
+#	103470
+#	117297
+#
+# Disc length: 1745 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.30 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8006cf0a
+DTITLE=Delbert McClinton - Let The Good Times Roll
+DYEAR=1900
+DGENRE=
+TTITLE0=Before You Accuse Me
+TTITLE1=Pledging My Love
+TTITLE2=It's Love Baby 24 Hours A Day
+TTITLE3=Let The Good Times Roll
+TTITLE4=Lipstick, Powder and Paint
+TTITLE5=Lovey Dovey
+TTITLE6=(When She Wants Good Lovin') My Baby Comes To Me
+TTITLE7=One Kiss Led To Another
+TTITLE8=Solid Gold Plated Fool
+TTITLE9=Two More Bottles Of Wine
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

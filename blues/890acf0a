@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17185
+#	36645
+#	55275
+#	77575
+#	101077
+#	124600
+#	145715
+#	163827
+#	186280
+#
+# Disc length: 2769 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=890acf0a
+DTITLE=Kate Ceberano - Think About It
+DYEAR=1991
+DGENRE=Blues
+TTITLE0=Every Little Thing
+TTITLE1=Think About It
+TTITLE2=See Right Through
+TTITLE3=Satisfied
+TTITLE4=The Message
+TTITLE5=What Am I gonna Do
+TTITLE6=Call Me Yours
+TTITLE7=So Fine
+TTITLE8=Meaning of Life
+TTITLE9=Everything Will Be Alright
+EXTD=YEAR: 1991 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

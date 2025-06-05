@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	28220
+#	52605
+#	87537
+#	112417
+#	139445
+#	170632
+#	218432
+#	282007
+#
+# Disc length: 4529 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8411af09
+DTITLE=david sanborn - blue beach - live in montreux 1988
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Chicago song
+TTITLE1=straight to the heart
+TTITLE2=blue beach
+TTITLE3=the dream
+TTITLE4=Slam
+TTITLE5=Rush Hour
+TTITLE6=Imogene
+TTITLE7=Lotus Blossom
+TTITLE8=smile
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

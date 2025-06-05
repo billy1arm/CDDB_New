@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26969
+#	53958
+#	79925
+#	111140
+#	130826
+#	147964
+#	176604
+#	200762
+#
+# Disc length: 2897 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=840b4f09
+DTITLE=Hadley Caliman - Gratitude
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Back For More
+TTITLE1=This Is New
+TTITLE2=Invitation
+TTITLE3=Kickin' On The Inside
+TTITLE4=Comencio
+TTITLE5=Linda
+TTITLE6=If
+TTITLE7=Joe Joe Dancer Bossa Nova
+TTITLE8=Old Devil Moon
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

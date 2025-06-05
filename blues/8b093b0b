@@ -1,0 +1,51 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19524
+#	32774
+#	43185
+#	59426
+#	73701
+#	90934
+#	111674
+#	125190
+#	135059
+#	158323
+#
+# Disc length: 2365 seconds
+#
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=8b093b0b
+DTITLE=Nothing Can Touch Me - ¿Me?
+DYEAR=2003
+DGENRE=Alternative Rock
+TTITLE0=Break The Connection
+TTITLE1=Nothing Can Touch Me
+TTITLE2=Lonesome Child (On A Lonesome Friday)
+TTITLE3=Elizabeth
+TTITLE4=Something Is Drawing Near
+TTITLE5=Falling Headlong
+TTITLE6=The Questioning
+TTITLE7=Overspleeping
+TTITLE8=oOkOo
+TTITLE9=Permanency
+TTITLE10=¿A Cure?
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

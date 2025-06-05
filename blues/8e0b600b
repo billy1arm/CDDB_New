@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25974
+#	33801
+#	53364
+#	65884
+#	83098
+#	102667
+#	124572
+#	142580
+#	164495
+#	184452
+#
+# Disc length: 2914 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8e0b600b
+DTITLE=pizMO - Scenes From The Texture Set V27.1
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=To The River (Au Fleuve)
+TTITLE1=L'Entree Magnifique
+TTITLE2=Winsome
+TTITLE3=Nous Sommes
+TTITLE4=Give It To Me (Donnez-Le Moi)
+TTITLE5=Wonder (Et Il Me Fait La Merveille)
+TTITLE6=Exquis
+TTITLE7=Malaise Heureux (Does It Matter?)
+TTITLE8=Je T'Aime Toujours
+TTITLE9=Nocturne (C'est Le Début De L'amour)
+TTITLE10=Don't Say No To Love (Ne Dites Non D'Aimer)
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

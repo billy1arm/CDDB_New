@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20310
+#     33363
+#     46387
+#     62620
+#     74588
+#     90358
+#     102485
+#     120230
+#     139098
+#     155598
+# 
+# Disc length: 2287 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8b08ed0b
+DTITLE=V rios - Dorival
+DYEAR=1900
+DGENRE=
+TTITLE0=Ora  o da M e Menininha
+TTITLE1=Jo o Valent o
+TTITLE2=Marina
+TTITLE3=O bem do mar
+TTITLE4=Maracangalha
+TTITLE5=O dengo que a nega tem...
+TTITLE6=Morena do mar
+TTITLE7=Beijos pela noite
+TTITLE8=Dora
+TTITLE9=Saudade da Bahia
+TTITLE10=O que   que a baiana tem?
+EXTD=
+EXTT0=Daniela Mercury\n
+EXTT1=Caetano Veloso\n
+EXTT2=Adriana Calcanhoto\n
+EXTT3=Djavan\n
+EXTT4=Antonio Carlos Jobim\n
+EXTT5=Elba Ramalho\n
+EXTT6=Maria Beth nia\n
+EXTT7=Danilo and Simone Caymmi\n
+EXTT8=Gal Costa\n
+EXTT9=Gilberto Gil\n
+EXTT10=Rita Lee\n
+PLAYORDER=

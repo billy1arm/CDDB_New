@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16557
+#	31585
+#	52207
+#	68157
+#	79187
+#	99527
+#	117207
+#	131840
+#	145217
+#
+# Disc length: 2168 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=8008760a
+DTITLE=Lionel Hampton - Razzmatazz Jazz
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Tenderly 01
+TTITLE1=After Your're Gone 02
+TTITLE2=Birth of the Blues 03
+TTITLE3=Jeepers Creepers 04
+TTITLE4=Ain't No Sunshine 05
+TTITLE5=California Dreaming 06
+TTITLE6=I Have Nothing 07
+TTITLE7=Them Changes 08
+TTITLE8=I'm So Tired 09
+TTITLE9=You've Got A Friend 10
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

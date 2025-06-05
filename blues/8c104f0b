@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15488
+#	55338
+#	65398
+#	90378
+#	119503
+#	158518
+#	199603
+#	235958
+#	260563
+#	286128
+#
+# Disc length: 4177 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8c104f0b
+DTITLE=Residentie Orchestra The Hague - Rozhdestvensky - Vermeulen Symphonies
+DYEAR=1999
+DGENRE=Symphonic
+TTITLE0=Symphony No.2 'Prélude à la nouvelle journée' -I- Anime -
+TTITLE1=Symphony No.2 'Prélude à la nouvelle journée' -II- En s'éloignant encore, de plus en plus apaisé -
+TTITLE2=Symphony No.2 'Prélude à la nouvelle journée' -III- Molto rubato -
+TTITLE3=Symphony No.2 'Prélude à la nouvelle journée' -IV- Tendrement agité -
+TTITLE4=Symphony No.2 'Prélude à la nouvelle journée' -V- Vif et nerveux
+TTITLE5=Symphony No.6 'Les Minutes heureuses' -I- Calme -
+TTITLE6=Symphony No.6 'Les Minutes heureuses' -II- Andante Amoroso -
+TTITLE7=Symphony No.6 'Les Minutes heureuses' -III- Allegro
+TTITLE8=Symphony No.7 'Dithyrambes pour les temps à venir' -I- Molto vivace -
+TTITLE9=Symphony No.7 'Dithyrambes pour les temps à venir' -II- Poco meno mosso -
+TTITLE10=Symphony No.7 'Dithyrambes pour les temps à venir' -III- Subito vivo assai
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

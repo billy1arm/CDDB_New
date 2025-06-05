@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32019
+#	72418
+#	103406
+#	126925
+#	171226
+#	200690
+#	241955
+#	275363
+#
+# Disc length: 4112 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=88100e09
+DTITLE=Victor Goines - Love Dance
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Wonderful, Wonderful
+TTITLE1=Love Dance
+TTITLE2=New Arrival
+TTITLE3=Cootie
+TTITLE4=Sunrise
+TTITLE5=Confirmation
+TTITLE6=MIdnight
+TTITLE7=Out The Box
+TTITLE8=Home
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

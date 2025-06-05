@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17279
+#	56459
+#	96474
+#	104556
+#	140546
+#	179031
+#	214236
+#	252668
+#
+# Disc length: 3851 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=870f0909
+DTITLE=Merlin's Magic - Angel Helper's
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Benediction
+TTITLE1=Chamuel
+TTITLE2=Gabriel
+TTITLE3=Heavenly spheres
+TTITLE4=Jophiel
+TTITLE5=Michael
+TTITLE6=Raphael
+TTITLE7=Uriel
+TTITLE8=Zadkiel
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

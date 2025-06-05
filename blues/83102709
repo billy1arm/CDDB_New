@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27413
+#	54201
+#	92943
+#	132662
+#	178328
+#	207071
+#	240972
+#	276653
+#
+# Disc length: 4137 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=83102709
+DTITLE=Piet Noordijk - Jubilee Concert
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Piet Noordijk - Pete's Groove
+TTITLE1=Piet Noordijk - And Then Some
+TTITLE2=Piet Noordijk - Just in Time
+TTITLE3=Piet Noordijk - Take The a Train
+TTITLE4=Piet Noordijk - All the Things You Are
+TTITLE5=Piet Noordijk - Driekusman Total Loss
+TTITLE6=Piet Noordijk - Scrapple from the Apple
+TTITLE7=Piet Noordijk - Ballad Medley
+TTITLE8=Piet Noordijk - Groovin' High
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

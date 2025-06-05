@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19930
+#	44050
+#	62700
+#	87490
+#	107255
+#	125645
+#	165025
+#	186582
+#	220682
+#
+# Disc length: 3300 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=870ce20a
+DTITLE=Josh Smith and the Rhino Cats - Woodsheddin'
+DYEAR=1900
+DGENRE=
+TTITLE0=The Maddog
+TTITLE1=Walkin' Blues
+TTITLE2=New Time Coming
+TTITLE3=Sea of Time
+TTITLE4=What Went Wrong
+TTITLE5=Let It Rock
+TTITLE6=Guitar Jones
+TTITLE7=Read it in Your Eyes
+TTITLE8=Little Wing
+TTITLE9=Machine Gun
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

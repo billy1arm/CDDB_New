@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	49833
+#	104358
+#	138333
+#	185808
+#	204708
+#	218058
+#	256158
+#	299358
+#
+# Disc length: 4191 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8e105d09
+DTITLE=WIENER PHILHARMONIKER - KARAJAN - Schubert und Strauss - Diverse
+DYEAR=1993
+DGENRE=E-Musik
+TTITLE0=Schubert - Symphonie Nr.8 h-moll D759 - Unvollendete - 1.Satz: Allegro moderato
+TTITLE1=Schubert - Symphonie Nr.8 h-moll D759 - Unvollendete - 2.Satz: Andante con moto
+TTITLE2=Strauss Johann - Der Zigeunerbaron: Ouvertüre
+TTITLE3=Strauss Johann - Kaiserwalzer op.437
+TTITLE4=Strauss Johann - Annen-Polka op.117
+TTITLE5=Strauss Johann - Perpetuum mobile op.257
+TTITLE6=Strauss Josef - Delirien-Walzer op.212
+TTITLE7=Strauss Johann - An der schönen blauen Donau op.314
+TTITLE8=Strauss Johann (Vater) - Radetzky-Marsch op.228
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

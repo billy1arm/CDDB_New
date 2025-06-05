@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21028
+#	43825
+#	66839
+#	89547
+#	93204
+#	117713
+#	141609
+#	150789
+#	199464
+#
+# Disc length: 3364 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8d0d220a
+DTITLE=The Dream Engine - The Dream Engine
+DYEAR=2005
+DGENRE=New Age
+TTITLE0=Heliosphere (prologue)
+TTITLE1=Heliosphere (overture)
+TTITLE2=Heliosphere (finale)
+TTITLE3=Heliosphere (epilogue)
+TTITLE4=Conedancers (prologue)
+TTITLE5=Conedancers (overture)
+TTITLE6=Conedancers (duet)
+TTITLE7=Conedancers (epilogue)
+TTITLE8=The Candle
+TTITLE9=_datatrack
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

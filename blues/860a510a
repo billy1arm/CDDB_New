@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20465
+#	42370
+#	64302
+#	83095
+#	102507
+#	124020
+#	137050
+#	161145
+#	176547
+#
+# Disc length: 2643 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=860a510a
+DTITLE=James Peterson - Don't Let The Devil Ride
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Let The Devil Ride
+TTITLE1=Children Gotta Eat
+TTITLE2=I Need You At Home
+TTITLE3=Bite My Hook
+TTITLE4=Boat Won't Float
+TTITLE5=It's So Good
+TTITLE6=Ain't Got Enough Gas To Get Over The Line
+TTITLE7=Went Too Far, Stayed Too Long
+TTITLE8=Tired Of Catchin' Hell
+TTITLE9=Playin' The Game
+EXTD=James Paterson, Guitar\nMike Griffin, Guitar\nWilliam Andrew-Thomas, Guit
+EXTD=ar\nCharles Davis, Bass\nClayton Ivey, Hammond B-3 Organ, Piano\nPaul H. 
+EXTD=Lee, Drums\nDanny Bagsby, Lead Guitar (Playin' The Game]\nHarvey Thompson
+EXTD=, Tenor Sax\nJim Horn, Baritone Sax\nGary Armstrong, Trumpet\nCharlie Ros
+EXTD=e, Trombone, Horn Arraingments
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

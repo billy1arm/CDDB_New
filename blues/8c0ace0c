@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16625
+#     26865
+#     47125
+#     66895
+#     85830
+#     99785
+#     111115
+#     132870
+#     153270
+#     173690
+#     190940
+# 
+# Disc length: 2768 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8c0ace0c
+DTITLE=Kiko Zambianchi - Meus Momentos
+DYEAR=1900
+DGENRE=
+TTITLE0=Primeiros Erros
+TTITLE1=Jony
+TTITLE2=Tempo Perdido
+TTITLE3=Rolam as Pedras
+TTITLE4=No Meio da Rua
+TTITLE5=Nossa Energia
+TTITLE6=Guerra Fria
+TTITLE7=Choque
+TTITLE8=Julia
+TTITLE9=Hey Jude
+TTITLE10=Dem nia
+TTITLE11=Tente de Novo Amanh 
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

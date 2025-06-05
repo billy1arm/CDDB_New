@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16355
+#	34590
+#	54287
+#	72897
+#	92842
+#	110142
+#	131682
+#	147460
+#	170847
+#
+# Disc length: 2699 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8f0a890a
+DTITLE=Randi Laubek - Ducks And Drakes
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Madness Sadness
+TTITLE1=Tapestry Of Fire
+TTITLE2=Cunningly Concealed
+TTITLE3=Fairytales
+TTITLE4=The Promise
+TTITLE5=You Changed Direction
+TTITLE6=Don't You Ever Wonder
+TTITLE7=New Beginning
+TTITLE8=Peace Of Mind
+TTITLE9=Wishful Thinking
+EXTD=YEAR: 1997 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

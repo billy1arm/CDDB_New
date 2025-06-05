@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25200
+#	59321
+#	92108
+#	115964
+#	148443
+#	179776
+#	214326
+#
+# Disc length: 3421 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=800d5b08
+DTITLE=Martin Sjöstedt Band - Slow Charles
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Heavy axe
+TTITLE1=Slow Charles
+TTITLE2=Intervals
+TTITLE3=Four in one
+TTITLE4=Blues for Mr Brent
+TTITLE5=You don't know what love is
+TTITLE6=Elvinology
+TTITLE7=Capedown Capetown
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

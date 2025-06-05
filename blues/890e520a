@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30832
+#	55395
+#	77865
+#	122920
+#	159987
+#	179735
+#	215795
+#	229632
+#	259245
+#
+# Disc length: 3668 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=890e520a
+DTITLE=Various Artist - JAZZ SAX
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=St. Thomas - Sonny Rollins
+TTITLE1=You'd Be So Nice To Come Home To - Art Pepper
+TTITLE2=Like Someone In Love - John Coltrane
+TTITLE3=Sentimental Journey - Jackie Mclean
+TTITLE4=Recade Bossa Nova - Hank Mobley
+TTITLE5=Samba De Orfeu - Paul Desmond
+TTITLE6=Blue Bossa - Joe Henderson
+TTITLE7=Now's The Time Charlie Parker
+TTITLE8=Cheese Cake - Dexter Gordon
+TTITLE9=My Funny Valentine - Sonny Stitt
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

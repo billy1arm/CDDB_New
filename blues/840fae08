@@ -1,0 +1,41 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	37020
+#	58920
+#	98187
+#	129867
+#	202295
+#	217262
+#	274907
+#
+# Disc length: 4016 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.52 - http://www.feurio.com
+#
+DISCID=840fae08
+DTITLE=Brodsky Quartet - Streichquartette von Borodin (Nr.2) und Tschaikowski 
+DTITLE=(Nr. 3)
+DYEAR=1900
+DGENRE=
+TTITLE0=Borodin: Allegro moderato
+TTITLE1=Scherzo
+TTITLE2=Notturno: Andante
+TTITLE3=Finale: Andante - Vivace
+TTITLE4=Tschaikowski: Andante sostenuto
+TTITLE5=Allegretto vivo e scherzando
+TTITLE6=Andante funebre e doloroso ma con moto
+TTITLE7=Finale: Allegro non troppo e resoluto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

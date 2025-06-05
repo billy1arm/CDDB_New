@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     151
+#     17407
+#     27239
+#     46320
+#     68740
+#     83276
+#     92806
+#     111622
+#     136166
+#     155352
+#     178674
+#     197615
+# 
+# Disc length: 2865 seconds
+# 
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.0
+# 
+DISCID=8f0b2f0c
+DTITLE=John K. - Creation
+DYEAR=1900
+DGENRE=
+TTITLE0=Unconscious Existence
+TTITLE1=Sunrise
+TTITLE2=Creation
+TTITLE3=Wild Rain
+TTITLE4=Soft Wind
+TTITLE5=Clouds In The Sky
+TTITLE6=Hills Of Green
+TTITLE7=Endless Horizons
+TTITLE8=Blossoms and Leaves
+TTITLE9=Blue Ocean
+TTITLE10=Singing Blackbird
+TTITLE11=Wonderful Morning
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

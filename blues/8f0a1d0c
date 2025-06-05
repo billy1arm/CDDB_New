@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	15183
+#	33333
+#	47508
+#	66258
+#	85833
+#	99970
+#	118533
+#	137358
+#	159708
+#	176058
+#	184308
+#
+# Disc length: 2591 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=8f0a1d0c
+DTITLE=Christian Willisohn - Boogie Woogie And Some Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Beebo's Boogie
+TTITLE1=My Own Blues
+TTITLE2=Trouble In Mind
+TTITLE3=Maple Leaf Rag
+TTITLE4=Quiet Blues
+TTITLE5=Un-Authentic Blues
+TTITLE6=4 Meade
+TTITLE7=Blues In My Bottle
+TTITLE8=Honky Tonk Train Blues
+TTITLE9=But On The Other Hand
+TTITLE10=A Night In Vienna
+TTITLE11=Cajun Groove
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

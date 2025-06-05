@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23342
+#	48592
+#	76787
+#	93147
+#	116502
+#	135532
+#	157405
+#	181060
+#	197557
+#	218882
+#
+# Disc length: 3243 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=850ca90b
+DTITLE=Mogg and Way - Chocolate Box
+DYEAR=1999
+DGENRE=Hard Rock
+TTITLE0=Muddy's Cold
+TTITLE1=Jerusalem
+TTITLE2=Too Close To The Sun
+TTITLE3=This Is A Life
+TTITLE4=Living And Dying
+TTITLE5=King Of The City
+TTITLE6=Death In The Family
+TTITLE7=Whip That Groove
+TTITLE8=Last Man In Space
+TTITLE9=Sparkling Wine
+TTITLE10=Somebody, Somewhere
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12156
+#	30406
+#	46705
+#	60375
+#	78735
+#	94417
+#	113069
+#	128357
+#	141075
+#	156551
+#	182332
+#
+# Disc length: 2653 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8d0a5b0c
+DTITLE=Lynyrd Skynyrd - Endangered Species
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=Down south jukin'
+TTITLE1=Heartbreak hotel
+TTITLE2=Devil in the bottle
+TTITLE3=Thinqs goin'on
+TTITLE4=Saturday night special
+TTITLE5=Sweet home Alabama
+TTITLE6=I ain't the one
+TTITLE7=Am i losin'
+TTITLE8=All i have is a song
+TTITLE9=Poison whiskey
+TTITLE10=Good luck, bad luck
+TTITLE11=The last rebel
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

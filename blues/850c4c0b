@@ -1,0 +1,49 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22619
+#	45221
+#	68124
+#	87327
+#	107730
+#	130442
+#	151555
+#	172070
+#	190406
+#	212621
+# Disc length: 3150 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.726
+#
+DISCID=850c4c0b
+DTITLE=Various Artist - Judgement Day: Songs of Robert Johnson
+DYEAR=1900
+DGENRE=
+TTITLE0=Ramblin' On My Mind - Carl Weathersby
+TTITLE1=Stop Breakin' Down Blues - Billy Branch
+TTITLE2=32-20 Blues - Joanna Conner
+TTITLE3=Traveling Riverside Blues - Otis Clay
+TTITLE4=If I Had Possession Over Judgement Day - Jeff Jacobs
+TTITLE5=Stones In My Passway - Pete Special
+TTITLE6=Preachin' Blues (Up Jumped the Devil) - Cathy Richardson
+TTITLE7=Me and the Devil Blues - Gerald McClendon
+TTITLE8=Hellhound On My Trail - Miles Nielsen
+TTITLE9=Crossroad Blues - Larry McCray
+TTITLE10=Come On In My Kitchen - Pete Special
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

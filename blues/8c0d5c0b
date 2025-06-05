@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13542
+#	68945
+#	109417
+#	121917
+#	159787
+#	188295
+#	203915
+#	222135
+#	226422
+#	244875
+#
+# Disc length: 3422 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8c0d5c0b
+DTITLE=Chicago Underground Duo - In Praise of Shadows
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Falling Awake
+TTITLE1=In Praise of Shadows
+TTITLE2=The Glass House
+TTITLE3=Cities without Citadels
+TTITLE4=Pangea
+TTITLE5=Funeral of Dreams
+TTITLE6=The Light in Between
+TTITLE7=Stratus
+TTITLE8=Cumulus
+TTITLE9=Cirrus
+TTITLE10=Nimbus
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

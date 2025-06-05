@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23911
+#	48361
+#	61530
+#	82683
+#	100940
+#	118813
+#	128174
+#	139615
+#	169537
+#	185490
+#
+# Disc length: 2871 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=830b350b
+DTITLE=Dave Brubeck Quartet - Time Further Out [1961]
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=It's A Raggy Waltz
+TTITLE1=Bluette
+TTITLE2=Charles Matthew Hallelujah
+TTITLE3=Far More Blue
+TTITLE4=Far More Drums
+TTITLE5=Maori Blues
+TTITLE6=Unsquare Dance
+TTITLE7=Bru's Boogie Woogie
+TTITLE8=Blue Shadows In The Street
+TTITLE9=Slow And Easy (a.k.a. Lawless Mike)
+TTITLE10=It's A Raggy Waltz - Live At Carnegie Hall
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13207
+#     31752
+#     43547
+#     58630
+#     75492
+#     87467
+#     101162
+#     117872
+#     130750
+#     150890
+#     163747
+# 
+# Disc length: 2342 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8a09240c
+DTITLE=New Tradition - A Piece At A Time
+DYEAR=1900
+DGENRE=
+TTITLE0=I'll Take Your Love Anytime
+TTITLE1=A Piece At A Time
+TTITLE2=Grandpa's Way
+TTITLE3=Talking In Your Sleep
+TTITLE4=He'll Use His Wings
+TTITLE5=Why Darlin'
+TTITLE6=Dreams Of The Past
+TTITLE7=Always Have The Blues
+TTITLE8=Can't Make Me Stop Loving you
+TTITLE9=Carolina Lady
+TTITLE10=Heartache's Moving In
+TTITLE11=I Got Stripes
+EXTD=
+EXTT0=Old Don Williams Song\nC. Black/T. Rocco\n
+EXTT1=D. Mosley\n
+EXTT2=A song about Danny's grandpa, Hobert \nRoberts\nD. Roberts\n
+EXTT3=D. Mosley\n
+EXTT4=T. Mensy\n
+EXTT5=D. Roberts\n
+EXTT6=J. Davis/P. Sellars\nWritten be a friend of Jamie's, Jeff Davis\n
+EXTT7=D. Roberts\n
+EXTT8=D. Mosley\n
+EXTT9=D. Mosley\nSome nice fiddle by Randy Howard\n
+EXTT10=D. Mosley/D. Roberts\nAn Arm wrestling match decided who \nwould sing
+EXTT10=it.\n
+EXTT11=J. Cash/C. Williams\nA Johnny Cash classic\n
+PLAYORDER=

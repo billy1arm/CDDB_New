@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16450
+#	30562
+#	46737
+#	62077
+#	81432
+#	94535
+#	108480
+#	130687
+#	145872
+#	162285
+#	180202
+#
+# Disc length: 2578 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8f0a100c
+DTITLE=Mijares - Recuerdos de Mijares
+DYEAR=1900
+DGENRE=Español
+TTITLE0=Soldado del amor
+TTITLE1=Baño de mujeres
+TTITLE2=Uno entre mil
+TTITLE3=Bella
+TTITLE4=Bonita
+TTITLE5=Soñador
+TTITLE6=No quiero perderte
+TTITLE7=Un hombre discreto
+TTITLE8=No se murio el amor
+TTITLE9=Vive en mi
+TTITLE10=Nube azul
+TTITLE11=Llevame
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

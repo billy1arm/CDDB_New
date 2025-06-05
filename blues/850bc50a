@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9665
+#	33167
+#	56390
+#	76137
+#	99745
+#	111270
+#	136880
+#	147320
+#	194812
+#
+# Disc length: 3015 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=850bc50a
+DTITLE=Various Artist - The Original Jazz Masters - Vol.11
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Count Basie and Tony Bennett - Chicago
+TTITLE1=Cannonball Adderley - Just Friends
+TTITLE2=Pee Wee Russell - I used to Love you
+TTITLE3=Donald Byrd - Counter Punch
+TTITLE4=Hank Crawford - Centerpiece
+TTITLE5=Pete Fountain - Sunset in Paradise
+TTITLE6=Louis Armstrong - Basin Street Blues
+TTITLE7=Al Hirt - Sleepytime down South
+TTITLE8=Dexter Gordon - Take the 'A' Train
+TTITLE9=Grant Green - Just the Way You are
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54102
+#	84389
+#	101489
+#	161648
+#	200301
+#	210610
+#	237420
+#	253785
+#	291078
+#
+# Disc length: 4343 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=8310f50a
+DTITLE=aa vv - The Kings of Jazz cd1
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Art Blakey - Anthenagin
+TTITLE1=Bill Evans - Peace Piece
+TTITLE2=Charles Mingus - Moves
+TTITLE3=Eric Dolphy - Fire Waltz
+TTITLE4=John Coltrane - Equinox
+TTITLE5=Mark Murphy - My Favorite Things
+TTITLE6=Randy Weston - In Memory Of
+TTITLE7=Rashaan Roland Kirk - Spirits Up Above
+TTITLE8=Roy Haynes - Quiet Fire
+TTITLE9=The Jazz Crusaders - Young Rabbits
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

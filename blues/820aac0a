@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20869
+#	40538
+#	61632
+#	79383
+#	103536
+#	125424
+#	142024
+#	162461
+#	183964
+#
+# Disc length: 2734 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=820aac0a
+DTITLE=Amedeo Minghi - I Miti
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=L'immenso
+TTITLE1=Quando l'estate verrà
+TTITLE2=Sognami
+TTITLE3=Emanuela e io
+TTITLE4=Il geniaccio degli italiani
+TTITLE5=Io e la musica
+TTITLE6=Telecomunicazioni sentimentali
+TTITLE7=Le verdi cattedrali della memoria
+TTITLE8=La stella dello sperone
+TTITLE9=Cuore di pace
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

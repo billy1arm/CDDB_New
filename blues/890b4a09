@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25340
+#	50229
+#	74785
+#	92411
+#	118896
+#	139974
+#	174378
+#	192935
+#
+# Disc length: 2892 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=890b4a09
+DTITLE=Dylan Cramer - Alto
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Sweet summer breeze
+TTITLE1=Body heat
+TTITLE2=Mighty low
+TTITLE3=Send one your love
+TTITLE4=Django
+TTITLE5=Samba pa ti
+TTITLE6=Midnight mellow
+TTITLE7=Maputo
+TTITLE8=La playa
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

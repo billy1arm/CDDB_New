@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  23175
+#  38925
+#  59775
+#  76657
+#  96900
+#  124275
+#  144600
+#  164100
+#  182625
+#
+# Disc length: 2698 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8f0a880a
+DTITLE=Otis Spann - Otis Spann Is The Blues
+DYEAR=1900
+DGENRE=blues
+TTITLE0=The Hard Way
+TTITLE1=Take A Little Walk With Me
+TTITLE2=Otis In The Dark
+TTITLE3=Little Boy Blue
+TTITLE4=Country Boy
+TTITLE5=Beat-up Team
+TTITLE6=My Daily Wish
+TTITLE7=Great Northern Stomp
+TTITLE8=I Got Rambling On My Mind (No. 2)
+TTITLE9=Worried Life Blues
+EXTD=CCD 9001\n\nRecorded at Fine Recording Studios, New York, August 23,
+EXTD=1960.\n\nSubmitted 7/3/97\n[Jmccoy@efn.org]
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

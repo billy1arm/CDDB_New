@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13148
+#	25678
+#	39116
+#	52172
+#	68568
+#	83970
+#	99804
+#	119971
+#	135625
+#	150205
+#	159437
+#
+# Disc length: 2354 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=8c09300c
+DTITLE=Rio 65 Trio - Rio 65 Trio
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Meu fraco é café forte
+TTITLE1=Preciso aprender a ser só
+TTITLE2=Farjuto
+TTITLE3=Desafinado
+TTITLE4=''Blues'' em samba
+TTITLE5=Espera de você
+TTITLE6=Mau, mau
+TTITLE7=Tem dó
+TTITLE8=Azul contente
+TTITLE9=Manhã de carnaval
+TTITLE10=Aruanda
+TTITLE11=A minha namorada
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

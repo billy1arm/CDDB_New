@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22143
+#	53078
+#	76270
+#	93130
+#	128680
+#	148051
+#	168208
+#	196691
+#	208961
+#	233042
+#
+# Disc length: 3404 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8b0d4a0b
+DTITLE=Hugh Hopper and Lisa S. Klossner - cryptids
+DYEAR=1999
+DGENRE=Progressive Jazz
+TTITLE0=As I Turn
+TTITLE1=Visitors
+TTITLE2=Still
+TTITLE3=Up For Air
+TTITLE4=Kissed and Stabbed
+TTITLE5=Hours In The Day
+TTITLE6=The Long Walk
+TTITLE7=Of Course
+TTITLE8=Called To Speak
+TTITLE9=I See You
+TTITLE10=The Night Must Fall
+EXTD=2000\nblueprint\n\nrec 97-99\r\n\r\nall music and arrangements: \r\nHugh Hopper\r\nall lyrics - Lisa S Klossner (except Up for Air - Hopper and Klossner) YEAR: 1999
+EXTT0=Lisa S Klossner  voice\r\nHugh Hopper bass , guitar , programming\r\nFrank van der Kooy  sampled sax , street samples
+EXTT1=Lisa S Klossner  voice\r\nHugh Hopper bass , guitar , programming\r\nChrystelle Blanc-Lanaute  flute\r\nRobert Jarvis  trombone\r\nChristine Janet  trumpet\r\nPeter Cook  sax
+EXTT2=Lisa S Klossner  voice\r\nHugh Hopper bass , programming\r\nPip Pyle  drums\r\nRobert Jarvis trombone
+EXTT3=Lisa S Klossner  voice\r\nHugh Hopper fuzz bass , guitar , programming\r\nPip Pyle  drums\r\nPeter Cook  sax
+EXTT4=Lisa S Klossner  voice\r\nHugh Hopper fuzz bass , guitar , programming\r\nPip Pyle  drums\r\nRobert Jarvis trombone
+EXTT5=Lisa S Klossner  voice\r\nHugh Hopper  programming\r\nPip Pyle  drums\r\nGary Smith  stereo guitar
+EXTT6=Lisa S Klossner  voice\r\nHugh Hopper  fuzz bass , programming\r\nPip Pyle  drums\r\nGary Smith  stereo guitar
+EXTT7=Lisa S Klossner  voice\r\nHugh Hopper  fuzz bass\r\nGary Smith  stereo guitar
+EXTT8=Lisa S Klossner  voice\r\nHugh Hopper  programming\r\nJulie Walkington double bass\r\nElton Dean  Alto sax
+EXTT9=Lisa S Klossner  voice\r\nHugh Hopper bass , guitar , miscellaneous samples\r\nChrystelle Blanc-Lanaute  flute\r\nChristine Janet  trumpet\r\nGary Smith  stereo guitar
+EXTT10=Lisa S Klossner  voice\r\nHugh Hopper bass , guitar , programming\r\nFrances Knight  piano
+PLAYORDER=

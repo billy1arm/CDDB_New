@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40472
+#	68075
+#	84172
+#	101667
+#	139375
+#	157657
+#	184712
+#	204000
+#	225035
+#	261467
+#
+# Disc length: 3655 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=830e450b
+DTITLE=John Coltrane - Stellar Regions
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=Seraphic Light
+TTITLE1=Sun Star
+TTITLE2=Stellar Regions
+TTITLE3=Iris
+TTITLE4=Offering
+TTITLE5=Configuration
+TTITLE6=Jimmy's Mode
+TTITLE7=Tranesonic
+TTITLE8=Stellar Regions (alternate)
+TTITLE9=Sun Star (alternate)
+TTITLE10=Tranesonic (alternate)
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

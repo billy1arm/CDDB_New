@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	33718
+#	58983
+#	85630
+#	113780
+#	137165
+#	168585
+#	191515
+#	216428
+#
+# Disc length: 3315 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=850cf109
+DTITLE=Art Blakey 1960 Jazz Messengers - The Complete Blue Note Recordings v2cd4
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=United (E)
+TTITLE1=The witch doctor (alt)
+TTITLE2=Those who sit and wait
+TTITLE3=A little busy
+TTITLE4=Joelle
+TTITLE5=Afrique
+TTITLE6=Lost and found
+TTITLE7=The witch doctor
+TTITLE8=The black sliders (alt)
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

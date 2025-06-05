@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13275
+#     26400
+#     38325
+#     51825
+#     62700
+#     77475
+#     88800
+#     98550
+#     107250
+#     121350
+#     131250
+# 
+# Disc length: 1966 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8607ac0c
+DTITLE=Varios - Lo Mejor Del BOSSANOVA
+DYEAR=1900
+DGENRE=
+TTITLE0=La chica de Ipanema - Los Armonicos
+TTITLE1=Saudades - Laurindo Almeida and Friends
+TTITLE2=Brasil - Orquesta Publivox
+TTITLE3=Desafinado - Tito Puente and His Orchestra
+TTITLE4=O Pato - Tito Puente and His Orchestra
+TTITLE5=Days of Wine and roses - The Bossa Tres
+TTITLE6=Mama eu Quero - Escola do Samba
+TTITLE7=Recado -Zoot Sims and his Orchestra with VI Velasco
+TTITLE8=Bossa em Nova York - Nicco Saudade
+TTITLE9=Adieu Tristesse - Escola do Samba
+TTITLE10=Coisa Nova - Machito and his Orchestra
+TTITLE11=Orfeo negro - Orchestra Publivox
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11647
+#     23622
+#     37597
+#     48925
+#     60380
+#     73722
+#     85440
+#     98700
+#     111220
+#     123377
+#     136617
+# 
+# Disc length: 1966 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8c07ac0c
+DTITLE=Bill Doggett - Doggett Beat For Dancing Feet
+DYEAR=1900
+DGENRE=
+TTITLE0=Soft
+TTITLE1=And The Angels Sing
+TTITLE2=Ding Dong
+TTITLE3=Honey
+TTITLE4=Easy
+TTITLE5=Hammer Head
+TTITLE6=Ram-Bunk-Shus
+TTITLE7=Chloe
+TTITLE8=Hot Ginger
+TTITLE9=King Bee
+TTITLE10=What A Diff'rence A Day Made
+TTITLE11=Shindig
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

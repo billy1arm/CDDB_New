@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17057
+#	30497
+#	51525
+#	66195
+#	87380
+#	107765
+#	122597
+#	130262
+#	145380
+#
+# Disc length: 2298 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=8d08f80a
+DTITLE=Taj Mahal - The Real Blues
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Good Morning Little School Girl
+TTITLE1=Statesboro Blues
+TTITLE2=Farther On Down The Road (You Will Accompany Me)
+TTITLE3=Jellyroll
+TTITLE4=Big Mama
+TTITLE5=Dust My broom
+TTITLE6=Johnny Too Bad
+TTITLE7=Kalimba
+TTITLE8=Stagger Lee
+TTITLE9=Cajun Waltz
+EXTD=DISC: 1\nUPC: 079892841824\nLABEL: Sony Music Special Products\nENSOREC
+EXTD=ORD: 122305\n\nYEAR: 2000  ID3G:   0
+EXTT0=PERFORMER: Taj Mahal\n
+EXTT1=PERFORMER: Taj Mahal\n
+EXTT2=PERFORMER: Taj Mahal\n
+EXTT3=PERFORMER: Taj Mahal\n
+EXTT4=PERFORMER: Taj Mahal\n
+EXTT5=PERFORMER: Taj Mahal\n
+EXTT6=PERFORMER: Taj Mahal\n
+EXTT7=PERFORMER: Taj Mahal\n
+EXTT8=PERFORMER: Taj Mahal\n
+EXTT9=PERFORMER: Taj Mahal\n
+PLAYORDER=

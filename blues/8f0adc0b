@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19932
+#	40845
+#	65770
+#	76125
+#	96897
+#	118455
+#	138272
+#	151172
+#	168865
+#	183655
+#
+# Disc length: 2782 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8f0adc0b
+DTITLE=Laura Nyro - New York Tendaberry
+DYEAR=1900
+DGENRE=
+TTITLE0=You Don't Love Me When I Cry
+TTITLE1=Captain For Dark Mornings
+TTITLE2=Tom Cat Goodby
+TTITLE3=Mercy On Broadway
+TTITLE4=Save the Country
+TTITLE5=Gibsom Street
+TTITLE6=Time and Love
+TTITLE7=The Man Who Sends Me Home
+TTITLE8=Sweet Lovin' Baby
+TTITLE9=Captain Saint Lucifer
+TTITLE10=New York Tendaberry
+EXTD=Submitted by Joel Siegfried\nEmail: ecto@home.com\nColumbia CK9737\n
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

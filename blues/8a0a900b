@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16027
+#     34507
+#     51585
+#     68087
+#     85927
+#     105810
+#     124052
+#     139182
+#     161730
+#     184202
+# 
+# Disc length: 2706 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8a0a900b
+DTITLE=Greg "Fingers" Taylor - Chest Pains
+DYEAR=1900
+DGENRE=
+TTITLE0=Barbed Wire Kiss
+TTITLE1=Chest Pains
+TTITLE2=Over The Fence
+TTITLE3=That Kind Of Love
+TTITLE4=Jackson Police
+TTITLE5=Some White People (Can Dance)
+TTITLE6=Love To Ride
+TTITLE7=Lost Boy
+TTITLE8=High Cost Of Loving
+TTITLE9=Good Rockin' Woman
+TTITLE10=Sunburn (Duval St. Stomp)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13900
+#     42920
+#     57427
+#     71515
+#     85190
+#     107802
+#     124165
+#     148440
+# 
+# Disc length: 2330 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=85091809
+DTITLE=The Metro Blues All-Stars - Devil Gets His Due
+DYEAR=1900
+DGENRE=
+TTITLE0=Deep Mine Blues
+TTITLE1=Devil Gets His Due
+TTITLE2=Get Up
+TTITLE3=I Would Do For You
+TTITLE4=Coalmine, Moonshine
+TTITLE5=Storm Coming Through
+TTITLE6=Raging Heart
+TTITLE7=Bad Situation
+TTITLE8=Holy Roller
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

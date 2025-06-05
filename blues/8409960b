@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11247
+#     23017
+#     41262
+#     60977
+#     78237
+#     93510
+#     110442
+#     131910
+#     149352
+#     159995
+# 
+# Disc length: 2456 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8409960b
+DTITLE=Blues Bag - Bl  P se
+DYEAR=1900
+DGENRE=
+TTITLE0=Originell
+TTITLE1=Glida
+TTITLE2=Kom In I K ket
+TTITLE3=Bort Fr n Stan
+TTITLE4=Jag Vet
+TTITLE5=En Ny Tid
+TTITLE6=Ringa P 
+TTITLE7=Nymfoman
+TTITLE8=En Man I M nen
+TTITLE9=Polirikerpolka
+TTITLE10=Bl 
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

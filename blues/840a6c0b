@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#     150
+#     26250
+#     42450
+#     62400
+#     80550
+#     97875
+#     112050
+#     131325
+#     145650
+#     165975
+#     182700
+#
+# Disc length: 2670 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Clarion 0.9.1
+#
+DISCID=840a6c0b
+DTITLE=Memphis Piano Red, Guitar Slim - Walkin' Boogie
+DYEAR=1900
+DGENRE=
+TTITLE0=Walin' boogie
+TTITLE1=Rocky mountain blues
+TTITLE2=Red's boogie
+TTITLE3=Outdoor weather blues
+TTITLE4=Betty and Dupree
+TTITLE5=Red's delight
+TTITLE6=Mr. Grinder
+TTITLE7=Did you get that letter
+TTITLE8=My life is so miserable
+TTITLE9=Hard headed blues
+TTITLE10=Blues with a feelin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

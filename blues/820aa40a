@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     25483
+#     40858
+#     61645
+#     89245
+#     109145
+#     131558
+#     152845
+#     167620
+#     183433
+# 
+# Disc length: 2726 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=820aa40a
+DTITLE=Cythia Bland and the blueframe - I wonder
+DYEAR=1900
+DGENRE=
+TTITLE0=Been so long
+TTITLE1=(you make me feel like) A natural woman
+TTITLE2=Blueframe
+TTITLE3=Swing low, sweet chariot
+TTITLE4=Down home blues
+TTITLE5=Mustang sally
+TTITLE6=Chitlins con carne
+TTITLE7=How great thou art
+TTITLE8=I wonder
+TTITLE9=Baby I love you
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

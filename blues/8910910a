@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27091
+#	56011
+#	86620
+#	127182
+#	163385
+#	183190
+#	203442
+#	231773
+#	268997
+#
+# Disc length: 4243 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8910910a
+DTITLE=Рада и Госплан Трио - I
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=анонимно
+TTITLE1=драма
+TTITLE2=позывные
+TTITLE3=фолк
+TTITLE4=шаги
+TTITLE5=бестиарий
+TTITLE6=шпионская
+TTITLE7=история
+TTITLE8=сон
+TTITLE9=активность
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

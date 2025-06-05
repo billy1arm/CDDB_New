@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32194
+#	58496
+#	83933
+#	115295
+#	134503
+#	172857
+#	193982
+#	227974
+#
+# Disc length: 3521 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=850dbf09
+DTITLE=David Sanborn - Upfront
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Snakes
+TTITLE1=Benny
+TTITLE2=Crossfire
+TTITLE3=Full House
+TTITLE4=Soul Serenade
+TTITLE5=Hey
+TTITLE6=Bang Bang
+TTITLE7=Alcazar
+TTITLE8=Ramblin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

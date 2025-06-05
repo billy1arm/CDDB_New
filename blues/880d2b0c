@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19315
+#	40922
+#	61220
+#	79692
+#	82570
+#	107810
+#	129842
+#	153867
+#	176982
+#	195310
+#	219787
+#
+# Disc length: 3373 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=880d2b0c
+DTITLE=A Few Good Men - Take A Dip
+DYEAR=1900
+DGENRE=
+TTITLE0=Tonite
+TTITLE1=Walk You Through
+TTITLE2=Let's Take A Dip
+TTITLE3=All Of My Love
+TTITLE4=Please Baby Don't Cry (Interlude)
+TTITLE5=Have I Never
+TTITLE6=A Thang For You
+TTITLE7=Young Girl
+TTITLE8=Don't Cry (Behind My Back)
+TTITLE9=Sexy Day
+TTITLE10=A Good Man
+TTITLE11=1-900-G-MAN (How I Say I Love You)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

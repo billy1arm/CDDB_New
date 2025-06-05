@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	22437
+# 	41287
+# 	57175
+# 	79950
+# 	99225
+# 	119400
+# 	137032
+# 	160125
+# 	176762
+# 	197325
+#
+# Disc length: 2906 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=8f0b580b
+DTITLE=Mr. Blue - Permanent Parole
+DYEAR=1900
+DGENRE=
+TTITLE0=Permanent Parole
+TTITLE1=Blues Is Strugglin'
+TTITLE2=Only Words
+TTITLE3=She Devil
+TTITLE4=She's Coming Home
+TTITLE5=Mambo Princess
+TTITLE6=Used To Being Lonely
+TTITLE7=Sweet Sally
+TTITLE8=Walkin' Into Midnight
+TTITLE9=Life Will Pass You By
+TTITLE10=Blues Highway
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

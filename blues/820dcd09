@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36013
+#	66859
+#	89606
+#	118462
+#	158747
+#	181904
+#	204700
+#	239694
+#
+# Disc length: 3535 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=820dcd09
+DTITLE=Steve Davis - Update
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Marie Antoinette
+TTITLE1=Fenja
+TTITLE2=Bird Lives
+TTITLE3=Grove's Groove
+TTITLE4=The Maze
+TTITLE5=Daydream
+TTITLE6=Wildflower
+TTITLE7=Moment To Moment
+TTITLE8=Leanin' and Preenin'
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

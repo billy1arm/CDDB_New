@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38114
+#	77152
+#	114072
+#	142830
+#	178044
+#	215770
+#	245218
+#	269858
+#
+# Disc length: 4098 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=83100009
+DTITLE=Ernie Watts Quartet - Home Light
+DYEAR=2018
+DGENRE=Jazz
+TTITLE0=I Forgot August
+TTITLE1=Café Central 2am
+TTITLE2=Distant Friends
+TTITLE3=Frequie Flyiers
+TTITLE4=Horizon
+TTITLE5=O.P.
+TTITLE6=Spinning Wheel
+TTITLE7=Loe
+TTITLE8=Home Light
+EXTD=YEAR: 2018
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

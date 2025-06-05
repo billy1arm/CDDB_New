@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33600
+#	53986
+#	78972
+#	92908
+#	116200
+#	150688
+#	181553
+#	211167
+#	245990
+#
+# Disc length: 3717 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=840e830a
+DTITLE=Nikos Touliatos - Duos
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Memory I - with Andreas Georgiou
+TTITLE1=Memory II - with Takis Farazis
+TTITLE2=Memory III - with David Lynch
+TTITLE3=Memory IV - with Giorgos Fakanas
+TTITLE4=Memory V - with Ross Daly
+TTITLE5=Memory VI - with Shankarlal
+TTITLE6=Memory VII - with Andreas Georgiou
+TTITLE7=Memory VIII - with Andreas Simvoulopoulos
+TTITLE8=Memory IX - with Gunter "Baby" Sommer
+TTITLE9=Memory X - with Vasilis Soukas
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

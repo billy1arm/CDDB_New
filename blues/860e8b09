@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	29592
+# 	51364
+# 	76982
+# 	96085
+# 	112100
+# 	134757
+# 	147977
+# 	179425
+#
+# Disc length: 3725 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=860e8b09
+DTITLE=Swamp Mama Johnson - Wetlands
+DYEAR=1900
+DGENRE=
+TTITLE0=Gasoline
+TTITLE1=Niki Hoeky
+TTITLE2=Evil, Mean, and Nasty
+TTITLE3=Cradle Robbin Mambo
+TTITLE4=Enough Of You
+TTITLE5=Funky Special
+TTITLE6=Fast Lane Lover
+TTITLE7=Detroit Blues
+TTITLE8=Love Don't Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

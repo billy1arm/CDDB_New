@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24487
+#	63277
+#	88652
+#	124660
+#	151316
+#	186173
+#	196982
+#	232566
+#	261967
+#	275360
+#
+# Disc length: 4149 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8810330b
+DTITLE=Sellam-Renne - Sortilège
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Fiançailles
+TTITLE1=Le mariage du Président
+TTITLE2=Bassilao
+TTITLE3=Saï-saï
+TTITLE4=Sortilège
+TTITLE5=Express
+TTITLE6=Foulbé-foulba
+TTITLE7=Malamba
+TTITLE8=L'amiral
+TTITLE9=Alysong
+TTITLE10=Kannibal
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

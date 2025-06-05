@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17477
+#	34240
+#	61195
+#	73235
+#	99407
+#	118322
+#	138780
+#	158435
+#	181462
+#	195590
+#
+# Disc length: 2892 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8f0b4a0b
+DTITLE=Lynwood Slim - Lost In America
+DYEAR=1991
+DGENRE=Blues
+TTITLE0=Tried To Call You
+TTITLE1=Got To Change
+TTITLE2=Atlanta Blues
+TTITLE3=It's Obdacious
+TTITLE4=Tell Me What I've Done
+TTITLE5=I'm Tired
+TTITLE6=Just Your Fool
+TTITLE7=Ain't Enough Time
+TTITLE8=Cried Last Night
+TTITLE9=Take Me Where You Go
+TTITLE10=Messin' With My Bread
+EXTD=YEAR: 1991 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

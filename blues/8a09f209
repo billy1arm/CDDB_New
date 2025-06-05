@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14800
+#	27982
+#	73413
+#	86671
+#	118757
+#	127367
+#	146790
+#	180075
+#
+# Disc length: 2548 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.89
+#
+DISCID=8a09f209
+DTITLE=Alister Spence Trio - Far Flung - Disc Two
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Life-Wish
+TTITLE1=Lucid
+TTITLE2=Threading the Maze
+TTITLE3=Dashboard
+TTITLE4=Circumnavigate
+TTITLE5=(And) Happiness
+TTITLE6=Mt. Solitary
+TTITLE7=Brave Ghost
+TTITLE8=Lux
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

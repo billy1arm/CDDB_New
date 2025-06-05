@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23061
+#	37665
+#	55411
+#	71210
+#	89730
+#	103999
+#	122108
+#	137676
+#	159119
+#	181587
+#
+# Disc length: 2624 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,32,406
+#
+DISCID=8f0a3e0b
+DTITLE=George Thorogood - HalfA Boy - Half A Man
+DYEAR=1999
+DGENRE=R&B
+TTITLE0=I Don't Trust Nobody
+TTITLE1=Double Shot
+TTITLE2=99 Days In Jail
+TTITLE3=half A boy, Half A Man
+TTITLE4=As Long As I Have You
+TTITLE5=B.I.G.T.I.M.E.
+TTITLE6=Be Bop Grandma
+TTITLE7=Nothing New
+TTITLE8=Just Passin' Thru
+TTITLE9=Hellbound Train
+TTITLE10=Not Tonight
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	151
+#	19095
+#	42193
+#	61313
+#	78220
+#	93960
+#	109880
+#	136614
+#	152470
+#	171055
+#	193460
+#	212308
+#
+# Disc length: 3062 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8e0bf40c
+DTITLE=JOHNNY LANG - Lie To Me
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Lie To Me
+TTITLE1=Darker Side
+TTITLE2=Good Morning Little School Girl
+TTITLE3=Still Wonder
+TTITLE4=Matchbox
+TTITLE5=Back For A Taste Of Your Love
+TTITLE6=A Quitter Newer Wins
+TTITLE7=Hit The Ground Running
+TTITLE8=Rack'em Up
+TTITLE9=When I Come To You
+TTITLE10=There's Gotta Be A Change
+TTITLE11=Missing Your Love
+EXTD=YEAR: 1997 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

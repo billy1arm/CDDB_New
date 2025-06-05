@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21035
+#	40393
+#	62453
+#	75415
+#	94475
+#	115180
+#	134838
+#	152660
+#	171633
+#
+# Disc length: 2468 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8409a20a
+DTITLE=Star Collector - Rock Of Ages
+DYEAR=1900
+DGENRE=
+TTITLE0=Dreams Can Be Dangerous
+TTITLE1=Come Back
+TTITLE2=Given' Ya What You Want
+TTITLE3=Look Out (Here Comes Tomorrow)
+TTITLE4=The Nah Nah Song
+TTITLE5=Hollywood Tonight
+TTITLE6=Big 'Uns
+TTITLE7=Where Love Hides
+TTITLE8=Sweet Daisy Jane
+TTITLE9=For What It's Worth
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

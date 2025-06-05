@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17562
+#	39242
+#	58089
+#	80714
+#	97915
+#	118998
+#	139433
+#	159229
+#	178008
+#
+# Disc length: 2624 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=800a3e0a
+DTITLE=Varios - Merengue Fiesta
+DYEAR=2004
+DGENRE=Merengue
+TTITLE0=Richie Herrera Y Su Banda X - Me La LLevo
+TTITLE1=Toño Rosario - La Ultima Copa
+TTITLE2=Wilfrido Vargas - El Africano
+TTITLE3=Sergio Vargas - Dile
+TTITLE4=Marco Hernandez - Soy Un Saboradin
+TTITLE5=Gisselle Y Sergio Vargas - Perdoname, Olvidalo
+TTITLE6=Toño Rosario - Otra Como Tu
+TTITLE7=Gisselle - Aroma De Mujer
+TTITLE8=La Banda Del Swing - Esto Se Hizo Pa'
+TTITLE9=Banda Chula - Yo Como Que Te Conozco
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

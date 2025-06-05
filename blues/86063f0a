@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  183
+#  13155
+#  26135
+#  40115
+#  51748
+#  61998
+#  72570
+#  83643
+#  94645
+#  106955
+#
+# Disc length: 1601 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=86063f0a
+DTITLE=Elmore James - History Of Elmore James (Vol. 2)
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Please Set A Date
+TTITLE1=I'm Worried
+TTITLE2=Make A Little Love To Me
+TTITLE3=Rollin' And Tumblin'
+TTITLE4=Bobby's Rock
+TTITLE5=I Done Somebody Wrong
+TTITLE6=One Way Out
+TTITLE7=Madison Blues
+TTITLE8=Be Careful What You Do
+TTITLE9=Gotta Find My Baby
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

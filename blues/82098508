@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25417
+#	49482
+#	71797
+#	94912
+#	119687
+#	134230
+#	153630
+#
+# Disc length: 2439 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=82098508
+DTITLE=Various Artist - Jazz Standards
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Thelonious Monk - Ruby, My Dear
+TTITLE1=Dinah Washington - All of Me
+TTITLE2=Dizzy Gillespie - Groovin' High
+TTITLE3=Grappelli - Kessel - How High the Moon
+TTITLE4=Stan Getz - I Remember Clifford
+TTITLE5=Sonny Rollins - Oleo
+TTITLE6=Carmen McRae - Underneath the Apple Tree
+TTITLE7=Dave Brubeck Quartet - Take the 'A' Train
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11360
+#	20550
+#	31260
+#	43000
+#	54145
+#	64252
+#	75825
+#	85075
+#	95832
+#	108620
+#	117787
+#
+# Disc length: 1714 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=8806b00c
+DTITLE=Emil Richards - New Sound Element "Stones"
+DYEAR=1967
+DGENRE=New Age
+TTITLE0=Garnet (January)
+TTITLE1=Amethyst (February)
+TTITLE2=Bloodstone (March)
+TTITLE3=Diamond (April)
+TTITLE4=Emerald (May)
+TTITLE5=Moonstone (June)
+TTITLE6=Ruby (July)
+TTITLE7=Sardonyx (August)
+TTITLE8=Sapphire (September)
+TTITLE9=Opal (October)
+TTITLE10=Topaz (November)
+TTITLE11=Turquoise (December)
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

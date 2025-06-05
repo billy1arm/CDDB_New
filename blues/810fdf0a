@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18801
+#	48456
+#	91102
+#	118280
+#	149303
+#	174753
+#	201541
+#	227438
+#	253835
+#
+# Disc length: 4065 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=810fdf0a
+DTITLE=Orjazm Beaver Sextet - Fist of Ty
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Completedisk.snd
+TTITLE1=Toshiko's Elegy.wav
+TTITLE2=TBA.wav
+TTITLE3=Periscope.wav
+TTITLE4=NutVille.wav
+TTITLE5=Moments Notice.wav
+TTITLE6=Jordu.wav
+TTITLE7=Fudgesicle.wav
+TTITLE8=chicken.wav
+TTITLE9=Freedom jazz Dance.wav
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16157
+#	32164
+#	48171
+#	64180
+#	80189
+#	95983
+#	111777
+#	127784
+#	143791
+#	159773
+#
+# Disc length: 2337 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8a091f0b
+DTITLE=Various Artist - Salsa Timing
+DYEAR=1900
+DGENRE=Salsa
+TTITLE0=All instruments - No Count 
+TTITLE1=All instruments - 123, 567
+TTITLE2=All instruments - 2, 6
+TTITLE3=Congas - No Count 
+TTITLE4=Congas - 2, 6
+TTITLE5=Clave - No Count 
+TTITLE6=Clave - 2, 6
+TTITLE7=Congas, Clave and Bass - No Count 
+TTITLE8=Congas, Clave and Bass - 2, 6
+TTITLE9=Campana and Timbale - No Count
+TTITLE10=Campana and Timbale - 2, 6
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

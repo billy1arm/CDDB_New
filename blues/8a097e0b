@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19940
+#	41655
+#	62105
+#	78075
+#	90335
+#	98270
+#	115417
+#	124977
+#	148292
+#	159577
+#
+# Disc length: 2432 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=8a097e0b
+DTITLE=Chapter Two - Chapter Two
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Get here
+TTITLE1=Song for Nils
+TTITLE2=Killing me softly
+TTITLE3=The red moped
+TTITLE4=Moon shadow
+TTITLE5=Like someone in love
+TTITLE6=Everything happens to me
+TTITLE7=Waltz for johanna
+TTITLE8=Everything must change
+TTITLE9=Morning song
+TTITLE10=Birthday dance
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

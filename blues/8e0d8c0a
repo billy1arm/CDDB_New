@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25600
+#	48535
+#	63942
+#	93980
+#	111312
+#	141852
+#	162212
+#	186197
+#	224062
+#
+# Disc length: 3470 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=8e0d8c0a
+DTITLE=General Music Project - General Music Project
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Choo Choo Train
+TTITLE1=Apex
+TTITLE2=Sing A Song of Song
+TTITLE3=Happy Dream
+TTITLE4=Calling You
+TTITLE5=Tip-Toeing
+TTITLE6=Intro To Yellow
+TTITLE7=Sahara's Short Story
+TTITLE8=Sunbeam
+TTITLE9=Cathedral
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	23927
+#	56157
+#	68082
+#	82287
+#	102627
+#	119155
+#	143415
+#	158675
+#
+# Disc length: 2796 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=810aea09
+DTITLE=stan getz - cool 7
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=stan getz - misty
+TTITLE1=stan getz - sum sum
+TTITLE2=stan getz - on rainy afternoons
+TTITLE3=stan getz - anna
+TTITLE4=stan getz - don't cry for me argentina
+TTITLE5=stan getz - blue serge
+TTITLE6=stan getz - ligia
+TTITLE7=stan getz - forest eyes
+TTITLE8=stan getz - willow weep for me
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

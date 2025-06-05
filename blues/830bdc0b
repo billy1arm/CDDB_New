@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	16355
+#	34812
+#	54250
+#	77360
+#	107907
+#	123555
+#	139095
+#	160485
+#	180240
+#	202660
+#
+# Disc length: 3038 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=830bdc0b
+DTITLE=Billy Joel - Live In USA
+DYEAR=1900
+DGENRE=
+TTITLE0=River Of Dreams
+TTITLE1=Blonde Over Blue
+TTITLE2=Shades Of Grey
+TTITLE3=No Man's Land
+TTITLE4=Shameless
+TTITLE5=I'll Cry Instead
+TTITLE6=You Got Me Hummin'
+TTITLE7=All About Soul
+TTITLE8=Only The Good Die Young
+TTITLE9=No Man's Land  (Alternative version)
+TTITLE10=River Of Dreams (Alternative Version)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

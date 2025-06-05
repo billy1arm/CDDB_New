@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16650
+#	36065
+#	59555
+#	68295
+#	90380
+#	109780
+#	124560
+#	141012
+#	149230
+#
+# Disc length: 2156 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeDB 13.2
+#
+DISCID=81086a0a
+DTITLE=Manhattan Transfer - An Acapella Christmas
+DYEAR=2004
+DGENRE=Chorus
+TTITLE0=Jingle Bells
+TTITLE1=White Christmas
+TTITLE2=Christmas Time Is Here
+TTITLE3=Good King Wenceslas
+TTITLE4=Toyland
+TTITLE5=My Grown-Up Christmas List
+TTITLE6=Merry Christmas Baby
+TTITLE7=I'll Be Home for Christmas
+TTITLE8=Christmas Is Coming (The Goose Is Getting Fat)
+TTITLE9=Winter Wonderland
+EXTD=ID3G:  24
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

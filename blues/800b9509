@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	24957
+#	45405
+#	74415
+#	103695
+#	144447
+#	163452
+#	182515
+#	201710
+#
+# Disc length: 2967 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=800b9509
+DTITLE=Albert King and John Lee Hooker - I'll play the blues for you
+DYEAR=1977
+DGENRE=Blues
+TTITLE0=King, Albert - Born under a bad sign
+TTITLE1=King, Albert - The very thought of you
+TTITLE2=King, Albert - I worked hard
+TTITLE3=King, Albert - When you down
+TTITLE4=Hooker, John Lee - Feel good
+TTITLE5=Hooker, John Lee - Boom boom
+TTITLE6=Hooker, John Lee - Serves me right
+TTITLE7=Hooker, John Lee - One bourbon, one scotch, one beer
+TTITLE8=Hooker, John Lee - King snake
+EXTD=YEAR: 1977
+EXTT0=Albert King
+EXTT1=Albert King
+EXTT2=Albert King
+EXTT3=Albert King
+EXTT4=John Lee Hooker
+EXTT5=John Lee Hooker
+EXTT6=John Lee Hooker
+EXTT7=John Lee Hooker
+EXTT8=John Lee Hooker
+PLAYORDER=

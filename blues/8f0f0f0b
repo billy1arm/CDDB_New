@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31337
+#	52357
+#	76522
+#	112902
+#	127947
+#	154472
+#	184822
+#	210140
+#	229445
+#	271480
+#
+# Disc length: 3857 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=8f0f0f0b
+DTITLE=Various Artist - SWING in CLASSIC
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Piano Concert No.21 C-dur K467 2'nd mov.Andante
+TTITLE1=Fufue in G-mor
+TTITLE2=Air
+TTITLE3=Piano Sonata No.14 Cis-Mor op.27-2 1'st mov.Adajio Sostenuto
+TTITLE4=Schlafe, shlafe holder susser Knabe
+TTITLE5=Symphony No.5 Cis-mor 4'th mov.Adagietto "Morte A Venezia"
+TTITLE6=octurne Es-dur Op.9-2
+TTITLE7=Barcarolle from "Fantasie Tableaux"
+TTITLE8=Cicero's Lullaby No.2
+TTITLE9=Pavane Pour Une Infante Defunte
+TTITLE10=Traumerai
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

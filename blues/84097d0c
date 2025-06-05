@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18030
+#	31480
+#	46625
+#	62810
+#	78002
+#	98670
+#	112815
+#	126645
+#	137640
+#	151075
+#	165575
+#
+# Disc length: 2431 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=84097d0c
+DTITLE=A.J. Croce - Transit
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Maybe
+TTITLE1=It's Only Me
+TTITLE2=Turn Out The Light
+TTITLE3=Summer Can't Come To Soon
+TTITLE4=The Bargain
+TTITLE5=Find Out Now
+TTITLE6=Everyman
+TTITLE7=What i Wouldn't Do
+TTITLE8=Change
+TTITLE9=Five
+TTITLE10=She Was Always Right
+TTITLE11=Don't Leave Me Now
+EXTD=YEAR: 2000 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

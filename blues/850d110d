@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	13047
+# 	34797
+# 	54165
+# 	76420
+# 	100032
+# 	120057
+# 	138235
+# 	160042
+# 	181775
+# 	201187
+# 	225877
+# 	228245
+#
+# Disc length: 3347 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=850d110d
+DTITLE=Jamie Foxx - Peep This
+DYEAR=1900
+DGENRE=
+TTITLE0=Peep This
+TTITLE1=Experiment
+TTITLE2=Miss You
+TTITLE3=Dog House
+TTITLE4=Infatuation
+TTITLE5=Baby Don't Cry
+TTITLE6=Precious
+TTITLE7=Your Love
+TTITLE8=Summertime
+TTITLE9=If You Love Me
+TTITLE10=Don't Let The Sun Go Down
+TTITLE11=Peep This Out
+TTITLE12=Light A Candle
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=featuring the Poetess
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

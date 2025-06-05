@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16465
+#     35575
+#     52930
+#     75320
+#     94495
+#     114840
+#     129617
+#     144507
+#     163202
+#     180422
+# 
+# Disc length: 2702 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=880a8c0b
+DTITLE=Tracy Nelson - In The Here And Now
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Every Night Of The Week
+TTITLE1=Living The Blues
+TTITLE2=In The Here And Now
+TTITLE3=Walk Away
+TTITLE4=Go Down Sunshine
+TTITLE5=Motherless Child Blues
+TTITLE6=When It All Comes Down
+TTITLE7=It Hurts Me Too
+TTITLE8=Whatever I Am (You Made Me)
+TTITLE9=Miss You Like The Devil
+TTITLE10=Plesae Send Someone To Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

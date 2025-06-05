@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38743
+#	66142
+#	91142
+#	110761
+#	135686
+#	161555
+#	184314
+#	214438
+#
+# Disc length: 3063 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=820bf509
+DTITLE=Michel Donato - Et ses amis européens
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Open Closer
+TTITLE1=Tremay
+TTITLE2=Hope
+TTITLE3=Bleu sur le vif
+TTITLE4=Dog
+TTITLE5=Have You Met Mr. Jones
+TTITLE6=Dolphy's Coming
+TTITLE7=Vin neuf
+TTITLE8=Duet Now
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

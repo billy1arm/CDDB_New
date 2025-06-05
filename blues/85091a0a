@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19457
+#	33025
+#	53115
+#	63727
+#	78707
+#	100705
+#	115187
+#	140177
+#	160692
+#
+# Disc length: 2332 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL1
+#
+DISCID=85091a0a
+DTITLE=Berge/Flaaten
+DYEAR=1900
+DGENRE=
+TTITLE0=Nobody's Fault But Mine
+TTITLE1=Why Did I Do It
+TTITLE2=Driftin' Blues
+TTITLE3=My Way Or The Highway
+TTITLE4=Devil's Waltz
+TTITLE5=Just A Kid
+TTITLE6=Rattlesnake Tounge
+TTITLE7=Twilight To Dark
+TTITLE8=Too Bad
+TTITLE9=Dark Is The Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

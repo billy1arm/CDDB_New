@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29846
+#	57509
+#	90131
+#	133176
+#	165469
+#	199457
+#	234948
+#	266126
+#	293518
+#
+# Disc length: 4305 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.82
+#
+DISCID=8d10cf0a
+DTITLE=Various Artist - MasterBeat Session 5 The Remixes
+DYEAR=1996
+DGENRE=Dance
+TTITLE0=Nicole Jackson - The First Time Ever I Saw Your Face (Definitive Mix)
+TTITLE1=Lost - Because You Loved Me (Premier Club Mix)
+TTITLE2=Natalie Browne - It's All Coming Back To Me Now (Definitive Mix)
+TTITLE3=Toni Braxton - Un-Break My Heart (Soul Hex Anthem Vocal)
+TTITLE4=Riverseries Feat. Alex Charles - If You Leave Me Now (Matt Darey 12'' Mix)
+TTITLE5=Newton - Sometimes When We Touch (Pete Hammond NRG Mix)
+TTITLE6=Sylvia Mason James - Touch Me In The Morning (Original Master Mix)
+TTITLE7=Atlanta Feat. Pix - All By Myself
+TTITLE8=Jackie 'O' - Breakfast At Tiffany's (Dance Mix)
+TTITLE9=Shima - You're So Vain (Dream House Mix)
+EXTD=YEAR: 1996
+EXTT0=Nicole Jackson\n
+EXTT1=Lost\n
+EXTT2=Natalie Brown\n
+EXTT3=Toni Braxton\n
+EXTT4=Riverseries\n
+EXTT5=Newton\n
+EXTT6=Sylvia Mason James\n
+EXTT7=Atlanta\n
+EXTT8=Jackie 'O'\n
+EXTT9=Shima\n
+PLAYORDER=

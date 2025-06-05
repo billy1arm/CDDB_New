@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	35027
+#	54880
+#	93705
+#	127680
+#	162690
+#	191590
+#	212745
+#	229230
+#	274112
+#
+# Disc length: 4265 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8d10a70a
+DTITLE=Defunkt - Classic Defunkt
+DYEAR=1900
+DGENRE=
+TTITLE0=Rocket
+TTITLE1=Mama E
+TTITLE2=Strangling Me With Your Love
+TTITLE3=Make Them Dance
+TTITLE4=She's Nineteen Years Old
+TTITLE5=Defunkt
+TTITLE6=See Through
+TTITLE7=Dogon A.D.
+TTITLE8=Refuse To Love
+TTITLE9=Illusion
+EXTD=
+EXTT0=\n
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

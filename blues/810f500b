@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43110
+#	60007
+#	69777
+#	77640
+#	117960
+#	153985
+#	167690
+#	191795
+#	231105
+#	263020
+#
+# Disc length: 3922 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=810f500b
+DTITLE=Matthaeus Pipelare - L'homme armé - Chansons - Motets  (Huelgas Ensemble, Paul Van Nevel)
+DYEAR=1995
+DGENRE=Classique
+TTITLE0=Vray dieu d'amours - Ballade à 4    {Matthaeus Pipelare c.1450 - c.1515}
+TTITLE1=Een vrouelic wesen - Chanson à 4
+TTITLE2=Fors seulement - I. Chanson à 4
+TTITLE3=Fors seulement - II. Contrafactum with sacred text 'Exortum est in tenebris'
+TTITLE4=Salve Regina - Antiphon à 4 and 5
+TTITLE5=Memorare Mater Christi - Motet à 7
+TTITLE6=Missa 'L'homme armé' - I. Kyrie     [Fore male voices à 4 and 5]
+TTITLE7=Missa 'L'homme armé' - II. Gloria
+TTITLE8=Missa 'L'homme armé' - III. Credo
+TTITLE9=Missa 'L'homme armé' - IV. Sanctus - Pleni sunt - Hosanna - Benedictus
+TTITLE10=Missa 'L'homme armé' - V. Agnus Dei
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

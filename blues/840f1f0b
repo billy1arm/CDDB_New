@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27825
+#	72075
+#	93000
+#	104325
+#	124875
+#	151350
+#	166575
+#	183375
+#	231675
+#	248550
+#
+# Disc length: 3873 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=840f1f0b
+DTITLE=Various Artist - Große klassiche Märsche
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=Edward Elgar - Pomp and Circumstance, Op. 39:  Military March No. 1
+TTITLE1=Tchaikovsky - Slawischer Marsch, Op. 31
+TTITLE2=Hector Berlioz - Marche Hongroise (Rakoczy-Marsch) "La Damnation de Faust"
+TTITLE3=Beethoven - Marsch aus "Fidelio"
+TTITLE4=Gasparo Spontini - Borussia.  Tempo de Marcia Trionfale
+TTITLE5=Giacomo Meyerbeer - Krönungmarsch
+TTITLE6=Gasparo Spontini - Pas de Guerriers, Evolution d'Infanterie et Cavalerie
+TTITLE7=J. Heinrich Saro - Bombardon-Marsch
+TTITLE8=Franz Liszt - Rakoczy-Marsch
+TTITLE9=Alexis Emanuel Chabier - Joyeuse Marche
+TTITLE10=Franz Liszt - Festmarsch zur Goethe-Jubiläumsfeier
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

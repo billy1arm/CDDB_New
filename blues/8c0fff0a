@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31281
+#	56439
+#	81642
+#	123537
+#	166949
+#	194424
+#	211875
+#	243028
+#	275044
+#
+# Disc length: 4097 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8c0fff0a
+DTITLE=Reptet - Do This!
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Zeppo
+TTITLE1=Bad Reed Blues
+TTITLE2=Ro
+TTITLE3=Harpo
+TTITLE4=Chico
+TTITLE5=Groucho
+TTITLE6=Mumia's Lament
+TTITLE7=Little Caesar
+TTITLE8=H.R.
+TTITLE9=Do This!
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

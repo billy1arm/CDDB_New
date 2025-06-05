@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     11900
+#     27450
+#     41250
+#     54800
+#     68595
+#     82757
+#     96782
+#     110350
+#     124875
+#     138322
+#     151392
+# 
+# Disc length: 2254 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8d08cc0c
+DTITLE=Louis Armstrong - Louis Armstrong - 12 Grandes Exitos
+DYEAR=1900
+DGENRE=
+TTITLE0=Blues for yesterday
+TTITLE1=Sugar,
+TTITLE2=Blues in the south
+TTITLE3=Do you know what is means to miss New Orleans
+TTITLE4=I want a little girl
+TTITLE5=Where the blues were born
+TTITLE6=Rockin' chair
+TTITLE7=Jack-Armstrong blues
+TTITLE8=Someday you'll be sorry
+TTITLE9=Blues to share
+TTITLE10=Before long
+TTITLE11=Ain't misbehavin
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     180
+#     33852
+#     59738
+#     93860
+#     115225
+#     145981
+#     169902
+#     191482
+#     229529
+#     260282
+# 
+# Disc length: 4031 seconds
+# 
+# Revision: 1048592
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.1
+# 
+DISCID=830fbd0a
+DTITLE=Riverside Ramblers - New Orleans
+DYEAR=1900
+DGENRE=
+TTITLE0=IKO IKO
+TTITLE1=Lord, Lord, Lord
+TTITLE2=St. James Infirmary Skank Blues
+TTITLE3=Big Chief
+TTITLE4=Over into Gloryland
+TTITLE5=Big Fat Woman
+TTITLE6=Hey Las Bas
+TTITLE7=A Closer Walk With Thee
+TTITLE8=Hey Pockey Way
+TTITLE9=Down By The Riverside
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=Second Line on Monday
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=Saints Go Marching In
+PLAYORDER=

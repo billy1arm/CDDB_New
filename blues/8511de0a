@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31337
+#	50855
+#	83247
+#	121435
+#	159675
+#	197415
+#	225562
+#	251215
+#	305487
+#
+# Disc length: 4576 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8511de0a
+DTITLE=United Jazz and Rock Ensemble - Plays Wolfgang Dauner
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Ausgeschlafen
+TTITLE1=Feuerwerkmusik
+TTITLE2=Trans Trans
+TTITLE3=The Love That Cannot Speak Its Name
+TTITLE4=Capriccio Funky
+TTITLE5=Wendekreis des Steinbocks
+TTITLE6=Boorcet
+TTITLE7=Yin
+TTITLE8=Bebop Scat
+TTITLE9=80-er Jahre
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

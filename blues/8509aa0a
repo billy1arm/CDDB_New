@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	22560
+#	41587
+#	55287
+#	73775
+#	90712
+#	107987
+#	123687
+#	145787
+#	167575
+#
+# Disc length: 2476 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8509aa0a
+DTITLE=Various Artist - Bachata Majic
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Bailar Pegado
+TTITLE1=Dejame Llorar
+TTITLE2=Si Piensas, Si Quieres
+TTITLE3=Quiero Amanacer Con Alguien
+TTITLE4=El Que Mas Te Ha Querido
+TTITLE5=Por Que Sera
+TTITLE6=Sola
+TTITLE7=Amor Mio, Que Mas Hecho
+TTITLE8=Nada Se Compara Contigo
+TTITLE9=Que Nada Nos Separe
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

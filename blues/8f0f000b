@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20570
+#	52435
+#	69835
+#	93005
+#	118730
+#	140285
+#	169673
+#	203310
+#	243163
+#	265283
+#
+# Disc length: 3842 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8f0f000b
+DTITLE=James Gelfand - Children's Standards
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=J'ai perdu le do de ma clarinette
+TTITLE1=Berceuse (Brahms)
+TTITLE2=Chop sticks
+TTITLE3=Three blind mice
+TTITLE4=Frère Jacques
+TTITLE5=Ah! Vous dirais-je maman
+TTITLE6=Au clair de la lune
+TTITLE7=Sesame Street
+TTITLE8=Passe-Partout
+TTITLE9=Flintstones
+TTITLE10=Mickey Mouse
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

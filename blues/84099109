@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     21440
+#     48545
+#     50580
+#     75497
+#     96657
+#     119932
+#     141995
+#     166127
+# 
+# Disc length: 2451 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=84099109
+DTITLE=Howard Huntsberry - With Love
+DYEAR=1900
+DGENRE=
+TTITLE0=Sleepless Weekend
+TTITLE1=Don't Take This Out On Me
+TTITLE2=Interlude: Sorrow
+TTITLE3=Married Men Get Lonely Too
+TTITLE4=Typical Reaction
+TTITLE5=Roses
+TTITLE6=With Love
+TTITLE7=You Ought To Be With Me
+TTITLE8=For You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22501
+#	51173
+#	77024
+#	98046
+#	110900
+#	138673
+#	164627
+#	183309
+#	203613
+#	230765
+#
+# Disc length: 3234 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8f0ca00b
+DTITLE=Bobby Hutcherson - For Sentimental Reasons
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=(I Love You) For Sentimental Reasons
+TTITLE1=Ode To Angela
+TTITLE2=Embraceable You
+TTITLE3=Along Came Betty
+TTITLE4=Somewhere
+TTITLE5=Jitterbug Waltz
+TTITLE6=What Are You Doing The Rest Of Your Life
+TTITLE7=Don't Blame Me
+TTITLE8=Spring Is Here
+TTITLE9=I Wish I Knew
+TTITLE10=I'll Be Seeing You
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

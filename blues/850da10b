@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23325
+#	45975
+#	69000
+#	87900
+#	118125
+#	144375
+#	170400
+#	196800
+#	222900
+#	255375
+#
+# Disc length: 3491 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=850da10b
+DTITLE=澤田一範 , 小川高生 - Cool Blues
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=01 Minor Move
+TTITLE1=02 Time to Smile
+TTITLE2=03 They Say It's Wonderful
+TTITLE3=04 Kiss Me Again
+TTITLE4=05 Simply Strides
+TTITLE5=06 Up with the Lark
+TTITLE6=07 Repitation
+TTITLE7=08 My Old Flame
+TTITLE8=09 Cool Blues
+TTITLE9=10 I Should Care
+TTITLE10=11 Time to Smile (Short version)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,92 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14060
+#	33885
+#	43750
+#	54752
+#	66027
+#	75400
+#	88110
+#	98075
+#	110825
+#	123885
+#	137697
+#	149550
+#	160430
+#	170757
+#	183747
+#	195862
+#	207492
+#	220447
+#	245570
+#	254202
+#	275840
+#	290997
+#	303177
+#	310662
+#
+# Disc length: 4265 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8410a719
+DTITLE=Slim Harpo - The Scratch
+DYEAR=1900
+DGENRE=blues
+TTITLE0=I'm A King Bee
+TTITLE1=This Ain't No Place For Me
+TTITLE2=That Ain't Your Business
+TTITLE3=Strange Love
+TTITLE4=Late Last Night
+TTITLE5=Wonderin' and Worryin'
+TTITLE6=What's Going On
+TTITLE7=One More Day
+TTITLE8=One Of These Days
+TTITLE9=Things Gonna Change
+TTITLE10=Got Love If You Want It
+TTITLE11=Moody Blues
+TTITLE12=Wonderin' and Worryin'
+TTITLE13=Buzz Me Babe
+TTITLE14=Late Last Night
+TTITLE15=Rainin' In My Heart
+TTITLE16=Scratch My Back
+TTITLE17=I Don't Want No One
+TTITLE18=I'm A King Bee
+TTITLE19=Hold Me Tenderly
+TTITLE20=Everybody Needs Somebody
+TTITLE21=Big Boss Man
+TTITLE22=Little Liza Jane
+TTITLE23=When The Saints Go Marching In
+TTITLE24=Rainin' In My Heart
+EXTD=1996c
+EXTT0=jay miller tapes
+EXTT1=jay miller tapes
+EXTT2=jay miller tapes
+EXTT3=jay miller tapes
+EXTT4=jay miller tapes
+EXTT5=jay miller tapes
+EXTT6=jay miller tapes
+EXTT7=jay miller tapes
+EXTT8=jay miller tapes
+EXTT9=jay miller tapes
+EXTT10=jay miller tapes
+EXTT11=jay miller tapes
+EXTT12=outtake
+EXTT13=outtake
+EXTT14=outtake
+EXTT15=outtake
+EXTT16=outtake
+EXTT17=outtake
+EXTT18=live
+EXTT19=live
+EXTT20=live
+EXTT21=live
+EXTT22=live
+EXTT23=live
+EXTT24=live
+PLAYORDER=

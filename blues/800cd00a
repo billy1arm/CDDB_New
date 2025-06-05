@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16377
+#	48725
+#	78642
+#	107862
+#	131082
+#	153902
+#	178600
+#	184797
+#	203285
+#
+# Disc length: 3282 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=800cd00a
+DTITLE=Therion - Deggial
+DYEAR=2000
+DGENRE=Gothic Metal
+TTITLE0=Seven Secrets of the Sphinx
+TTITLE1=Eternal Return
+TTITLE2=Enter Vril-Ya
+TTITLE3=Ship of Luna
+TTITLE4=The Invincible
+TTITLE5=Deggial
+TTITLE6=Emerald Crown
+TTITLE7=The Flight of the Lord of Flies
+TTITLE8=Flesh of the Gods
+TTITLE9=Via Nocturna I and II
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

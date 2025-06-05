@@ -1,0 +1,49 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	24853
+#	44585
+#	54886
+#	95321
+#	117885
+#	131860
+#	164213
+#	179848
+#	210179
+#
+# Disc length: 2907 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta5_freedb
+#
+DISCID=880b590a
+DTITLE=Recollection Blues Band - Recollection Blues Band
+DYEAR=1900
+DGENRE=
+TTITLE0=Goin' Down To Mobile
+TTITLE1=My Baby's Gone
+TTITLE2=Made Nights By Myself
+TTITLE3=Bad Shape
+TTITLE4=Unchain My Heart
+TTITLE5=Chump Man Blues
+TTITLE6=Matchbox Blues
+TTITLE7=Messin' With The Kid
+TTITLE8=Bad Love
+TTITLE9=Goin' To Mobile- Been There
+EXTD=Guitar, Dobro, Vocals: Marv Gemmell\nHarmonica, Vocals (Track 5): Dean 
+EXTD=Mayo\nBass, Vocals (Track 8): Harris Christian\nDrums: Neil McDonald\n\
+EXTD=nWebsite URL: \nhttp://www.recollection.ca\n
+EXTT0=Author: K. Simmonds - F. Peterson
+EXTT1=Author: Walter Davis
+EXTT2=Author: Albert Kiing
+EXTT3=Author: Kim Simmonds
+EXTT4=Author: B. Sharp - F. James
+EXTT5=Author: Blind Blake
+EXTT6=Author: Blind Lemon Jefferson
+EXTT7=Author: Mel London
+EXTT8=Author: Luther Allison - J. Solberg
+EXTT9=Author: K. Simmonds - F. Peterson
+PLAYORDER=

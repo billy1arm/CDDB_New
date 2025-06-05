@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41184
+#	64509
+#	88486
+#	109444
+#	119295
+#	138718
+#	145362
+#	231169
+#
+# Disc length: 3242 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8e0ca809
+DTITLE=Miles Davis - Black Album [CD1 - Unreleased Studio Recording)
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Maze
+TTITLE1=Rubber Band
+TTITLE2=See I See
+TTITLE3=Digg That
+TTITLE4=Street Smart
+TTITLE5=Time Square
+TTITLE6=Punchy's
+TTITLE7=It Gets Better
+TTITLE8=Red Riding Hood
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

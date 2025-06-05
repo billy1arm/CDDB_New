@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26025
+#	56114
+#	87377
+#	107029
+#	149218
+#	178182
+#	208728
+#	241633
+#
+# Disc length: 3298 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=860ce009
+DTITLE=Terumasa Hino - Jakko
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=The Perspective Twisted
+TTITLE1=Lava Dance
+TTITLE2=Tears
+TTITLE3=Edges
+TTITLE4=AM PM
+TTITLE5=211 West 20th Street
+TTITLE6=Santa Cristina
+TTITLE7=Funakura
+TTITLE8=Desperados
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	30091
+#	57782
+#	80868
+#	98794
+#	119720
+#	145671
+#	172222
+#	194273
+#	213233
+#
+# Disc length: 3103 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=8b0c130a
+DTITLE=Gerry Rafferty - Night Owl
+DYEAR=1900
+DGENRE=
+TTITLE0=Days Gone Down
+TTITLE1=Night Owl
+TTITLE2=The Way That You Do It
+TTITLE3=Why Won't You Talk To Me
+TTITLE4=Get It Right Next Time
+TTITLE5=Take The Money And Run
+TTITLE6=Family Tree
+TTITLE7=Already Gone
+TTITLE8=The Tourist
+TTITLE9=It's Gonna Be A Long Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

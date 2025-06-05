@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20207
+#	36112
+#	55237
+#	69162
+#	87000
+#	104312
+#	123525
+#	139062
+#	156600
+#
+# Disc length: 2245 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8808c30a
+DTITLE=Sonny Terry And Brownie McGhee - Midnight Special (Disk 2)
+DYEAR=1900
+DGENRE=
+TTITLE0=Blues All Around My Head
+TTITLE1=East Coast Blues
+TTITLE2=Muddy Water
+TTITLE3=Beggin' And Cryin'
+TTITLE4=My Plan
+TTITLE5=Trying To Destroy Me
+TTITLE6=Everything I Had Is Gone
+TTITLE7=Jealous Man
+TTITLE8=Understand Me
+TTITLE9=Blues Of Happiness
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

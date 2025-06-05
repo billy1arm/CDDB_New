@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16040
+#	30883
+#	48479
+#	67258
+#	88445
+#	110665
+#	126000
+#	138794
+#	156441
+#
+# Disc length: 2351 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=84092d0a
+DTITLE=Nighthawks, The - Jacks and Kings Volume I and II
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=For You My Love - 3:30
+TTITLE1=Come Baby - 3:16
+TTITLE2=Love Me Or Leave Me - 3:53
+TTITLE3=Dust My Broom - 4:08
+TTITLE4=Sugar Mama - 4:40
+TTITLE5=The Sky Is Cryin' - 4:54
+TTITLE6=Pinetop's  Boogie Woogie - 3:22
+TTITLE7=Floyd's Guitar Blues - 2:49
+TTITLE8=Walkin' By Myself - 3:53
+TTITLE9=Little Queenie - 4:25
+EXTD=ID3G:  00 YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

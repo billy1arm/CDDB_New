@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     17005
+#     35402
+#     53820
+#     71810
+#     85217
+#     110570
+#     127200
+#     146662
+#     169537
+# 
+# Disc length: 2514 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8c09d00a
+DTITLE=Trailblazers - Master Plan
+DYEAR=1900
+DGENRE=
+TTITLE0=Master Plan
+TTITLE1=Rubber Heels
+TTITLE2=Since I Lost You
+TTITLE3=Don't (Break My Heart Again)
+TTITLE4=I Stand Accused
+TTITLE5=Wanted (In 50 States)
+TTITLE6=See What Love Can Do
+TTITLE7=Call Your Name
+TTITLE8=It Ain't Over
+TTITLE9=Torch For You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

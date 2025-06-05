@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24448
+#	51103
+#	85000
+#	120198
+#	158022
+#	180839
+#	229913
+#	263922
+#	295271
+#	311785
+#
+# Disc length: 4442 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8211580b
+DTITLE=PING-Music Label - μ-jam
+DYEAR=2001
+DGENRE=Pop
+TTITLE0=aym - 20X
+TTITLE1=STC - エチオピア
+TTITLE2=Yusuke Noda - beat-maid
+TTITLE3=908 - queue
+TTITLE4=Nacky - PURE HOPE
+TTITLE5=STC - spice master
+TTITLE6=Yusuke Noda - tearful
+TTITLE7=Nacky - ROUNDING AROUND
+TTITLE8=BMK - Tropical Girl
+TTITLE9=aym - Healing Water
+TTITLE10=Nacky - EAT HOT
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

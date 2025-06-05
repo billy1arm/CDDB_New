@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19500
+#	43800
+#	63825
+#	72960
+#	115410
+#	136335
+#	164835
+#	179215
+#
+# Disc length: 2760 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=860ac609
+DTITLE=Schiller - Die Einlassmusik 3 (Tag Und Nacht Auf Tour)
+DYEAR=2006
+DGENRE=New Age
+TTITLE0=Teil Eins
+TTITLE1=Teil Zwei
+TTITLE2=Teil Drei
+TTITLE3=Teil Vier
+TTITLE4=Teil Fünf
+TTITLE5=Teil Sechs
+TTITLE6=Teil Sieben
+TTITLE7=Teil Acht
+TTITLE8=Teil Neun
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

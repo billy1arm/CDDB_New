@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 19715
+# 46347
+# 60387
+# 85295
+# 107105
+# 125742
+# 165065
+# 183990
+# 213870
+# 241040
+# 270832
+#
+# Disc length: 3917 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=8c0f4b0c
+DTITLE=Various Artist - Crescent City Songbook
+DYEAR=1900
+DGENRE=
+TTITLE0=Sing It!
+TTITLE1=Zydeco Road
+TTITLE2=Crawfish Walk
+TTITLE3=Funk is in the House
+TTITLE4=Landslide
+TTITLE5=When Morning Comes
+TTITLE6=Crawlin'
+TTITLE7=Pine Grove Blues
+TTITLE8=Uptown
+TTITLE9=Balfa et Grand Bois
+TTITLE10=One Foot In The Blues
+TTITLE11=Gonna Take You Downtown
+EXTD=Rounder CD VS-1
+EXTT0=Marcia Ball, Irma Thomas, Tracy Nelson\t
+EXTT1=Nathan and The Zydeco Cha Chas
+EXTT2=Jumpin' Johnny Sansone\t
+EXTT3=Walter "Wolfman" Washington
+EXTT4=The Bluesrunners
+EXTT5=Chris Ardoin and Double Clutchin'\t
+EXTT6=The New Orleans Nightcrawlers
+EXTT7=Jo-El Sonnier
+EXTT8=Davell Crawford
+EXTT9=Coteau
+EXTT10=Johnny Adams
+EXTT11=Beau Jocque and The Zydeco Hi-Rollers
+PLAYORDER=

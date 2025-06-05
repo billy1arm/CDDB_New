@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39067
+#	71325
+#	94968
+#	106317
+#	146362
+#	182476
+#	213961
+#	242372
+#	287157
+#	330412
+#
+# Disc length: 4748 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8c128a0b
+DTITLE=Sonny Rollins - Four Classic Albums CD 1
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Valse Hot
+TTITLE1=Kiss and Run
+TTITLE2=I Feel a Song Coming On
+TTITLE3=Count Your Blessings Instead of Sheep
+TTITLE4=Pent-Up House
+TTITLE5=Decision
+TTITLE6=Bluesnote
+TTITLE7=How Are Things in Glocca Morra?
+TTITLE8=Plain Jane
+TTITLE9=Sonnysphere
+TTITLE10=Why Don't I
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

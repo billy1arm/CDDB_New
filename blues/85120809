@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37774
+#	59634
+#	137610
+#	171804
+#	212650
+#	249969
+#	269720
+#	336406
+#
+# Disc length: 4618 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=85120809
+DTITLE=Jim Gailloreto - Jazz String Quintet
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Witch Hunt
+TTITLE1=Giant Steps
+TTITLE2=Justina With Strings
+TTITLE3=Fair Weather
+TTITLE4=Shadow Puppets
+TTITLE5=Infant Eyes
+TTITLE6=Universal Soul
+TTITLE7=Spare Change
+TTITLE8=Admit One
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

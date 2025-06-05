@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	16220
+# 	31212
+# 	44605
+# 	60690
+# 	75542
+# 	92045
+# 	113795
+# 	131695
+# 	153765
+# 	170002
+# 	187605
+#
+# Disc length: 2785 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=8c0adf0c
+DTITLE=The Holmes Brothers - Promised Land
+DYEAR=1900
+DGENRE=
+TTITLE0=Promised Land
+TTITLE1=Start Stoppin'
+TTITLE2=Train Song
+TTITLE3=Easy Access
+TTITLE4=You're Good For Me
+TTITLE5=You Got To Go
+TTITLE6=And I Love Her
+TTITLE7=There's A Train
+TTITLE8=Got Myself Together
+TTITLE9=Thank God For You
+TTITLE10=The New and Improved Me
+TTITLE11=I Surrender All
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

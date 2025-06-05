@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20540
+#	48305
+#	73405
+#	103277
+#	122430
+#	154337
+#	218197
+#	241250
+#
+# Disc length: 3612 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=800e1a09
+DTITLE=Spain - The Blue Moods of Spain
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=It's so true
+TTITLE1=Ten nights
+TTITLE2=Dreaming of love
+TTITLE3=Untitled #1
+TTITLE4=Her Used-to-Been
+TTITLE5=Ray of light
+TTITLE6=World of blue
+TTITLE7=I lied
+TTITLE8=Spiritual
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

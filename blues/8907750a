@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13527
+#	27920
+#	42720
+#	56845
+#	70757
+#	85050
+#	98092
+#	112097
+#	124455
+#
+# Disc length: 1911 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta7
+#
+DISCID=8907750a
+DTITLE=Leadbelly - blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Frankie and Albert Part One
+TTITLE1=Frankie and Albert Part Two
+TTITLE2=Ain't Goin' Down To The Well No Mo'-Goin' Down Old Hannah
+TTITLE3=Looky Looky Yonder, Black Belly-Yella Woman's Doorbell
+TTITLE4=Dekalb Blues
+TTITLE5=The Boll Weevil
+TTITLE6=Fannin Street
+TTITLE7=Poor Howard-Green Corn
+TTITLE8=Goodnight Irene
+TTITLE9=John Hardy
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

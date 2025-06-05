@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15951
+#	35518
+#	51096
+#	67911
+#	77026
+#	94103
+#	111164
+#	128797
+#	148264
+#	167623
+#
+# Disc length: 2444 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=89098a0b
+DTITLE=Greg Trooper - Noises In The Hallway
+DYEAR=1900
+DGENRE=
+TTITLE0=Light In The Window
+TTITLE1=We Won't Dance
+TTITLE2=Little Sister
+TTITLE3=Long Long Days
+TTITLE4=Whiskey On Your Breath
+TTITLE5=The Heart
+TTITLE6=Hannah's Dreams
+TTITLE7=Perfect World
+TTITLE8=Pirate's Life
+TTITLE9=Time Stands Still
+TTITLE10=Going Somewhere
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

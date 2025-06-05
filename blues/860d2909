@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38087
+#	76982
+#	115295
+#	140895
+#	156075
+#	172272
+#	223247
+#	237575
+#
+# Disc length: 3371 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=860d2909
+DTITLE=Marcel Moyse (fl) - Mozart_Concerto pour Flute et Harpe
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=Mozart_Concerto pour Flute et Harpe (1)
+TTITLE1=Mozart_Concerto pour Flute et Harpe (2)
+TTITLE2=Mozart_Concerto pour Flute et Harpe (3)
+TTITLE3=Gluck
+TTITLE4=Dvorak
+TTITLE5=Bizet
+TTITLE6=Doppler
+TTITLE7=Genin
+TTITLE8=Genin
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

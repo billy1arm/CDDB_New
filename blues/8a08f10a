@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16002
+#	30407
+#	44592
+#	61000
+#	87320
+#	103394
+#	117594
+#	131980
+#	147256
+#
+# Disc length: 2291 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8a08f10a
+DTITLE=The Universal-International Orchestra - The Glenn Miller Story
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Moonlight Serenade
+TTITLE1=Zuxedo Junction
+TTITLE2=Little Brown Jug
+TTITLE3=St. Louis Blues March
+TTITLE4=Basin Street Blues
+TTITLE5=In The Mood
+TTITLE6=String Of Pearls
+TTITLE7=Pennsylvania 6-5000
+TTITLE8=American Patrol
+TTITLE9=Otchi-Tchor-Ni-Ya
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

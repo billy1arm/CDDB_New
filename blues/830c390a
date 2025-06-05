@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	25825
+#	45120
+#	70025
+#	87258
+#	119138
+#	138983
+#	154765
+#	176718
+#	212770
+#
+# Disc length: 3131 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5.4
+#
+DISCID=830c390a
+DTITLE=Burnin' Chicago - Midnight Sunrise
+DYEAR=1900
+DGENRE=
+TTITLE0=Sadie
+TTITLE1=I Wanna See You
+TTITLE2=Mojo Man
+TTITLE3=Stay With Me
+TTITLE4=Midnight Sunrise
+TTITLE5=Lucinda
+TTITLE6=I Need Some Dollars
+TTITLE7=Bowlegs
+TTITLE8=If You're Leavin' Me
+TTITLE9=Britches
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

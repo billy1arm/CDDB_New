@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  27075
+#  41175
+#  53550
+#  67800
+#  80250
+#  93800
+#  106820
+#  117525
+#  129665
+#  143025
+#  157863
+#
+# Disc length: 2283 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8f08e90c
+DTITLE=Mahalia Jackson  - Silent Night - Gospel Christmas
+DYEAR=1900
+DGENRE=blues
+TTITLE0=In The Upper Room
+TTITLE1=Jesus Is With Me
+TTITLE2=Nobody Knows The Trouble I've Seen
+TTITLE3=Go Tell It On The Mountain
+TTITLE4=Walk With Me
+TTITLE5=He's My Light
+TTITLE6=I Believe
+TTITLE7=Amazing Grace
+TTITLE8=Come To Jesus
+TTITLE9=God Spoke To Me
+TTITLE10=A Child Of The King
+TTITLE11=Silent Night
+EXTD=Laser Light Digital\nDelta Music, Inc
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

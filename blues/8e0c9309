@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32227
+#	54145
+#	74097
+#	108126
+#	132662
+#	161491
+#	193458
+#	216532
+#
+# Disc length: 3221 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8e0c9309
+DTITLE=Giuseppe Tartini - Trois concertos pour violon et orchestre  (György Vashegyi, Orfeo Orchestra)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Concerto en ré majeur D07 - I. Allegro  [Làszlò Paulik, violon]
+TTITLE1=Concerto en ré majeur D07 - II. Andante
+TTITLE2=Concerto en ré majeur D07 - III. Presto - Allegro presto
+TTITLE3=Concerto en la majeur D90 - I. Allegro
+TTITLE4=Concerto en la majeur D90 - II. Adagio
+TTITLE5=Concerto en la majeur D90 - III. Allegro assai
+TTITLE6=Concerto en ré majeur D17 - I. Allegro
+TTITLE7=Concerto en ré majeur D17 - II. Adagio
+TTITLE8=Concerto en ré majeur D17 - III. Allegro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

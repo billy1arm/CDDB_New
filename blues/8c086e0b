@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     14283
+#     33325
+#     46120
+#     62195
+#     78283
+#     91008
+#     102820
+#     118908
+#     132708
+#     146533
+# 
+# Disc length: 2160 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8c086e0b
+DTITLE=Elvin Bishop - Big fun
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't you lie to me
+TTITLE1=Beer drinkin' women
+TTITLE2=Oklahoma country girl
+TTITLE3=My dog
+TTITLE4=Midnight hour blues
+TTITLE5=No broken hearts
+TTITLE6=The right string but the wrong yo-yo
+TTITLE7=She puts me in the mood
+TTITLE8=Country boy
+TTITLE9=Honest I do
+TTITLE10=Fishin' again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

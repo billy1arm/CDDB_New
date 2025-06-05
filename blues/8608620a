@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16967
+#     32317
+#     49987
+#     63445
+#     81897
+#     97367
+#     115695
+#     131750
+#     147897
+# 
+# Disc length: 2148 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8608620a
+DTITLE=Sonny Terry - Sonny's Story
+DYEAR=1900
+DGENRE=
+TTITLE0=I Ain't Gonna be your Dog No more
+TTITLE1=My Baby Done Gone
+TTITLE2=Worried Blues
+TTITLE3=High Powered Woman
+TTITLE4=Pepperheaded Woman
+TTITLE5=Sonny's Story
+TTITLE6=I'm Gonna Get On My Feets Afterwhile
+TTITLE7=Four O'Clock Blues
+TTITLE8=Telehone Blues
+TTITLE9=Great Tall Engine
+EXTD=c1981 CBS, Inc.
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

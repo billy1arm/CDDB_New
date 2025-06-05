@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     13245
+#     27137
+#     42252
+#     55885
+#     68675
+#     82470
+#     95770
+#     108510
+#     121045
+# 
+# Disc length: 1782 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8406f40a
+DTITLE=Percy Sledge - Best of Percy Sledge
+DYEAR=1900
+DGENRE=
+TTITLE0=When A Man Loves A Woman
+TTITLE1=Take Time To Know Her
+TTITLE2=(Wrap Me In Your) Warm And Tender Love
+TTITLE3=Cover Me
+TTITLE4=It Tears Me Up
+TTITLE5=My Special Prayer
+TTITLE6=Tell It Like It Is
+TTITLE7=Try A Little Tenderness
+TTITLE8=I've Been Loving You Too Long
+TTITLE9=Behind Closed Doors
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19046
+#	31521
+#	52977
+#	73914
+#	93102
+#	115712
+#	148768
+#	174350
+#	238196
+#	293680
+#
+# Disc length: 4242 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8b10900b
+DTITLE=Dizzy Gillespie - Eight Classic Albums - Real Gone Jazz - D2
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Manteca Theme (Afro LP)
+TTITLE1=Contraste (Afro LP)
+TTITLE2=Jungla (Afro LP)
+TTITLE3=Rhumba-Finale (Afro LP)
+TTITLE4=A Night in Tunisia (Afro LP)
+TTITLE5=Con Alma (Afro LP)
+TTITLE6=Caravan (Afro LP)
+TTITLE7=On the Sunny Side of the Street (Sonny Side Up LP)
+TTITLE8=The Eternal Triangle (Sonny Side Up LP)
+TTITLE9=After Hours (Sonny Side Up LP)
+TTITLE10=I Know that You Know (Sonny Side Up LP)
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

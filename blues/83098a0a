@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     19695
+#     40320
+#     57430
+#     71183
+#     91040
+#     107203
+#     121620
+#     141943
+#     160835
+# 
+# Disc length: 2444 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=83098a0a
+DTITLE=Phil Driscoll - Inner Man
+DYEAR=1900
+DGENRE=
+TTITLE0=Gotta Server Somebody
+TTITLE1=Soldier
+TTITLE2=Taking It To The Streets
+TTITLE3=A Higher Way
+TTITLE4=I'll Take You There
+TTITLE5=Go Tell It On The Mountain
+TTITLE6=Only One True God
+TTITLE7=Inner Man
+TTITLE8=Highway To Heaven
+TTITLE9=Jesus Is The Rock
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14336
+#	38080
+#	61945
+#	78544
+#	99025
+#	122690
+#	143302
+#	173839
+#	190590
+#	208590
+#	227935
+#
+# Disc length: 3388 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8e0d3a0c
+DTITLE=Oli Poppe Trio - We'll be out for Christmas
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Maria durch ein Dornald ging
+TTITLE1=Leise rieselt der Schnee
+TTITLE2=White Christmas
+TTITLE3=Oh du Fröhliche
+TTITLE4=Es ist ein Ros entsprungen
+TTITLE5=Oh Tannenbaum
+TTITLE6=Alle Jahre wieder
+TTITLE7=The Christmas Song
+TTITLE8=Süßer die Glocken nie klingen
+TTITLE9=Tochter Zion
+TTITLE10=Have yourself a merry little Christmas
+TTITLE11=Stille Nacht
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

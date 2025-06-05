@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     15807
+#     39687
+#     52455
+#     63525
+#     85360
+#     104500
+#     121177
+#     145910
+#     158767
+# 
+# Disc length: 2292 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=8708f20a
+DTITLE=Joe Turner - Singing The Blues
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Well Oh Well
+TTITLE1=Joe's Blues
+TTITLE2=Bluer Than Blue
+TTITLE3=Big Wheel
+TTITLE4=Poor House
+TTITLE5=Piney Brown Blues
+TTITLE6=Mrs. Geraldine
+TTITLE7=Since I Was Your Man
+TTITLE8=Roll 'Em Pete
+TTITLE9=Cherry Red
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

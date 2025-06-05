@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19093
+#	37581
+#	57053
+#	73186
+#	111202
+#	127508
+#	139735
+#	158038
+#	210072
+#	223645
+#
+# Disc length: 3261 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=860cbb0b
+DTITLE=Pinkie and the SnakeShakers - Shake These Blues
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Bad Weather
+TTITLE1=Good Girl Gone Bad
+TTITLE2=You Should Have Thought About That
+TTITLE3=Scarred by the Blues
+TTITLE4=Good, Strong Woman
+TTITLE5=I'm Just Goin' Away
+TTITLE6=Belt Line Road
+TTITLE7=Shake These Blues
+TTITLE8=Lonely Woman Blues
+TTITLE9=Just Can't Believe It's True
+TTITLE10=That Man
+EXTD=YEAR: 2001 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

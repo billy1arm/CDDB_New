@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31906
+#	54385
+#	84488
+#	114583
+#	137827
+#	162171
+#	183073
+#	197624
+#	221457
+#	244042
+#
+# Disc length: 3660 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8a0e4a0b
+DTITLE=Starbucks - Prestige Jazz
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Django/The Modern Jazz Quartet
+TTITLE1=Like Someone In Love/John Coltrane
+TTITLE2=If I Were a Bell/Red Garland
+TTITLE3=Speak Low/Coleman Hawkins
+TTITLE4=I Could Write a Book/Miles Davis
+TTITLE5=Canadian Sunset/Gene Ammons
+TTITLE6=Lotus Blossom/Kenny Dorham
+TTITLE7=Why Was I Born/Kenny Burrell/John Coltrane
+TTITLE8=Work/Thelonious Monk
+TTITLE9=Feather/Eric Dolphy
+TTITLE10=St. Thomas/Sonny Rollins
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

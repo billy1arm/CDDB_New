@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34395
+#	59778
+#	81940
+#	110878
+#	147575
+#	186710
+#	226868
+#	237825
+#
+# Disc length: 3459 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8d0d8109
+DTITLE=Gabriel Fauré - Intégrale de l'oeuvre pour piano solo - Vol.1-4  (Jean Hubeau, piano)
+DYEAR=1988
+DGENRE=Classique
+TTITLE0=Nocturne N°1  en mi bémol mineur, Op.33 n°1 - Lento
+TTITLE1=Nocturne N°2  en si majeur, Op.33 n°2 - Andantino espressivo
+TTITLE2=Nocturne N°3  en la bémol majeur, Op.33 n°3 - Andante con moto
+TTITLE3=Nocturne N°4  en mi bémol majeur, Op.36 - Andante molto moderato
+TTITLE4=Nocturne N°5  en si bémol majeur, Op.37 - Andante quasi allegretto
+TTITLE5=Nocturne N°6  en ré bémol majeur, Op.63 - Adagio
+TTITLE6=Nocturne N°7  en ut dièse mineur, Op.74 - Molto lento
+TTITLE7=Nocturne N°8  en ré bémol majeur, Op.84 n°8 - Adagio non troppo
+TTITLE8=Nocturne N°9  en si mineur, Op.97 - Quasi adagio
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

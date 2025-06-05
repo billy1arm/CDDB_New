@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	180
+# 	20994
+# 	37558
+# 	52174
+# 	77474
+# 	102519
+# 	119792
+# 	137538
+# 	162418
+# 	212094
+#
+# Disc length: 3372 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=890d2a0a
+DTITLE=Roger Hurricane Wilson - Live From The Eye Of The Storm
+DYEAR=1900
+DGENRE=
+TTITLE0=Dimples
+TTITLE1=Caught in Between
+TTITLE2=Love's Quicksand
+TTITLE3=Heart of Stone
+TTITLE4=Full Speed Ahead
+TTITLE5=You Ain't Foolin'
+TTITLE6=You Better Think Twice
+TTITLE7=Maybelline
+TTITLE8=Hurricane Blues
+TTITLE9=Whole Lotta' Shakin' Going On
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

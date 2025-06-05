@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28462
+#	58568
+#	76171
+#	102298
+#	126528
+#	181518
+#	201586
+#	256589
+#	301802
+#
+# Disc length: 4309 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8110d30a
+DTITLE=Liszt - Études d'exécution transcendante - Rhapsodies
+DYEAR=1900
+DGENRE=Piano
+TTITLE0=Étude d'exécution transcendante N°3  en fa majeur - Paysage   [Cziffra György, piano]
+TTITLE1=Étude d'exécution transcendante N°4  en ré mineur - Mazeppa
+TTITLE2=Étude d'exécution transcendante N°5  en si bémol majeur - Feux follets
+TTITLE3=Étude d'exécution transcendante N°6  en sol mineur - Vision
+TTITLE4=Étude d'exécution transcendante N°7  en mi bémol majeur - Eroica
+TTITLE5=Étude d'exécution transcendante N°11 en ré bémol majeur - Harmonies du soir
+TTITLE6=Étude d'exécution transcendante N°8  en do mineur - Wilde Jagd   [Lazar Berman, piano]
+TTITLE7=Rhapsodie espagnole   [Lazar Berman, piano]
+TTITLE8=Rhapsodie hongroise N°12 en do dièse majeur   [Cziffra György, piano]
+TTITLE9=Rhapsodie hongroise N°15 en la mineur - Ràkoczi March   [Cziffra György, piano]
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

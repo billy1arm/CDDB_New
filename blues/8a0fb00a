@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24972
+#	52341
+#	65381
+#	82966
+#	112050
+#	142430
+#	201057
+#	229663
+#	255240
+#
+# Disc length: 4018 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8a0fb00a
+DTITLE=Rachmaninoff - Music for Cello and Piano
+DYEAR=2008
+DGENRE=Classique
+TTITLE0=Morceaux de salon Op.6 - I. Romance  [Christian Persinaru, violin and Nils Franke, piano]
+TTITLE1=Morceaux de salon Op.6 - II. Danse hongroise
+TTITLE2=Lied in F minor - Andantino  [Alexander Ivashkin, cello and Rustem Hayroudinoff, piano]
+TTITLE3=Two Pieces for cello and piano Op.2 - Prelude in F major - Comodo-Con moto
+TTITLE4=Two Pieces for cello and piano Op.2 - Danse orientale in A major - Andante cantabile
+TTITLE5=Vocalise in E flat minor Op.34 n°14 - Lento
+TTITLE6=Cello Sonata in G minor Op.19 - I. Lento - Allegro moderato  [Daiil Shafran, cello and Yakov Flier, piano]
+TTITLE7=Cello Sonata in G minor Op.19 - II. Allegro scherzando
+TTITLE8=Cello Sonata in G minor Op.19 - III. Andante
+TTITLE9=Cello Sonata in G minor Op.19 - IV. Allegro mosso
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

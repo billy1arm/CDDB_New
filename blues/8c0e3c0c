@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18578
+#	34118
+#	57985
+#	78758
+#	98647
+#	123004
+#	145076
+#	168225
+#	193628
+#	234192
+#	250328
+#
+# Disc length: 3646 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8c0e3c0c
+DTITLE=Moscow Jazz Band - Blues «Nostalgie»
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=01_Royal Garden Blues (C.Williams)
+TTITLE1=02_Black Eyes (B.Lebedev)
+TTITLE2=03_St. Louis Blues (W.C.Handy)
+TTITLE3=04_At A Georgia Camp Meeting (F.A.Mills)
+TTITLE4=05_Solitude (D.Ellington)
+TTITLE5=06_Mack The Knife (K.Well, B.Brecht, Blitzstein)
+TTITLE6=07_Nord-East Blues (V.Lebedev)
+TTITLE7=08_Blues «Nostalgie» (R.Nurmukhamedov)
+TTITLE8=09_Blues In The Night (H.Arien)
+TTITLE9=10_Creol Love Call (D.Ellington)
+TTITLE10=11_Chattanooga Choo-Choo (H.Warren)
+TTITLE11=12_When The Saints Go Marchin' In (Traditional)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

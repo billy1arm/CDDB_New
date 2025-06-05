@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26976
+#	67310
+#	103062
+#	127175
+#	163458
+#	189482
+#	235038
+#	273291
+#
+# Disc length: 4109 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8b100b09
+DTITLE=Bill Barrett - Backbone
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Where green is blue
+TTITLE1=Aw shucks
+TTITLE2=Bluzo
+TTITLE3=Major bash
+TTITLE4=One cylinder
+TTITLE5=Loco's motion cocoa
+TTITLE6=MmmHm
+TTITLE7=Smiley's Dilemma
+TTITLE8=Backbone
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6125
+#	17600
+#	35150
+#	50262
+#	70680
+#	83660
+#	93217
+#	110777
+#	119277
+#	129202
+#
+# Disc length: 1794 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8107000b
+DTITLE=Four On The Floor - The Santa Sessions
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Santa's Doin' It
+TTITLE1=Sleigh Ride
+TTITLE2=Christmas Medley
+TTITLE3=Jingle Bells-Let It Snow
+TTITLE4=New Radio Wizard Carols
+TTITLE5=Christmas Song
+TTITLE6=Jingle Bell Rock
+TTITLE7=Angels We Have Heard On High
+TTITLE8=Winter Wonderland
+TTITLE9=Cantique De Noel
+TTITLE10=Rudolph The Red-Nosed Reindeer
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

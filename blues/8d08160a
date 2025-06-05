@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	13862
+#	26465
+#	43662
+#	65730
+#	87932
+#	98942
+#	110917
+#	126182
+#	137087
+#
+# Disc length: 2072 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=8d08160a
+DTITLE=Bette Midler - Bette Midler
+DYEAR=1900
+DGENRE=
+TTITLE0=Skylark
+TTITLE1=Drinking Again
+TTITLE2=Breaking Up Somebody's Home
+TTITLE3=Surabaya Johnny
+TTITLE4=I Shall be Released
+TTITLE5=a) Optimistic Voices b)Lullaby of Broadway
+TTITLE6=In The Mood
+TTITLE7=a)Uptown b)Don't Say Nothin' Bad c)Da Doo Run Run
+TTITLE8=Twisted
+TTITLE9=Higher and Higher (Your Love Keeps Lifting Me)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

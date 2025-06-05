@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     27422
+#     52322
+#     74952
+#     97632
+#     120015
+#     140497
+#     167717
+#     189135
+#     223575
+# 
+# Disc length: 3320 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8b0cf60a
+DTITLE=Kevin Russell - Craig Erickson - T.J. Parker - S.F. Blues Guitar Summ
+DTITLE=it - Volume 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Roadhouse Stomp!
+TTITLE1=She's Dangerous
+TTITLE2=Down The Line
+TTITLE3=Train Tonight
+TTITLE4=Love You Too Much
+TTITLE5=Seeds Of Soul
+TTITLE6=Too Many Miles
+TTITLE7=Bottom Line
+TTITLE8=Better Days
+TTITLE9=Train Pumpin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

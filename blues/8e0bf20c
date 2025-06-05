@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#     150
+#     15472
+#     31655
+#     56807
+#     73530
+#     98395
+#     116125
+#     135010
+#     150832
+#     175750
+#     187397
+#     206467
+#
+# Disc length: 3060 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Clarion 0.9.4
+#
+DISCID=8e0bf20c
+DTITLE=Zombies on Broadway - Zombies on Broadway
+DYEAR=1900
+DGENRE=
+TTITLE0=Rollin' Man
+TTITLE1=Lie, Cheat, and Steal
+TTITLE2=99 Daze
+TTITLE3=Day Job
+TTITLE4=Taxman
+TTITLE5=Ugly Feet
+TTITLE6=Barber Shop Mass
+TTITLE7=1471 1st Avenue
+TTITLE8=Christianity Blues
+TTITLE9=Diddle Duckwalk
+TTITLE10=I'm Smokin' Again
+TTITLE11=Kosmic Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

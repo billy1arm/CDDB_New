@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41562
+#	73565
+#	103542
+#	140832
+#	163652
+#	181620
+#	201305
+#	225560
+#	248597
+#
+# Disc length: 3632 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=830e2e0a
+DTITLE=Ludwig van Beethoven - Kazune Shimizu - Piano Sonatas No.8
+DYEAR=1999
+DGENRE=PIANO
+TTITLE0=No.17 D-minor OP.31-2 "Tempest" I. Largo - Allegro
+TTITLE1=II. Adagio
+TTITLE2=III. Allegretto
+TTITLE3=No.18 Eb-major OP.31-3 I. Allegro
+TTITLE4=II. Scherzo. Allegretto vivace
+TTITLE5=III. Menuetto. Moderato e grazioso
+TTITLE6=IV. Presto con fuoco
+TTITLE7=No.22 F-major OP.54 I. In Tempo d'un Menuetto
+TTITLE8=II. Allegretto
+TTITLE9=Rondo C-major OP.51-1
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

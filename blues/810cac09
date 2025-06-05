@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18574
+#	58883
+#	93674
+#	105094
+#	128245
+#	149700
+#	181835
+#	201288
+#
+# Disc length: 3246 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=810cac09
+DTITLE=Stevie Ray Vaughan - Live at Austin City Limits
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Pride and Joy
+TTITLE1=Texas Flood
+TTITLE2=Voodoo Chile
+TTITLE3=The House is Rockin'
+TTITLE4=Tightrope
+TTITLE5=Leave My Girl Alone
+TTITLE6=Cold Shot
+TTITLE7=Crossfire
+TTITLE8=Riviera Paradise
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

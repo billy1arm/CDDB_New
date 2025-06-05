@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43113
+#	72820
+#	123439
+#	162210
+#	170137
+#	192658
+#	223558
+#	244334
+#
+# Disc length: 3584 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=880dfe09
+DTITLE=Masabumi Kikuchi - Play Kurt Weill 
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Alabama Song
+TTITLE1=Barbara Song
+TTITLE2=Moritat
+TTITLE3=September Song
+TTITLE4=It Never Was You
+TTITLE5=Trouble Man
+TTITLE6=Speak Low
+TTITLE7=Bilbao Song
+TTITLE8=My Ship
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

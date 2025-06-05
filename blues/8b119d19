@@ -1,0 +1,94 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15000
+#	25675
+#	39237
+#	53887
+#	67187
+#	80850
+#	94037
+#	107787
+#	121150
+#	134437
+#	148125
+#	160825
+#	175162
+#	188862
+#	202475
+#	215137
+#	229250
+#	244425
+#	258575
+#	272087
+#	284425
+#	298325
+#	310350
+#	325137
+#
+# Disc length: 4511 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=8b119d19
+DTITLE=SUNDRY - Good Blues Tonight - 25 Epic Tracks
+DYEAR=1900
+DGENRE=
+TTITLE0=Church Bell Blues (Luke Jordan)
+TTITLE1=Mr. McTell Got the Blues (Blind Willie McTell)
+TTITLE2=She stays out all night long (Memphis Jug Band)
+TTITLE3=Suzie Q (Sonny Boy Williamson)
+TTITLE4=Good Morning Blues (Huddie Leadbetter[Leadbelly])
+TTITLE5=Roberta (Huddie Leadbetter[Leadbelly])
+TTITLE6=32-20 Blues (Robert Johnson)
+TTITLE7=Terraplane Blues (Robert Johnson)
+TTITLE8=Stompin' 'Em Along Slow (Lonnie Johnson)
+TTITLE9=Southern Casey Jones Blues (Jessy James)
+TTITLE10=Lonesome Day Blues (Jessy James)
+TTITLE11=State Street Blues (Sam Thread)
+TTITLE12=Macon Blues (Dorothy Everetts)
+TTITLE13=Fat Mouth Blues (Dorothy Everetts)
+TTITLE14=Tight in Chicago (Mozele Andersen)
+TTITLE15=Sadie's Servant Room Blues (Hattie Burleson)
+TTITLE16=Superstitious Blues (Hattie Burleson)
+TTITLE17=Heavenly Sunshine (Laura Henton)
+TTITLE18=Dirty T.B. Blues (Victoria Spivey)
+TTITLE19=Chicago Stomp (Jimmy Blythe)
+TTITLE20=Armout Avenue Struggle (Jimmy Blythe)
+TTITLE21=Big Bill Blues (Big Bill Broonzy)
+TTITLE22=Truckin' Little Woman (Big Bill Broonzy)
+TTITLE23=Southern Flood Blues (Big Bill Broonzy)
+TTITLE24=Good Old Cabbage Greens (Washboard Sam)
+EXTD=Tracks 1-6 are "Blues from Up the Country"\nTracks 7-12 are "Blues from
+EXTD=Texas"\nTracks 13-19 are "Blues Women"\nTracks20-25 are "Blues from Ch
+EXTD=icago"
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+PLAYORDER=

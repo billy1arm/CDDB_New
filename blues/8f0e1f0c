@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     23433
+#     39312
+#     71956
+#     84757
+#     109083
+#     131333
+#     158338
+#     175908
+#     198547
+#     221303
+#     248819
+# 
+# Disc length: 3617 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8f0e1f0c
+DTITLE=Beyond Blue - Live at Etta's
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm a Good Woman
+TTITLE1=Paying the Cost to be the Boss
+TTITLE2=Dr. Feelgood
+TTITLE3=Hey Bartender
+TTITLE4=Crossroads
+TTITLE5=Come On
+TTITLE6=Waiting in the Wings
+TTITLE7=Stop These Teardrops
+TTITLE8=Reconsider Baby
+TTITLE9=Send Me a Man
+TTITLE10=It's Just to Late
+TTITLE11=Make Me Sweat
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=Bonus Studio Track\n
+EXTT11=Bonus Studio Track\n
+PLAYORDER=

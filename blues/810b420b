@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15957
+#	32551
+#	50349
+#	69459
+#	86731
+#	110453
+#	124759
+#	150494
+#	170302
+#	190362
+#
+# Disc length: 2884 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=810b420b
+DTITLE=Liederbayern-Band - Der ganz normale Wahnsinn
+DYEAR=1985
+DGENRE=Lieder
+TTITLE0=Der ganz normale Wahnsinn
+TTITLE1=Holledau
+TTITLE2=Halleluja
+TTITLE3=Ich hab ein Haus
+TTITLE4=Ballade von der Familie Grobschrot
+TTITLE5=Scherben in meinem Bauch
+TTITLE6=Rama Dama
+TTITLE7=Smog-Alarm
+TTITLE8=De oide Frau
+TTITLE9=Video
+TTITLE10=Ein Sommer ist vorbei
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11883
+#	21313
+#	33075
+#	43845
+#	55818
+#	74850
+#	87805
+#	97333
+#	106810
+#
+# Disc length: 1561 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8806170a
+DTITLE=Various Artist - Only You - Rock 'N' Roll Hall Of Fame - Vol.XI
+DTITLE=V
+DYEAR=1900
+DGENRE=
+TTITLE0=Only You
+TTITLE1=Dedicated To The One I Love
+TTITLE2=Barefootin'
+TTITLE3=Sleep Walk
+TTITLE4=A Summer Song
+TTITLE5=Rock 'N' Roll Lullaby
+TTITLE6=Let It Be Me
+TTITLE7=Do You Believe In Magic
+TTITLE8=Happy Organ
+TTITLE9=jam Up and Jelly Tight
+EXTD=
+EXTT0=The Platters
+EXTT1=The Shirelles
+EXTT2=Robert Parker
+EXTT3=Santo and Johnny
+EXTT4=Chad and Jeremy
+EXTT5=B. J. Thomas
+EXTT6=Jerry Butler
+EXTT7=The Lovin' Spoonful
+EXTT8=Dave "Baby"  Cortez
+EXTT9=Tommy Roe
+PLAYORDER=

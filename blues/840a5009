@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21418
+#	41091
+#	57574
+#	78646
+#	101717
+#	121425
+#	149616
+#	172989
+#
+# Disc length: 2642 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=840a5009
+DTITLE=Tom Waits - Heartattack And Vine
+DYEAR=1975
+DGENRE=Blues
+TTITLE0=Heartattack And Vine
+TTITLE1=In Shades
+TTITLE2=Saving All My Love For You
+TTITLE3=Downtown
+TTITLE4=Jersey Girl
+TTITLE5='til The Money Runs Out
+TTITLE6=On The Nickel
+TTITLE7=Mr. Siegal
+TTITLE8=Ruby's Arms
+EXTD=\n\nYEAR: 1975  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

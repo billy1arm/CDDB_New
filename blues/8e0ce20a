@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18325
+#	45775
+#	73500
+#	97450
+#	113525
+#	130350
+#	152137
+#	185100
+#	224600
+#
+# Disc length: 3300 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8e0ce20a
+DTITLE=Various Artist - The Andrew Durant Memorial Concert
+DYEAR=1900
+DGENRE=
+TTITLE0=Innocent Bystanders
+TTITLE1=Iceman
+TTITLE2=Solitaire
+TTITLE3=Wasted Words
+TTITLE4=Living a Lie
+TTITLE5=Red Neck Boogie
+TTITLE6=Song for the Road
+TTITLE7=Mighty Rock
+TTITLE8=Knockin' on Heaven's Door
+TTITLE9=West is the Way
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17173
+#	36404
+#	46935
+#	65660
+#	84290
+#	103974
+#	128563
+#	146959
+#	167752
+#
+# Disc length: 2456 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8b09960a
+DTITLE=Pod Budą - Płytoteka Dziennika - Poeci piosenki
+DYEAR=2007
+DGENRE=Rock
+TTITLE0=Ballada o ciotce Matyldzie
+TTITLE1=Nie przenoście nam stolicy do Krakowa
+TTITLE2=Bardzo smutna piosenka retro
+TTITLE3=Kraków, Piwna 7
+TTITLE4=Żal za Piotrem S.
+TTITLE5=Ballada o walizce 
+TTITLE6=Blues o starych sąsiadach
+TTITLE7=Głos z oddali
+TTITLE8=Od tamtej chwili
+TTITLE9=Lecz  póki co żyjemy
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

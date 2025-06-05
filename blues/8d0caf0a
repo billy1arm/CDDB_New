@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	25460
+#	40980
+#	65683
+#	86335
+#	113843
+#	131733
+#	157133
+#	182283
+#	220445
+#
+# Disc length: 3249 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8d0caf0a
+DTITLE=George Thorogood and The Destroyers - Thorogood Live
+DYEAR=1900
+DGENRE=
+TTITLE0=Who Do You Love?
+TTITLE1=Bottom Of The Sea
+TTITLE2=Night Time
+TTITLE3=I Drink Alone
+TTITLE4=One Bourbon, One Scotch, One Beer
+TTITLE5=Alley Oop
+TTITLE6=Madison Blues
+TTITLE7=Bad To The Bone
+TTITLE8=The Sky Is Crying
+TTITLE9=Reelin' and Rockin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

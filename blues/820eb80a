@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	28650
+#	46025
+#	85825
+#	116075
+#	141375
+#	159250
+#	179775
+#	198275
+#	217575
+#
+# Disc length: 3770 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=820eb80a
+DTITLE=Roy Spivey - The Hillbilly Cowboy
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Like Falling Georgia Rain, Or Any Other Kind Of Rain
+TTITLE1=It Was Good Enough For Gramma And Granpa Too
+TTITLE2=Rocking And Rolling For Jesus
+TTITLE3=Jesus Is The Star Of Bethlehem
+TTITLE4=Let The Sun Into Your Heart Right Now
+TTITLE5=Going Down God's Loney Highway
+TTITLE6=Old Family Way A Playing Bringing In The Sheep
+TTITLE7=Old Family Way A Playing What A Friend We Have In Jesus
+TTITLE8=That's Why It Pays To Be Ready
+TTITLE9=God's Anointing On Me To Play
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

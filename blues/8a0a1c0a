@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	24762
+#	42982
+#	62885
+#	81305
+#	96950
+#	127670
+#	142330
+#	159537
+#	179205
+#
+# Disc length: 2590 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8a0a1c0a
+DTITLE=The Stardust Swing Band - Christmas Swings
+DYEAR=1900
+DGENRE=
+TTITLE0=Joy to the World
+TTITLE1=We Three King
+TTITLE2=Silent Night
+TTITLE3=Good King Wenceslas
+TTITLE4=Deck the Halls
+TTITLE5=Jingle Bells
+TTITLE6=Go Tell It On the Mountain
+TTITLE7=God Rest Ye, Merry Gentlemen
+TTITLE8=The Holly and the Ivy
+TTITLE9=Carol of the Bells
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

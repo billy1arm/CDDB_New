@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17775
+#	44158
+#	65757
+#	96808
+#	116014
+#	136564
+#	171815
+#	200616
+#	228517
+#
+# Disc length: 3330 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8c0d000a
+DTITLE=Various Artist - ten pianists, ten colors
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=la comparsa - john di martino
+TTITLE1=charade - steve kuhn
+TTITLE2=beautiful love - david hazeltine
+TTITLE3=begin the beguine - bill charlap
+TTITLE4=angela - stefano bollani
+TTITLE5=besame mucho - rob agerbeek
+TTITLE6=el toro y la luna - chano dominguez
+TTITLE7=leaving - richie beirach
+TTITLE8=it only hurts when i smile - harold mabern
+TTITLE9=shinjuku twilight - eddie higgins
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

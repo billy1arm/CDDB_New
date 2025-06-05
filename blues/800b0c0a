@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24609
+#	42734
+#	61077
+#	79484
+#	101485
+#	127665
+#	142564
+#	162142
+#	186702
+#
+# Disc length: 2830 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=800b0c0a
+DTITLE=Buddha Lounge - Buddha Lounge CD3
+DYEAR=2004
+DGENRE=Lounge
+TTITLE0=Tosca - Suzuki (Burnt Friedman/Nonplace Dub)
+TTITLE1=Pinky - Stillwaters
+TTITLE2=Sharif - Opia (Ocean Mix)
+TTITLE3=Mantra - My Faith (Dawn Mix)
+TTITLE4=Navern - Ray of Light (Lost Plain Mix)
+TTITLE5=Bam Budd - Recs Tra
+TTITLE6=DND - Destinations (Holdfire Mix)
+TTITLE7=Hofar - Caravan (Mystic Mix)
+TTITLE8=Mettle Music - Pacific Motion
+TTITLE9=Dust - My Only Love (Speeka Remix)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

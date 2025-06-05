@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20111
+#	49445
+#	58672
+#	69987
+#	84620
+#	96374
+#	109523
+#	139545
+#	160924
+#
+# Disc length: 2384 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=87094e0a
+DTITLE=Varius - Blues Love Songs
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=VerySpecial-DebraLaws
+TTITLE1=IAmTheBlackGoldOfTheSun-NuyoricianSoul
+TTITLE2=CallMe-NancyWilson
+TTITLE3=MyLoveIsHereToStay-SammyMyers
+TTITLE4=MercedesBenz-TajMahal
+TTITLE5=ItMustHaveBeenLove-EarlKing
+TTITLE6=AllYourLove-MagicSam
+TTITLE7=Ball&Chain-EttaJames
+TTITLE8=Heartache-T-BoneWalker
+TTITLE9=BrownSkin-IndiaArie
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

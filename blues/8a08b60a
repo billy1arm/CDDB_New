@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18625
+#	36589
+#	52121
+#	64063
+#	83918
+#	100785
+#	120767
+#	137861
+#	155916
+#
+# Disc length: 2232 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8a08b60a
+DTITLE=Illapu - En estos días
+DYEAR=1993
+DGENRE=Folklore
+TTITLE0=Lejos del amor
+TTITLE1=No te salves
+TTITLE2=Palabras de nuestro tiempo
+TTITLE3=Bailando en Isluga
+TTITLE4=Waylas de Cala Cala
+TTITLE5=Del pozo de mis sueños
+TTITLE6=Cariquima
+TTITLE7=Volaras
+TTITLE8=Un poco de mi vida
+TTITLE9=Me habita la confianza
+EXTD=\n YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

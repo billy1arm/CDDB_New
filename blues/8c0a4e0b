@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24481
+#	43639
+#	60577
+#	78321
+#	97297
+#	114995
+#	132342
+#	145627
+#	160614
+#	182209
+#
+# Disc length: 2640 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=8c0a4e0b
+DTITLE=Ramsey Lewis - The Piano Player
+DYEAR=1969
+DGENRE=Jazz
+TTITLE0=The Distant Dreamer
+TTITLE1=A Rainy Day Centerville
+TTITLE2=Everybody's Talkin'
+TTITLE3=Didn't We
+TTITLE4=Whenever, Wherever
+TTITLE5=Close Your Eyes And Remember
+TTITLE6=You've Made Me So Very Happy
+TTITLE7=The Love I Feel For You
+TTITLE8=Time And Space
+TTITLE9=Golden Slumber
+TTITLE10=Do I Love Her
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

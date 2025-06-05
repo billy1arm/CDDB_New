@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19850
+#     37672
+#     60550
+#     78585
+#     97387
+#     115432
+#     135470
+#     154480
+#     171900
+# 
+# Disc length: 2594 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=840a200a
+DTITLE=Pet Shop Boys - Tribute to Pet Shop Boys
+DYEAR=1900
+DGENRE=
+TTITLE0=Go West
+TTITLE1=Can you forgive her
+TTITLE2=It's a sin
+TTITLE3=Always in my mind
+TTITLE4=Suburbia
+TTITLE5=West and girls
+TTITLE6=Donimo dancing
+TTITLE7=heart
+TTITLE8=What have i done no deserv this
+TTITLE9=Being boring
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

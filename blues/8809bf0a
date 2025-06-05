@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20184
+#	33887
+#	51684
+#	67860
+#	94960
+#	108763
+#	130316
+#	151282
+#	172129
+#
+# Disc length: 2497 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta1
+#
+DISCID=8809bf0a
+DTITLE=Connie Lush - Blues Shouter
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Out Of The Rain
+TTITLE1=House Straight
+TTITLE2=You Don't Know Me
+TTITLE3=Million Dollar Secret
+TTITLE4=Don't Play That Song
+TTITLE5=One Monkey
+TTITLE6=Good Lovin'
+TTITLE7=Any Day Now
+TTITLE8=Dog
+TTITLE9=Mad About The Boy
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

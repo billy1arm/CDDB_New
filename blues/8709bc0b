@@ -1,0 +1,49 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18682
+#	31390
+#	42827
+#	66187
+#	81170
+#	88030
+#	100985
+#	123880
+#	156987
+#	172932
+# Disc length: 2494 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=8709bc0b
+DTITLE=Jack Brothers - Viva la revolición
+DYEAR=1900
+DGENRE=
+TTITLE0=Fuck You
+TTITLE1=Toddy
+TTITLE2=Jag ar glad
+TTITLE3=Happy
+TTITLE4=Exposed
+TTITLE5=Drommen om Alice (Giant Elin)
+TTITLE6=Jack and Jill
+TTITLE7=Cast Away
+TTITLE8=Just be
+TTITLE9=Braincaves
+TTITLE10=Hymn for the future
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

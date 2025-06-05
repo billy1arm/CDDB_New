@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19210
+#	31657
+#	47502
+#	63230
+#	78417
+#	94747
+#	113607
+#	130347
+#	150360
+#	163872
+#	177990
+#
+# Disc length: 2569 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=890a070c
+DTITLE=Roy Book Binder - The Hillbilly Blues Cats
+DYEAR=1900
+DGENRE=
+TTITLE0=She Did You A Favor
+TTITLE1=Babe, I Want You To Know
+TTITLE2=Anywhere You Go
+TTITLE3=Tired Of Bein' Mistreated
+TTITLE4=Over To My House
+TTITLE5=One Meatball
+TTITLE6=T-Man Blues
+TTITLE7=Talks All Over Town
+TTITLE8=Statesboro Blues
+TTITLE9=Won't You Be Kind
+TTITLE10=I Got Mine
+TTITLE11=Mississippi John
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

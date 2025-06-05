@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23632
+#	42287
+#	57585
+#	78692
+#	100447
+#	122225
+#	133810
+#	150840
+#	177015
+#
+# Disc length: 2688 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=800a7e0a
+DTITLE=Paul McCartney and Wings - Band on the Run (25th Anniversary Edition - Disc 1)
+DYEAR=1973
+DGENRE=Rock
+TTITLE0=Band on the Run
+TTITLE1=Jet
+TTITLE2=Bluebird
+TTITLE3=Mrs Vandebilt
+TTITLE4=Let Me Roll It
+TTITLE5=Mamunia
+TTITLE6=No Words
+TTITLE7=Helen Wheels
+TTITLE8=Picasso's Last Words (Drink to Me)
+TTITLE9=Nineteen Hundred and Eighty Five
+EXTD=orrigional release:\n YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

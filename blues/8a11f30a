@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30768
+#	64230
+#	93530
+#	112681
+#	133402
+#	151905
+#	186686
+#	254687
+#	278553
+#
+# Disc length: 4597 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8a11f30a
+DTITLE=Clifford Brown - Four Classic Albums CD1
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Sweet Clifford
+TTITLE1=I Don't Stand a Ghost of a Chance with You
+TTITLE2=Stompin' At the Savoy
+TTITLE3=I'll String Along with You
+TTITLE4=Mildama
+TTITLE5=Darn That Dream
+TTITLE6=I Get a Kick Out of You
+TTITLE7=What Is This Thing Called Love
+TTITLE8=Darn That Dream
+TTITLE9=Move
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15820
+#     33010
+#     49270
+#     64415
+#     79642
+#     98532
+#     113690
+#     129812
+#     146365
+#     167175
+#     188747
+# 
+# Disc length: 2733 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=870aab0c
+DTITLE=John Lee Hooker - Sad and Lonesome
+DYEAR=1900
+DGENRE=
+TTITLE0=I bought you a brand new home
+TTITLE1=I believe I'll lose my mind
+TTITLE2=Teasin'me
+TTITLE3=My cryin' days are over
+TTITLE4=Sittin' here thinkin'
+TTITLE5=Mean mistreatin'
+TTITLE6=How long?
+TTITLE7=How many more years?
+TTITLE8=C.C. Rider
+TTITLE9=Sad and lonesome
+TTITLE10=Can't you see what you're doin' to me?
+TTITLE11=When my wife quit me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

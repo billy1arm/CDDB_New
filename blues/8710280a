@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33183
+#	67965
+#	85360
+#	112883
+#	134338
+#	161889
+#	182349
+#	213965
+#	275106
+#
+# Disc length: 4138 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8710280a
+DTITLE=FaMUL Jazz - Avril 2004
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Sing Sang Sung - G Goodwin
+TTITLE1=Suite pour Grand ensemble de jazz 1er mouv.- S Champagne
+TTITLE2=Suite pour Grand ensemble de jazz 2e mouv. - S Champagne
+TTITLE3=Suite pour Grand ensemble de jazz 3e mouv. - S Champagne
+TTITLE4=Sax test - T Kubis
+TTITLE5=Dizzyland - D Menza
+TTITLE6=After Glow - D Schamber
+TTITLE7=Mr. Teng - T Akiyoshi
+TTITLE8=ABC Blues - B Brookmeyer
+TTITLE9=Samba del Gringo - G Goodwin
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     225
+#     15516
+#     28739
+#     49857
+#     65175
+#     81138
+#     98914
+#     120006
+#     141966
+#     156544
+#     183107
+# 
+# Disc length: 2686 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8e0a7b0b
+DTITLE=R. L. Burnside - Sound Machine Groove
+DYEAR=1900
+DGENRE=
+TTITLE0=Shake, Little Baby
+TTITLE1=Rolling and Tumbling
+TTITLE2=Bad Luck City
+TTITLE3=Going Down South
+TTITLE4=Sound Machine Groove
+TTITLE5=Sitting on Top of the World
+TTITLE6=Begged for a Nickel
+TTITLE7=Can't Let You Go
+TTITLE8=Jumper Hanging Out on the Line
+TTITLE9=Searching for My Baby
+TTITLE10=Long Haired Doney
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

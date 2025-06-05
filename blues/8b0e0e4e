@@ -1,0 +1,250 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6058
+#	11964
+#	17808
+#	23691
+#	29684
+#	35718
+#	37408
+#	39122
+#	41006
+#	42837
+#	48483
+#	51729
+#	54996
+#	58291
+#	61609
+#	64898
+#	68156
+#	69472
+#	70645
+#	71975
+#	75221
+#	78506
+#	81775
+#	85291
+#	88846
+#	92345
+#	95848
+#	99454
+#	103127
+#	106673
+#	110093
+#	113525
+#	116979
+#	120595
+#	124335
+#	127732
+#	128952
+#	130194
+#	131440
+#	133026
+#	134624
+#	138205
+#	141839
+#	145520
+#	149179
+#	150626
+#	152113
+#	153613
+#	155160
+#	156682
+#	158169
+#	162167
+#	165961
+#	170943
+#	175895
+#	177295
+#	182204
+#	187264
+#	188435
+#	189573
+#	190754
+#	191860
+#	196803
+#	204104
+#	211403
+#	212558
+#	213762
+#	215021
+#	222275
+#	224003
+#	225043
+#	231665
+#	238498
+#	245278
+#	252070
+#	258866
+#	265587
+#
+# Disc length: 3600 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8b0e0e4e
+DTITLE=Mike diLiddo - Easy Jazz Guitar Voicings and Comping CD 1
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Impressions - Root Bass Voicings Ver.1
+TTITLE1=Impressions - Root Bass Voicings Ver. 2
+TTITLE2=Impressions - Combo Voicings Ver. 1
+TTITLE3=Impressions - Combo Voicings Ver. 2
+TTITLE4=Impressions - Imitial Comping Rhythms 1
+TTITLE5=Impressions - Imitial Comping Rhythms 2
+TTITLE6=Impressions - Additional Combo Voicings 1
+TTITLE7=Impressions - Additional Combo Voicings 2
+TTITLE8=Impressions - Quartal Voicings 1
+TTITLE9=Impressions - Quartal Voicings 2
+TTITLE10=Impressions - Quartal Voicings Applied
+TTITLE11=Bb Blues - Root Bass Voicings 
+TTITLE12=Bb Blues - Combo Voicings 1
+TTITLE13=Bb Blues - Combo Voicings 2
+TTITLE14=Bb Blues - Combo Voicings 3
+TTITLE15=Bb Blues - Combo Voicings 4
+TTITLE16=Bb Blues - Triads and Sevenths
+TTITLE17=Bb Blues - Typical Comping Rhythms - Shuffle 1
+TTITLE18=Bb Blues - Typical Comping Rhythms - Shuffle 2
+TTITLE19=Bb Blues - Typical Comping Rhythms - Shuffle 3
+TTITLE20=Bb Blues - Using Repetitive Rhythms 1
+TTITLE21=Bb Blues - Using Repetitive Rhythms 2
+TTITLE22=Bb Blues - Variety With Repetitive Rhythms
+TTITLE23=Solar Flair - Root Bass Voicings 1
+TTITLE24=Solar Flair - Root Bass Voicings 2
+TTITLE25=Solar Flair - Combo Voicings 
+TTITLE26=Solar Flair - Initial Comping Rhythms - Clave
+TTITLE27=Solar Flair - Bass Chord Accompaniment 1
+TTITLE28=Solar Flair - Bass Chord Accompaniment 2
+TTITLE29=Solar Flair - Various Rhythms Applied To Combo Voicings
+TTITLE30=Summertime - Root Bass Voicings
+TTITLE31=Summertime - Combo Voicings 1
+TTITLE32=Summertime - Combo Voicings 2
+TTITLE33=Summertime - Initial Comping Rhythms 1
+TTITLE34=Summertime - Initial Comping Rhythms 2
+TTITLE35=Summertime - Thirds and Sevenths
+TTITLE36=Summertime - Swing Comping Rhythms 1
+TTITLE37=Summertime - Swing Comping Rhythms 2
+TTITLE38=Summertime - Swing Comping Rhythms 3
+TTITLE39=Summertime - Two Bar Phrases 1
+TTITLE40=Summertime - Two Bar Phrases 2
+TTITLE41=Summertime - Swing Rhythms Applied To Combo Voicings
+TTITLE42=Watermelon Man - Root Bass Voicings
+TTITLE43=Watermelon Man - Combo Voicings 1
+TTITLE44=Watermelon Man - Combo Voicings 2
+TTITLE45=Watermelon Man - Comping Rhythms 1
+TTITLE46=Watermelon Man - Comping Rhythms 2
+TTITLE47=Watermelon Man - Comping Rhythms 3
+TTITLE48=Watermelon Man - Comping Rhythms 4
+TTITLE49=Watermelon Man - Comping Rhythms 5
+TTITLE50=Watermelon Man - Comping Rhythms 6
+TTITLE51=Watermelon Man - Applying Comping Rhythms
+TTITLE52=Watermelon Man - Jamey Aebersoldès Piano Transcribed For Guitar
+TTITLE53=Song For My Father - Root Bass Voicings
+TTITLE54=Song For My Father - Combo Voicings
+TTITLE55=Song For My Father - Initial Comping Rhythm
+TTITLE56=Song For My Father - Rhythms Applied
+TTITLE57=Song For My Father - Additional Combo Voicings
+TTITLE58=Song For My Father - Comping Rhythms 1
+TTITLE59=Song For My Father - Comping Rhythms 2
+TTITLE60=Song For My Father - Comping Rhythms 3
+TTITLE61=Song For My Father - Comping Rhythms 4
+TTITLE62=Song For My Father - Rhythms Applied
+TTITLE63=Satin Doll - Root Bass Voicings
+TTITLE64=Satin Doll - Combo Voicings
+TTITLE65=Satin Doll - Initial Comping Rhythms 1
+TTITLE66=Satin Doll - Initial Comping Rhythms 2
+TTITLE67=Satin Doll - Initial Comping Rhythms 3
+TTITLE68=Satin Doll - Thirds and Sevenths
+TTITLE69=Satin Doll - Optional Introduction
+TTITLE70=Satin Doll - Optional Ending
+TTITLE71=Maiden Voyage -  Root Bass Voicings
+TTITLE72=Maiden Voyage - Combo Voicings 1
+TTITLE73=Maiden Voyage - Combo Voicings 2
+TTITLE74=Maiden Voyage - Voicings Applied To Tunes Rhythmic Figure 1
+TTITLE75=Maiden Voyage - Voicings Applied To Tunes Rhythmic Figure 2
+TTITLE76=Maiden Voyage - Voicings Applied To Tunes Rhythmic Figure 3
+TTITLE77=Maiden Voyage - Additional Combo Voicings
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+PLAYORDER=

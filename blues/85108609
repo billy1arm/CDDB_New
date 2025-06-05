@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  33710
+#  68425
+#  98700
+#  137170
+#  175007
+#  208475
+#  238210
+#  280215
+#
+# Disc length: 4232 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.15
+#
+DISCID=85108609
+DTITLE=Various Artist - aja h|aska [CD1]
+DYEAR=1900
+DGENRE=
+TTITLE0=freakshow
+TTITLE1=first contact
+TTITLE2=arkham
+TTITLE3=normal existence ?
+TTITLE4=life support technology
+TTITLE5=padomania
+TTITLE6=the mocking laugh of cruel ninja
+TTITLE7=mission one
+TTITLE8=chameleon ( ux remix )
+EXTD=
+EXTT0=Cydonia
+EXTT1=Slide
+EXTT2=Sandman
+EXTT3=Satori
+EXTT4=UX
+EXTT5=Charm
+EXTT6=Shaolin Wooden Men
+EXTT7=UnderCover
+EXTT8=Disco Volante
+PLAYORDER=

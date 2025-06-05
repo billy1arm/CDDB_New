@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26912
+#	51137
+#	82412
+#	110237
+#	140462
+#	171362
+#	205937
+#	227762
+#
+# Disc length: 3417 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=870d5709
+DTITLE=City West Quartet - New York Edition
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Mup
+TTITLE1=Caribeye
+TTITLE2=Hey New Dy
+TTITLE3=D`Schnäggechönig
+TTITLE4=Fast Words
+TTITLE5=Shorts
+TTITLE6=Reflections of a Day
+TTITLE7=Romamba
+TTITLE8=Shnoodles
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

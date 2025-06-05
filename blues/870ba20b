@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	220
+#	22122
+#	34670
+#	52855
+#	68215
+#	92980
+#	112760
+#	132452
+#	156200
+#	184585
+#	195055
+#
+# Disc length: 2980 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=870ba20b
+DTITLE=The Kingsnakes - Trouble on the Run
+DYEAR=1900
+DGENRE=
+TTITLE0=Blaksnake Shake
+TTITLE1=My Mind Is Breaking
+TTITLE2=Motherless World
+TTITLE3=Trouble on the Run
+TTITLE4=No One But a Fool
+TTITLE5=Tough As Nails
+TTITLE6=Can't Find Heaven
+TTITLE7=After Hours
+TTITLE8=(Trying to) Get You Off My Mind
+TTITLE9=Oops
+TTITLE10=I'm Leavin' You/Got a Mind to Travel
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

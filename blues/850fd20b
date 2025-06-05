@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27007
+#	53490
+#	85250
+#	121055
+#	141255
+#	176687
+#	193547
+#	226712
+#	246002
+#	274070
+#
+# Disc length: 4052 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=850fd20b
+DTITLE=Miles Davis - 'Round About Midnight [Legacy Edition] [CD1)
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0='Round Midnight 
+TTITLE1=Ah-Leu-Cha 
+TTITLE2=All Of You 
+TTITLE3=Bye Bye Blackbird 
+TTITLE4=Tadd's Delight
+TTITLE5=Dear Old Stockholm
+TTITLE6=Two Bass Hit
+TTITLE7=Little Melonae 
+TTITLE8=Budo
+TTITLE9=Sweet Sue, Just You
+TTITLE10=Data
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

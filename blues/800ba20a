@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13822
+#     33887
+#     52789
+#     74510
+#     94425
+#     112982
+#     127735
+#     174735
+#     197640
+# 
+# Disc length: 2980 seconds
+# 
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.0
+# 
+DISCID=800ba20a
+DTITLE=Patton James and The Synchromatics - LIVE at Henry's Coffeehouse
+DYEAR=1900
+DGENRE=
+TTITLE0=Coffee Tea Or Me
+TTITLE1=Lonely Side of Town
+TTITLE2=Money In The Meter
+TTITLE3=Why Baby Why
+TTITLE4=I Can't Go On (Loving Without You)
+TTITLE5=The Jetsons Song
+TTITLE6=Everyday's Saturday Night
+TTITLE7=Just Say No (To Love)
+TTITLE8=Because Of You
+TTITLE9=Time Sure Flies
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

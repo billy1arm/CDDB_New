@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	28261
+#	44687
+#	59260
+#	72866
+#	85932
+#	100123
+#	117089
+#	130830
+#	150796
+#
+# Disc length: 2698 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=7d0a7e0a,8f0a720a
+DTITLE=Rondo Veneziano - Concerto Futurissimo
+DYEAR=1900
+DGENRE=
+TTITLE0=Ca' d'Oro
+TTITLE1=Fantasia Veneziana
+TTITLE2=Invito Alla Danza
+TTITLE3=Rialto
+TTITLE4=Regata Dei Dogi
+TTITLE5=Prime Luci Sulla Laguna
+TTITLE6=Capriccio Veneziano
+TTITLE7=Magico Incontro
+TTITLE8=Mosaico
+TTITLE9=Tiziano
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

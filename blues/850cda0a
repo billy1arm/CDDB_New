@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25850
+#	56825
+#	78450
+#	100105
+#	118263
+#	143228
+#	166078
+#	186928
+#	219873
+#
+# Disc length: 3292 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=850cda0a
+DTITLE=Grateful Dead - Europe '72 [CDOne)
+DYEAR=1972
+DGENRE=Rock
+TTITLE0=Cumberland Blues
+TTITLE1=He's Gone
+TTITLE2=One More Saturday Night
+TTITLE3=Jack Straw
+TTITLE4=You Win Again
+TTITLE5=China Cat Sunflower
+TTITLE6=I Know You Rider
+TTITLE7=Brown-Eyed Woman
+TTITLE8=Hurts Me Too
+TTITLE9=Ramble On Rose
+EXTD=YEAR: 1972 ID3G: 17
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

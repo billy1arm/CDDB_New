@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24362
+#	50084
+#	82823
+#	103700
+#	132608
+#	148242
+#	179227
+#	209130
+#
+# Disc length: 3075 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,43,1226
+#
+DISCID=8e0c0109
+DTITLE=Various Artist - Jazz For A Mellow Morning Disc 1
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Poinciana - Arturo O'Farrill
+TTITLE1=Yesterdays - Larry Coryell
+TTITLE2=Morning Glory - James Moody
+TTITLE3=Gatea - Jaki Byard
+TTITLE4=As Long As There's Music - Cedar Walton
+TTITLE5=My Funny Valentine - Buster Williams
+TTITLE6=Early Minor - Joe Chambers
+TTITLE7=Delores Street S.F. - Kenny Barron
+TTITLE8=Quartette Indigo - Footprints
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

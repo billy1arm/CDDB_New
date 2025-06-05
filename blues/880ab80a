@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16832
+#     34885
+#     53062
+#     74610
+#     97707
+#     113920
+#     137815
+#     155985
+#     184902
+# 
+# Disc length: 2746 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=880ab80a
+DTITLE=Bill La Bounty - The Right Direction
+DYEAR=1900
+DGENRE=
+TTITLE0=The Good Life
+TTITLE1=Mr. O
+TTITLE2=Emily
+TTITLE3=The Right Direction
+TTITLE4=Holding Out
+TTITLE5=Burn Down The Night
+TTITLE6=Be There
+TTITLE7=Time Starts Now
+TTITLE8=Drops Of Water
+TTITLE9=This Night Won't Last Forever
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19350
+#	43200
+#	65485
+#	83700
+#	105750
+#	124575
+#	144685
+#	169200
+#	190285
+#
+# Disc length: 2818 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=870b000a
+DTITLE=Various Artist - Smooth Sax
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=El Dorado (Bona Fide)
+TTITLE1=Let Me Watch You (Walter Beasley)
+TTITLE2=Maxin (Marcus Johnson)
+TTITLE3=Touch (David Mann)
+TTITLE4=Tease (Club 1600)
+TTITLE5=Precious Moments (Walter Beasley)
+TTITLE6=Pleasure Seeker (Paul Taylor)
+TTITLE7=Smoke Rings (David Mann)
+TTITLE8=So Cool (Candy Dulfer)
+TTITLE9=Stay (Club 1600)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

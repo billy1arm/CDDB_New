@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18960
+#     35510
+#     57772
+#     71552
+#     88225
+#     103705
+#     119742
+#     144085
+#     165057
+#     189582
+# 
+# Disc length: 2887 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8c0b450b
+DTITLE=Elizabeth Lord - Love Is....
+DYEAR=1900
+DGENRE=
+TTITLE0=Smoke Gets In Your Eyes
+TTITLE1=I've Got You Under My Skin
+TTITLE2=Just Once
+TTITLE3=Je Ne Regrette Rein
+TTITLE4=No One In The World
+TTITLE5=That's What Friends Are For
+TTITLE6=How Can I Be Sure
+TTITLE7=Missing You
+TTITLE8=Lately
+TTITLE9=Medley:
+TTITLE10=Someone To Watch Over Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

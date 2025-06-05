@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18878
+#     38751
+#     57989
+#     72441
+#     87479
+#     105434
+#     119187
+#     137154
+#     152752
+# 
+# Disc length: 2276 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8808e20a
+DTITLE=Pino Daniele - Un Uomo In Blues
+DYEAR=1900
+DGENRE=
+TTITLE0='o Scarrafone
+TTITLE1=Un Uomo In Blues
+TTITLE2=Gente Distrutta
+TTITLE3=Che Soddisfazione
+TTITLE4=Invece No
+TTITLE5=Leave A Message
+TTITLE6=Domani
+TTITLE7=Femmena
+TTITLE8=For Your Love
+TTITLE9=Solo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

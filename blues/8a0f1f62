@@ -1,0 +1,310 @@
+# xmcd
+#
+# Track frame offsets: 
+#        150
+#        2212
+#        5672
+#        8698
+#        11599
+#        14468
+#        17335
+#        20633
+#        23853
+#        26810
+#        29651
+#        32403
+#        35660
+#        37784
+#        40524
+#        45160
+#        48042
+#        50689
+#        52564
+#        57286
+#        60494
+#        65804
+#        68043
+#        71088
+#        73656
+#        75577
+#        78024
+#        80258
+#        82472
+#        84715
+#        86228
+#        87661
+#        89095
+#        90367
+#        91960
+#        93232
+#        94666
+#        96993
+#        98913
+#        100187
+#        101542
+#        103137
+#        104544
+#        105908
+#        108599
+#        111655
+#        114308
+#        116714
+#        118958
+#        121188
+#        125095
+#        128417
+#        131960
+#        135179
+#        138610
+#        141636
+#        144814
+#        148273
+#        151087
+#        153980
+#        157847
+#        162209
+#        165507
+#        169332
+#        172325
+#        176131
+#        178554
+#        180933
+#        183402
+#        188037
+#        194329
+#        198802
+#        203640
+#        206225
+#        217428
+#        219502
+#        222013
+#        223869
+#        228606
+#        233487
+#        237840
+#        241747
+#        245712
+#        249507
+#        251385
+#        253049
+#        254784
+#        256698
+#        258391
+#        259705
+#        261382
+#        262977
+#        264731
+#        271211
+#        276436
+#        284743
+#        286711
+#        288651
+#
+# Disc length: 3873 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: ExactAudioCopy v0.99pb5
+#
+DISCID=8a0f1f62
+DTITLE=Jürgen Kumlehn - Acoustic Blues Guitar
+DYEAR=2011
+DGENRE=Learn Blues
+TTITLE0=Elementare Spieltechniken_Übung 1
+TTITLE1=Elementare Spieltechniken_Übung 2
+TTITLE2=Elementare Spieltechniken_Übung 3
+TTITLE3=Bausteine des Blues_Übung 1
+TTITLE4=Bausteine des Blues_Übung 2
+TTITLE5=Bausteine des Blues_Übung 3
+TTITLE6=Bausteine des Blues_Übung 4
+TTITLE7=Bausteine des Blues_Übung 5
+TTITLE8=Rhythmische Unabhängigkeit_Übung 01
+TTITLE9=Rhythmische Unabhängigkeit_Übung 02
+TTITLE10=Rhythmische Unabhängigkeit_Übung 03
+TTITLE11=Rhythmische Unabhängigkeit_Übung 04
+TTITLE12=Rhythmische Unabhängigkeit_Übung 05
+TTITLE13=Rhythmische Unabhängigkeit_Übung 06
+TTITLE14=Rhythmische Unabhängigkeit_Übung 07
+TTITLE15=Rhythmische Unabhängigkeit_Übung 08
+TTITLE16=Rhythmische Unabhängigkeit_Übung 09
+TTITLE17=Rhythmische Unabhängigkeit_Übung 10
+TTITLE18=Rhythmische Unabhängigkeit_Übung 11
+TTITLE19=Rhythmische Unabhängigkeit_Übung 12
+TTITLE20=Rhythmische Unabhängigkeit_Übung 13
+TTITLE21=Rhythmische Unabhängigkeit_Übung 14
+TTITLE22=Rhythmische Unabhängigkeit_Übung 15
+TTITLE23=Rhythmische Unabhängigkeit_Übung 16
+TTITLE24=Rhythmische Unabhängigkeit_Übung 17
+TTITLE25=Rhythmische Unabhängigkeit_Übung 18
+TTITLE26=Rhythmische Unabhängigkeit_Übung 19
+TTITLE27=Rhythmische Unabhängigkeit_Übung 20
+TTITLE28=Techniken zur Tonformung_01_Slide
+TTITLE29=Techniken zur Tonformung_02_Slide
+TTITLE30=Techniken zur Tonformung_03_Slide
+TTITLE31=Techniken zur Tonformung_04_Hammer-on
+TTITLE32=Techniken zur Tonformung_05_Hammer-on
+TTITLE33=Techniken zur Tonformung_06_Hammer-on
+TTITLE34=Techniken zur Tonformung_07_Pull-off
+TTITLE35=Techniken zur Tonformung_08_Pull-off
+TTITLE36=Techniken zur Tonformung_09_Pull-off
+TTITLE37=Techniken zur Tonformung_10_Vibrato
+TTITLE38=Techniken zur Tonformung_11_Vibrato
+TTITLE39=Techniken zur Tonformung_12_Vibrato
+TTITLE40=Techniken zur Tonformung_13_Bending-Release Bending
+TTITLE41=Techniken zur Tonformung_14_Bending-Release Bending
+TTITLE42=Techniken zur Tonformung_15_Bending-Release Bending
+TTITLE43=Spiel den Blues_Übung 01
+TTITLE44=Spiel den Blues_Übung 02
+TTITLE45=Spiel den Blues_Übung 03
+TTITLE46=Spiel den Blues_Übung 04
+TTITLE47=Spiel den Blues_Übung 05
+TTITLE48=Spiel den Blues_Übung 06
+TTITLE49=Spiel den Blues_Übung 07
+TTITLE50=Spiel den Blues_Übung 08
+TTITLE51=Spiel den Blues_Übung 09
+TTITLE52=Spiel den Blues_Übung 10
+TTITLE53=Spiel den Blues_Übung 11
+TTITLE54=Spiel den Blues_Übung 12
+TTITLE55=Spiel den Blues_Übung 13
+TTITLE56=Spiel den Blues_Übung 14
+TTITLE57=Spiel den Blues_Übung 15
+TTITLE58=Spiel den Blues_Übung 16
+TTITLE59=Spiel den Blues_Übung 17
+TTITLE60=Spiel den Blues_Übung 18
+TTITLE61=Spiel den Blues_Übung 19
+TTITLE62=Spiel den Blues_Übung 20
+TTITLE63=Spiel den Blues_Übung 21
+TTITLE64=Spiel den Blues_Übung 22
+TTITLE65=Spiel den Blues_Übung 23
+TTITLE66=Spiel den Blues_Übung 24
+TTITLE67=Spiel den Blues_Übung 25
+TTITLE68=Spiel den Blues_Übung 26
+TTITLE69=Spiel den Blues_Übung 27
+TTITLE70=Spiel den Blues_Übung 28
+TTITLE71=Spiel den Blues_Übung 29
+TTITLE72=Spiel den Blues_Übung 30
+TTITLE73=Spiel den Blues_Song_Ragtime Blues Nr.1
+TTITLE74=Blues mit Plektrum_Übung 1
+TTITLE75=Blues mit Plektrum_Übung 2
+TTITLE76=Blues mit Plektrum_Übung 3
+TTITLE77=Blues mit Plektrum_Übung 4
+TTITLE78=Blues mit Plektrum_Übung 5
+TTITLE79=Blues mit Plektrum_Übung 6
+TTITLE80=Blues mit Plektrum_Übung 7
+TTITLE81=Blues mit Plektrum_Übung 8
+TTITLE82=Blues mit Plektrum_Übung 9
+TTITLE83=Melodie und Improvisation_01_E-Moll pentatonisch
+TTITLE84=Melodie und Improvisation_02_E-Dur pentatonisch
+TTITLE85=Melodie und Improvisation_03_E-Blues-Tonleiter
+TTITLE86=Melodie und Improvisation_04_E7-Arpeggio
+TTITLE87=Melodie und Improvisation_05_E7-Arpeggio
+TTITLE88=Melodie und Improvisation_06_E7-Arpeggio
+TTITLE89=Melodie und Improvisation_07_E7-Arpeggio
+TTITLE90=Melodie und Improvisation_08_E7-Arpeggio
+TTITLE91=Melodie und Improvisation_09_E7-Arpeggio
+TTITLE92=Blues für 2 Gitarren_Song 1_Sunday Afternoon Blues
+TTITLE93=Blues für 2 Gitarren_Song 2_Rainy Day Blues
+TTITLE94=Blues für 2 Gitarren_Song 3_Almost All Blues
+TTITLE95=Slide Gitarre_Übung 1
+TTITLE96=Slide Gitarre_Übung 2
+TTITLE97=Slide Gitarre_Übung 3
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+PLAYORDER=

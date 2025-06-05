@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     19357
+#     40325
+#     59920
+#     90532
+#     103607
+#     113487
+#     132285
+#     150617
+#     164042
+# 
+# Disc length: 2549 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8609f30a
+DTITLE=Various Artist - American Folk Blues Festival '64
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm Trying To Make London My Home
+TTITLE1=Dissatisfied
+TTITLE2=Everytime I Get To Drinkin'
+TTITLE3=Ain't It A Pity
+TTITLE4=Baby Please Don't Go
+TTITLE5=I'm Tearing Little Daddy
+TTITLE6=Cotton Pickin' Blues
+TTITLE7=No Title Boogie
+TTITLE8=Slip In Mules
+TTITLE9=Dust My Broom
+EXTD=
+EXTT0=Sonny Boy Williamson\nHubert Sumlin
+EXTT1=Sonny Boy Williamson\nHubert Sumlin\nWillie Dixon\nClifton James\nSunn
+EXTT1=yland Slim
+EXTT2=Sunnyland Slim\nHubert Sumlin\nWillie Dixon\nClifton James
+EXTT3=Sam Lightnin' Hopkins
+EXTT4=Sam Lightnin' Hopkins
+EXTT5=Sleepy John Estes\nHammie Nixon
+EXTT6=John Henry Barbee
+EXTT7=Hubert Sumlin\nSunnyland Slim\nWillie Dixon\nClifton James
+EXTT8=Sugar Pie Desanto\nSunnyland Slim\nHubert Sumlin\nWillie Dixon\nClifto
+EXTT8=n James
+EXTT9=Howlin' Wolf\nSunnyland Slim\nHubert Sumlin\nWillie Dixon\nClifton Jam
+EXTT9=es
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd
+# 
+# Track frame offsets:
+#     150
+#     19353
+#     77152
+#     102554
+#     120453
+#     143316
+#     168744
+#     191178
+#     250918
+#     285297
+#     316516
+# 
+# Disc length: 4431
+# 
+# Revision: 80
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: BonkEnc v1.0.15
+# 
+DISCID=8f114d0b
+DTITLE=Mozart - Mistrzowskie Dzieła
+DYEAR=2006
+DGENRE=Clasical
+TTITLE0=WESELE FIGARA KV 492
+TTITLE1=KONCERT KLARNETOWY A-DUR KV 622
+TTITLE2=KONCERT FORTEPIANOWY NR 21 C-DUR KV 467
+TTITLE3=KONCERT NA RÓG NR 4 ES-DUR KV 495
+TTITLE4=EXSULTATE JUBILATE KV 165
+TTITLE5=SERENADA "EINE KLEINE NACHTMUSIK" KV 525
+TTITLE6=SERENADA "GRAN PARTIA" B-DUR KV 361
+TTITLE7=SYMFONIA KONCERTUJACA ES-DUR KV 364
+TTITLE8=SYMFONIA NR 40 G-MOL KV 550
+TTITLE9=REQUIEM D-MOL KV 626
+TTITLE10=HOSTIAS
+EXTD=YEAR: 2006
+EXTT0=Die Hochzeit des Figaro, KV 492\nOuvertĂĽre\n\nAusfĂĽhrende:\nRadio-Symphonie-Orchester (heute D
+EXTT1=Klarinettenkonzert in B-Dur, KV 622\nErster Satz\n\nAusfĂĽhrende:\nPierre-AndrĂ© Taillard, Klari
+EXTT2=Klavierkonzert Nr 21 in C-Dur, KV 467\nZweiter Satz\n\nAusfĂĽhrende:\nVilmos Fischer, Klavier\n
+EXTT3=Hornkonzert Nr. 4 in Es-Dur, KV 495\nDritter Satz\n\nAusfĂĽhrende:\nBernd Heisser, Horn\nWiener
+EXTT4=Exsultate, Jubilate, KV 165\n\nAusfĂĽhrende:\nGabriele Fuchs, Sopran\nRadio-Symphonie-Orchester
+EXTT5=Serenade in G-Dur "Eine kleine Nachtmusik", KV 525\nErster Satz\n\nAusfĂĽhrende:\nCamerata Acad
+EXTT6=Serenade in B-Dur "Gran Partita", KV 361\nDritter Satz\n\nAusfĂĽhrende:\nLinos Ensemble
+EXTT7=Sinfonia Concertante in Es-Dur, KV 364\nErster Satz\n\nAusfĂĽhrende:\nChristian Altenburger, Ge
+EXTT8=Symphonie Nr. 40 in G-Moll, KV 550\nErster Satz\n\nAusfĂĽhrende:\nOrchester des Mozarteums Salz
+EXTT9=Requiem in D-Moll, KV 626\nRequiem Aeternam\n\nAusfĂĽhrende:\nEdith Wiens, Sopran\nRIAS Kammerc
+EXTT10=Requiem in D-Moll, kv 626\nHostias\n\nNach Mozarts Tod ergĂ¤nzte Mozarts SchĂĽler und Freund Fr
+PLAYORDER=

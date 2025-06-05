@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16154
+#	32027
+#	52961
+#	66605
+#	78140
+#	93681
+#	109908
+#	126793
+#	144256
+#	158595
+#
+# Disc length: 2491 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta5_freedb
+#
+DISCID=8909b90b
+DTITLE=Eddy Shaver - Baptism of Fire
+DYEAR=1900
+DGENRE=
+TTITLE0=Pleasure and Pain
+TTITLE1=Velvet Chains
+TTITLE2=Lighting a Torch
+TTITLE3=Call Me a Doctor
+TTITLE4=Drown in Love
+TTITLE5=Hair Of the Dog
+TTITLE6=A Prayer in Paradise
+TTITLE7=King Of Fools
+TTITLE8=If It Don't Kill You
+TTITLE9=Good News Blues
+TTITLE10=Baptism of Fire
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18965
+#	38722
+#	60312
+#	78807
+#	97815
+#	119140
+#	138265
+#	162292
+#	181442
+#	200595
+#
+# Disc length: 2930 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=860b700b
+DTITLE=noon - songbook
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Time after time
+TTITLE1=Just the way you are
+TTITLE2=Love
+TTITLE3=I've never been to me
+TTITLE4=I'll stand by you
+TTITLE5=You are the sunshine of my life
+TTITLE6=Englishman in New York
+TTITLE7=You are not alone
+TTITLE8=Your song
+TTITLE9=Desperado
+TTITLE10=In my life
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	31342
+#	43290
+#	56010
+#	80800
+#	102595
+#	161980
+#	190317
+#	209327
+#
+# Disc length: 3351 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=870d1509
+DTITLE=Tom Waits - Mainstreet--CD 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Eggs and Sausage
+TTITLE1=Fumblin' With The Blues
+TTITLE2=Charlie Dutton Memorial/Jitterbug Intro
+TTITLE3=Jitterbug Boy
+TTITLE4=The One That Got Away
+TTITLE5=Pasties And A G-String/Heart Of Saturday Night
+TTITLE6=Emotional Weather Report
+TTITLE7=I Wish I Was In New Orleans
+TTITLE8=Small Change
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

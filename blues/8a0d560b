@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18976
+#	47048
+#	75098
+#	95050
+#	116717
+#	142590
+#	167680
+#	186430
+#	209980
+#	233467
+#
+# Disc length: 3416 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8a0d560b
+DTITLE=fripSide - split tears
+DYEAR=2008
+DGENRE=JPop
+TTITLE0=before dawn daybreak
+TTITLE1=split tears
+TTITLE2=praying over (album version)
+TTITLE3=magicaride
+TTITLE4=fictional moon (album version)
+TTITLE5=snow blind (album version)
+TTITLE6=snow blind -after-
+TTITLE7=spiral of despair
+TTITLE8=escape -version2008-
+TTITLE9=tomorrow
+TTITLE10=eternal twinkle
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

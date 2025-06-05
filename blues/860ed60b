@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24142
+#	51188
+#	75566
+#	89296
+#	116005
+#	141741
+#	161430
+#	182646
+#	203746
+#	234912
+#
+# Disc length: 3800 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=860ed60b
+DTITLE=Kitaro - World Of Kita[Vol01][Silkroad Legend]
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=Theme From Silk Road
+TTITLE1=Caravansary
+TTITLE2=Klamakan
+TTITLE3=Desert
+TTITLE4=Bell Tower
+TTITLE5=Oasis
+TTITLE6=Mandala
+TTITLE7=Mirage
+TTITLE8=Wings
+TTITLE9=Romance Flight
+TTITLE10=Silk Road
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,91 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	15202
+#	30060
+#	44835
+#	55635
+#	66717
+#	79385
+#	92715
+#	103545
+#	113997
+#	126660
+#	142240
+#	153655
+#	164525
+#	177922
+#	189677
+#	202240
+#	213185
+#	224712
+#	236420
+#	251477
+#	261367
+#	274455
+#	288235
+#	304152
+#
+# Disc length: 4173 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8b104b19
+DTITLE=25 Hits and Classics - Blues - Vol. 1
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=B.B. King - B.B. Boogie
+TTITLE1=Muddy Waters - Baby Please Don't Go
+TTITLE2=Leadbelly - In New Orleans
+TTITLE3=John Lee Hooker - No Shoes
+TTITLE4=Howlin' Wolf - Red Roodster
+TTITLE5=Billie Holiday - God Bless The Child
+TTITLE6=Elmore James - Dust My Broom
+TTITLE7=Ray Charles - Hey Now
+TTITLE8=John Lee Hooker - Old Time Shimmy
+TTITLE9=Muddy Waters - Mean Mistreater
+TTITLE10=B.B. King - Walkin' And Cryin'
+TTITLE11=Sonny Boy Williamson - Born Blind
+TTITLE12=Billie Holiday - Ain't Nobody's Business
+TTITLE13=Muddy Waters - Close To You
+TTITLE14=Little Walter - My Babe
+TTITLE15=Howlin' Wolf - Little Baby
+TTITLE16=Joe Simon - Say
+TTITLE17=John Lee Hooker - Boogie Chillum
+TTITLE18=Howlin' Wolf - Howlin' For My Baby
+TTITLE19=Elmore James - It Hurts Me Too
+TTITLE20=John Lee Hooker - Dusty Road
+TTITLE21=Sonny Boy Williamson - Work With Me
+TTITLE22=Little Walter - You Better Watch Yourself
+TTITLE23=Howlin' Wolf - Killing Floor
+TTITLE24=Billie Holiday - When Your Lover As Gone
+EXTD=
+EXTT0=Artist: B.B King\n
+EXTT1=Artist: Muddy Waters
+EXTT2=Artist: Leadbelly
+EXTT3=John Lee Hooker
+EXTT4=Artist: Howlin' Wolf\n
+EXTT5=Artist: Billie Holiday
+EXTT6=Artist: Elmore James
+EXTT7=Artist: Ray Charles
+EXTT8=Artist: John Lee Hooker
+EXTT9=Artist: Muddy Waters
+EXTT10=Artist: B.B. King
+EXTT11=Artist: Sonny Boy Williamson
+EXTT12=Artist: Billie Holiday
+EXTT13=Artist: Muddy Waters
+EXTT14=Artist: Little Walter
+EXTT15=Artist: Howlin' Wolf
+EXTT16=Artist: Joe Simon
+EXTT17=Artist: John Lee Hooker
+EXTT18=Artist: Howlin' Wolf
+EXTT19=Artist: Elmore James
+EXTT20=Artist: John Lee Hooker
+EXTT21=Artist: Sonny Boy Williamson
+EXTT22=Artist: Little Walter
+EXTT23=Artist: Howlin' Wolf
+EXTT24=Artist: Billie Holiday
+PLAYORDER=

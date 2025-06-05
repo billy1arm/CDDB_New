@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13312
+#     30607
+#     52242
+#     72835
+#     91062
+#     105880
+#     124302
+#     137962
+#     154455
+# 
+# Disc length: 2269 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8a08db0a
+DTITLE=The bluzblasters - Get blaster
+DYEAR=1900
+DGENRE=
+TTITLE0=Baby please don't go
+TTITLE1=Saturday nights
+TTITLE2=I love you too
+TTITLE3=Tore up
+TTITLE4=Sin
+TTITLE5=I wouldn't lay my guitar down
+TTITLE6=Gold tooth woman
+TTITLE7=Sleepin' around
+TTITLE8=Broken hearted
+TTITLE9=Doug's stomp
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

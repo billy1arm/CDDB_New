@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31347
+#	54098
+#	80672
+#	100443
+#	129385
+#	148287
+#	176594
+#	192031
+#	207470
+#
+# Disc length: 3454 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8c0d7c0a
+DTITLE=Celia Cruz - Su Musica por el Mundo - En Vivo
+DYEAR=2009
+DGENRE=Salsa
+TTITLE0=Canto A La Habana
+TTITLE1=Que Lo Den Candela
+TTITLE2=Bamboleo
+TTITLE3=Usted Abusó
+TTITLE4=QUIMBARA
+TTITLE5=La Vida Es Un Carnaval
+TTITLE6=Guantanamera
+TTITLE7=El Manisero
+TTITLE8=Medley
+TTITLE9=Bemba Colorá
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8016
+#	18500
+#	29892
+#	31424
+#	41300
+#	46931
+#	61659
+#	62525
+#	68943
+#	74270
+#
+# Disc length: 1364 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8c05520b
+DTITLE=Da Silva - Billie et les rois de la nuit
+DYEAR=2009
+DGENRE=Enfants
+TTITLE0=Billie et les rois de la nuit
+TTITLE1=Récit 1 et La nuit
+TTITLE2=L'eau de la fontaine
+TTITLE3=Récit 2
+TTITLE4=Le jour et Récit 3
+TTITLE5=Récit 4
+TTITLE6=Le festin
+TTITLE7=Récit 5 et La forêt des 3 clairières
+TTITLE8=Une étoile de plus
+TTITLE9=Récit 6
+TTITLE10=Le souffle d'une fourmi
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

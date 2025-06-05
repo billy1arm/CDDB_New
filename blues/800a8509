@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41735
+#	56365
+#	71475
+#	86070
+#	104587
+#	127875
+#	144642
+#	170702
+#
+# Disc length: 2695 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=800a8509
+DTITLE=Django Bates - Quiet Nights
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Speak Low
+TTITLE1=Teach Me Tonight
+TTITLE2=And The Mermaid Laughed
+TTITLE3=Quiet Nights Of Quiet Stars
+TTITLE4=Hilili Hi Lo
+TTITLE5=Solitude
+TTITLE6=Like Someone In Love
+TTITLE7=Is There Anyone Up There
+TTITLE8=Over Te Rainbow
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

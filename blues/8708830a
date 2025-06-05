@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16462
+#	43480
+#	58325
+#	72817
+#	86790
+#	99817
+#	109737
+#	125862
+#	153047
+#
+# Disc length: 2181 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8708830a
+DTITLE=Josh Smith and the Rhino Cats - Born Under a Blue Sign
+DYEAR=1900
+DGENRE=
+TTITLE0=I Forgot Your Name
+TTITLE1=Life in the Jungle
+TTITLE2=Could Have Been My Baby
+TTITLE3=Wishing Well
+TTITLE4=Fine Sweet Thing
+TTITLE5=A Dream Come True
+TTITLE6=You Did What You Did
+TTITLE7=Little Baby
+TTITLE8=Guitar Jones
+TTITLE9=Blues Boogie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

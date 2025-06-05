@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  187
+#  2687
+#  25107
+#  45342
+#  72107
+#  94460
+#  115540
+#  135960
+#  158967
+#  174255
+#  189590
+#  214062
+#
+# Disc length: 3171 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8f0c610c
+DTITLE=Tony Guerrero - Another Day, Another Dream
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Midnight Prelude
+TTITLE1=Midnight
+TTITLE2=Another Day, Another Dream
+TTITLE3=Amorado
+TTITLE4=This Isn't Love Anymore
+TTITLE5=Freedom
+TTITLE6=Rude Dude
+TTITLE7=The Secret Garden
+TTITLE8=Lu's Blues
+TTITLE9=Daydream
+TTITLE10=El Corazon
+TTITLE11=Closing Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

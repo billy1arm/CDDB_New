@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  12247
+#  23712
+#  38042
+#  48970
+#  60400
+#  74110
+#  85872
+#  99030
+#  112012
+#  125367
+#
+# Disc length: 2257 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8508cf0b
+DTITLE=Lowell Fulson - Hung Down Head
+DYEAR=1900
+DGENRE=blues
+TTITLE0=That's All Right
+TTITLE1=I Still Love You, Baby
+TTITLE2=Reconsider Baby
+TTITLE3=I Want To Know
+TTITLE4=Low Society
+TTITLE5=Check Yourself
+TTITLE6=It's All Your Fault Baby
+TTITLE7=Do Me Right
+TTITLE8=Trouble, Trouble
+TTITLE9=Hung Down Head
+TTITLE10=Tollin' Bells
+EXTD=ChLD 19095\n\nSubmitted 6/19/97\n[Jmccoy@efn.org]
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

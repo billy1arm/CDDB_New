@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22435
+#	39963
+#	59210
+#	82923
+#	96390
+#	118255
+#	141668
+#	176113
+#
+# Disc length: 2536 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8c09e609
+DTITLE=Cruel Frederick - The Birth of Cruel
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Jukebox In The East River
+TTITLE1=White Logic
+TTITLE2=That Damned Music
+TTITLE3=Moon River
+TTITLE4=The East Is Red
+TTITLE5=Lonely Woman
+TTITLE6=Amazing Grace
+TTITLE7=Ghosts
+TTITLE8=Bells
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14062
+#	34687
+#	55625
+#	74735
+#	88920
+#	105167
+#	121615
+#	133922
+#	180715
+#
+# Disc length: 2649 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=860a570a
+DTITLE=サウンドトラック - 聖伝 RG VEDA
+DYEAR=1900
+DGENRE=ANIME/COMIC
+TTITLE0=序      introduction
+TTITLE1=道灯     Tomoshibi
+TTITLE2=闇星   Yamiboshi
+TTITLE3=翔星   Nagareboshi
+TTITLE4=阿修羅  Ashura
+TTITLE5=夢翼   Tsubasa
+TTITLE6=六星   Rokusei
+TTITLE7=夜叉王  Yasha
+TTITLE8=蛍火
+TTITLE9=群嵐   Arashi
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13860
+#     34412
+#     50570
+#     73627
+#     91365
+#     104275
+#     123517
+#     142877
+#     161112
+# 
+# Disc length: 2338 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8b09200a
+DTITLE=[Paperclip] - Bulk Song Boek [CDTwo)
+DYEAR=1900
+DGENRE=
+TTITLE0=Land van steen - Stef Bos
+TTITLE1=Indianen van de nacht - Bram Vermeulen
+TTITLE2=Zwevend op de wind - Henk Temming
+TTITLE3=Opa - Margriet Eshuijs
+TTITLE4=Antwerp by night - Rowwen H ze
+TTITLE5=Nacht van staal - The Scene
+TTITLE6=En toen - Klaas Spekken
+TTITLE7=Het verlangen vrij te zijn - Stef Bos
+TTITLE8=Lieve Zondag - Bram Vermeulen
+TTITLE9=Eenvoud - Rowwen H ze
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

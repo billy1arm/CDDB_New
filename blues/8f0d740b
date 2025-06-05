@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16615
+#	41622
+#	70317
+#	90587
+#	114562
+#	138815
+#	159290
+#	180960
+#	209935
+#	232412
+#
+# Disc length: 3446 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8f0d740b
+DTITLE=中島みゆき - 心守歌 こころもりうた
+DYEAR=2001
+DGENRE=Folk-Rock
+TTITLE0=囁く雨
+TTITLE1=相席
+TTITLE2=樹高千丈　落葉帰根
+TTITLE3=あのバスに
+TTITLE4=心守歌
+TTITLE5=六花
+TTITLE6=カーニヴァルだったね
+TTITLE7=ツンドラ・バード
+TTITLE8=夜行
+TTITLE9=月迎え
+TTITLE10=Lovers Only
+EXTD=YEAR: 2001
+EXTT0=Whispering Rain
+EXTT1=Sharing A Table
+EXTT2=Leaves Of The Tallest Tree Fall And Return To Its Root
+EXTT3=That Bus
+EXTT4=Lullaby For The Soul
+EXTT5=Snow Crystals
+EXTT6=It's A Carnival
+EXTT7=
+EXTT8=Night People
+EXTT9=Greet The Moon
+EXTT10=
+PLAYORDER=

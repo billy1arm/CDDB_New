@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#     150
+#     28937
+#     49647
+#     67027
+#     91420
+#     114220
+#     138975
+#     156970
+#     185952
+#     202967
+#
+# Disc length: 2977 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Clarion 0.9.3
+#
+DISCID=8c0b9f0a
+DTITLE=The Holloway Brothers - Sugarbrain
+DYEAR=1900
+DGENRE=
+TTITLE0=excuse juice
+TTITLE1=help me
+TTITLE2=struck on the new
+TTITLE3=hooked and holding on
+TTITLE4=just passin'  time
+TTITLE5=mambo
+TTITLE6=unknown shore
+TTITLE7=what you mean to me
+TTITLE8=time to reveal
+TTITLE9=pills for thrills
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

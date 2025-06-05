@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20022
+#	36412
+#	59090
+#	89942
+#	110230
+#	131817
+#	145915
+#
+# Disc length: 2392 seconds
+#
+# Revision: 25
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=86095608
+DTITLE=Rainbow - Long Live Rock 'n' Roll
+DYEAR=1978
+DGENRE=Heavy Metal
+TTITLE0=Long Live Rock 'n' Roll
+TTITLE1=Lady of the Lake
+TTITLE2=L.A. Connection
+TTITLE3=Gates of Babylon
+TTITLE4=Kill the King
+TTITLE5=The Shed (Subtle)
+TTITLE6=Sensitive to Light
+TTITLE7=Rainbow Eyes
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

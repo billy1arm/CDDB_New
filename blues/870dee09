@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39032
+#	69207
+#	109857
+#	141532
+#	170140
+#	194767
+#	218952
+#	250097
+#
+# Disc length: 3568 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=870dee09
+DTITLE=Various Artist - Never Off - Vol. 1
+DYEAR=2005
+DGENRE=Mix
+TTITLE0=Billie Jean 
+TTITLE1=Absolute Reggae
+TTITLE2=Absolute Dance
+TTITLE3=The Look
+TTITLE4=Classic Rock
+TTITLE5=Dancing Queen
+TTITLE6=Summer in the City
+TTITLE7=Dance Explosion
+TTITLE8=Robot Remix
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

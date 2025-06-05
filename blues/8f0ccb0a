@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28996
+#	48521
+#	66654
+#	96711
+#	135060
+#	153951
+#	171809
+#	199660
+#	236188
+#
+# Disc length: 3277 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8f0ccb0a
+DTITLE=Andrew Allen Trio - Freeplay
+DYEAR=2013
+DGENRE=Jazz
+TTITLE0=Super Mario: Ground Theme
+TTITLE1=Katamari on the Rocks
+TTITLE2=Angry Birds Theme
+TTITLE3=Nathan's Theme
+TTITLE4=Dr. Wily Theme
+TTITLE5=Overworld Theme
+TTITLE6=Lament of the Highborne
+TTITLE7=Kraid's Lair
+TTITLE8=Want You Gone
+TTITLE9=Super Mario: Game Over Theme
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

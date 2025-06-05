@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	52190
+#	77530
+#	92502
+#	107272
+#	126385
+#	150130
+#	209025
+#	228125
+#	268787
+#	297812
+#
+# Disc length: 4423 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=8b11450b
+DTITLE=Stevie Ray Vaughan - Live! at the Loreley Festival, Germany, Aug 25, 84
+DYEAR=1984
+DGENRE=Blues
+TTITLE0=Voodoo Chile (Slight Return)
+TTITLE1=The Things That I Used To Do
+TTITLE2=Honey Bee
+TTITLE3=Love Struck Baby
+TTITLE4=Cold Shot
+TTITLE5=Couldnt Stand The Weather
+TTITLE6=Tin Pan Alley
+TTITLE7=Pride And Joy
+TTITLE8=Texas Flood
+TTITLE9=Little Wing
+TTITLE10=Third Rock From The Sun
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

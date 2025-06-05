@@ -1,0 +1,118 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	182
+# 	17250
+# 	32272
+# 	46935
+# 	61097
+# 	74860
+# 	88752
+# 	101850
+# 	115735
+# 	129735
+# 	144280
+# 	157765
+# 	171532
+# 	185577
+# 	198990
+# 	213892
+# 	227075
+# 	238712
+# 	252160
+# 	264922
+# 	278650
+# 	291510
+# 	303697
+# 	316277
+# 	328272
+# 	341110
+#
+# Disc length: 4703 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=80125d1a
+DTITLE=Gus Cannon - Gus Cannon and His Jug Stompers 1928-30
+DYEAR=1900
+DGENRE=
+TTITLE0=Minglewood Blues -2
+TTITLE1=Big Railroad Blues -2
+TTITLE2=Madison Street Rag -1
+TTITLE3=Springdale Blues -1
+TTITLE4=Ripley Blues -2
+TTITLE5=Pig Ankle Strut
+TTITLE6=Noah's Blues
+TTITLE7=Hollywood Rag
+TTITLE8=Heart Breakin' Blues -1
+TTITLE9=Feather Bed -1
+TTITLE10=Cairo Rag
+TTITLE11=Bugle Call Rag
+TTITLE12=Viola Lee Blues
+TTITLE13=Riley's Waggon -1
+TTITLE14=Last Chane Blues -2
+TTITLE15=Tired Chicken Blues
+TTITLE16=Going To Germany
+TTITLE17=Walk Right In
+TTITLE18=Mule Gets Up In The Alley
+TTITLE19=The Rooster's Crowing Blues
+TTITLE20=Jonestown Blues
+TTITLE21=Pretty Mama Blues
+TTITLE22=Bring It With You When Come
+TTITLE23=Wolf River Blues
+TTITLE24=Money Never Runs Out
+TTITLE25=Prison Wall Blues
+EXTD=
+EXTT0=Gus Cannon, Ashley Thompson, Noah Lewis - Memphis Tenn 20/1/28
+EXTT1=Gus Cannon, Ashley Thompson, Noah Lewis - Memphis Tenn 20/1/28
+EXTT2=Gus Cannon, Ashley Thompson, Noah Lewis - Memphis Tenn 20/1/28
+EXTT3=Gus Cannon, Ashley Thompson, Noah Lewis - Memphis Tenn 20/1/28
+EXTT4=Gus Cannon j/bj/v, Elijah Avery bj/g/k, Noah Lewis h  - Memphis Tenn 5/9/
+EXTT4=28
+EXTT5=Gus Cannon j/bj/v, Elijah Avery bj/g/k, Noah Lewis h  - Memphis Tenn 5/9/
+EXTT5=28
+EXTT6=Gus Cannon j/bj/v, Elijah Avery bj/g/k, Noah Lewis h  - Memphis Tenn 5/9/
+EXTT6=28
+EXTT7=Gus Cannon j/bj/v, Elijah Avery bj/g/k, Noah Lewis h  - Memphis Tenn 5/9/
+EXTT7=28
+EXTT8=Gus Cannon j/bj/v, Elijah Avery bj/g/k, Noah Lewis h  - Memphis Tenn 9/9/
+EXTT8=28
+EXTT9=Gus Cannon j/bj/v, Elijah Avery bj/g/k, Noah Lewis h  - Memphis Tenn 9/9/
+EXTT9=28
+EXTT10=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT10=Memphis Tenn 20/9/28
+EXTT11=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT11=Memphis Tenn 20/9/28
+EXTT12=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT12=Memphis Tenn 20/9/28
+EXTT13=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT13=Memphis Tenn 20/9/28
+EXTT14=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT14=Memphis Tenn 1/10/28
+EXTT15=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT15=Memphis Tenn 1/10/28
+EXTT16=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT16=Memphis Tenn 1/10/28
+EXTT17=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT17=Memphis Tenn 1/10/28
+EXTT18=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT18=Memphis Tenn 3/10/29
+EXTT19=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT19=Memphis Tenn 3/10/29
+EXTT20=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT20=Memphis Tenn 3/10/29
+EXTT21=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT21=Memphis Tenn 3/10/29
+EXTT22=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT22=Memphis Tenn 24/11/30
+EXTT23=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT23=Memphis Tenn 3/10/28Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah L
+EXTT23=ewis h/v-2, Hosea Woods k   - Memphis Tenn 3/10/30
+EXTT24=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT24=Memphis Tenn 28/11/30
+EXTT25=Gus Cannon j/bj/v-1, Elijah Avery bj/g/, Noah Lewis h/v-2, Hosea Woods k
+EXTT25=Memphis Tenn 28/11/30
+PLAYORDER=

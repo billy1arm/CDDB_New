@@ -1,0 +1,271 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2854
+#	6140
+#	9384
+#	11736
+#	12727
+#	15999
+#	19649
+#	21977
+#	26576
+#	32146
+#	33641
+#	34529
+#	37965
+#	41402
+#	45543
+#	50531
+#	54759
+#	57615
+#	61191
+#	64320
+#	67536
+#	70806
+#	76465
+#	77806
+#	80293
+#	82737
+#	85033
+#	87144
+#	89207
+#	92546
+#	95848
+#	99184
+#	101256
+#	103563
+#	105787
+#	110304
+#	115339
+#	119393
+#	122628
+#	124301
+#	129003
+#	132603
+#	135652
+#	139140
+#	142540
+#	146649
+#	151205
+#	154630
+#	158182
+#	161385
+#	164588
+#	167628
+#	181003
+#	182910
+#	184971
+#	186140
+#	188557
+#	190594
+#	193828
+#	196365
+#	201022
+#	205269
+#	208972
+#	210303
+#	211524
+#	217636
+#	222467
+#	228149
+#	232959
+#	235515
+#	240015
+#	244649
+#	250802
+#	257395
+#	262022
+#	266315
+#	270345
+#	274406
+#	278981
+#	282955
+#	286064
+#	289469
+#	290869
+#	291998
+#
+# Disc length: 3908 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8b0f4255
+DTITLE=guitar magazin - Best Of Bluescafé
+DYEAR=2014
+DGENRE=Blues
+TTITLE0=01_BigBillBroonzy_TooTooTrain
+TTITLE1=02_BigBillBroonzy_TooTooTrain
+TTITLE2=03_BigBillBroonzy_TooTooTrain
+TTITLE3=04_BigBillBroonzy_TooTooTrain
+TTITLE4=05_BigBillBroonzy_TooTooTrain
+TTITLE5=06_BigBillBroonzy_SaturdayNightRub
+TTITLE6=07_BigBillBroonzy_SaturdayNightRub
+TTITLE7=08_BigBillBroonzy_SaturdayNightRub
+TTITLE8=09_BlindBlake_ThatWillNeverHappenNoMore
+TTITLE9=10_BlindBlake_ThatWillNeverHappenNoMore
+TTITLE10=11_BlindBlake_ThatWillNeverHappenNoMore
+TTITLE11=12_BlindBlake_ThatWillNeverHappenNoMore
+TTITLE12=13_BlindBlake_FeelingBadBlues
+TTITLE13=14_BlindBoyFuller_WeepingWillow
+TTITLE14=15_BlindBoyFuller_WeepingWillow
+TTITLE15=16_BlindWillieMcTell_StatesboroBlues
+TTITLE16=17_BlindWilieMcTell_StatesboroBlues
+TTITLE17=18_BlindWillieMcTell_YouCantGetThatStuffNoMore
+TTITLE18=19_BlindWillieMcTell_YouCantGetThatStuffNoMore
+TTITLE19=20_BlindWillieMcTell_YouCantGetThatStuffNoMore
+TTITLE20=21_BlindWillieMcTell_YouCantGetThatStuffNoMore
+TTITLE21=22_BrownieMcGhee_DontPityMe
+TTITLE22=23_BrownieMcGhee_DontPityMe
+TTITLE23=24_JohnLeeHooker_CrawlingKingSnake 1
+TTITLE24=25_JohnLeeHooker_CrawlingKingSnake
+TTITLE25=26_JohnLeeHooker_CrawlingKingSnake
+TTITLE26=27_JohnLeeHooker_CrawlingKingSnake
+TTITLE27=28_JohnLeeHooker_CrawlingKingSnake
+TTITLE28=29_JohnLeeHooker_CrawlingKingSnake
+TTITLE29=30_KidBailey_MississippiBottomBlues
+TTITLE30=31_KidBailey_MississippiBottomBlues
+TTITLE31=32_KidBailey_MississippiBottomBlues
+TTITLE32=33_Leadbelly_BlackGirl
+TTITLE33=34_Leadbelly_BlackGirl
+TTITLE34=35_Leadbelly_BlackGirl
+TTITLE35=36_Leadbelly_TakeThisHammer
+TTITLE36=37_Leadbelly_TakeThisHammer
+TTITLE37=38_LightninHopkins_BabyPleaseDontGo
+TTITLE38=39_LightninHopkins_BabyPleaseDontGo
+TTITLE39=40_LightinHopkins_GamblersBlues
+TTITLE40=41_LightninHopkins_GamblersBlues
+TTITLE41=42_LightninHopkins_GamblersBlues
+TTITLE42=43_LilSonJackson_SugarMama
+TTITLE43=44_LilSonJackson_SugarMama
+TTITLE44=45_LilSonJackson_SugarMama
+TTITLE45=46_LonnieJohnson_LonesomeGhostBlues
+TTITLE46=47_LonnieJohnson_LonesomeGhostBlues
+TTITLE47=48_ManceLipscomb_SilverCity
+TTITLE48=49_ManceLipscomb_SilverCity
+TTITLE49=50_MemphisMinnie_WhenTheLeveeBreaks
+TTITLE50=51_MemphisMinnie_WhenTheLeveeBreaks
+TTITLE51=52_MemphisMinnie_WhenTheLeveeBreaks
+TTITLE52=53_MississippiFredMcDowell_WriteMeAFewShortLines
+TTITLE53=54_MississippiFredMcDowell_WriteMeAFewShortLines
+TTITLE54=55_MississippiFredMcDowell_WriteMeAFewShortLines
+TTITLE55=56_MississippiFredMcDowell_WriteMeAFewShortLines
+TTITLE56=57_MississippiJohnHurt_Frankie&Johnny
+TTITLE57=58_Mississippi_JohnHurt_Frankie&Johnny
+TTITLE58=59_MississippiJohnHurt_Frankie&Johnny
+TTITLE59=60_MississippiJohnHurt_Frankie&Johnny
+TTITLE60=61_ReverendRobertWilkins_ThatsNoWayToGetAlong
+TTITLE61=62_RobertJohnson_DustMyBroom
+TTITLE62=63_RobertJohnson_DustMyBroom
+TTITLE63=64_RobertJohnson_DustMyBroom
+TTITLE64=65_RobertJohnson_DustMyBroom
+TTITLE65=66_RobertJohnson_IfIHadPossession
+TTITLE66=67_RobertJohnson_IfIHadPossession
+TTITLE67=68_RobertNighthawk_FriarsPointBlues
+TTITLE68=69_RobertNighthawk_FriarsPointBlues
+TTITLE69=70_ScrapperBlackwell_KokomoBlues
+TTITLE70=71_ScrapperBlackwell_KokomoBlues
+TTITLE71=72_ScrapperBlackwell_KokomoBlues
+TTITLE72=73_SippieWallace_WomenBeWise
+TTITLE73=74_SippieWallace_WomenBeWise
+TTITLE74=75_SkipJames_CypressGroveBlues
+TTITLE75=76_SkipJames_CypressGroveBlues
+TTITLE76=77_SonHouse_SonsBlues
+TTITLE77=78_SonHouse_SonsBlues
+TTITLE78=79_TampaRed_ThingsAboutCominMyWay
+TTITLE79=80_TampaRed_ThingsAboutCominMyWay
+TTITLE80=81_TommyJohnson_BigRoadBlues
+TTITLE81=82_TommyJohnson_BigRoadBlues
+TTITLE82=83_TommyJohnson_BigRoadBlues
+TTITLE83=84_TommyJohnson_BigRoadBlues
+TTITLE84=85_TommyJohnson_BigRoadBlues
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+PLAYORDER=

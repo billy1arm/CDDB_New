@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25968
+#	42667
+#	63201
+#	82479
+#	110790
+#	131890
+#	155694
+#	176699
+#
+# Disc length: 2612 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=880a3209
+DTITLE=GB Expansion - A Big Revolution...Now!
+DYEAR=2013
+DGENRE=Jazz
+TTITLE0=Expansion
+TTITLE1=Duel
+TTITLE2=Family Affair
+TTITLE3=Scooby Doo
+TTITLE4=Get In
+TTITLE5=Bottle
+TTITLE6=Good Day
+TTITLE7=Regulate
+TTITLE8=Scooby Doo Epilogue
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

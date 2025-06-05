@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15013
+#	25007
+#	35274
+#	44078
+#	57055
+#	68265
+#	77645
+#	87070
+#	98265
+#	109484
+#	118441
+#
+# Disc length: 1704 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8206a60c
+DTITLE=Georges Brassens - Les Chansons Intemporelles CD1
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Le Gorille
+TTITLE1=La Mauvaise Reputation
+TTITLE2=La Petit Cheval
+TTITLE3=Hecatombe
+TTITLE4=Corne d'Aurochs
+TTITLE5=Le Parapluie
+TTITLE6=Le Fossoyeur
+TTITLE7=La Chasse Aux Papillons
+TTITLE8=Il N'y A Pas dAmour Heureux
+TTITLE9=La Marine
+TTITLE10=Il Suffit De Passer Le Pont
+TTITLE11=J'ai Rendez-vous Avec Vous
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

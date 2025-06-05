@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13237
+#	31985
+#	45992
+#	67162
+#	97895
+#	111127
+#	129582
+#	137877
+#	152250
+#	176085
+#
+# Disc length: 2583 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=8d0a150b
+DTITLE=Eric Clapton's Cream - Live
+DYEAR=1968
+DGENRE=Blues
+TTITLE0=I feel free
+TTITLE1=Crossroads
+TTITLE2=Born under a bad sign
+TTITLE3=I'm so glad
+TTITLE4=Sleepy time, time
+TTITLE5=Strange brew
+TTITLE6=Politician
+TTITLE7=Lawdy mama
+TTITLE8=Sweet wine
+TTITLE9=Train time
+TTITLE10=N.S.U.
+EXTD=YEAR: 1968 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

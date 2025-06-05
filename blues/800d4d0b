@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	31727
+#	55550
+#	79265
+#	92940
+#	108190
+#	135200
+#	155475
+#	184862
+#	208012
+#	228257
+#
+# Disc length: 3407 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=800d4d0b
+DTITLE=Sam Lightnin' Hopkins - Cadilllac Man
+DYEAR=1900
+DGENRE=
+TTITLE0=Big Black Cadillac Blues
+TTITLE1=Early in the Mornin' Blues
+TTITLE2=I've Been Bucked and Scorned
+TTITLE3=Stool Pigeon Blues
+TTITLE4=Ball of Twine
+TTITLE5=I Heard My Children Crying
+TTITLE6=Leave Jike Mary Alone
+TTITLE7=You Treat Po' Lightnin' Wrong
+TTITLE8=I'm Gonna Meet My Baby Somewhere
+TTITLE9=Don't Treat That Man Way You Treat Me
+TTITLE10=There's Goo Rockin' Tonight
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

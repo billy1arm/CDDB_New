@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7957
+#	16967
+#	40845
+#	69120
+#	90790
+#	117415
+#	140297
+#	167832
+#	174835
+#	182250
+#	206340
+#
+# Disc length: 3268 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=800cc20c
+DTITLE=Paul Meader and Robin Nolan - The Gypsy Jazz Play Along CD - Volume 3 - Disk 1
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Bolero Intro. D6/9
+TTITLE1=Bolero Intro. A-
+TTITLE2=Troublant Bolero
+TTITLE3=Bolero Blue
+TTITLE4=Caravan
+TTITLE5=Bar Del Pi
+TTITLE6=Manha De Carnaval
+TTITLE7=Django's Castle
+TTITLE8=Tango Intro. Gmaj
+TTITLE9=Tango Intro. E-9
+TTITLE10=Erster Tango
+TTITLE11=Luna Tango
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

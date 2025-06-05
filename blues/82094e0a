@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22502
+#	39330
+#	56912
+#	71840
+#	90757
+#	109577
+#	125922
+#	142315
+#	158727
+#
+# Disc length: 2384 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=82094e0a
+DTITLE=Mr. David Booker - Take Out Your False Teeth Mama
+DYEAR=1900
+DGENRE=
+TTITLE0=Fatman Blues
+TTITLE1=Take Out Your False Teeth
+TTITLE2=Beans On Toast And a Porkpie Hat
+TTITLE3=God of Clubs
+TTITLE4=Juke Joint Blues
+TTITLE5=Romance Without Finance
+TTITLE6=Bring Back My Cadillac
+TTITLE7=All I Got Left is The Blues
+TTITLE8=Swamp Witch
+TTITLE9=Ad Man Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

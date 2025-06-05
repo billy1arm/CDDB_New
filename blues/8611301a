@@ -1,0 +1,94 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5980
+#	26012
+#	79442
+#	89977
+#	105000
+#	117177
+#	123662
+#	144285
+#	153127
+#	176552
+#	186845
+#	197257
+#	203380
+#	215617
+#	224550
+#	232337
+#	247270
+#	261025
+#	274210
+#	280562
+#	286587
+#	295505
+#	302235
+#	311045
+#	328025
+#
+# Disc length: 4402 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=8611301a
+DTITLE=崎元仁 - VAGRANTSTORY Original Soundtrack DISC1
+DYEAR=2000
+DGENRE=Game
+TTITLE0=Opening Movie
+TTITLE1=バレンディア治安維持騎士団本部〜バルドルバ公爵邸内
+TTITLE2=グレイランド事件クライマックス
+TTITLE3=序文〜グレイランド事件に関する調査書
+TTITLE4=閉ざされたレアモンデ
+TTITLE5=ミノタウロス
+TTITLE6=追憶
+TTITLE7=地下墓地
+TTITLE8=デュラハン
+TTITLE9=偽りの記憶
+TTITLE10=地下教会
+TTITLE11=ゴーレム
+TTITLE12=罠を張る兎
+TTITLE13=廃坑第一層
+TTITLE14=聖印騎士団
+TTITLE15=ワイバーン
+TTITLE16=レアモンテ市街地
+TTITLE17=対面
+TTITLE18=羽虫の森
+TTITLE19=リザードマン
+TTITLE20=もう一人のリスクブレイカー
+TTITLE21=外壁内部
+TTITLE22=洗脳
+TTITLE23=ローゼンクランツ
+TTITLE24=地下街
+TTITLE25=Game Over
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+PLAYORDER=
