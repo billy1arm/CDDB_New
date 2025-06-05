@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	58796
+#	70511
+#	122595
+#	180055
+#	222504
+#	289687
+#
+# Disc length: 4661 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.73
+#
+DISCID=5f123307
+DTITLE=Walter Smith III - Live in Paris
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Blues
+TTITLE1=Bass Solo
+TTITLE2=Aroca
+TTITLE3=Himorme
+TTITLE4=Stablemates
+TTITLE5=Shed
+TTITLE6=Cyclic Episode
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

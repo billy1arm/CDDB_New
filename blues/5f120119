@@ -1,0 +1,92 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13330
+#     26852
+#     38997
+#     53625
+#     68320
+#     81240
+#     95115
+#     110160
+#     124265
+#     137395
+#     152757
+#     166562
+#     181107
+#     193095
+#     207960
+#     222405
+#     236442
+#     249962
+#     263412
+#     276725
+#     289940
+#     302422
+#     315962
+#     330567
+# 
+# Disc length: 4611 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=5f120119
+DTITLE=Billie Holiday - Billie's Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=A Sunbonnet Blue
+TTITLE1=What a Little Moonlight Can Do
+TTITLE2=Billie's Blues
+TTITLE3=Eeny Meeny Miny Mo
+TTITLE4=These 'n' That 'n' Those
+TTITLE5=One, Two, Button Your Shoe
+TTITLE6=The Way You Look Tonight
+TTITLE7=With Thee I Swing
+TTITLE8=The Man I Love
+TTITLE9=A Fine Romance
+TTITLE10=It's Like Reaching For the Moon
+TTITLE11=Let's Call a Heart to Heart
+TTITLE12=I Cried for You
+TTITLE13=No Regrets
+TTITLE14=Who Loves You?
+TTITLE15=That's Life, I Guess
+TTITLE16=On the Sentimental Side
+TTITLE17=What a Night, What a Moon, What a Boy!
+TTITLE18=I Must Have That Man
+TTITLE19=Spreadin' Rhythm Around
+TTITLE20=You Go to My Head
+TTITLE21=Yankee Doodle Never Went to Town
+TTITLE22=Night and Day
+TTITLE23=Easy to Love
+TTITLE24=Yesterdays
+EXTD=
+EXTT0=Kahal-Fain\n
+EXTT1=Woods\n
+EXTT2=Holiday\n
+EXTT3=Malneck-Mercer\n
+EXTT4=Pascal-Fairchild\n
+EXTT5=Johnston-Burke\n
+EXTT6=Fields-Kern\n
+EXTT7=Adlam-Hyde-Stillman\n
+EXTT8=George Gershwin-Ira Gershmin\n
+EXTT9=Fields-Kern\n
+EXTT10=Sherman-Lewis-Marqesee\n
+EXTT11=Johnston-Burke\n
+EXTT12=Arnheim-Lyman-Freed\n
+EXTT13=Tobias-Ingraham\n
+EXTT14=Gaudio-Parker\n
+EXTT15=Lewis-De Rose\n
+EXTT16=Monaco-Burke
+EXTT17=Loeb
+EXTT18=Fields-McHugh
+EXTT19=Koehler-McHugh
+EXTT20=Gillespie-Coots
+EXTT21=Freed-Hanighen
+EXTT22=Porter
+EXTT23=Porter
+EXTT24=Kern-Harbach
+PLAYORDER=
