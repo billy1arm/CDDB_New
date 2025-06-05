@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13134
+#	26230
+#	37905
+#	48577
+#	60614
+#	74045
+#	90401
+#	102466
+#	116649
+#	131277
+#	144178
+#	160451
+#	173129
+#	185946
+#	200129
+#	215120
+#	236491
+#	249755
+#	268953
+#
+# Disc length: 3790 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=310ecc14
+DTITLE=Bud Powell - 10 Jazz Legends Vol 1 CD 8
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=I'll remember April
+TTITLE1=Somebody loves me
+TTITLE2=Bud's bubble
+TTITLE3=Off Minor
+TTITLE4=Everything happens to me
+TTITLE5=Celia
+TTITLE6=Cherokee
+TTITLE7=I'll keep loving you
+TTITLE8=Strictly confidential
+TTITLE9=So sorry, please
+TTITLE10=Get Happy
+TTITLE11=Sometimes I'm happy
+TTITLE12=Sweet Georgia brown
+TTITLE13=Yesterdays
+TTITLE14=April in Paris
+TTITLE15=Body and Soul
+TTITLE16=Un poco loco
+TTITLE17=Over the rainbow
+TTITLE18=Night in Tunisia
+TTITLE19=Parisian thoroughfare
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

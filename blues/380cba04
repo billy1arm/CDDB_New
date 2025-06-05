@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	42432
+#	94295
+#	194107
+#
+# Disc length: 3260 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=380cba04
+DTITLE=Kohsuke Mine - Balancez
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Tie Up
+TTITLE1=Sophia 15
+TTITLE2=Balancez
+TTITLE3=Spontaneous Combustion
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	76806
+#	121517
+#	160164
+#	220488
+#
+# Disc length: 3304 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=340ce605
+DTITLE=blacksheep - blacksheep
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Sky Clippings and Spinning Fragment
+TTITLE1=Black Sheep Song
+TTITLE2=God's in His Heaven, All's Right with the World
+TTITLE3=Dreams of Asphalt Waiting for Wind
+TTITLE4=Dream of an Arc Lamp
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

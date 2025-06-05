@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	66385
+#	116945
+#	175125
+#
+# Disc length: 2796 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=380aea04
+DTITLE=Alan Skidmore Quartet - Impressions of John Coltrane CD 2
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Summertime
+TTITLE1=Resolution
+TTITLE2=Weaver of Dreams
+TTITLE3=Take the Coltrane
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

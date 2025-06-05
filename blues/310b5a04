@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12219
+#	73301
+#	113868
+#
+# Disc length: 2908 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=310b5a04
+DTITLE=Sonny Rollins - Live In Europe  - Kind Of Rollins CD-8
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Without A Song (Youmans/Eliscu/Rose)
+TTITLE1=Green Dolphin Street (Kaper/Washington)
+TTITLE2=Solitude (Ellington/De Lange/Mills)
+TTITLE3=Sonneymoon For Two (Rollins)
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

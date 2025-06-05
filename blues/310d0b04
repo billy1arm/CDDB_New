@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	71261
+#	141025
+#	182848
+#
+# Disc length: 3341 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=310d0b04
+DTITLE=Anton Bruckner - Symphonie N°6 en la majeur  (Ferdinand Leitner, SWR Sinfonieorchester Baden-Baden und Freiburg)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Symphonie N°6 en la majeur - I. Maestoso
+TTITLE1=Symphonie N°6 en la majeur - II. Adagio - Sehr feierlich
+TTITLE2=Symphonie N°6 en la majeur - III. Scherzo - Nicht schnell
+TTITLE3=Symphonie N°6 en la majeur - IV. Finale - Bewegt, doch nicht zu schnell
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

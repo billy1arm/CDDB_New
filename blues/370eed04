@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	68957
+#	162277
+#	261565
+#
+# Disc length: 3823 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=370eed04
+DTITLE=David Murray Quartet - Live at Village Vanguard
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Red Car
+TTITLE1=The desagregation of our children
+TTITLE2=Acoustic Octofunk
+TTITLE3=Hope/Scope
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

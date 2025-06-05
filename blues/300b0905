@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33060
+#	78947
+#	111395
+#	176420
+#
+# Disc length: 2827 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=300b0905
+DTITLE=RED GARLAND TRIO - The Last Recording
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Have You Met Miss Jones
+TTITLE1=They Say It's Wonderful
+TTITLE2=My Funny Valentine
+TTITLE3=Love For Sale
+TTITLE4=The Second Time Around
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

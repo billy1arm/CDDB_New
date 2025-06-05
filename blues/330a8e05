@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48760
+#	100005
+#	137270
+#	170007
+#
+# Disc length: 2704 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=330a8e05
+DTITLE=Ron Carter, Herbie Hancock, Joe Henderson, Freddie Hubbard, Bobby Hutcherson, James Newton, Tony Williams - Town Hall Concert (Live 22/02/85)
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=1 - Cantaloupe Island
+TTITLE1=2 - Recorda Me
+TTITLE2=3 - Little B's Poem
+TTITLE3=4 - Bouquet
+TTITLE4=5 - Hat And Beard
+EXTD=Recorded live at Town Hall, New York City\nFebruary 22, 1985\n YEAR: 1985
+EXTT0=Herbie Hancock\nFreddie Hubbard\nJoe Henderson\nRon Carter\nTony Wil
+EXTT1=Joe Henderson\nHerbie Hancock\nFreddie Hubbard\nBobby Hutcherson\nRo
+EXTT2=Bobby Hutcherson\nJames Newton\nHerbie Hancock\nRon Carter\nTony Wil
+EXTT3=Bobby Hutcherson\nHerbie Hancock\nRon Carter
+EXTT4=
+PLAYORDER=

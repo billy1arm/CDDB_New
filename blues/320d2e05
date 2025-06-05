@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	76683
+#	134478
+#	176908
+#	225205
+#
+# Disc length: 3376 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=320d2e05
+DTITLE=Miles Davis - Live In Sindelfingen
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Milestones and Go-Go
+TTITLE1=All of You
+TTITLE2=Joshua
+TTITLE3=Autumn Leaves
+TTITLE4=Oleo
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

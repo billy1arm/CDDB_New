@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	96595
+#	197197
+#	219150
+#
+# Disc length: 3757 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=360eab04
+DTITLE=Charles Mingus - In Amsterdam 1964
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=OW (Dedicated To A Genius)
+TTITLE1=So Long Eric(Don't Stay Over There Too Long Eric)
+TTITLE2=A.T.F.W.U.S.A. (A.T.F.W.Y.O.U.)
+TTITLE3=Orange Was The Color Of Her Dress Then Blue Silk
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

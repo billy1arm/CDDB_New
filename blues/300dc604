@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36570
+#	124654
+#	180458
+#
+# Disc length: 3528 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=300dc604
+DTITLE=Miles Davis - The Last Trip To Vienna
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Perfect Way
+TTITLE1=New Blues (aka:Star People)
+TTITLE2=Tutu
+TTITLE3=Hannibal
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

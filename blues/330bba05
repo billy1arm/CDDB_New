@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48620
+#	87133
+#	135973
+#	187769
+#
+# Disc length: 3004 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=330bba05
+DTITLE=Mozart - Concerto pour flûte - Concerto pour piano N°23
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Concerto pour flûte, harpe et orchestre en ut majeur KV.299 - I. Allegro [Alberto Lizzio, Mozart Festival Orchestra]
+TTITLE1=Concerto pour flûte, harpe et orchestre en ut majeur KV.299 - II. Andantino
+TTITLE2=Concerto pour flûte, harpe et orchestre en ut majeur KV.299 - III. Rondo allegro
+TTITLE3=Concerto pour piano and orchestre N°23 en la majeur K.488 - I. Allegro [Tamàs Vàsàry, Budapest Chamber Symphony]
+TTITLE4=Concerto pour piano and orchestre N°23 en la majeur K.488 - II. Allegro assai
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

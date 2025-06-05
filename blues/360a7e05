@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	35044
+#	60415
+#	96990
+#	158527
+#
+# Disc length: 2688 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=360a7e05
+DTITLE=Buck Clayton All Stars - Copen hagen Concert Vol. 1
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=Outer Drive
+TTITLE1=Swinging at the Copper Rail
+TTITLE2=Moonglow
+TTITLE3=Night Train
+TTITLE4=Swinging along on Broadway
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

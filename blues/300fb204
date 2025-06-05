@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54150
+#	141112
+#	207217
+#
+# Disc length: 4020 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=300fb204
+DTITLE=Charlie Haden - The Montreal Tapes, Joe henderson, Al Foster
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Round Midnight
+TTITLE1=All The Things You Are
+TTITLE2=In The Moment
+TTITLE3=Passport
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

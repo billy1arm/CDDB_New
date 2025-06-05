@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38445
+#	64670
+#	95295
+#	151085
+#	183237
+#
+# Disc length: 3033 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=380bd706
+DTITLE=Phil Woods - Souvenirs
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Song for Sisyphus
+TTITLE1=Peer Pressure
+TTITLE2=Souvenir
+TTITLE3=Quill
+TTITLE4=C.K.'s Bossa
+TTITLE5=Ballad For Hank
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,30 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37537
+#	87942
+#	111992
+#	154395
+#
+# Disc length: 2686
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cddb.el 1.0 (Emacs 24.0.50.4)
+#
+DISCID=320a7c05
+DTITLE=Jonas Kullhammar quartet - Son of a Drummer
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Hitman
+TTITLE1=Stormen
+TTITLE2=Bendiksen
+TTITLE3=Corny waltz
+TTITLE4=The rise and fall of sour T
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33041
+#	76549
+#	91673
+#	153071
+#	187312
+#
+# Disc length: 2998 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=300bb406
+DTITLE=Eric Dolphy - Conversations
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Jitterbug Waltz
+TTITLE1=Music Matador
+TTITLE2=Love Me
+TTITLE3=Alone Together
+TTITLE4=Muses for Richard Davis (Previously Unissued 1)
+TTITLE5=Muses for Richard Davis (Previously Unissued 2)
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

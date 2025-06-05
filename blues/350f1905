@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24656
+#	81510
+#	121055
+#	202676
+#
+# Disc length: 3867 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=350f1905
+DTITLE=Various Artist - Jazz Roads CD394 - Bebop - Bebop Live Concerts Vol.5 (1947)
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Just Jazz Concert - Body And Soul
+TTITLE1=Just Jazz Concert - How High The Moon
+TTITLE2=Just Jazz Concert - I (Charlie's) Got Rhythm
+TTITLE3=Hollywood Jazz Concert - The Hunt (Rocks n' Shoals)
+TTITLE4=Hollywood Jazz Concert - Bopera (Disorder At The Border)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

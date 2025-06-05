@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30562
+#	64767
+#	113312
+#	198540
+#
+# Disc length: 3341 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=380d0b05
+DTITLE=John Coltrane - The Classic Quartet 1963
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=AFRO BLUE
+TTITLE1=THE PROMISE
+TTITLE2=I WANT TO TALK ABOUT YOU
+TTITLE3=MY FAVORITE THINGS
+TTITLE4=TRANEING IN
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33933
+#	59361
+#	81085
+#	97810
+#	160579
+#
+# Disc length: 2642 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=380a5006
+DTITLE=John Surman - Way Back When
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Way Back When -part 1
+TTITLE1=Way Back When -part 2
+TTITLE2=Way Back When -part 3
+TTITLE3=Way Back When -part4
+TTITLE4=Owlshead
+TTITLE5=Out and About
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

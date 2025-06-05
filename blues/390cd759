@@ -1,0 +1,283 @@
+# xmcd
+#
+# Track frame offsets:
+# 150
+# 6936
+# 12076
+# 16108
+# 20006
+# 26062
+# 33511
+# 37152
+# 39470
+# 42500
+# 48421
+# 53483
+# 56939
+# 61476
+# 65550
+# 68751
+# 74150
+# 81360
+# 85156
+# 87772
+# 90190
+# 92777
+# 95457
+# 98166
+# 100377
+# 103797
+# 105592
+# 107421
+# 109364
+# 115561
+# 120166
+# 123853
+# 125717
+# 127756
+# 129542
+# 130705
+# 131887
+# 133820
+# 134991
+# 138201
+# 139392
+# 141313
+# 143569
+# 145805
+# 148268
+# 150395
+# 154177
+# 156449
+# 158505
+# 161594
+# 163401
+# 164580
+# 166629
+# 168493
+# 170570
+# 172379
+# 174520
+# 176603
+# 179834
+# 181269
+# 182797
+# 184325
+# 187678
+# 192303
+# 194711
+# 197189
+# 198582
+# 199838
+# 201170
+# 202502
+# 207158
+# 209805
+# 216617
+# 217774
+# 219507
+# 221283
+# 226100
+# 227716
+# 229986
+# 232317
+# 234195
+# 235778
+# 236936
+# 238093
+# 239209
+# 240440
+# 242078
+# 243341
+# 245134
+#
+# Disc length: 3289 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Audion 3.0.2 (http://www.panic.com/audion/)
+#
+DISCID=390cd759
+DTITLE=Peter Gelling - Rhythm Guitar
+DYEAR=1900
+DGENRE=
+TTITLE0=p07 Tuner
+TTITLE1=p17 C-D7-C/D7
+TTITLE2=p18 G7 - C/G7/D7 
+TTITLE3=p19 A-E-D
+TTITLE4=p20  A-D-E 12 Bar Blues
+TTITLE5=p22 Eighth Note Patterns I
+TTITLE6=p23 Eighth Note Patterns II
+TTITLE7=p24 E7 A7
+TTITLE8=p25-4 Minor Chords
+TTITLE9=p26 3/4 Time Patterns
+TTITLE10=p28-5 Turnarounds
+TTITLE11=p30-6 Bm
+TTITLE12=p31  B7
+TTITLE13=p32-7 Silent and Continuous Strums
+TTITLE14=p33 Rhythm Variations
+TTITLE15=p34-8 Suspended Chords A-D-E
+TTITLE16=p36-9  Bass Note Rhythms 4/4
+TTITLE17=p39-10 Alt Chord Shapes
+TTITLE18=p40 Blues In E
+TTITLE19=p44-11 Open Position Strings
+TTITLE20=p45-12 Notes On 1st String
+TTITLE21=p47  Notes On 2nd String  1/2 Notes
+TTITLE22=p48 Notes On 3rd String
+TTITLE23=p50-13 Counting Eighth Notes
+TTITLE24=p51 Alternate Picking
+TTITLE25=p52-14 Notes On 4th String
+TTITLE26=p53 Notes On 5th String
+TTITLE27=p54 Notes On 6th String
+TTITLE28=p55-15 Rhythm Notation
+TTITLE29=p57 Ties
+TTITLE30=p58 The Lead In
+TTITLE31=p60-16 The Chromatic Scale
+TTITLE32=p61 Sharps Naturals Flats 
+TTITLE33=p63 E Chromatic Scale
+TTITLE34=p63 A5-F5-E5-D5-C5-G5-A5
+TTITLE35=p64-17 The Major Scale
+TTITLE36=p65 C Major Scale
+TTITLE37=p65 G Major Scale
+TTITLE38=p69-18 Intervals
+TTITLE39=p74-19 Arpeggios 
+TTITLE40=p74 C-G-D
+TTITLE41=p76-20  Cm  Gm  
+TTITLE42=p76 Major and Minor Arpeggios
+TTITLE43=p77 Augmented and Diminished
+TTITLE44=p77 M m Aug Dim
+TTITLE45=p78-21 Scale Tone Chords
+TTITLE46=p80-21 Harmonising Melodies
+TTITLE47=p83-22 Natural Minor Scale
+TTITLE48=p84 A Harmonic Minor Scale
+TTITLE49=p85 A min Arpeggio
+TTITLE50=p86  Melodic Minor Scale
+TTITLE51=p88-23 Relative Keys
+TTITLE52=p89-24 Minor Key Scale Tone Triads
+TTITLE53=p90 Slash Chords - Bass Runs
+TTITLE54=p91 Tranposing In Minor Keys
+TTITLE55=p92 A Harmonic Minor
+TTITLE56=p93 A Melodic Minor
+TTITLE57=p94 The 6/8 Time Signature
+TTITLE58=p96-25 Playing 2 Strings
+TTITLE59=p97 Power Chords
+TTITLE60=p97 Moveable  Power Chords
+TTITLE61=p98 Right Hand Damping
+TTITLE62=p99 Rock 'N' Roll Chords
+TTITLE63=p100 12 Bar Blues In A
+TTITLE64=p101-26 Rests 
+TTITLE65=p102 The Eighth Rest
+TTITLE66=p102 Rests With Chords
+TTITLE67=p103-27 Identifying Rhythms
+TTITLE68=p103 Bb5-A5
+TTITLE69=p104 Percussive Strumming
+TTITLE70=p105 Accents 
+TTITLE71=p106 Accent Variations
+TTITLE72=p106 Single Notes
+TTITLE73=p107 Staccato
+TTITLE74=p107 2 Strings With 1st  finger
+TTITLE75=p108 Add9 Chords
+TTITLE76=p109 EmAdd9
+TTITLE77=p109 Minor Add9 Chords
+TTITLE78=p110 Adding Scale Tones
+TTITLE79=p111-28 Syncopation
+TTITLE80=p111 Rests and Ties On The Beat
+TTITLE81=p112 Riffs
+TTITLE82=p112 Riffs in E5
+TTITLE83=p112 Riffs In A5
+TTITLE84=p113 Riffs
+TTITLE85=p113 Riffs
+TTITLE86=p113 Riffs
+TTITLE87=p114 Chasing The Riff
+TTITLE88=p115 Rattlesnake Rock
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	66500
+#	161914
+#	255898
+#
+# Disc length: 3456 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=310d7e04
+DTITLE=Miles Davis - Cellar Door Dec. 19, 1970 (Disk1)
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Directions
+TTITLE1=Honky Tonk
+TTITLE2=What I Say
+TTITLE3=Sanctuary
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

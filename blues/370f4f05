@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	62349
+#	106025
+#	125638
+#	235210
+#
+# Disc length: 3921 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=370f4f05
+DTITLE=First Meeting - Cut the Rope
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Cut The Rope
+TTITLE1=Headwaters
+TTITLE2=Flashback
+TTITLE3=Kaleidoscopic
+TTITLE4=Sublimation
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

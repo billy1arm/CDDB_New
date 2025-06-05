@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53319
+#	112716
+#	182289
+#	223080
+#
+# Disc length: 3801 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=310ed705
+DTITLE=Gustaf Mahler - Symphonie Nr. 5
+DYEAR=1995
+DGENRE=Classical
+TTITLE0=Symphonie Nr. 5 - 1. Trauermarsch
+TTITLE1=Symphonie Nr. 5 - 2. Stürmisch bewegt
+TTITLE2=Symphonie Nr. 5 - 3. Scherzo
+TTITLE3=Symphonie Nr. 5 - 4. Adagietto
+TTITLE4=Symphonie Nr. 5 - 5. Rondo-Finale - Allegro - Allegro giocodo
+EXTD=Radio Symphony Orchestra Lijubijana YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

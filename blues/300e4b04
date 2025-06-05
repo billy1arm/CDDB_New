@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44815
+#	135355
+#	228411
+#
+# Disc length: 3661 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=300e4b04
+DTITLE=Kevin Kendle - Music For Yoga
+DYEAR=2002
+DGENRE=New Age
+TTITLE0=Sunlight 
+TTITLE1=Stars
+TTITLE2=Still Air
+TTITLE3=Returning
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

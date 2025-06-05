@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32936
+#	83140
+#	135152
+#	187903
+#
+# Disc length: 3338 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=330d0805
+DTITLE=Dave Holland and Co. - Dave Holland and Co. At The Newport Jazz Festival 2008
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Dave Holland and Co. - Treachery (Harland)
+TTITLE1=Dave Holland and Co. - Minotaur (Potter)
+TTITLE2=Dave Holland and Co. - Fifty (Rubalcaba)
+TTITLE3=Dave Holland and Co. - Veil of Tears (Holland)
+TTITLE4=Dave Holland and Co. - Ask Me Why by (Potter)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

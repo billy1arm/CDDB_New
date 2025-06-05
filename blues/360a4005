@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46905
+#	78315
+#	116675
+#	166475
+#
+# Disc length: 2626 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=360a4005
+DTITLE=Milt Jackson - Sunflower 
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=For Someone I Love (Album Version)
+TTITLE1=What Are You Doing The Rest Of Your Life? (Album Version)
+TTITLE2=People Make The World Go Round (Album Version)
+TTITLE3=Sunflower (Album Version)
+TTITLE4=SKJ (Album Version)
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

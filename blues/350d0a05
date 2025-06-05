@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	80515
+#	113931
+#	204996
+#	233562
+#
+# Disc length: 3340 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=350d0a05
+DTITLE=Horacio ¨ Chivo ¨ Borraro - Jazz Suite
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=Sax Suite:Vals
+TTITLE1=Sax Suite:Balada
+TTITLE2=Sax Suite:Blues
+TTITLE3=I can´t get started
+TTITLE4=El vengador
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

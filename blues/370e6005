@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	67672
+#	116933
+#	182636
+#	248362
+#
+# Disc length: 3682 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=370e6005
+DTITLE=Hugo Liscano y Javier Galué - Meditacion V
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=Meditacion 5-1
+TTITLE1=Meditacion 5-2
+TTITLE2=Meditacion 5-3
+TTITLE3=Meditacion 5-4
+TTITLE4=Meditacion 5-5
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39966
+#	91973
+#	142643
+#	189419
+#
+# Disc length: 3207 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=300c8505
+DTITLE=Manhattan Jazz Quintet - Take Five
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Caravan
+TTITLE1=A Dawn In Asia
+TTITLE2=Take Five 
+TTITLE3=Manteca
+TTITLE4=A Night In Tunisia
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

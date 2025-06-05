@@ -1,0 +1,97 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	33980
+#	87000
+#	108182
+#	125885
+#	161400
+#	168385
+#	172347
+#	176245
+#	183942
+#	188382
+#	192582
+#	195712
+#	203722
+#	207025
+#	210875
+#	220335
+#	226755
+#	233290
+#	236325
+#	240232
+#	243492
+#	252660
+#
+# Disc length: 3728 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=320e8e17
+DTITLE=Thomas Lorango, Piano - Brahms: Sonata No.3 in F Minor, 
+DTITLE=Op. 5 - Schumann, Etudes Symphoniques, Op. 13
+DYEAR=1900
+DGENRE=
+TTITLE0=Brahms: Sonata No.3 in F Minor, Op. 5 - Allegro maestos
+TTITLE0=o
+TTITLE1=Brahms: Sonata No.3 in F Minor, Op. 5 - Andante espress
+TTITLE1=ivo
+TTITLE2=Brahms: Sonata No.3 in F Minor, Op. 5 - Scherzo: Allegr
+TTITLE2=o energico
+TTITLE3=Brahms: Sonata No.3 in F Minor, Op. 5 - Intermezzo: And
+TTITLE3=ante molto
+TTITLE4=Brahms: Sonata No.3 in F Minor, Op. 5 - Finale: Allegro
+TTITLE4=moderato ma rubato
+TTITLE5=Schumann, Etudes Symphoniques, Op. 13 - Theme
+TTITLE6=Schumann, Etudes Symphoniques, Op. 13 - Etude #1
+TTITLE7=Schumann, Etudes Symphoniques, Op. 13 - Posthumous Vari
+TTITLE7=ation #1
+TTITLE8=Schumann, Etudes Symphoniques, Op. 13 - Etude #2
+TTITLE9=Schumann, Etudes Symphoniques, Op. 13 - Etude #3
+TTITLE10=Schumann, Etudes Symphoniques, Op. 13 - Etude #4
+TTITLE11=Schumann, Etudes Symphoniques, Op. 13 - Etude #5
+TTITLE12=Schumann, Etudes Symphoniques, Op. 13 - Posthumous Var
+TTITLE12=iation #4
+TTITLE13=Schumann, Etudes Symphoniques, Op. 13 - Etude #6
+TTITLE14=Schumann, Etudes Symphoniques, Op. 13 - Etude #7
+TTITLE15=Schumann, Etudes Symphoniques, Op. 13 - Posthumous Var
+TTITLE15=iation #2
+TTITLE16=Schumann, Etudes Symphoniques, Op. 13 - Posthumous Var
+TTITLE16=iation #5
+TTITLE17=Schumann, Etudes Symphoniques, Op. 13 - Etude #8
+TTITLE18=Schumann, Etudes Symphoniques, Op. 13 - Etude #9
+TTITLE19=Schumann, Etudes Symphoniques, Op. 13 - Posthumous Var
+TTITLE19=iation #3
+TTITLE20=Schumann, Etudes Symphoniques, Op. 13 - Etude #10
+TTITLE21=Schumann, Etudes Symphoniques, Op. 13 - Etude #11
+TTITLE22=Schumann, Etudes Symphoniques, Op. 13 - Etude #12
+EXTD=Newport Classic\nNCD 60108
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+PLAYORDER=

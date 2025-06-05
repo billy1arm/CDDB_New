@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57011
+#	130130
+#	187296
+#
+# Disc length: 3406 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=350d4c04
+DTITLE=Rimsky-Korsakov, Nikolay - Rimsky-Korsakov - Scheherazade (Celibidache =MPO)
+DYEAR=2001
+DGENRE=Classical
+TTITLE0=Scheherazade, Op.35 - 1. The Sea and Sindbad's Ship
+TTITLE1=Scheherazade, Op.35 - 2. The Tale of the Kalender-Prince
+TTITLE2=Scheherazade, Op.35 - 3. The Young Prince and the Young Princess
+TTITLE3=Scheherazade, Op.35 - 4. Festival at the Bagdad - The Sea - The Ship is wrecked on arock surmounted by bronz
+EXTD=YEAR: 2001 ID3G: 32
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

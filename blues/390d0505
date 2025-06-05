@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	150154
+#	207292
+#	235204
+#	245207
+#
+# Disc length: 3335 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=390d0505
+DTITLE=Mat Maneri - Happening (Disc1)
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Happening (One)
+TTITLE1=Happening (Two)
+TTITLE2=Happening (Three)
+TTITLE3=Happening (Encore)
+TTITLE4=Happening (Sound Check)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

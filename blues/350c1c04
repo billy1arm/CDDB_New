@@ -1,0 +1,30 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	44103
+#	94340
+#	144250
+#
+# Disc length: 3102 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=350c1c04
+DTITLE=Cheikha Rimitti - [unreleasd Tracks From Th Sidi Mansour
+DTITLE=Album]
+DYEAR=1900
+DGENRE=
+TTITLE0=Mendirch El Haseb
+TTITLE1=Rah Yabki
+TTITLE2=Rah Yabki
+TTITLE3=Lillette El Ouihda
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	117425
+#	184684
+#	266924
+#
+# Disc length: 3975 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=360f8504
+DTITLE=Keith Jarrett - The Köln Concert
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Part I
+TTITLE1=Part IIa
+TTITLE2=Part IIb
+TTITLE3=Part IIc
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

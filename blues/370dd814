@@ -1,0 +1,77 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     14707
+#     28920
+#     41562
+#     54990
+#     66302
+#     79272
+#     91492
+#     105440
+#     119152
+#     131210
+#     146770
+#     159297
+#     170232
+#     184172
+#     194827
+#     206270
+#     219887
+#     237405
+#     253345
+# 
+# Disc length: 3546 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=370dd814
+DTITLE=Various Artist - Mojo Working
+DYEAR=1900
+DGENRE=
+TTITLE0=Dust my blues, Elmore James
+TTITLE1=Boogie Chillen, John Lee Hooker
+TTITLE2=Little School Girl, Smokey Hogg
+TTITLE3=Happy Pay Day, Little Willie Littlefield
+TTITLE4=Blues After Hours, Pee Wee Crayton
+TTITLE5=Please Love Me, B.B. King
+TTITLE6=Lonesome Dog Blues, Lightnin' Hopkins
+TTITLE7=Ridin' in the moonlight, Howling Wolf
+TTITLE8=The things I used to do, Guitar Slim
+TTITLE9=I miss you so, Ike Turner
+TTITLE10=Three hours past midnight, Johnny 'Guitar' Watson
+TTITLE11=Baby let's play house, Arthur Gunter
+TTITLE12=I'm a mojo man, Lonesome Sundown
+TTITLE13=I'm a king bee, Slim Harpo
+TTITLE14=Hoo doo blues, Lightnin' Slim
+TTITLE15=I'm a lover not a fighter, Lazy Lester
+TTITLE16=Rock me baby, B.B. King
+TTITLE17=Part time love, Little Johnny Taylor
+TTITLE18=Black nights, Lowell Fulson
+TTITLE19=Born under a bad sign, Albert King
+EXTD=
+EXTT0=Elmore James
+EXTT1=John Lee Hooker
+EXTT2=Smokey Hogg
+EXTT3=Little Willie Littlefield
+EXTT4=Pee Wee Crayton
+EXTT5=B.B. King
+EXTT6=Lightnin' Hopkins
+EXTT7=Howling Wolf
+EXTT8=Guitar Slim
+EXTT9=Ike Turner
+EXTT10=Johnny 'Guitar' Watson
+EXTT11=Arthur Gunter
+EXTT12=Lonesome Sundown
+EXTT13=Slim Harpo
+EXTT14=Lightnin' Slim
+EXTT15=Lazy Lester
+EXTT16=B.B. King
+EXTT17=Little Johnny Taylor
+EXTT18=Lowell Fulson
+EXTT19=Albert King
+PLAYORDER=

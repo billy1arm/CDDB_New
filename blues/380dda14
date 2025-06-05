@@ -1,0 +1,76 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 183
+# 11608
+# 22145
+# 32265
+# 44933
+# 54828
+# 67640
+# 78853
+# 96763
+# 112413
+# 124388
+# 133978
+# 147583
+# 161583
+# 178945
+# 188653
+# 206150
+# 221875
+# 239160
+# 253820
+#
+# Disc length: 3548 seconds
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.3.330
+#
+DISCID=380dda14
+DTITLE=Various Artist - British Rock Legends - Mayall-Clapton-Page-Beck
+DYEAR=1900
+DGENRE=
+TTITLE0=Eric Clapton - Snack Drive
+TTITLE1=Eric Clapton - West Coast Idea
+TTITLE2=John Mayall - I'm Your Witch Doctor
+TTITLE3=John Mayall - On Top Of The World
+TTITLE4=Eric Clapton - Tribute To Elmore
+TTITLE5=Eric Clapton, Jimmy Page - Freight Leader
+TTITLE6=Eric Clapton, Jimmy Page - Miles Road
+TTITLE7=John Mayall - Telephone Blues
+TTITLE8=Jimmy Page - Down In The Boots
+TTITLE9=Jeff Beck - Steelin'
+TTITLE10=Jimmy Page - L.A. Breakdown
+TTITLE11=Nicky Hopkins - Piano Shuffle
+TTITLE12=Jeremy Spencer - Look Down At My Woman
+TTITLE13=Savoy Brown - Cold Blooded Woman
+TTITLE14=Darma Blues Band - Roll 'Em Pete
+TTITLE15=Albert Lee - The Next Milestone
+TTITLE16=Albert Lee - Water On My Fire
+TTITLE17=Albert Lee - Crosstown Link
+TTITLE18=Rod Stewart - So Much to Say, To Little Time
+TTITLE19=Fleetwood Mac - Somebody Had Their Head Kicked In Tonighht
+EXTD=Despite the title, there's several other performers-bands.
+EXTT0=Eric Clapton\n
+EXTT1=Eric Clapton\n
+EXTT2=John Mayall\n
+EXTT3=John Mayall\n
+EXTT4=Eric Clapton\n
+EXTT5=Eric Clapton-Jimmy Page\n
+EXTT6=Eric Clapton-Jimmy Page\n
+EXTT7=John Mayall\n
+EXTT8=Jimmy Page\n
+EXTT9=Jeff Beck\n
+EXTT10=Jimmy Page\n
+EXTT11=Nicky Hopkins\n
+EXTT12=Jeremy Spencer\n
+EXTT13=Savoy Brown\n
+EXTT14=Darma Blues Band\n
+EXTT15=Albet Lee\n
+EXTT16=Albert Lee\n
+EXTT17=Albert Lee\n
+EXTT18=Rod Stewart\n
+EXTT19=Fleetwood Mac\n
+PLAYORDER=

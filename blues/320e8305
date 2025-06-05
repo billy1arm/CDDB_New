@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46402
+#	113998
+#	159014
+#	233116
+#
+# Disc length: 3717 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=320e8305
+DTITLE=Mark Bender - Engel
+DYEAR=2004
+DGENRE=New Age
+TTITLE0=Angel1
+TTITLE1=Angel2
+TTITLE2=Angel3
+TTITLE3=Angel4
+TTITLE4=Angel5
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

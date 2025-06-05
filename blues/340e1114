@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13332
+#	31340
+#	42160
+#	61300
+#	74307
+#	86065
+#	100267
+#	115247
+#	135682
+#	147007
+#	156522
+#	171127
+#	185932
+#	198342
+#	209482
+#	223045
+#	236197
+#	244672
+#	257835
+#
+# Disc length: 3603 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=340e1114
+DTITLE=Various Artist - 50 ans de grandes voix françaises  [CD 5-6]  Enregistrements d'origine 78 tours remasterisés
+DYEAR=2001
+DGENRE=Chants
+TTITLE0=Georges Thill - Les oiseaux dans le soir
+TTITLE1=Georges Thill - Pensée d'automne
+TTITLE2=Georges Thill - La maison grise  (de 'Fortunio')
+TTITLE3=Germaine Cernay - Berceuse de Jocelyn
+TTITLE4=Germaine Cernay - Chanson de Solveig  (de 'Peer Gynt')
+TTITLE5=André Baugé - La ronde des heures
+TTITLE6=André Baugé - Les vieilles de chez nous
+TTITLE7=André Baugé - Célèbre sérénade
+TTITLE8=Yvonne Printemps - Plaisir d'amour
+TTITLE9=Yvonne Printemps - Au clair de la lune
+TTITLE10=Vanni Marcoux - Envoi de fleurs
+TTITLE11=Vanni Marcoux - L'étoile d'amour
+TTITLE12=Vanni Marcoux - Vous êtes si jolie
+TTITLE13=Louis Lynel - L'angélus de la mer
+TTITLE14=Louis Lynel - Les Ménétriers
+TTITLE15=Louis Lynel - Nuits de Chine
+TTITLE16=Leila Ben Sedira - Les filles de Cadix
+TTITLE17=Leila Ben Sedira - Chanson de Fortunio
+TTITLE18=Ninon Vallin - D'une prison
+TTITLE19=Ninon Vallin - Les berceaux
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

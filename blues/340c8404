@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	77445
+#	125890
+#	206920
+#
+# Disc length: 3206 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=340c8404
+DTITLE=Brussels Jazz Orchestra, Royal  Flemish Philharmonic and Bert Joris - Dangerous Liaison
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Dangerous Liaisons
+TTITLE1=Anna
+TTITLE2=Between Hope And Despair
+TTITLE3=Alone At last
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

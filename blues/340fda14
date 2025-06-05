@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	15707
+#	30782
+#	51332
+#	77432
+#	87632
+#	100532
+#	124982
+#	136657
+#	152957
+#	168632
+#	178757
+#	193982
+#	213557
+#	224432
+#	245207
+#	260807
+#	281657
+#	287057
+#	294332
+#
+# Disc length: 4060 seconds
+#
+# Revision: 11
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=340fda14
+DTITLE=Antonio Vivaldi - The Four Seasons
+DYEAR=1971
+DGENRE=Classical
+TTITLE0=Spring #1/3
+TTITLE1=Spring #2/3
+TTITLE2=Spring #3/3
+TTITLE3=Summer #1/3
+TTITLE4=Summer #2/3
+TTITLE5=Summer #3/3
+TTITLE6=Autumn #1/3
+TTITLE7=Autumn #2/3
+TTITLE8=Autumn #3/3
+TTITLE9=Winter #1/3
+TTITLE10=Winter #2/3
+TTITLE11=Winter #3/3
+TTITLE12=Concerto a 5 E-dur "L'amoroso" #1/3
+TTITLE13=Concerto a 5 E-dur "L'amoroso" #2/3
+TTITLE14=Concerto a 5 E-dur "L'amoroso"#3/3
+TTITLE15=Symphony a 4 h-moll "Al Santo Sepolcro" #1/2
+TTITLE16=Symphony a 4 h-moll "Al Santo Sepolcro" #2/2
+TTITLE17=Concerto a 4 G-dur "Alla rustica" #1/3
+TTITLE18=Concerto a 4 G-dur "Alla rustica" #2/3
+TTITLE19=Concerto a 4 G-dur "Alla rustica" #3/3
+EXTD=YEAR: 1971
+EXTT0=Muddy Waters
+EXTT1=John Lee Hooker
+EXTT2=Cream
+EXTT3=
+EXTT4=Buddy Guy
+EXTT5=Albert King
+EXTT6=Fleetwod Mac
+EXTT7=Robbie Robertson
+EXTT8=Santana
+EXTT9=Erma Franklin
+EXTT10=Little Feat
+EXTT11=Canned Heat
+EXTT12=Howlin' Wolf
+EXTT13=Etta James
+EXTT14=The Commitments
+EXTT15=Robert Cray Band
+EXTT16=Dire Straits
+EXTT17=Chris Rea
+EXTT18=Derek and The Dominoes
+EXTT19=J.J. Cale
+PLAYORDER=
