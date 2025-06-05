@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28954
+#	55579
+#	69071
+#	82570
+#	129147
+#	135674
+#	146926
+#	153536
+#	167598
+#	173222
+#	184519
+#	195801
+#	208368
+#	213023
+#	220527
+#
+# Disc length: 3058 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=d00bf010
+DTITLE=The Swingle Singers  (Arr. Ward Swingle To Jazz) - Anyone for Mozart, Bach, Haendel, Vivaldi
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Mozart - Piano Sonata no15 K545
+TTITLE1=Variations sur Ah! vous dirais-je maman K265 (Twinkle Twinkle Little Star)
+TTITLE2=Mozart - Piano Sonata no14 K333 Allegro
+TTITLE3=Mozart - Violin Sonata no37 K402 Fugue
+TTITLE4=Mozart - Eine Kleine Nachtmusik Serenade No. 13 In G-Dur, KV525
+TTITLE5=JSB - Suite no2 BWV 1067 Badinerie
+TTITLE6=JSB - Harpsichord Suite no.5 In E-Dur - Air With 5 Variations "The Harmonious Blacksmith"
+TTITLE7=JSB - Sonate Violoncelle Suite no.3 In C-Dur, BWV 1009 - 6. Gigue
+TTITLE8=JSB - Cembalo Concerto no.5 In f-moll, BWV 1056 - 2. Arioso
+TTITLE9=JSB - The Well-Tempered Clavier Book 1 - Prelude And Fugue no.19 In A-Dur, BWV 864 - 1. Prelude
+TTITLE10=JSB - Partita For Keyboard no.5 In G-Dur, BWV 829 - 1. Prelude
+TTITLE11=AViv - Concerto "L'Estro Harmonico", Op.3 no.11 For 2 Violins, Cello, Strings And Continuo In d-moll - Fugue
+TTITLE12=JSB - The Well-Tempered Clavier Book 2 - Prelude And Fugue no.07 In Es-Dur, BWV 876 - 1. Prelude
+TTITLE13=H - Solfeggio For Piano In c-moll, H. 220, Wq. 117 No. 2
+TTITLE14=H - Works  Der Fruhling
+TTITLE15=JSB - The Well-Tempered Clavier Book 2 - Prelude And Fugue no.24 In h-moll, BWV 893 - 1. Prelude
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18148
+#	37386
+#	71680
+#	92446
+#	121182
+#	141969
+#	170919
+#	188448
+#	214763
+#	245479
+#	264868
+#	279834
+#	305150
+#	325927
+#
+# Disc length: 4591 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=d511ed0f
+DTITLE=Various Artist - Venet Jazz 20th anniversary
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Esbjorn Svensson Trio - Goldwrap
+TTITLE1=Chick Corea and Geoffrey Keezer - Intimidation
+TTITLE2=High Five - Wide Green Eyes
+TTITLE3=Hancock Williams Shorter Foster - Something More
+TTITLE4=Yamandu Costa - El Negro del bianco
+TTITLE5=Jef Neve Trio - Fur Lize
+TTITLE6=Eddie Gomez Trio - We will meet Again
+TTITLE7=Sarah Jane Morris - River Man
+TTITLE8=Enrico Rava - Dear Old Stockolm
+TTITLE9=Stefano Bollani - Blueberry Hill
+TTITLE10=Ivan Lins - Somos Todos Iguais Nesta Noite
+TTITLE11=Galliano Fresu Lundgren - The Seagull
+TTITLE12=Giovanni Guidi Trio - Turnaround
+TTITLE13=Franco d'Andrea - Cherokee
+TTITLE14=Chet Baker - Peace
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

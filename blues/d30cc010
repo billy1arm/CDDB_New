@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13207
+#  26315
+#  41860
+#  57235
+#  71312
+#  91565
+#  104852
+#  122907
+#  139012
+#  158560
+#  172762
+#  187682
+#  200727
+#  214627
+#  230000
+#
+# Disc length: 3266 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=d30cc010
+DTITLE=Johnny Shines - Standing At The Crossroads
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Standing At The Crossroads
+TTITLE1=Milk Cow's Troubles
+TTITLE2=Death Hearse Blues
+TTITLE3=Drunken Man's Prayer
+TTITLE4=Hoo-Doo Snake Doctor Blues
+TTITLE5=It's A Lowdown Dirty Shame
+TTITLE6=How Long
+TTITLE7=Crying Black Angel
+TTITLE8=Down in Spirit
+TTITLE9=Your Troubles Can't Be Like Mine
+TTITLE10=Kind-Hearted Woman
+TTITLE11=Baby Sister Blues
+TTITLE12=My Rat
+TTITLE13=Don't Take A Country Woman
+TTITLE14=Kind-Hearted Woman (Alt.)
+TTITLE15=Death Hearse Blues (Alt.)
+EXTD=TCD 5022\n\nSubmitted 7/2/97\n[Jmccoy@efn.org]
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40490
+#	62925
+#	82250
+#	102790
+#	124052
+#	142475
+#	156082
+#	179392
+#	203582
+#	226030
+#	247747
+#	268365
+#	290750
+#
+# Disc length: 4132 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=d410220e
+DTITLE=Louis Armstrong - Blues 'N' More
+DYEAR=1991
+DGENRE=Blues
+TTITLE0=St.Louis Blues
+TTITLE1=Aunt Hagar's Blues
+TTITLE2=Yellow Dog Blues
+TTITLE3=Loveless love
+TTITLE4=Black And Blue
+TTITLE5=Ain't Misbehavin'
+TTITLE6=The Memphis Blues
+TTITLE7=Squeeze Me
+TTITLE8=Hesistating Blues
+TTITLE9=Beale Street Blues
+TTITLE10=Chantez ... Les Bas
+TTITLE11=Atlanta Blues
+TTITLE12=Blue Turning Grey Over You
+TTITLE13=Long Gone
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

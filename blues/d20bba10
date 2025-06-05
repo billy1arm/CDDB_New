@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14415
+#	27270
+#	40180
+#	53465
+#	70985
+#	91523
+#	98688
+#	111268
+#	128655
+#	151480
+#	164898
+#	178170
+#	191520
+#	202730
+#	213565
+#
+# Disc length: 3004 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=d20bba10
+DTITLE=Fleetwood Mac - Looking Back On
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Albatross
+TTITLE1=Looking For Someone
+TTITLE2=My Baby's Good To Me
+TTITLE3=I Loved Another Woman
+TTITLE4=If You Be My Baby
+TTITLE5=Without You
+TTITLE6=Jigsaw Puzzle Blues
+TTITLE7=Black Magic Woman
+TTITLE8=Need Your Love So Bad
+TTITLE9=Love That Burns
+TTITLE10=My Heart Beat Like A Hammer
+TTITLE11=I Believe My Time Ain't Long
+TTITLE12=Shake Your Money Maker
+TTITLE13=The World Keep On Turning
+TTITLE14=Stop Messin' Round
+TTITLE15=Coming Home
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

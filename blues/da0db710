@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     10100
+#     33170
+#     51400
+#     75320
+#     89303
+#     99515
+#     126785
+#     131313
+#     142005
+#     183350
+#     188693
+#     197328
+#     208165
+#     223495
+#     241418
+# 
+# Disc length: 3513 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=da0db710
+DTITLE=James Brown - The Magic Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Give It Up Turn It Loose
+TTITLE1=Too Funky In Here
+TTITLE2=Gonna Have A Funky Good Time
+TTITLE3=Try Me
+TTITLE4=Get On The Good Foot
+TTITLE5=Get Up Offa That Thing
+TTITLE6=Georgia On My Mind
+TTITLE7=Hot Pants
+TTITLE8=I Got The Feeling
+TTITLE9=It's A Man's Man's Man's World
+TTITLE10=Cold Sweat
+TTITLE11=I Can't Stand It
+TTITLE12=Papa Got A Brand New Bag
+TTITLE13=I Feel Good
+TTITLE14=Please Please Please
+TTITLE15=Jam
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

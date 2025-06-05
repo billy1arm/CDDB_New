@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18937
+#	39810
+#	64197
+#	82675
+#	94910
+#	115520
+#	136212
+#	161722
+#	186117
+#	204602
+#	218202
+#	231762
+#	247745
+#	271135
+#	285125
+#	298040
+#
+# Disc length: 4300 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=db10ca11
+DTITLE=Various Artist - Scandinavian Moods
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Quincy Jones With Harry Arnold And The Swedish Radio Studio Orchestra - The Midnight Sun Never Sets
+TTITLE1=Rebecka Törnqvit - Wander Where You Might Wander
+TTITLE2=Cæcilie Nørby - Snow
+TTITLE3=Jonas Knutsson - Leaning Into Mine
+TTITLE4=Monica Zetterlund - Ack Värmeland Du Sköna
+TTITLE5=Jan Johansson - Visa Från Utanmyra
+TTITLE6=Cardigans - Black Letter Day
+TTITLE7=Lars Gullin - Danny's Dream
+TTITLE8=Trine-Lise Væring - What If
+TTITLE9=Dilba - Last Call
+TTITLE10=Anne Grete Preus - Stockholm
+TTITLE11=Cornelis Vreeswijk - Somliga Går Med Trasiga Skor
+TTITLE12=Niels Henning Ørsted-Pedersen - En Yndig Og Frydeful Sommertid
+TTITLE13=Radka Toneff and Steve Dobrogosz - Wasted
+TTITLE14=Stina Nordenstam - He Watches Her From Behind
+TTITLE15=Stan Getz - Dear Old Stockholm
+TTITLE16=Masqualero - Til Radka
+EXTD=
+EXTT0=Guincy Jones\n
+EXTT1=Rebecka T rnqvist
+EXTT2=Caec lie Norby
+EXTT3=Jonas Knutsson
+EXTT4=Monica Zetterlund
+EXTT5=Jan Johansson
+EXTT6=Cardigans
+EXTT7=Lars Gullin
+EXTT8=Trine-lise Vaering
+EXTT9=Dilba
+EXTT10=Anne Grete Preus
+EXTT11=Cornelius Vreeswijk
+EXTT12=Niels Henning Oersted-Pedersen
+EXTT13=Radka Toneff and Steve Dobrogosz
+EXTT14=Stina Nordenstam
+EXTT15=Stan Gets
+EXTT16=Masuqualero
+PLAYORDER=

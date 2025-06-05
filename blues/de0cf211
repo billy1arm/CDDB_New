@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15400
+#	31582
+#	46880
+#	61367
+#	75325
+#	90842
+#	107215
+#	122150
+#	135035
+#	149495
+#	163440
+#	177992
+#	191780
+#	206875
+#	219657
+#	234025
+#
+# Disc length: 3316 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.2
+#
+DISCID=de0cf211
+DTITLE=Glenn Miller - The Immortal Glenn Miller
+DYEAR=1900
+DGENRE=
+TTITLE0=Moonlight Serenade
+TTITLE1=In The Mood
+TTITLE2=Chattanooga Choo Choo
+TTITLE3=My Blue Heaven
+TTITLE4=Juke Box Saturday Night
+TTITLE5=Tuxedo Junction
+TTITLE6=A Nightingale Sang In Berkeley Square
+TTITLE7=American Patrol
+TTITLE8=Little Brown Jug
+TTITLE9=A String Of Pearls
+TTITLE10=My Reverie
+TTITLE11=Pagan Love Song
+TTITLE12=Missouri Waltz
+TTITLE13=I've Got A Gal In Kalamazoo
+TTITLE14=And The Angels Sing
+TTITLE15=Elmer's Tune
+TTITLE16=Pennsylvania 6-5000
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

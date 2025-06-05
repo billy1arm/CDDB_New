@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14375
+#	27382
+#	42870
+#	52025
+#	66580
+#	77225
+#	92842
+#	100775
+#	112037
+#	124612
+#	138387
+#	152910
+#	165932
+#	184262
+#	192455
+#
+# Disc length: 2690 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL0
+#
+DISCID=de0a8010
+DTITLE=The Moody Blues - First Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Go Now
+TTITLE1=Something You Got
+TTITLE2=From The Bottom Of My Heart (I Love You)
+TTITLE3=Lose Your Money (But Don't Loose Your Mind)
+TTITLE4=It's Easy Child
+TTITLE5=You Don't (All The Time)
+TTITLE6=I Don't Mind
+TTITLE7=True Story
+TTITLE8=Thank You Baby
+TTITLE9=I Don't Want To Go On Without You
+TTITLE10=Time Is On My Side
+TTITLE11=Let Me Go
+TTITLE12=I've Got A Dream
+TTITLE13=Can't Nobody Love You
+TTITLE14=Everyday
+TTITLE15=Stop
+EXTD=
+EXTT0=Banks/Bennet
+EXTT1=Kenner
+EXTT2=Pinder/Laine
+EXTT3=Laine/Pinder
+EXTT4=Sandler/Bennet/Redd
+EXTT5=Laine/Pinder
+EXTT6=Brown
+EXTT7=Laine/Pinder
+EXTT8=Laine/Pinder
+EXTT9=Berns/Wexler
+EXTT10=Ragovoy
+EXTT11=Laine/Pinder
+EXTT12=Barry/Greenwich
+EXTT13=Mitchell
+EXTT14=Laine/Pinder
+EXTT15=Laine/Pinder\n
+PLAYORDER=

@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21522
+#	43775
+#	64760
+#	84525
+#	105722
+#	127707
+#	148917
+#	168980
+#	194070
+#	216377
+#	241562
+#	263375
+#	278705
+#	302995
+#
+# Disc length: 4341 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CD2WAV32(EN) R3.19
+#
+DISCID=d810f30f
+DTITLE=Fukuyama Masaharu - Live Fukuyama
+DYEAR=1900
+DGENRE=
+TTITLE0=Ai ha kazenoyouni
+TTITLE1=you
+TTITLE2=Good Job
+TTITLE3=Calling
+TTITLE4=Makimodosita natu
+TTITLE5=MOON
+TTITLE6=Tooi tabi
+TTITLE7=Peach!
+TTITLE8=IT'S ONLY LOVE
+TTITLE9=Heart
+TTITLE10=Good Night
+TTITLE11=Dear
+TTITLE12=motto soba ni kite
+TTITLE13=Squall
+TTITLE14=sakurazaka
+EXTD=
+EXTT0=Ai ha kazenoyouni.mp3
+EXTT1=you.mp3
+EXTT2=Good Job.mp3
+EXTT3=Calling.mp3
+EXTT4=Makimodosita natu.mp3
+EXTT5=MOON.mp3
+EXTT6=Tooi tabi.mp3
+EXTT7=Peach!.mp3
+EXTT8=IT'S ONLY LOVE.mp3
+EXTT9=Heart.mp3
+EXTT10=Good Night.mp3
+EXTT11=Dear.mp3
+EXTT12=motto soba ni kite.mp3
+EXTT13=Squall.mp3
+EXTT14=sakurazaka.mp3
+PLAYORDER=

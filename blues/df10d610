@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12197
+#	26495
+#	40702
+#	56420
+#	70917
+#	88890
+#	113345
+#	130687
+#	157980
+#	176067
+#	216992
+#	239957
+#	260610
+#	273672
+#	304085
+#
+# Disc length: 4312 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=df10d610
+DTITLE=Various Artist - CD gids Jazz
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Louis Armstrong - Muskrat Ramble
+TTITLE1=Duke Ellington - Black and Tan Fantasy
+TTITLE2=Billie Holiday - Mean To Me
+TTITLE3=Benny Goodman - Limehouse Blues
+TTITLE4=Woody Herman - Four Brothers
+TTITLE5=Erroll Garner - Mambo Carmel
+TTITLE6=Dave Brubeck - Take Five
+TTITLE7=Thelonious Monk - Round Midnight
+TTITLE8=Art Blakey - Ecaroh
+TTITLE9=Duke Ellington - Sentimental Lady
+TTITLE10=Miles Davis - So What
+TTITLE11=Charles Mingus - Gunslinging Bird
+TTITLE12=Cannon Ball - Weather Report
+TTITLE13=David Murray - Nowhere Everafter
+TTITLE14=Wynton Marsalis - Phryzzinian Man
+TTITLE15=Branford Marsalis - Crepuscule with Nellie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

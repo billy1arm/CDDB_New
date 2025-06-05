@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12977
+#	39115
+#	55215
+#	69092
+#	85797
+#	101880
+#	131297
+#	156872
+#	183220
+#	195062
+#	208702
+#	221359
+#	233127
+#	246592
+#	259662
+#	272692
+#
+# Disc length: 3816 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=dc0ee611
+DTITLE=Various Artist - Salsa -  Edition Speciale
+DYEAR=1900
+DGENRE=Salsa
+TTITLE0=Francisco Guayabal - Compay Segundo
+TTITLE1=Para Ti Mi Caracol - Candido Fabre
+TTITLE2=Guajira Guantanamera - Omara Portuando
+TTITLE3=Esperanza - Orquestra Aragon
+TTITLE4=Hasta Siempre - Carlos Puebla Y Sus Traditionales
+TTITLE5=Alborada Guajida - Celina Gonzales
+TTITLE6=Que Viva Chango - Ng La Banda Con Issac Delgado
+TTITLE7=De Una Manera Espantosa - Iraker
+TTITLE8=El Necero No Tiene Na - Los Van Van
+TTITLE9=Micaela Me Boto - Miguelito Cuni
+TTITLE10=Por No Trabajar - Chapottin Cuni Miguelito
+TTITLE11=Me Duele El Corazon -  Ignacio Pineiro
+TTITLE12=Las Mulatas Del Cha Cha Cha - Las D'Aida
+TTITLE13=Bonito Y Sabroso - Orquesta Aliamen 
+TTITLE14=San Fernando - Beny More
+TTITLE15=El Huerfanito - Abelardo Barroso Y La Orquestra Sensacion
+TTITLE16=Frutas Del Caney - Compay Segundo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

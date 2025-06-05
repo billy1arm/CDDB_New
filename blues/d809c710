@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11440
+#	24875
+#	38570
+#	51577
+#	63685
+#	77080
+#	88815
+#	101825
+#	113425
+#	124252
+#	134575
+#	145120
+#	155852
+#	166615
+#	176915
+#
+# Disc length: 2505 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=d809c710
+DTITLE=Robert Johnson - King of the Delta Blues Singers II
+DYEAR=1900
+DGENRE=
+TTITLE0=Kind Hearted Woman Blues
+TTITLE1=I Believe I'll Dust My Broom
+TTITLE2=Sweet Home Chicago
+TTITLE3=Rambling on My Mind
+TTITLE4=Phonograph Blues
+TTITLE5=They're Red Hot
+TTITLE6=Dead Shrimp Blues
+TTITLE7=Preachin' Blues
+TTITLE8=I'm A Steady Rollin' Man
+TTITLE9=From Four Till Late
+TTITLE10=Little Queen of Spades
+TTITLE11=Malted Milk
+TTITLE12=Drunken Hearted Man
+TTITLE13=Stop Breakin' Down Blues
+TTITLE14=Honeymoon Blues
+TTITLE15=Love in Vain
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

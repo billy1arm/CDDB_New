@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17262
+#	33671
+#	52462
+#	74099
+#	91290
+#	114240
+#	131381
+#	143781
+#	159946
+#	175819
+#	193742
+#	216819
+#	234541
+#	251152
+#
+# Disc length: 3584 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=d60dfe0f
+DTITLE=Various Artist - BEST HIT ANA DISC 1
+DYEAR=2005
+DGENRE=Rock
+TTITLE0=DON'T WORRY BABY/Vapour Trails
+TTITLE1=KOKOMO/The Beach Boys
+TTITLE2=STARS/Simply Red
+TTITLE3=THROUGH THE FIRE/Chaka Khan
+TTITLE4=DON'T GET ME WRONG/Pretenders
+TTITLE5=I WANT TO KNOW WHAT LOVE IS/Foreigner
+TTITLE6=HALF A MINUTE/Matt Bianco
+TTITLE7=THIS CHARMING MAN/The Smiths
+TTITLE8=DON'T KNOW MUCH/Linda Ronstadt with Aaron Neville
+TTITLE9=STEAL AWAY/Robbie Dupree
+TTITLE10=TWILIGHT MOON/Larsen-Feiton Band
+TTITLE11=ON THE BEACH/Chris Rea
+TTITLE12=TOU'RE THE SUMMER/Workshy
+TTITLE13=TAKE ME TO YOUR HEAVEN/Wilson Bros.
+TTITLE14=DRIVE/The Cars
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

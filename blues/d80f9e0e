@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  151
+#  21646
+#  43887
+#  72111
+#  95666
+#  148622
+#  159961
+#  175006
+#  202125
+#  224101
+#  237853
+#  251378
+#  258651
+#  286805
+#
+# Disc length: 4000 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.60
+#
+DISCID=d80f9e0e
+DTITLE=Earl of March Bands and Ensembles - Earl of March Music
+DYEAR=1900
+DGENRE=
+TTITLE0=Patent Leather Shoes
+TTITLE1=Creed
+TTITLE2=Dreams and Fancies
+TTITLE3=Bridge Over Troubled Water
+TTITLE4=Hollywood Milestones
+TTITLE5=Expostulation
+TTITLE6=With Fond Remembrance
+TTITLE7=Celebration and Dance
+TTITLE8=River of Life
+TTITLE9=Golliwog's Cakewalk
+TTITLE10=Homeward Bound
+TTITLE11=I'm Gonna Sing
+TTITLE12=Dawn of a New Day
+TTITLE13=Instant Concert
+EXTD=
+EXTT0=EoM Junior Jazz Ensemble
+EXTT1=EoM Grade Nine Concert Band
+EXTT2=EoM Grade Nine Concert Band
+EXTT3=EoM Vocal Jazz Ensemble
+EXTT4=EoM Grade 10 Concert Band
+EXTT5=EoM Flute Trio
+EXTT6=EoM Senior Jazz Ensemble
+EXTT7=EoM Grade 11 Concert Band
+EXTT8=EoM Grade 11 Concert Band
+EXTT9=EoM Saxophone Quartet
+EXTT10=EoM Concert Choir
+EXTT11=EoM Concert Choir
+EXTT12=EoM Senior Concert Band
+EXTT13=EoM Senior Concert Band
+PLAYORDER=

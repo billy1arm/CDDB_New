@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	182
+# 	12625
+# 	26300
+# 	39910
+# 	55652
+# 	70412
+# 	84057
+# 	94490
+# 	106567
+# 	121177
+# 	136207
+# 	148015
+# 	162655
+# 	175237
+# 	187412
+# 	201825
+#
+# Disc length: 2878 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4
+#
+DISCID=d90b3c10
+DTITLE=John Lee Hooker - Detroit Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=House Rent  Boogie
+TTITLE1=Wandering Blues
+TTITLE2=Making A Fool Out of Me
+TTITLE3=Questionnaire Blues
+TTITLE4=Real Gone Gal
+TTITLE5=Squeeze Me Baby
+TTITLE6=Feed Her All Night
+TTITLE7=Gangster Blues
+TTITLE8=Where Did You Stay Last Night
+TTITLE9=My Daddy Was A Jockey
+TTITLE10=Little Boy Blue
+TTITLE11=How Long Must I Be Your Slave
+TTITLE12=Grieving Blues
+TTITLE13=Ground Hog
+TTITLE14=Mean Old Train
+TTITLE15=Catfish
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=Eddie Burns
+EXTT3=
+EXTT4=
+EXTT5=Eddie Burns
+EXTT6=
+EXTT7=Eddie Burns
+EXTT8=Eddie Burns
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=Eddie Burns
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

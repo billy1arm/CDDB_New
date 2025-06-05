@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16325
+#     29628
+#     58028
+#     75338
+#     92045
+#     108293
+#     121878
+#     142495
+#     178665
+#     197420
+#     216133
+#     234840
+#     257025
+#     279920
+#     305742
+# 
+# Disc length: 4323 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=db10e110
+DTITLE=Eric Clapton - Crossroads [CD4]
+DYEAR=1900
+DGENRE=
+TTITLE0=Hello Old Friend
+TTITLE1=Sign Language
+TTITLE2=Further On Up The Road
+TTITLE3=Lay Down Sally
+TTITLE4=Wonderful Tonight
+TTITLE5=Cocaine
+TTITLE6=Promises
+TTITLE7=If I Don't Be There By Morning
+TTITLE8=Double Trouble
+TTITLE9=I Can't Stand It
+TTITLE10=The Shape You're In
+TTITLE11=Heaven Is One Step Away
+TTITLE12=She's Waiting
+TTITLE13=Miss You
+TTITLE14=Wanna Make Love To You
+TTITLE15=After Midnight
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

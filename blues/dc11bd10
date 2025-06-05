@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8400
+#	33218
+#	38342
+#	64487
+#	69811
+#	96507
+#	124486
+#	132763
+#	150902
+#	188430
+#	212282
+#	248248
+#	259516
+#	281996
+#	299959
+#
+# Disc length: 4543 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=dc11bd10
+DTITLE=Christof Thewes - Bilder einer Ausstellung
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Promenade
+TTITLE1=Der Gnom
+TTITLE2=Promenade
+TTITLE3=Das alte Schloß
+TTITLE4=Promenade
+TTITLE5=Die Tuilerien (Streit der Kinder nach dem Spiel)
+TTITLE6=Bydlo - Der Ochsenkarren
+TTITLE7=Promenade
+TTITLE8=Ballett der küchlein in ihren Eierschalen
+TTITLE9=Samuel Goldenberg und Schmyle
+TTITLE10=Promenade
+TTITLE11=Der Marktplatz von Limoges
+TTITLE12=Die Katakomben (Römische Gruft)
+TTITLE13=Mit den Toten in einer toten Sprache
+TTITLE14=Die Hütte der Baba-Jaga
+TTITLE15=Das große Tor von Kiew
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

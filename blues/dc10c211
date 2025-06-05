@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26635
+#	41042
+#	53667
+#	67897
+#	90382
+#	109550
+#	127717
+#	141372
+#	154517
+#	166550
+#	178282
+#	190587
+#	203775
+#	226390
+#	260217
+#	293535
+#
+# Disc length: 4292 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=dc10c211
+DTITLE=Texas Tenors - Flying
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Troy Floyd-Dreamland Blues-1929
+TTITLE1=CountBasie&Livingstone-Blue And Sentimental-1938
+TTITLE2=Lionel Hamptom-Rock Hill Special-1938
+TTITLE3=Lionel Hamptom&Benny Goodman-Flying Home-1942
+TTITLE4=Count Bsie&Lester Young-Rock A Bye  Basie-1942
+TTITLE5=Frazier&Smith-Harward Blues-1944
+TTITLE6=Illinois Jcquet-Jammin'The Blues-1945
+TTITLE7=Arnnet Cobb&Lionel Hamptom-Cobb's Idea-1946
+TTITLE8=Illinois Jcquet-Jumpin'At Appolo-1946
+TTITLE9=Arnnet Cobb-Cobb's Corner-1947
+TTITLE10=Arlen&Mercer-The Old Black Magic
+TTITLE11=traditional-Profoundly Blues-1947
+TTITLE12=Mann&Glover-Jump And Grunt-1950
+TTITLE13=Arnett Cobb-Go Red Go-1978
+TTITLE14=Fields&McHugh-On The Sunny Side Of The Street-1978
+TTITLE15=Pinkard&Casey-Sweet Georgia Brown-1986
+TTITLE16=Count Basie-Jumpin' At The Woodside-1986
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

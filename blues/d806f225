@@ -1,0 +1,127 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2325
+#	4500
+#	6675
+#	8850
+#	11025
+#	13800
+#	15975
+#	18150
+#	19800
+#	26850
+#	33900
+#	36075
+#	38250
+#	40425
+#	42600
+#	44775
+#	46950
+#	51675
+#	56400
+#	61125
+#	65850
+#	69675
+#	73500
+#	77700
+#	81225
+#	84750
+#	86400
+#	88800
+#	90075
+#	91275
+#	92625
+#	94425
+#	96225
+#	106650
+#	117075
+#	127350
+#
+# Disc length: 1780 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=d806f225
+DTITLE=宇田大志 - 3年後、確実にジャズ・ギターが弾ける練習法
+DYEAR=2017
+DGENRE=Lesson
+TTITLE0=LESSON 3 [図5] C△7-Am7- Dm7-G7
+TTITLE1=LESSON 3 [図5] B♭m7-E♭7-A♭△7-F7
+TTITLE2=LESSON 3 [図5] Gm7-Em7 (♭5) -Am7 (♭5) -D7
+TTITLE3=LESSON 4 [図9-1] コード・トーン・ハーモナイズ
+TTITLE4=LESSON 4 [図9-2] コード・トーン・ハーモナイズ
+TTITLE5=LESSON 7 [図4] Cメジャー・スケール
+TTITLE6=LESSON 7 [図8] Key Cの循環コード進行 (カラオケのみ)
+TTITLE7=LESSON 7 [図8] Key Fの循環コード進行 (カラオケのみ)
+TTITLE8=LESSON 8 [図4] オルタード・フレーズ
+TTITLE9=LESSON 8 [図8] オルタード・フレーズの練習 (模範演奏→カラオケ)
+TTITLE10=LESSON 8 [図9] アドリブ+オルタード・フレーズの練習 (模範演奏→カラオケ)
+TTITLE11=LESSON 9 [図4] コード・トーン ルートから上行
+TTITLE12=LESSON 9 [図5] コード・トーン 3度スタート
+TTITLE13=LESSON 9 [図6] コード・トーン ランダム
+TTITLE14=LESSON 10 [図5] コード・トーン 7～11フレット
+TTITLE15=LESSON 10 [図6] コード・トーン 4～8フレット
+TTITLE16=LESSON 10 [図7] コード・トーン 2～6フレット
+TTITLE17=LESSON 14 [図1] メジャー・フレーズ
+TTITLE18=LESSON 14 [図2] マイナー・フレーズ
+TTITLE19=LESSON 14 [図3] ロクリアン・フレーズ
+TTITLE20=LESSON 14 [図4] ドミナント・フレーズ
+TTITLE21=LESSON 14 [図5] フレーズの結合例 (模範演奏→カラオケ)
+TTITLE22=LESSON 14 [図6] フレーズの結合例 (模範演奏→カラオケ)
+TTITLE23=LESSON 15 [図5] テンション・コード
+TTITLE24=LESSON 16 [図5-1] 3度+7度パターン
+TTITLE25=LESSON 16 [図5-2] さまざまなボイシング・パターン
+TTITLE26=LESSON 17 [図2上] トップ・ノート固定
+TTITLE27=LESSON 17 [図2下] トップ・ノートでメロディを作る
+TTITLE28=LESSON 17 [図5] 定番エンディング・フレーズ1
+TTITLE29=LESSON 17 [図6上] 定番エンディング・フレーズ2
+TTITLE30=LESSON 17 [図6下] 定番エンディング・フレーズ3
+TTITLE31=LESSON 17 [図7] エンディングの作成例
+TTITLE32=LESSON 17 [図8] エンディングの作成例
+TTITLE33=LESSON 18 「Autumn Leaves」
+TTITLE34=LESSON 18 「I'll Close My Eyes」
+TTITLE35=LESSON 18 「All Of Me」
+TTITLE36=LESSON 18 「Now's The Time」
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+PLAYORDER=

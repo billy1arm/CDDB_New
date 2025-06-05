@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16462
+#	35142
+#	56732
+#	79135
+#	97805
+#	119625
+#	136862
+#	150870
+#	174260
+#	197857
+#	215327
+#	241405
+#	258940
+#	280237
+#	301592
+#
+# Disc length: 4264 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=d110a610
+DTITLE=Various Artist - Blues And Ballads - Vol. 7
+DYEAR=1900
+DGENRE=
+TTITLE0=Unchained Melody, Righteous Bros.
+TTITLE1=Angelina, Ray Charles
+TTITLE2=Only One Road, Celine Dion
+TTITLE3=Keep Their Heads Ringin', Dr. Dre
+TTITLE4=Twosome, Deep Forest
+TTITLE5=Happiness, Ali Campbell
+TTITLE6=28 A L'Ombre, Jean-Francois Maurice
+TTITLE7=O' Sole Mio, Bryan Adams and Luciano Pavarotti
+TTITLE8=Voglio Una Dona, Toto Cotugno
+TTITLE9=Pane E Sole, Zucchero and Jeff Beck
+TTITLE10=Hurt So Good, Jimmy Somerville
+TTITLE11=T. T. D's Recurring Dream, T. T. D'Arby and Brandford Marsalis
+TTITLE12=World In Union, P. J. Power
+TTITLE13=M. Waters, Sam Cooke and Otis Redding, Rod Stewart
+TTITLE14=Under The Influence, Joey Tempest
+TTITLE15=If I Could Fly, Boy George
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

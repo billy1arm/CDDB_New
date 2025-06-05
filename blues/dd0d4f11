@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13902
+#     26807
+#     45122
+#     57937
+#     68907
+#     85757
+#     99910
+#     115275
+#     126515
+#     138237
+#     158257
+#     174222
+#     188032
+#     205087
+#     220035
+#     237600
+# 
+# Disc length: 3409 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=dd0d4f11
+DTITLE=[Ajax Forever !] - Ajax Forever !
+DYEAR=1900
+DGENRE=
+TTITLE0=Ajax is okay ! - De Ajax selectie
+TTITLE1=Que sera sera - Manke Nelis en de Ajax selectie
+TTITLE2=Ajax gaat weer voor de cup - De Ajax Clan
+TTITLE3=Ajax, Ajax - Koos Alberts
+TTITLE4=Op 'n slof en 'n oude voetbalschoen - Johnny Hoes
+TTITLE5=Hup Ajax hup (medley) - De Ajax Clan
+TTITLE6=Oei oei oei (Dat was me weer een loei) - Johan Cruyff
+TTITLE7=De herdertjes lagen bij nachte - Het Ajax Tribunekoor
+TTITLE8=Het is fijn Ajax-supporter te zijn - De Ajax Clan
+TTITLE9=We are the champions - Torino Stadium Choir
+TTITLE10=Het voetbalfeest in de Meer - De Ajacieden
+TTITLE11=Ajax Feestmedley - Het Grote Tribune Orkest
+TTITLE12=Ajax wint de Wereldcup - De Specials
+TTITLE13=Fijn om bij Ajax te zijn - Arie Blokzijl
+TTITLE14=Victory - Ren  Froger
+TTITLE15=Radio Verslag Ajax/Torino
+TTITLE16=Ajax is art - Robbie and The Kock
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

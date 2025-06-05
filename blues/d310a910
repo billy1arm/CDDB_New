@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13883
+#	26689
+#	48376
+#	59397
+#	77349
+#	93541
+#	117979
+#	139356
+#	160962
+#	176823
+#	191282
+#	227837
+#	252979
+#	280570
+#	301047
+#
+# Disc length: 4267 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=d310a910
+DTITLE=The very best of Jazz - The very best of Jazz CD1
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Louis Armstrong - Hobo you can't ride this train
+TTITLE1=Tommy Dorsey - Loose lid special
+TTITLE2=David 'Fathead' Newmann - Weired beard
+TTITLE3=Benny Goodman - Did you mean it
+TTITLE4=Oscar Brown Jr. - Hazel's hips
+TTITLE5=Glenn Miller - In the mood
+TTITLE6=Stanley Clarke - The dancer
+TTITLE7=Donald Byrd- Christi redentor
+TTITLE8=Billy Cobham - Spectrum
+TTITLE9=Duke Ellington - Tuxedo junction
+TTITLE10=Ella Fitzgerald - Things ain't what they used to be
+TTITLE11=Roy Ayers - What the people say
+TTITLE12=Keith Jarrett - Mortgage on my soul
+TTITLE13=Elvin Jones - Forever summer
+TTITLE14=Joe Sample - Spellbound
+TTITLE15=David Sanborn - Slam
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

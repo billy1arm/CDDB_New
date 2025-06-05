@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    183
+#    14443
+#    27635
+#    54318
+#    65995
+#    96535
+#    114755
+#    133035
+#    161135
+#    188275
+#    202393
+#    211710
+#    218485
+#    286370
+#
+# Disc length: 4302 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.1.9  (wjohn@fix.net)
+#
+DISCID=d210cc0e
+DTITLE=Stevie Ray Vaughan - Life Without You - Disc 3
+DYEAR=1900
+DGENRE=
+TTITLE0=Look At Little Sister (Instrumental)
+TTITLE1=Testify
+TTITLE2=May I Have A Little Talk With You (Take 3&4)
+TTITLE3=Shuffle Thing
+TTITLE4=Come On (Part 3) (Take 2)
+TTITLE5=Empty Arms (Take 36)
+TTITLE6=May I Have A Little Talk With You (Take 6)
+TTITLE7=Maudie
+TTITLE8=Instrumental Medley
+TTITLE9=Another Shuffle Thing
+TTITLE10=Rude Mood (Take 1)
+TTITLE11=Rude Mood (Take 2)
+TTITLE12=Life Without You (Take 17)
+TTITLE13=Jam
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

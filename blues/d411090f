@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	11175
+#	29925
+#	44175
+#	63825
+#	80700
+#	103050
+#	124650
+#	158100
+#	177900
+#	197400
+#	226800
+#	244650
+#	266175
+#	288300
+#
+# Disc length: 4373 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cddb-tool 0.4.7
+#
+DISCID=d411090f,da11090f
+DTITLE=Rolling Stones - Live At The Max
+DYEAR=1990
+DGENRE=Rock
+TTITLE0=Intro
+TTITLE1=Start Me Up
+TTITLE2=Sad Sad Sad
+TTITLE3=Tumbling Dice
+TTITLE4=Ruby Tuesday
+TTITLE5=Rock And A Hard Place
+TTITLE6=Honky Tonk Woman
+TTITLE7=You Can´t Always Get What You Want
+TTITLE8=Happy
+TTITLE9=Paint It Black
+TTITLE10=Sympathy For The Devil
+TTITLE11=Street Fighting Man
+TTITLE12=It´s Only Rock ´n Roll
+TTITLE13=Brown Sugar
+TTITLE14=Satisfaction
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

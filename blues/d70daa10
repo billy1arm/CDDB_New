@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15835
+#	35590
+#	48715
+#	62520
+#	81500
+#	93230
+#	108587
+#	120310
+#	137870
+#	160792
+#	173667
+#	191685
+#	205234
+#	224065
+#	240847
+#
+# Disc length: 3500 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=d70daa10
+DTITLE=Jeremy Lyons - Deltabilly Swing
+DYEAR=1900
+DGENRE=
+TTITLE0=Stop Breakin' Down Blues
+TTITLE1=Someday Baby (Worried Life Blues)
+TTITLE2=Don't Sell It, Don't Give It Away (Yes Baby Yes)
+TTITLE3=Go Ahead Buddy
+TTITLE4=Baby, Please Loan Me Your Heart
+TTITLE5=Crazy About You
+TTITLE6=Butterfingers Rag (Acoustic Version)
+TTITLE7=You Just As Well Let Her Go
+TTITLE8=Sugar Blues
+TTITLE9=Early In The Morning
+TTITLE10=Coffee Rag
+TTITLE11=Black Coffee Blues
+TTITLE12=Why Do I Lie To Myself About You?
+TTITLE13=Keep Your Hands Off Her
+TTITLE14=Rope Strechin' Blues
+TTITLE15=Butterfingers Rag (Electric Version)
+EXTD=JL 101497 © Jeremy Lyons
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

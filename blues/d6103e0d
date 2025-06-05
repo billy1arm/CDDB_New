@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23202
+#	44940
+#	69192
+#	94232
+#	126552
+#	148032
+#	170532
+#	190942
+#	215600
+#	236735
+#	254005
+#	290607
+#
+# Disc length: 4160 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=d6103e0d
+DTITLE=Various Artist - Christmas Jazz
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Jingle Bells
+TTITLE1=The Christmas Song
+TTITLE2=White Christmas
+TTITLE3=Winter Wonderland
+TTITLE4=What Child Is This?
+TTITLE5=Blue Christmas
+TTITLE6=Silent Night
+TTITLE7=Rudolph,The Red-Nosed Reindeer
+TTITLE8=Sleigh Ride
+TTITLE9=Santa Claus Is Coming To Town
+TTITLE10=White Christmas
+TTITLE11=The Christmas Song
+TTITLE12=We Wish You A Merry Christmas
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

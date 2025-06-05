@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13362
+#	34087
+#	54680
+#	73270
+#	91550
+#	112395
+#	141950
+#	158787
+#	180695
+#	197912
+#	218300
+#	240105
+#	257650
+#	277145
+#
+# Disc length: 4008 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=db0fa60f
+DTITLE=Various Artist - Traditional Jazz Around The World - Vol 1
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Louisiana Shakers - Don't Go 'Way Nobody
+TTITLE1=Louisiana Shakers - Deep Bayou Blues
+TTITLE2=Louisiana Shakers - Long, Long Ago
+TTITLE3=Louisiana Shakers - Ramblin' Rose
+TTITLE4=Louisiana Shakers - Johnny Casimir's Whooping Blues
+TTITLE5=Jake's Melody Boys - All I Do I Dream Of You
+TTITLE6=Jake's Melody Boys - See See Rider
+TTITLE7=Jake's Melody Boys - Babyface
+TTITLE8=Jake's Melody Boys - True
+TTITLE9=Jake's Melody Boys - Underneath Hawaiian Skies
+TTITLE10=Jesse's New Orleans Jazz Band - Climax Rag
+TTITLE11=Jesse's New Orleans Jazz Band - Hesitation Blues
+TTITLE12=Jesse's New Orleans Jazz Band - Breeze
+TTITLE13=Jesse's New Orleans Jazz Band - You Tell Me Your Dream
+TTITLE14=Jesse's New Orleans Jazz Band - Chimes Blues
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

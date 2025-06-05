@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     10125
+#     21402
+#     35565
+#     49450
+#     62612
+#     75172
+#     90037
+#     101850
+#     114632
+#     128640
+#     146215
+#     157175
+#     170642
+#     180467
+#     194395
+# 
+# Disc length: 2807 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=d50af510
+DTITLE=Various Artist - Anthology Of British Blues Volume 1
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm Your Witchdoctor
+TTITLE1=Snake Drive
+TTITLE2=Ain't Gonna Cry No More
+TTITLE3=I Tried
+TTITLE4=I Feel So Good
+TTITLE5=Flapjacks
+TTITLE6=Dealing With The Devil
+TTITLE7=Who's Knocking
+TTITLE8=On Top Of The World
+TTITLE9=Draggin' My Tail
+TTITLE10=Cold Blooded Woman
+TTITLE11=You Don't Love Me
+TTITLE12=Ain't Seen No Whiskey
+TTITLE13=Roll 'Em Pete
+TTITLE14=Look Down At My Woman
+TTITLE15=Can't Quit You Baby
+EXTD=
+EXTT0=John Mayall and The Bluesbreakers\n
+EXTT1=Eric Clapton\n
+EXTT2=T.S. McPhee\n
+EXTT3=Savoy Brown Blues Band\n
+EXTT4=Jo-Ann Kelly\n
+EXTT5=Stone's Masonry\n
+EXTT6=Dharma Blues Band\n
+EXTT7=Jeremy Spencer\n
+EXTT8=John Mayall and The Bluesbreakers\n
+EXTT9=Eric Clapton and Jimmy Page\n
+EXTT10=Savoy Brown Blues Band\n
+EXTT11=T.S. McPhee\n
+EXTT12=Jo-Ann Kelly\n
+EXTT13=Dharma Blues Band\n
+EXTT14=Jeremy Spencer\n
+EXTT15=Savoy Brown Blues Band\n
+PLAYORDER=

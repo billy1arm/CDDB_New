@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	210
+#	21955
+#	41069
+#	63547
+#	88977
+#	121938
+#	140395
+#	157976
+#	191737
+#	211135
+#	225511
+#	245818
+#	266278
+#	288711
+#	308611
+#
+# Disc length: 4316 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=d710da0f
+DTITLE=Hary Wetterstein - Blues Art
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Leben
+TTITLE1=Ende
+TTITLE2=Leute
+TTITLE3=Teufel
+TTITLE4=Bewusstsein
+TTITLE5=Lügen
+TTITLE6=Rain
+TTITLE7=Waiting
+TTITLE8=Wiese
+TTITLE9=Kraft
+TTITLE10=Night
+TTITLE11=Vasteh
+TTITLE12=Diane
+TTITLE13=Schön
+TTITLE14=Quiero
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

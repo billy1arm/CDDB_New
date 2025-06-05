@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	12825
+#	27300
+#	41700
+#	55425
+#	69000
+#	83625
+#	97925
+#	111375
+#	126000
+#	139175
+#	152700
+#	165862
+#	180450
+#	192675
+#	206212
+#
+# Disc length: 2912 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=d40b5e10
+DTITLE=Jimmy Rushing - The Blues Singer 1929 - 1937
+DYEAR=1900
+DGENRE=
+TTITLE0=Blue Devil blues
+TTITLE1=Won't You Be My Baby ?
+TTITLE2=That Too, Do
+TTITLE3=Liza Lee
+TTITLE4=Get Goin'
+TTITLE5=When I'm Alone
+TTITLE6=As Long As I Love You
+TTITLE7=Now That I Kneed You
+TTITLE8=Ya Got Love
+TTITLE9=I Wanna Be Around My Baby All The Time
+TTITLE10=New Orleans
+TTITLE11=Evevin'
+TTITLE12=Boogie Woogie
+TTITLE13=He Ain't Got Rhythm
+TTITLE14=Pennies From Heaven
+TTITLE15=Exactly Like You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

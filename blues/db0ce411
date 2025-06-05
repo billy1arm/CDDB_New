@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13823
+#	33165
+#	45290
+#	60243
+#	72725
+#	90912
+#	102781
+#	117858
+#	132734
+#	157496
+#	176566
+#	188267
+#	200377
+#	214182
+#	227083
+#	240773
+#
+# Disc length: 3302 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=db0ce411
+DTITLE=Durazno de Gala - Una Vieja Historia
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=El Contestador
+TTITLE1=Se Fue
+TTITLE2=Sucio y Perdido
+TTITLE3=Un Hombre Mas en Buenos Aires
+TTITLE4=Bufon del Rey
+TTITLE5=Paraiso Virgen
+TTITLE6=Recuerdos del '76
+TTITLE7=Vos Ya Sabes Muy Bien
+TTITLE8=Mientras Pienso en tus Palabras
+TTITLE9=Ya No Oigo
+TTITLE10=Cuervos a tu Alrededor
+TTITLE11=Debes Alejarte Ya
+TTITLE12=Amor de Zaguan
+TTITLE13=Un Deseo Puede Mas
+TTITLE14=Una Vieja Historia
+TTITLE15=Funny Bone
+TTITLE16=Strascinati al Pesto
+EXTD=YEAR: 1994 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16534
+#	29759
+#	45945
+#	62475
+#	78622
+#	90253
+#	99477
+#	122224
+#	140967
+#	153297
+#	176780
+#	191684
+#	207574
+#	222443
+#
+# Disc length: 3300 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=d00ce20f
+DTITLE=>Sir< Oliver Mally - I picked myself up
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Gotta get Sober
+TTITLE1=I Picked Myself Up
+TTITLE2=Bad Boy's Blues
+TTITLE3=She's Long and Lean
+TTITLE4=Shotgun Blues
+TTITLE5=South Nashville Blues
+TTITLE6=Octoboogie
+TTITLE7=Me and the Devil
+TTITLE8=I'm So Glad
+TTITLE9=Two Lil' Monkeys
+TTITLE10=Politicians
+TTITLE11=Lullaby - Since my Baby left Town
+TTITLE12=Hesitations Blues
+TTITLE13=Pride an Joy
+TTITLE14=I'd Rather ...
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

@@ -1,0 +1,307 @@
+# xmcd
+# 
+# Track frame offsets:
+#     150
+#     2124
+#     4947
+#     8190
+#     11337
+#     14523
+#     18615
+#     20602
+#     23561
+#     27105
+#     29130
+#     35040
+#     44577
+#     47547
+#     52518
+#     55200
+#     57498
+#     62469
+#     65100
+#     68871
+#     77274
+#     80970
+#     84354
+#     88143
+#     91806
+#     93510
+#     98130
+#     101178
+#     105705
+#     109431
+#     113544
+#     117123
+#     122808
+#     126171
+#     130221
+#     133575
+#     147999
+#     152385
+#     161082
+#     165102
+#     169974
+#     171306
+#     175173
+#     181477
+#     185211
+#     192717
+#     199878
+#     204093
+#     205191
+#     206265
+#     207345
+#     208428
+#     209532
+#     210624
+#     211707
+#     212793
+#     214632
+#     220146
+#     223416
+#     224487
+#     225561
+#     226653
+#     227988
+#     231987
+#     234552
+#     237981
+#     242361
+#     250449
+#     256422
+#     260349
+#     264732
+#     273033
+#     274079
+#     277553
+#     280868
+#     286862
+#     290273
+#     293360
+#     298223
+#     304850
+#     309647
+#     312308
+#     315833
+#     321629
+#     325442
+#     334436
+#     335336
+#     336848
+#     337907
+#     339296
+#     340631
+#     342128
+#     343214
+#     344870
+#     346439
+#     347783
+#     348905
+# 
+# Disc length: 4668
+# 
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: fre:ac v1.0.17
+# 
+DISCID=d3123a61
+DTITLE=De Haske - Horen lezen and spelen 3 (trombone)
+DYEAR=2002
+DGENRE=Lessen
+TTITLE0=Dat gaat naar Den Bosch toe
+TTITLE1=Macgillicuddy's Jig
+TTITLE2=De heiende heier
+TTITLE3=Toonsoort-wisseltruc
+TTITLE4=Ritme schrijven
+TTITLE5=Echo - oefening
+TTITLE6=Met z'n drieen
+TTITLE7=Eiland in de zon
+TTITLE8=Echo-oefening
+TTITLE9=For He's a Very Strange Fellow
+TTITLE10=Do-re-mineur
+TTITLE11=Sierra espanola
+TTITLE12=Majeur of mineur
+TTITLE13=Majeur of mineur
+TTITLE14=Majeur of mineur
+TTITLE15=Echo-oefening
+TTITLE16=De zeeschildpad
+TTITLE17=Toreador
+TTITLE18=Spin'rag'time
+TTITLE19=Samba Royale
+TTITLE20=Echo-oefening
+TTITLE21=Le Tambourin
+TTITLE22=Drie en twee
+TTITLE23=Polska
+TTITLE24=Toonhoogte schrijven
+TTITLE25=Echo-oefening
+TTITLE26=Welke kleur mineur
+TTITLE27=Sals Beans
+TTITLE28=Echo-oefening
+TTITLE29=De uitdaging
+TTITLE30=Twee keer drie is negen
+TTITLE31=Echo-oefening
+TTITLE32=De sambal-bij
+TTITLE33=Circus Safari
+TTITLE34=The Kerry Dance
+TTITLE35=Sweet Love Song
+TTITLE36=Echo-oefening
+TTITLE37=Slavische mars
+TTITLE38=Bij ons in Triool
+TTITLE39=Rockin' Willy
+TTITLE40=Toonhoogte schrijven
+TTITLE41=Echo-oefening
+TTITLE42=Aria and menuet Lento
+TTITLE43=Aria en menuet Allegro
+TTITLE44=Colero
+TTITLE45=Blues at Last
+TTITLE46=Echo-oefening
+TTITLE47=Intervallen prime
+TTITLE48=Intervallen secunde
+TTITLE49=Intervallen terts
+TTITLE50=Intervallen kwart
+TTITLE51=Intervallen kwint
+TTITLE52=Intervallen sext
+TTITLE53=Intervallen septime
+TTITLE54=Intervallen octaaf
+TTITLE55=Melodie uit Hongarije
+TTITLE56=Caribbean Son
+TTITLE57=Ech-oefening
+TTITLE58=Intervallen secunde
+TTITLE59=Intervallen terts
+TTITLE60=Intervallen kwint
+TTITLE61=Intervallen sext
+TTITLE62=Van de Balkan
+TTITLE63=De trampoline
+TTITLE64=Dafydd Y Garreg Wen
+TTITLE65=The Breeze
+TTITLE66=Bebop Tune
+TTITLE67=Interval horen
+TTITLE68=A Musical Joke
+TTITLE69=Rock Groove
+TTITLE70=Mal'aria
+TTITLE71=Melodie schrijven
+TTITLE72=Akkoordenschema
+TTITLE73=Rondo á la carte
+TTITLE74=Interval horen
+TTITLE75=De eenwieler
+TTITLE76=Akkoordenschema
+TTITLE77=Stodola Pumpa
+TTITLE78=The Sound of Safed
+TTITLE79=Interval horen
+TTITLE80=Hoge noot
+TTITLE81=Akkoordenschema
+TTITLE82=Hornpipe
+TTITLE83=Sailor's Dance
+TTITLE84=Ach, zo
+TTITLE85=Ritme schrijven
+TTITLE86=Ritme schrijven
+TTITLE87=Ritme schrijven
+TTITLE88=Toonhoogte schrijven
+TTITLE89=Toonhoogte schrijven
+TTITLE90=Toonhoogte schrijven
+TTITLE91=Toonhoogte schrijven
+TTITLE92=Toonhoogte schrijven
+TTITLE93=Toonhoogte schrijven
+TTITLE94=Melodie schrijven
+TTITLE95=Melodie schrijven
+TTITLE96=Melodie schrijven
+EXTD=CD bij Studieboek Trombone
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+PLAYORDER=

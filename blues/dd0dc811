@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     11575
+#     27005
+#     41425
+#     62610
+#     75618
+#     89123
+#     93848
+#     115438
+#     136980
+#     148355
+#     156393
+#     174985
+#     197458
+#     211015
+#     228505
+#     243223
+# 
+# Disc length: 3530 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=dd0dc811
+DTITLE=Louis Armstrong - The World Of Louis Armstrong
+DYEAR=1900
+DGENRE=
+TTITLE0=Hello Dolly
+TTITLE1=Mack The Knife
+TTITLE2=When The Saints Go Marchin' In
+TTITLE3=Jeepers Creepers
+TTITLE4=C'est Si Bon
+TTITLE5=Snake Rag
+TTITLE6=When Your're Smiling
+TTITLE7=St. James Infirmary
+TTITLE8=Tea for Two
+TTITLE9=Tigger Rag
+TTITLE10=Stompin' At The Savoy
+TTITLE11=Some Day You'll Be Sorry
+TTITLE12=Do You Know What It Means To Miss New Orleans
+TTITLE13=Ain't Misbehavin'
+TTITLE14=La Vie En Rose
+TTITLE15=Stardust
+TTITLE16=Rockin' Chair
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

@@ -1,0 +1,69 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10967
+#	41282
+#	54517
+#	77330
+#	93602
+#	113290
+#	124805
+#	143657
+#	157765
+#	175395
+#	192122
+#	205182
+#	223472
+#	242555
+#	257857
+#	303915
+#
+# Disc length: 4377 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=db111711
+DTITLE=Various Artist - Blues Masters Volume 7: Blues Revival
+DYEAR=1900
+DGENRE=
+TTITLE0=Jimmy Reed - Baby What You Want Me To Do
+TTITLE1=Lightnin' Hopkins, Sonny Terry and Brownie McGhee (with Big Joe Wi
+TTITLE1=lliams) Three Aces On The Bottom Of The Deal
+TTITLE2=Mississippi John Hurt - Candy Man
+TTITLE3=Dave ``Snaker'' Ray - Fannin Street
+TTITLE4=Mississippi Fred McDowell - Write Me A Few Lines
+TTITLE5=Son House - Death Letter
+TTITLE6=John Lee Hooker - Boom Boom
+TTITLE7=Muddy Waters - Got My Mojo Working
+TTITLE8=The Paul Butterfield Blues Band - Born In Chicago
+TTITLE9=Junior Wells' Chicago Blues Band - Good Morning Schoolgirl
+TTITLE10=Otis Spann - The Blues Never Die
+TTITLE11=Slim Harpo - Baby Scratch My Back
+TTITLE12=Sonny Boy Williamson - Coming Home To You Baby
+TTITLE13=John Mayall's Blues Breakers - The Death Of J.B. Lenoir
+TTITLE14=Canned Heat - On The Road Again
+TTITLE15=Albert King - Blues Power
+TTITLE16=B. B. King - The Thrill Is Gone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

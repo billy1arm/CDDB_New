@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22220
+#	37390
+#	57930
+#	77322
+#	97840
+#	116155
+#	136717
+#	155585
+#	169612
+#	190397
+#	208147
+#	227425
+#	247975
+#	267782
+#	298780
+#
+# Disc length: 4208 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=dc106e10
+DTITLE=Neoton - Búcsú
+DYEAR=2000
+DGENRE=Pop
+TTITLE0=Halley
+TTITLE1=Régi zongorám
+TTITLE2=Pago Pago
+TTITLE3=Esõben
+TTITLE4=Szerencsejáték
+TTITLE5=Don Quijote
+TTITLE6=Forrófejû lány
+TTITLE7=Szalad a lány
+TTITLE8=Denevérszárnyú éjszakák
+TTITLE9=Holnap Hajnalig
+TTITLE10=Te Quiero
+TTITLE11=Elsõ szerelem
+TTITLE12=Vannak kivételek
+TTITLE13=220 felett
+TTITLE14=Csak a zene
+TTITLE15=Búcsú
+EXTD=ID3G:  13 YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19747
+#	39571
+#	60376
+#	78304
+#	96165
+#	114971
+#	134536
+#	157228
+#	175548
+#	193846
+#	211334
+#	225256
+#	244648
+#	248516
+#	258318
+#	275321
+#
+# Disc length: 3726 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=d70e8c11
+DTITLE=조성모 5집 - 歌人
+DYEAR=2003
+DGENRE=Ballad
+TTITLE0=피아노
+TTITLE1=내 것이라면
+TTITLE2=왜
+TTITLE3=차라리
+TTITLE4=사랑할 때 버려야 할 몇가지
+TTITLE5=사랑은 항상 다시오죠
+TTITLE6=버릇처럼
+TTITLE7=그대 뿐이어서
+TTITLE8=사랑하세요
+TTITLE9=어느 개인 날
+TTITLE10=파트너
+TTITLE11=네 멋대로 해라
+TTITLE12=천사를 위한 발라드
+TTITLE13=Fly me to the moon (Intro)
+TTITLE14=Fly me to the moon (tribute to Frank Sinotro)
+TTITLE15=Outro
+TTITLE16=DATA
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

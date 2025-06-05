@@ -1,0 +1,65 @@
+# xmcd
+#
+# Track frame offsets:
+# 150
+# 13023
+# 23200
+# 34388
+# 42903
+# 56588
+# 65305
+# 75223
+# 84483
+# 95155
+# 107060
+# 118418
+# 131410
+# 148295
+# 159105
+# 169935
+#
+# Disc length: 2444 seconds
+#
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.951 
+#
+DISCID=d4098a10
+DTITLE=Various Artist - TOP 10 Hits
+DYEAR=1900
+DGENRE=Oldies
+TTITLE0=All The Way
+TTITLE1=Wear My Ring Around Your Neck
+TTITLE2=Catch A Falling Star
+TTITLE3=Great Balls Of Fire
+TTITLE4=Sweet Little Sixteen
+TTITLE5=Problems
+TTITLE6=Splish Splash
+TTITLE7=A Wonderful Time Up Here
+TTITLE8=Big Man
+TTITLE9=Put Your Head On My Shoulder
+TTITLE10=Tiger
+TTITLE11=Sixteen Candles
+TTITLE12=Little White Bull
+TTITLE13=To Know Him Is To Love Him
+TTITLE14=´Til I Kissed You
+TTITLE15=Twenty Four Hours From Tulsa
+EXTD=Club Records\nCR 10.013
+EXTT0=Frank Sinatra
+EXTT1=Elvis Presley
+EXTT2=Perry Como
+EXTT3=Jerry Lee Lewis
+EXTT4=Chuck Berry
+EXTT5=The Everly Brothers
+EXTT6=Bobby Darin
+EXTT7=Pat Boone
+EXTT8=The Four Preps
+EXTT9=Paul Anka
+EXTT10=Fabian
+EXTT11=The Crests
+EXTT12=Tommy Steele
+EXTT13=The Teddy Bears
+EXTT14=The Everly Brothers
+EXTT15=Gene Pitney
+PLAYORDER=

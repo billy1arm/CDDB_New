@@ -1,0 +1,220 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5854
+#	10199
+#	14541
+#	35256
+#	56317
+#	60159
+#	63954
+#	69825
+#	84779
+#	99931
+#	104784
+#	109717
+#	114784
+#	119756
+#	126093
+#	133705
+#	138176
+#	142814
+#	144158
+#	145343
+#	146528
+#	147700
+#	149045
+#	150380
+#	151542
+#	152588
+#	153771
+#	154962
+#	156743
+#	158303
+#	159867
+#	161430
+#	162989
+#	164360
+#	165916
+#	167471
+#	168831
+#	170185
+#	171543
+#	172909
+#	174253
+#	179271
+#	182433
+#	184715
+#	187652
+#	188696
+#	190518
+#	192665
+#	194482
+#	195851
+#	200356
+#	201760
+#	203157
+#	206135
+#	207890
+#	209153
+#	211385
+#	212773
+#	214821
+#	217650
+#	218974
+#	220305
+#	224946
+#	233195
+#	247385
+#	256843
+#	270460
+#
+# Disc length: 3723 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=d00e8944
+DTITLE=（株）ヤマハミュージックメディア - Play The Electric Blues!
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=「Texas Flood」 Ex-1
+TTITLE1=「Texas Flood」 Ex-2
+TTITLE2=「Texas Flood」 Ex-3
+TTITLE3=「Texas Flood」を通して弾く！
+TTITLE4=「Texas Flood」を通して弾く！（ギターカラオケ）
+TTITLE5=「Hideway」 Ex-4
+TTITLE6=「Hideway」 Ex-5
+TTITLE7=「Hideway」 Ex-6
+TTITLE8=「Hideway」全曲制覇!!
+TTITLE9=「Hideway」全曲制覇!!（ギターカラオケ）
+TTITLE10=11（ブルースバッキング＆ソロ・サンプル集）
+TTITLE11=12（ブルースバッキング＆ソロ・サンプル集）
+TTITLE12=13（ブルースバッキング＆ソロ・サンプル集）
+TTITLE13=14（ブルースバッキング＆ソロ・サンプル集）
+TTITLE14=15（ブルースバッキング＆ソロ・サンプル集）
+TTITLE15=16（ブルースバッキング＆ソロ・サンプル集）
+TTITLE16=17（ブルースバッキング＆ソロ・サンプル集）
+TTITLE17=18（ブルースバッキング＆ソロ・サンプル集）
+TTITLE18=Ex-1 チョーキングの基本技を盛り込んだブルースフレーズ
+TTITLE19=Ex-2 応用業を交えたフレーズ作り
+TTITLE20=Ex-3 チョップ＆スウィープの装飾
+TTITLE21=Ex-4 定石スライドフレーズとトリルの挿入
+TTITLE22=Ex-5 基本ポジションで弾く定番フレーズ
+TTITLE23=Ex-6 拡大ポジションでのパターン練習
+TTITLE24=Ex-7 ハイポジのラン奏法で盛り上げる！
+TTITLE25=Ex-8 図8のポジションで弾くブルースフレーズ
+TTITLE26=EX-9 ♭5th を強調したフレーズ展開
+TTITLE27=Ex-10 ＋Α音を絡めたカラフルなフレーズ感
+TTITLE28=Ex-1 スライドギターの音の出し方
+TTITLE29=Ex-2 スライドギターの主要テクニック
+TTITLE30=Ex-3 リードフレーズを弾いてみよう
+TTITLE31=Ex-4 オープンEチューニングのリードプレイ
+TTITLE32=Ex-5 オープンAチューニングのリード・プレイ
+TTITLE33=Ex-1 基本中の基本、シングルノート奏法
+TTITLE34=Ex-2 コード奏法も覚えよう
+TTITLE35=Ex-3 フェイク
+TTITLE36=Ex-4 ハーフベント
+TTITLE37=Ex-5 フルベント
+TTITLE38=Ex-6 ハンドビブラート
+TTITLE39=Ex-7 グリッサンド
+TTITLE40=Ex-8 トリル
+TTITLE41=Style-1 スローブルーススタイル
+TTITLE42=Style-2 ミディアムシャッフルブルース
+TTITLE43=Style-3 ファストシャッフルブルース
+TTITLE44=Style-4 エイトビートブルース
+TTITLE45=01 T-Bone Walker EX-1
+TTITLE46=01 T-Bone Walker EX-2
+TTITLE47=01 T-Bone Walker Practice-1
+TTITLE48=02 B.B.King EX-3
+TTITLE49=02 B.B.King EX-4
+TTITLE50=02 B.B.King Practice-2
+TTITLE51=03 Albert King EX-5
+TTITLE52=03 Albert King EX-6
+TTITLE53=03 Albert King Practice-3
+TTITLE54=04 Freddie King EX-7
+TTITLE55=04 Freddie King EX-8
+TTITLE56=04 Freddie King Practice-4
+TTITLE57=05 Elmore James EX-9
+TTITLE58=05 Elmore James Ex-10
+TTITLE59=05 Elmore James Practice-5
+TTITLE60=06 Duane Allman Ex-11
+TTITLE61=06 Duane Allman Ex-12
+TTITLE62=06 Duane Allman Practice-6
+TTITLE63=Praide And Joy
+TTITLE64=Nobody Knows You When You Are Down And Out
+TTITLE65=It Hurts Me Too
+TTITLE66=Ramblin' On My Mind
+TTITLE67=Everyday I Have The Blues
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+PLAYORDER=

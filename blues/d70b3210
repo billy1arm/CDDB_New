@@ -1,0 +1,66 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13462
+#	25103
+#	40312
+#	54314
+#	66869
+#	80724
+#	94353
+#	106569
+#	119289
+#	133586
+#	145172
+#	158729
+#	173384
+#	186469
+#	199002
+#
+# Disc length: 2868 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=d70b3210
+DTITLE=Various Artist - Full Spectrum Blues, Disk Two, Piano Blues and B
+DTITLE=oogie Woogie
+DYEAR=1900
+DGENRE=
+TTITLE0=Vicksburg Blues
+TTITLE1=Block and Tackle Blues
+TTITLE2=Pine Top's Boogie Woogie
+TTITLE3=Mean Mistreater Mama
+TTITLE4=I Don't Know
+TTITLE5=At The Window 
+TTITLE6=Honky Tonk Train Blues
+TTITLE7=Who's Been Here Since I Been Gone?
+TTITLE8=Night Time Is The Right Time
+TTITLE9=Decoration Day Blues
+TTITLE10=Shack Bully Stomp
+TTITLE11=Teasin' Brown Skin
+TTITLE12=Blues On The Downbeat
+TTITLE13=Worried Life Blues
+TTITLE14=Old Taylor
+TTITLE15=Boogie Woogie Stomp
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10018
+#	22067
+#	35421
+#	46167
+#	57983
+#	70602
+#	90183
+#	115876
+#	134397
+#	161802
+#	172497
+#	186145
+#	195730
+#	218607
+#	229968
+#
+# Disc length: 3407 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=da0d4d10
+DTITLE=Multiple Artists - Blues Anthology - Disc 1
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=John Lee Hooker - Dimples
+TTITLE1=Jimmy Reed - Honest I Do
+TTITLE2=Muddy Waters - Baby Please Don't Go
+TTITLE3=Junior Parker - Mystery Train
+TTITLE4=Otis Rush - All Your Love
+TTITLE5=Elmor James - The Sky Is Crying
+TTITLE6=Albert King- Cadillac Assembly
+TTITLE7=John Mayall - Ridin' On The L and N
+TTITLE8=Robert Cray - The Score
+TTITLE9=Sonny Terry and Brownie McGhee- Walk On
+TTITLE10=Ligthning Hopkins - Coffee House Blues
+TTITLE11=T-Bone Walker - Call It Stormy Monday
+TTITLE12=Eric Clapton and Jimmy Page - Tribute To Elmore
+TTITLE13=Lonnie Brooks - Trading Post
+TTITLE14=Robert Johnson - Cross Road Blues
+TTITLE15=Junior Wells - I Got My Mojo Working
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

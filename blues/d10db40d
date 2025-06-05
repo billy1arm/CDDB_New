@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17310
+#	34887
+#	57600
+#	81562
+#	95100
+#	118375
+#	140565
+#	158209
+#	176637
+#	200897
+#	217095
+#	239037
+#
+# Disc length: 3510 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1d1
+#
+DISCID=d10db40d
+DTITLE=Coco Montoya - Just Let Go
+DYEAR=1900
+DGENRE=
+TTITLE0=Fear No Evil
+TTITLE1=What's Done is Done
+TTITLE2=Just Let Go
+TTITLE3=My Side of the Fence
+TTITLE4=Cool Like Dat
+TTITLE5=Do What You Want to Do
+TTITLE6=Give it to a Good man
+TTITLE7=Hard Love
+TTITLE8=Beginner at the Blues
+TTITLE9=Mother and Daughter
+TTITLE10=Nothing's Too Good for my Baby
+TTITLE11=Never Seen You Cry this way before
+TTITLE12=Sending Me Angels
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

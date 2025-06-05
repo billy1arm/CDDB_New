@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12221
+#	22554
+#	33894
+#	45661
+#	59598
+#	72366
+#	84441
+#	95042
+#	105889
+#	119387
+#	131756
+#	145827
+#	157883
+#	169826
+#	182467
+#	194962
+#
+# Disc length: 2739 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=dc0ab111
+DTITLE=Ray Charles - Blues is My Middle Name
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=blues is my middle name
+TTITLE1=goin down slow
+TTITLE2=lets have a ball
+TTITLE3=if i give you my love
+TTITLE4=this love of mine
+TTITLE5=snow is fallin
+TTITLE6=c.c.rider
+TTITLE7=they re crazy about me
+TTITLE8=i wonder who s kissing her now
+TTITLE9=i m going down the river
+TTITLE10=i will not let you go
+TTITLE11=baby let me hold your hands
+TTITLE12=cant you see darlin
+TTITLE13=st.pete s blues
+TTITLE14=rockin chair blues
+TTITLE15=i am glad for your sake
+TTITLE16=hey now
+EXTD=\nYEAR: 2003  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

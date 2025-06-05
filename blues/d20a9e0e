@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  14133
+#  28425
+#  43958
+#  57693
+#  73688
+#  87435
+#  103413
+#  117220
+#  130375
+#  144998
+#  160325
+#  174843
+#  189000
+#
+# Disc length: 2720 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.12
+#
+DISCID=d20a9e0e
+DTITLE=Various Artist - Jackson Blues  1928 - 1938
+DYEAR=1900
+DGENRE=
+TTITLE0=Dark Road Blues (Willie Lofton)
+TTITLE1=Bye Bye Blues (Tommy Johnson)
+TTITLE2=Never Drive A Stranger From Your Door (Willie Harris)
+TTITLE3=Old Devil (Bo Carter)
+TTITLE4=Stop And Listen Blues (Mississippi Sheiks)
+TTITLE5=Last Time Blues (Charlie McCoy)
+TTITLE6=Trouble Hearted Blues (Ishman Bracey)
+TTITLE7=Going Back Home (Mississippi Mudder)
+TTITLE8=Overtime Blues (Walter Vincent)
+TTITLE9=Two Time Blues (Arthur Pettis)
+TTITLE10=The Fore Day Blues (Ishman Bracey)
+TTITLE11=Lonesome Home Blues (Ishman Bracey)
+TTITLE12=Pay Me No Mind Blues (Ishman Bracey)
+TTITLE13=Black Mare Blues (Tommy Johnson)
+EXTD=Yazoo 1007\n\nSubmitted 7/2/97\n[Jmccoy@efn.org]
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=
