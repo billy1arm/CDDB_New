@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	15882
+#	27632
+#	44140
+#	58580
+#	75502
+#	87710
+#	103432
+#	118435
+#	131100
+#	143995
+#	157255
+#
+# Disc length: 2283 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=a808d60c,b808df0c
+DTITLE=Rolling Stones - Flowers
+DYEAR=1900
+DGENRE=
+TTITLE0=Ruby Tuesday
+TTITLE1=Have You Seen Your Mother, Baby, Standing In The Shadow?
+TTITLE2=Let's Spend The Night Together
+TTITLE3=Lady Jane
+TTITLE4=Out Of Time
+TTITLE5=My Girl
+TTITLE6=Backstreet Girl
+TTITLE7=Please Go Home
+TTITLE8=Mother's Little Helper
+TTITLE9=Take It Or Leave It
+TTITLE10=Ride On, Baby
+TTITLE11=Sittin' On A Fence
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5050
+#	33007
+#	59742
+#	81900
+#	102235
+#	120232
+#	145145
+#	172560
+#	199467
+#	223310
+#	250530
+#
+# Disc length: 3716 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a00e820c
+DTITLE=Soyuz Project - Elettrico Strada CD
+DYEAR=2004
+DGENRE=Techno
+TTITLE0=Test Tone
+TTITLE1=Spina
+TTITLE2=Over Flow
+TTITLE3=Spring Echo
+TTITLE4=Keiba Kav
+TTITLE5=Calling From "Akiba" Street
+TTITLE6=Tensou2
+TTITLE7=Exsizer
+TTITLE8=Test TONE(Frequency Mix)
+TTITLE9=Keiba KAV(Outright Mix)
+TTITLE10=EXSIZER(Voyager Mix)
+TTITLE11=Calling From "Akiba" STREET(Spiraling Mix)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

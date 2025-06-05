@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22340
+#	39135
+#	53190
+#	71182
+#	95242
+#	115055
+#	128065
+#	152055
+#	173925
+#	190112
+#	210860
+#
+# Disc length: 3020 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a40bca0c
+DTITLE=Criminal Nation - Release The Pressure
+DYEAR=1900
+DGENRE=
+TTITLE0=Positively Funky
+TTITLE1=Black Power Nation
+TTITLE2=The Right Crowd
+TTITLE3=Insane
+TTITLE4=I'm Rollin'
+TTITLE5=My Laboratory
+TTITLE6=Violent Sound
+TTITLE7=Release The Pressure
+TTITLE8=Definitely Down For Trouble
+TTITLE9=Criminal Hit
+TTITLE10=Mission Of Murder
+TTITLE11=Take No Prisoners
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

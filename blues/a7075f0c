@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11966
+#	21869
+#	30262
+#	39476
+#	51226
+#	63192
+#	74216
+#	84651
+#	98054
+#	109964
+#	119702
+#
+# Disc length: 1889 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a7075f0c
+DTITLE=Pk Dwyer - Healed
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Welcome back to the blues
+TTITLE1=Them mf blues
+TTITLE2=Black suit blues
+TTITLE3=Here comes a parade
+TTITLE4=Crossroads mall
+TTITLE5=You fill up my hole
+TTITLE6=Big mouth
+TTITLE7=Inside out
+TTITLE8=Fallen on hard times
+TTITLE9=ùgypsy blues
+TTITLE10=My baker blues
+TTITLE11=Healed (one more time)
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

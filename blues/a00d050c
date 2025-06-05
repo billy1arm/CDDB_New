@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	23275
+#	43330
+#	64780
+#	88380
+#	110362
+#	126205
+#	150367
+#	168322
+#	192435
+#	216527
+#	235047
+#
+# Disc length: 3335 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=a00d050c
+DTITLE=Various Artist - JVC Jazz Festival 1993
+DYEAR=0
+DGENRE=Jazz
+TTITLE0=Bahia
+TTITLE1=A Little Bumpin'
+TTITLE2=Open Invitation
+TTITLE3=Weekend In Monaco
+TTITLE4=Only Human
+TTITLE5=Linus and Lucy
+TTITLE6=We're All In This Together
+TTITLE7=On The Case
+TTITLE8=With A Little Help From My Friends
+TTITLE9=New York State Of Mind
+TTITLE10=Kid Gloves
+TTITLE11=Take The "A" Train
+EXTD=YEAR: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18455
+#	44182
+#	69564
+#	103285
+#	126527
+#	156122
+#	188617
+#	194414
+#	238872
+#	261940
+#
+# Disc length: 3850 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=a90f080b
+DTITLE=Nine Inch Nails - Further Down The Spiral
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Piggy
+TTITLE1=The Art Of Self Destruction, Part I
+TTITLE2=Self Destruction, Part II
+TTITLE3=The Downward Spiral (the Bottom)
+TTITLE4=Hurt (Quiet)
+TTITLE5=Eraser (Denial - Realization)
+TTITLE6=At the Heart Of It All
+TTITLE7=Eraser (Polite)
+TTITLE8=Self Destruction, Final
+TTITLE9=The Beauty Of Being Numb
+TTITLE10=Erased, Over, Out
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

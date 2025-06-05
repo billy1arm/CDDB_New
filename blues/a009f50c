@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27600
+#	45366
+#	62333
+#	77958
+#	89289
+#	107581
+#	118805
+#	136744
+#	148593
+#	163220
+#	177391
+#
+# Disc length: 2551 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a009f50c
+DTITLE=Kenny G - Christmasalbum CD 01
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=01 White Christmas - 01 White Christmas
+TTITLE1=02 - 02
+TTITLE2=03 Stille Nacht - 03 Stille Nacht
+TTITLE3=04 Green Sleeves - 04 Green Sleeves
+TTITLE4=05 - 05
+TTITLE5=06 Little Drummer boy - 06 Little Drummer boy
+TTITLE6=07 - 07
+TTITLE7=08 - 08
+TTITLE8=09 - 09
+TTITLE9=10 Guten Abend - Gute Nacht
+TTITLE10=11 Let it snow - 11 Let it snow
+TTITLE11=12 - Noell
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

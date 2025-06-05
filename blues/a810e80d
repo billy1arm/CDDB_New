@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19604
+#	37018
+#	51008
+#	83193
+#	106323
+#	122786
+#	154452
+#	236671
+#	248434
+#	263933
+#	277916
+#	309535
+#
+# Disc length: 4330 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a810e80d
+DTITLE=Edvard Grieg - Piano Works Vol.4  (Håkon Austbø, piano)
+DYEAR=2006
+DGENRE=Classique
+TTITLE0=Piano Sonata in E minor Op.7 - I. Allegro moderato
+TTITLE1=Piano Sonata in E minor Op.7 - II. Andante molto
+TTITLE2=Piano Sonata in E minor Op.7 - III. Alla menuetto ma poco più lento
+TTITLE3=Piano Sonata in E minor Op.7 - IV. Finale - Molto Allegro
+TTITLE4=Scenes from popular life Op.19 - I. On the mountain
+TTITLE5=Scenes from popular life Op.19 - II. Bridal procession
+TTITLE6=Scenes from popular life Op.19 - III. On the carnaval
+TTITLE7=Ballade in G minor Op.24
+TTITLE8=Suite From Holberg's Time Op.40 - I. Praeludium
+TTITLE9=Suite From Holberg's Time Op.40 - II. Sarabande
+TTITLE10=Suite From Holberg's Time Op.40 - III. Gavotte
+TTITLE11=Suite From Holberg's Time Op.40 - IV. Air
+TTITLE12=Suite From Holberg's Time Op.40 - V. Rigaudon
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

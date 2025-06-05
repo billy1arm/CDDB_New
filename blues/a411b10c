@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	87700
+#	111487
+#	121522
+#	138952
+#	161507
+#	181082
+#	201895
+#	225497
+#	259292
+#	278825
+#	315715
+#
+# Disc length: 4531 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b2
+#
+DISCID=a411b10c
+DTITLE=The Allman Brothers Band - Dreams, Disc 3
+DYEAR=1900
+DGENRE=
+TTITLE0=The Allman Brothers Band - You Don't Love Me/Soul Serenade
+TTITLE1=The Allman Brothers Band - Blue Sky
+TTITLE2=The Allman Brothers Band - Little Martha
+TTITLE3=The Allman Brothers Band - Melissa
+TTITLE4=The Allman Brothers Band - Ain't Wastin' Time No More
+TTITLE5=The Allman Brothers Band - Wasted Words
+TTITLE6=The Allman Brothers Band - Ramblin' Man
+TTITLE7=The Allman Brothers Band - Southbound
+TTITLE8=The Allman Brothers Band - Jessica
+TTITLE9=Gregg Allman - Midnight Rider
+TTITLE10=The Allman Brothers Band - One Way Out
+TTITLE11=Dickey Betts - Long Time Gone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

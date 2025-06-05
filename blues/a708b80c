@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10425
+#	23325
+#	40950
+#	56105
+#	64715
+#	80120
+#	93620
+#	107232
+#	118067
+#	129785
+#	149600
+#
+# Disc length: 2234 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a708b80c
+DTITLE=The Doors - Waiting For The Sun
+DYEAR=1968
+DGENRE=Blues
+TTITLE0=Hello, I Love You
+TTITLE1=Love Street
+TTITLE2=Not To Touch The Earth
+TTITLE3=Summer's Almost Gone
+TTITLE4=Wintertime Love
+TTITLE5=The Unknown Soldier
+TTITLE6=Spanish Caravan
+TTITLE7=My Wild Love
+TTITLE8=We Could Be So Good Together
+TTITLE9=Yes, The River Knows
+TTITLE10=Five To One
+TTITLE11=Waiting For The Sun
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

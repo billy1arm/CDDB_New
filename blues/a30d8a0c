@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17785
+#	35485
+#	65410
+#	92505
+#	120535
+#	140620
+#	160885
+#	184360
+#	203260
+#	223010
+#	246030
+#
+# Disc length: 3468 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: QuintessentialCD v1.0 (c) 1998 Paul Quinn
+#
+DISCID=a30d8a0c
+DTITLE=Millage Gilbert - 3 Faces
+DYEAR=1900
+DGENRE=
+TTITLE0=I Don't Need Your Help To Get The Blues
+TTITLE1=I Wonder Why
+TTITLE2=Let's Straighten It Out
+TTITLE3=I'll Play The Blues For You
+TTITLE4=Scratch My Back
+TTITLE5=I Intend To Take Your Place
+TTITLE6=Lonesome Road
+TTITLE7=Born In Missosuri
+TTITLE8=Losin' Hand
+TTITLE9=I Kicked The Habit
+TTITLE10=Rainy Night In Georgia
+TTITLE11=Key To The Highway
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

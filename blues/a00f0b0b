@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	26737
+#	61209
+#	81594
+#	102603
+#	126045
+#	151610
+#	169812
+#	187459
+#	221331
+#	251983
+#
+# Disc length: 3853 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=a00f0b0b
+DTITLE=Scott Henderson - Tore Down House
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Dolemite
+TTITLE1=Tore Down House
+TTITLE2=Meter Maid
+TTITLE3=I Hate You
+TTITLE4=Gittar School
+TTITLE5=Xanax
+TTITLE6=Continuum
+TTITLE7=You Got Off On Me
+TTITLE8=Mocha
+TTITLE9=Harpoon
+TTITLE10=Same As You
+EXTD=\nYEAR: 1997  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

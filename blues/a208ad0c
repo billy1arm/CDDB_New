@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13525
+#	25673
+#	40215
+#	56837
+#	69770
+#	83783
+#	97482
+#	112422
+#	126060
+#	137642
+#	151440
+#
+# Disc length: 2223 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a208ad0c
+DTITLE=Ella Fitzgerald - Jazz Collection - Sunday Tribune
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Pack up your sins
+TTITLE1=Sing song swing
+TTITLE2=The starlit hour
+TTITLE3=It's a blue world
+TTITLE4=Saving myself for you
+TTITLE5=You can't be mine
+TTITLE6=What's the matter with me
+TTITLE7=Undecided
+TTITLE8=Sugar blues
+TTITLE9=Three little words
+TTITLE10=We can't go on this way
+TTITLE11=Chewing gum
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

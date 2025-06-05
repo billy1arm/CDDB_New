@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21165
+#	45112
+#	70745
+#	92252
+#	115179
+#	133272
+#	146725
+#	170487
+#	192252
+#	200937
+#	226022
+#
+# Disc length: 3411 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=a00d510c
+DTITLE=Blues Traveler - Four
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=Run-Around
+TTITLE1=Stand
+TTITLE2=Look Around
+TTITLE3=Fallible
+TTITLE4=The Mountains Win Again
+TTITLE5=Freedom
+TTITLE6=Crash Burn
+TTITLE7=Price To Pay
+TTITLE8=Hook
+TTITLE9=The Good, The Bad, And The Ugly
+TTITLE10=Just Wait
+TTITLE11=Brother John
+EXTD=YEAR: 1994 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	20382
+#	45720
+#	67602
+#	92907
+#	114107
+#	123620
+#	151830
+#	168562
+#	186095
+#	206822
+#	222702
+#
+# Disc length: 3079 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a40c050c
+DTITLE=Pinetop Perkins - On Top
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=Kidney Stew
+TTITLE1=Just Keep On Drinking
+TTITLE2=Down In Mississippi
+TTITLE3=Five Long Years
+TTITLE4=Yancey Special
+TTITLE5=Four Hand Strut
+TTITLE6=Since I Fell For You
+TTITLE7=Pinetoppin'
+TTITLE8=Little Girl
+TTITLE9=Look On Yonder Wall
+TTITLE10=Worried Life Blues
+TTITLE11=Just A Gigolo
+EXTD=YEAR: 1992 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

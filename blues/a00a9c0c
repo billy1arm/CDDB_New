@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 2002 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     6095
+#     23905
+#     43662
+#     60687
+#     83430
+#     102655
+#     124000
+#     145015
+#     163495
+#     166260
+#     185245
+# 
+# Disc length: 2718 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a00a9c0c
+DTITLE=Jonell Mosser - Enough Rope
+DYEAR=1900
+DGENRE=
+TTITLE0=Red Headed Mama
+TTITLE1=Love Like Rain
+TTITLE2=Boney Man
+TTITLE3=Only The Here and Now
+TTITLE4=Your Love Is Working In My Life
+TTITLE5=When I Write The Book
+TTITLE6=Circle
+TTITLE7=Mama's Dream
+TTITLE8=When I'm Kissing My Love
+TTITLE9=Strangest Dream
+TTITLE10=Peace Stories
+TTITLE11=Resurrection Day
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

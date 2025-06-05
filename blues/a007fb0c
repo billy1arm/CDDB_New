@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	12438
+#	26603
+#	36560
+#	47728
+#	61723
+#	73105
+#	86333
+#	98373
+#	109418
+#	122620
+#	141375
+#
+# Disc length: 2045 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=a007fb0c
+DTITLE=John Lee Hooker - I'm In The Mood
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=I'm In The Mood
+TTITLE1=Dreamin' Blues
+TTITLE2=Dimples
+TTITLE3=Good Rockin' Mama
+TTITLE4=Apologize
+TTITLE5=Please Don't Go
+TTITLE6=Baby Lee
+TTITLE7=Frisco Blues
+TTITLE8=No Shoes
+TTITLE9=Women and Money
+TTITLE10=Peace Lovin' Man
+TTITLE11=Mad Man Blues
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

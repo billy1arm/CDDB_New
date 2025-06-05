@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13263
+#	26658
+#	41180
+#	52100
+#	66445
+#	79518
+#	92520
+#	109660
+#	123963
+#	138585
+#	154325
+#
+# Disc length: 2245 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a408c30c
+DTITLE=Art Pepper - Surf Ride
+DYEAR=1952
+DGENRE=Jazz
+TTITLE0=Tickle Toe
+TTITLE1=Chili Pepper
+TTITLE2=Susie The Poodle
+TTITLE3=Brown Gold
+TTITLE4=Hoiday Flight
+TTITLE5=Surf Ride
+TTITLE6=Straight Life
+TTITLE7=The Way You Look Tonight
+TTITLE8=Cinnamon
+TTITLE9=Nutmeg
+TTITLE10=Thyme Time
+TTITLE11=Art's Oregano
+EXTD=YEAR: 1952
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

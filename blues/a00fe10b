@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	52022
+#	73707
+#	95407
+#	125980
+#	151960
+#	179070
+#	214017
+#	234070
+#	252160
+#	282155
+#
+# Disc length: 4067 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a00fe10b
+DTITLE=Gilberto Gil - Ao Vivo
+DYEAR=1974
+DGENRE=MPB
+TTITLE0=João Sabino
+TTITLE1=Abra o Olho
+TTITLE2=Lugar Comum
+TTITLE3=Menina Goiaba
+TTITLE4=Sim, Foi Você
+TTITLE5=Herói das Estrelas
+TTITLE6=Cibernética
+TTITLE7=Dos Pés à Cabeça
+TTITLE8=O Compositor Me Disse
+TTITLE9=Copo Vazio
+TTITLE10=Dia de Festa
+EXTD=Gilberto Gil YEAR: 1974
+EXTT0=Joao Sabino
+EXTT1=Abra o olho
+EXTT2=Lugar comum
+EXTT3=Menina goiaba
+EXTT4=Sim, foi voce
+EXTT5=Heroi das estrelas
+EXTT6=Cibernetica
+EXTT7=Dos pes a cabeca
+EXTT8=O compositor me disse
+EXTT9=Copo vazio
+EXTT10=Dia de festa
+PLAYORDER=

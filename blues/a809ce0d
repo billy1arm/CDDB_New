@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     16375
+#     30880
+#     42747
+#     62710
+#     78057
+#     93217
+#     104555
+#     116685
+#     135650
+#     148542
+#     162567
+#     177907
+# 
+# Disc length: 2512 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a809ce0d
+DTITLE=Senders - Bar Room Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Bar Room BLues
+TTITLE1=Now Baby or Never
+TTITLE2=Scorched
+TTITLE3=When My Heart Beats Like a Hammer
+TTITLE4=Good Rockin' Daddy
+TTITLE5=Upside Your Head
+TTITLE6=Welcome BLues
+TTITLE7=That's All
+TTITLE8=Mover and Shaker
+TTITLE9=That's What You Got To Do
+TTITLE10=I'm Just Your Fool
+TTITLE11=Wrecking Crew Blues
+TTITLE12=Fruit Boots
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

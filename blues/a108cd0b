@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#       150
+#       11554
+#       29768
+#       41560
+#       61267
+#       74294
+#       89915
+#       107873
+#       122567
+#       140112
+#       156896
+#
+# Disc length: 2255 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jack 3.1.1
+#
+DISCID=a108cd0b
+DTITLE=Boise Rock School - Volume One
+DYEAR=2012
+DGENRE=blues
+TTITLE0=Hollywood Hotel - Soldier
+TTITLE1=Certified Rebellion - Lights Don't Lie
+TTITLE2=Alexa Cashen - Princess Diaries
+TTITLE3=Nicole Beck - Control The Chaos
+TTITLE4=People in Progress - The Food Song
+TTITLE5=Happy Hour - When It Feels Right
+TTITLE6=Controlled Chaos - Black Out
+TTITLE7=Bridge the Gap - Closer
+TTITLE8=Annika Klein - Be True
+TTITLE9=Preemptive Breakdown - Where I Am
+TTITLE10=Tainted Hurricane - Bacon
+EXTD=www.boiserockschool.com
+EXTT0=Tanner Abney, Gannon Matthews, Drake Semancik
+EXTT1=Peyton Blackwell, Marcus Lodman, Addy Nolan, Julie Rojas
+EXTT2=Alexa Cashen
+EXTT3=Nicole Beck
+EXTT4=Gabe Baldassarre, Parker Blumberg, Chloe Zahn
+EXTT5=Blake Butler, Jake Felzien, Annika Klein, Jack Tenley
+EXTT6=Nicole Beck, Atlee Hlavinka, Megal Miller, Max Reading
+EXTT7=Will Blankenship, Nate and Jack Marshall
+EXTT8=Annika Klein
+EXTT9=Nicole Beck, Atlee Hlavinka, Sam Lay, Megan Miller, Max Reading
+EXTT10=Owen Heiselman, Ryan Pearson, Chase Robinson
+PLAYORDER=

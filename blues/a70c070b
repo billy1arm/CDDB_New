@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18135
+#	40172
+#	64245
+#	86145
+#	107900
+#	130650
+#	147207
+#	172482
+#	192700
+#	213510
+#
+# Disc length: 3081 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a70c070b
+DTITLE=山下久美子 - SUCCESS MOON
+DYEAR=1995
+DGENRE=J-POP
+TTITLE0=DREAM OF LOVE
+TTITLE1=永遠の夏
+TTITLE2=SUCCESS MOON
+TTITLE3=冬のステラ
+TTITLE4=スウィート・ガールズ・パレード
+TTITLE5=when OUR morning will come
+TTITLE6=アスファルトのANGEL
+TTITLE7=秘密
+TTITLE8=LIVING MEMORY
+TTITLE9=迷子の遊園地
+TTITLE10=Theme from "SUCCESS MOON"
+EXTD=success moon\t\t\t\t\t\t\t YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

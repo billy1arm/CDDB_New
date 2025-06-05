@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17205
+#     36973
+#     64093
+#     82515
+#     118485
+#     175633
+#     191515
+#     206833
+#     245558
+#     270715
+#     302755
+# 
+# Disc length: 4310 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=a410d40c
+DTITLE=Gary Moore - Livin Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=The Stumble
+TTITLE1=All Your Love
+TTITLE2=Midnight Blues
+TTITLE3=You Don't Love Me
+TTITLE4=Still Got The Blues
+TTITLE5=Texas Strut
+TTITLE6=Moving On
+TTITLE7=Too Tired
+TTITLE8=Cold, Cold Feeling
+TTITLE9=Further On Up The Road
+TTITLE10=King Of The Blues
+TTITLE11=Stop Messin' Around
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

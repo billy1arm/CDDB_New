@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14965
+#	34307
+#	56930
+#	83927
+#	85932
+#	112605
+#	134027
+#	152085
+#	172980
+#	174920
+#	197050
+#
+# Disc length: 2884 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a00b420c
+DTITLE=Philippe Sellam - Serenade
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Dans les Montagnes
+TTITLE1=Entre deux mers
+TTITLE2=L'enfant des rochers
+TTITLE3=Va Bene
+TTITLE4=On sent la terre tourner
+TTITLE5=Seven Down
+TTITLE6=Paris Nuit
+TTITLE7=Amazone
+TTITLE8=La Bodega
+TTITLE9=Soupir
+TTITLE10=10.000 Pieds
+TTITLE11=Balivernes
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

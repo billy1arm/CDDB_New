@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	175
+#	33962
+#	54737
+#	80662
+#	105467
+#	133145
+#	162675
+#	191862
+#	208280
+#	250132
+#	285017
+#
+# Disc length: 4044 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=a10fca0b
+DTITLE=Mozart W A - Eder Quartet - Ferenc Tarjani - Kodaly Quartet - String Quartets K 575 - 589 - Horn Quintet
+DYEAR=1900
+DGENRE=String Quartets
+TTITLE0=1. Allegretto 
+TTITLE1=2. Andante 
+TTITLE2=3. Menuetto: Allegretto 
+TTITLE3=4. Allegretto 
+TTITLE4=5. Allegro 
+TTITLE5=6. Larghetto 
+TTITLE6=7. Menuetto: Moderato 
+TTITLE7=8. Allegro assai 
+TTITLE8=9. Allegro
+TTITLE9=10. Andante 
+TTITLE10=11. Rondo Allegro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

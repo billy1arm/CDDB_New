@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15882
+#	33300
+#	44511
+#	56283
+#	73044
+#	83083
+#	105494
+#	124417
+#	139327
+#	149667
+#	164682
+#
+# Disc length: 2305 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=a808ff0c
+DTITLE=Coco Briaval - Musique Manouche
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=Black and White
+TTITLE1=Melidie au Crepuscule
+TTITLE2=Swing White Django
+TTITLE3=Petite Pomme
+TTITLE4=Ballade Pour Un Niglo
+TTITLE5=Tchoun O Tchericlo
+TTITLE6=Les Yeux Noirs
+TTITLE7=La Marseillaise
+TTITLE8=Crepuscule Tzigane
+TTITLE9=Interdit Aux Nomades
+TTITLE10=Yack O Katch
+TTITLE11=L'Internationale
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

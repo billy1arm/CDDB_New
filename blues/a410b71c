@@ -1,0 +1,100 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9415
+#	18598
+#	28597
+#	41057
+#	54321
+#	65025
+#	76724
+#	89061
+#	98395
+#	107869
+#	119336
+#	131230
+#	142565
+#	152960
+#	164815
+#	175776
+#	188148
+#	199210
+#	210534
+#	222609
+#	235643
+#	249355
+#	260669
+#	272148
+#	284572
+#	294543
+#	306582
+#
+# Disc length: 4281 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a410b71c
+DTITLE=Sam Cooke - The man and his music
+DYEAR=1900
+DGENRE=Soul
+TTITLE0=Touch the hem of his Garment
+TTITLE1=That's heaven to me
+TTITLE2=I'll come running back to you
+TTITLE3=You send me
+TTITLE4=Win your love for me
+TTITLE5=Just for you
+TTITLE6=Chain gang
+TTITLE7=When a boy falls in love
+TTITLE8=Only sixteen
+TTITLE9=Wonderful world
+TTITLE10=Cupid
+TTITLE11=Nothing can change this love
+TTITLE12=Rome wasn't built in a day
+TTITLE13=Love will find a way
+TTITLE14=Everybody loves to cha cha cha
+TTITLE15=Another saturday night
+TTITLE16=Meet me at mary´s place
+TTITLE17=Having a party
+TTITLE18=Good times
+TTITLE19=Twistin' the night away
+TTITLE20=Shake
+TTITLE21=Somebody have mercy
+TTITLE22=Sad mood
+TTITLE23=Ain't that good news
+TTITLE24=Bring it on home to me
+TTITLE25=Soothe me
+TTITLE26=That's where it's at
+TTITLE27=A Change is gonna come
+EXTD=Kommentar: The man and his music
+EXTT0=Kommentar: Touch the hem of his garment
+EXTT1=Kommentar: That's heaven to me
+EXTT2=Kommentar: I'll come running back to you
+EXTT3=Kommentar: You send me
+EXTT4=Kommentar: Win your love for me
+EXTT5=Kommentar: Just for you
+EXTT6=Kommentar: Chain gang
+EXTT7=Kommentar: When a boy falls in love
+EXTT8=Kommentar: Only sixteen
+EXTT9=Kommentar: Wonderful world
+EXTT10=Kommentar: Cupid
+EXTT11=Kommentar: Nothing can change this love
+EXTT12=Kommentar: Rome wasn't built in a day
+EXTT13=Kommentar: Love will find a way
+EXTT14=Kommentar: Everybody loves to cha cha cha
+EXTT15=Kommentar: Another saturday night
+EXTT16=Kommentar: Meet me at mary´s place
+EXTT17=Kommentar: Having a party
+EXTT18=Kommentar: Good times
+EXTT19=Kommentar: Twistin' the night away
+EXTT20=Kommentar: Shake
+EXTT21=Kommentar: Somebody have mercy
+EXTT22=Kommentar: Sad mood
+EXTT23=Kommentar: Ain't that good news
+EXTT24=Kommentar: Bring it on home to me
+EXTT25=Kommentar: Soothe me
+EXTT26=Kommentar: That's where it's at
+EXTT27=Kommentar: A Change is gonna come
+PLAYORDER=

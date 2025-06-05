@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     35070
+#     80705
+#     91800
+#     110722
+#     123547
+#     150632
+#     164107
+#     177962
+#     191555
+#     203350
+#     224340
+# 
+# Disc length: 3185 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a90c6f0c
+DTITLE=Various Artist - Jazz and Blues Vol. 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Bus Driver - Muddy Waters
+TTITLE1=B.B. s Blues - B. B. King and Branford Marsalis
+TTITLE2=Love In Vain - Robert Johnson
+TTITLE3=I ve Had Enought - Alberta Hunter
+TTITLE4=Black Snake Moan - Blind Lemon Jefferson
+TTITLE5=Howling Wolf - Muddy Waters
+TTITLE6=In The House Blues - Bessie Smith
+TTITLE7=Midnight Hour Blues - Leroy Car - Scrapper Blackwell
+TTITLE8=Big Bill Blues - Big Bill Broonzy
+TTITLE9=It s All Over Now - Willie Dixon
+TTITLE10=Couldn t Stand The Weather - Stevie Ray Vaughan and Double Trouble
+TTITLE11=Pig Meat Papa - Leadbelly
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

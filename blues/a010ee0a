@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  31212
+#  56250
+#  94262
+#  125637
+#  146787
+#  201525
+#  213737
+#  264462
+#  289637
+#
+# Disc length: 4336 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=a010ee0a
+DTITLE=JAZZ GIANTS - 6 Fingers and 4 Breasts
+DYEAR=1900
+DGENRE=
+TTITLE0=autumn leaves
+TTITLE1=honeysuckle rose
+TTITLE2=i cover the waterfront
+TTITLE3=waltz for debby
+TTITLE4=sketch of melba
+TTITLE5=good bait
+TTITLE6=on a slow boat to china
+TTITLE7=bags' groove
+TTITLE8=when i fall in love
+TTITLE9=softly, as in a morning sunrise
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

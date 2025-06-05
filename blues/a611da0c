@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	25024
+#	58119
+#	79106
+#	100133
+#	132460
+#	158606
+#	188755
+#	219846
+#	252988
+#	299004
+#	323193
+#
+# Disc length: 4572 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta5_freedb
+#
+DISCID=a611da0c
+DTITLE=Ludovic Navarre aka St.Germain - From Detroit to St.Germain
+DYEAR=1900
+DGENRE=
+TTITLE0=The black man
+TTITLE1=Alabama blues
+TTITLE2=Walk so lonely
+TTITLE3=Jack on the groove
+TTITLE4=Prelusion
+TTITLE5=French
+TTITLE6=How do you plead?
+TTITLE7=Move
+TTITLE8=Deep in it
+TTITLE9=Soul salsa soul
+TTITLE10=My mama said
+TTITLE11=Dub experience
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

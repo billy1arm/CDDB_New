@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13894
+#	24486
+#	35926
+#	49885
+#	63235
+#	74446
+#	84280
+#	94719
+#	109821
+#	122624
+#	138905
+#
+# Disc length: 2100 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=a208320c
+DTITLE=Various Artist - The Best of Jazz
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Sarah Vaughan - Misty
+TTITLE1=Glenn Miller - That old feeling
+TTITLE2=Louis Armstrong - Hello dolly
+TTITLE3=Ella Fitzgerald - Stairway to the stars
+TTITLE4=Duke Ellington - Flamingo
+TTITLE5=Billy Holiday /Fooling myself
+TTITLE6=Sarah Vaughan - Careless
+TTITLE7=Count Basie - Five in the morning blues
+TTITLE8=Louis Armstrong - La vie en rose
+TTITLE9=Jimmy Lucenford - Chopin prelude
+TTITLE10=Monty Sunshine - Just a closer walk with thee
+TTITLE11=Miles Davis - Out of nowwhere
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     21162
+#     36837
+#     56145
+#     72650
+#     101197
+#     126162
+#     156075
+#     174320
+#     195075
+#     216365
+#     235152
+# 
+# Disc length: 3326 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a90cfc0c
+DTITLE=Randy Mac - Randy Mac
+DYEAR=1900
+DGENRE=
+TTITLE0=Truck
+TTITLE1=Down By The Border
+TTITLE2=Separate Ways
+TTITLE3=Are You Mine
+TTITLE4=Everytime You Go
+TTITLE5=Wrong Destination
+TTITLE6=Walking On Air
+TTITLE7=Save The Forest
+TTITLE8=Rule The World
+TTITLE9=Reach Out For Love
+TTITLE10=I Need Your Love
+TTITLE11=Louisiana
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

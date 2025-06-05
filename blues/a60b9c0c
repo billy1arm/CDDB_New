@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     15480
+#     28740
+#     50785
+#     71935
+#     89785
+#     109660
+#     133887
+#     153462
+#     163557
+#     180867
+#     205787
+# 
+# Disc length: 2974 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=a60b9c0c
+DTITLE=Billy Jenkins - S.A.D
+DYEAR=1900
+DGENRE=
+TTITLE0=Ain't Gonna Play No Jazz No more
+TTITLE1=Don't You Turn Your Back
+TTITLE2=Pissed Off Boy
+TTITLE3=Every Night You Turn Away
+TTITLE4=Where Did I Stay Last Night
+TTITLE5=I'm On An Island
+TTITLE6=Where Are You
+TTITLE7=I'm Stuck On You
+TTITLE8=Walking Back To Crappiness
+TTITLE9=Jazz Had A Baby (and they called it Avant-Garde)
+TTITLE10=Give Me The Money Quick
+TTITLE11=Goodbye Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

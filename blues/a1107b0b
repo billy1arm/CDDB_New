@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15034
+#	44047
+#	73837
+#	103747
+#	121707
+#	152817
+#	178405
+#	201475
+#	236785
+#	266110
+#
+# Disc length: 4221 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a1107b0b
+DTITLE=Various Artist - Detroit Jazz Festival
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Geri Allen Trio - Tea for Two
+TTITLE1=Larry Coryell - The Dragon Gate
+TTITLE2=B Sharp Jazz Quartet - Double Standard
+TTITLE3=Mingus Big Band - Nostalgia In Times Square
+TTITLE4=Roomful of Blues - Switchin' In the Kitchen
+TTITLE5=Roscoe Mitchell - Walking in the Moonlight
+TTITLE6=Jimmy McGriff and Hank Crawford - Splanky
+TTITLE7=Manny Oquendo and Libre - Candela
+TTITLE8=Billy Harper Quintete - Light Within
+TTITLE9=D.D. Jackson - Rhythm-Dance
+TTITLE10=McCoy Tyner Big Band - Peresina
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8382
+#	21182
+#	34905
+#	42965
+#	56203
+#	71740
+#	84939
+#	97012
+#	113070
+#	127181
+#	142386
+#
+# Disc length: 2140 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a8085a0c
+DTITLE=The Blues Brothers - The Essentials
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Opening: I Can't Turn You Loose
+TTITLE1=Rubber Biscuit
+TTITLE2=Soul Man
+TTITLE3=Soul Finger/Funky Broadway
+TTITLE4=Do You Love Me/Mother Popcorn (You Got to Have a Mother for Me)
+TTITLE5=Riot in Cell Block #9
+TTITLE6=Messin' With the Kid
+TTITLE7=(I Got Everything I Need) Almost
+TTITLE8=Who's Making Love
+TTITLE9=Gimme Some Lovin'
+TTITLE10=Everybody Needs Somebody to Love
+TTITLE11=Going Back to Miami
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13902
+#	40007
+#	48689
+#	68283
+#	85330
+#	103426
+#	132736
+#	150753
+#	169033
+#	194215
+#	211398
+#
+# Disc length: 3182 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a90c6c0c
+DTITLE=Sojiro - ocarina no mori kara
+DYEAR=2009
+DGENRE=New Age
+TTITLE0=01 Kotori tachi no Asa
+TTITLE1=02 Mori ni Kaeru
+TTITLE2=03 Mori no Kodama
+TTITLE3=04 Kodama ga kaze ni natte
+TTITLE4=05 Do no Michi
+TTITLE5=06 Mori no Bukyoku
+TTITLE6=07 Umi wo Omou
+TTITLE7=08 Daichi no Uta
+TTITLE8=09 Kokoro yasurage shiawase na mono Tachi 
+TTITLE9=10 Kono Hoshi ni Umarete 
+TTITLE10=11 Arata na Inochi
+TTITLE11=12 Mori ni Kaeru II ~duo for ocarina and piano~
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

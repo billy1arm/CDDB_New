@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21045
+#	45052
+#	61955
+#	81380
+#	94845
+#	108597
+#	122245
+#	148785
+#	163057
+#	175727
+#	193265
+#
+# Disc length: 2763 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a20ac90c
+DTITLE=J.B. Hutto and The New Hawks - Rock With Me Tonight
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Pretty Baby
+TTITLE1=Why Do Things Happen To Me
+TTITLE2=New Hawlk Walk
+TTITLE3=Eighteen Year Old Girl
+TTITLE4=Black's Ball
+TTITLE5=Soul Lover
+TTITLE6=Somebody Loan Me A Dime
+TTITLE7=Jealous Hearted Woman
+TTITLE8=Little Girl Dressed In Blue
+TTITLE9=I'm Leaving You
+TTITLE10=Floating Fruit Boogie
+TTITLE11=Radar
+EXTD=YEAR: 1999 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

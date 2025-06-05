@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15962
+#	33137
+#	48480
+#	66737
+#	81392
+#	98970
+#	118552
+#	134225
+#	149822
+#	166537
+#	183862
+#
+# Disc length: 2638 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL2
+#
+DISCID=a80a4c0c
+DTITLE=Sarah Brown - Sayin' What I'm Thinkin'
+DYEAR=1900
+DGENRE=
+TTITLE0=Barbwire Kiss
+TTITLE1=Not As Sorry As I Used To Be
+TTITLE2=Sayin' What I'm Thinkin'
+TTITLE3=Turn The Lock On Love
+TTITLE4=Good Fella Robert
+TTITLE5=Bad Boys Pride
+TTITLE6=Devil's Best Disguise
+TTITLE7=Bad Thing
+TTITLE8=Pleas Help
+TTITLE9=Pretty Little Poison
+TTITLE10=Keep A Little Light
+TTITLE11=Hey Big Sister
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

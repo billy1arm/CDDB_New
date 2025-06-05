@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44142
+#	66430
+#	101563
+#	125575
+#	165540
+#	207040
+#	223683
+#	260672
+#	276407
+#
+# Disc length: 4014 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a30fac0a
+DTITLE=Gato Libre - Nomad
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=In Krakow, In November
+TTITLE1=In Glasgow, In May
+TTITLE2=In Paris, In February
+TTITLE3=In Barcelona, In June
+TTITLE4=In Madrid, In August
+TTITLE5=In Berlin, In September
+TTITLE6=In Budapest, In April
+TTITLE7=In Lausanne, In January
+TTITLE8=In Gent, In December
+TTITLE9=In Venice, In October
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

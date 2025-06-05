@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16090
+#	36755
+#	48313
+#	69233
+#	98027
+#	127443
+#	139423
+#	166127
+#	210344
+#	236630
+#	248866
+#
+# Disc length: 3600 seconds
+#
+# Revision: 14
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a10e0e0c
+DTITLE=Beethoven - Sonates pour Piano - Vol.1-9  { Friedrich Gulda }
+DYEAR=1967
+DGENRE=Piano
+TTITLE0=Sonate N° 01  en Fa mineur, Op.02  n°1  [1795] - I. Allegro
+TTITLE1=Sonate N° 01  en Fa mineur, Op.02  n°1  [1795] - II. Adagio
+TTITLE2=Sonate N° 01  en Fa mineur, Op.02  n°1  [1795] - III. Menuetto, allegretto
+TTITLE3=Sonate N° 01  en Fa mineur, Op.02  n°1  [1795] - IV. Prestissimo
+TTITLE4=Sonate N° 02  en La majeur, Op.02  n°2  [1795] - I. Allegro vivace
+TTITLE5=Sonate N° 02  en La majeur, Op.02  n°2  [1795] - II. Largo appassionato 
+TTITLE6=Sonate N° 02  en La majeur, Op.02  n°2  [1795] - III. Scherzo, allegretto 
+TTITLE7=Sonate N° 02  en La majeur, Op.02  n°2  [1795] - IV. Rondo, grazioso 
+TTITLE8=Sonate N° 03  en Ut majeur, Op.02  n°3  [1795] - I. Allegro con brio
+TTITLE9=Sonate N° 03  en Ut majeur, Op.02  n°3  [1795] - II. Adagio
+TTITLE10=Sonate N° 03  en Ut majeur, Op.02  n°3  [1795] - III. Scherzo, allegro 
+TTITLE11=Sonate N° 03  en Ut majeur, Op.02  n°3  [1795] - IV. Allegro assai
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

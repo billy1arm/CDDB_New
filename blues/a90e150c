@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16542
+#	40307
+#	65985
+#	91000
+#	109920
+#	138612
+#	164822
+#	180637
+#	199020
+#	219487
+#	243250
+#
+# Disc length: 3607 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=a90e150c
+DTITLE=Karel Boehlee Trio - Romeo and Juliet
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=A Time For Us
+TTITLE1=Autumn Leaves
+TTITLE2=You Must Believe In Spring
+TTITLE3=Hymne A L'amour
+TTITLE4=Little Princess
+TTITLE5=My Funny Valentine
+TTITLE6=Ne Me Quitte Pas
+TTITLE7=Strike Again
+TTITLE8=Rosa Tubinata
+TTITLE9=Les Parapluies de Cherbourg
+TTITLE10=Summer Knows
+TTITLE11=Trust Me
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

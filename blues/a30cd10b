@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19145
+#	46616
+#	67566
+#	92562
+#	118217
+#	140563
+#	157302
+#	176181
+#	197986
+#	217298
+#
+# Disc length: 3283 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a30cd10b
+DTITLE=Various Artist - Latin Jazz
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Mongo Santamaria - Bonita
+TTITLE1=Hilton Ruiz - Something Grand
+TTITLE2=Hector Martignon - La Propuesta
+TTITLE3=Luis Bonilla - Mambo Barrara
+TTITLE4=Kenny Barron - Fungii Mama
+TTITLE5=Paquito D'Rivera - Nuestro Bolero
+TTITLE6=Don Bennett - Euphoria
+TTITLE7=Steve Hobbs - Pedra Bonita
+TTITLE8=Shorty Rogers - Casa De Luz
+TTITLE9=Omar Valle - Sirius
+TTITLE10=Domitrios Vassilakis - Ammos Summa
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	13470
+#	26326
+#	40817
+#	50800
+#	65163
+#	88414
+#	107052
+#	119518
+#	132066
+#	142619
+#	155430
+#
+# Disc length: 2281 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=a608dd0c,a908dd0c
+DTITLE=J.J. Cale - 5
+DYEAR=1979
+DGENRE=Rock
+TTITLE0=Thirteen Days
+TTITLE1=Boilin' Pot
+TTITLE2=I'll Make Love To You Anytime
+TTITLE3=Don't Cry Sister Cry
+TTITLE4=Too Much For Me
+TTITLE5=Sensitive Kind
+TTITLE6=Friday
+TTITLE7=Lou-Easy-Ann
+TTITLE8=Let's Go To Tahiti
+TTITLE9=Katy Kool Lady
+TTITLE10=Fate Of A Fool
+TTITLE11=Mona
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

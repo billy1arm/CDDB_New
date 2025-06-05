@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	183
+# 	17693
+# 	32793
+# 	64588
+# 	77838
+# 	90795
+# 	111775
+# 	125553
+# 	140365
+# 	163030
+# 	175250
+# 	192893
+# 	208873
+#
+# Disc length: 2938 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=a80b780d
+DTITLE=101 Strings - Symphony For Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=St Louis Blues
+TTITLE1=Birth Of The Blues
+TTITLE2=Symphony For Blues
+TTITLE3=Basin Street Blues
+TTITLE4=Frankie And Johnny
+TTITLE5=Sweet Hurtin' Blues
+TTITLE6=Blues In The Night
+TTITLE7=Shades Of The Blues
+TTITLE8=A Taste Of Soul
+TTITLE9=Rhapsody In Blue
+TTITLE10=Mood Indigo
+TTITLE11=Harlem Nocturne
+TTITLE12=Georgia On My Mind
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

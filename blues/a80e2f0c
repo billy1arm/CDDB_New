@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25069
+#	49623
+#	65772
+#	91883
+#	112377
+#	127047
+#	153926
+#	183482
+#	201789
+#	225712
+#	259172
+#
+# Disc length: 3633 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a80e2f0c
+DTITLE=Paolo Fresu and Omar Sosa - Featuring Jaques Morelenbaum
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=01 S'inguldu
+TTITLE1=02 inverno grigio
+TTITLE2=03 no trance
+TTITLE3=04 alma
+TTITLE4=05 angustia
+TTITLE5=06 crepuscolo
+TTITLE6=07 moon on the sky
+TTITLE7=08 old d blues
+TTITLE8=09 ninos
+TTITLE9=10 nenia
+TTITLE10=11 under african skyes
+TTITLE11=12 rimanere grande!
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

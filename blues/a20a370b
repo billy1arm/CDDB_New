@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13755
+#	34262
+#	51487
+#	69495
+#	99732
+#	113682
+#	131022
+#	155847
+#	169805
+#	185207
+#
+# Disc length: 2617 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a20a370b
+DTITLE=Robert Lockwood Jr. - does 12
+DYEAR=1900
+DGENRE=
+TTITLE0=Just A Little Bit
+TTITLE1=This Is The Blues
+TTITLE2=Down Home Cooking
+TTITLE3=Walkin' Blues
+TTITLE4=Angel Child
+TTITLE5=Terraplane Blues
+TTITLE6=Red Top
+TTITLE7=Selfish Ways
+TTITLE8=Half Steppin'
+TTITLE9=Little Queen Of Spades
+TTITLE10=King Biscuit Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

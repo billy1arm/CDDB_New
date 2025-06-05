@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27242
+#	47800
+#	61056
+#	75474
+#	97121
+#	119389
+#	130989
+#	145250
+#	182716
+#	225356
+#	275201
+#
+# Disc length: 4572 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a511da0c
+DTITLE=Al Cohn - Cohn's Tone and Tenor Conclave
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=I'm Tellin' Ya
+TTITLE1=Jane Street
+TTITLE2=Infinity
+TTITLE3=How Long Has This Been Going On
+TTITLE4=That's What You Think
+TTITLE5=Ah Moore
+TTITLE6=Groovin' With Gus
+TTITLE7=Let's Get Away From It All
+TTITLE8=Bob's Boys
+TTITLE9=Just You, Just Me
+TTITLE10=Tenor Conclave
+TTITLE11=How Deep Is The Ocean
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

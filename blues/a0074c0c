@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	9320
+#	19980
+#	30415
+#	40250
+#	51620
+#	63662
+#	75502
+#	87140
+#	104400
+#	117765
+#	126990
+#
+# Disc length: 1886 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=9807520c,a0074c0c
+DTITLE=Rolling Stones - Englands Newest Hitmakers
+DYEAR=1900
+DGENRE=
+TTITLE0=Not Fade Away
+TTITLE1=Route 66
+TTITLE2=Just Want To Make Love To You
+TTITLE3=Honest I Do
+TTITLE4=Now I've Got A Witness
+TTITLE5=Little By Little
+TTITLE6=I'm A King Bee
+TTITLE7=Carol
+TTITLE8=Tell Me
+TTITLE9=Can I Get A Witness
+TTITLE10=You Can Make It If You Try
+TTITLE11=Walking The Dog
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	14040
+#	30062
+#	44275
+#	64360
+#	77925
+#	90162
+#	101660
+#	115312
+#	123692
+#	133765
+#	150437
+#	161450
+#
+# Disc length: 2334 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.7
+#
+DISCID=a1091c0d
+DTITLE=The Terry McGuire Band - Lucky 13
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=I Ain't the Lovin Kind
+TTITLE1=Wild Wild Life
+TTITLE2=Razor's Edge
+TTITLE3=When It All Comes Down
+TTITLE4=I Will Always Love You
+TTITLE5=Train in Vain
+TTITLE6=All Day and All of the Night
+TTITLE7=Single White Female
+TTITLE8=The Happy Song
+TTITLE9=Grow Up
+TTITLE10=Not Enough Love
+TTITLE11=Crazy About You
+TTITLE12=This Ain't Love
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

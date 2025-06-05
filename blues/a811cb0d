@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25149
+#	51551
+#	85327
+#	105105
+#	131129
+#	151595
+#	181804
+#	195345
+#	234970
+#	259932
+#	287809
+#	319422
+#
+# Disc length: 4557 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a811cb0d
+DTITLE=GARY MOORE - Blues Alive
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=01.Cold day in hell
+TTITLE1=02.Walking by myself
+TTITLE2=03.Story of the blues
+TTITLE3=04.Oh pretty woman
+TTITLE4=05.Separate ways
+TTITLE5=06.Too tired
+TTITLE6=07.Still got the blues
+TTITLE7=08.Since I met you baby
+TTITLE8=09.The sky is crying
+TTITLE9=10.Further on up the road
+TTITLE10=11.King of the blues
+TTITLE11=12.Parisienne walkways
+TTITLE12=13.Jumpin' at shadows
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

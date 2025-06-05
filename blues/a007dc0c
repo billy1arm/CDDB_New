@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	8785
+#	21272
+#	34410
+#	47745
+#	60595
+#	72960
+#	83572
+#	97015
+#	110592
+#	126005
+#	137087
+#
+# Disc length: 2014 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a007dc0c
+DTITLE=Gene Pitney - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=I Wanna Love My Life Away
+TTITLE1=Every Breath I Take
+TTITLE2=Town Without Pity
+TTITLE3=The Man Who Shot Liberty Valence
+TTITLE4=Only Love Can Break A Heart
+TTITLE5=Half Heaven, Half Heartache
+TTITLE6=Mecca
+TTITLE7=24 Hours From Tulsa
+TTITLE8=Shady Lady
+TTITLE9=Unchained Melody
+TTITLE10=True Love Never Runs Smooth
+TTITLE11=Last Chance To Turn Around
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

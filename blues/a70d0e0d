@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13349
+#	34558
+#	51717
+#	67716
+#	83261
+#	99245
+#	118041
+#	133311
+#	146440
+#	173363
+#	191409
+#	206584
+#
+# Disc length: 3344 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=a70d0e0d
+DTITLE=Dr. Walter and The Lawbreakers - Skin Game Blues
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Walk Right In
+TTITLE1=I'm Gonna Cross The River Of Jordan
+TTITLE2=Greasy Greens
+TTITLE3=Brother Of Mine
+TTITLE4=Cotton-Eyed Joe
+TTITLE5=After You've Gone
+TTITLE6=Mountain Hop
+TTITLE7=That's No Way To Get Along
+TTITLE8=Hoochie-Coochie Man
+TTITLE9=5-0 Blues
+TTITLE10=How Much More
+TTITLE11=Here I Am Oh Lord
+TTITLE12=Write Me A Few Lines
+EXTD=YEAR: 1998 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

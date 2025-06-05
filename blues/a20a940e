@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	12397
+#	26266
+#	40203
+#	51855
+#	67865
+#	90378
+#	105208
+#	116328
+#	130238
+#	143283
+#	158635
+#	173928
+#	191043
+#
+# Disc length: 2710 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a20a940e
+DTITLE=Bill Stuve - Say Man
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Ain't no rocking no more
+TTITLE1=Please make love
+TTITLE2=Barefoot rock
+TTITLE3=Directly from my heart
+TTITLE4=Traintime blues
+TTITLE5=If the phone don't ring
+TTITLE6=Abracadabra
+TTITLE7=Say man!
+TTITLE8=Shame shame shame
+TTITLE9=Shake a hand
+TTITLE10=Your love burns clean
+TTITLE11=Rockin'
+TTITLE12=Season of the blues
+TTITLE13=Chifereau boogie
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

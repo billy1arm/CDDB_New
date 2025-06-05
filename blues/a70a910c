@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  183
+#  15033
+#  38883
+#  50883
+#  74883
+#  84933
+#  100758
+#  119058
+#  141333
+#  160758
+#  175758
+#  186483
+#
+# Disc length: 2707 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.31
+#
+DISCID=a70a910c
+DTITLE=Rossana Casale - La via dei misteri
+DYEAR=1900
+DGENRE=
+TTITLE0=Deja Vu
+TTITLE1=La via dei misteri
+TTITLE2=Petra
+TTITLE3=Sittin' on the dock of the bay
+TTITLE4=La via dei misteri (ripresa)
+TTITLE5=Brividi
+TTITLE6=Destino
+TTITLE7=Nuova vita
+TTITLE8=Tango
+TTITLE9=Ritorna tutto al tempo
+TTITLE10=Amnesia
+TTITLE11=Alla fine
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	5105
+#	30856
+#	56952
+#	76905
+#	114084
+#	144557
+#	168632
+#	193299
+#	223351
+#	232235
+#
+# Disc length: 3394 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a00d400b
+DTITLE=Sébastien Laurendeau's - strange fruits
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=What a strange intro
+TTITLE1=Senor blues (silver)
+TTITLE2=birk's works
+TTITLE3=Caravan
+TTITLE4=Naima
+TTITLE5=mmy favorite thing
+TTITLE6=straight no chaser
+TTITLE7=softly as in the morning sunrise
+TTITLE8=footprints
+TTITLE9=back/slash
+TTITLE10=Django
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

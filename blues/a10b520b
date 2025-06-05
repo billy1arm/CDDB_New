@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	17490
+#	43415
+#	58805
+#	74858
+#	91180
+#	107635
+#	139400
+#	160715
+#	179258
+#	205330
+#
+# Disc length: 2900 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a10b520b
+DTITLE=William Clarke - Blowin' Like Hell
+DYEAR=1990
+DGENRE=Blues
+TTITLE0=Lollipop Mama
+TTITLE1=Lonesome Bedroom Blues
+TTITLE2=Gambling For My Bread
+TTITLE3=Greasy Gravy
+TTITLE4=Trying So Hard
+TTITLE5=Cash Money
+TTITLE6=Must Be Jelly
+TTITLE7=Sweet Angel's Gone
+TTITLE8=Looking To The Future
+TTITLE9=Drinking By Myself
+TTITLE10=Blowin' Like Hell
+EXTD=ALCD 4788 YEAR: 1990 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

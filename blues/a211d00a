@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	56110
+#	59820
+#	116530
+#	149550
+#	151290
+#	211130
+#	213430
+#	274745
+#	288270
+#
+# Disc length: 4562 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a211d00a
+DTITLE=Gateway Trio - Live at the Montreal Jazz Fest
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=7th D (DeJohnette)
+TTITLE1=intro to How's Never (Holland)
+TTITLE2=How's Never (Holland)
+TTITLE3=Shortcut (Abercrombie)
+TTITLE4=Intro to Timeless (Abercrombie)
+TTITLE5=Timeless (Abercrombie)
+TTITLE6=intro to Jumpin' In (Holland)
+TTITLE7=Jumpin' In (Holland)
+TTITLE8=stage and radio announcers
+TTITLE9=E: Calypso Facto (Abercrombie)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14477
+#	29945
+#	48760
+#	61742
+#	74277
+#	94200
+#	110777
+#	126845
+#	143715
+#	179035
+#
+# Disc length: 2572 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=a50a0a0b
+DTITLE=Ken Lyon and the Tombstone Blues Band - Up From the Ashes
+DYEAR=1900
+DGENRE=
+TTITLE0=Talkin to My Baby
+TTITLE1=Long Lost John
+TTITLE2=Daytona Blonde
+TTITLE3=Don't Have to Go
+TTITLE4=Maybelline
+TTITLE5=Waterboy
+TTITLE6=Baby I Love You So
+TTITLE7=Elvyra
+TTITLE8=Riot in Cell Block #9
+TTITLE9=Long Distance Call
+TTITLE10=Tombstone Blues Band (King of the Graveyard Boogie)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

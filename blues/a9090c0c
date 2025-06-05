@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17982
+#	33267
+#	45872
+#	60282
+#	74650
+#	86689
+#	103007
+#	117892
+#	133855
+#	149112
+#	163115
+#
+# Disc length: 2318 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=a9090c0c
+DTITLE=Coleman Hawkins - The Hawk in Paris
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=April in Paris
+TTITLE1=Mon Home
+TTITLE2=Under Paris Skies (Sous le Ciel de Paris)
+TTITLE3=Mimi
+TTITLE4=La Chnouf
+TTITLE5=La vie en rose
+TTITLE6=La Mer (Beyond the Sea)
+TTITLE7=Paris in the Spring
+TTITLE8=I Love Paris
+TTITLE9=Mademoiselle de Paris
+TTITLE10=Chien perdu sans collier
+TTITLE11=Tu n'peux pas t'figurer
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

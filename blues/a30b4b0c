@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27691
+#	60332
+#	76656
+#	87828
+#	92961
+#	103729
+#	143589
+#	173597
+#	190364
+#	194767
+#	209506
+#
+# Disc length: 2893 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a30b4b0c
+DTITLE=Michael Haydn - Requiem - Te Deum MH 28 - Te Deum MH 800
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Requiem - I. Introitus et Kyrie   (Helmut Rilling, Liszt Ferenc Chamber Orchestra)
+TTITLE1=Requiem - II. Sequentia
+TTITLE2=Requiem - III. Offertorium
+TTITLE3=Requiem - IV. Hostiaz
+TTITLE4=Requiem - V. Sanctus
+TTITLE5=Requiem - VI. Benedictus
+TTITLE6=Requiem - VII. Agnus Dei et Communio
+TTITLE7=Te Deum MH 28   (Pàl Németh, Savaria Baroque Orchestra)
+TTITLE8=Te Deum MH 800 - I. Te Deum laudamus  (Domonkos Héja, Erdödy Chamber Orchestra)
+TTITLE9=Te Deum MH 800 - II. Te ergo quaesumus
+TTITLE10=Te Deum MH 800 - III. Aeterna fac
+TTITLE11=Te Deum MH 800 - IV. Non confundar
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

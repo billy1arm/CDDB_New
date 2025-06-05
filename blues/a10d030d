@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15033
+#	36733
+#	57137
+#	75912
+#	96081
+#	117416
+#	135435
+#	150321
+#	170405
+#	190645
+#	209833
+#	232326
+#
+# Disc length: 3333 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a10d030d
+DTITLE=Kenny G - A Tribute to Kenny G
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Wedding Song
+TTITLE1=Waiting for You
+TTITLE2=Forever in Love
+TTITLE3=Going Home
+TTITLE4=Moment
+TTITLE5=Havana
+TTITLE6=Theme from "Dying Young"
+TTITLE7=Loving You
+TTITLE8=Summer Song
+TTITLE9=Song Bird
+TTITLE10=Sentimental
+TTITLE11=Always
+TTITLE12=Don't Make Me Wait for Love
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

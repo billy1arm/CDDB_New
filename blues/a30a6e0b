@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	12563
+#	34485
+#	50703
+#	66470
+#	84215
+#	106443
+#	125983
+#	144988
+#	156603
+#	181718
+#
+# Disc length: 2672 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=a30a6e0b
+DTITLE=The Golden Gate Quartet - Live   Disk one of two
+DYEAR=1900
+DGENRE=
+TTITLE0=DOWN BY THE RIVERSIDE
+TTITLE1=MIDNIGHT TRAIN
+TTITLE2=I'M TROUBLED
+TTITLE3=JOSHUA FIT THE BATTLE OF JERICHO
+TTITLE4=THE END OF MY JOURNEY
+TTITLE5=SWING DOWN CHARIOT
+TTITLE6=I'M SO GLAD
+TTITLE7=MICHAEL
+TTITLE8=SHADRAK
+TTITLE9=NOBODY KNOWS THE TROUBLE I'VE SEEN
+TTITLE10=WHEN THE SAINTS
+EXTD=Carrere 96790 CD2\n\nGolden gate Quartet:\nOrlandus Wilson basse,\nC
+EXTD=lyde Riddick premier tenor,\nClyde Wright deuxieme tenor,\nPaul Br
+EXTD=embly baryton.\n\nIt was probably recorded in the early 1990's in 
+EXTD=France.\n
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

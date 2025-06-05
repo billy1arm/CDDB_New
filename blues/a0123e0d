@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15395
+#	37541
+#	59106
+#	95022
+#	117805
+#	142503
+#	169757
+#	196595
+#	221481
+#	244560
+#	289527
+#	316349
+#
+# Disc length: 4672 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a0123e0d
+DTITLE=Cosa Nostra - live
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Black Bottom Stomp
+TTITLE1=Promenade aux Champs-Elysées
+TTITLE2=Hello Dolly
+TTITLE3=Satuday night function
+TTITLE4=Le Marchand de poissons
+TTITLE5=Some of these days
+TTITLE6=Black and Blue
+TTITLE7=It don't mean a thing
+TTITLE8=Chinatown, my Chinatown
+TTITLE9=Careless love
+TTITLE10=Christopher Colombus
+TTITLE11=Summertime
+TTITLE12=Oh when the Saints
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

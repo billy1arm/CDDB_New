@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21422
+#	50192
+#	70257
+#	90122
+#	112567
+#	132185
+#	140985
+#	158315
+#	179672
+#	196812
+#	216310
+#
+# Disc length: 3207 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=a60c850c
+DTITLE=RadioHead - OK Computer
+DYEAR=1997
+DGENRE=
+TTITLE0=Airbag
+TTITLE1=Paranoid Android
+TTITLE2=Subterranean Homesick Alien
+TTITLE3=Exit Music (For a Film)
+TTITLE4=Let Down
+TTITLE5=Karma Police
+TTITLE6=Fitter Happier
+TTITLE7=Electioneering
+TTITLE8=Climbing up the Walls
+TTITLE9=No Surprises
+TTITLE10=Lucky
+TTITLE11=The Tourist
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

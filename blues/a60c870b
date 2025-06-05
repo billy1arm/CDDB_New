@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27585
+#	55894
+#	68917
+#	83639
+#	110427
+#	134986
+#	156649
+#	175310
+#	192936
+#	220000
+#
+# Disc length: 3209 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a60c870b
+DTITLE=Alte Wache - Dixieland aus Potsdam - Volume 2
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Sweet Georgia Brown
+TTITLE1=St. James Infirmary Blues
+TTITLE2=It Happens To Come True
+TTITLE3=South
+TTITLE4=Tiger Rag
+TTITLE5=Mister Sandman
+TTITLE6=Hallo, Kleines Fräulein
+TTITLE7=Lord, Lord, Lord ...
+TTITLE8=Tennessee Waltz
+TTITLE9=Royal Garden Blues
+TTITLE10=Ice Cream
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

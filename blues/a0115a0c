@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25087
+#	55865
+#	77997
+#	109737
+#	140240
+#	169847
+#	203700
+#	231787
+#	255797
+#	279567
+#	310160
+#
+# Disc length: 4444 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=a0115a0c
+DTITLE=Art Pepper - The Hollywood All-Star Sessions
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Just Friends
+TTITLE1=Begin The Beguine
+TTITLE2=For Art's Sake
+TTITLE3=Funny Blues
+TTITLE4=Angel Eyes
+TTITLE5=P. Town
+TTITLE6=Funny Blues (alternate)
+TTITLE7=Angel Blues (alternate)
+TTITLE8=Angel Wings
+TTITLE9=Softly, As In A Morning Sunrise
+TTITLE10=You're Be So Nice To Come Home To
+TTITLE11=Jack's Blues
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

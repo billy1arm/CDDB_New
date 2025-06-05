@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20035
+#	38447
+#	61225
+#	96482
+#	112962
+#	128105
+#	146817
+#	167275
+#	180287
+#	200659
+#	223027
+#
+# Disc length: 3242 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=a40ca80c
+DTITLE=Greyhound Blues Band - Doggone II
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Needle In A Haystack
+TTITLE1=Long As My Right Arm
+TTITLE2=Handyman
+TTITLE3=Gamble's Blues
+TTITLE4=Gonna take You Out
+TTITLE5=Spit It Out
+TTITLE6=Evening
+TTITLE7=Rats And Roaches
+TTITLE8=Insurance Man Blues
+TTITLE9=She Takes The Load
+TTITLE10=Driving Home
+TTITLE11=Oh So In Love
+EXTD=\nYEAR: 2000  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

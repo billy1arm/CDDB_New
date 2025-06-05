@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4955
+#	26076
+#	43476
+#	60505
+#	80107
+#	98093
+#	104664
+#	122332
+#	140351
+#	161413
+#	177520
+#
+# Disc length: 2610 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a20a300c
+DTITLE=ANUBIA - Segredo a voces
+DYEAR=2001
+DGENRE=Folk
+TTITLE0=Cantarea
+TTITLE1=H2o
+TTITLE2=Caotico
+TTITLE3=Frimamento
+TTITLE4=Sexto misterio
+TTITLE5=Sonando
+TTITLE6=San salvador
+TTITLE7=Clave de ferrena
+TTITLE8=Nai
+TTITLE9=Noite amarga
+TTITLE10=Morenita
+TTITLE11=Arrabeando
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

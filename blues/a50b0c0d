@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16218
+#	31425
+#	38513
+#	52862
+#	73113
+#	89725
+#	105977
+#	119950
+#	136314
+#	151073
+#	166942
+#	190166
+#
+# Disc length: 2830 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a50b0c0d
+DTITLE=Serge Lopez - Au fil de l´horizon
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Sans qu elle me voie
+TTITLE1=Appaloosa
+TTITLE2=Appaloosa (suite)
+TTITLE3=La danse du vent
+TTITLE4=Dans la poussiere des caravanes
+TTITLE5=Como amar
+TTITLE6=La course des cimes
+TTITLE7=La tour de sable
+TTITLE8=Rumba de la sombra
+TTITLE9=Ishbiliya
+TTITLE10=Sous les nuages
+TTITLE11=Arqueada
+TTITLE12=Au fil de horizon
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

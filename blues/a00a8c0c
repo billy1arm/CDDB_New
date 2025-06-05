@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15400
+#	30961
+#	52357
+#	69170
+#	83612
+#	103016
+#	119253
+#	134030
+#	151803
+#	170948
+#	187254
+#
+# Disc length: 2702 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a00a8c0c
+DTITLE=Kola Srbije - Kola Srbije
+DYEAR=2007
+DGENRE=Kolo
+TTITLE0=Moravac
+TTITLE1=Rumenka Kolo
+TTITLE2=Zvonce Kolo
+TTITLE3=Rusaljska Vlajna
+TTITLE4=Gajde
+TTITLE5=Zrnce Kolo
+TTITLE6=Niski Vihor
+TTITLE7=Slavicino Kolo
+TTITLE8=Dedine Gajde
+TTITLE9=Sasina Carolija
+TTITLE10=Kursumlijske Gajde
+TTITLE11=Vlaski Poziv
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

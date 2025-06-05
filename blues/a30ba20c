@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23047
+#	43397
+#	60750
+#	81642
+#	99805
+#	118360
+#	130620
+#	149612
+#	162555
+#	183930
+#	204137
+#
+# Disc length: 2980 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=a30ba20c
+DTITLE=Joe Cocker - Joe Cocker's Greatest Hits
+DYEAR=1987
+DGENRE=Blues
+TTITLE0=With a little help from my friends
+TTITLE1=Woman to Woman
+TTITLE2=The Jealous Kind
+TTITLE3=Black-eyed blues
+TTITLE4=I think it's going to rain
+TTITLE5=Cry me a river
+TTITLE6=You are so beautiful
+TTITLE7=Feeling alright
+TTITLE8=Delta Lady
+TTITLE9=Darling be home tonight
+TTITLE10=High time we went
+TTITLE11=The letter
+EXTD=YEAR: 1987 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

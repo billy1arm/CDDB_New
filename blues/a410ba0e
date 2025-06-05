@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	35315
+#	51445
+#	82843
+#	113043
+#	124223
+#	143770
+#	160440
+#	175675
+#	188253
+#	207118
+#	226980
+#	245290
+#	300133
+#
+# Disc length: 4284 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a410ba0e
+DTITLE=SKY - SKY 2
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Hotta
+TTITLE1=Dance of the little fairies
+TTITLE2=Sahara
+TTITLE3=Fifo: Fifo
+TTITLE4=Fifo: Adagio
+TTITLE5=Fifo: Scherzo
+TTITLE6=Fifo: Watching the airplanes
+TTITLE7=Tuba smarties
+TTITLE8=Ballet-volta
+TTITLE9=Tristan's magic garden
+TTITLE10=El cielo
+TTITLE11=Vivaldi
+TTITLE12=Scipio
+TTITLE13=Part I and Part II Toccata
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd
+# 
+# Track frame offsets:
+#     150
+#     23185
+#     41325
+#     55877
+#     71987
+#     92202
+#     117387
+#     133412
+#     151115
+#     169737
+#     188380
+#     199117
+# 
+# Disc length: 2961
+# 
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: fre:ac v1.0.27
+# 
+DISCID=a40b8f0c
+DTITLE=Shawn Colvin - Whole New You
+DYEAR=2001
+DGENRE=American Folk
+TTITLE0=A Matter of Minutes
+TTITLE1=Whole New You
+TTITLE2=Nothing Like You
+TTITLE3=Anywhere You Go
+TTITLE4=Bonefields
+TTITLE5=Another Plane Went Down
+TTITLE6=Bound To You
+TTITLE7=Roger Wilco
+TTITLE8=Mr. Levon
+TTITLE9=One Small Year
+TTITLE10=I'll Say I'm Sorry Now
+TTITLE11=Fall of Rome
+EXTD=The existing entry incorrectly identifies track 7 as "went down"\nwhen track 6 is "another plane went down" and 7 is "bound to you". All other tracks were off by one, and track 12 is now correctly named "fall of rome"
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

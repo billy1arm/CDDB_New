@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31322
+#	66100
+#	106410
+#	139860
+#	180567
+#	209472
+#	238145
+#	256435
+#	292510
+#	343300
+#
+# Disc length: 4778 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a512a80b
+DTITLE=Jazz Crusaders - Lighthouse '68 (2004 Remaster)
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=Oogo-Boo-Ga-Loo
+TTITLE1=Eleanor Rigby
+TTITLE2=Native Dancer
+TTITLE3=Never Had It So Good
+TTITLE4=The Emperor
+TTITLE5=Impressions
+TTITLE6=Cathy The Cooker (Bonus)
+TTITLE7=Shadows (Bonus)
+TTITLE8=Tough Talk (Bonus)
+TTITLE9=Third Principle (Bonus)
+TTITLE10=[DATA TRACK]
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

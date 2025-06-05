@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19012
+#	37115
+#	54680
+#	70380
+#	86017
+#	104095
+#	118515
+#	134700
+#	149235
+#
+# Disc length: 2235 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD2 v3.00 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a208b90a
+DTITLE=Various Artist - Monster Mash
+DYEAR=1900
+DGENRE=
+TTITLE0=Monster Mash
+TTITLE1=Electric Slide
+TTITLE2=Chicken Dance
+TTITLE3=HOT HOT HOT
+TTITLE4=Limbo
+TTITLE5=Hokey Pokey
+TTITLE6=The Twist
+TTITLE7=Hands Up
+TTITLE8=Alley Cat
+TTITLE9=YMCA
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

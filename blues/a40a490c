@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	20092
+#	35368
+#	47941
+#	68943
+#	87953
+#	121768
+#	137851
+#	151764
+#	164912
+#	178108
+#	197370
+#
+# Disc length: 2635 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=a40a490c
+DTITLE=Mushroom Groovy - Fungasamungus
+DYEAR=1900
+DGENRE=
+TTITLE0=Lily
+TTITLE1=Little Love
+TTITLE2=Mystic Purple Cola
+TTITLE3=Soul Searchin'
+TTITLE4=Repsychodelic
+TTITLE5=Psilocybin
+TTITLE6=Porno Song
+TTITLE7=Mighty Mow (Live)
+TTITLE8=Two Pictures
+TTITLE9=Razzmatazz
+TTITLE10=Beehive
+TTITLE11=J. C. Alien Transmission
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	18765
+#	41640
+#	60915
+#	76890
+#	95340
+#	124140
+#	141165
+#	161490
+#	186390
+#	203415
+#	216835
+#	244735
+#
+# Disc length: 3334 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a60d040d
+DTITLE=The Bellhops - Room Service
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm Ready
+TTITLE1=CC Rider
+TTITLE2=Red Eyes
+TTITLE3=Doin' It Right
+TTITLE4=Down on the Avenue
+TTITLE5=Personal Manager
+TTITLE6=Got My Mojo Working
+TTITLE7=Shake Dem Bones
+TTITLE8=Criminal of Love
+TTITLE9=I Don't Boogie on Sunday
+TTITLE10=Sick and Tired
+TTITLE11=I Got Saved
+TTITLE12=Ellen B
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

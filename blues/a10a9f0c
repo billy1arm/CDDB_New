@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12042
+#	31002
+#	53117
+#	66605
+#	87090
+#	102135
+#	119045
+#	134457
+#	155155
+#	172465
+#	187555
+#
+# Disc length: 2721 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=a10a9f0c
+DTITLE=Bill Parker - The Legendary Bill Parker
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Gotta Go to Work
+TTITLE1=Glass of Lemonade
+TTITLE2=Need My Woman to Lean on Me
+TTITLE3=Zydeco Blues
+TTITLE4=Please Believe in Me
+TTITLE5=Bird that Don't Fly
+TTITLE6=Buttie Butt
+TTITLE7=Ram
+TTITLE8=Memories are All I've Got
+TTITLE9=Drifting
+TTITLE10=Could Have Told You That
+TTITLE11=What You Got Going On
+EXTD=YEAR: 2001 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

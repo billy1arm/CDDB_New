@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12098
+#	38127
+#	71267
+#	111936
+#	133029
+#	168186
+#	190299
+#	227294
+#	247262
+#	272114
+#	289952
+#
+# Disc length: 3924 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=a60f520c
+DTITLE=Yuri Shepeta Quintet - Tribute to Bill Evans
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=We Will Meet Again
+TTITLE1=Bill Evans
+TTITLE2=Turn Out The Stars
+TTITLE3=Django
+TTITLE4=Funkallero Intro
+TTITLE5=Funkallero
+TTITLE6=Minha
+TTITLE7=Bill Hit's Tune
+TTITLE8=September Fifteenth
+TTITLE9=What are you doing the rest of your life?
+TTITLE10=I Will Say Goodbye
+TTITLE11=We Will Meet Again (reprise)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

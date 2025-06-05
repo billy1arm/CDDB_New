@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	42787
+#	62667
+#	82240
+#	95787
+#	114442
+#	129155
+#	164032
+#	181420
+#	190572
+#	202897
+#	221800
+#
+# Disc length: 3231 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=a90c9d0c
+DTITLE=Blues Alley
+DYEAR=1900
+DGENRE=
+TTITLE0=Blues Alley
+TTITLE1=Even Little Kids (get the blues)
+TTITLE2=She's Fine
+TTITLE3=Don't Leave Me
+TTITLE4=Only You Only Me
+TTITLE5=Bone Dry
+TTITLE6=Midnight Cruise
+TTITLE7=What If?
+TTITLE8=Racket
+TTITLE9=Lost Without You
+TTITLE10=She's Fine (Instrumental)
+TTITLE11=The Rainbow
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

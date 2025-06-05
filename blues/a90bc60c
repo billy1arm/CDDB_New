@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14467
+#	37092
+#	64045
+#	80905
+#	99957
+#	120532
+#	140782
+#	150980
+#	168205
+#	192542
+#	209737
+#
+# Disc length: 3016 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a90bc60c
+DTITLE=Mem Shannon - Memphis in the Morning
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Drowning On My Feet
+TTITLE1=Why I Sing The Blues
+TTITLE2=Memphis In The Morning
+TTITLE3=S.U.V.
+TTITLE4=Invisible Man
+TTITLE5=Tired Arms
+TTITLE6=I Smell Something
+TTITLE7=You Belong To Him
+TTITLE8=I Love The Way You Love
+TTITLE9=Unconditional Love
+TTITLE10=Shake Up The Floor
+TTITLE11=Doing The Best That I Can
+EXTD=YEAR: 2001 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

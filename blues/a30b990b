@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30258
+#	64453
+#	81853
+#	95303
+#	112465
+#	130366
+#	135346
+#	162663
+#	181993
+#	194965
+#
+# Disc length: 2971 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=a30b990b
+DTITLE=David Enhco - La horde
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=01 - Ballade
+TTITLE1=02 - La Harde
+TTITLE2=03 - Suite For D and Y - Part I
+TTITLE3=04 - Suite For D and Y - Part II
+TTITLE4=05 - Suite For D and Y - Part III
+TTITLE5=06 - Suite For D and Y - Part IV
+TTITLE6=07 - Interlude
+TTITLE7=08 - Novembre - Part I
+TTITLE8=09 - Novembre - Part II
+TTITLE9=10 - Old Toy
+TTITLE10=11 - Pierrot
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

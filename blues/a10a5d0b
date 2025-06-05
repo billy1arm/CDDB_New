@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18410
+#     37115
+#     58327
+#     74840
+#     98167
+#     111340
+#     131455
+#     149730
+#     166080
+#     180767
+# 
+# Disc length: 2655 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a10a5d0b
+DTITLE=Joanna Connor - Slidetime
+DYEAR=1900
+DGENRE=
+TTITLE0=Nothin' But The Blues
+TTITLE1=My Papa
+TTITLE2=You Don't Love Me
+TTITLE3=Got To Have You
+TTITLE4=Slide On In
+TTITLE5=My Man
+TTITLE6=Free Free Woman
+TTITLE7=Money Blues
+TTITLE8=It's Not The Rock
+TTITLE9=At The Club
+TTITLE10=Pea Vine Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

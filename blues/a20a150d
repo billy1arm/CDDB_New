@@ -1,0 +1,55 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13002
+#	29285
+#	49025
+#	65035
+#	78477
+#	91535
+#	103772
+#	121367
+#	136212
+#	154790
+#	165472
+#	178885
+# Disc length: 2583 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=a20a150d
+DTITLE=Tom Ball and Kenny Sultan - Filthy Rich
+DYEAR=1900
+DGENRE=
+TTITLE0=My Six Reasons
+TTITLE1=My Last Meal
+TTITLE2=Don't Pay Me No Mind
+TTITLE3=Whiskey Bent And Hell Bound
+TTITLE4=Buck Rag
+TTITLE5=All Talk And No Action
+TTITLE6=Filthy Rich
+TTITLE7=Honey Bee
+TTITLE8=Mind Your Own Business
+TTITLE9=Cigarette Blues
+TTITLE10=Glory Off Love/Swingin' On A Star
+TTITLE11=Tater Pie
+TTITLE12=When The Evenin' Sun Goes Down
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

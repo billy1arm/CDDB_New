@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	47951
+#	59517
+#	78235
+#	133950
+#	184163
+#	199447
+#	216911
+#	242978
+#	283315
+#
+# Disc length: 4263 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a910a50a
+DTITLE=Strauss - Classic Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=On The Beautiful Blue Danube
+TTITLE1=Tritch-Tratch Polka
+TTITLE2=Liebeslieder walzer
+TTITLE3=G Schicten Aus Dem Weinerwald
+TTITLE4=Kaiser Walz (Emperor)
+TTITLE5=Vergnugungszug Polka
+TTITLE6=Weiner Bonbons Waltz
+TTITLE7=Morgenblatter Waltz
+TTITLE8=Tausend Und Eine Nacht Waltz
+TTITLE9=Weiner Blut
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

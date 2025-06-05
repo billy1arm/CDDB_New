@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20747
+#	37855
+#	61956
+#	80041
+#	93799
+#	119614
+#	138402
+#	156240
+#	180510
+#	201392
+#	224387
+#
+# Disc length: 3260 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a80cba0c
+DTITLE=Das Fachpersonal - Weihnachtsspecial
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Oh Tannenbaum
+TTITLE1=Kommet ihr Hirten
+TTITLE2=Suesser die Glocken
+TTITLE3=Alle Jahre wieder
+TTITLE4=Ihr Kinderlein kommet
+TTITLE5=Macht hoch die Tuer
+TTITLE6=Kling Gloeckchen
+TTITLE7=Herbei oh ihr Glaeubigen
+TTITLE8=Stille Nacht
+TTITLE9=Leise rieselt der Schnee
+TTITLE10=O du froehliche
+TTITLE11=Morgen kommt der Weihnachtsmann
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

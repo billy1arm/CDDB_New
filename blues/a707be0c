@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     11205
+#     24527
+#     36282
+#     47945
+#     60487
+#     71510
+#     83437
+#     96307
+#     111525
+#     122297
+#     134232
+# 
+# Disc length: 1984 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=a707be0c
+DTITLE=Sam and Dave - Sam and Dave Magic Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Hold on I'm coming
+TTITLE1=I thank you
+TTITLE2=Said I wasn't gonna tell anybody
+TTITLE3=If you don't know like I know
+TTITLE4=You got me hummin'
+TTITLE5=Can't you find another way
+TTITLE6=Soothe me
+TTITLE7=Soul  man
+TTITLE8=When something is wrong
+TTITLE9=Soul sister, brown sugar
+TTITLE10=You don't know what you mean to me
+TTITLE11=Don't pull your love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

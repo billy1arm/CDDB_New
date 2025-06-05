@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16737
+#	38498
+#	58452
+#	78351
+#	94846
+#	116998
+#	131240
+#	154389
+#	174120
+#	193728
+#	214829
+#
+# Disc length: 3222 seconds
+#
+# Revision: 13
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=a50c940c
+DTITLE=Enigma - A Posteriori
+DYEAR=2006
+DGENRE=New Age
+TTITLE0=Eppur Si Muove
+TTITLE1=Feel Me Heaven
+TTITLE2=Dreaming Of Andromeda
+TTITLE3=Dancing With Mephisto
+TTITLE4=Northern Lights
+TTITLE5=Invisible Love
+TTITLE6=Message From 10
+TTITLE7=Hello And Welcome
+TTITLE8=20.000 Miles Over The Sea
+TTITLE9=Sitting On The Moon
+TTITLE10=The Alchemist
+TTITLE11=Goodbye Milky Way
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=Message From IO
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

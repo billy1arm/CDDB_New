@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 225
+# 14653
+# 36977
+# 58251
+# 78784
+# 100232
+# 121635
+# 143218
+# 155134
+# 168164
+# 186808
+# 207478
+#
+# Disc length: 3003 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=a40bb80c
+DTITLE=Joe Krown - Just the Piano... Just the Blues
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Pudding Time
+TTITLE1=All That
+TTITLE2=Rockhouse
+TTITLE3=Midnight Boogie
+TTITLE4=The Grind
+TTITLE5=15@7
+TTITLE6=Pinetop Boogie
+TTITLE7=Swinging The Gate
+TTITLE8=Allie's Lament
+TTITLE9=Easy Does It
+TTITLE10=a). Big Chief b). Mess Around
+TTITLE11=Jump Rope
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

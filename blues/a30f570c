@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20476
+#	45678
+#	65554
+#	93845
+#	120771
+#	158423
+#	177324
+#	199076
+#	223895
+#	244295
+#	266063
+#
+# Disc length: 3929 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a30f570c
+DTITLE=Klazz Brothers - Classic meets Cuba
+DYEAR=1900
+DGENRE=Salsa
+TTITLE0=Cuban Sugar (Tschaikowsky)
+TTITLE1=Mambozart (Mozart)
+TTITLE2=El Cisne Triste (Tschaikowsky, Chopin)
+TTITLE3=Hochzeitsmarsch (Mendelsson)
+TTITLE4=Cinco Salsa (Beethoven)
+TTITLE5=Cuban Danube (Strauss Jr.)
+TTITLE6=Sueno D'amor (Liszt)
+TTITLE7=Habanera en Habana (Bizet)
+TTITLE8=Kubanischer Tanz (Brahms)
+TTITLE9=Der Mond ist aufgegangen
+TTITLE10=Kubanischer Marsch (Mozart)
+TTITLE11=Salsaria (Bach)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

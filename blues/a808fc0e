@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13190
+#	24897
+#	36915
+#	53345
+#	60407
+#	78255
+#	91890
+#	103925
+#	116490
+#	130752
+#	139130
+#	151652
+#	164895
+#
+# Disc length: 2302 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a808fc0e
+DTITLE=Diversen Artiesten - EK-Voetbal CD
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=01-C'est Tout - De tandenborstel jive
+TTITLE1=02-Oranjelegioen - Daar gaan we
+TTITLE2=03-Oranjelegioen - Wij houden van Oranje
+TTITLE3=04-Oranjelegioen - Second waltz
+TTITLE4=05-Oranjelegioen - Medley
+TTITLE5=06-Oranjelegioen - Oranje bovenaan
+TTITLE6=07-Oranjelegioen - Oh wat is het toch fijn
+TTITLE7=08-Gerry and the Pacemakers - You'll never walk alone
+TTITLE8=09-Oranjelegioen - Hela hela holala
+TTITLE9=10-Oranjelegioen - Medley
+TTITLE10=11-Oranjelegioen - Medley
+TTITLE11=12-Oranjelegioen - Feest, feest, Oranje viert feest
+TTITLE12=13-Oranjelegioen - We are the champions
+TTITLE13=14-Oranjelegioen - Wilhelmus van Nassouwe
+EXTD=YEAR: 1996 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

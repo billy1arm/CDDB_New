@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12797
+#	30588
+#	47475
+#	68847
+#	81422
+#	93695
+#	112880
+#	124801
+#	134202
+#	143950
+#	155458
+#
+# Disc length: 2252 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a408ca0c
+DTITLE=Dilar Araújo - Reviver o Passado
+DYEAR=2004
+DGENRE=Folklore
+TTITLE0=Cheira bem cheira a Lisboa (Cesar Oliveira - Carlos A. Dias)
+TTITLE1=Confesso (Jose Galhardo /Frederico Valerio)
+TTITLE2=Uma casa Portuguesa (R. Ferreira - M. Sequeira - A. Fonseca)
+TTITLE3=Lágrima (Amalia - Carlos Gonçalves
+TTITLE4=Lisboa antiga (Jose Galhardo - Raul Portela)
+TTITLE5=Não gosto de ti (Raul Ferrão - Jose Galhardo)
+TTITLE6=É tão triste o meu viver (Popular - Jaime Santos)
+TTITLE7=Depois não me chames louca (Domingos Silva - Jaime Santos)
+TTITLE8=Fui reviver o passado (Maria Teresa de Noronha - João de Noronha)
+TTITLE9=Canto o fado (João Nobre)
+TTITLE10=A chave da minha porta (João Nobre - Anibal Nazare)
+TTITLE11=Liana netinha querida (Jose Rego - Franklim Godinho)
+EXTD=Guitarra Portuguesa: Costa Branco, Viola: Miguel Pedro, Técnico de Som: António Bizarro YEAR: 2004
+EXTT0=César Oliveira - Carlos A. Dias
+EXTT1=José Galhardo - Frededico Valério
+EXTT2=R. Ferreira - M. Sequeira - A. Fonseca
+EXTT3=Amália - Carlos Gonçalves
+EXTT4=José Galhardo - Raúl Portela
+EXTT5=Raul Ferrão - José Galhardo
+EXTT6=Popular - Jaime Santos
+EXTT7=Domingos Silva - Jaime Santos
+EXTT8=Maria Teresa de Noronha - João de Noronha
+EXTT9=João Nobre
+EXTT10=João Nobre - Aníbal Nazaré
+EXTT11=José Rego - Franklim Godinho
+PLAYORDER=

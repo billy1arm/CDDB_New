@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     28075
+#     43930
+#     60702
+#     76940
+#     99415
+#     115967
+#     133635
+#     166587
+#     177665
+#     190695
+#     209850
+# 
+# Disc length: 3086 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a80c0c0c
+DTITLE=Various Artist - Down Home Blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Sweet Sixteen
+TTITLE1=I'm In A Phone Booth Baby
+TTITLE2=Lady In The Street
+TTITLE3=Still Called The Blues
+TTITLE4=Taxi
+TTITLE5=Master Mechanic
+TTITLE6=Woman To Woman
+TTITLE7=I'll Play The Blues For You
+TTITLE8=Baby, What You Want Me To Do
+TTITLE9=Scratch My Back
+TTITLE10=The Blues Is Alright
+TTITLE11=Bad Risk
+EXTD=
+EXTT0=B.B. King\n
+EXTT1=Robert Cray\n
+EXTT2=Denise Lasale\n
+EXTT3=Johnnie Taylor\n
+EXTT4=J. Blackfoot\n
+EXTT5=Johnny Winter\n
+EXTT6=Shirley Brown\n
+EXTT7=Albert King\n
+EXTT8=Jimmy Reed\n
+EXTT9=Slim Harpo\n
+EXTT10=Little Milton\n
+EXTT11=Latimore\n
+PLAYORDER=

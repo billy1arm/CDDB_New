@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31556
+#	49871
+#	69261
+#	98252
+#	117812
+#	141183
+#	157088
+#	178455
+#	195825
+#	213708
+#	232870
+#	249514
+#
+# Disc length: 3497 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a60da70d
+DTITLE=이소라 - 7집
+DYEAR=2008
+DGENRE=Ballad
+TTITLE0=01
+TTITLE1=02
+TTITLE2=03
+TTITLE3=04
+TTITLE4=05
+TTITLE5=06
+TTITLE6=07
+TTITLE7=08
+TTITLE8=09
+TTITLE9=10
+TTITLE10=11
+TTITLE11=12
+TTITLE12=13
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

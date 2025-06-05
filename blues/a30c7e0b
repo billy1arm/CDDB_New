@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13517
+#	35877
+#	65310
+#	88855
+#	110617
+#	134945
+#	158670
+#	176900
+#	205707
+#	220225
+#
+# Disc length: 3200 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a30c7e0b
+DTITLE=Ramon Lopez Quartet - Songs Of The Civil War
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Els segadors
+TTITLE1=El Quinto Regimiento
+TTITLE2=El Paso Del Ebro
+TTITLE3=El Tren Blindado
+TTITLE4=Menduco Negarrak (To Federico Garcia Lorka)
+TTITLE5=En La Plaza De Mi Pueblo
+TTITLE6=La Santa Espina
+TTITLE7=El Turururu (To Primi)
+TTITLE8=Los Cuatro Generales
+TTITLE9=La Sardana De LesMonges
+TTITLE10=Els Segadors
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

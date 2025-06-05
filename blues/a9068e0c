@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10740
+#	22125
+#	32750
+#	43785
+#	54682
+#	63825
+#	73212
+#	81612
+#	94437
+#	106890
+#	114515
+#
+# Disc length: 1680 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=a9068e0c
+DTITLE=Perez Prado - I Grandi Successi Originali cd1
+DYEAR=2000
+DGENRE=Latin
+TTITLE0=Mambo jambo (Que rico el mambo)
+TTITLE1=La borrachita (L'll never love again)
+TTITLE2=Patricia
+TTITLE3=Cherry pink and apple blossom white
+TTITLE4=My roberta
+TTITLE5=Cucara cha cha cha
+TTITLE6=Mambo
+TTITLE7=Moliendo cafè
+TTITLE8=Historia de un amor
+TTITLE9=Maria bonita
+TTITLE10=Rockambo baby
+TTITLE11=La raspa
+EXTD=YEAR: 2000 ID3G: 86
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

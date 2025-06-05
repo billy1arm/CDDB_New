@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35271
+#	56050
+#	73238
+#	102387
+#	117850
+#	133776
+#	155947
+#	175389
+#	216161
+#	233789
+#
+# Disc length: 3335 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a70d050b
+DTITLE=Mozart - The Horn Concertos
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=The Horn Concertos, kv 447 1 Allergo
+TTITLE1=The Horn Concertos, kv 447 2 Romanze (Larghetto)
+TTITLE2=The Horn Concertos, kv 447 3 Allegro
+TTITLE3=The Horn Concertos, kv 417 1 Allegro Maestoso
+TTITLE4=The Horn Concertos, kv 417 2 Andante
+TTITLE5=The Horn Concertos, kv 417 3 Rondo
+TTITLE6=The Horn Concertos, kv 412 1 Allegro
+TTITLE7=The Horn Concertos, kv 412 2 Rondo
+TTITLE8=The Horn Concertos, kv 495 1 Allegro Moderato
+TTITLE9=The Horn Concertos, kv 495 2 Romanza ( Andante)
+TTITLE10=The Horn Concertos, kv 495 3 Rondo (Allegro Vivace)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

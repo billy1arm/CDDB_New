@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18727
+#	36912
+#	60474
+#	86395
+#	110517
+#	134292
+#	150860
+#	181593
+#	213631
+#	230773
+#	254227
+#
+# Disc length: 3757 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a00eab0c
+DTITLE=Heap of blueslights - The Storm 
+DYEAR=2012
+DGENRE=Blues
+TTITLE0=01 Mercy me
+TTITLE1=02 Loving, shaking, money making
+TTITLE2=03 Walk on by
+TTITLE3=04 With a little help
+TTITLE4=05 Destiny´s road
+TTITLE5=06 The storm brought us in
+TTITLE6=07 Heaven
+TTITLE7=08 The ocean is in motion
+TTITLE8=09 Shine your light
+TTITLE9=10 Leaving home
+TTITLE10=11 Blues, baby, blues
+TTITLE11=12 Man with a golden heart
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

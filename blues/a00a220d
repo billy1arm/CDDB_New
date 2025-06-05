@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13585
+#	26717
+#	41222
+#	52785
+#	66887
+#	82997
+#	98387
+#	113970
+#	129430
+#	145342
+#	159977
+#	177272
+#
+# Disc length: 2596 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=a00a220d
+DTITLE=Secret Garden - Songs From A Secret Garden
+DYEAR=1995
+DGENRE=Instrumental
+TTITLE0=Atlantia
+TTITLE1=Adagio
+TTITLE2=Nocturne
+TTITLE3=The Rap
+TTITLE4=Sigma
+TTITLE5=Song From a Secret Garden
+TTITLE6=Heartstrings
+TTITLE7=Chaconne
+TTITLE8=Papillon
+TTITLE9=Cantoluna
+TTITLE10=Serende to Spring
+TTITLE11=Pastorale
+TTITLE12=Ode to Simplicity
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

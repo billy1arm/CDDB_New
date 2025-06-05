@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21448
+#	36391
+#	60830
+#	77991
+#	88902
+#	103910
+#	125313
+#	143791
+#	161349
+#	183074
+#	206208
+#
+# Disc length: 3086 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.3 PL0
+#
+DISCID=a20c0c0c
+DTITLE=The Dan Page Group - Rough, Raw, Real
+DYEAR=1900
+DGENRE=
+TTITLE0=Anymore
+TTITLE1=You'll Be Back
+TTITLE2=Last Call
+TTITLE3=The Slip
+TTITLE4=Prelude to Heaven
+TTITLE5=Heaven
+TTITLE6=Dream
+TTITLE7=I Stand Corrected
+TTITLE8=Venga's Song
+TTITLE9=Another Cloudy Day
+TTITLE10=Shades of Grey
+TTITLE11=The Sun Don't Shine
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=
