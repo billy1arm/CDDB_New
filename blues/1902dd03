@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18175
+#	36267
+#
+# Disc length: 735 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=1902dd03
+DTITLE=Alanis Morissette - You Learn
+DYEAR=1995
+DGENRE=Rock
+TTITLE0=YOU LEARN (Album Version)
+TTITLE1=YOU LEARN (Acoustic Version)
+TTITLE2=YOU OUGHTA KNOW (The Jimmy The Saint Blend - Clean Version)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

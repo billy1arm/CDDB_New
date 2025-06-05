@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16317
+#	46946
+#
+# Disc length: 1200 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=1904ae03
+DTITLE=Norah Jones - What Am I to You?
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=What Am I to You
+TTITLE1=Sleepless Nights
+TTITLE2=Data Track
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

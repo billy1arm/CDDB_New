@@ -1,0 +1,27 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18867
+#     49712
+# 
+# Disc length: 962 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1803c003
+DTITLE=C and C Music Factory featuring Freedom Williams - Gonna Make You Sweat
+DTITLE=(Everybody Dance Now)
+DYEAR=1900
+DGENRE=
+TTITLE0=Radio Mix
+TTITLE1=The Slammin' Vocal Club Mix
+TTITLE2=Clivilles and Cole D.J.'s Choice Mix
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

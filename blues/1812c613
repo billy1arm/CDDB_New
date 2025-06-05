@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23651
+#	43526
+#	59404
+#	81152
+#	102626
+#	114455
+#	129133
+#	141573
+#	163848
+#	186790
+#	206961
+#	221287
+#	246697
+#	263596
+#	293566
+#	323691
+#	341253
+#	352560
+#
+# Disc length: 4808 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta5
+#
+DISCID=1812c613
+DTITLE=Kingdom Come - Blues and Ballads
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=What Love Can Be
+TTITLE1=Janine
+TTITLE2=Friends
+TTITLE3=I've Been Trying
+TTITLE4=Passion Departed
+TTITLE5=Can't Let Go (Director's Cut)
+TTITLE6=Little Wild Thing
+TTITLE7=You'll never Now
+TTITLE8=Glove of Stone
+TTITLE9=Gonna Fry
+TTITLE10=Outsider
+TTITLE11=Rather Be On My Own
+TTITLE12=Should I
+TTITLE13=You're Not The Only
+TTITLE14=Twilight Cruiser
+TTITLE15=Can't Fake Affection
+TTITLE16=Thank You All
+TTITLE17=And I love Her
+TTITLE18=Pardon The Difference (But I Like It)
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17800
+#	35275
+#
+# Disc length: 705 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=1902bf03
+DTITLE=Ingemar Olsson - Storslagetlåten
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Storslagetlåten (Radioversion)
+TTITLE1=Storslagetlåten (Lägerbålsversion)
+TTITLE2=Storslagetlåten (Karaokeversion)
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=
