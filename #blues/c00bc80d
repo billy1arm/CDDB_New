@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15875
+#	32090
+#	48282
+#	67102
+#	90850
+#	109722
+#	133140
+#	149245
+#	164940
+#	179520
+#	197412
+#	214407
+#
+# Disc length: 3018 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=c00bc80d
+DTITLE=Geoff Achison and The Souldiggers - Gettin' Evil
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Comin' Ta Getcha
+TTITLE1=Be Careful What You Wish For
+TTITLE2=Tell Me Something I Don't Know
+TTITLE3=Gettin' Evil
+TTITLE4=Jungle
+TTITLE5=Adam And Eve
+TTITLE6=Help Yourself
+TTITLE7=Hotel Room
+TTITLE8=Natch'l Fact
+TTITLE9=Don't Play Guitar Boy
+TTITLE10=Take What You Can Get
+TTITLE11=Overtime
+TTITLE12=End Of The Line
+EXTD=YEAR: 1999 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

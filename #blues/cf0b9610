@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	13957
+#	26262
+#	37917
+#	50775
+#	62885
+#	75535
+#	90757
+#	103810
+#	117145
+#	128837
+#	143577
+#	155707
+#	173812
+#	193512
+#	209265
+#
+# Disc length: 2968 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=cf0b9610
+DTITLE=Muddy Waters - In Memoriam
+DYEAR=1988
+DGENRE=blues
+TTITLE0=Rollin´Stone
+TTITLE1=I can´t be satisfied
+TTITLE2=Rollin´ and Tumblin´
+TTITLE3=Louisiana Blues
+TTITLE4=Long Distance Call
+TTITLE5=I´m your Hoochie Coochie Man
+TTITLE6=Honey Bee
+TTITLE7=40 Days and 40 Nights
+TTITLE8=Manish Boy
+TTITLE9=The same Thing
+TTITLE10=Let´s spend the nichgt together
+TTITLE11=Memphis
+TTITLE12=My home is in the Delta
+TTITLE13=Rock me
+TTITLE14=You don´t have to go
+TTITLE15=Got my Mojo working
+EXTD=\nYEAR: 1988  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10980
+#	26487
+#	49422
+#	70447
+#	88172
+#	109592
+#	129850
+#	148197
+#	165417
+#	182292
+#	201642
+#	217352
+#	233020
+#
+# Disc length: 3286 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=cb0cd40e
+DTITLE=LFO - Frequencies
+DYEAR=1995
+DGENRE=Techno
+TTITLE0=Intro
+TTITLE1=LFO
+TTITLE2=Simon from Sydney
+TTITLE3=Nurture
+TTITLE4=Freeze
+TTITLE5=We Are Back
+TTITLE6=Tan Ta Ra
+TTITLE7=You Have to Understand
+TTITLE8=El Ef Oh!
+TTITLE9=Love is the Message
+TTITLE10=Mentok 1
+TTITLE11=Think a Moment
+TTITLE12=Groovy Distortion
+TTITLE13=a track called 'Track 14' but CDDB won't allow just 'Track 14'
+EXTD=YEAR: 1995.11.22
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

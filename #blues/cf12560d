@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34270
+#	62408
+#	85511
+#	121338
+#	147388
+#	160258
+#	187297
+#	214131
+#	240632
+#	274982
+#	299214
+#	325389
+#
+# Disc length: 4696 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=cf12560d
+DTITLE=USAF Band - Airmen of Note - Holiday Note from Home, A
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Go Tell It On the Mountain
+TTITLE1=Little Dummer Boy
+TTITLE2=It's the Most Wonderful Time
+TTITLE3=Hark, the Herald Angels Sing
+TTITLE4=O Christmas Tree
+TTITLE5=Christmas Waltz, The
+TTITLE6=We Three Kings
+TTITLE7=Imani
+TTITLE8=Christmas Time is Here
+TTITLE9=Holly Jolly Christmas
+TTITLE10=Oy Chanukah
+TTITLE11=Winter Wonderland
+TTITLE12=You're a Mean One, Mr. Grinch
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

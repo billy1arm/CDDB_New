@@ -1,0 +1,60 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16585
+#     38050
+#     58225
+#     81342
+#     100472
+#     119732
+#     139245
+#     158390
+#     178087
+#     200652
+#     219747
+#     236490
+#     257350
+# 
+# Disc length: 3678 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=c30e5c0e
+DTITLE=Diversos - Samba De Enredo Das Escolas De Samba do Grupo 1A - Carnava
+DTITLE=l 90
+DYEAR=1900
+DGENRE=
+TTITLE0=Os Her is da Resist ncia
+TTITLE1=Com A Boca No Mundo
+TTITLE2=Hist ria Da Nossa Hist ria
+TTITLE3=Se Esta Terra, Se Esta Terra Fosse Minha
+TTITLE4=Todo Mundo Nasceu Nu
+TTITLE5=Sou Amigo Do Rei
+TTITLE6=De Ouro E Prata Esse Ch o
+TTITLE7=E O Samba Sambou
+TTITLE8=E Deu A Louca No Barroco
+TTITLE9=Vira, Virou, A Mocidade Chegou
+TTITLE10=Langsdorff Del rio Na Sapuca 
+TTITLE11=Terra Brasilis, O Que Se plantou Deu
+TTITLE12=E O Borel Descobriu... Navegar Foi Preciso
+TTITLE13=Sonhar com O Rei D  Jo o
+EXTD=
+EXTT0=Acad micos Da Santa Cruz\n
+EXTT1=Caprichosos de Pilares\n
+EXTT2=Imp rio Serrano\n
+EXTT3=Unidos Da Vila Isabel\n
+EXTT4=Beija-Flor\n
+EXTT5=Acad micos Do Salgueiro\n
+EXTT6=Potela\n
+EXTT7=S o Clemente\n
+EXTT8=Esta  o Primeira Da Mangueira
+EXTT9=Mocidade Independente de Padre Miguel
+EXTT10=Est cio De S 
+EXTT11=Imperatriz Leopoldinense
+EXTT12=Unidos Da Tijuca
+EXTT13=Uni o Da Ilha Do Governador
+PLAYORDER=

@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24657
+#	45918
+#	67576
+#	82947
+#	103401
+#	132712
+#	151266
+#	180150
+#	201067
+#	221946
+#	245586
+#	265222
+#	292773
+#	313896
+#
+# Disc length: 4441 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=cf11570f
+DTITLE=Logos - Séphira
+DYEAR=2007
+DGENRE=New Age
+TTITLE0=Le Royaume - Malkout - La Terre
+TTITLE1=Levana - Iesod - La Lune
+TTITLE2=Connaissance magique - Hod - Mercure
+TTITLE3=Beauté éternelle - Netzach - Vénus
+TTITLE4=Splendeurs Solaires - Tipheret - Soleil
+TTITLE5=La marche des Puissances - Gebourah - Mars
+TTITLE6=Clémence infinie - Hesed - Jupiter
+TTITLE7=Les Seigneurs des Destinées - Binah - Saturne
+TTITLE8=Contemplation - Hochmah - Uranus
+TTITLE9=Au delà de lÉspace - Kether - Neptune
+TTITLE10=L'Arbre de Zéphyr
+TTITLE11=Les Fruits de Nirvana
+TTITLE12=Emanations
+TTITLE13=Les 7 Esprits
+TTITLE14=Condensations
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

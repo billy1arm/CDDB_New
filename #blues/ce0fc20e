@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	18771
+#	38176
+#	58928
+#	76294
+#	99613
+#	121611
+#	148478
+#	179733
+#	199274
+#	221933
+#	249218
+#	266025
+#	277618
+#
+# Disc length: 4036 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ce0fc20e
+DTITLE=Feine Herren - Nachtfalter
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Feine Herren - 10 x da
+TTITLE1=Feine Herren - Gebrauchtwagen
+TTITLE2=Feine Herren - Zocker
+TTITLE3=Feine Herren - Spendierhosen an
+TTITLE4=Feine Herren - Der Tiger
+TTITLE5=Feine Herren - Nachtfalter
+TTITLE6=Feine Herren - Hintendran
+TTITLE7=Feine Herren - Kein Robert Johnson Blues
+TTITLE8=Feine Herren - Spaﬂ, Spaﬂ, Spaﬂ
+TTITLE9=Feine Herren - Das falsche Pferd
+TTITLE10=Feine Herren - Westirland
+TTITLE11=Feine Herren - Standspur
+TTITLE12=Feine Herren - Am Nordpol
+TTITLE13=Feine Herren - Alles Gute
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

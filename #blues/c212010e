@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17167
+#	42120
+#	92172
+#	109812
+#	117697
+#	135422
+#	152517
+#	171620
+#	186850
+#	218115
+#	244705
+#	282900
+#	331522
+#
+# Disc length: 4611 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=c212010e
+DTITLE=Various Artist - SUPER EUROBEAT Vol.34 EXTENDED VERSION
+DYEAR=1993
+DGENRE=Eurodance
+TTITLE0=Virginelle - Hot Love and Emotion [Extended Mix]
+TTITLE1=Mr.Groove - Take My Heart [Dance Mix]
+TTITLE2=DJ.NRG - Kamikaze [Extended Version]
+TTITLE3=Mega NRG Man - Strong Beat [Strong Dance Mix]
+TTITLE4=Lolita - Please Me Now [Extended Version]
+TTITLE5=Jonny Be Cool - Crazy Girl [Power Mix]
+TTITLE6=NRG Boys - Hyperbeat Tonight [Hyper Mix]
+TTITLE7=Robert Patton - Sweet Lover [Extended Mix]
+TTITLE8=Macho Gang - Dance Around The World [Extended Mix]
+TTITLE9=Anika - No More Lies [Extended Mix]
+TTITLE10=Jilly - Halloween [Hallo Mix]
+TTITLE11=Maio and CO - Bye Bye Baby [Extended Mix]
+TTITLE12=Mike Hammer - Runaway [Extasy Mix]
+TTITLE13=Frank Torpedo - Everybody's Dancing [Extended Mix]
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

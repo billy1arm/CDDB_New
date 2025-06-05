@@ -1,0 +1,64 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	1412
+#	13465
+#	27770
+#	56680
+#	100472
+#	122925
+#	149392
+#	172102
+#	186510
+#	203677
+#	241550
+#	261090
+#	274802
+#
+# Disc length: 3974 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL1
+#
+DISCID=cc0f840e
+DTITLE=Bands of Primanti Bros. Blues Cafe
+DYEAR=1900
+DGENRE=
+TTITLE0=Pat Scanga - Introduction
+TTITLE1=The Hurricanes - Sweet Soul Music (Arthur Conley)
+TTITLE2=(Jill West's) Blues Attack - Larry's Boogie (Larry Siefers)
+TTITLE3=The Bob Beach Blues Band with Jeff Bell - Do Think Twice (Jeff B
+TTITLE3=ell)
+TTITLE4=Chizmo Charles and The Jeff Bell Blues Band - What's Goin' On (M
+TTITLE4=arvin Gaye)
+TTITLE5=Eugene and The Nightcrawlers - Can I Change My Mind (Tyrone Davis)
+TTITLE6=Jill West and Blues Attack - Route 66 (Bobby Troup)
+TTITLE7=The Professionals - Tougher Than it Looks (Mike Sweeney)
+TTITLE8=James King and The Usual Suspects - Steady Drivin' Man (Willie D
+TTITLE8=eVille)
+TTITLE9=Tony Janflone Jr. and In Sync - I've Got News For You (R. Alfred)
+TTITLE10=The McKeg Lawson Band - Take Me To The River (Al Green)
+TTITLE11=Iced Blues - Diggin' on James Brown (Tower of Power)
+TTITLE12=The Jim Hilton Blues Band - Experiment In Terror (The Chiller Th
+TTITLE12=eater Theme) (Henry Mancini)
+TTITLE13=O'Ring Jones and The Panthers - B. F. W. (traditional)
+EXTD=Primanti Bros.\nBlues Cafe\n1832 East Carson Street\nPittsburgh, PA
+EXTD=15203\nwww.bluescafe.com\n\nPBBC001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

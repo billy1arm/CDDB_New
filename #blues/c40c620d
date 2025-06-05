@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13017
+#	36330
+#	52095
+#	71867
+#	96607
+#	117085
+#	131567
+#	149295
+#	159800
+#	173575
+#	196317
+#	222730
+#
+# Disc length: 3172 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c40c620d
+DTITLE=Mose Allison - Ramblin' with Mose Allison
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=I Got a Right to Cry
+TTITLE1=Old Devil Moon
+TTITLE2=The Minstrels
+TTITLE3=You Belong to Me
+TTITLE4=Stranger in Paradise
+TTITLE5=The Kissin' Bug
+TTITLE6=Ramble
+TTITLE7=Saritha
+TTITLE8=Old Man John
+TTITLE9=Ingenue
+TTITLE10=Old Devil Moon (alt take)
+TTITLE11=Stranger in Paradise (alt take)
+TTITLE12=Ramble (alt take)
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32710
+#	48435
+#	77185
+#	94425
+#	136070
+#	151180
+#	159242
+#	165160
+#	177310
+#	192510
+#	210105
+#	230912
+#	246955
+#	258115
+#	271885
+#
+# Disc length: 3788 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ca0eca10
+DTITLE=Britten Sinfonia - Cleobury - Bridge Orchestral Music
+DYEAR=1997
+DGENRE=Strings
+TTITLE0=Suite for Strings -I- Prelude
+TTITLE1=Suite for Strings -II- Intermezzo
+TTITLE2=Suite for Strings -III- Nocturne
+TTITLE3=Suite for Strings -IV- Finale
+TTITLE4=There is a willow grows aslant a brook
+TTITLE5=The Two Hunchbacks -I-
+TTITLE6=The Two Hunchbacks -II-
+TTITLE7=The Two Hunchbacks -III-
+TTITLE8=The Two Hunchbacks -IV-
+TTITLE9=The Two Hunchbacks -V-
+TTITLE10=Threads -I- Andante
+TTITLE11=Threads -II- Tempo di Valse
+TTITLE12=Rosemay
+TTITLE13=Canzonetta
+TTITLE14=Berceuse
+TTITLE15=Serenade
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

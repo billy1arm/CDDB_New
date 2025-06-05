@@ -1,0 +1,115 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9780
+#	17372
+#	30590
+#	44517
+#	53217
+#	61375
+#	78850
+#	86440
+#	92432
+#	101020
+#	105685
+#	115360
+#	121295
+#	126427
+#	132760
+#	136755
+#	142230
+#	153570
+#	161422
+#	169015
+#	182475
+#	188892
+#	195375
+#	210167
+#	222730
+#	231810
+#	248595
+#	259850
+#	270262
+#	278092
+#	282220
+#	295172
+#
+# Disc length: 4076 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c40fea21
+DTITLE=Frederic Chiu - Prokofiev Piano Music
+DYEAR=2001
+DGENRE=Piano Solo
+TTITLE0=Grandmother's Tales Op.31 -I- Moderato
+TTITLE1=Grandmother's Tales Op.31 -II- Andantino
+TTITLE2=Grandmother's Tales Op.31 -III- Andante assai
+TTITLE3=Grandmother's Tales Op.31 -IV- Sostenuto
+TTITLE4=Juvenilia -I- Presto
+TTITLE5=Juvenilia -II- Allegro in D Minor
+TTITLE6=Juvenilia -III- Lento in D minor
+TTITLE7=Music for Children Op.65 -I- Morning
+TTITLE8=Music for Children Op.65 -II- Promenade
+TTITLE9=Music for Children Op.65 -III- A Little Story
+TTITLE10=Music for Children Op.65 -IV- Tarantella
+TTITLE11=Music for Children Op.65 -V- Regrets
+TTITLE12=Music for Children Op.65 -VI- Waltz
+TTITLE13=Music for Children Op.65 -VII- March of the Grasshoppers
+TTITLE14=Music for Children Op.65 -VIII- The Rain and the Rainbow
+TTITLE15=Music for Children Op.65 -IX- Playing Tag
+TTITLE16=Music for Children Op.65 -X- March
+TTITLE17=Music for Children Op.65 -XI- Evening
+TTITLE18=Music for Children Op.65 -XII- The Moon Strolls in the Meadows
+TTITLE19=Ten Pieces Op.12 -I- March
+TTITLE20=Ten Pieces Op.12 -II- Gavotte
+TTITLE21=Ten Pieces Op.12 -III- Rigaudon
+TTITLE22=Ten Pieces Op.12 -IV- Mazurka
+TTITLE23=Ten Pieces Op.12 -V- Capriccio
+TTITLE24=Ten Pieces Op.12 -VI- Legend
+TTITLE25=Ten Pieces Op.12 -VII- Prelude
+TTITLE26=Ten Pieces Op.12 -VIII- Allemande
+TTITLE27=Ten Pieces Op.12 -IX- Humoresque Scherzo
+TTITLE28=Ten Pieces Op.12 -X- Scherzo
+TTITLE29=Juvenilia -IV- Tarantella in D minor
+TTITLE30=Juvenilia -V- Allegretto in C minor
+TTITLE31=Juvenilia -VI- Tempo di marcia
+TTITLE32=Juvenilia -VII- Scherzo in C major
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+PLAYORDER=

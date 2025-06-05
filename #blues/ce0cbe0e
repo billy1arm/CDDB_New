@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	17830
+#	37267
+#	56415
+#	72232
+#	89062
+#	107205
+#	116875
+#	129222
+#	144395
+#	162010
+#	181737
+#	199362
+#	218135
+#
+# Disc length: 3264 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5.4
+#
+DISCID=ce0cbe0e
+DTITLE=Condor - Machu Picchu
+DYEAR=1900
+DGENRE=
+TTITLE0=Purimuy
+TTITLE1=Aguas Claras
+TTITLE2=Carnaval de Cajamaraca and Pinkullito
+TTITLE3=Yamor
+TTITLE4=Kullakita
+TTITLE5=Pajarillos de Huancane
+TTITLE6=Kullakita
+TTITLE7=Pequebo Juanito
+TTITLE8=Todas las Sangres
+TTITLE9=Corazon Entresticido
+TTITLE10=Cuando Floresca el Chubo
+TTITLE11=Acomayo
+TTITLE12=Vaso de Cerveza
+TTITLE13=Guajira (Guantanamera)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

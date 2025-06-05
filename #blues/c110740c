@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	25350
+#	50750
+#	74137
+#	96300
+#	120462
+#	146775
+#	185557
+#	217725
+#	240312
+#	270487
+#	292350
+#
+# Disc length: 4214 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=c110740c
+DTITLE=Véronique - Jazz de Moscou
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Déclaration d'amour
+TTITLE1=Airegin
+TTITLE2=Légende
+TTITLE3=The song is you
+TTITLE4=Reminiscence
+TTITLE5=Papillon
+TTITLE6=Valse
+TTITLE7=Arlequin
+TTITLE8=Véronique
+TTITLE9=Pluie sur Arbatt
+TTITLE10=Petit cheval
+TTITLE11=Berceuse
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

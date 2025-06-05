@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17048
+#	34856
+#	52036
+#	61979
+#	90784
+#	104397
+#	129615
+#	150809
+#	156097
+#	160737
+#	163563
+#	168182
+#	170311
+#	175963
+#	182908
+#	184937
+#
+# Disc length: 2779 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ca0ad911
+DTITLE=kardamon - aroma
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Largo
+TTITLE1=Ludus Liber 1
+TTITLE2=Love Song
+TTITLE3=Ludus Liber 2
+TTITLE4=Lied vom Regen
+TTITLE5=Ludus Liber 3
+TTITLE6=Loslassen
+TTITLE7=A Frog's Agony
+TTITLE8=La riposte de l'hiver I
+TTITLE9=La riposte de l'hiver II
+TTITLE10=La riposte de l'hiver III
+TTITLE11=La riposte de l'hiver IV
+TTITLE12=La riposte de l'hiver V
+TTITLE13=La riposte de l'hiver VI
+TTITLE14=La riposte de l'hiver VII
+TTITLE15=La riposte de l'hiver VIII
+TTITLE16=Berührung
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

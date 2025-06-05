@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	27922
+#	48660
+#	64525
+#	84632
+#	99352
+#	114652
+#	132805
+#	159867
+#	179665
+#	191475
+#	206850
+#	226922
+#	245977
+#
+# Disc length: 3503 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=c10dad0e
+DTITLE=Various Artist - Jazz 'Round Midnight - Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=John Lee Hooker - The Right Time
+TTITLE1=Big Bill Broonzy - When The Sun Goes Down
+TTITLE2=Mickey Baker - Trouble Is A Woman
+TTITLE3=Otis Spann - What Will Become Of Me?
+TTITLE4=Champion Jack Dupree - Georgiana
+TTITLE5=Curtis Jones - You Got Good Business
+TTITLE6=T-Bone Walker - I'm In Love
+TTITLE7=Memphis Slim/Buddy Guy - Rolling And Tumbling
+TTITLE8=Otis Spann - Sometimes I Wonder
+TTITLE9=Curtis Jones - Roll Me Over
+TTITLE10=John Lee Hooker - I Need Your Love So Bad
+TTITLE11=Champion Jack Dupree - Poor Poor Me
+TTITLE12=Big Bill Broonzy - Backwater Blues
+TTITLE13=Mickey Baker - Blues Before Sunrise
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

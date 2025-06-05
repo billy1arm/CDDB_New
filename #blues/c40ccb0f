@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14719
+#	28291
+#	40870
+#	64584
+#	75324
+#	94043
+#	113449
+#	125051
+#	144304
+#	173561
+#	187381
+#	200267
+#	214252
+#	225022
+#
+# Disc length: 3277 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=c40ccb0f
+DTITLE=Various Artist - Essential Blues - Disc 1
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Dust My Blues_Elmore James
+TTITLE1=Three O'clock Blues_B.B. King
+TTITLE2=Killing Floor_Howlin' Wolf
+TTITLE3=Stop Watching Your Enemies_Koko Taylor
+TTITLE4=Messin' With The Kid_Junior Wells
+TTITLE5=Better Off With The Blues_Clarence Brown
+TTITLE6=When You Walk Out That Door_Albert King
+TTITLE7=Don't Start Me Talkin'_Sonny Boy Williamson
+TTITLE8=Blues In The Basement_Rufus Thomas
+TTITLE9=Little Bluebird_Little Milton
+TTITLE10=Mojo Hand_Lightnin' Hopkins
+TTITLE11=Big Boss Man_Jimmy Reed
+TTITLE12=Boogie Chillen_John Lee Hooker
+TTITLE13=I'll Take Care Of You_Bobby Bland
+TTITLE14=Otis In The Dark_Otis Spann
+EXTD=YEAR: 1995
+EXTT0=Elmore James\n
+EXTT1=B.B.King\n
+EXTT2=Howlin' Wolf\n
+EXTT3=Koko Taylor\n
+EXTT4=Junior Wells\n
+EXTT5=Clarenece Gatemouth Brown\n
+EXTT6=Albert King\n
+EXTT7=Sonny Boy Williamson\n
+EXTT8=Rufus Thomas\n
+EXTT9=Little Milton\n
+EXTT10=Lightnin' Hopkins\n
+EXTT11=Jimmy Reed\n
+EXTT12=John Lee Hooker\n
+EXTT13=Bobby Bland\n
+EXTT14=Otis Span\n
+PLAYORDER=

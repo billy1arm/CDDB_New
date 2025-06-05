@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     35520
+#     52455
+#     107177
+#     123640
+#     139482
+#     169082
+#     188097
+#     217427
+#     235920
+#     282942
+#     301017
+# 
+# Disc length: 4171 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=c110490c
+DTITLE=Het Zwanenkoor - De parels van de Jordaan
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Max Tak medley
+TTITLE1=De zon schijnt voor iedereen
+TTITLE2=Bleke Bet medley
+TTITLE3=Pierement
+TTITLE4=De vrolijke koster
+TTITLE5=Oranje Hein medley
+TTITLE6=Oh mooie Westertoren
+TTITLE7=Jordaan potpourri
+TTITLE8=Jordaan in de hemel
+TTITLE9=De Jantjes medley
+TTITLE10=De parel van de Jordaan
+TTITLE11=Amsterdam ik wil je wel bekennen
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

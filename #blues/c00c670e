@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19695
+#	44392
+#	59747
+#	82020
+#	103702
+#	128912
+#	145410
+#	159390
+#	169935
+#	183027
+#	194397
+#	212622
+#	228875
+#
+# Disc length: 3177 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=c00c670e
+DTITLE=Female singers - Noname Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=The Pendulum
+TTITLE1=Drick mej ikväll
+TTITLE2=I got it bad and that ain't good
+TTITLE3=No name blues
+TTITLE4=Willow weep
+TTITLE5=If there's a reason
+TTITLE6=name n/a
+TTITLE7=Dream of you
+TTITLE8=Summertime
+TTITLE9=It's all-right
+TTITLE10=More than you know
+TTITLE11=Spring is here
+TTITLE12=Svarta Maria
+TTITLE13=Bröllopsmilonga
+EXTD=
+EXTT0=Ulla Fluur, song
+EXTT1=Ulla Fluur, song
+EXTT2=Alice Babs, song
+EXTT3=Alice Babs, song
+EXTT4=Alice Babs, song
+EXTT5=Maria Blom, song
+EXTT6=Maria Blom, song
+EXTT7=Monica Zetterlund, song
+EXTT8=Monica Zetterlund, song
+EXTT9=Monica Zetterlund, song
+EXTT10=Monica Zetterlund, song
+EXTT11=Monica Zetterlund, song
+EXTT12=Anna Lena Brundin, song
+EXTT13=Anna Lena Brundin, song
+PLAYORDER=

@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11025
+#     23552
+#     35720
+#     45967
+#     60375
+#     72727
+#     97410
+#     113432
+#     129150
+#     140782
+#     154292
+#     169142
+#     185630
+# 
+# Disc length: 2679 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=c30a750e
+DTITLE=Aretha Franklin - Lady Soul
+DYEAR=1900
+DGENRE=
+TTITLE0=Respect
+TTITLE1=Chain of Fools
+TTITLE2=Baby I Love You
+TTITLE3=Think
+TTITLE4=Rock, Steady
+TTITLE5=(You make me Feel Like) A Natural Woman
+TTITLE6=Bridge Over Troubled Waters
+TTITLE7=I Say A Little Prayer
+TTITLE8=Spanish Harlem
+TTITLE9=Eleonor Rigby
+TTITLE10=Don't Play That Song
+TTITLE11=Son Of a Preacher Man
+TTITLE12=Oh Me Oh My (I'm a Fool for You Baby)
+TTITLE13=Until You Come Back to Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

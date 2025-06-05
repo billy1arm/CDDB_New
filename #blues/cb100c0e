@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	21760
+#	49785
+#	84182
+#	110685
+#	148687
+#	154992
+#	183460
+#	202465
+#	219412
+#	238095
+#	259615
+#	286125
+#	304025
+#
+# Disc length: 4110 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=cb100c0e
+DTITLE=Tous Dehors - Dans la rue
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=A la campagne
+TTITLE1=Bonjour
+TTITLE2=Loco game
+TTITLE3=En attendant Marcel
+TTITLE4=Cornemuse
+TTITLE5=EMP
+TTITLE6=Dummkopf
+TTITLE7=De bon matin
+TTITLE8=Asuncion
+TTITLE9=Rayon Schmär
+TTITLE10=Ile flottante
+TTITLE11=Idée fixe
+TTITLE12=Veux rap
+TTITLE13=Sumatra
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

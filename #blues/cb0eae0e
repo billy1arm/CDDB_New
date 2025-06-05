@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17555
+#	37980
+#	59497
+#	92132
+#	110797
+#	141292
+#	168487
+#	188987
+#	205902
+#	212850
+#	240895
+#	254337
+#	274000
+#
+# Disc length: 3760 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=cb0eae0e
+DTITLE=Jan Garbarek - Visible World
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Red Wind
+TTITLE1=The Creek
+TTITLE2=The Survivor
+TTITLE3=The Healing Smoke
+TTITLE4=Visible World (chiaro)
+TTITLE5=Desolate Mountains I
+TTITLE6=Desolate Mountains II
+TTITLE7=Visible World (scuro)
+TTITLE8=Giulietta
+TTITLE9=Desolate Mountains III
+TTITLE10=Pygmy Lullaby
+TTITLE11=The Quest
+TTITLE12=The Arrow
+TTITLE13=The Scythe
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

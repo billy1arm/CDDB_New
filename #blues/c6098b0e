@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11143
+#	23488
+#	36621
+#	52356
+#	64416
+#	75621
+#	88143
+#	102358
+#	115463
+#	130838
+#	146061
+#	158373
+#	169251
+#
+# Disc length: 2445 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c6098b0e
+DTITLE=Nat King Cole - Nat King Cole CD 3
+DYEAR=1955
+DGENRE=Blues
+TTITLE0=Fascination
+TTITLE1=Solamente una vez
+TTITLE2=Tenderly
+TTITLE3=Fly me to the moon
+TTITLE4=Ballerina
+TTITLE5=Vaya con Dios
+TTITLE6=Love is there to say
+TTITLE7=That sunday
+TTITLE8=Route 66
+TTITLE9=Ansiedad
+TTITLE10=Too young
+TTITLE11=Arrivederci Roma
+TTITLE12=Straighten up and fly right
+TTITLE13=Where or when
+EXTD=YEAR: 1955
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

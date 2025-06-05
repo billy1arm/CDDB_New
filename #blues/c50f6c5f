@@ -1,0 +1,301 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	1888
+#	7464
+#	13012
+#	18041
+#	25012
+#	31178
+#	38012
+#	41726
+#	49702
+#	53997
+#	59015
+#	63894
+#	71867
+#	77967
+#	81216
+#	84586
+#	87891
+#	91254
+#	98220
+#	103994
+#	109889
+#	111242
+#	113976
+#	115006
+#	116283
+#	117576
+#	118635
+#	119744
+#	122988
+#	128113
+#	133021
+#	136700
+#	138107
+#	139416
+#	140430
+#	141743
+#	142993
+#	144222
+#	147618
+#	150875
+#	152378
+#	153555
+#	154435
+#	160499
+#	161281
+#	162133
+#	162986
+#	168882
+#	173130
+#	174626
+#	176006
+#	177473
+#	179911
+#	184040
+#	188237
+#	190053
+#	193841
+#	197989
+#	202136
+#	206457
+#	209576
+#	213001
+#	216367
+#	221292
+#	224161
+#	229063
+#	233939
+#	236468
+#	239187
+#	242492
+#	244024
+#	250101
+#	254639
+#	255928
+#	256923
+#	258097
+#	259193
+#	262870
+#	264285
+#	265334
+#	266558
+#	267936
+#	269214
+#	270499
+#	271662
+#	272806
+#	274443
+#	276582
+#	278140
+#	279688
+#	281281
+#	282822
+#	290070
+#	291426
+#
+# Disc length: 3950 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c50f6c5f
+DTITLE=Tricia Woods - Beginning Blues Keyboar
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=01 
+TTITLE1=02 The Twelve Bar Blues in C
+TTITLE2=03  Blues in G
+TTITLE3=04 Mardi Gras in G
+TTITLE4=05 Triplets in C
+TTITLE5=06 Inversion in F
+TTITLE6=07 Inversion Circle 
+TTITLE7=08 Inversion Circle
+TTITLE8=09 Working C
+TTITLE9=10 Triplet inversion circle
+TTITLE10=11 Melancholy in Am
+TTITLE11=12 Funky Thunky in Cm
+TTITLE12=13 Worrying Blues in Bm
+TTITLE13=14 The Majors Blues in G
+TTITLE14=15 The Miner's Blues in C
+TTITLE15=16 Dominant 7th Chords Circle
+TTITLE16=17 Dominant 7th Chord Inversion Circle
+TTITLE17=18 Get To It in F
+TTITLE18=19 Everything Blues in C
+TTITLE19=20 C Blues Background Track
+TTITLE20=21 Chicago Time in F
+TTITLE21=22 b5 resolvin to 5 Exercise
+TTITLE22=23 Fun with the b5 in E
+TTITLE23=24 Bassline for shuffle in C
+TTITLE24=25 Another Bassline for shuffle in C
+TTITLE25=26 3d bassline for shuffle in C
+TTITLE26=27 4th bassline for shuffle in C
+TTITLE27=28 5th bassline for shuffle in C
+TTITLE28=29 Flat Five Shuffle Blues in C
+TTITLE29=30 Trems And Fills Blues in F  
+TTITLE30=31 Otis Blues in E
+TTITLE31=32 Three-note b5 lick Exercise
+TTITLE32=33 Four-note b5 lick Exercise 24
+TTITLE33=34 Four-note b5 licxk with accompaniment
+TTITLE34=35 Octave doubling exercise
+TTITLE35=36 Simple octave doubling lick
+TTITLE36=37 Ascending octave doubling blues scale
+TTITLE37=38 Descending octave doubling blues scale
+TTITLE38=39 Lafayette's Blues in A
+TTITLE39=40 Rush's Roads in Fm
+TTITLE40=41 Playing off of triads Ex
+TTITLE41=42 Bending the 3rd
+TTITLE42=43 Bending the 3rd
+TTITLE43=44 Triad Blues in C
+TTITLE44=45 Playing off the dominant 7th chord Ex
+TTITLE45=46 Playing off the dominant 7th chord Ex
+TTITLE46=47 Playing off the dominant 7th chord Ex
+TTITLE47=48 Dominant Blues in G
+TTITLE48=49 Boogie Blues in C
+TTITLE49=50 Boogie straight feel ex
+TTITLE50=51 Boogie swing 8ths feel ex
+TTITLE51=52 Boogie almost straight feel ex
+TTITLE52=523Boogie almost straight feel ex
+TTITLE53=54 Walking Boogie Woogie in C
+TTITLE54=55 So Long Boogie in Am
+TTITLE55=56 Boogie woogie bassline ex
+TTITLE56=57 Boogie Train in C
+TTITLE57=58 Jimmy Yancey bass-line in C
+TTITLE58=59 Jimmy Yancey right hand in C
+TTITLE59=60 Jimmy's Boogie in C
+TTITLE60=61 Blues In G - comping
+TTITLE61=62 Comping in D Bues
+TTITLE62=63 Comping Shuffle in D Blues
+TTITLE63=64 Guitar Player Blues in C
+TTITLE64=65 Octavia Blues in F
+TTITLE65=66 Dominant 7th chord inversions in circle
+TTITLE66=67 Voice leading with dominant 7th chord Blues in G
+TTITLE67=68 You Can Run But You Can't Hide - Hideaway comp in E Blues
+TTITLE68=69 The Blues Itch in F
+TTITLE69=70 Parallel Blues in F
+TTITLE70=71 Minor 7th chord inversions
+TTITLE71=72 Minor 7th chord inversions circle
+TTITLE72=73 Ten O'Clock Blues  in Am
+TTITLE73=74 Basic turnaraound
+TTITLE74=75 Basic turnaraound
+TTITLE75=76 Basic turnaraound
+TTITLE76=77 Basic turnaraound - neigboring chords
+TTITLE77=78 Basic turnaraound - neigboring chords circle
+TTITLE78=79 Turnaround
+TTITLE79=80 Turnaround
+TTITLE80=81 Turnaround
+TTITLE81=82 Turnaround #1
+TTITLE82=83 Turnaround #2
+TTITLE83=84 Turnaround #3
+TTITLE84=85 Turnaround to ending
+TTITLE85=86 Turnaround to ending
+TTITLE86=87 Cadenza
+TTITLE87=88 Cadenza
+TTITLE88=89 Intro
+TTITLE89=90 Intro
+TTITLE90=91 Intro
+TTITLE91=92 Intro
+TTITLE92=93 Walking The Blues in C
+TTITLE93=94 ii V7 I ex
+TTITLE94=95 Sad And Lonely Blues in G
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+PLAYORDER=

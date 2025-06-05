@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	4680
+#	23252
+#	46102
+#	47630
+#	61482
+#	80465
+#	84377
+#	100840
+#	108682
+#	125755
+#	142100
+#	154467
+#	175500
+#	195190
+#	196980
+#
+# Disc length: 2734 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c70aac10
+DTITLE=Yo-Yo - Make Way For The Motherlode
+DYEAR=1991
+DGENRE=Rap
+TTITLE0=Stand Up For Your Rights
+TTITLE1=Stompin' To Tha 90's
+TTITLE2=You Can't Play With My Yo-Yo
+TTITLE3=Cube Gets Played
+TTITLE4=Put A Lid On It
+TTITLE5=What Can I Do
+TTITLE6=Dedication
+TTITLE7=Sisterland
+TTITLE8=The I.B.W.C. National Anthem
+TTITLE9=Make Way For The Motherlode
+TTITLE10=Tonight's The Night
+TTITLE11=I Got Played
+TTITLE12=Girl, Don't Be No Fool
+TTITLE13=Aint Nobody Better
+TTITLE14=Outro
+TTITLE15=More Of What Can I Do
+EXTD=more info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Composer;Date,Artist,Location,State,Country) YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

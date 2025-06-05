@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19725
+#	43395
+#	59125
+#	73510
+#	89850
+#	108171
+#	132467
+#	157043
+#	170443
+#	187595
+#	207945
+#	228657
+#	248937
+#
+# Disc length: 3460 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=cf0d820e
+DTITLE=Various Artist - Audiophile Female Voices 1
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Hello
+TTITLE1=A Love in Berlin
+TTITLE2=Sunny
+TTITLE3=All Roads to the River
+TTITLE4=I'm Easy
+TTITLE5=Do That to Me One More Time
+TTITLE6=I'll Always Love You
+TTITLE7=Vincent
+TTITLE8=La Vie En Rose
+TTITLE9=When The Child is Born
+TTITLE10=Time After Time
+TTITLE11=Sound of Silence
+TTITLE12=Turn My Upside Down
+TTITLE13=Grandma's Hands
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

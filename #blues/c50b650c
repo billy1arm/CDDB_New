@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20601
+#	36329
+#	56542
+#	74353
+#	94772
+#	110802
+#	125786
+#	146191
+#	164959
+#	184150
+#	201327
+#
+# Disc length: 2919 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=c50b650c
+DTITLE=Anita - Lipnicka
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Wracam
+TTITLE1=Ballada dla Spiacej Krolewny
+TTITLE2=Jestem powietrzem
+TTITLE3=Moje oczy sa zielone
+TTITLE4=Nie wazne dzis co bedzie jutro
+TTITLE5=Sens w tym, ze wszystko przemija
+TTITLE6=Porcelana
+TTITLE7=Cala prawda o mnie
+TTITLE8=Calma
+TTITLE9=Nawet jesli
+TTITLE10=Pokochaj siebie
+TTITLE11=Ostatni list
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	13218
+#	34158
+#	47518
+#	61970
+#	80203
+#	110785
+#	131550
+#	150170
+#	167878
+#	191738
+#	206060
+#	214248
+#	245278
+#
+# Disc length: 3500 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c80daa0e
+DTITLE=Eric Clapton - Eric Clapton
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=I feel free
+TTITLE1=I'm so glad
+TTITLE2=Strange brew
+TTITLE3=Born under a bad sign
+TTITLE4=politician
+TTITLE5=Sleepy time time
+TTITLE6=Tales of brave Ulysses
+TTITLE7=Crossroads
+TTITLE8=N.S.U.
+TTITLE9=Train time
+TTITLE10=Sweet wine
+TTITLE11=Lawdy mama
+TTITLE12=Toad
+TTITLE13=Stepping out
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

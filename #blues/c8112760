@@ -1,0 +1,304 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2929
+#	4127
+#	5333
+#	8050
+#	10793
+#	12858
+#	15611
+#	17787
+#	18685
+#	19533
+#	24458
+#	31346
+#	33326
+#	35631
+#	37149
+#	38050
+#	42867
+#	47620
+#	50345
+#	53052
+#	55902
+#	59296
+#	62797
+#	65800
+#	70706
+#	74085
+#	79612
+#	82439
+#	84339
+#	86237
+#	87200
+#	89085
+#	96771
+#	100228
+#	103651
+#	106383
+#	108471
+#	110388
+#	116556
+#	119715
+#	123125
+#	126383
+#	128851
+#	133611
+#	135859
+#	140008
+#	144898
+#	147237
+#	150876
+#	157213
+#	159237
+#	160605
+#	164722
+#	172415
+#	175140
+#	178751
+#	182364
+#	185630
+#	188867
+#	190821
+#	195111
+#	199416
+#	205460
+#	210534
+#	214679
+#	217385
+#	220002
+#	223054
+#	223837
+#	227226
+#	233693
+#	238424
+#	243137
+#	246391
+#	249650
+#	251887
+#	254139
+#	256340
+#	259451
+#	262289
+#	265870
+#	269554
+#	271973
+#	275480
+#	278071
+#	280690
+#	283423
+#	286287
+#	289107
+#	291826
+#	294372
+#	298083
+#	301705
+#	305832
+#	322004
+#
+# Disc length: 4393 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c8112760
+DTITLE=Rod Fogg - The Jazz Guitar Handbook
+DYEAR=2013
+DGENRE=Jazz
+TTITLE0=Kenny_s Blues
+TTITLE1=G minor pentatonic scale
+TTITLE2=G  blues scale - shape 1
+TTITLE3=Blue Note Blues
+TTITLE4=Kenny_s Blues -octave up
+TTITLE5=G minor pentatonic scale - shapes 2 and 3
+TTITLE6=Blue Note Blues - octave up
+TTITLE7=G blues scale - shapes 2 and 3
+TTITLE8=C major scale
+TTITLE9=G major scale
+TTITLE10=Blues solo - 2 choruses
+TTITLE11=Kenny_s rhythm - backing track
+TTITLE12=G minor pentatonic scale - shapes 4 and 5
+TTITLE13=G blues scale - shapes 4 and 5
+TTITLE14=C major intervals - two octaves
+TTITLE15=Intervals outside C major
+TTITLE16=F minor blues
+TTITLE17=F minor blues - backiing track
+TTITLE18=B-flat blues with major pentatonics
+TTITLE19=B-flat blues backing track
+TTITLE20=G blues - major and minor pentatonics
+TTITLE21=Swing blues in B-flat
+TTITLE22=Swing blues in B-flat - backing track
+TTITLE23=Five majors three minors
+TTITLE24=Am7 D7 groove
+TTITLE25=Turnaround in G with melody
+TTITLE26=D minor descending minors
+TTITLE27=Kenny_s rhythm - higher shapes
+TTITLE28=C major in triads
+TTITLE29=C major in seventh chords
+TTITLE30=Cmaj7 chords - practical shapes
+TTITLE31=Gmaj7 chords - two ways
+TTITLE32=32-bar jazz standard
+TTITLE33=B-flat jazzy blues - chords
+TTITLE34=B-flat jazzy blues - arpeggio based melody
+TTITLE35=Three minor scales
+TTITLE36=A harmonic minor - triads and sevenths
+TTITLE37=A minor chords - practical shapes
+TTITLE38=Bossa b lue - ii-V-i in C minor
+TTITLE39=Ninth chords in C and A minor
+TTITLE40=ii-V-i in A minor - with ninth chords
+TTITLE41=Tritone substitution - six ways
+TTITLE42=Eight bars with tritone substitions
+TTITLE43=Inversion and position
+TTITLE44=Comping with triads
+TTITLE45=Seventh chord inversions
+TTITLE46=Comping seventh chords - 24-bar blues in C
+TTITLE47=Inversions of sixth-string roots
+TTITLE48=Using sixth-string inversions
+TTITLE49=32-bar jazz standard with sus4, 11ths, 13ths etc
+TTITLE50=Eight bars of ii-V-i - chromatic extensions
+TTITLE51=G major scale - shape 1
+TTITLE52=Two-chord groove - Gmaj7 and Cmaj7
+TTITLE53=Seven major scale shapes
+TTITLE54=Modes in G
+TTITLE55=Dorian mode groove - solo
+TTITLE56=Dorian mode groove - backing track
+TTITLE57=Lydian mode groove - lead
+TTITLE58=Lydian mode grove - backing track
+TTITLE59=Modal chords in C
+TTITLE60=Mixolydian mode groove - lead
+TTITLE61=Mixolydian mode groove - backing track
+TTITLE62=Bossa Blue - lead - backing track
+TTITLE63=Seven arpeggios in shape 1
+TTITLE64=Gmaj7 and Cmaj7 groove using arpeggios
+TTITLE65=Chromatic decoration of arpeggios
+TTITLE66=Tow notes per string - arpeggios
+TTITLE67=Four other arpeggio shapes
+TTITLE68=C-major and C-melodic minor scales
+TTITLE69=Modes in G melodic minor
+TTITLE70=G melodic minor - seven scale shapes
+TTITLE71=ii-V melodic minor modes - backing track
+TTITLE72=ii-V melodic minor modes - lead
+TTITLE73=Lydian augmented scale - solo
+TTITLE74=Lydian augmented scale - backing track
+TTITLE75=Locrian b2 and altered scale - backing track
+TTITLE76=Locrian b2 and altered scale - solo
+TTITLE77=Whole-tone and diminished scale - solo
+TTITLE78=Kenny_s Blues - both parts
+TTITLE79=Melody and chords - four and two-note comping
+TTITLE80=Walking bass
+TTITLE81=Walking bass with chords
+TTITLE82=Chord-melody - Lenny Breau-style
+TTITLE83=Chord-melody - jazz waltz
+TTITLE84=Wes-style octaves
+TTITLE85=Chord solo
+TTITLE86=Chord solo - backing track
+TTITLE87=Bebop Blues - backing track
+TTITLE88=Bebop Blues  lead
+TTITLE89=Hot Club Gypsy jazz rhythm and chord shapes
+TTITLE90=Hot Club Gypsy jazz lead
+TTITLE91=Santa Margarita - Rhythm Changes - lead
+TTITLE92=Santa Margarita - Rhythm Changes - backing track
+TTITLE93=Santa Margarita - Rhythm Changes - 32 bars for solo
+TTITLE94=Slash Chord Thing - complete
+TTITLE95=Slash Chord Thing - backing track for solo
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+PLAYORDER=

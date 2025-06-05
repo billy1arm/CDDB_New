@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13530
+#	29887
+#	52625
+#	65412
+#	76887
+#	90407
+#	108105
+#	120725
+#	134612
+#	150235
+#	173387
+#	206890
+#	230512
+#	246462
+#	263462
+#
+# Disc length: 3932 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c40f5a10
+DTITLE=頭脳警察 - 1972-1991
+DYEAR=2005
+DGENRE=Rock
+TTITLE0=銃をとれ
+TTITLE1=コミック雑誌なんか要らない
+TTITLE2=さようなら世界夫人よ
+TTITLE3=ふざけるんじゃねえよ
+TTITLE4=歴史から飛びだせ
+TTITLE5=嵐が待っている
+TTITLE6=詩人の末路
+TTITLE7=間違いだらけの歌
+TTITLE8=戦慄のプレリュード
+TTITLE9=夜明けまで離さない
+TTITLE10=悪たれ小僧
+TTITLE11=万物流転 (Live Version)
+TTITLE12=Quiet Riot
+TTITLE13=煽動
+TTITLE14=飛翔 (ひらめく旗の下で)
+TTITLE15=歓喜の歌
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

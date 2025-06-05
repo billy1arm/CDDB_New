@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	15160
+#	31900
+#	55783
+#	78405
+#	91323
+#	105160
+#	118555
+#	133320
+#	145008
+#	158758
+#	173433
+#	186558
+#	199463
+#	214478
+#	227513
+#
+# Disc length: 3186 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=cd0c7010
+DTITLE=Louis Armstrong - Mack the Knife
+DYEAR=1900
+DGENRE=
+TTITLE0=Mack the knife
+TTITLE1=Just squeeze me
+TTITLE2=I got it bad and that ain't good
+TTITLE3=Azalia
+TTITLE4=Jack-Armstrong blues
+TTITLE5=Rockin' chair
+TTITLE6=Fifty fifty blues
+TTITLE7=A song was born
+TTITLE8=Blues for yesterday
+TTITLE9=Blues in the south
+TTITLE10=Back o'town blues
+TTITLE11=The blues brewin'
+TTITLE12=Mahogany hall stomp
+TTITLE13=Sugar
+TTITLE14=No variety blues
+TTITLE15=I wonder, I wonder, I wonder
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

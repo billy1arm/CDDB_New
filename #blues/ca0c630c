@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21462
+#	39012
+#	58611
+#	71089
+#	89084
+#	108693
+#	128878
+#	148812
+#	172439
+#	194948
+#	211458
+#
+# Disc length: 3173 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.60 - http://www.feurio.com
+#
+DISCID=a30c630c,ca0c630c
+DTITLE=Pino Daniele - Medina
+DYEAR=1900
+DGENRE=
+TTITLE0=Via Medina
+TTITLE1=Evviva o 'rrè
+TTITLE2=Tempo di cambiare
+TTITLE3=Sara
+TTITLE4=Senza 'e te
+TTITLE5=Mareluna
+TTITLE6=Lettere dal cuore
+TTITLE7=Acqua Passata
+TTITLE8=Galby
+TTITLE9=Gente di Frontiera
+TTITLE10=Lacrima di sale
+TTITLE11=Africa a Africa e
+EXTD=
+EXTT0=01
+EXTT1=02
+EXTT2=03
+EXTT3=04
+EXTT4=05
+EXTT5=06
+EXTT6=07
+EXTT7=08
+EXTT8=09
+EXTT9=10
+EXTT10=11
+EXTT11=12
+PLAYORDER=

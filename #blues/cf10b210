@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     24035
+#     44072
+#     64360
+#     87045
+#     114502
+#     129052
+#     153867
+#     176017
+#     191547
+#     212240
+#     232765
+#     251195
+#     270035
+#     284575
+#     301862
+# 
+# Disc length: 4276 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=cf10b210
+DTITLE=Various Artist - Black Top Blues-A-Rama, Volume 7
+DYEAR=1900
+DGENRE=
+TTITLE0=I Don't Want You Hangin' Around
+TTITLE1=You Ain't Like You Used to Be
+TTITLE2=Should've Done Better
+TTITLE3=24 Hours of the Day
+TTITLE4=Blind Man
+TTITLE5=Tous Les Temps en Temps
+TTITLE6=Tous Les Jours Ce N'est Pas La Meme Chouse
+TTITLE7=Railroad Blues
+TTITLE8=Golden Girl
+TTITLE9=I Needs To Be Be'd With
+TTITLE10=Anytime, Anyplace, Anywhere
+TTITLE11=Your Love is Real
+TTITLE12=Your Love Is Amazing
+TTITLE13=Forgive Me Darling
+TTITLE14=Something for Nothing
+TTITLE15=Potato Soup
+EXTD=
+EXTT0=The Crawl\n
+EXTT1=The Crawl\n
+EXTT2=The Crawl\n
+EXTT3=Big Robert Smith\n
+EXTT4=Lynn August and the Hot August Knights\n
+EXTT5=Lynn August and the Hot August Knights\n
+EXTT6=Lynn August and the Hot August Knights\n
+EXTT7=Lynn August and the Hot August Knights\n
+EXTT8=Carol Fran and Clarence Hollimon\n
+EXTT9=Carol Fran and Clarence Hollimon\n
+EXTT10=Carol Fran and Clarence Hollimon\n
+EXTT11=Robert Ward\n
+EXTT12=Robert Ward\n
+EXTT13=Robert Ward\n
+EXTT14=Robert Ward\n
+EXTT15=Robert Ward\n
+PLAYORDER=

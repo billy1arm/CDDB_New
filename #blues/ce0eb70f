@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19132
+#     36525
+#     54375
+#     76950
+#     98297
+#     121779
+#     141610
+#     157395
+#     176020
+#     188395
+#     205000
+#     223542
+#     240640
+#     261267
+# 
+# Disc length: 3769 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=ce0eb70f
+DTITLE=The Zydeco Flames - Burnin' Up The Tracks
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Worry
+TTITLE1=Madeline
+TTITLE2=Zydeco Sont Pas Sale
+TTITLE3=My Eyes Are Tired of Cryin'
+TTITLE4=Oaktown Boogie
+TTITLE5=Mardi Gras in New Orleans
+TTITLE6=Tu Le Ton Son Ton
+TTITLE7=Two Stomp
+TTITLE8=My Little Girl
+TTITLE9=Morning Train
+TTITLE10=New Day Waltz
+TTITLE11=Josephine
+TTITLE12=Toot Toot
+TTITLE13=Iko Iko
+TTITLE14=I'm Coming Home
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

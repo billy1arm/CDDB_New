@@ -1,0 +1,63 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17457
+#	33645
+#	48372
+#	59210
+#	72120
+#	88772
+#	113327
+#	133115
+#	152312
+#	173720
+#	193827
+#	214370
+#	233070
+#	261195
+#
+# Disc length: 3730 seconds
+#
+# Revision: 57
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.06
+#
+DISCID=ce0e900f
+DTITLE=The Rolling Stones - Voodoo Lounge
+DYEAR=1994
+DGENRE=Rock
+TTITLE0=Love Is Strong
+TTITLE1=You Got Me Rocking
+TTITLE2=Sparks Will Fly
+TTITLE3=The Worst
+TTITLE4=New Faces
+TTITLE5=Moon Is Up
+TTITLE6=Out Of Tears
+TTITLE7=I Go Wild
+TTITLE8=Brand New Car
+TTITLE9=Sweethearts Together
+TTITLE10=Suck On The Jugular
+TTITLE11=Blinded By Rainbows
+TTITLE12=Baby, Break It Down
+TTITLE13=Thru And Thru
+TTITLE14=Mean Disposition
+EXTD=YEAR: 1994
+EXTT0=Mick: vocal, harmonica,maracas\nKeith: electric and acoustic guitars\nCharlie: Drums\nRonnie: acoustic and electric guitars\nChuck Leavell: wurlitzer piano\nBackground vocals: Bernard Fowler, Ivan Neville, Mick, Keith
+EXTT1=Mick: vocal, maracas\nKeith: electric guitar, mystery guitar\nCharlie: drums\nRonnie: slide guitar\nDarryl Jones: bass\nChuck Leavell: piano\nBackground vocals: Bernard Fowler, Ivan Neville, Mick, Keith
+EXTT2=Mick: vocal\nKeith: electric and acoustic guitars\nCharlie: drums\nRonnie: b-bender guitar\nDarryl Jones: bass\nBackground vocals: Bernard Fowler, Mick, Keith
+EXTT3=Mick: background vocals\nKeith: lead vocal, acoustic guitar\nCharlie: drums\nRonnie: pedal steel\nDarryl Jones: bass\nChuck Leavell: piano\nFrankie Gavin: fiddle
+EXTT4=Mick: vocals, acoustic guitar\nKeith: harmony vocal, acoustic guitar\nCharlie: tambourine\nDarryl Jones: bass\nChuck Leavell: harpsichord, harmonium\nLuis Jardim: shaker\nFrankie Gavin: pennywhistle
+EXTT5=Mick: vocal, harmonica, castanets\nKeith: guitars, tambourine\nCharlie: mystery drum\nRonnie: wah wah pedal steel\nDarryl Jones: bass\nChuck Leavell: harmonium\nBenmont Tench: accordian air whoosh\nBackground vocals: Bernard Fowler, Bobby Womack
+EXTT6=Mick: vocal, acoustic guitar\nKeith: electric guitar\nCharlie: drums\nRonnie: slide guitar\nDarryl Jones: bass\nChuck Leavell: piano\nLenny Castro: percussion\nBenmont Tench: B-3 organ\nDavid Campbell: string arrangement
+EXTT7=Mick: vocal, guitar\nKeith: guitar\nCharlie: drums\nRonnie: b-bender electric guitar and solo\nDarryl Jones: bass\nChuck Leavell: B-3 organ\nPhil Jones: percussion\nBackground vocal: Bernard Fowler, Ivan Neville, Mick, Keith
+EXTT8=Mick: vocal, electric guitar\nKeith: bass, electric and wah wah guitar\nCharlie: drums\nChuck Leavell: piano\nDavid McMurray: saxophone\nMark Isham: trumpet\nPercussion: Lenny Castro, Luis Jardim\nBackground vocals: Ivan Neville, Mick, Keith
+EXTT9=Mick: vocals, acoustic guitar\nKeith: vocals, electric and acoustic guitars\nCharlie: drums\nRonnie: pedal steel, lap steel\nChuck Leavell: B-3 organ\nFlaco Jimenez: button accordian\nMax Baca: bajo sexto\nLuis Jardim: percussion\nBackground vocals:B
+EXTT9=ernard Fowler, Ivan Neville, Mick Keith
+EXTT10=Mick: vocal, harmonica, electric and wah wah guitar\nKeith: electric guitar\nCharlie: drums\nRonnie: electric guitar\nDarryl Jones: bass\nDavid McMurray: saxophone\nMark Isham: trumpet\nIvan Neville: B-3 organ\nPercussion: Luis Jardim, Lenny Castro\
+EXTT10=\nBackground vocals: Bernard Fowler, Ivan Neville, Mick, Keith, Ronnie
+EXTT11=Mick: vocal, tremolo guitar\nKeith: harmony vocal, acoustic guitar\nCharlie: drums\nRonnie: electric guitar solo\nDarryl Jones: bass\nBenmont Tench: Hammond C-3 organ\nLenny Castro: percussion
+EXTT12=Mick: vocal\nKeith: guitars, piano\nCharlie: drums\nRonnie: pedal steel\nDarryl Jones: bass\nIvan Neville: B-3 organ\nBackground vocals: Bernard Fowler, Ian Neville, Mick, Keith
+EXTT13=Keith: vocals, guitars, piano\nCharlie: drums\nDarryl Jones: bass\nPierre de Beauport: acoustic guitar\nBackground vocals: Bernard Fowler, Ivan Neville, Mick, Keith
+EXTT14=Mick: vocals\nKeith: guitar\nCharlie: drums\nRonnie: guitar\nDarryl Jones: bass\nChuck Leavell: piano
+PLAYORDER=

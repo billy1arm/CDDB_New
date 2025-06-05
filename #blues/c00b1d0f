@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13251
+#	25829
+#	41058
+#	54533
+#	67610
+#	81643
+#	94213
+#	121941
+#	135476
+#	150376
+#	162968
+#	173917
+#	186294
+#	198805
+#
+# Disc length: 2847 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.91
+#
+DISCID=c00b1d0f
+DTITLE=Various Artist - Jazz [CD1) Les grands maitres
+DYEAR=2013
+DGENRE=Jazz
+TTITLE0=Duke Ellington - Take the "A" train
+TTITLE1=Miles Davis - Ascenseur pour l'Echaffaud
+TTITLE2=Benny Goodman - Whispering
+TTITLE3=Coleman Hawkins - Body and soul
+TTITLE4=Dizzy Gillespie - Caravan
+TTITLE5=Thelonious Monk - Monk's dream
+TTITLE6=Errol Garner - Misty
+TTITLE7=Art Blakey and Jazz Messengers - Blues march
+TTITLE8=Charlie Parker - Night  in Tunisia
+TTITLE9=Benny Carter - Scandal in a flat
+TTITLE10=Errol Garner - On the sunny side of the street
+TTITLE11=Count Basie - Louisiana
+TTITLE12=Budd Powell - Somebody loves me
+TTITLE13=Django Reinhardt - Honeysuckle rose
+TTITLE14=Sidney Bechet - Petite fleur
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

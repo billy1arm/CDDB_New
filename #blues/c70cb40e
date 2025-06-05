@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20087
+#	39787
+#	62260
+#	80420
+#	99102
+#	115697
+#	128900
+#	140955
+#	157442
+#	172292
+#	184515
+#	208175
+#	222167
+#
+# Disc length: 3254 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=c70cb40e
+DTITLE=Muddy Waters - The Gold Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Long Distance Call
+TTITLE1=Where's My Woman
+TTITLE2=Honky Tonk
+TTITLE3=Blow Wind Blow
+TTITLE4=Howlin' Wolf
+TTITLE5=Corinne, Corinne
+TTITLE6=I'm Your Hoochie Coochie Man
+TTITLE7=Baby Please Don't Go
+TTITLE8=Manish Boy
+TTITLE9=Everything Gonna Be Alright
+TTITLE10=Got My Mojo Working
+TTITLE11=Nine Below Zero
+TTITLE12=Honey Bee
+TTITLE13=Goin' Home
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22002
+#	43181
+#	62833
+#	83354
+#	104181
+#	119839
+#	139442
+#	170018
+#	192046
+#	214059
+#	234416
+#	254173
+#
+# Disc length: 3655 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=ca0e450d
+DTITLE=Whitney Houston - My Love Is Your Love
+DYEAR=1998
+DGENRE=Pop
+TTITLE0=It's Not Right But It's Okay
+TTITLE1=Heartbreak Hotel
+TTITLE2=My Love Is Your Love
+TTITLE3=When You Believe (Duet with Mariah Carey From The Prince Of Egypt)
+TTITLE4=If I Told You That
+TTITLE5=In My Business
+TTITLE6=I Learned From The Best
+TTITLE7=Oh Yes
+TTITLE8=Get It Back
+TTITLE9=Until You Come Back
+TTITLE10=I Bow Out
+TTITLE11=You'll Never Stand Alone
+TTITLE12=I Was Made To Love Him
+EXTD=YEAR: 1998 ID3G: 13
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

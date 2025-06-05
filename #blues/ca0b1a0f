@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18787
+#	25912
+#	50135
+#	57760
+#	72774
+#	78910
+#	104576
+#	113177
+#	137428
+#	149503
+#	165213
+#	176356
+#	189722
+#	197972
+#
+# Disc length: 2844 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ca0b1a0f
+DTITLE=Hannes Enzlberger - Tango 1-8
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Tango 1
+TTITLE1=Solo 1 (Berghammer)
+TTITLE2=Tango 2
+TTITLE3=Solo 2 (Enzlberger)
+TTITLE4=Tango 3
+TTITLE5=Solo 3 (Lechner)
+TTITLE6=Tango 4
+TTITLE7=Duo 1 (Enzlberger and Berghammer)
+TTITLE8=Tango 5
+TTITLE9=Duo 2 (Enzlberger and Lechner)
+TTITLE10=Tango 6
+TTITLE11=Duo 3 (Lechner and Berghammer)
+TTITLE12=Tango 7
+TTITLE13=Trio (Enzlberger and Lechner and Berghammer)
+TTITLE14=Tango 8
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

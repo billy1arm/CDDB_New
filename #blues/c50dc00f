@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17880
+#	33025
+#	45632
+#	67762
+#	81247
+#	97692
+#	110245
+#	125677
+#	136330
+#	156910
+#	194087
+#	207070
+#	229667
+#	251410
+#
+# Disc length: 3522 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=c50dc00f
+DTITLE=Varios - Salsa Rumbera
+DYEAR=1900
+DGENRE=Salsa
+TTITLE0=Dunami un sunchi/Pachapo
+TTITLE1=Las lomas de mi isla/Pachapo
+TTITLE2=Cosas del hogar/Omar y su tio
+TTITLE3=Descarga oriental/Lou Perez
+TTITLE4=Fiesta navideña/Carlos Pizano
+TTITLE5=Descarga Popurri/Lou Perez
+TTITLE6=Mi inspiracion/Mon Carillo
+TTITLE7=Hammer Head/Mongo Santamaria
+TTITLE8=Bubu guaco/Dra
+TTITLE9=Bilongo/Ray Barreto
+TTITLE10=Eres lo que quiero/Jose Misamou
+TTITLE11=Guaguanco a Cesar Tovar/Roberto y su hit
+TTITLE12=Vengan pollo/Mongo Santamaria
+TTITLE13=Mi ritmo te llama/Ray Barreto
+TTITLE14=Con tu cara de paranpampin/Rolando La Serie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28174
+#	48380
+#	78734
+#	107661
+#	128869
+#	155621
+#	174304
+#	191629
+#	212364
+#	221001
+#	240356
+#	272730
+#	281224
+#
+# Disc length: 4766 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ca129c0e
+DTITLE=Guido Negraszus - Mirage
+DYEAR=2004
+DGENRE=New Age
+TTITLE0=Cafe Mirage
+TTITLE1=Bon Voyage
+TTITLE2=The Blue Planet
+TTITLE3=Heartlands
+TTITLE4=Westcoast Heights
+TTITLE5=Fata Morgana
+TTITLE6=Cafe Mirage II
+TTITLE7=Cafe Mirage III
+TTITLE8=Eclipse
+TTITLE9=Valley Of Dreams I
+TTITLE10=Valley Of Dreams II
+TTITLE11=Bon Voyage II
+TTITLE12=The Grand Desert
+TTITLE13=Mirage
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

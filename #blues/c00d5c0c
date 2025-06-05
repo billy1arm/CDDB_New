@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17092
+#	47930
+#	74280
+#	95146
+#	116488
+#	138626
+#	155938
+#	175054
+#	202383
+#	215948
+#	240448
+#
+# Disc length: 3422 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c00d5c0c
+DTITLE=Ernst Eichner - Six Quatuors pour Flute, Violon, Alto et Basse, Op.4
+DYEAR=2006
+DGENRE=Classique
+TTITLE0=Quartetto I  in D - Andantino
+TTITLE1=Quartetto I  in D - Allegro
+TTITLE2=Quartetto II  in G - Allegro
+TTITLE3=Quartetto II  in G - Rondeau moderate
+TTITLE4=Quartetto III  in d - Allegro
+TTITLE5=Quartetto III  in d - Tempo di minuetto
+TTITLE6=Quartetto IV  in D - Andante poco adagio
+TTITLE7=Quartetto IV  in D - Scherzando
+TTITLE8=Quartetto V  in C - Allegro
+TTITLE9=Quartetto V  in C - Minuetto grazioso
+TTITLE10=Quartetto VI  in g - Allegro
+TTITLE11=Quartetto VI  in g - Gavote
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

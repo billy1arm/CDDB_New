@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11890
+#	30125
+#	42800
+#	68000
+#	88325
+#	114800
+#	129575
+#	141350
+#	158375
+#	175100
+#	187475
+#	194600
+#	206750
+#
+# Disc length: 2971 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c00b990e
+DTITLE=Maulbronner Kammerchor - All meine Herzgedanken
+DYEAR=1991
+DGENRE=Weltliche Chormusik
+TTITLE0=Robert Schumann op.74: Es ist verraten
+TTITLE1=Robert Schumann op.74: Ich bin geliebt
+TTITLE2=Gioacchino Rossini: Toast pour le nouvel an
+TTITLE3=Gioacchino Rossini: La Passeggiata
+TTITLE4=Gioacchino Rossini: I Gondolieri
+TTITLE5=Wilhelm Stenhammar: Lenznacht
+TTITLE6=Felix Mendelsohn-Bartholdy: Herbstlied
+TTITLE7=Johannes Brahms: Abendständchen
+TTITLE8=Johannes Brahms: Vineta
+TTITLE9=Johannes Brahms: All meine Herzgedanken
+TTITLE10=Johannes Brahms: Nachtwache I
+TTITLE11=Johannes Brahms: Nachtwache II
+TTITLE12=Johannes Brahms: Letztes Glück
+TTITLE13=Josef Gabriel Rheinberger: Abendlied
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

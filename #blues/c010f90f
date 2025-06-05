@@ -1,0 +1,62 @@
+# xmcd
+#
+# Track frame offsets:
+#	182
+#	23820
+#	36470
+#	82795
+#	113050
+#	135975
+#	155665
+#	163167
+#	197787
+#	216320
+#	231000
+#	245357
+#	257267
+#	280640
+#	305397
+#
+# Disc length: 4347
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.53 
+# Normalized: r0:DSETVAR1,TDELIM( - )
+#
+DISCID=c010f90f
+DTITLE=Various Artist - The complete opera collection
+DYEAR=1992
+DGENRE=Opera
+TTITLE0=Verdi - Nabocco
+TTITLE1=Puccini - Tosca
+TTITLE2=Mendelssohn - hymne
+TTITLE3=Rossini - The barber of sevilla
+TTITLE4=Bizet - The pearl fishers
+TTITLE5=Puccini - la boheme
+TTITLE6=Verdi - Rigoletto
+TTITLE7=Mascagni - Cavalleria rusticana
+TTITLE8=Lehar - The merry widow
+TTITLE9=Offenbach - Tales of Hoffmann
+TTITLE10=Verdi - Latriviata
+TTITLE11=Puccini - la boheme
+TTITLE12=Saint saens - samson and delilah
+TTITLE13=Mozart - Don giovanni
+TTITLE14=Rossini - The barber of sevilla
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

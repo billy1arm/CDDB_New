@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16538
+#	43318
+#	67717
+#	93539
+#	120133
+#	146078
+#	172841
+#	196068
+#	223351
+#	239510
+#	263940
+#	286835
+#	317997
+#
+# Disc length: 4617 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c412070e
+DTITLE=European Jazz Trio - An Afternoon In Amsterdam
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Mazurka No. 1
+TTITLE1=Libertango
+TTITLE2=Scarborough Fair
+TTITLE3=Fantasista
+TTITLE4=Fur Elise
+TTITLE5=Ave Maria
+TTITLE6=It Could Happen To You
+TTITLE7=Dream People
+TTITLE8=Swan Lake
+TTITLE9=Danny Boy
+TTITLE10=Little Scorpio
+TTITLE11=Raindrop Op. 28-15
+TTITLE12=Mona Lisa
+TTITLE13=Dancing Queen
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

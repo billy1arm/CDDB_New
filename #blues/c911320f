@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 9024
+# 32341
+# 53663
+# 69298
+# 83770
+# 119307
+# 139559
+# 162216
+# 191313
+# 208813
+# 259225
+# 275069
+# 290666
+# 314327
+#
+# Disc length: 4404 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NetCD 1.2
+#
+DISCID=c911320f
+DTITLE=B.B. King - Live At San Quentin
+DYEAR=1900
+DGENRE=
+TTITLE0=B.B. King Intro
+TTITLE1=Let the Good Times Roll
+TTITLE2=Every Day I Have the Blues
+TTITLE3=Whole Lotta Loving
+TTITLE4=Sweet Little Angel
+TTITLE5=Never Make a Move Too Soon
+TTITLE6=Into the Night
+TTITLE7=Ain't Nobody's Bizness
+TTITLE8=The Thrill is Gone
+TTITLE9=Peace to the World
+TTITLE10=Nobody Loves Me But My Mother
+TTITLE11=Sweet Sixteen
+TTITLE12=Rock Me Baby
+TTITLE13=You Done Lost Your Good Thing Now
+TTITLE14=It's My Own Fault Baby
+EXTD=Extra cuts from live cd on tracks 14 and 15
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

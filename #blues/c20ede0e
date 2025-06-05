@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17335
+#	44167
+#	61735
+#	79807
+#	99910
+#	118347
+#	140267
+#	160040
+#	184907
+#	202175
+#	224540
+#	248630
+#	264900
+#
+# Disc length: 3808 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=c20ede0e
+DTITLE=Michael Powers - Frosty The Bluesman
+DYEAR=1900
+DGENRE=
+TTITLE0=Frosty The Bluesman
+TTITLE1=The Christmas Song
+TTITLE2=Mississippi Strummer Boy
+TTITLE3=We Three Kings
+TTITLE4=Deck De Halls Mon
+TTITLE5=Silent Night
+TTITLE6=Rudolph The Red Nosed Reindeer
+TTITLE7=Please Come Home For Christmas
+TTITLE8=What Child Is This
+TTITLE9=God Rest Ye Funky Gentlemen
+TTITLE10=Faithful
+TTITLE11=Salsa Claus Is Coming To Town
+TTITLE12=Have Yourself A Merry Little Christmas
+TTITLE13=The New Years Eve Gig
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

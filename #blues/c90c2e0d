@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14817
+#	37552
+#	49912
+#	67330
+#	82137
+#	112390
+#	126977
+#	145132
+#	159862
+#	173020
+#	194067
+#	206885
+#
+# Disc length: 3120 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 1.4
+#
+DISCID=c90c2e0d
+DTITLE=Sonny Terry and Brownie McGhee - Midnight Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Gonna Lay My Body Down
+TTITLE1=Drinking in the Blues
+TTITLE2=Po' Boy
+TTITLE3=Just Rode in Your Town
+TTITLE4=Sun's Gonna SHine
+TTITLE5=Everybody's Blue
+TTITLE6=Trouble in Mind
+TTITLE7=I'm a Stranger Here
+TTITLE8=Down By The Riverside
+TTITLE9=Walk On
+TTITLE10=Blues For The Lowlands
+TTITLE11=Right on That Shore
+TTITLE12=Blowin' the Fuses
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

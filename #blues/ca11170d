@@ -1,0 +1,57 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	182
+# 	25200
+# 	48785
+# 	61370
+# 	91792
+# 	108540
+# 	139222
+# 	158067
+# 	194940
+# 	216470
+# 	227472
+# 	269672
+# 	299757
+#
+# Disc length: 4377 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4
+#
+DISCID=ca11170d
+DTITLE=B. B. King - How Blue Can You Get?  Classic Live Performances - 1964 -19
+DTITLE=94
+DYEAR=1900
+DGENRE=
+TTITLE0=Let the Good Times roll
+TTITLE1=I Got Some Help I Don't Need
+TTITLE2=Caldonia
+TTITLE3=Night Life
+TTITLE4=Never Make A Move Too Soon
+TTITLE5=All Over Again (aka - I've Got A MindTo Give Up Living)
+TTITLE6=Please Send Me Somebody to Love **
+TTITLE7=Nobody Loves Me But My Mother
+TTITLE8=When Love Comes to Town
+TTITLE9=Paying The Cost to be The Boss
+TTITLE10=Aint Nobody's Business **
+TTITLE11=T-Bone Shuffle
+TTITLE12=Rock Me Baby
+EXTD=
+EXTT0=with Bobby Bland
+EXTT1=
+EXTT2=
+EXTT3=with The Crusaders
+EXTT4=with The Crusaders
+EXTT5=with The Crusaders
+EXTT6=with Gladys Knight    (** Debut Audio-only release)
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=with Ruth Brown  (** Debut Audio-only release)
+EXTT11=with Joe Louis Walker
+EXTT12=
+PLAYORDER=

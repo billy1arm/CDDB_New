@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18330
+#	34297
+#	58395
+#	82257
+#	103700
+#	119915
+#	140185
+#	157965
+#	179995
+#	201247
+#	219755
+#
+# Disc length: 3200 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta5
+#
+DISCID=c00c7e0c
+DTITLE=莫文蔚 - 我要說 I Say
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=I Say
+TTITLE1=開水与白面包
+TTITLE2=真的嗎?
+TTITLE3=堅強的理由
+TTITLE4=愛情
+TTITLE5=我不耐煩
+TTITLE6=沒時間
+TTITLE7=Let's Fall in Love
+TTITLE8=Slowly
+TTITLE9=Just Say Goodbye
+TTITLE10=是非題
+TTITLE11=邊界飯店
+EXTD=YEAR: 1998 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

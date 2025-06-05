@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10187
+#     22407
+#     36537
+#     50232
+#     61945
+#     73395
+#     81315
+#     94342
+#     103367
+#     113922
+#     126642
+# 
+# Disc length: 1831 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=c207250c
+DTITLE=Irving Belin - Great American Songwriters
+DYEAR=1900
+DGENRE=
+TTITLE0=Alexander's Ragtime Band
+TTITLE1=How Deep Is The Ocean?
+TTITLE2=Change Partners
+TTITLE3=Heat Wave
+TTITLE4=Puttin' On The Ritz
+TTITLE5=Let Yourself Go
+TTITLE6=Blue Skies
+TTITLE7=I've Got My Love To keep Me Warm
+TTITLE8=God Bless America
+TTITLE9=This Is The Army Mr Jones
+TTITLE10=You Keep Comin' Back Like A Song
+TTITLE11=All Alone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

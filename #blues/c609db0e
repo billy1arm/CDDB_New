@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	20790
+#	40855
+#	52380
+#	65495
+#	76095
+#	88353
+#	102003
+#	114750
+#	125048
+#	139705
+#	149430
+#	162510
+#	176385
+#
+# Disc length: 2525 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=c609db0e
+DTITLE=Various Artist - Instant Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Truckload Of Love/Albert King
+TTITLE1=If You're Thinkin' What I'm Thinkin'/Robert Cray
+TTITLE2=Boom Boom/John Lee Hooker
+TTITLE3=Dust My Broom/Elmore James
+TTITLE4=Recession Blues/B B King
+TTITLE5=Juke/Little Walter
+TTITLE6=Hung Down head/Lowell Fulson
+TTITLE7=Shame Shame Shame/Jimmy Reed
+TTITLE8=Messin' With The Kid/Junior Wells
+TTITLE9=Still A Fool/Muddy Waters
+TTITLE10=Down In The Bottom/Howlin' Wolf
+TTITLE11=All Your Love/Otis Rush
+TTITLE12=That Evening Train/T Bone Walker
+TTITLE13=Let Me Love You Baby/Buddy Guy
+EXTD=Input by Bill (whall@netcomuk.co.uk)
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

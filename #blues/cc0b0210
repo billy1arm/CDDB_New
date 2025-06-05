@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     13342
+#     25665
+#     38392
+#     50107
+#     63165
+#     76317
+#     90855
+#     103765
+#     117390
+#     132277
+#     143722
+#     157915
+#     172150
+#     185275
+#     198472
+# 
+# Disc length: 2820 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=cc0b0210
+DTITLE=Joe Turner - Volume 1:I've Been To Kansas City
+DYEAR=1900
+DGENRE=
+TTITLE0=Piney Brown Blues
+TTITLE1=Doggin' The Dog
+TTITLE2=Careless Love
+TTITLE3=Jumpin' Down Blues
+TTITLE4=Rainy Day Blues
+TTITLE5=Wee Baby Blues
+TTITLE6=Last Goodbye Blues
+TTITLE7=Rock, Me
+TTITLE8=Lucille, Take 1
+TTITLE9=Lucille, Take 2
+TTITLE10=Corrine, Corrina
+TTITLE11=Lonesome Graveyard, Take 1
+TTITLE12=Lonesome Graveyard, Take 2
+TTITLE13=Nobody In Mind
+TTITLE14=Somebody's Got To Go
+TTITLE15=Ice Man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

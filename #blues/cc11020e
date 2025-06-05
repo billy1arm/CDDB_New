@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29932
+#	59813
+#	81314
+#	95638
+#	124651
+#	157478
+#	184699
+#	203667
+#	232504
+#	250442
+#	277781
+#	286356
+#	302610
+#
+# Disc length: 4356 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=cc11020e
+DTITLE=Hideo Shiraki - Play the Funky!
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Sayonara Blues
+TTITLE1=Senor Blues
+TTITLE2=Groovy Samba
+TTITLE3=Caravan
+TTITLE4=Doing the Thing
+TTITLE5=A Night in Tunisia
+TTITLE6=After Date
+TTITLE7=Dig
+TTITLE8=Jinku
+TTITLE9=Mean to Me
+TTITLE10=Jungle Drums
+TTITLE11=Akasaka after Dark
+TTITLE12=Lover, come back to Me
+TTITLE13=On a Slow Boat to China
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

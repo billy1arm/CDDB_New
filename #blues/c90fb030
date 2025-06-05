@@ -1,0 +1,160 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3244
+#	6366
+#	11055
+#	13763
+#	16128
+#	21484
+#	26513
+#	31730
+#	36744
+#	41836
+#	47004
+#	52039
+#	57120
+#	62289
+#	74103
+#	79572
+#	84626
+#	89748
+#	94317
+#	111008
+#	116306
+#	121036
+#	125620
+#	129549
+#	145650
+#	149884
+#	153965
+#	159921
+#	164077
+#	178691
+#	182979
+#	187168
+#	191432
+#	195986
+#	212005
+#	216859
+#	221448
+#	229681
+#	234092
+#	250220
+#	254924
+#	259468
+#	263953
+#	268566
+#	284431
+#	288839
+#	293096
+#
+# Disc length: 4018 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c90fb030
+DTITLE=Berklee Press - Playing the Changes - Guitar
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=CMaj7 to Cmin7
+TTITLE1=CMaj7 to Fmin7
+TTITLE2=Tetrachord Demonstration
+TTITLE3=CMaj7 Chord Pad
+TTITLE4=CMaj7 Pad with Improvisation
+TTITLE5=Practice Vamp 1 - Play Along
+TTITLE6=Practice Vamp 1 - Lower Tetrachord
+TTITLE7=Practice Vamp 1 - Upper Tetrachord
+TTITLE8=Practice Vamp 1 - Modal Exercice
+TTITLE9=Practice Vamp 1 - Mixed-Rhythm Modal Exercice
+TTITLE10=Practice Vamp 2 - Play Along
+TTITLE11=Practice Vamp 2 - Modal Exercice
+TTITLE12=Practice Vamp 2 - Mixed-Rhythm
+TTITLE13=Blue Bossa - Etude
+TTITLE14=BlueBossa - Play Along
+TTITLE15=Blue Bossa - Mode Practice
+TTITLE16=Blue Bossa - Mixed-Rhythm Modal Exercice
+TTITLE17=Blue Bossa - Improvisation
+TTITLE18=Tune Up - Etude
+TTITLE19=Tune Up - Play Along
+TTITLE20=Tune Up - Mode Practice
+TTITLE21=Tune Up - Mixed-Rhythm Modal Exercice
+TTITLE22=Tune Up - Improvisation
+TTITLE23=Valse Hot - Etude
+TTITLE24=Valse Hot - Play Along
+TTITLE25=Valse Hot - Mode Practice
+TTITLE26=Valse Hot - Mixed-Rhythm Modal Exercice
+TTITLE27=Valse Hot - Improvisation
+TTITLE28=Blues - Etude
+TTITLE29=Blues - Play Along
+TTITLE30=Blues - Mode Practice
+TTITLE31=Blues - Mixed-Rhythm Modal Exercice
+TTITLE32=Blues - Improvisation
+TTITLE33=Long Ago and Far Away - Etude
+TTITLE34=Long Ago and Far Away - Play Along
+TTITLE35=Long Ago and Far Away - Mode Practice
+TTITLE36=Long Ago and Far Away - Mixed-Rhythm Modal Exercice
+TTITLE37=Long Ago and Far Away - Improvisation
+TTITLE38=Lady Bird - Etude
+TTITLE39=Lady Bird - Play Along
+TTITLE40=Lady Bird - Mode Practice
+TTITLE41=Lady Bird - Mixed-Rhythm Modal Exercice
+TTITLE42=Lady Bird - Improvisation
+TTITLE43=Just Friends - Etude
+TTITLE44=Just Friends - Play Along
+TTITLE45=Just Friends - Mode Practice
+TTITLE46=Just Friends - Mixed-Rhythm Modal Exercice
+TTITLE47=Just Friends - Improvisation
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+PLAYORDER=

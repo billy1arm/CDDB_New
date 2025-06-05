@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20325
+#	40125
+#	61856
+#	80219
+#	103308
+#	123170
+#	146168
+#	165181
+#	176189
+#	194915
+#	216222
+#	233410
+#	254546
+#
+# Disc length: 3659 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c90e490e
+DTITLE=Various Artist - Las No. 1 del Merengue
+DYEAR=2006
+DGENRE=Merengue
+TTITLE0=Suavemente - Elvis Crespo
+TTITLE1=Bandolero - Olga Tañón
+TTITLE2=La Ventanita - Sergio Vargas
+TTITLE3=El Guabá - Celia Cruz
+TTITLE4=Cama y Mesa - Fernando Villalona
+TTITLE5=Te Voy A Hacer Falta - Rikarena
+TTITLE6=El Tiburón - Proyecto Uno
+TTITLE7=¿Pitaste? - Johnny Ventura
+TTITLE8=En Tus Manos - Milly Quezada
+TTITLE9=A Que Te Pego Mi Manía - Grupo Manía
+TTITLE10=Perdóname, Olvídalo - Gisselle y Sergio Vargas
+TTITLE11=La Faldita - Pochi Y Su Cocoband
+TTITLE12=Cachamba - Kinito Méndez
+TTITLE13=Oye - July Mateo
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

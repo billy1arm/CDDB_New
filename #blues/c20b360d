@@ -1,0 +1,55 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16088
+#	30438
+#	55237
+#	71509
+#	89788
+#	103246
+#	119240
+#	133172
+#	147968
+#	165383
+#	183411
+#	200157
+# Disc length: 2872 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=c20b360d
+DTITLE=Tax - Tax
+DYEAR=1900
+DGENRE=
+TTITLE0=Idiot
+TTITLE1=Justice
+TTITLE2=Live for love
+TTITLE3=My love is gone
+TTITLE4=Jump
+TTITLE5=Stone junky
+TTITLE6=Motor
+TTITLE7=Hard life
+TTITLE8=Illusion
+TTITLE9=Hapiness
+TTITLE10=Abuse
+TTITLE11=You move my life
+TTITLE12=Live for love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

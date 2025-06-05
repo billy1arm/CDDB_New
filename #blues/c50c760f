@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10089
+#	23868
+#	31352
+#	51325
+#	61337
+#	72437
+#	87165
+#	97857
+#	169655
+#	182899
+#	193123
+#	206596
+#	220701
+#	228130
+#
+# Disc length: 3192 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=c50c760f
+DTITLE=Monta Vista Madrigals - Not To Say Goodbye
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Ave Maria Tomas
+TTITLE1=Kyrie Eleison
+TTITLE2=Au Joly Jeu
+TTITLE3=White Horses
+TTITLE4=You Are The New Day
+TTITLE5=Kde Su Kravy Moje
+TTITLE6=I Know Where I'm Goin'
+TTITLE7=I Hear A Voice A Prayin'
+TTITLE8=American Classics
+TTITLE9=The Wedding Song
+TTITLE10=Sometimes I Feel Like A Motherless Child
+TTITLE11=I Belive/Ave Maria
+TTITLE12=Ain't Got Time To Die
+TTITLE13=Softly, As I Leave You
+TTITLE14=Not To Say Goodbye
+EXTD=YEAR: 1997 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

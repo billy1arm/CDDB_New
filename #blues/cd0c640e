@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20803
+#	33335
+#	50198
+#	66628
+#	84118
+#	95563
+#	116943
+#	135845
+#	154033
+#	167703
+#	179050
+#	203613
+#	216435
+#
+# Disc length: 3174 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=cd0c640e
+DTITLE=The Pogues - The Best of the Pogues
+DYEAR=1900
+DGENRE=
+TTITLE0=Fairytale of New York (featuring Kirsty MacColl
+TTITLE1=Sally MacLennane
+TTITLE2=Dirty Old Town
+TTITLE3=The Irish Rover (with The Dubliners)
+TTITLE4=A Pair of Brown Eyes
+TTITLE5=Streams of Whiskey
+TTITLE6=A Rainy Night in Soho
+TTITLE7=Fiesta
+TTITLE8=Rain Street
+TTITLE9=Misty Morning, Albert Bridge
+TTITLE10=White City
+TTITLE11=Thousands Are Sailing
+TTITLE12=The Broad Majestic Shannon
+TTITLE13=The Body of an American
+EXTD=
+EXTT0=1987
+EXTT1=1985
+EXTT2=1985
+EXTT3=1987
+EXTT4=1985
+EXTT5=1984
+EXTT6=1991
+EXTT7=1988
+EXTT8=1990
+EXTT9=1989
+EXTT10=1989
+EXTT11=1988
+EXTT12=1988
+EXTT13=1986
+PLAYORDER=

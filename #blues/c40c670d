@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20730
+#	46845
+#	61158
+#	74097
+#	92436
+#	106418
+#	125961
+#	146449
+#	165179
+#	191212
+#	205300
+#	219703
+#
+# Disc length: 3177 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,31,311
+#
+DISCID=c40c670d
+DTITLE=Chris Botti - December
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=The Christmas Song
+TTITLE1=Ave Maria
+TTITLE2=Winter Wonderland
+TTITLE3=First Noel
+TTITLE4=Let It Snow! Let It Snow! Let It Snow!
+TTITLE5=Hallelujah
+TTITLE6=I Really Don't Want Much for Christmas
+TTITLE7=Have Yourself a Merry Little Christmas
+TTITLE8=Santa Claus Is Coming to Town
+TTITLE9=Silent Night
+TTITLE10=Little Drummer Boy
+TTITLE11=O Little Town of Bethlehem
+TTITLE12=I'll Be Home for Christmas
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

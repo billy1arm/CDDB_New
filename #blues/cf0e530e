@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14286
+#	28359
+#	45641
+#	64784
+#	82955
+#	98138
+#	124402
+#	138617
+#	154754
+#	172411
+#	186161
+#	217104
+#	255594
+#
+# Disc length: 3669 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=cf0e530e
+DTITLE=Spencer Davis Group - The Complete Hit Collection
+DYEAR=2007
+DGENRE=Blues
+TTITLE0=Keep on runnin'
+TTITLE1=When I come
+TTITLE2=Every little bit hurts
+TTITLE3=San Francisco Bay
+TTITLE4=Dimples
+TTITLE5=Somebody help me
+TTITLE6=House of the rising sun
+TTITLE7=I met a woman
+TTITLE8=Letter from Edith
+TTITLE9=Raintree River
+TTITLE10=What a way to die
+TTITLE11=Funky
+TTITLE12=I'm a man
+TTITLE13=Gimme some lovin'
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

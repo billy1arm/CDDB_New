@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	41288
+#	58920
+#	73550
+#	86688
+#	106415
+#	130430
+#	158270
+#	178735
+#	200745
+#	231893
+#	261570
+#	264985
+#	282465
+#
+# Disc length: 3849 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=cf0f070e
+DTITLE=Miles Davis - (1952.04.25 and ...) Rare Unreleased Broadcasts With John Coltrane, Sonny Rollins and Bill Evans
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=(1952.04.25) All The Things You Are
+TTITLE1=(1952.04.25)  The Squirrel
+TTITLE2=(1955.10.18) Max Is Making Wax
+TTITLE3=(1955.10.18) It Never Entered My Mind
+TTITLE4=(1956.12.08) Tune Up
+TTITLE5=(1956.12.08) Walkin'
+TTITLE6=(1957.07.13) Four
+TTITLE7=(1957.07.13) Bye Bye Blackbird
+TTITLE8=(1958.05.17) Four
+TTITLE9=(1958.05.17) Bye Bye Blackbird
+TTITLE10=(1958.05.17) Walkin'
+TTITLE11=(1958.05.17) Two Bass Hit
+TTITLE12=(1957.07.03) It Never Entered My Mind
+TTITLE13=(1957.07.03) Walkin'
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

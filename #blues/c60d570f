@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+# 150
+# 13769
+# 30968
+# 43922
+# 59538
+# 82480
+# 101461
+# 122312
+# 132268
+# 155146
+# 174894
+# 189826
+# 206187
+# 226642
+# 237720
+#
+# Disc length: 3417 seconds
+#
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+#CATEGORY=blues
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=c60d570f
+DTITLE=Big Mama Thornton - With The Muddy Waters Blues Band 1966
+DYEAR=1966
+DGENRE=blues
+TTITLE0=I'm Feeling Alright
+TTITLE1=Sometimes I Have a Heartache
+TTITLE2=Black Rat
+TTITLE3=Life Goes On
+TTITLE4=Everything Gonna Be Alright
+TTITLE5=Big Mama's Bumble Bee Blues
+TTITLE6=Gimme a Penny
+TTITLE7=Looking the World Over
+TTITLE8=I Feel the Way I Feel
+TTITLE9=Guide Me Home
+TTITLE10=Wrapped Tight
+TTITLE11=Big Mama's Shuffle
+TTITLE12=Since I Fell For You
+TTITLE13=I'm Feeling Alright (fast version)
+TTITLE14=Big Mama's Blues (My Love)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

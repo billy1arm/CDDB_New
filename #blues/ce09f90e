@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12832
+#	24735
+#	34155
+#	44835
+#	60252
+#	73750
+#	89455
+#	100430
+#	115095
+#	130220
+#	142097
+#	157435
+#	174577
+#
+# Disc length: 2555 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ce09f90e
+DTITLE=Jeff Beck and Friends - Le meilleur
+DYEAR=1990
+DGENRE=Rock - Pop
+TTITLE0=Cyril Davies And The All Stars - Someday Baby
+TTITLE1=The All Stars Feat. Jeff Beck - Steelin'
+TTITLE2=The All Stars Feat. Jimmy Page - LA Breakdown
+TTITLE3=The All Stars Feat. Jeff Beck - Chuckels
+TTITLE4=The All Stars Feat. Jimmy Page - Down In The Boots
+TTITLE5=The All Stars Feat. Nicky Hopkins - Piano Shuffle
+TTITLE6=Albert Lee - Water On My Fire
+TTITLE7=Eric Clapton and Jimmy Page - Miles Road
+TTITLE8=Santa Barbara and Machine Head - Porcupine Juice
+TTITLE9=Santa Barbara and Machine Head - Albert
+TTITLE10=Santa Barbara and Machine Head - Rubber Monkey
+TTITLE11=Stuff Smith - Howlin' For My Darling
+TTITLE12=Dave Kelly - Alabama Woman
+TTITLE13=Albert Lee - Crosstown Link
+EXTD=YEAR: 1990
+EXTT0=Cyril Davies and the All Stars
+EXTT1=The All Stars featuring Jeff Beck
+EXTT2=The All Stars featuring Jimmy Page
+EXTT3=The All Stars featuring Jeff Beck
+EXTT4=All Stars featuring Jimmy Page
+EXTT5=The All Stars featuring Nicky Hopkins
+EXTT6=Albert Lee
+EXTT7=Eric Clapton and Jimmy Page
+EXTT8=Santa Barbara and Machine Head
+EXTT9=Santa Barbara and Machine Head
+EXTT10=Santa Barbara and Machine Head
+EXTT11=Stuff Smith
+EXTT12=Dave Kelly
+EXTT13=Albert Lee
+PLAYORDER=

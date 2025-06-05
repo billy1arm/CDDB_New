@@ -1,0 +1,214 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8105
+#	16067
+#	24025
+#	31234
+#	38456
+#	45680
+#	52319
+#	58951
+#	65646
+#	74685
+#	83723
+#	92771
+#	99110
+#	105442
+#	111771
+#	119579
+#	127391
+#	135206
+#	145264
+#	155332
+#	165350
+#	173024
+#	180730
+#	188390
+#	195095
+#	201829
+#	208563
+#	215547
+#	222523
+#	229534
+#	237417
+#	245302
+#	253181
+#	255661
+#	258142
+#	260621
+#	263103
+#	265582
+#	268061
+#	270544
+#	273024
+#	275513
+#	277999
+#	280485
+#	282969
+#	285448
+#	287932
+#	290412
+#	292901
+#	295389
+#	297875
+#	300355
+#	302838
+#	305335
+#	307821
+#	310310
+#	312788
+#	315267
+#	317754
+#	320239
+#	322723
+#	325208
+#	327698
+#	330187
+#	332663
+#
+# Disc length: 4466 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ca117042
+DTITLE=Frank Sark - Manhatten Crooners CD2 Bright and Swinging Big Band Jazz Featuring Crooners
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Magic In Your Eyes
+TTITLE1=Magic In Your Eyes (Instrumental)
+TTITLE2=Magic In Your Eyes (Underscore)
+TTITLE3=Let's Talk About
+TTITLE4=Let's Talk About (Instrumental)
+TTITLE5=Let's Talk About (Underscore)
+TTITLE6=It's A Long Way
+TTITLE7=It's A Long Way (Instrumental)
+TTITLE8=It's A Long Way (Underscore)
+TTITLE9=I Wanna Know
+TTITLE10=I Wanna Know (Instrumental)
+TTITLE11=I Wanna Know (Underscore)
+TTITLE12=It's A Wonderful Love
+TTITLE13=It's A Wonderful Love (Instrumental)
+TTITLE14=It's A Wonderful Love (Underscore)
+TTITLE15=Make Them All Come True
+TTITLE16=Make Them All Come True (Instrumental)
+TTITLE17=Make Them All Come True (Underscore)
+TTITLE18=Never Say Goodbye
+TTITLE19=Never Say Goodbye (Instrumental)
+TTITLE20=Never Say Goodbye (Underscore)
+TTITLE21=Please Don't Leave Me
+TTITLE22=Please Don't Leave Me (Instrumental)
+TTITLE23=Please Don't Leave Me (Underscore)
+TTITLE24=Most Of All I Love You
+TTITLE25=Most Of All I Love You (Instrumental)
+TTITLE26=Most Of All I Love You (Underscore)
+TTITLE27=A Part Of You
+TTITLE28=A Part Of You (Instrumental)
+TTITLE29=A Part Of You (Underscore)
+TTITLE30=My Love For You Is True
+TTITLE31=My Love For You Is True (Instrumental)
+TTITLE32=My Love For You Is True (Underscore)
+TTITLE33=Magic In Your Eyes (Jingle 1)
+TTITLE34=Magic In Your Eyes (Jingle 2)
+TTITLE35=Magic In Your Eyes (Jingle 3)
+TTITLE36=Let's Talk About (Jingle 1)
+TTITLE37=Let's Talk About (Jingle 2)
+TTITLE38=Let's Talk About (Jingle 3)
+TTITLE39=It's A Long Way (Jingle 1)
+TTITLE40=It's A Long Way (Jingle 3)
+TTITLE41=It's A Long Way (Jingle 3)
+TTITLE42=I Wanna Know (Jingle 1)
+TTITLE43=I Wanna Know (Jingle 2)
+TTITLE44=I Wanna Know (Jingle 3)
+TTITLE45=It's A Wonderful Love (Jingle 1)
+TTITLE46=It's A Wonderful Love (Jingle 2)
+TTITLE47=It's A Wonderful Love (Jingle 3)
+TTITLE48=Let's Talk About (Jingle 1)
+TTITLE49=Let's Talk About (Jingle 2)
+TTITLE50=Let's Talk About (Jingle 3)
+TTITLE51=Never Say Goodbye (Jingle 1)
+TTITLE52=Never Say Goodbye (Jingle 2)
+TTITLE53=Never Say Goodbye (Jingle 3)
+TTITLE54=Please Don't Leave Me (Jingle 1)
+TTITLE55=Please Don't Leave Me (Jingle 2)
+TTITLE56=Please Don't Leave Me (Jingle 3)
+TTITLE57=Most Of All I Love You (Jingle 1)
+TTITLE58=Most Of All I Love You (Jingle 2)
+TTITLE59=Most Of All I Love You (Jingle 3)
+TTITLE60=A Part Of You (Jingle 1)
+TTITLE61=A Part Of You (Jingle 2)
+TTITLE62=A Part Of You (Jingle 3)
+TTITLE63=My Love For You Is True (Jingle 1)
+TTITLE64=My Love For You Is True (Jingle 2)
+TTITLE65=My Love For You Is True (Jingle 3)
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+PLAYORDER=

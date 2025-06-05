@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	11258
+#	23958
+#	37283
+#	51983
+#	70258
+#	84758
+#	104183
+#	113783
+#	123083
+#	140145
+#	154408
+#	168608
+#	184758
+#
+# Disc length: 2770 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=c60ad00e
+DTITLE=Edith Piaf - The Edith Piaf Gold Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Non, Je Ne Regrette Rien
+TTITLE1=Je T'Ai Dans Le Peau
+TTITLE2=C'est Pur Ca
+TTITLE3=La Fete Continue
+TTITLE4=L'Accordeoniste
+TTITLE5=Bravo Pur Le Clown
+TTITLE6=La Vie En Rose
+TTITLE7=L'Homme A La Moto
+TTITLE8=La Goulante Du Pauvre Jean
+TTITLE9=C'est A Hambourg
+TTITLE10=Padam, Padam
+TTITLE11=Les Grognards
+TTITLE12=Telegramme
+TTITLE13=Monsieur Saint Pierre
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

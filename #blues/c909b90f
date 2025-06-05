@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	12025
+# 	23467
+# 	35815
+# 	49147
+# 	61617
+# 	72725
+# 	83065
+# 	95860
+# 	111687
+# 	123662
+# 	137507
+# 	150912
+# 	162485
+# 	175267
+#
+# Disc length: 2491 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=c909b90f
+DTITLE=Various Artist - Super Box of Soul - Disk 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Soul Man
+TTITLE1=Cool Jerk
+TTITLE2=Turn Back The Hands Of Time
+TTITLE3=When A Man Loves A Woman
+TTITLE4=Take A Letter Maria
+TTITLE5=Mr. Big Stuff
+TTITLE6=Get On Up
+TTITLE7=Everlasting Love
+TTITLE8=You'll Lose A Good Thing
+TTITLE9=Groove Me
+TTITLE10=Knock On Wood
+TTITLE11=On Broadway
+TTITLE12=Last Night
+TTITLE13=B-A-B-Y
+TTITLE14=Slip Away
+EXTD=
+EXTT0=Sam and Dave
+EXTT1=The Capitols
+EXTT2=Tyrone Davis
+EXTT3=Percy Sledge
+EXTT4=R.B. Greaves
+EXTT5=Jean Knight
+EXTT6=The Esquires
+EXTT7=Robert Knight
+EXTT8=Barbara Lynn
+EXTT9=King Floyd
+EXTT10=Eddie Floyd
+EXTT11=The Drifters
+EXTT12=The Mar-Keys
+EXTT13=Carla Thomas
+EXTT14=Clarence Carter
+PLAYORDER=

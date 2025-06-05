@@ -1,0 +1,60 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21270
+#	43222
+#	58252
+#	80772
+#	94862
+#	110937
+#	141870
+#	159732
+#	171062
+#	185145
+#	195635
+#	215545
+#
+# Disc length: 3147 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=ca0c490d
+DTITLE=Charles Brown - All My Life
+DYEAR=1900
+DGENRE=
+TTITLE0=Early InThe Morning
+TTITLE1=Fool's Paradise
+TTITLE2=Bad Bad Whiskey
+TTITLE3=When The Sun Comes Out
+TTITLE4=Nobody Knows The Trouble I've Seen
+TTITLE5=That's A Pretty Good Love
+TTITLE6=A Virus Called The Blues
+TTITLE7=Seven Days Long
+TTITLE8=Joyce's Boogie
+TTITLE9=Trouble Blues
+TTITLE10=Tell Me Who
+TTITLE11=All My Life
+TTITLE12=Too Late
+EXTD=
+EXTT0=(Charles Brown/C. Mose Music, BMI)
+EXTT1=(Jerry Fuller-Mable Cordle/ Acuff-Rose Music, Inc., BMI)
+EXTT2=(Eddie Noble/Sulpat Music, BMI)
+EXTT3=(Mort Shuman-Clive Westlake/Unichappel Music, BMI-Belinda
+EXTT3=London Ltd., PRS)
+EXTT4=(trad. arr. Charles Brown/C. Mose Music, BMI)
+EXTT5=(B. Lucas-Fred mendelsohn/Screen Gems-EMI, BMI)
+EXTT6=(Homer Brown-Charles Brown/James Van Buren Music-C. Mose 
+EXTT6=Music, BMI)
+EXTT7=(Jesse Mae Robinson-Charles Brown/EMI-Unart Catalog-C. Mo
+EXTT7=se Music, BMI)
+EXTT8=(Charles Brown/C. Mose Music, BMI)
+EXTT9=(Charles Brown/EMI-Unart Catalog,Inc., BMI)
+EXTT10=(Charles Brown/C.Mose Music, BMI)
+EXTT11=(Sidney Mitchell-Sam Stepp/Sam Fox Publishing Co.., Inc.
+EXTT11=, ASCAP)
+EXTT12=(Charles Brown.C. Mose Music, BMI)
+PLAYORDER=
