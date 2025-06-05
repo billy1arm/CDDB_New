@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2288
+#	136769
+#	220064
+#	264352
+#
+# Disc length: 4134 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=33102405
+DTITLE=John Coltrane - The Unissued SWATLE Broadcast
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Anouncement
+TTITLE1=Untitled Original
+TTITLE2=Afro Blue
+TTITLE3=Lush Life
+TTITLE4=My Favorite Things
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

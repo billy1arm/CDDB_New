@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42473
+#	76274
+#	108071
+#	133750
+#
+# Disc length: 2177 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=37087f05
+DTITLE=Rolf Kühn Orchestra - Symphonic Swampfire
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Swampfire, Part I
+TTITLE1=Swampfire, Part II
+TTITLE2=La Canal
+TTITLE3=Just Call
+TTITLE4=Judy
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

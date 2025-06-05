@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17339
+#	33477
+#	62861
+#	78185
+#
+# Disc length: 1319 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=30052505
+DTITLE=東京ブラス・スタイル - アニジャズジブリ
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=ルージュの伝言
+TTITLE1=となりのトトロ
+TTITLE2=風の谷のナウシカ
+TTITLE3=やさしさに包まれたなら
+TTITLE4=君をのせて
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28145
+#	94540
+#	177492
+#	241012
+#
+# Disc length: 4182 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=34105405
+DTITLE=Eric Clapton - Orchestra Night
+DYEAR=1990
+DGENRE=Blues
+TTITLE0=White room
+TTITLE1=1st Movement
+TTITLE2=2nd Movement
+TTITLE3=Layla
+TTITLE4=Sunshine of your love
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

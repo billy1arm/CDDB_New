@@ -1,0 +1,82 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13199
+#	25764
+#	38839
+#	53981
+#	69743
+#	84045
+#	97392
+#	109537
+#	123087
+#	137992
+#	151541
+#	164553
+#	226699
+#	238203
+#	251208
+#	267297
+#	278816
+#	292393
+#	308516
+#	323218
+#	337586
+#
+# Disc length: 4647 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=31122516
+DTITLE=Various Artist - The Story Of Big Bands 1914 - 1955 (9)
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Buddy Johnsons And His Orchestra, Down Yonder
+TTITLE1=Gil Fuller And His Orchestra, The Scene Changes
+TTITLE2=Woody Herman And His Orchestra, Not Really The Blues
+TTITLE3=Artie Shaw And His Orchestra, Krazy Kat
+TTITLE4=Artie Shaw And His Orchestra, Similau
+TTITLE5=Lionel Hampton And His Orchestra, Well Oh Well
+TTITLE6=Erskine Hawkins And His Orchestra, Bear Mash Blues
+TTITLE7=The Metronome All-Stars, Local 802 Blues
+TTITLE8=Les Brown And His Orchestra, Azure
+TTITLE9=Les Brown And His Orchestra, That Old Black Magic
+TTITLE10=Lionel Hampton And His Orchestra, Cool Train
+TTITLE11=Lionel Hampton And His Orchestra, Kingfish
+TTITLE12=Duke Ellington And His Orchestra, A Tone Parallel To Harlem
+TTITLE13=The Bill Harris Herd, Poggerini
+TTITLE14=Charlie Parker Big Band, Night And Day
+TTITLE15=Sauter-Finegan Orchestra, Azure Te (Paris Blues)
+TTITLE16=Woody Herman And The New Third Herd, Stompin' At The Savoy
+TTITLE17=Lucky Millinder And His Orchestra, Blackslider's Ball
+TTITLE18=Count Basie And His Orchestra, Paradise Squat
+TTITLE19=Stan Kenton And His Orchestra, Young Blood
+TTITLE20=Stan Kenton And His Orchestra, 23 North 82 West
+TTITLE21=The Gerry Mulligan Tentette, Rocker
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

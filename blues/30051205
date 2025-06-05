@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15950
+#	31737
+#	55475
+#	79300
+#
+# Disc length: 1300 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=30051205
+DTITLE=Dorothy Shaw - If I Don't Love You
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=If I Don't Love You
+TTITLE1=Blue Funk
+TTITLE2=You Don't Know What Love Is
+TTITLE3=Space Shuffle
+TTITLE4=Yesterdays
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

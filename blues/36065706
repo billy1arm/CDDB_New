@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12242
+#	41933
+#	60400
+#	75092
+#	97831
+#
+# Disc length: 1625 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=36065706
+DTITLE=Charlie Byrd and John Griggs - Jazz Guitar Workshop
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Dengozo
+TTITLE1=Farewell Blues
+TTITLE2=El Choclo
+TTITLE3=The Sheik of Araby
+TTITLE4=Estrellita
+TTITLE5=I Cried for You
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

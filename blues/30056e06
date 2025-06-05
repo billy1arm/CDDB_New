@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16281
+#	31898
+#	45805
+#	67655
+#	78892
+#
+# Disc length: 1392 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=30056e06
+DTITLE=divers - Jazzmag n°629 - 09-2011 (1950-58 6 batteurs pour Bud Powell)
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Buddy Rich - Tea for two
+TTITLE1=Max Roach - Parisian thoroughfare
+TTITLE2=Kenny Clarke - Epistrophy
+TTITLE3=Art Taylor - Lady Bird
+TTITLE4=Osie Johnson - 52nd Street theme
+TTITLE5=Philly Joe Jones - John's Abbey
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15896
+#	39763
+#	54278
+#	74096
+#
+# Disc length: 1184 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=32049e05
+DTITLE=Paula Devilee - Demo
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Fly me to the moon
+TTITLE1=A Nightingale sang in Berkely Square
+TTITLE2=Bewitched
+TTITLE3=Prelude to a kiss
+TTITLE4=Shadow of your smile
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

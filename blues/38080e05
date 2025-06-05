@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	99102
+#	108294
+#	124533
+#	131977
+#
+# Disc length: 2064 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=38080e05
+DTITLE=LucasArts (Michael Z. Land) - Sam and Max Hit the Road
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Game Data
+TTITLE1=Sam and Max Theme
+TTITLE2=Moleman Music
+TTITLE3=King of the Creatures
+TTITLE4=Bigfoot Shuffle
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

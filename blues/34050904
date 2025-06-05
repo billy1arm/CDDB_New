@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21260
+#	50180
+#	72783
+#
+# Disc length: 1291 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=34050904
+DTITLE=Torvikopla - Pyynikki Sessions
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Aslan's Tale
+TTITLE1=Bond-Medley
+TTITLE2=Pacific Coastin'
+TTITLE3=Fantasy
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

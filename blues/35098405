@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40675
+#	108291
+#	129115
+#	171400
+#
+# Disc length: 2438 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=35098405
+DTITLE=George Russell - VERTICAL FORM VI
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=EVENT I
+TTITLE1=EVENT II
+TTITLE2=EVENT III
+TTITLE3=EVENT IV
+TTITLE4=George Russell - EVENT V
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

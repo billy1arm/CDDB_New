@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17400
+#	37145
+#	59835
+#
+# Disc length: 1139 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta5
+#
+DISCID=32047104
+DTITLE=Fugees - Ready or Not (Single)
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Album Version
+TTITLE1=How many Mics
+TTITLE2=FREESTYLE
+TTITLE3=Blame It On The Sun
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

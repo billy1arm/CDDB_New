@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25401
+#	49704
+#	105153
+#	120654
+#
+# Disc length: 1825 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=34071f05
+DTITLE=Countdown Big Band - Suite For Friends
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Somewhere Over The Rainbow
+TTITLE1=Copalito
+TTITLE2=Suite for Friends
+TTITLE3=Them There Eyes
+TTITLE4=But Not For Me
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

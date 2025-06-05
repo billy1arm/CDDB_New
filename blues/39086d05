@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19492
+#	75492
+#	103857
+#	123400
+#
+# Disc length: 2159 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=39086d05
+DTITLE=Mike Bloomfield, Harvey Mandel, Barry Goldberg and Friends - Solid Blues
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Sweet Home Chicago
+TTITLE1=I Got to Love My Women
+TTITLE2=Long Hard Journey
+TTITLE3=Woke Up This Morning
+TTITLE4=Mess Ada Blues
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

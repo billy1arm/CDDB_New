@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23810
+#	43232
+#	65067
+#
+# Disc length: 1180 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=34049a04
+DTITLE=K - The Day
+DYEAR=2006
+DGENRE=J-POP
+TTITLE0=The Day
+TTITLE1=Let Me Go Now
+TTITLE2=I Like It
+TTITLE3=The Day (less vocal)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

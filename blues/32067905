@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25464
+#	54379
+#	78214
+#	102851
+#
+# Disc length: 1659 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.66 - http://www.feurio.com
+#
+DISCID=32067905
+DTITLE=Various Artist - X-MIX 59 URBAN SERIES
+DYEAR=2002
+DGENRE=blues
+TTITLE0=Jennifer Lopez - Jenny From The Block
+TTITLE1=Eminem - Lose Yourself
+TTITLE2=Missy Elliot - Work It
+TTITLE3=Erick Sermon - React
+TTITLE4=Syleena Johnson - Busta Rhymes - Tonight I'm Gonna Let Go
+EXTD=
+EXTT0=100 BPM
+EXTT1=86 BPM
+EXTT2=102 BPM
+EXTT3=100 BPM
+EXTT4=100 BPM
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25102
+#	49151
+#	73349
+#
+# Disc length: 1314 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: freeDBTagger 0.9.0.2
+#
+DISCID=33052004
+DTITLE=COLOR - 音色
+DYEAR=2005
+DGENRE=blues
+TTITLE0=音色
+TTITLE1=音色 (Acoustic Mix)
+TTITLE2=Dear Mama
+TTITLE3=音色 (Instrumental)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	25542
+#	54415
+#	80235
+#	105627
+#
+# Disc length: 1611 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=34064905
+DTITLE=Roger Eno and Lol Hammond - Damage (Ltd Ed Bonus RMX CD)
+DYEAR=1999
+DGENRE=New Age
+TTITLE0=Sky Becomes A Loop (Boy Eats Girl Remix)
+TTITLE1=Damage (Animated Mix)
+TTITLE2=Sky Becomes A Loop (Shiner Mix)
+TTITLE3=Sky Becomes A Loop (Poo Mix)
+TTITLE4=Damage (Duncan Forbes Mix)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

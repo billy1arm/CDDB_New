@@ -1,0 +1,32 @@
+# xmcd
+#
+# Track frame offsets:
+# 150
+# 10697
+# 28366
+# 46562
+# 70425
+#
+# Disc length: 1312 seconds
+#
+#
+# Revision: 9
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.91 
+#
+DISCID=38051e05
+DTITLE=Janis Joplin - Rare Pearls
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=It's A Deal (Studio Outtake)
+TTITLE1=Easy Once You Know How (Studio Outtake)
+TTITLE2=Maybe (Live)
+TTITLE3=Raise Your Hand (Live)
+TTITLE4=Bo Diddley (Live)
+EXTD=
+EXTT0=studio outtake
+EXTT1=studio outtake
+EXTT2=live
+EXTT3=live
+EXTT4=live
+PLAYORDER=

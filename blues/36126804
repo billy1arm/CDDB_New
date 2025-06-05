@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	180898
+#	288167
+#	291656
+#
+# Disc length: 4714 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=36126804
+DTITLE=Miles Davis - Unreleased Bitches Brew Session [CD2]
+DYEAR=1969
+DGENRE=Jazz
+TTITLE0=Session of Miles Runs The Voodoo Down
+TTITLE1=Session of Spanish Key
+TTITLE2=Session of Directions
+TTITLE3=Session of Pharaoh's Dance
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18645
+#	36620
+#	58175
+#
+# Disc length: 1123 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=37046104
+DTITLE=ak - @my best
+DYEAR=2001
+DGENRE=Pop
+TTITLE0=@my best
+TTITLE1=love
+TTITLE2=day light
+TTITLE3=never gonna go away
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

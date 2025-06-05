@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	88087
+#	181762
+#	297458
+#
+# Disc length: 4502 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=32119404
+DTITLE=Spontaneous Music Ensemble - Quintessence
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=Forty Minutes (Part 1)
+TTITLE1=Forty Minutes (Part 2)
+TTITLE2=Thirty-Five Minutes (Part 1)
+TTITLE3=Thirty-Five Minutes (Part 2)
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

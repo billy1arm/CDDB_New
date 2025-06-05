@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20330
+#     39835
+#     59855
+#     79882
+# 
+# Disc length: 1327 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=39052d05
+DTITLE=Sam Salter - After 12, Before 6 Single
+DYEAR=1900
+DGENRE=
+TTITLE0=Album Version
+TTITLE1=Emporer Searcy Bass Mix
+TTITLE2=Big Herb Remix
+TTITLE3=Big Herb Instrumental
+TTITLE4=Emporer Searcy Instrumental
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

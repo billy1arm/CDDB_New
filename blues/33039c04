@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19850
+#	36215
+#	52355
+#
+# Disc length: 926 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=33039c04
+DTITLE=Paul Rodger - Muddy Water Blues (Ltd Ed. CD1)
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Muddy Water Blues
+TTITLE1=The Hunter
+TTITLE2=Stone Free
+TTITLE3=Nature Of The Beast
+EXTD=YEAR: 1993 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

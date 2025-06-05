@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22789
+#	58705
+#	85784
+#	129662
+#	157523
+#
+# Disc length: 2455 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.75
+#
+DISCID=37099506
+DTITLE=FC Fritsche - Unknown CD for MusicBrainz and FreeDB
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=FLUCHTPUNKTE
+TTITLE1=PHASEN
+TTITLE2=TORKL
+TTITLE3=ENG
+TTITLE4=MD
+TTITLE5=DAS ALTE PROBLEM
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

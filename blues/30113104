@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	84723
+#	170143
+#	252245
+#
+# Disc length: 4403 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=30113104
+DTITLE=Gilbert Artman - Urban Sax
+DYEAR=1990
+DGENRE=New Age
+TTITLE0=Part 1
+TTITLE1=Part 2
+TTITLE2=Part 3
+TTITLE3=Part 4
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

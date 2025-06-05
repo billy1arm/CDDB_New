@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40766
+#	73943
+#	115059
+#
+# Disc length: 2465 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=31099f04
+DTITLE=Tony O'Connoor - Zodiac Collection Virgo
+DYEAR=1999
+DGENRE=New Age
+TTITLE0=Virgo 1
+TTITLE1=Virgo 2
+TTITLE2=Virgo 3
+TTITLE3=Virgo 4
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

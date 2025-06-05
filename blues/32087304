@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49802
+#	89682
+#	126100
+#
+# Disc length: 2165 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=32087304
+DTITLE=Dexter Gorgon - The Tower Of Power!
+DYEAR=1969
+DGENRE=Jazz
+TTITLE0=Montmartre
+TTITLE1=The Rainbow People
+TTITLE2=Stanley The Steamer
+TTITLE3=Those Were The Days
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

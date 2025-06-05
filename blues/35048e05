@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15750
+#	35325
+#	51075
+#	71100
+#
+# Disc length: 1168 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=35048e05
+DTITLE=Klangsynthese Label - klangZWEI
+DYEAR=2005
+DGENRE=Electronic
+TTITLE0=F-22 Raptor ATF/How to play
+TTITLE1=no.5/Sawayaka covering
+TTITLE2=F-22 Raptor ATF/Vorderine - remaster
+TTITLE3=F-22 Raptor ATF/Silicon diode
+TTITLE4=F-22 Raptor ATF/Qurnus
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

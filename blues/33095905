@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	42485
+#	86410
+#	118895
+#	151555
+#
+# Disc length: 2395 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=33095905
+DTITLE=Hank Mobley - A Caddy For Daddy
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=A Caddy For Daddy
+TTITLE1=The Morning After
+TTITLE2=Venus Di Mildew
+TTITLE3=Ace Deuce Trey
+TTITLE4=3rd Time Around
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

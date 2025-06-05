@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19442
+#     75465
+#     103792
+#     123352
+# 
+# Disc length: 2161 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=37086f05
+DTITLE=Various Artist - Nothin' But the Blues
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Sweet Home Chicago
+TTITLE1=I Got to Love My Women
+TTITLE2=Long Hard Journey
+TTITLE3=Woke Up This Morning
+TTITLE4=Mess Ada Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

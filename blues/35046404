@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20556
+#	41556
+#	59856
+#
+# Disc length: 1126 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=35046404
+DTITLE=4 words jazz - Demo
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=They can't take that away from me
+TTITLE1=Fly me to the moon
+TTITLE2=Let's fall in love
+TTITLE3=Autumn Leaves
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

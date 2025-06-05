@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26080
+#	53705
+#	69725
+#
+# Disc length: 1178 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=32049804
+DTITLE=Trout Fishing in Quebec - Ooh La La
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Ooh La La (12" Mix)
+TTITLE1=Ooh La La (Dub Mix)
+TTITLE2=Ooh La La (Radio Mix)
+TTITLE3=Ooh La La (Original)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14640
+#	31390
+#	49425
+#	70055
+#	89125
+#	100097
+#	121092
+#	135992
+#	163850
+#	178262
+#	196212
+#	208665
+#	221912
+#	237567
+#	252800
+#	273325
+#	289500
+#	310905
+#	324412
+#
+# Disc length: 4619 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=30120914
+DTITLE=Jazz Artists - Jazz Ever! Movie disc2
+DYEAR=2004
+DGENRE=Genaral Jazz
+TTITLE0=Maria - Sarah Vaughan
+TTITLE1=Tonight - Tommy Flanagan
+TTITLE2=Cool - Bill Charlap
+TTITLE3=The James Bond Theme - Leroy Holmes
+TTITLE4=From Russia With Love - Count Basie
+TTITLE5=Mission Impossible - Billy May
+TTITLE6=Black Orpheus - Eliane Elias
+TTITLE7=Last Tango In Paris - Marlena Shaw
+TTITLE8=Si Joya - Duke Jordan
+TTITLE9=A Man And A Woman - The Four Freshmen
+TTITLE10=Sound Of Silence - Stanley Jordan
+TTITLE11=Midnight Cowboy - Lee Morgan
+TTITLE12=Raindrops Keep Fallin' On My Head - Nancy Wilson
+TTITLE13=I Will Wait For You - Bud Shank
+TTITLE14=The Summer Knows - Al Martino
+TTITLE15=What Are You Doing The Rest Of Your Life - Lou Donaldson
+TTITLE16=Theme From Love Story - Richard Holmes
+TTITLE17='Round About Midnight - Tubby Haymes
+TTITLE18=When I Fall In Love - DIck Haymes
+TTITLE19=Unchained Melody - Freddie Roach
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

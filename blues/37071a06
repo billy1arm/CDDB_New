@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24885
+#	54875
+#	79615
+#	99070
+#	117735
+#
+# Disc length: 1820 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=37071a06
+DTITLE=Celia Cruz - Celias Oye como Va - Remixes
+DYEAR=2002
+DGENRE=Salsa
+TTITLE0=Oye Como Va  Remix 1
+TTITLE1=Oye Como Va  Remix 2
+TTITLE2=Oye Como Va  Remix 3
+TTITLE3=Oye Como Va  Remix 4
+TTITLE4=Oye Como Va  Remix 5
+TTITLE5=Oye Como Va  Remix 6
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

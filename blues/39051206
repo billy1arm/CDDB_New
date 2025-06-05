@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9085
+#	29360
+#	46402
+#	61107
+#	85185
+#
+# Disc length: 1300 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=39051206
+DTITLE=Mari Natsuki - La Marie En Septembre
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Blues
+TTITLE1=Les musiciens
+TTITLE2=My favorite things
+TTITLE3=L'homme que j'aimais
+TTITLE4=Le Calmant
+TTITLE5=La Marie du port
+EXTD=\n YEAR: 1995 ID3G: 8
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

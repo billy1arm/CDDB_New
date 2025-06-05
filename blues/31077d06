@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	16177
+#	45967
+#	70912
+#	91535
+#	120027
+#
+# Disc length: 1919 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=31077d06
+DTITLE=坂田　明 - タコロジー
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=DON'S THEME
+TTITLE1=KAI-DACO-HIME
+TTITLE2=VIVA OCTOPUS
+TTITLE3=OCTOPUS MARCH
+TTITLE4=BALLAD FOR TACO(dedicated to Hachiro Taco)
+TTITLE5=DON'S THEME(instrumental)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17635
+#	33207
+#	51192
+#	63345
+#
+# Disc length: 1111 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=36045505
+DTITLE=Jokin Parrot - J.P.S
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=I had to hear it
+TTITLE1=Your voice is indispensable
+TTITLE2=Pays to die
+TTITLE3=J.-B.
+TTITLE4=Jamaica varicos vein-warmers
+EXTD=YEAR: 1992 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

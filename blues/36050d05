@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23577
+#	39171
+#	55300
+#	82350
+#
+# Disc length: 1295 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=36050d05
+DTITLE=Lester Young - The Cool Jazz Collection 68
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=All of Me
+TTITLE1=There Foolish Things
+TTITLE2=Almost Like Being in Love
+TTITLE3=They Can't Take That Away from Me
+TTITLE4=Pennies from Heaven
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

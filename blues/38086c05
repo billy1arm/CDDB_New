@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34110
+#	57033
+#	87159
+#	132976
+#
+# Disc length: 2158 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=38086c05
+DTITLE=McCoy Tyner - La Leyenda de la Hora (The Legend of the Hour)
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=La Vida Feliz (The Happy Life)
+TTITLE1=Ja'cara (A Serenade)
+TTITLE2=La Habana Sol (The Havana Sun)
+TTITLE3=Walk Spirit, Talk Spirit
+TTITLE4=La Busca (The Search)
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

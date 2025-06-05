@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28202
+#	99480
+#	143460
+#	158460
+#
+# Disc length: 2166 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=31087405
+DTITLE=荒川弘 - 鋼の錬金術師 霧のオグターレ 前編
+DYEAR=2004
+DGENRE=Other
+TTITLE0=第一幕
+TTITLE1=第二幕
+TTITLE2=第三幕
+TTITLE3=第四幕
+TTITLE4=終幕
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

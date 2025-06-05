@@ -1,0 +1,31 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16060
+#	31297
+#	47415
+#	71130
+# Disc length: 1138 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=35047005
+DTITLE=Lea Finn - One million songs (single)
+DYEAR=1900
+DGENRE=
+TTITLE0=One million songs (single edit)
+TTITLE1=One million songs (video edit)
+TTITLE2=One million songs (album version)
+TTITLE3=Find you
+TTITLE4=One million songs (ac version)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

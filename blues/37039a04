@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18695
+#	36630
+#	48635
+#
+# Disc length: 924 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=37039a04
+DTITLE=Procol Harum - Greatest Hits EP
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=A whiter shade of pale
+TTITLE1=Homburg
+TTITLE2=Conquistador
+TTITLE3=A salty dog
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

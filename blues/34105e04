@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	25127
+#	127042
+#	280342
+#
+# Disc length: 4192 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=34105e04
+DTITLE=The Allman Brothers Band - The Fillmore Concerts - Disc 2
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=Hot 'lanta
+TTITLE1=Whipping Post
+TTITLE2=Mountain Jam
+TTITLE3=Drunken Hearted Boy
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

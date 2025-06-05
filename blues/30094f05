@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	30625
+#	59712
+#	83267
+#	128287
+#
+# Disc length: 2385 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=30094f05
+DTITLE=Sonny Rollins - Saxophone Colossus
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=St. Thomas
+TTITLE1=You Don't Know What Love Is
+TTITLE2=Strode Rode
+TTITLE3=Moritat
+TTITLE4=Blue 7
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

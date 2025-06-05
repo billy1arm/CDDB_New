@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26595
+#	59609
+#	91081
+#	138858
+#
+# Disc length: 2342 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=39092405
+DTITLE=George Benson - Space
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Hold On I'm Coming
+TTITLE1=Summertime
+TTITLE2=Sky Dive
+TTITLE3=Gone
+TTITLE4=Octane
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

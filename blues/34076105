@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25742
+#	51370
+#	75722
+#	102185
+#
+# Disc length: 1891 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=34076105
+DTITLE=Chivo Borraro - El Nuevo Sonido Del
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=01 Charlie's Blues
+TTITLE1=02 La Paz
+TTITLE2=03 Half And Half
+TTITLE3=04 Summertime
+TTITLE4=05 Polka Dots And Moonbeams
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

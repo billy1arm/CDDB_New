@@ -1,0 +1,31 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	200
+#	20175
+#	47107
+#	93755
+#	102915
+# Disc length: 1603 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=38064105
+DTITLE=Gary Moore - Cold Day In Hell
+DYEAR=1900
+DGENRE=
+TTITLE0=Cold Day In Hell
+TTITLE1=All Time Low
+TTITLE2=Stormy Monday (Live featuring Albert King)
+TTITLE3=Key To Love
+TTITLE4=Woke Up This Morning
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

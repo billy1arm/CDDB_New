@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24361
+#	47179
+#	77996
+#	100989
+#
+# Disc length: 1804 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=37070a05
+DTITLE=Phil Woods - Cool Jazz Collection Vol.35
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Woodlore
+TTITLE1=On a Slow Boat to China
+TTITLE2=A Night at St.Nicks
+TTITLE3=In Walked George
+TTITLE4=Scrapple from the Apple
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22125
+#	39457
+#	59760
+#
+# Disc length: 1093 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=35044304
+DTITLE=奥 華子 - vol.1
+DYEAR=2003
+DGENRE=JPop
+TTITLE0=雲よりも遠く
+TTITLE1=鳥と雲と青
+TTITLE2=虹色の目
+TTITLE3=そんな気がした
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14425
+#	28197
+#	53997
+#	76872
+#
+# Disc length: 1298 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=35051005
+DTITLE=Golden Shower - Rumpelstilzchen
+DYEAR=1995
+DGENRE=New Age
+TTITLE0=Rumpelstilzchen (Radio Version)
+TTITLE1=Rumpelstilzchen (Hurry Up Version)
+TTITLE2=Rumpelstilzchen (Real Micky Mix)
+TTITLE3=Rumpelstilzchen (Extended Radio mix)
+TTITLE4=Rumpelstilzchen (Jane's Mix)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=
