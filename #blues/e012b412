@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15284
+#	37753
+#	53265
+#	66633
+#	87104
+#	98901
+#	110281
+#	125310
+#	143963
+#	160195
+#	175909
+#	194250
+#	207800
+#	225186
+#	255742
+#	273649
+#	301868
+#
+# Disc length: 4790 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=e012b412
+DTITLE=Eric Clapton - Me and Mr Johnson
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=When You Got A Good Friend
+TTITLE1=Little Queen Of Spades
+TTITLE2=They're Red Hot
+TTITLE3=Me And The Devil Blues
+TTITLE4=Traveling Riverside Blues
+TTITLE5=Last Fair Deal Gone Down
+TTITLE6=Stop Breakin' Down Blues
+TTITLE7=Milkcow's Calf Blues
+TTITLE8=Kind Hearted Woman Blues
+TTITLE9=Come On In My Kitchen
+TTITLE10=If I Had Possession Over Judgement Day
+TTITLE11=Love In Vain
+TTITLE12=32-20 Blues
+TTITLE13=Hell Hound On My Trail (Song By Robert Johnson)
+TTITLE14=Steady Rollin' Man
+TTITLE15=Alberta, Alberta
+TTITLE16=Further Up The Road
+TTITLE17=Stormy Monday Blues
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

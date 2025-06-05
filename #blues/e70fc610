@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23803
+#	40216
+#	60018
+#	77846
+#	96413
+#	117651
+#	133621
+#	148027
+#	167200
+#	185020
+#	206761
+#	230316
+#	246114
+#	269362
+#	286835
+#
+# Disc length: 4040 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=e70fc610
+DTITLE=Ani Gosch liest Karl May - Winnetou II
+DYEAR=2006
+DGENRE=Hörbuch Karl May
+TTITLE0=5.Kapitel - 11
+TTITLE1=5.Kapitel - 12
+TTITLE2=5.Kapitel - 13
+TTITLE3=5.Kapitel - 14
+TTITLE4=5.Kapitel - 15
+TTITLE5=5.Kapitel - 16
+TTITLE6=5.Kapitel - 17
+TTITLE7=5.Kapitel - 18
+TTITLE8=5.Kapitel - 19
+TTITLE9=5.Kapitel - 20
+TTITLE10=5.Kapitel - 21
+TTITLE11=5.Kapitel - 22
+TTITLE12=5.Kapitel - 23
+TTITLE13=6.Kapitel - 01
+TTITLE14=6.Kapitel - 02
+TTITLE15=6.Kapitel - 03
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

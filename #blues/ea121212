@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16503
+#	30723
+#	45154
+#	63913
+#	94686
+#	105926
+#	121133
+#	138660
+#	158048
+#	184293
+#	208892
+#	234159
+#	247675
+#	260562
+#	285447
+#	298360
+#	308099
+#
+# Disc length: 4628 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ea121212
+DTITLE=Nina Simone - Simply CD1
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=My Baby Just Cares For Me
+TTITLE1=He's Got The Whole World In His Hands
+TTITLE2=Don't Smoke In Bed
+TTITLE3=I Love You, Porgy
+TTITLE4=Central Park Blues
+TTITLE5=He Needs Me
+TTITLE6=Love Me Or  Leave Me
+TTITLE7=Plain Gold Ring
+TTITLE8=Little Girl Blue
+TTITLE9=You Can Have Him (live)
+TTITLE10=Return Home (live)
+TTITLE11=Summertime (live)
+TTITLE12=The Other Woman
+TTITLE13=Children, Go Where I SendYou
+TTITLE14=Under The Lowest (live)
+TTITLE15=Cotton Eyed Joe
+TTITLE16=Stompin' At TheSavoy
+TTITLE17=Fine And Mellow (live)
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

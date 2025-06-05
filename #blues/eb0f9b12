@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	21345
+#	32067
+#	45570
+#	61642
+#	78705
+#	98685
+#	118047
+#	131400
+#	151337
+#	165212
+#	177082
+#	192395
+#	205432
+#	229337
+#	246595
+#	267167
+#	286437
+#
+# Disc length: 4051 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=eb0f9b12,f80fc712
+DTITLE=Rolling Stones - Exile On Main Street
+DYEAR=1900
+DGENRE=
+TTITLE0=Rocks Off
+TTITLE1=Rip This Joint
+TTITLE2=Shake Your Hips
+TTITLE3=Casino Boogie
+TTITLE4=Tumbling Dice
+TTITLE5=Sweet Virginia
+TTITLE6=Torn And Frayed
+TTITLE7=Sweet Black Angel
+TTITLE8=Loving Cup
+TTITLE9=Happy
+TTITLE10=Turd On The Run
+TTITLE11=Ventilator Blues
+TTITLE12=I Just Want To See His Face
+TTITLE13=Let It Loose
+TTITLE14=All Down The Line
+TTITLE15=Stop Breaking Down
+TTITLE16=Shine A Light
+TTITLE17=Soul Survivor
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20897
+#	38134
+#	60552
+#	89093
+#	110286
+#	128254
+#	154997
+#	184879
+#	201881
+#	219338
+#	237434
+#	259579
+#	275277
+#	293220
+#	319861
+#
+# Disc length: 4507 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=e9119910
+DTITLE=Various Artist - famous 4
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=charlie hunter feat. norah jones - day is done
+TTITLE1=cassandra wilson - show me a love
+TTITLE2=viktoria tolstoy - the saga of harrison crabfeathers
+TTITLE3=dianne reeves - what a little moonlight can do
+TTITLE4=rigmor gustafsson - it's been so long
+TTITLE5=kitty hoff - weiﬂt du noch
+TTITLE6=tok tok tok - when i'm grown
+TTITLE7=caecilie norby - tea in sahara
+TTITLE8=molly johnson - melody
+TTITLE9=keri noble - let it rain
+TTITLE10=rachelle ferrell - run to me
+TTITLE11=z star - lonely
+TTITLE12=renee olstead - a love that will last (album version)
+TTITLE13=holly cole - make it go away
+TTITLE14=angela mccluskey - don't explain
+TTITLE15=nina simone - (i loves you) porgy
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

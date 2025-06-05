@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17529
+#     37763
+#     66923
+#     80073
+#     99613
+#     119584
+#     134470
+#     152306
+#     170561
+#     193068
+#     214588
+#     232286
+#     249677
+#     270423
+#     286454
+# 
+# Disc length: 3980 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=e50f8a10
+DTITLE=Bruce Springsteen - Best Ballads
+DYEAR=1900
+DGENRE=
+TTITLE0=Streets Of Philadelphia
+TTITLE1=My Hometown
+TTITLE2=Human Touch
+TTITLE3=If I Should Fall Behind
+TTITLE4=The Ghost Of Tom Joad
+TTITLE5=Darkness On The Edge Of Town
+TTITLE6=Hungry Heart
+TTITLE7=Atlantic City
+TTITLE8=Streets Of Fire
+TTITLE9=The River
+TTITLE10=I Wish I Were Blind
+TTITLE11=My Beautiful Reward
+TTITLE12=Youngstown
+TTITLE13=Soul Driver
+TTITLE14=Downbound Train
+TTITLE15=Dead Man Walkin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

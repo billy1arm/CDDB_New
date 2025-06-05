@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11207
+#	27108
+#	37720
+#	64000
+#	82699
+#	100595
+#	112923
+#	132988
+#	148109
+#	165609
+#	182289
+#	196922
+#	213229
+#	223601
+#	252112
+#	270853
+#	292707
+#	305474
+#
+# Disc length: 4239 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ec108d13
+DTITLE=Paolo Conte - The Best of Paolo Conte
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Via Con Me
+TTITLE1=Sotto Le Stelle Del Jazz
+TTITLE2=Elisir
+TTITLE3=Boogie
+TTITLE4=Sparring Partner
+TTITLE5=Come Di
+TTITLE6=Azzurro
+TTITLE7=Gelato Al Limon
+TTITLE8=Happy Feet
+TTITLE9=Gli Impermeabili
+TTITLE10=Max
+TTITLE11=Gong-Oh
+TTITLE12=Colleghi Trascurati
+TTITLE13=Bartali
+TTITLE14=Alle Prese Con Una Verde Milonga
+TTITLE15=Dragon
+TTITLE16=Hemingway
+TTITLE17=Ho Ballato Di Tutto
+TTITLE18=Genova Per Noi
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

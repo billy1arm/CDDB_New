@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25490
+#	42722
+#	59235
+#	78997
+#	99462
+#	118107
+#	137045
+#	158877
+#	177795
+#	199290
+#	216305
+#	232530
+#	247672
+#	265797
+#	289835
+#
+# Disc length: 4264 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=e710a610
+DTITLE=Various Artist - Now - That's What I Call Music! 2
+DYEAR=1996
+DGENRE=Top Hits
+TTITLE0=Queen - Heaven For Everyone
+TTITLE1=YAKI-DA - I Saw You Dancing
+TTITLE2=Ace of Base - Beautiful Life
+TTITLE3=Bon Jovi - This Ain't A Love Song
+TTITLE4=Cranberries - Ode To My Family
+TTITLE5=Shaggy - Boombastic
+TTITLE6=Roxette - June Afternoon
+TTITLE7=Bryan Adams - Have You Ever Really Loved A Woman
+TTITLE8=Michael Learns To Rock - That's Why (You Go Away)
+TTITLE9=Tine Turner - Goldeneye
+TTITLE10=Boyzone - Coming Home Now
+TTITLE11=Janet Jackson - Runaway
+TTITLE12=Boyz II Men - Water Runs Dry
+TTITLE13=Portrait - How Deep Is Your Love
+TTITLE14=Joan Osborne - One Of us
+TTITLE15=Meatloaf - I'd Lie For You (And That's The Truth)
+EXTD=YEAR: 1996
+EXTT0=queen
+EXTT1=Yaki-da
+EXTT2=Ace of base
+EXTT3=Bon Jovi
+EXTT4=Cranberries
+EXTT5=Shaggy
+EXTT6=Roxette
+EXTT7=Bryan Adams
+EXTT8=Michael Learns to Rock
+EXTT9=Tina Turner
+EXTT10=Boyzone
+EXTT11=Janet Jackson
+EXTT12=Boyz II Men
+EXTT13=Portrait
+EXTT14=Joan Osborne
+EXTT15=Meatloaf
+PLAYORDER=

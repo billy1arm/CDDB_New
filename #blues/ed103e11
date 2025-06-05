@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16197
+#	37797
+#	55416
+#	70764
+#	85638
+#	109055
+#	127210
+#	136035
+#	157816
+#	177744
+#	198626
+#	214095
+#	231200
+#	245348
+#	267902
+#	297160
+#
+# Disc length: 4160 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ed103e11
+DTITLE=Maurane - OLYMPIA  AOUT 1993 CONCERT INTEGRAL Disque1
+DYEAR=2016
+DGENRE=Blues
+TTITLE0=Boum
+TTITLE1=Imagination
+TTITLE2=Tu es parti
+TTITLE3=Les maladies psychosomatiques des chanteuses
+TTITLE4=Danser
+TTITLE5=Pas gaie la pagaille
+TTITLE6=Les femmes en dessous les hommes en pardessus
+TTITLE7=Les taupes (introduction)
+TTITLE8=Chanson pour les taupes
+TTITLE9=Balancer
+TTITLE10=Alfsonsina y el mal
+TTITLE11=Ami ou ennemi
+TTITLE12=Tout pour un seul homme
+TTITLE13=La pomplainte mode d'emploi
+TTITLE14=La pomplainte due canapompe
+TTITLE15=Narcisse Blues (TITLE INEDIT)
+TTITLE16=Le boogie due ragout
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

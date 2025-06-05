@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	10330
+#	23563
+#	34948
+#	59248
+#	72510
+#	85945
+#	96560
+#	111243
+#	122765
+#	134738
+#	149330
+#	158103
+#	169698
+#	181875
+#	195080
+#
+# Disc length: 2749 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=e60abb10
+DTITLE=Various Artist - East Coast Blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=So Many Days - Ralph Willis
+TTITLE1=That Gal's No Good - Ralph Willis
+TTITLE2=Foolin' Me - Doug Quattlebaum
+TTITLE3=Don't Be Funny Baby - Doug Quattlebaum
+TTITLE4=Goin' To Chattanooga - Ralph Willis
+TTITLE5=New Goin' Down Slow - Ralph Willis
+TTITLE6=Number Writer - Dan Pickett
+TTITLE7=Laughing Blues - Dan Pickett
+TTITLE8=Somebody Changed The Lock - Tarheel Slim
+TTITLE9=You're A Little Too Slow - Tarheel Slim
+TTITLE10=Driving That Thing - Dan PIckett
+TTITLE11=I Can Shack It - Dan Pickett
+TTITLE12=Steel Mill Blues - Ralph Willis
+TTITLE13=I Will Never Love Again - Ralph Willis
+TTITLE14=No Love Blues - Sonny Terry
+TTITLE15=Lizzy Lou - Doug Quattlebaum
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

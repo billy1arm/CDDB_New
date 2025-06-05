@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18200
+#	32467
+#	43432
+#	59825
+#	78285
+#	95485
+#	112700
+#	127722
+#	131070
+#	145797
+#	164580
+#	181155
+#	196727
+#	211502
+#	234647
+#	249662
+#	270105
+#
+# Disc length: 3782 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=e70ec412
+DTITLE=Devonsquare - Compilation CD Devon/Night Sail
+DYEAR=1900
+DGENRE=
+TTITLE0=Donner Pass
+TTITLE1=Blue On The Water
+TTITLE2=Cold Love
+TTITLE3=Face In The Mirror
+TTITLE4=Because I Never Held You
+TTITLE5=The Winner
+TTITLE6=Radio Romance
+TTITLE7=Alibis
+TTITLE8=The Road Not Taken
+TTITLE9=Night Sail
+TTITLE10=Velvet Elvis
+TTITLE11=Is It Over
+TTITLE12=Take My Love Away
+TTITLE13=I Don't Know Why
+TTITLE14=Joan Of Arc
+TTITLE15=Hollywood
+TTITLE16=Can't Take Your Saturday Nights
+TTITLE17=Here We Go Again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

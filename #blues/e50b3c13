@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	750
+#	9540
+#	13014
+#	25703
+#	37001
+#	40520
+#	51183
+#	68015
+#	78461
+#	97517
+#	108317
+#	121743
+#	126231
+#	139423
+#	153513
+#	164325
+#	181216
+#	187555
+#	203775
+#
+# Disc length: 2886 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=e50b3c13
+DTITLE=Haindling - Vivaldi and Vier Jahreszeiten
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Vivaldi Frühlingsthema 1
+TTITLE1=Vivaldi Frühlingsthema 2
+TTITLE2=Haindling Frühlingsthema
+TTITLE3=Vivaldi Frühlingsthema 3
+TTITLE4=Vivaldi Frühlingsthema 4
+TTITLE5=Vivaldi Sommerthema 1
+TTITLE6=Haindling Sommerthema 1
+TTITLE7=Vivaldi Sommerthema 2
+TTITLE8=Haindling Sommerthema 2
+TTITLE9=Vivaldi Sommerthema 3
+TTITLE10=Vivaldi Herbstthema 1
+TTITLE11=Vivaldi Herbstthema 2
+TTITLE12=Haindling Herbstthema 1
+TTITLE13=Haindling Herbstthema 2
+TTITLE14=Vivaldi Winterthema 1
+TTITLE15=Haindling Winterthema 1
+TTITLE16=Vivaldi Winterthema 2
+TTITLE17=Haindling Winterthema 2
+TTITLE18=Vivaldi Winterthema 3
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

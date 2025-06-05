@@ -1,0 +1,69 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14117
+#	26615
+#	37115
+#	52545
+#	64197
+#	82392
+#	98337
+#	114102
+#	129437
+#	145705
+#	166800
+#	183532
+#	196847
+#	216087
+#	233925
+#	251680
+#
+# Disc length: 3545 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=e30dd711
+DTITLE=Louis Armstrong - Selection of (1/2)
+DYEAR=1900
+DGENRE=
+TTITLE0=C'est si bon
+TTITLE1=Ramona
+TTITLE2=What a wonderfull world
+TTITLE3=La vie en rose
+TTITLE4=Hello Dolly!
+TTITLE5=Cabaret
+TTITLE6=When the saints go marchin' in
+TTITLE7=Mack the knife
+TTITLE8=Blueberry hill
+TTITLE9=New Orleans function
+TTITLE10=Black and blue
+TTITLE11=Muskrat ramble
+TTITLE12=That's my desire
+TTITLE13=West end blues
+TTITLE14=Mahogany hall stomp
+TTITLE15=Indiana
+TTITLE16=Only You
+EXTD=Selection of LOUIS ARMSTRONG \nDCD-701\nDE LUXE\nR 1996 by PROMO SO
+EXTD=UND AG
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

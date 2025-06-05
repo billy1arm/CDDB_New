@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10460
+#	31467
+#	52849
+#	65679
+#	117726
+#	131102
+#	149018
+#	190870
+#	201210
+#	213504
+#	235294
+#	248759
+#	299184
+#
+# Disc length: 4216 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ea10760e
+DTITLE=Various Artist - Mélodies sur des Poèmes de Victor Hugo  (Cécile Eloir, mezzo-contralto - Cyprien Katsaris, piano)
+DYEAR=1999
+DGENRE=Mélodies
+TTITLE0=Camille Saint-Saëns - L'attente  (Les Orientales)
+TTITLE1=Camille Saint-Saëns - Rêveries  (Les voix intérieures)
+TTITLE2=Camille Saint-Saëns - La Cloche  (Les Chants du Crépuscule)
+TTITLE3=Camille Saint-Saëns - Chant de ceux qui s'en vont sur mer  (Les Contemplations)
+TTITLE4=Camille Saint-Saëns - La Fiancée du Timbalier  (Odes et Ballades)
+TTITLE5=Édouard Lalo - Puisqu' ici-bas toute âme  (Les voix intérieures)
+TTITLE6=Édouard Lalo - Oh! Quand je dors  (Les Rayons et les Ombres)
+TTITLE7=Hector Berlioz - La Captive  (Les Orientales)
+TTITLE8=Franz Liszt - Comment, disaient-ils... (Les Rayons et les Ombres)
+TTITLE9=Franz Liszt - S'il est un charmant gazon  (Les Chants du Crépuscule)
+TTITLE10=Franz Liszt - Oh! Quand je dors  (Les Rayons et les Ombres)
+TTITLE11=Franz Liszt - Enfant, si j'étais roi  (Les Feuilles d'Automne)
+TTITLE12=Louis Vierne - Les Djinns  (Les Orientales)
+TTITLE13=Jules Massenet - Soleil Couchant  (Les Feuilles d'Automne)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

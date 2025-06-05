@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11135
+#     24318
+#     35000
+#     56730
+#     71915
+#     87303
+#     100625
+#     112898
+#     125765
+#     136870
+#     149583
+#     166115
+#     177445
+#     187365
+#     199955
+# 
+# Disc length: 2831 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=ee0b0d10
+DTITLE=The Meters - Fundamentally Funky
+DYEAR=1900
+DGENRE=
+TTITLE0=Sehorn's Farm
+TTITLE1=Sing A Simple Song
+TTITLE2=6V6 LA
+TTITLE3=Good Old Funky Music
+TTITLE4=I'm Gonna Put Some Hurt On You
+TTITLE5=Keep On Marching
+TTITLE6=Pungee
+TTITLE7=Yeah You're Right
+TTITLE8=Darling, Darling, Darling
+TTITLE9=He Bit Me
+TTITLE10=What More Can I Do
+TTITLE11=Heartache
+TTITLE12=Art
+TTITLE13=Jooq
+TTITLE14=Same Old Thing
+TTITLE15=Jambalaya
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

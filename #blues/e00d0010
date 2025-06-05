@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	16667
+#	38087
+#	53782
+#	67757
+#	82477
+#	96160
+#	110845
+#	131232
+#	147322
+#	160657
+#	172707
+#	184757
+#	205282
+#	219717
+#	234552
+#
+# Disc length: 3330 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=e00d0010
+DTITLE=jazz originals - vol1
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=louis armstrong-muskrat ramble
+TTITLE1=count basie-lil' darling
+TTITLE2=benny goodman-jumpin at the woodside
+TTITLE3=scott joplin-the entertainer
+TTITLE4=django reinhardt-nuages
+TTITLE5=duke ellington-mood indigo
+TTITLE6=lionel hampton-hamp's boogie woogieno1
+TTITLE7=modern jazz quartet-bluesology
+TTITLE8=glenn miller-in the mood
+TTITLE9=thelonius monk-straight to chaser
+TTITLE10=charlie parker-yardbird suite
+TTITLE11=ray anthony-dinah
+TTITLE12=stan kenton-the peanuts vender
+TTITLE13=les brown-harlem notturno
+TTITLE14=woody herman-four brothers
+TTITLE15=oscar peterson-all of me
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

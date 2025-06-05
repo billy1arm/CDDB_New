@@ -1,0 +1,64 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14978
+#	32535
+#	42235
+#	55633
+#	71048
+#	114303
+#	128550
+#	144723
+#	156535
+#	169933
+#	181285
+#	194593
+#	204715
+#	215043
+#
+# Disc length: 3097 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=e80c170f
+DTITLE=Various Artist - From Spirituals to Swing - Carnegie Hall Concerts 1
+DTITLE=938/39  vol 02
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Stompin' at the Savoy - Benny Goodman Sextet
+TTITLE1=Honeysuckle Rose - Benny Goodman Sextet
+TTITLE2=Gospel Train (Trad.) - Golden Gate Quartet
+TTITLE3=I'm on my Way (Trad.) - Golden Gate Quartet
+TTITLE4=Four day Creep - Ida Cox, vocal - James P. Johnson, piano - Clayton - W
+TTITLE4=ells - Young - Jones - Green - Page
+TTITLE5=Oh Lady Be Good - Jam Session
+TTITLE6=Mountain Blues - Sonny Terry
+TTITLE7=The New John Henry - Sonny Terry - Bull City Red
+TTITLE8=It's all Right Baby - Joe Turner, vocal - Pete Johnson, piano
+TTITLE9=Cavalcade of Boogie - Lewis - Ammons - Page - Jones
+TTITLE10=Done Got Wise - Broonzy - Ammons - Page - Jones
+TTITLE11=Louise, Louise - Broonzy - Ammons - Page - Jones
+TTITLE12=What More Can My Jesus Do - Mitchell's Christian Singers
+TTITLE13=My Poor Mother Died A'shoutin' - Mitchell-s Christian Singers
+TTITLE14=Paging the Devil - Kansas City Six
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

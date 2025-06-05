@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16005
+#     29412
+#     45412
+#     58172
+#     70572
+#     81982
+#     98967
+#     115285
+#     133462
+#     147195
+#     165665
+#     179195
+#     195622
+#     212270
+#     224365
+# 
+# Disc length: 3187 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=ea0c7110
+DTITLE=Various Artist - Limpa Banco - Vol.2
+DYEAR=1900
+DGENRE=
+TTITLE0=Ao Som De Um Gaita o
+TTITLE1=Gaita o Canto Do Povo
+TTITLE2=Enchendo Ling i a
+TTITLE3=Bailanta Da Polaca
+TTITLE4=Fandango Taquit 
+TTITLE5=Fandango Das Querendonas
+TTITLE6=Domingueiro
+TTITLE7=Fim De Semana Tem Rodeio
+TTITLE8=Fandango De CTG
+TTITLE9=Mexe Que Remexe
+TTITLE10=Salta Para Fora
+TTITLE11=Charla De Galp o
+TTITLE12=Pendenga De Galo
+TTITLE13=Vem Chegando O Gaiteiro
+TTITLE14=Morena Da Bailanta
+TTITLE15=Surungando
+EXTD=
+EXTT0=Tch  Barbaridade\n(Marcelo Noms - Marcos Noms)
+EXTT1=Os Mirins\n(Albino Manique - Valderez Peixoto)
+EXTT2=Grupo Cheiro De Galp o\n(Jos  J. S. Da Silva - Luiz Marenco)
+EXTT3=Grupo Estampa\n(Carlos Moacir - Reuni Rohr - Jo o A. Dos Santos)
+EXTT4=Tch  Guri\nF. Vargas - L. Vargas - A. Vargas - M. Nunes)
+EXTT5=Grupo Invernada\n(Ant nio Shmekel Gauch o)
+EXTT6=Os Nativos\n(Luis Bastos - Rodrigo Bauer)
+EXTT7=Os Campeiros\n(Luiz Cl udio Dos Santos - Osni Dos Santos)
+EXTT8=Som Campeiro\n(Beto Caetano - Gen sio Sim o - Cleber Le o)
+EXTT9=Grupo Bailanta\n(Luiz G. Padilha Godinho)
+EXTT10=Grupo Legendas\n(Ari Pinheiro - Alvaro Feligiani - Nilton Ferreira)
+EXTT11=Quero'Quero\n(S rgio Tarouco - Nelcy Vargas]\n
+EXTT12=Jos  Ara jo\n(Tio Nanato - Jos  Ara jo - Z zinho)
+EXTT13=Grupo Candeeiro\n(Amaro Peres)
+EXTT14=Os Milongueiros\n(Leonir)
+EXTT15=Os Chirip s\n(Airton Cabral - Paulo Ant nio Soares]\n(
+PLAYORDER=

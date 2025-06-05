@@ -1,0 +1,71 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14480
+#	29363
+#	43000
+#	54875
+#	65951
+#	76485
+#	90184
+#	102458
+#	116524
+#	129747
+#	143239
+#	157099
+#	175023
+#	196648
+#	212050
+#	227328
+#	240647
+#
+# Disc length: 3331 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=ee0d0112
+DTITLE=Various Artist - The Blues Box Disc 3
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=T-Bone Walker - Cold cold feeling
+TTITLE1=Lightnin' Hopkins - Mojo hand
+TTITLE2=Big Memphis Marainey - Call me anything but call me
+TTITLE3=Joe Hill Louis - We all gotta go sometime
+TTITLE4=Lightnin' Slim - Bad luck blues
+TTITLE5=Jimmy Reed - Ain't that loving you baby
+TTITLE6=Big Joe Turner and his Fly Cats - Piney brown blues
+TTITLE7=Sonny Boy Williamson with Joshua Altheimer and Fred Williams - New early
+TTITLE7=in the morning
+TTITLE8=Jimmy Read - You don't have to go
+TTITLE9=Muddy Waters - Blow wind blow
+TTITLE10=Jimmy and Walter - Easy
+TTITLE11=Elmore James - It hurts me too
+TTITLE12=Brownie McGhee and Sonny Terry - Livin' with the blues
+TTITLE13=Lightnin' Hopkins - Grandma told grandpa
+TTITLE14=Sonny Terry - Telephone blues
+TTITLE15=John Lee Hooker - Tupelo (live)
+TTITLE16=Howlin' Wolf - California blues
+TTITLE17=Memphis Slim - Sassy Mae
+EXTD=ID3G:   0 YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

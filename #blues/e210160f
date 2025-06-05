@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	12383
+#	30520
+#	54858
+#	80845
+#	102483
+#	118180
+#	145255
+#	162995
+#	183795
+#	197133
+#	237183
+#	246633
+#	262478
+#	284558
+#
+# Disc length: 4120 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=e210160f
+DTITLE=Various Artist - New Age and New Sounds Vol. 65 - Velvet
+DYEAR=1997
+DGENRE=New Age
+TTITLE0=Capercaille - Breisleach
+TTITLE1=Munray Munro - Panoramic
+TTITLE2=The Robert Fripp String Quintet - Hope
+TTITLE3=Ken Navarro - Stand Your Ground
+TTITLE4=Bill Evans - If Only In Your Dreams
+TTITLE5=Christopher Franke - When The Sun Loves Trees
+TTITLE6=Attilio Casati - Events
+TTITLE7=Blue People - Mercy Mercy Me
+TTITLE8=Colour Club - Save A Little Love
+TTITLE9=Steven John - Rites Of Passage
+TTITLE10=Suzanne Ciani - History Of My Heart
+TTITLE11=Kreidler - If
+TTITLE12=Rick and Adam Wakeman - Simply Acoustic
+TTITLE13=Bruce Becvar - Shaktipat
+TTITLE14=Peter Kater and R. Carlos Nakai - Grace
+EXTD=YEAR: 1997
+EXTT0=Capercaille\n
+EXTT1=Murray Munro\n
+EXTT2=The Robert Fripp String Quintet\n
+EXTT3=Ken Navarro\n
+EXTT4=Bill Evans\n
+EXTT5=Christopher Franke\n
+EXTT6=Attilio Casati\n
+EXTT7=Blue People\n
+EXTT8=Colour Club\n
+EXTT9=Staven John\n
+EXTT10=Suzanne Ciani\n
+EXTT11=Kreidler\n
+EXTT12=Rick and Adam Wakeman\n
+EXTT13=Bruce Becvar\n
+EXTT14=Peter Kater and R. Carlos Nakai\n
+PLAYORDER=

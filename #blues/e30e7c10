@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16300
+#     36785
+#     57812
+#     74215
+#     88795
+#     103910
+#     122465
+#     139035
+#     155500
+#     172155
+#     192810
+#     212605
+#     228640
+#     243035
+#     260560
+# 
+# Disc length: 3710 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=e30e7c10
+DTITLE=Diversos - Samba and Pagode Vol. 6
+DYEAR=1900
+DGENRE=
+TTITLE0=Sozinho
+TTITLE1=Teu Charme
+TTITLE2=Absoluta
+TTITLE3=Luz Do Desejo
+TTITLE4=Samba Pras Mo as
+TTITLE5=Maravilhosa
+TTITLE6=Corpo L cido
+TTITLE7=T o S 
+TTITLE8=Ela Sambou, Eu Dancei
+TTITLE9=Valeu Demais
+TTITLE10=Sempre Sou Eu
+TTITLE11=Amor Dos Deuses
+TTITLE12=Meu Cobertor
+TTITLE13=Abre a Porta A 
+TTITLE14=O Amor Da Minha Vida
+TTITLE15=A Idade Do Homem
+EXTD=
+EXTT0=Ra a Negra\n
+EXTT1=Os Morenos\n
+EXTT2=Negritude Jr.\n
+EXTT3=Exaltasamba\n
+EXTT4=Zeca Pagodinho\n
+EXTT5=Preto No Branco\n
+EXTT6=Katinguel \n
+EXTT7=S  Pr  Contrariar\n
+EXTT8=Grupo Ra a\n
+EXTT9=Art Popular\n
+EXTT10=Adriana Ribeiro e Luiz Carlos\n
+EXTT11=Fundo De Quintal\n
+EXTT12=S  Preto Sem Preconceito\n
+EXTT13=Toque De Prima\n
+EXTT14=Neguinho Da Beija-Flor\n
+EXTT15=Jair Rodrigues\n
+PLAYORDER=

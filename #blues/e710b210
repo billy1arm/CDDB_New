@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20212
+#	44937
+#	58515
+#	76622
+#	94072
+#	112605
+#	134402
+#	155452
+#	176162
+#	200165
+#	220012
+#	249412
+#	274277
+#	286460
+#	308560
+#
+# Disc length: 4276 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=e710b210
+DTITLE=Various Artist - Montreux Jazz Festival 1991
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Gerald Albright - Kickin' It
+TTITLE1=Anita Baker - Whatever it Takes
+TTITLE2=George Benson - Basie's Bag
+TTITLE3=Ray Charles - I'll Take Care of You
+TTITLE4=Elvis Costello - The Other Side of Summer
+TTITLE5=Pino Daniele - 'O scarrafone
+TTITLE6=Miles Daivs - Jo-Jo
+TTITLE7=Deee-Lite - Power of Love
+TTITLE8=Al Jarreau - Way to Your Heart
+TTITLE9=Quincy Jones - Listen Up
+TTITLE10=El Diablo - Litfiba
+TTITLE11=Bobby Lyle - Sassy
+TTITLE12=David Sanborn - Monica Jane
+TTITLE13=Texas Tornado - Adios Mexico
+TTITLE14=Keith Washington - Kissing You
+TTITLE15=Kevin Welch - Till See You Again
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

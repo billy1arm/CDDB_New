@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16390
+#	29980
+#	42510
+#	57345
+#	75902
+#	88880
+#	113577
+#	133310
+#	152122
+#	170770
+#	202945
+#	227005
+#	242200
+#	260940
+#	289830
+#
+# Disc length: 4110 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ea100c10
+DTITLE=Various Artist - Essentiellement Jazz
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=01 - Glenn Miller - In the mood
+TTITLE1=02 - louis armstrong - perdido street blues
+TTITLE2=03 - ella fitzgerald - sugar blues
+TTITLE3=04 - django reinhardt - nuages
+TTITLE4=05 - sydney bechet - summertime
+TTITLE5=06 - duke ellington - take the a train
+TTITLE6=07 - charlie parker - how high the moon
+TTITLE7=08 - dizzy gillespie - blue moon
+TTITLE8=09 - nina simone - i love you porgy
+TTITLE9=10 - wayne shorter - second genesis
+TTITLE10=11 - john coltrane - naima
+TTITLE11=12 - thelonious monk - blue monk
+TTITLE12=13 - count basie - i got rythm
+TTITLE13=14 - stephane grappelli - tea for two
+TTITLE14=15 - archie sheep - body and soul
+TTITLE15=16 - bill evans - blue in green
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

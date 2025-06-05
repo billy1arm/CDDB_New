@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	12772
+#	31380
+#	45035
+#	57990
+#	71032
+#	87132
+#	104077
+#	118922
+#	137240
+#	159982
+#	176237
+#	189282
+#	203617
+#	222577
+#	238085
+#	260317
+#
+# Disc length: 3730 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=ef0e9011
+DTITLE=John Mayall and The Bluesbreakers - Cross Country Blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Rock 'N Roll Kitchen
+TTITLE1=Rock It in the Pocket
+TTITLE2=An Eye for an Eye
+TTITLE3=Rise Again
+TTITLE4=Keep on Rollin'
+TTITLE5=The Same Old Blues
+TTITLE6=Black Cat Moan (1981)
+TTITLE7=A Long Long Way (1981)
+TTITLE8=A Long Long Way (1984)
+TTITLE9=High Rollin' Man
+TTITLE10=Lonely Feelings
+TTITLE11=Ridin' on the L&N
+TTITLE12=My Babe
+TTITLE13=Muddy Waters Blues
+TTITLE14=Maggie's Boy
+TTITLE15=Italiano Style
+TTITLE16=Black Cat Moan (1984)
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

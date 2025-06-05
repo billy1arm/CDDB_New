@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	18482
+#	38445
+#	58582
+#	85357
+#	108095
+#	136757
+#	158920
+#	181320
+#	196732
+#	224907
+#	240807
+#	264932
+#	283207
+#	306182
+#	331195
+#	342082
+#
+# Disc length: 4738 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=e4128011
+DTITLE=Pavarotti and Friends - Together for the Children of Bosnia
+DYEAR=1994
+DGENRE=Crossover
+TTITLE0=Per colpa di chi?
+TTITLE1=Serenata rap/Mattinata
+TTITLE2=Can we go higher?
+TTITLE3=Ordinary world
+TTITLE4=Clap clap
+TTITLE5=Miss Sarajavo
+TTITLE6=Cosi celeste
+TTITLE7=Linger
+TTITLE8=Come back to Sorrento
+TTITLE9=Penso positivo
+TTITLE10=Vesti La giubba
+TTITLE11=Heaven can wait
+TTITLE12=Ave Maria
+TTITLE13=One
+TTITLE14=The long black veil
+TTITLE15=Funiculi, funicula
+TTITLE16=Nessum dorma
+EXTD=YEAR: 1994
+EXTT0=Zucchero
+EXTT1=Luciano Pavarotti - Jovanotti
+EXTT2=Nened Back
+EXTT3=Luciano Pavarotti - Simon Le Bon
+EXTT4=Gam Gam
+EXTT5=Brian Eno, Bono and The Edge - Luciano Pavarotti
+EXTT6=Luciano Pavarotti - Zucchero
+EXTT7=Delores O'Riordan - Simon Le Bon
+EXTT8=Lucian Pavarotti - Meat Loaf
+EXTT9=Jovanotti
+EXTT10=Lucian Pavarotti - Michael Bolton
+EXTT11=Meat Loaf
+EXTT12=Luciano Pavarotti - Dolores O'Riordan
+EXTT13=Brian Eno, Bono and The Edge
+EXTT14=The Cheiftans
+EXTT15=Luciano Pavarotti - The Chieftans
+EXTT16=Ensemble
+PLAYORDER=

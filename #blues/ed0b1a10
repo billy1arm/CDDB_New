@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	11898
+#	27355
+#	39500
+#	57220
+#	72168
+#	86200
+#	97250
+#	109623
+#	121855
+#	136438
+#	149608
+#	163928
+#	177828
+#	192663
+#	203533
+#
+# Disc length: 2844 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ed0b1a10
+DTITLE=Blue Chicago - Blues Classics Vol. II
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=Sonny Boy Williamson - Bring It On Home
+TTITLE1=Etta James - Money (That's What I Want)
+TTITLE2=Jimmy Witherspoon - Ain't Nobody Bussines
+TTITLE3=Howlin' Wolf - The Red Rooster
+TTITLE4=Willie Dixon - Pain In My Heart
+TTITLE5=Buddy Guy - Going To School
+TTITLE6=Elmore James - Stormy Monday
+TTITLE7=John Brim - Ice Cream Man
+TTITLE8=Muddy Waters - You Need Love
+TTITLE9=Little Milton - Kansas City
+TTITLE10=Billy Stewart - Every Day I Have The Blues
+TTITLE11=Lowel Fusion - Reconsider Baby
+TTITLE12=Jimmy Rogers - Blues Leave Me Alone
+TTITLE13=Etta James - What'd Say
+TTITLE14=Elmore James - Madison Blues
+TTITLE15=Buddy Guy - $100 Bill
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

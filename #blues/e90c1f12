@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11400
+#     22500
+#     35085
+#     47540
+#     60365
+#     74342
+#     90587
+#     100932
+#     113007
+#     126067
+#     137995
+#     151430
+#     168205
+#     183367
+#     194305
+#     204820
+#     217265
+# 
+# Disc length: 3105 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=e90c1f12
+DTITLE=Dinah Washington - In Love
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Fly Me To The Moon
+TTITLE1=You're A Sweetheart
+TTITLE2=Our Love
+TTITLE3=Love Is The Sweetest Thing
+TTITLE4=I'll Close My Eyes
+TTITLE5=I Didn't Know About You
+TTITLE6=If It's The Last Thing I Do
+TTITLE7=Do Nothin' 'Til You Hear From Me
+TTITLE8=My Devotion
+TTITLE9=That's My Desire
+TTITLE10=Was It Like That
+TTITLE11=Me And The One I Love
+TTITLE12=What's New
+TTITLE13=I Used To Love You
+TTITLE14=Somebody Else Is Taking My Place
+TTITLE15=That Old Feeling
+TTITLE16=He's Gone Again
+TTITLE17=These Foolish Things
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

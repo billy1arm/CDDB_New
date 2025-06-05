@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30096
+#	60023
+#	86951
+#	105517
+#	131624
+#	152612
+#	168259
+#	180642
+#	192773
+#	205788
+#	218894
+#	238527
+#	249970
+#	258985
+#	273385
+#	288208
+#	312994
+#
+# Disc length: 4345 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=e710f712
+DTITLE=Kirk, Roland - Out Of The Afternoon - Big Band Bossa Nova
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Moon Ray
+TTITLE1=Fly Me To the Moon (In Other Words)
+TTITLE2=Raoul
+TTITLE3=Snap Crackle
+TTITLE4=If I Should Lose You
+TTITLE5=Long Wharf
+TTITLE6=Some Other Spring
+TTITLE7=Soul Bossa Nova
+TTITLE8=Boogie Stop Shuffle
+TTITLE9=Desafinado
+TTITLE10=Manha De Carnaval
+TTITLE11=Se E Tarde Me Perdda
+TTITLE12=On The Street Where You Life
+TTITLE13=One Note Samba
+TTITLE14=Lalo Bossa Nova
+TTITLE15=Serenata
+TTITLE16=Chega De Saudade
+TTITLE17=A Taste Of Honey
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

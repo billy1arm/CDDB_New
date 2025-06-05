@@ -1,0 +1,66 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+#
+# Track frame offsets:
+#	150
+#	18992
+#	34652
+#	49658
+#	68614
+#	83197
+#	94808
+#	106199
+#	135458
+#	148822
+#	160803
+#	170505
+#	185247
+#	197126
+#	208582
+#	222834
+#
+# Disc length: 3124
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CoolCD_Studio 1.4
+#
+DISCID=e10c3210
+DTITLE=Various Artist - Greatest Voices Of The World - CD 3
+DYEAR=1999
+DGENRE=
+TTITLE0=Bassey Shirley - Thats what friends are for
+TTITLE1=Washington Dinah - Smoke gets in your eyes
+TTITLE2=Sinatra Frank - Blue skies
+TTITLE3=Simone Nina - I loves you Porgy
+TTITLE4=Lopez Trini - Guantanamera
+TTITLE5=Rogers Kenny - Me and Bobby McGhee
+TTITLE6=Lee Hooker John - Boom Boom
+TTITLE7=Charles Ray - What´d i say
+TTITLE8=E King Ben - Spanish harlem
+TTITLE9=King Cole Nat - Love is a many splendoured thing
+TTITLE10=Bennet Tony with the Count Basie Orchestra - Jeepers Creeper
+TTITLE10=s
+TTITLE11=Francis Connie - Raining in my heart
+TTITLE12=Prima Louis and Keely Smith - I've got you under my skin
+TTITLE13=Day Doris - Embraceable you
+TTITLE14=Neville Aaron - Tell it like it is
+TTITLE15=Turner Ike and Tina - Poor fool
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

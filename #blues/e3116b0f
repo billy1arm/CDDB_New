@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24000
+#	43875
+#	67725
+#	92775
+#	110625
+#	140702
+#	156227
+#	182777
+#	194702
+#	221178
+#	239478
+#	258004
+#	276979
+#	302179
+#
+# Disc length: 4461 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=e3116b0f
+DTITLE=Various Artist - Jazz Bar 2005
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Vit Svec Trio - Dreamer
+TTITLE1=Robert Lakatos - Allemande
+TTITLE2=Louis Van Dijk and The Rosenberg Trio - Moonflower
+TTITLE3=Torch - I fall in love too easily
+TTITLE4=Ernst Glerum - Fly Over
+TTITLE5=Franklin-Clover-Seales - Mr. Bojangles
+TTITLE6=Erik Van Derluijt - Havana Blue
+TTITLE7=Sliding Hammers - No More Blues
+TTITLE8=Ingrid Lucia - Kiss of Fire
+TTITLE9=Kenichi Shimazu - Red Sails in the Sunset
+TTITLE10=David Gordon - Bebop Tango
+TTITLE11=The Alain Mion Trio - I remember Jeff
+TTITLE12=The Andrew Read Trio - Sway
+TTITLE13=Hakuei Kim Trio - Offer Refused
+TTITLE14=David Hazeltine - Goodbye
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

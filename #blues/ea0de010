@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     17880
+#     30183
+#     47435
+#     58903
+#     74955
+#     92885
+#     111180
+#     123480
+#     139158
+#     159483
+#     174328
+#     192635
+#     211460
+#     229983
+#     247985
+# 
+# Disc length: 3554 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=ea0de010
+DTITLE=Eric Miller - Easy Listening-Easy Feeling
+DYEAR=1900
+DGENRE=
+TTITLE0=Come In From The Rain
+TTITLE1=Do Re Mi
+TTITLE2=Don't Cry Out Loud
+TTITLE3=Downtown
+TTITLE4=I Wouldn't Have Missed It
+TTITLE5=A Foggy Day
+TTITLE6=My Way
+TTITLE7=Laughter In The Rain
+TTITLE8=Misty
+TTITLE9=Is That All There Is
+TTITLE10=By The Time I Get To Phoenix
+TTITLE11=God Bless The Child
+TTITLE12=I'll Never Smile Again
+TTITLE13=The Promise
+TTITLE14=September Morn
+TTITLE15=Long Ago
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15219
+#	28409
+#	43347
+#	57450
+#	73512
+#	88273
+#	99967
+#	112690
+#	127011
+#	140425
+#	154839
+#	167651
+#	180546
+#	194864
+#	207225
+#
+# Disc length: 2933 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=e30b7310
+DTITLE=Nat King Cole - The Unforgettable
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Nat King Cole - Unforgettable
+TTITLE1=Nat King Cole - Just you, just me
+TTITLE2=Nat King Cole - Mona Lisa
+TTITLE3=Nat King Cole - Ain't misbehaving
+TTITLE4=Nat King Cole - There will never be another you
+TTITLE5=Nat King Cole - Too Young
+TTITLE6=Nat King Cole - A Blossom Fell
+TTITLE7=Nat King Cole - There goes my heart
+TTITLE8=Nat King Cole - Stardust
+TTITLE9=Nat King Cole - Funny
+TTITLE10=Nat King Cole - Sweet Lorraine
+TTITLE11=Nat King Cole - Route 66
+TTITLE12=Nat King Cole - Never let me go
+TTITLE13=Nat King Cole - Red Sails in the Sunset
+TTITLE14=Nat King Cole - Smile
+TTITLE15=Nat King Cole - At Last
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

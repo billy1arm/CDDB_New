@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16170
+#	39154
+#	54667
+#	65388
+#	85309
+#	98190
+#	109147
+#	121193
+#	140043
+#	159167
+#	176206
+#	197038
+#	210104
+#	220698
+#	232689
+#	250858
+#	265619
+#
+# Disc length: 3750 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=e60ea412
+DTITLE=Dominique A - Auguri and extra tracks
+DYEAR=2001
+DGENRE=Chanson
+TTITLE0=Antonia
+TTITLE1=Pour la peau
+TTITLE2=Ses yeux brûlent
+TTITLE3=En secret
+TTITLE4=Evacuez
+TTITLE5=Je t'ai toujours aimée
+TTITLE6=Burano
+TTITLE7=Les chanteurs sont mes amis
+TTITLE8=Où conduit l'escalier
+TTITLE9=Le commerce de l'eau
+TTITLE10=Nous reviendrons
+TTITLE11=Les hommes entre eux
+TTITLE12=Les enfants du Pirée
+TTITLE13=Les terres brunes
+TTITLE14=Hotel Bratthold
+TTITLE15=J'ai tué l'amour
+TTITLE16=Tourisme
+TTITLE17=Oublie
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

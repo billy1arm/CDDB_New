@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13097
+#	28860
+#	53612
+#	75690
+#	103572
+#	118404
+#	140745
+#	158010
+#	179662
+#	201862
+#	220577
+#	242020
+#	267397
+#	284897
+#
+# Disc length: 4011 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=e30fa90f
+DTITLE=Various Artist - The Lost American Bluesmen
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=Pick No Cotton - Sleepy Otis Hunt
+TTITLE1=Living in the Ghetto - Frank Scott
+TTITLE2=American Bluesmen - Frank Scott
+TTITLE3=Honky Tonk - Sleepy Otis Hunt
+TTITLE4=Jumping in Chicago - Jimmie Lee Robinson
+TTITLE5=Love's a Hurting Game - Sleepy Otis Hunt
+TTITLE6=Big Fine Girl - Bill Warren
+TTITLE7=Riding in My New Jaguar - Bill Warren
+TTITLE8=Fat Meat - Willie Hudson
+TTITLE9=Reap What You Sow - Frank Scott
+TTITLE10=I Was Wrong - Jimmie Lee Robinson
+TTITLE11=Cry for Me - Willie Hudson
+TTITLE12=Double Trouble - Frank Scott
+TTITLE13=Black Cat Blues - Bill Warren
+TTITLE14=I'm Gonna Leave Here Running - Sleepy Otis Hunt
+EXTD=YEAR: 1996 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

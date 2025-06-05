@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11960
+#	34665
+#	52843
+#	65894
+#	86294
+#	104357
+#	128009
+#	144039
+#	163038
+#	185267
+#	208492
+#	223678
+#	239092
+#	256721
+#	269107
+#
+# Disc length: 3936 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ec0f5e10
+DTITLE=Best Of The Blues - 50 Favorites
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=B.B. King - Payin' The Cost To Be The Boss
+TTITLE1=Buddy Guy and Junior Wells - Blue Monday
+TTITLE2=Charles Brown - Driftin' Blues
+TTITLE3=Charles Brown - Rockin' Blues
+TTITLE4=Buddy Guy and Junior Wells - Everyday I Have The Blues
+TTITLE5=Lightnin' Hopkins - Bring Me My Shotgun
+TTITLE6=B.B. King - You've Done Lost A Good Thing
+TTITLE7=Memphis Slim - Cow Cow Blues
+TTITLE8=Johnny Otis - Slo Fuse
+TTITLE9=James Cotton Band - Boogie Thang
+TTITLE10=Marvin Gaye - Inner City Blues
+TTITLE11=Pee Wee Crayton - My Baby's On Line
+TTITLE12=B.B. King - Caledonia
+TTITLE13=Richard Berry - Round About MIdnight
+TTITLE14=Amos Milbourne - Trouble In Mind
+TTITLE15=Canned Heat - Dust My Broom
+EXTD=YEAR: 2004
+EXTT0=B.B. King
+EXTT1=Buddy Guy and Junior Wells
+EXTT2=Charles Brown
+EXTT3=Charles Brown
+EXTT4=Buddy Guy and Junior Wells
+EXTT5=Lightnin' Hopkins
+EXTT6=B.B. King
+EXTT7=Memphis Slim
+EXTT8=Johnny Otis
+EXTT9=James Cotton
+EXTT10=Marvin Gaye
+EXTT11=Pee Wee Crayton
+EXTT12=B.B. King
+EXTT13=Richard Berry
+EXTT14=Amos Milbourne
+EXTT15=Canned Heat
+PLAYORDER=

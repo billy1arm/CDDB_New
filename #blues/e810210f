@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26388
+#	49123
+#	79063
+#	98388
+#	116685
+#	139353
+#	155960
+#	176288
+#	196095
+#	215780
+#	230208
+#	246408
+#	269983
+#	292198
+#
+# Disc length: 4131 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,39,0213
+#
+DISCID=e810210f
+DTITLE=B B King - Deuces Wild
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=If You Love Me (Van Morrison)
+TTITLE1=The Thrill Is Gone (Tracy Chapman)
+TTITLE2=Rock Me Baby (Eric Clapton)
+TTITLE3=Please Send Me Someone To Love (Mick Hucknall)
+TTITLE4=Baby I Love You (Bonnie Raitt)
+TTITLE5=Ain't Nobody Home (D'Angelo)
+TTITLE6=Pauly's Birthday Boogie
+TTITLE7=There Must Be A Better World Somewhere (Dr. John)
+TTITLE8=Confessin' The Blues (Marty Stuart)
+TTITLE9=Hummingbird (Dionne Warwick)
+TTITLE10=Bring It Home To Me (Paul Carrack)
+TTITLE11=Paying The Cost To The Boss (Rolling Stones)
+TTITLE12=Let The Good Times Roll (Zucchero)
+TTITLE13=Dangerous Mood (Joe Cocker)
+TTITLE14=Keep It Coming (Heavy D)
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=
