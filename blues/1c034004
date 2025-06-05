@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15010
+#	30948
+#	47913
+#
+# Disc length: 834 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1c034004
+DTITLE=SE7EN - 光
+DYEAR=2005
+DGENRE=Pop
+TTITLE0=光
+TTITLE1=塵星
+TTITLE2=CRAZY
+TTITLE3=光-instrumental-
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

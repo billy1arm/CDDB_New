@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29073
+#	68361
+#
+# Disc length: 1086 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1f043c03
+DTITLE=NAMCO - TECHNO DRIVE PROMOTION DISC
+DYEAR=1998
+DGENRE=Game
+TTITLE0=67668180byte mix
+TTITLE1=92047152byte mix
+TTITLE2=30855940byte mix
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

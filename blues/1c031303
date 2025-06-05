@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19831
+#	39583
+#
+# Disc length: 789 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=1c031303
+DTITLE=goodbye - Spice girls
+DYEAR=2003
+DGENRE=Pop
+TTITLE0=goodbye radio edit
+TTITLE1=christmas wrapping
+TTITLE2=goodbye orchestral version
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

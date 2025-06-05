@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4477
+#	28146
+#	44703
+#	60113
+#	77499
+#	90442
+#	111489
+#	130204
+#	147700
+#	164130
+#	170182
+#	184988
+#	199433
+#	210312
+#	215750
+#	225814
+#	247083
+#	264917
+#
+# Disc length: 3771 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1f0eb913
+DTITLE=Priscilla Hernandez - Ancient Shadows
+DYEAR=2006
+DGENRE=New Age
+TTITLE0=Facing the dream (opening credits)
+TTITLE1=Away
+TTITLE2=Ancient shadow
+TTITLE3=But if you go
+TTITLE4=I steal the leaves
+TTITLE5=The willow's lullaby
+TTITLE6=The call of the nymph
+TTITLE7=Nothing
+TTITLE8=Haunted
+TTITLE9=Nightmare
+TTITLE10=Fairy tale
+TTITLE11=The realms of twilight
+TTITLE12=The voice of the night
+TTITLE13=Lament
+TTITLE14=Ahora que te has ido
+TTITLE15=The prince and the fairy
+TTITLE16=I'm right here
+TTITLE17=Sueño muerto
+TTITLE18=Facing the dream (closing credits)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

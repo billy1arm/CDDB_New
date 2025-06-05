@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25445
+#	48798
+#
+# Disc length: 937 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1c03a703
+DTITLE=Joachim Kuhn - Sel. from the Universal Time sessions-Jazz Magazine
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Meetings
+TTITLE1=Universal Time
+TTITLE2=Melody From The Past
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

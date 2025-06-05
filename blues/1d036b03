@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18562
+#	47625
+#
+# Disc length: 877 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1d036b03
+DTITLE=hitomi - CANDY GIRL
+DYEAR=1995
+DGENRE=JPop
+TTITLE0=CANDY GIRL(ORIGINAL MIX)
+TTITLE1=CANDY GIRL(CLUB MIX)
+TTITLE2=CANDY GIRL(INSTRUMENTAL)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	84644
+#	151454
+#
+# Disc length: 2832 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=1a0b0e03
+DTITLE=Keith Jarrett Jan Garbarek - Live im Funkhaus Hannover 17_04_74
+DYEAR=1974
+DGENRE=Jazz
+TTITLE0=01-Part 1
+TTITLE1=02-Part 2
+TTITLE2=03-Part 3
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

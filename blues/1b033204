@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18144
+#	31176
+#	45178
+#
+# Disc length: 820 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=1b033204
+DTITLE=The Stoors - Polyphomic Painkillers - a magic receipe
+DYEAR=2012
+DGENRE=Blues
+TTITLE0=Jakewalk
+TTITLE1=Crossroads
+TTITLE2=Ramblin
+TTITLE3=Karamellen Boogie
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

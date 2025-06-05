@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 24280
+# 40497
+# 75250
+#
+# Disc length: 1355 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=1f054904
+DTITLE=Bob Dylan - Time Out Of Mind (Sampler)
+DYEAR=1900
+DGENRE=
+TTITLE0=Love Sick
+TTITLE1=Dirt Road Blues
+TTITLE2=Standing In The Doorway
+TTITLE3=Million Miles
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

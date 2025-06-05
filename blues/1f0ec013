@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5548
+#	20649
+#	40939
+#	56325
+#	72873
+#	95734
+#	111985
+#	128575
+#	145902
+#	148156
+#	174330
+#	189545
+#	206637
+#	222741
+#	225324
+#	241337
+#	259986
+#	280825
+#
+# Disc length: 3778 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=1f0ec013
+DTITLE=Pete Gavin - Live and Guilty
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Gawain I
+TTITLE1=Statesboro Blues
+TTITLE2=Fun On The Run
+TTITLE3=Big Boss Man
+TTITLE4=Pater Noster Boogie
+TTITLE5=You Make My Hair Curl
+TTITLE6=Kansas City
+TTITLE7=Hard Times
+TTITLE8=Life After Blues
+TTITLE9=Gawain II
+TTITLE10=Waisting Time Blues
+TTITLE11=San Francisco Bay Blues
+TTITLE12=I'm Your Hoochie Coochie
+TTITLE13=634-5789
+TTITLE14=Gawain III
+TTITLE15=Why Love
+TTITLE16=Make and Shake Boogie
+TTITLE17=Don't Mess With Me
+TTITLE18=Gawain IV
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

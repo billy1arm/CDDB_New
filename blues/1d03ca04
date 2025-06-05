@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17250
+#	38025
+#	53400
+#
+# Disc length: 972 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1d03ca04
+DTITLE=Caroline Loeb - C'est La Ouate
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=C'est La Ouate
+TTITLE1=Deux Doigts de ci, Deux Doigts de ca
+TTITLE2=Le Telefon
+TTITLE3=Mots Croises
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

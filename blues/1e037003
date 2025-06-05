@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18937
+#	41957
+#
+# Disc length: 882 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1e037003
+DTITLE=Iron Maiden - Out Of Silent Planet
+DYEAR=2000
+DGENRE=Heavy Metal
+TTITLE0=Out Of Silent Planet
+TTITLE1=Wasted Years (live)
+TTITLE2=Aces High (live)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

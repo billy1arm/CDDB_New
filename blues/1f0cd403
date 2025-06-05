@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	113080
+#	162548
+#
+# Disc length: 3286 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1f0cd403
+DTITLE=Brötzman Nilssen-Love Yagi - Volda
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Volda I
+TTITLE1=Volda II
+TTITLE2=Volda III
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

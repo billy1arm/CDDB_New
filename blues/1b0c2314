@@ -1,0 +1,77 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	12701
+#	26667
+#	39791
+#	51938
+#	62271
+#	74619
+#	88728
+#	98937
+#	108576
+#	118797
+#	129128
+#	139734
+#	150018
+#	161868
+#	175008
+#	186995
+#	198418
+#	208959
+#	220678
+#
+# Disc length: 3109
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 2.0
+# Normalized: r2:DSETVAR1,TDELIM( - )
+#
+DISCID=1b0c2314
+DTITLE=Various Artist - The Best Of Boogie Woogie - CD 9
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Rocket Boogie - Big Joe Turner
+TTITLE1=Chuck A Boogie - Johnny Griffin
+TTITLE2=Georgia Boogie Woogie - Curley Williams
+TTITLE3=Mississippi Boogie - Jimmy Liggins
+TTITLE4=Lightnin' Boogie - Lightnin' Hopkins
+TTITLE5=Boogie Woogie Baby - Roy Milton
+TTITLE6=Marchin' Boogie - Johnny Griffin
+TTITLE7=Eiffel Tower Boogie - Sam Price
+TTITLE8=Rattlesnakin' Boogie - Madonna Martin
+TTITLE9=Rub A Little Wiht A Boogie - Champion Jack Dupree
+TTITLE10=Professon Longhair's Boogie - Donald Byrd
+TTITLE11=Tatum Pole Boogie - Art Tatum
+TTITLE12=Rock It - Lil Armstrong
+TTITLE13=When I Grew Too Old - Camille Howard
+TTITLE14=On The Fishmarket - Freddie Mitchell
+TTITLE15=Beer Bottle Boogie - Marylin Scott
+TTITLE16=Married Woman's Boogie - Billy Wright
+TTITLE17=Beatin' With Chopsticks - Freddie Slack
+TTITLE18=Bongo Boogie - Lucky Millinder
+TTITLE19=Joogie Boogie - Tab Smith
+EXTD=
+EXTT0=(Turner)
+EXTT1=(Morris)
+EXTT2=(Williams)
+EXTT3=(Liggins)
+EXTT4=(Hopkins)
+EXTT5=(Milton)
+EXTT6=(Morris)
+EXTT7=(Price)
+EXTT8=(Martin)
+EXTT9=(Dupree)
+EXTT10=(Byrd)
+EXTT11=(Tatum)
+EXTT12=(Armstrong)
+EXTT13=(Howard)
+EXTT14=(Mitchell/Newton)
+EXTT15=(Scott)
+EXTT16=(Wright)
+EXTT17=(Slack)
+EXTT18=(Glover/Nix)
+EXTT19=(Smith)
+PLAYORDER=

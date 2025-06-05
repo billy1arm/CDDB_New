@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25125
+#	43500
+#
+# Disc length: 910 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=1a038c03
+DTITLE=L'Arc-en-Ciel - DIVE TO BLUE
+DYEAR=1998
+DGENRE=Rock
+TTITLE0=DIVE TO BLUE
+TTITLE1=Peeping Tom
+TTITLE2=DIVE TO BLUE (hydeless version)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

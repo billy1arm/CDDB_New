@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	24108
+#	60183
+#	84633
+#
+# Disc length: 1254 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1e04e404
+DTITLE=James Brown - Sex Machine
+DYEAR=2005
+DGENRE=Soul
+TTITLE0=Sex Machine (Part1 and 2)
+TTITLE1=Soul Power (Part1)
+TTITLE2=Doing It To Death (Part1)
+TTITLE3=Papa's Got A Brand New Bag (Part1)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

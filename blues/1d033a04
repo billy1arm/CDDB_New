@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17541
+#	31023
+#	45438
+#
+# Disc length: 828 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1d033a04
+DTITLE=Michael Carey - Looking Forward Looking Back
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Lonliness
+TTITLE1=Love on Wheels
+TTITLE2=High Society Woman
+TTITLE3=Looking Forward Looking Back
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

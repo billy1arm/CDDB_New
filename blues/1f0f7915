@@ -1,0 +1,81 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11145
+#	26430
+#	41655
+#	61057
+#	69632
+#	77685
+#	92520
+#	101842
+#	116912
+#	134897
+#	150247
+#	166627
+#	181530
+#	197892
+#	212457
+#	231500
+#	245620
+#	261137
+#	270975
+#	283035
+#
+# Disc length: 3963 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.68 - http://www.feurio.com
+#
+DISCID=1f0f7915
+DTITLE=Various Artist - Living Country Blues CD3 - You Got To Move
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Othar Turner And The Rising Star Fife And Drum Band - Granny, Will 
+TTITLE0=Your Dog Bite
+TTITLE1=James "Son" Thomas - I Laid And Wondered
+TTITLE2=Flora Molton And The Truth Band - I Can´t Stand It
+TTITLE3=Memphis Piano Red - Mr. Freddie Blues
+TTITLE4=Hammie Nixon - Corrine, Corrina
+TTITLE5=Lottie Murrell - Rolling And Tumbling
+TTITLE6=Charlie Sangster - She´s Tailor Made
+TTITLE7=Sam "Stretch" Shields - The Hounds
+TTITLE8=Boyd Rivers - You Got To Move
+TTITLE9=CeDell Davis - Let Me Play With Your Poodle
+TTITLE10=Hammie Nixon - Viola Lee Blues
+TTITLE11=Joe Savage - Joe´s Prison Camp Holler
+TTITLE12=Othar Turner And The Rising Star Fife And Drum Band - When The Saints 
+TTITLE12=Go Marching In
+TTITLE13=Lottie Murrell - Spoonful
+TTITLE14=CeDell Davis - You Got To Do The Boogie Woogie
+TTITLE15=Lottie Murrell - Trouble Late Last Night
+TTITLE16=Cora Fluker - Dry Bones In The Valley
+TTITLE17=Lottie Murrell - I Got A Gal ´Cross The Bottom
+TTITLE18=Hammie Nixon - Soon One Morning
+TTITLE19=Walter Brown - Levee Camp Holler
+TTITLE20=Boyd Rivers - Precious Lord
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+PLAYORDER=

@@ -1,0 +1,77 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	13221
+#	25144
+#	39523
+#	51878
+#	63991
+#	76394
+#	88425
+#	101776
+#	114961
+#	128429
+#	140038
+#	152437
+#	164818
+#	176205
+#	188254
+#	200818
+#	215422
+#	227213
+#	238819
+#
+# Disc length: 3334
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 2.0
+# Normalized: r3:DSETVAR1,TDELIM( - )
+#
+DISCID=1c0d0414
+DTITLE=Various Artist - The Best Of Boogie Woogie - CD 6
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=G R Boogie - Gene Rodgers
+TTITLE1=Sail On - T-bone Walker
+TTITLE2=Boogie For Two Fingers - Lionel Hampton
+TTITLE3=Rock Boogie Woogie - Jim Wynn
+TTITLE4=Bartender Boogie - Jack McVea
+TTITLE5=Dripper's Boogie - Joe Liggins
+TTITLE6=Jump The Boogie Woogie - Luke Jones
+TTITLE7=Frantic Boogie - Jack McVea
+TTITLE8=Hampton's Walking Boogie - Lionel Hampton
+TTITLE9=The Bandbox - Hadda Brooks
+TTITLE10=New Broom Boogie - Al Dexter
+TTITLE11=Chief Boogie - Spade Cooley
+TTITLE12=Frank Bull's Boogie - Jimmy Grissom
+TTITLE13=The Big Three Boogie - The Big Three Trio
+TTITLE14=Oscar Plays The Boogie - Oscar Peterson Trio
+TTITLE15=Blue Book Boogie - Jesse Price
+TTITLE16=Swanee River Boogie - Pete Johnson
+TTITLE17=Hungarian Rhapsody In Boogie - Hadda Brooks
+TTITLE18=Stuff Boogie - Milt Buckner
+TTITLE19=Elevator Boogie - Mabel Scott
+EXTD=
+EXTT0=(Rodgers)
+EXTT1=(Walker)
+EXTT2=(Hampton)
+EXTT3=(Luper)
+EXTT4=(McVea/Mosley)
+EXTT5=(Liggins)
+EXTT6=(Jones)
+EXTT7=(McVea)
+EXTT8=(Hampton)
+EXTT9=(Brooks)
+EXTT10=(Dexter)
+EXTT11=(Cooley)
+EXTT12=(Grissom)
+EXTT13=(Big Three)
+EXTT14=(Peterson)
+EXTT15=(White)
+EXTT16=(Johnson)
+EXTT17=(Brooks)
+EXTT18=(Buckner)
+EXTT19=(Ray)
+PLAYORDER=

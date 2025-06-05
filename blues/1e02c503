@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14087
+#	40787
+#
+# Disc length: 711 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=1e02c503
+DTITLE=Fly Down Blues Band - Stop this mess (EP)
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=A minute at your s(l)ide
+TTITLE1=Baby baby
+TTITLE2=Stop this mess
+EXTD=YEAR: 2002 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

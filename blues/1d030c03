@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20502
+#	41000
+#
+# Disc length: 782 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta4
+#
+DISCID=1d030c03
+DTITLE=B.B. KING - Deuces Wild
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Night Life
+TTITLE1=Confessin' The Blues
+TTITLE2=Keep It Coming
+EXTD=YEAR: 1997 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

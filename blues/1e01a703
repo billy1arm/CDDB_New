@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6300
+#	19494
+#
+# Disc length: 425 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1e01a703
+DTITLE=Hawthorn Football Club - Hawthorn Football Club Song
+DYEAR=1999
+DGENRE=Soundtrack
+TTITLE0=Hawthorn Football Club Song
+TTITLE1=One Day in September - Mike Brady
+TTITLE2=Up there Cazaly - The Two Man Band
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

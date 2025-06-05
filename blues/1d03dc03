@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17721
+#	44427
+#
+# Disc length: 990 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=1d03dc03
+DTITLE=DJ Bailar Project - Baker Street
+DYEAR=2005
+DGENRE=House
+TTITLE0=Baker Street (Radio)
+TTITLE1=Baker Street (Extended)
+TTITLE2=Baker Street (Dub)
+EXTD=ID3G:  35 YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

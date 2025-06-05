@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19712
+#	36950
+#
+# Disc length: 721 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=1b02cf03
+DTITLE=Amika - 世界
+DYEAR=1998
+DGENRE=Vocal
+TTITLE0=世界
+TTITLE1=ビール(Demo)
+TTITLE2=ナンを食べにいく
+EXTD=YEAR: 1998 ID3G: 28
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

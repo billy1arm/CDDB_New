@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24571
+#	48991
+#
+# Disc length: 970 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1c03c803
+DTITLE=i-Re - 自己回帰 Back to yourself
+DYEAR=2002
+DGENRE=Anime
+TTITLE0=01_Back to yourself
+TTITLE1=02_Back to yourself (off vocal version)
+TTITLE2=03_Back to yourself (guitar melody version)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

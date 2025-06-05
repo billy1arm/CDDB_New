@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2010
+#	3055
+#	6570
+#
+# Disc length: 178 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1d00b004
+DTITLE=Tim Rayborn - Rayborn New Age Promos
+DYEAR=2004
+DGENRE=New Age
+TTITLE0=Tim Rayborn - Turkish Song
+TTITLE1=Tim Rayborn - Ars Nova
+TTITLE2=Tim Rayborn - Organum
+TTITLE3=Tim Rayborn - Troubadour Song
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11050
+#	29307
+#
+# Disc length: 666 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=1a029803
+DTITLE=スピッツ - 99ep
+DYEAR=1999
+DGENRE=Rock
+TTITLE0=ハイファイ・ローファイ
+TTITLE1=魚
+TTITLE2=青春生き残りゲーム
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

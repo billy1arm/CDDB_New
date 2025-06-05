@@ -1,0 +1,226 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6359
+#	11849
+#	18039
+#	20962
+#	23518
+#	26201
+#	29062
+#	32243
+#	38252
+#	43328
+#	46436
+#	49116
+#	51533
+#	53733
+#	56591
+#	58911
+#	61856
+#	64366
+#	67406
+#	72391
+#	75523
+#	79138
+#	86097
+#	92694
+#	99116
+#	102411
+#	106778
+#	110693
+#	114176
+#	118444
+#	122358
+#	126473
+#	132643
+#	138146
+#	142587
+#	151298
+#	155224
+#	161118
+#	163903
+#	166976
+#	169905
+#	172519
+#	175263
+#	178892
+#	181760
+#	184321
+#	188368
+#	193339
+#	196834
+#	204949
+#	212724
+#	216657
+#	219760
+#	223183
+#	226990
+#	231605
+#	235475
+#	239333
+#	243820
+#	245538
+#	256811
+#	267500
+#	270740
+#	276669
+#	280058
+#	285547
+#	290274
+#	295491
+#	308308
+#
+# Disc length: 4256 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1f109e46
+DTITLE=Alan Warner - How To Play Electric Blues Guitar
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Introduction
+TTITLE1=Tuning
+TTITLE2=[6] 12-Bar Shuffle
+TTITLE3=[9] Blues Pattern
+TTITLE4=[10] Blues Pattern
+TTITLE5=[11] Blues Pattern
+TTITLE6=[12] Blues Pattern
+TTITLE7=[13] Turnaround
+TTITLE8=[14] Easy Blues Solo: Demo Track
+TTITLE9=[14] Easy Blues Solo: Performance Track
+TTITLE10=[17] G Blues Pattern
+TTITLE11=[18] G Blues Pattern
+TTITLE12=[19] A Blues Pattern
+TTITLE13=[23] Blues Lick
+TTITLE14=[24] Blues Lick
+TTITLE15=[25] Blues Lick
+TTITLE16=[26] Blues Lick
+TTITLE17=[32] Urban Blues Lick
+TTITLE18=[33] Descending Blues Run
+TTITLE19=[34] Urban Blues Lick
+TTITLE20=[35] Blues Lick Featuring Double Stops
+TTITLE21=[36] Ascending Blues Run and Turnaround
+TTITLE22=[37] Urban Blues Solo: Demo Track
+TTITLE23=[37] Urban Blues Solo: Performance Track
+TTITLE24=[40] Blues Lick
+TTITLE25=[41] Blues Lick and Turnaround
+TTITLE26=[42] Outro Lick
+TTITLE27=[43] Open Road Blues: Demo Track
+TTITLE28=[43] Open Road Blues: Perfromance Track
+TTITLE29=[44] Blues Lick
+TTITLE30=[45] Blues Lick and Turnaround
+TTITLE31=[46] Outro Lick
+TTITLE32=[47] A.W. Blues: Demo Track
+TTITLE33=[47] A.W. Blues: Performance Track
+TTITLE34=[50] Cool Blues Riff
+TTITLE35=[51] Cruisin' Blues Riff
+TTITLE36=[52] Country Blues Riff
+TTITLE37=[53] Rock Blues Riff
+TTITLE38=[60] Intro In G
+TTITLE39=[61] Outro In A
+TTITLE40=[62] Turnaround
+TTITLE41=[63] Turnaround
+TTITLE42=[64] Intro in C Minor
+TTITLE43=[65] Outro In G
+TTITLE44=[66] Blues Riff
+TTITLE45=[67] Blues Riff
+TTITLE46=[68] Blues Riff
+TTITLE47=[69] Blues Riff
+TTITLE48=[70] Outro Lick
+TTITLE49=[71] Just Give Me A Call: Demo Track
+TTITLE50=[71] Just Give Me A Call: Performance Track
+TTITLE51=[73] Blues Lick
+TTITLE52=[74] Blues Lick
+TTITLE53=[75] Blues Lick
+TTITLE54=[76] Blues Lick
+TTITLE55=[77] Blues Lick and Turnaround
+TTITLE56=[78] Blues Lick
+TTITLE57=[79] Blues Lick
+TTITLE58=[80] Blues Lick and Turnaround
+TTITLE59=[81] Outro Lick
+TTITLE60=[82] Goin' Back Home: Demo Track
+TTITLE61=[82] Goin' Back Home: Performance Track
+TTITLE62=[87] Intro Lick
+TTITLE63=[88] Blues Lick
+TTITLE64=[89] Blues Lick
+TTITLE65=[90] Blues Lick
+TTITLE66=[91] Blues Lick and Turnaround
+TTITLE67=[92] Outro Lick
+TTITLE68=[93] So Long Blues: Demo Track
+TTITLE69=[93] So Long Blues: Performance Track
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+PLAYORDER=

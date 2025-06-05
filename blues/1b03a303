@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	20057
+#	39915
+#
+# Disc length: 933 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1b03a303
+DTITLE=Quincy Jones - Secret Garden Single
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Secret Garden - Al B. Sure
+TTITLE1=Secret Garden - James Ingram and Barry White
+TTITLE2=Secret Garden - LP Version
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

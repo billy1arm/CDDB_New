@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26456
+#	76246
+#	169560
+#
+# Disc length: 3179 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1e0c6904
+DTITLE=Kai Franz - Surya Namaskar
+DYEAR=2010
+DGENRE=New Age
+TTITLE0=Surya Namaskar (3 cycles)
+TTITLE1=Surya Namaskar (6 cycles)
+TTITLE2=Surya Namaskar (12 cycles)
+TTITLE3=Savasana
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

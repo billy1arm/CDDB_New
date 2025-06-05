@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21045
+#	39653
+#
+# Disc length: 660 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1b029203
+DTITLE=Marc Cohn - Silver Thunderbird (Single)
+DYEAR=1991
+DGENRE=Folk
+TTITLE0=Silver Thunderbird
+TTITLE1=Walking In Memphis (Live BBC Radio One)
+TTITLE2=Angelsong
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

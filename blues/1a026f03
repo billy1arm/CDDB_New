@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15645
+#	29418
+#
+# Disc length: 625 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1a026f03
+DTITLE=Keimzeit - Maggie Maxi-CD
+DYEAR=1996
+DGENRE=Pop
+TTITLE0=Maggie
+TTITLE1=Padam
+TTITLE2=Rosie
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

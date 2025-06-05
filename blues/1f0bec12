@@ -1,0 +1,72 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	11245
+#	19645
+#	35910
+#	50893
+#	63403
+#	78423
+#	93245
+#	102630
+#	116808
+#	128915
+#	139560
+#	148990
+#	164393
+#	177943
+#	194218
+#	207755
+#	216583
+#
+# Disc length: 3054 seconds
+#
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=1f0bec12
+DTITLE=Various Artist - Nostalgie
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Roy Orbison - Only The Lonely
+TTITLE1=Jerry Lee Lewis - Great Balls Of Fire
+TTITLE2=Nina Simone - My Baby Just Cares For Me
+TTITLE3=The Mama's and Tha Papa's - Monday Monday
+TTITLE4=Paolo Conte - Via Con Me
+TTITLE5=Alessi Brothers - Oh Lori
+TTITLE6=Petula Clark - This Is My Song
+TTITLE7=Little Richard - Long Tall Sally
+TTITLE8=Georgie Fame - The Ballad Of Bonnie and Clyde
+TTITLE9=The Drifters - Under The Boardwalk
+TTITLE10=Sandie Shaw - Puppet On A String
+TTITLE11=Sam Cooke - Wonderful World
+TTITLE12=Al Bano and Romina Power - Felicita
+TTITLE13=Jim Croce - Bad Bad Leroy Brown
+TTITLE14=Gene Pitney - Something's Gotten Hold Of My Heart
+TTITLE15=Myriam Makeba - Pata Pata
+TTITLE16=Ray Charles - Hit The Road Jack
+TTITLE17=Shirley Bassey - Goldfinger
+EXTD=ARCADE 01 7940 61 STEMRA
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

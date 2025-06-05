@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14765
+#	31987
+#
+# Disc length: 659 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.86
+#
+DISCID=1e029103
+DTITLE=Ricky Martin - Loaded
+DYEAR=2001
+DGENRE=Pop
+TTITLE0=Loaded (George Noriega Radio Edit 1)
+TTITLE1=Loaded (George Noriega Radio Edit 2)
+TTITLE2=Loaded (Album Version)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

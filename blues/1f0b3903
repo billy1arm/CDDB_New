@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	92163
+#	176038
+#
+# Disc length: 2875 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1f0b3903
+DTITLE=Anton Bruckner - Symphonie N°7 en mi majeur  (Carl Schuricht, Orchestre Philharmonique de La Haye)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Symphonie N°7 en mi majeur - I. Allegro moderato
+TTITLE1=Symphonie N°7 en mi majeur - II. Adagio - Sehr feierlich und sehr langsam
+TTITLE2=Symphonie N°7 en mi majeur - III. Scherzo - Seher Schnell
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

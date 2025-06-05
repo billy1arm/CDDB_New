@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25800
+#	40275
+#
+# Disc length: 921 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: freeDBTagger 0.8.2.1
+#
+DISCID=1c039703
+DTITLE=Eminem - The Singles Boxset [CD2]
+DYEAR=2003
+DGENRE=misc
+TTITLE0=Sing For The Moment
+TTITLE1=Rabbit Run
+TTITLE2=Sing For The Moment (Instrumen
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

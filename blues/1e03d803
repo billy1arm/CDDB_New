@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26414
+#	49330
+#
+# Disc length: 986 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=1e03d803
+DTITLE=Midnight Movies - singles
+DYEAR=2003
+DGENRE=Rock
+TTITLE0=Just to play
+TTITLE1=Strange design
+TTITLE2=Time of year
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

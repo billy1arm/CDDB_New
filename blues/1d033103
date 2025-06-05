@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16490
+#	32905
+#
+# Disc length: 819 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=1d033103
+DTITLE=Full Moon - Time To Go
+DYEAR=2001
+DGENRE=JPop
+TTITLE0=Time To Go
+TTITLE1=Time To Go(Instrumental)
+TTITLE2=Time To Go(Remix)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

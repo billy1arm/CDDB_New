@@ -1,0 +1,28 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22515
+#	47782
+#	78120
+# Disc length: 1336 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=1b053604
+DTITLE=Coldplay - God Put A Smile Upon Your Face
+DYEAR=1900
+DGENRE=
+TTITLE0=God Put A Smile Upon Your Face
+TTITLE1=Murder
+TTITLE2=Politik (Live)
+TTITLE3=Lips Like Sugar (Live)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

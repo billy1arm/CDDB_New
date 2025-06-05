@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6080
+#	110768
+#
+# Disc length: 2992 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1d0bae03
+DTITLE=Sam Rivers - Streams
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=Spoken Introduction
+TTITLE1=Tenor Saxophone Section/Beginning of Flute Section
+TTITLE2=Conclusion of Flute Section/Piano Section/Soprano Saxophone Section
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

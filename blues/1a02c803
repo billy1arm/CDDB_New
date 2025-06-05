@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17720
+#	38809
+#
+# Disc length: 714 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=1a02c803
+DTITLE=P.O.A. - 3SINGLES
+DYEAR=2005
+DGENRE=Rock
+TTITLE0=アメリカ
+TTITLE1=悲しくてやりきれない
+TTITLE2=腰抜け野郎
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

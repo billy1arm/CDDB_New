@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9688
+#	35536
+#
+# Disc length: 613 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1c026303
+DTITLE=NAMCO - ゲームサウンドミュージアム 〜ナムコット編〜 01 ギャラクシアン・ギャラガ・パックマン
+DYEAR=2004
+DGENRE=Game
+TTITLE0=ゲームプレイ (ギャラクシアン)
+TTITLE1=ゲームプレイ (ギャラガ)
+TTITLE2=ゲームプレイ (パックマン)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

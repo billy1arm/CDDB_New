@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15133
+#	34858
+#	54166
+#
+# Disc length: 970 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1e03c804
+DTITLE=Captain Overdrive - Promotion CD
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=B49
+TTITLE1=Bill Collins
+TTITLE2=Mc Mushroom
+TTITLE3=Dungeons
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

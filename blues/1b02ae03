@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18630
+#	33230
+#
+# Disc length: 688 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1b02ae03
+DTITLE=中村一義 - 犬と猫
+DYEAR=1997
+DGENRE=Rock
+TTITLE0=犬と猫
+TTITLE1=ここにいる
+TTITLE2=ホッパーとポッパー
+EXTD=YEAR: 1997.01/22
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

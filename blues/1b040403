@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23250
+#	52230
+#
+# Disc length: 1030 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1b040403
+DTITLE=Orienta - DAWN
+DYEAR=1999
+DGENRE=JPop
+TTITLE0=DAWN
+TTITLE1=Where am I?
+TTITLE2=DAWN (relax.)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

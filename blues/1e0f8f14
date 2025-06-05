@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12070
+#	31795
+#	49735
+#	61757
+#	74855
+#	85482
+#	95567
+#	107515
+#	123917
+#	136970
+#	152690
+#	169032
+#	180025
+#	196140
+#	208005
+#	223057
+#	247227
+#	267015
+#	283455
+#
+# Disc length: 3985 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=1e0f8f14
+DTITLE=Various Artist - Pure Silk: A New Dimension
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Pure Silk Intro
+TTITLE1=Artful Dodger feat. Craig David - Rewind
+TTITLE2=Masters at Work - To be in love
+TTITLE3=Tony Monrel - If you were here tonight
+TTITLE4=Lenny Fontana - Sprit of the sun
+TTITLE5=Kele Le Roc - My love
+TTITLE6=ES Dubs - Standard Hoodlum Issue
+TTITLE7=Dawn Tallman - Steal Away
+TTITLE8=D'Bora - Honey
+TTITLE9=Jocelyn Brown - Absolutely (Antonio and Lee Remix)
+TTITLE10=Jacquee Bennett - Tell me
+TTITLE11=Danny J. Lewis - Spend the Night
+TTITLE12=M. Dubs - Body Killin
+TTITLE13=M. Dubs - Bump and Grind
+TTITLE14=Peekay - In the air
+TTITLE15=Funk Junkees - Got funk
+TTITLE16=Todd Edwards and Tuff Jam - One day
+TTITLE17=T.J. Cases - Do it Again
+TTITLE18=Doolally - Straight from the heart
+TTITLE19=Pure Silk Exit
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

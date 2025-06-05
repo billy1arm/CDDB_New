@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16972
+#	33718
+#
+# Disc length: 726 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1d02d403
+DTITLE=Lara Fabian - Maurane - Tu es mon autre
+DYEAR=2002
+DGENRE=Chanson
+TTITLE0=Tu es mon autre
+TTITLE1=Tu es mon autre (instrumental)
+TTITLE2=Tu es mon autre (Live)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23700
+#	49762
+#
+# Disc length: 975 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1b03cd03
+DTITLE=Smile - 明日の行方
+DYEAR=1995
+DGENRE=J-POP
+TTITLE0=明日の行方
+TTITLE1=灰色の空の下で
+TTITLE2=明日の行方(カラオケ)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=
