@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9627
+#	50272
+#	95587
+#	127042
+#	171237
+#	193882
+#
+# Disc length: 3042 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5e0be007
+DTITLE=Weather Report - Live Passage Disc1
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=8:30
+TTITLE1=Sightsheeing
+TTITLE2=Madagascar
+TTITLE3=Three Views Of A Secret
+TTITLE4=Port of Entry
+TTITLE5=Dream Clock
+TTITLE6=Fast City
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

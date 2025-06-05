@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	22105
+#	37705
+#	55662
+#	74607
+#	91652
+#	113255
+#	132550
+#
+# Disc length: 1999 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5e07cd08
+DTITLE=Oscar D'León - En Puerto Rico
+DYEAR=1990
+DGENRE=Salsa
+TTITLE0=Para No Escapar De Ti
+TTITLE1=Lluvia De Besos
+TTITLE2=Liberate
+TTITLE3=Temo Decirselo Todo
+TTITLE4=Poco A Poco
+TTITLE5=Tan Solo Siempre Tu
+TTITLE6=Amante Amiga
+TTITLE7=Te Condeno Al Amor
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

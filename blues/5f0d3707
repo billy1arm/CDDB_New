@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	38088
+#	77659
+#	124835
+#	149431
+#	186313
+#	228723
+#
+# Disc length: 3385 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5f0d3707
+DTITLE=Yazid Bahri Trio - Papillon
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Sens unique
+TTITLE1=Papillon
+TTITLE2=Blues for Jaco Pastorius
+TTITLE3=Valse du printemps
+TTITLE4=Irish coffee
+TTITLE5=Magic Flowers
+TTITLE6=Danse du sabre
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

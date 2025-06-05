@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18535
+#	53550
+#	74655
+#	100992
+#	119115
+#	153802
+#
+# Disc length: 2280 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d08e607
+DTITLE=D-BITERS - BOUND TO GO
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=01 Breakfast Baby
+TTITLE1=02 Bound To Go
+TTITLE2=03 Send Love
+TTITLE3=04 Train Down South
+TTITLE4=05 This Time
+TTITLE5=06 Casablanca
+TTITLE6=07 Tell Me Mama
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

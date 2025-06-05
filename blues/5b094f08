@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	188
+#	25988
+#	49013
+#	76238
+#	90938
+#	118688
+#	137288
+#	145988
+#
+# Disc length: 2385 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b094f08
+DTITLE=Esqueixada Sniff - Ocells
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Records d'Estiu
+TTITLE1=Bacallà Mon Amour
+TTITLE2=Laura
+TTITLE3=Bahía
+TTITLE4=Ocells del Mediterrani
+TTITLE5=Siddhartha
+TTITLE6=Yei Boom (Son de caza)
+TTITLE7=Amanecer en un "fundill" Astral
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

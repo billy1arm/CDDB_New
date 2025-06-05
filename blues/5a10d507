@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42680
+#	97030
+#	150014
+#	201856
+#	234531
+#	272916
+#
+# Disc length: 4311 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a10d507
+DTITLE=Moe Koffman Quintet - Live at the Ontario Science Center
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=My Heart Belongs to Daddy
+TTITLE1=Kiki
+TTITLE2=Os Cafezais Sem Fim
+TTITLE3=Re-run
+TTITLE4=One Moe Time
+TTITLE5=Interview 1 03/26/86
+TTITLE6=Interview 2, 06/04/87
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

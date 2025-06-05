@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     11543
+#     34050
+#     85353
+#     139605
+#     162120
+#     211253
+#     270155
+# 
+# Disc length: 3798 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=5b0ed408
+DTITLE=THE DEEPEST CUT - THE NEW LONDON SCHOOL OF ELECTRONICS
+DYEAR=1900
+DGENRE=
+TTITLE0=AIR CHECK
+TTITLE1=THE QUEEN AND THE ECLIPSE
+TTITLE2=GEORGIA
+TTITLE3=MANDELLA WITH THE GOLDEN HAIR
+TTITLE4=MISTERSOPHINE
+TTITLE5=OFF
+TTITLE6=THE DEEPEST CUT
+TTITLE7=DREAM TO DAWN
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

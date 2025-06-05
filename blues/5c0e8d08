@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28665
+#	67631
+#	105141
+#	150393
+#	171400
+#	200856
+#	258924
+#
+# Disc length: 3727 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=5c0e8d08
+DTITLE=Rich Wetzel - Groovin Higher Jazz Orchestra Live
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=01 - La Virgen de la Macarena
+TTITLE1=02 - Mac Arthur Park
+TTITLE2=03 - Polka Dots And Moonbeams
+TTITLE3=04 - St Louis Blues
+TTITLE4=05 - Bon Homme Richard
+TTITLE5=06 - Tell Your Story
+TTITLE6=07 - Cruisin For A Bluesin
+TTITLE7=08 - Malaguena
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35780
+#	91385
+#	128660
+#	152283
+#	189937
+#	236708
+#	271118
+#
+# Disc length: 3809 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c0edf08
+DTITLE=Astral Project - Live
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Voodoo Bop
+TTITLE1=The Whole Truth
+TTITLE2=Sombre En La Noche
+TTITLE3=Foxy Roxy
+TTITLE4=Old Folks
+TTITLE5=unknown
+TTITLE6=E) Burgundy>
+TTITLE7=Mardi Gras In New Orleans
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

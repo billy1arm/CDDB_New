@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	175
+#	32875
+#	59500
+#	97900
+#	132775
+#	156325
+#	178825
+#
+# Disc length: 2837 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b0b1307
+DTITLE=Tete Montolliu - Orquesta de Musica de Taller de Barcelona
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=C.T.A:
+TTITLE1=All Of Me
+TTITLE2=Secomderd  Racie
+TTITLE3=Rimas
+TTITLE4=Recordarme
+TTITLE5=Neptuno Blues
+TTITLE6=Rimas
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

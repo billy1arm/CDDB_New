@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     180
+#     20748
+#     37356
+#     58330
+#     74092
+#     91177
+# 
+# Disc length: 1444 seconds
+# 
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=5c05a206
+DTITLE=Phil Bates - Writing On The Wall
+DYEAR=1900
+DGENRE=
+TTITLE0=Writing On The Wall
+TTITLE1=Hullablue
+TTITLE2=Stoney Ground
+TTITLE3=World Without Pain
+TTITLE4=Ordinary Man
+TTITLE5=Hold On Tight
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

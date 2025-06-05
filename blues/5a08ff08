@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17730
+#	31695
+#	47562
+#	69012
+#	93372
+#	133905
+#	154915
+#
+# Disc length: 2305 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a08ff08
+DTITLE=AA Vari - Vodafone CD2
+DYEAR=1988
+DGENRE=New Age
+TTITLE0=01-Aria - Yanni
+TTITLE1=02-In a lifetime - Clannad
+TTITLE2=03-Shadow of time - Nighnoise
+TTITLE3=04-Time after time - Tuck&Patty
+TTITLE4=05-The door in oper - Oystein sevag
+TTITLE5=06-To the unknown man - Vangellis
+TTITLE6=07-Aerial boundaries - Michael Hedges
+TTITLE7=08-A child's song - Willliam Ackerman
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

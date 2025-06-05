@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38892
+#	69612
+#	112340
+#	140830
+#	165655
+#
+# Disc length: 2513 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5b09cf06
+DTITLE=schnute - glutamat cd 1
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=schnute - puma
+TTITLE1=schnute - 180°
+TTITLE2=schnute - noice
+TTITLE3=schnute - drumbush
+TTITLE4=schnute - nautik
+TTITLE5=schnute - love is_schnute rmx
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

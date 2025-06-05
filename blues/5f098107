@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30067
+#	64698
+#	95939
+#	119858
+#	130592
+#	170818
+#
+# Disc length: 2435 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f098107
+DTITLE=Cannonball Adderley - Why Am I Treated So Bad! (vinyl)
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=Mini Mama
+TTITLE1=I'm on my way
+TTITLE2=Why am I treated so bad
+TTITLE3=One for Newk
+TTITLE4=Yvette
+TTITLE5=The other side
+TTITLE6=The Scene
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

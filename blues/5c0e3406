@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	74148
+#	113795
+#	122511
+#	164361
+#	216591
+#
+# Disc length: 3638 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=5c0e3406
+DTITLE=Alex Skolnick Trio - QUE @ Cafe Petit Campus, Montreal, Quebec 2003-10-07 CD 2
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Still Loving You (Scorpions)
+TTITLE1=Dream On (Aerosmith)
+TTITLE2=Band Introduction
+TTITLE3=Scorch (Skolnick)
+TTITLE4=Both Feet In (Zebroski)
+TTITLE5=War Pigs (Black Sabbath)
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

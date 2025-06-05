@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18561
+#	33771
+#	48836
+#	67656
+#	88027
+#	104613
+#	121424
+#
+# Disc length: 1770 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c06e808
+DTITLE=The Jives - Live in 2005
+DYEAR=2005
+DGENRE=Blues
+TTITLE0=I wish you would
+TTITLE1=Boogie Man
+TTITLE2=Down to the Doctors
+TTITLE3=Parchman Farm
+TTITLE4=Sweet Home Chicago
+TTITLE5=Oreo Cookie Blues
+TTITLE6=No Money Down
+TTITLE7=Not Fade Away
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

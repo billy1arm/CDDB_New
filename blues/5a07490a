@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15334
+#     23891
+#     37779
+#     48024
+#     63237
+#     75249
+#     92146
+#     102085
+#     120211
+# 
+# Disc length: 1867 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=5a07490a
+DTITLE=Mike Bloomfield - Cruisin' For a Bruisin'
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Cruisin' For a Bruisin'
+TTITLE1=Linda Lu
+TTITLE2=Papa Mama Rompah Stompah
+TTITLE3=Junker's Blues
+TTITLE4=Midnight
+TTITLE5=It'll Be Me
+TTITLE6=Motorized Blues
+TTITLE7=Mathilda
+TTITLE8=Winter Moon
+TTITLE9=Snowblind
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

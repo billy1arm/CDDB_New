@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38282
+#	69715
+#	85029
+#	123243
+#	143064
+#	194170
+#
+# Disc length: 3605 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a0e1307
+DTITLE=Sir Michael Tippett - String Quartets Vol.2 - Quartets N°2 and 3 (The Tippett Quartet)
+DYEAR=2009
+DGENRE=Musique Contemporaine
+TTITLE0=String Quartet N°3 (1945-46) - I. Grave e sostenuto - Allegro mpoderato
+TTITLE1=String Quartet N°3 (1945-46) - II. Andante (con moto, tranquillo)
+TTITLE2=String Quartet N°3 (1945-46) - III. Allegro molto e con brio
+TTITLE3=String Quartet N°3 (1945-46) - IV. Lento
+TTITLE4=String Quartet N°3 (1945-46) - V. Allegro comodo
+TTITLE5=String Quartet N°5 (1990-91) - I. Medium fast
+TTITLE6=String Quartet N°5 (1990-91) - II.Slow 
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

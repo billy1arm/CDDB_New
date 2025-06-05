@@ -1,0 +1,86 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	21943
+#	34019
+#	47397
+#	61012
+#	63691
+#	77942
+#	94950
+#	112625
+#	134674
+#	148784
+#	162517
+#	164939
+#	178669
+#	195283
+#	218617
+#	224367
+#	235865
+#	237523
+#	256032
+#	257501
+#	269994
+#	282664
+#
+# Disc length: 3966
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.80 
+# Normalized: r0:DSETVAR2,TDELIM( - )
+#
+DISCID=5e0f7c17
+DTITLE=Various Artist - Big Bill Broonzy in concert with Graeme Bell
+DYEAR=1951
+DGENRE=Blues
+TTITLE0=Get out of here - Graeme Bell and his Austrailian Jazz Band
+TTITLE1=Muskrat ramble - Graeme Bell and his Austrailian Jazz Band
+TTITLE2=Bull ant blues - Graeme Bell and his Austrailian Jazz Band
+TTITLE3=Big chief battle axe - Graeme Bell and his Austrailian Jazz Band
+TTITLE4=Announcement by Olaf Hudtwalker - Graeme Bell and his Austrailian Jazz Band
+TTITLE5=Kansas city stomps - Graeme Bell and his Austrailian Jazz Band
+TTITLE6=High society - Graeme Bell and his Austrailian Jazz Band
+TTITLE7=John Henry - Big Bill Broonzy
+TTITLE8=In the evening - Big Bill Broonzy
+TTITLE9=I feel so good - Big Bill Broonzy with the Graeme Bell Band
+TTITLE10=Who's sorry now - Big Bill Broonzy with the Graeme Bell Band
+TTITLE11=Intro - Big Bill Broonzy with the Graeme Bell Band
+TTITLE12=Trouble in mind - Big Bill Broonzy
+TTITLE13=Keep your hands off her - Big Bill Broonzy
+TTITLE14=Mama don't allow - Big Bill Broonzy with the Graeme Bell Band
+TTITLE15=Intro - Big Bill Broonzy with the Graeme Bell Band
+TTITLE16=Black and white flag - Graeme Bell's Ragtime Four
+TTITLE17=Intro - Graeme Bell's Ragtime Four
+TTITLE18=It don't mean a thing - Graeme Bell and his Austrailian Jazz Band
+TTITLE19=Intro - Graeme Bell and his Austrailian Jazz Band
+TTITLE20=Who stole the lock - Lazy Ade's Late Hour Boys
+TTITLE21=Hello Jim Eadie - Lazy Ade's Late Hour Boys
+TTITLE22=When the saints go marching in - Graeme Bell and his Austrailian Jazz Band
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+PLAYORDER=

@@ -1,0 +1,39 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  217
+#  141837
+#  165102
+#  182000
+#  201810
+#  224472
+#  242782
+#
+# Disc length: 3362 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=5e0d2007
+DTITLE=Hardcastle,Paul - No Winners
+DYEAR=1900
+DGENRE=
+TTITLE0=The Earth From Space,Ground Zero No winners,40 Years,August 6th 1
+TTITLE0=945,Silo Killers,Lucky So Far,
+TTITLE1=Walk In The Night
+TTITLE2=On The Run
+TTITLE3=The Wizard ( Jazz Mix)
+TTITLE4=The Last Jam
+TTITLE5=Lost Summer
+TTITLE6=Voices of The World
+EXTD=
+EXTT0=Paul Hardcastle
+EXTT1=Paul Hardcastle
+EXTT2=Paul Hardcastle
+EXTT3=Paul Hardcastle
+EXTT4=Paul Hardcastle
+EXTT5=Paul Hardcastle
+EXTT6=Paul Hardcastle
+PLAYORDER=

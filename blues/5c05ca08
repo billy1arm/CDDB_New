@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15006
+#	29657
+#	42611
+#	50467
+#	58351
+#	75071
+#	87489
+#
+# Disc length: 1484 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5c05ca08
+DTITLE=The Considerate Lovers - The End
+DYEAR=2008
+DGENRE=Blues
+TTITLE0=As sure as the Devil's got foothold in my mind
+TTITLE1=Winter ain't so cold when you got someone on your mind
+TTITLE2=I'll take the next train
+TTITLE3=One night women blues
+TTITLE4=Final train
+TTITLE5=Oh Lord
+TTITLE6=The End
+TTITLE7=I went looking
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13545
+#	28719
+#	47450
+#	63454
+#	80001
+#	98298
+#	118971
+#
+# Disc length: 1820 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=5b071a08
+DTITLE=Cyrus, Miley - The Time of Our Lives
+DYEAR=2009
+DGENRE=Pop
+TTITLE0=Kickin and Screaming
+TTITLE1=Party in the U.S.A.
+TTITLE2=When I Look at You
+TTITLE3=Time of Our Lives
+TTITLE4=Talk Is Cheap
+TTITLE5=Obsessed
+TTITLE6=Before the Storm (Ft. Jonas Brothers)
+TTITLE7=The Climb
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

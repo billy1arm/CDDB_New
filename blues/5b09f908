@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23245
+#	50040
+#	79822
+#	105075
+#	132737
+#	150725
+#	166635
+#
+# Disc length: 2555 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b09f908
+DTITLE=A.P.J. - A.P.J.
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Roses and Chemistry
+TTITLE1=Jelly fish Garden
+TTITLE2=dimetra
+TTITLE3=Ameba In Maze
+TTITLE4=Hvakke Soumei
+TTITLE5=Progroove
+TTITLE6=Ah Bon
+TTITLE7=Ohni Sopter
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24327
+#	49328
+#	80565
+#	117775
+#	154940
+#	199601
+#	229693
+#
+# Disc length: 3564 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5d0dea08
+DTITLE=Tom Scott - Bebop United
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Children of the Night
+TTITLE1=Silhouettes
+TTITLE2=Tones for Jones Bones
+TTITLE3=His Eyes, Her Eyes
+TTITLE4=Sack O' Woe
+TTITLE5=Back Burner
+TTITLE6=Close View
+TTITLE7=The Song Is You
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10595
+#	25232
+#	42435
+#	57966
+#	72071
+#	86544
+#	111268
+#
+# Disc length: 2985 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5d0ba708
+DTITLE=КАСТА - По приколу
+DYEAR=2006
+DGENRE=Rap
+TTITLE0=КАСТА - По приколу (грязная версия)
+TTITLE1=КАСТА - Капсулы скорости
+TTITLE2=КАСТА - Беренцев
+TTITLE3=КАСТА - Глупо, но класс (уч. Gustavo)
+TTITLE4=КАСТА - Номерок (уч. Крестная Семья)
+TTITLE5=КАСТА - Миг пламени
+TTITLE6=КАСТА - По приколу (оркестровая версия)
+TTITLE7=КАСТА - клип Каспулы Скорости
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

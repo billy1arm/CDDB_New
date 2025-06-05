@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31000
+#	66240
+#	96734
+#	114390
+#	133719
+#	167788
+#
+# Disc length: 2494 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=5e09bc07
+DTITLE=Takeshi Shibuya - Cook Note
+DYEAR=1977
+DGENRE=Jazz
+TTITLE0=My Old Dream
+TTITLE1=I Don't Know About You
+TTITLE2=Ode To A Potato Plant
+TTITLE3=Cook-Out
+TTITLE4=Shadow and Shade
+TTITLE5=I Love You
+TTITLE6=Soldier In The Rain
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

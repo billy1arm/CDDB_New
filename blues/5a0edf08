@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31050
+#	73553
+#	98974
+#	129875
+#	168800
+#	213035
+#	255475
+#
+# Disc length: 3809 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a0edf08
+DTITLE=John Price and Friends - 75
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=I Love You (Cole Porter)
+TTITLE1=Poor Butterfly (Raymond Hubbell)
+TTITLE2=Blue Room (Richard Rogers)
+TTITLE3=I Want a Little Girl (Billy Moll and Murray Mancher)
+TTITLE4=Shiny Stockings (Frank Foster)
+TTITLE5=Just Squeeze Me (Duke Ellington)
+TTITLE6=I Thought About You (Jimmy Van Heusen)
+TTITLE7=Robbins Nest (Sir Charles Thompson and Illinois Jaquet)
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

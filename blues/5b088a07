@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26216
+#	48754
+#	73679
+#	99192
+#	118128
+#	139025
+#
+# Disc length: 2188 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=5b088a07
+DTITLE=Gerry Mulligan - Jeru
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Gerry Mulligan - Capricious
+TTITLE1=Gerry Mulligan - Here I'll stay
+TTITLE2=Gerry Mulligan - Indise impromptu
+TTITLE3=Gerry Mulligan - You've come home
+TTITLE4=Gerry Mulligan - Get out of town
+TTITLE5=Gerry Mulligan - Blue boy
+TTITLE6=Gerry Mulligan - Lonely town
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

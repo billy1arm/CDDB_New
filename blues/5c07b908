@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17715
+#	34753
+#	56850
+#	75380
+#	94233
+#	112705
+#	130950
+#
+# Disc length: 1979 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=5c07b908
+DTITLE=Damon Rentie - Skyline
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=Let's Stay Together
+TTITLE1=Sometimes in the Morning
+TTITLE2=Street Heat
+TTITLE3=Green Onions
+TTITLE4=New York After Dark
+TTITLE5=Skyline
+TTITLE6=Midnight Uptown
+TTITLE7=Goin' on With You
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11667
+#	23027
+#	36182
+#	46417
+#	57165
+#	68810
+#	83035
+#
+# Disc length: 1282 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=5d050008
+DTITLE=Hoagy Carnuchael - The Stardust Road
+DYEAR=1949
+DGENRE=Jazz
+TTITLE0=Hong Kong Blues
+TTITLE1=Star Dust
+TTITLE2=Rokin' Chair
+TTITLE3=Riverboat Shuffle
+TTITLE4=The Old Music Master
+TTITLE5=Judy
+TTITLE6=Washboard Blues
+TTITLE7=Little Old Lady
+EXTD=YEAR: 1949
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

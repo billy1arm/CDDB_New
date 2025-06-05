@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35678
+#	71054
+#	84158
+#	103390
+#	168637
+#	218581
+#
+# Disc length: 3371 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,32,406
+#
+DISCID=5f0d2907
+DTITLE=Jimi Hendrix - Astro Man Box Set [CD5] 
+DYEAR=2003
+DGENRE=Acid
+TTITLE0=Killing Floor (Live)
+TTITLE1=Spanish Castle Magic (Live)
+TTITLE2=Fire (Live)
+TTITLE3=Hey Joe (Live)
+TTITLE4=Voodoo Chile (Live)
+TTITLE5=Red House (Live)
+TTITLE6=Sunshine Of Your Love (Live)
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

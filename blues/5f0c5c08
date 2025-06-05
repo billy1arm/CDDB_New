@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24450
+#	52687
+#	79612
+#	108600
+#	147187
+#	173912
+#	199722
+#
+# Disc length: 3166 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f0c5c08
+DTITLE=Sanshiro - Sanshiro
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Tell Me What You Feel
+TTITLE1=Ever Since I Met You
+TTITLE2=Holiday
+TTITLE3=Be My Lady
+TTITLE4=Gently Dream
+TTITLE5=Unicorn
+TTITLE6=Will You Be Back Again
+TTITLE7=Walking on the Highway
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

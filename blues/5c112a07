@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	61757
+#	105045
+#	140125
+#	188365
+#	227992
+#	298230
+#
+# Disc length: 4396 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c112a07
+DTITLE=Eric Alexander - The live at the keynote
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=The Bee Hive
+TTITLE1=Maybe September
+TTITLE2=In The Still Of The Night
+TTITLE3=Edward Lee
+TTITLE4=A Nightingale Sang In Berkeley Square
+TTITLE5=Stan's Shuffle
+TTITLE6=Alone Together
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

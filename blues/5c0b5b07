@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19393
+#	35515
+#	52955
+#	69358
+#	88871
+#	111502
+#
+# Disc length: 2909 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5c0b5b07
+DTITLE=Wouter Hamel - Live At Home
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Breezy
+TTITLE1=Nobody's Tune
+TTITLE2=A Distant Melody
+TTITLE3=Ride That Sunbeam
+TTITLE4=Nothing's Any Good
+TTITLE5=While I'll Be Gone
+TTITLE6=Nothing's Any Good Footage
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

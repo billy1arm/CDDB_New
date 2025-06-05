@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13646
+#	26125
+#	40347
+#	57835
+#	74460
+#	94190
+#
+# Disc length: 1507 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=5a05e107
+DTITLE=A BOY'S SONG - Spitz covers
+DYEAR=2011
+DGENRE=Blues
+TTITLE0=空も飛べるはず
+TTITLE1=ロビンソン
+TTITLE2=スパイダー
+TTITLE3=チェリー
+TTITLE4=君が思い出になる前に
+TTITLE5=楓
+TTITLE6=スカーレット
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

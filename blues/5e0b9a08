@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29348
+#	54543
+#	76943
+#	109186
+#	135904
+#	174813
+#	198611
+#
+# Disc length: 2972 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5e0b9a08
+DTITLE=Eivind Austad Trio - Moving
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=Two of Mine
+TTITLE1=Median
+TTITLE2=Homeland
+TTITLE3=In the End
+TTITLE4=Moving
+TTITLE5=The Moment of Truth
+TTITLE6=All of You
+TTITLE7=Life on Mars
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

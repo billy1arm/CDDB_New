@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32597
+#	51852
+#	75695
+#	92812
+#	111935
+#	138810
+#	172745
+#
+# Disc length: 2933 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a0b7308
+DTITLE=Varios - Jazz en la Costa
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Do you know what it means to miss New Orleans?
+TTITLE1=Albajur lilas
+TTITLE2=The extension
+TTITLE3=Man in the station
+TTITLE4=Boogie man
+TTITLE5=Wolfman calling
+TTITLE6=Mambo en blues
+TTITLE7=Granada
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

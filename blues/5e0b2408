@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22129
+#	51332
+#	92320
+#	114879
+#	154845
+#	171224
+#	190919
+#
+# Disc length: 2854 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5e0b2408
+DTITLE=Jasper Van't Hof - The yellow House
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=The Yellow House
+TTITLE1=Notwithstanding
+TTITLE2=Café Du Tambourine
+TTITLE3=Dizzy
+TTITLE4=Moor
+TTITLE5=Incompatible Temper
+TTITLE6=Il Piacere
+TTITLE7=Plein Air
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

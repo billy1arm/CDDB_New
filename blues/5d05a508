@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13070
+#	26754
+#	39384
+#	52704
+#	67845
+#	81705
+#	96209
+#
+# Disc length: 1447 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d05a508
+DTITLE=Menphis Minnie - DAISO Female Singers Collection 7
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Today Today Blues
+TTITLE1=She Wouldn't Give Me None
+TTITLE2=I'm Going Back Home
+TTITLE3=Frisco Town
+TTITLE4=Garage Fire Blues
+TTITLE5=Going Back To Texas
+TTITLE6=Can i Do It For You
+TTITLE7=I'm Going Back Home(Original Ver.)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

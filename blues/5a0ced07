@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50661
+#	76983
+#	96240
+#	136603
+#	178297
+#	213168
+#
+# Disc length: 3311 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=5a0ced07
+DTITLE=Otomo Yoshihide's New Jazz Orchestra - ONJO
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=eureka
+TTITLE1=theme from canary
+TTITLE2=broken shadows
+TTITLE3=lost in the rain
+TTITLE4=orange was the color of her dress, then blue silk - tails out
+TTITLE5=mayonaka no shizuka na kuroi kawa no ue ni ukabiagaru shiroi yuri no hana
+TTITLE6=a-shi-ta
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

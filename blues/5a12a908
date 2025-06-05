@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	77497
+#	98317
+#	157255
+#	199780
+#	231064
+#	287314
+#	328676
+#
+# Disc length: 4779 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a12a908
+DTITLE=Beethoven - David Oïstrakh - Vol.01
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Triple Concerto in C, Op.56 - I. Allegro  [Sir Malcom Sargent, Philharmonia Orchestra]
+TTITLE1=Triple Concerto in C, Op.56 - II. Largo  [Lev oborin, piano - Sviatoslav Knushevitsky, cello - 1959]
+TTITLE2=Triple Concerto in C, Op.56 - III. Rondo alla polacca
+TTITLE3=Piano Trio N°7 in B flat Op.97 'Archduke' - I. Allegro moderato  [Lev oborin, piano - Knushevitsky, cello - 1958]
+TTITLE4=Piano Trio N°7 in B flat Op.97 'Archduke' - II. Scherzo (Allegro) and Coda
+TTITLE5=Piano Trio N°7 in B flat Op.97 'Archduke' - III. Andante cantabile
+TTITLE6=Piano Trio N°7 in B flat Op.97 'Archduke' - IV. Allegro moderato - Presto
+TTITLE7=Beethoven - Triple Concerto (IDENTIFICAR)
+EXTD=Beethoven
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

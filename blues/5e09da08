@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  25645
+#  41397
+#  63335
+#  88787
+#  110012
+#  135845
+#  163930
+#
+# Disc length: 2524 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=5e09da08
+DTITLE=Jason Becker - Perpetuarl Burn
+DYEAR=1900
+DGENRE=
+TTITLE0=Altitudes
+TTITLE1=Perpetual Burn
+TTITLE2=Mabel's Fatal Fable
+TTITLE3=Air
+TTITLE4=Temple Of The Absurd
+TTITLE5=Eleven Lue Egyptians
+TTITLE6=Dveller In The Cellar
+TTITLE7=Opus Pocus
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

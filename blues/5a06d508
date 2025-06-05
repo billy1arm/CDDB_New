@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9111
+#	27690
+#	52677
+#	66939
+#	83026
+#	96702
+#	114123
+#
+# Disc length: 1751 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a06d508
+DTITLE=Ray Charles - Hit The Road Jack And Other Classic Hits
+DYEAR=2011
+DGENRE=Blues
+TTITLE0=Hit The Road Jack
+TTITLE1=What'd I Say
+TTITLE2=Georgia On My Mind
+TTITLE3=Hide Nor Hair
+TTITLE4=Baby Please
+TTITLE5=You Are My Sunshine
+TTITLE6=If You Were mine
+TTITLE7=There'll Be No Peace Without All Men As One
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

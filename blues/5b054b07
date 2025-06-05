@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13328
+#	29502
+#	45761
+#	55907
+#	71776
+#	82145
+#
+# Disc length: 1357 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5b054b07
+DTITLE=ALA.NI - You and I cd 2
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=Not Coming Home
+TTITLE1=Paris Theme (Memories of You)
+TTITLE2=Wichita Lineman
+TTITLE3=Cherry Blossom (Moors Remix)
+TTITLE4=Ol' Fashioned Kiss [Vendredi Remix]
+TTITLE5=Suddenly (Chester Watson remix)
+TTITLE6=One Heart (XYWHY remix)
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

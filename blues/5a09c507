@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21534
+#	39350
+#	59643
+#	101485
+#	127904
+#	159676
+#
+# Disc length: 2503 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a09c507
+DTITLE=ERIC CLAPTON - Live In Great Smoke cd1
+DYEAR=1977
+DGENRE=Blues
+TTITLE0=Hello Old Friend
+TTITLE1=Sign Language
+TTITLE2=Alberta
+TTITLE3=Tell The Truth
+TTITLE4=Knocking On Heaven's Door
+TTITLE5=Steady Rollin' Man
+TTITLE6=Can't Find My Way Home
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

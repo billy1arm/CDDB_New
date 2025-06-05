@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	60993
+#	95602
+#	123500
+#	180160
+#	222197
+#	277710
+#	317275
+#
+# Disc length: 4537 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d11b708
+DTITLE=Chick Corea - Tunes For Joan's  Bones
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Litha
+TTITLE1=This Is New
+TTITLE2=Tones for Joan's Bones
+TTITLE3=Straight Up And Down
+TTITLE4=Inner Space
+TTITLE5=Guijira
+TTITLE6=Windows
+TTITLE7=Trio for Flute, Basoon and Piano
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

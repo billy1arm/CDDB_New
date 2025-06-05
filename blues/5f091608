@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  18605
+#  45827
+#  83690
+#  120300
+#  136720
+#  149115
+#  160312
+#
+# Disc length: 2328 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.31
+#
+DISCID=5f091608
+DTITLE=The Who/The Animals - Live At Monterey Pop Festival 1967
+DYEAR=1900
+DGENRE=
+TTITLE0=San Franciscan Nights
+TTITLE1=Ginhouse Blues
+TTITLE2=Hey Gyp
+TTITLE3=Paint It Black
+TTITLE4=Summertime Blues
+TTITLE5=Pictures Of Lily
+TTITLE6=Happy Jack
+TTITLE7=My Generation
+EXTD=
+EXTT0=The Animals
+EXTT1=The Animals
+EXTT2=The Animals
+EXTT3=The Animals
+EXTT4=The Who
+EXTT5=The Who
+EXTT6=The Who
+EXTT7=The Who
+PLAYORDER=

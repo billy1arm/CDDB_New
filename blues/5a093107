@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12352
+#	38107
+#	63104
+#	92782
+#	126158
+#	146096
+#
+# Disc length: 2355 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=5a093107
+DTITLE=The Bad Plus - These are the Extras
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Imigrant Song (Led Zeppelin)
+TTITLE1=We Are the Champions (Queen)
+TTITLE2=Human Behavior (Bjork)
+TTITLE3=Every Breath You Take (The Police)
+TTITLE4=Karma Police (Radiohead)
+TTITLE5=Knowing Me, Knowing You (ABBA)
+TTITLE6=Stacks of Cash
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	58435
+#	107045
+#	154962
+#	220735
+#	275000
+#
+# Disc length: 4709 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c126306
+DTITLE=Gonzalo Rubalcaba - Live in Havana
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Green Dolphin in the Street
+TTITLE1=Nueva Cubana
+TTITLE2=Concateenacion Heroica
+TTITLE3=Pluma
+TTITLE4=Pisando el Cesped
+TTITLE5=Regreso Feliz
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

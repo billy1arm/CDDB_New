@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19932
+#     40050
+#     57057
+#     76275
+#     92715
+#     111087
+#     129687
+# 
+# Disc length: 1955 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=5e07a108
+DTITLE=Willie Dixon - Mighty Earthquake And Hurricane
+DYEAR=1900
+DGENRE=
+TTITLE0=Mighty Earthquake And Hurricane
+TTITLE1=It Don't Make Sense (You Can't Make Peace)
+TTITLE2=After Five Long Years
+TTITLE3=Everything's Got A Time
+TTITLE4=Wigglin' Worm
+TTITLE5=Flamin' Mamie
+TTITLE6=Grave Digger Blues
+TTITLE7=Pie In The Sky
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

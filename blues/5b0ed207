@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	16182
+#	102425
+#	131900
+#	168725
+#	182522
+#	250322
+#
+# Disc length: 3796 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=5b0ed207
+DTITLE=Mal Waldron - Moods
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Anxiety
+TTITLE1=Sieg Haile
+TTITLE2=Lonely
+TTITLE3=Minoat
+TTITLE4=Happiness
+TTITLE5=A Case of Plus 4s
+TTITLE6=I Thought About You
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

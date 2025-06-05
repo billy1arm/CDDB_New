@@ -1,0 +1,42 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  40280
+#  62907
+#  84767
+#  111875
+#  121855
+#  151935
+#  191520
+#
+# Disc length: 3424 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.30
+#
+DISCID=5d0d5e08
+DTITLE=Paul Badura Skoda - Trois Sonates Favorites
+DYEAR=1900
+DGENRE=
+TTITLE0=Sonate Pathetique En UT Mineur, opus 13* -Grave - Allegro di molt
+TTITLE0=o e con brio
+TTITLE1=Sonate Pathetique En UT Mineur, opus 13* - Adagio Cantabile
+TTITLE2=Sonate Pathetique En UT Mineur, opus 13* -Rondo Allegro
+TTITLE3=Sonate et UT diese mineur -Adagio sostenuto
+TTITLE4=Sonate et UT diese mineur -Allegreto
+TTITLE5=Sonate et UT diese mineur -Presto agitato
+TTITLE6=Sonate en Fam Mineur "Appasionata" -Allegro assai
+TTITLE7=Sonate en Fam Mineur "Appasionata" -Andante con moto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

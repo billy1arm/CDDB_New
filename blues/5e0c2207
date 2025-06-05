@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33101
+#	48990
+#	88487
+#	133433
+#	151135
+#	191789
+#
+# Disc length: 3108 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=5e0c2207
+DTITLE=Art Blackey Quintet - A Night at Birdland Vol.2
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Wee-Dot
+TTITLE1=If I Had You
+TTITLE2=Quicksilver
+TTITLE3=The Way You Look Tonight
+TTITLE4=Lou's Blues
+TTITLE5=Now's the Time
+TTITLE6=Confirmation
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

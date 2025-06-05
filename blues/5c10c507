@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38371
+#	67111
+#	101577
+#	164415
+#	244607
+#	282546
+#
+# Disc length: 4295 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5c10c507
+DTITLE=Dave Liebman and Lluis Vidal Trio - Con Orq. Cambra Teatre Lliure
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Havanera
+TTITLE1=Milikituli
+TTITLE2=El agarejo
+TTITLE3=El gegant i el cargol
+TTITLE4=Suite Portugalia
+TTITLE5=El escatime
+TTITLE6=Ball de capvespre
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

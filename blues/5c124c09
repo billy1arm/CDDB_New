@@ -1,0 +1,44 @@
+# xmcd
+#
+# Track frame offsets:
+#      150
+#      15030
+#      40757
+#      75097
+#      108317
+#      162230
+#      189340
+#      232117
+#      278985
+# 
+# Disc length: 4686 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+#
+# Submitted via: FreeRIP 1.20
+#
+DISCID=5c124c09
+DTITLE=KARAJAN, Herbert Von - La colección definitiva
+DYEAR=1999
+DGENRE=Classical
+TTITLE0=Vivaldi - Las cuatro estaciones. La primavera - I - Allegro
+TTITLE1=Mozart - Pequeña serenata Nocturna - I - Allegro
+TTITLE2=Mozart - Sinfoniçía No. 40 - I - Molto Allegro
+TTITLE3=Beethoven - Sinfonía No. 5 - I - Allegro con brio
+TTITLE4=Rossini - Obertura Guillermo Tell
+TTITLE5=Verdi - Aida. Marcha  Triunfal y Ballet
+TTITLE6=Offenbach - Obertura Orfeo en los infiernos. Can-Can
+TTITLE7=Strauss - Vals El Danubio Azul
+TTITLE8=Ravel - Bolero
+EXTD=jsv
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

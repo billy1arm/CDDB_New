@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	59186
+#	98132
+#	139885
+#	195762
+#	243045
+#	316987
+#
+# Disc length: 4568 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a11d607
+DTITLE=Brainwork - Back to Future
+DYEAR=2003
+DGENRE=New Age
+TTITLE0=4am machines
+TTITLE1=back to future
+TTITLE2=sanddunes
+TTITLE3=transponder
+TTITLE4=offbeats
+TTITLE5=back to the sea
+TTITLE6=4am machines -- hatfield and torpey remix
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21108
+#	40245
+#	68075
+#	84915
+#	106100
+#	135677
+#	156375
+#
+# Disc length: 2280 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5d08e608
+DTITLE=All Time Jazz Trio - First Take
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=On Green Dolphin Street
+TTITLE1=It Dont Mean a Thing
+TTITLE2=Summertime
+TTITLE3=Bye Bye Blackbird
+TTITLE4=A Ship Without a Sail
+TTITLE5=Skylark
+TTITLE6=King Blues
+TTITLE7=I Could Write a Book
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45239
+#	90182
+#	126886
+#	153341
+#	199962
+#	241522
+#	275139
+#
+# Disc length: 4150 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5d103408
+DTITLE=Yves Léveillé - Quantique
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Pantomime
+TTITLE1=Transcription d'automne
+TTITLE2=Quantique
+TTITLE3=Rituel
+TTITLE4=Brouillard
+TTITLE5=Escargot
+TTITLE6=Filliation
+TTITLE7=Incandescent
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

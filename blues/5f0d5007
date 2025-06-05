@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32640
+#	78651
+#	109289
+#	136953
+#	169486
+#	211818
+#
+# Disc length: 3410 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f0d5007
+DTITLE=Book of Three - Continuum
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Comin' On
+TTITLE1=Aware of Vacuity
+TTITLE2=Henry
+TTITLE3=Open City
+TTITLE4=Jamila
+TTITLE5=Journal Square Complications
+TTITLE6=Precoda/Henry
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

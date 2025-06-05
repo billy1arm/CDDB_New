@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40500
+#	68475
+#	102975
+#	130800
+#	158325
+#	191625
+#	227925
+#
+# Disc length: 3494 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b0da408
+DTITLE=Wallace Roney - Munchin'
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Solar
+TTITLE1=Ah Leu Cha
+TTITLE2=Bemsha Swing
+TTITLE3=Lost
+TTITLE4=Daahoud
+TTITLE5=Whims of Chambers
+TTITLE6=Smooch
+TTITLE7=Love for Sale
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

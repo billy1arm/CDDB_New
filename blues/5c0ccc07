@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44180
+#	76340
+#	113745
+#	133635
+#	166992
+#	203122
+#
+# Disc length: 3278 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5c0ccc07
+DTITLE=John Ettinger - August Rain
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Shunyata
+TTITLE1=August Rain
+TTITLE2=Dogleg
+TTITLE3=Lead A Normal Life
+TTITLE4=El Cadejo
+TTITLE5=Obrigado
+TTITLE6=April Was On A Sunday
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

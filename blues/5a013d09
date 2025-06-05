@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2890
+#	5450
+#	8190
+#	11110
+#	13310
+#	16050
+#	18250
+#	20630
+#
+# Disc length: 319 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a013d09
+DTITLE=Franz Kirnbauer - 234 - Kerschner Wohndesign - Werbung
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Regale
+TTITLE1=Kästen
+TTITLE2=Nachtkästchen
+TTITLE3=Wohnzimmer
+TTITLE4=Seriengefertigte Möbel
+TTITLE5=Sprechende Holzwürmer
+TTITLE6=Sprechende Holzwürmer - Version 2
+TTITLE7=Schreibende Holzwürmer
+TTITLE8=Kerschner Wohndesign - Instrumental
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

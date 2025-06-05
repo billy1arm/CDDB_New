@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16180
+#	61145
+#	71845
+#	96905
+#	138475
+#	158990
+#
+# Disc length: 2559 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5b09fd07
+DTITLE=Rosco Mitchel - An interesting breakfast conversation
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=An interesting breakfast conversation
+TTITLE1=Live at the public theatre 1
+TTITLE2=SVSA, Scene 1
+TTITLE3=Live at the public theatre 2
+TTITLE4=Shapes
+TTITLE5=Phonics
+TTITLE6=Journeys
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

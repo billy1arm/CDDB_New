@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14537
+#	30890
+#	61840
+#	80395
+#	99490
+#	126902
+#	147127
+#
+# Disc length: 2298 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b08f808
+DTITLE=Paul Desmond - Take Ten
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Take Ten
+TTITLE1=El Prince
+TTITLE2=Alone Together
+TTITLE3=Embarcadero
+TTITLE4=Theme from "Black Orpheus"
+TTITLE5=Nancy
+TTITLE6=Samba de Orfeu
+TTITLE7=The One I Love (Belongs to Somebody Else)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

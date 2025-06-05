@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42962
+#	64034
+#	107814
+#	156344
+#	169739
+#	218736
+#
+# Disc length: 4010 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c0fa807
+DTITLE=Various Artist - Jazz Masters Pieces
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Sonny Sharock - Many Mansions
+TTITLE1=Sonny Sharock - Who Does She Hope To Be?
+TTITLE2=Sonny Sharock - Promises Kept
+TTITLE3=Henry Threadgiill - Little Pocket Size Demons
+TTITLE4=Henry Threadgiill - Too Much Sugar
+TTITLE5=John Coltrane - Afro Blues
+TTITLE6=John Coltrane - Ole
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

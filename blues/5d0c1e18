@@ -1,0 +1,89 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     10090
+#     22130
+#     32212
+#     41950
+#     51580
+#     60890
+#     70222
+#     80120
+#     90057
+#     101032
+#     109797
+#     119410
+#     129365
+#     139950
+#     151200
+#     162787
+#     173070
+#     182010
+#     191737
+#     202527
+#     209612
+#     218625
+#     224990
+# 
+# Disc length: 3104 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=5d0c1e18
+DTITLE=Roy Orbison - The sun years
+DYEAR=1900
+DGENRE=
+TTITLE0=Ooby dooby
+TTITLE1=Tryin' to get you
+TTITLE2=Domino
+TTITLE3=Devil doll
+TTITLE4=Go go go
+TTITLE5=You're my baby
+TTITLE6=Rockhouse
+TTITLE7=Claudette
+TTITLE8=Sweet and easy to love
+TTITLE9=The cause of it all
+TTITLE10=Mean little mama
+TTITLE11=You're gonna cry
+TTITLE12=Problem child
+TTITLE13=A true love goodbye
+TTITLE14=Fools hall of fame
+TTITLE15=I like love
+TTITLE16=Chicken hearted
+TTITLE17=It's too late
+TTITLE18=This kind of love
+TTITLE19=I never knew
+TTITLE20=You tell me
+TTITLE21=I give up
+TTITLE22=Lovestruck
+TTITLE23=The clown
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+PLAYORDER=

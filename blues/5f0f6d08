@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33786
+#	76298
+#	108212
+#	153562
+#	189653
+#	218173
+#	242124
+#
+# Disc length: 3951 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=5f0f6d08
+DTITLE=Jeff Barash Quartet - Bouncin' on 160th Avenue
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Bouncin' on 160th Avenue
+TTITLE1=On A Misty Night
+TTITLE2=Nationalistic World
+TTITLE3=Subject To Change
+TTITLE4=Oasis
+TTITLE5=Ballad For "J.B."
+TTITLE6=Realities Realm
+TTITLE7=Why Am I Here?
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

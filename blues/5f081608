@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23090
+#	47600
+#	49737
+#	73537
+#	80385
+#	104852
+#	127547
+#
+# Disc length: 2072 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5f081608
+DTITLE=Black Sabbath - Master Of Reality
+DYEAR=1971
+DGENRE=Heavy Metal
+TTITLE0=Sweet Leaf
+TTITLE1=After Forever
+TTITLE2=Embryo
+TTITLE3=Children Of The Grave
+TTITLE4=Orchid
+TTITLE5=Lord Of This World
+TTITLE6=Solitude
+TTITLE7=Into The Void
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

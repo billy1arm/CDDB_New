@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32247
+#	61535
+#	96821
+#	124157
+#	151607
+#	174887
+#	211807
+#	241037
+#
+# Disc length: 3539 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5f0dd109
+DTITLE=Bill Moring and Way Out East - Spaces in Time
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Sweat
+TTITLE1=Balls of Everything
+TTITLE2=Deep Blue
+TTITLE3=Mary Lynn
+TTITLE4=Hop Blues
+TTITLE5=Snakes
+TTITLE6=The Disguise
+TTITLE7=A Space in Time
+TTITLE8=iHop
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

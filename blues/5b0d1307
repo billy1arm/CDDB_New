@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15043
+#	61494
+#	92239
+#	126306
+#	145944
+#	196387
+#
+# Disc length: 3349 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5b0d1307
+DTITLE=TORONTO CHAMBER JAZZ SEPTET - CBC GLENN GOULD STUDIO 2001
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=My Bells (Evans)
+TTITLE1=My Favorite Things (Rogers)
+TTITLE2=Clair De Lune (Debussy)
+TTITLE3=Stuffy Turkey (Monk)
+TTITLE4=A Merry Little Christmas (Martin)
+TTITLE5=Pavane (Ravel)
+TTITLE6=Christmas Thanksgiving Prayer (Mays)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	60881
+#	89318
+#	167693
+#	185144
+#	233556
+#	299833
+#
+# Disc length: 4505 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c119707
+DTITLE=Hector Berlioz - Symphonie fantastique - Le roi Lear - Le carnaval romain
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Symphonie fantastique Op.14 - I. Rêveries (Largo)  [Hermann Scherchen, LSO - 1953]
+TTITLE1=Symphonie fantastique Op.14 - II. Un bal (Allegro non troppo)
+TTITLE2=Symphonie fantastique Op.14 - III. Scène aux champs (Adagio)
+TTITLE3=Symphonie fantastique Op.14 - IV. Marche aux suplice (Allegretto non troppo)
+TTITLE4=Symphonie fantastique Op.14 - V. Songe d'une nuit de sabbat (Largetto-Allegro)
+TTITLE5=Le roi Lear - Ouverture Op.4  [Sir Thomas Beecham, Royal Philharmonic Orchestra - 1954]
+TTITLE6=Le carnaval romain - Ouverture Op.9  [Arturo Toscanini, NBC Symphony Orchestra - 1953]
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

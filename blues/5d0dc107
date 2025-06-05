@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	31597
+#	65625
+#	102547
+#	152172
+#	186525
+#	235950
+#
+# Disc length: 3523 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5d0dc107
+DTITLE=Hampton Hawes - All Night Session Disc2
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Will You Still Be Mine
+TTITLE1=April In Paris
+TTITLE2=Blue'n Boogie
+TTITLE3=Do Nothin' Till You Hear From Me
+TTITLE4=Blues #3
+TTITLE5=Between The Devil And The Deep Blue Sea
+TTITLE6=Blues #4
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

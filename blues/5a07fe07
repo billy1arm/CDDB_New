@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19424
+#	36385
+#	54223
+#	82172
+#	107465
+#	131171
+#
+# Disc length: 2048 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5a07fe07
+DTITLE=Joël Lamonge - Danse mon séga
+DYEAR=2003
+DGENRE=New Age
+TTITLE0=Danse mon séga
+TTITLE1=La bec canard
+TTITLE2=Jessica
+TTITLE3=Le Rényon
+TTITLE4=La zalousie
+TTITLE5=La violens
+TTITLE6=Ti mal parle a moin
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

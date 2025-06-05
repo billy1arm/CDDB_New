@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8057
+#	26432
+#	47207
+#	70682
+#	92357
+#	100532
+#	123782
+#	144182
+#
+# Disc length: 2165 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d087309
+DTITLE=[TEST] - daybreak
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Into The Space
+TTITLE1=Criticismaholic
+TTITLE2=Sincerity
+TTITLE3=暁
+TTITLE4=Tori No Uta
+TTITLE5=0445AM
+TTITLE6=Even if...
+TTITLE7=7th Park
+TTITLE8=Resurrection
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36335
+#	59882
+#	82137
+#	104010
+#	130452
+#
+# Disc length: 2291 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5f08f106
+DTITLE=Irakere - Vol. IV - Seleccion de exitos
+DYEAR=1980
+DGENRE=Latin
+TTITLE0=La comparsa
+TTITLE1=Los ojos de pepa
+TTITLE2=Aguanile bonk
+TTITLE3=Por romper el coco
+TTITLE4=Iya
+TTITLE5=Quindiambo
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

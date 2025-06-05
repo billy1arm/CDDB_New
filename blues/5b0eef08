@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36142
+#	69377
+#	108814
+#	142532
+#	181520
+#	217579
+#	259411
+#
+# Disc length: 3825 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=5b0eef08
+DTITLE=Dick Oatts - South Paw
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=King Henry
+TTITLE1=One For Jacks
+TTITLE2=Reconcile
+TTITLE3=Raised Nine Ball
+TTITLE4=South Paw
+TTITLE5=Totomlane
+TTITLE6=What's New
+TTITLE7=Barbarian
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

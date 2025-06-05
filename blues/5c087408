@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21215
+#	39938
+#	59453
+#	77553
+#	99653
+#	120245
+#	144495
+#
+# Disc length: 2166 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c087408
+DTITLE=Diana Ross - The Boss
+DYEAR=1979
+DGENRE=Soul
+TTITLE0=No One Gets The Prize
+TTITLE1=I Ain't Been Licked
+TTITLE2=All For One
+TTITLE3=The Boss
+TTITLE4=Once In The Morning
+TTITLE5=It's My House
+TTITLE6=Sparkle
+TTITLE7=I'm In The World
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

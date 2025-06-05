@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45252
+#	87616
+#	126998
+#	156422
+#	195364
+#	225220
+#	252981
+#
+# Disc length: 3838 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5e0efc08
+DTITLE=Kinan Azmeh and Dinuk Wijeratne - Complex Stories, Simple Sounds
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=The Learning Curve
+TTITLE1=Ibn Arabi's Postlude
+TTITLE2=After Bela
+TTITLE3=Silent Fanfares
+TTITLE4=Something There
+TTITLE5=November 22nd
+TTITLE6=Resuf
+TTITLE7=Something There - Remix
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

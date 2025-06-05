@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  24420
+#  46702
+#  60142
+#  79072
+#  87855
+#  138432
+#  147615
+#
+# Disc length: 2618 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=5d0a3808
+DTITLE=Dave Brubeck - Dave Brubeck's All-Time Greatest Hits: Vol. 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Take Five
+TTITLE1=Night and Day
+TTITLE2=I'm In a Dancing Mood
+TTITLE3=Castilian Drums
+TTITLE4=Camptown Races
+TTITLE5=St. Louis Blues
+TTITLE6=Unsquare Dance
+TTITLE7=Two Part Contention
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

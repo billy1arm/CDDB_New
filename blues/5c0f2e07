@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53725
+#	94300
+#	124450
+#	175075
+#	199825
+#	228925
+#
+# Disc length: 3888 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c0f2e07
+DTITLE=Saint-Saëns - Concertos pour piano (Michel Plasson, Orch. Capitol de Toulouse - P.Entremont, piano) 1/2
+DYEAR=1989
+DGENRE=Classique
+TTITLE0=Concerto pour piano N°1 en ré majeur, Op.17 - I. Andante - Allegro assai
+TTITLE1=Concerto pour piano N°1 en ré majeur, Op.17 - II. Andante sostenuto quasi adagio
+TTITLE2=Concerto pour piano N°1 en ré majeur, Op.17 - III. Allegro con fuoco
+TTITLE3=Concerto pour piano N°2 en sol mineur, Op.22 - I. Andante sostenuto
+TTITLE4=Concerto pour piano N°2 en sol mineur, Op.22 - II. Allegro scherzando
+TTITLE5=Concerto pour piano N°2 en sol mineur, Op.22 - III. Presto
+TTITLE6=Concerto pour piano N°3 en mi bémol majeur, Op.29 - I. Moderato assai
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

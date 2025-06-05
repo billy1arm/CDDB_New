@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7179
+#	84835
+#	94420
+#	178015
+#	239017
+#	266987
+#
+# Disc length: 4222 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d107c07
+DTITLE=Kempowski, Walter - Aus großer Zeit - CD 12
+DYEAR=2001
+DGENRE=Hörbuch
+TTITLE0=Musik
+TTITLE1=Kapitel 41
+TTITLE2=Kapitel 42, Die Freundin
+TTITLE3=Kapitel 43
+TTITLE4=Kapitel 44
+TTITLE5=Kapitel 45, Die Wirtschafterin
+TTITLE6=Kapitel 46
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

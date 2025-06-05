@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42522
+#	83812
+#	129058
+#	184214
+#	227819
+#	269999
+#
+# Disc length: 4559 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5f11cd07
+DTITLE=Various Artist - Elgar, Strauss, Ravel ~ Sonates pour violon and piano  (Jonathan Crow, violon and Paul Stewart)
+DYEAR=2008
+DGENRE=Classique
+TTITLE0=Edward Elgar - Sonate pour violon et piano en mi mineur Op.82 - I. Allegro
+TTITLE1=Edward Elgar - Sonate pour violon et piano en mi mineur Op.82 - II. Romance (Andante)
+TTITLE2=Edward Elgar - Sonate pour violon et piano en mi mineur Op.82 - III. Allegro, non troppo
+TTITLE3=Richard Strauss - Sonate pour violon et piano en mi bémol majeur Op.18 - I. Allegro ma non trippo
+TTITLE4=Richard Strauss - Sonate pour violon et piano en mi bémol majeur Op.18 - II. Improvisation (Andante)
+TTITLE5=Richard Strauss - Sonate pour violon et piano en mi bémol majeur Op.18 - III. Finale (Andante-Allegro)
+TTITLE6=Maurice Ravel - Sonate posthume pour violon et piano en la mineur (1897)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

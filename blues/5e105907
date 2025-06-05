@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	72329
+#	101011
+#	154895
+#	193820
+#	235222
+#	273131
+#
+# Disc length: 4187 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5e105907
+DTITLE=Tassilo Dellers - See You
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=01 - SeeYou
+TTITLE1=02 - 500 Smiles
+TTITLE2=03 - Antipasti Misti
+TTITLE3=04 - Some In time
+TTITLE4=05 - My Fun In Tiny Valley
+TTITLE5=06 - Cosmic Waltz
+TTITLE6=07 - Tears Of Silence
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26970
+#	60633
+#	83590
+#	98355
+#	129353
+#	151413
+#	169393
+#
+# Disc length: 2645 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a0a5308
+DTITLE=Milt Jackson, Joe Pass, Ray Brown - The Big 3
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=The Pink Panther
+TTITLE1=Nuages
+TTITLE2=Blue Bossa
+TTITLE3=Come Sunday
+TTITLE4=Wave
+TTITLE5=Moonglow
+TTITLE6=You Stepped Out of a Dream
+TTITLE7=Blues for Sammy
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

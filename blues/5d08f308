@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20348
+#	45736
+#	76617
+#	96956
+#	119366
+#	140316
+#	155106
+#
+# Disc length: 2293 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d08f308
+DTITLE=Ben Harper - Live From Mars
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Waiting for an angel
+TTITLE1=Roses from my friend
+TTITLE2=Power of the Gospel
+TTITLE3=Pleasure and pain
+TTITLE4=Please bleed
+TTITLE5=The drugs don't work
+TTITLE6=In the lords arms
+TTITLE7=Not fire, not ice
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

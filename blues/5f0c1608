@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23310
+#	64640
+#	96501
+#	121266
+#	154724
+#	175777
+#	202052
+#
+# Disc length: 3096 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f0c1608
+DTITLE=Jackson Harrison Trio - Land Tides
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Haven
+TTITLE1=Land Tides
+TTITLE2=Rivers And Oceans
+TTITLE3=Music To Forget
+TTITLE4=Strafe
+TTITLE5=Kinski
+TTITLE6=Dreamed Landscape
+TTITLE7=Ajanta
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

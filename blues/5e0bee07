@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34621
+#	67893
+#	97378
+#	118575
+#	154641
+#	186678
+#
+# Disc length: 3056 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5e0bee07
+DTITLE=Dan Gibson - Solitudes - Pacific Grace
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=Pacific Grace
+TTITLE1=Mystic Tides
+TTITLE2=Deep Blue
+TTITLE3=Whispers In The Waves
+TTITLE4=Still Waters
+TTITLE5=Rhapsody
+TTITLE6=Sea Of Tears
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

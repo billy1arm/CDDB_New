@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37530
+#	57674
+#	81295
+#	132450
+#	171086
+#	201489
+#
+# Disc length: 3567 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5f0ded07
+DTITLE=ASMF - Marriner - Lloyd-Webber - Walton Cello Concerto Op.68
+DYEAR=1997
+DGENRE=Concerto
+TTITLE0=Cello Concerto in E minor -I- Adagio - Moderato
+TTITLE1=Cello Concerto in E minor -II- Lento - Allegro molto
+TTITLE2=Cello Concerto in E minor -III- Adagio
+TTITLE3=Cello Concerto in E minor -IV- Allegro
+TTITLE4=Cello Concerto -I- Moderato
+TTITLE5=Cello Concerto -II- Allegro appassionato
+TTITLE6=Cello Concerto -III- Tema ed improvvisazioni
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

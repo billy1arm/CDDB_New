@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38916
+#	72039
+#	100725
+#	137936
+#	159996
+#	186316
+#
+# Disc length: 3022 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a0bcc07
+DTITLE=Sphinx Trio - Sweet Maladies CD2
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Aspects
+TTITLE1=The Rag Man
+TTITLE2=Unlucky Number
+TTITLE3=Once I Knew, Now I Know
+TTITLE4=Saxorama
+TTITLE5=Sweet Malady
+TTITLE6=Fifth Dimension
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

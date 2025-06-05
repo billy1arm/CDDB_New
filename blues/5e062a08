@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16765
+#	27392
+#	39190
+#	60020
+#	74820
+#	89552
+#	103660
+#
+# Disc length: 1580 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5e062a08
+DTITLE=Louis Armstrong - Louis Armstrong
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Tiger Rag (original Dixieland Jazz Band)
+TTITLE1=Honeysuckle Rose
+TTITLE2=Muskrat Ramble
+TTITLE3=Tin Roof Blues
+TTITLE4=Basin Street Blues
+TTITLE5=Body and Soul
+TTITLE6=Twelfth Street Rag
+TTITLE7=St James Infirmary
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

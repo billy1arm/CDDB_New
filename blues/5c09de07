@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49245
+#	69756
+#	92929
+#	108530
+#	141083
+#	162958
+#
+# Disc length: 2528 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c09de07
+DTITLE=B.B. King - Blues Archive [CD 2]
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=BB's Theme
+TTITLE1=Why I sing the Blues
+TTITLE2=Darling you know I love you
+TTITLE3=Caledonia
+TTITLE4=All over again
+TTITLE5=Everyday I have the blues
+TTITLE6=Sweet little Angel
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

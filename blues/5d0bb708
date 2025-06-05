@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21750
+#	54272
+#	83823
+#	111086
+#	134159
+#	173576
+#	195202
+#
+# Disc length: 3001 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=5d0bb708
+DTITLE=John Tchicai and Even Parker - Clapham Duos
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Clapham Duo 1 Bass Clar/Sop
+TTITLE1=Clapham Duo 2 Bass Clar/Sop
+TTITLE2=Clapham Duo 3 Ato/Sop
+TTITLE3=Clapham Duo 4 Tenor/Tenor
+TTITLE4=Clapham Duo 5 Tenor/Tenor
+TTITLE5=Clapham Duo 6 Bass Clar/Sop
+TTITLE6=Clapham Duo 7 Sop/Alto
+TTITLE7=Clapham Duo 8 Tenor/Tenor
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

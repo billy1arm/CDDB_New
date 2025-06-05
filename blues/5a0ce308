@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24050
+#	55532
+#	95276
+#	132296
+#	156143
+#	183484
+#	203180
+#
+# Disc length: 3301 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=5a0ce308
+DTITLE=Pino Russo Trio - Marea
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Furore (Pino Russo)
+TTITLE1=Marea (Pino Russo)
+TTITLE2=Latin lovers (Joao Bosco)
+TTITLE3=Spiagge (Pino Russo)
+TTITLE4=Last train home (Pat Metheny)
+TTITLE5=Gatteria (Pino Russo)
+TTITLE6=Brasil (Ary Barroso)
+TTITLE7=Spain* (Chick Corea)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

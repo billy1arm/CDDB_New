@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29914
+#	77383
+#	109845
+#	150088
+#	166512
+#	207687
+#	244872
+#
+# Disc length: 3812 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a0ee208
+DTITLE=Wadada Leo Smith - Vinny Golia - Bertram Turetzky - Prataksis
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=And the Future Became Fluid
+TTITLE1=Dancing on the Edge
+TTITLE2=Alexandra's Fancy
+TTITLE3=Music for Confused Travelers
+TTITLE4=Of Love and Loss
+TTITLE5=Growing to be Shadows
+TTITLE6=Two Up, Two Down
+TTITLE7=Fractured Laws
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

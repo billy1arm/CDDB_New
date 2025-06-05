@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7055
+#	70025
+#	92600
+#	120775
+#	148285
+#	176267
+#	197467
+#
+# Disc length: 3220 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f0c9208
+DTITLE=世界宗教音楽ライブラリー - 中国儒教寺院の儀礼
+DYEAR=1987
+DGENRE=World
+TTITLE0=儀式の開始
+TTITLE1=霊を迎える場面
+TTITLE2=第1の供物を捧げる場面
+TTITLE3=第2の供物を捧げる場面
+TTITLE4=第3の供物を捧げる場面
+TTITLE5=お供えの食物を下げる場面
+TTITLE6=霊を送る場面
+TTITLE7=案内の行進曲
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

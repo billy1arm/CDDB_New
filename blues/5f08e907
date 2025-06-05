@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6808
+#	37949
+#	53205
+#	81729
+#	119848
+#	144476
+#
+# Disc length: 2283 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5f08e907
+DTITLE=Motoca Oguni - Museum Suite
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=The Sailing Waltz 〜Piano Solo〜
+TTITLE1=Suma’s Cocktail (須磨氏のカクテル)
+TTITLE2=Canal Song
+TTITLE3=Drawing of the Sunset (夕陽のスケッチ)
+TTITLE4=Passion Fruit(溢れ出る想い)
+TTITLE5=Picasso Steps
+TTITLE6=The Sailing Waltz
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

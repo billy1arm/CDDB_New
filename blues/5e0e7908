@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	60998
+#	99598
+#	133358
+#	166208
+#	196703
+#	228263
+#	256678
+#
+# Disc length: 3707 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5e0e7908
+DTITLE=Sonny Clark - Cool Struttin' - Sonny's Crib - My Conception CD2
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Sonny's Crib
+TTITLE1=News For Lulu
+TTITLE2=Junka
+TTITLE3=Blues Blue
+TTITLE4=Minor Meeting (Second Version)
+TTITLE5=Royal Flush (Second Version)
+TTITLE6=Some Clark Bars
+TTITLE7=My Conception
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

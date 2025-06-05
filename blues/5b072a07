@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17475
+#	41822
+#	63601
+#	78704
+#	86217
+#	111887
+#
+# Disc length: 1836 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b072a07
+DTITLE=Thunderbeat - Fly High
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=I'm Calling You
+TTITLE1=You Must Find
+TTITLE2=I Will Become
+TTITLE3=Ride
+TTITLE4=(Prelude) Fly High
+TTITLE5=Fly High
+TTITLE6=Dreams
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

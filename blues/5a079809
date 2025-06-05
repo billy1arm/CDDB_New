@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14362
+#	27871
+#	40006
+#	54091
+#	82710
+#	99883
+#	116146
+#	130745
+#
+# Disc length: 1946 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a079809
+DTITLE=Lionel Hampton - Flying Home CD5
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=1 A Foggy Day  (Gershwin)
+TTITLE1=2 Beulah’s Sister’s Boogie (Hampton/Buckner)
+TTITLE2=3 Dinah(Lewis/Young/Akst)
+TTITLE3=4 Gay Notes (Hampton)
+TTITLE4=5 How High The Moon (Hamilton/Lewis)
+TTITLE5=6 Jeepers Creepers(Mercer/Warren)
+TTITLE6=7 My Old Flame (Coslow/Johnston)
+TTITLE7=8 On The Sunny Side Of The Street (Fields/McHugh)
+TTITLE8=9 Blow Top Blues  (Feather)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

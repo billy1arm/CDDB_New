@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	9605
+#	19585
+#	28672
+#	38290
+#	49380
+#	60082
+#	70682
+#	82517
+#	92507
+#
+# Disc length: 1379 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=5f05610a
+DTITLE=Little Richard - Greatest Songs
+DYEAR=1900
+DGENRE=
+TTITLE0=Long Tall Sally
+TTITLE1=Keep A Knockin'
+TTITLE2=Jenny, Jenny
+TTITLE3=Good Golly, Miss Molly
+TTITLE4=Lucille
+TTITLE5=Tutti Frutti
+TTITLE6=Rip It Up
+TTITLE7=Slippin' And Slidin' (Peepin' And Hidin')
+TTITLE8=Ready, Teddy
+TTITLE9=The Girl Can't Help It
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

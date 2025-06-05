@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	12575
+#	25546
+#	47115
+#	65667
+#	77745
+#	88269
+#	106154
+#
+# Disc length: 1760 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,39,0213
+#
+DISCID=5f06de08
+DTITLE=Jim Manard - Jim Manard and the Jazz Envoy Trio
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Jim's Blues
+TTITLE1=New York, New York
+TTITLE2=You Stepped Out Of A Dream
+TTITLE3=Sometimes I'm Happy
+TTITLE4=The Three Bears
+TTITLE5=Rosetta
+TTITLE6=Walkin'
+TTITLE7=What Am I Here For
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

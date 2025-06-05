@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37412
+#	82447
+#	122472
+#	153317
+#	197537
+#	236490
+#
+# Disc length: 3615 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a0e1d07
+DTITLE=Vivaldi - Concertos pour flûte  (Nicholas McGegan, Philharmonia Baroque Orchestra ~ Janet See, flûte)
+DYEAR=1979
+DGENRE=Classique
+TTITLE0=Concerto en Ré majeur, RV.427 ~ Allegro ~ Largo ~ Allegro
+TTITLE1=Concerto en Sol majeur, RV.438 ~ Allegro molto ~ Largo ~ Allegro
+TTITLE2=Concerto en La minor, RV.440 ~ Allegro non troppo ~ Larghetto ~ Allegro
+TTITLE3=Concerto en Do majeur, RV.533 ~ Allegro molto ~ Largo ~ Allegro
+TTITLE4=Concerto en Ré majeur, RV.428 ~ Allegro ~ Larghetto cantabile ~ Allegro
+TTITLE5=Concerto en Sol majeur, RV.436 ~ Allegro ~ Largo ~ Allegro
+TTITLE6=Concerto en Ré majeur, RV.429 ~ Allegro ~ Andante ~ Allegro
+EXTD=Janet See, flute (Rotterburgh, by Rod Cameron) YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

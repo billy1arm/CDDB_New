@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27055
+#	57915
+#	70785
+#	88867
+#	98737
+#	120402
+#	143347
+#
+# Disc length: 2273 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c08df08
+DTITLE=WEATHER REPORT - Heavy Weather
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=BIRDLAND
+TTITLE1=A REMARK YOU MADE
+TTITLE2=TEEN TOWN
+TTITLE3=HARLEQUIN
+TTITLE4=RUMBA MAMA
+TTITLE5=PALLADIUM
+TTITLE6=THE JUGGLER
+TTITLE7=HAVONA
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

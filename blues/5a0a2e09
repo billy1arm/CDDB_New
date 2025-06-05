@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15955
+#	47402
+#	69117
+#	82655
+#	103550
+#	115445
+#	135290
+#	159690
+#
+# Disc length: 2608 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a0a2e09
+DTITLE=Newton, James - Axum
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=the dabtara
+TTITLE1=malak ugabe
+TTITLE2=solomon, chief of wise men
+TTITLE3=addis adeba
+TTITLE4=choir
+TTITLE5=feeling
+TTITLE6=axum
+TTITLE7=susenyos and werzelya
+TTITLE8=the neser
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

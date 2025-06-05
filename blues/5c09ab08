@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	764
+#	35087
+#	57975
+#	97941
+#	122873
+#	143321
+#	172098
+#
+# Disc length: 2477 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c09ab08
+DTITLE=Hertfordshire Chorus - Will Todd - Jazz Mass (Review Copy Only)
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Applause
+TTITLE1=Kyrie
+TTITLE2=Gloria
+TTITLE3=Credo
+TTITLE4=Sanctus
+TTITLE5=Benedictus
+TTITLE6=Agnus Dei
+TTITLE7=Credo Reprise
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

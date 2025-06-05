@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30441
+#	59356
+#	84470
+#	108966
+#	154120
+#	183332
+#	209439
+#
+# Disc length: 3231 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5f0c9d08
+DTITLE=Dick Hindman Paul Warburton Colin Bailey - Secret Garden [CD 2)
+DYEAR=1984
+DGENRE=Jazz
+TTITLE0=Mr. CB
+TTITLE1=Hi-Lili Hi-Lo
+TTITLE2=Secret Garden
+TTITLE3=Solipsism
+TTITLE4=Round Midnight
+TTITLE5=Bossa de Amor
+TTITLE6=Love is a Many Splendored Thing
+TTITLE7=Little Nipper Alternate Take
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

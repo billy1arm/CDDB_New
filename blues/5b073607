@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35602
+#	43479
+#	70269
+#	84370
+#	108137
+#	111986
+#
+# Disc length: 1848 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=5b073607
+DTITLE=Chris Pitsiokos Trio - Gordian Twine
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=Prologue
+TTITLE1=Lethe
+TTITLE2=Clotho
+TTITLE3=Lachesis
+TTITLE4=Atropos
+TTITLE5=Dissolution
+TTITLE6=Epilogue
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

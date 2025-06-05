@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48450
+#	86401
+#	126452
+#	153864
+#	208016
+#	261868
+#
+# Disc length: 4051 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=5c0fd107
+DTITLE=Sampler - Sunset Jazz Vol 1 [CD1)
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=5 Gänge zurück (Tim Rodig Group)
+TTITLE1=What is (Sandra Hempel Quartet)
+TTITLE2=Fishing (Triorange)
+TTITLE3=UFO (Martin Tingvall Trio)
+TTITLE4=Charanga Mozambique (Matthäus Winnitzki`s Sonora 51)
+TTITLE5=Mahgrab (Impact)
+TTITLE6=Turnaround (Sunset Trio)
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

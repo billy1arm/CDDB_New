@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	22875
+#	46367
+#	68420
+#	93167
+#	122987
+#	155335
+#	174720
+#
+# Disc length: 2445 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5b098b08
+DTITLE=Clare Fischer - Thesaurus
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=The duke
+TTITLE1=Miles behind
+TTITLE2=Calamus
+TTITLE3=Lennie's pennies
+TTITLE4='Twas only yesterday
+TTITLE5=Bitter leaf
+TTITLE6=Upper Manhattan medical group
+TTITLE7=In memoriam (John F. and Robert F. Kennedy)
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

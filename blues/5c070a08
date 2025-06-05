@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15025
+#	31284
+#	45615
+#	58816
+#	79820
+#	98140
+#	117636
+#
+# Disc length: 1804 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c070a08
+DTITLE=Hans Koller - Relax with my horns
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=Relax
+TTITLE1=The sweetest girl I've ever known
+TTITLE2=Music for Pablo I
+TTITLE3=The twister
+TTITLE4=Half and half
+TTITLE5=Ziag hin
+TTITLE6=Blues for Marina
+TTITLE7=Music for Pablo II
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

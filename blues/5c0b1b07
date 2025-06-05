@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16367
+#	25390
+#	47594
+#	77565
+#	149207
+#	178170
+#
+# Disc length: 2845 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c0b1b07
+DTITLE=Didier Daeninckx - Meurtres pour mémoire [CD1/4]
+DYEAR=2004
+DGENRE=AudioBook
+TTITLE0=Saïd Milache
+TTITLE1=Saïd et Lounès
+TTITLE2=Roger Thiraud
+TTITLE3=Kaïra Guélanine
+TTITLE4=La manifestation
+TTITLE5=Bernard Thiraud
+TTITLE6=Inspecteur Cadin
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

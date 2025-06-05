@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30559
+#	57183
+#	85377
+#	122356
+#	150780
+#	179876
+#	207031
+#
+# Disc length: 3151 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c0c4d08
+DTITLE=Móva citerazenekar - Muzsikának szép a hangja
+DYEAR=2002
+DGENRE=Citera
+TTITLE0=Gömör-A bárnai kertek alatt
+TTITLE1=Sóvidéki verbunk, lassú és sebes
+TTITLE2=Dunántul-Három deci pálinka
+TTITLE3=Rábaköz-Katonának kell menni
+TTITLE4=Lôrincrévi pontozó és csárdás
+TTITLE5=Bogyiszlói táncdallamok
+TTITLE6=Vajdaszentivány-Sebes forduló, csárdás és cigánycsárdás
+TTITLE7=Szatmári dallamok
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

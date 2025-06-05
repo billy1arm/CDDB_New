@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16674
+#	45696
+#	90598
+#	133266
+#	143712
+#	205395
+#
+# Disc length: 3423 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b0d5d07
+DTITLE=Beethoven - Sonates pour Piano - Vol.8-9  { Friedrich Gulda }
+DYEAR=1967
+DGENRE=Piano
+TTITLE0=Sonate N° 28  en La majeur, Op.101  [1816] - I. Allegretto ma non troppo
+TTITLE1=Sonate N° 28  en La majeur, Op.101  [1816] - II. Vivace alla Marcia
+TTITLE2=Sonate N° 28  en La majeur, Op.101  [1816] - III. Adagio ma non troppo-allegro
+TTITLE3=Sonate N° 29  en Si bémol majeur, Op.106 ''Hammerklavier''  [1818] - I. Allegro
+TTITLE4=Sonate N° 29  en Si bémol majeur, Op.106 ''Hammerklavier''  [1818] - II. Scherzo: Assai vivace - Presto
+TTITLE5=Sonate N° 29  en Si bémol majeur, Op.106 ''Hammerklavier''  [1818] - III. Adagio sostenuto
+TTITLE6=Sonate N° 29  en Si bémol majeur, Op.106 ''Hammerklavier''  [1818] - IV. Largo-allegro risoluto
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

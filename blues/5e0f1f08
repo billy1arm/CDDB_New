@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50005
+#	96132
+#	122610
+#	156840
+#	201062
+#	226157
+#	247907
+#
+# Disc length: 3873 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5e0f1f08
+DTITLE=Shepp, Archie Quartet - I Didn't Know About You
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Go Down Moses (Let My People Go)
+TTITLE1=I Didn't Know About You
+TTITLE2=Billie's Bossa
+TTITLE3=Hot House
+TTITLE4=The Good Life
+TTITLE5=Now's the Time
+TTITLE6=Ask Me Now
+TTITLE7=Party-Time
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

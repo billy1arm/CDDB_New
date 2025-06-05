@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12835
+#	46162
+#	106447
+#	132225
+#	166222
+#	198245
+#	229570
+#
+# Disc length: 3459 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=5a0d8108
+DTITLE=Art Blakey - The Best Of Art Blakey
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Generique
+TTITLE1=No Problem
+TTITLE2=Moanin'
+TTITLE3=I Remember Clifford
+TTITLE4=Whisper Not
+TTITLE5=Night In Tunisia
+TTITLE6=My Romance
+TTITLE7=Blues March
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

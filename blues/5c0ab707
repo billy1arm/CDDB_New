@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26827
+#	61315
+#	87190
+#	112427
+#	137960
+#	172530
+#
+# Disc length: 2745 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c0ab707
+DTITLE=Frankfurter Jazz Quartett - 40 Jahre BGS
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Sister Sedie (Horace Silver)
+TTITLE1=Sophisticated Lady (Duke Ellington)
+TTITLE2=Someday my prince will come (Churchill)
+TTITLE3=Groovin' high (Dizzy Gillespie)
+TTITLE4=Autumn leaves (Joseph Cosma)
+TTITLE5=Body and soul (Johnny Green)
+TTITLE6=Zeil um 4 (Emil Mangelsdorff)
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29522
+#	54240
+#	81015
+#	112542
+#	138777
+#	158265
+#	174387
+#	198747
+#
+# Disc length: 3010 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5f0bc009
+DTITLE=Magnus Lindgren Quartet - The Game
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Holyem
+TTITLE1=Seven is Heaven
+TTITLE2=The Game
+TTITLE3=When You Go
+TTITLE4=Ethnomore
+TTITLE5=Soflty as in a Morning Sunrise
+TTITLE6=Sofia kom hem
+TTITLE7=Blue Star
+TTITLE8=Caravan
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

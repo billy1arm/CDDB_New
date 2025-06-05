@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23700
+#	47137
+#	63452
+#	80632
+#	105755
+#	125460
+#	144867
+#
+# Disc length: 2335 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=5f091d08
+DTITLE=Airto Moreira - I'm Fine, How Are You?
+DYEAR=1977
+DGENRE=Jazz
+TTITLE0=I'm Fine, How Are You?
+TTITLE1=Meni Devol
+TTITLE2=La Tumbadora
+TTITLE3=The Happy People
+TTITLE4=The Road Is Hard (But We're Going To Make It)
+TTITLE5=La Cumbia De Anders
+TTITLE6=Celebration Suite
+TTITLE7=Nativity
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

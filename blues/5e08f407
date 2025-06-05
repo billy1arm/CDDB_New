@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28627
+#	51942
+#	74595
+#	87610
+#	133025
+#	160520
+#
+# Disc length: 2294 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5e08f407
+DTITLE=Tsuyoshi Yamamoto - Daahoud
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Daahoud
+TTITLE1=I Love You Porgy
+TTITLE2=Alice In Wonderland
+TTITLE3=I Remember Clifford
+TTITLE4=Alone Together
+TTITLE5=Stella By Starlight
+TTITLE6=In The Wee Small Hours of The Morning
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

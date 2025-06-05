@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15885
+#	30863
+#	44531
+#	57942
+#	72729
+#	86405
+#	101895
+#
+# Disc length: 1552 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f060e08
+DTITLE=Bessie Smith - DAISO Female Singers Collection 6
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Down hearted blues
+TTITLE1=Follow the deal on down
+TTITLE2=Lock and key
+TTITLE3=Hard driving papa
+TTITLE4=Love me Daddy blues
+TTITLE5=Homeless blues
+TTITLE6=Poor man's blues
+TTITLE7=Honey man blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

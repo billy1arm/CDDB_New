@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24337
+#	38212
+#	57787
+#	89137
+#	102862
+#	123562
+#	150187
+#
+# Disc length: 2283 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b08e908
+DTITLE=Roland Kirk - Reeds and Deeds
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Reeds and Deeds
+TTITLE1=Hay Ro
+TTITLE2=This Is Always
+TTITLE3=Song of the Countrymen
+TTITLE4=Limbo Boat
+TTITLE5=Lonesome August Child
+TTITLE6=Land of Peace
+TTITLE7=Waltz of the Friends
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

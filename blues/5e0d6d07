@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39713
+#	91264
+#	114513
+#	149443
+#	190934
+#	220531
+#
+# Disc length: 3439 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=5e0d6d07
+DTITLE=Manhattan Jazz Quintet - Manhattan Blues
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Blues March
+TTITLE1=St. Louis Blues
+TTITLE2=Manhatten Blues
+TTITLE3=Sweet Basil Blues
+TTITLE4=Blues In The Night
+TTITLE5=Basin Street Blues
+TTITLE6=Bag's Groove
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

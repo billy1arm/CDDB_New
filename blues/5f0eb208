@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41427
+#	82975
+#	115835
+#	155257
+#	185285
+#	212202
+#	246942
+#
+# Disc length: 3764 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f0eb208
+DTITLE=Joe van Enkhuizen Trio - Blues Ahead
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Good Bait
+TTITLE1=Blue Reverie
+TTITLE2=Hot Haouse
+TTITLE3=Blues Ahead
+TTITLE4=Cheryl
+TTITLE5=Driekhusman Total Loss
+TTITLE6=When Lights Are Low
+TTITLE7=Jumpin'With Symphony Sid
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

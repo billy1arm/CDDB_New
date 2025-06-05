@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38465
+#	66216
+#	111854
+#	147183
+#	195923
+#	228088
+#	258098
+#
+# Disc length: 3925 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5c0f5308
+DTITLE=Rufus Reid - The Gait Keeper
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=The Meddler
+TTITLE1=Ode To Ray
+TTITLE2=Whims Of The Bluebird
+TTITLE3=Falling In Love
+TTITLE4=The Gait Keeper
+TTITLE5=You Make Me Smile
+TTITLE6=Celestial Dance
+TTITLE7=Seven Minds
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

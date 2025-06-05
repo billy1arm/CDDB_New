@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	28130
+#	45422
+#	62055
+#	86817
+#	110410
+#	153202
+#	174880
+#
+# Disc length: 2567 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a0a0508
+DTITLE=Duke Jordan - Flight To Japan
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Lullaby Of The Orient
+TTITLE1=Bridgetown
+TTITLE2=The Bullet (Shinkansen)
+TTITLE3=Love Hotel
+TTITLE4=Stone Wall Blues
+TTITLE5=I Can't Get Started (Gershwin)
+TTITLE6=Flight To Japan
+TTITLE7=Table Chess 
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

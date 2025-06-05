@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38558
+#	78777
+#	128563
+#	165311
+#	201339
+#	237839
+#	281118
+#
+# Disc length: 4371 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5d111108
+DTITLE=Nimitz-Berry Quintet - Live at Capozzoli's
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Broadway 
+TTITLE1=Papoose Bloose
+TTITLE2=All The Things You Are
+TTITLE3=You've Changed
+TTITLE4=Sweet Georgia Brown
+TTITLE5=It's You Or No One
+TTITLE6=Polka Dots And Moonbeams
+TTITLE7=A Night In Tunisa 
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

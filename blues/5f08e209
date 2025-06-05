@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	20438
+#	41040
+#	52648
+#	77869
+#	91119
+#	109587
+#	128346
+#	147020
+#
+# Disc length: 2276 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5f08e209
+DTITLE=De Piscopo - Cerri - Poggi - Classic in Jazz - CD1
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Sonata In E Major (D. Scarlatti)
+TTITLE1=Sonata In B Minor (D. Scarlatti)
+TTITLE2=Scarlatti Fantasy (C. Poggi)
+TTITLE3=Concerto Italiano II Mov. (J.S. Bach)
+TTITLE4=Giga (D. Alberti)
+TTITLE5=Preludio XXIV From The Second Book Of The Well Tempered Clavier (J.S. Bach)
+TTITLE6=Stop Time Rag In B Major (S. Joplin)
+TTITLE7=Preludio IV From The Second Book Of The Well Tempered Clavier (J.S. Bach)
+TTITLE8=Sarabanda From The Suite pour Le Piano (C. Debussy)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

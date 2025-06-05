@@ -1,0 +1,37 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	31096
+#	58681
+#	74648
+#	105911
+#	151399
+#	172290
+#
+# Disc length: 2745 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.83.01
+#
+DISCID=5a0ab707
+DTITLE=Yuri Naumov - Violet
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Песня последнего неба
+TTITLE1=Та, с которой шёл
+TTITLE2=Ночной полёт (1)
+TTITLE3=Ночной полёт (2)
+TTITLE4=Поролоновый город
+TTITLE5=Сюрреалист
+TTITLE6=Ещё один несчастный день
+EXTD=\nYEAR: 1995  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

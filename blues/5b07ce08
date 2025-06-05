@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22100
+#	39180
+#	60540
+#	78315
+#	98030
+#	122258
+#	137918
+#
+# Disc length: 2000 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.4
+#
+DISCID=5b07ce08
+DTITLE=Diahann Carroll - A Tribute To Ethel Waters
+DYEAR=1900
+DGENRE=
+TTITLE0=After You've Gone
+TTITLE1=There'll Be Some Changes Made
+TTITLE2=Happiness Is A Thing Called Joe/My Man
+TTITLE3=Sweet Georgia Brown
+TTITLE4=Saint Louis Blues
+TTITLE5=Am I Blue
+TTITLE6=When Your Lover Has Gone
+TTITLE7=Supper Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

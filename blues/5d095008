@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	207
+#	2642
+#	31157
+#	55275
+#	77125
+#	83485
+#	114730
+#	139352
+#
+# Disc length: 2386 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=5d095008
+DTITLE=Freddie King - Live At The Texas Opry House  
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Introduction 
+TTITLE1=Your Move
+TTITLE2=Ain't Gonna Worry Anymore
+TTITLE3=Hide Away
+TTITLE4=Guitar Blues
+TTITLE5=Meet Me in the Morning
+TTITLE6=Sweet Home Chicago
+TTITLE7=Boogie on Down
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

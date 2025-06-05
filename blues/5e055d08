@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12325
+#	23362
+#	36390
+#	51460
+#	64427
+#	75512
+#	90537
+#
+# Disc length: 1375 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta6
+#
+DISCID=5e055d08
+DTITLE=various artist - Dinner Jazz
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Isn't It Romantic? - Torme, Mel
+TTITLE1=#2 Dinner Music Suite - Noble, Ray
+TTITLE2=Take the 'A' Train - Ellington, Duke
+TTITLE3=Blue Skies - Norvo, Red
+TTITLE4=Song of India - Dorsey, Tommy
+TTITLE5=Dig, Dig, Dig for your Dinner - Gray, Jerry
+TTITLE6=Cherry - James, Harry
+TTITLE7=Stardust - Day, Doris
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

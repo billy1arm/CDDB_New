@@ -1,0 +1,40 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15887
+#	38103
+#	52118
+#	68332
+#	85936
+#	103240
+#	120466
+# Disc length: 1834 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=5a072808
+DTITLE=Shyne11 - Demo 1999
+DYEAR=1900
+DGENRE=
+TTITLE0=Moving
+TTITLE1=One Man
+TTITLE2=Reach out
+TTITLE3=You got it
+TTITLE4=Monkey
+TTITLE5=Outside
+TTITLE6=Sweet
+TTITLE7=Blinded
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

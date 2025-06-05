@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54130
+#	83258
+#	111660
+#	140686
+#	173940
+#	228875
+#	264062
+#
+# Disc length: 3832 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5b0ef608
+DTITLE=Kadoonka - By The Scruff
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Krantzky 1/2
+TTITLE1=Band Of Gold
+TTITLE2=Buffer
+TTITLE3=Short Time
+TTITLE4=N.A.D.P
+TTITLE5=Snip 1/2/3
+TTITLE6=After The Sequel
+TTITLE7=A Way To Go (Home)
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

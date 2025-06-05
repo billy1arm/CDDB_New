@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54770
+#	82055
+#	120054
+#	145855
+#	184785
+#	207695
+#
+# Disc length: 3017 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=5a0bc707
+DTITLE=Pierre Tanguay and Tom Walsh - Midi Tapant
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Friends Overtime
+TTITLE1=Une petite douleur
+TTITLE2=Ping Pong
+TTITLE3=I H
+TTITLE4=Est-ce que Marie peu venir jouer?
+TTITLE5=Midi tapant
+TTITLE6=Madame Duluth
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

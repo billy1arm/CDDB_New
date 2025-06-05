@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36781
+#	77086
+#	93841
+#	129735
+#	158533
+#	196080
+#	231457
+#
+# Disc length: 3384 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a0d3608
+DTITLE=Herve Legrand - Duo
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=A (Noir)
+TTITLE1=E (Blanc)
+TTITLE2=I (Rouge)
+TTITLE3=U (Vert)
+TTITLE4=O (Bleu)
+TTITLE5=Meeting Again . Part III
+TTITLE6=Y (Semi-Voyeuse)Meeting Again . Part III
+TTITLE7=Voyelles
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

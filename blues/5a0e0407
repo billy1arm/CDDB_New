@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45253
+#	89175
+#	136551
+#	183059
+#	222311
+#	257907
+#
+# Disc length: 3590 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.23
+#
+DISCID=5a0e0407
+DTITLE=LLEWELLIN - Healing Massage (Mind, Body, Soul Series)
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=Gentle Breeze
+TTITLE1=Dusk
+TTITLE2=Moonlight
+TTITLE3=Twilight
+TTITLE4=Sunrise
+TTITLE5=A New Day
+TTITLE6=Gentle Breeze
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

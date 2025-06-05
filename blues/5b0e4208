@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38606
+#	78321
+#	88226
+#	125786
+#	157024
+#	190624
+#	242292
+#
+# Disc length: 3652 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.10
+#
+DISCID=5b0e4208
+DTITLE=Rabnett 5 - Reclamation
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=My Share
+TTITLE1=Slippery
+TTITLE2=Silent Partner
+TTITLE3=Word (S)
+TTITLE4=Fallopian Tube
+TTITLE5=D and D
+TTITLE6=Are We There Yet?
+TTITLE7=Hot Run (For Pete Crompton)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

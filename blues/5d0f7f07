@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39327
+#	61425
+#	105840
+#	132415
+#	204380
+#	266135
+#
+# Disc length: 3969 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5d0f7f07
+DTITLE=Manuel Obregón - Simbiosis
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Preludio
+TTITLE1=Conversacion con jilgueros
+TTITLE2=Danza con Toledos
+TTITLE3=Hadas y duendes
+TTITLE4=Blues del mono aullador
+TTITLE5=Un sueño en la lluvia
+TTITLE6=Requiem para el sapo dorado
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

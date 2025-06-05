@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31789
+#	68283
+#	124173
+#	175277
+#	201421
+#	251681
+#
+# Disc length: 4013 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a0fab07
+DTITLE=Rick Wurzbacher - Live!
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=The Sermon
+TTITLE1=The Reverend
+TTITLE2=All Blues
+TTITLE3=The Champ
+TTITLE4=Lenny
+TTITLE5=Champagne Glass Blues
+TTITLE6=Mac Tough
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

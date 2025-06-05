@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	32850
+#	66450
+#	89775
+#	118020
+#	125880
+#
+# Disc length: 2230 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=5f08b406
+DTITLE=Al DiMeola - Elegant Gypsy
+DYEAR=1900
+DGENRE=
+TTITLE0=Flight Over Rio
+TTITLE1=Midnight Tango
+TTITLE2=Mediterranean Sundance
+TTITLE3=Race With The Devil on Spanish Highway
+TTITLE4=Lady Of Rome, Sister Of Brazil
+TTITLE5=Elegant Gypsy
+EXTD=Digitized from vinyl.
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

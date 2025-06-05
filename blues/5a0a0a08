@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15149
+#	35398
+#	59542
+#	93428
+#	117308
+#	153256
+#	176110
+#
+# Disc length: 2572 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=5a0a0a08
+DTITLE=Forgotten Souls Brass Band - Don't Forget 'Em
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Big Chief
+TTITLE1=Snowball
+TTITLE2=Cissy Strut
+TTITLE3=Don't Forget 'Em
+TTITLE4=Who Took The Happiness Out?
+TTITLE5=Blackbird Special
+TTITLE6=Just Like That
+TTITLE7=Indian Red
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

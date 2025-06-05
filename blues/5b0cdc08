@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28117
+#	63784
+#	91530
+#	123311
+#	159133
+#	190120
+#	220403
+#
+# Disc length: 3294 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5b0cdc08
+DTITLE=Geoff Eales Trio - Master Of The Game
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Iolo's Dance
+TTITLE1=Magister Ludi
+TTITLE2=Awakening
+TTITLE3=Song For My Mother
+TTITLE4=The Saddest Journey
+TTITLE5=Inner Child
+TTITLE6=Lachrymosa
+TTITLE7=Sudden Departure
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=
