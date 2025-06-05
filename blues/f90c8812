@@ -1,0 +1,72 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 15012
+# 29650
+# 44387
+# 57287
+# 71012
+# 84162
+# 95812
+# 109650
+# 122612
+# 135750
+# 147662
+# 161637
+# 174112
+# 187250
+# 201462
+# 213537
+# 228200
+#
+# Disc length: 3210 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.2.328
+#
+DISCID=f90c8812
+DTITLE=Big Bill Broonzy - Big Bill Broonzy (1934-1947)
+DYEAR=1900
+DGENRE=
+TTITLE0=C-C Rider
+TTITLE1=My Big Money
+TTITLE2=Made A Date With An Angel
+TTITLE3=Sweetheart Land
+TTITLE4=Got To Get Ready Tonight
+TTITLE5=It's Your time Now
+TTITLE6=Good Time Tonight
+TTITLE7=Woddie Woodie
+TTITLE8=Please Be My So And So
+TTITLE9=Leap Year Blues
+TTITLE10=What Is That She Got?
+TTITLE11=Lone Wolf Blues
+TTITLE12=Getting Older Every Day
+TTITLE13=I'll Never Dream Again
+TTITLE14=Green Grass Blues
+TTITLE15=What's Wrong With Me
+TTITLE16=San Antonio Blues
+TTITLE17=Just Rocking
+EXTD=Story of the Blues Series  da music CD 3504-2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=The credits, for some reason, skip the number 12 in the song list.  The
+EXTT11=refore, even though there are only 18 tracks on this CD, the credits sh
+EXTT11=ow 19.
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

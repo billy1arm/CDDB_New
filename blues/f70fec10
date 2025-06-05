@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17203
+#	42504
+#	68017
+#	83133
+#	98149
+#	116969
+#	133472
+#	143611
+#	161603
+#	179173
+#	208032
+#	220364
+#	240552
+#	253148
+#	281282
+#
+# Disc length: 4078 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=f70fec10
+DTITLE=Various Artist - KBCO Studio C Select 5
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Dr. John  - kbco v10 -  I Don't Wanna Know John Gris
+TTITLE1=String Cheese Incident - KBCO v12 - Outside and Inside
+TTITLE2=susan tedeschi - KBCO v11 - it hurt so bad
+TTITLE3=suzanne vega - KBCO V8 - Luka
+TTITLE4=The Iguanas - KBCO V4 - Nervous
+TTITLE5=zachary richard - KBCO v3 - one kiss
+TTITLE6=The Why Store - KBCO V8 - Lack Of Water
+TTITLE7=Timbuk 3 -  KBCO V5 - Bank Robber
+TTITLE8=Train - Meet Virginia (KBCO)
+TTITLE9=Toad The Wet Sprocket - KBCO V1 - Something To Say
+TTITLE10=william topley - KBCO V9 - Delta Rain
+TTITLE11=Toad the Wet Sprocket - KBCO V9 - whatever i fear
+TTITLE12=Train - I am - KBCO v12
+TTITLE13=ugly americans - KBCO V8 - Vulcan Death Grip
+TTITLE14=Wallflowers - KBCO V8 - 6th Avenue Heartache
+TTITLE15=Western Vogue - KBCO v2 -  what its all about
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

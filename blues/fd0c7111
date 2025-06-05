@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21927
+#     34117
+#     50995
+#     65785
+#     82422
+#     98865
+#     112945
+#     118017
+#     125097
+#     134485
+#     155895
+#     170525
+#     185720
+#     196750
+#     211609
+#     226040
+# 
+# Disc length: 3187 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=fd0c7111
+DTITLE=Various Artist - Mandolin Blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Dig My Buddy, Joe
+TTITLE1=Smokey Joe
+TTITLE2=Rainy Day Blues
+TTITLE3=My Baby's Gonna Jump and Shout
+TTITLE4=Everyday I Have the Blues
+TTITLE5=Gravedigger Blues
+TTITLE6=Garbage Man Blues
+TTITLE7=Crawdad
+TTITLE8=Waiting Just For You
+TTITLE9=Mary, Run to the Window
+TTITLE10=Highway 61
+TTITLE11=Jumpin' on Eight
+TTITLE12=Stealin'
+TTITLE13=Mandolin Rock
+TTITLE14=I Tried to Get You Off My Mind
+TTITLE15=Bumble Bee
+TTITLE16=Crawling Kingsnake
+EXTD=
+EXTT0=Yank Rachell\n
+EXTT1=Yank Rachell\n
+EXTT2=Yank Rachell\n
+EXTT3=Yank Rachell\n
+EXTT4=Carl Martin\n
+EXTT5=Carl Martin\n
+EXTT6=Willie Hatcher\n
+EXTT7=Willie Hatcher\n
+EXTT8=Willie Hatcher\n
+EXTT9=Ted Bogan\n
+EXTT10=Johnny Young\n
+EXTT11=Johnny Young\n
+EXTT12=Johnny Young\n
+EXTT13=Johnny Young\n
+EXTT14=Johnny Young\n
+EXTT15=Johnny Young\n
+EXTT16=Johnny Young\n
+PLAYORDER=

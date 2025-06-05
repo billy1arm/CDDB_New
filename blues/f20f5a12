@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17008
+#	29019
+#	47156
+#	65325
+#	81908
+#	96044
+#	109445
+#	129973
+#	143274
+#	162256
+#	177235
+#	190879
+#	198789
+#	213893
+#	225369
+#	249408
+#	269116
+#
+# Disc length: 3932 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=f20f5a12
+DTITLE=Götz Alsmann - Am Broadway
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=Broadway (Broadway)
+TTITLE1=Von dieser Stunde an (From This Moment On)
+TTITLE2=Ein Wandersmann (Nature Boy)
+TTITLE3=Alles passiert immer mir (Everything Happens To Me)
+TTITLE4=Es ist die Liebe, die so glücklich macht (They Can't Take That Away From Me)
+TTITLE5=Meine kleinen Schwächen (My Favorite Things)
+TTITLE6=Was immer Lola will (Whatever Lola Wants)
+TTITLE7=Traumvision (My Funny Valentine)
+TTITLE8=Tag für Tag (Day By Day)
+TTITLE9=Das Lied der Einsamkeit (Serenade In Blue)
+TTITLE10=Der alte Zauber (That Old Black Magic)
+TTITLE11=Mondnacht am Meer (Blue Moon)
+TTITLE12=Nimm es nicht schwer (Pick Yourself Up)
+TTITLE13=Ich hätt' getanzt heut' Nacht (I Could Have Danced All Night)
+TTITLE14=C'est magnifique (C'est magnifique)
+TTITLE15=Einsamkeit (Yesterday)
+TTITLE16=Der kleine Park (A Foggy Day)
+TTITLE17=Doch dann kamst du (Till There Was You)
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	23978
+#	38798
+#	50989
+#	64238
+#	77340
+#	94205
+#	110441
+#	122124
+#	140274
+#	153384
+#	166842
+#	177446
+#	191157
+#	205981
+#	218624
+#	234008
+#	251030
+#
+# Disc length: 3652 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=f90e4212
+DTITLE=BB King - My Kind Of Blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=You Done Lost Your Good Thing Now
+TTITLE1=Mr Pawn Broker
+TTITLE2=Understand
+TTITLE3=Someday Baby
+TTITLE4=Driving Wheel
+TTITLE5=Walking Dr Bill
+TTITLE6=My Own Fault, Baby
+TTITLE7=Cat Fish Blues (Fishin' After Me)
+TTITLE8=Hold That Train
+TTITLE9=Please Set The Date
+TTITLE10=Sunny Road
+TTITLE11=Running Wild
+TTITLE12=Blues At Sunrise
+TTITLE13=Drifting Blues
+TTITLE14=Somebody Done Changed The Lock On My Door
+TTITLE15=Looking The World Over
+TTITLE16=Walking Dr Bill (O/D)
+TTITLE17=Hold That Train
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

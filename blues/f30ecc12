@@ -1,0 +1,70 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	16502
+#	34857
+#	49998
+#	68227
+#	82769
+#	101309
+#	115462
+#	130438
+#	150370
+#	172317
+#	192891
+#	203523
+#	213433
+#	229346
+#	244878
+#	255406
+#	268072
+#
+# Disc length: 3790 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCDDAExtractor 12.0.1.1
+#
+DISCID=f30ecc12
+DTITLE=Various Artist - The Ultimate Latin Album 7 CD2
+DYEAR=2006
+DGENRE=Latin
+TTITLE0=Tamara - RB 24 - Siembre
+TTITLE1=Jon Secada - RB 23 - Good Feelings
+TTITLE2=Christian - RB 22 - Mi Vida Sin Tu Amor
+TTITLE3=Tina Arena - RB 23 - Chains
+TTITLE4=Lou Rawls - RB 23 - The Last Night Of The World
+TTITLE5=Marcela Morelo - RB 23 - Te Amo
+TTITLE6=Oskar - RB 23 - Para Que
+TTITLE7=Ilegales - RB 23 - Tu Recuerdo
+TTITLE8=Christian - RB 25 - Cuando Me Miras Asi
+TTITLE9=Toni Braxton - RB 25 - Unbreak My Heart
+TTITLE10=Jon Secada - RB 25 - Cuando El Tiempo
+TTITLE11=BBM - PD 59 - En El Mundo
+TTITLE12=BBM - PD 59 - My Heart Will Go On
+TTITLE13=Shakin Stevens - JV 38 - Radio
+TTITLE14=Powder Blues Band - JV 40 - Thirty Ears
+TTITLE15=Marc Bolan - JV 42 - I Love The Boogie
+TTITLE16=BBM - JV 43 - Jailhouse Rock
+TTITLE17=BBM - JV 43 - Rock This Town
+EXTD=
+EXTT0=(RB, 24 bpm)
+EXTT1=(RB, 23 bpm)
+EXTT2=(RB, 22 bpm)
+EXTT3=(RB, 23 bpm)
+EXTT4=(RB, 23 bpm)
+EXTT5=(RB, 23 bpm)
+EXTT6=(RB, 23 bpm)
+EXTT7=(RB, 23 bpm)
+EXTT8=(RB, 25 bpm)
+EXTT9=(RB, 25 bpm)
+EXTT10=(RB, 25 bpm)
+EXTT11=(PD, 59 bpm)
+EXTT12=(PD, 59 bpm)
+EXTT13=(JI, 38 bpm)
+EXTT14=(JI, 40 bpm)
+EXTT15=(JI, 42 bpm)
+EXTT16=(JI, 43 bpm)
+EXTT17=(JI, 43 bpm)
+PLAYORDER=

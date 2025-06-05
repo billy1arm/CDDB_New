@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19245
+#     39507
+#     53792
+#     67075
+#     84717
+#     104935
+#     126327
+#     137292
+#     147905
+#     160185
+#     172257
+#     184670
+#     195425
+#     208882
+#     224695
+# 
+# Disc length: 3193 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=fd0c7710
+DTITLE=Various Artist - Sun Studio Revue
+DYEAR=1900
+DGENRE=
+TTITLE0=Rocket 88
+TTITLE1=Walkin' In The Rain
+TTITLE2=Baby I Love You
+TTITLE3=Everything's Gonna Be Alright
+TTITLE4=Really Some Good
+TTITLE5=Early In The Morning
+TTITLE6=Booker's Boogie
+TTITLE7=Lonely Weekends
+TTITLE8=Rockabilly B
+TTITLE9=Undying Love
+TTITLE10=A Man Would Be Crazy
+TTITLE11=Buy Your Love On Time
+TTITLE12=Disappointed
+TTITLE13=Yakety Yak
+TTITLE14=Nobody's Fool
+TTITLE15=Cry Like A Baby
+EXTD=
+EXTT0=Rufus Thomas\n
+EXTT1=Rufus Thomas\n
+EXTT2=Randy and The Radiants\n
+EXTT3=Randy and The Radiants\n
+EXTT4=Rufus and Carla Thomas\n
+EXTT5=Booker T. Laury\n
+EXTT6=Booker T. Laury\n
+EXTT7=Billy Swan\n
+EXTT8=Billy Swan\n
+EXTT9=Billy Swan and Van Duren\n
+EXTT10=Van Duren\n
+EXTT11=Van Duren\n
+EXTT12=Malcolm Yelvington\n
+EXTT13=Malcolm Yelvington\n
+EXTT14=Phoebe Lewis\n
+EXTT15=Sunbuddies\n
+PLAYORDER=

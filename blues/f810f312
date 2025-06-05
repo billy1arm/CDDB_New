@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21543
+#	37745
+#	47023
+#	77530
+#	91040
+#	100415
+#	119258
+#	137045
+#	148155
+#	178848
+#	194200
+#	206140
+#	235688
+#	249045
+#	263440
+#	292855
+#	303670
+#
+# Disc length: 4341 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=f810f312
+DTITLE=Polish Chamber Orchestra - Maksymiuk - Rossini String Sonatas
+DYEAR=1978
+DGENRE=Strings
+TTITLE0=String Sonata No.1 in G -I- Moderato
+TTITLE1=String Sonata No.1 in G -II- Andantino
+TTITLE2=String Sonata No.1 in G -III- Allegro
+TTITLE3=String Sonata No.2 in A -I- Allegro
+TTITLE4=String Sonata No.2 in A -II- Andantino
+TTITLE5=String Sonata No.2 in A -III- Allegro
+TTITLE6=String Sonata No.3 in C -I- Allegro
+TTITLE7=String Sonata No.3 in C -II- Andante
+TTITLE8=String Sonata No.3 in C -III- Moderato
+TTITLE9=String Sonata No.4 in Bb -I- Allegro vivace
+TTITLE10=String Sonata No.4 in Bb -II- Andantino
+TTITLE11=String Sonata No.4 in Bb -III- Allegretto
+TTITLE12=String Sonata No.5 in Eb -I- Allegro vivace
+TTITLE13=String Sonata No.5 in Eb -II- Andantino
+TTITLE14=String Sonata No.5 in Eb -III- Allegretto
+TTITLE15=String Sonata No.6 in D -I- Allegretto spiritoso
+TTITLE16=String Sonata No.6 in D -II- Andante assai
+TTITLE17=String Sonata No.6 in D -III- Tempesta - allegro
+EXTD=Rossini, Gioacchino - Sonate für Streicher No1 No2 No3 No4 No5 No6 - Polnisches Kammerorchester - Maksymiuk, Jerzy YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

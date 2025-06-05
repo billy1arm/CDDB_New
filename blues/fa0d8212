@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14039
+#	27199
+#	43449
+#	48506
+#	63036
+#	80195
+#	93340
+#	104363
+#	116636
+#	138848
+#	150543
+#	164757
+#	172105
+#	181770
+#	216387
+#	232698
+#	252359
+#
+# Disc length: 3460 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=fa0d8212
+DTITLE=John Sinclair - Edition 2000 - 36 - Der Todesnebel
+DYEAR=2006
+DGENRE=Hörspiel
+TTITLE0=Kapitel 01
+TTITLE1=Kapitel 02
+TTITLE2=Kapitel 03
+TTITLE3=Kapitel 04
+TTITLE4=Kapitel 05
+TTITLE5=Kapitel 06
+TTITLE6=Kapitel 07
+TTITLE7=Kapitel 08
+TTITLE8=Kapitel 09
+TTITLE9=Kapitel 10
+TTITLE10=Kapitel 11
+TTITLE11=Kapitel 12
+TTITLE12=Kapitel 13
+TTITLE13=Kapitel 14
+TTITLE14=Kapitel 15
+TTITLE15=Kapitel 16
+TTITLE16=Kapitel 17
+TTITLE17=Kapitel 18
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

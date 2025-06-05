@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  183
+#  13370
+#  24983
+#  38683
+#  52408
+#  66858
+#  80483
+#  97783
+#  110633
+#  124458
+#  134958
+#  146970
+#  159270
+#  170295
+#  181333
+#  194708
+#
+# Disc length: 2788 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.20
+#
+DISCID=f00ae210
+DTITLE=Various Artist - Blue Midnight
+DYEAR=1900
+DGENRE=
+TTITLE0=Moanin' At Midnight
+TTITLE1=Boogie Chillun
+TTITLE2=I'm Ready
+TTITLE3=Wang Dang Doodle
+TTITLE4=Blues In The Night
+TTITLE5=Lovin' You
+TTITLE6=Blues Before Sunrise
+TTITLE7=I'm Your Hoochie Coochie Man
+TTITLE8=I Just Want To Make Love To You
+TTITLE9=Let Your Conscience Be Your Guide
+TTITLE10=My Babe
+TTITLE11=The Sky Is Crying
+TTITLE12=Whatever I Am, You Made Me
+TTITLE13=The Red Rooster
+TTITLE14=At Last
+TTITLE15=Sad Hours
+EXTD=
+EXTT0=Howlin' Wolf
+EXTT1=John Lee Hooker
+EXTT2=Muddy Waters
+EXTT3=Koko Taylor
+EXTT4=Little Milton
+EXTT5=Lowell Fulson
+EXTT6=John Lee Hooker
+EXTT7=Muddy Waters
+EXTT8=Etta James
+EXTT9=Sonny Boy Williamson
+EXTT10=Little Walter
+EXTT11=Elmore James
+EXTT12=Koko Taylor
+EXTT13=Howlin' Wolf
+EXTT14=Etta James
+EXTT15=Little Walter
+PLAYORDER=

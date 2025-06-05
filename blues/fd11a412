@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16301
+#	32899
+#	48450
+#	64002
+#	79495
+#	95752
+#	119131
+#	136512
+#	155255
+#	169850
+#	185641
+#	203814
+#	220345
+#	233657
+#	248322
+#	264221
+#	290568
+#
+# Disc length: 4518 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=fd11a412
+DTITLE=Goya - Kawałek po kawałku
+DYEAR=2004
+DGENRE=Pop
+TTITLE0=Jesli bede taka
+TTITLE1=Kawalek po kawalku
+TTITLE2=Bede sie starac
+TTITLE3=Latwo mowic smiej sie
+TTITLE4=Smells Like Teen Spirit
+TTITLE5=Bylo tak i bedzie
+TTITLE6=Sam na sam
+TTITLE7=Niedziela
+TTITLE8=Niespodzianka 2002
+TTITLE9=Tesknota
+TTITLE10=Tak sie czuje
+TTITLE11=Dobrze jest jak jest
+TTITLE12=Czy nie czujesz zalu
+TTITLE13=Mimo wszystko
+TTITLE14=Badz tam gdzie nasze miejsce
+TTITLE15=The Time I Get
+TTITLE16=All My Sense
+TTITLE17=Data Track
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

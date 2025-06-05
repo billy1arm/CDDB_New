@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16865
+#     39840
+#     57600
+#     78505
+#     97050
+#     116405
+#     135795
+#     155305
+#     176605
+#     200765
+#     218965
+#     236035
+#     252115
+#     269350
+#     285820
+#     311940
+#     328810
+# 
+# Disc length: 4650 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=fb122812
+DTITLE=Air Supply - Once upon a time
+DYEAR=1900
+DGENRE=
+TTITLE0=Love and other bruises
+TTITLE1=What a life
+TTITLE2=Feel the breeze
+TTITLE3=Who will love me now
+TTITLE4=Do it again
+TTITLE5=End of the line
+TTITLE6=Ready for you
+TTITLE7=Empty pages
+TTITLE8=Does it matter
+TTITLE9=That's how the whole thing started
+TTITLE10=Teach me to run
+TTITLE11=Do what you do
+TTITLE12=The weight is my soul
+TTITLE13=Strangers is love
+TTITLE14=There's nothing I can do
+TTITLE15=Love comes to me
+TTITLE16=The answer lies
+TTITLE17=It's not easy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

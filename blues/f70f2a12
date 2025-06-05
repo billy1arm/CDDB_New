@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13513
+#	28653
+#	46238
+#	77350
+#	88708
+#	103820
+#	115623
+#	134480
+#	153590
+#	164043
+#	174845
+#	193945
+#	210690
+#	221788
+#	235895
+#	256085
+#	275525
+#
+# Disc length: 3884 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=f70f2a12
+DTITLE=Various Artist - Blues Masters, Volume 15: Slide Guitar Classics
+DYEAR=1900
+DGENRE=Blues
+TTITLE0="Dust My Broom" - Elmore James
+TTITLE1="Honey Bee" - Muddy Waters and His Guitar
+TTITLE2="Taylor's Rock" - Hound Dog Taylor and the Houserockers
+TTITLE3="Maxwell Street Medley" - Robert Nighthawk and His Flames of Rhythm
+TTITLE4="Too Much Alcohol" - J.B. Hutto and His Hawks
+TTITLE5="Dark Was The Night, Cold Was The Ground" - Blind Willie Johnson
+TTITLE6="Dynaflow Blues" - The Johnny Shines Blues Band
+TTITLE7="Treat Me The Way You Do" - Joe Carter and His Chicago Broomdusters
+TTITLE8="Homesick's Shuffle" - Homesick James
+TTITLE9="Deep Feeling" - Chuck Berry
+TTITLE10="Chicken Stuff" - Hop Wilson and His Chickens
+TTITLE11="I Am The Black Ace" - Black Ace
+TTITLE12="Is You Ever Seen A One-Eyed Woman Cry" - Earl Hooker
+TTITLE13="Shake Your Money-Maker" - The Paul Butterfield Blues Band
+TTITLE14="Rollin' And Tumblin'" - Canned Heat
+TTITLE15="Mean Town Blues" - Johnny Winter
+TTITLE16="Statesburo Blues" - The Allman Brothers Band
+TTITLE17=All Shook Up
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

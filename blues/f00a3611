@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9900
+#	21495
+#	29775
+#	43576
+#	53850
+#	63150
+#	78225
+#	97095
+#	103575
+#	114000
+#	121500
+#	134115
+#	148455
+#	164497
+#	172462
+#	183886
+#
+# Disc length: 2616 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=f00a3611
+DTITLE=Andrea Martignoni - À Chacun son Dépanneur
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Prologo
+TTITLE1=Definizione
+TTITLE2=È un posto
+TTITLE3=La chanson du dépanneur en face chez nous
+TTITLE4=Il quartiere posacenere
+TTITLE5=Il promissimo
+TTITLE6=Mont-Royal
+TTITLE7=Sherbrooke:il Risveglio
+TTITLE8=A ciascuno il suo dépanneur
+TTITLE9=À Venise
+TTITLE10=Berri-UQAM
+TTITLE11=risponditore
+TTITLE12=Larivière des larmes empaquetées
+TTITLE13=Impros: radio studio/Université de la Ruelle
+TTITLE14=The Doors Open and I consume
+TTITLE15=Un dépanneur al giorno
+TTITLE16=Terminus:grazie e buonasera
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

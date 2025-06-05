@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13652
+#	28727
+#	42452
+#	54902
+#	68402
+#	82352
+#	92627
+#	107702
+#	123527
+#	131552
+#	152477
+#	176102
+#	195002
+#	210902
+#	225827
+#	237602
+#	251775
+#	266327
+#
+# Disc length: 3751 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=f70ea513
+DTITLE=Various artist - Fullriggeren Sørlandet
+DYEAR=1996
+DGENRE=Sjømansvise/Shanty
+TTITLE0=Fullriggeren Sørlandets Shantykor - Fullriggeren Sørlandets vals
+TTITLE1=Jan Engervik - Udmønstringsvals
+TTITLE2=Julius Hougen - Mandalay
+TTITLE3=Farsund Sjømannsforeng Shantykor - Santy Anna
+TTITLE4=Kåre Sachariassen - Reinert me' beine
+TTITLE5=Anne Ma og Jan Erik Usterud - Sørlandssommer
+TTITLE6=Jens Gundersen - På trammen
+TTITLE7=Ole Geir Feste - Reiler vom Heissenstein
+TTITLE8=Eva Aker Nygaard med Limemanns Trio - Sørlandsnetter
+TTITLE9=Fullriggeren Sørlandets Shantykor - Sacramento
+TTITLE10=Kringkastingsorkesteret - Dir. Terje Boye Hansen -  Lovsang til Restaurantricen Lovise
+TTITLE11=Jan Engervik - Minne me' havna
+TTITLE12=Odd Børretzen - Sjømannsvals
+TTITLE13=Tveit Trekkspillklubb - Blinnleiavalsen
+TTITLE14=Malmö Riverside Trade Jazzband - Skomakervise
+TTITLE15=Jens Olai Justvik - Her har du en kristiansander
+TTITLE16=Risør Shantykor, Shantymann Erik Bye - Rio Grande
+TTITLE17=Kringkastingsorkesteret - Dir. Terje Boye Hansen - Morgensang
+TTITLE18=Knutta - Trygt i havn
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

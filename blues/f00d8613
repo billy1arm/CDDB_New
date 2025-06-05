@@ -1,0 +1,74 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	14910
+#	28677
+#	40560
+#	52750
+#	67590
+#	82522
+#	95147
+#	109735
+#	123525
+#	137549
+#	152421
+#	163551
+#	177869
+#	191526
+#	205199
+#	218553
+#	231898
+#	245881
+#
+# Disc length: 3464
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.30 
+# Normalized: r0:TDELIM( - )
+#
+DISCID=f00d8613
+DTITLE=Various Artist - Death Room Blues CD1
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Leadbelly - John Hardy
+TTITLE1=Leadbelly - Where did you sleep last night
+TTITLE2=Alomzo Johnson - Jelly Roll Baker
+TTITLE3=Richard Mariney Jones - Trouble in Mind
+TTITLE4=Big Bill Broonzy - Come up to my House
+TTITLE5=Big Bill Broonzy - Good Jelly
+TTITLE6=Mississipi John Hurt - Blessed be the Name
+TTITLE7=Mississipi John Hurt - Spike Driver Blues
+TTITLE8=Sidney Bechet - Sidneys Blues
+TTITLE9=James Yancey - Lean Bacon
+TTITLE10=James Yancey - Jimmys Stuff
+TTITLE11=Sleepy John Estes - Liquor Store Blues
+TTITLE12=Sleepy John Estes - Dont you want to Know
+TTITLE13=Daniel Louis Armstrong - Im not rough
+TTITLE14=Tommy Ladnier - Weary Blues
+TTITLE15=Blind Willie McTell - Death Room Blues
+TTITLE16=Hudson Whittaker - You cent get that stuff no more
+TTITLE17=Arthur William Crudup - Dirt Road Blues
+TTITLE18=Arthur William Crudup - Raised to my Hand
+EXTD=n/a
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

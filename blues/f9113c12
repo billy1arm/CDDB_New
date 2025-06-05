@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10284
+#	27602
+#	49757
+#	66241
+#	79113
+#	98903
+#	110452
+#	127938
+#	142312
+#	162062
+#	181037
+#	195833
+#	222848
+#	250198
+#	271023
+#	275533
+#	319830
+#
+# Disc length: 4414 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=f9113c12
+DTITLE=Watermelon Slim - Up Close and Personal
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=Truck Holler #1
+TTITLE1=Blue Freightliner
+TTITLE2=The Last Blues
+TTITLE3=I Don't Care No More
+TTITLE4=Stud Poker
+TTITLE5=Smokestack Lightning
+TTITLE6=Cynical Old Bastard
+TTITLE7=Two Trains Running
+TTITLE8=Bridgebuilder
+TTITLE9=Too Old is Getting Younger All The Time
+TTITLE10=Highway 61
+TTITLE11=Scalemaster Blues
+TTITLE12=Archetypal Blues
+TTITLE13=Got My Will Made Out
+TTITLE14=Mean Streets
+TTITLE15=Truck Holler #2
+TTITLE16=The Whaler's Battle Cry (Bonus Track)
+TTITLE17=Trashy Trashmen (Bonus Track)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

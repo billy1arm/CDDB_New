@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15167
+#	27447
+#	46215
+#	65347
+#	77472
+#	94005
+#	109197
+#	124722
+#	135987
+#	156397
+#	172777
+#	191765
+#	208902
+#	228987
+#	238984
+#	249600
+#	261792
+#	274547
+#
+# Disc length: 3759 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=f80ead13
+DTITLE=Thomas Shaw - Born In Texas
+DYEAR=1971
+DGENRE=Blues
+TTITLE0=Born InTexas
+TTITLE1=Stop And Listen
+TTITLE2=Worried Blues
+TTITLE3=Hungry Wolf
+TTITLE4=Last Year Was A Mighty Fine Year
+TTITLE5=Working Man Blues
+TTITLE6=Motherless Children
+TTITLE7=Richard Nixon's Welfare Blues
+TTITLE8=Thomas Shaw's Penitentiary Blues
+TTITLE9=Let's Rock
+TTITLE10=Sinner's Prayer
+TTITLE11=All Out And Down
+TTITLE12=Old Original Penitentiary Blues
+TTITLE13=Worried Life
+TTITLE14=Dirty Mistreater
+TTITLE15=Milky Highway
+TTITLE16=If Jesus Had To Pray
+TTITLE17=Stocking Feet Blues
+TTITLE18=Mocking The Trains
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

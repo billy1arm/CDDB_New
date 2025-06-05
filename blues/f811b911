@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5466
+#	23015
+#	44806
+#	65356
+#	83765
+#	104900
+#	132068
+#	157133
+#	179113
+#	204092
+#	224327
+#	243909
+#	262027
+#	281132
+#	301293
+#	323588
+#
+# Disc length: 4539 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=f811b911
+DTITLE=Schiller - Leben
+DYEAR=2003
+DGENRE=New Age
+TTITLE0=Willkommen
+TTITLE1=Sommerregen
+TTITLE2=I've Seen It All (Mit Maya Saban)
+TTITLE3=Zukunft (Aus Dem Film "Gate To Heaven")
+TTITLE4=Liebe (Mit Mila Mar)
+TTITLE5=Einklang
+TTITLE6=I Miss You (Mit Maya Saban)
+TTITLE7=Leben ... I Feel You (Mit Heppner)
+TTITLE8=Mittelerde
+TTITLE9=The Smile (Mit Sarah Brightman)
+TTITLE10=Dreiklang
+TTITLE11=Babel (Mit Mila Mar)
+TTITLE12=Desire (Mit Veljanov)
+TTITLE13=Stille
+TTITLE14=Vergangenheit
+TTITLE15=Delicately Yours (Mit Kim Sanders)
+TTITLE16=Ausklang
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

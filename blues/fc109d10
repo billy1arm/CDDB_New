@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22787
+#	46262
+#	67075
+#	111662
+#	140762
+#	161912
+#	180437
+#	193937
+#	212612
+#	218012
+#	237962
+#	257687
+#	269912
+#	285662
+#	302162
+#
+# Disc length: 4255 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=fc109d10
+DTITLE=Warner Brothers - Winter Cheer '90
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Speak To Me - Michael Franks, La Jolla, CA
+TTITLE1=On The Inside - Michael Franks, La Jolla, CA
+TTITLE2=The Very Thought Of You - Mark Whitfield, Syosset, NY
+TTITLE3=A Long Way From Home - Mark Whitfield, Syosset, NY
+TTITLE4=Far From Turtle - Bob James, Marshall, MO
+TTITLE5=Stop That - Bob James, Marshall, MO
+TTITLE6=On Green Dolphin Street - George Benson, Pittsburgh, PA, featuringThe Count Basie Orchestra
+TTITLE7=Basie's Bag - George Benson, Pittsburgh, PA, featuring The Count Basie Orchestra
+TTITLE8=Time After Time - Take 6, Oakwood College, AL
+TTITLE9=So Much 2 Say - Take 6, Oakwood College, AL
+TTITLE10=That's The Easy Part - Beth Nielsen Chapman, Harlington, TX
+TTITLE11=Take It As It Comes - Beth Nielsen Chapman, Harlington,TX
+TTITLE12=Please Be Kind - Frank Sinatra, AKA Sinestro, Hoboken, NJ, with Count Basie and His Orchestra
+TTITLE13=Pennies From Heaven - Frank Sinatra, AKA Sinestro, Hoboken, NJ, with Count Basie and His Orchestra
+TTITLE14=Dance Of The Dream Man - Angelo Badalamenti, AKA Andy Badale, Brooklyn, NYC
+TTITLE15=Freshly Squeezed - Angelo Badalamenti ,AKA Andy Badale, Brooklyn, NYC
+EXTD=more info\nMillenniumMusicProjectFormat, syntax as follows:\nTitle{Subtitle}[info](Lyricist;Composer;Date,Artist,Location)[info]\ncorrections to: windking3@yahoo.com YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=
