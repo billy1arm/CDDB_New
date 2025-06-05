@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13600
+#	24015
+#	33708
+#	45045
+#	56735
+#	67288
+#
+# Disc length: 1052 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=52041a07
+DTITLE=Les rats - C'est bien parti pour ne pas s'arranger !!!
+DYEAR=1988
+DGENRE=Punk Français
+TTITLE0=Paris s'éveille
+TTITLE1=Allez danser
+TTITLE2=De Barbes à Belleville
+TTITLE3=Jour de chance
+TTITLE4=Rien
+TTITLE5=Enfant à problèmes
+TTITLE6=Banlieue...
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30995
+#	59916
+#	79209
+#	105024
+#	183022
+#	241661
+#	287472
+#
+# Disc length: 4382 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=56111c08
+DTITLE=Various Artist - Yehudi Menuhin - Vol.03
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Henri Vieuxtemps - Violin Concerto N°4 in D minor, Op.31 - I. Andante, Moderato  [Philh Orch, Walter Süsskind - 1951]
+TTITLE1=Henri Vieuxtemps - Violin Concerto N°4 in D minor, Op.31 - II. Adagio religioso
+TTITLE2=Henri Vieuxtemps - Violin Concerto N°4 in D minor, Op.31 - III. Scherzo and Trio
+TTITLE3=Henri Vieuxtemps - Violin Concerto N°4 in D minor, Op.31 - IV. Finale, Allegro
+TTITLE4=Edward Elgar - Violin Concerto in B minor, Op.61 - I. Allegro  [London Symphony Orch, Edward Elgar - 1932]
+TTITLE5=Edward Elgar - Violin Concerto in B minor, Op.61 - II. Andante
+TTITLE6=Edward Elgar - Violin Concerto in B minor, Op.61 - III. Allegro molto
+TTITLE7=Edward Elgar - Cadenza (accompagnata) - Lento. Allegro molto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

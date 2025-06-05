@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7185
+#	60874
+#	128991
+#	211408
+#	249675
+#
+# Disc length: 4127 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=50101d06
+DTITLE=Horace Silver - Paris Live 1959
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=Horace Silver Introduction
+TTITLE1=The Preacher
+TTITLE2=Room 608
+TTITLE3=Doodlin'
+TTITLE4=Sweet Stuff
+TTITLE5=Se
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

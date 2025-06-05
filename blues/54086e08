@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10538
+#	24006
+#	51310
+#	77487
+#	96269
+#	125151
+#	144031
+#
+# Disc length: 2160 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=54086e08
+DTITLE=吉田隆一・植村昌弘 - 吉田的鋼鉄
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Y.U#1
+TTITLE1=Y.U#2
+TTITLE2=Y.U#3
+TTITLE3=Y.U#4
+TTITLE4=Y.U#5
+TTITLE5=Y.U#6
+TTITLE6=Y.U#7
+TTITLE7=Y.U#8
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

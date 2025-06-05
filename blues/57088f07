@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27541
+#	38111
+#	83737
+#	96637
+#	125000
+#	153263
+#
+# Disc length: 2193 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=57088f07
+DTITLE=Jukka Tolonen - High Flyin'
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=High Flyin'
+TTITLE1=Clouds
+TTITLE2=Nights Of Ibiza
+TTITLE3=Drift Wood
+TTITLE4=Punta Arabi
+TTITLE5=Sweet Music
+TTITLE6=Nitchevo
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

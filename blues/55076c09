@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16050
+#	33764
+#	52554
+#	70583
+#	84226
+#	101600
+#	115062
+#	131290
+#
+# Disc length: 1902 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=55076c09
+DTITLE=Rose Max - Brazilian Jazz
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Pra Dizer Adeus
+TTITLE1=Caminhos Cruzados
+TTITLE2=O Cantador (Like A Lover)
+TTITLE3=Amor Em Paz (Once I Loved)
+TTITLE4=Lamentos
+TTITLE5=Samba De Uma Nota So (One Note Samba)
+TTITLE6=Chovendo Na Roseira (Double Rainbow)
+TTITLE7=Me Deixa Em Paz (Se voce nao me queria)
+TTITLE8=Falando De Amor
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

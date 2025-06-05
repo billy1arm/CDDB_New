@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24894
+#	41569
+#	64617
+#	82542
+#	98559
+#	112088
+#	133238
+#
+# Disc length: 2205 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=58089b08
+DTITLE=Jack Wilson - The two side of Jack Wilson
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=The scene is clean
+TTITLE1=Glass Enclosure
+TTITLE2=Good Time Joe
+TTITLE3=Kinta
+TTITLE4=Once upon a summertime
+TTITLE5=Sometime Ago
+TTITLE6=The Good Life
+TTITLE7=The end of love affair
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	60132
+#	87995
+#	125202
+#	169405
+#	202535
+#	244580
+#
+# Disc length: 4704 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=53125e07
+DTITLE=RSNO - Thomson - Shelley - Rachmaninov Piano Concertos
+DYEAR=1990
+DGENRE=Concerto
+TTITLE0=Piano Concerto No.1 in F# minor Op.1 -I- Vivace
+TTITLE1=Piano Concerto No.1 in F# minor Op.1 -II- Andante
+TTITLE2=Piano Concerto No.1 in F# minor Op.1 -III- Allegro vivace
+TTITLE3=Piano Concerto No.4 in G minor Op.40 -I- Allegro
+TTITLE4=Piano Concerto No.4 in G minor Op.40 -II- Largo
+TTITLE5=Piano Concerto No.4 in G minor Op.40 -III- Allegro vivace
+TTITLE6=Rhapsody on a Theme of Paganini Op.43
+EXTD=YEAR: 1990
+EXTT0=Piano Concerto No. 1 in F# minor, Op. 1
+EXTT1=Piano Concerto No. 1 in F# minor, Op. 1
+EXTT2=Piano Concerto No. 1 in F# minor, Op. 1
+EXTT3=Piano Concerto No. 4 in G minor, Op. 40
+EXTT4=Piano Concerto No. 4 in G minor, Op. 40
+EXTT5=Piano Concerto No. 4 in G minor, Op. 40
+EXTT6=
+PLAYORDER=

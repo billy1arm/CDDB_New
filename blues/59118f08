@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	28040
+#	80480
+#	123307
+#	165970
+#	210282
+#	247520
+#	297307
+#
+# Disc length: 4497 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=59118f08
+DTITLE=The Great Jazz Trio - At The Villiage Vangard
+DYEAR=1977
+DGENRE=Jazz
+TTITLE0=Moose the Mooche
+TTITLE1=Naima
+TTITLE2=Favors
+TTITLE3=12 and 12
+TTITLE4=Confirmation
+TTITLE5=Wind Flower
+TTITLE6=Nardis
+TTITLE7=Lawra
+EXTD=Hank Jones, Ron Carter, Tony Williams YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

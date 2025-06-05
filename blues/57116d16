@@ -1,0 +1,83 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13560
+#	27555
+#	38562
+#	51822
+#	65917
+#	82300
+#	97027
+#	114145
+#	127377
+#	146680
+#	168795
+#	184340
+#	199067
+#	212795
+#	227372
+#	241180
+#	258627
+#	273652
+#	289330
+#	305852
+#	320637
+#
+# Disc length: 4463 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=57116d16
+DTITLE=Graham Parker And The Rumour - The Best Of Graham Parker And The Rumour
+DYEAR=1900
+DGENRE=
+TTITLE0=Silly Thing
+TTITLE1=I'm Gonna Use It Now
+TTITLE2=Between You And Me
+TTITLE3=Back To Schooldays
+TTITLE4=White Honey (Live)
+TTITLE5=You Can't Hurry Love (Live)
+TTITLE6=Pourin' It All Out
+TTITLE7=That's What They Say
+TTITLE8=Hotel Chambermaid
+TTITLE9=Fool's Gold
+TTITLE10=Watch The Moon Come Down
+TTITLE11=I'm Gonna Tear Your Playhouse Down
+TTITLE12=Thunder And Rain
+TTITLE13=Hold Back The Night
+TTITLE14=New York Shuffle (Live)
+TTITLE15=Soul Shoes (LIve)
+TTITLE16=Hey Lord, Don't Ask Me Questions
+TTITLE17=I Want You Back
+TTITLE18=Discovering Japan
+TTITLE19=Local Girls
+TTITLE20=You Can't Be Too Strong
+TTITLE21=Mercury Poisoning
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19487
+#	38824
+#	58161
+#	77498
+#	96835
+#	116172
+#
+# Disc length: 1809 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.75
+#
+DISCID=58070f07
+DTITLE=Chris Tomlin - At The Cross (Love Ran Red)
+DYEAR=2004
+DGENRE=Hip-Hop
+TTITLE0=Chris Tomlin - Demonstration
+TTITLE1=Chris Tomlin - High w/BGVs
+TTITLE2=Chris Tomlin - High w/o BGVs
+TTITLE3=Chris Tomlin - Medium w/BGVs
+TTITLE4=Chris Tomlin - Medium w/o BGVs
+TTITLE5=Chris Tomlin - Low w/BGVs
+TTITLE6=Chris Tomlin - Low w/o BGVs
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

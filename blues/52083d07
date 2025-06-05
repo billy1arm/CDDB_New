@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	24840
+#	45312
+#	73730
+#	95230
+#	103622
+#	135157
+#
+# Disc length: 2112 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=52083d07
+DTITLE=Tell Me Tell Me - Happens On Sunday
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Whisper To Me
+TTITLE1=Peaceful World
+TTITLE2=Flying
+TTITLE3=Happens On Sunday
+TTITLE4=Seabron's Song
+TTITLE5=Here With You
+TTITLE6=For A Love Like That
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23880
+#	50054
+#	67138
+#	87664
+#	112033
+#
+# Disc length: 1838 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=58072c06
+DTITLE=Lightboxer - Lightboxer
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Urban Exotics
+TTITLE1=Frozen Horses
+TTITLE2=Salazar
+TTITLE3=Nite Flight
+TTITLE4=Afrosurf
+TTITLE5=Marwin
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

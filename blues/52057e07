@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15372
+#	30516
+#	42666
+#	61825
+#	74805
+#	91620
+#
+# Disc length: 1408 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=52057e07
+DTITLE=Django Reinhardt - Jazzmag n°610 - 01-2010 Django connait ses classiques
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Liebestraum n°3 (Franz Liszt)
+TTITLE1=Improvisation swing du 1er mvt concerto en ré mineur (J.S.Bach)
+TTITLE2=Liebesfreud (Fritz Kreisler)
+TTITLE3=Nymphéas (Django Reinhardt)
+TTITLE4=Improvisation sur une danse norvégienne (Edvard Grieg)
+TTITLE5=Improvisation sur l'andante de la symph n°6 (P.I.Tchaikovsky)
+TTITLE6=Réverie (Claude Debussy)
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

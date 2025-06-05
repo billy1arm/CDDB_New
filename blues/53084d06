@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21679
+#	41952
+#	62801
+#	99567
+#	135960
+#
+# Disc length: 2127 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.7
+#
+DISCID=53084d06
+DTITLE=Lynette Washington - Long, Long Ago
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Always Christmas
+TTITLE1=Long, Long Ago
+TTITLE2=Eight Bright Candles
+TTITLE3=What's Become of Christmas?
+TTITLE4=A Visit From St. Nicholas (Jazz Suite)
+TTITLE5=Kwanza
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

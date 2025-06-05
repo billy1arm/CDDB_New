@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	20105
+#	40950
+#	64690
+#	85560
+#	106655
+#	126788
+#	152345
+#
+# Disc length: 2316 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=56090a08
+DTITLE=Salsa - Hector Rey - Al Duro
+DYEAR=1991
+DGENRE=Salsa
+TTITLE0=Ay Amor
+TTITLE1=Te Propongo
+TTITLE2=Ya No Es Lo Mismo
+TTITLE3=Te Buscare
+TTITLE4=Todavia
+TTITLE5=Yo No Se Vivir Ya Sin Tu amor
+TTITLE6=Te Sigo Queriendo
+TTITLE7=Por Ti Yo Espero
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=
