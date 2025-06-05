@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23935
+#	44363
+#	63200
+#	90308
+#	110485
+#	124875
+#	143980
+#
+# Disc length: 2353 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=68092f08
+DTITLE=Joe Cuba - El Pirata Del Caribe
+DYEAR=1979
+DGENRE=Salsa
+TTITLE0=Mi Salsa Buena
+TTITLE1=Y Solo Quede
+TTITLE2=Mulata Y Bella
+TTITLE3=Y Joe Cuba Ya llego
+TTITLE4=Tartara
+TTITLE5=Tu Adonde Estas
+TTITLE6=Que Mucha Gente Maseta
+TTITLE7=Bertos Madness
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

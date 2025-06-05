@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26400
+#	49200
+#	66300
+#	99900
+#	121350
+#	148125
+#	181350
+#	216375
+#	243300
+#	258375
+#
+# Disc length: 3832 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a30ef60b
+DTITLE=Tailgate Jazzband - Kid Ory - Revisited
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Down Home Rag
+TTITLE1=Beale Street Blues
+TTITLE2=Ostrich Walk
+TTITLE3=Sugar Blues
+TTITLE4=Yaaka Hula Hickey Dula
+TTITLE5=Aunt Hagar's Blues
+TTITLE6=Blues For Jimmy
+TTITLE7=Dixie Jassband One Step
+TTITLE8=Baby Won't You Please Come Home
+TTITLE9=Copenhagen
+TTITLE10=Savoy Blues
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

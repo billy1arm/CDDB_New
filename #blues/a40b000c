@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21084
+#	42926
+#	62242
+#	78321
+#	100410
+#	116368
+#	132944
+#	147701
+#	159505
+#	170421
+#	188241
+#
+# Disc length: 2818 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a40b000c
+DTITLE=The Marc Atkinson Trio - IV
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=01-Vorizo
+TTITLE1=02-Off Blue
+TTITLE2=02-Between The Wakes
+TTITLE3=04-The Jam Buster
+TTITLE4=05-Walker
+TTITLE5=06-Seventh Sense
+TTITLE6=07-Ode To A Vow
+TTITLE7=08-Bright Eyed Waltz
+TTITLE8=09-Toddler
+TTITLE9=10-Your Dreams Await
+TTITLE10=11-J.S Walk
+TTITLE11=12-Russian Rag
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

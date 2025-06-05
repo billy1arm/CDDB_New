@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	13968
+#	27515
+#	43900
+#	57535
+#	70308
+#	82908
+#	98505
+#	113843
+#	129865
+#	151598
+#	165788
+#
+# Disc length: 2944 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8c0b7e0c
+DTITLE=Charlie Parker - The Original Recordings of Charlie Parker
+DYEAR=1953
+DGENRE=Jazz
+TTITLE0=Now's The Time
+TTITLE1=Laura
+TTITLE2=Mohawk
+TTITLE3=Kim
+TTITLE4=Blues For Alice
+TTITLE5=Laird Baird
+TTITLE6=K. C. Blues
+TTITLE7=Lover Man
+TTITLE8=Just Friends
+TTITLE9=The Bird
+TTITLE10=April In Paris
+TTITLE11=Lester Leaps In
+EXTD=more info\nMillenniumMusicProjectFormat, syntax as follows:\nTitle{Subtitle}[info](Lyricist;Composer;Date,Artist,Location)[info]\ncorrections to: windking3@yahoo.com YEAR: 1953
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

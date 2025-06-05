@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46429
+#	100643
+#	138822
+#	177523
+#	200450
+#	234277
+#	277396
+#
+# Disc length: 4237 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e108b08
+DTITLE=Johann Strauss - Valses célèbres  [CD 1-2]
+DYEAR=1900
+DGENRE=Valses
+TTITLE0=Le Beau Danube bleu  [Raffi Armenian, Kitchener-Waterloo Symphony]
+TTITLE1=Valse de l'Empereur
+TTITLE2=Sang viennois  [Carl Schuricht, Orchestre de l'Opéra de Vienne]
+TTITLE3=Rose du Sud
+TTITLE4=Aimer, boire et chanter
+TTITLE5=Les voix du printemps  [Alfred Scholz, Vienna Opera Orchestra]
+TTITLE6=Bonbons de Vienne
+TTITLE7=Accélérations
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

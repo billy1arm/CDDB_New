@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  15525
+#  29250
+#  43162
+#  55975
+#  71475
+#  85387
+#  101887
+#  125887
+#
+# Disc length: 1840 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=7e072e09
+DTITLE=Lyn Collins - Think (about it)
+DYEAR=1900
+DGENRE=
+TTITLE0=Think (About It)
+TTITLE1=Just Won't Do Right
+TTITLE2=Wheels of Life
+TTITLE3=Ain't No Sunshine
+TTITLE4=Things Got to Get Better
+TTITLE5=Never Gonna Give Yoy Up
+TTITLE6=Reach Out for Me
+TTITLE7=Women's Lib
+TTITLE8=Fly Me to the Moon
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

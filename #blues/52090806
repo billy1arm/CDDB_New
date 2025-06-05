@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19200
+#	40160
+#	72517
+#	106313
+#	139939
+#
+# Disc length: 2314 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=52090806
+DTITLE=U2 - I'll Go Crazy If I Don't Go Crazy Tonight [CDS)
+DYEAR=2009
+DGENRE=Rock
+TTITLE0=I'll Go Crazy If I Don't Go Crazy Tonight (Single Version)
+TTITLE1=I'll Go Crazy If I Don't Go Crazy Tonight (Fish Out Of Water Remix)
+TTITLE2=I'll Go Crazy If I Don't Go Crazy Tonight (Dirty South Full Remix)
+TTITLE3=I'll Go Crazy If I Don't Go Crazy Tonight (Redanka's 'Kick The Darkness' Vocal Version)
+TTITLE4=I'll Go Crazy If I Don't Go Crazy Tonight (Redanka's 'Sparks Of Light' Dub Version)
+TTITLE5=I'll Go Crazy If I Don't Go Crazy Tonight (Redanka's 'Kick The Darkness' Instrumental Version)
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

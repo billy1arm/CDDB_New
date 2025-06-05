@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51079
+#	100242
+#	149949
+#	198215
+#	249752
+#
+# Disc length: 3870 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=510f1c06
+DTITLE=Jeff Richman - Live At The Baked Potato vol.1
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Mercy Street
+TTITLE1=Ain't Gonna Wait
+TTITLE2=Monkfish
+TTITLE3=Seven Stars
+TTITLE4=Splatch
+TTITLE5=Dreamscape
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25394
+#	48156
+#	67048
+#	96602
+#	128086
+#	143973
+#	176225
+#	196203
+#
+# Disc length: 3082 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=870c0809
+DTITLE=Fabrice Alleman - Obviously
+DYEAR=2013
+DGENRE=Jazz
+TTITLE0=J-J
+TTITLE1=Hope for the world
+TTITLE2=Don't say it's impossible
+TTITLE3=Sister Cheryl
+TTITLE4=3 or 4...
+TTITLE5=Morning
+TTITLE6=The afternoon
+TTITLE7=The evening
+TTITLE8=Regards croisés
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

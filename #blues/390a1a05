@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	29095
+#	81095
+#	103232
+#	160082
+#
+# Disc length: 2588 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=390a1a05
+DTITLE=Niels Henning Orsted Pedersen - Trio 1
+DYEAR=1977
+DGENRE=Jazz
+TTITLE0=Country Walk
+TTITLE1=Cowboy Samba
+TTITLE2=Les Sept Boules De Crystal
+TTITLE3=Autumn Leaves
+TTITLE4=Airpower
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

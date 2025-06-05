@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12425
+#	25247
+#	38620
+#	54690
+#	71240
+#	84467
+#	94867
+#	112575
+#	129077
+#	144842
+#	161600
+#	178807
+#
+# Disc length: 2558 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a009fc0d
+DTITLE=Gibson Brothers - another night of waiting
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=breakthrough
+TTITLE1=another night of waiting
+TTITLE2=wanting wanting you
+TTITLE3=she paints a picture
+TTITLE4=city water
+TTITLE5=the next one is me
+TTITLE6=i don't care anymore
+TTITLE7=travelin'blues
+TTITLE8=my yesterdays look better every day
+TTITLE9=we'll stay here
+TTITLE10=loose talk
+TTITLE11=last letter home
+TTITLE12=one more time (i must rise )
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24979
+#	50404
+#	78883
+#	86233
+#	112303
+#	144482
+#	172648
+#	196845
+#
+# Disc length: 3055 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b0bed09
+DTITLE=New Age Harmony - Yoga
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Asana
+TTITLE1=Kaal
+TTITLE2=Hatha
+TTITLE3=Bhakti
+TTITLE4=Kriya
+TTITLE5=Inana
+TTITLE6=Chitr
+TTITLE7=Sehaj
+TTITLE8=Ashtang
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

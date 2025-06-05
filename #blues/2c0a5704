@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25123
+#	95688
+#	132235
+#
+# Disc length: 2649 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2c0a5704
+DTITLE=Rainbow - Live In Germany 1976 - Disc1
+DYEAR=1991
+DGENRE=Rock
+TTITLE0=Kill The King
+TTITLE1=Mistreated
+TTITLE2=Sixteenth Century Greensleeves
+TTITLE3=Catch The Rainbow
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

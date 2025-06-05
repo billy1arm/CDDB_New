@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18617
+#     33095
+#     38602
+#     53707
+# 
+# Disc length: 890 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=31037805
+DTITLE=Fortnox - Susanna - Fortnox
+DYEAR=1900
+DGENRE=
+TTITLE0=Susanna - Long version
+TTITLE1=Susanna - radio edit
+TTITLE2=Susanna -Unplugged
+TTITLE3=susanna - Hardmix
+TTITLE4=F.R.E.E. /T-Quick
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

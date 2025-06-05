@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	15973
+#	40195
+#	64723
+#	70610
+#	96260
+#	115080
+#	135683
+#	161243
+#
+# Disc length: 2605 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6f0a2b09
+DTITLE=Aga Kaan - Electric Avenue
+DYEAR=1992
+DGENRE=New Age
+TTITLE0=The Riddle
+TTITLE1=L.A. Summer
+TTITLE2=Resonance
+TTITLE3=Remember
+TTITLE4=The Pilgrem
+TTITLE5=Carrousel
+TTITLE6=Dummy Dance
+TTITLE7=Timewar
+TTITLE8=Paintin' A Picture
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

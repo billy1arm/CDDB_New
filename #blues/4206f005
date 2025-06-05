@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25454
+#	65112
+#	86290
+#	111596
+#
+# Disc length: 1778 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4206f005
+DTITLE=Paul W. Miller - Jazz Suite, Die Marburger
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=An der Lahn
+TTITLE1=Blick über den Marktplatz mit Rathaus
+TTITLE2=Im Quodlibet - im Knubbel
+TTITLE3=Abendstimmung in der Altstadt
+TTITLE4=In de rCavete
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

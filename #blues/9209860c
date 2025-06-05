@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	11522
+#	26472
+#	45165
+#	61090
+#	76170
+#	94830
+#	107367
+#	124807
+#	138057
+#	149822
+#	164807
+#
+# Disc length: 2440 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=9209860c
+DTITLE=Sonny Terry - Chain Gang Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Cornbread, Meat and Molasses
+TTITLE1=Ham and Eggs
+TTITLE2=Lost John
+TTITLE3=Chan Gang Blues
+TTITLE4=It Takes A Chain Gang Man
+TTITLE5=Betty and Dupree
+TTITLE6=Stockhole
+TTITLE7=Rock Me Mama
+TTITLE8=Chain Gang Special
+TTITLE9=Long John
+TTITLE10=Pick A Bale of Cotton
+TTITLE11=Red River
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	900
+#	13651
+#	46277
+#	61128
+#	76354
+#	97580
+#	115806
+#	131407
+#
+# Disc length: 2038 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cddb-tool 0.4.7
+#
+DISCID=5607ea08,5707ee08
+DTITLE=Lee Clayton - The Dream Goes On
+DYEAR=1900
+DGENRE=Rock
+TTITLE0=What's A Mother Gonna Do
+TTITLE1=Industry
+TTITLE2=Won't You Give Me One More Chance
+TTITLE3=Draggin' Them Chains
+TTITLE4=Where Is The Justice
+TTITLE5=What'Cha Gonna Do
+TTITLE6=Oh How Lucky I Am
+TTITLE7=The Dream Goes On
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

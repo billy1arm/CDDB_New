@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32449
+#	39390
+#	62749
+#	69761
+#	99141
+#	108652
+#	174506
+#
+# Disc length: 2899 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=590b5108
+DTITLE=Joakin Bello - Detrás del Arcoiris
+DYEAR=1987
+DGENRE=New Age
+TTITLE0=Amanecer
+TTITLE1=Surire
+TTITLE2=Preludio para una Musa durmiente
+TTITLE3=Migración de Flamencos
+TTITLE4=Andesenios
+TTITLE5=Rocio
+TTITLE6=Chungará
+TTITLE7=Atardecer
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

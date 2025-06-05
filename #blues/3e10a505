@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	59260
+#	111159
+#	197708
+#	258130
+#
+# Disc length: 4263 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3e10a505
+DTITLE=Jef Cierniak and Friends - Live, Vol. 1
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=The Not So Lonely Bull
+TTITLE1=Lovegoat
+TTITLE2=On Broadway
+TTITLE3=Untitled (D Major)
+TTITLE4=Bread and Butter
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

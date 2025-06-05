@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12901
+#	38214
+#	56553
+#	77029
+#
+# Disc length: 1517 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3405eb05
+DTITLE=Paul Faure - Trio
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Rebonds
+TTITLE1=Ragma
+TTITLE2=Exode
+TTITLE3=Marches
+TTITLE4=Aria Varie
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

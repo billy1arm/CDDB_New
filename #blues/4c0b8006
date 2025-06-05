@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	21505
+#	57857
+#	91437
+#	140445
+#	184532
+#
+# Disc length: 2946 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4c0b8006
+DTITLE=Nebraska Jazz Orchestra - Greatest Hits and More, Vol. IV (disk two)
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=The T.A. Shuffle
+TTITLE1=Suspension Bridge
+TTITLE2=And Cooler Near The Lake
+TTITLE3=Be Bop
+TTITLE4=ZZEP
+TTITLE5=Etude For Two Basses And Jazz Orchestra
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

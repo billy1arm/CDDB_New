@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21100
+#	47790
+#	87320
+#	106095
+#	125565
+#	150057
+#	185760
+#
+# Disc length: 2626 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5a0a4008
+DTITLE=Oddjob - Koyo
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Their song
+TTITLE1=Malmö - Lund
+TTITLE2=Man machine
+TTITLE3=Titanic
+TTITLE4=Leadhead
+TTITLE5=I am sailing
+TTITLE6=Return of the party animal
+TTITLE7=Must
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

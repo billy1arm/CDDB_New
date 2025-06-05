@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	24040
+#	55022
+#	86630
+#
+# Disc length: 1535 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2005fd04
+DTITLE=Decouverte du Jazz - Pour les enfants
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=[Les origines] Blues and Negro Spiritual
+TTITLE1=[Nouvelle Orleans] Dixieland and Ragtime
+TTITLE2=[Big bands] Swing
+TTITLE3=Du swing au be-bop
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

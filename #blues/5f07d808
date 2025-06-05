@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21557
+#	39182
+#	58150
+#	76427
+#	97562
+#	115812
+#	134400
+#
+# Disc length: 2010 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5f07d808
+DTITLE=Hank Crawford - I hear a symphony
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=I hear a symphony
+TTITLE1=Madison - Spirit, The power
+TTITLE2=Hang it on the ceiling
+TTITLE3=The stripper
+TTITLE4=Sugar free
+TTITLE5=Love won't let me wait
+TTITLE6=I'll move you no mountain
+TTITLE7=Baby ! This love I have
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

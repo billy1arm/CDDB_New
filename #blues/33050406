@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7908
+#	27175
+#	45127
+#	59710
+#	75210
+#
+# Disc length: 1286 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=33050406
+DTITLE=AAA - unlock
+DYEAR=2017
+DGENRE=avex
+TTITLE0=unlock -Introduction-
+TTITLE1=真実
+TTITLE2=空
+TTITLE3=虚像
+TTITLE4=隣
+TTITLE5=愛
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

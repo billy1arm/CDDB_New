@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27449
+#	49049
+#	75949
+#	102349
+#	127944
+#	143840
+#	176790
+#
+# Disc length: 2768 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=600ace08
+DTITLE=REDALiCE - おとのいし
+DYEAR=1900
+DGENRE=エレクトロニック (一般)
+TTITLE0=Mother Earth
+TTITLE1=My Friend
+TTITLE2=Portal
+TTITLE3=Eight Froce
+TTITLE4=Queen Mary
+TTITLE5=Encounter
+TTITLE6=Portal(Separete)
+TTITLE7=Queen Mary(Separete)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15150
+#	26674
+#	38044
+#	48617
+#	61495
+#	72769
+#	84534
+#
+# Disc length: 1382 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5e056408
+DTITLE=compilation - 1950's - chanteuses de l'ombre
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Dorothy Fields - Slowly Go Out of My Mind
+TTITLE1=Della Reese - Blue and Orange Birds
+TTITLE2=Sylvia Sims - Comes Love
+TTITLE3=Mabel Mercer - You Fascinate Me So
+TTITLE4=Morgana King - It's Only a Paper Moon
+TTITLE5=Laverne Smith - A Hundred Years From Today
+TTITLE6=Monica Zetterlund - More Than You Know
+TTITLE7=Les Double Six - Naima
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

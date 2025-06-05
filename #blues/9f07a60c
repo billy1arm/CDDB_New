@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     12112
+#     23512
+#     35950
+#     47600
+#     60425
+#     70687
+#     82265
+#     96487
+#     105475
+#     119062
+#     132150
+# 
+# Disc length: 1960 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9f07a60c
+DTITLE=Ray Charles - Ray Charles - 12 Grandes Exitos
+DYEAR=1900
+DGENRE=
+TTITLE0=I will never you go
+TTITLE1=Let's have a hall
+TTITLE2=Rockin' chair blues
+TTITLE3=How long blues
+TTITLE4=Dont' put all your dreams in one basquet
+TTITLE5=Sittin' on top of the world
+TTITLE6=See see rider
+TTITLE7=Someday
+TTITLE8=All to my self alone
+TTITLE9=Baby let me hold  your hand
+TTITLE10=Baby wont' you please come home
+TTITLE11=I'm wondering and wondering
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

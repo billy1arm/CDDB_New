@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	56033
+#	100111
+#	121883
+#	145057
+#	185261
+#	215697
+#	236546
+#	266904
+#	313025
+#
+# Disc length: 4507 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9111990a
+DTITLE=Liszt - L'Oeuvre pour Piano - France Clidat  [CD 04-14]
+DYEAR=1969
+DGENRE=Piano
+TTITLE0=Rhapsodie hongroise, S.244 - N°01, en mi majeur
+TTITLE1=Rhapsodie hongroise, S.244 - N°02, en ut dièze mineur
+TTITLE2=Rhapsodie hongroise, S.244 - N°03, en si bémol majeur
+TTITLE3=Rhapsodie hongroise, S.244 - N°04, en mi bémol majeur
+TTITLE4=Rhapsodie hongroise, S.244 - N°05, en mi mineur ''Héroïde élégiaque''
+TTITLE5=Rhapsodie hongroise, S.244 - N°06, en Ré bémol majeur
+TTITLE6=Rhapsodie hongroise, S.244 - N°07, en ré mineur
+TTITLE7=Rhapsodie hongroise, S.244 - N°08, en fa dièse mineur ''Capriccio''
+TTITLE8=Rhapsodie hongroise, S.244 - N°09, en mi bémol majeur ''Le Carnaval de Pesth''
+TTITLE9=Rhapsodie hongroise, S.244 - N°10, en mi majeur ''Préludio''
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

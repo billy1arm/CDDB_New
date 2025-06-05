@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14041
+#	22481
+#	30901
+#	37179
+#	48664
+#	60866
+#	76396
+#	101910
+#	126282
+#	144639
+#	162258
+#
+# Disc length: 2469 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a809a30c
+DTITLE=Jules Massenet - Le Cid, suite de ballets  (Paul Paray, Orchestre national de l'opéra de Monte-Carlo)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Castillane
+TTITLE1=Andalouse
+TTITLE2=Aragonaise
+TTITLE3=Aubade
+TTITLE4=Catalane
+TTITLE5=Madrilène
+TTITLE6=Navarraise
+TTITLE7=°
+TTITLE8=°
+TTITLE9=°
+TTITLE10=°
+TTITLE11=°
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

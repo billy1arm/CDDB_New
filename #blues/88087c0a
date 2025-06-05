@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16605
+#	35422
+#	50922
+#	66097
+#	82130
+#	100947
+#	115687
+#	132960
+#	148067
+#
+# Disc length: 2174 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=88087c0a
+DTITLE=Niagara - Encore un dernier baiser
+DYEAR=1900
+DGENRE=
+TTITLE0=Tu sais bien ce dont j'ai envie
+TTITLE1=Encore un dernier baiser
+TTITLE2=Je dois m'en aller
+TTITLE3=Interdit aux moins de seize ans
+TTITLE4=Tchiki boum
+TTITLE5=Dans la peau
+TTITLE6=Acide winy
+TTITLE7=Quand la ville dort
+TTITLE8=Torpedo
+TTITLE9=L'amour à la plage
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

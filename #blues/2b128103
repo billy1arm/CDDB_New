@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	197489
+#	216684
+#
+# Disc length: 4739 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2b128103
+DTITLE=Charles Mingus - Live in Stuttgart [CD2]
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Fables of Faubus
+TTITLE1=Sophisticated Lady
+TTITLE2=Meditations
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19402
+#	40645
+#	64482
+#
+# Disc length: 1064 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=31042604
+DTITLE=Red Hot Chili Peppers - Otherside
+DYEAR=1999
+DGENRE=Pop
+TTITLE0=Otherside (Album Version)
+TTITLE1=How Strong (Non LP Track)
+TTITLE2=My Lovely Man (Live)
+TTITLE3=Road Trippin' (Without Strings)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

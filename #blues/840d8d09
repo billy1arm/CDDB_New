@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28927
+#	63359
+#	88424
+#	114060
+#	138742
+#	170591
+#	206627
+#	230142
+#
+# Disc length: 3471 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=840d8d09
+DTITLE=Linley Hamilton - Taylor Made
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Without A Song
+TTITLE1=Fade A Little
+TTITLE2=Happy People
+TTITLE3=My Heart's Desire
+TTITLE4=This Can't Be Love
+TTITLE5=Throw It Away
+TTITLE6=Will You Love Me Tomorrow
+TTITLE7=Have A Good Time
+TTITLE8=Rosewood
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

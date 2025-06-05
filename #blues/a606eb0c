@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     11285
+#     22220
+#     33633
+#     43345
+#     56053
+#     65463
+#     78270
+#     89203
+#     99408
+#     110663
+#     123398
+# 
+# Disc length: 1773 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a606eb0c
+DTITLE=The Dreamlovers - Best Of The Dreamlovers (Vol. 1.)
+DYEAR=1900
+DGENRE=
+TTITLE0=When We Get Married
+TTITLE1=Welcome Home
+TTITLE2=Mother
+TTITLE3=I Miss You
+TTITLE4=Time
+TTITLE5=Oh Baby Mine
+TTITLE6=While We Were Dancing
+TTITLE7=Let's Twist Again
+TTITLE8=Home Is Where The Heart Is
+TTITLE9=If I Should Lose You
+TTITLE10=Let Them Talk
+TTITLE11=Just Because
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

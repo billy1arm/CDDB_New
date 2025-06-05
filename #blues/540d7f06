@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41920
+#	59097
+#	94407
+#	181345
+#	210867
+#
+# Disc length: 3457 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=540d7f06
+DTITLE=Julian Rachlin - Vladimir Fedoseyev - Prokofiev - Violin Concerto No.1, Op.19 - Tchaikovsky - Violin Concerto, Op. 35
+DYEAR=1995
+DGENRE=Classical
+TTITLE0=Violin Concerto No.1 in D major, Op.19 - I. Andantino - Andante assai
+TTITLE1=Violin Concerto No.1 in D major, Op.19 - II. Scherzo. Vivacissimo
+TTITLE2=Violin Concerto No.1 in D major, Op.19 - III. Moderato - Allegro moderato - Moderato - Piu tranquillo
+TTITLE3=Violin Concerto in D major, Op.35 - I. Allegro moderato
+TTITLE4=Violin Concerto in D major, Op.35 - II. Canzonetta. Andante
+TTITLE5=Violin Concerto in D major, Op.35 - III. Finale. Allegro vivacissimo
+EXTD=YEAR: 1995
+EXTT0=PROKOFIEV Sergej (1891 - 1953)
+EXTT1=PROKOFIEV Sergej (1891 - 1953)
+EXTT2=PROKOFIEV Sergej (1891 - 1953)
+EXTT3=TCHAIKOVSKY Peter (1840 - 1893)
+EXTT4=TCHAIKOVSKY Peter (1840 - 1893]\n
+EXTT5=TCHAIKOVSKY Peter (1840 - 1893]\n
+PLAYORDER=

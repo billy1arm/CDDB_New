@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13172
+#	26317
+#	42065
+#	52965
+#	65810
+#	76480
+#	88087
+#	99912
+#	113297
+#	123272
+#	137680
+#
+# Disc length: 1984 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=8c07be0c
+DTITLE=The Oscar Peterson Trio - Love for Sale
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=In The Still Of The Night (Porter)
+TTITLE1=It's Alright With Me (Porter)
+TTITLE2=Love for Sale (Porter)
+TTITLE3=Just One Of Those Things (Porter)
+TTITLE4=I've Got You Under My Skin (Porter)
+TTITLE5=Every Time We Say Goodbye (Porter)
+TTITLE6=Night And Day (Porter)
+TTITLE7=Easy To Love (Porter)
+TTITLE8=Why Can't You Behave (Porter)
+TTITLE9=I Love Paris (Porter)
+TTITLE10=I Concentrate on You (Porter)
+TTITLE11=It's Do-Lovely (Porter)
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

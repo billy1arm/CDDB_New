@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15230
+#	30666
+#	49031
+#	63973
+#	78139
+#	92226
+#	105880
+#	123709
+#	139517
+#	153749
+#	168907
+#	183783
+#	197283
+#	216133
+#	230450
+#	245713
+#	259979
+#	274936
+#	289344
+#
+# Disc length: 4103 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=0e100514
+DTITLE=Greek Blues - Cafe Rembetika
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Anestos Delias (Artemis) - The Harem In The Turkish Baths
+TTITLE1=Yiorgos Batis - The Record Producers
+TTITLE2=Kostas Dousas - The Trawler
+TTITLE3=Rosa Eskenazi - In The Taverna With The "Laterna"
+TTITLE4=Stratos Payoumtzis - Warm-Hearted Dina
+TTITLE5=Yeoryia Mattaki - Mother, I Want A Man Who...
+TTITLE6=Antonis Diamantidis (Dalgas) - Criminal Mother-In-Law
+TTITLE7=A. Kostis - I Wasted Away
+TTITLE8=Marika Papagika - Dervish
+TTITLE9=Yiorgos Batis - Gypsy Girl
+TTITLE10=Anestos Delias (Artemis) - The Jacket
+TTITLE11=Rosa Eskenazi - That'll Teach You
+TTITLE12=Marika Kanaropoulou - The Widow Of Kokkinia
+TTITLE13=A. Kostis - Toumbeleki
+TTITLE14=Marika Frantzeskopoulou (Politissa) - You Won't Win Me Over, Chat Me Up
+TTITLE15=Markos Vamvakaris - Markos The Minister
+TTITLE16=Rita Abatsi - Yiannis' Cup
+TTITLE17=Rosa Eskenazi - Don't Swear To Me, You Liar
+TTITLE18=Stratos Payoumtzis and Stelios Kiromitis - Baglamades
+TTITLE19=Ioannis Halkias (Jack Gregory) - Minore Tou Tekke
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

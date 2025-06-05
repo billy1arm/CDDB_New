@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32207
+#	51590
+#	75898
+#	105900
+#	116438
+#	136973
+#	156926
+#	172614
+#	195275
+#
+# Disc length: 2915 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=6d0b610a
+DTITLE=Naoko Terai and Richard Galliano - Libertango in Tokio
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Libertango
+TTITLE1=La Valse a Margaux
+TTITLE2=Escualo
+TTITLE3=Opale Concerto, Premier Mouvement
+TTITLE4=Opale Concerto, Deuxieme Mouvement
+TTITLE5=Opale Concerto, Troisieme Mouvement
+TTITLE6=Melodicelli
+TTITLE7=Fou Rire
+TTITLE8=La cumparsita
+TTITLE9=Oblivion
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

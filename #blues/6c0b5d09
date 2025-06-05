@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34947
+#	55577
+#	82673
+#	102090
+#	123293
+#	146646
+#	167811
+#	199031
+#
+# Disc length: 2911 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=6c0b5d09
+DTITLE=My Baby - Live!
+DYEAR=2019
+DGENRE=Blues
+TTITLE0=Seeing Red
+TTITLE1=Love Dance 
+TTITLE2=Mad Mountain Thyme
+TTITLE3=Cosmic Radio
+TTITLE4=Mounaiki
+TTITLE5=In the Club
+TTITLE6=Uprising
+TTITLE7=Sunflower Sutra
+TTITLE8=Make a Hundred
+EXTD=YEAR: 2019
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

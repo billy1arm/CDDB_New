@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24458
+#	41310
+#	61463
+#	91313
+#	102218
+#	131318
+#	159410
+#
+# Disc length: 2651 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,43,1226
+#
+DISCID=570a5908
+DTITLE=Paul Scherer - Nite Musik
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=JaMS n' JaRS
+TTITLE1=Cane Garden Bay
+TTITLE2=My Day Off
+TTITLE3=Bonzai
+TTITLE4=Serenity
+TTITLE5=Crystal Twilight
+TTITLE6=Dance: Rondo
+TTITLE7=Urbana
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

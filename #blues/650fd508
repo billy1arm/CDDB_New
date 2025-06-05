@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35493
+#	65472
+#	101269
+#	129745
+#	161258
+#	241232
+#	272190
+#
+# Disc length: 4055 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=650fd508
+DTITLE=ERIC CLAPTON and HIS BAND - Civic Banquet(25 Anniversary Live) cd-1
+DYEAR=1988
+DGENRE=Blues
+TTITLE0=Crossroads
+TTITLE1=White Room
+TTITLE2=I Shot The Sheriff
+TTITLE3=Wonderful Tonight
+TTITLE4=Run
+TTITLE5=Same Old Blues
+TTITLE6=Terring Us Apart
+TTITLE7=Holy Mother
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

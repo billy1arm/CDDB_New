@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53100
+#	122588
+#	176516
+#
+# Disc length: 3332 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2c0d0204
+DTITLE=Alan Skidmore Quartet - Impressions of John Coltrane CD 1
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=But not for me
+TTITLE1=Lonnie's Lament
+TTITLE2=Say it over and over again
+TTITLE3=Impressions
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

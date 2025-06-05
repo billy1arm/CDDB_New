@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10212
+#	21552
+#	34040
+#	45967
+#	57507
+#	67490
+#	80542
+#	98587
+#	111182
+#
+# Disc length: 1633 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=82065f0a
+DTITLE=John Lee Hooker - Boom Boom and other Classics
+DYEAR=1900
+DGENRE=
+TTITLE0=Dimples
+TTITLE1=Boom Boom
+TTITLE2=Whiskey and Wimmin'
+TTITLE3=Crawlin' Kingsnake Blues
+TTITLE4=Boogie Chillen
+TTITLE5=Want Ad Blues
+TTITLE6=Unfriendly Woman
+TTITLE7=House Rent Boogie
+TTITLE8=Hobo Blues
+TTITLE9=Will the Circle Be Unbroken
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28188
+#	56387
+#	98383
+#
+# Disc length: 1780 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=2406f204
+DTITLE=Hue and Cry - Live recordings
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Woman in time
+TTITLE1=Sign o the times
+TTITLE2=Remember me
+TTITLE3=Labour of love
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

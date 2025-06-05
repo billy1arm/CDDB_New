@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30119
+#	59953
+#	91279
+#	125918
+#	150195
+#	196720
+#	220367
+#
+# Disc length: 3313 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670cef08
+DTITLE=Gilles Pausanias - Bleu cobalt
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Bleu cobalt
+TTITLE1=Lyle en mer
+TTITLE2=Silver John
+TTITLE3=M D
+TTITLE4=Diabolo
+TTITLE5=Lune seule
+TTITLE6=Métroport
+TTITLE7=Nord and sud
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

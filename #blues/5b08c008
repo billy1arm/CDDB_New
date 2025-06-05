@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30750
+#	57005
+#	69089
+#	85927
+#	106239
+#	127713
+#	149101
+#
+# Disc length: 2242 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5b08c008
+DTITLE=Illinois Jacquet - Illinois Jacquet and his Orchestra
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Honeysuckle Rose
+TTITLE1=Cool Bill
+TTITLE2=Leranin' The Blues
+TTITLE3=Stardust
+TTITLE4=Love Is Here To Stay
+TTITLE5=Empathy
+TTITLE6=East Of The Sun (And West Of The Moon)
+TTITLE7=Sophia
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

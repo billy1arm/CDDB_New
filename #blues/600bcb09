@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10120
+#	39558
+#	64583
+#	91863
+#	123515
+#	151192
+#	173624
+#	197426
+#
+# Disc length: 3021 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=600bcb09
+DTITLE=Christian Winninghoff - Color Music
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=De la rosa
+TTITLE1=green card bolero
+TTITLE2=2 oranges
+TTITLE3=Yellow yak
+TTITLE4=Dark blue
+TTITLE5=black widow
+TTITLE6=the great white open
+TTITLE7=Red - how many miles
+TTITLE8=The end of the gray
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

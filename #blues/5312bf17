@@ -1,0 +1,85 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17887
+#	34611
+#	52073
+#	69693
+#	81419
+#	97807
+#	117828
+#	127817
+#	147210
+#	162103
+#	178214
+#	192871
+#	211142
+#	224077
+#	238580
+#	251399
+#	270370
+#	283294
+#	295518
+#	310732
+#	326046
+#	339967
+#
+# Disc length: 4801 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5312bf17
+DTITLE=Steamboat Stompers - Dixieland Puzzle
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Savoy Blues
+TTITLE1=Doctor Jazz
+TTITLE2=St.Louis Blues
+TTITLE3=Stranger On The Shore
+TTITLE4=Lousiana Rag
+TTITLE5=Bei Mir Bist Do Schoen
+TTITLE6=Tin Roof Blues
+TTITLE7=I've Found A New Baby
+TTITLE8=Wild Cat Blues
+TTITLE9=Careless Love
+TTITLE10=Yes Sir, That's My Baby
+TTITLE11=Indiana
+TTITLE12=Over In The Gloryland
+TTITLE13=China Boy
+TTITLE14=Darling Nelly Gray
+TTITLE15=Ice Cream
+TTITLE16=When The Saint's Go Marching In
+TTITLE17=Dixieland Puzzle 18
+TTITLE18=Dixieland Puzzle 19
+TTITLE19=Dixieland Puzzle 20
+TTITLE20=Dixieland Puzzle 21
+TTITLE21=Dixieland Puzzle 22
+TTITLE22=Dixieland Puzzle 23
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+PLAYORDER=

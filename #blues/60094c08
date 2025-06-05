@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26100
+#	46247
+#	76525
+#	89415
+#	110802
+#	132712
+#	161317
+#
+# Disc length: 2382 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=60094c08
+DTITLE=Lil Harding Armstrong And Her Orchestra - Lil Harding Armstrong
+DYEAR=1961
+DGENRE=Blues
+TTITLE0=Royal Garden Blues
+TTITLE1=Red Arrow Blues
+TTITLE2=Muskrat Ramble
+TTITLE3=Boogie Me
+TTITLE4=Clip Joint
+TTITLE5=Basin Steet Blues
+TTITLE6=Eastown Bookie
+TTITLE7=Bugle Blues
+EXTD=YEAR: 1961 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

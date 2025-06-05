@@ -1,0 +1,55 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  32635
+#  55856
+#  84906
+#  119908
+#  142842
+#  168458
+#  195657
+#  234439
+#  260931
+#  305599
+#
+# Disc length: 4294 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=9810c40b
+DTITLE=Various Artist - Utopia Revisited
+DYEAR=1900
+DGENRE=
+TTITLE0=Original Disco Motion
+TTITLE1=That Sax Song
+TTITLE2=63rd Suite
+TTITLE3=Water Ride
+TTITLE4=Jacques Your Body
+TTITLE5=The Music
+TTITLE6=True Skills /Endemic Void mix/
+TTITLE7=Glide By Shooting
+TTITLE8=Look At Me Now, Falling /I-Cube Simple mix/
+TTITLE9=Guidance
+TTITLE10=Cache Coeur Naif
+EXTD=Dedicated to all the belgrade people who have hammered a spike into 
+EXTD=dial-jog ar 92,5 FM. We salute you!\nPosveceno svima koji su ekserom
+EXTD=zakucali 92.5 na svom radio-aparatu.\n\nCompiled by Gordan Paunovic
+EXTD=, Vladimir Janjic and Tomislav Grujic.\n\nMastered by Velja Mijanovi
+EXTD=c@VeljaM studio.\n\nThis compilation P&C 1998 Radio B92\nweb: www.op
+EXTD=ennet.org/music\nemail: musicb92@opennet.org
+EXTT0=Faze Action
+EXTT1=A.D.N.Y.
+EXTT2=The Amalgamation Of Soundz
+EXTT3=16B
+EXTT4=Les Rhytmes Digitales
+EXTT5=Les Rhytmes Digitales
+EXTT6=Subject 13
+EXTT7=Two Lone Swordsmen
+EXTT8=Maas
+EXTT9=Larry Heard
+EXTT10=Mouse On Mars
+PLAYORDER=

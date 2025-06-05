@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	58585
+#	93423
+#	141455
+#	177633
+#
+# Disc length: 3135 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=480c3d05
+DTITLE=Gioachino Rossini - Gioachino Rossini
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=London Festival Orchestra - William Tell
+TTITLE1=London Festival Orchestra - The Barber of Seville 
+TTITLE2=Philharmonia Slavonica - La Gazza Ladra
+TTITLE3=Philharmonia Slavonica - L'Italiana In Algeri
+TTITLE4=Philharmonia Slavonica - Semiramide
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

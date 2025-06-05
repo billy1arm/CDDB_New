@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	120223
+#	212047
+#
+# Disc length: 3326 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=1e0cfc03
+DTITLE=Lotte Anker/Craig Taborn/Gerald Cleaver - Live at the Loft
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Magic Carpet
+TTITLE1=Real Solid
+TTITLE2=Berber
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

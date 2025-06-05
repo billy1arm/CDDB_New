@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	15720
+#	31278
+#
+# Disc length: 782 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=19030c03
+DTITLE=Kylie Minogue - I Should Be So Lucky [CD single)
+DYEAR=1988
+DGENRE=Dance
+TTITLE0=I Should Be So Lucky (single version)
+TTITLE1=I Should Be So Lucky (instrumental version)
+TTITLE2=I Should Be So Lucky (extended version)
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

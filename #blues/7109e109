@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3675
+#	28275
+#	52737
+#	77580
+#	101137
+#	123397
+#	145725
+#	167807
+#
+# Disc length: 2531 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=7109e109
+DTITLE=Jamey Aebersold - Vol. 5, time to play music
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=tuning nites
+TTITLE1=groovits
+TTITLE2=freddieish
+TTITLE3=snap, crackle and pop
+TTITLE4=killer pete
+TTITLE5=modal voyage
+TTITLE6=essence
+TTITLE7=beatitude
+TTITLE8=bebopish
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

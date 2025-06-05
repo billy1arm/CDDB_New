@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16767
+#	30947
+#	52982
+#	78919
+#	94752
+#
+# Disc length: 2131 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=31085106
+DTITLE=Various Artist - Infiniti Q45 - Verve Sampler
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Eight Counts for Rita - Jimmy Smith
+TTITLE1=Getting Ready - David Benoit
+TTITLE2=I Guess I'll Have to Forget - Christian McBride
+TTITLE3=Bossa Nouveau - Marc Antoine
+TTITLE4=Thanks
+TTITLE5=Data
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

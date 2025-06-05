@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16212
+#	32362
+#	46650
+#	62650
+#	73467
+#
+# Disc length: 1190 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4604a406
+DTITLE=Браво - Ветер знает...
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Ветер знает...
+TTITLE1=Останься ещё на час
+TTITLE2=Этот город
+TTITLE3=Ветер знает... (англ)
+TTITLE4=Ветер знает... (джаз)
+TTITLE5=Ветер знает... (караоке)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

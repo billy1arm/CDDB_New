@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45019
+#	93826
+#	108191
+#	147075
+#	163024
+#	195278
+#
+# Disc length: 3096 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=450c1607
+DTITLE=Liszt - Transcription pour piano du Grand Septuor de Beethoven - Élégie  (Ferenc Kerek, piano)
+DYEAR=1900
+DGENRE=Piano
+TTITLE0=Transcription pour piano du Grand Septuor de Beethoven - I. Adagio
+TTITLE1=Transcription pour piano du Grand Septuor de Beethoven - II. Adagio cantabile
+TTITLE2=Transcription pour piano du Grand Septuor de Beethoven - III. Menuet
+TTITLE3=Transcription pour piano du Grand Septuor de Beethoven - IV. Tema con variazoni
+TTITLE4=Transcription pour piano du Grand Septuor de Beethoven - V. Scherzo
+TTITLE5=Transcription pour piano du Grand Septuor de Beethoven - VI. Andante con Molto alla marcia
+TTITLE6=Élégie sur des motifs du prince Louis Ferdinand de Prusse - Élégie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

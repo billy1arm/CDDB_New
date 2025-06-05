@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19295
+#	53592
+#	78452
+#	95977
+#	117471
+#	137686
+#	154006
+#	195146
+#	232712
+#	264917
+#	285384
+#	319978
+#
+# Disc length: 4638 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a5121c0d
+DTITLE=Various Artist - Yehudi Menuhin - Vol.01
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=J.S Bach - Concerto for 2 Violins in D minor, BWV 1043 - I. Vivace  [Philharmonia Orch, Anthony Bernard - 1953]
+TTITLE1=J.S Bach - Concerto for 2 Violins in D minor, BWV 1043 - II. Largo ma non tanto
+TTITLE2=J.S Bach - Concerto for 2 Violins in D minor, BWV 1043 - III. Allegro
+TTITLE3=J.S Bach - Violin sonata N°4 in C minor, BWV 1017 - I. Siciliano (Largo)  [Louis Kentner, piano - 1951]
+TTITLE4=J.S Bach - Violin sonata N°4 in C minor, BWV 1017 - II. Allegro
+TTITLE5=J.S Bach - Violin sonata N°4 in C minor, BWV 1017 - III. Adagio
+TTITLE6=J.S Bach - Violin sonata N°4 in C minor, BWV 1017 - IV. Allegro
+TTITLE7=W.A Mozart - Violin Concerto N°4 in D major, KV 218 - I. Allegro  [Philharmonia Orch, John Pritchard - 1954]
+TTITLE8=W.A Mozart - Violin Concerto N°4 in D major, KV 218 - II. Andante cantabile
+TTITLE9=W.A Mozart - Violin Concerto N°4 in D major, KV 218 - III. Rondo - Allegro grazioso. Allegro ma non troppo
+TTITLE10=W.A Mozart - Violin Sonata in A major, KV 526 - I. Allegro molto  [Hephzibah Menuhin, piano - 1933]
+TTITLE11=W.A Mozart - Violin Sonata in A major, KV 526 - II. Andante
+TTITLE12=W.A Mozart - Violin Sonata in A major, KV 526 - III. Presto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

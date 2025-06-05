@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21117
+#	42499
+#	56589
+#	79106
+#	87607
+#	115929
+#	129484
+#
+# Disc length: 2094 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=67082c08
+DTITLE=Inge Brandenburg - It's allright with me
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=C'est la vie/Valse hot
+TTITLE1=Round Midnight
+TTITLE2=Out of Nowhere
+TTITLE3=Summertime
+TTITLE4=It's allright with me
+TTITLE5=Lonesome Road
+TTITLE6=Falling in Love with Love
+TTITLE7=What's the Matter,Daddy
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

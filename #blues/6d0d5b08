@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6692
+#	42600
+#	74344
+#	128590
+#	163873
+#	195008
+#	231429
+#
+# Disc length: 3421 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d0d5b08
+DTITLE=What's up? - music is real
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=introduction what's up?
+TTITLE1=which one is true
+TTITLE2=i can't live without it
+TTITLE3=telemundo
+TTITLE4=edelweiss
+TTITLE5=into the dream
+TTITLE6=minor's holiday
+TTITLE7=five minutes to tomorrow
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

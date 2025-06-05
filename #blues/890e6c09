@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24348
+#	64207
+#	96735
+#	129224
+#	164842
+#	198121
+#	224754
+#	249702
+#
+# Disc length: 3694 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=890e6c09
+DTITLE=Jonathan Kreisberg - Night Songs
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Laura
+TTITLE1=Autumn In New York
+TTITLE2=September Song
+TTITLE3=Prelude To A Kiss
+TTITLE4=Spring Is Here
+TTITLE5=I'll Be Seeing You
+TTITLE6=Blue In Green
+TTITLE7=Nefertiti
+TTITLE8=Warm Valley
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

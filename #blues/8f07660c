@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10600
+#	22910
+#	33780
+#	44512
+#	56267
+#	68260
+#	80862
+#	93882
+#	104435
+#	119472
+#	131980
+#
+# Disc length: 1896 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8f07660c
+DTITLE=Aretha Franklin - The Electrifying Aretha Franklin
+DYEAR=1962
+DGENRE=Blues/Jazz
+TTITLE0=You Made Me Love You
+TTITLE1=I Told You So
+TTITLE2=Rock-A-Bye Your Baby With A Dixie Melody
+TTITLE3=Nobody Like You
+TTITLE4=Exactly Like You
+TTITLE5=It's So Heartbreakin'
+TTITLE6=Rough Lover
+TTITLE7=Blue Holiday
+TTITLE8=Just For You
+TTITLE9=That Lucky Old Sun
+TTITLE10=I Surrrender Dear
+TTITLE11=Ac-cent-tchu-ate The Positive
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25692
+#	39792
+#	52664
+#	60728
+#	75172
+#
+# Disc length: 1189 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=3004a306
+DTITLE=David Ray - Infinite Journey
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=La Fiesta
+TTITLE1=Canta Cubana
+TTITLE2=Epilogue
+TTITLE3=Rhythm Man
+TTITLE4=Let Go/Lonely Gaucho
+TTITLE5=Sentemiento en el Rio Apure
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47972
+#	75102
+#	100967
+#	159627
+#	195300
+#	221485
+#	265775
+#	292212
+#	318455
+#
+# Disc length: 4529 seconds
+#
+# Revision: 37
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8911af0a
+DTITLE=Miles Davis - The Complete Columbia Sessions 55-61 [Diisc3]
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Straight, No Chaser [D]
+TTITLE1=Milestones (alternate take) [D] [*]
+TTITLE2=Milestones [D]
+TTITLE3=Sid's Ahead [E]
+TTITLE4=Little Melonae [retake 3] [alternate take] [E] [*]
+TTITLE5=Dr. Jackle [E]
+TTITLE6=On Green Dolphin Street [F]
+TTITLE7=Fran-Dance [Put Your Little Foot Right Out - fra: La Varsovienne] (alternate take) [F] [*]
+TTITLE8=Fran-Dance [Put Your Little Foot Right Out - fra: La Varsovienne] [F]
+TTITLE9=Stella by Starlight [F]
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

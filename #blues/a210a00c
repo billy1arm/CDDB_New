@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15477
+#	53495
+#	72097
+#	93900
+#	132320
+#	158825
+#	179042
+#	211552
+#	246552
+#	265402
+#	292780
+#
+# Disc length: 4258 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL2
+#
+DISCID=a210a00c
+DTITLE=Jimmy Witherspoon - Big Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=You Got Me Running
+TTITLE1=Whiskey Drinking Woman
+TTITLE2=Once There Lived a Fool
+TTITLE3=Just A Dream
+TTITLE4=Lotus Blossom
+TTITLE5=Big Boss Man
+TTITLE6=Nobody Knows You When You're Down And Out
+TTITLE7=That's The One
+TTITLE8=Let's Think Awhile
+TTITLE9=Swing On It
+TTITLE10=The Point
+TTITLE11=The Snow Was Falling
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12885
+#	31335
+#	48645
+#	63857
+#
+# Disc length: 925 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=37039b05
+DTITLE=Philips - Akai Car
+DYEAR=1900
+DGENRE=JPop
+TTITLE0=赤いポルシェ
+TTITLE1=クラウディ
+TTITLE2=Rock Around the Military Watch
+TTITLE3=キャプテン・ボトルシップ
+TTITLE4=聖者の行進
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

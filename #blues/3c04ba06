@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18150
+#	41400
+#	55650
+#	70200
+#	86250
+#
+# Disc length: 1212 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3c04ba06
+DTITLE=Eric Clapton and Dr. John - Duets
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=Right Place, Wrong Time
+TTITLE1=St. James Infirmary
+TTITLE2=How Long
+TTITLE3=Roberta
+TTITLE4=Layla
+TTITLE5=Closing
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

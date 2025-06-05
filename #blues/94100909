@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44820
+#	72662
+#	113222
+#	141590
+#	156132
+#	186675
+#	209320
+#	225637
+#
+# Disc length: 4107 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=94100909
+DTITLE=The James DeJoie Quartet - Everlasting Now
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Hatha
+TTITLE1=le Cinema
+TTITLE2=Workday
+TTITLE3=Hardwood Floors
+TTITLE4=Eugene Manischevets
+TTITLE5=Independence
+TTITLE6=Montage
+TTITLE7=Welcome to My Funeral
+TTITLE8=Peace
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

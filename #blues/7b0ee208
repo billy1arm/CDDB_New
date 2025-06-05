@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	44850
+#	71243
+#	97193
+#	121038
+#	161848
+#	199788
+#	251053
+#
+# Disc length: 3812 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=7b0ee208
+DTITLE=Antoine Hervé - Paris Zagreb
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=L'exorciste
+TTITLE1=Ex-ile
+TTITLE2=Est-Ouest
+TTITLE3=Real Be-Bop
+TTITLE4=Enfin des satellites sans faux-cils
+TTITLE5=Offering
+TTITLE6=Samba Ratchenitsa
+TTITLE7=Round about midnight
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

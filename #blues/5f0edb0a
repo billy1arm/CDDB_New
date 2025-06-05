@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15225
+#	32300
+#	64275
+#	92775
+#	110400
+#	165075
+#	197250
+#	233025
+#	255000
+#
+# Disc length: 3805 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f0edb0a
+DTITLE=Stan Getz - East Of The Sun and west of the moon
+DYEAR=1955
+DGENRE=Jazz
+TTITLE0=Thanks for the melody
+TTITLE1=Rustic Pop
+TTITLE2=Round Up Time
+TTITLE3=East Of The Sun and West Of The Moon
+TTITLE4=Serenade in Blue
+TTITLE5=Dark Eyes
+TTITLE6=Where or When
+TTITLE7=Billie's Bounce
+TTITLE8=Blues for Junior
+TTITLE9=Honeysuckle Rose
+EXTD=YEAR: 1955
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

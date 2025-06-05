@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47686
+#	71253
+#	118616
+#	160926
+#	197916
+#	258357
+#	294921
+#
+# Disc length: 4258 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c10a008
+DTITLE=John Schröder Trio - Trio
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=7/01/2 part1
+TTITLE1=7/01/2 part2
+TTITLE2=7/01/2
+TTITLE3=Hallo Gerold
+TTITLE4=C. -found and lost
+TTITLE5=11/01
+TTITLE6=Clone
+TTITLE7=Taumeln
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34600
+#	64272
+#	112292
+#
+# Disc length: 3213 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=350c8b04
+DTITLE=John Coltrane - Complete Live in Stuttgart 1963 [CD1)
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=The promise
+TTITLE1=Afro-Blue
+TTITLE2=I want to talk about you
+TTITLE3=Impressions
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

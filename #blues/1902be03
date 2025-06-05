@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20104
+#	32255
+#
+# Disc length: 704 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=1902be03
+DTITLE=Tracey Chapman - New Beginning - Single
+DYEAR=1900
+DGENRE=blues
+TTITLE0=New Beginning (Radio Edit)
+TTITLE1=Talkin' Bout a Revolution (LP Version)
+TTITLE2=Give Me One Reason (LP Version)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

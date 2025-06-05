@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16621
+#	32856
+#	52263
+#	68722
+#	84956
+#
+# Disc length: 1390 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=42056c06
+DTITLE=SKE48 - バンザイVenus［通常盤Ａ］
+DYEAR=2011
+DGENRE=J-pop
+TTITLE0=バンザイVenus
+TTITLE1=愛の数(teamKⅡ)
+TTITLE2=卒業式の忘れもの(白組)
+TTITLE3=バンザイVenus -off vocal-
+TTITLE4=愛の数(teamKⅡ) -off vocal-
+TTITLE5=卒業式の忘れもの(白組) -off vocal-
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

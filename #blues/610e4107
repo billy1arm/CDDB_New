@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42455
+#	87875
+#	138432
+#	172077
+#	209735
+#	242342
+#
+# Disc length: 3651 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=610e4107
+DTITLE=Various Artist - ウィリアムテル序曲集
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=天国と地獄序曲／オッフェンバック
+TTITLE1=詩人と農夫序曲／スッペ
+TTITLE2=ウィリアムテル序曲／ロッシーニ
+TTITLE3=美しきエレーヌ序曲／オッフェンバック
+TTITLE4=こうもり序曲／シュトラウス2世
+TTITLE5=セビリャの理髪師序曲／ロッシーニ
+TTITLE6=軽騎兵序曲／スッペ
+EXTD=
+EXTT0=Offenbach\n
+EXTT1=Suppe\nAlexander Cameron, Cello Solo\n
+EXTT2=Rossini\n
+EXTT3=Offenbach\n
+EXTT4=Johann Strauss Jr.\n
+EXTT5=Rossini\n
+EXTT6=Suppe\n
+PLAYORDER=

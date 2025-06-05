@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22310
+#	42145
+#	56923
+#	76000
+#	90988
+#	107605
+#	123975
+#	145433
+#	163808
+#	185755
+#	202653
+#	216220
+#	236053
+#	260123
+#	278253
+#	291058
+#	305460
+#	322885
+#
+# Disc length: 4508 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta6
+#
+DISCID=0e119a13
+DTITLE=Coletânea Gaudéria - Canto e Encanto Nativo v1
+DYEAR=1900
+DGENRE=Gaúcha
+TTITLE0=Leonardo - Céu, Sol, Sul, Terra e Cor
+TTITLE1=Fagundaço - Canto Alegretense
+TTITLE2=Osvaldir e Carlos Magrão - Um Pito
+TTITLE3=João Chagas Leite - Partida
+TTITLE4=Quero-Quero - Um Grito Gaúcho
+TTITLE5=Os Nativos - Na Baixada Do Manduca
+TTITLE6=Osvaldir e Carlos Magrão - Santa Helena Da Serra
+TTITLE7=João Chagas Leite - Ave Sonora
+TTITLE8=Adair de Freitas - De Já Hoje
+TTITLE9=Miguel Marques - Clave De Lua
+TTITLE10=Pedro Ortaça - Timbre De Galo
+TTITLE11=Os Fronteiriços - A Pulpeira De Santa Lúcia
+TTITLE12=Os Farrapos - Pampa Na Garupa
+TTITLE13=Wilson Paim - Ainda Existe Um Lugar
+TTITLE14=Cesar Passarinho - Guri
+TTITLE15=Os Mateadores - Carreteiro De Ilusão
+TTITLE16=Wilson Paim - Um Canto De Amor Apenas
+TTITLE17=Os Farrapos - Queixo Seco
+TTITLE18=Os Araganos - Vento Norte
+EXTD=
+EXTT0=Leonardo\n(J. Moreci Teixeira)
+EXTT1=Fagunda o\n(Ant nio Fagundes - Bagre Fagundes)
+EXTT2=Osvaldi Carlos Magr o\n(N. Sarturi - N. Vargas - C. Patias)
+EXTT3=Jo o Chagas Leite\n(M. Ferreira)
+EXTT4=Quero-Quero\n(R. Koop)
+EXTT5=Os Nativos\n(N. Guarany)
+EXTT6=Osvaldir E Carlos Magr o\n(R. Biriva - J. Chagas)
+EXTT7=Jo o Chagas Leite\n(G. Retamozzo Palma/ J. Chagas Leite)
+EXTT8=Adair De Freitas\n(A. De Freitas)
+EXTT9=Miguel Marques\n(N. Brum - M. Marques)
+EXTT10=Pedro Orta a\n(A. Silva Rillo - P. Orta a)
+EXTT11=Os Fronteiri os\n(E. Maciel - Blomberg - Vers o: A Costa)
+EXTT12=Os Farrapos\n(I. Silva)
+EXTT13=Wilson Paim\n(I. Brum - M. Marques)
+EXTT14=Cesar Passarinho\n(J. M. Da Silva - J. B. Machado)
+EXTT15=Os Mateadores\n(J. P. Leite - L. C. Lanfredi)
+EXTT16=Wilson Paim\n(W. Paim - L. Alves - J. Prado)
+EXTT17=Os Farrapos\n(I. Silva - Tio Nanato)
+EXTT18=Os Araganos\n(A. Pimentel)
+PLAYORDER=

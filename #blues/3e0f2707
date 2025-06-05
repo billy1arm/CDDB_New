@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45090
+#	97782
+#	151300
+#	161417
+#	199102
+#	255154
+#
+# Disc length: 3881 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3e0f2707
+DTITLE=Scofield, Medeski, Wood, Stubblefield - Irving Plaza NY 19-09-98 disc 1 of 2
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Chicken Dog
+TTITLE1=Chank
+TTITLE2=Jeep On 45
+TTITLE3=Kubrik
+TTITLE4=Green Tea
+TTITLE5=Deadzy
+TTITLE6=Jam
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

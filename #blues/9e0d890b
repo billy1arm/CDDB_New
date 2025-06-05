@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6185
+#	28125
+#	43433
+#	62231
+#	82383
+#	113907
+#	131653
+#	186169
+#	200530
+#	227294
+#
+# Disc length: 3467 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=9e0d890b
+DTITLE=The Duo - Le 1er
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Baco's tacos
+TTITLE1=Tarantino
+TTITLE2=Clifton
+TTITLE3=Baby please don't go
+TTITLE4=Rendez-vous
+TTITLE5=How long blues
+TTITLE6=J'fais comme d'habitude
+TTITLE7=Louisiana
+TTITLE8=Tambourine
+TTITLE9=No spitting on the bus
+TTITLE10=Lulubye
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

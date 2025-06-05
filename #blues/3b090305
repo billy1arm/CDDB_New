@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47199
+#	79181
+#	107573
+#	130889
+#
+# Disc length: 2309 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3b090305
+DTITLE=Franco Ambrosetti - Heart Bop
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=Triple Play
+TTITLE1=Fairy Boat to Rio
+TTITLE2=Heart Bop
+TTITLE3=A Flat Miner
+TTITLE4=My Funny Valentine
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

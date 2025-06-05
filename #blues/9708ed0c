@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  14002
+#  29462
+#  48810
+#  55760
+#  69165
+#  83997
+#  93935
+#  115742
+#  124160
+#  138672
+#  154575
+#
+# Disc length: 2287 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.31
+#
+DISCID=9708ed0c
+DTITLE=The Pastels - Mobile Safari
+DYEAR=1900
+DGENRE=
+TTITLE0=Exploration Team
+TTITLE1=Mandarin
+TTITLE2=Yoga
+TTITLE3=Mobile Deli
+TTITLE4=Exotic Arcade
+TTITLE5=Classic Line-up
+TTITLE6=Flightpaths To Each Other
+TTITLE7=Basement Scam
+TTITLE8=Strategic Gear
+TTITLE9=Token Collecting
+TTITLE10=Coolport
+TTITLE11=Worlds Of Possibility
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

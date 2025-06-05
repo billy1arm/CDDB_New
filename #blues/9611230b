@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31521
+#	67508
+#	74091
+#	95415
+#	158059
+#	198560
+#	220899
+#	250054
+#	281272
+#	314052
+#
+# Disc length: 4389 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9611230b
+DTITLE=Keith Jarrett - Staircase
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Staircase, Pt 1
+TTITLE1=Staircase, Pt.2
+TTITLE2=Staircase, Pt.3
+TTITLE3=Hourglass, Pt. 1
+TTITLE4=Hourglass, Pt. 2
+TTITLE5=Sundial, Pt. 1
+TTITLE6=Sundial, Pt. 2
+TTITLE7=Sundial, Pt. 3
+TTITLE8=Sand, Pt. 1
+TTITLE9=Sand, Pt. 2
+TTITLE10=Sand, Pt. 3
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

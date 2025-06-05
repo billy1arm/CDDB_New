@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     17215
+#     29160
+#     43088
+#     54458
+#     67540
+#     82653
+#     94588
+#     105735
+#     120850
+#     142073
+#     157118
+#     170273
+#     186598
+#     200903
+#     219663
+#     236388
+#     254215
+# 
+# Disc length: 3553 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=020ddf12
+DTITLE=Os Nativos - 18 Grandes Sucessos
+DYEAR=1900
+DGENRE=
+TTITLE0=Na Baixada Do Manduca
+TTITLE1=Filho De Baita
+TTITLE2=Porteira Aberta
+TTITLE3=Fandango, Alegria De Um Povo
+TTITLE4=Chimarrita Sem Fronteira
+TTITLE5=Bugio Rengo
+TTITLE6=Gira-Gira
+TTITLE7=Conversa De Bailanta
+TTITLE8=Redemona
+TTITLE9=Retrato Do Jo o Cuiudo
+TTITLE10=Surpresa
+TTITLE11=Vassoura De Guanchuma
+TTITLE12=Canto Do Amanh 
+TTITLE13=Chimarreada
+TTITLE14=Pendenga De Galo
+TTITLE15=Pago Santo
+TTITLE16=De Manh  Cedo
+TTITLE17=Descendo A Serra
+EXTD=
+EXTT0=(Noel Guarany)
+EXTT1=(Pedro E. O. Rocha - Jos  A. Rodrigues)
+EXTT2=(Ademar A. Da Silva)
+EXTT3=(Bruno Neher)
+EXTT4=(Noel Guarany)
+EXTT5=(Jos  A. Rodrigues - Paulo Siquiera)
+EXTT6=(Vaine Darde - Airton Cabral)
+EXTT7=(Appar cio S. Rillo - Jos  A. Rodrigues)
+EXTT8=(Appar cio S. Rillo - Lu z C. Borges)
+EXTT9=(Jaime C. Braun - Luiz Marenco)
+EXTT10=(Telmo De L. Freitas)
+EXTT11=(Jaime C. Braun - Luiz Marenco)
+EXTT12=(Nando Coelho)
+EXTT13=(Ary Marchi - Edu Reus)
+EXTT14=(Tio Nanato - Jos  Ara jo - Zezinho)
+EXTT15=(Telmo De L. Freitas)
+EXTT16=(Rog rio  vila - Luiz Marenco)
+EXTT17=(Ademar Antunes - Antonio Cassotti)
+PLAYORDER=

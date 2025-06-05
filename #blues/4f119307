@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31275
+#	76675
+#	121743
+#	173133
+#	222901
+#	267147
+#
+# Disc length: 4501 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4f119307
+DTITLE=Various Artist - Montreux Summit Vol. 2.
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=Be Cool
+TTITLE1=Two Part Invention
+TTITLE2=The Moontrane
+TTITLE3=Red Top
+TTITLE4=Kanon for Flutes
+TTITLE5=Rites of Darkness
+TTITLE6=Night Crawler
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22281
+#	49057
+#	75241
+#	95278
+#	104637
+#	123592
+#	139497
+#	171493
+#	190900
+#	220093
+#
+# Disc length: 3171 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a00c610b
+DTITLE=Eric Clapton and Friends - The A.R.M.S. Benefit Concert (2)
+DYEAR=1983
+DGENRE=Blues Rock
+TTITLE0=Star Cycle (Jeff Beck)
+TTITLE1=Pump (The Pump) (Jeff Beck)
+TTITLE2=Goodbye Pork Pie Hat (Jeff Beck)
+TTITLE3=Hi Ho Silver Lining (Jeff Beck)
+TTITLE4=Led Boots (Jimmy Page)
+TTITLE5=Who's To Blame (Jimmy Page)
+TTITLE6=City Sirens (Jimmy Page)
+TTITLE7=Stairway To Heaven (Jimmy Page)
+TTITLE8=Tulsa Time (Eric Clapton)
+TTITLE9=Layla (Eric Clapton)
+TTITLE10=Goodnight Irene (Ronnie Lane and Ensemble)
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

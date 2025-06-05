@@ -1,0 +1,154 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9998
+#	20238
+#	29351
+#	39558
+#	49153
+#	58901
+#	68638
+#	79531
+#	89381
+#	100773
+#	110433
+#	120698
+#	151761
+#	160244
+#	173683
+#	183081
+#	192453
+#	203177
+#	212531
+#	233623
+#	235163
+#	236602
+#	238168
+#	239771
+#	241307
+#	243398
+#	246305
+#	248820
+#	251262
+#	254345
+#	256695
+#	258990
+#	261711
+#	268236
+#	274217
+#	279696
+#	285488
+#	291093
+#	297482
+#	302964
+#	308798
+#	314428
+#	320071
+#	325632
+#	331187
+#
+# Disc length: 4559 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a511cd2e
+DTITLE=Beethoven - Dances II
+DYEAR=1974
+DGENRE=Classique
+TTITLE0=12 Menuets pour Orchestre, WoO7 - No.01 en Ré Majeur  [Kammerorchester Der Staatskapelle Weimar]
+TTITLE1=12 Menuets pour Orchestre, WoO7 - No.02 en Si Bémol Majeur  [Friedmann Bätzel - rec.1974]
+TTITLE2=12 Menuets pour Orchestre, WoO7 - No.03 en Sol Majeur
+TTITLE3=12 Menuets pour Orchestre, WoO7 - No.04 en Mi Bémol Majeur
+TTITLE4=12 Menuets pour Orchestre, WoO7 - No.05 en Do Majeur
+TTITLE5=12 Menuets pour Orchestre, WoO7 - No.06 en La Majeur
+TTITLE6=12 Menuets pour Orchestre, WoO7 - No.07 en Ré Majeur
+TTITLE7=12 Menuets pour Orchestre, WoO7 - No.08 en Si Bémol Majeur 
+TTITLE8=12 Menuets pour Orchestre, WoO7 - No.09 en Sol Majeur
+TTITLE9=12 Menuets pour Orchestre, WoO7 - No.10 en Mi Bémol Majeur
+TTITLE10=12 Menuets pour Orchestre, WoO7 - No.11 en Do Majeur
+TTITLE11=12 Menuets pour Orchestre, WoO7 - No.12 en Fa Majeur
+TTITLE12=Marche Militaire en Ré Majeur, WoO24  [Capella Istropolitana - Ewald Donhoffer - rec.2007]
+TTITLE13=6 Menuets pour Orchestre, WoO10 - No.1 en Do Majeur
+TTITLE14=6 Menuets pour Orchestre, WoO10 - No.2 en Sol Majeur
+TTITLE15=6 Menuets pour Orchestre, WoO10 - No.3 en Mi Bémol Majeur
+TTITLE16=6 Menuets pour Orchestre, WoO10 - No.4 en Si Bémol Majeur
+TTITLE17=6 Menuets pour Orchestre, WoO10 - No.5 en Ré Majeur
+TTITLE18=6 Menuets pour Orchestre, WoO10 - No.6 en Do Majeur
+TTITLE19=6 Deutsche Tänze, WoO42  [Sachiko Kobayashi, violon - Michael Wagner, piano - rec.2007]
+TTITLE20=6 Écossaises en Mi Bémol Majeur, WoO83 - No.1  [Rainer Maria Klaas, piano - rec.2007]
+TTITLE21=6 Écossaises en Mi Bémol Majeur, WoO83 - No.2
+TTITLE22=6 Écossaises en Mi Bémol Majeur, WoO83 - No.3
+TTITLE23=6 Écossaises en Mi Bémol Majeur, WoO83 - No.4
+TTITLE24=6 Écossaises en Mi Bémol Majeur, WoO83 - No.5
+TTITLE25=6 Écossaises en Mi Bémol Majeur, WoO83 - No.6
+TTITLE26=Écossaise en Sol, Majeur, WoO23
+TTITLE27=7 Ländler en Ré Majeur, WoO11 - No.1
+TTITLE28=7 Ländler en Ré Majeur, WoO11 - No.2
+TTITLE29=7 Ländler en Ré Majeur, WoO11 - No.3
+TTITLE30=7 Ländler en Ré Majeur, WoO11 - No.4
+TTITLE31=7 Ländler en Ré Majeur, WoO11 - No.5
+TTITLE32=7 Ländler en Ré Majeur, WoO11 - No.6
+TTITLE33=7 Ländler en Ré Majeur, WoO11 - No.7
+TTITLE34=12 Deutsche Tänze, WoO13 - No.01 en Ré Majeur
+TTITLE35=12 Deutsche Tänze, WoO13 - No.02 en Si Bémol Majeur
+TTITLE36=12 Deutsche Tänze, WoO13 - No.03 en SolMajeur
+TTITLE37=12 Deutsche Tänze, WoO13 - No.04 en Ré Majeur
+TTITLE38=12 Deutsche Tänze, WoO13 - No.05 en Fa Majeur
+TTITLE39=12 Deutsche Tänze, WoO13 - No.06 en Si Bémol Majeur
+TTITLE40=12 Deutsche Tänze, WoO13 - No.07 en Ré Majeur
+TTITLE41=12 Deutsche Tänze, WoO13 - No.08 en Sol Majeur
+TTITLE42=12 Deutsche Tänze, WoO13 - No.09 en Mi Bémol Majeur
+TTITLE43=12 Deutsche Tänze, WoO13 - No.10 en Do Majeur
+TTITLE44=12 Deutsche Tänze, WoO13 - No.11 en La Majeur
+TTITLE45=12 Deutsche Tänze, WoO13 - No.12 en Ré Majeur
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+PLAYORDER=

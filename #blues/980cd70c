@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     19168
+#     43950
+#     71513
+#     90060
+#     111233
+#     132115
+#     155190
+#     170625
+#     188255
+#     217928
+#     236418
+# 
+# Disc length: 3289 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=980cd70c
+DTITLE=Daluxe - Daluxe
+DYEAR=1900
+DGENRE=
+TTITLE0=All or nothing at all
+TTITLE1=Feel like making love
+TTITLE2=Teddy
+TTITLE3=Don't talk innocence
+TTITLE4=Endleddly
+TTITLE5=A thought beyond
+TTITLE6=Time waits for no one
+TTITLE7=Here today, gone tomorrow
+TTITLE8=All of your life
+TTITLE9=La Norma deuc
+TTITLE10=What's cooking
+TTITLE11=I will do
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

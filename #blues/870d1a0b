@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	31547
+#	51055
+#	68240
+#	79580
+#	101200
+#	130140
+#	144967
+#	173252
+#	204975
+#	221452
+#
+# Disc length: 3356 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=870d1a0b
+DTITLE=Piano Willie Oshawny - Black Nights All Around Me
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Mayvee
+TTITLE1=Leaven Blues
+TTITLE2=Women In California
+TTITLE3=I Can't Stand It
+TTITLE4=Tami
+TTITLE5=Roger Street
+TTITLE6=Things I Used To Do
+TTITLE7=Wavey Gravey
+TTITLE8=I Don't Love You No More
+TTITLE9=Burning Fire
+TTITLE10=Chicago Blues
+EXTD=YEAR: 1995 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

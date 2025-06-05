@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	12710
+#	25313
+#	38188
+#	49838
+#	62063
+#	76070
+#	90785
+#	108468
+#	118375
+#	132783
+#
+# Disc length: 2030 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8b07ec0b
+DTITLE=Alain Bashung - Pizza
+DYEAR=1981
+DGENRE=Chanson Française
+TTITLE0=Ca cache quekchose
+TTITLE1=L'araignée
+TTITLE2=J'sors avec ma frangine
+TTITLE3=Aficionado
+TTITLE4=Idylle au Caire
+TTITLE5=Privé
+TTITLE6=Vertige de l'amour
+TTITLE7=Rebel
+TTITLE8=Retours
+TTITLE9=Reviens va-t-en
+TTITLE10=Fan
+EXTD=0\n\n\n YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

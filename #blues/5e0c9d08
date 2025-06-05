@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33041
+#	62919
+#	99014
+#	124718
+#	156789
+#	189383
+#	216085
+#
+# Disc length: 3231 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5e0c9d08
+DTITLE=Eric Clapton w Mark Knopfler - After Midnight cd1
+DYEAR=1988
+DGENRE=Blues
+TTITLE0=Crossroads
+TTITLE1=White room
+TTITLE2=I shot the sheriff
+TTITLE3=Lay down Sally
+TTITLE4=Wonderful tonight
+TTITLE5=Tearing us apart
+TTITLE6=After midnight
+TTITLE7=Can't Find My Way Home
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

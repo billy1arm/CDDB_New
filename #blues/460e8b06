@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14176
+#	83342
+#	123891
+#	177160
+#	221600
+#
+# Disc length: 3725 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=460e8b06
+DTITLE=Steve Miller's K.Ostra - it's out there
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Boogie Free
+TTITLE1=Frazmic
+TTITLE2=The Interest Rate
+TTITLE3=Fun-da-mental
+TTITLE4=Neurolingus-ting
+TTITLE5=it's out there
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

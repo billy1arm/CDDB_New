@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21911
+#	43192
+#	60823
+#	80972
+#	99471
+#	116135
+#	132205
+#
+# Disc length: 2106 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=68083808
+DTITLE=Autumn's Grey Solace - Within the depths of a darkened forest
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Resonant Dusk
+TTITLE1=Forgotten, Fossilized, Archaic
+TTITLE2=Shadows of Moonlit Nights
+TTITLE3=Cast to the Seas in Stroms
+TTITLE4=Eve
+TTITLE5=Reflections of Falling Leaves
+TTITLE6=Lost
+TTITLE7=Within the Depths of a Darkened Forest
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

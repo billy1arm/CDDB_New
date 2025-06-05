@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     22785
+#     43530
+#     62350
+#     79343
+#     99725
+#     113668
+#     136455
+#     157330
+#     177303
+# 
+# Disc length: 2632 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7d0a460a
+DTITLE=Champion Jack Dupree - The Legacy of the Blues Vol. 3
+DYEAR=1900
+DGENRE=
+TTITLE0=Vietnam Blues
+TTITLE1=Drunk Again
+TTITLE2=Found My Baby Gone
+TTITLE3=Anything You Want
+TTITLE4=Will It Be?
+TTITLE5=Your're the One
+TTITLE6=Down and Out
+TTITLE7=Roamin' Special
+TTITLE8=The Life I Lead
+TTITLE9=Jit-a-Bug Jump
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

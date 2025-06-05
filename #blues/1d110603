@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	65283
+#	204127
+#
+# Disc length: 4360 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1d110603
+DTITLE=FAB Trio - Live In Amsterdam
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Fabmusic The Opening
+TTITLE1=Go East - Da Bang
+TTITLE2=Fabmusic The Continuation - Spirts Entering
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

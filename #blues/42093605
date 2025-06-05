@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50086
+#	82369
+#	119903
+#	158293
+#
+# Disc length: 2360 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=42093605
+DTITLE=Adderley - Julian 'Cannonball' - Somethin' else
+DYEAR=1900
+DGENRE=jazz
+TTITLE0=Autumn leaves
+TTITLE1=Love for sale
+TTITLE2=Somethin' else
+TTITLE3=One for daddy-o
+TTITLE4=Dancing in the dark
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

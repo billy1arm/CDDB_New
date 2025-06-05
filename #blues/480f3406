@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	36170
+#	56685
+#	78545
+#	128485
+#	190855
+#
+# Disc length: 3894 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=480f3406
+DTITLE=Elgar/Delius - Cello Concerto
+DYEAR=1992
+DGENRE=Classical
+TTITLE0=Elgar:Cello Concerto in Eminor: Adagio. Moderato
+TTITLE1=Allegro molto
+TTITLE2=Adagio
+TTITLE3=Allegro
+TTITLE4=Elgar:Introduction and Allegro for String Orchestra and Quartet
+TTITLE5=Delius:Piano Concerto in C minor
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

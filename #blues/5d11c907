@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	79285
+#	141113
+#	189740
+#	234320
+#	268655
+#	301435
+#
+# Disc length: 4555 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5d11c907
+DTITLE=Brad Mehldau - The Art of the Trio, vol.4 - Back at the Vanguard
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=All the Things That You Are
+TTITLE1=Sehnsucht
+TTITLE2=Nice Pass
+TTITLE3=Solar
+TTITLE4=London Blues
+TTITLE5=I'll Be Seeing You
+TTITLE6=Exit Music For A Film
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

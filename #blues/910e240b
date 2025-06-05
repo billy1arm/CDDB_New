@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31305
+#	58805
+#	81757
+#	110610
+#	132250
+#	160765
+#	185665
+#	212322
+#	234465
+#	250970
+#
+# Disc length: 3622 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=910e240b
+DTITLE=Laurent Blondiau Quintet - The Queen of The Apple Pie
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Loise
+TTITLE1=Shem's I
+TTITLE2=Shem's II
+TTITLE3=Elbi I
+TTITLE4=Elbi II
+TTITLE5=The queen of the apple pie
+TTITLE6=Cilou
+TTITLE7=Chase of Time I
+TTITLE8=Chase of Time II
+TTITLE9=Mc Mahow
+TTITLE10=The queen of the apple pie ...
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

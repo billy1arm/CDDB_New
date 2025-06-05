@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43507
+#	87917
+#	146152
+#	162672
+#	234777
+#
+# Disc length: 3520 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=480dbe06
+DTITLE=BlueOceanSuite - BlueOceanSuite
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=Santorini (sunrise)
+TTITLE1=Morning Prayer
+TTITLE2=Dolphin Dreams
+TTITLE3=Eves Chant
+TTITLE4=Reflections
+TTITLE5=Santorini (sunset)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

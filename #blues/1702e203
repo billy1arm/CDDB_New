@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17579
+#	32697
+#
+# Disc length: 740 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1702e203
+DTITLE=Markus Luca - Ich vermiss' Dich [CDS)
+DYEAR=2008
+DGENRE=Schlager
+TTITLE0=Ich vermiss' Dich (Single Version)
+TTITLE1=Ich vermiss' Dich (Radio Version)
+TTITLE2=Ich vermiss' Dich (Maxi Version)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

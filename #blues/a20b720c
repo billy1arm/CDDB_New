@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     16300
+#     35618
+#     56735
+#     73855
+#     92408
+#     112078
+#     128405
+#     145375
+#     165405
+#     181625
+#     201305
+# 
+# Disc length: 2932 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a20b720c
+DTITLE=Rick Fines, Alan Black, Gary Peeples, Gene Taylor - Jackson Delta Liv
+DTITLE=e, With Gene Taylor
+DYEAR=1900
+DGENRE=
+TTITLE0=Bad News Blues
+TTITLE1=Liquor Store Blues
+TTITLE2=Howlin' For My Darlin'
+TTITLE3=T.V. Mama
+TTITLE4=Ain't No Tellin'
+TTITLE5=All By Myself
+TTITLE6=Statesborough Blues
+TTITLE7=Fanny Mae
+TTITLE8=Same Old Blues
+TTITLE9=Ain't Got No Baby Now
+TTITLE10=Mojo Boogie
+TTITLE11=Saved
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11633
+#	74986
+#	141834
+#	209473
+#
+# Disc length: 3729 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4f0e8f05
+DTITLE=Nigel Shaw - Dartmoor Symphony
+DYEAR=2002
+DGENRE=New Age
+TTITLE0=Overture
+TTITLE1=Stone
+TTITLE2=Wood
+TTITLE3=Water
+TTITLE4=Sky
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

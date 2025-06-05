@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19875
+#	40475
+#
+# Disc length: 832 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=20033e03
+DTITLE=Rhapsody - Emerald Sword
+DYEAR=1998
+DGENRE=Symphonic Rock
+TTITLE0=Emerald Sword(single version)
+TTITLE1=Where Dragons Fly
+TTITLE2=Land Of Immortals(remake)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

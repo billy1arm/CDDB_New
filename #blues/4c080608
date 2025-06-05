@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16875
+#	33150
+#	52575
+#	77325
+#	96300
+#	112575
+#	133800
+#
+# Disc length: 2056 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=4c080608
+DTITLE=Salvador Candel - Paz
+DYEAR=1994
+DGENRE=New Age
+TTITLE0=En El Agua
+TTITLE1=En El Aire
+TTITLE2=En La Tierra
+TTITLE3=En El Fuego
+TTITLE4=En El Cuerpo
+TTITLE5=En La Mente
+TTITLE6=En El Corazon
+TTITLE7=En El Espíritu
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

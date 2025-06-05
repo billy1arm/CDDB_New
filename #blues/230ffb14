@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21471
+#	34766
+#	48999
+#	57446
+#	86489
+#	98766
+#	112830
+#	124029
+#	135003
+#	147826
+#	179803
+#	198232
+#	212886
+#	232915
+#	244339
+#	255011
+#	269714
+#	285611
+#	297369
+#
+# Disc length: 4093 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=230ffb14
+DTITLE=Various Artist - 20 Best of Blues
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=Michael Bloomfield - Cherry Red
+TTITLE1=Diana Washington - Rich Man's Blues
+TTITLE2=Buddy Guy - Broken Hearted Blues
+TTITLE3=Big Joe Williams - Baby Please Don't Go
+TTITLE4=Ray Charles - What'd I Say (live)
+TTITLE5=Louis Jordan - Caldonia
+TTITLE6=Joe Liggins - I've Got A Right To Cry
+TTITLE7=Amos Milburn - Bad Bad Whiskey
+TTITLE8=Roy Milton - Information Blues
+TTITLE9=Diana Washington - Wise Woman Blues
+TTITLE10=Michael Bloomfield - Between The Hard Places And The Ground
+TTITLE11=Buddy Guy - Stone Crazy
+TTITLE12=Gatemouth Moore - I Ain't Mad At You Pretty Baby
+TTITLE13=Big Joe Turner - Nothin' For Nothin' Blues
+TTITLE14=Big Joe Williams - Bye Bye Baby Blues
+TTITLE15=Ray Charles - Sittin' On Top (live)
+TTITLE16=Eddie "Clean Head" Vinson - Hold It Right There
+TTITLE17=Jimmy Witherspoon - Ain't Nobody's Business
+TTITLE18=Diana Washington - Shoo Shoo Baby
+TTITLE19=Buddy Guy - Slop Around
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25777
+#	44945
+#	122489
+#	162850
+#	180317
+#
+# Disc length: 3260 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=450cba06
+DTITLE=hang trio - echoes from tomorrow
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=happiness
+TTITLE1=bab el nur
+TTITLE2=genesis
+TTITLE3=na enema
+TTITLE4=homage
+TTITLE5=mandala
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

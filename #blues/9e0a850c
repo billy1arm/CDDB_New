@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14675
+#	33075
+#	54100
+#	68000
+#	88375
+#	106125
+#	121875
+#	143750
+#	162075
+#	172375
+#	190325
+#
+# Disc length: 2695 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=9e0a850c
+DTITLE=Louis Armstrong - Louis Armstrong
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Bourbon street parade
+TTITLE1=Sweet georgia brown
+TTITLE2=Wolverine blues
+TTITLE3=New orleans
+TTITLE4=Canal street blues
+TTITLE5=Dixie
+TTITLE6=Sheik of araby
+TTITLE7=St. james infirmary
+TTITLE8=Panama
+TTITLE9=My bucket's got a hole in it
+TTITLE10=Frankie and Johnny
+TTITLE11=Dr. Jazz
+EXTD=YEAR: 2001  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

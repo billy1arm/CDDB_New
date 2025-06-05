@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39370
+#	186032
+#	227484
+#	257641
+#	290972
+#
+# Disc length: 4176 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=4e104e06
+DTITLE=Dave Liebman - Fire
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=Flash!!
+TTITLE1=Fire
+TTITLE2=Sparks
+TTITLE3=Flames
+TTITLE4=Inferno
+TTITLE5=Ashes
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

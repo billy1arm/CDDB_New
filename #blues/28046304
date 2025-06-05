@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24225
+#	41832
+#	60427
+#
+# Disc length: 1125 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=28046304
+DTITLE=TAKUI - Calling You [Maxi]
+DYEAR=2001
+DGENRE=Rock
+TTITLE0=Calling You
+TTITLE1=X-RAY MAN
+TTITLE2=TO THE MAX
+TTITLE3=Calling You (vocal off version)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

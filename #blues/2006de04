@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15052
+#	30547
+#	55317
+#
+# Disc length: 1760 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=2006de04
+DTITLE=B-DASH - ちょ
+DYEAR=2002
+DGENRE=Punk
+TTITLE0=ちょ
+TTITLE1=sunday monday
+TTITLE2=炎
+TTITLE3=extra track(data)
+EXTD=YEAR: 2002-6-26
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

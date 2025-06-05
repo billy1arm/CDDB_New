@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20710
+#	32327
+#	50080
+#	69937
+#	94445
+#	115175
+#	134402
+#	155142
+#
+# Disc length: 2380 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=7c094a09
+DTITLE=AIR - SINGLES disc1
+DYEAR=2004
+DGENRE=Rock
+TTITLE0=Today
+TTITLE1=Kids Are Alright
+TTITLE2=My Rhyme
+TTITLE3=Heavenly
+TTITLE4=Hello
+TTITLE5=Liberal
+TTITLE6=No More Dolly
+TTITLE7=6453
+TTITLE8=Bicyblist(solid brass mix)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

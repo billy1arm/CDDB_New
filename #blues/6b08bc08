@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21220
+#	44565
+#	66603
+#	84255
+#	108655
+#	123045
+#	147068
+#
+# Disc length: 2238 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b08bc08
+DTITLE=自由人 - 夢の方へ
+DYEAR=2005
+DGENRE=Rock
+TTITLE0=青の空
+TTITLE1=奇跡
+TTITLE2=エブリ
+TTITLE3=心の奥
+TTITLE4=Tell
+TTITLE5=Family
+TTITLE6=夢の方へ
+TTITLE7=ありがとう(5 Apr 2005 Live At Nagoya ell.Fits All)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

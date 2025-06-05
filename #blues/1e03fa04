@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18760
+#	38420
+#	57070
+#
+# Disc length: 1020 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=1e03fa04
+DTITLE=安田成美 - 風の谷のナウシカ
+DYEAR=2000
+DGENRE=Soundtrack
+TTITLE0=風の谷のナウシカ
+TTITLE1=風の妖精
+TTITLE2=風の谷のナウシカ（カラオケ）
+TTITLE3=風の妖精（カラオケ）
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	29817
+#	51617
+#	82315
+#	98695
+#	117377
+#	139302
+#	159360
+#	175657
+#
+# Disc length: 2899 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.07
+#
+DISCID=800b5109
+DTITLE=The Jim Zeller Band - Fire to the wire
+DYEAR=1900
+DGENRE=
+TTITLE0=Fire To The Wire
+TTITLE1=Shootout
+TTITLE2=Yessir
+TTITLE3=Bordo-Rico
+TTITLE4=Godfather
+TTITLE5=Jack Daniel's Blues
+TTITLE6=Rikers Island Blues
+TTITLE7=Crier
+TTITLE8=L.A. Woman
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

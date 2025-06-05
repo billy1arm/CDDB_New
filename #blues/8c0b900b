@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24116
+#	45974
+#	66202
+#	80824
+#	101826
+#	118117
+#	139841
+#	158300
+#	183601
+#	203717
+#
+# Disc length: 2962 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8c0b900b
+DTITLE=David Phelps - The Voice
+DYEAR=2010
+DGENRE=Blues
+TTITLE0=I want to know what love is
+TTITLE1=Angel
+TTITLE2=I just call you mine
+TTITLE3=Nessun dorma
+TTITLE4=End of the line
+TTITLE5=Moonlight
+TTITLE6=Unchained melody
+TTITLE7=Higher
+TTITLE8=Angel band
+TTITLE9=Fly to you
+TTITLE10=Your love
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

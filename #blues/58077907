@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23775
+#	42543
+#	60620
+#	76601
+#	95893
+#	116231
+#
+# Disc length: 1915 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=58077907
+DTITLE=Various Artist - PROBURN-01
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Alan Jackson - Good Time SB
+TTITLE1=En Vogue - Give Him Something He Can Feel SB
+TTITLE2=Stranglers The - Something Better Change SB
+TTITLE3=Tony Bennett and KD Lang - What A Wonderful World SC
+TTITLE4=Shania Twain - I'm Gonna Getcha Good! SC
+TTITLE5=No Doubt - Don't Speak SC
+TTITLE6=ACDC - Ride On SC
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

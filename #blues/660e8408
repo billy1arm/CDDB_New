@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37235
+#	76455
+#	104382
+#	144317
+#	174395
+#	206292
+#	250177
+#
+# Disc length: 3718 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=660e8408
+DTITLE=Nat Adderley - A Night In Manhattan
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Nature Boy
+TTITLE1=Adena Beth
+TTITLE2=Ten Bars From Home
+TTITLE3=The Big J
+TTITLE4=Little Ann
+TTITLE5=Summertime
+TTITLE6=Nwe Delhi
+TTITLE7=This I Dig Og You
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

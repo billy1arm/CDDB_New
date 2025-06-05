@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15385
+#	36394
+#	51588
+#
+# Disc length: 968 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2f03c604
+DTITLE=Gackt - BLACK STONE
+DYEAR=2005
+DGENRE=JRock
+TTITLE0=BLACK STONE
+TTITLE1=Ash
+TTITLE2=BLACK STONE (inst.)
+TTITLE3=Ash (inst.)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

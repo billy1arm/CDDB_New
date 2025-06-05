@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     13503
+#     25503
+#     38930
+#     55230
+#     67263
+#     78148
+#     95908
+#     106620
+#     122510
+# 
+# Disc length: 1903 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=75076d0a
+DTITLE=Dr. Feelgood - Mad Man Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Dust My Broom
+TTITLE1=Something You Got
+TTITLE2=Dimples
+TTITLE3=Living On The Highway
+TTITLE4=Tore Down
+TTITLE5=Mad Man Blues
+TTITLE6=I've Got News For You
+TTITLE7=My Babe
+TTITLE8=Can't Find The Lady
+TTITLE9=Rock Me Baby
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	14583
+#	28098
+#	40983
+#	54168
+#	66903
+#	80038
+#	90620
+#	105763
+#	118908
+#	128620
+#	143970
+#
+# Disc length: 2067 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=9e08110c
+DTITLE=Juke Boy Bonner - The Legacy of the Blues Vol. 5
+DYEAR=1988
+DGENRE=Blues
+TTITLE0=I'm A Bluesman
+TTITLE1=Problems All Around
+TTITLE2=Trying To Get Ahead
+TTITLE3=If You Don't Want To Get Mistreated
+TTITLE4=Lonesome Ride Back Home
+TTITLE5=Funny Money
+TTITLE6=I'm Lonely Too
+TTITLE7=Real Good Woman
+TTITLE8=Come To Me
+TTITLE9=Yammin' The Blues
+TTITLE10=Better Place To Go
+TTITLE11=Tired Of The Greyhound Bus
+EXTD=\nYEAR: 1988  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

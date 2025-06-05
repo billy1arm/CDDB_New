@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 2007 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21159
+#     37032
+#     53276
+#     67319
+#     83368
+#     98830
+#     117455
+#     135183
+#     147797
+#     162360
+#     185552
+# 
+# Disc length: 2642 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9a0a500c
+DTITLE=Brett Perkins - Last Bus Home
+DYEAR=1900
+DGENRE=
+TTITLE0=Staring At the Sun
+TTITLE1=The World Turns Round
+TTITLE2=One More Joe
+TTITLE3=I Remember
+TTITLE4=All Your Faith In Me
+TTITLE5=When I Close My Eyes
+TTITLE6=Perfect Love
+TTITLE7=My New York Memory
+TTITLE8=Last Bus Home
+TTITLE9=Come Along
+TTITLE10=Always Believed In You
+TTITLE11=Just Like Me
+EXTD=Submitted by ecto@cox.net
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

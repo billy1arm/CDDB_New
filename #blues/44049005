@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17303
+#	36735
+#	56893
+#	74468
+#
+# Disc length: 1170 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=44049005
+DTITLE=short straps - Alice
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Supercar
+TTITLE1=Alice
+TTITLE2=モンゴメリ
+TTITLE3=My Brick Road
+TTITLE4=Full Color
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

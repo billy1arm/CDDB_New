@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14780
+#	32760
+#	51152
+#	65950
+#	78602
+#	97915
+#	118407
+#	133667
+#	152645
+#	173312
+#	199585
+#
+# Disc length: 2924 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=a40b6a0c
+DTITLE=Eric Clapton - From The Heart - 'From The Cradle' Tour Rehearsal
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=Hoochie Coochie Man (Willie Dixon)
+TTITLE1=I'm Tore Down (Sonny Thompson)
+TTITLE2=Sinner's Prayer (Loweell Glenn/Lowell Fulson)
+TTITLE3=Motherless Child (Traditional)
+TTITLE4=Malted Milk (Robert Johnson)
+TTITLE5=Born Under A Bad Sign (Jones/Bell)
+TTITLE6=Someday After A While (Freddie King/Sonny Thompson)
+TTITLE7=It Hurts Me Too (Elmore James)
+TTITLE8="44" (Howlin' Wolf)
+TTITLE9=Five Long Years (Eddie Boyd)
+TTITLE10=Crossroads (Robert Johnson)
+TTITLE11=Ain't Nobody's Business (Grainger/Robins)
+EXTD=YEAR: 1994 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

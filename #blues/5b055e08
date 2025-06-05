@@ -1,0 +1,40 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 11850
+# 24225
+# 40500
+# 58575
+# 68925
+# 77100
+# 94050
+#
+# Disc length: 1376 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.3.333
+#
+DISCID=5b055e08
+DTITLE=UNCARVED BLOCK - UNCARVED BLOCK
+DYEAR=1900
+DGENRE=
+TTITLE0=Matter
+TTITLE1=Storyteller
+TTITLE2=Vote
+TTITLE3=Even if it's Me
+TTITLE4=Paper Forever
+TTITLE5=Crazy Old Man
+TTITLE6=Tick Tock
+TTITLE7=The Way
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

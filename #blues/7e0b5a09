@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22522
+#	36522
+#	57512
+#	89135
+#	120192
+#	142455
+#	164326
+#	196394
+#
+# Disc length: 2908 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7e0b5a09
+DTITLE=Michael Haydn - Grandes symphonies des années 1780
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Synphonie en ut majeur - I. Allegro con spirito
+TTITLE1=Synphonie en ut majeur - II. Andante
+TTITLE2=Synphonie en ut majeur - III. Fugato - Molto vivace
+TTITLE3=Synphonie en si bémol majeur - I. Grave - Allegro con spirito
+TTITLE4=Synphonie en si bémol majeur - II. Andante
+TTITLE5=Synphonie en si bémol majeur - III. Finale - Presto
+TTITLE6=Synphonie en ré mineur - I. Allegro spirituoso
+TTITLE7=Synphonie en ré mineur - II. Adagietto affettuoso
+TTITLE8=Synphonie en ré mineur - III. Finale - Presto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

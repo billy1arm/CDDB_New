@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18111
+#	42812
+#	65045
+#	86198
+#	104295
+#	121285
+#	146943
+#
+# Disc length: 2248 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=6d08c608
+DTITLE=Charles Wilson - Gone Jookin'
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=It's Sweet on the Backstreet
+TTITLE1=Love Seat
+TTITLE2=Private Affair
+TTITLE3=Why Should I Get Married when my Neighbor's got a Wife
+TTITLE4=Goin' Jookin'
+TTITLE5=Over at Fannie Mae's
+TTITLE6=Love Seat Remix
+TTITLE7=Two Wrongs made a Right
+EXTD=YEAR: 2001  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

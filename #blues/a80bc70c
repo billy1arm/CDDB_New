@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14525
+#	33035
+#	51407
+#	66202
+#	78705
+#	98060
+#	124510
+#	140037
+#	159090
+#	179760
+#	206242
+#
+# Disc length: 3017 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: ACXtractor (MTCDDB.DLL V2003.12.21)
+#
+DISCID=a80bc70c
+DTITLE=Eric Clapton - The Last Rehearsal
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=Hoochie Coochie Man
+TTITLE1=I'm Tore Down
+TTITLE2=Sinner's Prayer
+TTITLE3=Motherless Child
+TTITLE4=Malted Milk
+TTITLE5=Born Under A Bad Sign
+TTITLE6=Someday After A While
+TTITLE7=It Hurts Me Too
+TTITLE8=44
+TTITLE9=Five Long Years
+TTITLE10=Crossroads
+TTITLE11=Ain't Nobody's Business
+EXTD=ID3G:   0 YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	94155
+#	166645
+#
+# Disc length: 2769 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=160acf03
+DTITLE=Anton Bruckner - Symphonie N°5 en si bémol majeur  (Carl Schuricht, Radio-Sinfonieorchester Stuttgart)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Symphonie N°5 en si bémol majeur - I. Introduktion - Adagio-Allegro
+TTITLE1=Symphonie N°5 en si bémol majeur - II. Adagio - Sehr langsam
+TTITLE2=Symphonie N°5 en si bémol majeur - III. Scherzo - Molto vivace (Schnell) - Trio
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

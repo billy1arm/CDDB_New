@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	51742
+#	87850
+#	123120
+#	153607
+#	195650
+#	213535
+#	240400
+#
+# Disc length: 3631 seconds
+#
+# Revision: 40
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.82
+#
+DISCID=6c0e2d08
+DTITLE=Berliner Philharmoniker - Herbert von Karajan - 9 Symphonien [Karajan], Disc 4
+DYEAR=1963
+DGENRE=Classical
+TTITLE0=Symphony No. 7 in A major, Op. 92: I. Poco sostenuto-Vivace
+TTITLE1=Symphony No. 7 in A major, Op. 92: II. Allegretto
+TTITLE2=Symphony No. 7 in A major, Op. 92: III. Presto
+TTITLE3=Symphony No. 7 in A major, Op. 92: IV. Allegro con brio
+TTITLE4=Symphony No. 8 in F major, Op. 93: I. Allegro vivace e con brio
+TTITLE5=Symphony No. 8 in F major, Op. 93: II. Allegretto scherzando
+TTITLE6=Symphony No. 8 in F major, Op. 93: III. Tempo di Menuetto
+TTITLE7=Symphony No. 8 in F major, Op. 93: IV. Allegro vivace
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

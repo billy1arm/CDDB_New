@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	99457
+#	139937
+#	174190
+#
+# Disc length: 3057 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2b0bef04
+DTITLE=FRUMPY - LIVE [CD2)
+DYEAR=1972
+DGENRE=Krautrock
+TTITLE0=Release
+TTITLE1=Take Care Of Illusion
+TTITLE2=Duty
+TTITLE3=Floating
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

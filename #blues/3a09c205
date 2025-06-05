@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51862
+#	81138
+#	104587
+#	160323
+#
+# Disc length: 2500 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=3a09c205
+DTITLE=Richie Beirach - ELM
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Sea priestess
+TTITLE1=Pendulum
+TTITLE2=KI
+TTITLE3=Snow leopard
+TTITLE4=ELM
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10322
+#	23419
+#	40961
+#	50903
+#	62757
+#	77164
+#	94744
+#	111447
+#
+# Disc length: 1652 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=71067209
+DTITLE=Trial - somethingBLUEs
+DYEAR=2005
+DGENRE=Blues
+TTITLE0=down south jukin' (lynyrd skynyrd)
+TTITLE1=tell everybody i know (keb'mo)
+TTITLE2=dont't think twice (bob dylan)
+TTITLE3=mercedes benz (janis joplin)
+TTITLE4=woman trouble (alvin lee)
+TTITLE5=malted milk (robert johnson)
+TTITLE6=honky tonk woman (jagger, richards)
+TTITLE7=help the poor (charles singleton)
+TTITLE8=make you feel my love (bob dylan)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

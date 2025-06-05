@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15320
+#	34872
+#	35420
+#	54091
+#	88974
+#	114284
+#	118615
+#	137658
+#	152736
+#	175470
+#	176496
+#
+# Disc length: 2561 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9109ff0c
+DTITLE=Hempel - Hölle
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=01 La Bomba.mp3
+TTITLE1=09 - Tonight.MP3
+TTITLE2=zm.mp3
+TTITLE3=Andru Donalds - Snowin Under My Skin - 03 - All out of Love.mp3
+TTITLE4=Gigi D'Agostino - La Passion.mp3
+TTITLE5=04 Eros Ramazzotti - L'Aurora.mp3
+TTITLE6=hb.mp3
+TTITLE7=Ronan Keating - Life is A Rollercoaster.mp3
+TTITLE8=04 Boyzone - baby can i hold you.mp3
+TTITLE9=01 Armageddon - I Don't Want To Miss A Thing - Aerosmith.mp3
+TTITLE10=Message receiving.mp3
+TTITLE11=01_melanie_thornton_-_love_how_you_love_me.mp3
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

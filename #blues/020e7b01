@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#
+# Disc length: 3709 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=020e7b01
+DTITLE=Taylor, Cecil - Dark Unto Themselves
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Streams/Chorus Of Seed
+EXTD=(HTML version in README.html]\n\n           Debian GNU/Linux 3.0 r0 "Woody" - Official Source-7 CD   \n\n\n\n   CONTENTS:\n\n     * Intro\n* About This CD\n     * Installing\n     * Upgrading\n     * Last-Minute Notes\n     * Non-free/Non-US\n* CD M
+EXTD=anufacturers\n     * MoreInformation\n\n\n                     Welcome to the exciting world of\n                             Debian GNU/Linux! \n\nIntro\n=====\n\nThis is one of the CD-ROMs of the Debian GNU/Linux distribution.\nDebian is a very ex
+EXTD=tensive collection of software. But it is more. It\n   is a complete Operating System (OS) for your computer. And it isfree\n   (as in "freedom").\n\n   An operating system is the set of basic programs and utilities that\n   makeyour computer run. A
+EXTD=t the core of an operating system is the\n   kernel. The ke YEAR: 1990
+EXTT0=
+PLAYORDER=

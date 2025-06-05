@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21057
+#	40039
+#	55177
+#	66770
+#	84187
+#	97762
+#	112867
+#	129192
+#	152305
+#
+# Disc length: 2252 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5f08ca0a
+DTITLE=Various Artist - Live Action! (Charly Blues Masterworks Vol. 15)
+DYEAR=1900
+DGENRE=
+TTITLE0=Wee, Wee Baby
+TTITLE1=Sitting And Thinking
+TTITLE2=Worried Blues
+TTITLE3=Bring It On Home
+TTITLE4=Sugar Mama
+TTITLE5=Clouds In My Heart
+TTITLE6=May I Have A Talk With You
+TTITLE7=Got My Mojo Working
+TTITLE8=Don't Know Which Way To Go
+TTITLE9=19 Years Old
+EXTD=
+EXTT0=Muddy Waters, Willie Dixon, Buddy Guy
+EXTT1=Muddy Waters
+EXTT2=Buddy Guy
+EXTT3=Sonny Boy Williamson
+EXTT4=Howlin' Wolf
+EXTT5=Muddy Waters
+EXTT6=Howlin' Wolf
+EXTT7=Muddy Waters
+EXTT8=Buddy Guy
+EXTT9=Muddy Waters
+PLAYORDER=

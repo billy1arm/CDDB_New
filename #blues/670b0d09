@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27228
+#	58580
+#	82763
+#	110334
+#	131717
+#	151865
+#	183303
+#	196809
+#
+# Disc length: 2831 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=670b0d09
+DTITLE=Øystein Westlie - JazzCafé
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=SweepingTheDriveway
+TTITLE1=JazzCafé
+TTITLE2=CameraInHerBag
+TTITLE3=AfterRain
+TTITLE4=IceCream
+TTITLE5=LouisaAtTheLibrary
+TTITLE6=TakeItSlow
+TTITLE7=BikeRental
+TTITLE8=JazzCaféRadiomix
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

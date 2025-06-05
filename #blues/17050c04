@@ -1,0 +1,28 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15122
+#	45652
+#	82720
+# Disc length: 1294 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=17050c04
+DTITLE=Safri Duo - Falling High
+DYEAR=1900
+DGENRE=
+TTITLE0=Fallin' High
+TTITLE1=Fallin' High (Extended Club)
+TTITLE2=Fallin' High (Steve Murano rmx)
+TTITLE3=Fallin' High (ambient rmx)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

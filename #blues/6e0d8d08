@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23718
+#	51985
+#	86150
+#	122813
+#	139185
+#	163697
+#	213971
+#
+# Disc length: 3471 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e0d8d08
+DTITLE=Tool - 1998-07-12-Starlake Ampitheater-Burgettstown, PA
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Cold and Ugly
+TTITLE1=Forty Six and 2
+TTITLE2=Stinkfist
+TTITLE3=You Lied
+TTITLE4=Sober Intro
+TTITLE5=Sober
+TTITLE6=Eulogy
+TTITLE7=Opiate > Flood
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

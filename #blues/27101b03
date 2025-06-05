@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	124051
+#	209505
+#
+# Disc length: 4125 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=27101b03
+DTITLE=Jon Corbett - Free Play
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=One
+TTITLE1=Two
+TTITLE2=Free
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

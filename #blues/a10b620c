@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16365
+#	32622
+#	50282
+#	67215
+#	87167
+#	108085
+#	122070
+#	134222
+#	158942
+#	176452
+#	192867
+#
+# Disc length: 2916 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a10b620c
+DTITLE=Robert Bradley's Blackwater Surprise - New Ground
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Train
+TTITLE1=See Her
+TTITLE2=Profile
+TTITLE3=Lindy
+TTITLE4=Feel the Fire
+TTITLE5=Exist for Love
+TTITLE6=Nightlife
+TTITLE7=Willie Lee
+TTITLE8=Ride My Wave
+TTITLE9=Fast Lane
+TTITLE10=Young Girls
+TTITLE11=Born in America
+EXTD=YEAR: 2001 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

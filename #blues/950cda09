@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34347
+#	63622
+#	89195
+#	127187
+#	149280
+#	179255
+#	205480
+#	232187
+#
+# Disc length: 3292 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=950cda09
+DTITLE=Eos - Mosaico
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Song for Miki
+TTITLE1=Swing or swing
+TTITLE2=Girotondo
+TTITLE3=Out jail
+TTITLE4=Borboleta
+TTITLE5=Anghst
+TTITLE6=Mosaico
+TTITLE7=Early in the morning
+TTITLE8=Pensieri
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

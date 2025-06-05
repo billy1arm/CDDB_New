@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19982
+#	44080
+#	59752
+#	90160
+#	111225
+#	127105
+#	135335
+#	174240
+#	207742
+#
+# Disc length: 3141 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=920c430a
+DTITLE=Joseph Haydn - The Late Sonatas, Aldert Vermeulen, Piano
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=Sonata No. 57 F Major (1788) Hob. XVI/47 - 1. Moderato
+TTITLE1=Sonata No. 57 F Major (1788) Hob. XVI/47 - 2. Larghetto
+TTITLE2=Sonata No. 57 F Major (1788) Hob. XVI/47 - 3. Allegro
+TTITLE3=Sonata No. 58 C Major (1789) Hob. XVI/48 - 1. Andante con espressione
+TTITLE4=Sonata No. 58 C Major (1789) Hob. XVI/48 - 2. Rondo presto
+TTITLE5=Sonata No. 61 D Major (1794/95) Hob. XVI/51 - 1. Andante
+TTITLE6=Sonata No. 61 D Major (1794/95) Hob. XVI/51 - 2. Finale presto
+TTITLE7=Sonata No. 62 E flat Major (1794) Hob. XVI/52 - 1. Allegro
+TTITLE8=Sonata No. 62 E flat Major (1794) Hob. XVI/52 - 2. Adagio
+TTITLE9=Sonata No. 62 E flat Major (1794) Hob. XVI/52 - 3. Finale presto
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

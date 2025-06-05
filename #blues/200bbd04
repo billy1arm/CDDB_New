@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31035
+#	92651
+#	154085
+#
+# Disc length: 3007 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=200bbd04
+DTITLE=Joe Morris - Colorfield
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Transparent
+TTITLE1=Silver Sun
+TTITLE2=Purple Distant
+TTITLE3=Bell Orange Curves
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

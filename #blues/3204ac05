@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15589
+#	29088
+#	46385
+#	76104
+#
+# Disc length: 1198 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=3204ac05
+DTITLE=Gruntweasel - Grin And Bear It
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Ain't Got You
+TTITLE1=Tore Down
+TTITLE2=You Get That
+TTITLE3=Red House
+TTITLE4=Mary Had A Little Lamb
+EXTD=YEAR: 1997 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

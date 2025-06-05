@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22875
+#	39612
+#	59185
+#
+# Disc length: 1108 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=31045204
+DTITLE=Rick Carroll - Wicked Blue
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=I Just Want to Make Love to You
+TTITLE1=Working Girl
+TTITLE2=Bad Need
+TTITLE3=Bye Bye Baby
+EXTD=YEAR: 1996 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

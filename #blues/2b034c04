@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	18132
+#	36160
+#	50162
+#
+# Disc length: 846 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2b034c04
+DTITLE=Gibson Brothers - Cd Single Classic
+DYEAR=1993
+DGENRE=Disco
+TTITLE0=Que sera mi vida
+TTITLE1=Non Stop dance
+TTITLE2=Cuba
+TTITLE3=Latin America
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

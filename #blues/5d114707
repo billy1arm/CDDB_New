@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	49220
+#	97840
+#	134805
+#	188643
+#	240803
+#	284570
+#
+# Disc length: 4425 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5d114707
+DTITLE=Dexter Gordon - Parisian Concert
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=Caloon Blues
+TTITLE1=Fried Bananas (version 1)
+TTITLE2=Untitled Ballad
+TTITLE3=Some Other Blues
+TTITLE4=No Matter How
+TTITLE5=Dexter Leaps Out
+TTITLE6=Fried Bananas (version 2)
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21573
+#	42078
+#	63989
+#	86850
+#	108522
+#	131937
+#	154224
+#	176866
+#	197332
+#	219678
+#	239412
+#	259640
+#	281411
+#	304687
+#	326400
+#	346351
+#
+# Disc length: 4784 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0012ae11
+DTITLE=Lorentz, Iny - Die Löwin
+DYEAR=2006
+DGENRE=Hörbuch
+TTITLE0=17 Die Löwin
+TTITLE1=18 Die Löwin
+TTITLE2=19 Die Löwin
+TTITLE3=20 Die Löwin
+TTITLE4=21 Die Löwin
+TTITLE5=22 Die Löwin
+TTITLE6=23 Die Löwin
+TTITLE7=24 Die Löwin
+TTITLE8=25 Die Löwin
+TTITLE9=26 Die Löwin
+TTITLE10=27 Die Löwin
+TTITLE11=28 Die Löwin
+TTITLE12=29 Die Löwin
+TTITLE13=30 Die Löwin
+TTITLE14=31 Die Löwin
+TTITLE15=32 Die Löwin
+TTITLE16=33 Die Löwin
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

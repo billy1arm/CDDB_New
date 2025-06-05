@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22522
+#	45179
+#	64031
+#	86586
+#	110670
+#	132422
+#	156535
+#	177849
+#
+# Disc length: 2629 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a0a4309
+DTITLE=George Howard - A home far away
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Miracle
+TTITLE1=If you were mine
+TTITLE2=Doria
+TTITLE3=Until Tomorrow
+TTITLE4=You can make the story right
+TTITLE5=Grover's Groove
+TTITLE6=No ordinary love
+TTITLE7=A home far away
+TTITLE8=Renewal
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

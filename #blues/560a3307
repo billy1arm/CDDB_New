@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32445
+#	64393
+#	92726
+#	120586
+#	146162
+#	172639
+#
+# Disc length: 2613 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=560a3307
+DTITLE=Sonny Fortune - Infinity Is
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=Turning It Over
+TTITLE1=A Ballad for the Times
+TTITLE2=This Side of Infinity
+TTITLE3=Perihelion
+TTITLE4=The Blues are Green
+TTITLE5=Samba Touch
+TTITLE6=Make Up
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

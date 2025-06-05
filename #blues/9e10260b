@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28175
+#	56605
+#	101177
+#	114975
+#	123432
+#	138270
+#	170165
+#	195120
+#	219615
+#	239502
+#
+# Disc length: 4136 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=9e10260b
+DTITLE=The Doors - In Concert Disc 2
+DYEAR=1991
+DGENRE=
+TTITLE0=Roadhouse Blues
+TTITLE1=Gloria
+TTITLE2=Light My Fire (inc. Graveyard Poem)
+TTITLE3=You Make Me Real
+TTITLE4=Texas Radio and The Big Beat
+TTITLE5=Love Me Two Times
+TTITLE6=Little Red Rooster
+TTITLE7=Moonlight Drive (inc. Horse Latitudes)
+TTITLE8=Close To You
+TTITLE9=Unknown Soldier
+TTITLE10=The End
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

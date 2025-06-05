@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21248
+#	32807
+#	69421
+#	86043
+#	125331
+#	149735
+#	168342
+#
+# Disc length: 2395 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.82
+#
+DISCID=6e095908
+DTITLE=Bror Gunnar Jansson - They Found My Body In A Bag
+DYEAR=2019
+DGENRE=Blues
+TTITLE0=Machine
+TTITLE1=Body In A Bag
+TTITLE2=Stalker
+TTITLE3=Stay Out All Night Long
+TTITLE4=Det Stora Ovasendet
+TTITLE5=Trains And Nights
+TTITLE6=There's A Killer On The Loose
+TTITLE7=Will You Help Me When I'm Old?
+EXTD=YEAR: 2019
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

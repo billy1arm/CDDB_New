@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21410
+#	41312
+#	60225
+#	76462
+#	108967
+#
+# Disc length: 2401 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=3d095f06
+DTITLE=crybaby - 迷子の天使
+DYEAR=1900
+DGENRE=Pop
+TTITLE0=迷子の天使
+TTITLE1=悪戯の森のレイン
+TTITLE2=おしえてアインシュタイン
+TTITLE3=小さな秘密
+TTITLE4=迷子の天使(カラオケ)
+TTITLE5=data
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

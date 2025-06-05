@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	74475
+#	135437
+#
+# Disc length: 3132 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=250c3a03
+DTITLE=Herbie Hancock and Chick Corea - An evening with... (disk 2)
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=February Moment
+TTITLE1=Maiden Voyage
+TTITLE2=La Fiesta
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

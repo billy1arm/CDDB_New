@@ -1,0 +1,36 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  183
+#  59728
+#  99853
+#  154775
+#  202615
+#  233360
+#
+# Disc length: 3591 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=3b0e0506
+DTITLE=Malcolm Bilson/fortepiano, John Eliot Gardiner, Eng. Baroque Soloi
+DTITLE=sts - Piano Concertos 22, 23
+DYEAR=1900
+DGENRE=
+TTITLE0=#22 , E-flat major, K. 482, m1: Allegro
+TTITLE1=#22, m2: Andante
+TTITLE2=#22, finale: Allegro
+TTITLE3=#23, A major, K. 488, m1: Allegro
+TTITLE4=#23, m2: Adagio
+TTITLE5=#23, finale: Allegro assai
+EXTD=Malcolm Bilson, Fortepiano\nThe English Baroque Soloists\nJohn Eli
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

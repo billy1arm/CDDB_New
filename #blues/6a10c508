@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53554
+#	83215
+#	104832
+#	147450
+#	156417
+#	188065
+#	255919
+#
+# Disc length: 4295 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a10c508
+DTITLE=ג'רי וחבריו - יצירות בדרך
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Fanfare for Jerusalem (trb.sextette)
+TTITLE1=Oasis
+TTITLE2=Afro-Cuban Legend
+TTITLE3=Life
+TTITLE4=Still on the Road
+TTITLE5=Fusing Contrasts
+TTITLE6=Through Benjamins Eyes
+TTITLE7=Fanfare for Jerusalem
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

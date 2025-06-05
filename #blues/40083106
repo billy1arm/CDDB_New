@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	28168
+#	58843
+#	84835
+#	105868
+#	131368
+#
+# Disc length: 2100 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=40083106
+DTITLE=Jimmy McGriff - At The Apollo
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=There'll Never Be Another You
+TTITLE1=The Deacon
+TTITLE2=Frame for the Blues
+TTITLE3=Red Sails in the Sunset
+TTITLE4=A Thing For Jug
+TTITLE5=We Four
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

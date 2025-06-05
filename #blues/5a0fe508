@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35480
+#	76747
+#	112922
+#	153827
+#	185520
+#	218675
+#	256350
+#
+# Disc length: 4071 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a0fe508
+DTITLE=Roman Schawaller Jazz-Quartett - Some Changes in Life
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Tramline
+TTITLE1=Johnny Come lately
+TTITLE2=I've Got a Crush On You
+TTITLE3=Brütsch Over Troubled Water
+TTITLE4=Some Changes in Life
+TTITLE5=The Loco Motif
+TTITLE6=In A Sentimental Mood
+TTITLE7=In Your Own Sweet Way
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

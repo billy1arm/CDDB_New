@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15846
+#	29444
+#	42988
+#	55253
+#	68839
+#	83159
+#	98677
+#	113073
+#	133466
+#	145622
+#	157997
+#	170076
+#	181386
+#	195917
+#	208331
+#	222416
+#	240633
+#	256106
+#	276930
+#
+# Disc length: 3875 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1b0f2114
+DTITLE=Various Artist - The Best of Boogie Woogie - CD 8
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Artie Shaw - Meade Lux Special
+TTITLE1=Larry Clinton - Boogie Woogie Blues
+TTITLE2=Bob Crosby - Brass Boogie (part One)
+TTITLE3=Bob Crosby - Brass Boogie (part Two)
+TTITLE4=Freddie Slack - Small Batch O' Nod
+TTITLE5=Erskine Hawkins - Gabriel Meets the Duke
+TTITLE6=Sammy Price - Bernie's Boogie
+TTITLE7=Gene Krupa - Thanks for the Boogie Ride
+TTITLE8=Albert Ammons and Meade Lux Lewis - Twos and Fews
+TTITLE9=Freddie Slack - Foot Pete
+TTITLE10=Teddy Powell - Straight Eight Boogie
+TTITLE11=Sammy Price - Trouble In Mind
+TTITLE12=Freddie Slack - Rockin' the Boogie
+TTITLE13=Will Bradley - Five O'clock Whistle
+TTITLE14=Clarence Lofton - In the Morning
+TTITLE15=Speckled Red - Jim Jackson's Hamboree
+TTITLE16=Jimmy Yancey - White Sox Stomp
+TTITLE17=Charles Avery - Dearborn Street Breakdown
+TTITLE18=Sammy Price - Goin' Back Home
+TTITLE19=Jimmy Yancey - South Side Stuff
+EXTD=YEAR: 2003
+EXTT0=(Shaw)
+EXTT1=(Clinton)
+EXTT2=(Crosby)
+EXTT3=(Crosby)
+EXTT4=(Slack)
+EXTT5=(Hawkins)
+EXTT6=(Price)
+EXTT7=(Krupa)
+EXTT8=(Ammons)
+EXTT9=(Slack)
+EXTT10=(Powell)
+EXTT11=(Jones)
+EXTT12=(Slack)
+EXTT13=(Myrow/Gannon)
+EXTT14=(Lofton)
+EXTT15=(Dorsey)
+EXTT16=(Yancey)
+EXTT17=(Avery)
+EXTT18=(Price)
+EXTT19=(Yancey)
+PLAYORDER=

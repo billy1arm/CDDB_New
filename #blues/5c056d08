@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14970
+#	28045
+#	40582
+#	53020
+#	63890
+#	77752
+#	91285
+#
+# Disc length: 1391 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c056d08
+DTITLE=Chris Connor - Sings Lullabys of Birdland
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=I Hear Music
+TTITLE1=What Is There To Say
+TTITLE2=Come Back To Sorrento
+TTITLE3=Why Shouldn't I
+TTITLE4=Lullaby Of Birdland
+TTITLE5=Try A Little Tenderness
+TTITLE6=All About Ronnie
+TTITLE7=Spring Is Here
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

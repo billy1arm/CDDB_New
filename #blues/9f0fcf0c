@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15010
+#	30635
+#	59252
+#	96464
+#	118724
+#	130651
+#	143954
+#	180994
+#	199836
+#	239609
+#	252285
+#
+# Disc length: 4049 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9f0fcf0c
+DTITLE=幾米 - 爵士失樂園
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=01 Nobody Else But Me
+TTITLE1=02 Mack The Knife
+TTITLE2=03 Send in the Clowns
+TTITLE3=04 If I Were a Bell
+TTITLE4=05 My Foolish Heart
+TTITLE5=06 And the Angels Sing
+TTITLE6=07 Be Anything
+TTITLE7=08 I'll Get By
+TTITLE8=09 Opus De Funk
+TTITLE9=10 Over The Rianbow
+TTITLE10=11 Lullaby of the Leaves
+TTITLE11=12 Well, You Needn't
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

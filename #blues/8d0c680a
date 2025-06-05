@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30372
+#	60548
+#	78139
+#	107231
+#	124111
+#	148633
+#	170219
+#	199301
+#	220265
+#
+# Disc length: 3178 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8d0c680a
+DTITLE=Jazz Pops Up - Hits in blue
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=Knockin' On Heaven's Door - Bob Dylan
+TTITLE1=The Unforgiven - Metallica
+TTITLE2=Never Gonna Give You Up - Rick Astley
+TTITLE3=I Want To Break Free - Queen
+TTITLE4=Hard To Say I'm Sorry - Chicago
+TTITLE5=Enjoy The Silence - Depeche Mode
+TTITLE6=Paparazzi - Lady Gaga
+TTITLE7=I Still Haven't Found What I'm Looking For - U2
+TTITLE8=Come As You Are - Nirvana
+TTITLE9=Black Or White - Michael Jackson
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

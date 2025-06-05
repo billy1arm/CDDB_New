@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24575
+#	37265
+#	67022
+#	89537
+#	107229
+#	115615
+#	131825
+#
+# Disc length: 2025 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7207e708
+DTITLE=Various Artist - Vodafone CD6
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Papa was a rolling stone - The temptations
+TTITLE1=When a man loves a woman - Percy Sledge
+TTITLE2=Sex Machine (live) - James Brown
+TTITLE3=I heard it through the grapevine (live) - Marvin Gaye
+TTITLE4=River deep mountain high - Ike and Tina Turner
+TTITLE5=Great balls of fire - Jerry Lee Lewis
+TTITLE6=My baby just cares for me - Nina Simone
+TTITLE7=All around the world - Lisa Stansfield
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

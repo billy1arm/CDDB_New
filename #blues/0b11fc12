@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16054
+#	31478
+#	50461
+#	66267
+#	87135
+#	105359
+#	126630
+#	144994
+#	163488
+#	179751
+#	205937
+#	226189
+#	246188
+#	265226
+#	291267
+#	310965
+#	326690
+#
+# Disc length: 4606 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=0b11fc12
+DTITLE=Aventura - We Broke the Rules
+DYEAR=2002
+DGENRE=Merengue
+TTITLE0=Te Invito
+TTITLE1=La Guerra
+TTITLE2=Obsesion
+TTITLE3=Cuando Volveras
+TTITLE4=I Believe
+TTITLE5=Alexandra
+TTITLE6=Todavia Me Amas
+TTITLE7=La Novelita
+TTITLE8=Perdi El Control
+TTITLE9=Amor Bonito (Novela 2)
+TTITLE10=Amor De Madre
+TTITLE11=No Lo Perdona Dios
+TTITLE12=Dime Si Te Gusto
+TTITLE13=Un Poeta Enamotado
+TTITLE14=Ensename A Olvidar
+TTITLE15=Nueve Y Quince
+TTITLE16=Cuando Volveras (English)
+TTITLE17=Obsesion (English)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

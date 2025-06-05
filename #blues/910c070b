@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     6568
+#     23490
+#     44668
+#     75458
+#     98460
+#     127143
+#     144653
+#     171888
+#     190928
+#     213243
+# 
+# Disc length: 3081 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=910c070b
+DTITLE=BBOTI - Bad Boyz Of The Industry
+DYEAR=1900
+DGENRE=
+TTITLE0=Intro
+TTITLE1=Badd Boyz of the Industry
+TTITLE2=Nasty
+TTITLE3=Where Will You Go
+TTITLE4=Addicted To You
+TTITLE5=Why Does Love Hurt (So Badd)
+TTITLE6=Da Choice Is Yours
+TTITLE7=Ecstasy
+TTITLE8=Da Format
+TTITLE9=Baby, Hold On
+TTITLE10=One Night of Freedom
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

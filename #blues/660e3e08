@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35397
+#	71412
+#	102430
+#	147140
+#	174610
+#	197834
+#	234140
+#
+# Disc length: 3648 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=660e3e08
+DTITLE=Joerg Reiter Trio - Simple Mood
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Someday My Prince Will Come
+TTITLE1=On Green Dolphin Street
+TTITLE2=When The Sun Lights Up The Future
+TTITLE3=Stella By Starlight
+TTITLE4=Simple Mood
+TTITLE5=1.2.79
+TTITLE6=Invitation 
+TTITLE7=Chutney
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

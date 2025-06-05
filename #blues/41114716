@@ -1,0 +1,82 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12292
+#	31186
+#	46645
+#	61921
+#	74418
+#	89352
+#	106686
+#	126805
+#	143024
+#	156240
+#	178037
+#	196362
+#	212769
+#	225525
+#	237115
+#	251706
+#	267396
+#	284043
+#	292227
+#	305529
+#	316387
+#
+# Disc length: 4425 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=41114716
+DTITLE=Count Basie - The Atomic Mr. Basie
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=The Kid from red bank
+TTITLE1=Duet
+TTITLE2=After supper
+TTITLE3=Flight of the foo birds
+TTITLE4=Double-o
+TTITLE5=Teddy the toad
+TTITLE6=Whirly-bird
+TTITLE7=Midnite blue
+TTITLE8=Splanky
+TTITLE9=Fantail
+TTITLE10=Li'l darlin'
+TTITLE11=Silks and satins
+TTITLE12=Sleepwalker serenade
+TTITLE13=The late late show
+TTITLE14=How can you lose?
+TTITLE15=Five o'clock in the morning
+TTITLE16=Whirly-bird (Chicago March 4 1958)
+TTITLE17=Cute (Chicago March 4 1958)
+TTITLE18=Thou swell (Chicago March 4 1958)
+TTITLE19=Five o'clock in the morning (Chicago March 4 1958)
+TTITLE20=Blee blop blues
+TTITLE21=On o'clock jump (Chicago March 4 1958)
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

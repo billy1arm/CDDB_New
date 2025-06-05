@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11887
+#	24440
+#	34947
+#	46220
+#	58697
+#	73040
+#	86585
+#	96365
+#	109217
+#
+# Disc length: 1640 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8406660a
+DTITLE=Bo Diddley - Golden Hits
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Pretty Thing
+TTITLE1=I'm A Man
+TTITLE2=Mona
+TTITLE3=Who Do You Love
+TTITLE4=Road Runner
+TTITLE5=Say Man
+TTITLE6=You Can't Judge A Book By It's Cover
+TTITLE7=Hey Bo Diddley
+TTITLE8=Story Of Bo Diddley
+TTITLE9=Before You Accuse Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

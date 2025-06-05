@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15885
+#	30095
+#	50527
+#
+# Disc length: 903 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=1b038504
+DTITLE=Mariah Carey - Open Arms
+DYEAR=1900
+DGENRE=
+TTITLE0=Open Arms
+TTITLE1=I Am Free
+TTITLE2=Fantasy (Live)
+TTITLE3=Vision Of Love (Live)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

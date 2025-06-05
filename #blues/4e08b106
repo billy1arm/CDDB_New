@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19464
+#	38041
+#	70807
+#	98836
+#	133728
+#
+# Disc length: 2227 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e08b106
+DTITLE=Indigo - Perfect Day (single)
+DYEAR=2000
+DGENRE=Dance
+TTITLE0=Perfect Day (Phatkatz Radio Edit)
+TTITLE1=Perfect Day (Original Mix Edit)
+TTITLE2=Perfect Day (Original Mix)
+TTITLE3=Perfect Day (Phatkatz Club Mix)
+TTITLE4=Perfect Day (Almighty Definitive Mix)
+TTITLE5=Perfect Day (Dataluxe Mix)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

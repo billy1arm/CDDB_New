@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     157
+#     11265
+#     28117
+#     44572
+#     59257
+#     76005
+#     110772
+#     127437
+#     143425
+#     165382
+#     178575
+#     197392
+# 
+# Disc length: 2923 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=980b690c
+DTITLE=Rod Piazza - Harpburn
+DYEAR=1900
+DGENRE=
+TTITLE0=Little Bitty Pretty One - Rockin' Robin
+TTITLE1=Bad Bad Boy
+TTITLE2=One Mint Julep
+TTITLE3=California Boogie
+TTITLE4=The Upsetter
+TTITLE5=Tribute to George Smith
+TTITLE6=Harpburn
+TTITLE7=Feeling Good
+TTITLE8=Honey Bee (Buzz)
+TTITLE9=Cold Chill
+TTITLE10=Worried Life Blues
+TTITLE11=I'm Dangerous
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

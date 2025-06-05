@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35200
+#	69567
+#	99895
+#	114700
+#	152365
+#	196315
+#	224065
+#	266065
+#	297397
+#
+# Disc length: 4494 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9a118c0a
+DTITLE=Pete Conde Rodriguez - Live at Teatro La Perla
+DYEAR=2001
+DGENRE=Salsa
+TTITLE0=Babaila
+TTITLE1=Catalina La O
+TTITLE2=Macho Cimarron
+TTITLE3=Blanca
+TTITLE4=No Me Digan Que Es Muy Tarde
+TTITLE5=El Swing
+TTITLE6=Los Compadres
+TTITLE7=Sonero
+TTITLE8=La Esencia del Guaguanco
+TTITLE9=Soy Hijo de Siboney
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

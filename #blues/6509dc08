@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33338
+#	64067
+#	85453
+#	100887
+#	117168
+#	143474
+#	164601
+#
+# Disc length: 2526 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=6509dc08
+DTITLE=Sadao Watanabe - Sadao Watanabe (1961)
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Del Sasser
+TTITLE1=Romanade
+TTITLE2=Now's The Time
+TTITLE3=Just In Time
+TTITLE4=Greasy
+TTITLE5=M and M
+TTITLE6=Amen
+TTITLE7=Toshiko's Elegy (My Elegy)
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

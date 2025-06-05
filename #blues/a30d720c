@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  20707
+#  36737
+#  55474
+#  75976
+#  98077
+#  116477
+#  135911
+#  153962
+#  176741
+#  203476
+#  224715
+#
+# Disc length: 3444 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=a30d720c
+DTITLE=Doctor Bob - The doctor is in
+DYEAR=1900
+DGENRE=
+TTITLE0=Make Believe
+TTITLE1=There Must be Something Wrong With Me
+TTITLE2=All I Want
+TTITLE3=Just Who I Am
+TTITLE4=Close Your Eyes
+TTITLE5=The Gospel According To Dr Bob
+TTITLE6=The Ant Song
+TTITLE7=Sam's Blues
+TTITLE8=Sign Of THe Times
+TTITLE9=Shine A Little Light
+TTITLE10=Heartbeat By Heartbeat
+TTITLE11=Lighthouse Keeper's Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

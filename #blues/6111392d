@@ -1,0 +1,151 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3300
+#	6376
+#	9478
+#	16936
+#	24514
+#	31172
+#	37748
+#	44369
+#	51026
+#	58492
+#	65958
+#	73424
+#	79984
+#	86507
+#	93044
+#	99669
+#	106273
+#	112886
+#	118830
+#	124752
+#	130666
+#	136674
+#	142668
+#	148665
+#	154682
+#	160666
+#	166672
+#	172681
+#	177220
+#	185905
+#	194581
+#	200544
+#	205083
+#	212485
+#	217024
+#	222522
+#	228534
+#	234781
+#	241717
+#	247621
+#	255125
+#	270549
+#	286616
+#	312652
+#
+# Disc length: 4411 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=6111392d
+DTITLE=いちむらまさき - ブルース・ギターをはじめる方法とプレイ幅を広げるコツ
+DYEAR=2017
+DGENRE=Lesson
+TTITLE0=Track 01　ブラッシングの3連符から中抜き
+TTITLE1=Track 02　3連符のアタマの音を伸ばす
+TTITLE2=Track 03　中抜きを区切る
+TTITLE3=Track 04　基本的なコード進行を確認
+TTITLE4=Track 05　動きのあるバッキング　その1
+TTITLE5=Track 06　動きのあるバッキング　その2
+TTITLE6=Track 07　3連符を入れてみる
+TTITLE7=Track 08　フォームのバリエーションを増やそう
+TTITLE8=Track 09　5フレット付近のコード・フォーム
+TTITLE9=Track 10　コードが変わっても同じフレーズが使える
+TTITLE10=Track 11　フレーズに変化を出す
+TTITLE11=Track 12　別のポジションを試す
+TTITLE12=Track 13　オクターブ違いを試す
+TTITLE13=Track 14　覚えたポジションを使って
+TTITLE14=Track 15　明るいブルース・フレーズ
+TTITLE15=Track 16　C7フォームをズラして使う
+TTITLE16=Track 17　少しジャズっぽい「9(ナインス)」コードで
+TTITLE17=Track 18　A7の時にDへ散歩する
+TTITLE18=Track 19　ハイ・コードと開放弦の合体
+TTITLE19=Track 20　3～1弦でコード表現
+TTITLE20=Track 21　低音中心のアプローチ
+TTITLE21=Track 22　経過音を使う
+TTITLE22=Track 23　クォーター・チョーキングと相性の良いフレットを確認!
+TTITLE23=Track 24　コードのセーハ・ポジションをもとにリードを展開する
+TTITLE24=Track 25　3&1弦だけを使った展開
+TTITLE25=Track 26　4&3弦だけを使う簡単アプローチ
+TTITLE26=Track 27　F#m7っぽい明るいフレーズを練習しよう
+TTITLE27=Track 28　土くさいと明るいをゴチャ混ぜで弾いてみよう
+TTITLE28=Track 29　速いテンポで連打
+TTITLE29=Track 30　3連符に6連符を交ぜる
+TTITLE30=Track 31　ゆっくりテンポで間を作る
+TTITLE31=Track 32　ベース・フレーズを真似る
+TTITLE32=Track 33　ベース・フレーズを別ポジションで
+TTITLE33=Track 34　マイナー・ブルースを弾いてみよう
+TTITLE34=Track 35　Eブルースを弾こう その1
+TTITLE35=Track 36　Eブルースを弾こう その2
+TTITLE36=Track 37　Fブルースを弾こう
+TTITLE37=Track 38　ジャグ・バンド風のコード進行
+TTITLE38=Track 39　アコースティックならではのコード進行
+TTITLE39=Track 40　ハーフ・シャッフル・ブルースを弾こう
+TTITLE40=Track 41　Gブルースを弾こう
+TTITLE41=Track 42　スライド・ギターを弾こう
+TTITLE42=Track 43　6拍子ブルースを弾こう
+TTITLE43=Track 44　アドリブ用オケ E7
+TTITLE44=Track 45　アドリブ用オケ A7 - Bb7
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+PLAYORDER=

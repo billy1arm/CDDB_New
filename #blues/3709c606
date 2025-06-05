@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	16617
+#	33307
+#	49577
+#	68070
+#	113262
+#
+# Disc length: 2504 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3709c606
+DTITLE=Marcel Landowski - Chants d'Innocence, Rois Mages, Cantate I (Maîtrise des Bouches du Rhône)
+DYEAR=1996
+DGENRE=Contemporain
+TTITLE0=4 chants d'innocence - 1. Maman me permets-tu ¿  [dir. Jeannine Prosper]
+TTITLE1=4 chants d'innocence - 2. Dans l'armoire aux costumes
+TTITLE2=4 chants d'innocence - 3. Des Contes de l'Amour
+TTITLE3=4 chants d'innocence - 4. Plus loin que nos regards
+TTITLE4=Les Rois Mages  [dir. Jeannine Prosper]
+TTITLE5=Cantate I - Jésus, là, es-tu ¿ [dir. Landowski, Orch. Philharmonique Opéra Marseille]
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

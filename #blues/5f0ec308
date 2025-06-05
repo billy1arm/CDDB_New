@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40735
+#	71678
+#	99204
+#	129218
+#	174658
+#	211506
+#	248215
+#
+# Disc length: 3781 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=5f0ec308
+DTITLE=Eric Alexander - Eric Alexander In Europe
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=What a difference a day makes
+TTITLE1=The Edge
+TTITLE2=Stay on it
+TTITLE3=To be with you
+TTITLE4=Trippin'
+TTITLE5=Spank that pig
+TTITLE6=Good morning heartache
+TTITLE7=That's all
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

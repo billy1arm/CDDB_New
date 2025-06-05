@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	18345
+#	33940
+#
+# Disc length: 690 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1702b003
+DTITLE=Elton John - Your Song
+DYEAR=1991
+DGENRE=Pop
+TTITLE0=Your Song
+TTITLE1=Blue Eyes
+TTITLE2=I Don't Want to Go on With You like That
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

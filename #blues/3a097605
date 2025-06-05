@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31365
+#	57950
+#	95045
+#	121707
+#
+# Disc length: 2424 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=3a097605
+DTITLE=Freddie Hubbard - Polar AC
+DYEAR=1974
+DGENRE=Jazz
+TTITLE0=Polar AC
+TTITLE1=Betcha by golly, wow
+TTITLE2=People make the world go round
+TTITLE3=Naturally
+TTITLE4=Son of Sky Dive
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	8937
+#	21122
+#	36297
+#	47535
+#	59862
+#	81207
+#	93067
+#	112152
+#	122717
+#	135290
+#	146302
+#
+# Disc length: 2104 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9b08360c
+DTITLE=Various Artist - Best Of The Blues - Hooker - Hopkins/ Reed
+DYEAR=1900
+DGENRE=
+TTITLE0=Hobo Blues
+TTITLE1=I'm In The Mood
+TTITLE2=Crawling King Snake
+TTITLE3=Boom Boom
+TTITLE4=Shaggy Dog
+TTITLE5=Shake It Baby
+TTITLE6=Shining Moon
+TTITLE7=Good Times
+TTITLE8=Ain't That Lovin' You Baby
+TTITLE9=Honest I Do
+TTITLE10=Little Rain
+TTITLE11=Close Together
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

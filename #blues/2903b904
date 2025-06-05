@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18918
+#	35988
+#	54756
+#
+# Disc length: 955 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CD2WAV32(JP) R3.22
+#
+DISCID=2903b904
+DTITLE=井上みゆ - クレセント ～Crescent～
+DYEAR=2005
+DGENRE=JPop
+TTITLE0=クレセント
+TTITLE1=魔法の呪文よ叶えて!
+TTITLE2=クレセント (Original Karaoke)
+TTITLE3=魔法の呪文よ叶えて! (Original Karaoke)
+EXTD=
+EXTT0=曲:chinatu 詞:井上みゆ
+EXTT1=曲:ari 詞:井上みゆ
+EXTT2=曲:chinatu
+EXTT3=曲:ari
+PLAYORDER=

@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	28445
+#	108508
+#	150658
+#	170383
+#
+# Disc length: 2624 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta2
+#
+DISCID=3a0a3e05
+DTITLE=Jimi Hendrix - Auld Lang Syne CD 2
+DYEAR=1969
+DGENRE=Blues
+TTITLE0=Crash Landing
+TTITLE1=Stone Free
+TTITLE2=Them Changes
+TTITLE3=Message to Love
+TTITLE4=Stop
+EXTD=YEAR: 1969 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19300
+#	44905
+#	60295
+#	85522
+#	105167
+#	121975
+#	149387
+#
+# Disc length: 2174 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=61087c08
+DTITLE=Shelly Manne - My Fair Lady
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Get Me To The Church On Time
+TTITLE1=On The Street Where You Live
+TTITLE2=I've Grown Accustomed To Her Face
+TTITLE3=Wouldn't It Be Loverly
+TTITLE4=Ascot Gavotte
+TTITLE5=Show Me
+TTITLE6=With A Little Bit Of Luck
+TTITLE7=I Could Have Danced All Night
+EXTD=YEAR: 1956
+EXTT0=4:11
+EXTT1=5:37
+EXTT2=3:21
+EXTT3=5:31
+EXTT4=4:17
+EXTT5=3:40
+EXTT6=6:01
+EXTT7=3:00
+PLAYORDER=

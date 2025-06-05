@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20177
+#	35908
+#	59280
+#	74942
+#
+# Disc length: 1201 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5104af05
+DTITLE=Tompo - Light Your Way
+DYEAR=2005
+DGENRE=Blues
+TTITLE0=Tall Man
+TTITLE1=Light Your Way
+TTITLE2=Worried Man Blues
+TTITLE3=Broken Bone Blues
+TTITLE4=Altitude
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

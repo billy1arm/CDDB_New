@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14130
+#	25649
+#	56164
+#
+# Disc length: 1106 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2e045004
+DTITLE=Collectif Jazz Manouche - Live Mai 2005
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Rythmes gitans
+TTITLE1=Rêve bohêmien
+TTITLE2=Oï tate
+TTITLE3=Tears
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

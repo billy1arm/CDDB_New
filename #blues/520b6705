@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	64882
+#	133968
+#	172424
+#	193737
+#
+# Disc length: 2921 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=520b6705
+DTITLE=Schumann - Concerto pour violon and orch. (S.Comissiona, Vancouver Sym. Orch.) - Sonate N°1
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Concerto pour violon et orchestre en ré mineur - I. In kräftigem, nicht zu schnellen Tempo 
+TTITLE1=Concerto pour violon et orchestre en ré mineur - II. Langsam - III. Lebhalf, doch nicht schnell
+TTITLE2=Sonate N°1 pour violon et piano en la mineur - I. Mit leidenschaftlichen Ausdruck
+TTITLE3=Sonate N°1 pour violon et piano en la mineur - II. Allegro  .....  (Ara Malican, violon)
+TTITLE4=Sonate N°1 pour violon et piano en la mineur - III. Lebhaft  .....  (Serouj Kradjian, piano)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19640
+#	39228
+#	59393
+#	78688
+#	96358
+#	114228
+#	132388
+#
+# Disc length: 2024 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=6107e608
+DTITLE=Frank Potenza - Soft and Warm
+DYEAR=1900
+DGENRE=
+TTITLE0=Califormia Dreamin'
+TTITLE1=Sleeping Beauty
+TTITLE2=Quiet Storm
+TTITLE3=Coast Line
+TTITLE4=Soft and Warm
+TTITLE5=The 'In' Crowd
+TTITLE6=Somewhere Out There
+TTITLE7=Be My Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

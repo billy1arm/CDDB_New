@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	4308
+#	16807
+#	26625
+#	42799
+#	108009
+#	110700
+#	119233
+#	135913
+#	161715
+#	167253
+#	179228
+#
+# Disc length: 2570 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=980a080c
+DTITLE=Kvitretten - Voices
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Tailpiece
+TTITLE1=WhoWhatWernWhere
+TTITLE2=Rèsumé
+TTITLE3=I wan't grow up
+TTITLE4=Proverb
+TTITLE5=Comment
+TTITLE6=Extemporanea
+TTITLE7=Ost i ost
+TTITLE8=Black Coffee
+TTITLE9=Women
+TTITLE10=Men
+TTITLE11=Sleep
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

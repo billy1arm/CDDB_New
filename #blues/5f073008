@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5377
+#	32899
+#	47308
+#	70038
+#	88152
+#	108523
+#	128908
+#
+# Disc length: 1842 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f073008
+DTITLE=Halfbreed - Rage of the Plague
+DYEAR=2000
+DGENRE=Psychopathic
+TTITLE0=Hallow (Intro)
+TTITLE1=The Sewers
+TTITLE2=Candy Apples and Razorblades
+TTITLE3=The Gallery
+TTITLE4=Comin Back
+TTITLE5=Angels Night Anthem
+TTITLE6=The Summons
+TTITLE7=Dark Dayz (Outro)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

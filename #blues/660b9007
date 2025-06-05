@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36785
+#	62836
+#	99563
+#	161199
+#	192537
+#	209433
+#
+# Disc length: 2962 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=660b9007
+DTITLE=Sun Ra - Media Dreams 2
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=Friendly Galaxy
+TTITLE1=An Unbeknowneth Love
+TTITLE2=Of Other Tomorrows Never Known
+TTITLE3=Images
+TTITLE4=The Truth About Planet Earth
+TTITLE5=Space is The Place
+TTITLE6=The Shadow World
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

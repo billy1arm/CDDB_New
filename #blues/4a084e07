@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22834
+#	53923
+#	76693
+#	93900
+#	111823
+#	133825
+#
+# Disc length: 2128 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.75
+#
+DISCID=4a084e07
+DTITLE=Le Bardi Manchot - Dimanche Gras
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=Michigander Blues
+TTITLE1=Hard Time Blues
+TTITLE2=Milenberg Joys
+TTITLE3=Smokehouse Blues
+TTITLE4=New Orleans Bump
+TTITLE5=Egyptian Ella
+TTITLE6=Delta Bound
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

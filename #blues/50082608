@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18082
+#	40275
+#	55767
+#	78257
+#	105022
+#	119492
+#	136522
+#
+# Disc length: 2088 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL1
+#
+DISCID=50082608
+DTITLE=Johnny Guitar Watson - Strike On Computers
+DYEAR=1900
+DGENRE=
+TTITLE0=You do me bad so good
+TTITLE1=Boogie down party down
+TTITLE2=Scratching "85"
+TTITLE3=Let´s get together
+TTITLE4=Strike on computers
+TTITLE5=Byrd ball train
+TTITLE6=Statue of liberty
+TTITLE7=Please send me someone to love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

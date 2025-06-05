@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7123
+#	27700
+#	53427
+#	69621
+#	93888
+#	114577
+#	139235
+#	160465
+#	183617
+#	206117
+#
+# Disc length: 3002 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a00bb80b
+DTITLE=SOUND HOLIC - Metallical Astronomy
+DYEAR=2010
+DGENRE=サウンドトラック
+TTITLE0=Metallical Astronomy
+TTITLE1=Satellite XXX
+TTITLE2=Scarlet Desire
+TTITLE3=G.M.T.
+TTITLE4=Heart Of Singularity
+TTITLE5=G-Zero
+TTITLE6=A Trip To The Moon
+TTITLE7=Infinity Trip
+TTITLE8=Demystify The Universe
+TTITLE9=Break The World Down
+TTITLE10=Missing Moon
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

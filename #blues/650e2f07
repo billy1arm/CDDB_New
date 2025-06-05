@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	34400
+#	73727
+#	98857
+#	154092
+#	189322
+#	221947
+#
+# Disc length: 3633 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=650e2f07
+DTITLE=Gérard Marais - Quartet Opéra
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Jour de fete
+TTITLE1=La terre, le vent, le feu
+TTITLE2=La fee ONG
+TTITLE3=Le rouge et le noir
+TTITLE4=Paroles
+TTITLE5=Vénus café
+TTITLE6=Le bal
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

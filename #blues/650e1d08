@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36413
+#	61250
+#	95381
+#	128940
+#	165468
+#	198455
+#	233004
+#
+# Disc length: 3615 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=650e1d08
+DTITLE=aetherium - healing gold
+DYEAR=2006
+DGENRE=New Age
+TTITLE0=01 - Rainbow Light
+TTITLE1=02 - Ether Prayer
+TTITLE2=03 - Elestial Glow
+TTITLE3=04 - Frozen Lake
+TTITLE4=05 - Beacon Of Light
+TTITLE5=06 - Ocean Deep
+TTITLE6=07 - Onward
+TTITLE7=08 - After The Rain
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

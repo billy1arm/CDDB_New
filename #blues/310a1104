@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	109575
+#	149625
+#	173625
+#
+# Disc length: 2579 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=310a1104
+DTITLE=Various Artist - The Mastermind Megamix Volume 1
+DYEAR=2005
+DGENRE=Mix
+TTITLE0=Megamix Vol. 1
+TTITLE1=Culture Beat Megamix
+TTITLE2=Elton John - Can you feel the Love 
+TTITLE3=Roxette - Listen to your Heart 
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

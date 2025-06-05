@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     1752
+#     10387
+#     26220
+#     43882
+#     54395
+#     75990
+#     97452
+#     114922
+#     138172
+#     162945
+#     184415
+# 
+# Disc length: 2792 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=960ae60c
+DTITLE=Various Artist - Gotee Night Out
+DYEAR=1900
+DGENRE=
+TTITLE0=Roland Gettin' Funky on the Mic
+TTITLE1=Lovely Day - Out Of Eden
+TTITLE2=A Friend - Out Of Eden
+TTITLE3=Gotee Jazz Instrumental - The Band Intro
+TTITLE4=Listening - Christafari
+TTITLE5=Selah - Christafari
+TTITLE6=Gotee Jazz Intrumental - Apricot Jam
+TTITLE7=Set Ya Mind At Ease - Grits
+TTITLE8=Butter In My Grits - Grits
+TTITLE9=Gotee Jazz Instrumental - Black Raspberry Jam
+TTITLE10=Sweet Tea - Erace
+TTITLE11=Roland On The Mic
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

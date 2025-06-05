@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37425
+#	115158
+#	162803
+#	201828
+#	231908
+#	259260
+#	291458
+#
+# Disc length: 4434 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7b115008
+DTITLE=Rich Halley - Umatilla Variations
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Provisionally
+TTITLE1=Looking Forward, Looking Back (for John Carter)
+TTITLE2=Umatilla Variations
+TTITLE3=Inequilaterality
+TTITLE4=Stubble
+TTITLE5=Rattlesnake And Spider
+TTITLE6=February 46 Degrees
+TTITLE7=Intransigence
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

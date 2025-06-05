@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     22642
+#     44622
+# 
+# Disc length: 889 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=18037703
+DTITLE=Tower of Power - Soul with a capital "S"
+DYEAR=1900
+DGENRE=
+TTITLE0=Soul with a capital S
+TTITLE1=Come on with it
+TTITLE2=You can't fall up (you just fall down)
+EXTD=
+EXTT0=
+EXTT1=\n
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46046
+#	63577
+#	94427
+#	132828
+#	142933
+#
+# Disc length: 2493 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4f09bb06
+DTITLE=Manfred Schoof Quintet 1966 - Voices
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=Roots And Collage
+TTITLE1=Voices
+TTITLE2=Tropi
+TTITLE3=Mines
+TTITLE4=Adjustment
+TTITLE5=Rhythm Change
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22167
+#	40760
+#	58207
+#	74547
+#	83829
+#	104700
+#	124687
+#	143777
+#	155530
+#	178470
+#
+# Disc length: 2639 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a60a4d0b
+DTITLE=isabelle haze
+DYEAR=1900
+DGENRE=
+TTITLE0=Schieb from Saturn
+TTITLE1=Finest Swine
+TTITLE2=Coo Coo
+TTITLE3=Golfing
+TTITLE4=The Elephants are Coming But I See No Monkeys
+TTITLE5=Zaxxon
+TTITLE6=Fanshore Brown
+TTITLE7=Rap Star
+TTITLE8=I See the Monkeys
+TTITLE9=Rump City
+TTITLE10=Ain't No Thang
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

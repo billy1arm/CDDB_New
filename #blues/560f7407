@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34679
+#	94417
+#	144699
+#	168245
+#	220523
+#	249081
+#
+# Disc length: 3958 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=560f7407
+DTITLE=Carl Weingarten - Panomorphia
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=The Simian River
+TTITLE1=Tango
+TTITLE2=Flow of Stars
+TTITLE3=Bluescapes
+TTITLE4=Panomorphia
+TTITLE5=Tapper
+TTITLE6=The Ship the Dream
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	102500
+#	131422
+#	157550
+#	174357
+#
+# Disc length: 2568 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2f0a0605
+DTITLE=Kraftwerk - Autobahn
+DYEAR=1974
+DGENRE=Electronic
+TTITLE0=Autobahn
+TTITLE1=Kometenmelodie 1
+TTITLE2=Kometenmelodie 2
+TTITLE3=Mitternacht
+TTITLE4=Morgenspaziergang
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

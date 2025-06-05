@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27065
+#	46680
+#	78525
+#	103150
+#	122537
+#	153205
+#	181127
+#	209587
+#	237437
+#	261045
+#
+# Disc length: 3992 seconds
+#
+# Revision: 56
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.99.1
+#
+DISCID=860f960b
+DTITLE=Pink Floyd - The Division Bell
+DYEAR=1994
+DGENRE=Progressive Rock
+TTITLE0=Cluster One
+TTITLE1=What Do You Want From Me
+TTITLE2=Poles Apart
+TTITLE3=Marooned
+TTITLE4=A Great Day For Freedom
+TTITLE5=Wearing The Inside Out
+TTITLE6=Take It Back
+TTITLE7=Coming Back To Life
+TTITLE8=Keep Talking
+TTITLE9=Lost For Words
+TTITLE10=High Hopes
+EXTD=Bob Ezrin and David Gilmour YEAR: 1994
+EXTT0=Gilmour, Wright
+EXTT1=Gilmour, Wright
+EXTT2=David Gilmour
+EXTT3=Gilmour, Wright
+EXTT4=David Gilmour
+EXTT5=Richard Wright
+EXTT6=Gilmour, Ezrin
+EXTT7=David Gilmour
+EXTT8=Gilmour, Wright
+EXTT9=David Gilmour
+EXTT10=David Gilmour
+PLAYORDER=

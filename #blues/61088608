@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22355
+#	48313
+#	69020
+#	88076
+#	105331
+#	125136
+#	150489
+#
+# Disc length: 2184 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=61088608
+DTITLE=luca visciola trio - some skunk of jazz
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=passion dance
+TTITLE1=windows
+TTITLE2=the rouge n.1
+TTITLE3=loud jazz
+TTITLE4=the spin
+TTITLE5=some skunk funk
+TTITLE6=three marias
+TTITLE7=the rouge n. 2
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

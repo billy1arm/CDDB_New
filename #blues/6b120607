@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	55163
+#	97075
+#	137341
+#	171234
+#	208690
+#	284924
+#
+# Disc length: 4616 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b120607
+DTITLE=wavestar - moonwind
+DYEAR=1987
+DGENRE=New Age
+TTITLE0=Voyager
+TTITLE1=Edge of Morning
+TTITLE2=Cabala
+TTITLE3=Troll Valley
+TTITLE4=Moonwind
+TTITLE5=Chase the Evening
+TTITLE6=For the Whales
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16137
+#	30680
+#	51395
+#	68897
+#
+# Disc length: 1232 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3c04ce05
+DTITLE=乙三 - 歌謡日
+DYEAR=2004
+DGENRE=Pop
+TTITLE0=大爆発
+TTITLE1=火曜日
+TTITLE2=君に降る雨
+TTITLE3=残業ラプソディー
+TTITLE4=面影
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

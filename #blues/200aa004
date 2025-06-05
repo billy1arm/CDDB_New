@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	17257
+#	69895
+#	91370
+#
+# Disc length: 2722 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=200aa004
+DTITLE=Paolo Damiani/Tiziana Ghiglioni/Lauren Newton - Voices live in rome
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Intro
+TTITLE1=Voci
+TTITLE2=Folksong N2
+TTITLE3=Flying/Senza
+EXTD=ID3G: 8
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

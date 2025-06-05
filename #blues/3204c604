@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25832
+#	48190
+#	73443
+#
+# Disc length: 1224 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3204c604
+DTITLE=The Just Jazz Trio - Plus One
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Beatrice
+TTITLE1=Well You Needn't
+TTITLE2=Triste
+TTITLE3=I Guess I'm Just A Lucky So And So
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

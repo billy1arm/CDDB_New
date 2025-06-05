@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28880
+#	54380
+#	78652
+#	117045
+#	138007
+#	161737
+#
+# Disc length: 2316 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=54090a07
+DTITLE=Ahmad Jamal - Ahmad Jamal in Concert - Waltz For Debby
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Waltz for Debby
+TTITLE1=Folks who Live on the Hill
+TTITLE2=People
+TTITLE3=Baia
+TTITLE4=The Good Life
+TTITLE5=Autumn in New York
+TTITLE6=I've Never Been in Love Before
+EXTD=ID3G: 8
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

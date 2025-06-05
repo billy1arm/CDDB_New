@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23145
+#	38145
+#
+# Disc length: 813 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1a032b03
+DTITLE=THE BOOM - 島唄
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=島唄
+TTITLE1=ひゃくまんつぶの涙
+TTITLE2=島唄（オリジナルカラオケ）
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

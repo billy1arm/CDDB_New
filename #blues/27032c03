@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21612
+#	42612
+#
+# Disc length: 814 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=27032c03
+DTITLE=ゆず - 超特急／陽はまた昇る
+DYEAR=2005
+DGENRE=J-Pop
+TTITLE0=超特急
+TTITLE1=陽はまた昇る
+TTITLE2=心の友よ
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

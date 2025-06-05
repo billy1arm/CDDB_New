@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	42333
+#	76458
+#	113058
+#	156483
+#	192558
+#	235833
+#
+# Disc length: 3852 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=590f0a07
+DTITLE=Bohuslav Martinu - Martinu Symphonies
+DYEAR=1990
+DGENRE=Symphonic
+TTITLE0=Symphony No.1 -I- Moderato - Poco più mosso
+TTITLE1=Symphony No.1 -II- Scherzo: Allegro - Trio: Poco moderato
+TTITLE2=Symphony No.1 -III- Largo
+TTITLE3=Symphony No.1 -IV- Allegro non troppo
+TTITLE4=Symphony No.5 -I- Adagio - Allegro
+TTITLE5=Symphony No.5 -II- Larghetto
+TTITLE6=Symphony No.5 -III- Lento - Allegro
+EXTD=Royal Scottish National Orchestra\nEdwin Paling, leader\nBryden Thomson, conductor YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

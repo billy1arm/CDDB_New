@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11246
+#	37492
+#	49486
+#	63268
+#	86891
+#	137223
+#	159617
+#
+# Disc length: 2533 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7909e308
+DTITLE=The Jazz Crusaders - Give Peace A Chance
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Give Peace a Chance
+TTITLE1=I Think It Was a Dream
+TTITLE2=Black Bird
+TTITLE3=The Thrill Is Gone
+TTITLE4=Anita's New Dance
+TTITLE5=Space Settlement
+TTITLE6=All the Lonely Years
+TTITLE7=Another Blues
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

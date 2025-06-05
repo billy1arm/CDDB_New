@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48080
+#	86528
+#	120387
+#	151056
+#	168335
+#	218098
+#
+# Disc length: 3322 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=480cf807
+DTITLE=Al di Meola  - World Sinfonia - live from Seattle and elsewhere
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Misterio (San Francisco)
+TTITLE1=Siberiana (Seattle)
+TTITLE2=Paramour's Lullaby (Seattle)
+TTITLE3=Gumbiero (Seattle)
+TTITLE4=Fireflies (Seattle)
+TTITLE5=Umbras (San Francisco)
+TTITLE6=No Potho Reposare (Istanbul)
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

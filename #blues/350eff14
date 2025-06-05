@@ -1,0 +1,77 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	13420
+#	28591
+#	42426
+#	59535
+#	72987
+#	87400
+#	101992
+#	115229
+#	127397
+#	139391
+#	158803
+#	176514
+#	188432
+#	201307
+#	219923
+#	232104
+#	246177
+#	259635
+#	276012
+#
+# Disc length: 3841
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 2.0
+# Normalized: r1:DSETVAR1,TDELIM( - )
+#
+DISCID=350eff14
+DTITLE=Various Artist - The Best Of Boogie Woogie - CD 10
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=The Boogie Woogie - Honey Hill
+TTITLE1=Shuffle Boogie - Pete Johnson
+TTITLE2=South Side Shuffle - Art Hodes
+TTITLE3=Mecca Flat Blues - Albert Ammons
+TTITLE4=Gin Mill Blues - Bob Zurke
+TTITLE5=Down The Road - Freddie Slack
+TTITLE6=Woo Woo - Albert Ammons
+TTITLE7=Boo Woo Woo - Pete Johnson and Harry James
+TTITLE8=Oscar's Boogie - Oscar Peterson
+TTITLE9=Boogie Joys - Ralph Sutton
+TTITLE10=At The Downtown Caf - Eddie Heywood
+TTITLE11=Jammin' The Boogie - Albert Ammons
+TTITLE12=Boogie Woogie Maxixe - Joe Sullivan
+TTITLE13=Choo Choo Ch'boogie - Louis Jordan
+TTITLE14=Cliff's Boogie Blues - Clifton Jackson and His Village Cats
+TTITLE15=If Things Don't Get Better - Beverley White
+TTITLE16=Mister Black Man - Laverne Holt
+TTITLE17=Boogie Express - Deryck Sampson
+TTITLE18=It Was So Good - Lizzie Baker
+TTITLE19=Don't Stop Now - Beverley White
+EXTD=
+EXTT0=(Hill)
+EXTT1=(Johnson)
+EXTT2=(Hodes)
+EXTT3=(Ammons)
+EXTT4=(Zurke)
+EXTT5=(Slack)
+EXTT6=(Ammons)
+EXTT7=(James/Johnson)
+EXTT8=(Peterson)
+EXTT9=(Sutton)
+EXTT10=(Heywood)
+EXTT11=(Ammons)
+EXTT12=(Sullivan)
+EXTT13=(Jordan)
+EXTT14=(Jackson)
+EXTT15=(White)
+EXTT16=(Holt)
+EXTT17=(Sampson)
+EXTT18=(Baker)
+EXTT19=(White)
+PLAYORDER=

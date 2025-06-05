@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22587
+#	57071
+#	81296
+#	113186
+#	145105
+#	178872
+#	218452
+#	242834
+#
+# Disc length: 3639 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d0e3509
+DTITLE=Rudder - Rudder
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Squarefoot
+TTITLE1=Stablemaster
+TTITLE2=Juray
+TTITLE3=Floater
+TTITLE4=Sk8
+TTITLE5=Circle of Jerks
+TTITLE6=Lopez
+TTITLE7=Sad Clown
+TTITLE8=Laurito
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

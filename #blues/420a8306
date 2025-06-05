@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34532
+#	68430
+#	85617
+#	126485
+#	173225
+#
+# Disc length: 2693 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=420a8306
+DTITLE=Eraldo Volonté - Jazz (Now) In Italy
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=Eclypso
+TTITLE1=Flamingo
+TTITLE2=Tale
+TTITLE3=Ornette
+TTITLE4=Explorable
+TTITLE5=Mr. Arpo
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

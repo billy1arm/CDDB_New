@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19230
+#	42602
+#	68879
+#	87084
+#	109719
+#	129919
+#	150079
+#	171399
+#
+# Disc length: 2643 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b0a5109
+DTITLE=Shareef Clayton - North and South
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=North and South
+TTITLE1=Thinking Of Morris
+TTITLE2=Going Home
+TTITLE3=I Got You On My Mind
+TTITLE4=Beyond The Dreams
+TTITLE5=Emotions
+TTITLE6=Ground Shake
+TTITLE7=The Feeling
+TTITLE8=Softly As A Morning Sunrise
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

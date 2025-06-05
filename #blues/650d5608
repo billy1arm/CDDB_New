@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32080
+#	84986
+#	110168
+#	133792
+#	160353
+#	210131
+#	217820
+#
+# Disc length: 3416 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.85
+#
+DISCID=650d5608
+DTITLE=Steps Ahead - Copenhagen
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=1 - Islands
+TTITLE1=2 - Pools
+TTITLE2=3 - Skyward Bound
+TTITLE3=4 - Northern Cross
+TTITLE4=5 - Loxodrome
+TTITLE5=6 - Sarah's Touch
+TTITLE6=7 - Duo
+TTITLE7=8 - Both Sides Of The Coin
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

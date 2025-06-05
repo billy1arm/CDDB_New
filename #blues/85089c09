@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22148
+#	38468
+#	58223
+#	68251
+#	96729
+#	115352
+#	125237
+#	143807
+#
+# Disc length: 2206 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=85089c09
+DTITLE=Mostly Mozart - Jazz Tracks Vol II
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Rondo alla turca
+TTITLE1=KV310
+TTITLE2=KV283
+TTITLE3=KV284
+TTITLE4=KV475
+TTITLE5=Komm lieber Mai und mache
+TTITLE6=Bona nox
+TTITLE7=KV330
+TTITLE8=KV331
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

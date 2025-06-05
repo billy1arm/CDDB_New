@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16950
+#	32793
+#	49743
+#	72481
+#	90488
+#	109397
+#	127452
+#	137279
+#	156309
+#	174770
+#	191120
+#
+# Disc length: 2810 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CD2WAV32(JP) R3.22
+#
+DISCID=a70af80c
+DTITLE=Various Artist - 妹ちゃれんじ!
+DYEAR=2006
+DGENRE=Game
+TTITLE0=ましろゆき - ハートのベルはring ring ring
+TTITLE1=中山マミ - 紺色と黒のファンタジー
+TTITLE2=中山マミ - chu-chu-chu
+TTITLE3=Marica - 双想歌
+TTITLE4=RIKO - 乱世
+TTITLE5=真理絵 - 晴れ、ときどき恋っ!
+TTITLE6=理多 - そしてそれから……
+TTITLE7=宮沢ゆあな - Dreht Sich!
+TTITLE8=宮沢ゆあな - 螺旋の果てで待ってる
+TTITLE9=佐藤裕美 - 初恋
+TTITLE10=KIRIKO - おまじない
+TTITLE11=NANA - In my Life
+EXTD=
+EXTT0=「はじめてのおてつだい」主題歌/StudioRing 曲:AngelNote 詞:ましろゆき
+EXTT1=「すぱっちゅ!」主題歌/StudioRing 曲:AngelNote 詞:ジロヲ
+EXTT2=「すぱっちゅ!」ED/StudioRing 曲:AngelNote 詞:中山マミ
+EXTT3=「天使のひめごと」主題歌/tactics 曲:Marica 編:Funczion 詞:かんたか
+EXTT4=「戦国の妹 七人の妹」OP/蛇ノ道ハ蛇ソフト 曲詞:影武者
+EXTT5=「つくしてあげるの!」OP/peassoft 曲:IT.XX 詞:やーも
+EXTT6=「つくしてあげるの!」ED/peassoft 曲:さんかく 詞:やーも
+EXTT7=「ぼーん・ふりーくす!」OP/Lair-soft 曲:TOKIA 詞:睦月たたら
+EXTT8=「ぼーん・ふりーくす!」ED/Lair-soft 曲:TOKIA 詞:睦月たたら
+EXTT9=「初恋」OP/RUNE 曲詞:上松範康
+EXTT10=「初恋」ED/RUNE 曲詞:上松範康 編:藤間仁
+EXTT11=「思春期」ED/RUNE 曲:藤間仁 詞:kanoko
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29679
+#	53359
+#	82446
+#	110567
+#	166717
+#
+# Disc length: 2423 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=47097506
+DTITLE=Stan Getz - 1947 Groovin' high
+DYEAR=1947
+DGENRE=Jazz
+TTITLE0=Groovin' high
+TTITLE1=Body And Soul
+TTITLE2=I Got Rhythm
+TTITLE3=Hot House
+TTITLE4=How High The Moon
+TTITLE5=Scratch (Donna Lee)
+EXTD=YEAR: 1947
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

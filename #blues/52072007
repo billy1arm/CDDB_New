@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2760
+#	17710
+#	28610
+#	47520
+#	61317
+#	134532
+#
+# Disc length: 1826 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=52072007
+DTITLE=Serge Weber - (Programmklänge auf Radio Bremen 2) - Luohtitt
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Bridge
+TTITLE1=Bjurviken
+TTITLE2=Tjallingen
+TTITLE3=Marsvik
+TTITLE4=Marsliden
+TTITLE5=Luohtiit 2 (Ein Hörbild)
+TTITLE6=Bridge
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

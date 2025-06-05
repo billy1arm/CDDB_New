@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18395
+#	41620
+#	59318
+#
+# Disc length: 1098 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=2b044804
+DTITLE=TOKIO - ding-dong
+DYEAR=2002
+DGENRE=JPop
+TTITLE0=ding-dong
+TTITLE1=glider
+TTITLE2=ding-dong(Instrumental)
+TTITLE3=glider(Instrumental)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

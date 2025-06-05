@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51543
+#	123982
+#	181250
+#	226203
+#	253135
+#
+# Disc length: 4124 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4f101a06
+DTITLE=Naruyoshi Kikuchi Dub Sextet - In Tokyo
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Dub Liz (Akasaka BLITZ on September 1, 2008)
+TTITLE1=Susan Sontag (Akasaka BLITZ on September 1, 2008)
+TTITLE2=(I've Lost My) Taylor Burton (Shibuya DUO Music Exchange on July 18, 2008)
+TTITLE3=Orbits (Shibuya DUO Music Exchange on July 18, 2008)
+TTITLE4=Koh-i-Nur (Shibuya DUO Music Exchange on July 17, 2008)
+TTITLE5=Dub Sorcerer (Shibuya DUO Music Exchange on July 18, 2008)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

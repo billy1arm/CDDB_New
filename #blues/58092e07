@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28059
+#	48914
+#	71259
+#	87432
+#	119169
+#	158069
+#
+# Disc length: 2352 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=58092e07
+DTITLE=(boogiejazz) - JAZZ
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=1. 'Dickie's Dream' (Basie - L. Young) - Count Basie with All-Stars
+TTITLE1=2. 'New Rhumba' (Jamal) - Miles Davis with Gil Evans Orchestra
+TTITLE2=3. 'The Train and The River' (Giuffre) - The Jimmy Giuffre Trio
+TTITLE3=4. 'Yes You' (Lieb) - Kai Winding Septet
+TTITLE4=5. 'Trio' (C. Hamilton) - The Chico Hamilton Quintet
+TTITLE5=6. 'Bright Mississippi' (T. Monk) - The Thelonious Monk Quartet
+TTITLE6=7. 'I Should Care' (Cahn-Stordahl-Weston) - J. J. Johnson Quintet
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

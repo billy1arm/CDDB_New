@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15300
+#	27462
+#	40087
+#	60100
+#	71512
+#	91425
+#	106600
+#	123350
+#	136172
+#	149387
+#	163112
+#
+# Disc length: 2363 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=9209390c
+DTITLE=Tony Bennett - The Tony Bennett Collection
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=A Time For Love
+TTITLE1=I'll Bring You A Rainbow
+TTITLE2=Dream
+TTITLE3=How Insensitive
+TTITLE4=A Beautiful Friendship
+TTITLE5=What A Wonderful World
+TTITLE6=Something
+TTITLE7=Yesterday I Heard The Rain (Esta Tarde Vi LLover)
+TTITLE8=People
+TTITLE9=What Makes It Happen
+TTITLE10=If I Ruled The World
+TTITLE11=My Ship
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

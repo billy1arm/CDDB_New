@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  20325
+#  43350
+#  82500
+#  106150
+#  130950
+#  166567
+#  184200
+#  200625
+#
+# Disc length: 2865 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=6a0b2f09
+DTITLE=Etta Jones - Christmas With Etta Jones
+DYEAR=1900
+DGENRE=
+TTITLE0=It's Christmas Time
+TTITLE1=Have Yourself A Merry Little Christmas
+TTITLE2=Santa Claus Is Coming To Town
+TTITLE3=The Christmas Song
+TTITLE4=Merry Christmas Baby
+TTITLE5=What Are You Doing New Year's Eve
+TTITLE6=Ring The Bells
+TTITLE7=(I'm Dreaming Of A) White Christmas
+TTITLE8=I'll Be Home For Christmas (Bonus Track)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

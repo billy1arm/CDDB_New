@@ -1,0 +1,80 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15705
+#     40218
+#     53208
+#     68345
+#     84005
+#     113308
+#     125383
+#     137645
+#     151753
+#     171760
+#     187725
+#     200808
+#     211175
+#     222190
+#     240460
+#     251010
+#     262080
+#     275953
+#     287790
+#     313333
+# 
+# Disc length: 4283 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=2910b915
+DTITLE=Various Artist - Great Bluesmen - Newport
+DYEAR=1900
+DGENRE=
+TTITLE0=Midnight Boogie
+TTITLE1=Levee Camp Blues
+TTITLE2=My Baby Done Changed The Lock On The Door
+TTITLE3=Tupelo
+TTITLE4=Bus Station Blues
+TTITLE5=Son Blues
+TTITLE6=Pony Blues
+TTITLE7=Mailman Blues
+TTITLE8=Clean Up At Home
+TTITLE9=Hey Rattler/Oh My Lord
+TTITLE10=Sliding Delta
+TTITLE11=Trouble, I've Had It All My Days
+TTITLE12=Hard Times Killing Floor Blues
+TTITLE13=Illinois Blues
+TTITLE14=Death Don't Have No Mercy
+TTITLE15=Catfish Blues
+TTITLE16=I Had A Woman
+TTITLE17=Lord, I'm Going Down South
+TTITLE18=If The River Was Whiskey
+TTITLE19=Cotten Fields Blues
+TTITLE20=Shake That Thing
+EXTD=
+EXTT0=Robert Pete Williams\n
+EXTT1=Robert Pete Williams\n
+EXTT2=Sonny Terry and Brownie McGhee\n
+EXTT3=John Lee Hooker\n
+EXTT4=John Lee Hooker\n
+EXTT5=Son House\n
+EXTT6=Son House\n
+EXTT7=Sleepy John Estes\n
+EXTT8=Sleepy John Estes\n
+EXTT9=Doc Reese\n
+EXTT10=Mississippi John Hurt\n
+EXTT11=Mississippi John Hurt\n
+EXTT12=Skip James\n
+EXTT13=Skip James\n
+EXTT14=Reverend Gary Davis\n
+EXTT15=Willie Doss\n
+EXTT16=Willie Doss\n
+EXTT17=Mississippi Fred McDowell\n
+EXTT18=Mississippi Fred McDowell\n
+EXTT19=Lightnin' Hopkins and Samuel Lay\n
+EXTT20=Lightnin' Hopkins and Samuel Lay\n
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28350
+#	54101
+#	85003
+#	114259
+#	136851
+#
+# Disc length: 2205 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=40089b06
+DTITLE=Wayne Shorter - Schizophrenia
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=Tom Thumb
+TTITLE1=Go
+TTITLE2=Schizophrenia
+TTITLE3=Kryptonite
+TTITLE4=Miyako
+TTITLE5=Playground
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

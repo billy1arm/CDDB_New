@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12853
+#	24483
+#	34184
+#	45081
+#	56905
+#	70289
+#	83145
+#	96446
+#	109718
+#	124690
+#	139431
+#	152158
+#	164824
+#	179050
+#	194667
+#	206518
+#	220573
+#	233440
+#
+# Disc length: 3301 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,33,916
+#
+DISCID=0f0ce313
+DTITLE=Various Artist - Ultimate Blues Collection Disc 6
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Bessie Smith - Preachin' The Blues
+TTITLE1=Leadbelly - Fannin' Street
+TTITLE2=John Lee Hooker - Dimples
+TTITLE3=Blind Boy Fuller - She's a Truckin' Little Baby
+TTITLE4=Robert Johnson - Cross Road Blues
+TTITLE5=Blind Willy McTell - Scary Day Blues
+TTITLE6=Washboard Sam - She Fooled Me
+TTITLE7=Big Bill Broonzy - I'm Woke Up Now
+TTITLE8=Sonny Boy Williamson - Good Morning Little Schoolgirl
+TTITLE9=Muddy Waters - 3220 Blues
+TTITLE10=Sleepy John Estes - Broken Hearted, Ragged And Dirty Too
+TTITLE11=Big Maceo - Worried Life Blues
+TTITLE12=Mississippi John Hurt - Got The Blues
+TTITLE13=Ma Rainey - Sleep Talking Blues
+TTITLE14=Tampa Red's Hokum Jug Band - My Daddy Rocks Me
+TTITLE15=Big Joe Williams - Baby Please Don't Go
+TTITLE16=Son House - My Black Mama
+TTITLE17=Sippie Wallace - I'm a Mighty Tight Woman
+TTITLE18=Pine Top Smith - I'm Sober Now
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

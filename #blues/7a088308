@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16999
+#     37321
+#     55445
+#     74226
+#     95424
+#     114204
+#     139446
+# 
+# Disc length: 2181 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7a088308
+DTITLE=Replete - Miracle
+DYEAR=1900
+DGENRE=
+TTITLE0=Why? (I've got to leave you)
+TTITLE1=Already In Love
+TTITLE2=Come with me
+TTITLE3=I'm not the fool you knew
+TTITLE4=Game of Love
+TTITLE5=Say
+TTITLE6=When (Duet)
+TTITLE7=Xenoi
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

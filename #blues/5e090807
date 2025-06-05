@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	172
+#	18701
+#	39349
+#	64623
+#	81512
+#	110242
+#	145716
+#
+# Disc length: 2314 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=5e090807
+DTITLE=Wolfgang Dauner Trio - Music Soundz
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Leap Tick
+TTITLE1=The Things We Did Last Summer
+TTITLE2=Diäthylaminoäthyl
+TTITLE3=Es läuft
+TTITLE4=Here Come De Honeyman
+TTITLE5=Blue Light
+TTITLE6=Golden Green
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

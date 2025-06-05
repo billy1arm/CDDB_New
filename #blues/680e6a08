@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32292
+#	69200
+#	101305
+#	142227
+#	177297
+#	212450
+#	245867
+#
+# Disc length: 3692 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=680e6a08
+DTITLE=Hod O'Brien - Live At Blues Alley -First Set
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Nothing Like You Has Ever Seen Before
+TTITLE1=Frog's Legs
+TTITLE2=Thespian
+TTITLE3=It's Love
+TTITLE4=Lullaby Of The Leaves
+TTITLE5=Tangerine
+TTITLE6=Bye Bye Blackbird
+TTITLE7=Just In Time
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15900
+#	44400
+#	59402
+#	73885
+#	100425
+#	120075
+#	144225
+#	166502
+#	183902
+#	207457
+#	222902
+#
+# Disc length: 3357 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=a20d1b0c
+DTITLE=Marian McPartland - The Concord Jazz Heritage Series
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=You And The Night And The Music
+TTITLE1=Windows
+TTITLE2=Threnody (A Lament)
+TTITLE3=Day Dream
+TTITLE4=Red Planet
+TTITLE5=Pretty Woman
+TTITLE6=Time And Time Again
+TTITLE7=Blood Count
+TTITLE8=Meditation
+TTITLE9=Lonely Woman
+TTITLE10=O Grande Amor
+TTITLE11=Silent Pool
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

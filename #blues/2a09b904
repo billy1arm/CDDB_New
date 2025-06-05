@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48965
+#	109897
+#	182465
+#
+# Disc length: 2491 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=2a09b904
+DTITLE=Miles Davis - Quintet in Stockholm [CD1]
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=So What
+TTITLE1=On Green Dolphin Street
+TTITLE2=All Blues
+TTITLE3=The Theme
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

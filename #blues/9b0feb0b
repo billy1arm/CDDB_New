@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11925
+#     35950
+#     52730
+#     71065
+#     117675
+#     144115
+#     165790
+#     195565
+#     227785
+#     279710
+# 
+# Disc length: 4077 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9b0feb0b
+DTITLE=Stevie Ray Vaughan And Double Trouble - The Wild Man From Texas Plays
+DTITLE=Houston
+DYEAR=1900
+DGENRE=
+TTITLE0=House Is A Rockin'
+TTITLE1=Tightrope
+TTITLE2=Let Me Love You
+TTITLE3=Crossfire
+TTITLE4=Riviera Paradise
+TTITLE5=Wall Of Denial
+TTITLE6=Superstition
+TTITLE7=Cold Shot
+TTITLE8=Texas Fllod
+TTITLE9=Voodoo Chile (Slight Return)
+TTITLE10=Leave My Little Girl Alone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=B. Guy\n
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=S. Wonder\n
+EXTT7=M. Kindred\n
+EXTT8=L. Davis/J.W. Scott\n
+EXTT9=J. Hendrix\n
+EXTT10=
+PLAYORDER=

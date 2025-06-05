@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54394
+#	109960
+#	148886
+#	182851
+#	250265
+#
+# Disc length: 3916 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=580f4a06
+DTITLE=V.Ponomarev B.Golson Jazz Old Trio - Mission In Siberia
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=01 - Moanin'
+TTITLE1=02 - Along Came Betty
+TTITLE2=03 - Blues March
+TTITLE3=04 - Stablemates
+TTITLE4=05 - Whisper Not
+TTITLE5=06 - Thinking of You
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

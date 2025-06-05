@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20925
+#     36520
+#     57742
+#     80157
+#     99697
+#     112030
+#     124107
+#     147630
+# 
+# Disc length: 2230 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9308b409
+DTITLE=Rudy Rotta - So Di Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Vu Cumpra
+TTITLE1=Talk Shows
+TTITLE2=Giorno In Piu
+TTITLE3=Uomini
+TTITLE4=So Di Blues
+TTITLE5=Vuto Invisible
+TTITLE6=Vado A Piedi Nudi
+TTITLE7=Mama Save Our Children
+TTITLE8=Touch
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

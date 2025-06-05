@@ -1,0 +1,80 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	12707
+#	27257
+#	33782
+#	47507
+#	52457
+#	65432
+#	78257
+#	91382
+#	106532
+#	121832
+#	136382
+#	150857
+#	160157
+#	172607
+#	186932
+#	190457
+#	198257
+#	206657
+#	212357
+#	222032
+#
+# Disc length: 3152 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=110c4e15
+DTITLE=Christopher Wilson - Fantasia De Mon Triste
+DYEAR=1900
+DGENRE=
+TTITLE0=Recercare
+TTITLE1=malor me bat
+TTITLE2=Recercare
+TTITLE3=Adieu Mes Amours
+TTITLE4=Recercare
+TTITLE5=Padoana
+TTITLE6=Recercare Primo
+TTITLE7=De Tous Biens Pleine
+TTITLE8=Et In Terra
+TTITLE9=Qui Tollis
+TTITLE10=Ricercar (88)
+TTITLE11=Fantasia (33)
+TTITLE12=De Mon Triste Desplaisir (121)
+TTITLE13=Fantasia De Mon Triste (36)
+TTITLE14=Ricercar La Compagna (34)
+TTITLE15=Ricercar (84)
+TTITLE16=Fantasia (28)
+TTITLE17=Las Ye Me Plains (106)
+TTITLE18=Fantasia (31)
+TTITLE19=Ricercar (9)
+TTITLE20=Ricercar (12)
+EXTD=Christopher Wilson - Liuto
+EXTT0=Francesco Spinacino
+EXTT1=Francesco Spinacino
+EXTT2=Francesco Spinacino
+EXTT3=Francesco Spinacino
+EXTT4=Francesco Spinacino
+EXTT5=Vincenzo Capirola
+EXTT6=Vincenzo Capirola
+EXTT7=Vincenzo Capirola
+EXTT8=Vincenzo Capirola
+EXTT9=Vincenzo Capirola
+EXTT10=Francesco Da Milano
+EXTT11=Francesco Da Milano
+EXTT12=Francesco Da Milano
+EXTT13=Francesco Da Milano
+EXTT14=Francesco Da Milano
+EXTT15=Francesco Da Milano
+EXTT16=Francesco Da Milano
+EXTT17=Francesco Da Milano
+EXTT18=Francesco Da Milano
+EXTT19=Francesco Da Milano
+EXTT20=Francesco Da Milano
+PLAYORDER=

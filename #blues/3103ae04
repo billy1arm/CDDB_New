@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19828
+#	36540
+#	51203
+#
+# Disc length: 944 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3103ae04
+DTITLE=The Rolling Stones - Extra
+DYEAR=1994
+DGENRE=Rock
+TTITLE0=Out Of Tears (Don Was Edit)
+TTITLE1=I'm Gonna Drive
+TTITLE2=Sparks Will Fly (Radio Clean)
+TTITLE3=Out Of Tears (Bob Clearmountain Remix Edit)
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

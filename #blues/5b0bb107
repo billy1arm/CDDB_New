@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6970
+#	77072
+#	125745
+#	156617
+#	196340
+#	202892
+#
+# Disc length: 2995 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5b0bb107
+DTITLE=世界宗教音楽ライブラリー - 北京智化寺の仏教音楽
+DYEAR=1988
+DGENRE=World
+TTITLE0=開壇鈸
+TTITLE1=香讃 參禮
+TTITLE2=小華嚴
+TTITLE3=五方佛 準提神咒
+TTITLE4=五方結界
+TTITLE5=河西鈸
+TTITLE6=三寶讃
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

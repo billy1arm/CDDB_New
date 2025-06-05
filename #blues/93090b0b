@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13570
+#  30192
+#  47560
+#  58212
+#  68087
+#  88957
+#  103170
+#  116345
+#  140860
+#  159655
+#
+# Disc length: 2317 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=93090b0b
+DTITLE=Baboon - Secret Robot Control
+DYEAR=1900
+DGENRE=
+TTITLE0=Night Of The Long Knives
+TTITLE1=I'm OK If You're OK
+TTITLE2=You And I
+TTITLE3=Numb
+TTITLE4=The Man With The Plastic Pants
+TTITLE5=BoxRotter
+TTITLE6=Bring Me The Head Of Jack Skinner
+TTITLE7=Time Wounds All Heals
+TTITLE8=A Sip For Strength
+TTITLE9=You Kill Me
+TTITLE10=Nation Of Twos
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

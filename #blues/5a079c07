@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20940
+#	49810
+#	68272
+#	89115
+#	108000
+#	128245
+#
+# Disc length: 1950 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=5a079c07
+DTITLE=Stanley Turrentine - Pieces Of Dreams
+DYEAR=0
+DGENRE=Jazz
+TTITLE0=Pieces Of Dreams
+TTITLE1=I Know It's You
+TTITLE2=Deep In Love
+TTITLE3=Midnight And You
+TTITLE4=Evil
+TTITLE5=Blanket On The Beach
+TTITLE6=I'm In Love
+EXTD=YEAR: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

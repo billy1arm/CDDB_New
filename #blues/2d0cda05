@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4800
+#	50356
+#	75966
+#	219848
+#
+# Disc length: 3292 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2d0cda05
+DTITLE=Soft Machine and Heavy Friends - BBC In Concert 1971
+DYEAR=1971
+DGENRE=Jazz
+TTITLE0=John Peel Introduction
+TTITLE1=Blind Badger
+TTITLE2=Neo-Caliban Grides
+TTITLE3=Out Bloody Rageous
+TTITLE4=Slightly All the Time
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

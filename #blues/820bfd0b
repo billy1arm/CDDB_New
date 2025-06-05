@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15492
+#	37112
+#	59212
+#	78650
+#	99187
+#	116330
+#	136300
+#	161305
+#	180962
+#	210162
+#
+# Disc length: 3071 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=820bfd0b
+DTITLE=Lenny Kravitz - Circus
+DYEAR=1995
+DGENRE=Loud Rock
+TTITLE0=Rock And Roll Is Dead
+TTITLE1=Circus
+TTITLE2=Beyond The 7th Sky
+TTITLE3=Tunnel Vision
+TTITLE4=Can't Get You Off My Mind
+TTITLE5=Magdalene
+TTITLE6=God Is Love
+TTITLE7=Thin Ice
+TTITLE8=Don't Go And Put A Bullet In Your Head
+TTITLE9=In My Life Today
+TTITLE10=The Resurrection
+EXTD=YEAR: 1995
+EXTT0=L. Kravitz
+EXTT1=L. Kravitz
+EXTT2=L. Kravitz
+EXTT3=L. Kravitz
+EXTT4=L. Kravitz
+EXTT5=L. Kravitz
+EXTT6=L. Kravitz
+EXTT7=L. Kravitz
+EXTT8=L. Kravitz
+EXTT9=L. Kravitz
+EXTT10=L. Kravitz
+PLAYORDER=

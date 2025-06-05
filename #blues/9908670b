@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19908
+#	35254
+#	47943
+#	64790
+#	85122
+#	96447
+#	106902
+#	123252
+#	132673
+#	145908
+#
+# Disc length: 2153 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9908670b
+DTITLE=Saxophobia - Jazz Standards for Sax Quartet Vol 2
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=01 Caravan
+TTITLE1=02 Chattannoga Choo Choo
+TTITLE2=03 Close to You
+TTITLE3=04 THEY Can't Take That Away From Me
+TTITLE4=05 Dark Eyes
+TTITLE5=06 The Chicken
+TTITLE6=07 Over the Rainbow
+TTITLE7=98 Black Orpheus
+TTITLE8=09 Jingle Bells
+TTITLE9=10 Be My Apple
+TTITLE10=11 Night Train
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

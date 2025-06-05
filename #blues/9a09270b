@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  17487
+#  35840
+#  48767
+#  66432
+#  91200
+#  100200
+#  116792
+#  131075
+#  144330
+#  162700
+#
+# Disc length: 2345 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=9a09270b
+DTITLE=Kevin Brown - Rust
+DYEAR=1900
+DGENRE=blues
+TTITLE0=You Don't Have To Tell Me
+TTITLE1=Don't Quit
+TTITLE2=If I Had My Way
+TTITLE3=Hey Joe Louis
+TTITLE4=Write A Bible of Your Own
+TTITLE5=Country Boy
+TTITLE6=Southern Streets
+TTITLE7=Telephone Tears
+TTITLE8=Meltdown
+TTITLE9=We'll Be Up With You
+TTITLE10=Sunny Side Up
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

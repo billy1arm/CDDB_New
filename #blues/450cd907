@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	22925
+#	47258
+#	92513
+#	122378
+#	163628
+#	193058
+#
+# Disc length: 3291 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=450cd907
+DTITLE=Aeoliah - Crystal Illumination
+DYEAR=1998
+DGENRE=New Age
+TTITLE0=Super Nova (Base Center)
+TTITLE1=1001 Nights (Spleen Center)
+TTITLE2=Garden of Eternal Spring (Solar Plexus)
+TTITLE3=Lotus Love (Heart Center)
+TTITLE4=Shamballa (Throat Center)
+TTITLE5=Consecreation (Third Eye)
+TTITLE6=Crystal Illumination (Crown)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

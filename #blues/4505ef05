@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25177
+#	51731
+#	70320
+#	100959
+#
+# Disc length: 1521 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=4505ef05
+DTITLE=Gerry Mulligan - The Cool Jazz Collection 55
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Morning of the Carnival
+TTITLE1=Decidedly
+TTITLE2=Mullenium
+TTITLE3=Mainstream
+TTITLE4=Night Lights(1965 version)
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

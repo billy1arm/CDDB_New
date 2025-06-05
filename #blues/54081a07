@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46485
+#	71252
+#	83033
+#	95672
+#	106532
+#	117723
+#
+# Disc length: 2076 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=54081a07
+DTITLE=The Blues Project - Live at Town Hall (vinyl)
+DYEAR=1967
+DGENRE=Blues
+TTITLE0=Flute Thing
+TTITLE1=I Can't Keep From Cryin'
+TTITLE2=Mean Old Southern
+TTITLE3=No Time Like The Right Time
+TTITLE4=Love WIll Endure
+TTITLE5=Where There's Smoke There's Fire
+TTITLE6=Wake Me Shake Me
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

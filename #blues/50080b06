@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	28002
+#	54748
+#	81459
+#	107243
+#	130182
+#
+# Disc length: 2061 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=50080b06
+DTITLE=Quecho - Uno
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=Uno
+TTITLE1=Sounds Good
+TTITLE2=Fusilli
+TTITLE3=Fusilli Feat Maya
+TTITLE4=Make My Body
+TTITLE5=Stress
+EXTD=YEAR: 2004 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

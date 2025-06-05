@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	105393
+#	114736
+#	221901
+#
+# Disc length: 3141 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=350c4304
+DTITLE=Wiese, Klaus - Seed
+DYEAR=2008
+DGENRE=New Age
+TTITLE0=Al Biruni 1
+TTITLE1=Hamra
+TTITLE2=Al Biruni 2
+TTITLE3=Karamat
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

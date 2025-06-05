@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34522
+#	58969
+#	78687
+#	110937
+#	135923
+#	159940
+#
+# Disc length: 2586 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=580a1807
+DTITLE=DMZ23 - Afrika Gold  (Anthology) - Vol.2
+DYEAR=2008
+DGENRE=Musique Africaine
+TTITLE0=Pierre Akendengue  (Kukumulélé)
+TTITLE1=Balou Canta  (Sonia)
+TTITLE2=Cheela  (Quitte Dan Ca)
+TTITLE3=Aurlus Mabélé  (Generation Wachiwa)
+TTITLE4=Pépé Kalé  (Gerant)
+TTITLE5=Alain Kounkou  (R.A.S)
+TTITLE6=Extra Musica  (Etat Major)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

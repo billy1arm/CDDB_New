@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26315
+#	43618
+#	56081
+#	68635
+#	92552
+#	123872
+#	147928
+#
+# Disc length: 2319 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=63090d08
+DTITLE=Dave Pike Set - Four Reasons
+DYEAR=1969
+DGENRE=Jazz
+TTITLE0=Greater Kalesh No. 48
+TTITLE1=Professor Porno's Romance
+TTITLE2=Cornflower Girl
+TTITLE3=The Seventh Day
+TTITLE4=Turn Around, Mrs. Lot
+TTITLE5=Goodtime Charlie At The Big Washdown
+TTITLE6=A Nose Opener
+TTITLE7=Four Reasons - Sitting On My Knees
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

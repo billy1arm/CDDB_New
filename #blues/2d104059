@@ -1,0 +1,283 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2046
+#	11347
+#	16344
+#	20147
+#	22617
+#	26448
+#	30374
+#	34517
+#	40143
+#	48387
+#	52019
+#	56704
+#	60873
+#	66579
+#	70356
+#	73678
+#	77849
+#	83056
+#	87242
+#	91917
+#	99239
+#	103271
+#	105458
+#	107863
+#	110744
+#	113813
+#	123371
+#	126933
+#	131646
+#	134578
+#	137797
+#	140071
+#	142768
+#	145102
+#	147574
+#	150590
+#	153240
+#	155416
+#	157920
+#	160078
+#	162217
+#	164435
+#	166255
+#	169378
+#	171981
+#	174128
+#	176666
+#	178715
+#	180534
+#	182891
+#	184720
+#	186492
+#	189115
+#	191023
+#	193139
+#	195526
+#	197665
+#	200022
+#	202915
+#	205961
+#	211108
+#	213742
+#	216261
+#	218514
+#	221572
+#	224093
+#	227429
+#	230481
+#	233870
+#	236518
+#	238599
+#	241179
+#	243640
+#	246678
+#	248690
+#	251469
+#	256428
+#	262989
+#	267702
+#	272097
+#	276918
+#	280634
+#	283534
+#	287129
+#	290867
+#	294881
+#	300490
+#	305660
+#
+# Disc length: 4162 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2d104059
+DTITLE=Karl Krolow - Im Inneren des Augenblicks. Gedichte und Feature (gesprochen vom Autor, Maren Kroyman und Hans Kemner) 2 CD, 143 Min., 123 Tracks
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=Ansage
+TTITLE1=Politisch
+TTITLE2=Wenn es Abend wird
+TTITLE3=Schwerkraft der Zeiten
+TTITLE4=Jemand
+TTITLE5=Wahrnehmungen
+TTITLE6=Die Erscheinung
+TTITLE7=Die Erinnerung
+TTITLE8=Auf verlorenem Posten
+TTITLE9=Am See
+TTITLE10=Der Wind im Zimmer
+TTITLE11=Medaillon
+TTITLE12=Tausend Jahre
+TTITLE13=In meinem Zimmer
+TTITLE14=Unterhaltung
+TTITLE15=Lange genug
+TTITLE16=Bootsfahrt
+TTITLE17=Marine
+TTITLE18=Verrufner Ot
+TTITLE19=Heute noch
+TTITLE20=Die Gewalt
+TTITLE21=Kampf um Mittag
+TTITLE22=Winterliches Leben
+TTITLE23=Bei Tagesanbruch
+TTITLE24=Sterblich
+TTITLE25=Romantisch
+TTITLE26=Im Frieden
+TTITLE27=Tag in Deutschland
+TTITLE28=Beginn einer Liebe
+TTITLE29=Weiß
+TTITLE30=Die Neugier
+TTITLE31=Sie heißt nach dem Schnee
+TTITLE32=Die Vorsicht
+TTITLE33=Vorübergehend
+TTITLE34=Jubel
+TTITLE35=Wenn es Tag wird
+TTITLE36=Das Paar
+TTITLE37=In der Sonne
+TTITLE38=Schöner Tag
+TTITLE39=Entfernung
+TTITLE40=Melodie
+TTITLE41=Im Frühling
+TTITLE42=Laub
+TTITLE43=Im Gehen
+TTITLE44=Es wird grün
+TTITLE45=Blühen
+TTITLE46=Das Glück
+TTITLE47=Morgen
+TTITLE48=Frühjahr
+TTITLE49=Gefährliche Augenblicke
+TTITLE50=Regen
+TTITLE51=Stare
+TTITLE52=Wenn das Laub fällt
+TTITLE53=Meeresstille
+TTITLE54=Glückliche Fahrt
+TTITLE55=Erinnerung an Wasser
+TTITLE56=Erinnerung an Feuer
+TTITLE57=Nicht so schwer
+TTITLE58=Briefwechsel
+TTITLE59=Mensis currentis
+TTITLE60=Herbstlicher Merkzettel
+TTITLE61=Der Abend
+TTITLE62=Im Kalender lesen
+TTITLE63=Reisen
+TTITLE64=Wetter für Märchen
+TTITLE65=Schultag
+TTITLE66=Mit langem Arm
+TTITLE67=Auf dem Land
+TTITLE68=Besuch kommt
+TTITLE69=Besuch geht
+TTITLE70=Der fühlende Mensch
+TTITLE71=Blindekuh
+TTITLE72=Körperliche Stärkung
+TTITLE73=Der Rest
+TTITLE74=Miniatur
+TTITLE75=Sterbliches
+TTITLE76=Halbe Melone
+TTITLE77=Kein Panorama
+TTITLE78=Vorwand
+TTITLE79=Laß das Lachen
+TTITLE80=Vor einiger Zeit
+TTITLE81=Das Ende von manchem
+TTITLE82=Diese alten Männer
+TTITLE83=Kein Weltverlust
+TTITLE84=Noch nicht
+TTITLE85=Unvorbereitet
+TTITLE86=Wer ist wer?
+TTITLE87=Schlafen
+TTITLE88=Nachtlied
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21126
+#	41503
+#	61501
+#	83023
+#	104797
+#	129122
+#	146230
+#	164427
+#
+# Disc length: 2475 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7009a909
+DTITLE=Gary Davis - Playing My Dues
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Playing My Dues
+TTITLE1=Night Flight Back To You
+TTITLE2=On Grover Side Of Town
+TTITLE3=Don't Know Why
+TTITLE4=One Night In Brazil
+TTITLE5=Forever Mine
+TTITLE6=Keep On Steppin'
+TTITLE7=Rock Steady
+TTITLE8=Summer Hearts
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

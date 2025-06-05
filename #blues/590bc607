@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23771
+#	56710
+#	102015
+#	122170
+#	157175
+#	196950
+#
+# Disc length: 3016 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=590bc607
+DTITLE=David Detweiler - New York Stories
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Central Station
+TTITLE1=Times Change
+TTITLE2=Home Again
+TTITLE3=The Opening
+TTITLE4=Foreground
+TTITLE5=Sleuth
+TTITLE6=Wakeful
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

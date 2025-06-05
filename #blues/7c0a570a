@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19454
+#     37095
+#     55061
+#     75074
+#     89060
+#     101151
+#     124205
+#     138797
+#     151924
+# 
+# Disc length: 2649 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7c0a570a
+DTITLE=Brick House - Brick by Brick
+DYEAR=1900
+DGENRE=
+TTITLE0=Building a Brick House
+TTITLE1=Train Song
+TTITLE2=Wizard's Apprentice
+TTITLE3=Change This
+TTITLE4=Get Up To Get Down
+TTITLE5=In Your Face
+TTITLE6=7685
+TTITLE7=8 On Top
+TTITLE8=Can't Stop Rolling
+TTITLE9=Electricity
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

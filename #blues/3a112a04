@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	70711
+#	116879
+#	221052
+#
+# Disc length: 4396 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3a112a04
+DTITLE=Braxton, Anthony - 4 (Ensemble) compositions
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Composition 100
+TTITLE1=Composition 96
+TTITLE2=Composition 164
+TTITLE3=Composition 163
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44038
+#	67875
+#	97723
+#	128895
+#	169675
+#	211860
+#
+# Disc length: 3204 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=570c8207
+DTITLE=Art Blakey Quintet - A Night at Birdland - Vol. 1
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=Split Kick [Horace Silver]
+TTITLE1=Once In A While [B. Green-M. Edwards]
+TTITLE2=Quicksilver [Horace Silver]
+TTITLE3=Wee-Dot (Alternate Take) [J.J. Johnson-L. Parker]
+TTITLE4=Blues [Traditional]
+TTITLE5=A Night In Tunisia [D. Gillespie-F. Paparelli]
+TTITLE6=Mayreh [Horace Silver]
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

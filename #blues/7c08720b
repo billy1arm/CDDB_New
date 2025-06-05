@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15260
+#     31507
+#     46405
+#     66270
+#     80230
+#     93390
+#     109780
+#     120942
+#     135435
+#     152700
+# 
+# Disc length: 2164 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7c08720b
+DTITLE=Freddie King - My Feeling For The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Yonder Wall
+TTITLE1=Stumble
+TTITLE2=I Wonder Why
+TTITLE3=Stormy Monday
+TTITLE4=I Don't Know
+TTITLE5=What'd I Say
+TTITLE6=Ain't Nobody's Business What We Do
+TTITLE7=You Don't Have To Go
+TTITLE8=Woke Up This Morning
+TTITLE9=The Things I Used To Do
+TTITLE10=My Feeling For The Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

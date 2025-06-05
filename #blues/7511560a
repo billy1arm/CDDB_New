@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31412
+#	61501
+#	90780
+#	119497
+#	158727
+#	197873
+#	233568
+#	269741
+#	308476
+#
+# Disc length: 4440 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7511560a
+DTITLE=Chris Cleave - Little Bee
+DYEAR=2011
+DGENRE=Hörbuch
+TTITLE0=101
+TTITLE1=102
+TTITLE2=103
+TTITLE3=104
+TTITLE4=105
+TTITLE5=106
+TTITLE6=107
+TTITLE7=108
+TTITLE8=109
+TTITLE9=110
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27116
+#	51786
+#	96919
+#	121126
+#	147852
+#	187541
+#	220486
+#
+# Disc length: 3211 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=660c8908
+DTITLE=Paula Shocron - La voz que te lleva
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Vuelve Viento
+TTITLE1=Caleidoscopio
+TTITLE2=Monk's Mood
+TTITLE3=Off Minor
+TTITLE4=Evidence
+TTITLE5=La voz que te lleva
+TTITLE6=El Golpe
+TTITLE7=Coda
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

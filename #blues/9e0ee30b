@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	21224
+#	42302
+#	64569
+#	91200
+#	110823
+#	133857
+#	175570
+#	204822
+#	224951
+#	244263
+#
+# Disc length: 3813 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=9e0ee30b
+DTITLE=Hoochie Coochie Blues Band - Live at the redlight district
+DYEAR=1900
+DGENRE=
+TTITLE0=Get It On Up
+TTITLE1=My Kind Of Babe
+TTITLE2=Hey Everybody
+TTITLE3=Make Up Your Mind
+TTITLE4=Ease Rollin´ Mama
+TTITLE5=Mad Time In The City
+TTITLE6=247
+TTITLE7=Falling Rain
+TTITLE8=Sail On
+TTITLE9=Down Home Delta
+TTITLE10=Medley: K30 Slow Blues and I´ve Been Down Harder
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	118903
+#	151995
+#	188851
+#	212609
+#	239976
+#	262187
+#	280693
+#	304249
+#
+# Disc length: 4626 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8a121009
+DTITLE=John Adams - Chamber Symphony - Four Songs  (René Bosc, Orchestre Philharmonique de Montpellier)
+DYEAR=1999
+DGENRE=Contemporain
+TTITLE0=Fearful Symmetries  [1988]
+TTITLE1=Chamber Symphony - I. Mongrel Airs  [1992]
+TTITLE2=Chamber Symphony - II. Aria with Walking Bass
+TTITLE3=Chamber Symphony - III. Roadrunner
+TTITLE4=Four Songs - I. Song about the bad boys and the news  [1995]
+TTITLE5=Four Songs - II. A sermon on romance
+TTITLE6=Four Songs - III. Leila's song
+TTITLE7=Four Songs - IV. Earthquake
+TTITLE8=Christian Zeal and Activity  [1973]
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

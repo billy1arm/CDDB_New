@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	65126
+#	102706
+#	176565
+#
+# Disc length: 2867 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=390b3104
+DTITLE=Herbie Hancock - Brecker, Hancock, Hargrove Live At JazzBaltica 2002 [CD 2)
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Transition
+TTITLE1=My Ship
+TTITLE2=D Trane
+TTITLE3=Pinnochio
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

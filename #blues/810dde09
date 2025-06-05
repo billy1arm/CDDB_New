@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25490
+#	48569
+#	78326
+#	118059
+#	146961
+#	172098
+#	203464
+#	244223
+#
+# Disc length: 3552 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=810dde09
+DTITLE=Shark - Shark - In motion
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=ABURITME
+TTITLE1=BIORITMO
+TTITLE2=ISORITMO
+TTITLE3=FOUR TI
+TTITLE4=BEDTIME
+TTITLE5=ALGORITMO
+TTITLE6=THE LUCKY GUIRI
+TTITLE7=STONE FLOWER
+TTITLE8=LOGARITMO
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

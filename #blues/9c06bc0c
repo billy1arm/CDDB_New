@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12780
+#	24725
+#	36105
+#	43812
+#	54615
+#	65645
+#	76685
+#	88127
+#	100015
+#	109880
+#	123675
+#
+# Disc length: 1726 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9c06bc0c
+DTITLE=Paul Smith - Brazilian Detour
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=One Note Samba
+TTITLE1=Lullaby Of Birdland
+TTITLE2=Meditation
+TTITLE3=The Lamp Is Low
+TTITLE4=Quiet Nights Of Quiet Stars
+TTITLE5=Brazilian Detour
+TTITLE6=The Girl From Ipanema
+TTITLE7=Discover
+TTITLE8=How Insensitive
+TTITLE9=So Nice
+TTITLE10=More
+TTITLE11=The Gnat
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

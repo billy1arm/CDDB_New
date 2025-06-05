@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30643
+#	41583
+#	62625
+#	91753
+#	112811
+#	127579
+#	138460
+#	164290
+#	214931
+#	240735
+#	286528
+#
+# Disc length: 4679 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9612450c
+DTITLE=BBC National Orchestra of Wales - Hickox - Michael Berkeley Orchestral Music
+DYEAR=2001
+DGENRE=Orchestral
+TTITLE0=Symphony No.3 in one movement -I- Allegretto moderato - Un poco meno vivo - Tempo I - Più lento -
+TTITLE1=Symphony No.3 in one movement -II- Lento -
+TTITLE2=Symphony No.3 in one movement -III- Allegro
+TTITLE3=Sinfonia Concertante Op.84 -I- Lento
+TTITLE4=Sinfonia Concertante Op.84 -II- Allegro vivace - Meno vivo - Tempo I - Un poco meno vivo
+TTITLE5=Sinfonia Concertante Op.84 -III- Aria. Adagio
+TTITLE6=Sinfonia Concertante Op.84 -IV- Canzonetta. Andantino
+TTITLE7=Sinfonia Concertante Op.84 -V- Allegro - Meno vivo - Tempo I - Meno vivo - Tempo I
+TTITLE8=Concerto for Oboe and String Orchestra -I- Moderato - Poco più mosso - Meno mosso
+TTITLE9=Concerto for Oboe and String Orchestra -II- Scherzo. Allegro vivace
+TTITLE10=Concerto for Oboe and String Orchestra -III- Elegy: In memoriam Benjamin Britten. Andantino
+TTITLE11=Secret Garden: Bold and imposing - Quick - Dancing lightly - Slow, expansive - Quick - Majestic
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

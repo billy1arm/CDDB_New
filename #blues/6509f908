@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22567
+#	45245
+#	74830
+#	103313
+#	126494
+#	154517
+#	179383
+#
+# Disc length: 2555 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6509f908
+DTITLE=爵士密碼 - 爵士密碼
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=樂園之梯
+TTITLE1=起居室
+TTITLE2=胭脂北投
+TTITLE3=漫遊
+TTITLE4=美麗年代
+TTITLE5=夢盒子
+TTITLE6=山之後
+TTITLE7=簡單
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

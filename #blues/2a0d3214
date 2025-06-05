@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11332
+#	22810
+#	34825
+#	48875
+#	60660
+#	73450
+#	87710
+#	102865
+#	118827
+#	133670
+#	146417
+#	158800
+#	171567
+#	181920
+#	195902
+#	208152
+#	223051
+#	235308
+#	247285
+#
+# Disc length: 3380 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2a0d3214
+DTITLE=Luis Mariano - Platinum Collection  [CD 1-3]
+DYEAR=2007
+DGENRE=operette
+TTITLE0=1946 - Chanter
+TTITLE1=1946 - La belle de Cadix
+TTITLE2=1946 - Une nuit à Grenade
+TTITLE3=1946 - La fiesta bohémienne
+TTITLE4=1950 - Le clocher du village
+TTITLE5=1952 - Il est un coin de France
+TTITLE6=1952 - Maïtechu
+TTITLE7=1952 - Rossignol
+TTITLE8=1952 - Mexico
+TTITLE9=1952 - Acapulco
+TTITLE10=1952 - Le Téquila
+TTITLE11=1948 - Le marchand d'Alcarazas
+TTITLE12=1947 - Je veux t'aimer
+TTITLE13=1948 - La fête à Séville
+TTITLE14=1947 - Andadousie
+TTITLE15=1947 - Santa Maria
+TTITLE16=1952 - Gitane
+TTITLE17=1952 - Miracle de Paris
+TTITLE18=1955 - Chevalier du ciel
+TTITLE19=1952 - Chanson des infirmières
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

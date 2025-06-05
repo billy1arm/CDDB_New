@@ -1,0 +1,90 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     11100
+#     27508
+#     43510
+#     54935
+#     67298
+#     80278
+#     91600
+#     102333
+#     111145
+#     121923
+#     132953
+#     142750
+#     155343
+#     168260
+#     180960
+#     192223
+#     202455
+#     213378
+#     227933
+#     240210
+#     252203
+#     265510
+#     278935
+# 
+# Disc length: 3851 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=440f0918
+DTITLE=John Lee Hooker - Let's Make It
+DYEAR=1900
+DGENRE=
+TTITLE0=Let's Make It
+TTITLE1=Process
+TTITLE2=Thelma
+TTITLE3=What Do You Say
+TTITLE4=I Got A Letter This Morning
+TTITLE5=I Lost A Good Girl
+TTITLE6=A New Leaf
+TTITLE7=Keep Your Hands To Yourself
+TTITLE8=You Know I Love You
+TTITLE9=Old Time Shimmy
+TTITLE10=Send Me Your Pillow
+TTITLE11=Big Soul
+TTITLE12=Frisco Blues
+TTITLE13=She Shot Me Down
+TTITLE14=Take A Look At Yourself
+TTITLE15=Good Rocking Mama
+TTITLE16=I Love Her
+TTITLE17=I Want To Shout
+TTITLE18=Poor Me
+TTITLE19=I Want To Hug You
+TTITLE20=Love Is A Burning Thing
+TTITLE21=Birmingham Blues
+TTITLE22=Don't Look Back
+TTITLE23=I'm Leaving Baby
+EXTD=
+EXTT0=Vee Jay LP 1043\nChicago 1961\n
+EXTT1=LP 1043\n
+EXTT2=LP 1043\n
+EXTT3=LP 1043\n
+EXTT4=LP 1043\n
+EXTT5=LP 1043\n
+EXTT6=Vee Jay single 453\nLP 1043\n
+EXTT7=Single 435\nLP 1043\n
+EXTT8=Vee Jay LP 1058\nChicago, 1962\n
+EXTT9=Vee Jay LP 1058\nThey call it the Twist, but 's the old time \nshimmy 
+EXTT9=to me.\n
+EXTT10=Vee Jay Single 575\nLP 1058\n
+EXTT11=LP 1058\n
+EXTT12=Vee Jay single 493\nLP 1058\n
+EXTT13=Vee Jay LP 1058\nwith The Vandellas
+EXTT14=Single 493\nLP 1058\n
+EXTT15=LP 1058\n
+EXTT16=LP 1058\n
+EXTT17=Vee Jay LP 1066\nChicago, 1963\n
+EXTT18=LP 1066\n
+EXTT19=LP 1066\n
+EXTT20=LP 1066\nand it makes a firey ring...\n
+EXTT21=Vee Jay Single 538\nLP 1066\n
+EXTT22=Single 575\nLP 1066\n
+EXTT23=Single 538\nLP 1066\n
+PLAYORDER=

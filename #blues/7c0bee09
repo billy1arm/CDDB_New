@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36020
+#	46832
+#	82025
+#	113930
+#	125354
+#	154236
+#	186793
+#	209897
+#
+# Disc length: 3056 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7c0bee09
+DTITLE=Josh Berman - Old Idea
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=On Account of a Hat
+TTITLE1=Next Year A
+TTITLE2=Let's Pretend
+TTITLE3=Nori
+TTITLE4=Next Year  B
+TTITLE5=Almost Late
+TTITLE6=What Can?
+TTITLE7=Db
+TTITLE8=Next Year C
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

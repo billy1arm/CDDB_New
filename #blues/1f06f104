@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31525
+#	70525
+#	115517
+#
+# Disc length: 1779 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=1f06f104
+DTITLE=Art Blakey Quintet - A Night At Birdland Vol.3
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Wee-Dot (Alt. Take)
+TTITLE1=Blues
+TTITLE2=The Way You Look Tonight
+TTITLE3=Lou's Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

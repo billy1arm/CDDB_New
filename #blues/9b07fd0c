@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	15525
+#	28240
+#	41080
+#	54917
+#	65777
+#	77277
+#	90160
+#	101252
+#	117960
+#	130405
+#	142405
+#
+# Disc length: 2047 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9b07fd0c
+DTITLE=Flamingos - Flamingo Serenade
+DYEAR=1900
+DGENRE=
+TTITLE0=I Only Have Eyes For You
+TTITLE1=I'm In The Mood For Love
+TTITLE2=As Time goes by
+TTITLE3=Where Or When
+TTITLE4=Yours
+TTITLE5=But Not For Me
+TTITLE6=Love Walked In 
+TTITLE7=Music Maestro Please
+TTITLE8=Begin The Beguine
+TTITLE9=The Breeze And I
+TTITLE10=Time Was
+TTITLE11=Goodnight Sweetheart
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

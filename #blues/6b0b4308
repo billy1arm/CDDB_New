@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53103
+#	75962
+#	97038
+#	107180
+#	132360
+#	176985
+#	200527
+#
+# Disc length: 2885 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=6b0b4308
+DTITLE=Cannonball Adderley - Cannonball In Person (Capitol ST 162)
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=Rumpelstiltskin
+TTITLE1=I'd Rather Drink Muddy Water
+TTITLE2=Save Your Love For Me
+TTITLE3=The Scene
+TTITLE4=Somewhere
+TTITLE5=The Scavenger
+TTITLE6=Sweet Emma
+TTITLE7=Zorba
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

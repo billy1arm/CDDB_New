@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	25550
+#	46649
+#	51376
+#	67613
+#	87798
+#	101754
+#	102955
+#	127588
+#	145846
+#	151790
+#
+# Disc length: 2287 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7608ed0b
+DTITLE=Coupla Fat Guys Band - The Wide Album
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=A Coupla Fat Guys
+TTITLE1=Tasters' Choice
+TTITLE2=Phlegm of the Stars
+TTITLE3=Has My Car Been Towed?
+TTITLE4=Yes It's Nice to Own a Gun
+TTITLE5=Out of a Job
+TTITLE6=Transient Cologne
+TTITLE7=City Boy
+TTITLE8=Regularity
+TTITLE9=Home Surgery
+TTITLE10=Walkin' in My Baby's Arms
+EXTD=YEAR: 1996 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

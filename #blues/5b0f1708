@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37870
+#	73856
+#	90394
+#	120143
+#	174684
+#	242500
+#	259798
+#
+# Disc length: 3865 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b0f1708
+DTITLE=Beethoven - Transcriptions de Liszt des Symphonies N°1 and 2  (Idil Biret, piano)
+DYEAR=1986
+DGENRE=Piano
+TTITLE0=Symphony N°1 in C,  Op.21 - I. Allegro molto - Allegro con brio
+TTITLE1=Symphony N°1 in C,  Op.21 - II. Andante cantabile con moto
+TTITLE2=Symphony N°1 in C,  Op.21 - III. Menuetto - Allegro molto vivace
+TTITLE3=Symphony N°1 in C,  Op.21 - IV. Adagio - Allegro molto e vivace
+TTITLE4=Symphony N°2 in D,  Op.36 - I. Adagio molto - Allegro con brio
+TTITLE5=Symphony N°2 in D,  Op.36 - II. Larghetto
+TTITLE6=Symphony N°2 in D,  Op.36 - III. Scherzo - Allegro
+TTITLE7=Symphony N°2 in D,  Op.36 - IV. Allegro molto
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

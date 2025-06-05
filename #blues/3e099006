@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	29442
+#	62593
+#	89444
+#	123043
+#	158498
+#
+# Disc length: 2450 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3e099006
+DTITLE=John St-John - Flight of the Eagle
+DYEAR=1996
+DGENRE=New Age
+TTITLE0=Soaring free
+TTITLE1=Wings
+TTITLE2=Flight of the eagle
+TTITLE3=Canyon Echoes
+TTITLE4=Voyage of the Spirit
+TTITLE5=Soaring free reprise
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

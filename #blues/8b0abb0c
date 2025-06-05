@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20352
+#	48095
+#	54532
+#	74521
+#	99026
+#	127853
+#	154438
+#	160265
+#	173500
+#	181804
+#	204120
+#
+# Disc length: 2749 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8b0abb0c
+DTITLE=Peter Rosendahl - Solo
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Salute
+TTITLE1=Open Sea
+TTITLE2=Orchid
+TTITLE3=Sunstroke
+TTITLE4=Flags
+TTITLE5=Migration
+TTITLE6=Year Of The Dragon
+TTITLE7=The Princess
+TTITLE8=Birds In The Belfry
+TTITLE9=Grandmothers Garden
+TTITLE10=The Conqueror
+TTITLE11=Last Turn
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

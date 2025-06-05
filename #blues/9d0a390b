@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13861
+#     28426
+#     41738
+#     53878
+#     79203
+#     96317
+#     109923
+#     124654
+#     138653
+#     160253
+# 
+# Disc length: 2619 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=9d0a390b
+DTITLE=Curtis Salgado and Terry Robb - Hit It 'n Quit It
+DYEAR=1900
+DGENRE=
+TTITLE0=If It Ain't Me
+TTITLE1=Drop Down Mama
+TTITLE2=Voodoo Music
+TTITLE3=Bitter Tears
+TTITLE4=Hit It 'n Quit It
+TTITLE5=Still A Fool
+TTITLE6=My Kind Of Woman
+TTITLE7=Too Young To Know
+TTITLE8=You're So Fine
+TTITLE9=El Gado Ruma Azul
+TTITLE10=Feeling Good
+EXTD=Curtis Salgado, Vocals and Harmonicas - Terry Robb, Guitar and Bottlenec
+EXTD=k Guitar - Jan Mazzocco, Bass - Butch Cousins, Drums - Jeff Minnieweather,
+EXTD=Drums on Tracks 5, 10,11 - Dave Stewart, Piano on Track 2 - Peter Boe, P
+EXTD=iano on Track 7, Tim Bryson, Horns on Track 7
+EXTT0=Jimmy Rogers
+EXTT1=Honeyboy Edwards
+EXTT2=J.B.Lenoir
+EXTT3=Curtis Salgado, Terry Robb
+EXTT4=Curtis Salgado, Terry Robb, John Mazzocco, Jeff Minneweather
+EXTT5=McKinley Morganfield
+EXTT6=Elmore James
+EXTT7=McKinley Morganfield
+EXTT8=W. Jacobs
+EXTT9=Curtis Salgado, Terry Rob, John Mazzocco, Jeff Mineeweather
+EXTT10=Jr. Parker
+PLAYORDER=

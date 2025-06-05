@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27548
+#	60553
+#	88760
+#	110850
+#	135131
+#	164584
+#	196602
+#
+# Disc length: 2865 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=670b2f08
+DTITLE=ES3 Trío - Equilibrio
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=Wayne's Thang
+TTITLE1=Dolphin Dance
+TTITLE2=My Foolish Heart
+TTITLE3=This I Dig Of You
+TTITLE4=The Three Marias
+TTITLE5=Black Narcissus
+TTITLE6=Red Clay
+TTITLE7=Afro Centric
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

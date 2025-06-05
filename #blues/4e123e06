@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	77268
+#	110206
+#	266449
+#	289696
+#	334177
+#
+# Disc length: 4672 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4e123e06
+DTITLE=Foer, Jonathan Safran - Alles Ist Erleuchtet
+DYEAR=2003
+DGENRE=Hörbuch
+TTITLE0=18 Alles Ist Erleuchtet
+TTITLE1=19 Alles Ist Erleuchtet
+TTITLE2=20 Alles Ist Erleuchtet
+TTITLE3=21 Alles Ist Erleuchtet
+TTITLE4=22 Alles Ist Erleuchtet
+TTITLE5=23 Alles Ist Erleuchtet
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

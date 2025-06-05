@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24900
+#	50325
+#	64500
+#	87675
+#	112725
+#	134625
+#	158175
+#	173701
+#	189150
+#	207734
+#
+# Disc length: 3100 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=910c1a0b
+DTITLE=Irek Dudek - No 1
+DYEAR=1986
+DGENRE=Swing
+TTITLE0=Something Must Have Changed
+TTITLE1=From Alojz to Alex
+TTITLE2=Flute Tune
+TTITLE3=Dudi Boogie
+TTITLE4=The Blues
+TTITLE5=Straight Blues
+TTITLE6=One Day Hero
+TTITLE7=Przebierka
+TTITLE8=Trouble in Love
+TTITLE9=The Blues
+TTITLE10=One Day Hero
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

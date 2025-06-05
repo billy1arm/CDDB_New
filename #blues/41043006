@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4725
+#	20337
+#	33700
+#	50312
+#	64512
+#
+# Disc length: 1074 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=41043006
+DTITLE=Various Artist - 古惑仔2之猛龍過江 
+DYEAR=1996
+DGENRE=Pop
+TTITLE0=猛龍過江之序
+TTITLE1=知己　自己
+TTITLE2=有了你
+TTITLE3=熱血燃燒
+TTITLE4=非一般見識
+TTITLE5=友情歲月
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

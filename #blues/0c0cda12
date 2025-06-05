@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13982
+#	28992
+#	42166
+#	56122
+#	70632
+#	80989
+#	96856
+#	110188
+#	124003
+#	135535
+#	150887
+#	163375
+#	176182
+#	191589
+#	206683
+#	219580
+#	233769
+#
+# Disc length: 3292 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0c0cda12
+DTITLE=Django Reinhardt - Hot Club De France
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Sweet Georgia Brown
+TTITLE1=Oh Lady Be Good
+TTITLE2=Charleston
+TTITLE3=In A Sentamental Mood
+TTITLE4=Solitude
+TTITLE5=I Got Rhythm
+TTITLE6=Chicago
+TTITLE7=Ain't Misbehavin'
+TTITLE8=Crepuscule
+TTITLE9=Exactly Like You
+TTITLE10=I Can't Give You Anything But Love
+TTITLE11=It Had To Be You
+TTITLE12=All Of Me
+TTITLE13=Liebestraum No.3
+TTITLE14=Nuages
+TTITLE15=Oiseaux Des Iles
+TTITLE16=The Sheik Of Araby
+TTITLE17=You're Driving Me Crazy
+EXTD=Bluenite\nTotal Playing Time 54:52 YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

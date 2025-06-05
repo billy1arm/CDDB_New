@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	55945
+#	81558
+#	106625
+#	143560
+#	177238
+#
+# Disc length: 2828 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=470b0a06
+DTITLE=Don Cherry, Dewey Redman, Charlie Haden, Ed Blackwell - Old and New Dreams
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Lonely Woman
+TTITLE1=Togo
+TTITLE2=Guinea
+TTITLE3=Open or Close
+TTITLE4=Orbit of La-Ba
+TTITLE5=Song for the Whales
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

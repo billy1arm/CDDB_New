@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	83572
+#	89323
+#	137564
+#	192403
+#	197677
+#	227664
+#	230348
+#
+# Disc length: 3309 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c0ceb08
+DTITLE=Cannonball Adderley Quintet - Live in West-Berlin
+DYEAR=1972
+DGENRE=Jazz
+TTITLE0=Black Messiah
+TTITLE1=Cannonball Raps
+TTITLE2=Humming
+TTITLE3=Dr. Honoris Causa
+TTITLE4=Cannonball Raps
+TTITLE5=Bass/piano Duo
+TTITLE6=Soul Zodiac Intro
+TTITLE7=Walk Tall
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

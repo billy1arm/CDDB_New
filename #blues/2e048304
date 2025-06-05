@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20032
+#	41050
+#	67861
+#
+# Disc length: 1157 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e048304
+DTITLE=The Fray - Bonus CD
+DYEAR=2005
+DGENRE=Alternative
+TTITLE0=Over My Head (Cable Car)
+TTITLE1=How To Save A Life
+TTITLE2=Look After You
+TTITLE3=Heaven Forbid
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

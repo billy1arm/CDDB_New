@@ -1,0 +1,19 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#
+# Disc length: 2926 seconds
+#
+# Revision: 13
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=020b6c01
+DTITLE=Edition SWR2 - Stephan Krass (Hrsg.) - Niklas Luhmann - Beobachtungen der Moderne CD3
+DYEAR=1999
+DGENRE=Speech
+TTITLE0=Dietrich Schwanitz - Die Beobachtung der Bebachtung oder die theatralische Teilung der Welt (Vortrag vom 27.6.1999)
+EXTD=YEAR: 1999
+EXTT0=
+PLAYORDER=

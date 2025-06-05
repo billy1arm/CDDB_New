@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28944
+#	58825
+#	86365
+#	121289
+#	150947
+#	176676
+#	200733
+#
+# Disc length: 3327 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=650cfd08
+DTITLE=Trio Music - Live in europe
+DYEAR=1984
+DGENRE=Jazz
+TTITLE0=The loop
+TTITLE1=I hear the rhapsody
+TTITLE2=Summer night
+TTITLE3=Night and day
+TTITLE4=Prelude n° 2
+TTITLE5=Mock up
+TTITLE6=Hittin'it
+TTITLE7=Mirovisions
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

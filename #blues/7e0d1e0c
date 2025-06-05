@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18147
+#     37565
+#     60102
+#     75217
+#     98650
+#     118765
+#     138062
+#     157117
+#     189627
+#     211182
+#     237217
+# 
+# Disc length: 3360 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7e0d1e0c
+DTITLE=Robben Ford and The Blue Line - Handful Of Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Rugged Road
+TTITLE1=Chevrolet
+TTITLE2=When I Leave Here
+TTITLE3=The Miller's Son
+TTITLE4=Don't Let Me Be Misunderstood
+TTITLE5=Top Of The Hill
+TTITLE6=Running Out On Me
+TTITLE7=Tired Of Talkin
+TTITLE8=Good Thing
+TTITLE9=Think Twice
+TTITLE10=I Just Want To Make Love To You
+TTITLE11=Strong Will To Live
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

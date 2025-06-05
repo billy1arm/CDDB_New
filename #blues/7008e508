@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25373
+#	49778
+#	68128
+#	89670
+#	118209
+#	126302
+#	150658
+#
+# Disc length: 2279 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7008e508
+DTITLE=Guy Lafitte - Blues
+DYEAR=1969
+DGENRE=Jazz
+TTITLE0=K'yapi
+TTITLE1=Amandina
+TTITLE2=Colline
+TTITLE3=Sula Bassana
+TTITLE4=Blues for Bruno
+TTITLE5=Double play
+TTITLE6=Requiem pour un haricot
+TTITLE7=Cormoran
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

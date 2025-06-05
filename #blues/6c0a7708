@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23093
+#	39650
+#	54710
+#	95915
+#	112895
+#	129905
+#	147375
+#
+# Disc length: 2681 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c0a7708
+DTITLE=Sun Ra - Jazz In Silhouette
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Enlightenment
+TTITLE1=Saturn
+TTITLE2=Velvet
+TTITLE3=Ancient Aiethopia
+TTITLE4=Hours After
+TTITLE5=Horoscope
+TTITLE6=Images
+TTITLE7=Blues At Midnight
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

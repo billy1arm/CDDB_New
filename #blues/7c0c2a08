@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29154
+#	51910
+#	117742
+#	146027
+#	164061
+#	184199
+#	210015
+#
+# Disc length: 3116 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=7c0c2a08
+DTITLE=Joe Cartwright Quartet - La Luna Negra
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Saudade
+TTITLE1=Manteca
+TTITLE2=Jacob's Ladder
+TTITLE3=Samba Feliz
+TTITLE4=La Luna Negra
+TTITLE5=Peruchin
+TTITLE6=Cold Duck Time
+TTITLE7=On Fire
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

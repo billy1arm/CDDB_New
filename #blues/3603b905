@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14427
+#	27511
+#	38871
+#	55559
+#
+# Disc length: 955 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3603b905
+DTITLE=Michał Przytula - Cicha noc...
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Santa Claus Is Coming To Town
+TTITLE1=Rudolph the Red-Nosed Reindeer
+TTITLE2=Joy to the World
+TTITLE3=Sleigh Ride
+TTITLE4=Silent Night
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

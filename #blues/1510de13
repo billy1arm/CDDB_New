@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4935
+#	19057
+#	29872
+#	43675
+#	69095
+#	94685
+#	115157
+#	143472
+#	148505
+#	179245
+#	190212
+#	206160
+#	215520
+#	230292
+#	261240
+#	273045
+#	294145
+#	312902
+#
+# Disc length: 4320 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=1510de13
+DTITLE=The Crazy World of Arthur Brown - Strange Lands
+DYEAR=1969
+DGENRE=Acid Rock
+TTITLE0=life jacket
+TTITLE1=purple airport of love
+TTITLE2=all over the country
+TTITLE3=the lord doesn't want you
+TTITLE4=the sound of the city
+TTITLE5=all forms and distinctions
+TTITLE6=beyond the sea
+TTITLE7=planets of the universe
+TTITLE8=twisted wreckage
+TTITLE9=hold on cosmos
+TTITLE10=endless sleep
+TTITLE11=excitation wavelength
+TTITLE12=litmus transformation
+TTITLE13=opus pocus
+TTITLE14=crytallized petard
+TTITLE15=kinesis
+TTITLE16=but that wasthen that was but
+TTITLE17=High Tide play Rustic Hinge
+TTITLE18=Macedonia
+EXTD=0\n\n\n YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

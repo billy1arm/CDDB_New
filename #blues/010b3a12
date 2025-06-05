@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	13215
+#	28485
+#	41190
+#	53730
+#	63810
+#	77775
+#	90030
+#	101805
+#	115140
+#	124845
+#	136035
+#	147607
+#	159487
+#	170512
+#	181432
+#	193012
+#	204690
+#
+# Disc length: 2876 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=010b3a12
+DTITLE=The Flamingos - I Only Have Eyes For You
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Lovers Never Say Goodbye
+TTITLE1=I Only Have Eyes For You
+TTITLE2=Love Walked In
+TTITLE3=I Was Such A Foot (To Fall In Love With You)
+TTITLE4=Nobody Loves Me Like You
+TTITLE5=Mio Amore (I'm Yours Till The End)
+TTITLE6=Your Other Love
+TTITLE7=Time Was
+TTITLE8=When I Fall In Love
+TTITLE9=At The Prom
+TTITLE10=Heavenly Angel
+TTITLE11=Ol' Man River - Part 1
+TTITLE12=Ol' Man River - Part 2
+TTITLE13=But Not For Me
+TTITLE14=The Flame of Love
+TTITLE15=I Know Better
+TTITLE16=That Love Is You
+TTITLE17=Goodnight Sweetheart
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

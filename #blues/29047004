@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21750
+#	42900
+#	64500
+#
+# Disc length: 1138 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=29047004
+DTITLE=丹下桜 - Wonder Network/private link
+DYEAR=1999
+DGENRE=JPop
+TTITLE0=Wonder Network
+TTITLE1=private link
+TTITLE2=Wonder Network(original karaoke)
+TTITLE3=private link(original karaoke)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8075
+#	36925
+#	46835
+#	62625
+#	78575
+#	97800
+#	127275
+#	164100
+#
+# Disc length: 2420 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=73097209
+DTITLE=Duplex Sandwich Cookies - Live at Gus Lucky's
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Fortune Cookie Man
+TTITLE1=Organic Chemistry
+TTITLE2=My Day Off
+TTITLE3=My Day Off
+TTITLE4=Drone
+TTITLE5=Drone
+TTITLE6=In That Green Cord
+TTITLE7=The Mint
+TTITLE8=Holier Than Thou
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

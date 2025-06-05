@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24750
+#	39600
+#	57150
+#	72300
+#	98612
+#	114484
+#	135124
+#	149855
+#	169550
+#	183081
+#	206106
+#
+# Disc length: 2938 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9f0b780c
+DTITLE=Various Artist - Carmina Venezia
+DYEAR=2007
+DGENRE=New Age
+TTITLE0=Dominatio
+TTITLE1=Pegerita Aeterna
+TTITLE2=Curama Faiado
+TTITLE3=Va' pensiero
+TTITLE4=Nomine Di Anavitas
+TTITLE5=Faretu
+TTITLE6=La Blanca
+TTITLE7=Grazia Mercuria
+TTITLE8=Luna
+TTITLE9=Adeste fidelis
+TTITLE10=Ave Maria
+TTITLE11=Laudate Gloria
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

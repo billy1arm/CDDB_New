@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10599
+#	24245
+#	39620
+#	50576
+#
+# Disc length: 856 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=30035605
+DTITLE=Louis Armstrong - What A Wonderful World
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=What A Wonderful World
+TTITLE1=Dream A Little Dream Of Me
+TTITLE2=La Vie En Rose
+TTITLE3=Hello Dolly
+TTITLE4=C'est Si Bon
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

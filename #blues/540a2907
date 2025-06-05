@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14175
+#	48282
+#	78935
+#	105342
+#	132960
+#	164002
+#
+# Disc length: 2603 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=540a2907
+DTITLE=Marcio Montarroyos - Carioca
+DYEAR=1983
+DGENRE=Jazz
+TTITLE0=Quilombo Dos Palmares
+TTITLE1=Aruanda
+TTITLE2=Ocean Dance
+TTITLE3=Sky Dive
+TTITLE4=Samba Solstice
+TTITLE5=Christina
+TTITLE6=Carioca
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

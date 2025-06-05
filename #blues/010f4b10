@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	24427
+#	39243
+#	52823
+#	68164
+#	94162
+#	111484
+#	130412
+#	147650
+#	167834
+#	190335
+#	206792
+#	222773
+#	239837
+#	260479
+#	275220
+#
+# Disc length: 3917 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=010f4b10
+DTITLE=Ajda Pekkan - The Best Of Ajda
+DYEAR=1900
+DGENRE=
+TTITLE0=Bambaska Biri
+TTITLE1=Haykiracak Nefesim
+TTITLE2=Bos Sokak
+TTITLE3=Hosgor Sen
+TTITLE4=Kimler Geldi
+TTITLE5=Uykusuz Her Gece
+TTITLE6=Heryerde Kar Var
+TTITLE7=Ne Tadi Var Bu Dunyanin
+TTITLE8=Ya Sonra
+TTITLE9=Dile Kolay
+TTITLE10=Yeniden Baslasin
+TTITLE11=Uc Kalp
+TTITLE12=O Benim Dunyam
+TTITLE13=Palavra
+TTITLE14=Haram Olsun
+TTITLE15=Ne Varsa Bende Var
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

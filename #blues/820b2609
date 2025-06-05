@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21388
+#	43167
+#	73249
+#	109742
+#	121527
+#	139095
+#	171248
+#	191045
+#
+# Disc length: 2856 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=820b2609
+DTITLE=Band Of Five Names - Severance
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Severance And Permitude
+TTITLE1=Three Word Poem
+TTITLE2=Tenth Mountain
+TTITLE3=Child And Machine
+TTITLE4=Image
+TTITLE5=Third Bubble
+TTITLE6=Quiet Night Dirt
+TTITLE7=Arctic
+TTITLE8=Hidden Hyperbola
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

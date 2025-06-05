@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16902
+#	34230
+#	50912
+#
+# Disc length: 909 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2f038b04
+DTITLE=五條真由美 - DANZEN ! ふたりはプリキュア Ver.MaxHeart
+DYEAR=2005
+DGENRE=Anime
+TTITLE0=DANZEN ! ふたりはプリキュア Ver.MaxHeart
+TTITLE1=ムリムリ !? ありあり !! INじゃぁな～い ?!
+TTITLE2=DANZEN ! ふたりはプリキュア Ver.MaxHeart (オリジナルカラオケ)
+TTITLE3=ムリムリ !? ありあり !! INじゃぁな～い ?! (オリジナルカラオケ)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

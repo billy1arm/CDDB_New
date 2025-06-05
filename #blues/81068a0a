@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12037
+#     21952
+#     35427
+#     46190
+#     59410
+#     74182
+#     86802
+#     98487
+#     111940
+# 
+# Disc length: 1676 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=81068a0a
+DTITLE=Muddy Waters - I'm Ready
+DYEAR=1900
+DGENRE=
+TTITLE0=You're Gonna Miss Me
+TTITLE1=Mean Red Spider
+TTITLE2=You're Gonna Need My Help
+TTITLE3=She's All Right
+TTITLE4=You Can't Lose What You Ain't Never Had
+TTITLE5=Baby Please Don't Go
+TTITLE6=Trainfare Blues
+TTITLE7=Sittin' Here Drinkin'
+TTITLE8=Rollin' And Tumblin'
+TTITLE9=I'm Ready
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

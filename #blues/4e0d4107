@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31849
+#	63348
+#	106549
+#	144681
+#	195913
+#	235062
+#
+# Disc length: 3395 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e0d4107
+DTITLE=UPSIDE 3 - octopus
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=LOVE TRIANGLE
+TTITLE1=GOSPEL
+TTITLE2=LEARN TO FORGIVE
+TTITLE3=HOT MONDAY
+TTITLE4=SUMMER SNOW
+TTITLE5=SOLAR ECLIPSE
+TTITLE6=HASTA LA VISTA SENORA
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

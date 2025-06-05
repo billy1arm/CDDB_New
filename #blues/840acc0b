@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24080
+#	45028
+#	61301
+#	89139
+#	107897
+#	122336
+#	137194
+#	153770
+#	175963
+#	188824
+#
+# Disc length: 2766 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=840acc0b
+DTITLE=Brewer Phillips - Whole Lotta Blues
+DYEAR=1982
+DGENRE=Blues
+TTITLE0=Whisky Headed Woman
+TTITLE1=Poison Ivy
+TTITLE2=Watermelon Man
+TTITLE3=Poor Boy Blues
+TTITLE4=Pretty Baby
+TTITLE5=Whole Lotta Love
+TTITLE6=Okee Dokee Stomp
+TTITLE7=Woke Up This Morning
+TTITLE8=Cleo
+TTITLE9=Every Day I Have The Blues
+TTITLE10=Just Pickin'
+EXTD=YEAR: 1982 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

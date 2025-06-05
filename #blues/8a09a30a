@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	23480
+#	44897
+#	66662
+#	84545
+#	100140
+#	115732
+#	130390
+#	148790
+#	165227
+#
+# Disc length: 2469 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=8a09a30a
+DTITLE=Pat Travers - Blues Tracks
+DYEAR=1900
+DGENRE=
+TTITLE0=Memory Pain
+TTITLE1=Calling Card Blues
+TTITLE2=I Can't Quit You
+TTITLE3=Statesboro Blues
+TTITLE4=I've Got News For You
+TTITLE5=I Ain't Superstitious
+TTITLE6=Built For Comfort
+TTITLE7=Mystery Train
+TTITLE8=Just Got Paid
+TTITLE9=Sitting On Top Of The World
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

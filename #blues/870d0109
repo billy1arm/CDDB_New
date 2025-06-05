@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32676
+#	54726
+#	80923
+#	108373
+#	144282
+#	164777
+#	194691
+#	222884
+#
+# Disc length: 3331 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=870d0109
+DTITLE=Henry Hey - Watershed
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Motion View
+TTITLE1=Sandscape
+TTITLE2=Get Your Goot On
+TTITLE3=Glenmore Story
+TTITLE4=Nem Un Talvez
+TTITLE5=Cobalt
+TTITLE6=Knurl
+TTITLE7=Laurito
+TTITLE8=Not In So Many Words
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

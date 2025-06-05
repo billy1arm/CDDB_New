@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29207
+#	53947
+#	72832
+#	88717
+#	112727
+#	147902
+#	167940
+#
+# Disc length: 2408 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=70096608
+DTITLE=Breakout - 70 a
+DYEAR=1970
+DGENRE=Blues
+TTITLE0=01.Skad taki duzy deszcz 
+TTITLE1=02.Przemijanie 
+TTITLE2=03.Dziwny wwekend 
+TTITLE3=04.Taka droge 
+TTITLE4=05.Zapraszamy na korride 
+TTITLE5=06.Piekno 
+TTITLE6=07.Nie znasz jeszcze zycia
+TTITLE7=Przestroga 08
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

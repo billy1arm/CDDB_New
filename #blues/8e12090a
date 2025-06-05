@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  50100
+#  92355
+#  126415
+#  144460
+#  169787
+#  191152
+#  226752
+#  256152
+#  282480
+#
+# Disc length: 4619 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=8e12090a
+DTITLE=Tedi Papavrami - Edition E - Meister der Violine
+DYEAR=1900
+DGENRE=
+TTITLE0=Tzigane
+TTITLE1=Erste Sonate - Allegro Molto
+TTITLE2=Erste Sonate - Andante
+TTITLE3=Erste Sonate - Allegro Vivo
+TTITLE4=Erste Sonate - Allegro qusi presto
+TTITLE5=Scherzo Tarantelle
+TTITLE6=22. Caprice
+TTITLE7=4.Caprice fuer Violine solo
+TTITLE8=6.Caprice fuer Violine solo
+TTITLE9=Chaconne aus der Partida d-moll fuer Violine Solo
+EXTD=
+EXTT0=Maurice Ravel
+EXTT1=Gabriel Faure
+EXTT2=Gabriel Faure
+EXTT3=Gabriel Faure
+EXTT4=Gabriel Faure
+EXTT5=Henri Wieniaswski
+EXTT6=Niccolo Paganini
+EXTT7=Niccolo Paganini
+EXTT8=Niccolo Paganini
+EXTT9=Johann Sebastian Bach
+PLAYORDER=

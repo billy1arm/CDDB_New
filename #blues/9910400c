@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23145
+#	53267
+#	79002
+#	103409
+#	125028
+#	153613
+#	187983
+#	205606
+#	235286
+#	264084
+#	282204
+#
+# Disc length: 4162 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=9910400c
+DTITLE=Mozayik - Haitian Creole Jazz
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Caravan
+TTITLE1=Pen Mayi
+TTITLE2=Sa Te Bel
+TTITLE3=Mireille
+TTITLE4=Sincerely yours
+TTITLE5=African Queen
+TTITLE6=The journey
+TTITLE7=Limye
+TTITLE8=Fifa's theme
+TTITLE9=Second nature
+TTITLE10=Havana sunrise
+TTITLE11=Moving on 
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

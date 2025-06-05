@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22677
+#	39107
+#	55947
+#	84760
+#	114730
+#	133442
+#	158620
+#
+# Disc length: 2344 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=55092608
+DTITLE=The Three Sounds - Feelin' Good
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=When I Fall In Love
+TTITLE1=Parker's Pad
+TTITLE2=Blues After Dark
+TTITLE3=I Got It Bad And That Ain't Good
+TTITLE4=Straight No Chaser
+TTITLE5=I Let A Song Go Out Of My Heart
+TTITLE6=It Could Happen To You
+TTITLE7=Two Bass Hit
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

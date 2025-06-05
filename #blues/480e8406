@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21600
+#	89505
+#	182405
+#	206400
+#	262735
+#
+# Disc length: 3718 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=480e8406
+DTITLE=Jacques Loussier Trio - Play Bach aux Champs-Elysees - disc 1
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=01-Prelude No 1 in C major (BWV 846)
+TTITLE1=02-Italian Concerto in F major (BWV 971)
+TTITLE2=03-Partita No 1 Bb major (BWV 825)
+TTITLE3=04-Choral (Cantata No 147, BWV 147)
+TTITLE4=05-Toccata and Fugue in D minor (BWV 565)
+TTITLE5=Jacques Loussier - Air On a G String (from mp3 download)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45250
+#	111355
+#	217405
+#
+# Disc length: 3205 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=370c8304
+DTITLE=Derek Bailey - Michael Welch - Untitled Improvisation
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Untitled Improvisation 1
+TTITLE1=Untitled Improvisation 2
+TTITLE2=Untitled Improvisation 3
+TTITLE3=Untitled Improvisation 4
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

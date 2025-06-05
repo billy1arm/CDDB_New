@@ -1,0 +1,53 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	16302
+#	30392
+#	44587
+#	60115
+#	73532
+#	91317
+#	101775
+#	115142
+#	130570
+#	145327
+#	161350
+#
+# Disc length: 2333
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+# Normalized: r0:TRMNUM;r1:DSETVAR1,TDELIM( - )
+#
+DISCID=93091b0c
+DTITLE=Various Artist - Lo Mejor De La Musica (Jazz)
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Glenn Miller - In The Moon
+TTITLE1=Benny Goodman - Tea for Two
+TTITLE2=Duke Ellington - Perdido
+TTITLE3=Ella Fitzgerlad - How High The Moon
+TTITLE4=Count Basie - Broadway
+TTITLE5=Louis Armstrong - Ain't Misbehavin'
+TTITLE6=Miles Davis - That Old Black Magic
+TTITLE7=Billie Holiday - My Man
+TTITLE8=Charlie Parker - How Deep Is The Ocean
+TTITLE9=Sarah Vaughan - Summertime
+TTITLE10=Dexter Gordon - Tenderly
+TTITLE11=The Nat King Cole Trio - Route 66
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16569
+#	28817
+#	43774
+#	67331
+#	89653
+#	100811
+#
+# Disc length: 1537 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.84
+#
+DISCID=5905ff07
+DTITLE=Seasick Steve - ...Songs For Elisabeth
+DYEAR=2010
+DGENRE=Blues
+TTITLE0=8 Ball
+TTITLE1=Walkin' Man
+TTITLE2=My Donny
+TTITLE3=Dr Jekyll And Mr Hyde
+TTITLE4=Just Like A King
+TTITLE5=My Home (Blue Eyes)
+TTITLE6=Ready For Love
+EXTD=CDDBSort:seasick_steve,songs_for_elisabeth - YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

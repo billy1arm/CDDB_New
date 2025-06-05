@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29308
+#	54169
+#	86125
+#	112904
+#	135826
+#	165230
+#	190544
+#	232066
+#
+# Disc length: 3370 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=5f0d2809
+DTITLE=David Gilmore - Transitions
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=End of Daze
+TTITLE1=Beyond All Limits
+TTITLE2=Blues Mind Matter
+TTITLE3=Bluesette
+TTITLE4=Both
+TTITLE5=Spontanuity
+TTITLE6=Kid Logic
+TTITLE7=Farralone
+TTITLE8=Nem Un Talvez
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

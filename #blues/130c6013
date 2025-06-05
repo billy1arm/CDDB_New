@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18980
+#	31700
+#	43207
+#	55175
+#	66725
+#	78262
+#	85700
+#	92722
+#	103950
+#	117375
+#	128850
+#	140950
+#	159925
+#	171050
+#	184225
+#	196025
+#	208062
+#	217000
+#
+# Disc length: 3170 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=130c6013
+DTITLE=宗次郎 - こころのうた・一 懐
+DYEAR=1991
+DGENRE=New Age
+TTITLE0=早春賦
+TTITLE1=花
+TTITLE2=春の小川
+TTITLE3=若葉
+TTITLE4=朧月夜
+TTITLE5=夏は来ぬ
+TTITLE6=海
+TTITLE7=たなばたさま
+TTITLE8=われは海の子
+TTITLE9=紅葉
+TTITLE10=ふじの山
+TTITLE11=村祭り
+TTITLE12=故郷
+TTITLE13=虫のこえ
+TTITLE14=冬の夜
+TTITLE15=冬景色
+TTITLE16=一月一日
+TTITLE17=お正月
+TTITLE18=あおげば尊し
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

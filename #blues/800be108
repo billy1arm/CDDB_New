@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21210
+#	57537
+#	88890
+#	119470
+#	146860
+#	171735
+#	208635
+#
+# Disc length: 3043 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=800be108
+DTITLE=Ginga - Ginga
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Renascer
+TTITLE1=Quebra pedra
+TTITLE2=Noites Quentes
+TTITLE3=SP OK
+TTITLE4=Samba chama
+TTITLE5=Ginga
+TTITLE6=SP 12:00h
+TTITLE7=Baião bronze
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20638
+#	41537
+#	63682
+#	82536
+#	104504
+#	121646
+#	141951
+#
+# Disc length: 2140 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=62085a08
+DTITLE=Various Artist - Musique des îles
+DYEAR=2006
+DGENRE=World music
+TTITLE0=Rev it up
+TTITLE1=doh try dat
+TTITLE2=spice Island jam
+TTITLE3=Mr. policeman
+TTITLE4=Bush tea
+TTITLE5=donnez-moi le soca
+TTITLE6=wine
+TTITLE7=last plane to Port-Of-Spain
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18000
+#	38325
+#	60325
+#	79400
+#	101662
+#	122050
+#	143225
+#
+# Disc length: 2169 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a087708
+DTITLE=Alto Voltaje - Concéctate
+DYEAR=1994
+DGENRE=Salsa
+TTITLE0=Tuqui Tuqui
+TTITLE1=Mi Propia Vida
+TTITLE2=La Alegría
+TTITLE3=Que Le Pasa A Mi Mujer
+TTITLE4=Mi Primer Amor
+TTITLE5=Que Tienen Tus Ojos
+TTITLE6=Llorando Ante La Tumba
+TTITLE7=La Pensíon
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

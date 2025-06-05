@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	85096
+#	112407
+#	272684
+#
+# Disc length: 3963 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=320f7904
+DTITLE=John Coltrane - Complete Live in Stuttgart 1963 [CD2)
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=My favorite things
+TTITLE1=Every time we say goodbye
+TTITLE2=Mr. P.C.
+TTITLE3=Chasin' the trane (Paris, November 1st 1963)
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

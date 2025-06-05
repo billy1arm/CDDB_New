@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23775
+#	73718
+#	134635
+#	151522
+#	187033
+#	210534
+#
+# Disc length: 3338 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=5d0d0807
+DTITLE=Stevie Ray Vaughan - Concord Pavillion [disc 2]
+DYEAR=1988
+DGENRE=Blues
+TTITLE0=Cold Shot
+TTITLE1=Couldn't Stand The Weather
+TTITLE2=Life Without You
+TTITLE3=Travis Walk
+TTITLE4=Texas Flood
+TTITLE5=Rude Mood
+TTITLE6=Voodoo Chile (Slight Return)
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

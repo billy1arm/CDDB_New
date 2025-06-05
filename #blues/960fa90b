@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16937
+#	47473
+#	60676
+#	93557
+#	121731
+#	148443
+#	174313
+#	219772
+#	242830
+#	280239
+#
+# Disc length: 4011 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=960fa90b
+DTITLE=Joe Bonamassa - Live at the Royal Albert Hall
+DYEAR=2009
+DGENRE=Blues
+TTITLE0=01 Django
+TTITLE1=02 The Ballad Of John Henry
+TTITLE2=03 So It's Like That
+TTITLE3=04 Last Kiss
+TTITLE4=05 So Many Roads
+TTITLE5=06 Stop!
+TTITLE6=07 Further On Up The Road
+TTITLE7=08 Woke Up Dreaming
+TTITLE8=09 High Water Everywhere
+TTITLE9=10 Slow Gin
+TTITLE10=11 Lonesome Road Blues
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

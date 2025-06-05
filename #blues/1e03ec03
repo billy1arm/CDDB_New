@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24512
+#	58672
+#
+# Disc length: 1006 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1e03ec03
+DTITLE=FLIP FLAP - 夏休み
+DYEAR=1999
+DGENRE=JPop
+TTITLE0=夏休み
+TTITLE1=夏休み（オリジナル・カラオケ）
+TTITLE2=カントリーロードチルアウト
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

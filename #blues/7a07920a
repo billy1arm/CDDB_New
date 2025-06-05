@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15660
+#	31932
+#	45145
+#	58240
+#	75630
+#	89445
+#	108730
+#	124570
+#	133742
+#
+# Disc length: 1940 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7a07920a
+DTITLE=The Paladins - Years Since Yesterday
+DYEAR=1900
+DGENRE=
+TTITLE0=Years Since Yesterday
+TTITLE1=Good Lovin'
+TTITLE2=Going Down to Big Mary's
+TTITLE3=Happy Home
+TTITLE4=She's Fine
+TTITLE5=Your New Love
+TTITLE6=You and I
+TTITLE7=Don't Stay Out All Night
+TTITLE8=Mean Man
+TTITLE9=Right Track
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	66212
+#	105272
+#	133772
+#	165237
+#	208327
+#
+# Disc length: 3399 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=4d0d4506
+DTITLE=Nahorny - Mity (improvisation on themes from Szymanswski's Myths op. 30)
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=The fountain of Arethusa
+TTITLE1=Narcissus
+TTITLE2=Dryads nad Pan - Waltz
+TTITLE3=Dryads nad Pan III
+TTITLE4=Dryads nad Pan - Ballada
+TTITLE5=The fountain of Arethusa - Finale
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

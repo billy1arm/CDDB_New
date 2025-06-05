@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57400
+#	79868
+#	115438
+#	141487
+#	249466
+#
+# Disc length: 3650 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=560e4006
+DTITLE=K.J. Yesudas - Pariyaachakama - Thyagaraja Krithis Vol 2
+DYEAR=1900
+DGENRE=Carnatic Vocal
+TTITLE0=Pariyachakama - Vanaspathi - Rupakam
+TTITLE1=Paramathmudu - Vagadheeshwari - Adi
+TTITLE2=Thulasi Dala - Mayamalava Gowlai - Rupakam
+TTITLE3=Sarasa Sama Dana - Kapinarayani - Adi
+TTITLE4=Neesari Sati - Hemavathi - Adi
+TTITLE5=Teliyaleru Rama - Dhenuka - Adi
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	67498
+#	150283
+#	175453
+#	259478
+#
+# Disc length: 4785 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4712af05
+DTITLE=Rachmaninoff - Symphonic Poems - Scherzo - Caprice Bohémien (Polyansky, Russian State Sym. Orch.)
+DYEAR=2001
+DGENRE=Classique
+TTITLE0=The Rock Op.7 (Symphonic poem after A. Chekhov)
+TTITLE1=Prince Rostislav (Symphonic poem after A.K. Tolstoy)
+TTITLE2=Scherzo in D minor
+TTITLE3=Caprice bohémien Op.12
+TTITLE4=The Isle of the Dead Op.29 (Symphonic poem after A. Böcklin)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

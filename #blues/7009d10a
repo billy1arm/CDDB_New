@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 19532
+# 34865
+# 46912
+# 62770
+# 77647
+# 90875
+# 108910
+# 119355
+# 155122
+#
+# Disc length: 2515 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=7009d10a
+DTITLE=Blue Lu Barker - Live at the New Orleans Jazz Festival
+DYEAR=1900
+DGENRE=
+TTITLE0=The Georgia Grind
+TTITLE1=Don't You Feel My Legs
+TTITLE2=I Wish I Could Shimmy Like My Sister Kate
+TTITLE3=Bring the Greenbacks When You Call
+TTITLE4=Ballin' The Jack
+TTITLE5=Save The Bones For Henry Jones
+TTITLE6=St. John's Infirmary
+TTITLE7=You Got The Right Key But The Wrong Keyhole
+TTITLE8=Bourbon Street Parade
+TTITLE9=Second Line
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

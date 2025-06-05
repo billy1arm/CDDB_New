@@ -1,0 +1,33 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23554
+#	38671
+#	47957
+#	74193
+#
+# Disc length: 1148 seconds
+#
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+#
+DISCID=41047a05
+DTITLE=FIUB - Brown Stripes
+DYEAR=2004
+DGENRE=Garage Rock
+TTITLE0=Ca Blö
+TTITLE1=Brown Stripes
+TTITLE2=Tududududéu
+TTITLE3=What's There in My Bottle?
+TTITLE4=Day Tripper
+EXTD=JES0015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=(Lennon/McCartney)
+PLAYORDER=

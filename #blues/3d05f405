@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25198
+#	49554
+#	64404
+#	86886
+#
+# Disc length: 1526 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=3d05f405
+DTITLE=The Paul Rose Band - Sampler
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=All Along The Watchtower
+TTITLE1=Bleeding Heart
+TTITLE2=Change
+TTITLE3=Hey Joe
+TTITLE4=Rocker
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

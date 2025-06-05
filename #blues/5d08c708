@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20055
+#	37547
+#	51499
+#	84371
+#	106461
+#	131376
+#	153661
+#
+# Disc length: 2249 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=5d08c708
+DTITLE=Gary Moore - Back On The Streets
+DYEAR=1978
+DGENRE=Hard Rock
+TTITLE0=Back On The Streets
+TTITLE1=Don't Believe A Word
+TTITLE2=Fanatical Fascists
+TTITLE3=Flight Of The Snow Moose
+TTITLE4=Hurricane
+TTITLE5=Song For Donna
+TTITLE6=What Would You Rather Bee Wasp
+TTITLE7=Parisienne Walkways
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

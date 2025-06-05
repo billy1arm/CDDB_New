@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22451
+#	43562
+#	63530
+#	85198
+#	105810
+#	126422
+#	146582
+#
+# Disc length: 2234 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d08b808
+DTITLE=VICTOR MANUEL - JUSTO A TIEMPO
+DYEAR=2006
+DGENRE=Salsa
+TTITLE0=01-No vendrá, si vendrá
+TTITLE1=02-Qué importa
+TTITLE2=03-Me dará el consentimiento
+TTITLE3=04-Loco por ti
+TTITLE4=05-Llegaste
+TTITLE5=05-Llegaste
+TTITLE6=06-No te dejé de amar
+TTITLE7=08-Estás tocando fuego
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

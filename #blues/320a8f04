@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29400
+#	66894
+#	140251
+#
+# Disc length: 2705 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=320a8f04
+DTITLE=George Russell - LISTEN TO THE SILENCE
+DYEAR=1983
+DGENRE=Jazz
+TTITLE0=EVENT I
+TTITLE1=EVENT II
+TTITLE2=EVENT III
+TTITLE3=EVENT IV
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20234
+#	32427
+#	73713
+#	97958
+#	152191
+#
+# Disc length: 2450 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=46099006
+DTITLE=Kenny  Dorham - Jazz Hard Bop CD 069
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=La Rue (Brown)
+TTITLE1=But Beautiful (McHugh-van Heusen)
+TTITLE2=Falling In Love With Love (Rodgers-Hart)
+TTITLE3=My Old Flame (Johnston-Coslow)
+TTITLE4=I'll Remember Alpril (Raye-de Paul-Johnston)
+TTITLE5=La Villa (Dorham)
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

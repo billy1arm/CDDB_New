@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30793
+#	60736
+#	95779
+#	132246
+#	155435
+#	198833
+#	240609
+#
+# Disc length: 3601 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=600e0f08
+DTITLE=Kevin Flowers Band - Giggin' (second release)
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Lake Shore Drive
+TTITLE1=GTDS
+TTITLE2=KGB
+TTITLE3=Db Blue
+TTITLE4=Straight To The Point
+TTITLE5=Simply Said
+TTITLE6=Flight Time
+TTITLE7=Day Road Trip
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

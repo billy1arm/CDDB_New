@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37415
+#	45355
+#	61405
+#	76187
+#	90595
+#	101322
+#	128440
+#	144540
+#	156342
+#	174172
+#
+# Disc length: 2568 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=810a060b
+DTITLE=Andrew Lloyd Webber - Evita
+DYEAR=1996
+DGENRE=Musical
+TTITLE0=Requiem - Oh What A Circus
+TTITLE1=On This Night Of A Thousand Stars
+TTITLE2=Buenos Aires
+TTITLE3=I'd Be Surprisingly Good For You
+TTITLE4=Another Suitcase In Another Hall
+TTITLE5=New Argentina
+TTITLE6=Don't Cry For Me Argentina
+TTITLE7=High Flying, Adored
+TTITLE8=Rainbow High
+TTITLE9=Waltz For Eva And Che
+TTITLE10=Lament
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

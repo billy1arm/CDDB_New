@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19435
+#	34210
+#
+# Disc length: 1158 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=21048403
+DTITLE=Gomez - Rhythm and Blues Alibi
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Rhythm and Blues Alibi (Pre-Mellotron Version)
+TTITLE1=ZYX
+TTITLE2=Tijuanalaska (Tijuana Lady Live Version)
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

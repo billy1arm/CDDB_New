@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20100
+#	40163
+#	57308
+#	73371
+#	87887
+#	108680
+#	132280
+#	151920
+#
+# Disc length: 2241 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7e08bf09
+DTITLE=Jeff Gaffney - Load N' Go
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Porchlight
+TTITLE1=Blue On Black
+TTITLE2=Heard It Through the Grapevine
+TTITLE3=6/30 East (Instrumental)
+TTITLE4=The Juice
+TTITLE5=Last Goodbye
+TTITLE6=Fairytale
+TTITLE7=Can't You See
+TTITLE8=Big Star
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

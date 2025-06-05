@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31330
+#	67515
+#	87444
+#	112073
+#	118343
+#	171268
+#
+# Disc length: 2626 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=590a4007
+DTITLE=Deep in the Deep - Snake Ear
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=01 Rose et Marguerite
+TTITLE1=02 On Growth and Form 6
+TTITLE2=03 Snake Ear part two
+TTITLE3=04 Snake Ear part three
+TTITLE4=05 Snake Ear part four
+TTITLE5=06 Snake Ear part one
+TTITLE6=07 On Growth and Form 5
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

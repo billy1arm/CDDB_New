@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43870
+#	73976
+#	106499
+#	131033
+#	165841
+#	196134
+#	229707
+#
+# Disc length: 3640 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6b0e3608
+DTITLE=Solid Nexus - ASYMMETRY DESIGN
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=REM Sleep
+TTITLE1=Anti-Ptolemaic System
+TTITLE2=Graph-Trix
+TTITLE3=浴室
+TTITLE4=Amateras
+TTITLE5=Implicit Flattery
+TTITLE6=Wandering With Pied Piper
+TTITLE7=Neo-Age Conceputual Garment
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

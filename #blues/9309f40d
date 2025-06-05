@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6602
+#	22630
+#	40917
+#	48652
+#	63665
+#	77170
+#	83257
+#	105860
+#	129430
+#	143075
+#	158572
+#	168365
+#
+# Disc length: 2550 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9309f40d
+DTITLE=University of Michigan Symphony Band - H. Robert Reynolds - The Retirement Concert
+DYEAR=2001
+DGENRE=Wind Band
+TTITLE0=Percy Grainger - Lincolnshire Posy I. Lisbon
+TTITLE1=Percy Grainger - Lincolnshire Posy II. Horkstow Grange
+TTITLE2=Percy Grainger - Lincolnshire Posy III. Rufford Park Poachers
+TTITLE3=Percy Grainger - Lincolnshire Posy IV. The Brisk Young Sailor
+TTITLE4=Percy Grainger - Lincolnshire Posy V. Lord Melbourne
+TTITLE5=Percy Grainger - Lincolnshire Posy VI. The Lost Lady Found
+TTITLE6=Remarks from H. Robert Reynolds
+TTITLE7=William Bolcom - Song
+TTITLE8=Gustav Holst - First Suite in E-flat I. Chaconne
+TTITLE9=Gustav Holst - First Suite in E-flat II. Intermezzo
+TTITLE10=Gustav Holst - First Suite in E-flat III. March
+TTITLE11=Remarks from H. Robert Reynolds
+TTITLE12=Percy Grainger - Irish Tune from County Derry
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

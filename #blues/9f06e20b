@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 14187
+# 23917
+# 37155
+# 50107
+# 65197
+# 76397
+# 87522
+# 98235
+# 108067
+# 118960
+#
+# Disc length: 1764 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=9f06e20b
+DTITLE=Al Green - Green Is Blue
+DYEAR=1900
+DGENRE=
+TTITLE0=One Woman
+TTITLE1=Talk To Me
+TTITLE2=My Girl
+TTITLE3=The Letter
+TTITLE4=I Stand Accused
+TTITLE5=Gotta Find A New World
+TTITLE6=What Am I Gonna Do With Myself
+TTITLE7=Tomorrow's Dream
+TTITLE8=Get Back Baby
+TTITLE9=Get Back
+TTITLE10=Summertime
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

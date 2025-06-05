@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     24407
+#     51557
+# 
+# Disc length: 877 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=21036b03
+DTITLE=Nils Lofgren - Trouble's Back
+DYEAR=1900
+DGENRE=
+TTITLE0=Trouble's Back
+TTITLE1=Keith Don't Go
+TTITLE2=Just a Little
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16784
+#	34415
+#	52368
+#	72839
+#	80928
+#	94565
+#	111527
+#	152559
+#
+# Disc length: 2403 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=79096109
+DTITLE=Janis Joplin - Anthology [CD2)
+DYEAR=1980
+DGENRE=Blues
+TTITLE0=Move Over
+TTITLE1=Half Moon
+TTITLE2=Cry Baby
+TTITLE3=Me And Bobby McGee
+TTITLE4=Mercedes Benz
+TTITLE5=Down On Me
+TTITLE6=Bye Bye Baby
+TTITLE7=Get It While You Can
+TTITLE8=Ball And Chain
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

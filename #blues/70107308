@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	58200
+#	97950
+#	132300
+#	181575
+#	212850
+#	243675
+#	279150
+#
+# Disc length: 4213 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=70107308
+DTITLE=BeebleBrox - RealBrox (Disk 2)
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=BeebleBrox V2.1
+TTITLE1=It's Better to Keep Cool Sometimes
+TTITLE2=Lost But Not Forgotten
+TTITLE3=My Funny Glove Compartment
+TTITLE4=Mr. Simon
+TTITLE5=Homer's Evil Twin
+TTITLE6=The Longest Day of the Week
+TTITLE7=Loose Ends
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

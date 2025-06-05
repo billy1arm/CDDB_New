@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18000
+#	37200
+#	51825
+#	64350
+#	83100
+#	107925
+#	127575
+#	145800
+#	173550
+#	188325
+#	221400
+#
+# Disc length: 3282 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=9b0cd00c
+DTITLE=Juan Formell y los Van Van - Grandes Exitos
+DYEAR=1999
+DGENRE=Salsa
+TTITLE0=Aqui se enciende la candela
+TTITLE1=La rumba no está completa
+TTITLE2=El martes
+TTITLE3=Llegué llegué
+TTITLE4=Mi son entero
+TTITLE5=Diferentes y especiales
+TTITLE6=Elisa
+TTITLE7=Esto si es distinto
+TTITLE8=Este amor que se muere
+TTITLE9=La compota
+TTITLE10=Anda ven y muévete
+TTITLE11=La Habana no aguanta más
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

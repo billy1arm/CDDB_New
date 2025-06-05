@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43547
+#	88900
+#	145142
+#	201405
+#	239192
+#	280207
+#
+# Disc length: 4363 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d110907
+DTITLE=Jean Beaudet Trio - En concert
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Crossroads
+TTITLE1=Le pardon
+TTITLE2=Spring can really hang you up the most
+TTITLE3=Les enfants c'est l'avenir
+TTITLE4=Qui se ressemblent...
+TTITLE5=Sans paroles
+TTITLE6=Accélérations
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22360
+#	43840
+#	70905
+#	94703
+#	117205
+#	139813
+#	158715
+#
+# Disc length: 2518 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e09d408
+DTITLE=Taj Mahal - Music Fuh Ya' (1977)
+DYEAR=1977
+DGENRE=Blues
+TTITLE0=Taj Mahal - You Got It
+TTITLE1=Taj Mahal - Freight Train
+TTITLE2=Taj Mahal - Baby, You're My Destiny
+TTITLE3=Taj Mahal - Sailin' Into Walker's Cay
+TTITLE4=Taj Mahal - Truck Driver's Two Step
+TTITLE5=Taj Mahal - The Four Mills Brothers
+TTITLE6=Taj Mahal - Honey Babe
+TTITLE7=Taj Mahal - Curry
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

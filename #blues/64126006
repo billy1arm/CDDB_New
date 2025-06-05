@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	61375
+#	126716
+#	236864
+#	265910
+#	290656
+#
+# Disc length: 4706 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=64126006
+DTITLE=Alain de Botton - Trost der Philosophie CD 04
+DYEAR=2003
+DGENRE=Hörbuch
+TTITLE0=Montaigne: Trost bei Unvollkommenheit 01
+TTITLE1=Montaigne: Trost bei Unvollkommenheit 02
+TTITLE2=Montaigne: Trost bei Unvollkommenheit 03
+TTITLE3=Montaigne: Trost bei Unvollkommenheit 04
+TTITLE4=Montaigne: Trost bei Unvollkommenheit 05
+TTITLE5=Montaigne: Trost bei Unvollkommenheit 06
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

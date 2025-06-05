@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28898
+#	59471
+#	92966
+#	143180
+#
+# Disc length: 2605 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=460a2b05
+DTITLE=Wayne Shorter - Et Cetera
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Etcetera
+TTITLE1=Penelope
+TTITLE2=Toy Tune
+TTITLE3=Barracudas (General Assembly)
+TTITLE4=Indian Song
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

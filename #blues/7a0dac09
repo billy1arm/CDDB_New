@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32085
+#	56880
+#	81875
+#	102805
+#	146387
+#	171445
+#	205137
+#	237427
+#
+# Disc length: 3502 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7a0dac09
+DTITLE=Cannonball Adderley - Portrait Of Cannonball
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Minority
+TTITLE1=Straight Life
+TTITLE2=Blue Funk
+TTITLE3=A Little Taste
+TTITLE4=People Will Say We're In Love
+TTITLE5=Nardis(Take5)
+TTITLE6=Minority(Take2)
+TTITLE7=Minority(Take3)
+TTITLE8=Nardis(Take4)
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

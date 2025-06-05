@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	24941
+#	39952
+#	53198
+#	70588
+#	93618
+#	110631
+#	133633
+#	154075
+#	182152
+#	202935
+#	224522
+#
+# Disc length: 3585 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a30dff0c
+DTITLE=Tom Cowan - Colorado Fourteeners, Vol. 1
+DYEAR=1996
+DGENRE=New Age
+TTITLE0=Pikes Peak
+TTITLE1=Huron Peak
+TTITLE2=The Maroon Bells
+TTITLE3=The Crestones
+TTITLE4=Mount Sherman
+TTITLE5=Mount Bierstadt
+TTITLE6=Mount Elbert
+TTITLE7=Sunshine Peak
+TTITLE8=Mount Eolus
+TTITLE9=Wilson Peak
+TTITLE10=Mount Lindsey
+TTITLE11=Mount of the Holy Cross
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

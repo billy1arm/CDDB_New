@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19644
+#	54631
+#	75249
+#	109538
+#	142056
+#	162399
+#	191732
+#	231441
+#
+# Disc length: 4304 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7110ce09
+DTITLE=Kami Quintet - Les Forces Du Mouvement
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Bagdad 91-08
+TTITLE1=Le Rat Des Champs
+TTITLE2=Le Rat Des Villes
+TTITLE3=Habib
+TTITLE4=Nestor Makhno
+TTITLE5=La Valse Eternelle De Mathilde
+TTITLE6=Pression
+TTITLE7=Les Forces Du Mouvement
+TTITLE8=Le Present
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

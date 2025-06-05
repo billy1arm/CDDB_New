@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18212
+#	34332
+#	66730
+#
+# Disc length: 1096 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=33044604
+DTITLE=Timmy Thomas - Why Can't We Live Together (single)
+DYEAR=1990
+DGENRE=Top 40
+TTITLE0=Why Can't We Live Together? (Stand up for love radio edit)
+TTITLE1=Why Can't We Live Together? (Armageddon radio remix)
+TTITLE2=Why Can't We Live Together? (Stand up for love re-recording)
+TTITLE3=Why Can't We Live Together?
+EXTD=YEAR: 1990
+EXTT0=Stand Up For Love Radio Edit
+EXTT1=Armageddon Radio Remix
+EXTT2=Stand Up For Love Re-Recording
+EXTT3=Saxophone Version
+PLAYORDER=

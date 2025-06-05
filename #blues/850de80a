@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	29559
+#	61434
+#	94355
+#	114580
+#	145091
+#	159349
+#	192014
+#	215512
+#	227357
+#
+# Disc length: 3562 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=850de80a
+DTITLE=Carrothers - Copland - No Choice
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Lonely woman
+TTITLE1=You and the night and the music
+TTITLE2=The needle and the damage done
+TTITLE3=Dim some
+TTITLE4=Take the A train
+TTITLE5=Blue in green (Chorale/Canon)
+TTITLE6=Blue in green (Theme and variations)
+TTITLE7=Masquarelo
+TTITLE8=Bemsha swing
+TTITLE9=Lonely woman
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

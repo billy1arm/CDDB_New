@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22900
+#	54985
+#	76507
+#	121953
+#	159453
+#	171559
+#	194394
+#	220442
+#
+# Disc length: 3504 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f0dae09
+DTITLE=Marty Ehrlich - New York Child
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=New York Child
+TTITLE1=Generosity
+TTITLE2=Georgia Blue
+TTITLE3=Tell Me This
+TTITLE4=Elvin's Exit
+TTITLE5=Prelude
+TTITLE6=Time And the Wild Words
+TTITLE7=Untitled
+TTITLE8=Turn Again
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

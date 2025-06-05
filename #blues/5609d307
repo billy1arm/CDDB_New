@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22873
+#	46144
+#	69640
+#	100305
+#	127418
+#	158597
+#
+# Disc length: 2517 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5609d307
+DTITLE=Matthias Hulsemann - Piano Classics - Piano Lounge vol. 1
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Hangin On
+TTITLE1=Lazy Afternoon
+TTITLE2=One Note Samba
+TTITLE3=Chill In
+TTITLE4=Talk To Me
+TTITLE5=Night and Day
+TTITLE6=Watercolours
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

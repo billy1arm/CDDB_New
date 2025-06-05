@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23250
+#	59077
+#	77112
+#	93935
+#	136630
+#	156839
+#	166947
+#
+# Disc length: 2653 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=540a5b08
+DTITLE=Modern Jazz Quartet - Modern Jazz Quartet Disc 2
+DYEAR=1972
+DGENRE=Jazz
+TTITLE0=I'll Remember April
+TTITLE1=Softly As In A Morning's Sunrise
+TTITLE2=Delauney's Dilemma
+TTITLE3=But Not For Me
+TTITLE4=La Ronde Suite
+TTITLE5=All of You
+TTITLE6=Rose Of The Rio Grande
+TTITLE7=Ralph's New Blues
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

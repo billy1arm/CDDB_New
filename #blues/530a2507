@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31840
+#	48982
+#	77604
+#	104555
+#	139357
+#	165480
+#
+# Disc length: 2599 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=530a2507
+DTITLE=Lester Young - in Washington DC volume four
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Talk To The Town
+TTITLE1=I Cover The Waterfront
+TTITLE2=Pennies From Heaven
+TTITLE3=G's, If You Please
+TTITLE4=Almost Like Being In Love
+TTITLE5=I'm Confessin' That I Love You
+TTITLE6=D.B Blues
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

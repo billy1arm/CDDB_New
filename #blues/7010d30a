@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28800
+#	63047
+#	94560
+#	122507
+#	150154
+#	190517
+#	226350
+#	262017
+#	304200
+#
+# Disc length: 4309 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7010d30a
+DTITLE=Stan Getz - West Coast Jazz
+DYEAR=1955
+DGENRE=Jazz
+TTITLE0=East of the Sun (and West of the Moon)
+TTITLE1=Four
+TTITLE2=Suddenly It's Spring
+TTITLE3=A Night In Tunisia
+TTITLE4=Summertime
+TTITLE5=Shine
+TTITLE6=Split Kick
+TTITLE7=Blues for Mary Jane
+TTITLE8=There Will Be Another You
+TTITLE9=You're Blasé
+EXTD=YEAR: 1955
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

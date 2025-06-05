@@ -1,0 +1,40 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20295
+#	39212
+#	56130
+#	77510
+#	88150
+#	105297
+#	157152
+# Disc length: 2340 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=54092208
+DTITLE=Prom - Fooled Again
+DYEAR=1900
+DGENRE=
+TTITLE0=Fooled Again
+TTITLE1=Baby I know
+TTITLE2=Ride on
+TTITLE3=Blues
+TTITLE4=Scorpion
+TTITLE5=Shoot him down
+TTITLE6=Mogadischu
+TTITLE7=Forty Years
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11241
+#	22944
+#	42401
+#	60178
+#	71873
+#	84064
+#	104592
+#	124821
+#	140962
+#	155043
+#	167955
+# Disc length: 2413 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=a6096b0c
+DTITLE=The Complete Vinyl Set, Disc 1 - Telluride
+DYEAR=1900
+DGENRE=
+TTITLE0=Fables And Stories
+TTITLE1=Hollow Eyes
+TTITLE2=Birmingham Tonight
+TTITLE3=Sensimillia
+TTITLE4=Scratch My Guitar
+TTITLE5=Never Too Late
+TTITLE6=Stand Alone
+TTITLE7=Escape From The City
+TTITLE8=Maybe She's Magic
+TTITLE9=Song For William
+TTITLE10=Turn Up! Your Little Radio
+TTITLE11=Girl Watcher
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

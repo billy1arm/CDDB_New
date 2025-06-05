@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51750
+#	188704
+#
+# Disc length: 4548 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1f11c203
+DTITLE=Various Artist - Der Frankfurt Sound [CD 2)
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Leben in der Frankfurter Jazzszene II
+TTITLE1=Botschafter des Jazz
+TTITLE2=Jazzensemble des Hessischen Rundfunks
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

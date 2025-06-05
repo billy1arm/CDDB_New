@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21977
+#	44310
+#	76087
+#	104022
+#	139982
+#
+# Disc length: 2207 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4b089d06
+DTITLE=布袋寅泰 - BATTLE ROYAL MIXES
+DYEAR=1996
+DGENRE=Rock
+TTITLE0=MERRY CHRISTMAS，LONELY HEART ”Acappella Mix”
+TTITLE1=MERRY CHRISTMAS，LONELY HEART ”BAREFOOT Mix”
+TTITLE2=CIRCUS ”C.H.A.P.S. Power Mix”
+TTITLE3=CIRCUS ”Transylvanian Orgy In Rhythm Mix”
+TTITLE4=CIRCUS ”Afro groove Mix”
+TTITLE5=CIRCUS ”Traditional Sag Chicken Mix”
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

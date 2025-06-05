@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  19287
+#  44217
+#  82665
+#  103060
+#  126265
+#  190782
+#
+# Disc length: 3029 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.30
+#
+DISCID=590bd307
+DTITLE=Stevie Ray Vaughan And Double Trouble - Pride And Joy (Bootleg)
+DYEAR=1900
+DGENRE=
+TTITLE0=Mary Had a Little Lamb
+TTITLE1=Cold Shot
+TTITLE2=Ain't Gone 'N' Give Up On Love
+TTITLE3=Don't Stop By The Creek, Son
+TTITLE4=Pride And Joy
+TTITLE5=Tin Pan Alley
+TTITLE6=Look At Little Sister
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

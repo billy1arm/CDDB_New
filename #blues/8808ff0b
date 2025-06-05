@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17400
+#	33367
+#	48292
+#	65615
+#	75705
+#	91360
+#	103662
+#	118120
+#	137202
+#	153367
+#
+# Disc length: 2305 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8808ff0b
+DTITLE=Keiko Matsui - "Deep Blue" solo piano version
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Deep Blue
+TTITLE1=Water for the Tribe
+TTITLE2=Across the Sun
+TTITLE3=Trees
+TTITLE4=Mediterranean Eyes
+TTITLE5=Rose in Morocco
+TTITLE6=Moonflower
+TTITLE7=Crescent Night Dreams
+TTITLE8=To the Indian Sea
+TTITLE9=Mystic Dance
+TTITLE10=Midnight Stone
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

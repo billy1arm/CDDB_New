@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22500
+#	41775
+#	65925
+#	89325
+#	111375
+#	138675
+#	158850
+#
+# Disc length: 2369 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e093f08
+DTITLE=Kazco - side [b]
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=Oh Why?
+TTITLE1=Take U Higer
+TTITLE2=I”ll Be Back
+TTITLE3=君のままで
+TTITLE4=Smile&Happiness
+TTITLE5=窓辺から
+TTITLE6=BABE
+TTITLE7=ぼくのうた
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

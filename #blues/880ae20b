@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  192
+#  20547
+#  37202
+#  53940
+#  69995
+#  86170
+#  107400
+#  133770
+#  151867
+#  172710
+#  190697
+#
+# Disc length: 2788 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.12
+#
+DISCID=880ae20b
+DTITLE=Johnny Adams - Johnny Adams Sings Doc Pomus: The Real Me
+DYEAR=1900
+DGENRE=
+TTITLE0=Imitation of Love
+TTITLE1=Still In Love
+TTITLE2=There Is Always One More Time
+TTITLE3=My Baby's Quit Me
+TTITLE4=She's Everything
+TTITLE5=I Underestimated You
+TTITLE6=Blinded By Love
+TTITLE7=Prisoner Of Life
+TTITLE8=The Night Is A Hunter
+TTITLE9=No One
+TTITLE10=The Real Me
+EXTD=
+EXTT0=Adams, Johnny
+EXTT1=Adams, Johnny
+EXTT2=Adams, Johnny
+EXTT3=Adams, Johnny
+EXTT4=Adams, Johnny
+EXTT5=Adams, Johnny
+EXTT6=Adams, Johnny
+EXTT7=Adams, Johnny
+EXTT8=Adams, Johnny
+EXTT9=Adams, Johnny
+EXTT10=Adams, Johnny
+PLAYORDER=

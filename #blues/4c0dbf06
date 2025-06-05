@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	55344
+#	103734
+#	132105
+#	176739
+#	228341
+#
+# Disc length: 3521 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=4c0dbf06
+DTITLE=Blue Note - Blue Note's 20th Anniversary Celebration
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=All Blues - Roland Guerin Sextet
+TTITLE1=Fe-Fi-Fo-Fum - Wil Calhoun Quintet
+TTITLE2=Comes Love - Von Freeman
+TTITLE3=Sky High Strut - David Morgan Trio
+TTITLE4=West End Blues - Irvin Mayfield Sextet
+TTITLE5=El Cura - Paquito D'Rivera Quintet
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

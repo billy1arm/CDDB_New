@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15613
+#	49525
+#	75925
+#	106240
+#	129808
+#	152393
+#	196951
+#	230409
+#	259520
+#
+# Disc length: 3918 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=620f4c0a
+DTITLE=Avaton - Kosmon
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=Genesis
+TTITLE1=Kosmon
+TTITLE2=Gaia
+TTITLE3=Elxis
+TTITLE4=Leda
+TTITLE5=Spondi
+TTITLE6=Geranos
+TTITLE7=Pandora
+TTITLE8=Ydor and Aer
+TTITLE9=Exodus
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14078
+#	43658
+#	62148
+#	86556
+#	109230
+#	132496
+#	156138
+#	176095
+#	190173
+#
+# Disc length: 2809 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8c0af70a
+DTITLE=Eric Mendel - Silent Night
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Let it Snow
+TTITLE1=Jingle Bells
+TTITLE2=The Christmas Song
+TTITLE3=Christmas Morning
+TTITLE4=I'll Be Home for Christmas
+TTITLE5=Peace
+TTITLE6=Sleigh Ride
+TTITLE7=O Holy Night
+TTITLE8=What Child is This
+TTITLE9=Silent Night
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

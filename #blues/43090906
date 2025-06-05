@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34555
+#	62682
+#	90550
+#	125742
+#	152605
+#
+# Disc length: 2315 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=43090906
+DTITLE=John Jenkins - John Jenkins
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=From this Moment On
+TTITLE1=Motif
+TTITLE2=Everything I Have Is Yours
+TTITLE3=Sharon
+TTITLE4=Chalumeau
+TTITLE5=Blues For Two
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

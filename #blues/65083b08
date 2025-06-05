@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21850
+#	50462
+#	64357
+#	78507
+#	97512
+#	114425
+#	141475
+#
+# Disc length: 2109 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=65083b08
+DTITLE=Stephane Grappelli, Barney Kessel - I Remember Django
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=I Remember Django
+TTITLE1=Honeysukle Rose
+TTITLE2=I can't get started
+TTITLE3=What a differednce a day made
+TTITLE4=More than you know
+TTITLE5=Et maintenant
+TTITLE6=I found a new baby
+TTITLE7=It's only a paper moon
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

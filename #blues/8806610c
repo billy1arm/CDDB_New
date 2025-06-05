@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13150
+#	21425
+#	37687
+#	46100
+#	53125
+#	60875
+#	75075
+#	83700
+#	97275
+#	102425
+#	112075
+#
+# Disc length: 1635 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8806610c
+DTITLE=Billie Holiday - Road To Love
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=My Man
+TTITLE1=Them There Eyes
+TTITLE2=I Cover The Waterfront
+TTITLE3=Lover Come Back To Me
+TTITLE4=You're Driving Me Crazy
+TTITLE5=All Of Me
+TTITLE6=I Loves You Porgy
+TTITLE7=Miss Brown To You
+TTITLE8=They Can't Take That Away From Me
+TTITLE9=Storyville
+TTITLE10=Blues Are Bluer
+TTITLE11=Road To Love
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

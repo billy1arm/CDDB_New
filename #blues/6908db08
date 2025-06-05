@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	27153
+#	58085
+#	71008
+#	89018
+#	98898
+#	120158
+#	143035
+#
+# Disc length: 2269 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=6908db08
+DTITLE=Weather Report - Heavy Weather
+DYEAR=1977
+DGENRE=Jazz
+TTITLE0=Birdland
+TTITLE1=Remark You Made
+TTITLE2=Teen Town
+TTITLE3=Harlequin
+TTITLE4=Rumba Mama
+TTITLE5=Palladium
+TTITLE6=Juggler
+TTITLE7=Havona
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,54 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#       150
+#       16232
+#       31362
+#       48270
+#       65350
+#       81607
+#       95437
+#       109872
+#       130632
+#       148385
+#       163562
+#       179900
+#
+# Disc length: 2660 seconds
+#
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=a80a620c
+DTITLE=Billy Bremner/ No ifs, buts, maybes
+DYEAR=2005
+DGENRE=Rock
+TTITLE0=The real problem
+TTITLE1=Get a job
+TTITLE2=Knocked me over with a feather
+TTITLE3=What i sthe reason?
+TTITLE4=No if, but, maybe
+TTITLE5=Where we still call home
+TTITLE6=The biggest fool in town
+TTITLE7=The picture we painted
+TTITLE8=I can't name them all
+TTITLE9=Puttin' it in reverse
+TTITLE10=They don't come much better
+TTITLE11=Only the sound of my heart
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

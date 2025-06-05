@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	17055
+#	27775
+#	57345
+#	72747
+#	88912
+#	105065
+#	128980
+#	146235
+#	166045
+#	181617
+#
+# Disc length: 2699 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=8f0a7f0b,a20a670b
+DTITLE=Rolling Stones - Tattoo You
+DYEAR=1900
+DGENRE=
+TTITLE0=Start Me Up
+TTITLE1=Hang Fire
+TTITLE2=Slave
+TTITLE3=Little T&A
+TTITLE4=Black Limosine
+TTITLE5=Neighbours
+TTITLE6=Worried About You
+TTITLE7=Tops
+TTITLE8=Heaven
+TTITLE9=No Use In Crying
+TTITLE10=Waiting On A Friend
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

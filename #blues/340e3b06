@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47475
+#	84900
+#	124725
+#	172500
+#	225525
+#
+# Disc length: 3645 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=340e3b06
+DTITLE=Rob Blakeslee - Last Minute Gifts
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Moss People
+TTITLE1=Megan's Tugboat
+TTITLE2=Gilmore's Boys
+TTITLE3=It's Later Than You Think
+TTITLE4=Huff Creek Road
+TTITLE5=Advice From A Pufferfish
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

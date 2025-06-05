@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34820
+#	60522
+#	96670
+#	124362
+#	149447
+#	179277
+#	208405
+#	246915
+#
+# Disc length: 3814 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=900ee409
+DTITLE=Various Artist - World Jazz (Jazz and Tzaz 84)
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Rabih Abou Khalil - Catania
+TTITLE1=Okay Temiz - Komsu
+TTITLE2=Abdullah Ibrahim - Black and Brown Cherries
+TTITLE3=Mel Martin - Zanzibar
+TTITLE4=Maria Joao and Grupo Cal Viva - Fado
+TTITLE5=Wayne Krantz - Panel of Excerpts
+TTITLE6=Mike Westbrook Band - Here Comes The Sun
+TTITLE7=Greetje Bijma - Haden
+TTITLE8=Double Trio - Suite Domestique
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

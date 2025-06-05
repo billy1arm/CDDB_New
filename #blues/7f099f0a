@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16800
+#     34135
+#     55265
+#     69755
+#     87880
+#     110490
+#     129205
+#     147485
+#     167985
+# 
+# Disc length: 2465 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7f099f0a
+DTITLE=Vanessa Barum - Vanessa Barum
+DYEAR=1900
+DGENRE=
+TTITLE0=Li  o de Astronomia
+TTITLE1=Lady Jane
+TTITLE2=Bel ssima
+TTITLE3=Resqu cios
+TTITLE4=Desculpe Babe
+TTITLE5=Ci me
+TTITLE6=I Never Dreaned You'd Leave In Summer
+TTITLE7=Bicho do Lar
+TTITLE8=I Pray
+TTITLE9=Mil Perd es
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  14305
+#  35255
+#  49367
+#  99162
+#  126627
+#  154627
+#  177155
+#  202327
+#  215072
+#  239212
+#
+# Disc length: 3818 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=a30ee80b
+DTITLE=Ella Fitzgerald - BLUELLA:ELLA FITZGERALD SINGS THE BLUES
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Smooth Sailing
+TTITLE1=Duke's Place
+TTITLE2=St. Louis Blues
+TTITLE3=C-Jam Blues
+TTITLE4=Fine and Mellow
+TTITLE5=Happy Blues
+TTITLE6=Billie's Bounce
+TTITLE7=I'm Walkin'
+TTITLE8=Fine and Mellow
+TTITLE9=St. Louis Blues
+TTITLE10=Basella
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

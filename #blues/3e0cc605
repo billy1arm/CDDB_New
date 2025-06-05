@@ -1,0 +1,30 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+# 150
+# 39569
+# 98867
+# 154637
+# 222530
+#
+# Disc length: 3272 seconds
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: MusicBin 0.4
+#
+DISCID=3e0cc605
+DTITLE=Miles Davis - At Plugged Nickel, Chicago [CD2]
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0='Round Midnight
+TTITLE1=Stella By Starlight
+TTITLE2=All Blues
+TTITLE3=Yesterdays
+TTITLE4=The Theme
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

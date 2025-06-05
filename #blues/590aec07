@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30000
+#	70950
+#	108075
+#	134400
+#	159675
+#	194633
+#
+# Disc length: 2798 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=590aec07
+DTITLE=Mariano Loiacono and Paula Schocron - Warm Valley
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Bird Songs
+TTITLE1=Elvin (Shocron)
+TTITLE2=The nearness of you
+TTITLE3=Blues for my hero (Loiacono)
+TTITLE4=Warm valley
+TTITLE5=Lover
+TTITLE6=Stablemates
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

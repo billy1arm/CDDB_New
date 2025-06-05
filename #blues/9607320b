@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14160
+#	26470
+#	39287
+#	47702
+#	58110
+#	72320
+#	82902
+#	100832
+#	115497
+#	126580
+#
+# Disc length: 1844 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9607320b
+DTITLE=Simon and Garfunkel - 21 Grandes Sucessos - Disco 1
+DYEAR=1900
+DGENRE=Ballad
+TTITLE0=The Sounds Of Silence
+TTITLE1=Homeward Bound
+TTITLE2=I Am A Rock
+TTITLE3=The 59th Bridge Song (Feelin' Groovy)
+TTITLE4=A Hazy Shade Of Winter
+TTITLE5=Scarborough Fair/Canticle
+TTITLE6=At The Zoo
+TTITLE7=Mrs. Robinson
+TTITLE8=Fakin' It
+TTITLE9=For Emily, Whenever I May Find Her
+TTITLE10=The Dangling Conversation
+EXTD=SIMON and GARFUNKEL
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

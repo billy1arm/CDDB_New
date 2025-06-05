@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25497
+#	62544
+#	102601
+#	123976
+#	147334
+#	181043
+#	212912
+#	240914
+#	274998
+#
+# Disc length: 4211 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9010710a
+DTITLE=Joshua Redman - Beyond
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=1.Courage (Asymmetric Aria)
+TTITLE1=2.Belonging (Lopsised Lullaby)
+TTITLE2=3.Neverend
+TTITLE3=4.Leap Of Faith
+TTITLE4=5.Balance
+TTITLE5=6.Twilight And Beyond
+TTITLE6=7.Stoic Revolutions
+TTITLE7=8.Suspended Emanations
+TTITLE8=9.Last Rites Of Rock'n' Roll
+TTITLE9=10.A Life?
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

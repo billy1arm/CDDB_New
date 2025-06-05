@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12275
+#	25927
+#	39702
+#	50405
+#	65672
+#	87245
+#	99452
+#	111025
+#	126257
+#	135082
+#	144755
+#
+# Disc length: 2085 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9808230c
+DTITLE=Various Artist - Blues Box v5
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=off the wall - james cotton
+TTITLE1=i got the walking blues - louis jordan
+TTITLE2=shake rattle and roll - big joe turner
+TTITLE3=found love  - jimmy reed
+TTITLE4=commit a crime - howlin' wolf
+TTITLE5=women lovin each other - mike bloomfield
+TTITLE6=everybody rockin - john lee hooker
+TTITLE7=look on younder wall - elmore james
+TTITLE8=rock me - muddy waters
+TTITLE9=a new way of driving - b b king
+TTITLE10=you know it ain't right - james cotton
+TTITLE11=hush hush - jimmy reed
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25960
+#	42115
+#	63297
+#	95815
+#	119225
+#	149557
+#	172102
+#	193767
+#	219715
+#
+# Disc length: 3229 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=a20c9b0a
+DTITLE=Kenny Drew Trio - standard jazz piano
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=My Funny Valentine
+TTITLE1=Alice In Wonderland
+TTITLE2=A Foggy Day
+TTITLE3=Golden Earrings
+TTITLE4=In Yor Own Sweet Way
+TTITLE5=Autumn Leaves
+TTITLE6=No Greater Love
+TTITLE7=Nature Boy
+TTITLE8=Angel Eyes
+TTITLE9=Spring Is Here
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20195
+#	47275
+#	71888
+#	101550
+#	133740
+#	155010
+#	170663
+#	187063
+#	204898
+#	235403
+#
+# Disc length: 3373 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=9f0d2b0b
+DTITLE=Keith Harden Band - Cousins Of The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Cousins Of The Blues
+TTITLE1=What You Think
+TTITLE2=Grace Under Perssure
+TTITLE3=Million Miles Away
+TTITLE4=Rainbows
+TTITLE5=Like A Millionair
+TTITLE6=Blue Rose Blues
+TTITLE7=Phone Bill Bluse
+TTITLE8=My Old Friend
+TTITLE9=Black and Blue
+TTITLE10=Trains Through My Backyard
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

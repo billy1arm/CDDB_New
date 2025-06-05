@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38685
+#	64077
+#	87580
+#	104437
+#	137067
+#	145952
+#	188602
+#
+# Disc length: 3200 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e0c7e08
+DTITLE=Christophe Dal Sasso - Ouverture
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Bell
+TTITLE1=Tristesse
+TTITLE2=Ouverture-Part1
+TTITLE3=Ouverture-Part2
+TTITLE4=Ouverture-Part3
+TTITLE5=Ouverture-Part4
+TTITLE6=Vista
+TTITLE7=Body and Soul
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

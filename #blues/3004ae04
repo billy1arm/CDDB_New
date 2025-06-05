@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17912
+#	48300
+#	71665
+#
+# Disc length: 1200 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=3004ae04
+DTITLE=INXS - Suicide Blonde Uk Single
+DYEAR=1990
+DGENRE=Pop
+TTITLE0=Suicide Blonde (7" Version)
+TTITLE1=Suicide Blonde (Demolition Mix)
+TTITLE2=Everybody Wants U Tonight
+TTITLE3=Suicide Blonde (7" Nik Mix)
+EXTD=YEAR: 1990 ID3G: 13
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

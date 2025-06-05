@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	170
+#	22402
+#	43175
+#	61230
+#	78600
+#	103225
+#	132780
+#	154217
+#	176257
+#	187940
+#
+# Disc length: 2682 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=850a780a
+DTITLE=George Gershwin - Porgy and Bess
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Summertime
+TTITLE1=I Wants to Stay Here
+TTITLE2=My Man's gone Now
+TTITLE3=I Got Plenty O' Nuting
+TTITLE4=Bess, You is my Woman
+TTITLE5=It Ain't Necessarily So
+TTITLE6=A Woman is A Something Thing
+TTITLE7=Thete's a Boat Deat's Leavin' Soon For New York
+TTITLE8=Oh Bess. Oh Where is My Bess?
+TTITLE9=Ow Lawd, I'm on my Way
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

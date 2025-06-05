@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21110
+#	38201
+#	57111
+#	70420
+#	92178
+#	111630
+#	124355
+#
+# Disc length: 1917 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=74077b08
+DTITLE=Lenny Breau - The Legendary Lenny Breau ... Now!
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=01 - I Can't Help It
+TTITLE1=02 - Always
+TTITLE2=03 - Our Delight
+TTITLE3=04 - Freight Train
+TTITLE4=05 - Ebony Queen
+TTITLE5=06 - I Love You
+TTITLE6=07 - It Could Happen To You
+TTITLE7=08 - Visions
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

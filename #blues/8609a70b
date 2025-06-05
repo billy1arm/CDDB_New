@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	155
+#	18422
+#	33005
+#	48840
+#	70990
+#	84747
+#	101332
+#	117145
+#	131605
+#	145512
+#	163157
+#
+# Disc length: 2473 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta0
+#
+DISCID=8609a70b
+DTITLE=D. K. Stewart - No Excuse for the Blues
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Junco Partner
+TTITLE1=When I Get Lucky
+TTITLE2=No Excuse For The Blues
+TTITLE3=All Night Long
+TTITLE4=Sky Blues
+TTITLE5=Tell It
+TTITLE6=Just Your Fool
+TTITLE7=Sweet Sunshine
+TTITLE8=It's Not Rainin'
+TTITLE9=I'm Just Worried
+TTITLE10=Early One Mornin/
+EXTD=YEAR: 1993 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

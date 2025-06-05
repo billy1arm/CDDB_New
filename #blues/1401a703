@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10403
+#	23465
+#
+# Disc length: 425 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1401a703
+DTITLE=Green Day - Stuck With Me (Single CD)
+DYEAR=1995
+DGENRE=Punk Rock
+TTITLE0=Stuck With Me (Album Version)
+TTITLE1=When I Come Around (Live from Stocholm, Sweden)
+TTITLE2=Jaded (Live from Stocholm, Sweden)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

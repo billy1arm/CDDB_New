@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12800
+#	31685
+#	56045
+#	68248
+#	82519
+#	98798
+#	120057
+#	131614
+#
+# Disc length: 1896 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5c076609
+DTITLE=Various Artist - After 5
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Almost Like Being in Love - Vic Damone
+TTITLE1=Fly Me To The Moon - Tony Bennett
+TTITLE2=Misty - Stan Getz
+TTITLE3=Strangers In The Night - Mel Torme
+TTITLE4=Volare (Nel Blu Dipinto Di Blu) - Jerry Vale
+TTITLE5=The Lady Is A Tramp - Buddy Greco
+TTITLE6=Nothing Will Be As It Was - Sarah Vaughan
+TTITLE7=Music To Watch Girls By - Andy Williams
+TTITLE8=Theme From "A Summer Place" - Percy Faith
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

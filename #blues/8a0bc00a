@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19876
+#	46764
+#	58081
+#	71030
+#	114573
+#	136209
+#	158168
+#	184729
+#	200405
+#
+# Disc length: 3010 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta7
+#
+DISCID=8a0bc00a
+DTITLE=Gary moore - A Different beat
+DYEAR=1900
+DGENRE=
+TTITLE0=Go on home
+TTITLE1=Lost in your love
+TTITLE2=Worry no more
+TTITLE3=Fire
+TTITLE4=Surrender
+TTITLE5=House of blues
+TTITLE6=Bring my baby back
+TTITLE7=Can't help myself
+TTITLE8=Fatboy
+TTITLE9=We want love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

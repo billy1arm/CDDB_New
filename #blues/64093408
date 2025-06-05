@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21015
+#	42987
+#	61235
+#	86050
+#	112495
+#	137292
+#	152010
+#
+# Disc length: 2358 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta3
+#
+DISCID=64093408
+DTITLE=Paquito Guzman - Las Mejores Baladas En Salsa
+DYEAR=1999
+DGENRE=Salsa
+TTITLE0=25 Rosas
+TTITLE1=Esa Mujer
+TTITLE2=De Punta A Punta
+TTITLE3=Ser Amantes
+TTITLE4=Se Nos Rompio El Amor
+TTITLE5=Yo Te Pido Amor
+TTITLE6=Ven O Voy
+TTITLE7=Que Voy Haver Sin Ti
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	900
+#	1650
+#	2400
+#	3150
+#	3900
+#	4650
+#	5400
+#	6150
+#	6900
+#	7650
+#	206570
+#
+# Disc length: 4440 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=5611560c
+DTITLE=Whitney Houston - Just Whitney
+DYEAR=2002
+DGENRE=Pop
+TTITLE0=Whatchulookinat
+TTITLE1=Tell me no
+TTITLE2=One of Those Days
+TTITLE3=Things You Say
+TTITLE4=My Love
+TTITLE5=Love That Man
+TTITLE6=On My Own
+TTITLE7=Dear John Letter
+TTITLE8=Unashamed
+TTITLE9=You Light Up My Life
+TTITLE10=Whatchulookinat
+TTITLE11=Bonus
+EXTD=ID3G: 13
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

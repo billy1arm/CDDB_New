@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	40547
+#	86805
+#	119890
+#	124110
+#	164370
+#	204487
+#	233135
+#
+# Disc length: 3397 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a0d4308
+DTITLE=Coleman Hawkins - LIVE FROM THE LONDON HOUSE CHICAGO, III
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=The Way You Look Tonight
+TTITLE1=I Can't Get Started
+TTITLE2=Moonglow
+TTITLE3=How High The Moon
+TTITLE4=Blue Room
+TTITLE5=All The Things You Are
+TTITLE6=It's The Talk of The Town
+TTITLE7=Honeysuckle Rose
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

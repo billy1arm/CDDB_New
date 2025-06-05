@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21605
+#	48712
+#	74685
+#	95612
+#
+# Disc length: 1571 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=4c062105
+DTITLE=Bob James - The Cool Jazz Collection 43
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Bare Bones
+TTITLE1=Lotus Leaves
+TTITLE2=Restoration
+TTITLE3=Joy Ride
+TTITLE4=Dancing on the Water
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50327
+#	75419
+#	119458
+#	140954
+#	190978
+#	213548
+#
+# Disc length: 3342 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=660d0c07
+DTITLE=Pascal Dusapin - 7 études pour piano  1997~2001  { Ian Pace, piano }
+DYEAR=2004
+DGENRE=Piano
+TTITLE0=Étude  N° 1 ~ dédiée à  '' I dedicated to  Alain Planès ''
+TTITLE1=Étude  N° 2 ~ dédiée à  '' I dedicated to  Mikhaïl Rudy ''
+TTITLE2=Étude  N° 3 ~ dédiée à  '' I dedicated to  Vanessa Wagner ''
+TTITLE3=Étude  N° 4 ~ dédiée à  '' I dedicated to  Ian Pace ''
+TTITLE4=Étude  N° 5 ~ dédiée à  '' I dedicated to  Ian Pace ''
+TTITLE5=Étude  N° 6 ~ dédiée à  '' I dedicated to  Alain Planès ''
+TTITLE6=Étude  N° 7 ~ dédiée à  '' I dedicated to  Vanessa Wagner ''
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

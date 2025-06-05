@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43830
+#	98798
+#	144530
+#	196160
+#
+# Disc length: 3272 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=400cc605
+DTITLE=Andy Emler - Pause
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Crazy orgue café
+TTITLE1=Pulsations nocturnes
+TTITLE2=Dehors dans les nuages
+TTITLE3=Ti pièce en or
+TTITLE4=Triorgue
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

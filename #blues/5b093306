@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	21655
+#	46288
+#	65898
+#	87715
+#	144425
+#
+# Disc length: 2357 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5b093306
+DTITLE=Jean-Pierre Herzog, Baehr, Miotti, Jo Koinzer - Bon Prétexte
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Lettre Anonyme
+TTITLE1=Las Vegas
+TTITLE2=Boo-Boo Fun
+TTITLE3=Bon Prétexte
+TTITLE4=Suite pour un Ascenseur
+TTITLE5=In a Sentimental Mood
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

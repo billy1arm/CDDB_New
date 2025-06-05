@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39125
+#	52700
+#	82775
+#	90800
+#	122750
+#	132200
+#	157175
+#
+# Disc length: 2430 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4c097c08
+DTITLE=Egberto Gismonti - Trem Caipira
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=O Trenzinho do Caipira
+TTITLE1=Dansa
+TTITLE2=Bachiana No. 5
+TTITLE3=Desejo
+TTITLE4=Cantiga
+TTITLE5=Canção do Carreiro
+TTITLE6=Prelúdio
+TTITLE7=Pobre Cega
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

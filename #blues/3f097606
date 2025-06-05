@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17733
+#	34682
+#	67622
+#	102125
+#	137699
+#
+# Disc length: 2424 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=3f097606
+DTITLE=Boris Dlugosch feat. Roisin Murphy - Never Enough
+DYEAR=2001
+DGENRE=House
+TTITLE0=Never Enough (Original Radio Edit)
+TTITLE1=Never Enough (Chocolate Puma Radio)
+TTITLE2=Never Enough (Original Club Mix)
+TTITLE3=Never Enough (Chocolate Puma Remix)
+TTITLE4=Never Enough (Bini and Martini Club Mix)
+TTITLE5=Never Enough (Fusion Groove Orchestar Vocal Mix)
+EXTD=ID3G:  35 YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20240
+#	51593
+#	83358
+#	106812
+#	121614
+#	164656
+#	196078
+#
+# Disc length: 2819 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f0b0108
+DTITLE=Van Morrison - Astral Weeks
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=Astral Weeks
+TTITLE1=Beside You
+TTITLE2=Sweet Thing
+TTITLE3=Cyprus Avenue
+TTITLE4=Young Lovers Do
+TTITLE5=Madame George
+TTITLE6=Ballerina
+TTITLE7=Slim Slow Rider
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

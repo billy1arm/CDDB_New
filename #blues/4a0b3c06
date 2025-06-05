@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26462
+#	85210
+#	108990
+#	134887
+#	167730
+#
+# Disc length: 2878 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4a0b3c06
+DTITLE=Miles Davis - Milestones...
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Dr. Jekyll
+TTITLE1=Sid's Ahead
+TTITLE2=Two Bass Hit
+TTITLE3=Miles
+TTITLE4=Billy Boy
+TTITLE5=Straight, No Chaser
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

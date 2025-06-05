@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18970
+#	49197
+#	78888
+#	99809
+#	128218
+#	158446
+#
+# Disc length: 2536 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4009e607
+DTITLE=Frank Sackenheim - Lamentation
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Meditation/Halleluja (Gregorian)
+TTITLE1=Herz Liebster Jesu (Johann Krüger)
+TTITLE2=Licht das uns erschien (Heinrich Rohr)
+TTITLE3=Promenade (Lars Duppler)
+TTITLE4=Oh Haupt voll Blut und Wunden (Hans Leo Hassler)
+TTITLE5=Grosser Gott wir loben Dich (Heinrich Bone)
+TTITLE6=Gottes Lamm Herr Jesu Christ (Erhard Quack)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

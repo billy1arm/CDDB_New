@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18520
+#	41605
+#	63965
+#	85905
+#	112030
+#	134852
+#	183120
+#	214677
+#
+# Disc length: 3251 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7d0cb109
+DTITLE=Emmanuel Chabrier - Oeuvres pour orchestre  (Armin Jordan, Orchestre National de France)
+DYEAR=1982
+DGENRE=Classique
+TTITLE0=Joyeuse Marche
+TTITLE1=Danse slave  (Le Roi malgré lui)
+TTITLE2=Suite pastorale - I. Idylle
+TTITLE3=Suite pastorale - II. Danse villageoise
+TTITLE4=Suite pastorale - III. Sous-bois
+TTITLE5=Suite pastorale - IV. Scherzo-Valse
+TTITLE6=Ouverture de Gwendoline
+TTITLE7=Bourrée fantasque  (arr. Felix Motti)
+TTITLE8=España - Rhapsodie pour orchestre
+EXTD=Bourree Fantasque\nJoyeuse Marche\nSuite Pastorale YEAR: 1982
+EXTT0=
+EXTT1="Le roi malgre lui"
+EXTT2=Suite Pastorale
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=Gwendoline\nOpera en deux actes
+EXTT7=Transcription pour orchestre par Felix Mottl
+EXTT8=Rapsodie pour orchestre
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24035
+#	45250
+#	113687
+#	198190
+#	269290
+#	300365
+#	334982
+#
+# Disc length: 4577 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5711df08
+DTITLE=世界宗教音楽ライブラリー - モロッコのグナワ
+DYEAR=1990
+DGENRE=World
+TTITLE0=アーダ(習慣)
+TTITLE1=祈りのことば
+TTITLE2=ささげもの
+TTITLE3=クゥユゥ(回想)
+TTITLE4=ムルゥク(トランス・ダンス)
+TTITLE5=ムルゥク(トランス・ダンス)
+TTITLE6=ムルゥク(トランス・ダンス)
+TTITLE7=ファイナル
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

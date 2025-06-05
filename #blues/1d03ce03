@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23626
+#	47964
+#
+# Disc length: 976 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1d03ce03
+DTITLE=Verschiedene - Cafe del Mar - Sun Delight
+DYEAR=2006
+DGENRE=Alternative
+TTITLE0=In my heart - Rue du Soleil
+TTITLE1=The call - DAB
+TTITLE2=Bailando va - La Caina
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

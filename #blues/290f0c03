@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	101234
+#	199466
+#
+# Disc length: 3854 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 5
+#
+DISCID=290f0c03
+DTITLE=The Hourse And His Boy - C.S.Lewis
+DYEAR=1900
+DGENRE=
+TTITLE0=ch1_Horse and his boy
+TTITLE1=ch2_A Wayside Adventure
+TTITLE2=ch3_At The Gates Of Tashbaan
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

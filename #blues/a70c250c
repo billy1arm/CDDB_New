@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  18675
+#  41875
+#  53025
+#  73450
+#  90775
+#  113125
+#  137200
+#  153100
+#  166625
+#  195600
+#  216550
+#
+# Disc length: 3111 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=a70c250c
+DTITLE=Henry Qualls - Blues From Elmo, Texas
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Bread And Butter
+TTITLE1=Shotgun Blues
+TTITLE2=Motherless Children
+TTITLE3=Ticket Agent
+TTITLE4=The Elmo Stomp
+TTITLE5=Can't Stand To See You Go
+TTITLE6=Rockin' And Rollin'
+TTITLE7=Death Is Movin' Across The Land
+TTITLE8=Long Gone
+TTITLE9=Reconsider Baby
+TTITLE10=Death Valley Blues
+TTITLE11=I Shall Not Be Moved
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

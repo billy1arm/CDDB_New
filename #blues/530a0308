@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15047
+#	48852
+#	75245
+#	103850
+#	127438
+#	153401
+#	175660
+#
+# Disc length: 2565 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=530a0308
+DTITLE=Mike Metheny - Day In - Night Out
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Like The Ocean
+TTITLE1=Day In - Night Out
+TTITLE2=Vanity
+TTITLE3=Segment
+TTITLE4=Saudade
+TTITLE5=Olvidar
+TTITLE6=Lakeview Ballad
+TTITLE7=Epilogue
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

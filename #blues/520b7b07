@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32785
+#	58923
+#	99304
+#	122543
+#	166022
+#	196898
+#
+# Disc length: 2941 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=520b7b07
+DTITLE=Manhattan Jazz Quintet - La fiesta
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=La Fiesta
+TTITLE1=Birdland
+TTITLE2=A Whiter Shade Of Pale
+TTITLE3=Grand Central Parkway
+TTITLE4=Dolphin Dance
+TTITLE5=Spain
+TTITLE6=Foggy Night
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

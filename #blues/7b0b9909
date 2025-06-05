@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21500
+#	41255
+#	79167
+#	102120
+#	132452
+#	149480
+#	166752
+#	194070
+#
+# Disc length: 2971 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7b0b9909
+DTITLE=Donat Fisch Quartet - Intervals and Melodies
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Circle and line
+TTITLE1=Instantanious
+TTITLE2=Orbit
+TTITLE3=La Fanfare
+TTITLE4=Intervals and Melodies
+TTITLE5=Calypso
+TTITLE6=Abstraction
+TTITLE7=Love Child
+TTITLE8=Angel City
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15011
+#	39688
+#	54128
+#	70780
+#	90374
+#	104002
+#	135444
+#	149289
+#
+# Disc length: 2331 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=68091909
+DTITLE=Various Artist - Listen, Laugh, Love
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Fallin' In Love
+TTITLE1=Now or Never
+TTITLE2=Good Things take Time
+TTITLE3=Brothers are on the Loose
+TTITLE4=After All
+TTITLE5=Mystic
+TTITLE6=Yikes
+TTITLE7=Hey Razz
+TTITLE8=Malarky
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

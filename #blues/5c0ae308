@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31605
+#	54414
+#	94915
+#	125277
+#	143730
+#	166936
+#	196770
+#
+# Disc length: 2789 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5c0ae308
+DTITLE=Federico Bertelli Quartet - Wheel's Steps
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Sus Ann Steps
+TTITLE1=Daahoud
+TTITLE2=Delirio
+TTITLE3=Paros Blues
+TTITLE4=Celia
+TTITLE5=Manguera
+TTITLE6=Estate
+TTITLE7=Giant Steps
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

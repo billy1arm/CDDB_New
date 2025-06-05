@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13975
+#	32992
+#	50275
+#	66277
+#	77607
+#	91687
+#	106485
+#	128420
+#
+# Disc length: 2027 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1
+#
+DISCID=6a07e909
+DTITLE=Pata Negra - Blues de la frontera
+DYEAR=1900
+DGENRE=
+TTITLE0=Bodas de sangre
+TTITLE1=Blues de la frontera
+TTITLE2=Pasa la vida
+TTITLE3=Yo me quedo en Sevilla
+TTITLE4=How high the moon
+TTITLE5=Camaron
+TTITLE6=Calle Betis
+TTITLE7=Lindo gatito
+TTITLE8=Lunatico
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

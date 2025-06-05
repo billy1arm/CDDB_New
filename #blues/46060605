@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24604
+#	51156
+#	66469
+#	94491
+#
+# Disc length: 1544 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=46060605
+DTITLE=Stan Getz - COOL JAZZ COLLECTION 8
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=The Girl From Ipanema
+TTITLE1=Desafinado
+TTITLE2=How Insensitive
+TTITLE3=One Note Samba
+TTITLE4=O Grande Amor
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

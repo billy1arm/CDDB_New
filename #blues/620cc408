@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29847
+#	48218
+#	88589
+#	101262
+#	135750
+#	172016
+#	216113
+#
+# Disc length: 3270 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=620cc408
+DTITLE=Roberto Occhipinti - Trinacria
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=El negro
+TTITLE1=One finger snap
+TTITLE2=Maiden voyage
+TTITLE3=El negro part 2
+TTITLE4=Well you needn't
+TTITLE5=Trinacria
+TTITLE6=Waiting for the float
+TTITLE7=Nueva generacion
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

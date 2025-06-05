@@ -1,0 +1,30 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	44900
+#	60858
+#	82193
+#	106130
+# Disc length: 2009 seconds
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+#
+# Submitted via: libkcddb 0.31
+#
+DISCID=3c07d705
+DTITLE=Keith Jarrett - The Carnegie Hall Concert
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=PART I
+TTITLE1=PART II
+TTITLE2=PART III
+TTITLE3=PART IV
+TTITLE4=PART V
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

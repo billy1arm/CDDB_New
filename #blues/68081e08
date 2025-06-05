@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21327
+#	39720
+#	61490
+#	80357
+#	95087
+#	110437
+#	132820
+#
+# Disc length: 2080 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=68081e08
+DTITLE=Barny Kessel - Swinging Easy !
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=On A Clear Day, You Can See Foreever
+TTITLE1=The Look Of Love
+TTITLE2=Autumn Leaves
+TTITLE3=You're The One For Me
+TTITLE4=I Will Wait For You
+TTITLE5=Corcovado (Quiet Nights)
+TTITLE6=Aquarius
+TTITLE7=Watch The Birds Go By
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

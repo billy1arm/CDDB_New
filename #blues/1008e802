@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	81400
+#
+# Disc length: 2282 seconds
+#
+# Revision: 24
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1008e802
+DTITLE=Miles Davis - In A Silent Way
+DYEAR=1969
+DGENRE=Jazz
+TTITLE0=Shhh - Peaceful
+TTITLE1=In A Silent Way - It's About That Time
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+PLAYORDER=

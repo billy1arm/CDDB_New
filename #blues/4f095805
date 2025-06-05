@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	44837
+#	74510
+#	89048
+#	136990
+#
+# Disc length: 2395 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=4f095805
+DTITLE=Silent Way - This Time
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Distance
+TTITLE1=This time
+TTITLE2=Apology
+TTITLE3=Deliverance
+TTITLE4=Trilogy
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

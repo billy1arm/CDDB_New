@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	103880
+#	194854
+#	232351
+#	280954
+#	293018
+#	311317
+#
+# Disc length: 4384 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f111e07
+DTITLE=Various Artist - Bravo Hit Mix No. 3
+DYEAR=2005
+DGENRE=Mix
+TTITLE0=Bravo Hit Mix Part 1
+TTITLE1=Bravo Summer Slow
+TTITLE2=Tiggy - Ring a Ling
+TTITLE3=Bravo Hit Mix Part 2
+TTITLE4=Sqeezer - Saturday Night
+TTITLE5=DJ Dobo - It´s my Life
+TTITLE6=Nana - Lonley
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

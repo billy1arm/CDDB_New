@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24426
+#	47021
+#	73221
+#	87651
+#	111534
+#	138027
+#	151270
+#
+# Disc length: 2258 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=6a08d008
+DTITLE=Richard Galliano - Blue rondo a la Turk
+DYEAR=1982
+DGENRE=Jazz
+TTITLE0=Musique
+TTITLE1=Blue Rondo à la Turk
+TTITLE2=Sing me softly of the blues
+TTITLE3=Spain
+TTITLE4=Violette
+TTITLE5=Point d'interrogation
+TTITLE6=Funky accordéon
+TTITLE7=Blues ah bill
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

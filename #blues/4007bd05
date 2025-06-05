@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29850
+#	59250
+#	88125
+#	113625
+#
+# Disc length: 1983 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4007bd05
+DTITLE=The Latin Bop Quartet - Live at Jazzkeller Frankfurt
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Bolivia
+TTITLE1=Beatrice
+TTITLE2=Tête á tête
+TTITLE3=Theme for Ernie
+TTITLE4=Y todavia la quiero
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

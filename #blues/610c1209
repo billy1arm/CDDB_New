@@ -1,0 +1,44 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12043
+#	37936
+#	79694
+#	87419
+#	113062
+#	135078
+#	167887
+#	199187
+#
+# Disc length: 3092 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=610c1209
+DTITLE=Michael Haydn - Missa sancti Aloysii - Offertorium  (Miklòs Szabò, Györ Philharmonic Orchestra)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Missa sancti Aloysii - I. Kyrie
+TTITLE1=Missa sancti Aloysii - II. Gloria
+TTITLE2=Missa sancti Aloysii - III. Credo
+TTITLE3=Missa sancti Aloysii - IV. Sanctus
+TTITLE4=Missa sancti Aloysii - V. Benedictus
+TTITLE5=Missa sancti Aloysii - VI. Agnus Dei
+TTITLE6=Offertorium - I. Offertorium pro festo SS. innocentium (Anima nostra)
+TTITLE7=Offertorium - II. Sequentia ad festum S.P. augustini (De profundis tenebrarum)
+TTITLE8=Offertorium - III. Offertorium pro festo cuiuscunque s'tae virginis et martyris
+EXTD=Hungarotron\nÉva Marton, Katalin Szokefalvy-Nagy - sopranos (1-7, 9) \nZsuzsa Németh - contralto (1-7]\nGyor Girls' Choir\nGyor Philharmonic Orchestra Imre Sulyok (1-8]\nJános Sebestyén (9]\norgans Conducted by Miklós Szabó\nSung in Latin\nRecording
+EXTD=producer: László Beck Sound engineer
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

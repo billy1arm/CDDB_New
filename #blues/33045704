@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21697
+#     40555
+#     58310
+# 
+# Disc length: 1113 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=33045704
+DTITLE=Bonnie Raitt - Limited Edition Bonus CD
+DYEAR=1900
+DGENRE=
+TTITLE0=Thing Called Love (with Bruce Horsnby)
+TTITLE1=Love Letter
+TTITLE2=Love Sneakin' Up On You
+TTITLE3=I Can't Make You Love Me (with Bruce Hornsby)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

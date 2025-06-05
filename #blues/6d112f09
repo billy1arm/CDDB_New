@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50125
+#	64817
+#	97617
+#	122745
+#	150060
+#	234575
+#	256110
+#	295260
+#
+# Disc length: 4401 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d112f09
+DTITLE=John Coltrane - The Jazz Legend
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=01-Tenor Conclave
+TTITLE1=02-Why Was I Born
+TTITLE2=03-Rise 'N' Shine
+TTITLE3=04-Russian Rullaby
+TTITLE4=05-Trane's Slo Blues
+TTITLE5=06-Traneing In
+TTITLE6=07-Goldsboro Express
+TTITLE7=08-Bakai
+TTITLE8=09-Afro Blue
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

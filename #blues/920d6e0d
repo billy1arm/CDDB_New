@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8360
+#	16942
+#	21763
+#	36154
+#	40781
+#	69085
+#	173308
+#	197056
+#	212158
+#	221753
+#	232749
+#	247937
+#
+# Disc length: 3440 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=920d6e0d
+DTITLE=Alliage Quintett - Voyage Russe
+DYEAR=2011
+DGENRE=Saxophone Quartet
+TTITLE0=Der Nussknacker op.71 (Peter Tchaikovsky) - I. Marsch
+TTITLE1=Der Nussknacker op.71 (Peter Tchaikovsky) - II. Tanz der Zuckerfee
+TTITLE2=Der Nussknacker op.71 (Peter Tchaikovsky) - III. Tee (chinesicher Tanz)
+TTITLE3=Der Nussknacker op.71 (Peter Tchaikovsky) - IV. Kaffee (arabischer Tanz)
+TTITLE4=Der Nussknacker op.71 (Peter Tchaikovsky) - V. Trepak (russicher Tanz)
+TTITLE5=Der Nussknacker op.71 (Peter Tchaikovsky) - VI. Blumenwalzer
+TTITLE6=Sheherazade (Nikolai Rimsky-Korsakov)
+TTITLE7=Ouvertüre zu 'Ruslan und Lyudmila' (Mikhail Glinka)
+TTITLE8=Walzer aus der 'Jazz Suite Nr. 2' (Domitri Schostakovich)
+TTITLE9='Säbeltanz' aus 'Gajaneh' (Aham Khatchaturian)
+TTITLE10=Der rote Mohn (Reinhold M.Glière) - I. Tanz der chinesischen Frauen
+TTITLE11=Der rote Mohn (Reinhold M.Glière) - II.  Tanz der russischen Matrosen
+TTITLE12=Russisches Volkslied 'Wiegenlied' (Anatoly Lyadov)
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

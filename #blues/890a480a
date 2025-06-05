@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18635
+#     36877
+#     56090
+#     73635
+#     93472
+#     114260
+#     134892
+#     152475
+#     171860
+# 
+# Disc length: 2634 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=890a480a
+DTITLE=Billy and Sarah Gaines - Come On Back
+DYEAR=1900
+DGENRE=
+TTITLE0=All Comes Down
+TTITLE1=Freedom
+TTITLE2=Come On Back
+TTITLE3=A Promise That I Will Keep
+TTITLE4=So Good
+TTITLE5=Just Like Me
+TTITLE6=Other Side Of This Trial
+TTITLE7=Gotta Love Somebody
+TTITLE8=Forever
+TTITLE9=You Will Always Be There
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20787
+#     44047
+#     63345
+# 
+# Disc length: 1059 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=36042104
+DTITLE=Mariah Carey - Butterfly
+DYEAR=1900
+DGENRE=
+TTITLE0=Butterfly
+TTITLE1=One Sweet Day
+TTITLE2=Hero
+TTITLE3=Without You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

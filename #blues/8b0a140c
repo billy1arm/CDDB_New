@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  17445
+#  30875
+#  46130
+#  59492
+#  76627
+#  100527
+#  112960
+#  132737
+#  145427
+#  158955
+#  181067
+#
+# Disc length: 2582 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=8b0a140c
+DTITLE=Joe Simon - Joe Simon Golden Classics of the &0's
+DYEAR=1900
+DGENRE=
+TTITLE0=Get Down, Get Down
+TTITLE1=Your Time to Cry
+TTITLE2=Drowning In The Sea Of Love
+TTITLE3=Power of Love
+TTITLE4=Theme From Cleopatra Jones
+TTITLE5=Music In My Bones
+TTITLE6=Help Me Make It Through The Night
+TTITLE7=To Lay Down Beside You
+TTITLE8=All My Hard Times
+TTITLE9=Georgia Blues
+TTITLE10=Pool Of Bad Luck
+TTITLE11=I Found My Dad
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

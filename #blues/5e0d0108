@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	17412
+#	32499
+#	91117
+#	111210
+#	138874
+#	176907
+#	230954
+#
+# Disc length: 3331 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5e0d0108
+DTITLE=Juan-Antonio Ruiz - Pasajes
+DYEAR=1995
+DGENRE=New Age
+TTITLE0=Apertura
+TTITLE1=Claridad Lejana
+TTITLE2=Pasajes 1
+TTITLE3=Exodo
+TTITLE4=Inspiración
+TTITLE5=Recuerdos de un viejero
+TTITLE6=Pasajes 2
+TTITLE7=Los vientos del norte
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

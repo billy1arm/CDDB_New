@@ -1,0 +1,77 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	14400
+# 	25157
+# 	38440
+# 	51215
+# 	62180
+# 	75567
+# 	89325
+# 	101505
+# 	117790
+# 	132525
+# 	143865
+# 	153230
+# 	162387
+# 	172810
+# 	182522
+# 	194280
+# 	208112
+# 	222110
+# 	234985
+#
+# Disc length: 3262 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=060cbc14
+DTITLE=Various Artist - Chicago Piano
+DYEAR=1900
+DGENRE=
+TTITLE0=Hiway 61
+TTITLE1=It's You Baby
+TTITLE2=Over Night
+TTITLE3=That Woman
+TTITLE4='Fore Day Bounce
+TTITLE5=Big World
+TTITLE6=Mary Lee
+TTITLE7=Five Long Years
+TTITLE8=Hard Headed Woman
+TTITLE9=It's Miserable To Be Alone
+TTITLE10=Row Your Boat
+TTITLE11=I Wonder What's The Matter
+TTITLE12=I Can't Live Without You
+TTITLE13=Best Gal I Ever Had
+TTITLE14=So Tired
+TTITLE15=Need My Baby
+TTITLE16=Keep Drinkin'
+TTITLE17=Boogie
+TTITLE18=Please Somebody
+TTITLE19=Short Dresses
+EXTD=
+EXTT0=Sunnyland Slim
+EXTT1=Sunnyland Slim
+EXTT2=Sunnyland Slim
+EXTT3=Sunnyland Slim
+EXTT4=Sunnyland Slim
+EXTT5=Floyd Jones
+EXTT6=Sunnyland Slim
+EXTT7=Eddie Boyd
+EXTT8=Eddie Boyd
+EXTT9=Eddie Boyd
+EXTT10=Charles Clark
+EXTT11=Memphis Slim
+EXTT12=Memphis Slim
+EXTT13=Memphis Slim
+EXTT14=Memphis Slim
+EXTT15=Shakey Horton
+EXTT16=Little Brother Montgomery
+EXTT17=Little Brother Montgomery
+EXTT18=Moody Jones
+EXTT19=J.T.  Brown
+PLAYORDER=

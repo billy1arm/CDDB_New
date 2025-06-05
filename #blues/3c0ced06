@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42173
+#	62790
+#	121866
+#	157687
+#	195091
+#
+# Disc length: 3311 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3c0ced06
+DTITLE=Mick Taylor - New Morning 96
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=Don't burn down the bridge
+TTITLE1=Loving man
+TTITLE2=You gotta move
+TTITLE3=I wonder why
+TTITLE4=Boogie man
+TTITLE5=You shook me
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

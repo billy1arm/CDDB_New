@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24355
+#	44837
+#	69010
+#
+# Disc length: 1190 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=2b04a404
+DTITLE=ASTERISK - Boys and Girls
+DYEAR=1998
+DGENRE=Vocal
+TTITLE0=Boys and Girls
+TTITLE1=GATHER, TOGETHER
+TTITLE2=Boys and Girls (Original Karaoke)
+TTITLE3=GATHER, TOGETHER (Original Karaoke)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

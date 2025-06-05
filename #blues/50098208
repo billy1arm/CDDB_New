@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38763
+#	62463
+#	80384
+#	92383
+#	115724
+#	143984
+#	158365
+#
+# Disc length: 2436 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=50098208
+DTITLE=John Abercrombie and Ralph Towner - Sargasso Sea
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Fable
+TTITLE1=Avenue
+TTITLE2=Sargasso Sea
+TTITLE3=Over And Gone
+TTITLE4=Elbow Room
+TTITLE5=Stair Case
+TTITLE6=Romantic Descension
+TTITLE7=Parasol
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20192
+#	35370
+#
+# Disc length: 724 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=1f02d203
+DTITLE='N Sync - This I Promise You
+DYEAR=2000
+DGENRE=Pop
+TTITLE0=This I Promise You
+TTITLE1=I Thought She New
+TTITLE2=It's Gonna Be Me
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

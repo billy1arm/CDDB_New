@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40031
+#	72431
+#	103400
+#	139283
+#	174611
+#	227121
+#	255203
+#
+# Disc length: 3759 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e0ead08
+DTITLE=Joe Haider Trio - A Magyar (Die Ungarische)
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=A Magyar (Die Ungarische)
+TTITLE1=A Moment in Montreux
+TTITLE2=Tante Nelly
+TTITLE3=Bolero in D
+TTITLE4=Moving Out
+TTITLE5=Friends
+TTITLE6=Someday My Prince Will Come
+TTITLE7=One for Trule
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

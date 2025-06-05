@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19285
+#	37625
+#	112772
+#
+# Disc length: 2960 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=1f0b8e04
+DTITLE=Charles Mingus - Live in Stuttgart! 1964
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=ATFW USA
+TTITLE1=Sophisticated Lady
+TTITLE2=Fables of Faubus Pt.1
+TTITLE3=Fables of Faubus Pt.2
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

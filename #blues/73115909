@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	51220
+#	78593
+#	101455
+#	147910
+#	171060
+#	212413
+#	256130
+#	294100
+#
+# Disc length: 4443 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=73115909
+DTITLE=Eric Clapton - Blues Night - London 1991 [CD 2)
+DYEAR=1991
+DGENRE=Blues
+TTITLE0=Light`s Are On But Nobody`s Home
+TTITLE1=Black Cat Bone
+TTITLE2=I'm So Glad
+TTITLE3=Low Down And Dirty
+TTITLE4=Stranger Blues
+TTITLE5=Hoochie Coochie Man
+TTITLE6=Little By Little
+TTITLE7=My Time After A While
+TTITLE8=Sweet Home Chicago
+EXTD=YEAR: 1991
+EXTT0=Voc+Guit.: Albert Collins
+EXTT1=Voc and Guit.: Albert Collins
+EXTT2=Voc and Guit: Robert Cray
+EXTT3=Voc and Guit.: Robert Cray
+EXTT4=Voc and Guit.: Robert Cray
+EXTT5=Voc and Guit: Buddy Guy
+EXTT6=Voc and Guit: Buddy Guy
+EXTT7=
+EXTT8=
+PLAYORDER=

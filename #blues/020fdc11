@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11825
+#     30242
+#     47425
+#     65682
+#     85107
+#     106147
+#     126400
+#     143822
+#     164702
+#     176977
+#     193915
+#     211992
+#     233227
+#     248809
+#     262197
+#     282545
+# 
+# Disc length: 4062 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=020fdc11
+DTITLE=Atlantis - Encore
+DYEAR=1900
+DGENRE=
+TTITLE0=Peter Gunn
+TTITLE1=My Girl
+TTITLE2=Don't Let the Green Grass Fool You
+TTITLE3=My Whole World Ended
+TTITLE4=Givin' It Up For Your Love
+TTITLE5=Sex Machine
+TTITLE6=Smoke Gets In Your Eyes
+TTITLE7=Vehicle
+TTITLE8=Much Too Late
+TTITLE9=Papa's Got a Brand New Bag
+TTITLE10=Barefootin'
+TTITLE11=Blues As Blues Can Get
+TTITLE12=More Today Than Yesterday
+TTITLE13=I Can't Turn You Loose
+TTITLE14=I'd Rather Drink Muddy Water
+TTITLE15=What a Wonderful World
+TTITLE16=Love Train
+EXTD=
+EXTT0=\n
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

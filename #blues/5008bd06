@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  44020
+#  71597
+#  88682
+#  123095
+#  140347
+#
+# Disc length: 2239 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=5008bd06
+DTITLE=Frank Wess - North, South, East... Wess
+DYEAR=1900
+DGENRE=
+TTITLE0=What'D Ya Say
+TTITLE1=Dill Pickles
+TTITLE2=Dancing on the Ceiling
+TTITLE3=Hard Sock Dance
+TTITLE4=Salvation
+TTITLE5=Lazy Sal
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

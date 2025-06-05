@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20075
+#	41627
+#	60737
+#	77112
+#	100650
+#	127667
+#	149252
+#
+# Disc length: 2058 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=63080808
+DTITLE=Bob Mintzer - Horn Man
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=Horn Man
+TTITLE1=Just In Case
+TTITLE2=Latin Boogie
+TTITLE3=Whole Wheat Groove
+TTITLE4=Fancy Pants
+TTITLE5=Sambosis
+TTITLE6=Truth
+TTITLE7=Farewell
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

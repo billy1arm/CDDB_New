@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18400
+#     34435
+#     55317
+#     76440
+#     95072
+#     107895
+#     148007
+#     162007
+# 
+# Disc length: 2498 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=7809c009
+DTITLE=Paul Butterfield - The Legendary . . . Rides Again
+DYEAR=1900
+DGENRE=blues
+TTITLE0=We Stand A Chance
+TTITLE1=Save Me
+TTITLE2=Heart Like A Locomotive
+TTITLE3=Don't You Hang Me Up
+TTITLE4=The Wandering Kind
+TTITLE5=Bad Love
+TTITLE6=Mannish Boy
+TTITLE7=The Night Ain't Long Enough
+TTITLE8=Changes
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

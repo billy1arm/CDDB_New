@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17381
+#	30470
+#	52746
+#	72228
+#	84050
+#	98662
+#	110360
+#
+# Disc length: 1977 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4907b708
+DTITLE=Dizzy Gillespie - Jambo Caribe
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Fiesta MoJo
+TTITLE1=Barbados Carnival
+TTITLE2=Jambo
+TTITLE3=Trinidad, Hello
+TTITLE4=Poor Joe
+TTITLE5=And Then She Stopped
+TTITLE6=Don't Try To Keep Up
+TTITLE7=Trinidad, Goodbye
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

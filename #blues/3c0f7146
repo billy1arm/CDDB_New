@@ -1,0 +1,226 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5084
+#	8517
+#	11961
+#	16151
+#	18349
+#	21806
+#	26118
+#	31990
+#	37198
+#	41686
+#	45031
+#	49226
+#	53726
+#	57689
+#	61582
+#	66786
+#	71055
+#	74746
+#	78423
+#	85162
+#	90636
+#	96083
+#	98920
+#	103970
+#	110967
+#	113147
+#	115315
+#	120220
+#	124955
+#	131225
+#	140414
+#	146292
+#	153167
+#	158292
+#	164708
+#	171548
+#	177738
+#	180918
+#	188224
+#	193576
+#	196714
+#	201905
+#	209572
+#	213115
+#	218993
+#	221357
+#	224653
+#	236972
+#	240626
+#	242536
+#	244416
+#	247940
+#	249858
+#	251776
+#	254154
+#	257663
+#	261197
+#	262821
+#	265591
+#	267177
+#	269921
+#	272643
+#	276120
+#	277686
+#	281770
+#	284702
+#	287575
+#	290780
+#	293949
+#
+# Disc length: 3955 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3c0f7146
+DTITLE=Scott Fraser - Exploring The Blues For Guitar
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=Blues Study #1 in E Major (Blues Shuffle)
+TTITLE1=Blues Study #2 in A Major (Blues Shuffle)
+TTITLE2=Blues Study #3 in E Major (Blues Shuffle)
+TTITLE3=Blues Study #4 in E Major (Rock/Blues)
+TTITLE4=Blues Study #5 in E Major (Rock/Blues)
+TTITLE5=Blues Study #6 in G Major (Blues Shuffle)
+TTITLE6=Blues Study #7 in G Major (Rock/Blues)
+TTITLE7=Blues Study #8 in E Major (Blues Shuffle)
+TTITLE8=Blues Study #9 in G Major (Blues Shuffle)
+TTITLE9=Blues Study #10 in G Major (Blues Shuffle)
+TTITLE10=Blues Study #11 in E Major (Blues Shuffle)
+TTITLE11=Blues Study #12 in G Major (Blues Shuffle)
+TTITLE12=Blues Study #13 in A Major (Blues Shuffle)
+TTITLE13=Blues Study #14 in E Major (Rock/Blues)
+TTITLE14=Blues Study #15 in A Major (Country/Rock/Blues Shuffle)
+TTITLE15=Blues Study #16 in E Major (Blues Shuffle)
+TTITLE16=Blues Study #17 in E Major (Heavy Blues)
+TTITLE17=Blues Study #18 in E Major (Country/Rock/Blues Shuffle)
+TTITLE18=Blues Study #19 in E Major (Blues Shuffle)
+TTITLE19=Blues Study #20 in A Minor (Heavy Blues)
+TTITLE20=Blues Study #21 in E Major (Blues Shuffle)
+TTITLE21=Blues Study #22 in A Major (Rock Blues)
+TTITLE22=Blues Study #23 in A Major (Funk Blues)
+TTITLE23=Blues Study #24 in E Major (Blues Shuffle)
+TTITLE24=Blues Study #25 in A Minor (Blues Ballad)
+TTITLE25=Blues Study #26 in E Major (Swing/Blues)
+TTITLE26=Blues Study #27 in G Major (Swing/Blues)
+TTITLE27=Blues Study #28 in G Major (Blues Shuffle)
+TTITLE28=Blues Study #29 in C Major (Rock/Blues)
+TTITLE29=Blues Study #30 in G Major (Blues Shuffle)
+TTITLE30=Blues Study #31 in C Major (Funk/Blues)
+TTITLE31=Blues Study #32 in G Major (Blues Shuffle)
+TTITLE32=Blues Study #33 in C Minor (Blues Ballad)
+TTITLE33=Blues Study #34 in A Major (Swing Blues)
+TTITLE34=Blues Study #35 in E Major (Blues Shuffle)
+TTITLE35=Blues Study #36 in G Major (Blues Ballad)
+TTITLE36=Blues Study #37 in E Major (Funk/Blues)
+TTITLE37=Blues Study #38 in A Major (Fingerstyle Blues Shuffle)
+TTITLE38=Blues Study #39 in E Major (Blues Shuffle)
+TTITLE39=Blues Study #40 in C Minor (Blues Ballad)
+TTITLE40=Blues Study #41 in E Major (Fingerstyle Blues Shuffle)
+TTITLE41=Blues Study #42 in G Major (Jazz/Blues Waltz Feel)
+TTITLE42=Blues Study #43 in C Major (Rock/Blues Shuffle)
+TTITLE43=Blues Study #44 in E Major (Rock/Blues)
+TTITLE44=Blues Study #45 in A Major (Fingerstyle Country/Blues)
+TTITLE45=Blues Study #46 in C Major (Jazz Blues)
+TTITLE46=Blues Study #47 in C Major (Jazz Blues)
+TTITLE47=Blues Study #48 in E Major (Fingerstyle Blues Shuffle)
+TTITLE48=Blues Study #49 in G Major (Jazz Blues)
+TTITLE49=Blues Study #50 in B Flat Major (Swing/Blues)
+TTITLE50=Blues Study #51 in B Flat Major (Swing/Blues)
+TTITLE51=Blues Study #52 in F Major (Swing Blues)
+TTITLE52=Blues Study #53 in F Major (Swing Blues)
+TTITLE53=Blues Study #54 in B Flat Major (Swing Blues)
+TTITLE54=Blues Study #55 in G Major (Swing Blues)
+TTITLE55=Blues Study #56 in G Minor (Jazz Blues)
+TTITLE56=Blues Study #57 in C Minor (Jazz Blues)
+TTITLE57=Blues Study #58 in B Flat Major (Jazz Blues)
+TTITLE58=Blues Study #59 in B Flat Major (Jazz Blues)
+TTITLE59=Blues Study #60 in B Flat Major (Jazz Blues)
+TTITLE60=Blues Study #61 in B Flat Major (Jazz Blues)
+TTITLE61=Blues Study #62 in B Flat Major (Jazz Blues)
+TTITLE62=Blues Study #63 in B Flat Major (Jazz Blues)
+TTITLE63=Blues Study #64 in B Flat Major (Jazz Blues)
+TTITLE64=Blues Study #65 in B Flat Major (Fingerstyle Jazz Blues)
+TTITLE65=Blues Study #66 in G Major (Jazz Blues Waltz Feel)
+TTITLE66=Blues Study #67 in G Major (Jazz Blues Waltz Feel)
+TTITLE67=Blues Study #68 in B Flat Major (Jazz Blues)
+TTITLE68=Blues Study #69 in F Major (Jazz Blues)
+TTITLE69=Blues Study #70 in F Major (Jazz Blues)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+PLAYORDER=

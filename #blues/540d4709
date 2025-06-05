@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31745
+#	63382
+#	90752
+#	113397
+#	143785
+#	173317
+#	203380
+#	229522
+#
+# Disc length: 3401 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=540d4709
+DTITLE=Page One - Beyond The Blue
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Killer Benny
+TTITLE1=Street Singer
+TTITLE2=Games
+TTITLE3=Places
+TTITLE4=Suspended Decision
+TTITLE5=The Seventh Step
+TTITLE6=Ausie's Tune
+TTITLE7=Fouris Mone
+TTITLE8=Firm Roots
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

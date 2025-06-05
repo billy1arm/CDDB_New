@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15220
+#	28725
+#	38900
+#	58802
+#	90920
+#	110625
+#	122710
+#	136600
+#	150697
+#	163752
+#	175427
+#
+# Disc length: 2486 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9209b40c
+DTITLE=Various Artist - Big Bands Of The Swinging Years
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=01 Opus One - Tommy Dorsey
+TTITLE1=02 In A Magenta Haze - Duke Ellington
+TTITLE2=03 Let's Dance - Benny Goodman
+TTITLE3=04 One O'Clock Jump - Count Basie
+TTITLE4=05 Cherokee - Charlie Barnet
+TTITLE5=06 Oh Johnny - Ella Fitzgerald
+TTITLE6=07 Humoresque - Glen Miller
+TTITLE7=08 Frenesi - Tony Pastor
+TTITLE8=09 Margie - Jimmy Lunceford
+TTITLE9=10 Caledonia - Woody Herman
+TTITLE10=11 So Rare - Jimmy Dorsey
+TTITLE11=12 Pompton Turnpike - Charlie Barnet
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

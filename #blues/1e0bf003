@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	98158
+#	130139
+#
+# Disc length: 3058 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1e0bf003
+DTITLE=Dave Burrell - After Love
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=After Love, Part 1
+TTITLE1=After Love, Part 2
+TTITLE2=My March
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

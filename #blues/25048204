@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31330
+#	53430
+#	69840
+#
+# Disc length: 1156 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=25048204
+DTITLE=Oiling Boiling - Hard Boiling Blues
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=That Woman Is Poison
+TTITLE1=I'm Walking
+TTITLE2=How Long
+TTITLE3=Drum Boogie
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

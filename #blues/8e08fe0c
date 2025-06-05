@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	22575
+#	34550
+#	50095
+#	62693
+#	75748
+#	93875
+#	107533
+#	117305
+#	129470
+#	143908
+#	155373
+#
+# Disc length: 2304 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=8e08fe0c
+DTITLE=J.J. Cale - Guitar Man
+DYEAR=1900
+DGENRE=
+TTITLE0=Death in the Wilderness
+TTITLE1=It's Hard to Tell
+TTITLE2=Days Go By
+TTITLE3=Low Down
+TTITLE4=This Town
+TTITLE5=Guitar Man
+TTITLE6=If I Had a Rocket
+TTITLE7=Perfect Woman
+TTITLE8=Old Blue
+TTITLE9=Doctor Told Me
+TTITLE10=Miss Ol' St. Louie
+TTITLE11=Nobody Knows
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

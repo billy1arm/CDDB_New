@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	20008
+#	32265
+#	49318
+#	69943
+#	77845
+#	88385
+#	108583
+#
+# Disc length: 1972 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=6307b208
+DTITLE=Pappo's Blues - Pappo's Blues Volumen I
+DYEAR=1971
+DGENRE=Blues
+TTITLE0=Algo ha cambiado
+TTITLE1=El viejo
+TTITLE2=Hansen
+TTITLE3=Gris y amarillo
+TTITLE4=Adiós Willy
+TTITLE5=El hombre suburbano
+TTITLE6=Especies
+TTITLE7=Adónde está la libertad
+EXTD=YEAR: 1971 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

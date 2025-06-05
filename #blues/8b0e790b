@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	42620
+#	73230
+#	92338
+#	119580
+#	150918
+#	166933
+#	196963
+#	225925
+#	243465
+#	263230
+#
+# Disc length: 3707 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8b0e790b
+DTITLE=Barbara Thompson's Paraphernalia - Breathless
+DYEAR=1992
+DGENRE=Jazz Rock
+TTITLE0=Breathless
+TTITLE1=Sax Rap
+TTITLE2=Jaunty
+TTITLE3=You Must Be Jokin'
+TTITLE4=Squiffy
+TTITLE5=Bad Blues
+TTITLE6=Cheeky
+TTITLE7=Gracey
+TTITLE8=Breathless (Short Cut)
+TTITLE9=Sax Rap (Short Cut)
+TTITLE10=Cheeky (Short Cut)
+EXTD=more info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Composer;Date,Artist,Location,State,Country) YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

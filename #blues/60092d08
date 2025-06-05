@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38477
+#	57632
+#	80795
+#	101267
+#	115912
+#	137810
+#	159137
+#
+# Disc length: 2351 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=60092d08
+DTITLE=Kenny Dorham - Kenny Dorham - Jazz and Blues CD 16
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Stage West
+TTITLE1=I'm an old cowhand
+TTITLE2=Stella by starlight
+TTITLE3=Deliah
+TTITLE4=Lazy afternoon
+TTITLE5=Six bits
+TTITLE6=When sunny gets blue
+TTITLE7=Turbo
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

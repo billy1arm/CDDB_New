@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26589
+#	60872
+#	84157
+#	113994
+#	139768
+#	174525
+#	213286
+#	235875
+#
+# Disc length: 3443 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c0d7109
+DTITLE=Stan Kessler - Jazz Meets Chant
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Divinum Mysterium
+TTITLE1=Victimae Paschali Laudes
+TTITLE2=Conditor Alma Siderum
+TTITLE3=Stabat Mater Dolorosa
+TTITLE4=Dies Irae
+TTITLE5=Pange Lingua Gloriosi
+TTITLE6=Veni, Creator Spiritus
+TTITLE7=Adoro Te Devote
+TTITLE8=O Filii et Filiae
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

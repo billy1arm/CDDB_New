@@ -1,0 +1,20 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#
+# Disc length: 228 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=0200e201
+DTITLE=Coco Montyoa - [cd single]
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Then Again
+EXTD=ID3G:   0
+EXTT0=
+PLAYORDER=

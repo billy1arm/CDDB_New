@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24602
+#	42802
+#	64089
+#
+# Disc length: 1199 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2c04ad04
+DTITLE=True Silver - Acoustic
+DYEAR=2005
+DGENRE=ゲーム
+TTITLE0=RENGOKU ～ acoustic Ver ～
+TTITLE1=suki ～ bossa nova Ver ～
+TTITLE2=RASEN ～ manouche Ver ～
+TTITLE3=Mirrors
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

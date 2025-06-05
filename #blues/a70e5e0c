@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     28243
+#     68670
+#     84120
+#     104198
+#     132865
+#     145385
+#     171075
+#     187590
+#     209330
+#     234305
+#     253405
+# 
+# Disc length: 3680 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a70e5e0c
+DTITLE=Nina Simone - In Concert
+DYEAR=1900
+DGENRE=
+TTITLE0=Ain't Got No/I Got Life
+TTITLE1=Four Women
+TTITLE2=Backlash Blues
+TTITLE3=No Opportunity Necessary, No Esperience Needed
+TTITLE4=Youg, Gifted And Black
+TTITLE5=Ain't No Use
+TTITLE6=After You've Gone
+TTITLE7=Sugar In My Bowl
+TTITLE8=Mississipi Goddamn
+TTITLE9=See Lime Wooman
+TTITLE10=The Other Woman
+TTITLE11=I Love Porgy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

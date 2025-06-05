@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23242
+#	34481
+#	51543
+#	65376
+#	83543
+#
+# Disc length: 2062 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4b080c06
+DTITLE=Johnny Rivers - John Lee Hooker
+DYEAR=1970
+DGENRE=Blues
+TTITLE0=C. C. Rider Got My Mojo Working
+TTITLE1=Sunny
+TTITLE2=It's Too Late
+TTITLE3=A Hard Day's Night
+TTITLE4=When A Man Loves A Woman
+TTITLE5=John Lee Hooker
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

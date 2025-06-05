@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21905
+#	40757
+#
+# Disc length: 725 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1b02d303
+DTITLE=DOMINO - POPTEEN
+DYEAR=2000
+DGENRE=Eurodance
+TTITLE0=POPTEEN [Extended Mix]
+TTITLE1=POPTEEN [SEB Version]
+TTITLE2=POPTEEN [Karaoke Version]
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

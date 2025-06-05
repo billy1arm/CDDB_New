@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	31355
+#	56235
+#	80117
+#	108345
+#	122317
+#	139695
+#
+# Disc length: 2090 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=5a082807
+DTITLE=Cook, Scott, Cohen, Mason, Hicks, Tobin, Mclean - Blues for the Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Having A Good Time
+TTITLE1=No Start Blues
+TTITLE2=Hurt One More Time
+TTITLE3=Tom Robinson
+TTITLE4=38th Street
+TTITLE5=how Come
+TTITLE6=Me And The Devil Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

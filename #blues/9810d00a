@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25125
+#	59750
+#	84525
+#	96825
+#	118962
+#	142975
+#	178687
+#	201037
+#	283490
+#
+# Disc length: 4306 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9810d00a
+DTITLE=Jimi Hendrix - Band Of Gypsys Rehearsals (WKP-0003)
+DYEAR=1969
+DGENRE=Blues
+TTITLE0=Ezy Rider
+TTITLE1=Power of Soul
+TTITLE2=Changes
+TTITLE3=Lover Man
+TTITLE4=Message to Love
+TTITLE5=Earth Blues Today
+TTITLE6=Ezy Rider
+TTITLE7=Message to Love
+TTITLE8=Who Knows (several takes)
+TTITLE9=Message to Love (several takes)
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

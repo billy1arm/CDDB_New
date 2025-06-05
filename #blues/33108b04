@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	65320
+#	212227
+#	278445
+#
+# Disc length: 4237 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=33108b04
+DTITLE=Various Artist - Aerobic Body Work Out
+DYEAR=1996
+DGENRE=Mix
+TTITLE0=Part 1 - Warm Up
+TTITLE1=Part 2 - Low Impact
+TTITLE2=Part 3 - High Impact
+TTITLE3=Part 4 - Relax Cool Down 
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

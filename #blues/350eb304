@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	95733
+#	171258
+#	218883
+#
+# Disc length: 3765 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=350eb304
+DTITLE=小沢征爾 - Gustav Mahler Symphony No. 7
+DYEAR=1989
+DGENRE=Symphony
+TTITLE0=Langsam - Allegro
+TTITLE1=Nachtmusik - Allegro moderato)
+TTITLE2=Scherzo
+TTITLE3=Nachtmusik - (Andante amoroso)
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

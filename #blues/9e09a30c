@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14507
+#	31563
+#	51307
+#	66986
+#	82233
+#	93338
+#	110926
+#	127608
+#	137746
+#	151118
+#	168680
+#
+# Disc length: 2469 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9e09a30c
+DTITLE=etypejazz - Ho Ho Volume Two
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Rockin Around the Christmas Tree
+TTITLE1=Hark the Herald Angels Sing
+TTITLE2=Santa Baby
+TTITLE3=O Holy Night
+TTITLE4=O Christmas Tree
+TTITLE5=Jingle Bell Rock
+TTITLE6=Silver Bells
+TTITLE7=O Little Town of Bethlehem
+TTITLE8=Away in a Manger
+TTITLE9=Santa Claus is Coming to Town
+TTITLE10=Little Drummer Boy
+TTITLE11=We Three Kings of Orient Are
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

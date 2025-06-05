@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18522
+#	28135
+#	43911
+#	61565
+#	74660
+#	93651
+#	106672
+#	129767
+#	143802
+#	165551
+#
+# Disc length: 2686 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=900a7c0b
+DTITLE=Chrome Addicts - Take 2
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=Lovin Straight Up
+TTITLE1=Mumblin Baby
+TTITLE2=Wahoo
+TTITLE3=She Was A Friend Of Mine
+TTITLE4=St. Louis
+TTITLE5=For A Dollar
+TTITLE6=I'M The Conductor
+TTITLE7=Battered Bruised And Torn
+TTITLE8=Somethin'S Goin On In My Room
+TTITLE9=Stuff You Brew
+TTITLE10=Stay The Night
+EXTD=YEAR: 1996 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  24037
+#  43210
+#  62620
+#  98770
+#  118317
+#  161477
+#  179200
+#  195400
+#  212140
+#
+# Disc length: 3101 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=890c1b0a
+DTITLE=Charles Brown - Blues And Other Love Songs
+DYEAR=1900
+DGENRE=
+TTITLE0=Do You Want Me
+TTITLE1=Fool That I Am
+TTITLE2=Who's Beating My Time
+TTITLE3=I Put Myself Together
+TTITLE4=What A Life
+TTITLE5=Mint Julep
+TTITLE6=You Are My First Love
+TTITLE7='Round Midnight
+TTITLE8=Before The Evening Sun Sets
+TTITLE9=I've Got A Right To Cry
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

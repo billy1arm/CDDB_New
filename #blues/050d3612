@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11548
+#	24303
+#	38695
+#	59103
+#	73483
+#	88108
+#	100950
+#	115203
+#	130535
+#	144975
+#	158640
+#	172088
+#	186175
+#	199783
+#	213725
+#	227943
+#	242078
+#
+# Disc length: 3384 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=050d3612
+DTITLE=Bing Crosby - Pocketful of Dreams
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Learn to Croon
+TTITLE1=Stardust
+TTITLE2=It Must Be True
+TTITLE3=St. Louis Blues
+TTITLE4=Shine
+TTITLE5=Brother Can You Spare A Dime?
+TTITLE6=You're Getting To Be A Habit With Me
+TTITLE7=I'm Through With Love
+TTITLE8=Wrap Your Troubles In Dreams
+TTITLE9=The Day Your Came Along
+TTITLE10=My Honey's Loving Arms
+TTITLE11=I've Got To Pass Your House
+TTITLE12=Love Thy Neighbor
+TTITLE13=Love Is Just Around The Corner
+TTITLE14=A Fine Romance
+TTITLE15=Aexander's Ragtime Band
+TTITLE16=Small Fry
+TTITLE17=I've Got A Pocketful Of Dreams
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

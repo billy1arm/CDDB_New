@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23080
+#	41366
+#	62847
+#	78989
+#	97663
+#	128000
+#	148020
+#	175825
+#	198246
+#	217866
+#
+# Disc length: 3282 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=850cd00b
+DTITLE=Root's Blues - Midnight Blues
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Midnight Blues
+TTITLE1=Jerry Malone
+TTITLE2=Foxy Women
+TTITLE3=Foxy Women In My Life
+TTITLE4=I Wanna Be
+TTITLE5=Rainy Day
+TTITLE6=Baby, hoy can you do it
+TTITLE7=Blues man
+TTITLE8=Memphis blues
+TTITLE9=Early in the mornin'
+TTITLE10=I'll never fall in love
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

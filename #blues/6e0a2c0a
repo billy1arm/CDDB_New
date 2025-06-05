@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21750
+#     41000
+#     58225
+#     81125
+#     92575
+#     120162
+#     141012
+#     158150
+#     172500
+# 
+# Disc length: 2606 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6e0a2c0a
+DTITLE=The Crew - No peace of mind
+DYEAR=1900
+DGENRE=
+TTITLE0=Good woman go bad
+TTITLE1=Too crowded in my bed
+TTITLE2=Step by step
+TTITLE3=Restless heart
+TTITLE4=On your trail
+TTITLE5=Shine
+TTITLE6=Watch your moves
+TTITLE7=Sweet man of mine
+TTITLE8=Ragin' like a cajun
+TTITLE9=Sittin' next to Sue
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

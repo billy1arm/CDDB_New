@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	20370
+#	39065
+#	62155
+#	80387
+#	111020
+#	128657
+#	150770
+#	169627
+#	190035
+#
+# Disc length: 2820 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=640b020a
+DTITLE=Sunni - Sunni
+DYEAR=1900
+DGENRE=
+TTITLE0=You Could Change My Life
+TTITLE1=Hand n' Glove
+TTITLE2=When the Shades Pull Down
+TTITLE3=Let's Love
+TTITLE4=Why Did My Baby Get Over Me
+TTITLE5=Best Friend's Boyfriend
+TTITLE6=Or Lose Me
+TTITLE7=Gracie
+TTITLE8=How You Love Me
+TTITLE9=Where Did I Go Right
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

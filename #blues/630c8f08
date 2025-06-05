@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25020
+#	65100
+#	100061
+#	128956
+#	178321
+#	203363
+#	226663
+#
+# Disc length: 3217 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=630c8f08
+DTITLE=Humair, Kühn and Malaby - Full Contact
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Buried Head   { Tony Malaby ~ tenor saxophone }
+TTITLE1=Jim Dine   { Daniel Humair, Joachim Kühn and Tony Malaby }
+TTITLE2=Full Contact   { Daniel Humair ~ percussion }
+TTITLE3=Oasis   { Joachim Kühn ~ piano }
+TTITLE4=Ghislène   { Daniel Humair and Joachim Kühn }
+TTITLE5=Salinas   { Joachim Kuhn }
+TTITLE6=Effervescent Springbox   { Daniel Humair, Joachim Kühn and Tony Malaby }
+TTITLE7=Sleeping Angels   { Daniel Humair, Joachim Kühn and Tony Malaby }
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

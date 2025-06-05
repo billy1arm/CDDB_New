@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14173
+#	34567
+#	52770
+#	72900
+#	95357
+#	118413
+#	137443
+#	154237
+#
+# Disc length: 2315 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=74090909
+DTITLE=Paul Cacia - Legacy
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Nessun Dorma
+TTITLE1=Take the a train
+TTITLE2=Stormy weather
+TTITLE3=Why don't you do right
+TTITLE4=Overtime
+TTITLE5=Angel eyes
+TTITLE6=Jordu
+TTITLE7='Round midnight
+TTITLE8=Love for sale
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

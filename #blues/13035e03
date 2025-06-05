@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22817
+#	45988
+#
+# Disc length: 864 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=13035e03
+DTITLE=Taxi - Live
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=1. Jackie (Live)
+TTITLE1=2. I Did It Right (Live)
+TTITLE2=3. Slippin Away (Live)
+EXTD=YEAR: 2002 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18060
+#	40578
+#	59312
+#	78039
+#	99999
+#	117044
+#	135243
+#	161150
+#	188941
+#
+# Disc length: 2709 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=690a930a
+DTITLE=strassJAZZ - 2010 und 2008
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=watermelon man (h. hancock)
+TTITLE1=worksong (n. adderly)
+TTITLE2=how high the moon (w.m. lewis)
+TTITLE3=groovy samba (s. mendes)
+TTITLE4=moonglow (hudson/lange/mills)
+TTITLE5=sunny (b. hebb)
+TTITLE6=Sister sadie (h. silver)
+TTITLE7=Satin Doll (d. ellington)
+TTITLE8=Corcovado (a.c. jobim)
+TTITLE9=Things ain't what they used to be "S'isch nemme dees" (m. ellington)
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

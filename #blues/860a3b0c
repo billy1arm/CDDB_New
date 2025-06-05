@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18990
+#	35493
+#	53843
+#	71063
+#	84733
+#	98313
+#	115700
+#	132934
+#	150198
+#	166910
+#	180392
+#
+# Disc length: 2621 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=860a3b0c
+DTITLE=Meri and Elisa - Meri and Elisa - Due come noi
+DYEAR=1900
+DGENRE=Salsa
+TTITLE0=Due come noi [G.Giulianini-E.Perin]
+TTITLE1=Buon compleanno [S.Gallizio]
+TTITLE2=Amico e amante [E.Perin-R.Lipari]
+TTITLE3=Vorrei vorrei [G.Giulianini-E.Perin]
+TTITLE4=Le quattro stagioni [T.Rupil-E.Perin]
+TTITLE5=Vado al mare [E.Perin-A.Grosso-M.Carchen]
+TTITLE6=Diario della vita [E.Perin-A.Grosso-M.Carchen]
+TTITLE7=Cerco un angelo [E.Perin-C.Bastianelli-M.Gramellini]
+TTITLE8=Per un amico [G.Facchin]
+TTITLE9=Amame [M.Titi-E.Perin]
+TTITLE10=Ti sposerò [P.Galassi-L.Cortellini]
+TTITLE11=Me gustas tu [V.Vigliarolo]
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

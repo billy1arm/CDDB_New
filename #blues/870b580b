@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	13160
+#	33923
+#	45735
+#	68883
+#	88303
+#	115085
+#	147288
+#	159158
+#	168795
+#	183183
+#
+# Disc length: 2906 seconds
+#
+# Revision: 22
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=870b580b
+DTITLE=Velvet Underground - The Velvet Underground and Nico
+DYEAR=1967
+DGENRE=Psychedelic
+TTITLE0=Sunday Morning
+TTITLE1=I'm Waiting For The Man
+TTITLE2=Femme Fatale
+TTITLE3=Venus In Furs
+TTITLE4=Run Run Run
+TTITLE5=All Tomorrow's Parties
+TTITLE6=Heroin
+TTITLE7=There She Goes Again
+TTITLE8=I'll Be Your Mirror
+TTITLE9=The Black Angel's Death Song
+TTITLE10=European Son
+EXTD=YEAR: 1967
+EXTT0=Lou Reed
+EXTT1=Lou Reed
+EXTT2=Lou Reed
+EXTT3=Lou Reed
+EXTT4=Lou Reed
+EXTT5=Lou Reed
+EXTT6=Lou Reed
+EXTT7=Lou Reed
+EXTT8=Lou Reed
+EXTT9=John Cale - Lou Reed
+EXTT10=John Cale - Lou Reed - Maureen Tucker - Sterling Morrison
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11625
+#	25275
+#	41775
+#	53850
+#	63975
+#	77400
+#	89175
+#	102975
+#	120075
+#
+# Disc length: 1748 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: ACXtractor (MTCDDB.DLL V2003.07.15)
+#
+DISCID=7a06d20a
+DTITLE=John Lee Hooker - Boom Boom
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Boom Boom
+TTITLE1=Trouble blues
+TTITLE2=Mama You've Got a Daughter
+TTITLE3=Whiskey and Wimmen
+TTITLE4=I Wanna Walk
+TTITLE5=Baby Lee
+TTITLE6=Hard Headed Woman
+TTITLE7=Road is so Rough
+TTITLE8=Blues Before Sunrise
+TTITLE9=Big Fine Woman
+EXTD=ID3G:   0 YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

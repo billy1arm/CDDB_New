@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	13785
+#	28225
+#	42140
+#	57102
+#
+# Disc length: 942 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3803ac05
+DTITLE=Various Artist - Festival Jazz
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Sweet Georgia Brown
+TTITLE1=Holiday in Harlem
+TTITLE2=Cherokee
+TTITLE3=Under The Creole Moon
+TTITLE4=Stormy Weather
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

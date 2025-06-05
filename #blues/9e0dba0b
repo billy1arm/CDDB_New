@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	27760
+#	49039
+#	66580
+#	73582
+#	94942
+#	116872
+#	151935
+#	196052
+#	219592
+#	242877
+#
+# Disc length: 3516 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=9e0dba0b
+DTITLE=Jack Owens and Bud Spires - It Must Have Been The Devil
+DYEAR=1900
+DGENRE=
+TTITLE0=Can't See, Baby
+TTITLE1=Jack Ain't Had No Water
+TTITLE2=Cherry Ball
+TTITLE3=Nothin' But Notes
+TTITLE4=Good Morning, Little Schoolgirl
+TTITLE5=I Love My Baby
+TTITLE6=Catfish Blues
+TTITLE7=It Must Have Been The Devil
+TTITLE8=Hard Times
+TTITLE9=Ain't No Lovin', Ain't No Gettin' Along
+TTITLE10=I Won't Be Bad No More
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

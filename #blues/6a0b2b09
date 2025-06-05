@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41095
+#	57105
+#	79734
+#	109574
+#	132929
+#	152824
+#	170437
+#	183792
+#
+# Disc length: 2861 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6a0b2b09
+DTITLE=John Mayall - Moving On
+DYEAR=1972
+DGENRE=Blues
+TTITLE0=Worried Mind
+TTITLE1=Keep Our Country Green
+TTITLE2=Christmas 71
+TTITLE3=Things Go Wrong
+TTITLE4=Do It
+TTITLE5=Moving On
+TTITLE6=Red Sky
+TTITLE7=Reasons
+TTITLE8=High Pressure Living
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

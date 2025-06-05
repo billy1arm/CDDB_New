@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7148
+#	15216
+#	31086
+#	42072
+#	46941
+#	58142
+#	66899
+#	79598
+#	104080
+#	115295
+#	118203
+#
+# Disc length: 1633 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=98065f0c
+DTITLE=Kasperl - Kasperl und die Feuerwehr
+DYEAR=2000
+DGENRE=Kids
+TTITLE0=Gespochener Text1
+TTITLE1=Geburtstagslied
+TTITLE2=Gespochener Text2
+TTITLE3=Ich bin ein Feuerteufel
+TTITLE4=Gespochener Text3
+TTITLE5=Es brennt
+TTITLE6=Gespochener Text4
+TTITLE7=Mein Auto, das ist feuerrot
+TTITLE8=Gespochener Text5
+TTITLE9=Auf der bunten Blumenwiese
+TTITLE10=Gespochener Text6
+TTITLE11=Kasperllied
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

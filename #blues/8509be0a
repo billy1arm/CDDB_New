@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23783
+#	43653
+#	64052
+#	79739
+#	98880
+#	114736
+#	132548
+#	147754
+#	169568
+#
+# Disc length: 2496 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8509be0a
+DTITLE=InstrumentalMoods - RelaxingMoods
+DYEAR=2008
+DGENRE=New Age
+TTITLE0=SummerRain
+TTITLE1=SongOfTheRainforest
+TTITLE2=ALoonGarden
+TTITLE3=Dreamwheel
+TTITLE4=MidnightRide
+TTITLE5=InTheMorning
+TTITLE6=TheWanderer
+TTITLE7=ChangingSeasons
+TTITLE8=HighNoon
+TTITLE9=TheWaterfall
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

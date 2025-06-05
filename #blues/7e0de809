@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20225
+#	39950
+#	67450
+#	91800
+#	118725
+#	147925
+#	165662
+#	195475
+#
+# Disc length: 3562 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7e0de809
+DTITLE=Barrelhouse Jazzband - 40 Jahre Jazz [CD1]
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Echoes Of Mezz
+TTITLE1=Jersey Lightnin'
+TTITLE2=St.Louis Blues
+TTITLE3=Get Out Of Here
+TTITLE4=Madagaskar
+TTITLE5=Doctor Jazz
+TTITLE6=Dippermouth Blues
+TTITLE7=Martinique
+TTITLE8=Medley Number One
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  10645
+#  24830
+#  37807
+#  53835
+#  69087
+#  82792
+#  98272
+#  111122
+#  122922
+#
+# Disc length: 2308 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.22
+#
+DISCID=5d09020a
+DTITLE=Canned Heat - The Canned Heat Cookbook
+DYEAR=1900
+DGENRE=
+TTITLE0=Bullfrog Blues
+TTITLE1=Rollin and Tumblin
+TTITLE2=Going up the Country
+TTITLE3=Amphetamine Annie
+TTITLE4=Time was
+TTITLE5=Boogie Music
+TTITLE6=On the Road Again
+TTITLE7=Same all Over
+TTITLE8=Sic 'em Pigs
+TTITLE9=Fried Hockey Boogie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

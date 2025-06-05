@@ -1,0 +1,46 @@
+# xmcd
+# 
+# Track frame offsets:
+#     150
+#     22880
+#     36297
+#     48250
+#     63739
+#     83754
+#     95087
+#     108212
+#     130329
+#     142295
+# 
+# Disc length: 2090
+# 
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: BonkEnc v1.0.8
+# 
+DISCID=8a08280a
+DTITLE=Various Artist - Shine On Blues
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=V.A. - Every Day I Have The Blues
+TTITLE1=V.A. - Troubles Blues
+TTITLE2=V.A. - Did You Ever Love A Woman
+TTITLE3=V.A. - Cleanhead Blues
+TTITLE4=V.A. - Shine On Moon
+TTITLE5=V.A. - Look On Yonder Wall
+TTITLE6=V.A. - Rockin' Blues
+TTITLE7=V.A. - The Thrill Is Gone
+TTITLE8=V.A. - Whiskey And Wimmen
+TTITLE9=V.A. - Why Worry
+EXTD=ID3G:   0\n
+EXTT0=B.B. King
+EXTT1=John Lee Hooker
+EXTT2=Gatemouth Moore
+EXTT3=Ed "Cleanhead" Vinson
+EXTT4=Lightnin' Hopkins
+EXTT5=Elmore James
+EXTT6=Charles Brown
+EXTT7=B.B. King
+EXTT8=John Lee Hooker
+EXTT9=John Mayall
+PLAYORDER=

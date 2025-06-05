@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	42607
+#	82252
+#	107805
+#	141135
+#
+# Disc length: 2415 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=46096d05
+DTITLE=Various Artist - Ultra Mix
+DYEAR=1900
+DGENRE=
+TTITLE0=Come With Me
+TTITLE1=Come Together
+TTITLE2=Mueve La Cadera
+TTITLE3=I Want Candy
+TTITLE4=Retro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18529
+#	39108
+#	56896
+#	70178
+#	81995
+#	95455
+#	109110
+#	126137
+#
+# Disc length: 1867 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=73074909
+DTITLE=Charlie Parker and Dizzy Gillespie - Diz and The Bird
+DYEAR=1946
+DGENRE=Jazz
+TTITLE0=Charlie Parker and Dizzy Gillespie - Hallelujah
+TTITLE1=Charlie Parker and Dizzy Gillespie - Slam Slam Blues
+TTITLE2=Charlie Parker and Dizzy Gillespie - Congo Blues
+TTITLE3=Charlie Parker and Dizzy Gillespie - Confirmation
+TTITLE4=Charlie Parker and Dizzy Gillespie - Dynamo
+TTITLE5=Charlie Parker and Dizzy Gillespie - When I Grow too Old To Dream
+TTITLE6=Charlie Parker and Dizzy Gillespie - Diggin' Diz
+TTITLE7=Charlie Parker and Dizzy Gillespie - Get Happy
+TTITLE8=Charlie Parker and Dizzy Gillespie - Crazeology
+EXTD=YEAR: 1946
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27000
+#	54150
+#	75113
+#	96563
+#	112201
+#	133276
+#
+# Disc length: 2111 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=54083d07
+DTITLE=Black 'n Blue - Musikschule Dreieich
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Ain't no sunshine
+TTITLE1=Blue juice
+TTITLE2=I wish
+TTITLE3=Watermelon man
+TTITLE4=This love
+TTITLE5=Cantaloupe island
+TTITLE6=Just the 2 of us
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

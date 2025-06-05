@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13002
+#	27506
+#	42482
+#	57613
+#	75490
+#	88062
+#	104408
+#	117218
+#	130976
+#	143548
+#	159951
+#	173411
+#	185720
+#	197978
+#	208800
+#	222028
+#	234232
+#	249808
+#	259730
+#
+# Disc length: 3658 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=130e4814
+DTITLE=Various Artist - Ein Schiff Wird Kommen - Die Schönsten Seemannslieder
+DYEAR=2006
+DGENRE=Seemannslieder
+TTITLE0=Lolita/Seemann, Deine Heimat Ist Das Meer
+TTITLE1=Freddy Quinn/Junge Komm Bald Wieder
+TTITLE2=Hans Albers/La Paloma
+TTITLE3=Melina Mercoury/Ein Schiff Wird Kommen
+TTITLE4=James Last/Biscaya
+TTITLE5=Margot Eskens/Cindy Oh Cindy
+TTITLE6=Lale Andersen/Der Junge An Der Reeling
+TTITLE7=Heinz Rühmann/Das Kann Doch Einen Seemann Nicht
+TTITLE8=Curd Jürgens/Kleine Möwe Flieg Nach Helgoland
+TTITLE9=Ronny/Shenandoah
+TTITLE10=Veronika Fischer/Weit Übers Meer
+TTITLE11=Gaby Albrecht/Solang Der Leuchtturm Noch Steht
+TTITLE12=Mina/Capitano
+TTITLE13=Ines Taddio/Capitano D'Amore
+TTITLE14=Caterina Valente/Ein Seemannsherz
+TTITLE15=Evelyn Künneke/Mäckie Boogie
+TTITLE16=Lale Andersen/He, Hast Du Feuer, Seemann
+TTITLE17=Curd Jürgens/Die Fahrt Ums Kap Horn
+TTITLE18=Horst Köbbert/Kleine Seemannsbraut
+TTITLE19=Bernhard Jakschtat/Rolling Home
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

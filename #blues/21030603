@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21545
+#	42287
+#
+# Disc length: 776 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.99.1
+#
+DISCID=21030603
+DTITLE=Tina Turner - Whatever You Want
+DYEAR=1996
+DGENRE=Pop
+TTITLE0=Whatever You Want
+TTITLE1=Unfinished Sympathy
+TTITLE2=Goldeneye
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

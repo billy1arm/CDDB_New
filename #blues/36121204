@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	103267
+#	215344
+#	305767
+#
+# Disc length: 4628 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=36121204
+DTITLE=Chet Baker - Live at the Subway Club CD2
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Doodlin'
+TTITLE1=Just Friends
+TTITLE2=Down
+TTITLE3=Seven Steps to Heaven
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

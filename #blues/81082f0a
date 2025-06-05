@@ -1,0 +1,48 @@
+# xmcd
+#
+# Track frame offsets: 
+#        150
+#        14362
+#        29400
+#        61747
+#        74842
+#        85612
+#        99300
+#        111375
+#        122422
+#        145100
+#
+# Disc length: 2097 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: ExactAudioCopy v0.90b4
+#
+DISCID=81082f0a
+DTITLE=Various Artist - Greatest Blues Legends
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=B.B. King - Ask Me No Questions
+TTITLE1=Bobby Bland - A Touch Of The Blues
+TTITLE2=Buddy Guy - Stone Crazy
+TTITLE3=Muddy Waters - Funky Butt
+TTITLE4=Jimmy Reed - Heartaches And Troubles
+TTITLE5=Wang Dang Doodle - Koko Taylor
+TTITLE6=Little Milton - We're Gonna Make It
+TTITLE7=Elmore James - Call It Stormy Monday
+TTITLE8=T-Bone Walker - Going To Funky Town
+TTITLE9=Howlin' Wolf - How Many More Years
+EXTD=the freedb entry has all tracks as various artist and the song na
+EXTD=me as the artist.  This correction provides the proper name and a
+EXTD=rtist for each track.
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

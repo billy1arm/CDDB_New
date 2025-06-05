@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36024
+#	76268
+#	120113
+#	154574
+#
+# Disc length: 2418 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=26097005
+DTITLE=Hans Hartmann - The Art of Trio
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Swinda
+TTITLE1=Rent a Camel
+TTITLE2=Blues for Antonietta
+TTITLE3=Tango el Cercado
+TTITLE4=Summertime
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19333
+#	36525
+#	55532
+#	71396
+#	86408
+#	104296
+#	120985
+#	134516
+#	148870
+#
+# Disc length: 2290 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8808f00a
+DTITLE=Duffy - Rockferry
+DYEAR=2008
+DGENRE=Blues
+TTITLE0=Rockferry
+TTITLE1=Warwick Avenue
+TTITLE2=Serious
+TTITLE3=Stepping Stone
+TTITLE4=Honey
+TTITLE5=Hanging On Too Long
+TTITLE6=Mercy
+TTITLE7=Delayed Devotion
+TTITLE8=I'm Scared
+TTITLE9=Distant Dreamer
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

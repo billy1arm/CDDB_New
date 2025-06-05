@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22535
+#	53298
+#	92523
+#	111917
+#	129814
+#	156118
+#	182956
+#
+# Disc length: 2698 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e0a8808
+DTITLE=Alberto Pinton Quintet - The Visible
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Hammerhead
+TTITLE1=Interference
+TTITLE2=Days
+TTITLE3=Structure #1
+TTITLE4=Voices
+TTITLE5=Traveller
+TTITLE6=For Them
+TTITLE7=Mirror For Contra-Alto Clarinet
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,89 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11250
+#	23557
+#	33155
+#	44917
+#	56180
+#	68782
+#	81100
+#	91675
+#	103375
+#	111812
+#	121382
+#	132617
+#	144137
+#	154275
+#	165262
+#	175555
+#	186562
+#	195555
+#	205350
+#	216137
+#	227137
+#	238262
+#	248655
+#
+# Disc length: 3466 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=4e0d8818
+DTITLE=Various Artists Rock - Yesterdays Gold Vol 6
+DYEAR=1900
+DGENRE=
+TTITLE0=My Happiness
+TTITLE1=Sea Cruise
+TTITLE2=Queen Of The Hop
+TTITLE3=Come Go With Me
+TTITLE4=Peggy Sue
+TTITLE5=Boppin' The Blues
+TTITLE6=Jambalaya
+TTITLE7=Roll Over Beethoven
+TTITLE8=Let It Be Me
+TTITLE9=Stood Up
+TTITLE10=There Goes My Baby
+TTITLE11=Cupid
+TTITLE12=Drinkin' Wine Spo-Dee-O-Dee
+TTITLE13=I Wonder Why
+TTITLE14=It's Just A Matter Of Time
+TTITLE15=Venus
+TTITLE16=When
+TTITLE17=Be My Guest
+TTITLE18=Ooby Dooby
+TTITLE19=Lucille
+TTITLE20=The Magic Touch
+TTITLE21=ABC Boogie
+TTITLE22=Lonely Boy
+TTITLE23=Yes Tonight, Josephine
+EXTD=
+EXTT0=Connie Francis
+EXTT1=Frankie Ford
+EXTT2=Bobby Darin
+EXTT3=The Del Vikings
+EXTT4=Buddy Holly
+EXTT5=Carl Perkins
+EXTT6=Brenda Lee
+EXTT7=Chuck Berry
+EXTT8=Everly Brothers
+EXTT9=Ricky Nelson
+EXTT10=The Drifters
+EXTT11=Sam Cooke
+EXTT12=Jerry Lee Lewis
+EXTT13=Dion and The Belmonts
+EXTT14=Brooks Benton
+EXTT15=Frankie Avalon
+EXTT16=Kalin Twins
+EXTT17=Fats Domino
+EXTT18=Roy Orbison
+EXTT19=Little Richard
+EXTT20=The Platters
+EXTT21=Bill Haley
+EXTT22=Paul Anka
+EXTT23=Johnnie Ray
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	33377
+#	78740
+#	104562
+#	132425
+#	175252
+#	226407
+#	249912
+#
+# Disc length: 3738 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.78
+#
+DISCID=660e9808
+DTITLE=Portal - Liebman - Gurtu - Cinelu - Festival de Lille - Novembre 1990
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=M. Cinelu - Octavia
+TTITLE1=M. Portal - Nada mas
+TTITLE2=D. Liebman and T. Gurtu - Duet 1
+TTITLE3=M. Portal and M. Cinelu - Duet 2
+TTITLE4=M. Cinelu and T. Gurtu - Duet 3
+TTITLE5=M. Portal - Toccata
+TTITLE6=M. Portal - Mozambique
+TTITLE7=D. Liebman - SunKas - Moti Mahal
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

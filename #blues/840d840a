@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     26500
+#     51350
+#     73000
+#     98275
+#     123687
+#     145775
+#     180075
+#     208812
+#     233100
+# 
+# Disc length: 3462 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=840d840a
+DTITLE=Billey Joel - A Matter Of Trust
+DYEAR=1900
+DGENRE=
+TTITLE0=That s Not Her Style
+TTITLE1=Pressure
+TTITLE2=I Go To Extremes
+TTITLE3=A Matter Of Trust
+TTITLE4=Stormfront
+TTITLE5=The Downeaster Alexa
+TTITLE6=Scenes From An Italian Restaurant
+TTITLE7=New York State Of Mind
+TTITLE8=We Didn t Start The Fire
+TTITLE9=Piano Man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

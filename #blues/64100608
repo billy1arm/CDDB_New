@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31590
+#	79512
+#	132350
+#	146950
+#	189880
+#	236762
+#	281365
+#
+# Disc length: 4104 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.7
+#
+DISCID=64100608
+DTITLE=Jean-Paul Bourelly - Fade to Cacophony: Live
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Supernatural
+TTITLE1=Skin I'm In
+TTITLE2=Toxic You Love
+TTITLE3=Khalil's Dream
+TTITLE4=Trippin'
+TTITLE5=Rumble Suite: Rumble in the Jungle/Rock My
+TTITLE6=Can't Get Enough
+TTITLE7=Brotha's on Mars
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

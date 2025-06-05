@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19432
+#	35345
+#	52485
+#	70272
+#	81325
+#	101865
+#	119537
+#	137782
+#
+# Disc length: 2077 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8b081b09
+DTITLE=Bill Evans - Push - Radio Edits
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=If Only In Your Dreams
+TTITLE1=Nightwing
+TTITLE2=U R What U Hear
+TTITLE3=London House
+TTITLE4=A Simple Life
+TTITLE5=The Hobo
+TTITLE6=Push
+TTITLE7=Road To Ruin
+TTITLE8=Matter Of Time
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

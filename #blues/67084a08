@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16009
+#	38959
+#	61647
+#	73345
+#	96203
+#	115972
+#	137688
+#
+# Disc length: 2124 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=67084a08
+DTITLE=#WAT - A Trip
+DYEAR=2014
+DGENRE=Blues
+TTITLE0=#WAT - Not tonight
+TTITLE1=#WAT - Looking for a fire
+TTITLE2=#WAT - Naughty girl
+TTITLE3=#WAT - Walk with me
+TTITLE4=#WAT - Joy of fools
+TTITLE5=#WAT - Random dreamer
+TTITLE6=#WAT - Middle way to Purgatory
+TTITLE7=#WAT - Indian road
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

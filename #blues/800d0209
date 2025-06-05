@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26467
+#	49252
+#	68902
+#	97218
+#	131554
+#	156724
+#	186071
+#	218395
+#
+# Disc length: 3332 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=800d0209
+DTITLE=Motimba - Monket Vibrations
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=The Geezer
+TTITLE1=Sounddog
+TTITLE2=Many Roads
+TTITLE3=Pastime Paradise
+TTITLE4=Sunshine
+TTITLE5=Oye La Buena
+TTITLE6='Ta Bueno
+TTITLE7=Di' Me
+TTITLE8=Spirits High
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

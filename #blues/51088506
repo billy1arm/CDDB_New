@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19697
+#	60677
+#	81460
+#	103412
+#	141800
+#
+# Disc length: 2183 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=51088506
+DTITLE=Art Blakey's Jazz Messengers - Play Lerner and Loewe
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=I could have danced all night
+TTITLE1=On the street where you live
+TTITLE2=There but for you go I
+TTITLE3=They call the wind Maria
+TTITLE4=I talk to the trees
+TTITLE5=Almost like being in love
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

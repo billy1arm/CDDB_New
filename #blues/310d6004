@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	81266
+#	147060
+#	177656
+#
+# Disc length: 3426 seconds
+#
+# Revision: 21
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=310d6004
+DTITLE=Anton Bruckner - Symphonie N°2 en ut mineur  (Alberto Lizzio, South German Philharmonic Orchestra)
+DYEAR=1991
+DGENRE=Classique
+TTITLE0=Symphonie N°2 en ut mineur - I. Moderato
+TTITLE1=Symphonie N°2 en ut mineur - II. Adagio
+TTITLE2=Symphonie N°2 en ut mineur - III. Scherzo
+TTITLE3=Symphonie N°2 en ut mineur - IV. Finale
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

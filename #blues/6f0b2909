@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13011
+#	19604
+#	43802
+#	60014
+#	88307
+#	129979
+#	164935
+#	189357
+#
+# Disc length: 2859 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f0b2909
+DTITLE=Glenn Smith - Glenn Smith Live
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Something to Talk About
+TTITLE1=Blueberry Hill
+TTITLE2=Maleguena
+TTITLE3=House of Blue Lights
+TTITLE4=MacArthur Park
+TTITLE5=Great Balls Medley
+TTITLE6=Orange Devil Special
+TTITLE7=Blues
+TTITLE8=Classical Medley
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

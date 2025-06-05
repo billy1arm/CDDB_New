@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15680
+#	31192
+#	44185
+#	60275
+#	75330
+#	91872
+#	105042
+#	121440
+#	133970
+#	147205
+#	160995
+#	175072
+#
+# Disc length: 2514 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9d09d00d
+DTITLE=Billie Holiday - Coleção Folha Clássicos do Jazz
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Soitude
+TTITLE1=Blue Moon
+TTITLE2=East of the Sun
+TTITLE3=These Foolish Things
+TTITLE4=Tenderly
+TTITLE5=Autumn in New York
+TTITLE6=Love for Sale
+TTITLE7=Stormy Weather
+TTITLE8=Yesterdays
+TTITLE9=How Deep Is the Ocean
+TTITLE10=I'll Never Be the Same
+TTITLE11=Mean to Me
+TTITLE12=Miss Brown to You
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

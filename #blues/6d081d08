@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	8808
+#	37233
+#	50133
+#	78633
+#	112758
+#	126408
+#	145758
+#
+# Disc length: 2079 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d081d08
+DTITLE=Cuby and Blizzards - Desolation
+DYEAR=1966
+DGENRE=Blues
+TTITLE0=Things I Remember
+TTITLE1=Hobo Blues
+TTITLE2=Just For Fun
+TTITLE3=I'm In Love
+TTITLE4=Gin House Blues
+TTITLE5=Desolation Blues
+TTITLE6=Five Long Years
+TTITLE7=Let's Make It
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

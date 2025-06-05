@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17617
+#	33207
+#	54410
+#	76168
+#
+# Disc length: 1248 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2a04de05
+DTITLE=Tierra - Lady In The Moonlight Single
+DYEAR=2001
+DGENRE=Salsa
+TTITLE0=Lady In The Moonlight (English Radio Edit)
+TTITLE1=Lady In The Moonlight (Jon St James Pop Mix)
+TTITLE2=Lady In The Moonlight (DJ Cazel's Moonlight Dub Mix)
+TTITLE3=Lady In The Moonlight (Jon St James Club Mix)
+TTITLE4=Lady In The Moonlight (Spanish Radio Edit)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

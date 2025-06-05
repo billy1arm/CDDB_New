@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25620
+#	55073
+#	71070
+#	91081
+#	141136
+#	166666
+#	186628
+#	207128
+#	220213
+#
+# Disc length: 3101 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=880c1b0a
+DTITLE=Domenico Scarlatti - Sonates interprétées à la guitare, au luth, au luth-clavecin et à la viole bâtarde
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Sonate en ré majeur, K.96  [Clavecin, Gergely Sàrkösy]
+TTITLE1=Sonate en sol mineur, K.450  [Guitare]
+TTITLE2=Sonate en sol majeur, K.284  [Luth]
+TTITLE3=Sonate en si bémol majeur, K.202  [Clavecin]
+TTITLE4=Sonate en ré mineur, K.77, K.90  [Viole bâtarde - Clavecin]
+TTITLE5=Sonate en si mineur, K.377  [Guitare]
+TTITLE6=Sonate en si majeur, K.244  [Clavecin]
+TTITLE7=Sonate en la mineur, K.8  [Guitare - Clavecin]
+TTITLE8=Sonate en do majeur, K133  [Luth]
+TTITLE9=Sonate en do majeur, K159  [Clavecin] 
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

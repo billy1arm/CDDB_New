@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33447
+#	52520
+#	65159
+#	86756
+#	107838
+#	130705
+#
+# Disc length: 1999 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5607cd07
+DTITLE=Dizzie Gillespie - Jungla
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Con Alma (Gillespie) *1
+TTITLE1=Manteca Theme (Pozo/Gillespie) *2
+TTITLE2=Contraste (O'Farrill) *2
+TTITLE3=Jungla (O'Farrill) *2
+TTITLE4=Rhumba Finale (O'Farrill) *2
+TTITLE5=Night In Tunisia (Paparelli/Gillespie) *1
+TTITLE6=Caravan (Ellington) *1
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     20087
+#     39990
+#     58817
+#     78050
+#     92530
+#     104190
+#     122190
+#     138157
+#     162180
+#     174042
+#     195400
+#     211520
+# 
+# Disc length: 3123 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9e0c310d
+DTITLE=J.J.Jackson - J.J.Jackson
+DYEAR=1900
+DGENRE=
+TTITLE0=London London
+TTITLE1=Oh, Baby
+TTITLE2=Further On Up The Road
+TTITLE3=Stand By Me
+TTITLE4=Fanny Mae
+TTITLE5=Try Me
+TTITLE6=Hey, Blues!
+TTITLE7=Lord Byron's Blue
+TTITLE8=You Don't Give A Damn About Me
+TTITLE9=Finger Poppin' Time
+TTITLE10=Mustang Sally
+TTITLE11=Lucille
+TTITLE12=Blue Rose
+EXTD=
+EXTT0=Caetano Veloso\n
+EXTT1=J.J.Jackson and Michael Kelly\n
+EXTT2=John Madwick\n
+EXTT3=Ben E. King\n
+EXTT4=Wayne Glasco, Morris Levy and Clarence \nLewis\n
+EXTT5=James Brown\n
+EXTT6=J.J.Jackson\n
+EXTT7=J.J.Jackson, Belchior and Michael Kelly\n
+EXTT8=J.J.Jackson and Michael Kelly\n
+EXTT9=Hank Ballard additional words by \nJ.J.Jackson and Michael Kelly\n
+EXTT10=Wilson Pickett\n
+EXTT11=Little Richard\n
+EXTT12=Michael Butnariu and Michael Kelly\n
+PLAYORDER=

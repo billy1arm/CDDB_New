@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	77166
+#	175575
+#	210174
+#	257760
+#	314972
+#
+# Disc length: 4799 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=4a12bd06
+DTITLE=Murray David - Sallfelden Cd1
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=Morning song
+TTITLE1=Tr 02
+TTITLE2=New Life
+TTITLE3=Tr 04
+TTITLE4=Tr 05
+TTITLE5=Flowers for Albert
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

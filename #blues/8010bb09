@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43800
+#	67200
+#	94425
+#	144000
+#	176325
+#	212025
+#	241350
+#	303375
+#
+# Disc length: 4285 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8010bb09
+DTITLE=Anima Mundi - Primer Encuentro
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=It May Rain
+TTITLE1=Rebuilding
+TTITLE2=Trance of Having Lunch
+TTITLE3=Focused
+TTITLE4=Finely Chopped - In Juliana
+TTITLE5=Trucks Exit
+TTITLE6=Party-Dance on the Parking Lot
+TTITLE7=Seven Floating Leaves
+TTITLE8=Inside a Rolling Drop
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

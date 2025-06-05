@@ -1,0 +1,35 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	64833
+#	102258
+#	208683
+#	254733
+#	286383
+#
+# Disc length: 4116 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.52 - http://www.feurio.com
+#
+DISCID=5d101206
+DTITLE=Regensburger Domspatzen - Johann sebastian Bach - Motetten
+DYEAR=1900
+DGENRE=
+TTITLE0=Singet dem Herrn ein Neues Lied
+TTITLE1=Der Geist hilft unser Schwachheit auf
+TTITLE2=Jesu, meine Freude
+TTITLE3=Fürchte dich nicht
+TTITLE4=Lobet den Herrn, alle Heiden
+TTITLE5=Sei Lob und Preis mit Ehren
+EXTD=Unter Mitwirkung von:\r\nCapella Academica Wien (Cond. Eduard 
+EXTD=Melkus)\r\nHamburger Bläserkreis für alte Musik (BWV 231)
+EXTT0=BWV 225
+EXTT1=BWV 226
+EXTT2=BWV 227
+EXTT3=BWV 228
+EXTT4=BWV 230
+EXTT5=BWV 231
+PLAYORDER=

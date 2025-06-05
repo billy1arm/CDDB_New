@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18457
+#	39392
+#	55818
+#	80829
+#	95991
+#	121143
+#
+# Disc length: 1912 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=58077607
+DTITLE=Jazztune - in tune
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=lonely woman (horace silver)
+TTITLE1=how insensitive (carlos jobim)
+TTITLE2=you'd be so nice to come home to (cole porter)
+TTITLE3=skylark (hoagy carmichael)
+TTITLE4=your mind is on vacation (mose allison)
+TTITLE5=nicas dream (horace silver)
+TTITLE6=you are the one (recha m. daengeli)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

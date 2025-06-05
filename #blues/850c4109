@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	36765
+#	55040
+#	81065
+#	96255
+#	119823
+#	149093
+#	170193
+#	206470
+#
+# Disc length: 3139 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=850c4109
+DTITLE=Wagner, Richard - Die Meistersinger von Nürnberg, Staatsoper Dresden, Ltg. Karajan, T.Adam-Sachs, R.Kollo-Walther, P.Schreier-David, H.Donath-Eva
+DYEAR=1971
+DGENRE=Opera
+TTITLE0=Die selige Morgentraum-Deutweise (Sachs, Eva, Walther u.a.)
+TTITLE1=Sankt Crispin, lobet ihn! (Schuster, Schneider u.a.)
+TTITLE2=Ihr tanzt - Was werden die Meister sagen (David, Lehrb., Gesellen)
+TTITLE3=Silentium! Silentium!  (Lehrbuben, Volk)
+TTITLE4=Euch macht ihr's leicht, mir macht ihr's (Sachs, Pogner, Beckm.)
+TTITLE5=Nun denn, wenn's Meistern und Volk beliebt (Sachs, Beckm. u.a.)
+TTITLE6=Das Lied, fürwahr, ist nicht von mir  (Sachs, Die Meister u.a.)
+TTITLE7=Morgendlich leuchtend im rosigen Schein (Preislied: Walther,Volk u.a.)
+TTITLE8=Verachtet mir die Meister nicht (Sachs, alle)
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

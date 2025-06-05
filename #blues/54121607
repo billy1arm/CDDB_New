@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8575
+#	73933
+#	169268
+#	175015
+#	258931
+#	323098
+#
+# Disc length: 4632 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=54121607
+DTITLE=HOBiRECORDS - ドラマCD 『這いよれ！ニャル子さん』
+DYEAR=2009
+DGENRE=ドラマCD
+TTITLE0=序
+TTITLE1=第三種接近遭遇
+TTITLE2=未知なる学舎に夢を求めて(ロマン的な意味で)
+TTITLE3=幕間
+TTITLE4=地球の静止する日
+TTITLE5=大団円
+TTITLE6=結
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

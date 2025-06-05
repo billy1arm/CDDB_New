@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16013
+#	31896
+#	52378
+#
+# Disc length: 972 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2a03ca04
+DTITLE=Illmat!c feat. Cassandra Steen - Alles was du willst
+DYEAR=2003
+DGENRE=Hip-Hop
+TTITLE0=Alles was du willst (dirty radio)
+TTITLE1=Alles was du willst (clean radio)
+TTITLE2=Alles was du willst (Nachtwandler club remix)
+TTITLE3=Alles was du willst
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

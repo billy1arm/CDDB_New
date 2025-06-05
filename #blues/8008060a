@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	18835
+# 	34677
+# 	48802
+# 	59712
+# 	73062
+# 	101302
+# 	114510
+# 	126785
+# 	138797
+#
+# Disc length: 2056 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=8008060a
+DTITLE=Various Artist - Best Of The Blues Volume 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Guess Who
+TTITLE1=Do What You Set Out To Do
+TTITLE2=Rolling Stone
+TTITLE3=Stormy Monday Blues
+TTITLE4=Tail Dragger
+TTITLE5=Let The Good Times Roll
+TTITLE6=Weary Woman Blues
+TTITLE7=Doggin' The Dog
+TTITLE8=Help The Poor
+TTITLE9=Driftin' Blues
+EXTD=
+EXTT0=B. B. King
+EXTT1=Bobby Bland
+EXTT2=Muddy Waters
+EXTT3=T. Bone Walker
+EXTT4=Howlin' Wolf
+EXTT5=Bobby Bland and B. B. King
+EXTT6=Memphis Minnie McCoy
+EXTT7=Joe Turner
+EXTT8=B. B. King
+EXTT9=Bobby Bland
+PLAYORDER=

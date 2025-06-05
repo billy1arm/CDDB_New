@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34410
+#	75612
+#	105145
+#	144750
+#	173632
+#	230155
+#
+# Disc length: 3502 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=4b0dac07
+DTITLE=François Richard Quartet - Coincidence
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Dance Céleste
+TTITLE1=Valse Des Ombres
+TTITLE2=Histoire
+TTITLE3=Bonne Fin De Siècle
+TTITLE4=Salsamba
+TTITLE5=Coincidence
+TTITLE6=Entre Les Mots
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

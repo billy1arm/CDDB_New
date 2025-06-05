@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35658
+#	73272
+#	113377
+#	139052
+#	181432
+#	217527
+#
+# Disc length: 3618 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d0e2007
+DTITLE=Daniel Levin - Fuhuffah
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Fuhuffah
+TTITLE1=Shape
+TTITLE2=Hangman
+TTITLE3=Metaphor
+TTITLE4=Open
+TTITLE5=Woods
+TTITLE6=Wiggle
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

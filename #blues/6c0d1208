@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26458
+#	67063
+#	107646
+#	130783
+#	163700
+#	189895
+#	215089
+#
+# Disc length: 3348 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6c0d1208
+DTITLE=Terry Oldfield and Soraya - Mandala - Circle of Chant
+DYEAR=2008
+DGENRE=New Age
+TTITLE0=01 - sri krishna
+TTITLE1=02 - sri ram
+TTITLE2=03 - gayatri
+TTITLE3=04 - tat tvam asi
+TTITLE4=05 - om poornamidam
+TTITLE5=06 - jai murali
+TTITLE6=07 - twa meva
+TTITLE7=08 - om shanti
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

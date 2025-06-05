@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	26325
+#	45175
+#	70002
+#	86702
+#	107027
+#	132512
+#	152100
+#	176552
+#	199225
+#	220650
+#	242425
+#
+# Disc length: 3505 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=990daf0c
+DTITLE=Elvis Phuong - Vet Thu Tren Lung Ngua Hoang
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Elvis Phuong - Muoi Nam Tinh Cu
+TTITLE1=Elvis Phuong and Kieu Nga - Tinh Nghia Doi Ta Chi The Thoi
+TTITLE2=Elvis Phuong - Tuong Tu 4
+TTITLE3=Elvis Phuong - Chieu Qua Pho
+TTITLE4=Kieu Nga - Nhu Giot Sau Roi
+TTITLE5=ELvis Phuong - Yeu Em Vao Coi Chet
+TTITLE6=Elvis Phuong - Vet Thu Tren Lung Ngua Hoang
+TTITLE7=Kieu Nga - Chi Co Em
+TTITLE8=Elvis Phuong - Co Ua
+TTITLE9=Elvis Phuong and Kieu Nga - Chi Co Em
+TTITLE10=Elvis Phuong - Giot Sau
+TTITLE11=Elvis Phuong - Hay Khoc Di Em
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

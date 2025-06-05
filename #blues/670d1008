@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Generated: Wed Oct 16 20:31:49 2002 by KSCD
+# 
+# Track frame offsets:
+#       150
+#       24207
+#       41090
+#       60202
+#       118310
+#       135735
+#       168425
+#       236227
+#
+# Disc length: 3346 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Kscd 1.3.3
+#
+DISCID=670d1008
+DTITLE=Heritage - The Realms of Fantasy
+DYEAR=1900
+DGENRE=
+TTITLE0=New Roads
+TTITLE1=Full Circle
+TTITLE2=Dance of the Tulips
+TTITLE3=The Realms of Fantasy
+TTITLE4=Safari
+TTITLE5=In the Park
+TTITLE6=The Java Trail
+TTITLE7=Puppets - After Dark
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

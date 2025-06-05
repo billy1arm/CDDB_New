@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19234
+#	38734
+#	55484
+#	83208
+#	105876
+#	126033
+#	142803
+#
+# Disc length: 2437 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d098308
+DTITLE=Masayoshi Takanaka - Seychelles
+DYEAR=1986
+DGENRE=New Age
+TTITLE0=Oh Tengo Suerte
+TTITLE1=Japanese Track 02
+TTITLE2=Japanese Track 03
+TTITLE3=Funkee Mah-Chan
+TTITLE4=Japanese Track 05
+TTITLE5=Japanese Track 06
+TTITLE6=Japanese Track 07
+TTITLE7=Tropic Birds
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

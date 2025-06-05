@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14447
+#	36155
+#	44919
+#	55431
+#	68499
+#	81031
+#	94593
+#	98438
+#
+# Disc length: 1482 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=6c05c809
+DTITLE=David Hardee - Legacy
+DYEAR=2002
+DGENRE=New Age
+TTITLE0=Reflection
+TTITLE1=Cascades
+TTITLE2=Exileration
+TTITLE3=Flight
+TTITLE4=Flow
+TTITLE5=Legacy
+TTITLE6=Der Glocke Clang
+TTITLE7=Komm Du Quelle
+TTITLE8=Lobe Den Hern
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

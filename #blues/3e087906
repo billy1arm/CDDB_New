@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23143
+#	53240
+#	80291
+#	106621
+#	123486
+#
+# Disc length: 2171 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3e087906
+DTITLE=Louis Armstrong - New Orleans Nights
+DYEAR=1950
+DGENRE=Jazz
+TTITLE0=Panama
+TTITLE1=New Orleans Function
+TTITLE2=Struttin' With Some Barbecue
+TTITLE3=Basin Street Blues
+TTITLE4=My Bucket's Got A Hole In It
+TTITLE5=Bugle Call Rag/Ole Miss
+EXTD=YEAR: 1950
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

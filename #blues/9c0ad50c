@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18606
+#	33366
+#	54485
+#	70012
+#	85094
+#	104201
+#	125417
+#	142766
+#	160853
+#	174582
+#	192138
+#
+# Disc length: 2775 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=9c0ad50c
+DTITLE=Михаил Шуфутинский - Я поеду на Юг
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=Ветер cеверный
+TTITLE1=У вокзала
+TTITLE2=Я поеду на Юг
+TTITLE3=Ах, Зоя, Зоечка
+TTITLE4=Дорогая, прочтите листок
+TTITLE5=Медсестричка
+TTITLE6=Поезда
+TTITLE7=Алёнка
+TTITLE8=Отпустите врача
+TTITLE9=Людка
+TTITLE10=Играл скрипач
+TTITLE11=Пойду однажды по руси
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

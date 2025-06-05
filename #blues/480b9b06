@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	375
+#	24041
+#	78044
+#	122123
+#	148267
+#	193018
+#
+# Disc length: 2976 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.10
+#
+DISCID=480b9b06
+DTITLE=John MacMurchy - Outside the Ministry of Truth
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Outside The Ministry of Truth
+TTITLE1=Top Dead Centre
+TTITLE2=Intruder Alert
+TTITLE3=No More Victims
+TTITLE4=Bayview Extension
+TTITLE5=Through the Looking Glass
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

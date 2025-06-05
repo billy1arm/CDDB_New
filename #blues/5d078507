@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24765
+#	44584
+#	64152
+#	82319
+#	96849
+#	119596
+#
+# Disc length: 1927 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5d078507
+DTITLE=Various Artist - Native Language CD Sampler
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Turning Point - The Last Song
+TTITLE1=Turning Point - Cruise Control
+TTITLE2=Jeff Kashiwa - Stride
+TTITLE3=Theo Bishop - Westside
+TTITLE4=Sara Gazarek - My Shining Hour
+TTITLE5=Adam Niewood - Kay Marie
+TTITLE6=Dan Siegel - Inside Out
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

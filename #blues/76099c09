@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24531
+#	44271
+#	61399
+#	84036
+#	101989
+#	117612
+#	136962
+#	159687
+#
+# Disc length: 2462 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=76099c09
+DTITLE=Sonik Foundry - Mechanized
+DYEAR=2009
+DGENRE=Salsa
+TTITLE0=My Experiment
+TTITLE1=Mechanized
+TTITLE2=My Evil
+TTITLE3=Se7en Sins
+TTITLE4=Alone
+TTITLE5=Columbine Soldiers
+TTITLE6=Deep Inside
+TTITLE7=Lethal
+TTITLE8=Human Nature
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

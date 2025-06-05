@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41378
+#	78482
+#	119526
+#	148793
+#	187016
+#	221252
+#
+# Disc length: 3362 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=610d2007
+DTITLE=Dan Gibson - Flute Dreams
+DYEAR=2007
+DGENRE=New Age
+TTITLE0=Air (J.S. Bach)
+TTITLE1=Raindrops and Rainbows (Chopin)
+TTITLE2=Fur Elise (Beethoven)
+TTITLE3=Clair De Lune (Debussy)
+TTITLE4=Andante Grazioso (Mozart)
+TTITLE5=Impromptu (Schubert)
+TTITLE6=Gymnopedie No.1 (Satie)
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23558
+#	67316
+#	83839
+#	130962
+#	206061
+#	227806
+#	289235
+#
+# Disc length: 4286 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=7510bc08
+DTITLE=Steve de Swardt Blues Band - Live on Sunday Night in Jamboree
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Steal Away
+TTITLE1=I Got the Blues
+TTITLE2=I Need a Song
+TTITLE3=Won't Change my Job
+TTITLE4=I Got the Feeling
+TTITLE5=Ali-Funk
+TTITLE6=Running out of Steam
+TTITLE7=Everyday I have the Blues
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

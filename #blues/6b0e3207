@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44480
+#	88267
+#	126720
+#	171747
+#	196737
+#	242842
+#
+# Disc length: 3636 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b0e3207
+DTITLE=Stan Getz - Tempus Fugit
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=The Dolphin
+TTITLE1=Joy Spring
+TTITLE2=The Night Has A Thousand Eyes
+TTITLE3=How About You
+TTITLE4=You're Blasé
+TTITLE5=Old Devil Moon
+TTITLE6=I'm Old Fashioned
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

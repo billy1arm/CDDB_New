@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	28347
+# 	48885
+# 	70785
+# 	94600
+# 	119280
+# 	140292
+# 	164067
+#
+# Disc length: 2475 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=6a09a908
+DTITLE=Pinetop Perkins - Boogie Woogie King
+DYEAR=1900
+DGENRE=
+TTITLE0=Pinetop Is Just  Top
+TTITLE1=Pinetop's Boogie Woogie
+TTITLE2=Take A Little Walk With Me
+TTITLE3=Rockin' The Boogie
+TTITLE4=So Many Days
+TTITLE5=Jackson Town Gal
+TTITLE6=Sweet Black Angel
+TTITLE7=Lend Me Your Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	69061
+#	113107
+#	184827
+#	207450
+#	240640
+#
+# Disc length: 3997 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4d0f9b06
+DTITLE=The Thing with Otomo Yoshihide - Shinjuku Crawl
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Shinjuku Crawl, first attebmpt
+TTITLE1=Shinjuku Crawl, second attempt
+TTITLE2=Shinjuku Crawl, third attempt
+TTITLE3=Uramado (thnk you Mr. Fukuoka)
+TTITLE4=Dori Dugout, part 1
+TTITLE5=Dori Dugout, part 2
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17492
+#	33400
+#	52302
+#	71162
+#	98397
+#	129370
+#	147437
+#	161122
+#
+# Disc length: 2445 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a098b09
+DTITLE=DIAMOND HEAD - Canterbury
+DYEAR=1983
+DGENRE=Hard Rock
+TTITLE0=Makin' Music
+TTITLE1=Out Of Phaze
+TTITLE2=The Kingmaker
+TTITLE3=One More Night
+TTITLE4=To The Devil His Due
+TTITLE5=Knight Of The Swords
+TTITLE6=Ishmael
+TTITLE7=I need Your Love
+TTITLE8=Canterbury
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

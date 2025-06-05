@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	14300
+#	30947
+#	60312
+#	77882
+#	99445
+#	119837
+#	132882
+#	153962
+#	174615
+#	192257
+#
+# Disc length: 2853 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=840b230b
+DTITLE=Bette Midler - Bette
+DYEAR=2000
+DGENRE=Easy Listening
+TTITLE0=That's How Heartaches are Made
+TTITLE1=In These Shoes
+TTITLE2=God Give Me Strength
+TTITLE3=Just My Imagination (Running Away With Me)
+TTITLE4=Love TKO
+TTITLE5=Moses
+TTITLE6=Nobody Else But You
+TTITLE7=Color of Roses
+TTITLE8=Bless You Child
+TTITLE9=When Your Life Was Low
+TTITLE10=Shining Star
+EXTD=\t YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

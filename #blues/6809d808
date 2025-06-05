@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25350
+#	31192
+#	59957
+#	90485
+#	114782
+#	140235
+#	162835
+#
+# Disc length: 2522 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6809d808
+DTITLE=Lou Donaldson - Light-Foot
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Light-Foot
+TTITLE1=Hog Maw [False Start]
+TTITLE2=Hog Maw
+TTITLE3=Mary Ann
+TTITLE4=Green Eyes
+TTITLE5=Walking By The River
+TTITLE6=Day Dreams
+TTITLE7=Stella By Starlight
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

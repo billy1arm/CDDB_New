@@ -1,0 +1,298 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	987
+#	1841
+#	3321
+#	4905
+#	5690
+#	6468
+#	7253
+#	7711
+#	8682
+#	9356
+#	11429
+#	16603
+#	19402
+#	23811
+#	27129
+#	31310
+#	36426
+#	39144
+#	41804
+#	44733
+#	47552
+#	49750
+#	51305
+#	55959
+#	60718
+#	69620
+#	74511
+#	75546
+#	76411
+#	77558
+#	78505
+#	79452
+#	80614
+#	81776
+#	85567
+#	93041
+#	93865
+#	94689
+#	95719
+#	96642
+#	97826
+#	98645
+#	99405
+#	100391
+#	101191
+#	101989
+#	102928
+#	104185
+#	110415
+#	111358
+#	112063
+#	112935
+#	114015
+#	114849
+#	115909
+#	116793
+#	117677
+#	118561
+#	124065
+#	124937
+#	125829
+#	126721
+#	127613
+#	132958
+#	138558
+#	143740
+#	144448
+#	145239
+#	146405
+#	147474
+#	148543
+#	149612
+#	152930
+#	162498
+#	163307
+#	164204
+#	168420
+#	179186
+#	184891
+#	185692
+#	186426
+#	187103
+#	187806
+#	191663
+#	199738
+#	213979
+#	224661
+#	228467
+#	231696
+#	236194
+#	240061
+#	243533
+#	258533
+#
+# Disc length: 3492 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=430da25e
+DTITLE=Peter Funk - Lapsteel Gitarre
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Titel - 01: In der Tabulatur verwendete Sonderzeichen (a)
+TTITLE1=Titel - 02: In der Tabulatur verwendete Sonderzeichen (b)
+TTITLE2=Titel - 03: In der Tabulatur verwendete Sonderzeichen (c)
+TTITLE3=Titel - 04: In der Tabulatur verwendete Sonderzeichen (d)
+TTITLE4=Titel - 05: In der Tabulatur verwendete Sonderzeichen (e)
+TTITLE5=Titel - 06: In der Tabulatur verwendete Sonderzeichen (f)
+TTITLE6=Titel - 07: In der Tabulatur verwendete Sonderzeichen (g)
+TTITLE7=Titel - 08: In der Tabulatur verwendete Sonderzeichen (h)
+TTITLE8=Titel - 09: In der Tabulatur verwendete Sonderzeichen (i)
+TTITLE9=Titel - 10: In der Tabulatur verwendete Sonderzeichen (j)
+TTITLE10=Titel - 11: In der Tabulatur verwendete Sonderzeichen (k)
+TTITLE11=Titel - 12: No. 1 Rag
+TTITLE12=Titel - 13: Little Brown Jug
+TTITLE13=Titel - 14: Picking Blues
+TTITLE14=Titel - 15: Cocaine
+TTITLE15=Titel - 16: Easy Going
+TTITLE16=Titel - 17: Open Range
+TTITLE17=Titel - 18: Frère Jaques (a)
+TTITLE18=Titel - 19: Frère Jaques (b)
+TTITLE19=Titel - 20: Reuben's Train
+TTITLE20=Titel - 21: Hammering On/Pulling Off (a)
+TTITLE21=Titel - 22: Hammering On/Pulling Off (b)
+TTITLE22=Titel - 23: Trouble Brought Me Down (Hammering On/Pulling Off) (a)
+TTITLE23=Titel - 24: Trouble Brought Me Down (Hammering On/Pulling Off) (b)
+TTITLE24=Titel - 25: Rosie's Waltz (Vibrato)
+TTITLE25=Titel - 26: Jesse James (a)
+TTITLE26=Titel - 27: Jesse James (b)
+TTITLE27=Titel - 28: Die Dur-Pentatonik (a)
+TTITLE28=Titel - 29: Die Dur-Pentatonik (b)
+TTITLE29=Titel - 30: Die Dur-Pentatonik (c)
+TTITLE30=Titel - 31: Die Dur-Pentatonik (d)
+TTITLE31=Titel - 32: Die Dur-Pentatonik (e)
+TTITLE32=Titel - 33: Die Dur-Pentatonik (f)
+TTITLE33=Titel - 34: Die Dur-Pentatonik (g)
+TTITLE34=Titel - 35: Amazing Grace (Arpeggio, Flageolett)
+TTITLE35=Titel - 36: Aloha Oe
+TTITLE36=Titel - 37: Country Licks in "Open D" (a)
+TTITLE37=Titel - 38: Country Licks in "Open D" (b)
+TTITLE38=Titel - 39: Country Licks in "Open D" (c)
+TTITLE39=Titel - 40: Country Licks in "Open D" (d)
+TTITLE40=Titel - 41: Country Licks in "Open D" (e)
+TTITLE41=Titel - 42: Country Licks in "Open D" (f)
+TTITLE42=Titel - 43: Country Licks in "Open D" (g)
+TTITLE43=Titel - 44: Country Licks in "Open D" (h)
+TTITLE44=Titel - 45: Country Licks in "Open D" (i)
+TTITLE45=Titel - 46: Country Licks in "Open D" (j)
+TTITLE46=Titel - 47: Country Licks in "Open D" (k)
+TTITLE47=Titel - 48: Country Licks in "Open D" (l)
+TTITLE48=Titel - 49: At Bob's Country Bunker
+TTITLE49=Titel - 50: Die Blues-Pentatonik (a)
+TTITLE50=Titel - 51: Die Blues-Pentatonik (b)
+TTITLE51=Titel - 52: Die Blues-Pentatonik (c)
+TTITLE52=Titel - 53: Die Blues-Pentatonik (d)
+TTITLE53=Titel - 54: Die Blues-Pentatonik (e)
+TTITLE54=Titel - 55: Die Blues-Pentatonik (f)
+TTITLE55=Titel - 56: Die Blues-Pentatonik (g)
+TTITLE56=Titel - 57: Die Blues-Pentatonik (h)
+TTITLE57=Titel - 58: Die Blues-Pentatonik (i)
+TTITLE58=Titel - 59: Blues In My Shoes (INtrods, Blues-Turnarounds) (a)
+TTITLE59=Titel - 60: Blues In My Shoes (INtrods, Blues-Turnarounds) (b)
+TTITLE60=Titel - 61: Blues In My Shoes (INtrods, Blues-Turnarounds) (c)
+TTITLE61=Titel - 62: Blues In My Shoes (INtrods, Blues-Turnarounds) (d)
+TTITLE62=Titel - 63: Blues In My Shoes (INtrods, Blues-Turnarounds) (e)
+TTITLE63=Titel - 64: Baby, Please Don't Go
+TTITLE64=Titel - 65: Dust My Broom
+TTITLE65=Titel - 66: Blackberry Blossom (alternative Griffweisen)
+TTITLE66=Titel - 67: Slants (a)
+TTITLE67=Titel - 68: Slants (b)
+TTITLE68=Titel - 69: Slants (c)
+TTITLE69=Titel - 70: Slants (d)
+TTITLE70=Titel - 71: Slants (e)
+TTITLE71=Titel - 72: Slants (f)
+TTITLE72=Titel - 73: Die Gedanken sind frei (Slants)
+TTITLE73=Titel - 74: Back In Them Good Old Days (Septim-Akkorde)
+TTITLE74=Titel - 75: Alekoki (Hawaii-Turnarounds) (a)
+TTITLE75=Titel - 76: Alekoki (Hawaii-Turnarounds) (b)
+TTITLE76=Titel - 77: Alekoki (Hawaii-Turnarounds) (c)
+TTITLE77=Titel - 78: Peach Pickin' Time in Georgia
+TTITLE78=Titel - 79: Steal Guitar Rag
+TTITLE79=Titel - 80: Behind-The-Bar-Bending (a)
+TTITLE80=Titel - 81: Behind-The-Bar-Bending (b)
+TTITLE81=Titel - 82: Behind-The-Bar-Bending (c)
+TTITLE82=Titel - 83: Behind-The-Bar-Bending (d)
+TTITLE83=Titel - 84: Careless Love
+TTITLE84=Titel - 85: Whistling Blues (D6-Tuning)
+TTITLE85=Titel - 86: The Journey
+TTITLE86=Titel - 87: 'Lasses Dobro
+TTITLE87=Titel - 88: Wahine Waltz
+TTITLE88=Titel - 89: Arkansas Traveller
+TTITLE89=Titel - 90: How Long Blues (a)
+TTITLE90=Titel - 91: How Long Blues (b)
+TTITLE91=Titel - 92: Country Licks in "Open G"
+TTITLE92=Titel - 93: Dobro Chimes (Flageolett)
+TTITLE93=Titel - 94: Panhandle Rag
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+PLAYORDER=

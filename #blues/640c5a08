@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19130
+#	47290
+#	77437
+#	126267
+#	141862
+#	169467
+#	194292
+#
+# Disc length: 3164 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=640c5a08
+DTITLE=Jan Johansson - 300.000
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=Visa från Järna
+TTITLE1=Kiswahili
+TTITLE2=Willow weep for me
+TTITLE3=Staden mellan broarna
+TTITLE4=St.Louis blues
+TTITLE5=A+B
+TTITLE6=300.000 km/sek
+TTITLE7=Fortare men ändå inte fortare
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

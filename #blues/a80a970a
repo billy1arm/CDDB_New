@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21707
+#	41922
+#	59842
+#	82127
+#	102635
+#	119882
+#	139075
+#	161500
+#	185185
+#
+# Disc length: 2713 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a80a970a
+DTITLE=The O'Jays - Home For Christmas
+DYEAR=1900
+DGENRE=
+TTITLE0=I Can Hardly Wait 'Til Christmas
+TTITLE1=Merry Christmas Baby
+TTITLE2=White Christmas
+TTITLE3=The Christmas Song
+TTITLE4=Wanna Be Home For Christmas
+TTITLE5=Christmas Time In The City
+TTITLE6=(Tell 'Em) Santa's on His Way
+TTITLE7=Have Yourself A Merry Little Christmas
+TTITLE8=What Are You Doing New Year's Eve?
+TTITLE9=Carol Of The Bells
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

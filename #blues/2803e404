@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18840
+#	39095
+#	57742
+#
+# Disc length: 998 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=2803e404
+DTITLE=SUIKEN - ALKMAN
+DYEAR=2000
+DGENRE=Hip-Hop
+TTITLE0=ALKMAN (Original Version)
+TTITLE1=NEKIUS (Original Version)
+TTITLE2=ALKMAN (FORCE OF NATURE Remix)
+TTITLE3=ALKMAN (Instrumental Version)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

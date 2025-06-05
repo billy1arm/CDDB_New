@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35945
+#	67252
+#	92445
+#	132985
+#	159920
+#
+# Disc length: 2446 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=4f098c06
+DTITLE=McCoy Tyner - Focal point
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Mes trois fils
+TTITLE1=Parody
+TTITLE2=Indo-serenade
+TTITLE3=Mode for dulcimer
+TTITLE4=Departure
+TTITLE5=Theme for Nana
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

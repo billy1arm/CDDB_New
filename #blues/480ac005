@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36597
+#	77240
+#	143010
+#	179932
+#
+# Disc length: 2754 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=480ac005
+DTITLE=Wes Montgomery and Clark Terry - Straight, No Chaser
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Straight, No Chaser (Monk)
+TTITLE1=Just Friends (Klenner)
+TTITLE2=In A Mellow Tone (Ellington)
+TTITLE3=Wes Got Rhythm (Montgomery(
+TTITLE4=The Theme (Miles Davis)
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

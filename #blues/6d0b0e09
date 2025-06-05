@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	31808
+#	40673
+#	55543
+#	79243
+#	111393
+#	142725
+#	163315
+#	176003
+#
+# Disc length: 2832 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=6d0b0e09
+DTITLE=Khalil Chahine - Mektoub
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Lawrence
+TTITLE1=Mektoub part I
+TTITLE2=Mektoub part II
+TTITLE3=Mektoub part III
+TTITLE4=Homp
+TTITLE5=No man's land
+TTITLE6=Guizeh
+TTITLE7=Le thème d'Alexandre
+TTITLE8=We've got time
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

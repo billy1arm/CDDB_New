@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26493
+#	85240
+#	109019
+#	134915
+#	167757
+#	215958
+#	251293
+#	272445
+#	302859
+#	331609
+#
+# Disc length: 4519 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9811a50b
+DTITLE=Miles Davis - Milestones
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Miles Davis - Dr Jekyll
+TTITLE1=Miles Davis - Sid's ahead
+TTITLE2=Miles Davis - Two bass hit
+TTITLE3=Miles Davis - Milestones
+TTITLE4=Miles Davis - Billy boy
+TTITLE5=Miles Davis - Straigt no chaser
+TTITLE6=Miles Davis - Little melonae
+TTITLE7=Miles Davis - Four
+TTITLE8=Miles Davis - Bye bye blackbird
+TTITLE9=Miles Davis - Walking
+TTITLE10=Miles Davis - Two bass hit bonus
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

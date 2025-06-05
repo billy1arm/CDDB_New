@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16282
+#	36075
+#	61065
+#	81707
+#	102207
+#	129927
+#	151337
+#	173242
+#
+# Disc length: 2518 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30FinalFR
+#
+DISCID=6909d409
+DTITLE=Various Artist - Le Disque d'Or Du Rai CD2
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=CHEB ALI and ELECTRIC RAI LAND-Oulili
+TTITLE1=RAHMANE-Yam'safer
+TTITLE2=RABI YOUMNI-Prophete
+TTITLE3=RAI KUM-Zina
+TTITLE4=CHEB MESSAR-Ena Maghnaoui
+TTITLE5=RAINA RAI-Taila
+TTITLE6=CHEB KARIM-El Ghorba
+TTITLE7=CHEB ABDALLAH-Gouli Rani Nebrik
+TTITLE8=ELECTRIC RAI LAND-Guelou Ness
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

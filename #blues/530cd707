@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	40062
+#	74457
+#	115555
+#	155322
+#	183795
+#	218167
+#
+# Disc length: 3289 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=530cd707
+DTITLE=Nelly Pouget - Le Dire
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Le Dire
+TTITLE1=Ange Promenade
+TTITLE2=Aurore
+TTITLE3=Respiration
+TTITLE4=Expension
+TTITLE5=Amour Solitaire
+TTITLE6=Ange Barbare
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

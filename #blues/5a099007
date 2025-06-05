@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29012
+#	56860
+#	81130
+#	105634
+#	130337
+#	158030
+#
+# Disc length: 2450 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5a099007
+DTITLE=saul berson - Not here, Not Now
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Full Circle
+TTITLE1=Not Here, Not Now
+TTITLE2=Forbidden Sand
+TTITLE3=H=J2
+TTITLE4=Halcyon
+TTITLE5=Found Distance
+TTITLE6=Tali-Time
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

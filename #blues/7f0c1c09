@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2833
+#	55434
+#	59468
+#	89748
+#	92648
+#	141740
+#	143482
+#	196516
+#
+# Disc length: 3102 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7f0c1c09
+DTITLE=CTI All-Stars - Live In Munich [CD 3)
+DYEAR=1972
+DGENRE=Jazz
+TTITLE0=Talk
+TTITLE1=Sugar
+TTITLE2=Talk
+TTITLE3=Misty
+TTITLE4=Talk
+TTITLE5=Windows
+TTITLE6=Talk
+TTITLE7=Blues
+TTITLE8=Closing
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

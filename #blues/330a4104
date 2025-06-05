@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	68707
+#	100405
+#	169490
+#
+# Disc length: 2627 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=330a4104
+DTITLE=Jimmy Smith - House Party
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Au Privave
+TTITLE1=Lover Man
+TTITLE2=Just Friends
+TTITLE3=Blues After All
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

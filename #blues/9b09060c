@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	17325
+#	26850
+#	41700
+#	51375
+#	63675
+#	82725
+#	93000
+#	107850
+#	125100
+#	139575
+#	151875
+#
+# Disc length: 2322 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=9809030c,9b09060c
+DTITLE=Rolling Stones - Between The Buttons
+DYEAR=1900
+DGENRE=
+TTITLE0=Let's Spend The Night Together
+TTITLE1=Yesterday's Papers
+TTITLE2=Ruby Tuesday
+TTITLE3=Connection
+TTITLE4=She Smiled Sweetly
+TTITLE5=Cool, Calm, and Collected
+TTITLE6=All Sold Out
+TTITLE7=My Obsession
+TTITLE8=Who's Been Sleeping Here?
+TTITLE9=Complicated
+TTITLE10=Miss Amanda Jones
+TTITLE11=Something Happened To Me Yesterday
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

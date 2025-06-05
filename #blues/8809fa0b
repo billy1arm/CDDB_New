@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24930
+#	44022
+#	56515
+#	75384
+#	93170
+#	113786
+#	128079
+#	146634
+#	161117
+#	177865
+#
+# Disc length: 2556 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,39,0213
+#
+DISCID=8809fa0b
+DTITLE=Various Artist - Give It Up For London
+DYEAR=2004
+DGENRE=Pop
+TTITLE0=Robbie Williams - Eternity [Live]
+TTITLE1=Jamelia - Superstar [Copenhaniacs Remix]
+TTITLE2=Busted - Last Summer
+TTITLE3=Kylie Minogue - After Dark
+TTITLE4=Daniel Bedingfield - Never Gonna Leave Your Side
+TTITLE5=Craig David - What's Your Flava? [Live Down Under - Live]
+TTITLE6=Lemar - Dance (With U)
+TTITLE7=Sugababes - Breathe Easy [Acoustic]
+TTITLE8=Blue - Best In Me
+TTITLE9=Big Brovaz - Favourite Things
+TTITLE10=Atomic Kitten - Everything Goes Around
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

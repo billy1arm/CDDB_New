@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16180
+#	36530
+#	80225
+#	114317
+#	128167
+#	165610
+#	170627
+#	192247
+#	215017
+#	235237
+#
+# Disc length: 3350 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=980d140b
+DTITLE=Special Delivery - Song
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Song - Part I
+TTITLE1=Song - Part II
+TTITLE2=Song - Part III
+TTITLE3=Song - Part IV
+TTITLE4=Song - Part V
+TTITLE5=All I Ask
+TTITLE6=City Rush
+TTITLE7=Triptyque - Part I
+TTITLE8=Triptyque - Part II
+TTITLE9=Triptyque - Part III
+TTITLE10=Night City
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

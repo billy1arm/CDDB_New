@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28198
+#	60964
+#	76723
+#	102855
+#	113918
+#	145093
+#	163406
+#
+# Disc length: 2525 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f09db08
+DTITLE=Nik Bärtsch - Hishiryo
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Modul 8_9
+TTITLE1=Modul 13
+TTITLE2=Modul 14
+TTITLE3=Modul 4
+TTITLE4=Modul TM
+TTITLE5=Modul 5
+TTITLE6=Modul 6
+TTITLE7=Modul 11
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

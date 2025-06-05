@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22688
+#	37627
+#	61872
+#	88762
+#	111356
+#	138989
+#	166336
+#
+# Disc length: 2400 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=56095e08
+DTITLE=Zenith - Früchte
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=01 Streuner
+TTITLE1=02 Für Karin
+TTITLE2=03 Sehnsucht
+TTITLE3=04 g'hörta meins
+TTITLE4=05 Unterwasserwelt
+TTITLE5=06 Sonnenstrahlen
+TTITLE6=07 Guten Morgen Faun
+TTITLE7=08 Umpumpan
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18705
+#	37282
+#	58000
+#	69102
+#	128687
+#	178412
+#	218700
+#
+# Disc length: 4158 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=76103c08
+DTITLE=Relaxation Classics - Wind and Rain
+DYEAR=1994
+DGENRE=New Age
+TTITLE0=Flower Song (Carmen)
+TTITLE1=Polvotzian Dance #1
+TTITLE2=Divertimento
+TTITLE3=Hochzeitstag
+TTITLE4=Die Moldau
+TTITLE5=Symphony #8 1st Movement
+TTITLE6=Scheherezade 2nd Movement
+TTITLE7=Pastoral Symphony 3rd Movement
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

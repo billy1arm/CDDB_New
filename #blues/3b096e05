@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35320
+#	59180
+#	91072
+#	138140
+#
+# Disc length: 2416 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3b096e05
+DTITLE=Blue Mitchell - The Thing To Do
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Fungii Mama
+TTITLE1=Mona's Mood
+TTITLE2=The Thing To Do
+TTITLE3=Step Lightly
+TTITLE4=Chick's Tune
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

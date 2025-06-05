@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	17790
+#	38093
+#
+# Disc length: 941 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=1a03ab03
+DTITLE=Karsten Speck - Dein Platz ist immer noch leer
+DYEAR=1900
+DGENRE=
+TTITLE0=Dein Platz ist immer noch leer
+TTITLE1=Manchmal nur ein Wort
+TTITLE2=Dein Platz ist immer noch leer (Maxi Version)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

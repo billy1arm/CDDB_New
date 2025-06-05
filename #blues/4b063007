@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17273
+#	29155
+#	46518
+#	63854
+#	80168
+#	96146
+#
+# Disc length: 1586 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=4b063007
+DTITLE=Herbie Harper - Herbie Harper
+DYEAR=1955
+DGENRE=Jazz
+TTITLE0=Anything Goes
+TTITLE1=I'm Old Fashioned
+TTITLE2=I'll Take Romance
+TTITLE3=Topsy
+TTITLE4=How Deep Is The Ocean
+TTITLE5=Now You Know
+TTITLE6=Angus
+EXTD=YEAR: 1955
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

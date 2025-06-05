@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28867
+#	48687
+#	71907
+#
+# Disc length: 1168 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3a048e04
+DTITLE=Bluesaholics - Live im KIFF Aarau
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=I wouln't treat a dog
+TTITLE1=Hard to be
+TTITLE2=Spider
+TTITLE3=Standing at the crossroads again
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

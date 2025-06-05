@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37476
+#	76719
+#	107689
+#	125868
+#
+# Disc length: 2072 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=40081605
+DTITLE=Herbie Hancock - My Point Of View
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Blind Man, Blind Man
+TTITLE1=A Tribute To Someone
+TTITLE2=King Cobra
+TTITLE3=The Pleasure Is Mine
+TTITLE4=And What If I Don't
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

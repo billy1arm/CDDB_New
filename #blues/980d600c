@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22239
+#	38954
+#	65380
+#	86606
+#	104734
+#	130844
+#	151435
+#	180144
+#	195936
+#	218410
+#	236542
+#
+# Disc length: 3426 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=980d600c
+DTITLE=Blues Fellows Dixieland Group - Live in Akwarium
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Jazz Me Blues
+TTITLE1=If I Had You
+TTITLE2=Royal Garden Blues
+TTITLE3=Mood Indigo
+TTITLE4=Alexander's Ragtime Band
+TTITLE5=Creole Love Call
+TTITLE6=My Blue Heaven
+TTITLE7=A' Smooth One
+TTITLE8=When You're Smiling
+TTITLE9=Mankin' Woopie
+TTITLE10=C Jam Blues
+TTITLE11=Sweet Georgia Brown
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

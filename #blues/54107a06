@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	70084
+#	114484
+#	182639
+#	250440
+#	280992
+#
+# Disc length: 4220 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=54107a06
+DTITLE=Sir Edward Elgar - Symphony N°3 et autres oeuvres  (Richard Hickox, BBC National Orchestra of Wales)
+DYEAR=2007
+DGENRE=Classique
+TTITLE0=Symphony N°3 - I. Allegro molto maestoso
+TTITLE1=Symphony N°3 - II. Scherzo - Allegretto
+TTITLE2=Symphony N°3 - III. Adagio solenne
+TTITLE3=Symphony N°3 - IV. Allegro
+TTITLE4=So Many True Princesses Who Have Gone
+TTITLE5=Pomp and Circumstance March N°6
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

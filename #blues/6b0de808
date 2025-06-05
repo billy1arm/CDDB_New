@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6297
+#	43037
+#	69048
+#	119081
+#	143163
+#	180704
+#	238667
+#
+# Disc length: 3562 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6b0de808
+DTITLE=Evan Parker - Boustrophedon
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Overture
+TTITLE1=Furrow 1
+TTITLE2=Furrow 2
+TTITLE3=Furrow 3
+TTITLE4=Furrow 4
+TTITLE5=Furrow 5
+TTITLE6=Furrow 6
+TTITLE7=Final
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

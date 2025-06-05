@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18276
+#	36795
+#	56480
+#	76217
+#	94342
+#	112861
+#	132547
+#
+# Disc length: 2028 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=5d07ea08
+DTITLE=KAT-TUN - RUN FOR YOU
+DYEAR=2011
+DGENRE=J-POP
+TTITLE0=RUN FOR YOU
+TTITLE1=COSMIC CHILD
+TTITLE2=DIAMOND
+TTITLE3=& FOREVER
+TTITLE4=RUN FOR YOU (オリジナル・カラオケ)
+TTITLE5=COSMIC CHILD (オリジナル・カラオケ)
+TTITLE6=DIAMOND (オリジナル・カラオケ)
+TTITLE7=& FOREVER (オリジナル・カラオケ)
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

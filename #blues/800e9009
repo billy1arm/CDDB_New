@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32520
+#	72083
+#	114906
+#	142317
+#	171324
+#	212220
+#	233216
+#	252184
+#
+# Disc length: 3730 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=800e9009
+DTITLE=Lifescapes - Oasis Spa
+DYEAR=2011
+DGENRE=New Age
+TTITLE0=Oasis
+TTITLE1=Water Spirit
+TTITLE2=The Sands Of Time
+TTITLE3=Butterfly House
+TTITLE4=Earth Angels
+TTITLE5=Sacred Voyage
+TTITLE6=Desert Streams
+TTITLE7=Into The Mist
+TTITLE8=Eachoes Of Spain
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	63833
+#	100533
+#	154908
+#	229550
+#
+# Disc length: 3400 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e0d4605
+DTITLE=Miles Davis - Filles de Kilimanjaro 
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Frelon Brun (Brown Hornet)
+TTITLE1=Tout de Suite
+TTITLE2=Petits Machins (Little Stuff)
+TTITLE3=Filles de Kilimanjaro
+TTITLE4=Mademoiselle Mabry (Miss Mabry)
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

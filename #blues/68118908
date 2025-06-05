@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42608
+#	83298
+#	115644
+#	172078
+#	198332
+#	259653
+#	289800
+#
+# Disc length: 4491 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=68118908
+DTITLE=Julian 'Cannonball' Adderley - Salle Pleyel 1960 and Olympia 1961
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Jeannine
+TTITLE1=The Chant
+TTITLE2=Work Song
+TTITLE3=Arriving Soon
+TTITLE4=Serenity
+TTITLE5=Sack O'Woe
+TTITLE6=In Walked Ray
+TTITLE7=Bohemia After Dark
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

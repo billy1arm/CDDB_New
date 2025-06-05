@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21029
+#	36873
+#	57889
+#	78753
+#	94597
+#
+# Disc length: 1540 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=39060206
+DTITLE=SDN48 - 負け惜しみコングラチュレーション [TypeA]
+DYEAR=2012
+DGENRE=Blues
+TTITLE0=負け惜しみコングラチュレーション
+TTITLE1=クリクリ／アンダーガールズA
+TTITLE2=上からナツコ／アンダーガールズB
+TTITLE3=負け惜しみコングラチュレーション (off vocal)
+TTITLE4=クリクリ (off vocal)
+TTITLE5=上からナツコ (off vocal)
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

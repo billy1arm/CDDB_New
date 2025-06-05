@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27600
+#	43840
+#	61635
+#	77754
+#	99510
+#	125342
+#	147025
+#	172842
+#	177090
+#	207680
+#	231820
+#
+# Disc length: 3310 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9d0cec0c
+DTITLE=JUDAS PRIEST - PAINKILLER
+DYEAR=1990
+DGENRE=Heavy Metal
+TTITLE0=Painkiller
+TTITLE1=Hell Patrol
+TTITLE2=All Guns Blazing
+TTITLE3=Leather Rebel
+TTITLE4=Metal Meltdown
+TTITLE5=Night Crawler
+TTITLE6=Between The Hammer and The Anvil
+TTITLE7=A Touch Of Evil
+TTITLE8=Battle Hymn
+TTITLE9=One Shot At Glory
+TTITLE10=Living Bad Dreams *
+TTITLE11=Leather Rebel (live) *
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=Living Bad Dreams [Bonus Track]
+EXTT11=Leather Rebel [Live][Bonus Track]
+PLAYORDER=

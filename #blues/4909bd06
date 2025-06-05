@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47794
+#	81600
+#	124965
+#	150505
+#	168966
+#
+# Disc length: 2495 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4909bd06
+DTITLE=Mozart - Rondo de concerto, Sonate and Marches
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Rondo de concerto pour piano et orchestre en ré majeur [Tamàs Vàsàry, Budapest Chamber Symphony]
+TTITLE1=Sonate pour 2 pianos en ré majeur - I. Allegro con spirito [Dezsö Rànki and Zoltàn Kocsis, piano]
+TTITLE2=Sonate pour 2 pianos en ré majeur - II. Andante 
+TTITLE3=Sonate pour 2 pianos en ré majeur - III. Molto allegro
+TTITLE4=Marche N°9  en ré majeur  [Jànos Rolla, Liszt Ferenc Chamber Orchestra, Budapest]
+TTITLE5=Marche N°10 en ré majeur
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

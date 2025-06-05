@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28715
+#	60140
+#	86707
+#	136040
+#
+# Disc length: 2181 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=32088305
+DTITLE=Stan Getz - Interpretations #3
+DYEAR=1953
+DGENRE=Jazz
+TTITLE0=It Don't Mean A Thing (If It Ain't Got That Swing)
+TTITLE1=The Varsity Drag
+TTITLE2=Give Me The Simple Life
+TTITLE3=I'll Remember April
+TTITLE4=Oh, Jane Snavely
+EXTD=YEAR: 1953
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

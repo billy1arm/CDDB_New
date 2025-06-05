@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45863
+#	74996
+#	108470
+#	146357
+#	186013
+#	216350
+#	255302
+#	287526
+#
+# Disc length: 4204 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=84106a09
+DTITLE=Thomas Fryland Quartet - Another Song
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Another Song
+TTITLE1=Simple Song
+TTITLE2=Melody Song
+TTITLE3=Brazil Song
+TTITLE4=Love Song
+TTITLE5=Circle Song
+TTITLE6=I Remember Clifford
+TTITLE7=This Is New
+TTITLE8=On a Cotton Trail
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33443
+#	75975
+#	145394
+#	177518
+#	217062
+#	240188
+#	285793
+#	312591
+#
+# Disc length: 4563 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7611d109
+DTITLE=Iiro Rantala - Mozart, Bernstein, Lennon
+DYEAR=2018
+DGENRE=Jazz
+TTITLE0=Pekka Pohjola
+TTITLE1=Freedom
+TTITLE2=Mozart: piano concerto 21 - I allegro maestoso
+TTITLE3=Mozart: piano concerto 21 - II andante
+TTITLE4=Mozart: piano concerto 21 - III allegro vivace
+TTITLE5=Bernstein: Candide overture
+TTITLE6=Karma - Anyone with a Heart
+TTITLE7=Tears for Esbjörn
+TTITLE8=Lennon: Imagine
+EXTD=YEAR: 2018
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

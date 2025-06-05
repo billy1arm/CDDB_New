@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  151
+#  14476
+#  29565
+#  46571
+#  60727
+#  72168
+#  87431
+#  102424
+#  118830
+#  136753
+#
+# Disc length: 1977 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.24
+#
+DISCID=8507b70a
+DTITLE=Coupe De Ville - La. to L.A.
+DYEAR=1900
+DGENRE=
+TTITLE0=Rose Thorn Bed
+TTITLE1=Alone
+TTITLE2=Free My Soul
+TTITLE3=Doesn't Really Matter
+TTITLE4=Ain't I'm A Dog
+TTITLE5=Madam Marie
+TTITLE6=David
+TTITLE7=Southern Pride
+TTITLE8=California Cowboy
+TTITLE9=Voodoo Magic
+EXTD=CD Release party at the Big Easy, Monroe Louisiana.
+EXTT0=Coupe De Ville
+EXTT1=Coupe De Ville
+EXTT2=Coupe De Ville
+EXTT3=Coupe De Ville
+EXTT4=Coupe De Ville
+EXTT5=Coupe De Ville
+EXTT6=Coupe De Ville
+EXTT7=Coupe De Ville
+EXTT8=Coupe De Ville
+EXTT9=Coupe De Ville
+PLAYORDER=

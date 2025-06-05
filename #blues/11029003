@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16875
+#	30150
+#
+# Disc length: 658 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=11029003
+DTITLE=LIT - EVE6 - SR-71 - Sonic Style EP
+DYEAR=1900
+DGENRE=ロック (一般)
+TTITLE0=Over My Head - LIT
+TTITLE1=Promise - EVE6
+TTITLE2=Non-Toxic [New Version] - SR-71
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

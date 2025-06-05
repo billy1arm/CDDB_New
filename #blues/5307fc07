@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18932
+#	39051
+#	58477
+#	89308
+#	118673
+#	138209
+#
+# Disc length: 2046 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5307fc07
+DTITLE=Souplus - Brazilian Jazz
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Rio Bravo
+TTITLE1=Bathtub Baba
+TTITLE2=No More Blues (Chega de Saudade)
+TTITLE3=Heartprint
+TTITLE4=Etune
+TTITLE5=Things That I Learn
+TTITLE6=When I First Meet You
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

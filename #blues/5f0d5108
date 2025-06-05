@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13515
+#	56990
+#	81030
+#	108567
+#	124694
+#	211587
+#	225598
+#
+# Disc length: 3411 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5f0d5108
+DTITLE=Paul Desmond - Take Five. The Best of Cool Saxophone
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Take Five
+TTITLE1=Romance De Amour
+TTITLE2=Skylark
+TTITLE3=Take Ten
+TTITLE4=Audrey
+TTITLE5=Concerto De Aranjuez
+TTITLE6=Koto Song
+TTITLE7=Music For a While
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

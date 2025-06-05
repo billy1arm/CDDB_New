@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13793
+#	76893
+#	102050
+#	127638
+#	147975
+#	168563
+#	190793
+#
+# Disc length: 2804 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=5a0af208
+DTITLE=Gennady Shatilov - Black White
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=Sleeping
+TTITLE1=Meditation
+TTITLE2=Dreams
+TTITLE3=Crying (by mother)
+TTITLE4=Voyage
+TTITLE5=Space beach
+TTITLE6=Moon light
+TTITLE7=Ocean
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

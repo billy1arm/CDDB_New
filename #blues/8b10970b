@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30956
+#	53333
+#	80589
+#	101301
+#	142662
+#	164791
+#	232340
+#	249012
+#	273131
+#	298440
+#
+# Disc length: 4249 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8b10970b
+DTITLE=Miles Davis - Les indispensables de Miles Davis
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=I Fall In Love Too Easily
+TTITLE1=I Thought About You
+TTITLE2=Summer Night
+TTITLE3=My Ship
+TTITLE4=Some Day My Prince Will Come
+TTITLE5=Stella By Starlight
+TTITLE6=My Funny Valentine
+TTITLE7=I Loves You, Porgy (From Porgy and Bess)
+TTITLE8=Old Folks
+TTITLE9=Time Afer Time
+TTITLE10=Human Nature
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

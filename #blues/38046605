@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21937
+#	41200
+#	54200
+#	68462
+#
+# Disc length: 1128 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=38046605
+DTITLE=Dixieland Corporation Innsbruck - That's a Plenty
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=That's a Plenty
+TTITLE1=Twelfth Street Rag
+TTITLE2=Darktown Strutters' Ball
+TTITLE3=Sweet Georgia Brown
+TTITLE4=Tiger Rag
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

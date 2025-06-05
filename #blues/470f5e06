@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44297
+#	93090
+#	142812
+#	208086
+#	244694
+#
+# Disc length: 3936 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=470f5e06
+DTITLE=Rachmaninoff - Historical Recording - Vol.1
+DYEAR=2008
+DGENRE=Classique
+TTITLE0=Piano Concerto N°2 in C minor Op.18 - I. Moderato [Sergei Rachmaninoff, piano, 1929)
+TTITLE1=Piano Concerto N°2 in C minor Op.18 - II. Adagio sostenuto [Leopold Stokowsky, 1929]
+TTITLE2=Piano Concerto N°2 in C minor Op.18 - III. Allegro scherzo [Philadelphia Orchestra, 1929]
+TTITLE3=Piano Concerto N°3 in D minor Op.30 - I. Allegro ma non tanto [Vladimir Horowitz, 1930]
+TTITLE4=Piano Concerto N°3 in D minor Op.30 - II. Intermezzo [Albert Coates, 1930]
+TTITLE5=Piano Concerto N°3 in D minor Op.30 - III. Finale - Alla breve [London Symphony Orchestra, 1930]
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

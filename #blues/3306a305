@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19604
+#	40335
+#	62604
+#	92550
+#
+# Disc length: 1701 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3306a305
+DTITLE=John Coltrane - The Best Of John Coltrane
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Say It (Over And Over Again)
+TTITLE1=Impressions
+TTITLE2=My One And Only Love
+TTITLE3=Softly, As In A Morning Sunrise
+TTITLE4=A Love Supreme Part 1 - Acknowledgement
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28978
+#	52109
+#	76966
+#	98228
+#
+# Disc length: 2259 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3c08d105
+DTITLE=Fritz Pauer - Live At The Berlin Jazz Galerie
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Albert's Waltz
+TTITLE1=Who'll Buy My Dreams
+TTITLE2=Understanding
+TTITLE3=Modal Forces (Suite) I Grauliere
+TTITLE4=Ii Gentle Eyes Iii Modal Forces
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

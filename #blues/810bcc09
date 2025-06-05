@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22767
+#	56114
+#	69689
+#	114363
+#	133354
+#	168358
+#	188348
+#	217305
+#
+# Disc length: 3022 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=810bcc09
+DTITLE=Loren Stillman - Blind date
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Blind date
+TTITLE1=What will other people think
+TTITLE2=Etude
+TTITLE3=Shape shifter
+TTITLE4=Theme for a new regime
+TTITLE5=Don't be too nice
+TTITLE6=Major
+TTITLE7=Legroom
+TTITLE8=Etude
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

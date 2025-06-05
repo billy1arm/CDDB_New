@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14970
+#	35940
+#	52905
+#	65791
+#	96317
+#	113568
+#	130594
+#	156620
+#	174321
+#	190372
+#
+# Disc length: 3047 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cddb-tool 0.4.7
+#
+DISCID=a10be30b,a10be50b,a30be30b
+DTITLE=Snowy White - White Flames
+DYEAR=1983
+DGENRE=Blues
+TTITLE0=Open Carefully
+TTITLE1=At The Crossroads
+TTITLE2=The Journey (Part One)
+TTITLE3=The Journey (Part Two)
+TTITLE4=Lucky Star
+TTITLE5=It's No Secret
+TTITLE6=Don't Turn Back
+TTITLE7=Bird Of Paradise
+TTITLE8=Lucky I've Got You
+TTITLE9=The Answer
+TTITLE10=For The Rest Of My Life
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

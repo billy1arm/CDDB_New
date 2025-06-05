@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5097
+#	15267
+#	21220
+#	28992
+#	38027
+#	51435
+#	60755
+#	68780
+#	80365
+#	103925
+#	135912
+#	200517
+#
+# Disc length: 3263 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a20cbd0d
+DTITLE=Bernstein -  Leonard Bernstein - Vol.10_2
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Mass - X. Credo - 1. Credo in unum Deum
+TTITLE1=Mass - X. Credo - 2. Trope - Non Credo
+TTITLE2=Mass - X. Credo - 3. Trope - Hurry
+TTITLE3=Mass - X. Credo - 4. Trope - World Without End
+TTITLE4=Mass - X. Credo - 5. Trope - I Believe In God
+TTITLE5=Mass - XI. Meditation N°3 (De profundis, part 1)
+TTITLE6=Mass - XII. Offertory (De profundis, part 2)
+TTITLE7=Mass - XIII. The Lord's Prayer - 1. Our Father
+TTITLE8=Mass - XIII. The Lord's Prayer - 2. Trope - I Go One
+TTITLE9=Mass - XIV. Sanctus
+TTITLE10=Mass - XV. Agnus Dei
+TTITLE11=Mass - XVI. Fraction - Things Get Broken
+TTITLE12=Mass - XVII. Pax - Communion (Secret Songs)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36485
+#	66979
+#	111780
+#	142144
+#	164028
+#	191840
+#	222511
+#
+# Disc length: 3215 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=890c8d08
+DTITLE=Tomonao Hara and Keiji Matsushima - Go Straight!
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=You're My Everything
+TTITLE1=Lotus Blossom
+TTITLE2=Poinciana
+TTITLE3=Someone To Watch Over Me
+TTITLE4=My Ideal
+TTITLE5=Jitterbug Waltz
+TTITLE6=Stella By Starlight
+TTITLE7=Whatever
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

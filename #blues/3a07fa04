@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51976
+#	95862
+#	116970
+#
+# Disc length: 2044 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3a07fa04
+DTITLE=Miles Davis - In Bologna
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Directions
+TTITLE1=Honky Tonk
+TTITLE2=Sivad
+TTITLE3=What I say
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

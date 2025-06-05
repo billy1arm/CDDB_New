@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	63782
+#	104377
+#	139197
+#	186342
+#	218690
+#
+# Disc length: 3386 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=530d3806
+DTITLE=Mozart - Concertos No. 20 and No. 13
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=Concerto 20: Allegro
+TTITLE1=Concerto 20: Romance
+TTITLE2=Concerto 20: Allegro assai
+TTITLE3=Concerto 13: Allegro
+TTITLE4=Concerto 13: Andante
+TTITLE5=Concerto 13: Rondeau, Allegro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

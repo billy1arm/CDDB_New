@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  200
+#  17732
+#  41030
+#  59800
+#  75607
+#  97850
+#  126150
+#  145782
+#  163235
+#  176610
+#
+# Disc length: 2713 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=850a970a
+DTITLE=Byther Smith - I'm A Mad Man
+DYEAR=1991
+DGENRE=blues
+TTITLE0=I Got So Much Love
+TTITLE1=Comin' Home
+TTITLE2=I'm In A Hole
+TTITLE3=Mad Man
+TTITLE4=Get Outta My Way
+TTITLE5=Play The Blues In Paris
+TTITLE6=You Don't Know Me, Mary
+TTITLE7=Your Mama's Crazy
+TTITLE8=Funky Man
+TTITLE9=35 Long Years
+EXTD=BB 9527\n\nAll songs by Byther Smith.\n\nSubmitted 7/2/97\n[Jmccoy@e
+EXTD=fn.org]
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

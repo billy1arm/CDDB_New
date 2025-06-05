@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18740
+#	37677
+#	55920
+#	75225
+#	90495
+#	111210
+#	131895
+#	153355
+#
+# Disc length: 2321 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=63090f09
+DTITLE=Eugene Friesen - Arms Around You
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Truffles
+TTITLE1=Arms Around You
+TTITLE2=Remembering You
+TTITLE3=Nuns In Cuba
+TTITLE4=Zoe
+TTITLE5=Madrigal
+TTITLE6=Whitewater
+TTITLE7=Night Glider
+TTITLE8=River Music
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

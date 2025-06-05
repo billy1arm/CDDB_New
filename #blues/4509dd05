@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35932
+#	63041
+#	102586
+#	147827
+#
+# Disc length: 2527 seconds
+#
+# Revision: 30
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4509dd05
+DTITLE=Herbie Hancock - Maiden Voyage
+DYEAR=1965
+DGENRE=Jazz Piano
+TTITLE0=Maiden Voyage
+TTITLE1=The Eye of the Hurricane
+TTITLE2=Little One
+TTITLE3=Survival of the Fittest
+TTITLE4=Dolphin Dance
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

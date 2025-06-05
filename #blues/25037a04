@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16141
+#	30537
+#	48510
+#
+# Disc length: 892 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=25037a04
+DTITLE=Flanagan - Like A Fool
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Like A Fool
+TTITLE1=Father, Father
+TTITLE2=Mother Earth
+TTITLE3=Ali From Mali
+EXTD=YEAR: 2000 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

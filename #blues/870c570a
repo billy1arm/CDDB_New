@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25015
+#	36027
+#	68380
+#	86907
+#	110092
+#	145870
+#	164750
+#	181737
+#	214270
+#
+# Disc length: 3161 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.91
+#
+DISCID=870c570a
+DTITLE=Various Artist - Pinnacle Jazz Sampler
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=Vic Vogel - Tempus Fugit
+TTITLE1=Buddy Fite - Here's That Rainy Day
+TTITLE2=Bob Dorough - I can't Get Started with you 
+TTITLE3=Tom Harrell - Aurora
+TTITLE4=Red Parrot Orchestra - Big Band Be Bop (Medley)
+TTITLE5=Vick Vogel - Balland For Duke
+TTITLE6=Buddy Fite - I Can't Get Started With You
+TTITLE7=Bob Dorrough - Au Privave
+TTITLE8=Tom Harrell - On The Roof 
+TTITLE9=Red Parrot Orchestra - Palladium Days (Medley)
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

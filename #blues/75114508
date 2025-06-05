@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23080
+#	59935
+#	98200
+#	134512
+#	164727
+#	207495
+#	233507
+#
+# Disc length: 4423 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=75114508
+DTITLE=Funkomatic 3000 - Funkomatic 3000
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Phoo Bop
+TTITLE1=Inside The Tank
+TTITLE2=Here It Comes Again
+TTITLE3=Solace
+TTITLE4=That Day
+TTITLE5=Glorified Prison
+TTITLE6=End Of The Roll
+TTITLE7=Banana Cake
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

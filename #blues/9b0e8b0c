@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  25150
+#  40262
+#  66212
+#  91337
+#  120812
+#  134762
+#  150587
+#  179312
+#  203162
+#  235862
+#  259787
+#
+# Disc length: 3725 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=9b0e8b0c
+DTITLE=Various Artist - Dance, Dance, Dance -- RCA's All-Time Greatest D
+DTITLE=ance Music
+DYEAR=1900
+DGENRE=
+TTITLE0=Turn The Beat Around
+TTITLE1=Rock The Boat
+TTITLE2=Cherchez La Femme (Se Si Bon)
+TTITLE3=Native New Yorker
+TTITLE4=Shame
+TTITLE5=Dancin'
+TTITLE6=It's Just Begun
+TTITLE7=Happiness Is Just Around The Bend
+TTITLE8=To Each His Own
+TTITLE9=Pow Wow
+TTITLE10=There But For The Grace Of God
+TTITLE11=I Can Understand It
+EXTD=
+EXTT0=Vickie Sue Robinson
+EXTT1=Hues Corporation
+EXTT2=Dr. Buzzard's Original "Savannah" Band
+EXTT3=Odyssey
+EXTT4=Evelyn "Champage" King
+EXTT5=Grey and Hanks
+EXTT6=Jimmy Castor
+EXTT7=Main Ingredient
+EXTT8=Faith, Hope and Charity
+EXTT9=Cory Daye
+EXTT10=Machine
+EXTT11=New Birth
+PLAYORDER=

@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     2267
+#     5137
+#     47815
+#     73947
+#     80990
+#     140665
+#     145147
+#     163297
+#     180847
+#     192709
+#     204717
+#     215690
+#     268972
+#     296007
+#     302125
+# 
+# Disc length: 4274 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=0510b010
+DTITLE=David Barrett - Classic Chicago Blues Harp (instructional)
+DYEAR=1900
+DGENRE=
+TTITLE0=Introduction
+TTITLE1=Chapter 4
+TTITLE2=Chapter 5
+TTITLE3=Chapter 6
+TTITLE4=Chapter 7
+TTITLE5=Chapter 8
+TTITLE6=Out of Breath
+TTITLE7=I'm Ready
+TTITLE8=I'm Ready (sans Harp)
+TTITLE9=Baby Please Don't Go
+TTITLE10=Baby Please Don't Go (sans Harp)
+TTITLE11=Chapter 10
+TTITLE12=Chapter 11
+TTITLE13=Chapter 12
+TTITLE14=Chapter 13
+TTITLE15=I'm Ready
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

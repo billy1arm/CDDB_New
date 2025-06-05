@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14175
+#     29200
+#     43170
+#     57522
+#     71482
+#     86295
+#     101340
+#     115990
+#     130027
+#     142932
+#     158172
+# 
+# Disc length: 2294 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a608f40c
+DTITLE=Blind Boy Fuller - East Coast Piedmont Style
+DYEAR=1900
+DGENRE=
+TTITLE0=Rag, Mama, Rag
+TTITLE1=I m Climbin  On top Of The Hill
+TTITLE2=Baby, I Dont Have To Worry
+TTITLE3=Looking  For My Woman
+TTITLE4=Ain t  It A Cryin   Shame?
+TTITLE5=somebody s Been Playing Eith That Thing
+TTITLE6=Log Cabin Blues
+TTITLE7=Keep Away  From My Woman
+TTITLE8=Cat Man Blues
+TTITLE9=Untrue Blues
+TTITLE10=Black And Tan
+TTITLE11=Evil Hearted Woman
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

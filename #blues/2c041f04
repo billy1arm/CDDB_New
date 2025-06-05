@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19510
+#	38999
+#	56811
+#
+# Disc length: 1057 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=2c041f04
+DTITLE=Electralyte - Electralyte
+DYEAR=2005
+DGENRE=Christian Rock
+TTITLE0=Freedom
+TTITLE1=Hope
+TTITLE2=I Love You
+TTITLE3=Sing Beyond The Silence
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

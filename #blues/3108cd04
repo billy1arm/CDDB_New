@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47533
+#	81470
+#	103472
+#
+# Disc length: 2255 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3108cd04
+DTITLE=Jackie McLean - One Step Beyond
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Saturday And Sunday
+TTITLE1=Frankenstein
+TTITLE2=Blue Rondo
+TTITLE3=Ghost Town
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

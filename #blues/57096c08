@@ -1,0 +1,41 @@
+# xmcd
+# 
+# Track frame offsets:
+#     187
+#     15225
+#     31127
+#     60860
+#     91037
+#     109290
+#     139997
+#     162495
+# 
+# Disc length: 2414
+# 
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: BonkEnc v1.0rc1
+# 
+DISCID=57096c08
+DTITLE=RAINBOW - The Best Of Rainbow [CD2]
+DYEAR=1981
+DGENRE=Hard Rock
+TTITLE0=Since You Been Gone
+TTITLE1=Sixteenth Century Greensleeves
+TTITLE2=Catch The Rainbow
+TTITLE3=Eyes Of The World
+TTITLE4=I Surrender
+TTITLE5=Gates Of Babylon
+TTITLE6=Can't Happen Here
+TTITLE7=Starstruck
+EXTD=Ritchie Blackmore:\t\tg\nCozy Powell:\t\tdr(1,4,8]\nGary Driscoll:\t\tdr(2,3]\nBob Rondinelli:\t\tdr(5,7]\nRoger Glover:\t\tb(1,4,5,7]\nCraig Gruber:\t\tb(2,3]\nBob Daisley:\t\tb(6]\nJimmy Bain:\t\tb(8]\nDon Airey:\t\tkb(1,4,5,7]\nMickey Lee Soule:EX
+EXTD=TD=t\tkb(2,3]\nDavid Stone:\t\tkb(6]\nTony Carey:\t\tkb(8]\nGraham Bonnet:\t\tvoc(1,4]\nRonnie James Dio:\t\tvoc(2,3,6,8]\nJoe Lynn Turner:\t\tvoc(5,7) YEAR: 1981
+EXTT0=Russ Ballard\n1979
+EXTT1=Blackmore and Dio\n1977
+EXTT2=Blackmore and Dio\n1975
+EXTT3=Blackmore and Glover\n1979
+EXTT4=Russ Ballard\n1981
+EXTT5=Blackmore and Dio\n1978
+EXTT6=Blackmore and Glover\n1981
+EXTT7=Blackmore and Dio\n1976
+PLAYORDER=

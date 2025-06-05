@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15352
+#	33925
+#	58002
+#	83045
+#
+# Disc length: 1492 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2d05d205
+DTITLE=Me and My - Dub-I-Dub
+DYEAR=1996
+DGENRE=Pop
+TTITLE0=Dub-I-Dub (Radio mix)
+TTITLE1=Dub-I-Dub (MG radio remix)
+TTITLE2=Dub-I-Dub (Club remix)
+TTITLE3=Dub-I-Dub (Underground dub)
+TTITLE4=Dub-I-Dub (Boomin club remix)
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

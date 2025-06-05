@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33911
+#	63292
+#	89580
+#	116244
+#	148564
+#	170960
+#	207730
+#	242396
+#
+# Disc length: 3566 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=850dec09
+DTITLE=Greg Abate - Evolution
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Evolution
+TTITLE1=Dreaming in Color
+TTITLE2=Kerry's Bossa
+TTITLE3=Dearly Departed (September11)
+TTITLE4=Angelic
+TTITLE5=(Living-the-Dash)
+TTITLE6=K. T. Blues
+TTITLE7=The Little Men
+TTITLE8=Family Tree
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

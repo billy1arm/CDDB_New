@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	50820
+#	93367
+#	119240
+#	181120
+#
+# Disc length: 3204 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=430c8205
+DTITLE=Eric Dolphy - Eric Dolphy In Europe,Vol.2
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Don't Blame Me(take 1)
+TTITLE1=The Way You Look Tonight
+TTITLE2=Miss Ann
+TTITLE3=Laura
+TTITLE4=Don't Blame Me(take 2)
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

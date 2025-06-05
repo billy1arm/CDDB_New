@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7698
+#	23003
+#	42056
+#	63340
+#	78395
+#	108911
+#
+# Disc length: 1515 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=3f05e907
+DTITLE=천상지희(天上智喜) - First Single "Too Good"
+DYEAR=2005
+DGENRE=A Cappella
+TTITLE0=알수 없는 가수 - 트랙 아티스트 1
+TTITLE1=알수 없는 가수 - 트랙 아티스트 2
+TTITLE2=알수 없는 가수 - 트랙 아티스트 3
+TTITLE3=알수 없는 가수 - 트랙 아티스트 4
+TTITLE4=알수 없는 가수 - 트랙 아티스트 5
+TTITLE5=알수 없는 가수 - 트랙 아티스트 6
+TTITLE6=알수 없는 가수 - 트랙 아티스트 7
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

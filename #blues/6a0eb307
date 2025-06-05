@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28843
+#	70818
+#	94818
+#	148813
+#	163708
+#	207691
+#
+# Disc length: 3765 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6a0eb307
+DTITLE=Joe Bonamassa - Live at Shepherd's Bush Empire, London - 29th March 2007
+DYEAR=2007
+DGENRE=Blues
+TTITLE0=Walk In My Shadows
+TTITLE1=Blues Deluxe
+TTITLE2=Bridge To Better Days
+TTITLE3=Asking Around For You
+TTITLE4=Woke Up Dreaming
+TTITLE5=Just Got Paid > Dazed and Confused
+TTITLE6=Walk In My Shadow > So Many Roads > Bridge To Better Days
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

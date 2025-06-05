@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24804
+#	51773
+#	80110
+#	117788
+#	147154
+#	168768
+#	259368
+#	312995
+#
+# Disc length: 4652 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=71122a09
+DTITLE=Jimmy Smith - Eight Classic Albums Vol 2   CD3
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=These Foolish Things
+TTITLE1=Hackensack
+TTITLE2=It Could Happen To You
+TTITLE3=Sometimes I'm Happy
+TTITLE4=Someone to Watch Over Me
+TTITLE5=One for Philly Joe
+TTITLE6=The Sermon
+TTITLE7=JOS
+TTITLE8=Flamingo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27240
+#	44192
+#	61152
+#	83015
+#	107620
+#	127895
+#	150325
+#	174097
+#	199255
+#	222227
+#
+# Disc length: 3288 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=880cd60b
+DTITLE=Grupo Niche - veinteanos
+DYEAR=2001
+DGENRE=Salsa
+TTITLE0=La Danza de la Chancaca
+TTITLE1=Gotas de Lluvia (Bachata)
+TTITLE2=Gotas de Lluvia (Balada Pop)
+TTITLE3=Sin Sentimiento
+TTITLE4=Mexico Mexico
+TTITLE5=La Canoa Ranchaa
+TTITLE6=La Culpa la Tiene
+TTITLE7=Mi Pueblo Natal
+TTITLE8=Duele Mas
+TTITLE9=Una Aventura
+TTITLE10=Lamento Guajiro
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26600
+#	54825
+#	85100
+#	116720
+#	146692
+#
+# Disc length: 2581 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=470a1306
+DTITLE=McCoy Tyner - 44th Street Suite
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Bessie's Blues
+TTITLE1=Blue Piano
+TTITLE2=Not for Beginners
+TTITLE3=Falling in Love with Love
+TTITLE4=44th Street Suite-Part I
+TTITLE5=44th Street Suite-Part II
+EXTD=
+EXTT0=J. Coltrane
+EXTT1=Duke Ellington-Bob Thiele
+EXTT2=McCoy Tyner
+EXTT3=Rodgers-Hart
+EXTT4=McCoy Tyner-Arthur Blythe- Ron Carter
+EXTT5=McCoy Tyner-Arthur Blythe- Ron Carter
+PLAYORDER=

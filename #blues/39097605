@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57820
+#	88254
+#	124817
+#	166109
+#
+# Disc length: 2424 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=39097605
+DTITLE=John Coltrane - Meditations
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Father and the Son and the Holy Ghost
+TTITLE1=Compassion
+TTITLE2=Love
+TTITLE3=Consequences
+TTITLE4=Serenity
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

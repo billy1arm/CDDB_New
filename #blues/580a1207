@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	38333
+#	56605
+#	96700
+#	123723
+#	151010
+#	170028
+#
+# Disc length: 2580 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=580a1207
+DTITLE=Various Artist - Salonaden  (Detlef Tewes, mandoline and Michael Trôster, guitare)
+DYEAR=1986
+DGENRE=Classique
+TTITLE0=Niccolò Paganini - Grande sonate pour Guitare avec l'accompagnement d'une Mandoline - I. Allegro risoluto
+TTITLE1=Niccolò Paganini - Grande sonate pour Guitare avec l'accompagnement d'une Mandoline - II. Romanze
+TTITLE2=Niccolò Paganini - Grande sonate pour Guitare avec l'accompagnement d'une Mandoline - III. Andantino
+TTITLE3=Mauro Giuliani - Grande sonate Op.25, pour Mandoline et Guitare - I. Maestoso
+TTITLE4=Mauro Giuliani - Grande sonate Op.25, pour Mandoline et Guitare - II. Thema mit Variationen
+TTITLE5=Mauro Giuliani - Grande sonate Op.25, pour Mandoline et Guitare - III. Menuetto (Allegretto)
+TTITLE6=Mauro Giuliani - Grande sonate Op.25, pour Mandoline et Guitare - IV. Rondo (Allegretto)
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

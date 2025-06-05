@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25336
+#	51413
+#	73300
+#	94567
+#	108552
+#	131983
+#	154103
+#
+# Disc length: 2313 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=73090708
+DTITLE=Vince Guaraldi Trio - Cast Your Fate to the Wind
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Samba de Orpheus
+TTITLE1=Manha de Carnival
+TTITLE2=Musso Amor
+TTITLE3=Generique
+TTITLE4=Cast Your Fate to the Wind
+TTITLE5=Moon River
+TTITLE6=Alma-Ville
+TTITLE7=Since I Fell for You
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

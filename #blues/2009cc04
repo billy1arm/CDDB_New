@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20645
+#	81155
+#	105072
+#
+# Disc length: 2510 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2009cc04
+DTITLE=Hancock, Herbie - V.S.O.P.
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Piano Introduction
+TTITLE1=Maiden Voyage
+TTITLE2=Nefertiti
+TTITLE3=Eye ofe the Hurricane
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

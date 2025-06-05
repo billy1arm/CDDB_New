@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16787
+#	57777
+#	75567
+#	227102
+#	249452
+#	266397
+#	281965
+#	305362
+#
+# Disc length: 4199 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c106509
+DTITLE=The Allman Brothers Band - Eat A Peach
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Ain't Waisting Time no More
+TTITLE1=Les Brers in A Minor
+TTITLE2=Melissa
+TTITLE3=Mountain Jam
+TTITLE4=One Way Out
+TTITLE5=Trouble No More
+TTITLE6=Stand Back
+TTITLE7=Blue Sky
+TTITLE8=Little Martha
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

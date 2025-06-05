@@ -1,0 +1,49 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	17287
+#	35960
+#	59087
+#	71312
+#	97982
+#	117865
+#	132997
+#	154055
+#	168905
+#
+# Disc length: 2350 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.1
+#
+DISCID=7f092c0a
+DTITLE=Muddy Waters - Live in 1958
+DYEAR=1900
+DGENRE=
+TTITLE0=Hoochie Coochie Man
+TTITLE1=Blow Wind Blow
+TTITLE2=Long Distance Call
+TTITLE3=Baby Please Don't Go
+TTITLE4=Blues Before Sunrise
+TTITLE5=Rollin' Stone
+TTITLE6=I Can't Be Satisfied
+TTITLE7=I Feel Like Going Home
+TTITLE8=Walking Through The Park
+TTITLE9=Encore
+EXTD=Muddy Waters (vocals/guitar]\nOtis Spann (piano]\n\nWalking Through The
+EXTD=Park/Encore also feature The Chris Barber Band.\n\nRecorded at Free Tr
+EXTD=ade Hall, Manchester, England, 26 October 1958.
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

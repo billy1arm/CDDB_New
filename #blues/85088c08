@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22192
+#	37157
+#	59572
+#	89580
+#	110760
+#	128105
+#	149982
+#
+# Disc length: 2190 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=85088c08
+DTITLE=Willie Rosario - Platino
+DYEAR=1994
+DGENRE=Salsa
+TTITLE0=Mi Amigo El Payaso
+TTITLE1=La Mitad
+TTITLE2=El Antifaz
+TTITLE3=Ignorante
+TTITLE4=A Todo Cuba Le Gusta
+TTITLE5=Atizame El Fogon
+TTITLE6=Amigo
+TTITLE7=El Condenado
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33665
+#	46597
+#	60795
+#	81575
+#	93930
+#	110807
+#	125020
+#
+# Disc length: 1855 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=64073d08
+DTITLE=Lincoln Jazz Ceneter - Essentially Ellington (1999)
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Launching Pad
+TTITLE1=Main Stem
+TTITLE2=Never No Lament (Don't Get Around Much Anymore)
+TTITLE3=Oclupaca
+TTITLE4=Rockabye River
+TTITLE5=Sophisticated Lady
+TTITLE6=Mood Indigo
+TTITLE7=Portrait of Louis Armstrong
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

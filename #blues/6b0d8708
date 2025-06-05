@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24338
+#	64355
+#	106995
+#	126505
+#	154805
+#	193678
+#	227720
+#
+# Disc length: 3465 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b0d8708
+DTITLE=Jean-Claude Mara - Tag und Traum
+DYEAR=1999
+DGENRE=New Age
+TTITLE0=Quitétude
+TTITLE1=Le temple de shiva
+TTITLE2=Psaume Nocturne
+TTITLE3=Mawlana
+TTITLE4=L´oracle céleste
+TTITLE5=Ode mysitique
+TTITLE6=La cité des crepuscule
+TTITLE7=Luers du crepuscule
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

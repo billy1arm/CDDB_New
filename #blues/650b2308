@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	32720
+#	51620
+#	72843
+#	98003
+#	119265
+#	152873
+#	188345
+#
+# Disc length: 2853 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=650b2308
+DTITLE=Taj Mahal - Big Blues
+DYEAR=1988
+DGENRE=
+TTITLE0=taj mahal - big blues
+TTITLE1=taj mahal - mail box blues
+TTITLE2=taj mahal - stagger lee
+TTITLE3=taj mahal - come on in my kitchen
+TTITLE4=taj mahal - local local girl
+TTITLE5=taj mahal - soothin'
+TTITLE6=taj mahal - fishin' blues_statesboro' blues
+TTITLE7=taj mahal - everybody is somebody
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

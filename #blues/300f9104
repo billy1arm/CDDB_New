@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	82705
+#	144668
+#	208240
+#
+# Disc length: 3987 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=300f9104
+DTITLE=Joe Henderson Meets Kankawa - Blue Bossa Live 1987
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=1. Softly as in a Morning Sunrise
+TTITLE1=2. Recorda-Me
+TTITLE2=3. Stella by Starlight
+TTITLE3=4. Blue Bossa
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

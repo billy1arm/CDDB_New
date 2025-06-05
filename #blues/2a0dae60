@@ -1,0 +1,304 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4100
+#	6200
+#	8290
+#	10250
+#	12275
+#	15650
+#	17325
+#	19350
+#	21050
+#	24950
+#	27975
+#	31085
+#	34255
+#	36165
+#	39805
+#	45985
+#	49105
+#	53175
+#	57085
+#	59385
+#	61990
+#	66000
+#	67670
+#	69430
+#	71085
+#	72835
+#	74520
+#	76180
+#	77925
+#	79625
+#	81265
+#	82855
+#	84360
+#	86715
+#	88245
+#	89600
+#	91255
+#	92895
+#	94905
+#	97145
+#	98860
+#	101625
+#	105160
+#	106855
+#	108675
+#	112330
+#	114385
+#	116475
+#	118690
+#	121920
+#	124830
+#	127077
+#	127909
+#	128774
+#	129879
+#	130854
+#	131974
+#	133074
+#	134149
+#	135254
+#	136404
+#	137719
+#	138749
+#	139779
+#	140834
+#	142274
+#	144824
+#	145679
+#	146614
+#	147634
+#	148764
+#	149943
+#	150735
+#	151575
+#	152415
+#	153265
+#	154650
+#	156015
+#	157485
+#	158350
+#	159300
+#	160610
+#	161535
+#	162750
+#	164030
+#	165285
+#	166535
+#	167770
+#	169090
+#	172335
+#	175440
+#	177508
+#	191490
+#	212710
+#	228285
+#
+# Disc length: 3504 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2a0dae60
+DTITLE=Torbjörn Gulz - Jazzarrangering
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Trumpet open
+TTITLE1=Trumpet cup
+TTITLE2=Trumpet straight
+TTITLE3=Trumpet bucket
+TTITLE4=Trumpet harmon
+TTITLE5=Trumpet harmon soft
+TTITLE6=Trumpet cup soft
+TTITLE7=Trumpet plunger
+TTITLE8=Trombon pedaltoner
+TTITLE9=Trombon open
+TTITLE10=Trombon cup
+TTITLE11=Trombon straight
+TTITLE12=Trombon bucket
+TTITLE13=Trombon plunger
+TTITLE14=Sopransaxofon
+TTITLE15=Sopransaxofon soft
+TTITLE16=Altsaxofon
+TTITLE17=Tenorsaxofon
+TTITLE18=Barytonsaxofon
+TTITLE19=Barytonsaxofon övre register
+TTITLE20=Barytonsaxofon nedre register
+TTITLE21=Klarinett
+TTITLE22=Pianokomp 1
+TTITLE23=Pianokomp 2
+TTITLE24=Piano
+TTITLE25=Bas two-feel
+TTITLE26=Bas walking
+TTITLE27=Bas melodi
+TTITLE28=Rytmiskt varierad melodi 1
+TTITLE29=Rytmiskt varierad melodi 2
+TTITLE30=Ackordfärgningar 1
+TTITLE31=Ackordfärgningar 2
+TTITLE32=Unisont
+TTITLE33=Oktaver
+TTITLE34=Terser, sexter
+TTITLE35=Kvarter 1
+TTITLE36=Kvarter 2
+TTITLE37=Liggande dissonanser
+TTITLE38=Grundläggande ledtonsstämma
+TTITLE39=Mer avancerad ledtonsstämma
+TTITLE40=Ledtonsstämma mot/med harmonik
+TTITLE41=Ledtonsstämma under melodi
+TTITLE42=Rytmiskt baserad andrastämma
+TTITLE43=Dissonans till konsonans
+TTITLE44=Konsonans
+TTITLE45=Och fågeln flög pianotrio
+TTITLE46=Intro 1 Sekvens
+TTITLE47=Intro 2 Harmonisk augumentation
+TTITLE48=Intro 3 Melodisk augumentation
+TTITLE49=Intro 4 Rytmiskt element
+TTITLE50=Intro 5 Diminutiv rytmik
+TTITLE51=Intro 6 Inverterat fragment
+TTITLE52=Diatoniskt närmande
+TTITLE53=Dominantiskt närmande
+TTITLE54=Kromatiskt närmande
+TTITLE55=Exakt parallellföring
+TTITLE56=Blockharmonisering fyra takter
+TTITLE57=Blockharmonisering fyra takter drop2
+TTITLE58=Olika droptekniker
+TTITLE59=Övernivå grundharmonik
+TTITLE60=Övernivå slutresultat
+TTITLE61=Övernivå sex takter
+TTITLE62=Diatoniskt cluster
+TTITLE63=Diatoniskt cluster med separerad melodi
+TTITLE64=Fastlagt parallellfört cluster
+TTITLE65=Kromatiskt cluster
+TTITLE66=Cluseter i olika register
+TTITLE67=Kvartstapling 1
+TTITLE68=Kvartstapling 2
+TTITLE69=Treklangsöverlagring
+TTITLE70=Treklangsöverlagring mot pedal
+TTITLE71=Treklangsöverlagring mot basstämma
+TTITLE72=Blockharmonisering 1
+TTITLE73=Reharmonisering 1
+TTITLE74=Blockharmonisering 2
+TTITLE75=Reharmonisering 2
+TTITLE76=Reharmonisering motrörelse
+TTITLE77=Reharmonisering medrörelse
+TTITLE78=Individuella stämmor
+TTITLE79=Linjär melodi
+TTITLE80=Klangprioritering konstant läggning 1
+TTITLE81=Klangprioritering konstant läggning 2
+TTITLE82=Melodiförstärkning
+TTITLE83=Ackordläggning mot naturtonsserien
+TTITLE84=Instrumentering trumpetlead
+TTITLE85=Instrumentering tenorsaxofonlead
+TTITLE86=Instrumentering klarinettlead
+TTITLE87=Instrumentering trombonlead
+TTITLE88=Instrumentering attackförstärkning
+TTITLE89=Instrumentering tenor-altsaxofon
+TTITLE90=Instrumentering barytonsax and trumpet (harmon)
+TTITLE91=Klangfärgsförskjutning
+TTITLE92=Upstairs
+TTITLE93=Och fågeln flög
+TTITLE94=You Musg Get Back to Sleep
+TTITLE95=Jaur
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+PLAYORDER=

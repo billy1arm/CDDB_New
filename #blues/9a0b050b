@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 182
+# 21982
+# 42632
+# 58872
+# 76907
+# 103037
+# 117595
+# 138980
+# 152777
+# 168680
+# 191392
+#
+# Disc length: 2823 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=9a0b050b
+DTITLE=Olu Dara - In the World (From Natchez to New York)
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Okra
+TTITLE1=Rain Shower
+TTITLE2=Natchez Shopping Blues
+TTITLE3=Your Lips
+TTITLE4=Harlem Country Girl
+TTITLE5=Zora
+TTITLE6=Young Mama
+TTITLE7=Bubber (If Only)
+TTITLE8=Father Blues
+TTITLE9=Jungle Jay
+TTITLE10=Kiane
+EXTD=Atlantic 83077-2\n1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

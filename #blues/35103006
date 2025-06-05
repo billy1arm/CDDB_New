@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	76022
+#	129800
+#	167820
+#	225760
+#	288882
+#
+# Disc length: 4146 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=35103006
+DTITLE=Franz Liszt - Compact Collection
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=Les Préludes
+TTITLE1=Ungarische Rhapsoide Nr. 1
+TTITLE2=Ungarische Rhapsoide Nr. 3
+TTITLE3=Ungarische Rhapsoide Nr. 5
+TTITLE4=Ungarische Rhapsoide Nr. 6
+TTITLE5=Ungarische Rhapsoide Nr. 15
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

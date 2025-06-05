@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20680
+#	35560
+#	49315
+#	69522
+#	85920
+#	106282
+#	137312
+#	151465
+#
+# Disc length: 2345 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=72092709
+DTITLE=Jimmy Raney - Together
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Once In A While
+TTITLE1=Pennies From Heaven
+TTITLE2=Yesterdays
+TTITLE3=There Will Never Be Another You
+TTITLE4=Body And Soul
+TTITLE5=Stella By Starlight
+TTITLE6=You Go To My Head
+TTITLE7=Jumping For Jane
+TTITLE8=Invention
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

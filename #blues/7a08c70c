@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17432
+#	32079
+#	47365
+#	62319
+#	75918
+#	84000
+#	94245
+#	108922
+#	123598
+#	138833
+#	152782
+#
+# Disc length: 2249 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7a08c70c
+DTITLE=Billie Holiday - 2 Compact Discs
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=All of Me
+TTITLE1=Fine and Mellow
+TTITLE2=Don't Explain
+TTITLE3=Lover Come Back To Me
+TTITLE4=The Way You Look Tonight
+TTITLE5=Them There Eyes
+TTITLE6=Gee Baby, Ain't I Good For You
+TTITLE7=I Cried For You
+TTITLE8=Pennies From Heaven
+TTITLE9=Tenderly
+TTITLE10=The Man I Love
+TTITLE11=You're My Thrill
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

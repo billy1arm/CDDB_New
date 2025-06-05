@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14360
+#	26228
+#	43352
+#	57558
+#	67749
+#	80892
+#	89575
+#	105001
+#	114118
+#	136878
+#
+# Disc length: 2004 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=8e07d20b
+DTITLE=Vincent Gemignani - Modern pop percussion - "L'oiseau sans pieds"
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Promethee
+TTITLE1=Ophis le serpentaire
+TTITLE2=L'oiseau sans pieds
+TTITLE3=Titania
+TTITLE4=Condylura
+TTITLE5="Le grand mouille"
+TTITLE6=Silences
+TTITLE7=Insidieusement les elfes
+TTITLE8=Megalopolis 1000' avenue
+TTITLE9=Liberalia
+TTITLE10=Alice
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

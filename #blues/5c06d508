@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	15468
+#	29498
+#	39170
+#	51401
+#	65507
+#	77501
+#	113802
+#
+# Disc length: 1751 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c06d508
+DTITLE=Claude Bolling - Jazzgang Amadeus Mozart
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Eine kleine nachtmusik - Allegro
+TTITLE1=Eine kleine nachtmusik - Romance
+TTITLE2=Eine kleine nachtmusik - Minuetto
+TTITLE3=Eine kleine nachtmusik - Rondo
+TTITLE4=Voi Che Sapete
+TTITLE5=Sonate n° 11 - Rondo alla turca
+TTITLE6=Sonate n° 11 - Andante and variations
+TTITLE7=Ouverture The marriage of Figaro
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

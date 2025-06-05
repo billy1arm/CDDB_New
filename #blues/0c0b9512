@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  11252
+#  22290
+#  35172
+#  47825
+#  58142
+#  69365
+#  82200
+#  94042
+#  107460
+#  119180
+#  129877
+#  143502
+#  156462
+#  169832
+#  179797
+#  195307
+#  208385
+#
+# Disc length: 2967 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.23
+#
+DISCID=0c0b9512
+DTITLE=Howlin' Wolf - The Best of Howlin' Wolf
+DYEAR=1900
+DGENRE=
+TTITLE0=The Red Rooster
+TTITLE1=Wang Dang Doodle
+TTITLE2=Back Door Man
+TTITLE3=Spoonful
+TTITLE4=Shake For Me
+TTITLE5=You'll Be Mine
+TTITLE6=Kiling Floor
+TTITLE7=Built For Comfort
+TTITLE8=Moanin' At Midnight
+TTITLE9=Howlin' For My Darling
+TTITLE10=Who's Been Talkin'
+TTITLE11=Highway 49
+TTITLE12=I Ain't Superstitious
+TTITLE13=Tell Me
+TTITLE14=Down In The Bottom
+TTITLE15=Goin' Down Slow
+TTITLE16=Evil
+TTITLE17=Ridin' In The Moonlight
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

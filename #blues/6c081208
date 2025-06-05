@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24949
+#	47744
+#	72361
+#	98748
+#	111644
+#	126349
+#	136693
+#
+# Disc length: 2068 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: ACXtractor (MTCDDB.DLL V2003.07.15)
+#
+DISCID=6c081208
+DTITLE=RedHouse - RedHouse Promotional CD
+DYEAR=2007
+DGENRE=Blues
+TTITLE0=Chicken Shack
+TTITLE1=Killing Floor
+TTITLE2=Baby Lee
+TTITLE3=Help Me
+TTITLE4=Pride and Joy
+TTITLE5=Goin' to Mississippi
+TTITLE6=Hoochie Coochie Man
+TTITLE7=Coming Home
+EXTD=ID3G:   0 YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

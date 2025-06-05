@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     18918
+#     37163
+#     53985
+#     68985
+#     87510
+#     104575
+#     139270
+#     162620
+#     180625
+# 
+# Disc length: 2662 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.1
+# 
+DISCID=930a640a
+DTITLE=Blues Traveler - 1,000,000 People Can't Be Wrong
+DYEAR=1900
+DGENRE=
+TTITLE0=But Anyway
+TTITLE1=Gina
+TTITLE2=Mulling It Over
+TTITLE3=Dropping Some NYC
+TTITLE4=Optimistic Thought (live)
+TTITLE5=What's For Breakfast
+TTITLE6=Sweet Pain
+TTITLE7=Conquer Me
+TTITLE8=Defense and Desire
+TTITLE9=Love and Greed
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14180
+#	31630
+#	45395
+#	64867
+#	78290
+#	98442
+#	112380
+#	127467
+#	142572
+#	156977
+#	174015
+#
+# Disc length: 2489 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=9509b70c
+DTITLE=Ellis Larkins - Blue And Sentimental
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Am I Blue
+TTITLE1=Interlude #1
+TTITLE2=Blue Prelude
+TTITLE3=At Loose Ends
+TTITLE4=Blue And Sentimental
+TTITLE5=Ode To Marie
+TTITLE6=Blue Moon
+TTITLE7=Interlude #2
+TTITLE8=Time
+TTITLE9=Blue Again
+TTITLE10=Four Bar Intro With Tag
+TTITLE11=A Blues Serenade
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

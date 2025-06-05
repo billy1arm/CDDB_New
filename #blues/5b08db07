@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21202
+#	39792
+#	61894
+#	88809
+#	116911
+#	138638
+#
+# Disc length: 2269 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b08db07
+DTITLE=Horace Silver - Blowin' the Blues Away
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=Blowin' the Blues Away
+TTITLE1=The St.Vitus Dance 
+TTITLE2=Peace
+TTITLE3=Sister Sadie
+TTITLE4=The Baghdad Blues
+TTITLE5=Melancholy Mood
+TTITLE6=How Did it Happen
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

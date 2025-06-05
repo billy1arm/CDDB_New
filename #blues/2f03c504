@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17055
+#	35120
+#	49847
+#
+# Disc length: 967 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2f03c504
+DTITLE=Hi-5 - SHORT RANGE
+DYEAR=1900
+DGENRE=Rock
+TTITLE0=headrock
+TTITLE1=tired,me
+TTITLE2=ACTION BOOGIE
+TTITLE3=SHORT RANGE
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

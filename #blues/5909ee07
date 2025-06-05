@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21997
+#	55420
+#	79149
+#	103132
+#	131989
+#	159099
+#
+# Disc length: 2544 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5909ee07
+DTITLE=MJQ - The Last Concert Disc 2
+DYEAR=1974
+DGENRE=Jazz
+TTITLE0=Confirmation
+TTITLE1=Round Midnight
+TTITLE2=Night in Tunisia
+TTITLE3=The Golden Striker
+TTITLE4=Skating in Central Park
+TTITLE5=Django
+TTITLE6=What's New 
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

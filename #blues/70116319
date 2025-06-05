@@ -1,0 +1,91 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13065
+#	26935
+#	41075
+#	54720
+#	67980
+#	80127
+#	93090
+#	107722
+#	120922
+#	131875
+#	144742
+#	159127
+#	169805
+#	182710
+#	195362
+#	205845
+#	220740
+#	234645
+#	247207
+#	264695
+#	278467
+#	295935
+#	308445
+#	321550
+#
+# Disc length: 4453 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=70116319
+DTITLE=Muddy Waters - The Chess Box (2) (1954-1959)
+DYEAR=1989
+DGENRE=Blues
+TTITLE0=I Just Want To Make Love To You
+TTITLE1=I'm Ready
+TTITLE2=Smokestack Lightnin'
+TTITLE3=Young Fashioned Ways
+TTITLE4=Mannish Boy
+TTITLE5=Trouble No More
+TTITLE6=Forty Days And Forty Nights
+TTITLE7=Just To Be With You
+TTITLE8=Don't Go No Farther
+TTITLE9=Diamonds At Your Feet
+TTITLE10=I Love The Life I Live, I Live The Life I Love
+TTITLE11=Rock Me
+TTITLE12=Look What You Done
+TTITLE13=Got My Mojo Working
+TTITLE14=Good News
+TTITLE15=Evil
+TTITLE16=She's Nineteen Years Old
+TTITLE17=Close To You
+TTITLE18=Walkin' Thru The Park
+TTITLE19=Blues Before Sunrise (with false starts, dialogue)
+TTITLE20=Lonesome Road Blues
+TTITLE21=Take The Bitter With The Sweet (dialogue, false start, alt. take)
+TTITLE22=She's Into Something
+TTITLE23=Southbound Train
+TTITLE24=Double Trouble
+EXTD=Muddy Waters (vocals only, except as indicated) YEAR: 1989
+EXTT0=Recorded April 13, 1954\nMuddy Waters (vocal, guitar) - Little Walter (harmonica);\nOtis Spann (piano) - Jimmy Rogers (guitar);\nWille Dixon (bass) - Elgin Evans (drums)
+EXTT1=Recorded September 1, 1954\nLittle Walter (harmonica) - Otis Spann (piano);\nJimmy Rogers (guitar) - Willie Dixon (bass) - \nFred Below (drums)
+EXTT2=Same personnel and recording date as "I'm Ready"
+EXTT3=Recorded February 3, 1955\nLittle Walter (harmonica) - Otis Spann(piano);\nJimmy Rogers (guitar) - Willie Dixon (bass);\nFrancisClay (drums)
+EXTT4=Recorded 1955\nLittle Walter (harmonica) - Jimmy Rogers (guitar);\nWillie Dixon (bass) - Francis Clay (drums)
+EXTT5=Recorded 1955\nOtis Spann (piano) - Little Walter (harmonica);\nJimmy Rogers (guitar) - Willie Dixon (bass);\nFrancis Clay (drums)
+EXTT6=Recorded 1956\nLittle Walter (harmonica) - Jimmy Rogers (guitar);\nWillie Dixon (bass) - Francis Clay (drums)
+EXTT7=Recorded 1956\nLittle Walter (harmonica) - Otis Spann (piano);\nJimmy Rogers (guitar) - Willie Dixon (bass) - \nFrancis Clay (drums)
+EXTT8=Same recording date and personnel as "Just To Be With You"
+EXTT9=Same recording date and personnel as "Just To Be With You"
+EXTT10=Recorded December 1, 1956\nJames Cotton (harmonica) - Otis Spann(piano);\nJimmy Rogers (guitar) - Andrew Stephens or \nWillie Dixon (bass) - Francis Clay (drums)
+EXTT11=Same personnel and recording date as\n"I Live the Life I Love"
+EXTT12=Same recordind date and personnel as \n"I Live The Life I Love"
+EXTT13=Same recording date and personnel as\n"I Live The Life I Love"
+EXTT14=Recorded May/June 1957\nMarcus Johnson, another (tenor sax) - \nOtis Spann (piano) - Auburn "Pat" Hare (guitar);\nAndrew Stephens or Wille Dixon (bass);\nFrancis Clay (drums)
+EXTT15=Same recording date and personnel as "Good News"\nexcept deletesaxes and add James Cotton (harmonica)
+EXTT16=Recorded November 1958\nLittle Walter (harmonica) - Otis Spann (piano);\nAuburn "Pat" Hare, Luther Tucker (guitar);\nAndrew Stephens or Willie Dixon (bass) - \nFrancis Clay (drums)
+EXTT17=Same recording date and personnel as "She's Nineteen\nYears Old" except add J.T. Brown (tenor sax)
+EXTT18=Recorded Fall 1958\nLittle Walter (harmonica) - Otis Spann (piano);\nAuburn "Pat" Hare, Luther Tucker (guitar);\nAndrew Stephens (bass) - Francis Clay (drums)
+EXTT19=Recorded early 1959\nJames Cotton (harmonica) - Otis Spann (piano);\nAuburn "Pat" Hare (guitar) - Andrew Stephens (bass);\nFrancis Clay (drums)
+EXTT20=Recorded July 1959\nJames Cotton (harmonica) - Otis Spann (piano);\nAuburn "Pat" Hare (guitar) - Andrew Stephens (bass) - \nFrancis Clay (drums)
+EXTT21=Same recording date and personnel as "Lonesome Road Blues"
+EXTT22=Same recording date and personnel as "Lonesome Road\nBlues"
+EXTT23=Same recording date and personnel as "Lonesome Road\nBlues"
+EXTT24=Recorded August 1959\nJames Cotton (harmonica) - Otis Spann (piano);\nPat Hare (guitar) - Andrew Stephens (bass);\nFrancis Clayor Willie Smith (drums)
+PLAYORDER=

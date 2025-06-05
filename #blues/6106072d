@@ -1,0 +1,151 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	1775
+#	11877
+#	28047
+#	31570
+#	50617
+#	59605
+#	63027
+#	66897
+#	72800
+#	75105
+#	75735
+#	85747
+#	87830
+#	95862
+#	106900
+#	107180
+#	107475
+#	107782
+#	108085
+#	108382
+#	108695
+#	108980
+#	109295
+#	109587
+#	109882
+#	110185
+#	110482
+#	110785
+#	111085
+#	111387
+#	111682
+#	111987
+#	112287
+#	112582
+#	112885
+#	113190
+#	113487
+#	113790
+#	114080
+#	114377
+#	114685
+#	114987
+#	115300
+#	115585
+#
+# Disc length: 1545 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=6106072d
+DTITLE=namco - GAME SOUND EXPRESS Vol.1 ワルキューレの伝説
+DYEAR=1989
+DGENRE=Game
+TTITLE0=プロローグ
+TTITLE1=メイン･テーマ
+TTITLE2=ブラック･ドラゴン
+TTITLE3=ズール
+TTITLE4=地下のテーマ
+TTITLE5=城のテーマ
+TTITLE6=舞踏会
+TTITLE7=エレキマン王
+TTITLE8=暗闇のテーマ
+TTITLE9=マーベル･ランドのテーマ
+TTITLE10=オーロラのカーテン
+TTITLE11=カムーズ
+TTITLE12=エピローグ I
+TTITLE13=エピローグ II
+TTITLE14=メイン･テーマ （リプライズ）
+TTITLE15=SE特集  ワルキューレ - 剣振り
+TTITLE16=SE特集  ワルキューレ - 剣ヒット
+TTITLE17=SE特集  ワルキューレ - ヒット1
+TTITLE18=SE特集  ワルキューレ - ヒット2
+TTITLE19=SE特集  ワルキューレ - ペッタンコ
+TTITLE20=SE特集  ワルキューレ - エイッ
+TTITLE21=SE特集  1.ワルキューレ - 発射音1
+TTITLE22=SE特集  ワルキューレ - 発射音2
+TTITLE23=SE特集  サンドラ - くわ振り
+TTITLE24=SE特集  サンドラ - くわヒット
+TTITLE25=SE特集  サンドラ - 砂玉
+TTITLE26=SE特集  サンドラ - ヒット1
+TTITLE27=SE特集  サンドラ - ヒット2
+TTITLE28=SE特集  サンドラ - ペッタンコ
+TTITLE29=SE特集  サンドラ - でえいっ
+TTITLE30=SE特集  サンドラ - 発射音1
+TTITLE31=SE特集  サンドラ - 発射音2
+TTITLE32=SE特集  ワルキューレ＆サンドラ - 魔玉
+TTITLE33=SE特集  ワルキューレ＆サンドラ - ゴールド
+TTITLE34=SE特集  ワルキューレ＆サンドラ - おぼれ
+TTITLE35=SE特集  ワルキューレ＆サンドラ - 飛び込み
+TTITLE36=SE特集  ムチ
+TTITLE37=SE特集  カオック
+TTITLE38=SE特集  タロス
+TTITLE39=SE特集  みみず
+TTITLE40=SE特集  ロボディアン
+TTITLE41=SE特集  ヤリ
+TTITLE42=SE特集  アイス･ブロック
+TTITLE43=SE特集  電撃
+TTITLE44=SE特集  いかづち
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+PLAYORDER=

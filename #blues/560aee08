@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31555
+#	61234
+#	85735
+#	112509
+#	137137
+#	161096
+#	186801
+#
+# Disc length: 2800 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=560aee08
+DTITLE=Hugo Race - Between Hemispheres
+DYEAR=2009
+DGENRE=Blues
+TTITLE0=White Ash
+TTITLE1=Antegone
+TTITLE2=On Heat
+TTITLE3=Unknown#9
+TTITLE4=Dry Fuses
+TTITLE5=White Spheres
+TTITLE6=Lifting Bodies
+TTITLE7=Open Gates I
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

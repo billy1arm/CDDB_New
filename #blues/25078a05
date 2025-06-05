@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30455
+#	53346
+#	82519
+#	113170
+#
+# Disc length: 1932 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=25078a05
+DTITLE=David Sanborn - The Cool Jazz Collection 60
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Hideaway
+TTITLE1=Straight to the Heart
+TTITLE2=Chicago Song
+TTITLE3=Maputo
+TTITLE4=A Tear for Crystal
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16145
+#	33001
+#	48237
+#	56581
+#	81192
+#	90983
+#	105583
+#	126727
+#	140425
+#
+# Disc length: 2123 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=7708490a
+DTITLE=The Brown Hornets - Smokey's Meat
+DYEAR=1900
+DGENRE=
+TTITLE0=Challenger
+TTITLE1=Broken Record Woman
+TTITLE2=Louisiana Quicksand
+TTITLE3=Church and Peacock
+TTITLE4=Find More Time
+TTITLE5=Medicine Ball
+TTITLE6=Stop On Green
+TTITLE7=Been Crazy
+TTITLE8=Rock In My Shoe
+TTITLE9=Walk The Plank
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

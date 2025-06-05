@@ -1,0 +1,202 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11590
+#	15231
+#	19032
+#	22577
+#	26312
+#	30407
+#	34676
+#	36802
+#	39455
+#	42449
+#	45600
+#	49918
+#	54203
+#	59356
+#	64895
+#	68722
+#	72080
+#	74994
+#	78035
+#	81836
+#	86151
+#	90591
+#	95611
+#	101462
+#	108692
+#	121327
+#	129513
+#	134641
+#	141358
+#	151098
+#	161999
+#	168960
+#	174585
+#	179123
+#	185483
+#	189131
+#	192926
+#	195520
+#	199405
+#	203921
+#	208698
+#	215998
+#	225046
+#	228461
+#	232109
+#	237542
+#	241375
+#	247662
+#	253185
+#	269725
+#	286347
+#	290973
+#	296961
+#	301983
+#	307526
+#	312934
+#	318005
+#	322939
+#	326431
+#	331457
+#	336545
+#
+# Disc length: 4670 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=85123c3e
+DTITLE=Dan Tepfer, piano - J.S. Bach Goldberg Variations - Variations
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Bach Goldberg Variations - Aria
+TTITLE1=Bach Goldberg Variations - Variation 1
+TTITLE2=Bach Goldberg Variations - Improvisation 1
+TTITLE3=Bach Goldberg Variations - Variation 2
+TTITLE4=Bach Goldberg Variations - Improvisation 2
+TTITLE5=Bach Goldberg Variations - Variation 3 - Canon at the unison
+TTITLE6=Bach Goldberg Variations - Improvisation 3 - Canonic 1
+TTITLE7=Bach Goldberg Variations - Variation 4
+TTITLE8=Bach Goldberg Variations - Improvisation 4
+TTITLE9=Bach Goldberg Variations - Variation 5
+TTITLE10=Bach Goldberg Variations - Improvisation 5
+TTITLE11=Bach Goldberg Variations - Variation 6 - Canon at the second
+TTITLE12=Bach Goldberg Variations - Improvisation 6 - Canonic 2
+TTITLE13=Bach Goldberg Variations - Variation 7
+TTITLE14=Bach Goldberg Variations - Improvisation 7
+TTITLE15=Bach Goldberg Variations - Variation 8
+TTITLE16=Bach Goldberg Variations - Improvisation 8
+TTITLE17=Bach Goldberg Variations - Variation 9 - Canon at the third
+TTITLE18=Bach Goldberg Variations - Improvisation 9 - Thirds
+TTITLE19=Bach Goldberg Variations - Variation 10 - Fughetta
+TTITLE20=Bach Goldberg Variations - Improvisation 10 - Fuguelike
+TTITLE21=Bach Goldberg Variations - Variation 11
+TTITLE22=Bach Goldberg Variations - Improvisation 11
+TTITLE23=Bach Goldberg Variations - Variation 12 - Canon at the fourth
+TTITLE24=Bach Goldberg Variations - Improvisation 12 - Obsessive
+TTITLE25=Bach Goldberg Variations - Variation 13
+TTITLE26=Bach Goldberg Variations - Improvisation 13
+TTITLE27=Bach Goldberg Variations - Variation 14
+TTITLE28=Bach Goldberg Variations - Improvisation 14
+TTITLE29=Bach Goldberg Variations - Variation 15 - Canon at the fifth
+TTITLE30=Bach Goldberg Variations - Improvisation 15 - Canonic 5
+TTITLE31=Bach Goldberg Variations - Variation 16 - Ouverture
+TTITLE32=Bach Goldberg Variations- Improvisation 16
+TTITLE33=Bach Goldberg Variations - Variation 17
+TTITLE34=Bach Goldberg Variations - Improvisation 17
+TTITLE35=Bach Goldberg Variations - Variation 18 - Canon at the sixth
+TTITLE36=Bach Goldberg Variations - Improvisation 18 - Sixths
+TTITLE37=Bach Goldberg Variations - Variation 19
+TTITLE38=Bach Goldberg Variations - Improvisation 19
+TTITLE39=Bach Goldberg Variations - Variation 20
+TTITLE40=Bach Goldberg Variations - Improvisation 20
+TTITLE41=Bach Goldberg Variations - Variation 21 - Canon at the seventh
+TTITLE42=Bach Goldberg Variations - Improvisation 21 - Sevenths
+TTITLE43=Bach Goldberg Variations - Variation 22
+TTITLE44=Bach Goldberg Variations - Improvisation 22
+TTITLE45=Bach Goldberg Variations - Variation 23
+TTITLE46=Bach Goldberg Variations - Improvisation 23
+TTITLE47=Bach Goldberg Variations - Variation 24 - Canon at the octave
+TTITLE48=Bach Goldberg Variations - Improvisation 24 - Canonic 8
+TTITLE49=Bach Goldberg Variations - Variation 25
+TTITLE50=Bach Goldberg Variations - Improvisation 25
+TTITLE51=Bach Goldberg Variations - Variation 26
+TTITLE52=Bach Goldberg Variations - Improvisation 26
+TTITLE53=Bach Goldberg Variations - Variation 27 - Canon at the ninth
+TTITLE54=Bach Goldberg Variations - Improvisation 27
+TTITLE55=Bach Goldberg Variations - Variation 28
+TTITLE56=Bach Goldberg Variations - Improvisation 28
+TTITLE57=Bach Goldberg Variations - Variation 29
+TTITLE58=Bach Goldberg Variations - Improvisation 29
+TTITLE59=Bach Goldberg Variations - Variation 30 - Quodlibet
+TTITLE60=Bach Goldberg Variations - Improvisation 30 - Mashup
+TTITLE61=Bach Goldberg Variations - Aria
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+PLAYORDER=

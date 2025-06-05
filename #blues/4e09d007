@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22779
+#	50206
+#	84117
+#	108339
+#	132938
+#	153639
+#
+# Disc length: 2514 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4e09d007
+DTITLE=Jonathan Moritz - Secret Tempo
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Medium
+TTITLE1=Fast
+TTITLE2=Ballad
+TTITLE3=Melody
+TTITLE4=Harmony
+TTITLE5=Rhythm
+TTITLE6=7799
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

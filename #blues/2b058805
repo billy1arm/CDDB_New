@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15940
+#	34805
+#	53492
+#	76425
+#
+# Disc length: 1418 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.83
+#
+DISCID=2b058805
+DTITLE=Tal Farlow - L'Art Tatum de la guitare
+DYEAR=2018
+DGENRE=Jazz
+TTITLE0=Red Norvo - Zing! Went the Strings of my Heart
+TTITLE1=Howard McGhee - Goodbye
+TTITLE2=Tal Farlow - Lover
+TTITLE3=	 - Autumn in New York
+TTITLE4=	 - Meteor
+EXTD=YEAR: 2018
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

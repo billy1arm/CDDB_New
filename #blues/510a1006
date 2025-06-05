@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43760
+#	72564
+#	98166
+#	126172
+#	158179
+#
+# Disc length: 2578 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=510a1006
+DTITLE=Verlagsgruppe Weltbild - Die Kraft des positive Denkens
+DYEAR=2008
+DGENRE=New Age
+TTITLE0=Ich habe Zeit für mich
+TTITLE1=Gedanken, Bilder und Vorstellungen
+TTITLE2=Stelle Dir vor
+TTITLE3=Anker setzen
+TTITLE4=Traumpfad
+TTITLE5=Ziele setzen, Ziele erreichen
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

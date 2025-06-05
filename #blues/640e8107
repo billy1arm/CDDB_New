@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41425
+#	78291
+#	119910
+#	154725
+#	191913
+#	224550
+#
+# Disc length: 3715 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=640e8107
+DTITLE=Emil Viklicky - Jazz na Hrade 2004
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=I Thought About You
+TTITLE1=Autumn Leaves
+TTITLE2=My Funny Valentine
+TTITLE3=Bye Bye Blackbird
+TTITLE4=Maple Tree
+TTITLE5=A Plus B
+TTITLE6=Wine, Oh Wine
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

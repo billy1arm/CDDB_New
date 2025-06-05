@@ -1,0 +1,30 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  4693
+#  5220
+#  11699
+#
+# Disc length: 262 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=24010404
+DTITLE=Endust For Electronics - Endust For Electronics CD Lens Cleaning C
+DTITLE=D
+DYEAR=1900
+DGENRE=
+TTITLE0=Introduction
+TTITLE1=Cleaning Cycle
+TTITLE2=Other Endust For Electronics Products
+TTITLE3=The Electric Blues
+EXTD=Yes, this is for real.\n
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

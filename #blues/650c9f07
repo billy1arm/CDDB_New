@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33588
+#	72707
+#	98934
+#	144173
+#	182692
+#	201157
+#
+# Disc length: 3233 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=650c9f07
+DTITLE=Lambic - Lambic
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=No. 1
+TTITLE1=boilover
+TTITLE2=emerge
+TTITLE3=night air
+TTITLE4=cuvee rene
+TTITLE5=wild yeast
+TTITLE6=rodehard/ouch
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

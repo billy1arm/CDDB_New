@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  26090
+#  43700
+#  70723
+#  100448
+#  118863
+#  136433
+#  160028
+#  184663
+#  213548
+#
+# Disc length: 3096 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8f0c160a
+DTITLE=The Grapes - High or Low
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Come Along
+TTITLE1=Last Chance
+TTITLE2=High or Low
+TTITLE3=It's So Real
+TTITLE4=Freewheel
+TTITLE5=Fate
+TTITLE6=No Reason to Grow Old
+TTITLE7=On the Farm
+TTITLE8=Thirteen Days
+TTITLE9=Just Like That
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

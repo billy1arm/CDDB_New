@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12118
+#	29077
+#	44239
+#
+# Disc length: 770 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=32030004
+DTITLE=Various Artist - Proburn-66
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Frank Sinatra - Fly Me To The Moon
+TTITLE1=Little Mix - Cannonball
+TTITLE2=Etta James - I Just Wanna Make Love To You
+TTITLE3=Neil Diamond - Im A Believer
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30392
+#	65667
+#	87162
+#	119180
+#	146637
+#	188580
+#	219975
+#	253525
+#	284310
+#
+# Disc length: 4070 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=920fe40a
+DTITLE=Stephane Guillaume - Miage
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=01 - Miage
+TTITLE1=02 - Echi
+TTITLE2=03 - Pour Oscar
+TTITLE3=04 - Roundbalai
+TTITLE4=05 - My last tones
+TTITLE5=06 - Aigue-marine
+TTITLE6=07 - l eveil
+TTITLE7=08 - Blue trane
+TTITLE8=09 - Nounoucet
+TTITLE9=10 - L ombre du phantome
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

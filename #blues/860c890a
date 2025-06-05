@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     21807
+#     46972
+#     70717
+#     94917
+#     117962
+#     145880
+#     172697
+#     194715
+#     219180
+# 
+# Disc length: 3211 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=860c890a
+DTITLE=J. Little - Puttin' It Down
+DYEAR=1900
+DGENRE=
+TTITLE0=Puttin' It Down
+TTITLE1=Break U Off
+TTITLE2=Me and You
+TTITLE3=The Hump Is On
+TTITLE4=Flex and Sex
+TTITLE5=You're Gonna Miss Me
+TTITLE6=The Way We Used to Roll
+TTITLE7=Make Me Know It
+TTITLE8=I Gotta Have It
+TTITLE9=I'm a Playa
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

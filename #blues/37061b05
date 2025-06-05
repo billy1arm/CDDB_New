@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25107
+#	47371
+#	71699
+#	95606
+#
+# Disc length: 1565 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=37061b05
+DTITLE=Thor Polson and Eric Solberg - Polson and Solberg Jazz Demo
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=In a Sentimental Mood (Ellington)
+TTITLE1=Some Other Time (Comden/Green/Bernstein)
+TTITLE2=Israel (Carisi)
+TTITLE3=Pontifications (Polson)
+TTITLE4=Allice in Wonderland (Fain/Hillard)
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

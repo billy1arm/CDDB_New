@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13983
+#	29160
+#	41670
+#	55928
+#	74963
+#	87128
+#	99162
+#	110042
+#	120741
+#	134704
+#	148475
+#	161940
+#	177898
+#	205424
+#	219083
+#	230607
+#	240219
+#
+# Disc length: 3378 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=180d3012
+DTITLE=Various Artist - The Blues Box Disk 1
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Elmore James/12 Year Old Boy
+TTITLE1=Muddy Waters/Hoochie Coochie Man
+TTITLE2=Jimmy Reed/High And Lonesome
+TTITLE3=Pee Wee Crayton/Telephone Is Ringing
+TTITLE4=Memphis Slim/Bye Bye Baby
+TTITLE5=Rufus Thomas/Save That Money
+TTITLE6=Billy Boy Arnold/Rockin' It Is
+TTITLE7=Smokey Hog/When I've Been Drinkin'
+TTITLE8=Litlte Junior's Blue Flames/Mystery Train
+TTITLE9=Sonny Terry/All Alone Blues
+TTITLE10=T-Bone Walker/They Call It Stormy Monday
+TTITLE11=Jimmy And Walter/Before Long
+TTITLE12=Lightnin Slim/Slim/My Baby
+TTITLE13=Brownie And Sonny McGhee/Brownie's Guittar Blues
+TTITLE14=James Cotton/Cotton Crop Blues
+TTITLE15=John Lee Hooker/Boom Boom
+TTITLE16=Lloyd Price/Mailman Blues
+TTITLE17=Big Joe Williams/Blues Around The World
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

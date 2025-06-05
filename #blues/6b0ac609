@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24065
+#	43003
+#	63649
+#	89987
+#	114042
+#	129896
+#	154712
+#	180736
+#
+# Disc length: 2760 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6b0ac609
+DTITLE=indigo jam unit - Collectivity
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Duffer
+TTITLE1=Pentagram
+TTITLE2=Sunset
+TTITLE3=Swan
+TTITLE4=Masquerade
+TTITLE5=Goofy
+TTITLE6=Blue
+TTITLE7=Rush
+TTITLE8=Terminal
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

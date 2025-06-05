@@ -1,0 +1,42 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  41670
+#  84570
+#  121478
+#  184165
+#  217765
+#  259860
+#  275398
+#
+# Disc length: 4638 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=6d121c08
+DTITLE=Mocow Symphony Orchestra - Antonio de Almeida - Famous Overtures I
+DTITLE=I
+DYEAR=1900
+DGENRE=
+TTITLE0=Die Meistersinger von Nurnberg
+TTITLE1=Roman Carnival
+TTITLE2=Barber of Seville
+TTITLE3=Othello
+TTITLE4=The Bartered Bride
+TTITLE5=I Vespri Siciliani
+TTITLE6=Cavalleria Rusticana (Intermezzo)
+TTITLE7=Russian Easter Overture
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

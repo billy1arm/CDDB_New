@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28886
+#	58712
+#	117561
+#	150328
+#	175918
+#	224554
+#
+# Disc length: 3439 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=620d6d07
+DTITLE=Chet Baker - The Jazz Masters - 100 Anos de Swing
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Milestones
+TTITLE1=Deep In A Dream
+TTITLE2=Once Upon A Summertime
+TTITLE3=Mister B.
+TTITLE4=I Waited For You
+TTITLE5=Stella By Starlight
+TTITLE6=Witchcraft
+EXTD=YEAR: 1996
+EXTT0=Davis\n
+EXTT1=De Lange - Van Heusen\n
+EXTT2=Barclay - Legrand\n
+EXTT3=Galper\n
+EXTT4=Fuller\n
+EXTT5=P. V. Young - N Washington\n
+EXTT6=King - Bartholomew\n
+PLAYORDER=

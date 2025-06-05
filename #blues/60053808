@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11261
+#	23475
+#	36475
+#	45616
+#	61024
+#	73815
+#	88277
+#
+# Disc length: 1338 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=60053808
+DTITLE=Benny Goodman - SWING TIME 2
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Swing Low Sweet Chariot
+TTITLE1=Louise
+TTITLE2=Somebodey Loves Me
+TTITLE3=Walk jennie Walk
+TTITLE4=St. Louis Blues
+TTITLE5=Sugar Foot Stomp
+TTITLE6=King Poter Stomp
+TTITLE7=Ciribiribin
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

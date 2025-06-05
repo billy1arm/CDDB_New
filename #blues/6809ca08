@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30210
+#	51285
+#	67045
+#	89080
+#	115100
+#	140525
+#	159380
+#
+# Disc length: 2508 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6809ca08
+DTITLE=Gerry Mulligan - At Storyville
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Bweebida Bwobbida
+TTITLE1=Birth Of The Blues
+TTITLE2=Baubles, Bangles And Beads
+TTITLE3=Rustic Hop
+TTITLE4=Open Country
+TTITLE5=Storyville Story
+TTITLE6=That Old Feeling
+TTITLE7=Bike Up The Strand/Utter Chaos
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

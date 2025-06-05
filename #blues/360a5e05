@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49357
+#	92296
+#	115868
+#	162346
+#
+# Disc length: 2656 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=360a5e05
+DTITLE=Pat Metheny - North Wind 2000(1)
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=What Do You Want?
+TTITLE1=As I Am
+TTITLE2=Faith Healer
+TTITLE3=Song for Bilbao
+TTITLE4=Summertime
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

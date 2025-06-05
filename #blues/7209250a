@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19035
+#     39367
+#     56620
+#     76910
+#     99412
+#     113797
+#     128477
+#     140450
+#     156175
+# 
+# Disc length: 2343 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7209250a
+DTITLE=James Knudsen - Slow Burning
+DYEAR=1900
+DGENRE=
+TTITLE0=Fire In The Darkness
+TTITLE1=Simple Giant and The Rescue Band
+TTITLE2=In His Life
+TTITLE3=How Long (Must I Wait For Your Love?)
+TTITLE4=Cathy
+TTITLE5=Don`t Go Down
+TTITLE6=Talking To My Mama
+TTITLE7=Killing Fields
+TTITLE8=Anywhere The Wind Blows
+TTITLE9=This Girl
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

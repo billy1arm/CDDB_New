@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10595
+#     21760
+#     40257
+#     51597
+#     64595
+#     76610
+#     87097
+#     99800
+#     112860
+#     126840
+#     139440
+# 
+# Disc length: 2043 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8b07f90c
+DTITLE=Bill Doggett - The Many Moods Of Bill Doggett
+DYEAR=1900
+DGENRE=
+TTITLE0=George Washington Twist
+TTITLE1=Honky Tonk (Vocal)
+TTITLE2=The Fog
+TTITLE3=Old Glug
+TTITLE4=Blue Laredo
+TTITLE5=Ready Mix
+TTITLE6=11 O'clock Twist
+TTITLE7=Big Dog Blues (Part 1)
+TTITLE8=You Ain't No Good (Vocal)
+TTITLE9=A Lover's Dream
+TTITLE10=Your Kind Of Woman (Vocal)
+TTITLE11=Real Gone Mambo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

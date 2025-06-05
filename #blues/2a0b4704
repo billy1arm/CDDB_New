@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54098
+#	108362
+#	162636
+#
+# Disc length: 2889 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2a0b4704
+DTITLE=Chlorophylle - La magie des îles
+DYEAR=2001
+DGENRE=Meditative
+TTITLE0=Des filets bleus
+TTITLE1=Une journée aux Antilles
+TTITLE2=Les trois îles
+TTITLE3=Promenade du dimanche
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

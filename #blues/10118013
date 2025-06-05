@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8673
+#	33483
+#	53612
+#	68707
+#	82299
+#	108443
+#	128695
+#	144970
+#	162239
+#	183888
+#	197426
+#	214489
+#	227372
+#	242915
+#	265850
+#	284774
+#	294716
+#	317500
+#
+# Disc length: 4482 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=10118013
+DTITLE=Big Mama Thornton - In Europe - With Muddy Water's Blues Band
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Swing It On Home
+TTITLE1=Sweet Little Angel
+TTITLE2=Little Red Rooster
+TTITLE3=Unlucky Girl
+TTITLE4=Hound Dog
+TTITLE5=My Heavy Load
+TTITLE6=School Boy
+TTITLE7=Down-Home Shakedown
+TTITLE8=Your Love Is Where It Ought To Be
+TTITLE9=Session Blues
+TTITLE10=I'm Feeling Alright
+TTITLE11=Sometimes I Have A Heartache
+TTITLE12=Black Rat
+TTITLE13=Life Goes On
+TTITLE14=Everything Gonna Be Alright
+TTITLE15=Bumble Bee
+TTITLE16=Looking The World Over
+TTITLE17=I Feel The Way I Feel
+TTITLE18=My Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

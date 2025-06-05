@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5745
+#	24315
+#	55172
+#	92302
+#	149202
+#	173685
+#	216307
+#
+# Disc length: 3557 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=690de308
+DTITLE=Led Zeppelin - Earl's Court Arena 2405 Evoluzione CD1
+DYEAR=1975
+DGENRE=Blues
+TTITLE0=Introduction By Nicky Horne
+TTITLE1=Rock and Roll
+TTITLE2=Sick Again
+TTITLE3=Over the Hills and Far Away
+TTITLE4=In My Time of Dying
+TTITLE5=The Song Remains the Same
+TTITLE6=The Rain Song
+TTITLE7=Kashmir
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

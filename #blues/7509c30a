@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19412
+#     37750
+#     56562
+#     82710
+#     98317
+#     110745
+#     130205
+#     148650
+#     168975
+# 
+# Disc length: 2501 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7509c30a
+DTITLE=Various Artist - Grandes Leyendas de la Musica Criolla
+DYEAR=1900
+DGENRE=
+TTITLE0=Contigo Peru
+TTITLE1=Yo creo que hay un Dios
+TTITLE2=Vieja Limena
+TTITLE3=El grito
+TTITLE4=Limena
+TTITLE5=Lucerito
+TTITLE6=Regresa
+TTITLE7=Limeno Soy
+TTITLE8=Poutpurri
+TTITLE9=Y se llama Peru
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

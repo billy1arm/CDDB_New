@@ -1,0 +1,24 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  164642
+#
+# Disc length: 3299 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.61
+#
+DISCID=130ce102
+DTITLE=Lou Reed's Metal Machine Trio - The Creation of The Universe night
+DTITLE=1
+DYEAR=1900
+DGENRE=
+TTITLE0=Part 1, Night 1
+TTITLE1=Part 2, Night 1
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

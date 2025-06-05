@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45988
+#	78011
+#	129321
+#	162777
+#	200178
+#	234484
+#
+# Disc length: 3790 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4c0ecc07
+DTITLE=Kamal - Reiki whale song
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=03 - track_03
+TTITLE1=07 - track_07
+TTITLE2=05 - track_05
+TTITLE3=02 - track_02
+TTITLE4=04 - track_04
+TTITLE5=06 - track_06
+TTITLE6=01 - track_01
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

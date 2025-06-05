@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14190
+#     27052
+#     40450
+#     55285
+#     68802
+#     84797
+#     100785
+#     114810
+#     130905
+#     143010
+# 
+# Disc length: 2061 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8a080b0b
+DTITLE=Johnnie Taylor - Raw Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Where There's Smoke There's Fire
+TTITLE1=Hello Sundown
+TTITLE2=Pardon Me Lady
+TTITLE3=Where Can A Man Go From Here
+TTITLE4=That Bone
+TTITLE5=That's Where It's At
+TTITLE6=Part Time Love
+TTITLE7=If I Had It To Do All Over
+TTITLE8=You're Good For Me
+TTITLE9=You Can't Keep A Good Man Down
+TTITLE10=You Can't Win With A Losing Hand
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

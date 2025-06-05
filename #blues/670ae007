@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26240
+#	44983
+#	92600
+#	118974
+#	139143
+#	173172
+#
+# Disc length: 2786 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670ae007
+DTITLE=Dave Douglas and NDR Bigband - JazzBaltica 2008 - Letter From America
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Dave Douglas and NDR Bigband - Sunrise Highway
+TTITLE1=Dave Douglas and NDR Bigband - Unhyphenated Americans
+TTITLE2=Dave Douglas and NDR Bigband - Campaign Trail
+TTITLE3=Dave Douglas and NDR Bigband - Perilous Times
+TTITLE4=Dave Douglas and NDR Bigband - Lone Wolf
+TTITLE5=Dave Douglas and NDR Bigband - Pyrrhic Apology
+TTITLE6=Dave Douglas and NDR Bigband - Blockbuster
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

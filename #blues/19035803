@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18325
+#	47580
+#
+# Disc length: 858 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=19035803
+DTITLE=4S - BANG!BANG!2001
+DYEAR=2001
+DGENRE=Vocal
+TTITLE0=BANG!BANG!2001
+TTITLE1=BANG!BANG!2001(Instrumental)
+TTITLE2=DATA
+EXTD=YEAR: 2001 ID3G: 28
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

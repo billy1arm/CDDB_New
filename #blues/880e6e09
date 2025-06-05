@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24333
+#	69590
+#	95170
+#	124660
+#	164705
+#	189773
+#	215108
+#	247465
+#
+# Disc length: 3696 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=880e6e09
+DTITLE=Margitza, Rick - This is new
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=this is new
+TTITLE1=on green dolphin street
+TTITLE2=body and soul
+TTITLE3=just in time
+TTITLE4=beware of the dogs
+TTITLE5=invitation
+TTITLE6=everything happens to me
+TTITLE7=when will the blues leave
+TTITLE8=gypsles
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

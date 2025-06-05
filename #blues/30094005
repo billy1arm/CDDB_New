@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	61079
+#	80493
+#	109758
+#	151135
+#
+# Disc length: 2370 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=30094005
+DTITLE=Freckleface - Freckleface
+DYEAR=1972
+DGENRE=Blues
+TTITLE0=If we
+TTITLE1=Trouble in mind
+TTITLE2=Mary
+TTITLE3=Hold my hand
+TTITLE4=When darkness fades away
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

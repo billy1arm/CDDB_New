@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	29580
+#	77367
+#	103485
+#	132730
+#
+# Disc length: 2065 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=42080f05
+DTITLE=Lem Winchester - Another Opus
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Another Opus
+TTITLE1=Blues Prayer
+TTITLE2=The Meetin'
+TTITLE3=Like Someone In Love
+TTITLE4=Both Barrels
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28144
+#	58175
+#	84890
+#	115505
+#	140568
+#	163170
+#	195789
+#	225742
+#	247764
+#	269532
+#	295926
+#
+# Disc length: 4425 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=9e11470c
+DTITLE=Bob Brookmeyer - Holiday
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=The man I Love
+TTITLE1=Summer song
+TTITLE2=It could happen to you
+TTITLE3=Holidy
+TTITLE4=I thought about you
+TTITLE5=I should care
+TTITLE6=Things ain't what they used to be
+TTITLE7=Pastoral
+TTITLE8=Jan Likes
+TTITLE9=Stupid song
+TTITLE10=Child Song
+TTITLE11=It might as well be spring
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

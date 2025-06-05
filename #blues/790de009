@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33137
+#	59806
+#	85107
+#	120797
+#	147860
+#	178436
+#	213731
+#	234828
+#
+# Disc length: 3554 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=790de009
+DTITLE=David Hazeltine - Perambulation
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Perambulation
+TTITLE1=This Is For Seamus
+TTITLE2=Wonder Why
+TTITLE3=Old Folks
+TTITLE4=Love For Sale
+TTITLE5=Blues For David
+TTITLE6=Lush Life
+TTITLE7=P.S.We Love You
+TTITLE8=Angel Eyes
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

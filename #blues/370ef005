@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	68667
+#	137040
+#	195947
+#	236295
+#
+# Disc length: 3826 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 7
+#
+DISCID=370ef005
+DTITLE=Miles Davis - My Funny Valentine
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=My Funny Valentine
+TTITLE1=All of You
+TTITLE2=Stella by Starlight
+TTITLE3=All Blues
+TTITLE4=I Thought About You
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

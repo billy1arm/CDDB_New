@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	14640
+#	32225
+#	49368
+#	64815
+#	85555
+#	105200
+#	125353
+#
+# Disc length: 2010 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6107d808
+DTITLE=Stan Getz - The Brothers
+DYEAR=1949
+DGENRE=Jazz
+TTITLE0=Five Brothers
+TTITLE1=Four and One More
+TTITLE2=Battleground
+TTITLE3=Battle Of The Saxes
+TTITLE4=Morning Fun
+TTITLE5=The Red Door
+TTITLE6=Tangerine
+TTITLE7=Zootcase
+EXTD=YEAR: 1949
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

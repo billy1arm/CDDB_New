@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35258
+#	81731
+#	108955
+#	136968
+#	177129
+#	202961
+#	240570
+#
+# Disc length: 3705 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=630e7708
+DTITLE=Jason Linder - Giulia Valle - Marc Ayza - 1,2,3 etc.
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Contra las piedras
+TTITLE1=Aisha
+TTITLE2=Pensativa
+TTITLE3=Don't you worry 'bout a thing
+TTITLE4=Walzette
+TTITLE5=Brilliant corners
+TTITLE6=Bolero de ...
+TTITLE7=The end of a love affair
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

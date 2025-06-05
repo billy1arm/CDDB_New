@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     18545
+#     44675
+#     60802
+#     70682
+#     85120
+#     108302
+#     128192
+# 
+# Disc length: 2083 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=61082108
+DTITLE=Jorma Kaukonen - Magic
+DYEAR=1900
+DGENRE=
+TTITLE0=Walkin' Blues
+TTITLE1=Winnin' Boy Blues
+TTITLE2=I'll Be Alright Some Day
+TTITLE3=Embryonic Journey
+TTITLE4=Candyman
+TTITLE5=Roads and Roads &
+TTITLE6=Good Shepherd
+TTITLE7=Mann's Fate
+EXTD=
+EXTT0=Robert Johnson\n
+EXTT1=Jelly Roll Morton\n
+EXTT2=Rev. Gary Davis\n
+EXTT3=Jorma Kaukonen\n
+EXTT4=Rev. Gary Davis\n
+EXTT5=Jorma Kaukonen\n
+EXTT6=(Trad.) Arr. Jorma Kaukonen\n
+EXTT7=Jorma Kaukonen\n
+PLAYORDER=

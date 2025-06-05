@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15302
+#	41176
+#	67940
+#	91485
+#
+# Disc length: 1400 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=35057605
+DTITLE=The Spokane Chiefs - Rebel Songs
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Doin' Time
+TTITLE1=Rebelsong
+TTITLE2=I Can't Help Myself
+TTITLE3=Normandy
+TTITLE4=Brand New Caddilac
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

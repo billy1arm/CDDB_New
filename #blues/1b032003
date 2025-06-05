@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15529
+#	32972
+#
+# Disc length: 802 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1b032003
+DTITLE=mellow - 1stデモCD
+DYEAR=2005
+DGENRE=JPop
+TTITLE0=ジュゲム
+TTITLE1=残像カラー
+TTITLE2=東京のかほり
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

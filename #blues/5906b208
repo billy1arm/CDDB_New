@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19871
+#	33517
+#	48868
+#	69016
+#	81760
+#	101151
+#	114335
+#
+# Disc length: 1716 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5906b208
+DTITLE=Blue Mitchell - The last tango =blues
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Soul turn around
+TTITLE1=Killing me softly with his song
+TTITLE2=The message
+TTITLE3=Steal the feel
+TTITLE4=Last tango in Paris
+TTITLE5=One for russ
+TTITLE6=Peace
+TTITLE7=P.T.Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

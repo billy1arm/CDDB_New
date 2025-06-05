@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18318
+#	33136
+#	54943
+#	70902
+#	91853
+#
+# Disc length: 1521 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3c05ef06
+DTITLE=Jose Alberto El Canario - Tipicamente
+DYEAR=1984
+DGENRE=Salsa
+TTITLE0=A Romper El Coco
+TTITLE1=Desesperado
+TTITLE2=Flores A Su Labor
+TTITLE3=La Cinta Verde
+TTITLE4=La Condicion
+TTITLE5=Por Alla
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

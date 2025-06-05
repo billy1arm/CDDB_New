@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12691
+#	35760
+#	53019
+#	69320
+#	84556
+#	99316
+#	121588
+#	137923
+#	155527
+#	173805
+#	188091
+#
+# Disc length: 2659 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=990a610c
+DTITLE=The Booze Brothers - On the rocks
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Devil by the tail
+TTITLE1=She left me standing in the rain
+TTITLE2=Rocking chair boogie
+TTITLE3=Hey Mama
+TTITLE4=That thing you do
+TTITLE5=Dont Blame me
+TTITLE6=Brand new lover
+TTITLE7=Down town tales
+TTITLE8=Evil hearted woman
+TTITLE9=When it comes to love
+TTITLE10=Your precious love
+TTITLE11=Give it up woman
+EXTD=YEAR: 2000 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

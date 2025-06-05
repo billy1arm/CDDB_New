@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	24198
+#	49044
+#	58028
+#	76561
+#	89951
+#	116844
+#	141526
+#	161921
+#
+# Disc length: 2390 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD2 v3.00 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=79095409
+DTITLE=Marvin Gaye - Greatest Hits Live
+DYEAR=1900
+DGENRE=
+TTITLE0=Joy
+TTITLE1=Let's Get It On
+TTITLE2=God Is Love
+TTITLE3=What's Going On
+TTITLE4=Ain't Nothing Like The Real Thing
+TTITLE5=Distant Lover
+TTITLE6=Inner City Blues (Make Me Wanna Holler)
+TTITLE7=Sexual Healing
+TTITLE8=I Heard It Through The Grapevine
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

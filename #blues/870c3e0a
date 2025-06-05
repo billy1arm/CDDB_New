@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	24070
+# 	47902
+# 	70647
+# 	89462
+# 	112620
+# 	133465
+# 	152635
+# 	179950
+# 	212147
+#
+# Disc length: 3136 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4
+#
+DISCID=870c3e0a
+DTITLE=Soul Mission - Soul Mission
+DYEAR=1900
+DGENRE=
+TTITLE0=Table In The Widerness
+TTITLE1=Some Sweet Day (Ain't That Wonderful)
+TTITLE2=Soul Mission
+TTITLE3=Cross of Stone
+TTITLE4=Tear This House Down
+TTITLE5=One Blood
+TTITLE6=Settled In Heaven
+TTITLE7=He Is Amazing
+TTITLE8=Salvation Road
+TTITLE9=Give It All To Jesus
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

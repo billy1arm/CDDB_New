@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	28512
+#	44780
+#	59355
+#	71890
+#	96587
+#	125442
+#	149817
+#	166792
+#
+# Disc length: 2874 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8e0b3809
+DTITLE=John Coltrane - On Impulse!
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=The Inch Worm
+TTITLE1=All Or Nothing At All
+TTITLE2=Up 'Gainst The wall
+TTITLE3=It's Easy To Remember
+TTITLE4=Lush Life
+TTITLE5=Feelin' Good
+TTITLE6=Soul Eyes
+TTITLE7=What's New
+TTITLE8=Afro Blue
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

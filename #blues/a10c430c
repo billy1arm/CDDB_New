@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  16001
+#  34741
+#  54450
+#  72220
+#  97882
+#  113388
+#  134654
+#  160286
+#  179303
+#  201647
+#  215373
+#
+# Disc length: 3141 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=a10c430c
+DTITLE=Pat Travers - Blues Tracks 2
+DYEAR=1998
+DGENRE=blues
+TTITLE0=I Guess I'll Go Away
+TTITLE1=Pack It Up
+TTITLE2=Outside Woman Blues
+TTITLE3=Your Cash Ain't Nothing But Trash
+TTITLE4=Whipping Post
+TTITLE5=Take It Back
+TTITLE6=Taxman
+TTITLE7=Purple Haze
+TTITLE8=Bring It On Home To Me
+TTITLE9=I Don't Know
+TTITLE10=Walkin' By Myself
+TTITLE11=One More Heartache
+EXTD=Pat Travers - Guitar, vocals\nLiberty DeVitto - Drums, harmonica\nTi
+EXTD=m Franklin - Bass
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

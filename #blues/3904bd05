@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13281
+#	31852
+#	52315
+#	78912
+#
+# Disc length: 1215 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=3904bd05
+DTITLE=FUTON - SWEET BLADE
+DYEAR=1900
+DGENRE=サウンドトラック (一般)
+TTITLE0=SWEET BLADE
+TTITLE1=LIQUID
+TTITLE2=STEREO COGNAC
+TTITLE3=UNTIL IT RAINS
+TTITLE4=MEMENTO MORI
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

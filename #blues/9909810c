@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	15202
+#	28845
+#	42610
+#	62035
+#	78265
+#	91462
+#	106495
+#	121865
+#	140045
+#	154697
+#	169270
+#
+# Disc length: 2435 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9909810c
+DTITLE=Pupo - I Grandi Successi [CD 1)
+DYEAR=2000
+DGENRE=Italian
+TTITLE0=Su Di Noi
+TTITLE1=Lo devo Solo A Te
+TTITLE2=Io Solo Senza Te
+TTITLE3=Ti Scriverò
+TTITLE4=Ciao
+TTITLE5=Come Sei Bella
+TTITLE6=Più Di Prima
+TTITLE7=Noi Adesso
+TTITLE8=Quanta Gente
+TTITLE9=Innamorata
+TTITLE10=Picoola Tu
+TTITLE11=Ti Ricordi
+EXTD=YEAR: 2000
+EXTT0=\n
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

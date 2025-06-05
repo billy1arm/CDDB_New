@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10342
+#     35677
+#     53785
+#     80147
+#     99765
+#     108660
+#     131077
+#     152887
+#     171087
+#     185677
+# 
+# Disc length: 2707 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=920a910b
+DTITLE=Marketing Mike and The Suits - Marketing Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Strategic
+TTITLE1=PR Blues
+TTITLE2=The Ad from Hell
+TTITLE3=Trade Show Blues
+TTITLE4=Business Week Blues
+TTITLE5=The Annual Distributor Blues
+TTITLE6=The Annual Report
+TTITLE7=Slides
+TTITLE8=The Sales Force wouldn't Push His New Product
+TTITLE9=Pricing
+TTITLE10=Marketing Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=\n
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     19030
+#     39750
+# 
+# Disc length: 1006 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1403ec03
+DTITLE=TKA - You Are the One
+DYEAR=1900
+DGENRE=
+TTITLE0=You Are the One (Radio Edit)
+TTITLE1=You Are the One (Lean On Me Mix)
+TTITLE2=You Are the One (Eastside Extended Remix)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

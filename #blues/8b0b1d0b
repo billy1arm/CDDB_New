@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	23806
+#	40248
+#	58953
+#	75879
+#	92763
+#	107970
+#	137623
+#	156166
+#	172980
+#	192554
+#
+# Disc length: 2847 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8b0b1d0b
+DTITLE=Johnny Tucker - I'm in Love With An Angel
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Respirator Blues
+TTITLE1=Don't Worry Baby
+TTITLE2=Something Under Them Sheets
+TTITLE3=Talk To The Hand
+TTITLE4=I'm In Love With An Angels
+TTITLE5=Junkyard Blues
+TTITLE6=One More Chance
+TTITLE7=Leave My Big Butt Woman Alone
+TTITLE8=Shake What You Wiggle
+TTITLE9=Members Only
+TTITLE10=Who' That In My Bed
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

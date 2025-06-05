@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11760
+#	27588
+#	51576
+#	62710
+#	72541
+#	84267
+#	98721
+#	121969
+#	138604
+#
+# Disc length: 2014 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9007dc0a
+DTITLE=SJ - Smooth Jazz - D2
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Dipper Mouth Blues - Louis Armstrong
+TTITLE1=Ain't Misbehavin' - Count Basie
+TTITLE2=Take The "A" Train - Duke Ellington
+TTITLE3=A Tisket, A Tasket - Ella Fitzgerald
+TTITLE4=Crazy He Calls Me - Billie Holiday
+TTITLE5=Cho Cho Ch'boggie - Louis Jordan
+TTITLE6=Bugle Call Rag - Gene Krups
+TTITLE7='Round Midnight - Charlie Parker
+TTITLE8=What Is This Thing Called Love - Buddy Rich
+TTITLE9=Fantastique - Lionel Hampton
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

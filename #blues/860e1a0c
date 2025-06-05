@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     24940
+#     51178
+#     76255
+#     97128
+#     121683
+#     143080
+#     165093
+#     183710
+#     202963
+#     226063
+#     248368
+# 
+# Disc length: 3612 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=860e1a0c
+DTITLE=Snooky Pryor - Mind Your Own Business
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Mind Your Own Business
+TTITLE1=Come on Down to My House
+TTITLE2=Goin' Back to Arkansas
+TTITLE3=Motty and Me
+TTITLE4=I'm So Glad
+TTITLE5=You Set Me Free
+TTITLE6=Miss Fanny Brown
+TTITLE7=Good or Bad Times
+TTITLE8=Shake Your Boogie
+TTITLE9=Diggin' My Potatoes
+TTITLE10=No More Monkey Business
+TTITLE11=Little Brown Hen
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

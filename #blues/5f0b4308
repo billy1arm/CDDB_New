@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	30182
+#	52545
+#	80982
+#	105745
+#	132555
+#	166292
+#	186880
+#
+# Disc length: 2885 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5f0b4308
+DTITLE=Andy Laverne - First tango in New York
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=You and the night and the music
+TTITLE1=That old feeling
+TTITLE2=Goodbye
+TTITLE3=Cabin in the sky
+TTITLE4=This is new
+TTITLE5=My melancholy baby
+TTITLE6=Cool valey
+TTITLE7=First tango
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

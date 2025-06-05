@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33818
+#	69631
+#	101176
+#	135196
+#	167919
+#	201977
+#	238900
+#
+# Disc length: 3617 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=6e0e1f08
+DTITLE=The Grooves - Deutsch Chinesisch
+DYEAR=2012
+DGENRE=Blues
+TTITLE0=The Grooves - thegrooves - Willkommen
+TTITLE1=The Grooves - Gute Beziehungen
+TTITLE2=The Grooves - Eins, Zwei, Drei
+TTITLE3=The Grooves - Ist es weit ?
+TTITLE4=The Grooves - Einkaufen
+TTITLE5=The Grooves - Vielen Dank
+TTITLE6=The Grooves - Im Restaurant
+TTITLE7=The Grooves - Auf Wiedersehen
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

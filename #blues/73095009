@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  187
+#  18875
+#  41587
+#  62700
+#  90037
+#  109950
+#  125925
+#  139275
+#  158737
+#
+# Disc length: 2386 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=73095009
+DTITLE=Byther Smith - Housefire
+DYEAR=1984
+DGENRE=blues
+TTITLE0=Money Tree
+TTITLE1=Live On And Sing The Blues
+TTITLE2=Martha Dear
+TTITLE3=Look All Around You
+TTITLE4=The Man Wants Me Dead
+TTITLE5=Knockdown
+TTITLE6=Wait And See
+TTITLE7=Love Me Like I Love You
+TTITLE8=Here I Am
+EXTD=CD BB 9503\n\nSubmitted 7/2/97\n[Jmccoy@efn.org]
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

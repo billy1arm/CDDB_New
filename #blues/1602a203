@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17650
+#	33830
+#
+# Disc length: 676 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=1602a203
+DTITLE=Terry Hall - Ballard of a Landlord
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Ballard of a Landlord
+TTITLE1=Working Class Hero
+TTITLE2=Ballard of a Landlord (acoustic)
+EXTD=\nYEAR: 2001  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

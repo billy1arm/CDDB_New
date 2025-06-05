@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18620
+#	39405
+#	55220
+#	78115
+#	100217
+#	125305
+#	143775
+#	182915
+#	202857
+#	243315
+#	280030
+#	319525
+#
+# Disc length: 4552 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.65 - http://www.feurio.com
+#
+DISCID=a611c60d
+DTITLE=B. Sharp - Here Comes The Blues Again
+DYEAR=1991
+DGENRE=Blues
+TTITLE0=Colors Of Love
+TTITLE1=Here Comes The Blues Again
+TTITLE2=Nothing But Fine
+TTITLE3=What's Going On
+TTITLE4=Wild Eyed And Dangerous
+TTITLE5=Just About Enough
+TTITLE6=Ladies First
+TTITLE7=She's Tuff
+TTITLE8=She Does Right
+TTITLE9=Harp Breakdown
+TTITLE10=Here Comes The Blues Again
+TTITLE11=Losing Game
+TTITLE12=Big Brown Eyes
+EXTD=ARD EFA 11835-2 1991
+EXTT0=
+EXTT1=
+EXTT2=Live
+EXTT3=Live
+EXTT4=Live
+EXTT5=Live
+EXTT6=Live
+EXTT7=Live
+EXTT8=Live
+EXTT9=Live
+EXTT10=Live
+EXTT11=Live
+EXTT12=
+PLAYORDER=

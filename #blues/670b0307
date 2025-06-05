@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22582
+#	52347
+#	78720
+#	101247
+#	124380
+#	149650
+#
+# Disc length: 2821 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670b0307
+DTITLE=Reichlich Weiblich - Live At Moers '87
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=Eine kommt immer zu spät in's Fichtelgebirge
+TTITLE1=Homsa's Tanz
+TTITLE2=Scandale Emotionale
+TTITLE3=Nuclear Footprints
+TTITLE4=Punk Nr. 9
+TTITLE5=Big Mama
+TTITLE6=Der Einradtänzer und der fliegende Zwilling - Tango für eine Goldkrabbe
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

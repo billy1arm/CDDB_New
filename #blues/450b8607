@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30065
+#	45973
+#	60450
+#	77078
+#	99725
+#	156413
+#
+# Disc length: 2952 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=450b8607
+DTITLE=Multiple artists CD - Prestige Profiles Collector's Edition, Volume 1
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Chet Baker Quintet - Have You Met Miss Jones
+TTITLE1=Modern Jazz Quartet and Sonny Rollins - No Moe
+TTITLE2=Kenny Dorham - Alone Together
+TTITLE3=Red Garland Trio - Hey Now
+TTITLE4=Gil Evans - Jambangle
+TTITLE5=John Coltrane - Traneing In
+TTITLE6=Art Farmer and Donald Byrd - Dig
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

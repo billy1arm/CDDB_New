@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19341
+#	38162
+#	59742
+#	74295
+#	93579
+#	103970
+#	119480
+#
+# Disc length: 1842 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=77073008
+DTITLE=Bud Shank - Barefoot Adventure
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Barefoot Adventure
+TTITLE1=Shoeless Beach Meeting
+TTITLE2=Jungle Cruise
+TTITLE3=How High The Makaha
+TTITLE4=Well, 'Pon My Soul
+TTITLE5=Ala Moana
+TTITLE6=Bruice Is Loose
+TTITLE7=Dance Of The Sea Monsters
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20408
+#	52807
+#	82284
+#
+# Disc length: 1319 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta3
+#
+DISCID=29052504
+DTITLE=Trio Intermede - Maquette I
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Song For My Father
+TTITLE1=Georgia On My Mind
+TTITLE2=Les feuilles mortes
+TTITLE3=Blue Monk
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

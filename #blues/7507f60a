@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  18552
+#  36132
+#  49605
+#  59702
+#  76632
+#  91662
+#  103322
+#  121822
+#  136602
+#
+# Disc length: 2040 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=7507f60a
+DTITLE=Various Artist - Cajun Dance Party
+DYEAR=1900
+DGENRE=
+TTITLE0=Bosco Stomp
+TTITLE1=Pine Grove Blues
+TTITLE2=Dance, Cajun, Dance
+TTITLE3=Perrodin Two Step
+TTITLE4=Kaplan Waltz
+TTITLE5=Big Texas
+TTITLE6=Momzelle Zi Zi
+TTITLE7=Jambalaya
+TTITLE8=Allons A Lafayette
+TTITLE9=Fais Do Do Waltz
+EXTD=
+EXTT0=The Cajun Playboys
+EXTT1=Waylon Thibodeaux
+EXTT2=Sammy Naquin
+EXTT3=Waylon Thibodeaux
+EXTT4=The Cajun Playboys
+EXTT5=The Cajun Playboys
+EXTT6=Nancy Tabb Marcantel
+EXTT7=Waylon Thibodeaux
+EXTT8=Sammy Naquin
+EXTT9=Bruce Daigrepont
+PLAYORDER=

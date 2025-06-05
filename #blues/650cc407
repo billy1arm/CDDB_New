@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19932
+#	38544
+#	74503
+#	154977
+#	176641
+#	209954
+#
+# Disc length: 3270 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=650cc407
+DTITLE=Joe Bonamassa - Live From Nowhere In Particular (2)
+DYEAR=2008
+DGENRE=Bluesrock
+TTITLE0=Ball Peen Hammer
+TTITLE1=If Heartaches Were Nickels
+TTITLE2=Woke up Dreaming
+TTITLE3=Django-Just Got Paid
+TTITLE4=High Water Everywhere
+TTITLE5=Asking Around for You
+TTITLE6=A New Day Yesterday-Starship Trooper-Wurm
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21940
+#     41802
+# 
+# Disc length: 819 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=20033103
+DTITLE=Celine Dion - The Power Of Love
+DYEAR=1900
+DGENRE=
+TTITLE0=The Power Of Love
+TTITLE1=No Living Without Loving You
+TTITLE2=Did You Give Enough Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

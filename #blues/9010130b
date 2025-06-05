@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32450
+#	62036
+#	89308
+#	123650
+#	144096
+#	167752
+#	197865
+#	232706
+#	262203
+#	286548
+#
+# Disc length: 4117 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9010130b
+DTITLE=Emminger Hahn Quintet - Reunion
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=Twogether
+TTITLE1=Happy Ever After
+TTITLE2=Simple Pleasures
+TTITLE3=Some Other Boogaloo
+TTITLE4=Short Walk
+TTITLE5=Süßigkeit
+TTITLE6=Kreuzberg
+TTITLE7=Catch The Mouse
+TTITLE8=Hals frei
+TTITLE9=Samba da Paz
+TTITLE10=Is' noch Luft
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

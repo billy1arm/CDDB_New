@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30870
+#	49160
+#	81767
+#	96582
+#	124655
+#	140290
+#
+# Disc length: 2030 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5307ec07
+DTITLE=Norman Connors - Slewfoot
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Mother of the future
+TTITLE1=Back on the street
+TTITLE2=Welcome
+TTITLE3=Slew foot
+TTITLE4=Dreams
+TTITLE5=Chuka
+TTITLE6=Jump street
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

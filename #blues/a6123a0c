@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22538
+#	61788
+#	97413
+#	113288
+#	135703
+#	150118
+#	170738
+#	224538
+#	272063
+#	289038
+#	321678
+#
+# Disc length: 4668 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a6123a0c
+DTITLE=SNO - Jaarvi - Rimsky-Korsakov Orchestral Suites
+DYEAR=1984
+DGENRE=Orchestral
+TTITLE0=The Tale of Tsar Saltan -I- Tsar's Departure and Farewell
+TTITLE1=The Tale of Tsar Saltan -II- Tsarina Adrift at Sea in a Barrel
+TTITLE2=The Tale of Tsar Saltan -III- The Three Wonders
+TTITLE3=The Tale of Tsar Saltan - Act III, Interlude: The Flight of the Bumble Bee
+TTITLE4=The Invisible City of Kitezh Suite -I- Prelude: A Hymn to Nature
+TTITLE5=The Invisible City of Kitezh Suite -II- Wedding Procession
+TTITLE6=The Invisible City of Kitezh Suite -III- Tartar Invasion and Battle of Kerszhenets
+TTITLE7=The Invisible City of Kitezh Suite -IV- Death of Fevroniya and Apotheosis of the Invisible City
+TTITLE8=Le Coq d'Or Suite -I- Introduction and Dodon's Sleep
+TTITLE9=Le Coq d'Or Suite -II- King Dodon on the Battlefield
+TTITLE10=Le Coq d'Or Suite -III- Queen of Shemakha's Dance - King Dodon's Dance
+TTITLE11=Le Coq d'Or Suite -IV- Wedding Feast - Death of King Dodon - Finale
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

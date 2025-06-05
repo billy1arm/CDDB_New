@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	900
+#	1650
+#	2400
+#	3150
+#	3900
+#	4650
+#	5400
+#	6150
+#	6900
+#	7650
+#	8400
+#	9150
+#	206832
+#
+# Disc length: 4440 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6211560e
+DTITLE=aiueo - kakikukeko
+DYEAR=1900
+DGENRE=Rock
+TTITLE0=aaaaa
+TTITLE1=bbb
+TTITLE2=sss
+TTITLE3=ddd
+TTITLE4=eee
+TTITLE5=fff
+TTITLE6=ggg
+TTITLE7=hhh
+TTITLE8=iii
+TTITLE9=jjj
+TTITLE10=kkk
+TTITLE11=lll
+TTITLE12=mmm
+TTITLE13=nnn
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

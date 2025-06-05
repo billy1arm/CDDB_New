@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16580
+#	30200
+#	45269
+#	65233
+#	83385
+#	101278
+#	121330
+#	135762
+#
+# Disc length: 2032 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=5307ee09
+DTITLE=The New Blues Brothers - The Blues Power Revue - Live at The Pacific
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Soul Man
+TTITLE1=Shake A Tail Feather
+TTITLE2=Some Kinda Wonderful
+TTITLE3=You've Lost That Lovin' Feeling
+TTITLE4=The Letter
+TTITLE5=Livin' In America
+TTITLE6=Them Changes/Born On The Bayou
+TTITLE7=Lonely Teardrops
+TTITLE8=Shout
+EXTD=YEAR: 2001 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

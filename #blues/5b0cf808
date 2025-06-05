@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40875
+#	69750
+#	101775
+#	131250
+#	152025
+#	190500
+#	227025
+#
+# Disc length: 3322 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5b0cf808
+DTITLE=Houston Person - Opening Round
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Sweet Sucker
+TTITLE1=Let's Stay Together
+TTITLE2=Can't Help Lovin' That Man
+TTITLE3=What's Going On?
+TTITLE4=When A Man Loves A Woman
+TTITLE5=Blue Spring
+TTITLE6=Song For A Rainbow
+TTITLE7=Shenandoah
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

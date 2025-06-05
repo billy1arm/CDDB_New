@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18283
+#	40175
+#	57418
+#	74963
+#	89710
+#	108718
+#	128075
+#	148333
+#	165758
+#
+# Disc length: 2402 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL0
+#
+DISCID=9409600a
+DTITLE=Little Milton - Strugglin' Lady
+DYEAR=1900
+DGENRE=
+TTITLE0=Strugglin' lady
+TTITLE1=My Dog and Me
+TTITLE2=Cafe Woman
+TTITLE3=You Were Always on my Mind
+TTITLE4=Let Them Talk
+TTITLE5=If This Ain't the Blues
+TTITLE6=A Nickel and a Nail
+TTITLE7=She Never Gets the Blues
+TTITLE8=I Keep Falling for you
+TTITLE9=Bending the Rules
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

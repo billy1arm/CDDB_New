@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18240
+#	30695
+#	49187
+#	64810
+#	82225
+#	99932
+#	118827
+#	142777
+#	160002
+#	173540
+#	185627
+#
+# Disc length: 2708 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL2
+#
+DISCID=960a920c
+DTITLE=W. C. Clark - Texas Soul
+DYEAR=1900
+DGENRE=
+TTITLE0=I Only Have Love for You
+TTITLE1=Just the One I'm Looking For
+TTITLE2=Reminiscing
+TTITLE3=Why Do Things Happen to Me?
+TTITLE4=Rough Edges
+TTITLE5=Leave My Heart Alone
+TTITLE6=That's Where It's At
+TTITLE7=Funny How Time Slips Away
+TTITLE8=You'll Need Another Favor
+TTITLE9=I Want to Keep You
+TTITLE10=Ain't No Fun to Me
+TTITLE11=Baby, What About Me?
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

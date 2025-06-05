@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17820
+#	29895
+#	41775
+#	52915
+#	69407
+#	93767
+#	105292
+#	137857
+#	161617
+#	171547
+#	182482
+#	204637
+#	239630
+#	250692
+#	282942
+#	299695
+#	311092
+#
+# Disc length: 4254 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0d109c12
+DTITLE=Jean-Pierre Rampal - Portrait Of Rampal
+DYEAR=1988
+DGENRE=Classical
+TTITLE0=Vivaldi - Concerto Flute and Strings, Op.10, No. 3, RV 428 (Allegro)
+TTITLE1=Vivaldi - Concerto Flute and Strings, Op.10, No. 3, RV 428 (Largo)
+TTITLE2=Vivaldi - Concerto Flute and Strings, Op.10, No. 3, RV 428 (Allegro)
+TTITLE3=Bach - Concerto Flute and Continuo, BWV 1056 (Largo)
+TTITLE4=Bach - Concerto Flute and Continuo, BWV 1056 (Presto)
+TTITLE5=Teleman - Suite Flute and Strings (Air a l'Italien)
+TTITLE6=Teleman - Suite Flute and Strings (Polonaise)
+TTITLE7=Gluck - Dance of the blessed spirits
+TTITLE8=Mozart - Rondo Flute and Orchestra, K. Anh 184
+TTITLE9=Bach - Sonata Flute and Harpsichord, MWV 1031 (Siciliano)
+TTITLE10=Gossec - Gavotte
+TTITLE11=Joplin - The Entertainer - A Ragtime Two-Step
+TTITLE12=Bolling - Suite Flute and Jass Piano Trio, No 1 (Sentimentale)
+TTITLE13=Gershwin - Liza
+TTITLE14=Sakura - Sakura
+TTITLE15=Haydn - London Trio No. 1 (Allegro moderato)
+TTITLE16=Haydn - London Trio No. 1 (Andante)
+TTITLE17=Haydn - London Trio No. 1 (Finale - Allegro)
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

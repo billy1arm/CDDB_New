@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	31135
+#	60008
+#	74408
+#	99233
+#	131033
+#	175808
+#	202133
+#	238358
+#	263333
+#
+# Disc length: 3846 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=840f040a
+DTITLE=Various Artist - Jazz 'Round Midnight vol. 5
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Chet Baker Sextet - Alone Together
+TTITLE1=Wes Montgomery Quartet - Gone With The Wind
+TTITLE2=Errol Garner Trio - There's A Small Hotel
+TTITLE3=Cannonball Adderley Quintet - Dat Dere
+TTITLE4=The Modern Jazz Quartet - Django
+TTITLE5=Miles Davis Sextet - On Green Dolphin Street
+TTITLE6=Stan Getz and Charlie Byrd - Desafinado
+TTITLE7=Jimmy Smith Quartet - Flamingo
+TTITLE8=Ben Webster Quartet - How Long Has This Been Going On
+TTITLE9=Bill Evans Quintet - Loose Bloose
+EXTD=YEAR: 1988
+EXTT0=\n
+EXTT1=\n
+EXTT2=\n
+EXTT3=\n
+EXTT4=\n
+EXTT5=\n
+EXTT6=\n
+EXTT7=\n
+EXTT8=\n
+EXTT9=\n
+PLAYORDER=

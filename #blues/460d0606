@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	33890
+#	63702
+#	102172
+#	129072
+#	190142
+#
+# Disc length: 3336 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=460d0606
+DTITLE=Eric Clapton - Blues power
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Bright lights big city
+TTITLE1=Let it rain
+TTITLE2=Badge
+TTITLE3=Can't find my way home
+TTITLE4=Blues power medley
+TTITLE5=Layla - Presence of the lord
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16612
+#	26827
+#	41190
+#	54167
+#	65487
+#	74360
+#	88387
+#	98422
+#	112225
+#	132042
+#
+# Disc length: 1984 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9207be0b
+DTITLE=Barbra Streisand - The Album
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Cry me a river
+TTITLE1=My honey's loving arms
+TTITLE2=I'll tell the man in the street
+TTITLE3=A taste of honey
+TTITLE4=Who's afraid of the big bad wolf
+TTITLE5=Come to the supermarket (in old Peking)
+TTITLE6=Happy days are here again
+TTITLE7=Keepin' out of mischief now
+TTITLE8=Much more
+TTITLE9=A sleepin' bee
+TTITLE10=Soon its gonna rain
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

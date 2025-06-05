@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	182
+# 	21120
+# 	45375
+# 	63827
+# 	85955
+# 	108622
+# 	131090
+# 	150845
+# 	171830
+# 	192970
+# 	206512
+#
+# Disc length: 3029 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=890bd30b
+DTITLE=Roberta Flack - Set The Night To Music
+DYEAR=1900
+DGENRE=
+TTITLE0=The Waiting Game
+TTITLE1=Set the Night To Music
+TTITLE2=When Someone Tears Your Heart In Two
+TTITLE3=Something Your Heart Has Been Telling Me
+TTITLE4=You Make Me Feel Brand New
+TTITLE5=Unforgettable
+TTITLE6=Summertime
+TTITLE7=Natural Thing
+TTITLE8=My Foolish Heart
+TTITLE9=Friend
+TTITLE10=Always
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

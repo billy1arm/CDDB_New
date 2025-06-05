@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11815
+#	22727
+#	35347
+#	53160
+#	70207
+#	82427
+#	92740
+#	108482
+#	118777
+#	131282
+#
+# Disc length: 1970 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 1.4
+#
+DISCID=8e07b00b
+DTITLE=Buddy Guy - Left My Blues In San Francisco
+DYEAR=1900
+DGENRE=
+TTITLE0=Keep It To Myself
+TTITLE1=Crazy Love
+TTITLE2=I Suffer With The Blues
+TTITLE3=When My Left Eye Jumps
+TTITLE4=Buddy's Groove
+TTITLE5=Goin' Home
+TTITLE6=She Suits Me To A Tee
+TTITLE7=Leave My Girl Alone
+TTITLE8=Too Many Ways
+TTITLE9=Mother-In-Law
+TTITLE10=Every Girl I See
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

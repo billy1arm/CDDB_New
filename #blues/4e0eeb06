@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48262
+#	86784
+#	134862
+#	177292
+#	241731
+#
+# Disc length: 3821 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e0eeb06
+DTITLE=The Fonda/Stevens group - Live From Brugge
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=New years Eve
+TTITLE1=Bon voyage
+TTITLE2=Do you think
+TTITLE3=The money thing
+TTITLE4=The river
+TTITLE5=Down to the delta
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

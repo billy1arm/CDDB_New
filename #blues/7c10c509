@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21320
+#	45402
+#	87430
+#	121325
+#	162510
+#	197790
+#	246640
+#	280618
+#
+# Disc length: 4295 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7c10c509
+DTITLE=Michel Petrucciani Trio - Trio in Tokyo
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Training
+TTITLE1=September Second
+TTITLE2=Home
+TTITLE3=Little Peace In C For U
+TTITLE4=Love Letter
+TTITLE5=Cantabile
+TTITLE6=Colors
+TTITLE7=So What
+TTITLE8=Take the A Train
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

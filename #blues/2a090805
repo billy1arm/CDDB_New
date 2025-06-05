@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36231
+#	83911
+#	120788
+#	150309
+#
+# Disc length: 2314 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=2a090805
+DTITLE=Bobby Wellins and Scottish National Jazz Orchestra - Culloden Moor Suite
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=01: Gathering
+TTITLE1=02: March
+TTITLE2=03: Battle
+TTITLE3=04: Aftermath
+TTITLE4=05: Epilogue
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

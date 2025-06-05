@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10562
+#	23375
+#	33792
+#	46592
+#	89950
+#
+# Disc length: 4440 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=32115606
+DTITLE=東京プリン - ドラえもんのうた
+DYEAR=2003
+DGENRE=Anime
+TTITLE0=ドラえもんのうた
+TTITLE1=ぼくドラえもん2112
+TTITLE2=ドラえもんのうた(カラオケ)
+TTITLE3=ぼくドラえもん2112(カラオケ)
+TTITLE4=おまけのうた
+TTITLE5=Data
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

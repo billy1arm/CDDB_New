@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42181
+#	73285
+#	102702
+#	141610
+#	170507
+#	203692
+#	230871
+#
+# Disc length: 3468 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=810d8a08
+DTITLE=Karlheinz Miklin - Qinteto Argentina
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=La Cuca
+TTITLE1=No Puede Ser
+TTITLE2=Polytone
+TTITLE3=La Tierra
+TTITLE4=La Gota
+TTITLE5=Aparece
+TTITLE6=El Día que me quieras
+TTITLE7=Miklin Mouse
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

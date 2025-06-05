@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31601
+#	54757
+#	88523
+#	114688
+#	134711
+#	162098
+#	209189
+#
+# Disc length: 2958 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=690b8c08
+DTITLE=Giuseppe Tartini - Concertos, Symphonie and Adagio
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Concerto en ré majeur D20 - I. Allegro  [György Vashegyi, Orfeo Orchestra]
+TTITLE1=Concerto en ré majeur D20 - II. Grave
+TTITLE2=Concerto en ré majeur D20 - III. Allegro
+TTITLE3=Concerto en la majeur D34 - I. Allegro
+TTITLE4=Concerto en la majeur D34 - II. Gravei (ossia adagio)
+TTITLE5=Concerto en la majeur D34 - III. Allegro assai (ossia allegro)
+TTITLE6=Symphonie en ré majeur D20 - Allegro-Adagio-Allegro [Mendi Rodan, The Ramat-Gan Chamber Orch]
+TTITLE7=Adagio cantabile pour orchestre à cordes - Adagio cantabile [Robert Dunand, Collegium Accademium Genève]
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

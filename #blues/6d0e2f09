@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36122
+#	69785
+#	92590
+#	123819
+#	159348
+#	181096
+#	218223
+#	238451
+#
+# Disc length: 3633 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d0e2f09
+DTITLE=Sam Yahel Trio - Truth and Beauty
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Truth and Beauty
+TTITLE1=Man O' War
+TTITLE2=Check Up
+TTITLE3=Bend the Leaves
+TTITLE4=Saba
+TTITLE5=Night Game
+TTITLE6=Child Watching
+TTITLE7=A Paz
+TTITLE8=Festinhas
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9135
+#	21857
+#	30682
+#	52317
+#	75212
+#	88380
+#	98772
+#
+# Disc length: 1514 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5405e808
+DTITLE=Henry Mancini - The cop show themes
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Mystery movie theme (from the Universal TV Series)
+TTITLE1=The streets of San Francisco (from the Quinn Martin production)
+TTITLE2=Bumper's theme (from the Lorimar production "The blue knight")
+TTITLE3=Medley (Kojak (from the Universal TV Series) - S.W.A.T. (from the ABC TV Series))
+TTITLE4=Baretta's theme (Keep your eye on the sparrow)
+TTITLE5=The Rockford files (from the Universal TV Series)
+TTITLE6=Hawaii five-0 (from the CBS TV Series)
+TTITLE7=Police woman (from the NBC TV Series)
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

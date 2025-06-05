@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20100
+#	35800
+#	51775
+#	72250
+#	90925
+#	108350
+#	126375
+#	142800
+#	158825
+#	176550
+#
+# Disc length: 2649 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=930a570b
+DTITLE=Dana Gillespie - Methods of Release
+DYEAR=1900
+DGENRE=
+TTITLE0=The politics of ecstacy
+TTITLE1=Overseas male
+TTITLE2=Oh, what a night
+TTITLE3=Your love is in me
+TTITLE4=Methods of release
+TTITLE5=Love is a strange thing
+TTITLE6=Sun arise
+TTITLE7=Let's get wet
+TTITLE8=Divine romance
+TTITLE9=Still around
+TTITLE10=The circle is complete
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	177
+#	19057
+#	38320
+#	56787
+#	68942
+#	84650
+#	100892
+#	127022
+#	144802
+#	155950
+#	172732
+#	190310
+#
+# Disc length: 2859 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9d0b290c
+DTITLE=Various Artist - The Best of Ballantine's Gold Seal
+DYEAR=1900
+DGENRE=
+TTITLE0=Let's Call The Whole Thing Off
+TTITLE1=Manhattan
+TTITLE2=I Left My Heart in San Francisco
+TTITLE3=Unforgettable
+TTITLE4=Blue Moon
+TTITLE5=Don't Get Around Much Anymore
+TTITLE6=Every Time you Say Goodbye
+TTITLE7=Smoke Gets in Your Eyes
+TTITLE8=What a Diff Erence a Day Makes
+TTITLE9=Lady Sings the Blues
+TTITLE10=I Gotta Right to Sing The Blues
+TTITLE11=The Girl From Ipanema
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

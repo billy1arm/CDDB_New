@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46640
+#	82013
+#	149262
+#	166105
+#	253883
+#
+# Disc length: 4469 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=47117306
+DTITLE=Miles Davis - We want Miles
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=1 Jean-Pierre
+TTITLE1=2 Back seat Betty
+TTITLE2=3 Fast track
+TTITLE3=4 Jean-Pierre
+TTITLE4=5 My man is gone now
+TTITLE5=6  Kix
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

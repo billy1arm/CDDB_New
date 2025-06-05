@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19727
+#	42158
+#	70361
+#	88711
+#	109283
+#	135582
+#	159624
+#	181456
+#	189771
+#
+# Disc length: 2957 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta3
+#
+DISCID=820b8b0a
+DTITLE=Jacques Loussier - Lumieres
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Kyrie
+TTITLE1=Gloria
+TTITLE2=Credo
+TTITLE3=Offertoire
+TTITLE4=Sanctus
+TTITLE5=Pater Noster
+TTITLE6=Agnus Dei
+TTITLE7=Communion
+TTITLE8=Final
+TTITLE9=Magnificat
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

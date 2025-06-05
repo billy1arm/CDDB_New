@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40483
+#	82680
+#	160900
+#	184398
+#	206400
+#	223596
+#	266371
+#	291585
+#	310721
+#
+# Disc length: 4539 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=8d11b90a
+DTITLE=Various Artist - Freedom of the City 2001 - Small Groups (2/2)
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=THO 1
+TTITLE1=THO 2
+TTITLE2=WREWASHUGDUR 1
+TTITLE3=WREWASHUGDUR 2
+TTITLE4=BUTBER A
+TTITLE5=BUTBER B
+TTITLE6=BUTBER C
+TTITLE7=MINRUSTUR
+TTITLE8=COXRUT
+TTITLE9=COXMINRUSRUTTUR
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

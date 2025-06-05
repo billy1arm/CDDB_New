@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35786
+#	74954
+#	103688
+#	135819
+#	158444
+#	194467
+#	227196
+#
+# Disc length: 3459 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d0d8108
+DTITLE=Manhattan Jazz Quintet - Latino-Bop
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=El Cumbanchero
+TTITLE1=Besame Mucho
+TTITLE2=Volare
+TTITLE3=Libertango
+TTITLE4=La Malaguena - Granada
+TTITLE5=Sway ( Quien Sera )
+TTITLE6=Taboo
+TTITLE7=Passion Fruit
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

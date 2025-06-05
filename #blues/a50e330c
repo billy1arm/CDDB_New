@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26113
+#	34564
+#	55262
+#	74025
+#	90415
+#	106042
+#	129745
+#	160233
+#	186810
+#	217814
+#	238491
+#
+# Disc length: 3637 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,43,1226
+#
+DISCID=a50e330c
+DTITLE=Glikman Simon - Relax (Spring Vol.5)
+DYEAR=2004
+DGENRE=New Age
+TTITLE0=Ella
+TTITLE1=El Sueno
+TTITLE2=La Playa Solitaria
+TTITLE3=The Bloe Ballad
+TTITLE4=El Amor Perdido
+TTITLE5=Recuerdame
+TTITLE6=Adios
+TTITLE7=Cancion De La Ola
+TTITLE8=El Monte
+TTITLE9=El Mar Cantabrico
+TTITLE10=Triste Amanecer
+TTITLE11=Noche De Luna
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

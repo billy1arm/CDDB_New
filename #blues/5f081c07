@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21519
+#	43307
+#	65808
+#	91798
+#	110273
+#	136890
+#
+# Disc length: 2078 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f081c07
+DTITLE=Nate and the Companions - Jazz Vol 1
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Minority
+TTITLE1=Witch Hunt
+TTITLE2=Deluge
+TTITLE3=Nutville
+TTITLE4=Stolen Moments
+TTITLE5=Sea Journey
+TTITLE6=Let's Cool One
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

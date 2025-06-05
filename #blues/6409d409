@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17566
+#	38788
+#	61464
+#	79023
+#	97603
+#	115076
+#	148861
+#	172809
+#
+# Disc length: 2518 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6409d409
+DTITLE=Missa Johnouchi - Kuge II Disk I
+DYEAR=2004
+DGENRE=New Age
+TTITLE0=Skyward
+TTITLE1=Stardust Island
+TTITLE2=Lake
+TTITLE3=Kazamatsuri
+TTITLE4=Kataribe
+TTITLE5=Exotica
+TTITLE6=Prayer
+TTITLE7=Kotohime
+TTITLE8=Sunset Moon
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

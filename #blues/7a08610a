@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12330
+#	21331
+#	33008
+#	40801
+#	46860
+#	58404
+#	81450
+#	92743
+#	100900
+#
+# Disc length: 2147 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a08610a
+DTITLE=100 Monkeys - Monster De Lux
+DYEAR=2008
+DGENRE=Blues
+TTITLE0=01 robot timberwolves
+TTITLE1=02 smail lean
+TTITLE2=03 honkey tonk porcupine
+TTITLE3=04 drunken waltz
+TTITLE4=05 wild blue yonder
+TTITLE5=06 wasteland 1
+TTITLE6=07 wasteland 2
+TTITLE7=08 electric life
+TTITLE8=09 slow down
+TTITLE9=10 spaceship
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

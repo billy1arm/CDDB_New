@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	39768
+#	61533
+#	84858
+#	111408
+#	141408
+#
+# Disc length: 2187 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=42088906
+DTITLE=Miles Davis - Relaxin' with the Miles Davis Quintet
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=If I Were a Bell
+TTITLE1=You're My Everything
+TTITLE2=I Could Write a Book
+TTITLE3=Oleo
+TTITLE4=IT Could Happen to You
+TTITLE5=Woody'n You
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

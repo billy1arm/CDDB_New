@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17215
+#	35625
+#
+# Disc length: 820 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1f033203
+DTITLE=Plastic Tree - プラネタリウム
+DYEAR=2001
+DGENRE=Rock
+TTITLE0=プラネタリウム
+TTITLE1=エンジェルダスト
+TTITLE2=液体
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

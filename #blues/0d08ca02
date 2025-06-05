@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	98082
+#
+# Disc length: 2252 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0d08ca02
+DTITLE=Miles Davis - Shinjuku Koseinenkin Hall 1975 CD1
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Prelude
+TTITLE1=Maiysha
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+PLAYORDER=

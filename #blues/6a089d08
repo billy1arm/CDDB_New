@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	29708
+#	42458
+#	65785
+#	86373
+#	108478
+#	128745
+#	153908
+#
+# Disc length: 2207 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a089d08
+DTITLE=Evans Bill - Conversations with myself
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Round Midnight
+TTITLE1=How about you
+TTITLE2=Spartacus-LoveTheme
+TTITLE3=Blue Monk
+TTITLE4=Stella by Starlight
+TTITLE5=Hey There
+TTITLE6=N.Y.C.'s No Lark
+TTITLE7=Just you, just me
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

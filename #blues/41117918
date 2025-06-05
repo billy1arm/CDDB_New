@@ -1,0 +1,89 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     180
+#     13085
+#     25220
+#     34915
+#     46090
+#     61883
+#     75435
+#     86498
+#     101395
+#     116715
+#     128953
+#     144408
+#     162073
+#     174888
+#     190765
+#     205498
+#     220233
+#     236780
+#     252793
+#     265443
+#     282870
+#     300248
+#     309800
+#     322125
+# 
+# Disc length: 4475 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=41117918
+DTITLE=An Anthology of British Blues Volume 3 and 4 - Blues Anytime
+DYEAR=1900
+DGENRE=
+TTITLE0=Someday Baby
+TTITLE1=Steelin'
+TTITLE2=L. A. Breakdown
+TTITLE3=Chuckles
+TTITLE4=Down in my Boots
+TTITLE5=Piano Shuffle
+TTITLE6=Miles Road
+TTITLE7=Porcupine Juice
+TTITLE8=Albert
+TTITLE9=Rubber Monkey
+TTITLE10=Howlin' for my Darling
+TTITLE11=The Next Milestone
+TTITLE12=Somebody's Gonna Get Their Head Kicked in Tonite
+TTITLE13=New Death Matter
+TTITLE14=Backwater Blues
+TTITLE15=So Much to Say
+TTITLE16=Married Woman Blues
+TTITLE17=Water on My Fire
+TTITLE18=Keep your Hands Out of My Pockets
+TTITLE19=Alabama Woman
+TTITLE20=Crosstown Link
+TTITLE21=All Night Long
+TTITLE22=Down and Dirty
+TTITLE23=Come Home Baby
+EXTD=
+EXTT0=Cyril Davies and All Stars\n
+EXTT1=The All Stars teat. Jeff Beck\n
+EXTT2=The All Stars feat. Jimmy Page\n
+EXTT3=The All Stars feat. Jeff Beck\n
+EXTT4=The All Stars feat. Jimmy Page\n
+EXTT5=The All Stars feat. Nick Hopkins\n
+EXTT6=Eric Clapton and Jimmy page\n
+EXTT7=Santa Barbera Machine Head\n
+EXTT8=Santa Barbera Machine Head\n
+EXTT9=Santa Barbera Machine Head\n
+EXTT10=Stuff Smith\n
+EXTT11=Albert Lee and Tony Colton\n
+EXTT12=Earl Vince and The Valiants\n
+EXTT13=Dave Kelly\n
+EXTT14=Jo-Ann Kelly\n
+EXTT15=Rod Stewart\n
+EXTT16=Dave Kelly\n
+EXTT17=Albert lee and Tony Colton\n
+EXTT18=Jo-Ann Kelly\n
+EXTT19=Dave Kelly\n
+EXTT20=Albert Lee\n
+EXTT21=Dave Kelly\n
+EXTT22=Simon and Steve\n
+EXTT23=Rod Stewart and P. P. Arnold\n
+PLAYORDER=

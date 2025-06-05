@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16331
+#	38314
+#	67291
+#	100866
+#	124760
+#	153041
+#	176385
+#	193904
+#	216040
+#	237772
+#
+# Disc length: 3241 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=880ca70b
+DTITLE=Rai Ferrer Trio - Llum al final
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=01 Llum al final
+TTITLE1=02 ST (per a la Teri)
+TTITLE2=03 Pudiera o pudiese
+TTITLE3=04 La clenxa
+TTITLE4=05 Milonga de andar lejos
+TTITLE5=06 Dolca mel
+TTITLE6=07 Hostalets la nuit
+TTITLE7=08 Blau elèctric
+TTITLE8=09 El com i el perquè de les coses
+TTITLE9=10 Rebaixes al Ikea
+TTITLE10=11 G Blues
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

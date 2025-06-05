@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24895
+#	56232
+#	91232
+#	125872
+#	163317
+#	196337
+#
+# Disc length: 3092 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=5e0c1207
+DTITLE=Herbie Hancock - CD1
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Cantaloupe Island
+TTITLE1=Driftin'
+TTITLE2=Speak Like a Child
+TTITLE3=Succotash
+TTITLE4=Blind man, blind man
+TTITLE5=One Finger Snap
+TTITLE6=Maiden Voyage
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	78635
+#	125435
+#	167882
+#	257220
+#	281171
+#
+# Disc length: 4341 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=5610f306
+DTITLE=Beethoven - ピアノ協奏曲全集 Disk2 - Vladimir Ashkenazy
+DYEAR=1988
+DGENRE=クラシック (一般)
+TTITLE0=ピアノ協奏曲 第3番 ハ短調 Op.37 - 第1楽章 - アレグロ･コン･ブリオ
+TTITLE1=ピアノ協奏曲 第3番 ハ短調 Op.37 - 第2楽章 - ラルゴ
+TTITLE2=ピアノ協奏曲 第3番 ハ短調 Op.37 - 第3楽章 - ロンド (アレグロ)
+TTITLE3=ピアノ協奏曲 第4番 ト長調 Op.58 - 第1楽章 - アレグロ･モデラート
+TTITLE4=ピアノ協奏曲 第4番 ト長調 Op.58 - 第2楽章 - アンダンテ･コン・モート
+TTITLE5=ピアノ協奏曲 第4番 ト長調 Op.58 - 第3楽章 - ロンド (ヴィヴァーチェ)
+EXTD=YEAR: 1988
+EXTT0=The Cleveland Orchestra, Vladimir Ashkenazy
+EXTT1=The Cleveland Orchestra, Vladimir Ashkenazy
+EXTT2=The Cleveland Orchestra, Vladimir Ashkenazy
+EXTT3=The Cleveland Orchestra, Vladimir Ashkenazy
+EXTT4=The Cleveland Orchestra, Vladimir Ashkenazy
+EXTT5=The Cleveland Orchestra, Vladimir Ashkenazy
+PLAYORDER=

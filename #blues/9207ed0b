@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     3127
+#     23482
+#     37362
+#     53425
+#     71752
+#     84572
+#     99707
+#     111407
+#     128700
+#     147505
+# 
+# Disc length: 2031 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9207ed0b
+DTITLE=allison collins - verily
+DYEAR=1900
+DGENRE=
+TTITLE0=gauze
+TTITLE1=the desert shall rejoice
+TTITLE2=letdown
+TTITLE3=deliverance
+TTITLE4=i wish it would rain
+TTITLE5=seventy times seven
+TTITLE6=good bye bye
+TTITLE7=verily, verily
+TTITLE8=one way out
+TTITLE9=to remind you
+TTITLE10=(unlisted and untitled)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=490 ?\n
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

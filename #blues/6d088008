@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27765
+#	51472
+#	68347
+#	80065
+#	110182
+#	123035
+#	149440
+#
+# Disc length: 2178 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d088008
+DTITLE=Smetana Quartet スメタナ四重奏団 - Haydn: String Quartets "Lark" and "Bird" ハイドン 弦楽四重奏曲「ひばり」/「鳥」
+DYEAR=1980
+DGENRE=Classical
+TTITLE0=ハイドン 弦楽四重奏曲「ひばり」・第1楽章 Allegro moderato
+TTITLE1=ハイドン 弦楽四重奏曲「ひばり」・第2楽章 Adagio cantabile
+TTITLE2=ハイドン 弦楽四重奏曲「ひばり」・第3楽章 Menuetto
+TTITLE3=ハイドン 弦楽四重奏曲「ひばり」・第4楽章 Vivace
+TTITLE4=ハイドン 弦楽四重奏曲「鳥」・第1楽章 Allegro moderato
+TTITLE5=ハイドン 弦楽四重奏曲「鳥」・第2楽章 Scherzo - Allegretto
+TTITLE6=ハイドン 弦楽四重奏曲「鳥」・第3楽章 Adagio
+TTITLE7=ハイドン 弦楽四重奏曲「鳥」・第4楽章 rondo - Presto
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15862
+#	38755
+#	62272
+#	78900
+#	98627
+#	114450
+#	130462
+#
+# Disc length: 1912 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL0
+#
+DISCID=51077608
+DTITLE=Rhythm Oil - Curiously Hip
+DYEAR=1900
+DGENRE=
+TTITLE0=Eyes Like A Cat
+TTITLE1=Information Blues
+TTITLE2=I Left My Baby
+TTITLE3=Sing, Sing, Sing
+TTITLE4=Rock This House
+TTITLE5=Crazy 'Bout You Baby
+TTITLE6=Chicken Fried Snake
+TTITLE7=I Walked Away
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

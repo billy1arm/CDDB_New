@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24018
+#	46698
+#
+# Disc length: 939 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1103a903
+DTITLE=St. John Singers - Preghiera della pace
+DYEAR=2009
+DGENRE=Cult
+TTITLE0=Coro and orchestra
+TTITLE1=Coro and pianoforte
+TTITLE2=Solo orchestra
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18102
+#	36278
+#	57268
+#	77553
+#	95998
+#	118543
+#	141916
+#	159812
+#	182528
+#	203220
+#
+# Disc length: 3011 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CD2WAV32(JP) R3.22
+#
+DISCID=890bc10b
+DTITLE=Various Artist - LEAF VOCAL COLLECTION VOL.3
+DYEAR=2003
+DGENRE=Game
+TTITLE0=元田恵美 - 香る風
+TTITLE1=美崎しのぶ - 旅の途中で
+TTITLE2=元田恵美 - ホントのさよなら
+TTITLE3=元田恵美 - Shining Days
+TTITLE4=中山愛梨紗 - Routes
+TTITLE5=美崎しのぶ - E JUNK
+TTITLE6=池田春菜 - あなたを想いたい
+TTITLE7=中山愛梨紗 - 君をのせて
+TTITLE8=池田春菜 - I hope so...
+TTITLE9=AKKO - ヒトリ
+TTITLE10=Brenda - POWDER SNOW
+EXTD=
+EXTT0=テネレッツァ OP
+EXTT1=テレネッツァ ED
+EXTT2=おでかけマルチ OP
+EXTT3=おでかけマルチ ED
+EXTT4=Routes OP
+EXTT5=Routes 挿入歌
+EXTT6=Routes ED
+EXTT7=Routes 開始テーマ
+EXTT8=天使のいない12月 OP
+EXTT9=天使のいない12月 ED
+EXTT10=WHITE ALBUM ED English Version
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23057
+#	45740
+#	66480
+#	100010
+#	120455
+#	140725
+#	160267
+#
+# Disc length: 2349 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6a092b08
+DTITLE=Phineas Newborn Jr. - C Jam Blues
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=C Jam Blues
+TTITLE1=A Night in Tunisia
+TTITLE2=The Champ
+TTITLE3=Body and Soul
+TTITLE4=Take the A train
+TTITLE5=Harlem Blues
+TTITLE6=Sophistcated Lady
+TTITLE7=Bye Bye Blackbird
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

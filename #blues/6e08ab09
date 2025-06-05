@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15945
+#	32715
+#	53742
+#	57775
+#	82800
+#	109005
+#	126620
+#	146652
+#
+# Disc length: 2221 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e08ab09
+DTITLE=Alice Cooper - School's Out
+DYEAR=1972
+DGENRE=Rock
+TTITLE0=School's Out
+TTITLE1=Luney Tune
+TTITLE2=Gutter Cat Vs. The Jets
+TTITLE3=Street Fight
+TTITLE4=Blue Turk
+TTITLE5=My Stars
+TTITLE6=Public Animal #9
+TTITLE7=Alma Mater
+TTITLE8=Grande Finale
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

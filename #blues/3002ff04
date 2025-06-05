@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13575
+#	29025
+#	42525
+#
+# Disc length: 769 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3002ff04
+DTITLE=西田ひかる - 涙 止まらない
+DYEAR=1993
+DGENRE=JPop
+TTITLE0=涙 止まらない
+TTITLE1=朝まで踊ろう
+TTITLE2=涙 止まらない(Original-Karaoke)
+TTITLE3=朝まで踊ろう(Original-Karaoke)
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

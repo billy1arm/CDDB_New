@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20130
+#	42695
+#	61875
+#	87570
+#	110690
+#	131165
+#	146275
+#	168160
+#	185755
+#
+# Disc length: 2854 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD2 v3.00 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=950b240a
+DTITLE=Joel Xavier - Sr. Fado
+DYEAR=1900
+DGENRE=
+TTITLE0=Povo que Lavas no Rio
+TTITLE1=Ai Mouraria
+TTITLE2=Fado Marujo
+TTITLE3=Tudo Isto i Fado
+TTITLE4=Vou Dar de Beber ` Dor
+TTITLE5=Lisboa Menina e Moga
+TTITLE6=Rua do Capelco
+TTITLE7=Canoas do Tejo
+TTITLE8=Estranha Forma de Vida
+TTITLE9=Nco i Desgraga ser Pobre
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

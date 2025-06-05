@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     29795
+#     54460
+#     85495
+#     114135
+#     140780
+#     162225
+#     188130
+#     210912
+#     233957
+# 
+# Disc length: 3546 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=880dd80a
+DTITLE=Ian Siegal and The Score - Picture Postcards
+DYEAR=1900
+DGENRE=
+TTITLE0=Whiskyhead
+TTITLE1=T-Bone Shuffle
+TTITLE2=Mambo Jambo
+TTITLE3=World on Fire
+TTITLE4=Out of the Blues
+TTITLE5=Love me now or leave me
+TTITLE6=Let's go get stoned
+TTITLE7=Thought I heard
+TTITLE8=Open up your mind
+TTITLE9=Suitcases
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

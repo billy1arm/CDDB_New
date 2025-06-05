@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	26385
+#	43890
+#	54947
+#	66870
+#	82767
+#	104245
+#	114490
+#	128932
+#	156395
+#	187855
+#	204457
+#
+# Disc length: 3017 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a00bc70c
+DTITLE=Various Artist - Swinging The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Sultans Of Swing
+TTITLE1=Little Red Rooster
+TTITLE2=This Is Hip
+TTITLE3=My Love Is Real
+TTITLE4=I Put A Spell On You
+TTITLE5=Nobody Knows
+TTITLE6=Don't Keep Me Waiting
+TTITLE7=I'm Gonna Forget About You
+TTITLE8=The Last Time
+TTITLE9=I'm A Man
+TTITLE10=Kind Hearted Woman
+TTITLE11=I Feel Like Going Home
+EXTD=Charly ST18
+EXTT0=Dire Straits
+EXTT1=Howlin' Wolf/Eric Clapton
+EXTT2=John Lee Hooker
+EXTT3=Buddy Guy
+EXTT4=Screaming Jay Hawkins
+EXTT5=Paul Brady
+EXTT6=B.B. King
+EXTT7=Robert Cray
+EXTT8=John Mayall
+EXTT9=Chicago
+EXTT10=Johnny Winter
+EXTT11=Notting Hillbillies
+PLAYORDER=

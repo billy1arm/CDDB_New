@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+#
+# Track frame offsets:
+#	150
+#	30945
+#	46443
+#	61517
+#	87867
+#	121229
+#	139599
+#	164695
+#	183347
+#	199324
+#	225700
+#	254383
+#
+# Disc length: 3666
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CoolCD_Studio 1.5
+#
+DISCID=9a0e500c
+DTITLE=Eduardo Meana - Entrañable
+DYEAR=2008
+DGENRE=
+TTITLE0=Corazón animador
+TTITLE1=Cantar de las alianzas
+TTITLE2=El tránsito suave hacia primavera
+TTITLE3=Rezo del esclavo
+TTITLE4=Letania por la propia libertad
+TTITLE5=Parte de lo humano
+TTITLE6=Los sueños son semillas del corazón
+TTITLE7=Gestos silencios de amor
+TTITLE8=Inclinación
+TTITLE9=Pertenencia
+TTITLE10=Amar es viaje sin retorno
+TTITLE11=Oración por la coherencia
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

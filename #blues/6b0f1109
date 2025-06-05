@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23547
+#	66819
+#	105219
+#	123357
+#	171072
+#	200389
+#	219448
+#	259558
+#
+# Disc length: 3859 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=6b0f1109
+DTITLE=Martin Sasse - Blue
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=01 In a sentimental mood
+TTITLE1=02 Body and Soul
+TTITLE2=03 La ballade pour pipette
+TTITLE3=04 Downhill Blues
+TTITLE4=05 Everything happens to me
+TTITLE5=06 New perspective
+TTITLE6=07 Tonight I should sleep with a smile on my face
+TTITLE7=08 You`d be so nice to come home to
+TTITLE8=09 Dreaming of srepping out
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

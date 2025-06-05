@@ -1,0 +1,52 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19137
+#	38527
+#	58550
+#	75650
+#	103512
+#	123040
+#	146227
+#	168415
+#	191790
+#
+# Disc length: 2783 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=7d0add0a
+DTITLE=Ruth Brown - Fine and Mellow
+DYEAR=1900
+DGENRE=
+TTITLE0=Fine and Mellow
+TTITLE1=I Ain't Got Nothin' But the Blues
+TTITLE2=A World I never Made
+TTITLE3=Salty Papa Blues
+TTITLE4=I'lll Crown in My Own Tears
+TTITLE5=Know Me a Kiss
+TTITLE6=It's Just a Matter of Time
+TTITLE7=Don't Get Around Much Anymore
+TTITLE8=Nothing Takes the Place of You
+TTITLE9=I'll Be Satisfied
+EXTD=Ruth Brown - vocals\nBill Berry - Cornet\nBuster Cooper - trombone
+EXTD=\nJeff Clayton - alto Saxophone\nJack Nimitz - baritone saxophone\n
+EXTD=Herman Riley - tenor saxophone\nFrank owens - leader, piano\nBobby
+EXTD=forrester - hammond B-3 organ\nRodney jones - guitar\nAl McKibbon
+EXTD=acoustic bass\nSherman Ferguson - drums\n\nC 1991 Fantasy Record
+EXTD=s, Berkeley
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

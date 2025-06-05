@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28657
+#	57035
+#	81740
+#	103732
+#
+# Disc length: 1717 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3d06b305
+DTITLE=Unknown Artist - Unknown Title
+DYEAR=1997
+DGENRE=JPop
+TTITLE0=Unknown Artist - Track01
+TTITLE1=Unknown Artist - Track02
+TTITLE2=Unknown Artist - Track03
+TTITLE3=Unknown Artist - Track04
+TTITLE4=Unknown Artist - Track05
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

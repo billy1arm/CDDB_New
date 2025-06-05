@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	81125
+#	86788
+#	139725
+#
+# Disc length: 2156 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2c086a04
+DTITLE=Brown, Clifford - Jams 2
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Coronado
+TTITLE1=Introduction
+TTITLE2=I'll remember April
+TTITLE3=Crazy he calls me
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

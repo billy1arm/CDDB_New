@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19751
+#	39348
+#	65271
+#
+# Disc length: 1068 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=27042a04
+DTITLE=Mr. BIG - Goin' Where The Wind Blows(EP)
+DYEAR=1996
+DGENRE=Hard Rock
+TTITLE0=Goin' Where The Wind Blows(LP Version)
+TTITLE1=Livin' Like A Dog(Non-LP Bonus Track)
+TTITLE2=Alive and Kickin'(Live)
+TTITLE3=Tears(Non-LP Bonus Track)
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

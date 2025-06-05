@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11642
+#     18760
+#     29165
+#     43875
+#     55942
+#     70347
+#     80285
+#     91065
+#     103465
+#     116565
+#     124142
+# 
+# Disc length: 1836 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a0072a0c
+DTITLE=Frankie Laine - Frankie Laine - The Uncollected
+DYEAR=1900
+DGENRE=
+TTITLE0=That's My Desire
+TTITLE1=I May Be Wrong
+TTITLE2=All Of Me
+TTITLE3=Two Loves Have I
+TTITLE4=Baby, That Ain't Right
+TTITLE5=It Only Happens Once
+TTITLE6=Black And Blue
+TTITLE7=Put Yourself In My Place, Baby
+TTITLE8=But Beautiful
+TTITLE9=Laughing At Life
+TTITLE10=Rosetta
+TTITLE11=We'll Be Together Again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

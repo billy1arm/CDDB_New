@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16182
+#	33275
+#	47516
+#	59522
+#	73505
+#	93940
+#	105680
+#	119936
+#	137216
+#	156415
+#	166985
+#
+# Disc length: 2398 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a4095c0c
+DTITLE=Varios - bossa BEATLES
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Hey Jude
+TTITLE1=She Loves You 
+TTITLE2=In My Life 
+TTITLE3=For No One 
+TTITLE4=Can´t Buy Me Love 
+TTITLE5=Let It Be 
+TTITLE6=Nowhere Man
+TTITLE7=Here Comes The Sun 
+TTITLE8=Fool On The Hill
+TTITLE9=Day Tripper
+TTITLE10=Yesterday
+TTITLE11=Penny Lane 
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

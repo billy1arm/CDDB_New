@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15087
+#	38883
+#	66835
+#	86740
+#	101035
+#	116119
+#	139302
+#
+# Disc length: 2012 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.8
+#
+DISCID=6807da08
+DTITLE=Lazy Lenny - Off The Cuff
+DYEAR=2005
+DGENRE=Blues
+TTITLE0=Off The Cuff
+TTITLE1=Going Train Blues
+TTITLE2=Goin' away Baby
+TTITLE3=Canned Heat
+TTITLE4=Lazy Lenny's Country Rag
+TTITLE5=Cool Disposition
+TTITLE6=Going Train Blues
+TTITLE7=Off The Cuff
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

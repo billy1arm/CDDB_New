@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	92154
+#	200179
+#	289464
+#
+# Disc length: 4496 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3f118e04
+DTITLE=Joe Morris Quartet - Joe Morris Quartet at the Old Office
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Matter of Fact
+TTITLE1=Don't Say Too Much
+TTITLE2=Coil
+TTITLE3=Closeout
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

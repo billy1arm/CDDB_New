@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     23758
+#     37765
+#     46188
+#     63380
+#     85768
+#     106020
+#     123498
+#     136993
+#     168205
+#     178003
+# 
+# Disc length: 2685 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7e0a7b0b
+DTITLE=Mike Bloomfield - Try It Before You Buy It
+DYEAR=1900
+DGENRE=
+TTITLE0=Been Treated Wrong
+TTITLE1=When It All Comes Down
+TTITLE2=Lights Out
+TTITLE3=Baby Come On
+TTITLE4=Shine On Love
+TTITLE5=When I Get Home
+TTITLE6=Try It Before You Buy It
+TTITLE7=Midnight On The Radio
+TTITLE8=Your Friends
+TTITLE9=Tomorrow Night
+TTITLE10=Let Them Talk
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

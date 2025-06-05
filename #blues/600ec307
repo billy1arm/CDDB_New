@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53625
+#	74625
+#	131257
+#	177145
+#	210555
+#	242210
+#
+# Disc length: 3781 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=600ec307
+DTITLE=Pete Jolly - Timeless
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Milestones
+TTITLE1=Tea for Two
+TTITLE2=That Old Devil Moon
+TTITLE3=Don't Worry About Me
+TTITLE4=Stars and Stripes Forever
+TTITLE5=I Should Care
+TTITLE6=Hey Jude
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

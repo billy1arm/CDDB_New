@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24607
+#	50811
+#	78043
+#	104547
+#	128780
+#	153212
+#	173617
+#
+# Disc length: 2631 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a0a4508
+DTITLE=Kenny MacKenzie Trio with Shenole Latimer - Closer to the Day
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Song One 
+TTITLE1=Face to Shine
+TTITLE2=Closer to the Day
+TTITLE3=Like Them That Dream
+TTITLE4=Good Manners
+TTITLE5=Song Two
+TTITLE6=Black and Orange
+TTITLE7=Surely
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	59961
+#	99694
+#	178949
+#	204386
+#
+# Disc length: 3273 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=4c0cc705
+DTITLE=John Scofield - Trio Live
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Swinganova
+TTITLE1=Straight, No Chaser
+TTITLE2=Loose Cannon
+TTITLE3=Name That Tune
+TTITLE4=Everybody's Party
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

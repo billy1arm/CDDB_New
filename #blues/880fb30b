@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25574
+#	54307
+#	81019
+#	103813
+#	140432
+#	166299
+#	194653
+#	225304
+#	253181
+#	279124
+#
+# Disc length: 4021 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=880fb30b
+DTITLE=Various Artist - Back To India
+DYEAR=1900
+DGENRE=Folklore
+TTITLE0=Di To Pagal
+TTITLE1=Ladki Badi Anjani Hai
+TTITLE2=Bade Miyan Chote
+TTITLE3=Na Na Na Re
+TTITLE4=Kahan Gangu Teli
+TTITLE5=O O Jaane Jaana
+TTITLE6=Panga Na Le Mere Naal
+TTITLE7=Sona Sona
+TTITLE8=Ishq Sona Hai
+TTITLE9=Taal Setaal Mila
+TTITLE10=Tujhe Dekha To
+EXTD=ID3G: 115
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

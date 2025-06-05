@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11812
+#	22675
+#	39112
+#	56920
+#	69495
+#	81032
+#	95967
+#	113802
+#	123282
+#
+# Disc length: 1805 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=79070b0a
+DTITLE=Rod Steward - Gold
+DYEAR=1900
+DGENRE=
+TTITLE0=Shake
+TTITLE1=Just Like I Treat You
+TTITLE2=I Just Got Someone
+TTITLE3=Just A Little Misunderstood
+TTITLE4=Why Does It Go On
+TTITLE5=Ain't That Loving You Baby
+TTITLE6=Bright Lights, Big City
+TTITLE7=Don't You Tell Nobody
+TTITLE8=Keep Your Hands Off Her
+TTITLE9=Moppers Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

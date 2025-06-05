@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28682
+#	56351
+#	77101
+#	116876
+#	145846
+#	172330
+#	198667
+#	229012
+#
+# Disc length: 3511 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=7f0db509
+DTITLE=Mike Georgin - The Line Between
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Enter The Shaman
+TTITLE1=Equilline
+TTITLE2=Under The Door
+TTITLE3=So What
+TTITLE4=The Line Between
+TTITLE5=Want And Need
+TTITLE6=Downtown
+TTITLE7=The Long Walk
+TTITLE8=If
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

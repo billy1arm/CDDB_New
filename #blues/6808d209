@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19781
+#	21979
+#	39114
+#	69798
+#	86110
+#	117764
+#	122232
+#	151496
+#
+# Disc length: 2260 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=6808d209
+DTITLE=Jean Michel Jarre - The Concerts In China [CD 2)
+DYEAR=1982
+DGENRE=New Age
+TTITLE0=Orient Express
+TTITLE1=Magnetic Fields I
+TTITLE2=Magnetic Fields III
+TTITLE3=Magnetic Fields IV
+TTITLE4=Laser Harp
+TTITLE5=Night In Shanghai
+TTITLE6=The Last Rumba
+TTITLE7=Magnetic Fields II
+TTITLE8=Souvenir Of China
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

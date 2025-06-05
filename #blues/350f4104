@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	80620
+#	155922
+#	201512
+#
+# Disc length: 3907 seconds
+#
+# Revision: 12
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=350f4104
+DTITLE=Anton Bruckner - Symphonie Nr.4 Es-Dur WAB104 - Romantische - Jochum and SkDD 1975
+DYEAR=1975
+DGENRE=Klassik
+TTITLE0=1. Bewegt, doch nicht zu schnell
+TTITLE1=2. Andante quasi allegretto
+TTITLE2=3. Scherzo. Bewegt - Trio. Nicht zu schnell
+TTITLE3=4. Finale. Bewegt, doch nicht zu schnell
+EXTD=Staatskapelle Dresden/ Eugen Jochum YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  12745
+#  25145
+#  40290
+#  58127
+#  71055
+#  83245
+#  108257
+#  125760
+#  141160
+#  164397
+#  180130
+#
+# Disc length: 2635 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=a50a490c
+DTITLE=Various Artist - Hot, Hot Reggae, Vol. 3
+DYEAR=1900
+DGENRE=
+TTITLE0=Try Me/Bob Marley and the Wailers
+TTITLE1=Only Love Can Win/Greyhound
+TTITLE2=Upside Down/Carol Cool
+TTITLE3=I Will Love You/Soulful Dynamics
+TTITLE4=Three Little Birds/Soul Train
+TTITLE5=Do It Twice/Bob Marley and the Wailers
+TTITLE6=Mango Rock/Greyhound
+TTITLE7=You Are to Me/Merger
+TTITLE8=Make It With You/Charmaine Burnett
+TTITLE9=Peace and Love and Happiness/Club Safari
+TTITLE10=Duppy Conqueror/Bob Marley and the Wailers
+TTITLE11=Unchained Melody/Greyhound
+EXTD=
+EXTT0=Bob Marley and the Wailers
+EXTT1=Greyhound
+EXTT2=Carol Cool
+EXTT3=Soulful Dynamics
+EXTT4=Soul Train
+EXTT5=Bob Marley and the Wailers
+EXTT6=Greyhound
+EXTT7=Merger
+EXTT8=Charmaine Burnett
+EXTT9=Club Safari
+EXTT10=Bob Marley and the Wailers
+EXTT11=Greyhound
+PLAYORDER=

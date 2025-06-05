@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44775
+#	71426
+#	93049
+#	146067
+#	195434
+#	241986
+#
+# Disc length: 3865 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.94
+#
+DISCID=5d0f1707
+DTITLE=Miles Davis - 1958 Miles
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=On Green Dolphin Street
+TTITLE1=Fran Dance
+TTITLE2=Stella By Starlight
+TTITLE3=Love For Sale
+TTITLE4=Straight, No Chaser
+TTITLE5=My Funny Valentine
+TTITLE6=Oleo
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

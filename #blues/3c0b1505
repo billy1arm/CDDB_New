@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	56470
+#	111462
+#	135930
+#	183252
+#
+# Disc length: 2839 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=3c0b1505
+DTITLE=McCoy Tyner - Expansions
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Vision
+TTITLE1=Song Of Happiness
+TTITLE2=Smitty's Place
+TTITLE3=Peresina
+TTITLE4=I Thought I'd Let You Know
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

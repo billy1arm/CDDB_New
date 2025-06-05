@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17798
+#	40012
+#	61723
+#	77138
+#	94972
+#	113841
+#	138231
+#
+# Disc length: 2079 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5d081d08
+DTITLE=Les Enfants du Jazz - Live SWF1 Dixieland Festival 1997
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Stevedore Stomp
+TTITLE1=Way Down Yonder in New Orleans
+TTITLE2=Sweeping the Blues Away
+TTITLE3=Tennessee Waltz
+TTITLE4=Saturday Night Function
+TTITLE5=African Queen
+TTITLE6=Bugle Boy March
+TTITLE7=Mr. Sandman
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

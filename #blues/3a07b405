@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23605
+#	52390
+#	72120
+#	99937
+#
+# Disc length: 1974 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=3a07b405
+DTITLE=Jackie and Roy - A wilder alias
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=A wilder alias
+TTITLE1=Niki's song
+TTITLE2=Waltz for Dana
+TTITLE3=The way we are
+TTITLE4=Godd and rich
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

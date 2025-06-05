@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12307
+#	23272
+#	36612
+#	48019
+#	60026
+#	74233
+#	87340
+#	101472
+#	120594
+#	144921
+#	163265
+#	180127
+#	201547
+#	233569
+#	266193
+#	284750
+#	303632
+#	319689
+#
+# Disc length: 4544 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0911be13
+DTITLE=Ella Fitzgerald - Ken Burns Jazz
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=A Tisket A tasket
+TTITLE1=Vote For Mr. Rythum
+TTITLE2=Betcha Nickel
+TTITLE3=Flying Home
+TTITLE4=Nice Work If You Can Get It
+TTITLE5=Smooth Sailing
+TTITLE6=Lullaby Of Birdland
+TTITLE7=Night And Day
+TTITLE8=Let's Call The Whole thing Off
+TTITLE9=Sophisticated Lady
+TTITLE10=OH Lady Be Good
+TTITLE11=Blue Skies
+TTITLE12=Mack The Knife
+TTITLE13=How High The Moon
+TTITLE14=Blues In The Night
+TTITLE15=Mr. Paganini
+TTITLE16=A Night In Tunisia
+TTITLE17=Shiny Stockings
+TTITLE18=Ornithology
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

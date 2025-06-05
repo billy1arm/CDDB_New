@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23497
+#	47707
+#	71200
+#
+# Disc length: 1270 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e04f404
+DTITLE=マルシア - 心の結婚〜映画「新・居酒屋ゆうれい」主題歌〜
+DYEAR=1996
+DGENRE=JPop
+TTITLE0=心の結婚
+TTITLE1=いつも　あなたを想ってる
+TTITLE2=心の結婚（ｏｒｉｇｉｎａｌ　ｋａｒａｏｋｅ）
+TTITLE3=いつも　あなたを想ってる（ｏｒｉｇｉｎａｌ　ｋａｒａｏｋｅ）
+EXTD=YEAR: 1996/9/21
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

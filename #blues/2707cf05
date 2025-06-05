@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24138
+#	45426
+#	84200
+#	115148
+#
+# Disc length: 2001 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2707cf05
+DTITLE=Vince Guaraldi - Vince Guaraldi Bola Sete and Friends (vinyl)
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Days of Wine and Roses
+TTITLE1=Star Song
+TTITLE2=Mambossa
+TTITLE3=Moon Rays
+TTITLE4=Casaba
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46106
+#	97587
+#	142550
+#	188607
+#	216430
+#	286560
+#
+# Disc length: 4356 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=4c110207
+DTITLE=相澤 徹 - Tachibana
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Philosopher's Stone
+TTITLE1=Sacrament
+TTITLE2=La Fiesta
+TTITLE3=Dead Letter
+TTITLE4=Samba De Orfeu
+TTITLE5=Sundance (Live At Mokuba)
+TTITLE6=Samba De Orfeu (Live At Mokuba)
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

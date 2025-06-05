@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	27870
+#	55277
+#	87422
+#	120807
+#	151132
+#	194250
+#	225825
+#
+# Disc length: 3373 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=500d2b08
+DTITLE=_Various - Decouverte Detente Voyage
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Musique pour vivre
+TTITLE1=Destination musique
+TTITLE2=Renaitre
+TTITLE3=Voyage magique
+TTITLE4=Au rythme de la vie
+TTITLE5=Decouvertes
+TTITLE6=Panorama en bleu
+TTITLE7=La danse du soleil
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

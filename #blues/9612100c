@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18333
+#	52561
+#	77208
+#	119593
+#	173025
+#	205262
+#	231226
+#	264248
+#	273922
+#	302695
+#	320437
+#
+# Disc length: 4626 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9612100c
+DTITLE=Belmondo - Hymne au Soleil (remasterisé)
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Notre Père
+TTITLE1=Vieille Prière Bouddhique
+TTITLE2=TantumErgo
+TTITLE3=Hymne au Soleil
+TTITLE4=Pie Jesu
+TTITLE5=Reflets
+TTITLE6=Après un rêve
+TTITLE7=Scherzo op.2
+TTITLE8=Ubi Caritas
+TTITLE9=Sous bois
+TTITLE10=Thème du Jardin Féerique (inédit)
+TTITLE11=Ma Mère l'Oye
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

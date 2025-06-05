@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	24418
+#	46175
+#	68520
+#	91348
+#	125530
+#	141695
+#	163680
+#	183653
+#	198510
+#
+# Disc length: 3141 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=8c0c430a
+DTITLE=Pat Travers - Blues Magnet
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=Blues Magnet
+TTITLE1=Travelin' Blues
+TTITLE2=Lil Southern Belle
+TTITLE3=Rock Yer Blues Away
+TTITLE4=This World We Live In
+TTITLE5=She Gets The Lovin'
+TTITLE6=Elaine
+TTITLE7=Fall To Pieces
+TTITLE8=Tore Up (From The Floor Up)
+TTITLE9=You Shouldn't Have Hurt Me
+EXTD=DISC: 1\nUPC: 02624520222\nLABEL: Blues Bureau International\nENSORECORD: 78253\n YEAR: 1994 ID3G: 0
+EXTT0=PERFORMER: Pat Travers\n
+EXTT1=PERFORMER: Pat Travers\n
+EXTT2=PERFORMER: Pat Travers\n
+EXTT3=PERFORMER: Pat Travers\n
+EXTT4=PERFORMER: Pat Travers\n
+EXTT5=PERFORMER: Pat Travers\n
+EXTT6=PERFORMER: Pat Travers\n
+EXTT7=PERFORMER: Pat Travers\n
+EXTT8=PERFORMER: Pat Travers\n
+EXTT9=PERFORMER: Pat Travers\n
+PLAYORDER=

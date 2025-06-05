@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48320
+#	89556
+#	122137
+#	157968
+#	189920
+#	235035
+#
+# Disc length: 3638 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4f0e3407
+DTITLE=John Coltrane - Blue Train  [CD 07-10]
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Blue Train
+TTITLE1=Moment's Notice
+TTITLE2=Locomotion
+TTITLE3=I'm Old Fashioned
+TTITLE4=Lazy Bird
+TTITLE5=Dealin'  (Take 1)
+TTITLE6=Thing's Ain't What They Used to Be
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

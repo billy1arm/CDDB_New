@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  29445
+#  57675
+#  80253
+#  126160
+#  172248
+#  189883
+#  220798
+#
+# Disc length: 3412 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.13
+#
+DISCID=6f0d5208
+DTITLE=L' Espirit - Far Journey
+DYEAR=1900
+DGENRE=
+TTITLE0=Complete
+TTITLE1=Turning of the Tide
+TTITLE2=Trust
+TTITLE3=That Special Place
+TTITLE4=Far Journey
+TTITLE5=Release
+TTITLE6=Bali Shore
+TTITLE7=Highlands
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17810
+#	42019
+#	61378
+#	87362
+#	100330
+#	126162
+#	141672
+#	162447
+#	174945
+#	192215
+#
+# Disc length: 2775 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=950ad50b
+DTITLE=Ellen Whyte and Reflex Blue - Here and Gone
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Fell BLue...See Light
+TTITLE1=Climb Up
+TTITLE2=Here and Gone
+TTITLE3=Circle Around
+TTITLE4=You Talked Me Into The Blues
+TTITLE5=Write Her A Letter
+TTITLE6=I Can Tell
+TTITLE7=Who's Got The Blues
+TTITLE8=Good Love For a Lifetime
+TTITLE9=The Letter
+TTITLE10=Bring On The Storm
+EXTD=YEAR: 2001 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17756
+#	24221
+#	42892
+#
+# Disc length: 779 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=21030904
+DTITLE=Silvereau - Silvereau
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=J'ai Vécu un Peu
+TTITLE1=Nature
+TTITLE2=Subflow
+TTITLE3=Vie Fragile
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

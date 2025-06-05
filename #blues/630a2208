@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17662
+#	37356
+#	63039
+#	90361
+#	132202
+#	149266
+#	174425
+#
+# Disc length: 2596 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=630a2208
+DTITLE=Ceccarelli Falaise Zubot - SUBTLE LIP CAN
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Chickle that Bottom
+TTITLE1=Crumple, Power Down
+TTITLE2=Inside Look
+TTITLE3=Tid Lac Boam
+TTITLE4=Suddle Lip Can
+TTITLE5=Runst From Thag
+TTITLE6=Crumpled Up Seed
+TTITLE7=Polloer
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

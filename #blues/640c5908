@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25724
+#	66901
+#	99063
+#	122407
+#	149490
+#	176004
+#	207041
+#
+# Disc length: 3163 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=640c5908
+DTITLE=Gerard Presencer and Danish Radio Big Band - Groove Travels
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=Another Weirdo
+TTITLE1=Blues For Des
+TTITLE2=Ballad Or Tango Of The Misunderstood
+TTITLE3=The Devil's Larder
+TTITLE4=Eleanor Rigby
+TTITLE5=Istanbul Coffee Cup
+TTITLE6=Footprints
+TTITLE7=I Can't Stop Loving You
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

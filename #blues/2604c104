@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16532
+#	33850
+#	52300
+#
+# Disc length: 1219 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=2604c104
+DTITLE=Keb' Mo' - Just Like You (Bonus Disc)
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=Take It Away
+TTITLE1=Big Mama's Door
+TTITLE2=Sweet Sugar Mama
+TTITLE3=Crossroad Blues
+EXTD=YEAR: 1996  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

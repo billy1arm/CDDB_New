@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23985
+#	50642
+#	89262
+#	124387
+#	155050
+#	183450
+#
+# Disc length: 3000 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=5f0bb607
+DTITLE=Ali Ryerson - Blue Flute
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=The Sony Side
+TTITLE1=Blue Flute
+TTITLE2=Asterie
+TTITLE3=I Fall In Love Too Easily
+TTITLE4=Cool
+TTITLE5=Nocture
+TTITLE6=Waltz for Harry
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

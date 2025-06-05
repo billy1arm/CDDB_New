@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43632
+#	62830
+#	113768
+#	137909
+#	181978
+#
+# Disc length: 3048 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=510be606
+DTITLE=Various Artist - Jazz at the Flamingo
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=A Night in Tunisia
+TTITLE1=Stars Fell on Alabama
+TTITLE2=Soho Blues
+TTITLE3=Annie Mation
+TTITLE4=Autumn Leaves
+TTITLE5=Laker's Day
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

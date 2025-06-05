@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44798
+#	90908
+#	137792
+#	185520
+#	230319
+#
+# Disc length: 3708 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4a0e7a06
+DTITLE=Music for Meditation - Rainforest Rendezvous
+DYEAR=2002
+DGENRE=New Age
+TTITLE0=Rainforest Rendezvous
+TTITLE1=Beneath the canopy
+TTITLE2=A hidden world
+TTITLE3=The river's journey
+TTITLE4=Cascading waterfall
+TTITLE5=The mighty forest
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	36472
+#	60020
+#	76085
+#	147397
+#	195922
+#	236667
+#	256427
+#	290047
+#
+# Disc length: 4182 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=79105409
+DTITLE=Ravel Maurice - Ravel sonate, sonate posthume, tzigane, trio
+DYEAR=1980
+DGENRE=Classical
+TTITLE0=Sonate pour violon et piano - 1 allegro
+TTITLE1=Sonate pour violon et piano - 2 blues
+TTITLE2=Sonate pour violon et piano - 3 Perpetuum mobile
+TTITLE3=Sonathe posthume pour violon et piano
+TTITLE4=Tzigane, rapsodie de concert pour violon et piano
+TTITLE5=Trio pour piano, violon, violoncelle - 1 modéré
+TTITLE6=Trio pour piano, violon, violoncelle - 2 Pantoum
+TTITLE7=Trio pour piano, violon, violoncelle - 3 Passacaille
+TTITLE8=Finale
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21925
+#	38858
+#	62738
+#
+# Disc length: 1080 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2e043604
+DTITLE=RED - RED
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Our Love Slipped Away
+TTITLE1=Let You Go
+TTITLE2=Train
+TTITLE3=Gypsy Caravan
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

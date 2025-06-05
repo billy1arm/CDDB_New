@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16047
+#	41256
+#	63027
+#	80002
+#	113370
+#	138724
+#	152406
+#	163495
+#
+# Disc length: 2570 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=630a0809
+DTITLE=Middle Distance Runner - This is just our demo
+DYEAR=2004
+DGENRE=New Age
+TTITLE0=Switch it up
+TTITLE1=Out of here
+TTITLE2=Hooks
+TTITLE3=That's a Lie
+TTITLE4=There are things I can never tell you
+TTITLE5=With swords
+TTITLE6=Clone
+TTITLE7=Top of the stairs
+TTITLE8=The room is filling with gas
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

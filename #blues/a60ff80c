@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	16383
+#	32658
+#	48708
+#	75633
+#	100908
+#	156858
+#	205083
+#	218208
+#	237858
+#	261258
+#	273708
+#
+# Disc length: 4090 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a60ff80c
+DTITLE=カラヤン - ロマンティック・カラヤン
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=「カヴァレリア・ルスティカーナ」間奏曲(マスカーニ)
+TTITLE1=ホフマンの舟歌(オッフェンバック)
+TTITLE2=「ロメオとジュリエット」~愛のテーマ(チャイコフスキー)
+TTITLE3=「レ・シルフィード」~夜想曲(ショパン~ダグラス編)
+TTITLE4=「アイネ・クライネ・ナハトムジーク」~ロマンツェ(モーツァルト)
+TTITLE5=交響詩「モルダウ」(スメタナ)
+TTITLE6=交響組曲「シェエラザード」~若い王子と王女(リムスキー=コルサコフ)
+TTITLE7=バレエ組曲「コッペリア」~バラード(ドリーブ)
+TTITLE8=「ホルベルク組曲」~サラバンド(グリーグ)
+TTITLE9=弦楽セレナーデ ホ長調~モデラート(ドヴォルザーク)
+TTITLE10=「カルメン」第1組曲~第3幕への間奏曲(ビゼー)
+TTITLE11=楽劇「トリスタンとイゾルデ」~イゾルデの愛の死(ワーグナー)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

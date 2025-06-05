@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8025
+#	16650
+#	26625
+#	36225
+#	49125
+#	64500
+#	77325
+#	88575
+#	101775
+#	114600
+#	125850
+#
+# Disc length: 1826 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=9007200c
+DTITLE=David Ralston - Indiana Slim
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=70 Miles North
+TTITLE1=Shining Like The Sun
+TTITLE2=Someone's Watching
+TTITLE3=Can't Explain
+TTITLE4=Everytime
+TTITLE5=Good In Their Hearts
+TTITLE6=I Know
+TTITLE7=Do You Ever Feel
+TTITLE8=O'Malley's Alley
+TTITLE9=Indiana Slim
+TTITLE10=Walk A Mile
+TTITLE11=Pretty Baby
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

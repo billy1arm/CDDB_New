@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15862
+#     34774
+#     55499
+#     77605
+#     93425
+#     113398
+#     133337
+#     151108
+# 
+# Disc length: 2468 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=5f09a209
+DTITLE=Ripoff Raskolnikov - Wear And Tear
+DYEAR=1900
+DGENRE=
+TTITLE0=Autumn Rain
+TTITLE1=End Of A Journey
+TTITLE2=No. 1 Woman
+TTITLE3=Song From A Window
+TTITLE4=Blues Won't Quit Me
+TTITLE5=Cold Turkey
+TTITLE6=Back Against The Wall
+TTITLE7=Worry
+TTITLE8=Four Queens
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

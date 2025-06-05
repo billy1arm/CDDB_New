@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     200
+#     17202
+#     39977
+#     57377
+#     78762
+#     93325
+#     113377
+#     132337
+#     153402
+# 
+# Disc length: 2428 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=62097a09
+DTITLE=Depeche Mode - Some Great Reward
+DYEAR=1900
+DGENRE=
+TTITLE0=Something To Do
+TTITLE1=Lie To Me
+TTITLE2=People Are People
+TTITLE3=It Doesn't Matter
+TTITLE4=Stories Of Old
+TTITLE5=Somebody
+TTITLE6=Master And Servant
+TTITLE7=If You Want
+TTITLE8=Blasphemous Rumours
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

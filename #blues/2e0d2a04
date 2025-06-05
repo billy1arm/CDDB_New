@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	72461
+#	103166
+#	151753
+#
+# Disc length: 3372 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e0d2a04
+DTITLE=John Coltrane - Paris 1961 (First concert)
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Blue train
+TTITLE1=I want to talk about you
+TTITLE2=Impressions
+TTITLE3=My favorite things
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

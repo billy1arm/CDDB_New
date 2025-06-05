@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	45527
+#	111916
+#	172360
+#	234366
+#	292947
+#
+# Disc length: 4294 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4f10c406
+DTITLE=Phil Woods - Phil Woods and the European Rhythm Machine
+DYEAR=1969
+DGENRE=Jazz
+TTITLE0=1 Freedom Jazz Dance
+TTITLE1=2 Flowers
+TTITLE2=3 The Unknown One
+TTITLE3=4 I Remember Bird
+TTITLE4=5 Riot
+TTITLE5=6 Airegin
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

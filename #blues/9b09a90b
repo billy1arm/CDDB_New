@@ -1,0 +1,49 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	3777
+#	21632
+#	40902
+#	58957
+#	74738
+#	93870
+#	110916
+#	132646
+#	152849
+#	168048
+# Disc length: 2475 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=9b09a90b
+DTITLE=徐懷鈺 - 天使
+DYEAR=1900
+DGENRE=
+TTITLE0=衣櫥遊行
+TTITLE1=Call Me
+TTITLE2=I Can't Cry
+TTITLE3=等不及
+TTITLE4=天使
+TTITLE5=友情卡片
+TTITLE6=冒險汽球
+TTITLE7=他忘了回來
+TTITLE8=失戀布丁
+TTITLE9=Give Me Five
+TTITLE10=Perfect Life
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

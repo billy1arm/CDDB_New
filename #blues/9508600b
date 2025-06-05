@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  16623
+#  28683
+#  47505
+#  59783
+#  69253
+#  81640
+#  95788
+#  113325
+#  136888
+#  146830
+#
+# Disc length: 2146 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=9508600b
+DTITLE=Cristy Lane - Cristy Lane Top 10 Songs of All Time
+DYEAR=1900
+DGENRE=
+TTITLE0=Stardust
+TTITLE1=Always
+TTITLE2=Somewhere My Love 
+TTITLE3=God Bless America
+TTITLE4=Amazing Grace
+TTITLE5=Tennesee Waltz
+TTITLE6=One Day At A Time
+TTITLE7=Wind Beneath My Wings
+TTITLE8=How Great Thou ARt
+TTITLE9=Star Spangled Banner
+TTITLE10=White Christmas
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

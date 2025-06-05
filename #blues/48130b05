@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	102532
+#	204728
+#	243412
+#	288328
+#
+# Disc length: 4877 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=48130b05
+DTITLE=Tchaikovsky, New York Philharmonic - Bernstein - Panorama 2
+DYEAR=2000
+DGENRE=Classical
+TTITLE0=Romeo and Juliet
+TTITLE1=Symphony No. 6 in B minor, op. 74 "Pathétique" 1) Adagio
+TTITLE2=Symphony No. 6 in B minor, op. 74 "Pathétique" 2) Allegro con grazia
+TTITLE3=Symphony No. 6 in B minor, op. 74 "Pathétique" 3) Allegro molto vivace
+TTITLE4=Symphony No. 6 in B minor, op. 74 "Pathétique" 4) Finale
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

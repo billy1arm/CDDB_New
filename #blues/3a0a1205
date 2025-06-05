@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13295
+#	46247
+#	94120
+#	116645
+#
+# Disc length: 2580 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta6
+#
+DISCID=3a0a1205
+DTITLE=Miles Davis - Miles Davis At Carnegie Hall - The Complete Concert [CD2 of 2)
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Someday My Prince Will Come
+TTITLE1=Oleo
+TTITLE2=No Blues
+TTITLE3=I Thought About You
+TTITLE4=En Aranjuez Con Tu Amor (adagio from "Concierto De Aranjuez")
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

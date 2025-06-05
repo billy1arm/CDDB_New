@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28864
+#	68609
+#	104190
+#	148814
+#	179564
+#	221666
+#	251575
+#
+# Disc length: 3836 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=800efa08
+DTITLE=Manhattan Jazz Orchestra - David Matthews presents Super Collection[Disc 2]
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Ironside
+TTITLE1=Candy
+TTITLE2=Sam Skunk Funk
+TTITLE3=Black Magic Woman
+TTITLE4=Air Mail Special
+TTITLE5=Air On The G String
+TTITLE6=Toccata And Fuga
+TTITLE7=Sing Sing Sing
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

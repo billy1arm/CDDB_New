@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41962
+#	86420
+#	118142
+#	166050
+#	225290
+#	248292
+#
+# Disc length: 3776 seconds
+#
+# Revision: 13
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.78
+#
+DISCID=460ebe07
+DTITLE=Chopin - Scherzi, Fantasie, Barcarolle, Berceuse
+DYEAR=1998
+DGENRE=Classique
+TTITLE0=Alwin BÃ¤r - Scherzo No. 1 in B minor Op.20
+TTITLE1=Alwin BÃ¤r - Scherzo No. 2 in B flat minor Op.31
+TTITLE2=Alwin BÃ¤r - Scherzo No. 3 in C sharp minor Op.39
+TTITLE3=Alwin BÃ¤r - Scherzo No. 4 in E major Op.54
+TTITLE4=Alwin BÃ¤r - Fantasy in F minor Op.49
+TTITLE5=Alwin BÃ¤r - Berceuse in D flat major Op.57
+TTITLE6=Alwin BÃ¤r - Barcarolle  in F sharp major Op.60
+EXTD=Alwin BÃ¤r, piano YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

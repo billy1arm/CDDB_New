@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33839
+#	64868
+#	83904
+#	106397
+#	142590
+#	166706
+#	186815
+#	210331
+#
+# Disc length: 3254 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=670cb409
+DTITLE=Dusko Goykovich - In my dreams
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=In my dreams
+TTITLE1=St.Germains de Pres
+TTITLE2=Sequoia song
+TTITLE3=Introduction
+TTITLE4=Skylark
+TTITLE5=One morning in may
+TTITLE6=All about love
+TTITLE7=Little Teo
+TTITLE8=I miss you so
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

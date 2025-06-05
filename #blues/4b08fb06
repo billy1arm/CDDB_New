@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18512
+#	64905
+#	91222
+#	130667
+#	148535
+#
+# Disc length: 2301 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4b08fb06
+DTITLE=Albert King - Live Wire/Blues Power
+DYEAR=1979
+DGENRE=Blues
+TTITLE0=Watermelon Man
+TTITLE1=Blues Power
+TTITLE2=Night Stomp
+TTITLE3=Blues At Sunrise
+TTITLE4=Please Love Me
+TTITLE5=Look Out
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

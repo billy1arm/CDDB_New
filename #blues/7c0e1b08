@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	908
+#	50408
+#	139990
+#	164949
+#	208355
+#	223770
+#	238159
+#
+# Disc length: 3613 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7c0e1b08
+DTITLE=Jimi Hendrix - The Apartment Jams
+DYEAR=1970
+DGENRE=Blues
+TTITLE0=Data Track
+TTITLE1=Jimi Hendrix - Country Blues
+TTITLE2=Jimi Hendrix - Jam (Part I of III)
+TTITLE3=Jimi Hendrix - Jam (Part II of III)
+TTITLE4=Jimi Hendrix - Room Full Of Mirrors
+TTITLE5=Jimi Hendrix - Astro Man: Valeys Of Neptune
+TTITLE6=Jimi Hendrix - Power Of Soul
+TTITLE7=Jimi Hendrix - Jam (Part III of III)
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

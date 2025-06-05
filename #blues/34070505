@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18378
+#	58813
+#	90253
+#	110408
+#
+# Disc length: 1799 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=34070505
+DTITLE=Aretha Franklin - A Rose Is Still A Rose (The Remixes)
+DYEAR=1998
+DGENRE=House
+TTITLE0=A Rose Is Still A Rose (Love To Infinity Rhythm Radio Mix)
+TTITLE1=A Rose Is Still A Rose (Hex Hector Club Mix)
+TTITLE2=A Rose Is Still A Rose (Love To Infinity Club Mix)
+TTITLE3=A Rose Is Still A Rose (Album Version)
+TTITLE4=A Rose Is Still A Rose (Album Instrumental)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

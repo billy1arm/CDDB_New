@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31607
+#	57443
+#	95938
+#	131529
+#	158639
+#	187463
+#	221038
+#	249470
+#
+# Disc length: 3614 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=830e1c09
+DTITLE=St. Germain - Rose Rouge
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Rose Rouge
+TTITLE1=Montego Bay Spleen
+TTITLE2=So Flute
+TTITLE3=Land Of....
+TTITLE4=Latin Note
+TTITLE5=Sure Thing
+TTITLE6=Pont Des Arts
+TTITLE7=La Goutte d'Or
+TTITLE8=What You Think About...
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	57612
+#	99861
+#	105902
+#	154203
+#
+# Disc length: 2698 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=340a8805
+DTITLE=Miles Davis - Unreachable Station (Disc1)
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=Turnaroundphrase
+TTITLE1=Tune In 5
+TTITLE2=Right Off
+TTITLE3=Funk (Prelude, Part 1)
+TTITLE4=Tune In 5
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

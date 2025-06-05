@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17353
+#	46828
+#	70043
+#	91800
+#	110340
+#	131848
+#	149948
+#	163300
+#	182473
+#	195780
+#
+# Disc length: 2781 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8e0adb0b
+DTITLE=すぎやま こういち - 吹奏楽組曲 ドラゴンクエスト 第1集
+DYEAR=2003
+DGENRE=Game
+TTITLE0=行進曲・ロトのテーマ
+TTITLE1=ラダトーム城(I)〜王城(II)〜王宮のロンド(III)
+TTITLE2=街の人々(I)〜街の賑わい(II)〜街(III)
+TTITLE3=遙かなる旅路〜広野を行く〜果てしなき世界(II)
+TTITLE4=冒険の旅(III)
+TTITLE5=海のワルツ　海原を行く(II)〜海を越えて(III)
+TTITLE6=戦闘　戦闘(I)〜戦い(II)〜戦闘のテーマ(III)
+TTITLE7=フィナーレ(I)
+TTITLE8=この道わが旅(II)
+TTITLE9=そして伝説へ…(III)
+TTITLE10=ロトのテーマ(III)
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

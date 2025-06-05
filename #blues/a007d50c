@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10330
+#	20780
+#	39110
+#	54973
+#	78903
+#	88408
+#	99723
+#	113220
+#	122543
+#	133035
+#	142300
+#
+# Disc length: 2007 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.09
+#
+DISCID=a007d50c
+DTITLE=Various Artist - The Best Of Blue Note
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=The Kinks - You Really Got Me
+TTITLE1=Frankie Lymon and The Teenagers - Why Do Folls Fall In Love
+TTITLE2=Tommy James and The Shondells - Crystal Blue Persuasion
+TTITLE3=Mitch Ryder and The Detroit Wheels - Devil With A Blue Dress On and Good Golly Miss Molly
+TTITLE4=The Neville Borthers - Fire On The Bayou
+TTITLE5=The Lovin' Spoonful - Do You Believe In Magic
+TTITLE6=The Yardbirds - For Your Love
+TTITLE7=Todd Rundgren - I Saw The Light
+TTITLE8=Ritchie Valens - La Bamba
+TTITLE9=Little Anthony and The Imperials - Tears On My Pillow
+TTITLE10=The Everly Brothers - Wake Up Little Susie
+TTITLE11=Jerry Lee Lewis - Great Balls Of Fire
+EXTD=YEAR: 1990
+EXTT0=The Kinks
+EXTT1=Frankie Lymon and The Teenagers
+EXTT2=Tommy James and The Shondells
+EXTT3=Mitch Ryder and The Detroit Wheels
+EXTT4=The Neville Brothers
+EXTT5=The Lovin' Spoonful
+EXTT6=The Yardbirds
+EXTT7=Todd Rundgren
+EXTT8=Ritchie Valens
+EXTT9=Little Anthony and The Imperials
+EXTT10=The Everly Brothers
+EXTT11=Jerry Lee Lewis
+PLAYORDER=

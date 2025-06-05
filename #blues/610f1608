@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44977
+#	85070
+#	119312
+#	160415
+#	198150
+#	226505
+#	246170
+#
+# Disc length: 3864 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=610f1608
+DTITLE=Various Artist - STEP AHEAD Live In Tokyo1986
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=BEIRUT
+TTITLE1=OOPS
+TTITLE2=SELF PORTRAIT
+TTITLE3=SUMO
+TTITLE4=CAJUN
+TTITLE5=SAFARI
+TTITLE6=IN A SENTIMENTAL MOOD
+TTITLE7=TRAINS
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

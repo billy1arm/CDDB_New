@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	62152
+#	145992
+#	178350
+#	204912
+#	230855
+#	263247
+#	284282
+#
+# Disc length: 4289 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8010bf08
+DTITLE=George Gershwin Directed By Michael Tilson Thomas - Rhapsody In Blue, An American In Paris, Broadway Overtures (CBS)
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Rhapsody In Blue (The Legendary 1925 Piano Roll) - George Gershwin On Piano Accompanied By The Columbia Jazzband 1976
+TTITLE1=An American In Paris - New York Philharmonic 1974
+TTITLE2=Broadway Overtures - Oh, Kay - Buffalo Philharmonic 1976
+TTITLE3=Broadway Overtures - Funny Face - Buffalo Philharmonic 1976
+TTITLE4=Broadway Overtures - Girl Crazy - Buffalo Philharmonic 1976
+TTITLE5=Broadway Overtures - Strike Up The Band - Buffalo Philharmonic 1976
+TTITLE6=Broadway Overtures - Of Thee I Sing - Buffalo Philharmonic 1976
+TTITLE7=Broadway Overtures - Let 'em Eat Cake - Buffalo Philharmonic 1976
+EXTD=YEAR: 1976
+EXTT0=1976 -  George Gershwin, Piano [The 1925 Piano Roll] Accompagnied By The Columbia Jazz Band Conducted By Michael Tilson Thomas
+EXTT1=1974 - New York Philharmonic Conducted By Michael Tilson Thomas
+EXTT2=1976 - Buffalo Philharmonic Conducted By Michael Tilson Thomas
+EXTT3=1976 - Buffalo Philharmonic Conducted By Michael Tilson Thomas
+EXTT4=1976 - Buffalo Philharmonic Conducted By Michael Tilson Thomas
+EXTT5=1976 - Buffalo Philharmonic Conducted By Michael Tilson Thomas
+EXTT6=1976 - Buffalo Philharmonic Conducted By Michael Tilson Thomas
+EXTT7=1976 - Buffalo Philharmonic Conducted By Michael Tilson Thomas
+PLAYORDER=

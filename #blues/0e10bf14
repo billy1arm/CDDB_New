@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16185
+#	28822
+#	42990
+#	61960
+#	76047
+#	91282
+#	112885
+#	134565
+#	150095
+#	163035
+#	182635
+#	196715
+#	206222
+#	228290
+#	257145
+#	269032
+#	289400
+#	301047
+#	312632
+#
+# Disc length: 4289 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.04
+#
+DISCID=0e10bf14
+DTITLE=Various Artist - Cool Jazz CD3
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Sarah Vaughan - Stormy Weather
+TTITLE1=Dinah Washington - Mad About The Boy
+TTITLE2=Billie Holiday - I Love My Man
+TTITLE3=Lena Horne - When I Fall In Love
+TTITLE4=Duke Ellington - Sultry Sunset
+TTITLE5=Charlie Parker - Lover Man (Instrumental)
+TTITLE6=Billy Eckstine - Misty
+TTITLE7=Dexter Gordon - What's New
+TTITLE8=Louis Armstrong - C'est Si Bon
+TTITLE9=Muddy Waters - I'm Your Hoochie Coochie Man
+TTITLE10=Al Jarreau - Leon On Me
+TTITLE11=Aaron Neville - Tell It Like It Is
+TTITLE12=Sam Cooke - Wonderful World
+TTITLE13=Dizzy Gillespie - Exactly Like You
+TTITLE14=Archie Shepp - Body And Soul
+TTITLE15=Frank Sinatra - You Do Something To Me
+TTITLE16=Ella Fitzgerald - A Foggy Day
+TTITLE17=Etta James - I'd Rather Go Blind
+TTITLE18=Ray Charles - Mr. Charles' Blues
+TTITLE19=Gladys Knight - Every Beat Of My Heart
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23422
+#	59242
+#	93527
+#	111322
+#	136432
+#	159430
+#
+# Disc length: 2398 seconds
+#
+# Revision: 16
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5c095c07
+DTITLE=Steely Dan - Aja
+DYEAR=1977
+DGENRE=Rock
+TTITLE0=Black Cow
+TTITLE1=Aja
+TTITLE2=Deacon Blues
+TTITLE3=Peg
+TTITLE4=Home At Last
+TTITLE5=I Got The News
+TTITLE6=Josie
+EXTD=LABEL =MCA Records, Inc.\nID =MCAD37214\nUPC =none\nCOPYRIGHT =1977,1984 YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 2004 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     224574
+#     236179
+#     250438
+#     259883
+#     273000
+#     297273
+# 
+# Disc length: 4156 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=71103a07
+DTITLE=Carl Perkins - Jet Propelled  The 1978 Comeback  Disc 2
+DYEAR=1900
+DGENRE=
+TTITLE0=BBC Radio London Interview with Charlie Gillet
+TTITLE1=Matchbox (BBC Radio 1 Session)
+TTITLE2=C.C. Rider (BBC Radio 1 Session)
+TTITLE3=Glad All Over (BBC Radio 1 Session)
+TTITLE4=Be Bop A-Lula (BBC Radio 1 Session)
+TTITLE5=That's All Right Mama (BBC Radio 1 Session)
+TTITLE6=Tribute To Elvis (BBC Radio 1 Session)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13972
+#	39524
+#	53322
+#	76125
+#	96637
+#	120143
+#	140668
+#	155641
+#	178902
+#	190040
+#	218482
+#	234703
+#	246969
+#	265069
+#	276872
+#	289157
+#	302111
+#	311722
+#	325127
+#
+# Disc length: 4529 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1d11af14
+DTITLE=Various Artist - Country Blues
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Muddy Waters - Walking blues
+TTITLE1=John Lee Hooker - Country boy
+TTITLE2=Big Bill Broonzy - Get back
+TTITLE3=Big Joe Williams - Down on mr mace george's farm
+TTITLE4=James Cotton - Down at your burying'
+TTITLE5=Muddy Waters and Buddy guy - My captain
+TTITLE6=Johnny Copeland - Ready, willing and able
+TTITLE7=Big Bill Broonzy - John Henry
+TTITLE8=John Lee Hooker - Decoration day
+TTITLE9=Johnny shines - So glad i found you
+TTITLE10=Larry Garner - Airline blues
+TTITLE11=Josh White and Sonny Boy Williamson - Evil-hearted me
+TTITLE12=Big Joe Williams - Baby please don't go
+TTITLE13=Muddy Waters - My home is in the delta
+TTITLE14=Honeyboy Edwards - Drop down mama
+TTITLE15=Arthur Big Boy Spires - Murmur low
+TTITLE16=Forest City Joe - Sawdust bottom
+TTITLE17=Memphis Slim and Willie Dixon - Baby please come home
+TTITLE18=Memphis minnie - Conjur man
+TTITLE19=Rocky Fuller (Louisiana red) - Funeral hearse at my door
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

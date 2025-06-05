@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24267
+#	48476
+#	70223
+#	93851
+#	125832
+#	139022
+#	170346
+#
+# Disc length: 2697 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=670a8708
+DTITLE=Ben Monder - Amorphae
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=Tendrils
+TTITLE1=Oh, What a Beautiful Morning
+TTITLE2=Tumid Cenobite
+TTITLE3=Gamma Crucis
+TTITLE4=Zythum
+TTITLE5=Triffids
+TTITLE6=Hematophagy
+TTITLE7=Dinosaur Skies
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

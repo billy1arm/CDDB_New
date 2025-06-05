@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20832
+#     41515
+#     57364
+#     75205
+# 
+# Disc length: 1106 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=33045005
+DTITLE=Denine with Adam Marano - All Cried Out
+DYEAR=1900
+DGENRE=
+TTITLE0=Radio Mix
+TTITLE1=Quiet Storm Mix
+TTITLE2=I Only Wanted You To Love Me Radio Mix
+TTITLE3=I Only Wanted... Club Mix
+TTITLE4=I Only Wanted Jeep Beats
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	78879
+#	153000
+#
+# Disc length: 2712 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0f0a9603
+DTITLE=Anton Bruckner - Symphonie N°4 'Romantique' (Carl Schuricht, Radio-Sinfonieorchester Stuttgart)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Symphonie N°4 en mi bémol majeur - I. Bewegt nicht zu schnell
+TTITLE1=Symphonie N°4 en mi bémol majeur - II. Andante quasi allegretto
+TTITLE2=Symphonie N°4 en mi bémol majeur - III. Scherzo - Trio nicht zu schnell Keinesfalls
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

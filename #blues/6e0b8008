@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26024
+#	58647
+#	82218
+#	110985
+#	128652
+#	156795
+#	182185
+#
+# Disc length: 2946 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6e0b8008
+DTITLE=David "Fathead" Newman - The Gift
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=The Gift
+TTITLE1=Don't Let the Sun Catch You Crying
+TTITLE2=Off the Hook
+TTITLE3=Unspeakable Times
+TTITLE4=Little Sonny's Tune
+TTITLE5=Lady Day
+TTITLE6=Unchain My Heart
+TTITLE7=Ksue
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

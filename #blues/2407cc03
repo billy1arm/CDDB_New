@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	74252
+#	118021
+#
+# Disc length: 1998 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.83
+#
+DISCID=2407cc03
+DTITLE=Renaissance - Live at the Academy of Music - 17th May 1974 - CD 2
+DYEAR=1974
+DGENRE=Salsa
+TTITLE0=Ashes Are Burning
+TTITLE1=Mother Russia
+TTITLE2=Prologue
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

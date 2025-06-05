@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41198
+#	59948
+#	107072
+#	161006
+#	195160
+#	225696
+#	254298
+#
+# Disc length: 3931 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d0f5908
+DTITLE=Арсенал - 30 лет
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Посвящение Махавишну
+TTITLE1=Балаган
+TTITLE2=Зависть
+TTITLE3=Небесный голос - Мир тесен
+TTITLE4=Бедная Лиза
+TTITLE5=Увертюра к опере "Тангейзер"
+TTITLE6=Вальс во французском стиле
+TTITLE7=Пролог
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

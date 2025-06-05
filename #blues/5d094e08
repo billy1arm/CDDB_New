@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23420
+#	51192
+#	67062
+#	84914
+#	107370
+#	123631
+#	153562
+#
+# Disc length: 2384 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d094e08
+DTITLE=Col Loughnan and Steve Murphy - Feel The Breeze
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=Confirmation
+TTITLE1=Sophisticated Lady
+TTITLE2=Feel the Breeze
+TTITLE3=Entr'acte
+TTITLE4=The Coogee Shuffle
+TTITLE5=When Sunny Gets Blue
+TTITLE6=Body and Soul
+TTITLE7=I Concentrate on You
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

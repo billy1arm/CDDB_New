@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	71400
+#	157993
+#	205800
+#	259833
+#
+# Disc length: 4273 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3d10af05
+DTITLE=Joey Sellers' Jazz Aggregation - Something For Nothing
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Canadian Bacon
+TTITLE1=American Standard
+TTITLE2=Jay-Gale
+TTITLE3=Ecclesiastes
+TTITLE4=Something For Nothing
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

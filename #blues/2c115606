@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	900
+#	1650
+#	2400
+#	110488
+#	332550
+#
+# Disc length: 4440 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=2c115606
+DTITLE=中島美嘉 - FIND THE WAY
+DYEAR=2003
+DGENRE=JPop
+TTITLE0=FIND THE WAY
+TTITLE1=FIND THE WAY (Instrumental)
+TTITLE2=接吻 (at-tica remix)
+TTITLE3=FIND THE WAY (jammaals manatee mix bye the orb)
+TTITLE4=DATA TRACK
+TTITLE5=DATA TRACK
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

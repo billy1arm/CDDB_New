@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19160
+#	36370
+#	50603
+#	63508
+#	78900
+#	92263
+#	107020
+#	118940
+#	134455
+#	166500
+#
+# Disc length: 2462 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=88099c0b
+DTITLE=Blues Brothers - Original Soundtrack Recording
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=She Caught the Katy
+TTITLE1=Peter Gunn Theme
+TTITLE2=Gimme some Lovin'
+TTITLE3=Shake your Tailfeather
+TTITLE4=Everybody needs Somebody to Love
+TTITLE5=The Old Landmark
+TTITLE6=Think
+TTITLE7=Theme from Rawhide
+TTITLE8=Minnie the Moocher
+TTITLE9=Sweet Home Chicago
+TTITLE10=Jailhouse Rock
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

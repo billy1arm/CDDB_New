@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	55160
+#	89815
+#
+# Disc length: 2914 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=230b6003
+DTITLE=Terumasa Hino - Live!
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Stella By Starlight
+TTITLE1=Sweet Lullaby
+TTITLE2=Be And Now
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

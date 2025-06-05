@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	20823
+#	49648
+#	67413
+#	97618
+#	113558
+#	151360
+#	175575
+#
+# Disc length: 2607 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5d0a2d08
+DTITLE=Enrico Rava Quintet - Andanada
+DYEAR=1983
+DGENRE=Jazz
+TTITLE0=Bowery Dance
+TTITLE1=Lost And Found
+TTITLE2=Rhapsody In Blue
+TTITLE3=Traveling Light
+TTITLE4=Andanada
+TTITLE5=On Stage
+TTITLE6=Bums
+TTITLE7=Theme from "Juliet of the Spirits"
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

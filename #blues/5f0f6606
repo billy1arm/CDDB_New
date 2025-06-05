@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	69783
+#	114558
+#	149733
+#	216558
+#	253683
+#
+# Disc length: 3944 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5f0f6606
+DTITLE=Wolfgang Amadeus Mozart - Piano Concerti - Nos. 20 and 27
+DYEAR=1975
+DGENRE=Piano Concerto
+TTITLE0=Concerto for Piano and Orch, #20 in D min (K466) - Allegro
+TTITLE1=Romance
+TTITLE2=Rondo (Allegro Assai)
+TTITLE3=Concerto for Piano and Orch, #27 in B flat (K595) - Allegro
+TTITLE4=Larghetto
+TTITLE5=Allegro
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

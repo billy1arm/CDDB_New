@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9138
+#	28540
+#	41812
+#	58771
+#	80043
+#	95537
+#	103148
+#	120205
+#	135035
+#	154839
+#	168258
+#	184395
+#
+# Disc length: 2745 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9b0ab70d
+DTITLE=Liederbayern Band - Nahaufnahmen
+DYEAR=1987
+DGENRE=Lieder
+TTITLE0=01 Im Frühstau zu Berge
+TTITLE1=02 Reinheitsgebot
+TTITLE2=03 Ich bin ein Hausmann
+TTITLE3=04 Erstkommunion
+TTITLE4=05 Nachts um drei
+TTITLE5=06 s'Deandl-Lied
+TTITLE6=07 Mit mir fliegen
+TTITLE7=08 Urlaub in der Gruft
+TTITLE8=09 Tischlein-deck-dich
+TTITLE9=10 Nachtaufnahmen
+TTITLE10=11 Ich möchte niemals auseinandergehn
+TTITLE11=12 Tschernobyl
+TTITLE12=13 Du bist eine Hexe
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

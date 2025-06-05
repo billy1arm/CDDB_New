@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10742
+#	32834
+#	44899
+#	62451
+#	71421
+#	98801
+#	124331
+#	136871
+#	155464
+#	173282
+#
+# Disc length: 2438 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8a09840b
+DTITLE=Domenico Scarlatti - Sonates pour clavecin and pour piano et orgue
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Sonate pour clavecin transposée pour piano N°6 - Allegro moderato  [Uta Weyand, piano]
+TTITLE1=Sonate pour clavecin transposée pour piano N°9 - Velocemente ma semplice
+TTITLE2=Sonate pour clavecin transposée pour piano N18 - Allegro molto
+TTITLE3=Sonate pour piano and orgue en la majeur, K208  [Andràs Schiff, piano]
+TTITLE4=Sonate pour piano and orgue en sol majeur, K427
+TTITLE5=Sonate pour piano and orgue en ré majeur, K.491
+TTITLE6=Sonate pour piano and orgue en si mineur, K.377  [Gergely, Sarközy, Orgue]
+TTITLE7=Sonate pour piano and orgue en la majeur, L.391  [Dubravka Tomsic, piano]
+TTITLE8=Sonate pour piano and orgue en si bémol majeur, L.396
+TTITLE9=Sonate pour piano and orgue en ré mineur, L.413
+TTITLE10=Sonate pour piano and orgue en sol majeur, L.487
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

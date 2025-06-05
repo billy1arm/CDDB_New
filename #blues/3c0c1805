@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46700
+#	93929
+#	132556
+#	191645
+#
+# Disc length: 3098 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3c0c1805
+DTITLE=George Benson - Selection Of George Benson de Luxe CD1
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=All blues
+TTITLE1=Lil' darlin'
+TTITLE2=Love for sale
+TTITLE3=Oleo
+TTITLE4=There will never be another you
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

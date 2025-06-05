@@ -1,0 +1,25 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	31278
+#	54500
+# Disc length: 1792 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=1d06fe03
+DTITLE=Ozzy Osbourne - The Ozzman Cometh CD2
+DYEAR=1900
+DGENRE=
+TTITLE0=Fairies Wear Boots
+TTITLE1=Behind The Wall Of Sleep
+TTITLE2=Interview With Ozzy 1988
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

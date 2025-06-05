@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19387
+#	40200
+#	59400
+#
+# Disc length: 1065 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=31042704
+DTITLE=福山雅治 - Message
+DYEAR=1995
+DGENRE=Pop
+TTITLE0=Message ("BIRTHDAY PRESENT" THEME SONG)
+TTITLE1=今 このひとときが 遠い夢のように ("BIRTHDAY PRESENT" IMAGE SONG)
+TTITLE2=Message (ORIGINAL KARAOKE)
+TTITLE3=今 このひとときが 遠い夢のように (ORIGINAL KARAOKE)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

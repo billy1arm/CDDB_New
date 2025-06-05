@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	87879
+#	134248
+#	191716
+#
+# Disc length: 3295 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=370cdd04
+DTITLE=Yitzhak Yedid - Since my Soul Loved
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=First Movement
+TTITLE1=Second Movement
+TTITLE2=Third Movement
+TTITLE3=Fourth Movement
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

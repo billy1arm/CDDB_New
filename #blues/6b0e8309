@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4290
+#	55565
+#	80008
+#	103272
+#	151756
+#	173238
+#	196935
+#	217904
+#
+# Disc length: 3717 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6b0e8309
+DTITLE=Thelonious Monk - Monk's Music
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Abide With Me
+TTITLE1=Well, You Needn't
+TTITLE2=Ruby, My Dear
+TTITLE3=Off Minor (Take 5)
+TTITLE4=Epistrophy
+TTITLE5=Crepuscule With Nellie (Take 6)
+TTITLE6=Off Minor (Take 4)
+TTITLE7=Crepuscule With Nellie (Takes 4 And 5)
+TTITLE8=Blues For Tomorrow
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	59132
+#	103492
+#	150392
+#	192115
+#
+# Disc length: 2772 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=420ad205
+DTITLE=Sadao Watanabe - Swiss Air
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Masai Steppe
+TTITLE1=Tanzania E
+TTITLE2=Sway
+TTITLE3=Way
+TTITLE4=Pagamoyo
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

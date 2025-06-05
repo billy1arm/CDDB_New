@@ -1,0 +1,292 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15364
+#	24174
+#	28071
+#	34501
+#	47149
+#	57809
+#	61507
+#	73690
+#	82585
+#	94076
+#	98722
+#	111918
+#	128807
+#	133580
+#	149232
+#	153899
+#	161669
+#	177826
+#	193989
+#	210741
+#	219136
+#	222709
+#	236799
+#	239281
+#	241767
+#	244234
+#	246620
+#	248927
+#	251436
+#	253927
+#	256456
+#	258880
+#	261258
+#	263625
+#	266143
+#	268659
+#	271092
+#	273759
+#	276058
+#	278549
+#	281010
+#	283525
+#	286044
+#	288509
+#	290900
+#	293268
+#	294222
+#	295302
+#	296371
+#	297301
+#	298440
+#	299300
+#	300257
+#	301310
+#	302218
+#	303163
+#	304117
+#	305009
+#	305913
+#	306858
+#	307818
+#	308779
+#	309800
+#	310868
+#	311822
+#	312832
+#	313874
+#	314554
+#	315131
+#	316043
+#	316831
+#	317391
+#	318061
+#	318709
+#	319422
+#	320136
+#	320685
+#	321475
+#	322014
+#	322501
+#	323019
+#	323740
+#	324405
+#	325050
+#	325623
+#	326194
+#	326883
+#	327453
+#	327958
+#	328574
+#	329222
+#
+# Disc length: 4395 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=7f11295c
+DTITLE=Specailty (FC-S79) - Southern Blues
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Southern Blues
+TTITLE1=Southern Blues
+TTITLE2=Southern Blues
+TTITLE3=Southern Blues
+TTITLE4=Southern Blues
+TTITLE5=Southern Blues
+TTITLE6=Southern Blues
+TTITLE7=Southern Blues
+TTITLE8=Southern Blues
+TTITLE9=Southern Blues
+TTITLE10=Southern Blues
+TTITLE11=Southern Blues
+TTITLE12=Southern Blues
+TTITLE13=Southern Blues
+TTITLE14=Southern Blues
+TTITLE15=Southern Blues
+TTITLE16=Southern Blues
+TTITLE17=Southern Blues
+TTITLE18=Southern Blues
+TTITLE19=Southern Blues
+TTITLE20=Southern Blues
+TTITLE21=Southern Blues
+TTITLE22=Southern Blues
+TTITLE23=Southern Blues
+TTITLE24=Southern Blues
+TTITLE25=Southern Blues
+TTITLE26=Southern Blues
+TTITLE27=Southern Blues
+TTITLE28=Southern Blues
+TTITLE29=Southern Blues
+TTITLE30=Southern Blues
+TTITLE31=Southern Blues
+TTITLE32=Southern Blues
+TTITLE33=Southern Blues
+TTITLE34=Southern Blues
+TTITLE35=Southern Blues
+TTITLE36=Southern Blues
+TTITLE37=Southern Blues
+TTITLE38=Southern Blues
+TTITLE39=Southern Blues
+TTITLE40=Southern Blues
+TTITLE41=Southern Blues
+TTITLE42=Southern Blues
+TTITLE43=Southern Blues
+TTITLE44=Southern Blues
+TTITLE45=Southern Blues
+TTITLE46=Southern Blues
+TTITLE47=Southern Blues
+TTITLE48=Southern Blues
+TTITLE49=Southern Blues
+TTITLE50=Southern Blues
+TTITLE51=Southern Blues
+TTITLE52=Southern Blues
+TTITLE53=Southern Blues
+TTITLE54=Southern Blues
+TTITLE55=Southern Blues
+TTITLE56=Southern Blues
+TTITLE57=Southern Blues
+TTITLE58=Southern Blues
+TTITLE59=Southern Blues
+TTITLE60=Southern Blues
+TTITLE61=Southern Blues
+TTITLE62=Southern Blues
+TTITLE63=Southern Blues
+TTITLE64=Southern Blues
+TTITLE65=Southern Blues
+TTITLE66=Southern Blues
+TTITLE67=Southern Blues
+TTITLE68=Southern Blues
+TTITLE69=Southern Blues
+TTITLE70=Southern Blues
+TTITLE71=Southern Blues
+TTITLE72=Southern Blues
+TTITLE73=Southern Blues
+TTITLE74=Southern Blues
+TTITLE75=Southern Blues
+TTITLE76=Southern Blues
+TTITLE77=Southern Blues
+TTITLE78=Southern Blues
+TTITLE79=Southern Blues
+TTITLE80=Southern Blues
+TTITLE81=Southern Blues
+TTITLE82=Southern Blues
+TTITLE83=Southern Blues
+TTITLE84=Southern Blues
+TTITLE85=Southern Blues
+TTITLE86=Southern Blues
+TTITLE87=Southern Blues
+TTITLE88=Southern Blues
+TTITLE89=Southern Blues
+TTITLE90=Southern Blues
+TTITLE91=Southern Blues
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+PLAYORDER=

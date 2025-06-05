@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     188
+#     18888
+#     43125
+# 
+# Disc length: 895 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1b037d03
+DTITLE=Johnny Gill - My My My
+DYEAR=1900
+DGENRE=
+TTITLE0=My My My ( edit )
+TTITLE1=My My My ( instrumental )
+TTITLE2=My My My ( LP version )
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

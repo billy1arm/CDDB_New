@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21770
+#	40898
+#
+# Disc length: 832 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1b033e03
+DTITLE=関根良子 - 刻の少年
+DYEAR=1999
+DGENRE=Anime
+TTITLE0=刻の少年
+TTITLE1=刻の旅人(inst.)
+TTITLE2=刻の少年(inst2.)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

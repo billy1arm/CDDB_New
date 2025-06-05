@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4320
+#	16802
+#	42225
+#	56875
+#	79195
+#
+# Disc length: 1142 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=43047406
+DTITLE=COCOBAT - Cococroc
+DYEAR=1999
+DGENRE=Heavy Metal
+TTITLE0=Cococroc
+TTITLE1=I'm On Fire
+TTITLE2=Chova (Demo Version)
+TTITLE3=Son Of Mustang Ford
+TTITLE4=Intentional Paranoia
+TTITLE5=Apocalypse Now (Live Version)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

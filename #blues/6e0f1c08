@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	56442
+#	84685
+#	124055
+#	143142
+#	198272
+#	217827
+#	249697
+#
+# Disc length: 3870 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e0f1c08
+DTITLE=Various Artist - Vol. 128 -  The Jazz Messengers Part 1
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Soft Winds
+TTITLE1=The Theme
+TTITLE2=Minor's Holiday
+TTITLE3=Alone Together
+TTITLE4=Avila and Tequila
+TTITLE5=What's New
+TTITLE6=Sportin' Crowd
+TTITLE7=Like Someone in Love
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

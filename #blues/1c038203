@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21192
+#	40945
+#
+# Disc length: 900 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1c038203
+DTITLE=Oasis - Go Let It Out! (Single CD)
+DYEAR=2000
+DGENRE=Rock
+TTITLE0=Go Let It Out!
+TTITLE1=(As Long As They've Got) Cigaretts In Hell
+TTITLE2=Helter Skelter
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18663
+#	34483
+#	48986
+#
+# Disc length: 802 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=30032004
+DTITLE=志方あきこ - 緑の森で眠ル鳥
+DYEAR=2002
+DGENRE=Pop
+TTITLE0=迷夢
+TTITLE1=宵森人
+TTITLE2=Notte
+TTITLE3=サクリファイス
+EXTD=YEAR: 2002
+EXTT0=作曲 and 編曲 - 志方あきこ\n作詞 - 篠田朋子\nギター - 野本かつひさ (東京春待楽団)
+EXTT1=作曲 and 編曲 - 志方あきこ\n作詞 - 篠田朋子
+EXTT2=作曲 and 編曲 - 志方あきこ\n作詞 - Ada Negri\nギター - 野本かつひさ (東京春待楽団)
+EXTT3=作曲 and 編曲 - 志方あきこ\n作詞 - 篠田朋子
+PLAYORDER=

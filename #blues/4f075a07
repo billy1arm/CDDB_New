@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13122
+#	28512
+#	41780
+#	68880
+#	83600
+#	114977
+#
+# Disc length: 1884 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4f075a07
+DTITLE=Randy Weston's Music - Little Niles
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Earth Birth
+TTITLE1=Little Susan
+TTITLE2=Nice Ice
+TTITLE3=Little Niles
+TTITLE4=Pam's Waltz
+TTITLE5=Babe's Blues
+TTITLE6=Let's Climb A Hill
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

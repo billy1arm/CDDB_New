@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	100865
+#	126740
+#	193525
+#	206007
+#
+# Disc length: 4392 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=48112605
+DTITLE=Philip Glass - Early Keyboard Music  (Steffen Schleiermacher, electric organ, table)
+DYEAR=2001
+DGENRE=Contemporain
+TTITLE0=Contrary Motion  [1969]
+TTITLE1=One+One  (1st version)  [1968]
+TTITLE2=Mad Rush  [1979]
+TTITLE3=One+One  (2nd version)  [1968]
+TTITLE4=Two Pages  [1968]
+EXTD=YEAR: 2001
+EXTT0=Steffen Schleiermacher, electric organ
+EXTT1=Steffen Schleiermacher, table
+EXTT2=Steffen Schleiermacher, electric organ
+EXTT3=Steffen Schleiermacher, table
+EXTT4=Steffen Schleiermacher, electric organ
+PLAYORDER=

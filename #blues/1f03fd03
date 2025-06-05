@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24750
+#	52350
+#
+# Disc length: 1023 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1f03fd03
+DTITLE=ABYSS - LOOP
+DYEAR=1997
+DGENRE=JPop
+TTITLE0=LOOP 〜Trance TK Mix〜
+TTITLE1=LOOP 〜Trance T2ya Mix〜
+TTITLE2=LOOP 〜Back Track〜
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

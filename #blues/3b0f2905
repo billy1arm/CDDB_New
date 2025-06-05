@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47170
+#	92587
+#	175587
+#	216272
+#
+# Disc length: 3883 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3b0f2905
+DTITLE=Laura Ingalls Wilder - Little House on the Prairie - Disc 4
+DYEAR=2003
+DGENRE=Audio Book
+TTITLE0=Texas Longhorns
+TTITLE1=Indian Camp
+TTITLE2=Fever'n Ague
+TTITLE3=Fire in the Chimney
+TTITLE4=Pa Goes to Town
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

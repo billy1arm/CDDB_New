@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37413
+#	67133
+#	100725
+#	133183
+#	162818
+#	209353
+#	251090
+#
+# Disc length: 3891 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a0f3108
+DTITLE=Kisaragi Tatsu -如月達 - Anytime Anywhere
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Uncle Sco
+TTITLE1=Are You Talking To Me ?
+TTITLE2=Wild Flowers
+TTITLE3=Monday Morning
+TTITLE4=Sink Or Swim M. F !
+TTITLE5=From The Balcony Of Lutetia
+TTITLE6=Black Out
+TTITLE7=Stella By Starlight
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

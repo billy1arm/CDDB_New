@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44585
+#	87582
+#	116060
+#	141275
+#	165552
+#	200367
+#	228500
+#	246440
+#
+# Disc length: 3655 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=820e4509
+DTITLE=Johnny O'Neil - The Montreal Scene
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Let Me Off Uptown
+TTITLE1=Easy Walker
+TTITLE2=Why Try to Change Me Now
+TTITLE3=Happy Days Are Here Again
+TTITLE4=Just Loving You
+TTITLE5=Over Joyed
+TTITLE6=Come Sunday
+TTITLE7=When the Blood is Running Warm
+TTITLE8=Homebody Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

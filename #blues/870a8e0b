@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	14475
+#	34050
+#	53325
+#	75450
+#	95400
+#	112200
+#	134025
+#	150525
+#	165900
+#	191100
+#
+# Disc length: 2714 seconds
+#
+# Submitted via: cddb-tool 0.4.7
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=870a8e0b
+DTITLE=Carole King and James Taylor - Live At The Troubadour
+DYEAR=2007
+DGENRE=Rock
+TTITLE0=Blossom
+TTITLE1=So Far Away
+TTITLE2=Carolina In My Mind
+TTITLE3=It´s Too Late
+TTITLE4=Will You Love Me Tomorrow
+TTITLE5=Country Road
+TTITLE6=Fire And Rain
+TTITLE7=Sweet Baby James
+TTITLE8=I Feel The Earth Move
+TTITLE9=You´ve Got A Friend
+TTITLE10=You Can Close Your Eyes
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

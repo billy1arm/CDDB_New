@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22095
+#	58094
+#	79838
+#
+# Disc length: 1525 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e05f304
+DTITLE=Ben Harper - Faded (EP)
+DYEAR=1997
+DGENRE=Rock
+TTITLE0=Faded
+TTITLE1=Remember (live)
+TTITLE2=Superstition (live)
+TTITLE3=Like A King (remix)
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

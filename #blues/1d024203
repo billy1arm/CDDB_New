@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20830
+#	33270
+#
+# Disc length: 580 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1d024203
+DTITLE=Disney - Song Sampler
+DYEAR=1991
+DGENRE=Childrens
+TTITLE0=A Dream Is a Wish Your Heart Makes
+TTITLE1=Once Upon a Dream
+TTITLE2=Something There
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17039
+#	33863
+#	52354
+#	66996
+#	94023
+#	109821
+#
+# Disc length: 1625 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=5c065707
+DTITLE=Joey Landreth - Whiskey
+DYEAR=2017
+DGENRE=Blues
+TTITLE0=Joey Landreth - Whiskey 
+TTITLE1=Joey Landreth - Hard As I Can 
+TTITLE2=Joey Landreth - Gone Girl 
+TTITLE3=Joey Landreth - Time Served 
+TTITLE4=Joey Landreth - Still Feel Gone 
+TTITLE5=Joey Landreth - Better Together 
+TTITLE6=Joey Landreth - Remember
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

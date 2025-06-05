@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31623
+#	78569
+#	109419
+#	149845
+#	195040
+#	240881
+#	271031
+#
+# Disc length: 3899 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5d0f3908
+DTITLE=Eddy Louiss and Michel Petrucciani - Conférence De Presse
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Les Grelots
+TTITLE1=Jean-Philippe Herbien
+TTITLE2=All The Things You Are
+TTITLE3=I Wrote You A Song
+TTITLE4=So What
+TTITLE5=These Foolish Things
+TTITLE6=Amesha
+TTITLE7=Simply Bop
+EXTD=keine YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

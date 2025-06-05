@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 28593
+# 41780
+# 55785
+# 65078
+# 78753
+# 104020
+# 116580
+# 133393
+#
+# Disc length: 2122 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1d1
+#
+DISCID=80084809
+DTITLE=Johnny Otis - Otisology
+DYEAR=1900
+DGENRE=
+TTITLE0=Hand Jive '85 - Willie and the Hand Jive
+TTITLE1=Roll With Me Henry
+TTITLE2=Let's Go, Johnny
+TTITLE3=I'm Ready for Love
+TTITLE4=I'm Scared of You
+TTITLE5=Fonkitup
+TTITLE6=Sugar Pie, Honey Bunch
+TTITLE7=I Wanna' Come Over
+TTITLE8=Nut Pony
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

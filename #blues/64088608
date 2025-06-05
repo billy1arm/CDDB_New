@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24171
+#	43636
+#	63697
+#	83969
+#	100297
+#	121256
+#	138244
+#
+# Disc length: 2184 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=64088608
+DTITLE=Sojiro - Images
+DYEAR=1990
+DGENRE=New Age
+TTITLE0=Fountain (Haru Sasaragi)
+TTITLE1=Cloud (Fuyu-no Kumo)
+TTITLE2=Breeze (Soyo Kaza)
+TTITLE3=Pastel Green (Kosumosu)
+TTITLE4=Sunlight (Asahi-no Naka-de)
+TTITLE5=In The Garden (Hana-no Sai)
+TTITLE6=Raindrops (Ame)
+TTITLE7=The Sunset (Tabi-no Owari-ni)
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

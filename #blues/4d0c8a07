@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45887
+#	89607
+#	128442
+#	152560
+#	177515
+#	212400
+#
+# Disc length: 3212 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4d0c8a07
+DTITLE=Stan Getz - The Final Concert Recording 1
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Apasionado
+TTITLE1=On a Slow Boat to China
+TTITLE2=Soul Eyes
+TTITLE3=Espagnira (Espanola)
+TTITLE4=Coba
+TTITLE5=Seven Steps to Heaven
+TTITLE6=El Cajon
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

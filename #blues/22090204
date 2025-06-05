@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54926
+#	109843
+#	150908
+#
+# Disc length: 2308 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=22090204
+DTITLE=Carlos Azevedo Ensemble - Lenda
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Lenda - Parte I
+TTITLE1=Lenda - Parte II
+TTITLE2=Lenda - Parte III
+TTITLE3=Saco Amarelo
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

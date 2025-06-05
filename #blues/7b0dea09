@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26280
+#	56912
+#	86390
+#	125562
+#	152950
+#	182810
+#	200905
+#	236685
+#
+# Disc length: 3564 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7b0dea09
+DTITLE=Bill Evans - Complete Fantasy Recordings Disk 1
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=Mornin' Glory
+TTITLE1=Up With the Lark
+TTITLE2=Yesterday I Heard the Rain
+TTITLE3=My Romance
+TTITLE4=When Autumn Comes
+TTITLE5=T.T.T.T. (Twelve Tone Tune Two)
+TTITLE6=Hullo Bolinas
+TTITLE7=Gloria's Step
+TTITLE8=On Green Dolphin Street
+EXTD=YEAR: 1973
+EXTT0=(Bobbie Gentry)
+EXTT1=(Robin-Kern)
+EXTT2=(Lees - Manzanero)
+EXTT3=(Rodgers/ Hart)
+EXTT4=(Clare Fischer)
+EXTT5=(Bill Evans)
+EXTT6=(Steve Swallow)
+EXTT7=(Scott LaFaro)
+EXTT8=(Washington/ Kaper)
+PLAYORDER=

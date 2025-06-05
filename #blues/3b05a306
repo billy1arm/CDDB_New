@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  15384
+#  31656
+#  48313
+#  62784
+#  79767
+#
+# Disc length: 1445 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.24
+#
+DISCID=3b05a306
+DTITLE=Crimson Stained - Crimson Stained
+DYEAR=1900
+DGENRE=
+TTITLE0=dust
+TTITLE1=gloryland
+TTITLE2=burning
+TTITLE3=selah
+TTITLE4=comfort zone
+TTITLE5=job
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

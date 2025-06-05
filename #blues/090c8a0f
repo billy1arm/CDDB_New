@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29150
+#	35225
+#	62950
+#	66175
+#	69612
+#	98150
+#	100450
+#	101937
+#	134850
+#	138387
+#	143850
+#	147332
+#	185025
+#	212787
+#
+# Disc length: 3212 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=090c8a0f
+DTITLE=John Coltrane - THE OUTER WORLD DISC 2
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Tippin'(take1)
+TTITLE1=Tippin'(take2)(breakdown)
+TTITLE2=Tippin'(take3)
+TTITLE3=Tippin'(take4)(breakdown)
+TTITLE4=Tippin'(take5)
+TTITLE5=Tippin'(take6)
+TTITLE6=Tippin'(take7)(false start)
+TTITLE7=Pristine(take1)(false start)
+TTITLE8=Pristine(take2)
+TTITLE9=Pristine(take3)(false start)
+TTITLE10=Pristine(take4)(breakdown)
+TTITLE11=Pristine(take5)(breakdown)
+TTITLE12=Pristine(take6)
+TTITLE13=Pristine(take7)
+TTITLE14=Pristine(take8)
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

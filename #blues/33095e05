@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34800
+#	84510
+#	111400
+#	150415
+#
+# Disc length: 2400 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=33095e05
+DTITLE=Herbie Hancock - Inventions And Dimensions
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Succotash
+TTITLE1=Triangle
+TTITLE2=Jack Rabbit
+TTITLE3=Mimosa
+TTITLE4=A Jump Ahead
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

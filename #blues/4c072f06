@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21775
+#	50700
+#	69012
+#	96650
+#	121875
+#
+# Disc length: 1841 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=4c072f06
+DTITLE=Eugen Cicero - In Town
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=It's De-Lovely
+TTITLE1=Autumn Leaves
+TTITLE2=Und Bach?
+TTITLE3=Hello Dolly
+TTITLE4=Little Niles
+TTITLE5=Por Favor
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

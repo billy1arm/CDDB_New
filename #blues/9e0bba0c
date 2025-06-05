@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17502
+#	36922
+#	60652
+#	73075
+#	91185
+#	113680
+#	133272
+#	155365
+#	166785
+#	183265
+#	206992
+#
+# Disc length: 3004 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9e0bba0c
+DTITLE=Various Artist - Celtic Love Songs - Celtophile
+DYEAR=1997
+DGENRE=Folk
+TTITLE0=Cherish The Ladies--The Galway Rover
+TTITLE1=Altan--The Flower of Magherally
+TTITLE2=Silly Wizard--Lover's Heart
+TTITLE3=Relativity--Gathering Place
+TTITLE4=Trian--I Once Knew a Little Girl
+TTITLE5=Deanta--The Lakes of Pontchartrain
+TTITLE6=Mick Moloney and Eugene O'Donnell--Bonny Blue-Eyed Nancy
+TTITLE7=Relativity--When She Sleeps
+TTITLE8=Cherish The Ladies--Carrigdhoun
+TTITLE9=Tannahill Weavers--A Night Visitor's Song
+TTITLE10=Altan--Ta Mo-Chleamhnas A Dheanamh
+TTITLE11=Andy M. Stewart and Manus Lunny--Take Her In Your Arms
+EXTD=YEAR: 1997
+EXTT0=Cherish The Ladies\n
+EXTT1=Altan\n
+EXTT2=Silly Wizard\n
+EXTT3=Relativity\n
+EXTT4=Trian\n
+EXTT5=Deanta\n
+EXTT6=Mick Moloney and Eugene O'Donnell\n
+EXTT7=Relativity\n
+EXTT8=Cherish the Ladies\n
+EXTT9=The Tannahill Weavers\n
+EXTT10=Altan\n
+EXTT11=Andy M. Stewart and Manus Lunny\n
+PLAYORDER=

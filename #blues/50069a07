@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24215
+#	39242
+#	57619
+#	65378
+#	93473
+#	115636
+#
+# Disc length: 1692 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=50069a07
+DTITLE=Hot Fella' Blues Band - Waitin' for fella'
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Pain is still the same
+TTITLE1=Boom Boom
+TTITLE2=For you
+TTITLE3=Waitin' for fella'
+TTITLE4=More you give, less I learn
+TTITLE5=Half the man
+TTITLE6=Partie de pêche
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

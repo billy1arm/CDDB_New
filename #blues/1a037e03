@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	29440
+#	45350
+#
+# Disc length: 896 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=1a037e03
+DTITLE=Gomez - We Haven't Turned Around
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=We Haven't Turned Around (Album vers.)
+TTITLE1=Flight
+TTITLE2=Rosemary
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

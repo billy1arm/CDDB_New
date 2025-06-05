@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	98618
+#	166676
+#	230221
+#
+# Disc length: 4127 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=25101d04
+DTITLE=Clifford Brown - More live at the Bee Hive CD1
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=After you've gone
+TTITLE1=Blues
+TTITLE2=Jordu
+TTITLE3=The song is you
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

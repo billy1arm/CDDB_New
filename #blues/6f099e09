@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22660
+#	31725
+#	44185
+#	60225
+#	74587
+#	91852
+#	133230
+#	160090
+#
+# Disc length: 2464 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f099e09
+DTITLE=Various Artist - Chilled Jazz
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Grover Washington Jr. - Take Five (Another Five)
+TTITLE1=Dave Brubeck - Unsquare Dance
+TTITLE2=Charlie Byrd_ the Girl From Ipanema
+TTITLE3=Stan Getz - Double Rainbow
+TTITLE4=Tony Bennet - I Can't Believe Your In Love With Me
+TTITLE5=Thelonious Monk - Round Midnight
+TTITLE6=Al Di Meola - Land Of The Midnight Sun
+TTITLE7=Weather Report - Birdland
+TTITLE8=Duke Ellington - Take The A Train
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

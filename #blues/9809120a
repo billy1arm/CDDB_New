@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     30600
+#     47775
+#     61345
+#     80540
+#     95072
+#     112380
+#     133362
+#     147815
+#     157265
+# 
+# Disc length: 2324 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9809120a
+DTITLE=Various Artist - Black Top Blues-A-Rama, Volume 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Lemon Squeezin' Daddy
+TTITLE1=Bye Bye Baby
+TTITLE2=Get to Gettin'
+TTITLE3=Things I Used to Do
+TTITLE4=West Side Soul
+TTITLE5=NIght Flight
+TTITLE6=Blue Monday Blues
+TTITLE7=Further On Up the Road
+TTITLE8=If I Had My Life to Live Over
+TTITLE9=Hello Sundown
+EXTD=
+EXTT0=Nappy Brown\n
+EXTT1=Nappy Brown\n
+EXTT2=Nappy Brown\n
+EXTT3=Earl King\n
+EXTT4=Ronnie Earl\n
+EXTT5=Ronnie Earl\n
+EXTT6=James Thunderbird Davis\n
+EXTT7=James Thunderbird Davis\n
+EXTT8=James Thunderbird Davis\n
+EXTT9=James Thunderbird Davis\n
+PLAYORDER=

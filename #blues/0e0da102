@@ -1,0 +1,24 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  130557
+#
+# Disc length: 3491 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=0e0da102
+DTITLE=Bob Baldwin - Northwood Wildlife
+DYEAR=1900
+DGENRE=
+TTITLE0=Waves, heron, wood pecker, wind, etc..
+TTITLE1=Robines, river, wind , Oriole, Goshawk, Loon, Grouse, thuderstorm
+TTITLE1=, rain , hail , waker , Woves, etc.
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

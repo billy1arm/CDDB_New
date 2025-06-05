@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22344
+#	42165
+#	60656
+#	76237
+#
+# Disc length: 1261 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=3904eb05
+DTITLE=Becky Barksdale - Cowgirl Blues
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=I Can't Stop Loving You
+TTITLE1=I'll Say Goodbye
+TTITLE2=I've Missed
+TTITLE3=Everything Is Nothing
+TTITLE4=I've Got To See You Again
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

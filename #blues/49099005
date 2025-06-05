@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	41522
+#	58352
+#	95530
+#	132675
+#
+# Disc length: 2450 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=49099005
+DTITLE=Cal Massey  - Blues To Coltrane
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Blues To Coltrane
+TTITLE1=Whats Wrong?
+TTITLE2=Bakai
+TTITLE3=These Are Soulful Days
+TTITLE4=Father and Son
+EXTD=Submitted By WinSkol
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

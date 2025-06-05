@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	64937
+#	161662
+#	191362
+#
+# Disc length: 3756 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2f0eaa04
+DTITLE=Cecil Taylor - Live At The Cage Montmartre Disc 2
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Lena alt take
+TTITLE1=D.Trad, That's What
+TTITLE2=Call alt take
+TTITLE3=Untitled Sample
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

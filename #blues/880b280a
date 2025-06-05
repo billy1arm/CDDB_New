@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22302
+#	46065
+#	67480
+#	85965
+#	105865
+#	127952
+#	151695
+#	170877
+#	193307
+#
+# Disc length: 2858 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=880b280a
+DTITLE=Various Artist - Salsa Magic (Disk 2)
+DYEAR=1994
+DGENRE=Salsa
+TTITLE0=Rey Ruiz - Mi Media Mitad
+TTITLE1=Willie Colon - Atrapado
+TTITLE2=Andy Montanez - Larga Distancia
+TTITLE3=Tito Gomez - Nuestro Amor
+TTITLE4=Victor Manuelle - Me Dara El Consentimiento
+TTITLE5=Frankie Ruiz - Bailando
+TTITLE6=Luis Enrique - Muerto De Amor
+TTITLE7=Alex D'Castro - Y Me Pregunto
+TTITLE8=Tito Allen - Por Quererte
+TTITLE9=Giro - El Centro De Mi Corazon
+EXTD=YEAR: 1994
+EXTT0=Rey Ruiz
+EXTT1=Willie Colon
+EXTT2=Andy Montanez
+EXTT3=Tito Gomez
+EXTT4=Victor Manuelle
+EXTT5=Frankie Ruiz
+EXTT6=Luis Enrique
+EXTT7=Alex D'Castro
+EXTT8=Tito Allen
+EXTT9=Giro
+PLAYORDER=

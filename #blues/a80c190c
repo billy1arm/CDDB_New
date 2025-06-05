@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26720
+#	43795
+#	68105
+#	85092
+#	102255
+#	118622
+#	129332
+#	154297
+#	174475
+#	193565
+#	209180
+#
+# Disc length: 3099 seconds
+#
+# Revision: 22
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a80c190c
+DTITLE=Putumayo Presents - Salsa Around The World
+DYEAR=2003
+DGENRE=Salsa
+TTITLE0=Salsa Celtica - El Sol De La Noche
+TTITLE1=Havana Mambo - Malaniña
+TTITLE2=Arnell I Su Orkesta - Ban Sali
+TTITLE3=Apurimac - Forest Flower
+TTITLE4=Touré Kunda - Rapada
+TTITLE5=Mousta Largo - Anna Maria
+TTITLE6=Shaan - Mana Janab Ne Pukara Nahin
+TTITLE7=Babycar Y Sabor Internacional - Ignane
+TTITLE8=Orquesta De La Luz - Flores Y Tambores
+TTITLE9=Richard Bona - Te Dikalo
+TTITLE10=El Septeto - Ruñidera
+TTITLE11=Haitiando - Pa Koute Konsèy
+EXTD=YEAR: 2003
+EXTT0=Scotland
+EXTT1=Italy
+EXTT2=Curaçao
+EXTT3=Greece
+EXTT4=Senega
+EXTT5=Morocco
+EXTT6=India
+EXTT7=Senegal
+EXTT8=Japan
+EXTT9=Cameroon
+EXTT10=Finland
+EXTT11=Haiti
+PLAYORDER=

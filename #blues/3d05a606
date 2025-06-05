@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11445
+#	23292
+#	44198
+#	69444
+#	90484
+#
+# Disc length: 1448 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3d05a606
+DTITLE=Sarah Vaughan - The Cool Jazz Collection 79
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=The Boy from Ipanema
+TTITLE1=Fascinating Rhythm
+TTITLE2=Danny Boy
+TTITLE3=I've Got the World on a String
+TTITLE4=Easy Living
+TTITLE5=That's All
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

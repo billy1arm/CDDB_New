@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24892
+#	47175
+#	68285
+#	93524
+#
+# Disc length: 1493 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3105d305
+DTITLE=Carl Winters - The Kalimba King
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Kalimba Blues
+TTITLE1=Jazz-A-Bet
+TTITLE2=We Shall Not Be Removed
+TTITLE3=Sugar
+TTITLE4=Amazing Grace
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

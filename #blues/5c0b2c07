@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21058
+#	92937
+#	115460
+#	139337
+#	144321
+#	182364
+#
+# Disc length: 2862 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5c0b2c07
+DTITLE=Per Aspera - Nil Desperandum
+DYEAR=2008
+DGENRE=Expérimental
+TTITLE0=Epitaphium
+TTITLE1=Second epitaphium
+TTITLE2=Crematorium
+TTITLE3=Shkiyat Haolam
+TTITLE4=Nil Deperandum
+TTITLE5=Calling Dreams
+TTITLE6=The light within
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

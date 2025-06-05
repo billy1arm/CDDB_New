@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20101
+#	39040
+#	54185
+#	71610
+#	85735
+#	102020
+#
+# Disc length: 1460 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4905b207
+DTITLE=Willis Jazz Trio - Es Steht ein Baum ...
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Heute bin ich rot ...
+TTITLE1=Curi tiha godinica
+TTITLE2=Nasa mat su rekli
+TTITLE3=Weg fogtam egy szunyogot 
+TTITLE4=Wann d'Vögerl im Wald
+TTITLE5=Es steht ein  Baum im tiefen Tal
+TTITLE6=Erdö, erdö
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

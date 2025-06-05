@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15480
+#	31765
+#	49712
+#	85835
+#	107535
+#	129020
+#	170817
+#	185892
+#	208665
+#	228647
+#	261540
+#
+# Disc length: 3733 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9f0e930c
+DTITLE=Gerry Groom and Mick Taylor and Friends - Once In A Blue Moon
+DYEAR=1991
+DGENRE=Blues
+TTITLE0=Can't Be Satisfied 
+TTITLE1=When You Got A Friend 
+TTITLE2=Coastin' Home 
+TTITLE3=Mick's Jam 
+TTITLE4=Music Teacher 
+TTITLE5=Hip Shake 
+TTITLE6=Long Distance Call 
+TTITLE7=Suzie Q 
+TTITLE8=Louisiana Blues 
+TTITLE9=Spots For Days 
+TTITLE10=Red Rooster 
+TTITLE11=Can't Be Satisfied 
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

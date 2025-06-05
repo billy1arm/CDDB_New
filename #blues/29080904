@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33400
+#	78300
+#	119415
+#
+# Disc length: 2059 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=29080904
+DTITLE=Joe Farrell - Canned Funk
+DYEAR=1974
+DGENRE=Jazz
+TTITLE0=Canned Funk
+TTITLE1=Animal
+TTITLE2=Suite Martinique
+TTITLE3=Spoken Silence
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

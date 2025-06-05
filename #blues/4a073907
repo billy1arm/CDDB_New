@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19237
+#	37952
+#	54002
+#	72322
+#	91507
+#	114537
+#
+# Disc length: 1851 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=4a073907
+DTITLE=Cachorro Cego - Cachorro Cego
+DYEAR=1900
+DGENRE=
+TTITLE0=quando 1+1 e a solucao
+TTITLE1=danada
+TTITLE2=viagem a terra dos prazeres
+TTITLE3=mary Juana Blues
+TTITLE4=ela sempre quer mais
+TTITLE5=butt boogie
+TTITLE6=quarto de bordel
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

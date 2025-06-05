@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	20280
+# 	46400
+# 	66713
+# 	86860
+# 	109485
+# 	127028
+# 	140323
+# 	167240
+#
+# Disc length: 2941 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=870b7b09
+DTITLE=Glady's Knight - Just For You
+DYEAR=1900
+DGENRE=
+TTITLE0=Next Time
+TTITLE1=I Don't Want To Know
+TTITLE2=I'll Fall In Love If You Hang Around
+TTITLE3=Our Love
+TTITLE4=Home Alone
+TTITLE5=Choice Of Colors
+TTITLE6=Guilty
+TTITLE7=Somehow He Loves Me
+TTITLE8=End Of The Road Medley
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

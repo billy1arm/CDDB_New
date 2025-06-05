@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     22880
+#     44685
+#     59495
+#     70822
+#     86645
+#     101177
+#     116072
+#     137707
+#     151720
+# 
+# Disc length: 2159 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=87086d0a
+DTITLE=Big Bill Broonzy - Baby Please Dont Go
+DYEAR=1900
+DGENRE=
+TTITLE0=Ridin' On Down
+TTITLE1=Feelin' Lowdown
+TTITLE2=Baby Please Don't Go
+TTITLE3=St. Louis Blues
+TTITLE4=In The Evening
+TTITLE5=Letter To My Baby
+TTITLE6=Do Right Blues
+TTITLE7=Backwater Blues
+TTITLE8=Guitar Shuffle
+TTITLE9=Sixteen Tons
+EXTD=
+EXTT0=Mule Ridin'\n
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=I Got Up One Mornin' Blues\n
+EXTT8=
+EXTT9=
+PLAYORDER=

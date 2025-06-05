@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14745
+#	30262
+#	55997
+#	84977
+#	100622
+#	122857
+#	140445
+#
+# Disc length: 2277 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=5f08e308
+DTITLE=Point Blank - The Hard Way
+DYEAR=1980
+DGENRE=Melodious Hard Rock
+TTITLE0=Turning Back
+TTITLE1=The Hard Way
+TTITLE2=On The Run
+TTITLE3=Highway Star -Live-
+TTITLE4=Rock 'N Roll Soldier
+TTITLE5=Guessing Game
+TTITLE6=Wrong To Cry -Live-
+TTITLE7=Thank You Mama -Live-
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,232 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2396
+#	15740
+#	24734
+#	32841
+#	35208
+#	38181
+#	40203
+#	41756
+#	43540
+#	45051
+#	46132
+#	47314
+#	48450
+#	49576
+#	50761
+#	52397
+#	53608
+#	55129
+#	56709
+#	58479
+#	60224
+#	62012
+#	63824
+#	65605
+#	68146
+#	70379
+#	75732
+#	77590
+#	79274
+#	80863
+#	83861
+#	85748
+#	88217
+#	92369
+#	96139
+#	98346
+#	101926
+#	104164
+#	107534
+#	112382
+#	115829
+#	117986
+#	120268
+#	123293
+#	125686
+#	127207
+#	129191
+#	131729
+#	137445
+#	141437
+#	145718
+#	149447
+#	153677
+#	157354
+#	161612
+#	165337
+#	169333
+#	174704
+#	179843
+#	184135
+#	194200
+#	200127
+#	205587
+#	210786
+#	217095
+#	221941
+#	227126
+#	233583
+#	236453
+#	242474
+#	245586
+#
+# Disc length: 3337 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=270d0748
+DTITLE=Roberto Corrêa - A Arte de Pontear a Viola
+DYEAR=2000
+DGENRE=Viola
+TTITLE0=1 - Cordas soltas afinação Cebolão em Ré
+TTITLE1=2 - Mão esquerda Posição I Exercícios de 1 a 5
+TTITLE2=3 - Mão esquerda Posição V Exercícios de 1 a 5
+TTITLE3=4 - Mão esquerda Posição IX Exercícios de 1 a 5
+TTITLE4=5 - Mão direita Soltura Modelo 1
+TTITLE5=6 - Mão direita Soltura Modelo 2
+TTITLE6=7 - Mão direita Soltura Modelo 3
+TTITLE7=8 - Mão direita Soltura Modelo 4
+TTITLE8=9 - Mão direita Independência Modelo 1
+TTITLE9=10 - Mão direita Independência Modelo 2
+TTITLE10=11 - Mão direita Independência Modelo 3
+TTITLE11=12 - Mão direita Independência Modelo 4
+TTITLE12=13 - Mão direita Independência Modelo 5
+TTITLE13=14 - Mão direita Independência Modelo 6
+TTITLE14=15 - Mão direita Velocidade Modelo 1
+TTITLE15=16 - Mão direita Velocidade Modelo 2
+TTITLE16=17 - Mão direita Velocidade Modelo 3
+TTITLE17=18 - Mão direita Velocidade Modelo 4
+TTITLE18=19 - Mão direita Velocidade Modelo 5
+TTITLE19=20 - Mão direita e mão esquerda Dedilhados Progressão-Modelo
+TTITLE20=21 - Mão direita e mão esquerda Dedilhados Variação 1
+TTITLE21=22 - Mão direita e mão esquerda Dedilhados Variação 2
+TTITLE22=23 - Mão direita e mão esquerda Dedilhados Variação 3
+TTITLE23=24 - Mão direita e mão esquerda Dedilhados Variação 4
+TTITLE24=25 - Mão direita e mão esquerda Combinações Modelo 1
+TTITLE25=26 - Mão direita e mão esquerda Combinações Modelo 2
+TTITLE26=27 - Mão direita e mão esquerda Ligados Exercício 1
+TTITLE27=28 - Mão direita e mão esquerda Ligados Exercício Síntese
+TTITLE28=29 - Toque do Cateretê
+TTITLE29=30 - Toque do Cururu
+TTITLE30=31 - Toque da Toada 1 trecho de Sucupira Preta
+TTITLE31=32 - Toque da Toada 2
+TTITLE32=33 - Toque do Arrasta-Pé trecho de Moita de Assapeixe
+TTITLE33=34 - Toque da Mazurca trecho de Mazurca do Viajor
+TTITLE34=35 - Toque do Batuque
+TTITLE35=36 - Toque da Moda Campeira
+TTITLE36=37 - Toque da Guarânia trecho de Santa Rosa
+TTITLE37=38 - Toque do Rasqueado
+TTITLE38=39 - Toque da Polca Mato-grossense trecho de Timbuva
+TTITLE39=40 - Toque da polca Caipira trecho de Corgo da Manga
+TTITLE40=41 - Toque da Cana Verde trecho de Melado com Mandioca
+TTITLE41=42 - Toque de Querumana
+TTITLE42=43 - Toque do Xote trecho de Vó Quidama
+TTITLE43=44 - Pagode-de-Viola passo 1 mão direita
+TTITLE44=45 - Pagode-de-Viola passo 2 mão esquerda
+TTITLE45=46 - Pagode-de-Viola passo 3 efeito rabanada
+TTITLE46=47 - Toque do Pagode-de-Viola
+TTITLE47=48 - Estudo 1 Coã
+TTITLE48=49 - Estudo 2 trecho simplificado de Ingrisia na Folia
+TTITLE49=50 - Estudo 3 Jaó
+TTITLE50=51 - Estudo 4 Urutau
+TTITLE51=52 - Estudo 5 Curiango
+TTITLE52=53 - Estudo 6 Alma-de-Gato
+TTITLE53=54 - Estudo 7 Trinca-Ferro
+TTITLE54=55 - Estudo 8 Curicaca
+TTITLE55=56 - Estudo 9 trecho simplificado de Caninana do Papo Amarelo
+TTITLE56=57 - Estudo10 Pinhé
+TTITLE57=58 - Estudo 11 Água-Só
+TTITLE58=59 - Estudo 12 Fogo-Pagô
+TTITLE59=60 - Estudo 13 trecho de Bicho-de-Pé
+TTITLE60=61 - Estudo 14 Socó-Boi
+TTITLE61=62 - Estudo 15 Trecho de Caninana do Papo Amarelo
+TTITLE62=63 - Estudo 16 Passo-Preto
+TTITLE63=64 - Estudo 17 Papa-Capim
+TTITLE64=65 - Estudo 18 trecho simplificado de Jararaca Chateadeira
+TTITLE65=66 - Estudo 19 trecho simplificado de Urutu Cruzeira
+TTITLE66=67 - Estudo 20 Caracará
+TTITLE67=68 - Estudo 21 Guacho
+TTITLE68=69 - Estudo 22 trecho de Antiqüera
+TTITLE69=70 - Estudo 23 Bacurau
+TTITLE70=71 - Estudo 24 Tiziu
+TTITLE71=72 - Estudo 25 Urubu-Rei
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+PLAYORDER=

@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8552
+#	14655
+#	32045
+#	45417
+#	54887
+#	70702
+#	82782
+#	96910
+#	110290
+#	128887
+#	137737
+#	167062
+#
+# Disc length: 2426 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9809780d
+DTITLE=Les Voix De Sperenza - Chants Sacrés Corses De La Lithurgie Catholique
+DYEAR=1997
+DGENRE=Chorus
+TTITLE0=Messe Des Vivants - Salve Sancta Parens
+TTITLE1=Messe Des Vivants - Gloria Patri
+TTITLE2=Messe Des Vivants - Kirie Eleison
+TTITLE3=Messe Des Vivants - Sanctus
+TTITLE4=Messe Des Vivants - O Salutaris Ostia
+TTITLE5=Messe Des Vivants - Agnus Dei
+TTITLE6=Messe Des Morts - Requiem
+TTITLE7=Messe Des Morts - Kirie Eleison
+TTITLE8=Messe Des Morts - Sanctus
+TTITLE9=Messe Des Morts - Agnus Dei
+TTITLE10=Messe Des Morts - Lux Aeterna
+TTITLE11=Messe Des Morts - Libera Me
+TTITLE12=Messe Des Morts - Dio Vi Salvi Regina
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31005
+#	75412
+#	105467
+#	133102
+#	163967
+#	197937
+#	230377
+#	255465
+#	278357
+#	316712
+#
+# Disc length: 4580 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8111e20b
+DTITLE=Dave Weckl Band - Transition
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Wake Up
+TTITLE1=Braziluba
+TTITLE2=Like That
+TTITLE3=Mild Hysteria
+TTITLE4=Group Therapy
+TTITLE5=Passion
+TTITLE6=Crossing Paths
+TTITLE7=Alegria
+TTITLE8=Just For The Record
+TTITLE9=Amanecer
+TTITLE10=Serenalin
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

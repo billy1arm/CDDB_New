@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20555
+#	37085
+#	56307
+#	72752
+#	84397
+#	99935
+#	118077
+#	134905
+#	154090
+#	171947
+#	191382
+#
+# Disc length: 2860 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=9f0b2a0c
+DTITLE=The Band - The Best Of The Band - Disc Two
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Up On Cripple Creek
+TTITLE1=Rockin' Chair
+TTITLE2=Unfaithful Servant
+TTITLE3=King Harvest (Has Surely Come)
+TTITLE4=Strawberry Wine
+TTITLE5=Time to Kill
+TTITLE6=The Shape I'm in
+TTITLE7=Stage Fright
+TTITLE8=The Rumor
+TTITLE9=Life is a Carnival
+TTITLE10=When I Paint My Masterpiece
+TTITLE11=Smoke Signal
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,29 @@
+# xmcd
+#
+# Track frame offsets:
+# 182
+# 46180
+# 132657
+# 208607
+#
+# Disc length: 3422 seconds
+#
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.951 
+#
+DISCID=360d5c04
+DTITLE=Gershwin - Rhapsody in Blue
+DYEAR=1966
+DGENRE=Classical
+TTITLE0=Cuban Overture
+TTITLE1=An American in Paris
+TTITLE2=Rhapsody in Blue
+TTITLE3=Variations on .. I Got Rhythm
+EXTD=YEAR: 1966 ID3G: 32
+EXTT0=Cleveland Orchestra - D: Lorin Maazel
+EXTT1=London Festival Orchestra - D: Stanley Black
+EXTT2=London Festival Orchestra - D: Stanley Black (and piano)
+EXTT3=London Festival Recording Ensemble - D: Bernhard Hermmann\nPiano: David Parkhouse
+PLAYORDER=

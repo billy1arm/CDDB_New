@@ -1,0 +1,335 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	980
+#	1682
+#	2770
+#	3857
+#	4800
+#	5915
+#	7080
+#	7692
+#	8520
+#	9475
+#	10987
+#	11815
+#	12992
+#	14875
+#	16410
+#	17102
+#	18285
+#	19122
+#	19785
+#	20822
+#	21720
+#	23687
+#	24472
+#	25237
+#	26060
+#	27122
+#	27922
+#	28840
+#	30327
+#	30985
+#	32030
+#	32712
+#	33757
+#	34502
+#	35477
+#	36980
+#	37820
+#	38495
+#	39862
+#	40537
+#	41792
+#	42520
+#	43414
+#	44050
+#	44720
+#	45877
+#	46662
+#	47807
+#	48615
+#	49735
+#	50470
+#	51887
+#	52700
+#	53467
+#	54064
+#	55072
+#	56507
+#	57975
+#	58700
+#	59377
+#	60037
+#	63412
+#	66772
+#	70967
+#	76047
+#	81437
+#	84192
+#	94715
+#	99202
+#	101452
+#	105045
+#	111582
+#	114185
+#	121490
+#	125562
+#	129025
+#	133137
+#	138880
+#	142317
+#	154150
+#	160622
+#	166762
+#	172497
+#	176800
+#	179085
+#	187100
+#	190615
+#	192197
+#	198412
+#	203257
+#	207832
+#	212397
+#	215890
+#	219192
+#	222355
+#	227157
+#	231662
+#	238612
+#
+# Disc length: 3355 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: VUPlayer 2.49
+#
+DISCID=0b0d1963
+DTITLE=Various Artist - 'Gator Bites
+DYEAR=1998
+DGENRE=Promo
+TTITLE0=Lonnie Brooks - Merry Xmas and Happy New Year
+TTITLE1=Lonnie Brooks - Happy Holiday Season
+TTITLE2=Koko Taylor - Merry Xmas and Happy New Year
+TTITLE3=Bob Margolin - Happy Hanukkah
+TTITLE4=Bob Margolin - Happy Holiday Season
+TTITLE5=Bob Margolin - Drive Safely This New Year's Eve
+TTITLE6=The Kinsey Report - Merry Xmas and Happy New Year
+TTITLE7=Shemekia Copeland - Merry Xmas and Happy New Year
+TTITLE8=Elvin Bishop - Merry Xmas and Happy New Year
+TTITLE9=Little Charlie and The Nightcats - Holiday Season Don't Drink and Drive
+TTITLE10=Little Charlie and The Nightcats - Rick Estrin-Play It Cool This Holiday 
+TTITLE10=Weekend
+TTITLE11=Michael Hill's Blues Mob - Merry Xmas and Happy New Year
+TTITLE12=Michael Hill's Blues Mob - Merry Xmas Happy Kwanzaa
+TTITLE13=Saffire The Uppity Blues Women - Merry Xmas and Happy New Year
+TTITLE14=Corey Harris - Merry Xmas Happy Kwanzaa Happy Hanukkah
+TTITLE15=Lonnie Brooks - Thanksgiving
+TTITLE16=Bob Margolin - Thanksgiving
+TTITLE17=The Kinsey Report - Thanksgiving
+TTITLE18=Shemekia Copeland - Thanksgiving
+TTITLE19=Elvin Bishop - Thanksgiving
+TTITLE20=Elvin Bishop - Thanksgiving
+TTITLE21=Saffire The Uppity Blues Women - Thanksgiving
+TTITLE22=Corey Harris - Thanksgiving
+TTITLE23=Lonnie Brooks - Easter
+TTITLE24=Koko Taylor - Easter
+TTITLE25=Carey Bell - Easter
+TTITLE26=Shemekia Copeland - Easter
+TTITLE27=Lonnie Brooks - 4th Of July
+TTITLE28=Saffire The Uppity Blues Women - 4th Of July
+TTITLE29=Lonnie Brooks - Father's Day
+TTITLE30=Carey Bell - 4th Of July
+TTITLE31=Shemekia Copeland - 4th Of July
+TTITLE32=Koko Taylor - Mother's Day
+TTITLE33=Shemekia Copeland - Mother's Day
+TTITLE34=Michael Hill's Blues Mob - Mother's Day
+TTITLE35=Saffire The Uppity Blues Women - Mother's Day
+TTITLE36=Lonnie Brooks - Halloween
+TTITLE37=Shemekia Copeland - Halloween
+TTITLE38=Bob Margolin - Valentine's Day
+TTITLE39=Shemekia Copeland - Valentine's Day
+TTITLE40=Michael Hill's Blues Mob - Valentine's Day
+TTITLE41=The Kinsey Report - General Holiday Weekend
+TTITLE42=Carey Bell - General Holiday Weekend
+TTITLE43=Shemekia Copeland - General Holiday Weekend
+TTITLE44=Elvin Bishop - General Holiday Weekend-Don't Drink and Drive
+TTITLE45=The Kinsey Report - Don't Drink and Drive
+TTITLE46=Shemekia Copeland - Don't Drink and Drive
+TTITLE47=Koko Taylor - Keep It Tuned........
+TTITLE48=The Kinsey Report - Keep It Tuned........
+TTITLE49=Carey Bell - Keep It Tuned........
+TTITLE50=Shemekia Copeland - Keep It Tuned........
+TTITLE51=Saffire The Uppity Blues Women - Keep It Tuned........
+TTITLE52=The Kinsey Report - Kenneth Kinsey, Smoke and Steel Album Track
+TTITLE53=The Kinsey Report - Ralph Kinsey,moke and Steel Album Track
+TTITLE54=Shemekia Copeland - Turn The Heat Up Track
+TTITLE55=Elvin Bishop - The Skin I'm In Track
+TTITLE56=Saffire The Uppity Blues Women - For All The Ladies....
+TTITLE57=Saffire The Uppity Blues Women - For All The Young Men....
+TTITLE58=Ann Rabson - Music Makin' Mama Track
+TTITLE59=Saffire The Uppity Blues Women - Live and Uppitty Track, Andra Faye
+TTITLE60=Corey Harris - Fish Ain't Bitin'
+TTITLE61=Little Charlie and The Nightcats - Little Charlie On The Forming Of The N
+TTITLE61=ightcats
+TTITLE62=Little Charlie and The Nightcats - Little Charlie's Earliest Influences
+TTITLE63=Little Charlie and The Nightcats - Rick Estrin's Earliest Influences
+TTITLE64=Little Charlie and The Nightcats - Rick Estrin Discusses What Distinguish
+TTITLE64=es The Nightcats From Other Bands
+TTITLE65=Little Charlie and The Nightcats - Rick Estrin Talks About a Favorite Tun
+TTITLE65=e He Didn't Write
+TTITLE66=Little Charlie and The Nightcats - Rick Estrin On Winning The W.C. Handy 
+TTITLE66=Award For Song Of The Year With "My Next Ex-Wife"
+TTITLE67=Little Charlie and The Nightcats - Little Charlie and Rick Estrin Talk Abou
+TTITLE67=t Some Of The Strangest Moments Of Their Career
+TTITLE68=Little Charlie and The Nightcats - Little Charlie Discusses His Most Grat
+TTITLE68=ifying Moments
+TTITLE69=The Kinsey Report - Donald Kinsey On Playing His First Guitar Lick
+TTITLE70=The Kinsey Report - Donald Kinsey On The Early Years Of His Career
+TTITLE71=The Kinsey Report - Ralph Kinsey Talks About His Influences And Inspira
+TTITLE71=tions
+TTITLE72=The Kinsey Report - Donald Kinsey Remembers Albert King
+TTITLE73=The Kinsey Report - Donald Kinsey Talks About His Grandmother, Bob Marl
+TTITLE73=ey And The Kinsey's Music
+TTITLE74=The Kinsey Report - Donald Kinsey On The Power Of The Music
+TTITLE75=The Kinsey Report - Ralph Kinsey On "Loved Ones", His Favorite Track Of
+TTITLE75=f Smoke and Steel
+TTITLE76=The Kinsey Report - Kenneth Kinsey On "Down In The Dungeon"", His Favor
+TTITLE76=ite Track Off Smoke and Steel
+TTITLE77=Elvin Bishop - Elvin Bishop Talks About His Inspiration To Become A Mus
+TTITLE77=ician
+TTITLE78=Elvin Bishop - Elvin Bishop Talks About His Influences
+TTITLE79=Elvin Bishop - Elvin Bishop Remembers His Early Days In Chicago
+TTITLE80=Elvin Bishop - Elvin Bishop Remembers Junior Wells
+TTITLE81=Elvin Bishop - Elvin Bishop On Hound Dog Taylor
+TTITLE82=Elvin Bishop - Elvin Bishop On The Butterfield Blues Band
+TTITLE83=Elvin Bishop - Elvin Bishop Talks About Butterfield Blues Band Performa
+TTITLE83=nces
+TTITLE84=Elvin Bishop - Elvin Bishop Remembers The Fillmore Years
+TTITLE85=Michael Hill's Blues Mob - Michael Hill Talks About How New York Has Sh
+TTITLE85=aped His Vision Of The Blues
+TTITLE86=Michael Hill's Blues Mob - Michael Hill Discusses "Living For The City"
+TTITLE86=, a Favorite Song He Recorded But Didn't Write
+TTITLE87=Michael Hill's Blues Mob - Michael Hill Talks About His Goals
+TTITLE88=Michael Hill's Blues Mob - Michael Hill On His Influences
+TTITLE89=Michael Hill's Blues Mob - Michael Hill On "Anytime, Anywhere, His Favo
+TTITLE89=rite Song on "New York State Of Blues
+TTITLE90=Michael Hill's Blues Mob - Michael Hill Talks About Jamming With Luther
+TTITLE90=Allison
+TTITLE91=Michael Hill's Blues Mob - Michael Hill On The Recording Of "New York S
+TTITLE91=ate Of Blues"
+TTITLE92=Shemekia Copeland - Shemekia Copeland Discusses Her Influences
+TTITLE93=Shemekia Copeland - Shemekia Copeland On "Ghetto Child", Her Favorite S
+TTITLE93=ong On "Turn The Heat Up"
+TTITLE94=Saffire The Uppity Blues Women - Saffire The Uppity Blues Women Discuss
+TTITLE94=How They Got Their Name
+TTITLE95=Saffire The Uppity Blues Women - Saffire The Uppity Blues Women On Male
+TTITLE95=Bashing
+TTITLE96=Saffire The Uppity Blues Women - Gaye Adegbalola of Saffire - The Uppit
+TTITLE96=y Blues Women Talks About Her Most Gratifying Moments As A Performer
+TTITLE97=Ann Rabson - Ann Rabson Talks About Her Various Influences
+TTITLE98=Little Charlie and The Nightcats - Eatin' Ain't Cheatin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17778
+#	32429
+#	49685
+#	62214
+#	77289
+#
+# Disc length: 1515 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3c05e906
+DTITLE=Junglewire - Junglewire (Demo 1)
+DYEAR=2006
+DGENRE=Blues
+TTITLE0=Minds out
+TTITLE1=Chain of fools
+TTITLE2=Cercando te
+TTITLE3=Libera
+TTITLE4=Summertime
+TTITLE5=Minds out (Remix)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

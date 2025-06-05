@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	17083
+#	26933
+#	41815
+#	58455
+#	74213
+#	89550
+#	108033
+#	123203
+#	141943
+#
+# Disc length: 2097 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=99082f0a
+DTITLE=Buenos Aires 8 - Buenos Aires 8
+DYEAR=1988
+DGENRE=Tango
+TTITLE0=Buenos Aires 8 - Flores Negras
+TTITLE1=Buenos Aires 8 - El Choclo
+TTITLE2=Buenos Aires 8 - Responso
+TTITLE3=Buenos Aires 8 - Mi Refugio
+TTITLE4=Buenos Aires 8 - Melancólico
+TTITLE5=Buenos Aires 8 - Taquito Militar
+TTITLE6=Buenos Aires 8 - Ojos Negros
+TTITLE7=Buenos Aires 8 - A Don Agustín Bardi
+TTITLE8=Buenos Aires 8 - La Cachila
+TTITLE9=Buenos Aires 8 - Quejas De Bandoneón
+EXTD=YEAR: 1988 ID3G: 113
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

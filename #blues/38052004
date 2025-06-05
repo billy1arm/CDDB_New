@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24225
+#	50100
+#	74175
+#
+# Disc length: 1314 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=38052004
+DTITLE=帝国歌劇団 - つばさ・シンデレラ
+DYEAR=2000
+DGENRE=アニメ
+TTITLE0=渕崎ゆり子（李紅蘭）&西原久美子（アイリス）/つばさ
+TTITLE1=横山智佐（真宮寺さくら）&高乃麗（マリア・タチバナ）/シンデレラ
+TTITLE2=田中公平/つばさ（オリジナル・カラオケ）
+TTITLE3=田中公平/シンデレラ（オリジナル・カラオケ）
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

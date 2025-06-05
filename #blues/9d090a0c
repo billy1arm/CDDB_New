@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17522
+#	27867
+#	43012
+#	54277
+#	65737
+#	81042
+#	98145
+#	111402
+#	126182
+#	140510
+#	154912
+#
+# Disc length: 2316 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=9d090a0c
+DTITLE=Big Joe Williams - Blues on Highway 49
+DYEAR=1900
+DGENRE=
+TTITLE0=Highway 49
+TTITLE1=Overhaul Your Machine
+TTITLE2=Blues Left Texas
+TTITLE3=No. 13 Highway
+TTITLE4=Down in the Bottoms
+TTITLE5=Poor Beggar
+TTITLE6=That Thing's in Town
+TTITLE7=Walk On, Little Girl
+TTITLE8=Tiajuana Blues
+TTITLE9=45 Blues
+TTITLE10=Arkansas Woman
+TTITLE11=Four Corners of the World
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

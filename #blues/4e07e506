@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26271
+#	41172
+#	74130
+#	99354
+#	121406
+#
+# Disc length: 2023 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e07e506
+DTITLE=Herbie Mann and The Bill Evans Trio - Nirvana
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Nirvana
+TTITLE1=Gymnopedie
+TTITLE2=I love you
+TTITLE3=Willow weep for me
+TTITLE4=Lover Man
+TTITLE5=Cashmere
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24037
+#	46527
+#	70372
+#
+# Disc length: 1235 seconds
+#
+# Revision: 13
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2304d104
+DTITLE=彩音 - 嘆きノ森
+DYEAR=2007
+DGENRE=Game
+TTITLE0=嘆きノ森
+TTITLE1=コンプレックス・イマージュ
+TTITLE2=嘆きノ森(off vocal)
+TTITLE3=コンプレックス・イマージュ(off vocal)
+EXTD=E2=Track03蝌・″繝取」ョ・・ff vocal・・TTITLE3=繧ウ繝ウ繝励Ξ繝・け繧ケ繝サ繧、繝槭・繧ク繝・・・ff vocal・・EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

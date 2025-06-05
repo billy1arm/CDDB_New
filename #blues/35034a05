@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  14517
+#  27127
+#  38402
+#  49497
+#
+# Disc length: 844 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: KiC 2.1 - (C) 1996-1998 Alwin Hoogerdijk
+#
+DISCID=35034a05
+DTITLE=Duke Tumatoe - I'll Be Duke For Christmas
+DYEAR=1900
+DGENRE=
+TTITLE0=Give Me What I Want For Christmas
+TTITLE1=Look Out It's Santa
+TTITLE2=It's Christmas (Let's have Sex)
+TTITLE3=Christmas At Grandma's
+TTITLE4=Turn On Your Christmas Tree!
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

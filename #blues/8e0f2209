@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	36725
+#	67373
+#	98463
+#	127278
+#	158025
+#	183180
+#	224623
+#	254495
+#
+# Disc length: 3876 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8e0f2209
+DTITLE=Art Blakey Jazz 1960 Messengers - The complete recordings v1cd2
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Sleeping dancer sleep on
+TTITLE1=Sincerely Diana
+TTITLE2=Sincerely Diana (alt)
+TTITLE3=Yama
+TTITLE4=Kozo's waltz
+TTITLE5=Giantis
+TTITLE6=Johnny's blue
+TTITLE7=So tired
+TTITLE8=Like someone in love
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

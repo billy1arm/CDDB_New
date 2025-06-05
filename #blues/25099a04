@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	92415
+#	132815
+#	151450
+#
+# Disc length: 2460 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=25099a04
+DTITLE=John Coltrane - Live in Stockholm, 1961 (Featuring Eric Dolphy)
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=My Favorite Things
+TTITLE1=Blue Train
+TTITLE2=Naima
+TTITLE3=Impressions
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

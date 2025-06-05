@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13270
+#	28750
+#	44140
+#	63652
+#	100227
+#	119600
+#	136672
+#	152272
+#	170597
+#	192980
+#
+# Disc length: 2814 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=990afc0b
+DTITLE=Clifford Brown - Clifford Brown (Jazz Special Sellection-12)
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Swingin'
+TTITLE1=Stardust
+TTITLE2=If I Love Again
+TTITLE3=Take the "A" Train
+TTITLE4=Delilah
+TTITLE5=Love is a Many Splendored Thing
+TTITLE6=Can't Help Lovin'dat Man
+TTITLE7=What's New
+TTITLE8=Daahoud
+TTITLE9=Lands End
+TTITLE10=Jordu
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

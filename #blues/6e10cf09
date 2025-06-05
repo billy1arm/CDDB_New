@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54440
+#	91275
+#	115860
+#	150002
+#	180467
+#	207625
+#	241277
+#	283620
+#
+# Disc length: 4305 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e10cf09
+DTITLE=Dj Tiesto - Just Be
+DYEAR=2004
+DGENRE=Trance
+TTITLE0=Forever Today
+TTITLE1=Love Comes Again
+TTITLE2=Traffic
+TTITLE3=Sweet Misery
+TTITLE4=Nyana
+TTITLE5=Ur
+TTITLE6=Walking On Clouds
+TTITLE7=A Tear In The Open
+TTITLE8=Just Be
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

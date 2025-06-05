@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18202
+#	36965
+#	61635
+#	75749
+#
+# Disc length: 1373 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=2e055b05
+DTITLE=The Unpronouncable - Elementry Physics
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Prologue
+TTITLE1=Orange Moon
+TTITLE2=Iron Man
+TTITLE3=Too Much
+TTITLE4=Big Blue Demon
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	13102
+#	27125
+#	41760
+#	56265
+#	85302
+#	107217
+#	124580
+#	139767
+#	153917
+#
+# Disc length: 2316 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=79090a0a
+DTITLE=Al Green - Greatest Hits Vol. I
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Tired Of Being Alone
+TTITLE1=Calle Me (Come Back Home)
+TTITLE2=I'm Still In Love With You
+TTITLE3=Here I Am (Come And Take Me)
+TTITLE4=How Can You Mend A Broken Heart
+TTITLE5=Let's Stay Together
+TTITLE6=I Can't Get Next To You
+TTITLE7=You Ought To Be With Me
+TTITLE8=Look What You Done For Me
+TTITLE9=Let's Get Married
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

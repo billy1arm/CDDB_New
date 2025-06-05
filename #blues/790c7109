@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14405
+#	30680
+#	51080
+#	88880
+#	115205
+#	125855
+#	151280
+#	178805
+#
+# Disc length: 3187 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=790c7109
+DTITLE=Georg Graewe - Subsymbolism
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=region ax 5
+TTITLE1=escapes
+TTITLE2=region bq 11
+TTITLE3=allures
+TTITLE4=certainties
+TTITLE5=standing
+TTITLE6=traps
+TTITLE7=region cy 7
+TTITLE8=stream
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

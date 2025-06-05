@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21907
+#	43832
+#	66480
+#	90640
+#	116015
+#	140085
+#	164715
+#	190185
+#	214027
+#	232720
+#
+# Disc length: 3433 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a00d670b
+DTITLE=Various Artist - The Sounds Of 98
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=The Rippingtons - Sapphire Island
+TTITLE1=Gregory Tardy - Forgiveness
+TTITLE2=George Howard - Within Your Eyes
+TTITLE3=Diane Schuur - New York State Of Mind
+TTITLE4=Spyro Gyra - South American Sojourn (Live)
+TTITLE5=Michael Brecker - Madame Toulouse
+TTITLE6=Across 7th Street - The Kettle Is Whistling
+TTITLE7=Larry Carlton - Osaka Cool
+TTITLE8=Eric Reed - Hello, Young Lovers
+TTITLE9=Ramsey Lewis - Fragile
+TTITLE10=Horace Silver - Doctor Jazz
+EXTD=YEAR: 1998
+EXTT0=The Rippingtons
+EXTT1=Gregory Tardy
+EXTT2=George Howard
+EXTT3=Diane Schuur
+EXTT4=Spyro Gyra
+EXTT5=Michael Brecker
+EXTT6=Across 7th Street
+EXTT7=Larry Carlton
+EXTT8=Eric Reed
+EXTT9=Ramsey Lewis
+EXTT10=Horace Silver
+PLAYORDER=

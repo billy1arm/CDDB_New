@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18656
+#	41137
+#	46060
+#	64567
+#
+# Disc length: 1159 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3a048505
+DTITLE=Lead - GREEN DAYS
+DYEAR=2013
+DGENRE=VISION FACTORY
+TTITLE0=GREEN DAYS
+TTITLE1=strings
+TTITLE2=GREEN DAYS (TV drama edit)
+TTITLE3=GREEN DAYS (Instrumental)
+TTITLE4=strings (Instrumental)
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

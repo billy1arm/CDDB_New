@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	58628
+#	94896
+#	192562
+#	213655
+#
+# Disc length: 3548 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4a0dda05
+DTITLE=Sanjay Subrahmanyan - Tillai - Compositions of Gopalakrishna Bharati
+DYEAR=2003
+DGENRE=Carnatic Vocal
+TTITLE0=Vazhi Maraitthu_Nattai Kurinji_Misra Chapu
+TTITLE1=Sivaloka Nathanai Kandu_Mayamalava Gowlai_Rupakam
+TTITLE2=Thillai Ambalathanai_Sahana_Misra Chapu
+TTITLE3=Aadum Chidambaramo_Behag_Adi
+TTITLE4=Iduvo Thillai_Sindhu Bhairavi_Adi
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

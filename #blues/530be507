@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49783
+#	83017
+#	99965
+#	103616
+#	151332
+#	202428
+#
+# Disc length: 3047 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=530be507
+DTITLE=Gaetano Donizetti - Miserere  (Jozef Maklari, Orchestre philharmonique slovaque)
+DYEAR=1980
+DGENRE=Classique
+TTITLE0=Miserere - I. Miserere mei, Deus  (Chorus)
+TTITLE1=Miserere - II. Tibi soli peccavi  (Aria.Soprano)
+TTITLE2=Miserere - III. Asperges me hyssopo  (Chorus)
+TTITLE3=Miserere - IV. Auditui meo - Chant grégorien  (Chorus)
+TTITLE4=Miserere - V. Ne proicias me  (Aria. Baritone)
+TTITLE5=Miserere - VI. Libera me  (Recitativo-Arioso-Aria.Soprano)
+TTITLE6=Miserere - VII. Tunc acceptabis  (Chorus)
+EXTD=Gaetano Donizetti YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

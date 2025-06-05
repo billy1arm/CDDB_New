@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	86220
+#	123476
+#	145276
+#	181276
+#
+# Disc length: 2803 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=440af105
+DTITLE=Alexandre Borodine - Quatuor à cordes N°2  (Jonathan Caeney, The Royal Philharmonic Chamber Ensemble)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=°
+TTITLE1=Quatuor à cordes N°2, en ré majeur - I. Allegro
+TTITLE2=Quatuor à cordes N°2, en ré majeur - II. Scherzo - Allegro
+TTITLE3=Quatuor à cordes N°2, en ré majeur - III. Notturno - Andante
+TTITLE4=Quatuor à cordes N°2, en ré majeur - IV. Finale - Andante vivace
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

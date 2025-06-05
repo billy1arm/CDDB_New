@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51305
+#	76600
+#	101364
+#	139638
+#
+# Disc length: 2567 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=320a0505
+DTITLE=Schumann - Symphonies N°1 and 2 (Sir Neville Marriner, Academy of St Martin in the Fields)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Sym. N°1 en si bémol majeur ''Le Printemps'' - I. Andante un poco maestoso - Allegro molto vivace
+TTITLE1=Sym. N°1 en si bémol majeur ''Le Printemps'' - II. Larghetto
+TTITLE2=Sym. N°1 en si bémol majeur ''Le Printemps'' - III. Scherzo (molto vivace)
+TTITLE3=Sym. N°1 en si bémol majeur ''Le Printemps'' - IV. Allegro animato e grazioso
+TTITLE4=Sym. N°2 en ut majeur, Op.61 (extrait) - 1er mouvement - sostenuto assai - Un poco più vivace
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

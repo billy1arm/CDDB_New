@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39128
+#	67553
+#	93579
+#	123456
+#	162126
+#	197751
+#	223776
+#
+# Disc length: 3405 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=630d4b08
+DTITLE=Will Vinson - Promises
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Albemarle
+TTITLE1=Believer
+TTITLE2=Philos O'Fur
+TTITLE3=Rose Tint
+TTITLE4=Adventures Of Bagpuss
+TTITLE5=Promises
+TTITLE6=Lagonic
+TTITLE7=Leafy
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

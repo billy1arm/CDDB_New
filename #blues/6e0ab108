@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	29525
+#	52195
+#	72383
+#	98685
+#	129830
+#	153638
+#	168678
+#
+# Disc length: 2739 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.23
+#
+DISCID=6e0ab108
+DTITLE=Talk Talk - The Colour Of Spring
+DYEAR=1986
+DGENRE=Blues
+TTITLE0=Happiness Is Easy
+TTITLE1=I Don't Believe In You
+TTITLE2=Life's What You Make It
+TTITLE3=April 5th
+TTITLE4=Living In Another World
+TTITLE5=Give It Up
+TTITLE6=Chameleon Day
+TTITLE7=Time It's Time
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

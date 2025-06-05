@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	23879
+#	43191
+#	60560
+#	78301
+#	91423
+#	114272
+#	129615
+#
+# Disc length: 2084 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=60082208
+DTITLE=Don Johnson - It Ain't Easy Being Blue
+DYEAR=1900
+DGENRE=
+TTITLE0=It Ain't Easy Being Blue
+TTITLE1=Here To Stay
+TTITLE2=Shouda Been Gone
+TTITLE3=Betcha
+TTITLE4=Past Experience
+TTITLE5=Stop On By
+TTITLE6=Diana
+TTITLE7=Thrilling You Is Killing Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

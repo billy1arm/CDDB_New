@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16469
+#	33876
+#	49774
+#	65419
+#	80943
+#	96121
+#	112087
+#	130243
+#	146070
+#	163921
+#
+# Disc length: 2372 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9d09420b
+DTITLE=Various Artist - Narada Jazz - The Singles
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=(Euge Groove) - Livin' Large
+TTITLE1=(Urban Knights) - Sweet Home Chicago
+TTITLE2=(Joyce Cooling) - Expression
+TTITLE3=(Down To The Bone) - Cellar Funk
+TTITLE4=(Jeff Lorber) - Gigabyte
+TTITLE5=(Bob Baldwin) - The Way She Looked (At Me)
+TTITLE6=(Ramsey Lewis Trio) - Midnight At The Oasis
+TTITLE7=(Warren Hil) - Mambo 2000
+TTITLE8=(Urban Knights) - Hi-Heeled Sneakers
+TTITLE9=(Jeff Lorber) - Chopsticks
+TTITLE10=(Alex Bugnon) - 108 Degrees
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

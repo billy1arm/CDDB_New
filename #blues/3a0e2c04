@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34962
+#	113956
+#	217157
+#
+# Disc length: 3630 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3a0e2c04
+DTITLE=Rachmaninoff - The Miserly Knight  [Opera in three scenes]  (Valery Polyansky, Russian State Symphony Orchestra)
+DYEAR=2008
+DGENRE=Classique
+TTITLE0=The Miserly Knight, Op.24 - Scene I. Prelude
+TTITLE1=The Miserly Knight, Op.24 - Scene II. In the Tower
+TTITLE2=The Miserly Knight, Op.24 - Scene III. In the Cellar
+TTITLE3=The Miserly Knight, Op.24 - Scene IV. At the Palace
+EXTD=Russian State Symphony Orchestra under Valeri Polyanski.\n(c) Chandos Records Ltd YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

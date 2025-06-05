@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11749
+#	24462
+#	35323
+#	47629
+#
+# Disc length: 842 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=32034805
+DTITLE=Bryan Ferguson - Leap Year Jazz
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Blue Skies
+TTITLE1=Hello Young Lovers
+TTITLE2=Till there was you
+TTITLE3=Thanks for the memory
+TTITLE4=All that jazz
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

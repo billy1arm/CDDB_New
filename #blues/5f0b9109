@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17520
+#	45935
+#	75350
+#	90430
+#	117040
+#	137225
+#	164380
+#	191075
+#
+# Disc length: 2963 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=5f0b9109
+DTITLE=Compilation - Elegant Jazz 2
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Take The A Train
+TTITLE1=Autumn In New York
+TTITLE2=Dear Old Stockholm
+TTITLE3=Flying Down to Rio
+TTITLE4=A Night In Tunisia
+TTITLE5=Le Petit Fam De Paris
+TTITLE6=I Left My Heart in San Francisco
+TTITLE7=Bohemia After Dark
+TTITLE8=Caravan
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4350
+#	42900
+#	66750
+#	97200
+#	141000
+#
+# Disc length: 2259 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5108d106
+DTITLE=Art Blakey - A Night At Birdland Vol.1
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Introduction by Pee-Wee Marquette
+TTITLE1=Split Kick
+TTITLE2=Once In A While
+TTITLE3=Quicksilver
+TTITLE4=A Night In Tunisia
+TTITLE5=Mayreh
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

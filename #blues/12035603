@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	17690
+#	45032
+#
+# Disc length: 856 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=12035603
+DTITLE=Andrew Strong - Ain't Nothin' You Can Do
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Ain't Nothin' You Can Do
+TTITLE1=Ain't Nothin' You Can Do (long version)
+TTITLE2=Half A Man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

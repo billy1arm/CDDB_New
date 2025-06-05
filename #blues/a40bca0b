@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22405
+#	40360
+#	77555
+#	92535
+#	107832
+#	122415
+#	145330
+#	164222
+#	191762
+#	216567
+#
+# Disc length: 3020 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=a40bca0b
+DTITLE=Eric Clapton - Behind The Sun
+DYEAR=1985
+DGENRE=Blues
+TTITLE0=She's Waiting
+TTITLE1=See What Love Can Do
+TTITLE2=Same Old Blues
+TTITLE3=Knock On Wood
+TTITLE4=Something's Happenning
+TTITLE5=Forever Man
+TTITLE6=It All Depends
+TTITLE7=Tangled In Love
+TTITLE8=Never Make You Try
+TTITLE9=Just Like A Prisoner
+TTITLE10=Behind The Sun
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

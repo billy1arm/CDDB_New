@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	39172
+#	58822
+#
+# Disc length: 1119 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1e045d03
+DTITLE=Fredericks Goldman and Jones - Tu Manques (Extrait de Fredericks Goldman and Jones)
+DYEAR=1992
+DGENRE=Pop
+TTITLE0=Tu manques
+TTITLE1=Vivre cents vies
+TTITLE2=Un, deux, trois
+EXTD=Tu manques YEAR: 1992
+EXTT0=(Version édit)
+EXTT1=
+EXTT2=Remix
+PLAYORDER=

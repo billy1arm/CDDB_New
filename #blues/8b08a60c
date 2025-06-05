@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	11915
+#	26298
+#	43188
+#	55535
+#	70853
+#	83555
+#	98175
+#	112883
+#	127618
+#	137755
+#	151468
+#
+# Disc length: 2216 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=8b08a60c
+DTITLE=Glenn Miller - The best of Glenn Miller
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Moonlight serenade
+TTITLE1=A string of pearls
+TTITLE2=In the mood
+TTITLE3=Serenade in blue
+TTITLE4=Chattanooga choo choo
+TTITLE5=Johnson Rag
+TTITLE6=Pennsylvania 6-5000
+TTITLE7=Indian summer
+TTITLE8=Moonlight cocktail
+TTITLE9=Delilah
+TTITLE10=Amapola
+TTITLE11=American patrol
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

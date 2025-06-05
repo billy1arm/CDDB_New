@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17347
+#	32825
+#	314114
+#
+# Disc length: 4429 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2b114b04
+DTITLE=Fachgruppe Hilfsmittel des ÖBSV - Sicher unterwegs Hilfsmittelausstellung Wien 2009 CD 1
+DYEAR=2010
+DGENRE=Information
+TTITLE0=01 03_49 Franz Kirnbauer - Intro
+TTITLE1=02 03_26 Franz Kirnbauer - Inhalt
+TTITLE2=03 01_02_30 Gerhard Fink - Roundtable zum Thema Sicher unterwegs
+TTITLE3=04 04_01 Franz Kirnbauer - Schlussbemerkund CD 1
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

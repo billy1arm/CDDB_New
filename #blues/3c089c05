@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33372
+#	67050
+#	86604
+#	122562
+#
+# Disc length: 2206 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.23
+#
+DISCID=3c089c05
+DTITLE=John Coltrane - My Favourite Things CD 2
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Bags and Trane
+TTITLE1=Three Little Words
+TTITLE2=The Night We Called It A Day
+TTITLE3=Be-Bop
+TTITLE4=The Late Late Blues
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

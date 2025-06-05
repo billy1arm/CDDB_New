@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     12380
+#     28878
+#     42525
+#     56295
+#     74280
+#     85568
+#     100340
+#     113965
+#     124935
+# 
+# Disc length: 1858 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8407400a
+DTITLE=Billy Stewart - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Summertime
+TTITLE1=Sitting In The Park
+TTITLE2=I Do Love You
+TTITLE3=Secret Love
+TTITLE4=Moon River
+TTITLE5=We'll Always Be Together
+TTITLE6=Temptation About To Get Me
+TTITLE7=Cross My Heart
+TTITLE8=Reap What You Sow
+TTITLE9=Why Do I Love You So?
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41913
+#	82184
+#	121622
+#	153863
+#	204776
+#	232458
+#
+# Disc length: 3880 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=560f2607
+DTITLE=Julian Canonball Adderley - Paris Jazz concert
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Jeannine
+TTITLE1=The Chant
+TTITLE2=Bohemia After Dark
+TTITLE3=The Work Song
+TTITLE4=Arriving Soon
+TTITLE5=Serenity
+TTITLE6=Sack O'Woe
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

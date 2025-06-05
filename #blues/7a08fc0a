@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	183
+# 	17760
+# 	33793
+# 	53850
+# 	67650
+# 	87233
+# 	99935
+# 	119855
+# 	137200
+# 	153990
+#
+# Disc length: 2302 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7a08fc0a
+DTITLE=Amos Garrett - Third Man In
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=Poor Fool Like Me
+TTITLE1=Baby Your Feets is Cold
+TTITLE2=But I Do
+TTITLE3=I Ain't Lying
+TTITLE4=What a Fool I Was
+TTITLE5=Got to Get You Off My Mind
+TTITLE6=Rainy Night in Georgia
+TTITLE7=Flying Home
+TTITLE8=Let Youself Go
+TTITLE9=Lost Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

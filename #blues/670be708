@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27760
+#	56040
+#	87017
+#	115897
+#	141495
+#	168285
+#	200345
+#
+# Disc length: 3049 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=670be708
+DTITLE=Solitudes - Songbirds at Sunrise
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=New England Spring
+TTITLE1=Northern Mist
+TTITLE2=Southern Symphony
+TTITLE3=Coastal Horizons
+TTITLE4=Prairie Glory
+TTITLE5=Dawn in the Valley
+TTITLE6=Desert Sunrise
+TTITLE7=Pacific Inlet
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

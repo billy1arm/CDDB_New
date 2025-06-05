@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18150
+#	33300
+#	54580
+#	84130
+#	99630
+#	115480
+#	129000
+#	157200
+#	178950
+#	194325
+#	220800
+#
+# Disc length: 3354 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9d0d180c
+DTITLE=Big Joe Turner - Shake, Rattle and Roll
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Roll `Em Pete
+TTITLE1=Shake, Rattle and Roll
+TTITLE2=Hide and Go Seek
+TTITLE3=Stormy Monday Blues
+TTITLE4=When The Sun Goes Down
+TTITLE5=Ain`t Gonna Be Your Lowdown Dog
+TTITLE6=TV Mama
+TTITLE7=Flip Flop and Fly
+TTITLE8=Chicken and The Hawk
+TTITLE9=Morning Noon and Night
+TTITLE10=Honey Hush
+TTITLE11=How Long Blues
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

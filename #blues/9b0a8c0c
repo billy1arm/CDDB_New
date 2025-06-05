@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14496
+#	30710
+#	58509
+#	79181
+#	91312
+#	103733
+#	118442
+#	129856
+#	147495
+#	167357
+#	183133
+#
+# Disc length: 2702 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9b0a8c0c
+DTITLE=The California Honeydrops - Soul Tub!
+DYEAR=2008
+DGENRE=Blues
+TTITLE0=Miss Louise
+TTITLE1=Rain
+TTITLE2=Soul Tub
+TTITLE3=All You Got To Do
+TTITLE4=Bye Bye Baby, I'm Gone
+TTITLE5=Honeydrops Theme
+TTITLE6=In My Dreams
+TTITLE7=Squeezy Breezy
+TTITLE8=Help Me Now
+TTITLE9=All Night Long
+TTITLE10=Cry For Me
+TTITLE11=Soul Tub (Reprise)
+EXTD=YEAR: 2008 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

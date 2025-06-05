@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22955
+#	46108
+#	64880
+#	88355
+#	112130
+#	135905
+#	171455
+#	198670
+#	213980
+#	239985
+#
+# Disc length: 3472 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=a70d8e0b
+DTITLE=Protosynthesis - Jazz Classics Classical Jazz
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Con Alma (Gillespie)
+TTITLE1=In Your Own Sweet Way (Brubeck)
+TTITLE2=In a Mist (Beiderbecke)
+TTITLE3=Line for Lyons (Mulligan)
+TTITLE4=Blue in Green (Davis)
+TTITLE5=Pan Piper (G.Evans)
+TTITLE6=Django (Lewis)
+TTITLE7=Fontessa (Lewis)
+TTITLE8=Blue Rondo à la Turk (Brubeck)
+TTITLE9=Chelsea Bridge (Strayhorn)
+TTITLE10='Round Midnight (Monk/Williams/Hanighen)
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

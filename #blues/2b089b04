@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	63967
+#	78752
+#	146690
+#
+# Disc length: 2205 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2b089b04
+DTITLE=John Coltrane - Impressions
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=India
+TTITLE1=Up 'Gainst The Wall
+TTITLE2=Impressions
+TTITLE3=After The Rain
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

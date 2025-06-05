@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	20080
+#	42710
+#	59278
+#	75510
+#	90700
+#	104405
+#	121058
+#	140403
+#	158683
+#	173323
+#
+# Disc length: 2512 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8409ce0b
+DTITLE=Various Artist - I'd Love You To Want Me - Instrumental Songs Of Love
+DYEAR=1900
+DGENRE=
+TTITLE0=Let It BeAl Night Long (All Night)
+TTITLE1=Bridge Over Troubled Water
+TTITLE2=Fernando
+TTITLE3=Save The Last Dance For Me
+TTITLE4=I'd Love You To Want Me
+TTITLE5=Somewhere My Love (Dr. Zhivago)
+TTITLE6=Unchained Melody
+TTITLE7=Lonely Sheppard
+TTITLE8=Memories
+TTITLE9=Moonlight Shadow
+TTITLE10=Chariots Of Fire
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

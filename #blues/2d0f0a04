@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	116167
+#	159483
+#	242773
+#
+# Disc length: 3852 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2d0f0a04
+DTITLE=Górecki - Symphonie N°3 {Symphonie des chants plaintifs} - Canticum Graduum
+DYEAR=2004
+DGENRE=Contemporain
+TTITLE0=Symphonie N°3, Op.36 - I. Lento - sostenuto tranquillo ma cantabile  {1976 - Henryk Mikolaj Górecki]
+TTITLE1=Symphonie N°3, Op.36 - II. Lento e largo - tranquillissimo   (Alain Altinoglu, Sinfonia Varsovia)
+TTITLE2=Symphonie N°3, Op.36 - III. Lento - cantabile semplice
+TTITLE3=Canticum Graduum, Op.27  {1969 - Henryk Mikolaj Górecki, premier enregistrement mondial}
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

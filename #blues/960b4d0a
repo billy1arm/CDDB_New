@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40859
+#	112121
+#	133072
+#	148338
+#	157421
+#	175913
+#	185608
+#	192779
+#	202583
+#
+# Disc length: 2895 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=960b4d0a
+DTITLE=Various Artist - Berlioz, Massenet, Grétry, Vidal, Gounod  (Sir Thomas Beecham, Royal Philharmonic Orch}
+DYEAR=1992
+DGENRE=Classique
+TTITLE0=Hector Berlioz - Le Carnaval Romain, Op.9    {London 1936}
+TTITLE1=Hector Berlioz - Le Roi Lear, Op.4    {London 1947}
+TTITLE2=Jules Massenet - Le dernier sommeil de la Vierge    {London 1947}
+TTITLE3=André-Ernest-Modeste Grétry - Zémire et Azor (Ballet) - 1. Entrée des génies  {London 1956}
+TTITLE4=André-Ernest-Modeste Grétry - Zémire et Azor (Ballet) - 2. Passepied  (2ème Air de ballet)
+TTITLE5=André-Ernest-Modeste Grétry - Zémire et Azor (Ballet) - 3. Pantomine  (1er Air de ballet)
+TTITLE6=André-Ernest-Modeste Grétry - Zémire et Azor (Ballet) - 4. Entr' acte  (introduction to Act III)
+TTITLE7=André-Ernest-Modeste Grétry - Zémire et Azor (Ballet) - 5. All's ariette, 'Je suis encore tremblant'
+TTITLE8=Paul Vidal - Zino-Zina - Gavotte    {London 1957}
+TTITLE9=Charles Gounod - Roméo et Juliette - Le sommeil de Juliette    {London 1959}
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

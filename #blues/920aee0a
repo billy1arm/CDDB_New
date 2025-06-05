@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21420
+#	39302
+#	61265
+#	83085
+#	104160
+#	127362
+#	149565
+#	170042
+#	189760
+#
+# Disc length: 2800 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.4
+#
+DISCID=920aee0a
+DTITLE=The Blues Krewe - Six O'clock Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Dont' come knocking
+TTITLE1=bon temps Roule
+TTITLE2=Slip away
+TTITLE3=How long
+TTITLE4=Cerry pie
+TTITLE5=Six o'clock blues
+TTITLE6=what a wonderful world
+TTITLE7=Heartache and Loneliness
+TTITLE8=You're my everything
+TTITLE9=The willie dog
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

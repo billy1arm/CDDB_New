@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     23573
+#     37113
+#     59335
+#     81665
+#     94313
+#     116395
+#     150000
+#     165333
+#     189653
+#     210900
+#     227485
+# 
+# Disc length: 3220 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=890c920c
+DTITLE=Clarence "Gatemouth" Brown - Gate's on the Heat
+DYEAR=1900
+DGENRE=
+TTITLE0=Gate's on the Heat
+TTITLE1=Man and His Environment
+TTITLE2=Funky Mama
+TTITLE3=Please Mr. Nixon
+TTITLE4=St. Louis Blues
+TTITLE5=Jelly, Jelly (Jelly)
+TTITLE6=The Drifter
+TTITLE7=One Mint Julep
+TTITLE8=Dollar Got The Blues
+TTITLE9=River's Invitation
+TTITLE10=Never Ending Love For You
+TTITLE11=Louisiana Breakdown
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22880
+#	44712
+#	59520
+#	70827
+#	86607
+#	101162
+#	116042
+#	137692
+#	151697
+#
+# Disc length: 2160 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=85086e0a
+DTITLE=Big Bill Broonzy - Big Bill Broonzy
+DYEAR=1900
+DGENRE=
+TTITLE0=Ridin' on Down (Mule Ridin')
+TTITLE1=Feelin' Lowdown
+TTITLE2=Baby Please Don't Go
+TTITLE3=St. Louis Blues
+TTITLE4=In The Evening
+TTITLE5=Letter To My Baby
+TTITLE6=Do Right Blues
+TTITLE7=Backwater Blues (I Got Up One Mornin' Blues)
+TTITLE8=Guitar Shuffle
+TTITLE9=Sixteen Tons
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

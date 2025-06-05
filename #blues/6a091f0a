@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	21207
+#	38455
+#	55972
+#	76292
+#	94025
+#	113325
+#	133605
+#	150635
+#	162945
+#
+# Disc length: 2337 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a091f0a
+DTITLE=YANNI - Snowfall
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=01 After The Sunrise
+TTITLE1=02 In The Morning Light
+TTITLE2=03 Enchantment
+TTITLE3=04 True Nature
+TTITLE4=05 Turn Of The Tide
+TTITLE5=06 Only A Memory
+TTITLE6=07 Nostalgia
+TTITLE7=08 A Word In Private
+TTITLE8=09 One Man's Dream
+TTITLE9=10 Farewell
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

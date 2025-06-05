@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33055
+#	56735
+#	72003
+#	88497
+#	124383
+#	151706
+#	169909
+#	187569
+#	217520
+#	254286
+#	268964
+#
+# Disc length: 3827 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9d0ef10c
+DTITLE=Joseph Haydn - Quatuors à cordes Op.76, N° 2, 4, 6
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Quatuor à cordes Op.76  N°2 en ré mineur ''Les Quintes'' - I. Allegro
+TTITLE1=Quatuor à cordes Op.76  N°2 en ré mineur ''Les Quintes'' - II. Andante o più tosto allegretto
+TTITLE2=Quatuor à cordes Op.76  N°2 en ré mineur ''Les Quintes'' - III. Menuetto
+TTITLE3=Quatuor à cordes Op.76  N°2 en ré mineur ''Les Quintes'' - IV. Finale - Vivace assai
+TTITLE4=Quatuor à cordes Op.76  N°4 en si bémol majeur ''Lever de soleil'' - I. Allegro con spirito
+TTITLE5=Quatuor à cordes Op.76  N°4 en si bémol majeur ''Lever de soleil'' - II. Adagio
+TTITLE6=Quatuor à cordes Op.76  N°4 en si bémol majeur ''Lever de soleil'' - III. Menuet - Allegro
+TTITLE7=Quatuor à cordes Op.76  N°4 en si bémol majeur ''Lever de soleil'' - IV. Finale - Allegro ma non troppo
+TTITLE8=Quatuor à cordes Op.76  N°6 en mi bémol majeur - I. Allegtetto
+TTITLE9=Quatuor à cordes Op.76  N°6 en mi bémol majeur - II. Fantasia - Adagio
+TTITLE10=Quatuor à cordes Op.76  N°6 en mi bémol majeur - III. Menuetto - Alternativo
+TTITLE11=Quatuor à cordes Op.76  N°6 en mi bémol majeur - IV. Finale - Allegro spirituoso
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

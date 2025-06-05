@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#       150
+#       19895
+#       41795
+#       60095
+#
+# Disc length: 902 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jack 3.1.1
+#
+DISCID=29038404
+DTITLE=Erin Perry/Tribute to Janis Joplin
+DYEAR=2005
+DGENRE=R&B
+TTITLE0=Piece of my Heart
+TTITLE1=Me and Bobby McGee
+TTITLE2=Move Over
+TTITLE3=Mercedes Benz
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

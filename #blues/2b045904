@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19375
+#	42020
+#	61222
+#
+# Disc length: 1115 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=2b045904
+DTITLE=彩音 - KIZUNA～絆
+DYEAR=2004
+DGENRE=Anime
+TTITLE0=KIZUNA～絆
+TTITLE1=Fly away
+TTITLE2=KIZUNA～絆 (off vocal)
+TTITLE3=Fly away (off vocal)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

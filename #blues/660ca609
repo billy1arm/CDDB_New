@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31250
+#	63879
+#	96082
+#	113634
+#	136737
+#	162526
+#	195975
+#	226810
+#
+# Disc length: 3240 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=660ca609
+DTITLE=Spike Heatley - One for Clifford...and Another One for Tubby
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Hot Heiights
+TTITLE1=One for Clifford
+TTITLE2=When Sring Comes Around
+TTITLE3=(Meet) The Flintstones (Take 1)
+TTITLE4=Spike Island Special
+TTITLE5=Tubby
+TTITLE6=Song for my Children
+TTITLE7=The Ringer
+TTITLE8=(Meet) The Flintstones (Take2)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

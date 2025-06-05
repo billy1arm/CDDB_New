@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  24882
+#  48700
+#  66137
+#  91107
+#  111877
+#  136925
+#  160192
+#
+# Disc length: 2404 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.30
+#
+DISCID=5f096208
+DTITLE=Mesa Music Consort - Medicine Flutes
+DYEAR=1900
+DGENRE=
+TTITLE0=Invoking the Hawk's Spirit
+TTITLE1=Guardians of the Medicine Pipes
+TTITLE2=Grey Wolf on the Mesa
+TTITLE3=Medicine Flute Dance
+TTITLE4=Dreams of the Healing Rain
+TTITLE5=Ritual Flutes
+TTITLE6=Secrets of the Cicada's Melody
+TTITLE7=High Mountain Medicine
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

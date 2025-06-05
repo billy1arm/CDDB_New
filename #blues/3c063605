@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24150
+#	50811
+#	71000
+#	88696
+#
+# Disc length: 1592 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3c063605
+DTITLE=Rynsaardt - Rynsaardt
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Unturned Stone
+TTITLE1=Snakeman
+TTITLE2=Bush Dwellin' Man
+TTITLE3=10 Seconds
+TTITLE4=Cold Wind
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

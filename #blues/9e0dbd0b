@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33883
+#	59826
+#	87064
+#	97278
+#	130128
+#	139549
+#	175145
+#	200175
+#	222190
+#	233010
+#
+# Disc length: 3519 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=9e0dbd0b
+DTITLE=MORGAN FISHER - REFRESH
+DYEAR=1999
+DGENRE=New Age
+TTITLE0=MORGAN FISHER - Brightsong 1
+TTITLE1=MORGAN FISHER - Shinesound 1
+TTITLE2=MORGAN FISHER - Brightsong 2
+TTITLE3=MORGAN FISHER - Shinesound 2
+TTITLE4=MORGAN FISHER - Brightsong 3
+TTITLE5=MORGAN FISHER - Shinesound 3
+TTITLE6=MORGAN FISHER - Brightsong 4 
+TTITLE7=MORGAN FISHER - Shinesound 4
+TTITLE8=MORGAN FISHER - Brightsong 5 
+TTITLE9=MORGAN FISHER - Shinesound 5 
+TTITLE10=MORGAN FISHER - The Refresh Theme 
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

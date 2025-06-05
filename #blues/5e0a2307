@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51370
+#	94415
+#	111960
+#	137535
+#	160631
+#	177648
+#
+# Disc length: 2597 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5e0a2307
+DTITLE=Mozart - Symphonies N°39, N°16
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Symphonie N°39 en mi bémol majeur KV.543 - I. Adagio - Allegro [Jànos Ferencsik, Hungarian State Orch]
+TTITLE1=Symphonie N°39 en mi bémol majeur KV.543 - II. Andante con moto
+TTITLE2=Symphonie N°39 en mi bémol majeur KV.543 - III. Menuetto - Allegro
+TTITLE3=Symphonie N°39 en mi bémol majeur KV.543 - IV. Molto allegro
+TTITLE4=Symphonie N°16 en ut majeur KV.128 - I. Allegro maestoso [Mario Bernardi, CBS Vancouver Orchestra]
+TTITLE5=Symphonie N°16 en ut majeur KV.128 - II. Andante grazioso
+TTITLE6=Symphonie N°16 en ut majeur KV.128 - III. Allegro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

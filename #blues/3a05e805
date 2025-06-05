@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18320
+#	43858
+#	62836
+#	88636
+#
+# Disc length: 1514 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3a05e805
+DTITLE=Melvin Taylor and The Slack Band - Live In Groningen
+DYEAR=2006
+DGENRE=Blues
+TTITLE0=Coming Home Baby
+TTITLE1=Right Place Wrong Time
+TTITLE2=Blow Wind Blow
+TTITLE3=Oh Sadie
+TTITLE4=Cold Cold Feeling
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

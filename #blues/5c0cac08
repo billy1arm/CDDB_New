@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31107
+#	60929
+#	92393
+#	124987
+#	161032
+#	183496
+#	211665
+#
+# Disc length: 3246 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c0cac08
+DTITLE=Dan Gibson - Spring Awakening
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=The Majesty Of Sunrise
+TTITLE1=Peacefulness
+TTITLE2=Myriad Greens
+TTITLE3=Spring Awakening
+TTITLE4=Lark In The Morn - Blow Away The Morning Dew
+TTITLE5=Teeming With Life
+TTITLE6=Evening Calm
+TTITLE7=Northwood
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

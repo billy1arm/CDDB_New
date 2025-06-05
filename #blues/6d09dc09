@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20337
+#	45697
+#	69627
+#	95170
+#	112830
+#	134390
+#	153750
+#	174315
+#
+# Disc length: 2526 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d09dc09
+DTITLE=John Nilson - From The Sky
+DYEAR=1989
+DGENRE=New Age
+TTITLE0=Ports O' Call
+TTITLE1=From The Sky
+TTITLE2=Sea Whisper
+TTITLE3=Lightbound
+TTITLE4=Parkway
+TTITLE5=Lullaby
+TTITLE6=Medora Vision
+TTITLE7=The Garden
+TTITLE8=Water Babies
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

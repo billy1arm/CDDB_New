@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	17762
+#	36137
+#	69125
+#	107537
+#	129177
+#	152580
+#	175297
+#	192367
+#
+# Disc length: 2867 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=660b3109
+DTITLE=Lee Oskar - The Best of Lee Oskar
+DYEAR=1992
+DGENRE=Soul
+TTITLE0=The Promised Land
+TTITLE1=Sunshine Keri
+TTITLE2=San Francisco Bay
+TTITLE3=Before The Rain
+TTITLE4=More Than Words Can Say
+TTITLE5=Song For My Son
+TTITLE6=The Document
+TTITLE7=Feeling Happy
+TTITLE8=My Road
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

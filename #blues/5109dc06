@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36527
+#	70612
+#	101159
+#	125562
+#	167002
+#
+# Disc length: 2526 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5109dc06
+DTITLE=Hannover Philharmonic - Chuck Israels
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Nardis Explorations
+TTITLE1=Monkworks
+TTITLE2=Reflections on Shanandoah
+TTITLE3=Dark Tapestry
+TTITLE4=Lover Man
+TTITLE5=Great Stream Variations
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

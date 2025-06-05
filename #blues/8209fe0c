@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16864
+#	32254
+#	46100
+#	62079
+#	78046
+#	92813
+#	110673
+#	128256
+#	144630
+#	157838
+#	173241
+#
+# Disc length: 2560 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8209fe0c
+DTITLE=Juanes - Un Dia Normal
+DYEAR=2002
+DGENRE=Salsa
+TTITLE0=A Dios le Pido
+TTITLE1=Es por Ti
+TTITLE2=Un Dia Normal
+TTITLE3=La Paga
+TTITLE4=La Unica
+TTITLE5=Luna
+TTITLE6=Dia Lejano
+TTITLE7=Mala Gente
+TTITLE8=Fotografia
+TTITLE9=Desde Que Despierto
+TTITLE10=La Historia de Juan
+TTITLE11=La Noche
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

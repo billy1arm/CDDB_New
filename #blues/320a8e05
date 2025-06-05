@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48795
+#	99970
+#	137260
+#	170015
+#
+# Disc length: 2704 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=320a8e05
+DTITLE=Blue Note - One Night With Blue Note, vol 1
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=Canteloupe Island
+TTITLE1=Recorda Me
+TTITLE2=Little B's Poem
+TTITLE3=Bouquet
+TTITLE4=Hat and Beard
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

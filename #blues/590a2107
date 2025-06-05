@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33199
+#	59656
+#	87048
+#	110031
+#	140077
+#	168010
+#
+# Disc length: 2595 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=590a2107
+DTITLE=Carlos Denia and Uli Glaszmann - Ten Strings For Bill Evans
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Turn Out The Stars
+TTITLE1=Very Early
+TTITLE2=Re-person I Knew
+TTITLE3=Show Type Tune
+TTITLE4=Time Remembered
+TTITLE5=Comrade Conrad
+TTITLE6=Interplay
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

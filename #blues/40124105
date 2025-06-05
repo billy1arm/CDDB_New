@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	91825
+#	136460
+#	182887
+#	205155
+#
+# Disc length: 4675 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=40124105
+DTITLE=マーラー:交響曲第２番ハ短調[復活] - ズービン・メータ/イスラエル・フィル
+DYEAR=1988
+DGENRE=Classical
+TTITLE0=第１楽章:アレグロ・マエストーノ
+TTITLE1=第２楽章:アンダーテ・モデラート
+TTITLE2=第３楽章:おだやかに流れる動きで
+TTITLE3=第４楽章:[原光]きわめて荘厳にしかし簡潔に
+TTITLE4=第５楽章:スケルツォのテンポで
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

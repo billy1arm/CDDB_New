@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18727
+#	40295
+#	60800
+#	81050
+#	98620
+#	114752
+#	140745
+#	162540
+#	182655
+#	203520
+#
+# Disc length: 2956 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=850b8a0b
+DTITLE=Cantor Yossele Rosenblatt - Sings a Synagogue Service
+DYEAR=1995
+DGENRE=Cantorial
+TTITLE0=Lishmoah El Horinah
+TTITLE1=Misratze Berachamim
+TTITLE2=L'Kel Orech Din
+TTITLE3=Hinneni Heoni
+TTITLE4=Melech Elyon
+TTITLE5=K'vakoras
+TTITLE6=Hayom Horas Olam
+TTITLE7=Kol Nidre
+TTITLE8=Al Chet
+TTITLE9=Elokay Ad Schelo Notzarti
+TTITLE10=Yaale Tachanunainu
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19026
+#	50636
+#	77203
+#	103437
+#	125429
+#	150120
+#	174890
+#
+# Disc length: 2810 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a0af808
+DTITLE=XMACHINA - Di cose di noi
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Favola d'Ottobre
+TTITLE1=Di Cose di Noi
+TTITLE2=I Conti del Blu
+TTITLE3=Lettere
+TTITLE4=Caionno
+TTITLE5=Aria In
+TTITLE6=Non per Amore
+TTITLE7=Il Candelabro
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

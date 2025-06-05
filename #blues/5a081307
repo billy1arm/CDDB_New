@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18054
+#	37135
+#	62911
+#	84122
+#	111445
+#	126592
+#
+# Disc length: 2069 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a081307
+DTITLE=Stuff Smith - Black Violin
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=01-Ain't she sweet
+TTITLE1=02-April in Paris
+TTITLE2=03-Sweet Lorraine
+TTITLE3=04-One o' clock jump
+TTITLE4=05-Cherokee
+TTITLE5=06-Yesterdays
+TTITLE6=07-What is this thing called love
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

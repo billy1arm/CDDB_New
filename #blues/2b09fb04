@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51652
+#	85567
+#	152853
+#
+# Disc length: 2557 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=2b09fb04
+DTITLE=EST and Pat Metheny - Live Jazz Baltica Salzau CD1
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=01-Definition of a Dog
+TTITLE1=02-Pavane
+TTITLE2=03-Dodge the Dodo
+TTITLE3=04-Round Midnight
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

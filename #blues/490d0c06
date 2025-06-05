@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	40172
+#	60427
+#	90180
+#	141465
+#	175457
+#
+# Disc length: 3342 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=490d0c06
+DTITLE=Ray Lema and Joachim Kuhn - Euro African Suite
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Genevieve
+TTITLE1=Schade
+TTITLE2=Sindani
+TTITLE3=Back to the Islands
+TTITLE4=Marche a l'Aube
+TTITLE5=Euro African Suite
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

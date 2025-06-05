@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12835
+#     38617
+#     55877
+#     68057
+#     78852
+#     99960
+#     122572
+#     143020
+#     163857
+# 
+# Disc length: 2381 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=72094b0a
+DTITLE=Jimmy Reed - Big Boss Man
+DYEAR=1900
+DGENRE=
+TTITLE0=Big Boss Man
+TTITLE1=Big Legged Woman
+TTITLE2=Hi Yellow Good Lovin'
+TTITLE3=Bright Lights, Big City
+TTITLE4=Baby What You Want Me To Do
+TTITLE5=I Got The World In A Jug
+TTITLE6=We Got To Stick Together
+TTITLE7=Milking The Cow
+TTITLE8=Big Boss Man (High Energy Version)
+TTITLE9=Funky Funky Soul
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

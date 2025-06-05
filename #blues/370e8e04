@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	69740
+#	139729
+#	210447
+#
+# Disc length: 3728 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=370e8e04
+DTITLE=Vari - Armonie dei Sogni
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Elemento Acqua - LA SERENITA'
+TTITLE1=Elemento Fuoco - L'ENERGIA
+TTITLE2=Elemento Terra - LA FORZA
+TTITLE3=Elemento Aria - LA SPIRITUALITA'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

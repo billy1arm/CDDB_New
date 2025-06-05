@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	59845
+#	92308
+#	137533
+#
+# Disc length: 2391 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.02
+#
+DISCID=2e095504
+DTITLE=Jimmy Reed and Johnny Winter - Live at Liberty Hall, Houston, TX, 1972
+DYEAR=1972
+DGENRE=Blues
+TTITLE0=Big Boss Man
+TTITLE1=Stop Light
+TTITLE2=Down the Road I Go
+TTITLE3=Bright Lights Big City
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

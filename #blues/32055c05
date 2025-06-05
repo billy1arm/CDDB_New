@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21218
+#	41033
+#	61585
+#	84390
+#
+# Disc length: 1374 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CD2WAV32(JP) R3.22
+#
+DISCID=32055c05
+DTITLE=岩城由奈 - Dear
+DYEAR=2003
+DGENRE=JPop
+TTITLE0=瞳の先
+TTITLE1=指をつないで
+TTITLE2=扉
+TTITLE3=月笑
+TTITLE4=Dear
+EXTD=
+EXTT0=曲:かっちん 詞:都築真紀
+EXTT1=曲:h・s・m 詞:都築真紀
+EXTT2=曲:佐野広明 詞:都築真紀+潮原由香
+EXTT3=曲:佐野広明 詞:都築真紀
+EXTT4=曲:Mine 詞:都築真紀
+PLAYORDER=

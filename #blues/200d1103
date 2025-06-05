@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	110384
+#	221379
+#
+# Disc length: 3347 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=200d1103
+DTITLE=Sounds of Nature - Oceans of Tranquility CD2
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=The Tranquil Sea
+TTITLE1=Ocean Rhythms
+TTITLE2=Pachelbel's Canon
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

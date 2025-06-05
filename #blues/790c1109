@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28552
+#	56434
+#	81905
+#	99773
+#	126416
+#	154385
+#	190920
+#	208350
+#
+# Disc length: 3091 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=790c1109
+DTITLE=Various Artist - From Song to Jazz 2013
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Folk Tassignon - Melanie
+TTITLE1=Meike Goosmann - One, Two, Forty
+TTITLE2=Jonathan Bratoeff - Both Bridges
+TTITLE3=Winterschladen Lüdemann - Beautiful Flowers
+TTITLE4=Marie Séférian Quartet - Dans La Rue
+TTITLE5=Martin Ehlers Trio - So Quiet
+TTITLE6=Jazzindeed w/ Michael Schiefel - Nightbus
+TTITLE7=Deep Strings - November Rain
+TTITLE8=Klaus Spencker - December
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

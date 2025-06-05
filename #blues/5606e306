@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26432
+#	55922
+#	74906
+#	96512
+#	114530
+#
+# Disc length: 1765 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=5606e306
+DTITLE=Jess Redmon Band - Blues Deluxe
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=Hiding Place
+TTITLE1=Texas Flood
+TTITLE2=Reelin' and Rockin'
+TTITLE3=Walk on a Blue Moon
+TTITLE4=Lie to Me
+TTITLE5=I'm a Ram
+EXTD=YEAR: 2004 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

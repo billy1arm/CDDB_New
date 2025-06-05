@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14618
+#	26427
+#	44718
+#	56696
+#
+# Disc length: 974 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=3f03cc05
+DTITLE=Asylum Street Spankers - Hot Lunch (the mysterious promo sampler)
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Cakewalk
+TTITLE1=UFO Attack
+TTITLE2=Trippin' Over You
+TTITLE3=New Jazz Fiddle
+TTITLE4=Asylum St. Blues
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

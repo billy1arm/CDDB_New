@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11511
+#	24488
+#	40654
+#	55071
+#	69810
+#	88288
+#	99757
+#	111746
+#	124798
+#	139315
+#	152916
+#
+# Disc length: 2266 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9a08d80c
+DTITLE=Red Hot Dancers - CAJUN SWAMP
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=I CAN'T FIND LOVE - Rosie Ledet
+TTITLE1=OLD FASHIONED TWO STEP - Wayne Toups
+TTITLE2=JALAPENO LENA - Rockin' Sydney
+TTITLE3=WALKING IN HER SLEEP - Rockin' Sydney
+TTITLE4=LA DANSE DE LIMONADE - Steve Riley and Mamou Playboys
+TTITLE5=ENTERRE MOI PAS;Steve Riley and Mamou Playboys 
+TTITLE6=LACHE PAS MA MAIN - Jambalaya Cajun Band
+TTITLE7=J'AIMERAIS AVOIR CETTE DANSE - Jambalaya Cajun Band
+TTITLE8=ANN CAYANNE - Creole Zydeco Farmers
+TTITLE9=NONC E-ZEBB - Rockin' Sydney
+TTITLE10=WHAT AM I LIVING FOR - Warren Storm
+TTITLE11=I KNOW WHAT I WANT - Rosie Ledet
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

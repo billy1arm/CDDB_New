@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	65540
+#	109429
+#	158017
+#	213279
+#
+# Disc length: 4035 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,33,916
+#
+DISCID=410fc105
+DTITLE=Various Artist - Divine Delivery
+DYEAR=2007
+DGENRE=New Age
+TTITLE0=Angel Baby
+TTITLE1=The River Mystic
+TTITLE2=Pillar of Light
+TTITLE3=Riding the Waves
+TTITLE4=Divine Affirmations
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

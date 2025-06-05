@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	22237
+#	43600
+#	66415
+#	82320
+#	104295
+#	125945
+#	143907
+#
+# Disc length: 2182 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7e088408
+DTITLE=Gilberto Santa Rosa and his Orchestra - Keeping Cool!
+DYEAR=1987
+DGENRE=Salsa
+TTITLE0=Ne me la Llames
+TTITLE1=Toda la Noche Oliendo a Ti
+TTITLE2=Nunca Mas
+TTITLE3=Enamorado y Feliz
+TTITLE4=Adios
+TTITLE5=Amor Ciego
+TTITLE6=Me Gustas
+TTITLE7=Cancion con Todos
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	21075
+#	35575
+#	54490
+#	67215
+#	86992
+#	104717
+#	125835
+#	141425
+#	156255
+#
+# Disc length: 2251 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=9d08c90a
+DTITLE=Elvin Bishop - Wet Willie - Elvin Bishop/Wet Willie
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Fooled Around And Fell In Love
+TTITLE1=Travelin' Shoes
+TTITLE2=Struttin' My Stuff
+TTITLE3=Sure Feels Good
+TTITLE4=Spend Some Time
+TTITLE5=Keep On Smilin'
+TTITLE6=Leona
+TTITLE7=Country Side Of Life
+TTITLE8=Everything That'cha Do (Will Come Back To You)
+TTITLE9=Dixie Rock
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

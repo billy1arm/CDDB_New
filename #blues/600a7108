@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28430
+#	53993
+#	76883
+#	102558
+#	122413
+#	152403
+#	178605
+#
+# Disc length: 2675 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=600a7108
+DTITLE=Red Holloway - Red Holloway and Company
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=But Not For Me
+TTITLE1=Caravan
+TTITLE2=Passion Flower
+TTITLE3=Blues For C. J.
+TTITLE4=Well You Needn't
+TTITLE5=What's New
+TTITLE6=Summertime
+TTITLE7=Toyko Express
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

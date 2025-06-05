@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	50335
+#	91555
+#	110497
+#	130270
+#
+# Disc length: 2936 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=350b7605
+DTITLE=Tete Montoliu Trio - Tete a Tete
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=What's new
+TTITLE1=We'll be together again
+TTITLE2=Scandia skies
+TTITLE3=Lush life
+TTITLE4=Catalan suite
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

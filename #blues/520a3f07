@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16327
+#	52830
+#	80822
+#	101647
+#	121395
+#	156352
+#
+# Disc length: 2625 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=520a3f07
+DTITLE=Adam Makowicz and George Mraz - Together Wherever We Go
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=This Can't be Love
+TTITLE1=Yesterdays
+TTITLE2=Confirmation
+TTITLE3=Lover Come Back to Me
+TTITLE4=Cherokee
+TTITLE5=If
+TTITLE6=Together Where Ever We Go
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

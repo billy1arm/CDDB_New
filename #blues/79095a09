@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14870
+#	39142
+#	63315
+#	81855
+#	104067
+#	116975
+#	144055
+#	160485
+#
+# Disc length: 2396 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=79095a09
+DTITLE=石川鉄男 - I.Q REMIX+ Rack One's Brains
+DYEAR=2000
+DGENRE=Soundtrack
+TTITLE0=Rack One's Brains
+TTITLE1=awakening
+TTITLE2=hyposis
+TTITLE3=illusion
+TTITLE4=memory
+TTITLE5=chaos
+TTITLE6=rebirth
+TTITLE7=delete
+TTITLE8=revolution
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

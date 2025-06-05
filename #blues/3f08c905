@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  23910
+#  65365
+#  86135
+#  124275
+#
+# Disc length: 2251 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=3f08c905
+DTITLE=Enclave - Artificial Hell
+DYEAR=1900
+DGENRE=
+TTITLE0=artificial hell
+TTITLE1=otherworld
+TTITLE2=human inc.
+TTITLE3=clones
+TTITLE4=one god
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

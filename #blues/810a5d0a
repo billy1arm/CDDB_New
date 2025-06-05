@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13765
+#	41370
+#	58265
+#	93912
+#	116255
+#	133855
+#	145160
+#	156485
+#	173480
+#
+# Disc length: 2655 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=810a5d0a
+DTITLE=Various Artist - Ultimate Jazz
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Misty
+TTITLE1=O.G.D.
+TTITLE2=Blue Skies
+TTITLE3=Love You Madly
+TTITLE4=Back Water Blues
+TTITLE5=Somebody Loves Me
+TTITLE6=I Loves You, Porgy
+TTITLE7=Parisian Thoroughfares
+TTITLE8=Lady Sings the Blues
+TTITLE9=Cherokee
+EXTD=Verve YEAR: 1997
+EXTT0=Sarah Vaughan
+EXTT1=Wes Montgomery
+EXTT2=Ella Fitzgerald
+EXTT3=Oscar Peterson
+EXTT4=Dinah Washington
+EXTT5=Lester Young
+EXTT6=Nina Simone
+EXTT7=Bud Powell
+EXTT8=Billie Holiday
+EXTT9=Clifford Brown
+PLAYORDER=

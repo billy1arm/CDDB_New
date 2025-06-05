@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16088
+#	33105
+#	71185
+#	86190
+#	107283
+#	128735
+#	144105
+#	162433
+#
+# Disc length: 2824 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=690b0609
+DTITLE=Miles Davis - Ballads and Blues
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=I Waited For You
+TTITLE1=Yesterday
+TTITLE2=One For Daddy
+TTITLE3=Moon Dreams
+TTITLE4=How Deep Is The Ocean
+TTITLE5=Weirdo
+TTITLE6=Enigma
+TTITLE7=It Never Entered My Mind
+TTITLE8=Autumn Leaves
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

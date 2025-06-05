@@ -1,0 +1,100 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	1697
+#	6592
+#	17262
+#	25307
+#	38890
+#	44485
+#	56150
+#	63212
+#	71470
+#	79242
+#	87230
+#	92367
+#	94807
+#	107760
+#	117192
+#	125162
+#	131887
+#	140317
+#	145582
+#	159882
+#	175095
+#	192842
+#	207235
+#	220025
+#	236672
+#	246865
+#	260052
+#
+# Disc length: 3774 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7e0ebc1c
+DTITLE=Techno Soft - Thunder Force ?
+DYEAR=1990
+DGENRE=Game
+TTITLE0=The wind blew all day long(オープニング)
+TTITLE1=Beyond the peace(ステージセレクト)
+TTITLE2=Back to the fire(ステージ1)
+TTITLE3=Gargoyle〜Stage clear(ボス1〜ステージクリア)
+TTITLE4=Venus fire(ステージ2)
+TTITLE5=Twin vulcan(ボス2)
+TTITLE6=The grubby dark blue(ステージ3)
+TTITLE7=King fish(ボス3)
+TTITLE8=Truth(ステージ4)
+TTITLE9=G lobster(ボス4)
+TTITLE10=Final take a chance(ステージ5)
+TTITLE11=Mobile fort(ボス5)
+TTITLE12=Game over 〜 continue(ゲームオーバー〜コンティニュー)
+TTITLE13=His behavior inspired us with distrust(ステージ6)
+TTITLE14=Hunger made them desperate(ステージ7)
+TTITLE15=Off luck(ボス7)
+TTITLE16=Final point(ステージ8)
+TTITLE17=Be menaced by Orn(ボス8)
+TTITLE18=A war without the end(エンディング)
+TTITLE19=Present(スタッフロール)
+TTITLE20=オルゴール 〜 Back to the fire
+TTITLE21=Venus Fire
+TTITLE22=The grubby dark blue
+TTITLE23=Truth
+TTITLE24=Final take a chance
+TTITLE25=Be menaced by Orn
+TTITLE26=A war without the end
+TTITLE27=Present 〜 オルゴール
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+PLAYORDER=

@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  183
+#  44898
+#  68708
+#  90098
+#  109193
+#
+# Disc length: 2141 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.31
+#
+DISCID=3b085b05
+DTITLE=John McLaughlin - Devotion
+DYEAR=1900
+DGENRE=
+TTITLE0=Marbles
+TTITLE1=Siren
+TTITLE2=Don't Let The Dragon Eat Your Mother
+TTITLE3=Purpose Of When
+TTITLE4=Dragon Song/Devotion
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

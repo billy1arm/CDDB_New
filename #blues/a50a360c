@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	17703
+#	32653
+#	47983
+#	64888
+#	85920
+#	100788
+#	119788
+#	133665
+#	150533
+#	164930
+#	181105
+#
+# Disc length: 2616 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a50a360c
+DTITLE=Miles Davis - Volume 1
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Tempus Fugit
+TTITLE1=Kelo
+TTITLE2=Enigma
+TTITLE3=Ray's Idea
+TTITLE4=How Deep Is the Ocean
+TTITLE5=C.T.A. (Alternate Master)
+TTITLE6=Dear Old Stockholm
+TTITLE7=Chance It
+TTITLE8=Yesterday's
+TTITLE9=Donna (Alternate Mater)
+TTITLE10=C.T.A.
+TTITLE11=Would'n You (Alternate Master)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	17672
+#	43827
+#	59765
+#	83787
+#	109262
+#	128982
+#	150117
+#	167677
+#	198012
+#
+# Disc length: 2875 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7a0b390a
+DTITLE=Jimmy Dawkins - blues and pain
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=Right To Quit You
+TTITLE1=No Pain
+TTITLE2=Blues And Soul
+TTITLE3=Lonely Guitar Man
+TTITLE4=Fool In Heah
+TTITLE5=Gitar Jive
+TTITLE6=Know Your Lover
+TTITLE7=Driftin' Sand
+TTITLE8=Down With The Blues
+TTITLE9=Who Done It
+EXTD=YEAR: 1994 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

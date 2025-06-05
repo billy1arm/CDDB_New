@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17255
+#     29460
+#     41390
+#     53830
+#     66680
+#     79258
+#     93860
+#     106078
+#     125418
+#     134385
+#     145528
+# 
+# Disc length: 2774 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=970ad40c
+DTITLE=Fleetwood Mac - The BBC-Sessions
+DYEAR=1900
+DGENRE=
+TTITLE0=Need Your Love So Bad
+TTITLE1=Shake Your Moneymaker
+TTITLE2=Stop Messin' Round
+TTITLE3=Long Grey Mare
+TTITLE4=Baby Please Set A Date
+TTITLE5=Blues With A Feeling
+TTITLE6=Tallahassie Lassie
+TTITLE7=Man Of The World
+TTITLE8=Jumping At Shadows
+TTITLE9=Linda
+TTITLE10=O Well
+TTITLE11=Medley: Rattlesnake Shake - Underway
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

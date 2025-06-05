@@ -1,0 +1,280 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	5235
+#	10321
+#	15407
+#	27837
+#	40266
+#	46112
+#	51958
+#	57805
+#	70200
+#	82595
+#	87858
+#	93120
+#	98383
+#	103889
+#	109396
+#	114902
+#	124845
+#	134617
+#	144375
+#	154104
+#	163833
+#	168912
+#	173612
+#	178312
+#	183012
+#	187712
+#	192412
+#	197112
+#	201812
+#	206512
+#	211212
+#	215912
+#	220612
+#	225312
+#	230012
+#	234712
+#	239412
+#	244112
+#	248812
+#	253512
+#	258212
+#	262912
+#	267612
+#	272312
+#	274762
+#	277212
+#	279662
+#	282112
+#	284562
+#	287012
+#	289462
+#	291912
+#	294362
+#	296812
+#	299262
+#	301712
+#	304162
+#	306612
+#	309062
+#	311512
+#	313962
+#	316412
+#	318862
+#	321312
+#	323762
+#	326212
+#	327162
+#	328112
+#	329062
+#	330012
+#	330962
+#	331912
+#	332862
+#	333812
+#	334762
+#	335712
+#	336662
+#	337612
+#	338562
+#	339512
+#	340462
+#	341412
+#	342362
+#	343312
+#	344262
+#	345212
+#	346162
+#
+# Disc length: 4626 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCDDAExtractor 5.1.0
+#
+DISCID=50121058
+DTITLE=OIA 05.005 - Booze n Boots
+DYEAR=1900
+DGENRE=
+TTITLE0=Track 01 Alligator Blues 1
+TTITLE1=Track 02 Alligator Blues 2
+TTITLE2=Track 03 Alligator Blues 3
+TTITLE3=Track 04 The Butler Shuffle 1
+TTITLE4=Track 05 The Butler Shuffle 2
+TTITLE5=Track 06 Bayou Baby 1
+TTITLE6=Track 07 Bayou Baby 2
+TTITLE7=Track 08 Bayou Baby 3
+TTITLE8=Track 09 Porch Boogie 1
+TTITLE9=Track 10 Porch Boogie 2
+TTITLE10=Track 11 Southern Town 1
+TTITLE11=Track 12 Southern Town 2
+TTITLE12=Track 13 Southern Town 3
+TTITLE13=Track 14 Moonshine 1
+TTITLE14=Track 15 Moonshine 2
+TTITLE15=Track 16 Moonshine 3
+TTITLE16=Track 17 Acoustic Swamp 1
+TTITLE17=Track 18 Acoustic Swamp 2
+TTITLE18=Track 19 Acoustic Swamp 3
+TTITLE19=Track 20 Bitter Sweet 1
+TTITLE20=Track 21 Bitter Sweet 2
+TTITLE21=Track 22 Jimbo's Dobro
+TTITLE22=Track 23 Alligator Blues 1 - 60
+TTITLE23=Track 24 Alligator Blues 2 - 60
+TTITLE24=Track 25 Alligator Blues 3 - 60
+TTITLE25=Track 26 The Butler Shuffle 1 - 60
+TTITLE26=Track 27 The Butler Shuffle 2 - 60
+TTITLE27=Track 28 Bayou Baby 1 - 60
+TTITLE28=Track 29 Bayou Baby 2 - 60
+TTITLE29=Track 30 Bayou Baby 3 - 60
+TTITLE30=Track 31 Porch Boogie 1 - 60
+TTITLE31=Track 32 Porch Boogie 2 - 60
+TTITLE32=Track 33 Southern Town 1 - 60
+TTITLE33=Track 34 Southern Town 2 - 60
+TTITLE34=Track 35 Southern Town 3 - 60
+TTITLE35=Track 36 Moonshine 1 - 60
+TTITLE36=Track 37 Moonshine 2 - 60
+TTITLE37=Track 38 Moonshine 3 - 60
+TTITLE38=Track 39 Acoustic Swamp 1 - 60
+TTITLE39=Track 40 Acoustic Swamp 2 - 60
+TTITLE40=Track 41 Acoustic Swamp 3 - 60
+TTITLE41=Track 42 Bitter Sweet 1 - 60
+TTITLE42=Track 43 Bitter Sweet 2 - 60
+TTITLE43=Track 44 Jimbo's Dobro - 60
+TTITLE44=Track 45 Alligator Blues 1 - 30
+TTITLE45=Track 46 Alligator Blues 2 - 30
+TTITLE46=Track 47 Alligator Blues 3 - 30
+TTITLE47=Track 48 The Butler Shuffle 1 - 30
+TTITLE48=Track 49 The Butler Shuffle 2 - 30
+TTITLE49=Track 50 Bayou Baby 1 - 30
+TTITLE50=Track 51 Bayou Baby 2 - 30
+TTITLE51=Track 52 Bayou Baby 3 - 30
+TTITLE52=Track 53 Porch Boogie 1 - 30
+TTITLE53=Track 54 Porch Boogie 2 - 30
+TTITLE54=Track 55 Southern Town 1 - 30
+TTITLE55=Track 56 Southern Town 2 - 30
+TTITLE56=Track 57 Southern Town 3 - 30
+TTITLE57=Track 58 Moonshine 1 - 30
+TTITLE58=Track 59 Moonshine 2 - 30
+TTITLE59=Track 60 Moonshine 3 - 30
+TTITLE60=Track 61 Acoustic Swamp 1 - 30
+TTITLE61=Track 62 Acoustic Swamp 2 - 30
+TTITLE62=Track 63 Acoustic Swamp 3 - 30
+TTITLE63=Track 64 Bitter Sweet 1 - 30
+TTITLE64=Track 65 Bitter Sweet 2 - 30
+TTITLE65=Track 66 Jimbo's Dobro - 30
+TTITLE66=Track 67 Alligator Blues 1 - 10
+TTITLE67=Track 68 Alligator Blues 2 - 10
+TTITLE68=Track 69 Alligator Blues 3 - 10
+TTITLE69=Track 70 The Butler Shuffle 1 - 10
+TTITLE70=Track 71 The Butler Shuffle 2 - 10
+TTITLE71=Track 72 Bayou Baby 1 - 10
+TTITLE72=Track 73 Bayou Baby 2 - 10
+TTITLE73=Track 74 Bayou Baby 3 - 10
+TTITLE74=Track 75 Porch Boogie 1 - 10
+TTITLE75=Track 76 Porch Boogie 2 - 10
+TTITLE76=Track 77 Southern Town 1 - 10
+TTITLE77=Track 78 Southern Town 2 - 10
+TTITLE78=Track 79 Southern Town 3 - 10
+TTITLE79=Track 80 Moonshine 1 - 10
+TTITLE80=Track 81 Moonshine 2 - 10
+TTITLE81=Track 82 Moonshine 3 - 10
+TTITLE82=Track 83 Acoustic Swamp 1 - 10
+TTITLE83=Track 84 Acoustic Swamp 2 - 10
+TTITLE84=Track 85 Acoustic Swamp 3 - 10
+TTITLE85=Track 86 Bitter Sweet 1 - 10
+TTITLE86=Track 87 Bitter Sweet 2 - 10
+TTITLE87=Track 88 Jimbo's Dobro - 10
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+PLAYORDER=

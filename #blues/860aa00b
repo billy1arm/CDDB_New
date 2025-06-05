@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12916
+#	30789
+#	47529
+#	64467
+#	89361
+#	113525
+#	131050
+#	153393
+#	171781
+#	184983
+#
+# Disc length: 2722 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=860aa00b
+DTITLE=Various Artist - Hot Brazilian Jazz
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=O Barquinho
+TTITLE1=Agua De Beber
+TTITLE2=Carinhoso
+TTITLE3=Corcovado
+TTITLE4=Meditacao
+TTITLE5=Manha De Carnaval
+TTITLE6=Samba De Verao
+TTITLE7=Triste
+TTITLE8=Samba De Una Nota So
+TTITLE9=Vento Do Canavial
+TTITLE10=Wave
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

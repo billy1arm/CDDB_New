@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	24972
+#	48327
+#	68905
+#	86260
+#	108590
+#	131052
+#	159702
+#
+# Disc length: 2350 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=62092c08
+DTITLE=Salsa - Willie Gonzalez - Sin Comparacion
+DYEAR=1989
+DGENRE=Salsa
+TTITLE0=No Podras Escapar De Mi
+TTITLE1=Seda
+TTITLE2=Ese Soy Yo
+TTITLE3=Soy Tu Amante
+TTITLE4=Amantes Cobardes
+TTITLE5=Te Quiero Estrenar
+TTITLE6=Vuelve
+TTITLE7=Come Se Queda
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

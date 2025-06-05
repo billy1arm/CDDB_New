@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	60384
+#	72025
+#	103570
+#	142204
+#
+# Disc length: 3785 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=420ec705
+DTITLE=Dorgon - Dorgon IIII
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=String Quartet
+TTITLE1=Graphic 1
+TTITLE2=Study 2
+TTITLE3=Hardocore
+TTITLE4=For Ja
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12351
+#	27080
+#	41454
+#	53278
+#	65291
+#	78397
+#	91949
+#	105222
+#	119018
+#	132284
+#	144206
+#
+# Disc length: 2089 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=8808270c
+DTITLE=Ella Fitzgerald and Louis Armstrong - Archive of Jazz
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=When the Saints go Marchin' in
+TTITLE1=Undeceided
+TTITLE2=West End Blues
+TTITLE3=A Tisket - A Tasket
+TTITLE4=Jeepers Creepers
+TTITLE5=Gotta Pebble in my Shoe
+TTITLE6=You'll have to Swing it (Mr. Paganini)
+TTITLE7=On the Sunny Side of the Street
+TTITLE8=Chew Chew Chew Chew (Your Bubble Gum)
+TTITLE9=Ain't Misbehavin'
+TTITLE10=I found my yellow Basket
+TTITLE11=Swing that Music
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

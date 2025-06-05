@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42107
+#	66424
+#	90938
+#	123397
+#	147697
+#	172089
+#	189450
+#	214797
+#
+# Disc length: 3201 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=850c7f09
+DTITLE=Ndio - Airback
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Big Bombay
+TTITLE1=Last Night Of The Prawns
+TTITLE2=Mr. Barn
+TTITLE3=Landscapes
+TTITLE4=Soap
+TTITLE5=Mind Interception
+TTITLE6=Stromboli
+TTITLE7=Bone
+TTITLE8=Wise Men
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

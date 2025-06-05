@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28566
+#	46200
+#	77957
+#	94568
+#	119786
+#	144373
+#	174372
+#
+# Disc length: 2542 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6109ec08
+DTITLE=Peter Herbolzheimer All Star Big Band - Jazz Gala Concert 79 - CD 1
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=The Age Of Prominence
+TTITLE1=Giant Steps
+TTITLE2=Sunflower Chant
+TTITLE3=Stormy Monday
+TTITLE4=The Mixolydian Highlander
+TTITLE5=The One step
+TTITLE6=Neosho
+TTITLE7=Bluesette
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

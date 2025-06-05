@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3973
+#	25180
+#	44845
+#	66578
+#	88253
+#	110978
+#	130705
+#	152610
+#	173878
+#	193352
+#
+# Disc length: 3080 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9f0c060b
+DTITLE=La PVC - Olvídate del resto
+DYEAR=2003
+DGENRE=Salsa
+TTITLE0=Prólogo (Y si te gusta...)
+TTITLE1=Dile a tus amigos
+TTITLE2=Hola
+TTITLE3=Medicamento
+TTITLE4=Dime qué vamos a hacer
+TTITLE5=Olídate del resto
+TTITLE6=¿Donde estará Isabel?
+TTITLE7=¿Cómo que no?
+TTITLE8=La timba
+TTITLE9=Ven con nosotros
+TTITLE10=Hidden track
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	66806
+#	109313
+#	154598
+#
+# Disc length: 2534 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2d09e404
+DTITLE=Miles Davis - The Lost Fleet [CD1]
+DYEAR=1969
+DGENRE=Jazz
+TTITLE0=Bitches Brew
+TTITLE1=Paraphernalia
+TTITLE2=Nefertiti
+TTITLE3=Masqualero
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

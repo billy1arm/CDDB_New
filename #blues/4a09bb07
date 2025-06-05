@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     48345
+#     75815
+#     93745
+#     116477
+#     135447
+#     162930
+# 
+# Disc length: 2493 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=4a09bb07
+DTITLE=Thr forever Blues band - Love Memories
+DYEAR=1900
+DGENRE=
+TTITLE0=Medley
+TTITLE1=For the good time
+TTITLE2=Break up to make up
+TTITLE3=You make me feel brand new
+TTITLE4=Me and Mrs Jones
+TTITLE5=The Messiah will come again
+TTITLE6=Love memories
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

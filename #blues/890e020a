@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31112
+#	78975
+#	92610
+#	110939
+#	161074
+#	179950
+#	227189
+#	248896
+#	260053
+#
+# Disc length: 3588 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=890e020a
+DTITLE=Beethoven - Piano Sonatas N°7, 21, 25 - Vol.3  { Idil Biret, piano }
+DYEAR=1994
+DGENRE=Piano
+TTITLE0=Piano Sonata N°7  in D major, Op.10 n°3 - I. Presto
+TTITLE1=Piano Sonata N°7  in D major, Op.10 n°3 - II. Largo e mesto
+TTITLE2=Piano Sonata N°7  in D major, Op.10 n°3 - III. Menuetto - Allegro
+TTITLE3=Piano Sonata N°7  in D major, Op.10 n°3 - IV. Rondo - Allegro
+TTITLE4=Piano Sonata N°21  in C major, Op.53  (Waldstein) - I. Allegro con brio
+TTITLE5=Piano Sonata N°21  in C major, Op.53  (Waldstein) - II. Introduzione - Adagio molto
+TTITLE6=Piano Sonata N°21  in C major, Op.53  (Waldstein) - III. Rondo - Allegretto moderato - Prestissimo
+TTITLE7=Piano Sonata N°25  in G major, Op.79 - I. Presto alla tedesca
+TTITLE8=Piano Sonata N°25  in G major, Op.79 - II. Andante
+TTITLE9=Piano Sonata N°25  in G major, Op.79 - III. Vivace
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

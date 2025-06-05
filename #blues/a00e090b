@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26165
+#	44643
+#	63871
+#	90219
+#	112904
+#	138434
+#	164924
+#	192729
+#	212172
+#	241422
+#
+# Disc length: 3595 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=a00e090b
+DTITLE=Rod Garfield Blues Band - The Hamster Tapes
+DYEAR=1990
+DGENRE=Blues
+TTITLE0=Walking Blues
+TTITLE1=Crossroads
+TTITLE2=Cell Block No. 9
+TTITLE3=World In A Jug
+TTITLE4=Walking The Dog
+TTITLE5=Black Cat Bone
+TTITLE6=She Caught The Katy
+TTITLE7=Cocaine
+TTITLE8=Sharp Dressed Man
+TTITLE9=Sweet Home Chicago
+TTITLE10=Red Dress Blues
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

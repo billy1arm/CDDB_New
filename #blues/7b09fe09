@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	165
+#	21881
+#	45415
+#	65699
+#	71155
+#	94261
+#	107357
+#	138500
+#	163836
+#
+# Disc length: 2560 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7b09fe09
+DTITLE=Native - Song Of A Way
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=All The People
+TTITLE1=MAX 80
+TTITLE2=Vivre Dans I'avenir
+TTITLE3=Yo Intro
+TTITLE4=You
+TTITLE5=5A.M., On A Street
+TTITLE6=Gernika
+TTITLE7=Between The Lights
+TTITLE8=Song Of A Way
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

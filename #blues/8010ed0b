@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17328
+#	26340
+#	42970
+#	54968
+#	71253
+#	83825
+#	98648
+#	114525
+#	218898
+#	253000
+#
+# Disc length: 4335 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8010ed0b
+DTITLE=Krzysztof Komeda - Komeda - Polish Jazz 3
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Get Out Of Town
+TTITLE1=Fourth
+TTITLE2=Moja Ballada
+TTITLE3=Stella By Starlight
+TTITLE4=Typish Jazz
+TTITLE5=Crazy Girl
+TTITLE6=Cherry
+TTITLE7=Ballad For Berent
+TTITLE8=Astignantic
+TTITLE9=Kattorna
+TTITLE10=Svantetic
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

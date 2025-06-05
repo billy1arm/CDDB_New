@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16619
+#
+# Disc length: 515 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=07020102
+DTITLE=Miro - Droit de Regarde
+DYEAR=2002
+DGENRE=Chanson
+TTITLE0=Droit de Regarde (radio edit)
+TTITLE1=Droit de Regarde (extended mix)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+PLAYORDER=

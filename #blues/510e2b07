@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40488
+#	71287
+#	105789
+#	133084
+#	182602
+#	228243
+#
+# Disc length: 3629 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=510e2b07
+DTITLE=Das Hammerklavier Trio - Now I Know Who Shot J.F.K
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Crazy eights (B.Netsvetaev)
+TTITLE1=The necessity of an escape (B.Netsvetaev)
+TTITLE2=Intermezzo (S.Prokofiev)
+TTITLE3=Bloodcount (B.Strayhorn)
+TTITLE4=The questions of today (B.Netsvetaev)
+TTITLE5=Some strangers in our galaxy (B.Netsvetaev)
+TTITLE6=Now I know who shot J.F.K. (B.Netsvetaev)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42662
+#	77446
+#	124388
+#	152250
+#	161067
+#	188144
+#
+# Disc length: 2750 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=510abc07
+DTITLE=Pierre Favre - Window Steps
+DYEAR=1996
+DGENRE=New Age
+TTITLE0=Snow
+TTITLE1=Cold nose
+TTITLE2=Lea
+TTITLE3=Girimella
+TTITLE4=En Passant
+TTITLE5=Aguilar
+TTITLE6=Passage
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

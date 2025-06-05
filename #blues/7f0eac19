@@ -1,0 +1,93 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  45680
+#  52227
+#  55310
+#  58615
+#  64072
+#  83087
+#  92825
+#  105617
+#  125322
+#  137097
+#  152870
+#  160167
+#  171220
+#  179210
+#  187680
+#  197177
+#  206535
+#  216665
+#  223347
+#  227020
+#  236372
+#  255522
+#  261022
+#  274357
+#
+# Disc length: 3758 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.14
+#
+DISCID=7f0eac19
+DTITLE=The Cambridge Singers directed by John Rutter - Cambridge Singers 
+DTITLE=A Cappella
+DYEAR=1900
+DGENRE=
+TTITLE0=Hymn to St. Cecilia
+TTITLE1=VIER LIEDER: Nun stehn die Rosen in Bluete
+TTITLE2=VIER LIEDER: Die Berge sind spitz
+TTITLE3=VIER LIEDER: Am Wildbach die Weiden
+TTITLE4=VIER LIEDER: Und gehst du ueber den Kirchhof
+TTITLE5=VIER GESAENGE: An die Sterne
+TTITLE6=VIER GESAENGE: Ungewisses Licht
+TTITLE7=VIER GESAENGE: Zuversicht
+TTITLE8=VIER GESAENGE: Talismane
+TTITLE9=Lay a garland
+TTITLE10=The splendour falls on castle walls
+TTITLE11=RAVEL: Nicolette
+TTITLE12=RAVEL: Trois beaux oiseaux du Paradis
+TTITLE13=RAVEL: Ronde
+TTITLE14=DEBUSSY: Dieu! qu'il la fait bon regarder
+TTITLE15=DEBUSSY: Quant j'ai ouy le tabourin
+TTITLE16=DEBUSSY: Yver, vous n'estes qu'un villain
+TTITLE17=POULENC: Margoton va t'a l'iau
+TTITLE18=POULENC: La belle se sied au pied de la tour
+TTITLE19=POULENC: Pilons l'orge
+TTITLE20=POULENC: Clic, clac, dansez sabots
+TTITLE21=POULENC: C'est la petit' fill' du prince
+TTITLE22=POULENC: La belle si nous etions
+TTITLE23=POULENC: Ah! mon beau laboureur
+TTITLE24=POULENC: Les tisserands
+EXTD=
+EXTT0=Composer: Benjamin Britten
+EXTT1=Vier Lieder aus dem Jungbrunnen\nComposer: Johannes Brahms
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=Vier doppelchoerige Gesaenge\nComposer: Robert Schumann
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=Composer: R. L. Pearsall
+EXTT10=Composer: Frederick Delius
+EXTT11=Trois Chansons\nComposer: Maurice Ravel
+EXTT12=
+EXTT13=
+EXTT14=Trois chansons de Chalres d'Orleans\nComposer: Claude Debussy
+EXTT15=
+EXTT16=
+EXTT17=Chansons francaises\nComposer: Francis Poulenc
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+PLAYORDER=

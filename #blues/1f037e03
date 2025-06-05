@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19225
+#	44402
+#
+# Disc length: 896 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1f037e03
+DTITLE=Color Filter - Blue EP
+DYEAR=1999
+DGENRE=Rock
+TTITLE0=Children Of Summer
+TTITLE1=Sleep In A Synchrotron
+TTITLE2=Lullaby
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

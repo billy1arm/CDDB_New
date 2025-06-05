@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24000
+#	40737
+#	63359
+#	77420
+#	95622
+#	113967
+#
+# Disc length: 1709 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4706ab07
+DTITLE=Tranfuzzion - Demo
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Lo mas facil es huir
+TTITLE1=No importa el que dirán
+TTITLE2=Estallar
+TTITLE3=Pienso
+TTITLE4=No es ironia es un sueño
+TTITLE5=Hay días
+TTITLE6=Quien me apagó la luz?
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

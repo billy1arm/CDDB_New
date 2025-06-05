@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  70292
+#  104270
+#  142840
+#  180835
+#  226170
+#
+# Disc length: 3990 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=410f9406
+DTITLE=New York Philharmonic: Mitropoulos - Tchaikovsky
+DYEAR=1900
+DGENRE=
+TTITLE0=Symphony No. 6: Adagio: Allegro non troppo
+TTITLE1=Allegro con grazia
+TTITLE2=Allegro molto vivace
+TTITLE3=Finale: Adagio lamentoso - Andante
+TTITLE4=Marche Slav, Op .31
+TTITLE5=Cappriccio Italien, Op. 45
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

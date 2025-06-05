@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12600
+#	27825
+#	40275
+#
+# Disc length: 736 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2b02de04
+DTITLE=帝国歌劇団 - ユーロ ゲキテイ
+DYEAR=2001
+DGENRE=Game
+TTITLE0=横山智佐（真宮寺さくら）/ユーロ　ゲキテイ
+TTITLE1=富沢美智恵（神崎すみれ）&西原久美子（アイリス）&渕崎ゆり子（李紅蘭）/ユーロ　恋の発車オーライ
+TTITLE2=田中公平/ユーロ　ゲキテイ（オリジナル・カラオケ）
+TTITLE3=田中公平/ユーロ　恋の発車オーライ（オリジナル・カラオケ）
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

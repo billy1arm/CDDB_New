@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	18437
+#	31297
+#	48626
+#	81207
+#	104264
+#	118228
+#	138185
+#
+# Disc length: 2033 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6507ef08
+DTITLE=Jane Rosenson and Kirsten Williams - White Light
+DYEAR=2002
+DGENRE=New Age
+TTITLE0=Red - Divertimento KV334 - Mozaet
+TTITLE1=Orange - Traumerei - Schumann
+TTITLE2=Yellow - Concerto in D for Lute and Strings - Vivaldi
+TTITLE3=Green - Concerto No 21 in C Major - Mozart
+TTITLE4=Blue - Clair de Lune - Debussy
+TTITLE5=Indigo - Dance of the Hours - Ponchielli
+TTITLE6=Violet - Ave Maria - Schubert
+TTITLE7=White - Air on a G String - Bach
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

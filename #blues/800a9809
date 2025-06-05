@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28972
+#	55660
+#	83872
+#	107705
+#	131645
+#	157251
+#	177421
+#	191909
+#
+# Disc length: 2714 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=800a9809
+DTITLE=Slowly Rolling Camera - All Things
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=The Fix
+TTITLE1=Delusive
+TTITLE2=Oblivion
+TTITLE3=Room With A View
+TTITLE4=Scintillation
+TTITLE5=High Praise
+TTITLE6=Unsetting Sun
+TTITLE7=The Brink
+TTITLE8=All Things
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

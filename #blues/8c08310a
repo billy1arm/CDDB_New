@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12865
+#     24855
+#     39998
+#     59095
+#     71173
+#     89555
+#     104810
+#     120668
+#     143838
+# 
+# Disc length: 2099 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8c08310a
+DTITLE=Johnnie Taylor - Johnnie Taylor's Greatest Hits Vol. 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Who's Making Love
+TTITLE1=Just Keep On Lovin' Me
+TTITLE2=I've Been Born Again
+TTITLE3=Stop Doggin' Me
+TTITLE4=Take Care Of Your Homework
+TTITLE5=Testify (I Wonna)
+TTITLE6=Try Me Tonight
+TTITLE7=Steal Away
+TTITLE8=I Believe In You (You Believe In Me)
+TTITLE9=Jody's Got Your Girl And Gone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

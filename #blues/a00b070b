@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     29532
+#     50195
+#     71340
+#     85800
+#     105850
+#     126407
+#     149877
+#     174405
+#     189427
+#     205830
+# 
+# Disc length: 2825 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=a00b070b
+DTITLE=Mark Ford With The Robben Ford Band - Mark Ford With The Robben Ford 
+DTITLE=Band
+DYEAR=1900
+DGENRE=
+TTITLE0=Mellow Down Easy
+TTITLE1=Ain t Got Dough
+TTITLE2=Heart breakin Blues
+TTITLE3=My Baby Didn t Come
+TTITLE4=Up And Out
+TTITLE5=On The Road Again
+TTITLE6=Up From The Streets
+TTITLE7=Fool For Love
+TTITLE8=Live The Life I Love
+TTITLE9=Hot Cha Cha
+TTITLE10=Is It Makebelieve?
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

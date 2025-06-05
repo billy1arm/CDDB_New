@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34713
+#	79338
+#	115534
+#	152533
+#	175637
+#	211292
+#	237647
+#
+# Disc length: 3777 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b0ebf08
+DTITLE=Conrad Hervig - Brian Lynch - Que viva Coltrane
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Lonnie's Lament
+TTITLE1=Miles Mode
+TTITLE2=Wise One
+TTITLE3=Countdown
+TTITLE4=Central Park West
+TTITLE5=Grand Central
+TTITLE6=Straight Street
+TTITLE7=Locomotion
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

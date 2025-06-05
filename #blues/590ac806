@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	41555
+#	74855
+#	84455
+#	112430
+#	153605
+#
+# Disc length: 2762 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=590ac806
+DTITLE=Vielharmonie and RBT String Orchestra - Round Midnight
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Gustavs Blues
+TTITLE1=Round Midnight
+TTITLE2=Danse de la Fée Drageé
+TTITLE3=Tango in perpetuum mobile
+TTITLE4=Birdland
+TTITLE5=Maiden Voyage
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

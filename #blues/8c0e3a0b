@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32610
+#	62740
+#	99322
+#	122260
+#	135280
+#	148787
+#	161092
+#	199382
+#	227005
+#	242475
+#
+# Disc length: 3644 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8c0e3a0b
+DTITLE=OLH Acoustic - Une Vie sans Lune
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Slava ? Oui, le slave va bien
+TTITLE1=Une vie sans lune (part 1)
+TTITLE2=Une vie sans lune (part 2)
+TTITLE3=Les Amants (part 1)
+TTITLE4=Les Amants (part 2)
+TTITLE5=Karine (part 1)
+TTITLE6=Karine (part 2)
+TTITLE7=Cette nuit-la, il faisait bleu ... (part 1)
+TTITLE8=Cette nuit-la, il faisait bleu ... (part 2)
+TTITLE9=L'amoureuse
+TTITLE10=Douce Nuit
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

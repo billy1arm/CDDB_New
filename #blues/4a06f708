@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14485
+#	24005
+#	31805
+#	46590
+#	75969
+#	93684
+#	110539
+#
+# Disc length: 1785 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4a06f708
+DTITLE=Various Artist - Clarino Vo.10 Saxophon
+DYEAR=2008
+DGENRE=Blasmusik
+TTITLE0=Saxofourte - Diepkloof (Isak Roux)
+TTITLE1=Saxofourte - A gift from Egypt (Mohamed Sad Basha)
+TTITLE2=Jean-Yves Fourmeau - Le Basque (Marin Marais , arr. J.Y. Fourmeau) 
+TTITLE3=Jean-Yves Fourmeau - Once upon a time (Edvard Grieg) 
+TTITLE4=Thorsten Skringer - Obviously you are not a golfer
+TTITLE5=Der 5te Mann - Eraserhead (Libor Sima)
+TTITLE6=Peter Weniger - The Bread is Funkin'
+TTITLE7=Peter Weniger - Prayer
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

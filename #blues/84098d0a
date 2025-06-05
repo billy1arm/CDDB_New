@@ -1,0 +1,46 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 182
+# 17850
+# 34512
+# 51600
+# 70537
+# 85462
+# 101325
+# 120450
+# 138432
+# 172087
+#
+# Disc length: 2447 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.3.333
+#
+DISCID=84098d0a
+DTITLE=Various Artist - Frammenti
+DYEAR=1900
+DGENRE=
+TTITLE0=Rossana Casale - Didin
+TTITLE1=Rossana Casale - Zaffiro Rosa
+TTITLE2=Rossana Casale - Alfreds
+TTITLE3=Rossana Casale - Somebody must know
+TTITLE4=Rossana Casale - L'incanto
+TTITLE5=Rossana Casale, Zucchero - Un piccolo aiuto
+TTITLE6=Rossana Casale - Aspettarti
+TTITLE7=Rossana Casale, Toquinho - Gente sospesa
+TTITLE8=Rossana Casale, Mike Francis - Let me in
+TTITLE9=Rossana Casale - A tu per tu
+EXTD=Rossana Casale
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

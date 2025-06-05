@@ -1,0 +1,43 @@
+# xmcd
+# 
+# Track frame offsets:
+#     150
+#     17985
+#     34107
+#     65972
+#     87500
+#     116192
+#     151455
+#     166880
+#     184167
+# 
+# Disc length: 2576
+# 
+# Revision: 159
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: fre:ac v1.0.17
+# 
+DISCID=7d0a0e09
+DTITLE=Pink Floyd - The Dark Side of the Moon
+DYEAR=1973
+DGENRE=Classic Rock
+TTITLE0=Speak to Me - Breathe
+TTITLE1=On the Run
+TTITLE2=Time
+TTITLE3=The Great Gig in the Sky
+TTITLE4=Money
+TTITLE5=Us and Them
+TTITLE6=Any Colour You Like
+TTITLE7=Brain Damage
+TTITLE8=Eclipse
+EXTD=Year: 1973\nLabel: Capitol\nUPC: 07777-46001-2
+EXTT0=(a: Mason - b: Waters, Gilmour, Wright)
+EXTT1=(Gilmour, Waters)
+EXTT2=(Mason, Waters, Wright, Gilmour)
+EXTT3=(Wright)
+EXTT4=(Waters)
+EXTT5=(Waters, Wright)
+EXTT6=(Gilmour, Mason, Wright)
+EXTT7=(Waters)
+EXTT8=(Waters)
+PLAYORDER=

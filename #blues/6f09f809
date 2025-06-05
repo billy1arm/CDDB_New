@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14262
+#	41727
+#	68265
+#	88990
+#	115782
+#	138532
+#	154505
+#	176710
+#
+# Disc length: 2554 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=6f09f809
+DTITLE=The Jazztet - Big City Sounds
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=The Cool One
+TTITLE1=Blues On Down
+TTITLE2=Hi-Fly
+TTITLE3=My Funny Valentine
+TTITLE4=Wonder Why
+TTITLE5=Con Alma
+TTITLE6=Lament
+TTITLE7=Bean Bag
+TTITLE8=Five Spot After Dark
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

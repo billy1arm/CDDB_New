@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12352
+#	25965
+#	42044
+#	58476
+#	71658
+#	86331
+#	100935
+#	115211
+#	129149
+#	141945
+#	173567
+#	188353
+#	203166
+#	214865
+#	229075
+#	241908
+#	279379
+#	295737
+#	308611
+#
+# Disc length: 4355 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=11110114
+DTITLE=Various Artist - Les Standards Du Jass
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=On when the saints go marching in (Louis Armstrong)
+TTITLE1=My man (Billite)
+TTITLE2=In the mood (Gloenn miller)
+TTITLE3=The entertainer (Scott joplin)
+TTITLE4=The sheik of arabia (Benny goodman)
+TTITLE5=Nuages(Diango reinhardt)
+TTITLE6=Lady be good (Ella fitzgerald)
+TTITLE7=Les oignons (Sidney bechet)
+TTITLE8=Sweet georgia brown ( Stephane grappelli)
+TTITLE9=Puttin on the ritz (Fred astaire)
+TTITLE10=Magic trio misty
+TTITLE11=Stormy weather (Charles mingus)
+TTITLE12=Deep puple ( Art tatum)
+TTITLE13=Moonglow (errol garner)
+TTITLE14=Be bop (Dizzy gillepsie)
+TTITLE15=Cotton club stomp (Duke ellington)
+TTITLE16=A foggy bay in Lodon twon (Lester young)
+TTITLE17=Always (Lionel hampton)
+TTITLE18=Jive at five (Count basie)
+TTITLE19=Donkey serenade ( Artie shaw)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

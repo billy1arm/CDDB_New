@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22625
+#	38575
+#	61800
+#	95475
+#	122462
+#	159425
+#	179000
+#	205225
+#	223350
+#	243215
+#	275367
+#
+# Disc length: 4130 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.63 - http://www.feurio.com
+#
+DISCID=9c10200c
+DTITLE=The Jackson Singers - Gospel Emotions
+DYEAR=1991
+DGENRE=blues
+TTITLE0=The Storm is Passing Over
+TTITLE1=This Little Light Of Mine
+TTITLE2=You've Got To Move
+TTITLE3=God Has Smiled On Me
+TTITLE4=Over My Head
+TTITLE5=Nobody Knows The Trouble I've Seen
+TTITLE6=Put Your Trust In Jesus
+TTITLE7=I've Decided To Make Jesus My Choice
+TTITLE8=Jesus Said If You Go
+TTITLE9=If It Had Not Been For The Lord
+TTITLE10=Pass Me Not
+TTITLE11=Precious Lord
+EXTD=bellaphon CDLR 44016 [DDD]
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

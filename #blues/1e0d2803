@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	99061
+#	148874
+#
+# Disc length: 3370 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1e0d2803
+DTITLE=John Coltrane - Last Newport concert, 1966
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=My Favourite Things
+TTITLE1=Welcome
+TTITLE2=Leo
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25425
+#	50164
+#	73760
+#	95070
+#	120337
+#	139975
+#	164587
+#	182412
+#
+# Disc length: 2732 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=840aaa09
+DTITLE=Nicolas Bearde - Nic Nacs
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Miracle Lover
+TTITLE1=Can We Pretend
+TTITLE2=Lady Love
+TTITLE3=Love of My Life
+TTITLE4=It All Goes Round
+TTITLE5=Never Let Me Go
+TTITLE6=Colorblind
+TTITLE7=Say You Love Me
+TTITLE8=Crossing the Line
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15201
+#	31524
+#	49444
+#	62919
+#	75360
+#
+# Disc length: 1200 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3804ae06
+DTITLE=Oscar Pettiford - Basically Duke
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Jack The Bear
+TTITLE1=Tamalpais
+TTITLE2=Swing Until The Girls Come Home
+TTITLE3=Mood Indigo
+TTITLE4=Chukles
+TTITLE5=Time On My Hands
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

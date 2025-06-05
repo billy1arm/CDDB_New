@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40925
+#	82741
+#	105951
+#	137057
+#	164732
+#	190989
+#	222435
+#
+# Disc length: 3600 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=680e0e08
+DTITLE=Lionel Hampton - Mostly Blues Reissue
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Bye Bye Blues
+TTITLE1=Someday My Prince Will Come
+TTITLE2=Take the 'A' Train
+TTITLE3=Blues for Jazz Beaux
+TTITLE4=Walkin' Uptown
+TTITLE5=Honeysuckle Rose
+TTITLE6=Mostly Blues
+TTITLE7=Limehouse Blues
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

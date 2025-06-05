@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23188
+#	60639
+#	97360
+#	128959
+#	167887
+#	192234
+#	224792
+#	238222
+#
+# Disc length: 3459 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8f0d8109
+DTITLE=Marimba Plus - Cinemania
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Aquamarine
+TTITLE1=Cinemania
+TTITLE2=Cinemania II
+TTITLE3=Memories
+TTITLE4=Nibelungen
+TTITLE5=Asia
+TTITLE6=Smile
+TTITLE7=Why
+TTITLE8=African Dreams
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

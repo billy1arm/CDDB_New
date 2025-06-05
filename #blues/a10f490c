@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33755
+#	55717
+#	80940
+#	97859
+#	123804
+#	155173
+#	178485
+#	200923
+#	225250
+#	258137
+#	269013
+#
+# Disc length: 3915 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a10f490c
+DTITLE=Joseph Haydn - Quatuors à cordes Op.64  N°1, 3 and Op.76  N°1
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Quatuor à cordes Op.64  N°1 en ut majeur - I. Allegro moderato
+TTITLE1=Quatuor à cordes Op.64  N°1 en ut majeur - II. Menuet - Allegro ma non troppo
+TTITLE2=Quatuor à cordes Op.64  N°1 en ut majeur - III. Allegro scherzando
+TTITLE3=Quatuor à cordes Op.64  N°1 en ut majeur - IV. Finale - Presto
+TTITLE4=Quatuor à cordes Op.64  N°3 en si bémol majeur - I. Vivace assai
+TTITLE5=Quatuor à cordes Op.64  N°3 en si bémol majeur - II. Adagio
+TTITLE6=Quatuor à cordes Op.64  N°3 en si bémol majeur - III. Menuet - Allegretto
+TTITLE7=Quatuor à cordes Op.64  N°3 en si bémol majeur - IV. Finale - Allegretto con spirito
+TTITLE8=Quatuor à cordes Op.76  N°1 en sol majeur - I. Allegro con spirito
+TTITLE9=Quatuor à cordes Op.76  N°1 en sol majeur - II. Adagio sostenuto
+TTITLE10=Quatuor à cordes Op.76  N°1 en sol majeur - III. Menuet - Presto
+TTITLE11=Quatuor à cordes Op.76  N°1 en sol majeur - IV. Finale - Allegro ma non troppo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	72636
+#	100291
+#	128071
+#
+# Disc length: 2703 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=360a8d04
+DTITLE=Albert Mangelsdorff - Live in Montreux
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Dear Mr. Palmer
+TTITLE1=Mood Azur
+TTITLE2=Stay on the Carpet
+TTITLE3=Rip off
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

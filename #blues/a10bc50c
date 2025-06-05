@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17415
+#	34409
+#	46923
+#	71303
+#	88984
+#	104420
+#	122646
+#	153642
+#	168669
+#	190706
+#	212751
+#
+# Disc length: 3015 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a10bc50c
+DTITLE=Christmas Break - Christmas Break
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=White Christmas
+TTITLE1=Christmastime is Here (from A Charlie Brown Christmas)
+TTITLE2=O Tannenbaum
+TTITLE3=Have yourself a Merry little Christmas
+TTITLE4=Santa Claus is comming to town
+TTITLE5=Donkey Carol
+TTITLE6=The Christmas Song
+TTITLE7=Christmas Walz
+TTITLE8=Away in a manager
+TTITLE9=Silent Night
+TTITLE10=Ave Maria
+TTITLE11=Farewell Jingle Bells
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

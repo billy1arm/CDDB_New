@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28084
+#	45035
+#	66956
+#	80772
+#	96815
+#	107735
+#	133809
+#
+# Disc length: 2103 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=65083508
+DTITLE=New Millennium Music - New Age Masters Mystery to Revelation
+DYEAR=2005
+DGENRE=New Age
+TTITLE0=Forbidden Fruit
+TTITLE1=Genesis
+TTITLE2=Harvest
+TTITLE3=Immanuel
+TTITLE4=Mystery
+TTITLE5=New Birth
+TTITLE6=Revelation
+TTITLE7=Wilderness
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

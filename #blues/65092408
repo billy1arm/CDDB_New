@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25944
+#	44265
+#	61085
+#	78610
+#	98013
+#	116096
+#	131133
+#
+# Disc length: 2342 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.78
+#
+DISCID=65092408
+DTITLE=Status Quo - Hello! (Deluxe Edition) CD1
+DYEAR=2015
+DGENRE=Rock
+TTITLE0=Roll Over Lay Down
+TTITLE1=Claudie
+TTITLE2=Reason For Living
+TTITLE3=Blue Eyed Lady
+TTITLE4=Caroline
+TTITLE5=Softer Ride
+TTITLE6=And It's Better Now
+TTITLE7=Forty-Five Hundred Times
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

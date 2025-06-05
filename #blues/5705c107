@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8111
+#	26822
+#	43102
+#	45530
+#	69722
+#	88028
+#
+# Disc length: 1475 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=5705c107
+DTITLE=HALFBY - half works
+DYEAR=2003
+DGENRE=House
+TTITLE0=86C52A
+TTITLE1=COOL HERB
+TTITLE2=$5000 DANCE
+TTITLE3=CLISPY CLISPY
+TTITLE4=NO CONECTION B-JR
+TTITLE5=ALCAPP DOOLEE
+TTITLE6=EASY BEATS
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

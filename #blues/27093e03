@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	74778
+#	127848
+#
+# Disc length: 2368 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=27093e03
+DTITLE=Dizzy Gillespie - The Dizzy Gillespie Big 7 At The Montreux Jazz Festival 1975
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Lover Come Back To Me (Romberg/Hammerstein II)
+TTITLE1=What's New? (Haggart/Burke)
+TTITLE2=Cherokee (Noble)
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

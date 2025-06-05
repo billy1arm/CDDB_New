@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	26705
+#	54522
+#	77787
+#	95110
+#	122102
+#	146892
+#
+# Disc length: 2217 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.30 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=6308a707
+DTITLE=George Howard - The Very Best of George Howard
+DYEAR=1900
+DGENRE=
+TTITLE0=Rocket Love
+TTITLE1=Asphalt Gardens
+TTITLE2=Dream Ride
+TTITLE3=Sweet Dreams
+TTITLE4=Love Will Find A Way
+TTITLE5=Quiet As It's Kept
+TTITLE6=Slow Walking
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

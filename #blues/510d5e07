@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38623
+#	69656
+#	109461
+#	150105
+#	186387
+#	229545
+#
+# Disc length: 3424 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.10
+#
+DISCID=510d5e07
+DTITLE=Paul Serrato and Co. - Origami
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Groove Move
+TTITLE1=Corona Carlos
+TTITLE2=Solar
+TTITLE3=Origami
+TTITLE4=Who Are You
+TTITLE5=Open 24 Hours
+TTITLE6=I'm Starting all Over
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

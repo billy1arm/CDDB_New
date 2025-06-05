@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18972
+#	38495
+#	57597
+#	75310
+#	95887
+#	115207
+#	133110
+#	153600
+#	173867
+#	192805
+#
+# Disc length: 2854 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=8b0b240b
+DTITLE=Kim gunmo - Kim Gunmo 3
+DYEAR=1900
+DGENRE=
+TTITLE0=아름다운 이별
+TTITLE1=드라마
+TTITLE2=이밤이 가면
+TTITLE3=너에게
+TTITLE4=너를 만난후로
+TTITLE5=잘못된 만남
+TTITLE6=멋있는 이별을 위해
+TTITLE7=겨울이 오면
+TTITLE8=넌 친구? 난 연인!
+TTITLE9=그대와 함께
+TTITLE10=겨울이 오면(bonus track)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

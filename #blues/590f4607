@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41217
+#	82654
+#	124910
+#	166951
+#	207317
+#	250277
+#
+# Disc length: 3912 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=590f4607
+DTITLE=aetherium - chakra gold
+DYEAR=2006
+DGENRE=New Age
+TTITLE0=01 - Base Chakra
+TTITLE1=02 - Sacral Chakra
+TTITLE2=03 - Solar Plexus Chakra
+TTITLE3=04 - Heart Chakra
+TTITLE4=05 - Throat Chakra
+TTITLE5=06 - Third Eye Chakra
+TTITLE6=07 - Crown Chakra
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

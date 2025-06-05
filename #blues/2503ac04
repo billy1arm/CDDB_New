@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17600
+#	35517
+#	52930
+#
+# Disc length: 942 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=2503ac04
+DTITLE=三重野瞳 - だぁ！だぁ！だぁ！
+DYEAR=2001
+DGENRE=Anime
+TTITLE0=ゆっくり
+TTITLE1=みつあみ
+TTITLE2=ゆっくり(inst)
+TTITLE3=みつあみ(inst)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

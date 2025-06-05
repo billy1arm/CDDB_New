@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	93155
+#	150736
+#	200565
+#	264743
+#	273209
+#	292554
+#
+# Disc length: 4359 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=57110507
+DTITLE=Thomas Mann - Joseph und seine Brüder CD04
+DYEAR=1993
+DGENRE=Hörbuch
+TTITLE0=Jaakob und Esau - Wer Jaakob war
+TTITLE1=Jaakob und Esau - Eliphas
+TTITLE2=Jaakob und Esau - Die Haupterhebung
+TTITLE3=Jaakob und Esau - Esau
+TTITLE4=Drittes Hauptstück: Die Geschichte Diana's - Das Mägdlein
+TTITLE5=Die Geschichte Diana's - Beset
+TTITLE6=Die Geschichte Diana's - Dei Zurechtweisung
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

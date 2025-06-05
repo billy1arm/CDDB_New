@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46539
+#	105287
+#	148019
+#	192300
+#	226459
+#	266894
+#
+# Disc length: 4294 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5910c407
+DTITLE=Chris Collins - Jazz From The Shamrock Shore
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Muirruhgahs, Mermaids and Mami Wata
+TTITLE1=Swan's Lullaby
+TTITLE2=Mulqueeny's
+TTITLE3=Strayaway Child Suite - Strayaway Child
+TTITLE4=Strayaway Child Suite - dreams and Legends
+TTITLE5=Strayaway Child Suite - Journey Home
+TTITLE6=Boffyflow, Spike (and Me)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

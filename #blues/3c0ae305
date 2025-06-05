@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	67500
+#	103925
+#	125012
+#	153537
+#
+# Disc length: 2789 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3c0ae305
+DTITLE=日野皓正 - Double Rainbow
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=Merry-Go-Round
+TTITLE1=Cherry Hill Angel
+TTITLE2=Yellow Jacket
+TTITLE3=Miwa Yama
+TTITLE4=Aboriginal
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

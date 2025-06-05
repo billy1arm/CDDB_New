@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49703
+#	69734
+#	106749
+#	123546
+#	171815
+#	186200
+#	204363
+#
+# Disc length: 3297 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6c0cdf08
+DTITLE=Various Artist - Bule Note Best Disc1
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Autumn Leaves/Cannonball Adderley
+TTITLE1=Cleopatra's Dream/Bud Powell
+TTITLE2=Recado Bossa Nova/Hank Mobley
+TTITLE3=Easy Living/Clifford Brown
+TTITLE4=Blue Train/Jhon Coltrane
+TTITLE5='Round Midnight/Thelonious Monk
+TTITLE6=Midnight Blue/Kenny Burrell
+TTITLE7=Moanin'/Art Blakey and The Jazzmessengers
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

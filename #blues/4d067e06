@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20349
+#	41895
+#	56086
+#	79982
+#	101131
+#
+# Disc length: 1664 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d067e06
+DTITLE=Michael Kain - Arthur's Legacy
+DYEAR=2004
+DGENRE=New Age
+TTITLE0=The Oveture - 1923 - A new dawn
+TTITLE1=Spring - Walking on water
+TTITLE2=Summer - Tulip Tree
+TTITLE3=Autumn - Sitting in circles
+TTITLE4=Winter - Arthur's Overcoat
+TTITLE5=Finale - A new beginning
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

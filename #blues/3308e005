@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53367
+#	84952
+#	115112
+#	141272
+#
+# Disc length: 2274 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=3308e005
+DTITLE=Steve Khan - Arrows
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=City suite (for Folon) (Part I: City monsters - Part II: Dream city)
+TTITLE1=Candles
+TTITLE2=Daily village
+TTITLE3=Some arrows
+TTITLE4=Calling
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

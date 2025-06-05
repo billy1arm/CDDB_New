@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2050
+#	42047
+#	91719
+#	153928
+#	193130
+#
+# Disc length: 3515 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=390db906
+DTITLE=David Liebman - Negative Space
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Introducing the Band
+TTITLE1=G.I.G.
+TTITLE2=Negative Space
+TTITLE3=Get Me Back to the Apple
+TTITLE4=Poinciana
+TTITLE5=Afro Blue
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

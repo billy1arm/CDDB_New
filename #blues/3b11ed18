@@ -1,0 +1,88 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	15080
+#	28061
+#	42188
+#	54586
+#	68593
+#	82936
+#	98159
+#	112465
+#	127213
+#	142780
+#	158403
+#	173474
+#	188825
+#	204409
+#	220222
+#	233421
+#	248489
+#	262808
+#	277945
+#	291419
+#	304269
+#	318776
+#	331229
+#
+# Disc length: 4592 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3b11ed18
+DTITLE=Paul Whiteman - Volume 2 - Makin' Whoopee - Dutton Vocalion
+DYEAR=1928
+DGENRE=Jazz
+TTITLE0=Makin' Whoopee (from 'Whoopee') (with Bing Crosby)
+TTITLE1=I'm Bringing a Red, Red Rose (from 'Whoopee')
+TTITLE2=Your Mother and Mine (Theme Song from 'Hollywood Revue of 1929') (with Bing Crosby, Al Rinker and Harry Barris aka The Rhythm Boys)
+TTITLE3=Orange Blossom Time (Theme Song from 'Hollywood Revue of 1929') (with Bing Crosby)
+TTITLE4=Side By Side (with Bing Crosby, Al Rinker and Harry Barris aka The Rhythm Boys)
+TTITLE5=You Brought a New Kind of Love to Me (from the film 'The Big Pond') (with Bing Crosby)
+TTITLE6=Livin' in the Sunlight, Lovin' in the Moonlight (from the film 'The Big Pond') (with Bing Crosby)
+TTITLE7=A Big Bouquet for You
+TTITLE8=In My Heart It's You
+TTITLE9=Ah! But Is It Love? (from the film 'Moonlight and Melody')
+TTITLE10=It's Only a Paper Moon (from the film 'Take a Chance')
+TTITLE11=Night Owl (from the film 'Take a Chance')
+TTITLE12=Sittin' on a Backyard Fence (from the film 'Footlight Parade')
+TTITLE13=Shanghai Lil (from the film 'Footlight Parade')
+TTITLE14=When I Grow Too Old to Dream (from the film 'The Night is Young')
+TTITLE15=The Night Is Young (from the film 'The Night is Young')
+TTITLE16=Au Revoir, l'Amour (Goodbye to Love) (from the film 'The Man from the Folies Bergere')
+TTITLE17=Singing a Happy Song (from the film 'The Man from the Folies Bergere')
+TTITLE18=I Get a Kick Out of You (from 'Anything Goes')
+TTITLE19=You're the Top (from 'Anything Goes')
+TTITLE20=All Through the Night (from 'Anything Goes')
+TTITLE21=Anything Goes (from 'Anything Goes')
+TTITLE22=Sugar Plum (from the film 'Thanks a Million')
+TTITLE23=Thanks a Million (from the film 'Thanks a Million')
+EXTD=YEAR: 1928
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+PLAYORDER=

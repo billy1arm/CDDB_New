@@ -1,0 +1,253 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2537
+#	6083
+#	8779
+#	12167
+#	14784
+#	16421
+#	20666
+#	23440
+#	24940
+#	28702
+#	31282
+#	34822
+#	37703
+#	41324
+#	45018
+#	47659
+#	50282
+#	52945
+#	59121
+#	63002
+#	66607
+#	69519
+#	72850
+#	74818
+#	78160
+#	81428
+#	90321
+#	94095
+#	98746
+#	105442
+#	110737
+#	121125
+#	126414
+#	129410
+#	131760
+#	134384
+#	137394
+#	140574
+#	143110
+#	152005
+#	159947
+#	162142
+#	165530
+#	170516
+#	173592
+#	180261
+#	182866
+#	186619
+#	190586
+#	197577
+#	207811
+#	212811
+#	215875
+#	219580
+#	222776
+#	228473
+#	232843
+#	245158
+#	249291
+#	251571
+#	256118
+#	259126
+#	262309
+#	265336
+#	268812
+#	275393
+#	277724
+#	279770
+#	282172
+#	284227
+#	289941
+#	292752
+#	298175
+#	299634
+#	302228
+#	305415
+#	309080
+#	310566
+#
+# Disc length: 4162 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7510404f
+DTITLE=Don mock - Artful Arpegios
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Gmaj7
+TTITLE1=Gmaj7
+TTITLE2=Gm7
+TTITLE3=Gm7
+TTITLE4=Cm7
+TTITLE5=G7
+TTITLE6=G7
+TTITLE7=Dm7b5
+TTITLE8=Dm7b5
+TTITLE9=Gm(maj7)
+TTITLE10=Gm(maj7)
+TTITLE11=Gmaj7#5
+TTITLE12=Gmaj7#5
+TTITLE13=Cmaj7#5
+TTITLE14=G°7
+TTITLE15=G°7
+TTITLE16=G
+TTITLE17=G
+TTITLE18=G
+TTITLE19=Gm
+TTITLE20=Gm
+TTITLE21=Gm
+TTITLE22=G+
+TTITLE23=G=
+TTITLE24=Cmaj7b5
+TTITLE25=Cmaj7b5
+TTITLE26=CMaj7 (I) against Cmaj7
+TTITLE27=Em7 (iii) against Cmaj7 - Cmaj9
+TTITLE28=Am7 (vi) against Cmaj7 - C6
+TTITLE29=Bm7 vs Cmaj75b - Cmaj6/9b5
+TTITLE30=Gbm7b5 vs Cmaj7b5 - Cmaj6b5
+TTITLE31=D and G triads over Cmaj7
+TTITLE32=Dm7 vs Dm7 - Dm7
+TTITLE33=Fmaj7(IV) vs Dm7 - Dm9
+TTITLE34=Am (vi) vs Dm7 - Dm11
+TTITLE35=Bm7b5 vs Dm7 - Dm6
+TTITLE36=Cmaj7 (I) vs Dm7 - Dm13
+TTITLE37=G7 (V) vs Dm7 - Dm6(add11)
+TTITLE38=Em7 (iii) vs Dm7 - Dm13
+TTITLE39=Dorian arpegios - 33 to 39 - over Dm7
+TTITLE40=Bm7b5 vs Bm7b5 - Bm7b5
+TTITLE41=Dm7 vs Bm7b5 - Bm7b5b9
+TTITLE42=G7 vs Bm7b5 - Bm13b5
+TTITLE43=B° vs Bm7b5 - Bm6b5
+TTITLE44=Fmaj7 over Bm7b5
+TTITLE45=G7 (V) vs G7 - G7
+TTITLE46=Bm7b5 (vii°) vs G7 - G9
+TTITLE47=Dm7 (ii)  vs G7 - G11
+TTITLE48=Fmaj7 (IV) vs G7 - G13
+TTITLE49=Gm7 and Am7 over G7
+TTITLE50=Ab° vs G7 - G7b9
+TTITLE51=G+ vs G7 - G7#5
+TTITLE52=A+ vs G7 - G9#11
+TTITLE53=Gm7 vs G7 - G7#9
+TTITLE54=Ebmaj7#5 vs G7 - G7b13
+TTITLE55=Fm7b5 vs G7 - G7b9#5
+TTITLE56=Abm(maj7) vs G7 - G7b13b9
+TTITLE57=Db7 vs G7 - G7b5b9
+TTITLE58=Cm(maj7) vs G7 - G11b13
+TTITLE59=Dbm7b5 vs G7 - G13b5
+TTITLE60=E vs G7 - G13b9
+TTITLE61=A vs G7 - G13b5
+TTITLE62=Db vs G7 - G7b5b9
+TTITLE63=Bb vs G7 - G7#9
+TTITLE64=Bi-tonal arpeggios - A-G7
+TTITLE65=Bi-tonal arpeggios - A-G7
+TTITLE66=Bi-tonal arpeggios - E-G7
+TTITLE67=Bi-tonal arpeggios - E-G7
+TTITLE68=Bi-tonal arpeggios - Db-G7
+TTITLE69=Bi-tonal arpeggios - Db-G7
+TTITLE70=Symetrical interval stacks - 4ths
+TTITLE71=Symetrical interval stacks - 4ths
+TTITLE72=Symetrical interval stacks - b5
+TTITLE73=Symetrical interval stacks - 5ths
+TTITLE74=Symetrical interval stacks - 5ths
+TTITLE75=Symetrical interval stacks - b6ths
+TTITLE76=Symetrical interval stacks - 6ths
+TTITLE77=Symetrical interval stacks - 6ths
+TTITLE78=Guitar tunes
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+PLAYORDER=

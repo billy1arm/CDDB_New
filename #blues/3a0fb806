@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	70137
+#	128410
+#	152612
+#	168842
+#	241000
+#
+# Disc length: 4026 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3a0fb806
+DTITLE=BBC Philharmonic - Bamert - Dohnányi Orchestral Music
+DYEAR=1997
+DGENRE=Orchestral
+TTITLE0=Symphony No.1 Op.9 -I- Allegro ma non troppo
+TTITLE1=Symphony No.1 Op.9 -II- Molto adagio
+TTITLE2=Symphony No.1 Op.9 -III- Scherzo: Presto
+TTITLE3=Symphony No.1 Op.9 -IV- Intermezzo: Andante poco moto
+TTITLE4=Symphony No.1 Op.9 -V- Finale: Introduzione: Molto sostenuto - Tema con variazioni: Allegro non troppo
+TTITLE5=American Rhapsody Op.47: Allegro
+EXTD=YEAR: 1997
+EXTT0=In D minor
+EXTT1=Gillian Callow - cor anglais -- John Bradbury - clarinet
+EXTT2=
+EXTT3=Janet Fisher - viola
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31395
+#	55929
+#	77414
+#	102328
+#	148503
+#	173294
+#	205422
+#	227534
+#	285506
+#	316894
+#
+# Disc length: 4596 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8611f20b
+DTITLE=Various Artist - Blue 'n' Groovy Vol.1
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Chili Peppers - Duke Pearson
+TTITLE1=On Children - Jack Wilson
+TTITLE2=Meat Wave - Stanley Turrentine
+TTITLE3=Dem Tambourines - Don Wilkerson
+TTITLE4=The Sidewinder - Lee Morgan
+TTITLE5=Cantaloupe Island - Herbie Hancock
+TTITLE6=Ping Pong - Art Blakey
+TTITLE7=True Blue - Tina Brooks
+TTITLE8=Jeannine - Donald Byrd
+TTITLE9=8/4 Beat - Bobby Hutcherson
+TTITLE10=Tom Thumb - Wayne Shorter
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

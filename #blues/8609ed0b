@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12782
+#     24255
+#     39035
+#     61205
+#     74850
+#     96570
+#     113979
+#     132437
+#     157522
+#     173734
+# 
+# Disc length: 2543 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8609ed0b
+DTITLE=Various Artist - Best of The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Leaving Blues
+TTITLE1=The Guy You Left Behind
+TTITLE2=Another Man Done Gone
+TTITLE3=99 Year Blues
+TTITLE4=Falling In Love
+TTITLE5=Road To Your Heart
+TTITLE6=Statesboro Blues
+TTITLE7=Take My Choice
+TTITLE8=My AK-47
+TTITLE9=Big Boss Man
+TTITLE10=Be Careful With A Fool
+EXTD=Relix's "Best Of The Blues" Featuring Johnny Winter\nhttp://www.relix.c
+EXTD=om/records/index.html\nURL: http://www.relix.com/records/index.html "Re
+EXTD=lix Records - Music for the Mind - The Best of the Grateful Dead and Ba
+EXTD=y Rock and the San Francisco Rock Scene"
+EXTT0=Johnny Winter
+EXTT1=Johnny Winter
+EXTT2=Savoy Brown
+EXTT3=Hot Tuna
+EXTT4=Johnny Winter
+EXTT5=Sandoz
+EXTT6=Kingfish
+EXTT7=Johnny Winter
+EXTT8=
+EXTT9=Kingfish
+EXTT10=Johnny Winter\n
+PLAYORDER=

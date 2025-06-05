@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13235
+#	29890
+#	43720
+#	61455
+#	77045
+#	94725
+#	106455
+#	123275
+#	138300
+#	154350
+#	166910
+#
+# Disc length: 2447 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a3098d0c
+DTITLE=Henry Mancini  - Uniquely Mancini
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Green Onions
+TTITLE1=Stairway to the stars
+TTITLE2=Night train
+TTITLE3=Lullaby of birdland
+TTITLE4=Chelsea bridge
+TTITLE5=C jam blues
+TTITLE6=Banzai pipeline
+TTITLE7=Rhapsody in blue
+TTITLE8=Cheers!
+TTITLE9=Lonesome
+TTITLE10=The hot canary
+TTITLE11=Moonlight serenade
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

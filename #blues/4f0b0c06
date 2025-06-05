@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11157
+#	27562
+#	53417
+#	149192
+#	166890
+#
+# Disc length: 2830 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=4f0b0c06
+DTITLE=Glen Velez - Handance
+DYEAR=1900
+DGENRE=Ethnic
+TTITLE0=Pandero
+TTITLE1=Handance
+TTITLE2=Sweet Season
+TTITLE3=In Transit
+TTITLE4=Juba
+TTITLE5=Bendir
+EXTD=ID3G: 48
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

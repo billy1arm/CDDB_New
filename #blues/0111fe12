@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  19195
+#  36822
+#  52470
+#  67307
+#  85522
+#  110590
+#  129447
+#  145390
+#  162982
+#  181127
+#  204300
+#  222437
+#  241642
+#  255427
+#  281257
+#  303005
+#  326082
+#
+# Disc length: 4608 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=0111fe12
+DTITLE=Various Artist - Smash Hits Volume 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Here Comes The Hotstepper
+TTITLE1=Turn the Best Around
+TTITLE2=Games People Play
+TTITLE3=I can see Clearly now
+TTITLE4=You Gotta Be
+TTITLE5=Prayer for the Dying
+TTITLE6=I Wanna be Down
+TTITLE7=Survival
+TTITLE8=Hey Now (Girls Just want to have fun)
+TTITLE9=I'll Stand by you
+TTITLE10=Shine
+TTITLE11=What's the Frequency, Kenneth
+TTITLE12=Hold my Hand
+TTITLE13=I'm Tore Down
+TTITLE14=Everyday
+TTITLE15=Think Twice
+TTITLE16=Said I Loved you...But I Lied
+TTITLE17=Here
+EXTD=
+EXTT0=Ini Kamoze
+EXTT1=Gloria Estefan
+EXTT2=Inner Circle
+EXTT3=Jimmy Cliff
+EXTT4=Des'ree
+EXTT5=Seal
+EXTT6=Brandy
+EXTT7=Madonna
+EXTT8=Cyndi Lauper
+EXTT9=Pretenders
+EXTT10=Collective Soul
+EXTT11=REM
+EXTT12=Hootie And the Blowfish
+EXTT13=Eric Clapton
+EXTT14=Phil Collins
+EXTT15=Celine Dion
+EXTT16=Michael Bolton
+EXTT17=Mariah Carey
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19700
+#	45065
+#	61010
+#	80425
+#	103410
+#	124492
+#	152825
+#	184742
+#	207125
+#
+# Disc length: 3142 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL1
+#
+DISCID=7b0c440a
+DTITLE=Chris Lyngedal - Blue Moments
+DYEAR=1900
+DGENRE=
+TTITLE0=Mercy
+TTITLE1=Baby I Love You
+TTITLE2=Your Mind Is On Vacation
+TTITLE3=Fools Paradise
+TTITLE4=I Got The Blues
+TTITLE5=Cool Fool
+TTITLE6=With You In Mind
+TTITLE7=Rock Me Baby
+TTITLE8=The Blues Don't Get Tired Of Me
+TTITLE9=Fly Away
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

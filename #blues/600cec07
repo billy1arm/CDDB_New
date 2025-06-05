@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30608
+#	71498
+#	110779
+#	144067
+#	179204
+#	237860
+#
+# Disc length: 3310 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=600cec07
+DTITLE=Sweet Georgia Brown - Live at Lincoln Center
+DYEAR=2005
+DGENRE=Blues
+TTITLE0=Intro
+TTITLE1=Georgia
+TTITLE2=Steam Roller
+TTITLE3=What's Going On
+TTITLE4=Let It Shine
+TTITLE5=Kansas City
+TTITLE6=Kansas City (continued)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

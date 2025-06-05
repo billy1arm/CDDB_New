@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20535
+#	51385
+#	70982
+#	92520
+#	112952
+#	135610
+#	150720
+#	174267
+#	193075
+#
+# Disc length: 2927 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=810b6d0a
+DTITLE=Tadeusz Nalepa - Flamenco i blues
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=Co jest co
+TTITLE1=Nie miec nic
+TTITLE2=Nie chce zyc
+TTITLE3=I co?
+TTITLE4=Wszystko ma swoj czas
+TTITLE5=List do nieba
+TTITLE6=Skad takie sny
+TTITLE7=Uroda to mgla
+TTITLE8=Tyrli, tyrli
+TTITLE9=Flameco i blues
+EXTD=YEAR: 1996 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

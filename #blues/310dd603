@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	74485
+#	141717
+#
+# Disc length: 3544 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=310dd603
+DTITLE=Dr. Ian Gawler - Meditation - A Complete Guide
+DYEAR=2007
+DGENRE=New Age
+TTITLE0=1. Introduction to Meditation
+TTITLE1=2. Deep Relaxation (PMR)
+TTITLE2=3. Mindfulness into Stillness
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

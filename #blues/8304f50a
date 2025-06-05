@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     225
+#     8872
+#     21442
+#     42240
+#     47197
+#     56742
+#     62100
+#     67440
+#     75797
+#     85025
+# 
+# Disc length: 1272 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8304f50a
+DTITLE=Pipe Organ Favorites - The Joy Of Christmas
+DYEAR=1900
+DGENRE=
+TTITLE0=Joy To The World
+TTITLE1=Chrismas Awake
+TTITLE2=Silent Night
+TTITLE3=Come All Ye Shepherds
+TTITLE4=Oh Thou Joyful
+TTITLE5=Oh Come All Ye Faithful
+TTITLE6=Come Little Children
+TTITLE7=From Heaven On High
+TTITLE8=Oh Little Town Of Behtlehem
+TTITLE9=The First Noel
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

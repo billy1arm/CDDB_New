@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	28513
+#	58508
+#	84490
+#	120108
+#	153088
+#	187583
+#
+# Disc length: 3010 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=3d0bc007
+DTITLE=Eric Gale - In a Jazz Tradition
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Eric's Gale
+TTITLE1=If You Could See Me Now
+TTITLE2=Bloomdido
+TTITLE3=Lover Man
+TTITLE4=Jordu
+TTITLE5=Loose Change
+TTITLE6=Blues For Everybody
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49320
+#	68085
+#	87810
+#	104347
+#	142357
+#	159350
+#	180557
+#	196260
+#
+# Disc length: 2845 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a0b1b09
+DTITLE=Duke Ellington and His Orchestra - Yale Concert
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=The Little Purple Flower (Parts I and II)
+TTITLE1=Put Tin
+TTITLE2=A Chromatic Love Affair
+TTITLE3=Boola Boola
+TTITLE4=A Johnny Hodges Medley - Warm Valley Drag
+TTITLE5=Salome
+TTITLE6=Swamp Goo
+TTITLE7=Up Jump
+TTITLE8=Take The A Train
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

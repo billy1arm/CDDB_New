@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2620
+#	51727
+#	95133
+#	135749
+#	174930
+#	215253
+#	255764
+#	296032
+#
+# Disc length: 3986 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7d0f9009
+DTITLE=David Hickey - Performs Smadhi Chakra Journey
+DYEAR=2005
+DGENRE=New Age
+TTITLE0=Chakra Chime Intro
+TTITLE1=Muladhrar (Root)
+TTITLE2=Svadhisthana (Sacral)
+TTITLE3=Manipura (Solar Plexus)
+TTITLE4=Anahata (Heart)
+TTITLE5=Visshudha (Throat)
+TTITLE6=Ajna (Third Eye)
+TTITLE7=Sahasrara (Crown)
+TTITLE8=Chakra Chime End
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	1971
+#	18268
+#	29639
+#	66531
+#	85309
+#	115739
+#	154446
+#	181802
+#	218680
+#
+# Disc length: 3159 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=810c550a
+DTITLE=Bluestone Company - Bluestone Company 20091106 Yokohama.txt
+DYEAR=2009
+DGENRE=Blues
+TTITLE0=MC
+TTITLE1=Session 01
+TTITLE2=Talk 01
+TTITLE3=Session 02
+TTITLE4=Talk 02
+TTITLE5=Session 03
+TTITLE6=Talk 03
+TTITLE7=Session 04
+TTITLE8=Talk 04
+TTITLE9=Session 05
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	86028
+#	169520
+#
+# Disc length: 3520 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=190dbe03
+DTITLE=John Coltrane - Live at the Half Note '63 - vol. 2
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=1. Brazilia
+TTITLE1=2. Song of Praise
+TTITLE2=3. My favorite Things
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

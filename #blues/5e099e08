@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27064
+#	50237
+#	75708
+#	93597
+#	115600
+#	137442
+#	162312
+#
+# Disc length: 2464 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5e099e08
+DTITLE=JiLL-Decoy association - DECADE
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=01 Red and Blue, Green and White
+TTITLE1=02 too much!
+TTITLE2=03 no name collection
+TTITLE3=04 Wa
+TTITLE4=05 GARDEN
+TTITLE5=06 Irony
+TTITLE6=07 Joshitsu-Sabotage
+TTITLE7=08 Nets
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

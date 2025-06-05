@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11359
+#	30569
+#	50182
+#	64598
+#
+# Disc length: 1083 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=38043905
+DTITLE=Various Artist - JazzEcho (Promo CD)
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Aaron Neville - Danny Boy
+TTITLE1=Lizz Wright - Fire
+TTITLE2=Jesse Harris and Norah Jones - What Makes You
+TTITLE3=Elvis Costello - Fallen
+TTITLE4=Rebekka Bakken - If Only
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

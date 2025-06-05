@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15202
+#	30240
+#	52777
+#
+# Disc length: 903 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=17038504
+DTITLE=K and K Feat. Jota - Danca A Bossa
+DYEAR=1995
+DGENRE=Latin
+TTITLE0=Danca A Bossa (Beach Radio Edit)
+TTITLE1=Danca A Bossa (Reggae Da Capo Mix)
+TTITLE2=Danca A Bossa (Party Dance Dub)
+TTITLE3=Danca A Bossa (Karaoke Version)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

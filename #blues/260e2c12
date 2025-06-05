@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	11220
+#	28052
+#	42340
+#	55462
+#	73262
+#	90735
+#	110120
+#	124155
+#	139462
+#	155612
+#	171792
+#	182047
+#	197012
+#	217007
+#	233920
+#	245957
+#	260962
+#
+# Disc length: 3630 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=260e2c12
+DTITLE=Jimmy Rogers - Chicago Blues Masters - Volume 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Act like you love me
+TTITLE1=Broken hearted blues
+TTITLE2=Information please
+TTITLE3=Bad luck blues
+TTITLE4=Gold-tailed bird
+TTITLE5=Lonesome blues
+TTITLE6=Brown-skinned woman
+TTITLE7=That's all right
+TTITLE8=You're sweet
+TTITLE9=Sloppy drunk
+TTITLE10=Live at Ma Bee's
+TTITLE11=House rocker
+TTITLE12=Pretty baby
+TTITLE13=You're the one
+TTITLE14=Blues (follow me all  day long)
+TTITLE15=Slick chick
+TTITLE16=I lost a  good woman
+TTITLE17=Dorcie Belle
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

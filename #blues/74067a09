@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11870
+#	27725
+#	37373
+#	52008
+#	60990
+#	78043
+#	94743
+#	109753
+#
+# Disc length: 1660 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=74067a09
+DTITLE=Al Green - White Christmas
+DYEAR=1900
+DGENRE=blues
+TTITLE0=White Christmas
+TTITLE1=The Christmas Song
+TTITLE2=Winter Wonderland
+TTITLE3=I'll Be Home for Christmas
+TTITLE4=Jingle Bells
+TTITLE5=What Christmas Means to Me
+TTITLE6=Oh Holy Night
+TTITLE7=Silent Night
+TTITLE8=It Feels Like Christmas
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

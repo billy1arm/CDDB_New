@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33807
+#	49015
+#	71802
+#	118867
+#	140405
+#	165327
+#	195457
+#	219495
+#
+# Disc length: 3277 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.60 - http://www.feurio.com
+#
+DISCID=7b0ccb09,8d0ccb09
+DTITLE=Johann Sebastian Bach - Brandenburg Concertos IV - VI
+DYEAR=1900
+DGENRE=
+TTITLE0=Allegro Concerto IV G-dur BWV 1049
+TTITLE1=Andante Concerto IV G-dur BWV 1049
+TTITLE2=Presto Concerto IV G-dur BWV 1049
+TTITLE3=Allegro Concerto V D-dur BWV 1050
+TTITLE4=Affettuoso Concerto V D-dur BWV 1050
+TTITLE5=Allegro Concerto V D-dur BWV 1050
+TTITLE6=(Allegro) Concerto VI B-dur BWV 1051
+TTITLE7=Adiago ma non tanto Concerto VI B-dur BWV 1051
+TTITLE8=Allegro Concerto VI B-dur BWV 1051
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

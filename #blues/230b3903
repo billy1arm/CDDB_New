@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57590
+#	100902
+#
+# Disc length: 2875 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.91
+#
+DISCID=230b3903
+DTITLE=John Coltrane - Europe 1961: Paris, L'Olympia (November 18 1961, 2nd show)
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Blue train
+TTITLE1=I want to talk about you
+TTITLE2=My favorite things
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

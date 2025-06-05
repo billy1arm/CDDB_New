@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31650
+#	93450
+#	126285
+#	145485
+#	165135
+#	181185
+#
+# Disc length: 2899 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=500b5107
+DTITLE=Schiller - Die Einlassmusik 2 (Live Erleben)
+DYEAR=2004
+DGENRE=New Age
+TTITLE0=Teil I
+TTITLE1=Teil II
+TTITLE2=Teil III
+TTITLE3=Teil IV
+TTITLE4=Teil V
+TTITLE5=Teil VI
+TTITLE6=Teil VII
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

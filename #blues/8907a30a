@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7015
+#	36527
+#	49034
+#	61906
+#	79632
+#	95085
+#	108550
+#	122911
+#	141068
+#
+# Disc length: 1957 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8907a30a
+DTITLE=Kurt A.C. - Move
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Intro
+TTITLE1=Bossa2
+TTITLE2=Latin1
+TTITLE3=Ballad3
+TTITLE4=Bossa3
+TTITLE5=Latin2
+TTITLE6=Rock1
+TTITLE7=Bossa1
+TTITLE8=Ballad1
+TTITLE9=Rag1
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10462
+#     27242
+#     42740
+#     61637
+#     76762
+#     95837
+#     111872
+#     125925
+#     143285
+# 
+# Disc length: 2168 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8208760a
+DTITLE=Carl Perkins - Best Of
+DYEAR=1900
+DGENRE=
+TTITLE0=Blue Suede Shoes
+TTITLE1=Born To Rock
+TTITLE2=Don't Let Go
+TTITLE3=Charlene
+TTITLE4=Baby, Please Answer Your Phone
+TTITLE5=Till I Couldn't Stand No More
+TTITLE6=Hambone
+TTITLE7=Cotton Top
+TTITLE8=A Lifetime Last Night
+TTITLE9=Love Makes Dreams Come True
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25462
+#	48472
+#	71532
+#	99487
+#	128050
+#	151705
+#	175040
+#
+# Disc length: 2690 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=5e0a8008
+DTITLE=Rush - Power Windows
+DYEAR=1985
+DGENRE=Hard Rock
+TTITLE0=The Big Money
+TTITLE1=Grand Designs
+TTITLE2=Manhattan Project
+TTITLE3=Marathon
+TTITLE4=Territories
+TTITLE5=Middletown Dreams
+TTITLE6=Emotion Detector
+TTITLE7=Mystic Rhythms
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

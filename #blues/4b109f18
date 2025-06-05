@@ -1,0 +1,89 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13127
+#     25082
+#     39887
+#     51295
+#     67135
+#     79095
+#     93065
+#     105965
+#     117920
+#     132457
+#     142600
+#     161100
+#     173715
+#     190217
+#     204887
+#     214612
+#     229517
+#     240807
+#     252422
+#     269725
+#     281162
+#     291897
+#     304910
+# 
+# Disc length: 4257 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=4b109f18
+DTITLE=Various Artist - Ebb Tide
+DYEAR=1900
+DGENRE=
+TTITLE0=When A Man Loves A Woman
+TTITLE1=You Belong to Me
+TTITLE2=Sitting In The Park
+TTITLE3=Baby I'm Yours
+TTITLE4=Love On A Two-Way Street
+TTITLE5=Tell It Like It Is
+TTITLE6=Take Time To Know Her
+TTITLE7=Let It Be Me
+TTITLE8=It's All In The Game
+TTITLE9=Misty Blue
+TTITLE10=What's Your Name
+TTITLE11=Oh What A Night
+TTITLE12=For Your Precious Love
+TTITLE13=If You Don't Know Me By Now
+TTITLE14=Hey There Lonely Girl
+TTITLE15=You Can Make It If You Try
+TTITLE16=OOH Child
+TTITLE17=Hold Me Thrill Me Kiss Me
+TTITLE18=It's Just A Matter Of Time
+TTITLE19=Best Thing That Ever Happened To Me
+TTITLE20=So Many Ways
+TTITLE21=I (Who Have Nothing)
+TTITLE22=Raindrops
+TTITLE23=I'm Gonna Do Beautiful Things For You
+EXTD=
+EXTT0=Percy Sledge\n
+EXTT1=Duprees\n
+EXTT2=Billy Stewart\n
+EXTT3=Barbara Lewis\n
+EXTT4=Moments\n
+EXTT5=Aaron Neville\n
+EXTT6=Percy Sledge\n
+EXTT7=Jerry Butler and Betty Everette\n
+EXTT8=Tommy Edwards\n
+EXTT9=Joe Simon\n
+EXTT10=Don and Juan\n
+EXTT11=Dells\n
+EXTT12=Jerry Butler\n
+EXTT13=Harold Melvin\n
+EXTT14=Eddie Holman\n
+EXTT15=Gene Allison\n
+EXTT16=Five Stairsteps\n
+EXTT17=Mel Carter\n
+EXTT18=Brook Benton\n
+EXTT19=Gladys Knight and The Pips\n
+EXTT20=Brook Benton\n
+EXTT21=Ben E. King\n
+EXTT22=Dee Clark\n
+EXTT23=Embers\n
+PLAYORDER=

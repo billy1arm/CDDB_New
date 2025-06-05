@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21750
+#	39075
+#	51450
+#	70350
+#	87975
+#	99900
+#	118275
+#	135450
+#	149100
+#	165300
+#	182325
+#
+# Disc length: 2596 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a10a220c
+DTITLE=Barradas, Huascar y Maracaibo - Folk Music from Venezuela
+DYEAR=1999
+DGENRE=Merengue
+TTITLE0=La Marusa
+TTITLE1=El Becerrito
+TTITLE2=Maracaibo en la noche
+TTITLE3=Endrina
+TTITLE4=El Diablo suelto
+TTITLE5=Quitiplas
+TTITLE6=Por el camino pela'o con Pajarillo
+TTITLE7=Dama Antanona
+TTITLE8=Brisas del Torbes
+TTITLE9=Polo Coriano
+TTITLE10=Merenguito
+TTITLE11=Nino Lindo
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

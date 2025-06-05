@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36027
+#	72966
+#	103632
+#	128547
+#	146193
+#	188398
+#	207610
+#	235465
+#	265648
+#	294934
+#
+# Disc length: 4095 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=9e0ffd0b
+DTITLE=Don Sebesky - A Tribute to Duke Ellington  [1999]
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Mood Indigo
+TTITLE1=Creole Love Call
+TTITLE2=Chelsea Bridge
+TTITLE3=Caravan
+TTITLE4=Warm Valley
+TTITLE5=Take The Coltrane
+TTITLE6=Satin Doll
+TTITLE7=Joyful Noise Suite - I. Gladly
+TTITLE8=Joyful Noise Suite - II. Sadly
+TTITLE9=Joyful Noise Suite - III. Madly
+TTITLE10=Ko-Ko
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

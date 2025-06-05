@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2905
+#	21045
+#	75945
+#	145742
+#	162062
+#
+# Disc length: 2365 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=35093b06
+DTITLE=Solomon Burke - Soul Alive!
+DYEAR=2002
+DGENRE=Soul
+TTITLE0=Introduction
+TTITLE1=Everybody Needs Somebody To Love
+TTITLE2=Medley: If You Need Me - Tonight's the Night - You're Good For Me - I Almost Lost My Mind - What Am I Living For - Just Out Of Reach
+TTITLE3=Medley: Monologue - Take Me (Just As I Am) - I Can't Stop Loving You - Monologue - I Can't Stop Loving You (reprise)
+TTITLE4=Down In The Valley
+TTITLE5=Proud Mary
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

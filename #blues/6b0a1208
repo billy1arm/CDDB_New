@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	10288
+#	28565
+#	63788
+#	96263
+#	110663
+#	125495
+#	140768
+#
+# Disc length: 2580 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.21
+#
+DISCID=6b0a1208
+DTITLE=Doors - Disc Two
+DYEAR=1970
+DGENRE=Blues
+TTITLE0=Hello, I love you
+TTITLE1=Roadhouse Blues
+TTITLE2=LA Woman
+TTITLE3=Riders on the storm
+TTITLE4=Touch me
+TTITLE5=Lover her madly
+TTITLE6=The unknown Soldier
+TTITLE7=The End
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

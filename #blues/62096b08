@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25985
+#	45650
+#	64015
+#	86805
+#	111320
+#	131335
+#	151810
+#
+# Disc length: 2413 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=62096b08
+DTITLE=Sakurako Ogyu - Ballad Night
+DYEAR=1982
+DGENRE=Jazz
+TTITLE0=Wisper Not
+TTITLE1=My Funny Valentine
+TTITLE2=Lady Moyo
+TTITLE3=As Time Goes By
+TTITLE4=Cat's Eyes
+TTITLE5=The Way You Look Tonight
+TTITLE6=Round Midnight
+TTITLE7=Nica's Dream
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

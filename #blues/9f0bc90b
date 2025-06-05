@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	17850
+# 	34612
+# 	56925
+# 	73687
+# 	97777
+# 	119550
+# 	134925
+# 	162375
+# 	177037
+# 	198305
+#
+# Disc length: 3019 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=9f0bc90b
+DTITLE=Henning Kvitnes - Postcards From Life
+DYEAR=1900
+DGENRE=
+TTITLE0=Blue
+TTITLE1=To Get Back On Your Feet
+TTITLE2=All I Can Do
+TTITLE3=King Of The Barstool Mountains
+TTITLE4=Man Enough
+TTITLE5=Stand-By Ticket To Love
+TTITLE6=Pay-Day's Night
+TTITLE7=Dream Of A Fool
+TTITLE8=You
+TTITLE9=Behind The Lie
+TTITLE10=Postcards From Life
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

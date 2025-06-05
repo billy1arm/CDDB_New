@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21310
+#     37255
+#     60938
+#     81048
+#     99136
+#     119437
+#     141156
+#     165631
+# 
+# Disc length: 2398 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6e095c09
+DTITLE=Rythm Method - Timing is Everything
+DYEAR=1900
+DGENRE=
+TTITLE0=Voodoo Woman
+TTITLE1=Ode to Nefertiti
+TTITLE2=Hot Black Coal
+TTITLE3=Angels Talkin Dirty
+TTITLE4=What You Gonna Do?
+TTITLE5=Voyeur
+TTITLE6=Come to Me Now
+TTITLE7=Let's Get Naked
+TTITLE8=Do You Love Me?
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

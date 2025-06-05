@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	24582
+#	39239
+#	73374
+#	92379
+#	114585
+#	142743
+#	162443
+#
+# Disc length: 2578 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=610a1008
+DTITLE=Raul de Souza - Sweet Lucy
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=Sweet Lucy
+TTITLE1=Wires
+TTITLE2=Wild and shy
+TTITLE3=At will
+TTITLE4=Banana tree
+TTITLE5=A song of love
+TTITLE6=New love
+TTITLE7=Bottom head
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

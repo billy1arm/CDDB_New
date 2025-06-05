@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26337
+#	52151
+#	72291
+#	95753
+#	113976
+#	128694
+#
+# Disc length: 2110 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5f083c07
+DTITLE=Pipesdelight - first take
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Du bist gesund
+TTITLE1=Bluesette
+TTITLE2=Für Axel
+TTITLE3=Elizete
+TTITLE4=Pipe's Dislike
+TTITLE5=Bill's Bounce
+TTITLE6=Ciao Bella
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

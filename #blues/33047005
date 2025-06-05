@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16802
+#	35680
+#	53345
+#	68717
+#
+# Disc length: 1138 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=33047005
+DTITLE=Debelah Morgan - Dance With Me [CDS)
+DYEAR=2000
+DGENRE=Soul
+TTITLE0=Dance With Me (Album Version)
+TTITLE1=Dance With Me (Soul Central Mix)
+TTITLE2=Dance With Me (Boom Boom Remix)
+TTITLE3=Dance With Me (JP Radio Mix)
+TTITLE4=Dance With Me (Jack and Jill Edit)
+EXTD=rlokker@worldonline.nl corrected YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

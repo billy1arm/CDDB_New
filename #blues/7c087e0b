@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15308
+#	31218
+#	45337
+#	59008
+#	73956
+#	90289
+#	105110
+#	119660
+#	129596
+#	150010
+#
+# Disc length: 2176 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,32,406
+#
+DISCID=7c087e0b
+DTITLE=Michael Bolton - Vintage
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=The Very Thoght of Yoy
+TTITLE1=All the Way
+TTITLE2=A Kiss to Build a Dream On
+TTITLE3=If I Could
+TTITLE4=At Last
+TTITLE5=When I Fall in Love
+TTITLE6=You Don't Know Me
+TTITLE7=Smile
+TTITLE8=Daddy's Litle Girl
+TTITLE9=Summertime
+TTITLE10=What are You Doing the Rest of Your Life
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

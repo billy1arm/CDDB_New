@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25660
+#	47791
+#	73143
+#	90620
+#
+# Disc length: 1660 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3b067a05
+DTITLE=Blindman - ...In The Dark
+DYEAR=2000
+DGENRE=J-Metal
+TTITLE0=In The Dark
+TTITLE1=The Touch Of Gray
+TTITLE2=Living Alone
+TTITLE3=I'm Falling Down
+TTITLE4=Nothing Will Be There For Me
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

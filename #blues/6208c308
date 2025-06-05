@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	192
+#	22682
+#	44677
+#	67662
+#	86400
+#	106135
+#	125100
+#	147360
+#
+# Disc length: 2245 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6208c308
+DTITLE=Hector Tricoche - Motorízame
+DYEAR=1991
+DGENRE=Salsa
+TTITLE0=Macho Perez
+TTITLE1=Motorizame
+TTITLE2=Desnudate
+TTITLE3=Una Aventura Nada Mas
+TTITLE4=Noche Sensasional
+TTITLE5=Sed de Amarte
+TTITLE6=Debi Amarte Mas
+TTITLE7=Junto a Ti
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

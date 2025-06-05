@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     25177
+#     69432
+#     101137
+#     144230
+#     187137
+#     217775
+#     249422
+#     284580
+#     318542
+# 
+# Disc length: 4653 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=93122b0a
+DTITLE=Various Artist - Tantrance
+DYEAR=1900
+DGENRE=
+TTITLE0=Hybrid (Infinity Project remix)
+TTITLE1=Plastic
+TTITLE2=Italian Dream
+TTITLE3=Elektron Bender (Samsara live mix '97)
+TTITLE4=Master of the Universe
+TTITLE5=Starchild (Total Eclipse remix)
+TTITLE6=William
+TTITLE7=The Fly
+TTITLE8=Ensanity
+TTITLE9=Sexdrugs and Acidtrance
+EXTD=
+EXTT0=Eat Static
+EXTT1=Etnica
+EXTT2=Astral Projection
+EXTT3=Technossomy
+EXTT4=Ux
+EXTT5=Prana
+EXTT6=Mammademan and Tristan
+EXTT7=Sibilant
+EXTT8=Aeternum
+EXTT9=Sun Project
+PLAYORDER=

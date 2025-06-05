@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15357
+#	31683
+#	60135
+#	79173
+#
+# Disc length: 1239 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2404d505
+DTITLE=divers - Jazz et bossa nova les premieres amours - Mon CD
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=Jimmy Dorsey and His Orchestra - Brazil 
+TTITLE1=Laurindo Almeida|Bud Shank Quartet - Carinhoso
+TTITLE2=John Coltrane - Bahia
+TTITLE3=The Curtis Fuller Quintet - One Note Samba
+TTITLE4=Cal Tjader - Vai Querer
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

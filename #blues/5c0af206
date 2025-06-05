@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32966
+#	67271
+#	112376
+#	154948
+#	189594
+#
+# Disc length: 2804 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5c0af206
+DTITLE=Allan Holdsworth - Koala Takes the Foremost - Melbourne 1991 - D1
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Proto Cosmos
+TTITLE1=Funnels
+TTITLE2=White Line
+TTITLE3=Looking Glass
+TTITLE4=Three Sheets to the Wind
+TTITLE5=Atavachron
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

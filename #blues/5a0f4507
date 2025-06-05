@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48847
+#	89190
+#	135897
+#	178780
+#	206509
+#	255515
+#
+# Disc length: 3911 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a0f4507
+DTITLE=Dvorak - Dvorak: String Quintet Op 1 - Op 97
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=String Quintet in A minor, Op 1 - Adagio - Allegro ma non troppo
+TTITLE1=2. Lento
+TTITLE2=3. Finale: Allegro con brio
+TTITLE3=String Quintet in E Major, Op 97 - Allegro non tanto
+TTITLE4=2. Allegro vivo
+TTITLE5=3. Larghetto
+TTITLE6=4. Finale: Allegro giusto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

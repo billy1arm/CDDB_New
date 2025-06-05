@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27800
+#	47307
+#	70402
+#	93320
+#	119772
+#	145295
+#	167322
+#
+# Disc length: 2584 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.10
+#
+DISCID=640a1608
+DTITLE=SHA-LA-VAH - Serenade For Spring
+DYEAR=1987
+DGENRE=New Age
+TTITLE0=The Calling
+TTITLE1=Perfect Stranger
+TTITLE2=Serenade For Spring
+TTITLE3=Reverie
+TTITLE4=A.M.
+TTITLE5=Forever Cherished
+TTITLE6=A Moment To Remember
+TTITLE7=Eversong (Variations From Scarlatti Sonata No. 38)
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21635
+#	37265
+#	53000
+#
+# Disc length: 995 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3403e104
+DTITLE=KID FROST - LA RAZA
+DYEAR=1991
+DGENRE=Dance
+TTITLE0=LA RAZA (Cantina Mix)
+TTITLE1=LA RAZA (Instrumental)
+TTITLE2=LA RAZA (La Raza Mix)
+TTITLE3=IN THE CITY
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

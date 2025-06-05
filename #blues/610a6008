@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10594
+#	36140
+#	60289
+#	92718
+#	113226
+#	144668
+#	178237
+#
+# Disc length: 2658 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=610a6008
+DTITLE=Hans Blues&Boogie and the Heartbeat - Life at the Yukon Café
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Slide Boogie
+TTITLE1=I can't do it
+TTITLE2=Think twice
+TTITLE3=Good Ev'ning Ev'rybody
+TTITLE4=I might be a fool
+TTITLE5=Pregnant with the blues
+TTITLE6=I like to be tipsy
+TTITLE7=Take it easy
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

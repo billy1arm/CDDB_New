@@ -1,0 +1,43 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21599
+#	41113
+#	61901
+#	71362
+#	109829
+#	132269
+#	162655
+#	185037
+# Disc length: 2816 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=860afe09
+DTITLE=Axel Maurice Heilhecker - Fishmoon
+DYEAR=1900
+DGENRE=
+TTITLE0=Belle de Jour
+TTITLE1=One man tango
+TTITLE2=For your pleasure
+TTITLE3=Fishmoon rising
+TTITLE4=Fishmoon
+TTITLE5=Last Picture
+TTITLE6=American Zonata
+TTITLE7=Been there done this
+TTITLE8=Is isn't
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17893
+#     35400
+#     59198
+#     80155
+# 
+# Disc length: 1297 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=43050f05
+DTITLE=bjork - army of me
+DYEAR=1900
+DGENRE=
+TTITLE0=army of me
+TTITLE1=army of me - ABA all stars mix
+TTITLE2=army of me - masseymix
+TTITLE3=army of me - featuring skunk anansie
+TTITLE4=army of me - ABA all stars instrumental
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

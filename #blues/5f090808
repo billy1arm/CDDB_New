@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20370
+#	48275
+#	69520
+#	92270
+#	107707
+#	125985
+#	158740
+#
+# Disc length: 2314 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5f090808
+DTITLE=Johnny Lytle - The Village Caller
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=The Village Caller
+TTITLE1=On Green Dolphin Street
+TTITLE2=Can't Help Lovin' You
+TTITLE3=Pedro Strodder
+TTITLE4=Kevin Devin
+TTITLE5=You Don't Know What Love Is
+TTITLE6=Unhappy Happy Soul
+TTITLE7=Solitude
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5475
+#	23250
+#	50850
+#	79725
+#	93900
+#	125550
+#	145875
+#	168150
+#
+# Disc length: 2549 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6809f309
+DTITLE=BB King - Sweet 16
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Intro
+TTITLE1=To know you is to love you
+TTITLE2=I believe in my soul
+TTITLE3=Why I sing the blues
+TTITLE4=Ain't nobody home
+TTITLE5=Sweet sixteen
+TTITLE6=The thrill is gone
+TTITLE7=Guess who
+TTITLE8=I like to live the love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19800
+#	61125
+#	87825
+#	114525
+#	135375
+#	157200
+#	177525
+#	203625
+#	235275
+#	253275
+#
+# Disc length: 3575 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=970df50b
+DTITLE=Artvark Saxophone Quartet - Truffles
+DYEAR=2010
+DGENRE=Saxophone Quartet
+TTITLE0=waL hallA
+TTITLE1=Pik
+TTITLE2=Children's Song #6
+TTITLE3=Calypso Minor
+TTITLE4=Ornat "King" Coleman
+TTITLE5=Movido por Sentimiento
+TTITLE6=Shuffle d'Elffuhs
+TTITLE7=Soundtrack
+TTITLE8=1000 Cookies
+TTITLE9=Jesus be a Fence
+TTITLE10=Whoza Mtwana
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,48 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15873
+#	35353
+#	50209
+#	68794
+#	88498
+#	103552
+#	125701
+#	138052
+#	163004
+#
+# Disc length: 2549 seconds
+#
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=8409f30a
+DTITLE=Mambassa - Mambassa
+DYEAR=2004
+DGENRE=Indie Pop/Rock
+TTITLE0=Una storia chiusa
+TTITLE1=L'uomo di Atlantide
+TTITLE2=Canto nel sonno
+TTITLE3=Stop
+TTITLE4=Rimpianto stereo
+TTITLE5=L'antidoto
+TTITLE6=Canzone d'odio
+TTITLE7=Dove sei
+TTITLE8=Senza respiro
+TTITLE9=Ogni volta che mi illudi
+EXTD=www.mambassa.com
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

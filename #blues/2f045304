@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	17492
+# 	35075
+# 	50775
+#
+# Disc length: 1109 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=2f045304
+DTITLE=Håkon Gamles Blues Band - Håkon Gamles Blues Band
+DYEAR=1900
+DGENRE=
+TTITLE0=Get Back Boogie
+TTITLE1=Mindbender
+TTITLE2=Speed of Life
+TTITLE3=Say Goodbye to the Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

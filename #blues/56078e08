@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21497
+#	40385
+#	57302
+#	75137
+#	90114
+#	108051
+#	125711
+#
+# Disc length: 1936 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=56078e08
+DTITLE=Red Norvo - Red Norvo Quintet ... naturally!
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=I'll Remember April
+TTITLE1=Spider's Web
+TTITLE2=Tenderly
+TTITLE3=Lullaby of Birdland
+TTITLE4=Stella By Starlight
+TTITLE5=Scorpion's Nest
+TTITLE6=Funny Valentine
+TTITLE7=Love For Sale
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21605
+#	45739
+#	69950
+#	92835
+#	115807
+#	134472
+#	157687
+#
+# Disc length: 2527 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6409dd08
+DTITLE=Bob Brookmeyer - Bob Brookmeyer and Friends
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Jive Hoot
+TTITLE1=Misty
+TTITLE2=The Wrinkle
+TTITLE3=Bracket
+TTITLE4=Skylark
+TTITLE5=Sometime Ago
+TTITLE6=I've Grown Accustomed To Her Face
+TTITLE7=Who Care
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

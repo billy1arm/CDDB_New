@@ -1,0 +1,74 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16234
+#     32244
+#     47525
+#     64412
+#     83695
+#     97582
+#     108677
+#     121335
+#     138607
+#     150392
+#     168067
+#     186042
+#     197965
+#     214167
+#     235475
+#     255205
+#     271840
+#     288547
+# 
+# Disc length: 4030 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=020fbc13
+DTITLE=Various Artist - Duck's 3  (19 More Shaggin' Dance Favorites)
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=You'll Never Find Another Love Like Mine
+TTITLE1=Love Your Sexy Ways
+TTITLE2=Beautiful Lover
+TTITLE3=Tick Tock
+TTITLE4=I Betcha
+TTITLE5=Ip Slippin Dippin
+TTITLE6=Lu Lu
+TTITLE7=Hey There
+TTITLE8=See See Rider
+TTITLE9=Just Tell Me When
+TTITLE10=Pomise Of Love
+TTITLE11=Touching In The Dark
+TTITLE12=Talkin' Woman
+TTITLE13=When It Ain't Right
+TTITLE14=We're Making Love, We're Making Music
+TTITLE15=Jazzy, Jazzy, Lady
+TTITLE16=House Of The Rising Sun
+TTITLE17=Love No Longer Has A Hold On Me
+TTITLE18=Fare Thee Well
+EXTD=
+EXTT0=Bill Federicks
+EXTT1=Luther Johnson
+EXTT2=C.L. Blast
+EXTT3=The Fins
+EXTT4=O.C. Smith
+EXTT5=The Aristocrats
+EXTT6=The Sh-Booms
+EXTT7=The Mills Brothers
+EXTT8=Jimmy Witherspoon
+EXTT9=Larry Darnell
+EXTT10=Delegation
+EXTT11=Walter Jackson
+EXTT12=The Inmates
+EXTT13=Frederick Knight
+EXTT14=O.C. Smith\n
+EXTT15=The Richfields Kat
+EXTT16=Tammy Scott
+EXTT17=Johnny Bristol
+EXTT18=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	19017
+#	43850
+#	66725
+#	82617
+#	101742
+#	121317
+#	141867
+#	160917
+#	181767
+#	202017
+#	220842
+#
+# Disc length: 3236 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta6
+#
+DISCID=a80ca20c
+DTITLE=La Salsa del Siglo - cd1
+DYEAR=2000
+DGENRE=Salsa
+TTITLE0=El Rompe Cintura
+TTITLE1=Una Aventura
+TTITLE2=El Tiburon
+TTITLE3=Visa Para un Sueño
+TTITLE4=Burbujas De Amor
+TTITLE5=El Conejero
+TTITLE6=Volvio Juanita
+TTITLE7=Arrepentida
+TTITLE8=No Puedo Olvidarla
+TTITLE9=La Bomba
+TTITLE10=Abusadora
+TTITLE11=La Ventanita
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

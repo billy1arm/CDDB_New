@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18818
+#	28668
+#	39512
+#	65650
+#	80076
+#	91272
+#	108155
+#	121135
+#
+# Disc length: 2304 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6708fe09
+DTITLE=Tin Knocker - Demos
+DYEAR=2007
+DGENRE=Blues
+TTITLE0=Build A Garage
+TTITLE1=Distracted
+TTITLE2=Tired Of You
+TTITLE3=Christina Bleu
+TTITLE4=Pictures Of Matchstickmen
+TTITLE5=Come Around
+TTITLE6=Power Me Up
+TTITLE7=Take Cover
+TTITLE8=Fire Of Love
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

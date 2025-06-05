@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51575
+#	91012
+#	131142
+#	161225
+#	198697
+#	241932
+#
+# Disc length: 3846 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=630f0407
+DTITLE=Manhattan Jazz Quintet - Manhattan Jazz Quintet Best Selection
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Cherokee
+TTITLE1=Blues March
+TTITLE2=Mercy Mercy Mercy
+TTITLE3=Sister Sadie
+TTITLE4=Bag's Groove
+TTITLE5=Song For My Father
+TTITLE6=Manteca
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

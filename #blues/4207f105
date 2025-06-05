@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	34562
+#	73462
+#	95037
+#	124537
+#
+# Disc length: 2035 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4207f105
+DTITLE=The Stan Getz Quartet - The Soft Swing
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=All the Things You Are
+TTITLE1=Pocono Mac
+TTITLE2=Down Beat
+TTITLE3=To the Ends of the Earth
+TTITLE4=Bye Bye Blues
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

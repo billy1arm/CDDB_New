@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	25990
+#	49345
+#	65365
+#	84625
+#	109873
+#	132118
+#	145390
+#	160700
+#
+# Disc length: 2400 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=79095e09
+DTITLE=Clifford Brown - Study on Brown
+DYEAR=1955
+DGENRE=Jazz
+TTITLE0=Cherokee
+TTITLE1=Jacqui
+TTITLE2=Swingin'
+TTITLE3=Lands end
+TTITLE4=George's dilemma
+TTITLE5=Sandu
+TTITLE6=Gerkin for Perkin
+TTITLE7=If I love again
+TTITLE8=Take the A train
+EXTD=YEAR: 1955
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

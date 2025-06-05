@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35225
+#	67325
+#	79485
+#	107630
+#	138967
+#	166730
+#	191325
+#
+# Disc length: 2855 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6f0b2508
+DTITLE=Ron Carter - Yellow and green
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Tenaj
+TTITLE1=Receipt, please
+TTITLE2=Willow weep for me
+TTITLE3=Yellow and green
+TTITLE4=Opus 1.5
+TTITLE5=Epistrophy
+TTITLE6=Receipt, please (alt)
+TTITLE7=Yellow and green (alt)
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

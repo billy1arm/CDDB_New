@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24949
+#	45105
+#	69511
+#	93810
+#	122195
+#	147309
+#	172971
+#
+# Disc length: 2657 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5b0a5f08
+DTITLE=Quincy Jones - Modern Jazz Modern Mainstream CD 098
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Stockholm Sweetnin'
+TTITLE1=Scuse These Blues
+TTITLE2=Falling In Love With Me
+TTITLE3=Lover Come Back To Me
+TTITLE4=Pogo Stick
+TTITLE5=Liza
+TTITLE6=Jones Bones
+TTITLE7=Sometimes I'm Happy
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

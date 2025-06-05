@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32492
+#	54305
+#	85765
+#	119687
+#	144207
+#
+# Disc length: 2333 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=44091b06
+DTITLE=Persip, Charli - Charli Persip and Superband
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Manteca
+TTITLE1=on the road
+TTITLE2=once in a while
+TTITLE3=meantime
+TTITLE4=king duke
+TTITLE5=jupiter
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

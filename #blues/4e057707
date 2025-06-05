@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14625
+#	28935
+#	42933
+#	57743
+#	75893
+#	90910
+#
+# Disc length: 1401 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CD2WAV32(JP) R3.22
+#
+DISCID=4e057707
+DTITLE=弘田三枝子 - コロムビア音得盤シリーズ 弘田三枝子
+DYEAR=2001
+DGENRE=J-POP(J)
+TTITLE0=可愛い嘘
+TTITLE1=涙のドライヴ
+TTITLE2=ロダンの肖像
+TTITLE3=人形の家
+TTITLE4=蝶の雨
+TTITLE5=私が死んだら
+TTITLE6=渚のうわさ
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22407
+#	39092
+#	56792
+#	69035
+#	88957
+#	111862
+#
+# Disc length: 1792 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a06fe07
+DTITLE=天童よしみ - 天童節：ヒット歌謡を歌う〜川の流れのように〜
+DYEAR=1998
+DGENRE=J-POP
+TTITLE0=川の流れのように
+TTITLE1=おまえに惚れた
+TTITLE2=ひばり仁義
+TTITLE3=真赤な太陽
+TTITLE4=みだれ髪
+TTITLE5=愛燦燦
+TTITLE6=残侠子守唄
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

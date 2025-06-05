@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15645
+#	30027
+#	45097
+#	51648
+#
+# Disc length: 914 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=2d039005
+DTITLE=Johan Fricks Kapell - 5 sånger
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=John-Otto Erikssons vals
+TTITLE1=Lets gå lets gå lets gå
+TTITLE2=Satans Tango
+TTITLE3=Såvida om, såvida att
+TTITLE4=Vinternatt i Sibirien
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

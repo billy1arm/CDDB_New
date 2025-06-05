@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	27240
+#	49867
+#	70977
+#	97530
+#	122390
+#	146652
+#	161757
+#
+# Disc length: 2563 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=620a0108
+DTITLE=Grupo Niche - Se Paso!
+DYEAR=1985
+DGENRE=Salsa
+TTITLE0=Del Puente Pa'lla
+TTITLE1=La Fiera
+TTITLE2=Mama Chila
+TTITLE3=Ana Mile
+TTITLE4=Listo Medellin
+TTITLE5=Interes Cuanto Vales
+TTITLE6=Las Flores Tambien Se Mueren
+TTITLE7=Cicatrices
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

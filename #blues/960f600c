@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40351
+#	69972
+#	87145
+#	126793
+#	154133
+#	171155
+#	203466
+#	230611
+#	249045
+#	267282
+#	280022
+#
+# Disc length: 3938 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=960f600c
+DTITLE=Joseph Haydn - Concertos pour piano and orchestre (Thomas Fey, Schlierbacher Kammerorchester)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Concerto en fa majeur, HOB XVIII.3 - I. Allegro
+TTITLE1=Concerto en fa majeur, HOB XVIII.3 - II. Largo cantabile
+TTITLE2=Concerto en fa majeur, HOB XVIII.3 - III. Finale - Presto
+TTITLE3=Concerto en sol majeur, HOB XVIII.4 - I. Allegro
+TTITLE4=Concerto en sol majeur, HOB XVIII.4 - II. Adagio
+TTITLE5=Concerto en sol majeur, HOB XVIII.4 - III. Finale - Rondo - Presto
+TTITLE6=Concerto en ré majeur, HOB XVIII.11 - I. Vivace
+TTITLE7=Concerto en ré majeur, HOB XVIII.11 - II. Un poco adagio
+TTITLE8=Concerto en ré majeur, HOB XVIII.11 - III. Rondo all'Ungarese - Allegro assai
+TTITLE9=Sonate pour piano en ré majeur, HOB XVI.37 - I. Allegro con brio  {Ivan Moravec, piano}
+TTITLE10=Sonate pour piano en ré majeur, HOB XVI.37 - II. Largo e sostenuto
+TTITLE11=Sonate pour piano en ré majeur, HOB XVI.37 - III. Finale - Presto ma non troppo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

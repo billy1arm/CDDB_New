@@ -1,0 +1,71 @@
+# xmcd
+#
+# Track frame offsets:
+#	182
+#	17835
+#	46257
+#	74170
+#	94712
+#	118405
+#	134845
+#	147857
+#	168030
+#	183657
+#	196427
+#	215407
+#	237847
+#	249582
+#	260657
+#	299100
+#	312952
+#	332630
+#
+# Disc length: 4610
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.52 
+# Normalized: r3:DSETVAR1,TDELIM( - )
+#
+DISCID=26120012
+DTITLE=Various Artist - Blues Fest: Modern Blues of the '70s
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Albert King - That's What The Blues Is All About
+TTITLE1=Luther Allison - Luther' Blues
+TTITLE2=Hound Dog Taylor and The Houserockers - Sadie
+TTITLE3=The Son Seals Blues Band - Your Love Is Like Cancer
+TTITLE4=Jimmy "Fast Fingers" Dawkins - I'm Good For Nothing
+TTITLE5=Jimmy Johnson - I Need Some Easy Money
+TTITLE6=Koko Taylor - Hey Bartender
+TTITLE7=Chick Willis - Stoop Down Baby
+TTITLE8=Eddit Shaw and The Wolf Gang - My Baby So Ugly
+TTITLE9=Carey Bell's Blues Harp Band - One Day
+TTITLE10=Paul Butterfield's Better Days - Rule The Road
+TTITLE11=The Allman Brothers Band - One Way Out
+TTITLE12=Bobby Rush - Chicken Heads
+TTITLE13=Ann Peebles - I Feel Like Breaking Up Somebody's Home Tonight
+TTITLE14=B.B.King - To Know You Is To Love You
+TTITLE15=The Falulous Thunderbirds - Wait On Time
+TTITLE16=Roomfull Of Blues - Duke's Blues
+TTITLE17=Hollywood Fats Band - Lonesome
+EXTD=YEAR: 1995
+EXTT0=Albert King
+EXTT1=Luther Allison
+EXTT2=Hound Dog Tsaylor and the HouseRockers
+EXTT3=The Son Seals Blues Band
+EXTT4=Jimmy Fast Finger Dawkins
+EXTT5=Jimmy Johnson
+EXTT6=Koko Taylor
+EXTT7=Chick Willis
+EXTT8=Eddie Shaw and The Wolf Gang
+EXTT9=Carey Bell's Blues Harp Band
+EXTT10=Paul Butterfield's Better Days
+EXTT11=The Allman Brothers Band
+EXTT12=Bobby Rush
+EXTT13=Ann Peebles
+EXTT14=B. B. King
+EXTT15=The Fabulous Thunderbirds
+EXTT16=Romful of Blues
+EXTT17=Hollywood Fats Band
+PLAYORDER=

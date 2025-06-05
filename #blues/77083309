@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15271
+#	29746
+#	51498
+#	65769
+#	77820
+#	89649
+#	100879
+#	114377
+#
+# Disc length: 2101 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=77083309
+DTITLE=Jim Morrison - The Soft Parade
+DYEAR=1968
+DGENRE=Blues
+TTITLE0=Tell All The People
+TTITLE1=Touch Me
+TTITLE2=Shaman's Blues
+TTITLE3=Do It
+TTITLE4=Easy Ride
+TTITLE5=Wild Child
+TTITLE6=Runnin' Blue
+TTITLE7=Wishful Sinful
+TTITLE8=The Soft Parade
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

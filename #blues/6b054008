@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13206
+#	25899
+#	39622
+#	51542
+#	64352
+#	76612
+#	88480
+#
+# Disc length: 1346 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=6b054008
+DTITLE=Hank D'amico - Holiday With Hank
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Hank's Holiday
+TTITLE1=Billy's Bubble
+TTITLE2=Tomorrow
+TTITLE3=Gone
+TTITLE4=Grasshopper
+TTITLE5=Bernie's Tune
+TTITLE6=Hank's Dilemma
+TTITLE7=Nearness Of You
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

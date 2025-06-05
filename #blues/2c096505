@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	30912
+#	60320
+#	84100
+#	129630
+#
+# Disc length: 2407 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=2c096505
+DTITLE=Sonny Rollins - Saxophone Colossus
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=St. Thomas
+TTITLE1=You Don't Know What Love Is
+TTITLE2=Strode Rode
+TTITLE3=Moritat (Theme from 'The Threepenny Opera')
+TTITLE4=Blue 7
+EXTD=YEAR: 1956
+EXTT0=(Sonny Rollins) Prestige Music
+EXTT1=(Raye/DePaul) MCA Music
+EXTT2=(Rollins) Prestige
+EXTT3=(Weil/Brecht) T.B. Harms
+EXTT4=(Sonny Rollins) Prestige Music
+PLAYORDER=

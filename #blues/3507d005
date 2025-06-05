@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33657
+#	78050
+#	98872
+#	116735
+#
+# Disc length: 2002 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3507d005
+DTITLE=Royal Hunt - Intervention
+DYEAR=2000
+DGENRE=Melodic Hard Rock
+TTITLE0=Intervention (Part 1)
+TTITLE1=Lies (Live)
+TTITLE2=Flight (Live)
+TTITLE3=Follow Me (Acoustic)
+TTITLE4=U-Turn
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

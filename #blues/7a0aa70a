@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15415
+#     36148
+#     53263
+#     69940
+#     88088
+#     104345
+#     121310
+#     143613
+#     185918
+# 
+# Disc length: 2729 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7a0aa70a
+DTITLE=Robert Lucas - UP CLOSE 18
+DYEAR=1900
+DGENRE=
+TTITLE0=Slide On Outta Here
+TTITLE1=I'm So tired
+TTITLE2=Usin' Man
+TTITLE3=If You See That Woman
+TTITLE4=My Home Is A burning
+TTITLE5=Change, Change
+TTITLE6=Blues Man From LA
+TTITLE7=If You Don't Want Me
+TTITLE8=Long Train Coming
+TTITLE9=Trust Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

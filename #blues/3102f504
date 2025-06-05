@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13815
+#	28262
+#	41919
+#
+# Disc length: 759 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3102f504
+DTITLE=C_B_ Green - Somebody turns on the light
+DYEAR=1998
+DGENRE=Pop
+TTITLE0=Somebody turns on the light - Radio Version
+TTITLE1=Somebody turns on the light - Airplay Mix
+TTITLE2=Somebody turns on the light - Acoustic Version
+TTITLE3=Somebody turns on the light - Video Cut
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

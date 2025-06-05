@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12690
+#     29732
+#     51722
+#     67945
+#     81080
+#     92602
+#     110860
+#     132837
+#     147207
+#     158817
+# 
+# Disc length: 2378 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=9e09480b
+DTITLE=Howlin' Wolf - The Back Door Wolf
+DYEAR=1900
+DGENRE=
+TTITLE0=Moving
+TTITLE1=Coon On The Moon
+TTITLE2=Speak Now Woman
+TTITLE3=Trying To Forget You
+TTITLE4=Stop Using Me
+TTITLE5=Leave Here Walking
+TTITLE6=The Back Door Wolf
+TTITLE7=You Turn Slick On Me
+TTITLE8=Watergate Blues
+TTITLE9=Can't Stay Here
+TTITLE10=Speak Now Woman (alternate)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

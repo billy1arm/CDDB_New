@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19867
+#     38880
+#     62825
+#     94275
+#     120542
+#     139642
+#     166387
+# 
+# Disc length: 2576 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=680a0e08
+DTITLE=Little Milton - The Blues Is Alright!
+DYEAR=1900
+DGENRE=
+TTITLE0=The Blues Is Alright
+TTITLE1=How Could You Do This To Me
+TTITLE2=Bad Luck Is Falling
+TTITLE3=Chains And Things
+TTITLE4=Walking The Back Streets And Crying
+TTITLE5=I'd Rather Drink Muddy Water
+TTITLE6=I'm Diggin' You
+TTITLE7=Things Have Got to Change
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=\n\n\n\n
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

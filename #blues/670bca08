@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32407
+#	77707
+#	102718
+#	116757
+#	146598
+#	169098
+#	198181
+#
+# Disc length: 3020 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670bca08
+DTITLE=Garbarek, Jan - Jan Garbarek - Paths, Prints (1982)
+DYEAR=1982
+DGENRE=Jazz
+TTITLE0=The Path
+TTITLE1=Footprints
+TTITLE2=Kite Dance
+TTITLE3=To B.E.
+TTITLE4=The Move
+TTITLE5=Arc
+TTITLE6=Considering the Snail
+TTITLE7=Still
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

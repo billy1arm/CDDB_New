@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	62996
+#	70666
+#	102822
+#	129780
+#	193265
+#	238677
+#	254074
+#
+# Disc length: 4239 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: npgc NPGBUILD7
+#
+DISCID=72108d08
+DTITLE=Keith Jarrett - Radiance [CD 2)
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Radiance Part 10
+TTITLE1=Radiance Part 11
+TTITLE2=Radiance Part 12
+TTITLE3=Radiance Part 13
+TTITLE4=Radiance Part 14
+TTITLE5=Radiance Part 15
+TTITLE6=Radiance Part 16
+TTITLE7=Radiance Part 17
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

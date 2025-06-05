@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16750
+#
+# Disc length: 478 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0901dc02
+DTITLE=橘いずみ - バニラ
+DYEAR=1993
+DGENRE=JPop
+TTITLE0=バニラ
+TTITLE1=ハムレット
+EXTD=YEAR: 1993
+EXTT0=Radio Edit
+EXTT1=Instrumental
+PLAYORDER=

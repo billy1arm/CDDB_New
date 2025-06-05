@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23932
+#	43439
+#	62057
+#	90978
+#	113657
+#	136479
+#	173446
+#
+# Disc length: 2537 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6309e708
+DTITLE=Cerny Mosty - Cerny Koreni
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=Bourbon Street
+TTITLE1=Vetesnik
+TTITLE2=Cerny Koreni
+TTITLE3=Pussy Cat
+TTITLE4=Bluesbar
+TTITLE5=Whisky Z Cernych Slunecnic
+TTITLE6=Tobacco Road
+TTITLE7=Blues Pro Par Slecen
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

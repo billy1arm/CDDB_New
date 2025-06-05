@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15741
+#	30825
+#	44473
+#	55021
+#
+# Disc length: 960 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3003be05
+DTITLE=Adele - Live at the Hotel Cafe (19 Bonus Disc)
+DYEAR=2008
+DGENRE=Blues
+TTITLE0=Right As Rain
+TTITLE1=Melt My Heart To Stone
+TTITLE2=My Same
+TTITLE3=That's It, I Quit, I'm Moving On
+TTITLE4=Chasing Pavements
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21350
+#	37450
+#	58075
+#	75625
+#	98000
+#	108725
+#	133000
+#	153900
+#	176675
+#	204900
+#
+# Disc length: 2929 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=950b6f0b
+DTITLE=Gary Boudreault - album simple
+DYEAR=2000
+DGENRE=Québécois
+TTITLE0=le grand gigon
+TTITLE1=laisser sa trace
+TTITLE2=une femme
+TTITLE3=tu m'as toujours blamé
+TTITLE4=31 décembre
+TTITLE5=le soleil encore
+TTITLE6=le boxeur poèete
+TTITLE7=le choix du silence
+TTITLE8=le fils du militaire
+TTITLE9=Brandy nose
+TTITLE10=si j'avais un toupett
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	61994
+#	87706
+#	139955
+#	183482
+#	257738
+#	302873
+#
+# Disc length: 4478 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=67117c07
+DTITLE=John Coltrane - 6 Essential Albums, CD 3
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=My favorite things
+TTITLE1=Everytime we say goodbye
+TTITLE2=Summertime
+TTITLE3=But not for me
+TTITLE4=Africa
+TTITLE5=Greensleeves
+TTITLE6=Blues minor
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

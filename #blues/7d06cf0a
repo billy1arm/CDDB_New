@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12807
+#	27532
+#	41400
+#	53952
+#	66030
+#	80077
+#	93847
+#	106035
+#	118462
+#
+# Disc length: 1745 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7d06cf0a
+DTITLE=Sons of the Pioneers (featuring Roy Rogers) - Tumbling Tumbleweeds
+DYEAR=1993
+DGENRE=Cowboy Songs
+TTITLE0=I'm an Old Cowhand (From the Rio Grande)
+TTITLE1=Tumbling Tumbleweeds
+TTITLE2=Blue Prairie
+TTITLE3=One More Ride
+TTITLE4=A Melody From the Sky
+TTITLE5=Blue Bonnet Girl
+TTITLE6=Over the Santa Fe Trail
+TTITLE7=Empty Saddles
+TTITLE8=Cool Water
+TTITLE9=Song of the Pioneers
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

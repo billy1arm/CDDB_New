@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19373
+#	35164
+#	51219
+#	68638
+#	85308
+#	103548
+#	120042
+#	140288
+#	160397
+#	193685
+#
+# Disc length: 2958 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=900b8c0b
+DTITLE=8-Bit Ninjas - Demos
+DYEAR=2010
+DGENRE=New Age
+TTITLE0=Theme From 8-Bit Dojo
+TTITLE1=Disco Terror
+TTITLE2=Fight In A Bus Stop
+TTITLE3=Pokemon Face
+TTITLE4=Occam's Disco Razor
+TTITLE5=Go
+TTITLE6=Push It
+TTITLE7=Shiny Spaceship
+TTITLE8=Ride On Time
+TTITLE9=My Delirium (Ladyhawke Remix)
+TTITLE10=Tricky Tricky (Royksopp Remix)
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

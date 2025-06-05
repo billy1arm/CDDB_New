@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29606
+#	54608
+#	77683
+#	105518
+#	135816
+#	168841
+#	189787
+#
+# Disc length: 2694 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=550a8408
+DTITLE=Havard Wiik Trio - The Arcades Project
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Arcades
+TTITLE1=Malachi
+TTITLE2=Wiesengrund
+TTITLE3=Odradek
+TTITLE4=W.F.W.
+TTITLE5=Enology
+TTITLE6=Portbou
+TTITLE7=Italics
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

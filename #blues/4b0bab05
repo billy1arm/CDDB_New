@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	72367
+#	101051
+#	134083
+#	192286
+#
+# Disc length: 2989 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4b0bab05
+DTITLE=Alex Cline - The Lamp and the Star
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=A Blue Robe in the Distance
+TTITLE1=Eminence
+TTITLE2=Emerald Light
+TTITLE3=Altar Stone
+TTITLE4=Accepting the Chalice
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

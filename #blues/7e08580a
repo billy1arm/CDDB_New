@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10697
+#	24075
+#	40472
+#	57675
+#	77475
+#	99437
+#	117212
+#	133587
+#	147525
+#
+# Disc length: 2138 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7e08580a
+DTITLE=Sarah Vaughan - Trouble Is A Man
+DYEAR=1900
+DGENRE=
+TTITLE0=When Your Lover Has Gone
+TTITLE1=Misty
+TTITLE2=The Nearness Of You
+TTITLE3=Sophisticated Lady
+TTITLE4=Star Eyes
+TTITLE5=Remember You
+TTITLE6=When Sunny Gets Blue
+TTITLE7=Round Midnight
+TTITLE8=It Might As Well Be Spring
+TTITLE9=Lord's Prayer
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

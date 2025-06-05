@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42040
+#	104257
+#	109015
+#	121872
+#	226012
+#	269465
+#
+# Disc length: 3913 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=4e0f4707
+DTITLE=Sonny Rollins Quartet - Live In Paris 1963
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Solitude
+TTITLE1=On Green Dolphin Street
+TTITLE2=Announcement By S. Rollins
+TTITLE3=Without A Song
+TTITLE4=Sonny Moon For Two
+TTITLE5=Everything Happens To Me
+TTITLE6=52nd St Theme
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

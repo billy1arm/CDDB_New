@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36704
+#	60605
+#	76753
+#	130450
+#	142169
+#	172949
+#	180230
+#
+# Disc length: 4563 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=6b11d108
+DTITLE=Antoine Galvani - Suite Astrale
+DYEAR=2017
+DGENRE=Jazz
+TTITLE0=Space Trip 1
+TTITLE1=Mirages
+TTITLE2=Strange Ground
+TTITLE3=Symetric Land
+TTITLE4=Space Trip 2
+TTITLE5=WorldWarWorld
+TTITLE6=Space Trip 3
+TTITLE7=Home Run
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

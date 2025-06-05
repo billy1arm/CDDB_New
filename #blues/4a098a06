@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29912
+#	76100
+#	83850
+#	130575
+#	148800
+#
+# Disc length: 2444 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4a098a06
+DTITLE=Gil Evans - Svengali
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=Thoroughbred
+TTITLE1=Blues in Orbit
+TTITLE2=Eleven
+TTITLE3=Cry of Hunger
+TTITLE4=Summertime
+TTITLE5=Zee Zee
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

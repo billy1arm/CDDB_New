@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29656
+#	47815
+#	76430
+#	99914
+#	125826
+#	157026
+#	172679
+#
+# Disc length: 2456 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=61099608
+DTITLE=Evan Parker - Matthew Shipp - Abbey Road Duos
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Tenor Suite i
+TTITLE1=Tenor Suite ii
+TTITLE2=Tenor Suite iii
+TTITLE3=Tenor Suite iv
+TTITLE4=Alto Suite i
+TTITLE5=Alto Suite ii
+TTITLE6=Alto Suite iii
+TTITLE7=Alto Suite iv
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

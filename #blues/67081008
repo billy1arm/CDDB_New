@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17720
+#	40305
+#	59693
+#	81120
+#	88933
+#	112508
+#	132698
+#
+# Disc length: 2066 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=67081008
+DTITLE=Jan James - Last Train
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=Don't Cross The Line
+TTITLE1=Blame It On Time
+TTITLE2=What Kind Of Man
+TTITLE3=One Burnin Light
+TTITLE4=Help Me
+TTITLE5=Time Won't Let Me Down
+TTITLE6=It's Over
+TTITLE7=Last Train
+EXTD=YEAR: 1992 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

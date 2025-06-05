@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	68837
+#	83611
+#	110339
+#	205795
+#
+# Disc length: 3005 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=370bbb05
+DTITLE=Miles Davis - Live - Evil 1
+DYEAR=1971
+DGENRE=Jazz
+TTITLE0=Sivad
+TTITLE1=Little Church
+TTITLE2=Medley Gemini Double Image
+TTITLE3=What I Say
+TTITLE4=Nem Um Talvez
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	29492
+#	71340
+#	103167
+#	141937
+#	175950
+#	197752
+#	218440
+#	249172
+#	298350
+#
+# Disc length: 4382 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta1
+#
+DISCID=97111c0a
+DTITLE=Grateful Dead - Next Night At The Spectrum
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Hell In A Bucket
+TTITLE1=West L.A. Fadeaway
+TTITLE2=El Paso
+TTITLE3=Ramble On Rose
+TTITLE4=Just Like Tom Thumb's Blues
+TTITLE5=Jackaroe
+TTITLE6=Promised Land
+TTITLE7=It's All Too Much
+TTITLE8=Iko Iko
+TTITLE9=Playing In The Band
+EXTD=YEAR: 1995 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

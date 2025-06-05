@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20447
+#	40715
+#	61032
+#
+# Disc length: 1040 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=24040e04
+DTITLE=Eminem - My name is (Promo)
+DYEAR=1999
+DGENRE=Hip-Hop
+TTITLE0=My name is (Clean Version)
+TTITLE1=My name is (Album Version)
+TTITLE2=My name is (Instrumental)
+TTITLE3=My name is (A Capella)
+EXTD=YEAR: 1999 ID3G: 7
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

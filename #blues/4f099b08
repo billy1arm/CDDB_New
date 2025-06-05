@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27265
+#	49077
+#	74297
+#	90122
+#	121210
+#	135087
+#	157582
+#
+# Disc length: 2461 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=4f099b08
+DTITLE=Leonard Cohen - I'm Your Man
+DYEAR=1988
+DGENRE=Blues
+TTITLE0=First We Take Manhattan
+TTITLE1=Ain't No Cure For Love
+TTITLE2=Everybody Knows
+TTITLE3=I'm Your Man
+TTITLE4=Take This Waltz
+TTITLE5=Jazz Police
+TTITLE6=I Can't Forget
+TTITLE7=Tower Of Song
+EXTD=YEAR: 1988 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

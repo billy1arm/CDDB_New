@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12531
+#	26552
+#	40482
+#	49161
+#	64188
+#	81968
+#	90611
+#
+# Disc length: 1414 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=66058408
+DTITLE=Operación Triunfo 2002-2003 - La mejor salsa
+DYEAR=2003
+DGENRE=Salsa
+TTITLE0=Devórame otra vez
+TTITLE1=Agüita de tu boca
+TTITLE2=Dame
+TTITLE3=Angelito
+TTITLE4=Tú me amas
+TTITLE5=Qué será
+TTITLE6=Color esperanza
+TTITLE7=Dónde van
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31530
+#	54377
+#	76470
+#	94540
+#	117332
+#	140297
+#	163120
+#
+# Disc length: 2510 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5809cc08
+DTITLE=Guayacan - Nadie nos quita lo Bailao
+DYEAR=1999
+DGENRE=Salsa
+TTITLE0=Fiesta Tropical
+TTITLE1=Fiesta Colombiana
+TTITLE2=Fiesta Costeña
+TTITLE3=Fiesta Carranguera
+TTITLE4=Fiesta Carnaval
+TTITLE5=Fiesta Caleña
+TTITLE6=Fiesta Llanera
+TTITLE7=Fiesta Navideña
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

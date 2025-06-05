@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18755
+#	37563
+#	49428
+#	62927
+#	76622
+#	97398
+#	110446
+#	133125
+#	153529
+#	168882
+#	186279
+#
+# Disc length: 2785 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=980adf0c
+DTITLE=Jim Roberts and Amy Jo Johnson - Merry Christmas '99
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Let It Snow
+TTITLE1=Silent Night
+TTITLE2=God Rest Ye Merry Gentlemen
+TTITLE3=Coventry Carol
+TTITLE4=O Christmas Tree
+TTITLE5=White Christmas
+TTITLE6=Sleigh Ride
+TTITLE7=Rudolph The Red-Nosed Reindeer
+TTITLE8=The Christmas Song
+TTITLE9=Santa Claus Is Comin' To Town
+TTITLE10=Christmas Time Is Here
+TTITLE11=Have Yourself A Merry Little Christmas
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

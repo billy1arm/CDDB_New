@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15925
+#	31650
+#	44375
+#	57760
+#	69452
+#	85120
+#	101632
+#
+# Disc length: 1533 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5405fb08
+DTITLE=Charlie Parker - Bird And Diz
+DYEAR=1950
+DGENRE=Jazz
+TTITLE0=Bloomdido
+TTITLE1=Melancholy Baby
+TTITLE2=Relaxing With Me
+TTITLE3=Passport
+TTITLE4=Leap Frog
+TTITLE5=An Oscar For Treadwell
+TTITLE6=Mohawk
+TTITLE7=Visa
+EXTD=YEAR: 1950
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

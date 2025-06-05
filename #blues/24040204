@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21000
+#	38730
+#	56280
+#
+# Disc length: 1028 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=24040204
+DTITLE=Oserockets - Escape
+DYEAR=2000
+DGENRE=Rock
+TTITLE0=Escape
+TTITLE1=アクセサリー
+TTITLE2=恋愛 (Easy Version)
+TTITLE3=Escape (Voice Escape Version)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	75372
+#	124670
+#	165070
+#	208982
+#	236170
+#
+# Disc length: 3457 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=410d7f06
+DTITLE=Emil Gilels - Gilels - Beethoven (Piano Concerto No. 3) - Bach (Brandenburg Concerto No. 5)
+DYEAR=1999
+DGENRE=Classical
+TTITLE0=Concerto For Piano And Orchestra No. 3 In C Minor, Op. 37 - 1. Allegro con brio - Cadence (live)
+TTITLE1=Concerto For Piano And Orchestra No. 3 In C Minor, Op. 37 - 2. Largo (live)
+TTITLE2=Concerto For Piano And Orchestra No. 3 In C Minor, Op. 37 - 3. Rondo - Allegro (live)
+TTITLE3=Brandenburg Concerto No. 5 In D Major, BWV 1050 - 1. Allegro (live)
+TTITLE4=Brandenburg Concerto No. 5 In D Major, BWV 1050 - 2. Affettuoso (live)
+TTITLE5=Brandenburg Concerto No. 5 In D Major, BWV 1050 - 3. Allegro (live)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

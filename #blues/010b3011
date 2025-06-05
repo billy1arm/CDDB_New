@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	8745
+#	12597
+#	25235
+#	41662
+#	46162
+#	55342
+#	70055
+#	94252
+#	104730
+#	117137
+#	133697
+#	138705
+#	161102
+#	176840
+#	192720
+#	207407
+#
+# Disc length: 2866 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=010b3011
+DTITLE=John Fahey - The Guitar of John Fahey
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=In Christ There Is No East Or West
+TTITLE1=Take A Look At That Baby
+TTITLE2=Some Summer Day
+TTITLE3=On Tha Sunny Side Of The Ocean
+TTITLE4=Spanish Two Step
+TTITLE5=It Came Upon The Midnight Clear
+TTITLE6=St. Louis Blues
+TTITLE7=Indian Pacific Railroad
+TTITLE8=The Last Steam Engine Train
+TTITLE9=The Union Pacific
+TTITLE10=Requiem For John Hurt
+TTITLE11=Auld Lang Syne
+TTITLE12=When The Springtime Comes
+TTITLE13=The Approaching Of The Disco Void
+TTITLE14=Steamboat Gwine Round The Bend
+TTITLE15=Silent Night
+TTITLE16=Poor Boy Long Way From Home
+EXTD=\nYEAR: 1995  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

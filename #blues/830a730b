@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19255
+#	35323
+#	55185
+#	72815
+#	90030
+#	104733
+#	121945
+#	142995
+#	159275
+#	177968
+#
+# Disc length: 2677 seconds
+#
+# Revision: 11
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=830a730b
+DTITLE=Electric Light Orchestra - ELO's Greatest Hits
+DYEAR=1979
+DGENRE=Rock
+TTITLE0=Evil Woman
+TTITLE1=Livin' Thing
+TTITLE2=Can't Get It Out Of My Head
+TTITLE3=Showdown
+TTITLE4=Turn To Stone
+TTITLE5=Rockaria!
+TTITLE6=Sweet Talkin' Woman
+TTITLE7=Telephone Line
+TTITLE8=Ma-Ma-Ma Belle
+TTITLE9=Strange Magic
+TTITLE10=Mr. Blue Sky
+EXTD=LABEL =CBS Inc.\nID =ZK36310\nUPC =07464-36310-2\nCOPYRIGHT =1979, YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

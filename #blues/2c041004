@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14850
+#	40650
+#	63750
+#
+# Disc length: 1042 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2c041004
+DTITLE=千聖 - VENUS
+DYEAR=1999
+DGENRE=Rock
+TTITLE0=VENUS
+TTITLE1=VENUS 〜Phisical Sisters Mix〜
+TTITLE2=DANCE WITH THE WILD THINGS 〜Live Version〜
+TTITLE3=VENUS 〜Back Track〜
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

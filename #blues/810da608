@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42610
+#	88355
+#	110076
+#	148776
+#	177938
+#	206957
+#	229985
+#
+# Disc length: 3496 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=810da608
+DTITLE=Jim Roberts - Live in Central Florida
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Naima
+TTITLE1=Concierto de Aranjuez
+TTITLE2=Opus One
+TTITLE3=St. Thomas
+TTITLE4=Freddie The Freeloader
+TTITLE5=Reflection
+TTITLE6=Don't Be That Way
+TTITLE7=Winter Wonderland
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

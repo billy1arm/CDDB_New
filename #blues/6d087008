@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14291
+#	33778
+#	53535
+#	72722
+#	104055
+#	116807
+#	135527
+#
+# Disc length: 2162 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=6d087008
+DTITLE=Dodjão do Blues - Live at Fernando's Living Room
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=My Baby
+TTITLE1=Sweet Home Chicago
+TTITLE2=Hoochie Coochie Man
+TTITLE3=Start Me Up
+TTITLE4=The Sky Is Crying
+TTITLE5=Blues Simplex
+TTITLE6=Miss Celie's Blues
+TTITLE7=Five Long Years
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

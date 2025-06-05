@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20324
+#	79729
+#	124795
+#
+# Disc length: 2025 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2507e704
+DTITLE=Miles Davis - Ultimate Miles CD4-5
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Airegin
+TTITLE1=Tune Up
+TTITLE2=Blues By Five
+TTITLE3=My Funny Valentine
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

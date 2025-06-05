@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18087
+#	34965
+#	53850
+#	78320
+#	102200
+#	122032
+#	139347
+#
+# Disc length: 2250 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=6308c808
+DTITLE=Janis Joplin - I Got Dem Ol' Kozmic Blues Again Mama!
+DYEAR=1969
+DGENRE=Blues
+TTITLE0=Try (Just a Little Bit Harder)
+TTITLE1=Maybe
+TTITLE2=One Good Man
+TTITLE3=As Good As You've Been to this World
+TTITLE4=To Love Somebody
+TTITLE5=Kozmic Blues
+TTITLE6=Little Girl Blue
+TTITLE7=Work Me, Lord!
+EXTD=YEAR: 1969 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16160
+#	31450
+#	58937
+#
+# Disc length: 939 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2c03a904
+DTITLE=MUFAS - NEW FAREWELL
+DYEAR=2005
+DGENRE=Rock
+TTITLE0=NEW FAREWELL
+TTITLE1=Runaway
+TTITLE2=motion
+TTITLE3=data
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

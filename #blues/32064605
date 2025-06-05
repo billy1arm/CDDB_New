@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22125
+#	46800
+#	64575
+#	97575
+#
+# Disc length: 1608 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=32064605
+DTITLE=pe'zmoku - ギャロップ
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=ギャロップ
+TTITLE1=流星群
+TTITLE2=密室
+TTITLE3=Nica's Dream
+TTITLE4=盲者の旅路(Re-constructed by pe'zmoku)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

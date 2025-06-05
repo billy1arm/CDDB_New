@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11440
+#	27628
+#	50070
+#	63621
+#	75983
+#	85759
+#	107037
+#	121774
+#	141827
+#	153991
+#
+# Disc length: 2285 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=8708eb0b
+DTITLE=Vie Zzaj Trio - Lundis
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=01 One note samba
+TTITLE1=02 Caravan
+TTITLE2=03 Georgia on my mind
+TTITLE3=04 Yardbird Suite
+TTITLE4=05 Hound dog
+TTITLE5=06 It don't mean a thing
+TTITLE6=07 Misty
+TTITLE7=08 Stormy weather
+TTITLE8=09 My favorite thing
+TTITLE9=10 Well you needn't
+TTITLE10=11 Nature boy
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

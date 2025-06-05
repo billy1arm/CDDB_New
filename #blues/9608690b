@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18946
+#	32551
+#	45406
+#	58859
+#	72545
+#	90174
+#	104629
+#	119062
+#	131697
+#	144855
+#
+# Disc length: 2155 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9608690b
+DTITLE=Miles Davis - The Collection - Disk1
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Out Of Nowhere
+TTITLE1=A Night In Tunisia
+TTITLE2=Yardbird Suite
+TTITLE3=Orienthology
+TTITLE4=Moose The Mooch
+TTITLE5=Embraceable You
+TTITLE6=Bird of Paradise
+TTITLE7=My Old Flame
+TTITLE8=Don't Blame Me
+TTITLE9=Scrapple In The Apple
+TTITLE10=Move
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

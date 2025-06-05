@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	40480
+#	57475
+#	80477
+#	99807
+#	123135
+#	148170
+#	160817
+#	176220
+#	190530
+#
+# Disc length: 2878 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=830b3b0a
+DTITLE=Various Artist - Carnaval Mix
+DYEAR=1998
+DGENRE=Salsa
+TTITLE0=Gypsy_mix-Los_del_Valle
+TTITLE1=Macarena-Bravo
+TTITLE2=Disco_samba-Los_mayos
+TTITLE3=Blue_moon-Andrew_sixty
+TTITLE4=Sunshine_reggae-Carnaval_remix_the_flashback
+TTITLE5=Vamos_a_la_playa-The_sun_boys
+TTITLE6=Ole_ole_ole_ole-The_winners
+TTITLE7=Kalinka-Edit_mix_Atenna
+TTITLE8=Zorba_the_grek_Atenna
+TTITLE9=Minocchio_mix
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	86786
+#	104347
+#	179226
+#
+# Disc length: 2823 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=340b0504
+DTITLE=Henry Threadgill - Old Locks and Irregular Verbs
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=Part One
+TTITLE1=Part Two
+TTITLE2=Part Three
+TTITLE3=Part Four
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22125
+#
+# Disc length: 586 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=12024802
+DTITLE=KAB. - Unknown CD for MusicBrainz and FreeDB
+DYEAR=1999
+DGENRE=JPop
+TTITLE0=19の夏
+TTITLE1=19の夏（インストゥルメンタル）
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+PLAYORDER=

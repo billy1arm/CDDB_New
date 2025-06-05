@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13785
+#	29422
+#	42904
+#	57543
+#	70538
+#
+# Disc length: 1448 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4b05a606
+DTITLE=compilation - jazz magazine 1952
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Earl Bostic and his orchestra - Cherokee
+TTITLE1=Milt Jackson quartet - Softly, as a morning sunrise
+TTITLE2=Gerry Mulligan quartet - My funny Valentine
+TTITLE3=Johnny Smith qunitet - Moonlight in Vermont
+TTITLE4=The three strings - Ahmad's blues
+TTITLE5=Diy Gillespie sextet - Scholl days
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

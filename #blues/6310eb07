@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29832
+#	54557
+#	89675
+#	121412
+#	178840
+#	235207
+#
+# Disc length: 4333 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=6310eb07
+DTITLE=Richard Wagner - Wagner: Highlights From 'The Ring' - Mehta
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=Entrance Of The Gods Into Valhalla
+TTITLE1=The Ride Of The Valkyries
+TTITLE2=Magic Fire Music
+TTITLE3=Forest Murmurs
+TTITLE4=Dawn and Siegfried'S Rhine Journey
+TTITLE5=Siegfried'S Funeral Music
+TTITLE6=Brunnhilde'S Immolation Scene
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15202
+#	30237
+#	47770
+#	65907
+#	80087
+#	91172
+#	107430
+#	122435
+#	136735
+#	153287
+#	168165
+#
+# Disc length: 2467 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8109a10c
+DTITLE=FatBone - Down and Dirty
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm Done
+TTITLE1=Side Dishes
+TTITLE2=Down and Dirty
+TTITLE3=So Alone
+TTITLE4=Love Has Come My Way
+TTITLE5=She's All Mine
+TTITLE6=All I Want
+TTITLE7=I'm Talking To You
+TTITLE8=Boogie Dog
+TTITLE9=Weary Eyes
+TTITLE10=Givin' It Up For Your Love
+TTITLE11=Pride And Joy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

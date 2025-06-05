@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10846
+#	30851
+#	46853
+#	61478
+#	79438
+#	104050
+#	127836
+#	145775
+#
+# Disc length: 2232 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e08b609
+DTITLE=Cal Tjader - Soul Sauce
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Soul Sauce
+TTITLE1=Afro-Blue
+TTITLE2=Pantano
+TTITLE3=Somewhere in the Night
+TTITLE4=Maramoor
+TTITLE5=Tanya
+TTITLE6=Leyte
+TTITLE7=Spring Is Here
+TTITLE8=Joao
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

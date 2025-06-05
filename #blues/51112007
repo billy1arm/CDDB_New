@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48125
+#	93652
+#	156142
+#	198052
+#	255570
+#	294205
+#
+# Disc length: 4386 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=51112007
+DTITLE=Ludwigsburger Jazztage - Ludwigsburger Jazztage
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Blues on monday (Joshua Redman Quartet)
+TTITLE1=Round Midnight Trinkle Trinkle  (Chick Corea)
+TTITLE2=June bug (Oregon)
+TTITLE3=There will never be another you (Kenny Werner Trio)
+TTITLE4=Sticky wicket (Kenny Werner)
+TTITLE5=From light to light (Mike Mainieri and Steps Ahead)
+TTITLE6=Luna park (Joe Lovano)
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

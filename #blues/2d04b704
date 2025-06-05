@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21528
+#	45932
+#	73501
+#
+# Disc length: 1209 seconds
+#
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+#CATEGORY=blues
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=2d04b704
+DTITLE=Bios - Escape
+DYEAR=2002
+DGENRE=Indie
+TTITLE0=Not a Smile
+TTITLE1=Radio
+TTITLE2=Opposti Motivi II
+TTITLE3=Goodbye
+EXTD=www.biosmusic.com
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

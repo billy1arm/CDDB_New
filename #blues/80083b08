@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27721
+#	50573
+#	73324
+#	86923
+#	97531
+#	119954
+#	142327
+#
+# Disc length: 2109 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=80083b08
+DTITLE=Kenny Clarke and Francy Boland - Sax No End, Sex No End
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=New Box
+TTITLE1=Sax No End
+TTITLE2=Griff's Groove
+TTITLE3=Lockjaw Blues
+TTITLE4=The Turk
+TTITLE5=Milkshake
+TTITLE6=Peter's Waltz
+TTITLE7=Griff'n'Jaw
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

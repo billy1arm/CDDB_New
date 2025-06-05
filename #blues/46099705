@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28455
+#	61284
+#	96645
+#	136775
+#
+# Disc length: 2457 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=46099705
+DTITLE=Frank Bozak - Music for Your Spleen
+DYEAR=2007
+DGENRE=New Age
+TTITLE0=Lungs
+TTITLE1=Heart
+TTITLE2=Liver
+TTITLE3=Kidney
+TTITLE4=Spleen
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     13325
+#     23175
+#     48450
+#     65187
+#     78802
+#     97595
+#     134517
+#     148087
+#     161375
+# 
+# Disc length: 2317 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=81090b0a
+DTITLE=Dr. John ( Mack Rebinack ) - Right Place Wrong Time
+DYEAR=1900
+DGENRE=
+TTITLE0=Right Place Wrong Time
+TTITLE1=Tipitina
+TTITLE2=Gris-Gris Gumbo Ya Ya
+TTITLE3=Wash Mama Wash
+TTITLE4=Such A Night
+TTITLE5=Iko Iko
+TTITLE6=Mardi Gras Day
+TTITLE7=Mama Roux
+TTITLE8=Let's Make A Better World
+TTITLE9=Mos' Scocious
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

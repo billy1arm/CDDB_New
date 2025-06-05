@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8605
+#	21982
+#	30935
+#	31805
+#	47557
+#	64045
+#	79667
+#	84127
+#	87597
+#	88825
+#	91300
+#
+# Disc length: 1238 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a04d40c
+DTITLE=雷電伝説 - セイブ開発
+DYEAR=1990
+DGENRE=ゲーム音楽
+TTITLE0=FIGHTING THUNDER (Arrange Version)
+TTITLE1=Coin～GALLANTRY (Round 1,4)
+TTITLE2=GO TO BLAZES ! (Boss)
+TTITLE3=INTERMISSION (Round Clear)
+TTITLE4=LIGHTING WAR (Round 2,7)
+TTITLE5=ROUGH AND TUMBLE (Round 3,6)
+TTITLE6=FIGHTING THUNDER (Round 5,8)
+TTITLE7=Name Regist
+TTITLE8=Continue
+TTITLE9=S.E. COLLECTION 1
+TTITLE10=S.E. COLLECTION 2
+TTITLE11=S.E. COLLECTION 3
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

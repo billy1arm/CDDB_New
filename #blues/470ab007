@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38855
+#	72930
+#	90817
+#	128312
+#	152822
+#	181187
+#
+# Disc length: 2738 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=470ab007
+DTITLE=The Robert Cray Band - Live From Across The Pond (Disc-2)
+DYEAR=2006
+DGENRE=Blues
+TTITLE0=I Was Warned
+TTITLE1=Twenty
+TTITLE2=Bad Influence
+TTITLE3=The One In The Middle
+TTITLE4=Back Door Slam
+TTITLE5=Time Makes Two
+TTITLE6=I'm Walkin'
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

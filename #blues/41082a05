@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     17195
+#     55482
+#     94895
+#     123507
+# 
+# Disc length: 2092 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=41082a05
+DTITLE=Grace - Hand In Hand (Single)
+DYEAR=1900
+DGENRE=
+TTITLE0=Oakenfold And Osborne Radio Mix
+TTITLE1=Jam El Mar Mix
+TTITLE2=Eddy Fingers Vocal Mix
+TTITLE3=Legend B Mix
+TTITLE4=Oakenfold And Osborne Mix
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

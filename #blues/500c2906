@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34930
+#	67283
+#	100925
+#	131305
+#	160318
+#
+# Disc length: 3115 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=500c2906
+DTITLE=Simon Cooper - Music Of The Womb
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=Music Of The Womb Part 1
+TTITLE1=Music Of The Womb Part 2
+TTITLE2=Music Of The Womb Part 3
+TTITLE3=Music Of The Womb Part 4
+TTITLE4=Music Of The Womb Part 5
+TTITLE5=The Rhythm Of Life
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

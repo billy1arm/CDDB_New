@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20477
+#	42163
+#	70653
+#	92568
+#	112560
+#	149783
+#
+# Disc length: 2188 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=54088a07
+DTITLE=The Code Blue Band - Tight at Midnight
+DYEAR=2008
+DGENRE=Blues
+TTITLE0=Midnight Train
+TTITLE1=Fire on the Bayou
+TTITLE2=Shame, Shame Shame
+TTITLE3=Cold Sweat
+TTITLE4=High on the Hog
+TTITLE5=Blues Me to Tears
+TTITLE6=Honey Write
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

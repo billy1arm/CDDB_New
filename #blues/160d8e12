@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15305
+#     28895
+#     41965
+#     54862
+#     67400
+#     78675
+#     92705
+#     107882
+#     121515
+#     134655
+#     148937
+#     173557
+#     186970
+#     200150
+#     217125
+#     228947
+#     246492
+# 
+# Disc length: 3472 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=160d8e12
+DTITLE=Various Artist - Blues Masters Volume 1 - Urban Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=After Hours
+TTITLE1=Kidney Stew Blues
+TTITLE2=Ain't Nobody's Business
+TTITLE3=Baby Get Lost
+TTITLE4=Double Crossing Blues
+TTITLE5=Blues After Hours
+TTITLE6=Black Nite
+TTITLE7=Chains Of Love
+TTITLE8=The Things That I Used To Do
+TTITLE9=I Feel So Bad
+TTITLE10=Reconsider Baby
+TTITLE11=Every Day
+TTITLE12=Farther Up The Road
+TTITLE13=I Can't Quit You Baby
+TTITLE14=T-Bone Blues
+TTITLE15=Driving Wheel
+TTITLE16=Part Time love
+TTITLE17=Laundromat Blues
+EXTD=
+EXTT0=Erskine Hawkins and His Orchestra\n
+EXTT1=Eddy Vinson\n
+EXTT2=Jimmy Witherspoon\n
+EXTT3=Dinah Washington\n
+EXTT4=Johnny Otis Quintette (with The Robins and \nLittle Esther\n
+EXTT5=Pee Wee Crayton\n
+EXTT6=Charles Brown\n
+EXTT7=Joe Turner\n
+EXTT8=Guitar Slim\n
+EXTT9=Chuck Willis\n
+EXTT10=Lowell Fulson\n
+EXTT11=Count Basie and His Orchestra\n(Vocal By Joe Williams]\n
+EXTT12=Bobby Blue Bland\n
+EXTT13=Otis Rush\n
+EXTT14=T-Bone Walker\n
+EXTT15=Junior Parker\n
+EXTT16=Little Johnny Taylor\n
+EXTT17=Albert King\n
+PLAYORDER=

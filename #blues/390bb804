@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	59132
+#	110200
+#	169669
+#
+# Disc length: 3002 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=390bb804
+DTITLE=Art Blakey - Live Messengers [CD1]
+DYEAR=1974
+DGENRE=Jazz
+TTITLE0=It's Only A Paper Moon
+TTITLE1=Mosaic
+TTITLE2=Ping Pong
+TTITLE3=Up Jumped Spring (Alternate Version)
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

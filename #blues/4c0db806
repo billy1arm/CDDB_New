@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43988
+#	82921
+#	132571
+#	181534
+#	218825
+#
+# Disc length: 3514 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4c0db806
+DTITLE=Unfurl - Live 1
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Forest Piece
+TTITLE1=Tathagatha
+TTITLE2=Gypsy Nine
+TTITLE3=Altered Piece
+TTITLE4=Amoghasiddhi
+TTITLE5=Hans Dwani
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

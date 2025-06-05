@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23625
+#	52800
+#	77475
+#	93900
+#	107250
+#	139650
+#	156000
+#	171375
+#	195825
+#	222727
+#	240375
+#
+# Disc length: 3503 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=890dad0c
+DTITLE=Various Artist - The jazz collection [CD1)
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Louis Armstrong - Struttin' with some barbecue
+TTITLE1=Chet Baker - Milestones
+TTITLE2=Count Basie - Corner pocket
+TTITLE3=Sidney Bechet - Really the blues
+TTITLE4=Bix Beiderbecke - Singin' the blues
+TTITLE5=John Coltrane - Naima
+TTITLE6=Miles Davis - What's new
+TTITLE7=Tommy Dorsey - Blue skies
+TTITLE8=Duke Ellington - C jam blues
+TTITLE9=Stan Getz - Broadway
+TTITLE10=Dizzy Gillespie - I can't get started
+TTITLE11=Benny Goodman - St. Louis blues
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

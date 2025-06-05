@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23308
+#	40922
+#	63847
+#
+# Disc length: 1217 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2204bf04
+DTITLE=Piero Pelu - 100% live
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Io Ci Sarò Live
+TTITLE1=Fuori Di Qui Live
+TTITLE2=Il Segno Live
+TTITLE3=El Diablo Live
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

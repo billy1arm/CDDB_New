@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30367
+#	65864
+#	85694
+#	107719
+#	137221
+#	159376
+#	182815
+#
+# Disc length: 2782 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=650adc08
+DTITLE=Bud Shank - Bud Shank Plays Tenor
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Thou Swell
+TTITLE1=Tenderly
+TTITLE2=Over The Rainbow
+TTITLE3=Long Ago And Far Away
+TTITLE4=I Never Knew
+TTITLE5=All The Things You Are
+TTITLE6=Body And Soul
+TTITLE7=Blue Lou
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

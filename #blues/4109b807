@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22666
+#	53337
+#	72786
+#	94018
+#	121339
+#	150447
+#
+# Disc length: 2490 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4109b807
+DTITLE=Kenny Burrell - Introducing Kenny Burrell
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=This Time The Dream's On Me
+TTITLE1=Fugue 'N Blues
+TTITLE2=Takeela
+TTITLE3=Weaver Of Dreams
+TTITLE4=Delilah
+TTITLE5=Rhythmorama
+TTITLE6=Blues For Skeeter
+EXTD=Kenny Burrell (guitar), Tommy Flanagan (piano), Paul Chambers (bass), Kenny Clarke (drums), Candido (conga]\n\nRecorded May 29, 1956\nBlue Note BLP-1523 YEAR: 1956
+EXTT0=(Arlen-Mercer)
+EXTT1=(Burrell)
+EXTT2=(Burrell)
+EXTT3=(Young-Elliot)
+EXTT4=(V. Young)
+EXTT5=(Clarke)
+EXTT6=(Burrell)
+PLAYORDER=

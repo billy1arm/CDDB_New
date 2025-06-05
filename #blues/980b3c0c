@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	15357
+#	40177
+#	56557
+#	70830
+#	87200
+#	93990
+#	111015
+#	130810
+#	146037
+#	160065
+#	194350
+#
+# Disc length: 2878 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=980b3c0c
+DTITLE=Masters Of Reality - Masters Of Reality
+DYEAR=1900
+DGENRE=
+TTITLE0=The Candy Song
+TTITLE1=Doraldin's Prophicies
+TTITLE2=John Brown
+TTITLE3=Gettin' High
+TTITLE4=Magical Spell
+TTITLE5=Theme For The Scientist Of The Invisible
+TTITLE6=Domino
+TTITLE7=The Blue Garden
+TTITLE8=The Eyes Of Texas
+TTITLE9=Lookin' To Get Right
+TTITLE10=Kill The King
+TTITLE11=Sleep Walkin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

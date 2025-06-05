@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25025
+#	46970
+#	57137
+#	80630
+#	112090
+#	136475
+#	169335
+#	184295
+#	205975
+#
+# Disc length: 3154 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8e0c500a
+DTITLE=Various Artist - New Orleans Music - Audio News Collection
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Mardi Gras in New Orleans - Charmaine Neville
+TTITLE1=Bourbon Street Parade ¦ When The Saints Go Marching In - Charmaine Neville
+TTITLE2=Jock-A-Mo (Iko Iko) - Davell Crawford
+TTITLE3=Tenderly - Davell Crawford
+TTITLE4=(Medley) Ain't no Sunshine ¦  Get Up, Stand Up ¦ Sister Rosa ¦ I Shot the Sheriff ¦ Hey Joe - Charmaine Neville
+TTITLE5=Proud Mary - Marva Wright
+TTITLE6=What Wonderful World - Marva Wright
+TTITLE7=Groove Me - John Cleary
+TTITLE8=Big Chief - John Cleary
+TTITLE9=Oh, Happy Day - Davell Crawford
+EXTD=YEAR: 1996
+EXTT0=Charmaine Neville\n
+EXTT1=Charmaine Neville\n
+EXTT2=Davell Crawford\n
+EXTT3=Davel Crawford\n
+EXTT4=Charmaine Neville\n
+EXTT5=Marva Wright\n
+EXTT6=Marva Wright\n
+EXTT7=John Cleary\n
+EXTT8=John Cleary\n
+EXTT9=Davel Crawford\n
+PLAYORDER=

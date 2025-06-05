@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30693
+#	52889
+#	85885
+#	105394
+#	127772
+#	156177
+#
+# Disc length: 2383 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=47094d07
+DTITLE=The Modern Jazz Quartet - Concert In Japan [Vol. 2]
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=Ralph's New Blues
+TTITLE1=I Love You Porgy
+TTITLE2=Pyramid
+TTITLE3=Home
+TTITLE4=Winter Tale
+TTITLE5=Blues Milanese
+TTITLE6=Bags Groove
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

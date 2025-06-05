@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49282
+#	69867
+#	93097
+#	108744
+#	141319
+#	163196
+#
+# Disc length: 2531 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=5f09e107
+DTITLE=B.B. King - Why I sing the blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=BB's Theme
+TTITLE1=Why I sing the Blues
+TTITLE2=Darling you know I love you
+TTITLE3=Caledonia
+TTITLE4=All over again
+TTITLE5=Everyday I have the blues
+TTITLE6=Sweet little Angel
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

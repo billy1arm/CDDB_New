@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22656
+#	45142
+#	67936
+#	93175
+#	118223
+#	146067
+#
+# Disc length: 2344 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=4d092607
+DTITLE=The Eureka Brass Band Of New Orleans - Jazz At Preservation Hall 1
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Just A Little While To Stay Here
+TTITLE1=Bye and Bye
+TTITLE2=Whoopin' Blues
+TTITLE3=Down In Honky Tonk Town
+TTITLE4=Take Your Burden To The Lord
+TTITLE5=Joe Avery's Blues
+TTITLE6=Panama
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

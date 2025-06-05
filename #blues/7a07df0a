@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14400
+#	29302
+#	40710
+#	60042
+#	83185
+#	100902
+#	111292
+#	125550
+#	139125
+#
+# Disc length: 2017 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a07df0a
+DTITLE=Count Basie - Basie Boogie
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=One O'Clock Jump
+TTITLE1=Jumpin At The Woodside
+TTITLE2=Red Bank Boogie
+TTITLE3=Going To Chicago
+TTITLE4=Every Day I Have The Blues
+TTITLE5=Lester Leaps In
+TTITLE6=Basie Boogie
+TTITLE7=Every Tub
+TTITLE8=All Of Me
+TTITLE9=April In Paris
+EXTD=YEAR: 1994
+EXTT0=(Basie]\n(C) EMI United Partnership Ltd.\n
+EXTT1=(Basie) \n(C) Warner Chappell Music Ltd.\n
+EXTT2=(Basie/Clayton]\n(C)  Warner Chapell Music Ltd.\n
+EXTT3=(Rushing/Basie]\n(C)  Warner Chappell Music Ltd.\n
+EXTT4=(Chatman]\n(C) Jewel Music Pub Co Ltd.\n
+EXTT5=(Young]\n(C) Warner Chappell Music Ltd.\n
+EXTT6=(Ebbins/Lackson/Basie]\n(C) Warner Chappell Music Ltd.\n
+EXTT7=(Basie/Durham]\n(C) Warner Chappell Music Ltd.\n
+EXTT8=(Simons/Marks]\n(C) Francis Day and Hunter Ltd.\n
+EXTT9=(Duke/Harburg]\n(C) Chappell Music Ltd.\n
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26987
+#	63262
+#	74832
+#	110417
+#	132145
+#	156547
+#	181062
+#	190275
+#	210385
+#	226050
+#
+# Disc length: 3509 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9c0db30b
+DTITLE=Manhattan Jazz Story - 8 'Round Midnight
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0='Round Midnight - Miles Davis
+TTITLE1=In Your Own Sweet Way - The Phil Woods Quartet
+TTITLE2=Sometimes I'm Happy - Lee Wiley
+TTITLE3=Dear Old Stockholm - Miles Davis
+TTITLE4=Goodbye Pork Pie Hat - Charles Mingus
+TTITLE5=Hello Young Lovers - J.J. Johnson
+TTITLE6=Take Five - The Dave Brubeck Quartet
+TTITLE7=Night And Day - Carol Sloane
+TTITLE8=C Jam Blues - Ray Bryant Trio
+TTITLE9=Come Rain Or Come Shine - Sarah Vaughan
+TTITLE10=Fables of Faubus - Charles Mingus
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

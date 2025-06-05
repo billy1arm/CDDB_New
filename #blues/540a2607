@@ -1,0 +1,39 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	39980
+#	58570
+#	88685
+#	124060
+#	164305
+#	176755
+#
+# Disc length: 2600 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid 2001.05.15.01
+#
+DISCID=540a2607
+DTITLE=Saverio Mercadante - Tre concerti
+DYEAR=1900
+DGENRE=
+TTITLE0=Concerto in mi minore per fluto e archi, op. 57 - Allegro maestoso
+TTITLE1=Concerto in mi minore per fluto e archi, op. 57 - Largo
+TTITLE2=Concerto in mi minore per fluto e archi, op. 57 - Rondo russo (allegro vivace e scherzando)
+TTITLE3=Concerto in si bemolle maggiore per clarinetto e orchestra da camera, op. 101 - Allegro maestoso
+TTITLE4=Concerto in si bemolle maggiore per clarinetto e orchestra da camera, op. 101 - Andante con variazioni
+TTITLE5=Concerto in re minore per corno e orchestra da camera - Larghetto alla siciliana
+TTITLE6=Concerto in re minore per corno e orchestra da camera - Allegretto brillante (Polacca)
+EXTD=Maxence Larrieu (Flute), \nKarl Leister (Clarinet),\nHerman Baumann (Horn
+EXTD=), \nThe Masterplayers\nRichard Schumacher (Dir]\n\nEntered by Alfred Bra
+EXTD=jn\nalfbrajn@poczta.onet.pl
+EXTT0=
+EXTT1=
+EXTT2=cherzando)
+EXTT3=llegro maestoso
+EXTT4=ndante con variazioni
+EXTT5=
+EXTT6=acca)
+PLAYORDER=

@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	207
+#	11705
+#	26307
+#	42560
+#	55725
+#	73240
+#	91932
+#	114115
+#
+# Disc length: 1712 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=5f06ae08
+DTITLE=Ted Taylor - Be Ever Wonderful
+DYEAR=1900
+DGENRE=
+TTITLE0=Be Ever Wonderful
+TTITLE1=Pleadin' For Love
+TTITLE2=It Hurts To Be In Love
+TTITLE3=Some Day
+TTITLE4=Little Red Rooster
+TTITLE5=How Could You Do That
+TTITLE6=You're Tippin, She's Rippin'
+TTITLE7=Stay Away From My Baby
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

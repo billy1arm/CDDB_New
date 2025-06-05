@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13300
+#	28827
+#
+# Disc length: 555 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=20022903
+DTITLE=Various Artist - COSMIC LOVE
+DYEAR=1999
+DGENRE=Anime
+TTITLE0=COSMIC LOVE
+TTITLE1=正調・天野原音頭
+TTITLE2=COSMIC LOVE [AI-NO-TE-version]
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

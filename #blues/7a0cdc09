@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22950
+#	53625
+#	71176
+#	102677
+#	130577
+#	167404
+#	177768
+#	194779
+#
+# Disc length: 3294 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a0cdc09
+DTITLE=Hiroshi takashima - Full House
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=One For Elena
+TTITLE1=Full House
+TTITLE2=Airegin
+TTITLE3=Girl Talk
+TTITLE4=Caravan
+TTITLE5=Walkin'
+TTITLE6=Ruby My Dear
+TTITLE7=Well You Needn't
+TTITLE8=Homecoming Blues
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

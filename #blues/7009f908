@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20162
+#	42883
+#	68533
+#	95473
+#	111096
+#	136316
+#	149716
+#
+# Disc length: 2555 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7009f908
+DTITLE=Leonard Cohen - Death of a ladies man
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=True Love Leaves No Traces
+TTITLE1=Iodine
+TTITLE2=Paper Thin Hotel
+TTITLE3=Memories
+TTITLE4=I Left a Woman Waiting
+TTITLE5=Don't Go Home With Your Hard-on
+TTITLE6=Fingerprints
+TTITLE7=Death of a Ladies' Man
+EXTD=Produced by Phil Spector.\n\nLeonard Cohen, describing the process of m
+EXTD=aking\nthis recording:  "It was a disaster".\n\nSpector locked him out 
+EXTD=of the final process, worked very\nhard at drowning out Leonard's vocal
+EXTD=s, added his own\nwriting credit.\n\n ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

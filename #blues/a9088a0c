@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14552
+#	27227
+#	40652
+#	55352
+#	68930
+#	83105
+#	95630
+#	108907
+#	125182
+#	136510
+#	149560
+#
+# Disc length: 2188 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=a9088a0c
+DTITLE=Carlos y José - Corridos De Lujo
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=El Rico Pobre
+TTITLE1=Cuenta Pagada
+TTITLE2=La Montura Ensangrentada
+TTITLE3=El Indio Azteca
+TTITLE4=Bolsas de A Gramo
+TTITLE5=Temo Bravo
+TTITLE6=El Bipper de Mis Amigos
+TTITLE7=El Plaguitas
+TTITLE8=La Cuerva de La Petaca
+TTITLE9=El Güero Rebalcava
+TTITLE10=El Contrabando del Rio
+TTITLE11=Patrullas de Blanco y Negro
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

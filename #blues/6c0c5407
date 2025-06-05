@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	58275
+#	107820
+#	139458
+#	145953
+#	165320
+#	170913
+#
+# Disc length: 3158 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=6c0c5407
+DTITLE=Norman krieger - Piano_ Gershwin
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Movement1
+TTITLE1=Movement2
+TTITLE2=Movement3
+TTITLE3=Preludio1
+TTITLE4=Preludio2
+TTITLE5=Preludio3
+TTITLE6=Rhapsody in Blue
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

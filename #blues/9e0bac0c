@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14775
+#	29102
+#	45135
+#	60235
+#	84317
+#	106110
+#	121832
+#	138650
+#	164120
+#	184212
+#	204247
+#
+# Disc length: 2990 seconds
+#
+# Revision: 11
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9e0bac0c
+DTITLE=Jeff Healey Band - See The Light
+DYEAR=1988
+DGENRE=Blues
+TTITLE0=jeff healey - confidence man
+TTITLE1=jeff healey - my little girl
+TTITLE2=jeff healey - river of no return
+TTITLE3=jeff healey - don't let your chance go by
+TTITLE4=jeff healey - angel eyes
+TTITLE5=jeff healey - nice problem to have
+TTITLE6=jeff healey - someday, someway
+TTITLE7=jeff healey - i need to be loved
+TTITLE8=jeff healey - blue jean blues
+TTITLE9=jeff healey - that's what they say
+TTITLE10=jeff healey - hideaway
+TTITLE11=jeff healey - see the light
+EXTD=CDDBSort:jeff_healey_band,see_the_light - YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

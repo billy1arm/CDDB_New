@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18845
+#     33432
+#     54720
+#     70565
+#     85590
+#     100605
+#     118885
+#     139762
+# 
+# Disc length: 2246 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6b08c409
+DTITLE=Clarence Carter - Dr. C.C.
+DYEAR=1900
+DGENRE=
+TTITLE0=Dr. C.C.
+TTITLE1=I Stayed Away Too Long
+TTITLE2=If You Let Me Take You Home
+TTITLE3=Left Over Love
+TTITLE4=You Been Cheatin' On Me
+TTITLE5=Try Me
+TTITLE6=Let's Funk
+TTITLE7=Strokin'
+TTITLE8=Strokin' (Extended Mix)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

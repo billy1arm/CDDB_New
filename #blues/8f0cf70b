@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20525
+#	46234
+#	71015
+#	100227
+#	124068
+#	152492
+#	170661
+#	184849
+#	202385
+#	225053
+#
+# Disc length: 3321 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8f0cf70b
+DTITLE=Patrick Hazell - Sound Tracks
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Reflections in Blue
+TTITLE1=Why do you keep on crying?
+TTITLE2=In a Cloistered Garden
+TTITLE3=Cloud Tracing
+TTITLE4=The Memory Box
+TTITLE5=Lost Love
+TTITLE6=Little One
+TTITLE7=Early Spring Waltz
+TTITLE8=Hallways Through Time
+TTITLE9=A Closer Look
+TTITLE10=Tender Moments
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

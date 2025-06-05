@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13345
+#	30243
+#	42540
+#	57867
+#
+# Disc length: 1136 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=39046e05
+DTITLE=Bluesdoggs - Barkin' Blues
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=I'm in a bad mood
+TTITLE1=Raise my pay
+TTITLE2=Have You seen my baby
+TTITLE3=Mow the lawn
+TTITLE4=W:A:S:P
+EXTD=YEAR: 1997 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

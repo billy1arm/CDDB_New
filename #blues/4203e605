@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13750
+#	29310
+#	44598
+#	57675
+#
+# Disc length: 1000 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4203e605
+DTITLE=Shane Dwight Blues Band - EP
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=Please
+TTITLE1=You're Gonna Want Me
+TTITLE2=Sideman
+TTITLE3=She's So Sweet
+TTITLE4=Boogie King
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     14880
+#     34460
+#     54105
+#     73360
+#     85840
+#     100650
+#     116140
+#     136987
+#     155752
+#     172202
+# 
+# Disc length: 2609 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=a10a2f0b
+DTITLE=King, B. B. - Guess Who?
+DYEAR=1900
+DGENRE=
+TTITLE0=Summer in the city
+TTITLE1=Just can't please you
+TTITLE2=Any other way
+TTITLE3=You don't know nothin' about love
+TTITLE4=Found what I need
+TTITLE5=Neighbourhood affair
+TTITLE6=It takes a young girl
+TTITLE7=Better lovin' man
+TTITLE8=Gues who
+TTITLE9=Shouldn't have left me
+TTITLE10=Five long years
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13625
+#	27290
+#	44305
+#	56972
+#	73840
+#	87247
+#	101810
+#
+# Disc length: 1504 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=6b05de08
+DTITLE=Billie Holiday - Billie Holiday
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Love For Sale
+TTITLE1=Moonglow
+TTITLE2=Everything I Have Is Yours
+TTITLE3=If The Moon Turns Green
+TTITLE4=Autumn In New York
+TTITLE5=How Deep Is The Ocean
+TTITLE6=What A Little Moonlight Can Do
+TTITLE7=I Cried For You
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

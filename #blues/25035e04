@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14397
+#	32635
+#	46845
+#
+# Disc length: 864 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=25035e04
+DTITLE=Various Artist - 風の碧、海の翠
+DYEAR=2000
+DGENRE=Anime
+TTITLE0=風の碧、海の翠
+TTITLE1=虹色の宝物
+TTITLE2=風の碧、海の翠 (オリジナル・カラオケ)
+TTITLE3=虹色の宝物 (オリジナル・カラオケ)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

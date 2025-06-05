@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21168
+#	40288
+#	55523
+#
+# Disc length: 1001 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=2803e704
+DTITLE=Unnerhaus Jazzband - Jubilee (10)
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=All of me
+TTITLE1=Bourbon Street Parade
+TTITLE2=Stevedore Stomp
+TTITLE3=See See Rider
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

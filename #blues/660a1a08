@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24854
+#	49162
+#	71543
+#	94828
+#	122067
+#	148884
+#	173404
+#
+# Disc length: 2588 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=660a1a08
+DTITLE=Mark Isaacs - Resurgence
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Walk A Golden Mile
+TTITLE1=Wait  for Melanie
+TTITLE2=Three Days of Ran
+TTITLE3=Affectionatley Yours
+TTITLE4=Chaconne
+TTITLE5=Resurgence
+TTITLE6=Pentimento
+TTITLE7=Heal Thyself
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

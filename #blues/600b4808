@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24890
+#	50110
+#	83918
+#	112153
+#	128380
+#	155123
+#	182470
+#
+# Disc length: 2890 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=600b4808
+DTITLE=Rich Buddy - The Sound Of Jazz, Vol. 10
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Moment's Notice
+TTITLE1=Giant Steps
+TTITLE2=Buddy's Cherokee
+TTITLE3=Take The "A" Train
+TTITLE4=I'll Never Be The Same
+TTITLE5=Buddy's Rock
+TTITLE6=My Funny Valentine
+TTITLE7=Latin Silk
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

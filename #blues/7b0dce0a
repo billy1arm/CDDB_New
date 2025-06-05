@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     29438
+#     45810
+#     78938
+#     108425
+#     125965
+#     155128
+#     179523
+#     211028
+#     242278
+# 
+# Disc length: 3536 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=7b0dce0a
+DTITLE=DJ QUICKSILVER - Quicksilver
+DYEAR=1900
+DGENRE=
+TTITLE0=ARABESC
+TTITLE1=I HAVE A DREAM
+TTITLE2=FREE
+TTITLE3=SYNPHONICA
+TTITLE4=BELLISIMA
+TTITLE5=BINGO BONGO
+TTITLE6=TECHNO MACHT SPASS
+TTITLE7=FFM
+TTITLE8=DEEP IN MOTION
+TTITLE9=AFRICAN RAIN
+EXTD=
+EXTT0=1\n
+EXTT1=(VIDEO MIX]\n
+EXTT2=(CLUB MIX]\n
+EXTT3=
+EXTT4=(VIDEO MIX]\n
+EXTT5=(FLIP HOUSE MIX]\n
+EXTT6=
+EXTT7=(DO YOU REMEMBER]\n
+EXTT8=
+EXTT9=
+PLAYORDER=

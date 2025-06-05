@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21500
+#	40088
+#	54228
+#	72253
+#	93089
+#	113562
+#	137414
+#
+# Disc length: 2547 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d09f108
+DTITLE=Mike Oldfield - Discovery
+DYEAR=1984
+DGENRE=New Age
+TTITLE0=To France
+TTITLE1=Poison Arrows
+TTITLE2=Crystal Gazing
+TTITLE3=Tricks Of The Light
+TTITLE4=Discovery
+TTITLE5=Talk About Your Life
+TTITLE6=Saved By A Bell
+TTITLE7=The Lake
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

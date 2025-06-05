@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	115747
+#	214906
+#
+# Disc length: 4368 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=24110e03
+DTITLE=Lise Bourbeau - Vendre avec coeur - CD2
+DYEAR=2004
+DGENRE=New Age
+TTITLE0=Piste 01
+TTITLE1=Piste 02
+TTITLE2=Piste 03
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53175
+#	71937
+#	99624
+#	114324
+#	140407
+#	168532
+#	184361
+#	206112
+#	230394
+#	244829
+#
+# Disc length: 3476 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=a60d920b
+DTITLE=Fermata - Dunajska Legenda
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Perpetuum III.
+TTITLE1=Wlkina
+TTITLE2=Chotemir
+TTITLE3=Witemir
+TTITLE4=Unzat
+TTITLE5=Trebiz
+TTITLE6=Zilic
+TTITLE7=Zuemin
+TTITLE8=Kocel'
+TTITLE9=Program Zacina ( Bouns Track )
+TTITLE10=Tvár ( Bonus Track )
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

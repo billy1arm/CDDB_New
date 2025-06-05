@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20867
+#	44905
+#	59840
+#	73060
+#	86720
+#	110250
+#	128375
+#	142530
+#	158435
+#	172215
+#	185285
+#
+# Disc length: 2706 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=a70a900c
+DTITLE=The Band - The Band - Disc One
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=The Weight
+TTITLE1=Tears of Rage
+TTITLE2=To Kingdom Come
+TTITLE3=Caledonia Mission
+TTITLE4=Long Black Veil
+TTITLE5=Chest Fever
+TTITLE6=Lonesome Suzie
+TTITLE7=This Wheel's on Fire
+TTITLE8=The Night They Drove Old Dixie Down
+TTITLE9=Rag Mama Rag
+TTITLE10=Across the Great Divide
+TTITLE11=Whispering Pines
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

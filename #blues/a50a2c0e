@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13850
+#	29737
+#	42285
+#	53112
+#	65300
+#	77187
+#	90225
+#	121062
+#	135225
+#	147772
+#	158460
+#	169612
+#	181850
+#
+# Disc length: 2606 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a50a2c0e
+DTITLE=Various Artist - Blending the Blues
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=Koko Taylor - Wang Dang Doodle
+TTITLE1=Floyd Dixon - Please Don't Go
+TTITLE2=Muddy Waters - She's Into Something
+TTITLE3=Elmore James - Madison Blues
+TTITLE4=Little Walter - My Babe
+TTITLE5=Sonny Boy Williamson - Bring It On Home
+TTITLE6=Willie Mabon - Seventh Son
+TTITLE7=John Lee Hooker - Let's Go Out Tonight
+TTITLE8=Chuck Berry - Havana Moon
+TTITLE9=John Brim - Ice Cream Man
+TTITLE10=Bo Diddley - Mona
+TTITLE11=Howlin' Wolf - The Red Rooster
+TTITLE12=Jimmy Witherspoon - Ain't Nobody's Business
+TTITLE13=Etta James - At Last
+EXTD=YEAR: 1996
+EXTT0=Koko Taylor
+EXTT1=Floyd Dixon
+EXTT2=Muddy Waters
+EXTT3=Elmore James
+EXTT4=Little Walter
+EXTT5=Sonny Boy Williamson
+EXTT6=Willie Mabon
+EXTT7=John Lee Hooker
+EXTT8=Chuck Berry
+EXTT9=John Brim
+EXTT10=Bo Diddley
+EXTT11=Howlin' Wolf
+EXTT12=Jimmy Witherspoon
+EXTT13=Ella James
+PLAYORDER=

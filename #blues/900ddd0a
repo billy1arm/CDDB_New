@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	30300
+#	50175
+#	84450
+#	117900
+#	142800
+#	171750
+#	191250
+#	221025
+#	259875
+#
+# Disc length: 3561 seconds
+#
+# Submitted via: cddb-tool 0.4.7
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=880ddd0a,900ddd0a
+DTITLE=Leonard Cohen - Live In London
+DYEAR=2008
+DGENRE=Rock
+TTITLE0=Dance Me To The End Of Love
+TTITLE1=Suzanne
+TTITLE2=Hallelujah
+TTITLE3=Democracy
+TTITLE4=So Long Marianne
+TTITLE5=First We Take Manhattan
+TTITLE6=If It Be Your Will
+TTITLE7=Closing Time
+TTITLE8=I Tried To Leave You
+TTITLE9=Whither Thou Goest
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

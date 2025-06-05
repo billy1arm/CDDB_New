@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19540
+#     43692
+#     65777
+#     88275
+#     124227
+#     137350
+#     158722
+#     189152
+#     214255
+# 
+# Disc length: 3423 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=880d5d0a
+DTITLE=Stevie Ray Vaughan - A Tribute to Stevie Ray Vaughan
+DYEAR=1900
+DGENRE=
+TTITLE0=Pride And Joy
+TTITLE1=Texas Flood
+TTITLE2=Telephone Song
+TTITLE3=Long Way From Home
+TTITLE4=Ain't Gone'n Give Up On Your Love
+TTITLE5=Love Struck Baby
+TTITLE6=Cold Shot
+TTITLE7=Six Strings Down
+TTITLE8=Tick Tock
+TTITLE9=SRV Shuffle
+EXTD=
+EXTT0=Bonnie Raitt\n
+EXTT1=Jimmie Vaughan
+EXTT2=B. B. King
+EXTT3=Buddy Guy
+EXTT4=Eric Clapton
+EXTT5=Robert Cray
+EXTT6=Dr. John
+EXTT7=Jimmie Vaughan, Eric Clapton, Bonnie Raitt,\nRobert Cray, B.B. King, B
+EXTT7=uddy Guy,\nDr. John, Art Neville
+EXTT8=Jimmie Vaughan, Eric Clapton, Bonnie Raitt,\nRobert Cray, B.B. King, B
+EXTT8=uddy Guy,\nDr. John, Art Neville
+EXTT9=Jimmie Vaughan, Eric Clapton, Bonnie Raitt,\nRobert Cray, B.B. King, B
+EXTT9=uddy Guy,\nDr. John, Art Neville
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23992
+#	40592
+#	67937
+#	82532
+#	101975
+#	124735
+#
+# Disc length: 1869 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=4b074b07
+DTITLE=J-Blues - J-Blues Battle Vol two
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Come On To My Kitchen
+TTITLE1=Shame Shame Shame
+TTITLE2=Train Kept A Rollin'
+TTITLE3=Dust My Broom
+TTITLE4=Try To Make A Living
+TTITLE5=Ruby Tuesday
+TTITLE6=Love Me
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

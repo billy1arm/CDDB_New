@@ -1,0 +1,40 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 18017
+# 42947
+# 75087
+# 104037
+# 129362
+# 148787
+# 179085
+#
+# Disc length: 2864 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.2.328
+#
+DISCID=620b2e08
+DTITLE=Ashik - Gypsy Soul
+DYEAR=1900
+DGENRE=
+TTITLE0=Czardasz
+TTITLE1=Tiger's Gate
+TTITLE2=Seven Mad Gypsies
+TTITLE3=Coyote
+TTITLE4=The Szombathely Jig
+TTITLE5=Hoedown
+TTITLE6=The Bohemian
+TTITLE7=What It Is
+EXTD=
+EXTT0=Traditional
+EXTT1=
+EXTT2=Traditional
+EXTT3=Traditional
+EXTT4=
+EXTT5=Traditional
+EXTT6=
+EXTT7=
+PLAYORDER=

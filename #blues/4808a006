@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34188
+#	62367
+#	83793
+#	113143
+#	139205
+#
+# Disc length: 2210 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4808a006
+DTITLE=Harold Vick - Steppin' Out
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Our Miss Brooks
+TTITLE1=Trimmed In Blue
+TTITLE2=Laura
+TTITLE3=Dotty's Dream
+TTITLE4=Vicksville
+TTITLE5=Steppin' Out
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

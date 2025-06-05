@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33328
+#	76016
+#	104943
+#	130112
+#	154721
+#	177949
+#
+# Disc length: 2872 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=500b3607
+DTITLE=Hiram Bullock and WDR Big Band Köln - Hiram plays the music of Jimi Hendrix
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Crosstown Traffic - Little Miss Lover
+TTITLE1=Red House
+TTITLE2=Foxy Lady
+TTITLE3=Little Wing
+TTITLE4=Voodoo Child
+TTITLE5=Gipsy Eyes
+TTITLE6=Manic Depression
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

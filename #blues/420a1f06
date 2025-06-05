@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     24127
+#     60739
+#     90482
+#     126030
+#     172090
+# 
+# Disc length: 2593 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=420a1f06
+DTITLE=Luther Allison - Sweet Home Chicago
+DYEAR=1900
+DGENRE=
+TTITLE0=Dust My Broom
+TTITLE1=I Got Worries
+TTITLE2=You Don't Love Me
+TTITLE3=Goin' Down
+TTITLE4=I'm Gonna Leave You Alone
+TTITLE5=Sweet Home Chicago
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

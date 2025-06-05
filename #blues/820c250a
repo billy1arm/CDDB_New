@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	25110
+#	45708
+#	62760
+#	84613
+#	101730
+#	128018
+#	150505
+#	176930
+#	203853
+#
+# Disc length: 3111 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=820c250a
+DTITLE=Diana Brown and Barrie K. Sharp - The Black, The White, The Yellow And 
+DTITLE=the Brown
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=Masterplan (Ropeman Mix)
+TTITLE1=Colours (Black, White, Yellow, Brown, Red)
+TTITLE2=Eating Me Alive (Part I)
+TTITLE3=No Turning
+TTITLE4=Hear My Prayer
+TTITLE5=Don't Cross The Tracks
+TTITLE6=Love Or Nothing (Onceller Mix)
+TTITLE7=Tell It Like It Is
+TTITLE8=Sunworshippers (Part I and Part II)
+TTITLE9=Free
+EXTD=YEAR: 1992 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

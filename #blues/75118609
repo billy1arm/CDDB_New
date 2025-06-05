@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32923
+#	81207
+#	124278
+#	153922
+#	203235
+#	221356
+#	257770
+#	304533
+#
+# Disc length: 4488 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=75118609
+DTITLE=Blue Note - The Best Blue Note Album
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Song for My Father - Horace Silver
+TTITLE1=Blue Train - John Coltrane
+TTITLE2=Moanin' - Art Blakey and the Jazz Messengers
+TTITLE3=Blues Walk - Lou Donaldson
+TTITLE4=Autum Leaves - Cannonball Adderley
+TTITLE5=Midnight Blue - Kenny Burrell
+TTITLE6=Back at the Chicken Shack - Jimmy Smith
+TTITLE7=The Sidewinder - Lee Morgan
+TTITLE8=Watermelon Man - Herbie Hancock
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

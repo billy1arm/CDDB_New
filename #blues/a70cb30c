@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2312
+#	37262
+#	62780
+#	111066
+#	122635
+#	158975
+#	161139
+#	172100
+#	187142
+#	208480
+#	241528
+#
+# Disc length: 3253 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a70cb30c
+DTITLE=John Escreet - The Age We Live In
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Intro
+TTITLE1=The Domino Effect
+TTITLE2=Half Baked
+TTITLE3=The Age We Live In
+TTITLE4=Kickback
+TTITLE5=A Day In Music
+TTITLE6=Interlude
+TTITLE7=Hidden Beauty
+TTITLE8=As The Moon Disappears
+TTITLE9=Stand Clear
+TTITLE10=Another Life
+TTITLE11=Outro
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

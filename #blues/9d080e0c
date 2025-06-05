@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14047
+#	27222
+#	40512
+#	53517
+#	65977
+#	78795
+#	91782
+#	103317
+#	116880
+#	130955
+#	142887
+#
+# Disc length: 2064 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9d080e0c
+DTITLE=Various Artist - Living the Blues,Blues Masters
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Chuck Berry - Wee Wee Hours
+TTITLE1=Amos Milburn and His Aladdin Chickenshackers - One Scotch, One Bourb
+TTITLE1=on, One Beer
+TTITLE2=Elmore James - Dust My Broom
+TTITLE3=Muddy waters - Got My Mojo Working
+TTITLE4=Little Walter - Key To The Highway
+TTITLE5=Howlin' wolf - Back Door Man
+TTITLE6=Jimmy Reed - Big Boss Man
+TTITLE7=John Lee Hooker - Boom Boom
+TTITLE8=Buddy Guy - Stone Crazy
+TTITLE9=Charles Brown - Black Night
+TTITLE10=Bobby Bland - Turn On Your Love Light
+TTITLE11=Little Milton - Grits Ain't Groceries
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12610
+#
+# Disc length: 744 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta4
+#
+DISCID=1102e602
+DTITLE=Stevie Ray Vaughan and Double Trouble - SRV Boxed Set Bonus Disc
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Sting's Swing
+TTITLE1=Drivin' South
+EXTD=ID3G:   0
+EXTT0=Outtake from the Couldn't Stand The Weather sessions
+EXTT1=Recorded at Fitzgerald's Club, Houton, TX, June 20 1983
+PLAYORDER=

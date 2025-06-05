@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38449
+#	77284
+#	109048
+#	152640
+#	183985
+#	210410
+#	226038
+#
+# Disc length: 3314 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=490cf008
+DTITLE=Soft Machine Legacy - Live Adventures
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Has Riff II
+TTITLE1=Grapehound
+TTITLE2=The Nodder
+TTITLE3=In the Back Room
+TTITLE4=Song of Aeolus
+TTITLE5=Gesolreut
+TTITLE6=Facelift
+TTITLE7=The Last Day
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

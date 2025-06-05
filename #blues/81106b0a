@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23879
+#	52540
+#	80661
+#	115611
+#	150218
+#	185406
+#	216748
+#	249712
+#	283786
+#
+# Disc length: 4205 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=81106b0a
+DTITLE=Chris Chabris - The Invisible Gorilla
+DYEAR=2010
+DGENRE=Audiobook
+TTITLE0=Invisible Gorilla D3T01
+TTITLE1=Invisible Gorilla D3T02
+TTITLE2=Invisible Gorilla D3T03
+TTITLE3=Invisible Gorilla D3T04
+TTITLE4=Invisible Gorilla D3T05
+TTITLE5=Invisible Gorilla D3T06
+TTITLE6=Invisible Gorilla D3T07
+TTITLE7=Invisible Gorilla D3T08
+TTITLE8=Invisible Gorilla D3T09
+TTITLE9=Invisible Gorilla D3T10
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

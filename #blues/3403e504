@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19350
+#	35850
+#	55875
+#
+# Disc length: 999 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: freeDBTagger 0.8.2.1
+#
+DISCID=3403e504
+DTITLE=Crystal Kay - Kirakuni - Together [MAXI]
+DYEAR=2006
+DGENRE=misc
+TTITLE0=Kirakuni
+TTITLE1=Together
+TTITLE2=恋におちたら Kut Remix
+TTITLE3=Kirakuni (instrumental)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

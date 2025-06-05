@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16980
+#	38165
+#	61757
+#	77695
+#	99497
+#	120627
+#	134420
+#	159142
+#	174485
+#	188482
+#	206870
+#
+# Disc length: 3044 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=910be20c
+DTITLE=Jeff Pitchell and Texas Flood - One Day Away
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=One Day Away
+TTITLE1=Unsung Hero Of The Blues
+TTITLE2=Kep My Head Up
+TTITLE3=Too Sorry
+TTITLE4=Baby Blues
+TTITLE5=Ain't Nobody's Business
+TTITLE6=Pitch Pitch Boogie
+TTITLE7=I'd Rather Be Blind
+TTITLE8=More Fat Junk
+TTITLE9=Let Me Down Easy
+TTITLE10=Pipedream
+TTITLE11=When It All comes Down
+EXTD=\n\nYEAR: 1999  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

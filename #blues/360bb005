@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49907
+#	90009
+#	136020
+#	179637
+#
+# Disc length: 2994 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=360bb005
+DTITLE=Johannes Brahms - Quintette pour piano, Op.35 - Sextuor à cordes N°2, Op.36
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Quintette pour piano en fa mineur, Op.35 (extraits) - 1er   mouvement - Allegro non troppo
+TTITLE1=Quintette pour piano en fa mineur, Op.35 (extraits) - 2ème mouvement - Andante un poco adagio
+TTITLE2=Quintette pour piano en fa mineur, Op.35 (extraits) - 4ème mouvement - Poco sostenuto. Allegro non troppo
+TTITLE3=Sextuor à cordes N°2 en sol majeur, Op.36 (extraits) - 1er   mouvement - Allegro non troppo
+TTITLE4=Sextuor à cordes N°2 en sol majeur, Op.36 (extraits) - 3ème mouvement - Poco adagio
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

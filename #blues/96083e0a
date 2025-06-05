@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22487
+#	43882
+#	58322
+#	69307
+#	84772
+#	98997
+#	113535
+#	134645
+#	148260
+#
+# Disc length: 2112 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=96083e0a
+DTITLE=Broonzy, Big Bill - Treat Me Right
+DYEAR=1900
+DGENRE=
+TTITLE0=Ridin' On Down
+TTITLE1=Feelin' Lowdown
+TTITLE2=Baby Please Don't Go
+TTITLE3=St. Louis Blues
+TTITLE4=In The Evenin'
+TTITLE5=All I Got Belongs To You
+TTITLE6=Treat Everybody Right
+TTITLE7=I Got Up One Mornin - Blues
+TTITLE8=See See Rider
+TTITLE9=Sixteen Tons
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

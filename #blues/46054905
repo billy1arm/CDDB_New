@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21620
+#	38911
+#	61418
+#	82457
+#
+# Disc length: 1355 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=46054905
+DTITLE=Say Uncle - 
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Truth
+TTITLE1=Common Ground
+TTITLE2=Never Goes Away
+TTITLE3=If I Can Be There
+TTITLE4=All Comes Down
+EXTD=YEAR: 2001  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

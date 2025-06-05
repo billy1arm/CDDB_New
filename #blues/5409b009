@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30810
+#	46193
+#	62943
+#	87867
+#	113373
+#	127643
+#	151174
+#	166189
+#
+# Disc length: 2482 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5409b009
+DTITLE=Maria Baptist - Resonance
+DYEAR=2018
+DGENRE=Jazz
+TTITLE0=Resonance
+TTITLE1=Stillness Speaks
+TTITLE2=The High Line
+TTITLE3=After the Darkness
+TTITLE4=Urban Meditation
+TTITLE5=Raising the Frequencies
+TTITLE6=The Blossom
+TTITLE7=Early Sunday Morning
+TTITLE8=Song of the Soul
+EXTD=YEAR: 2018
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

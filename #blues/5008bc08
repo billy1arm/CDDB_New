@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	22635
+#	45550
+#	67613
+#	87763
+#	105240
+#	127683
+#	147625
+#
+# Disc length: 2238 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5008bc08
+DTITLE=Jean-Philippe MARTHELY - Danjéré
+DYEAR=1993
+DGENRE=Zouk
+TTITLE0=Fouwé
+TTITLE1=Amor
+TTITLE2=Si sé taw'
+TTITLE3=Ti chap'
+TTITLE4=Danjéré
+TTITLE5=Lè piw'
+TTITLE6=Mwen kontan
+TTITLE7=La priyè doulè
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

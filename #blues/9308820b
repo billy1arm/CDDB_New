@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	200
+# 	11340
+# 	29077
+# 	48847
+# 	59240
+# 	81727
+# 	94127
+# 	106000
+# 	118982
+# 	128817
+# 	153845
+#
+# Disc length: 2180 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=9308820b
+DTITLE=Various Artist - Planet Blues  - The World of blues-rock
+DYEAR=1900
+DGENRE=
+TTITLE0=Diddy Wah Diddy
+TTITLE1=Manish Boy
+TTITLE2=Wang Dang Doodle
+TTITLE3=Dimple
+TTITLE4=Boom Boom
+TTITLE5=Good morning little school girl
+TTITLE6=I'm a man
+TTITLE7=Black Magic Woman
+TTITLE8=Worried Life Blues
+TTITLE9=Constipation Blues
+TTITLE10=Tribute to Elmore
+EXTD=
+EXTT0=Bo Diddely
+EXTT1=Muddy Waters
+EXTT2=Howlin' Wolf
+EXTT3=Canned Heat
+EXTT4=Sonny Boy Williamson and The Animals
+EXTT5=Johnny Winter
+EXTT6=Yardbirds
+EXTT7=Fleetwood Mac
+EXTT8=Chuck Berry
+EXTT9=Screamin' Jay Hawkins
+EXTT10=Eric Clapton
+PLAYORDER=

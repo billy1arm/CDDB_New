@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36544
+#	39234
+#	74993
+#	104118
+#	152622
+#	185229
+#
+# Disc length: 2926 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c0b6c07
+DTITLE=Vienna Art Orchestra - Fe and Males
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Song 1 schwarz
+TTITLE1=Song 2 grün
+TTITLE2=Song 3 rot
+TTITLE3=Song 4 türkis
+TTITLE4=Song 5 gelb
+TTITLE5=Song 6 sandelfarben
+TTITLE6=Song 7 weiss
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,38 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33337
+#	55012
+#	79350
+#	110625
+#	153512
+#	191175
+#
+# Disc length: 2847 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5a0b1d07
+DTITLE=John Mayall - The Turning Point
+DYEAR=1969
+DGENRE=Blues
+TTITLE0=The Laws Must Change
+TTITLE1=Saw Mill Gulch Road
+TTITLE2=I'm Gonna Fight for You J.B.
+TTITLE3=So Hard To Share
+TTITLE4=California
+TTITLE5=Thoughts About Roxanne
+TTITLE6=Room To Move
+EXTD=Musicians:\nJohn Mayall - vocals, harmonica, slide guitar, telecaster 6 string guitar, tambourine, mouth percussion\nJohn Mark - accoustic fingerstyle guitar\nSteve Thompson - bass guitar\nJohnny Almond - tenor and altosaxophones, flutes, mouth perc
+EXTD=ussion\n\nProduced by John Mayall YEAR: 1969
+EXTT0=(Mayall)
+EXTT1=(Mayall)
+EXTT2=(Mayall)
+EXTT3=(Mayall)
+EXTT4=(Thompson/Mayall)
+EXTT5=(Thompson/Mayall)
+EXTT6=(Mayall)
+PLAYORDER=

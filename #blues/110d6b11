@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     10605
+#     27602
+#     44142
+#     56177
+#     69705
+#     85227
+#     97065
+#     109777
+#     127292
+#     147012
+#     163310
+#     180802
+#     191042
+#     204737
+#     224985
+#     244820
+# 
+# Disc length: 3437 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=110d6b11
+DTITLE=Henry Townsend - St. Louis Blues
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Baby Please Don't Go
+TTITLE1=Baby Tell Me, What's On Your Mind
+TTITLE2=Good Bye, Baby
+TTITLE3=Cairo
+TTITLE4=I Hate To Leave
+TTITLE5=What Tomorrow Brings
+TTITLE6=As She's Gone, I'm Looking Right In My Heart
+TTITLE7=Trying To Be Satisfied
+TTITLE8=Going Back Home
+TTITLE9=M and O
+TTITLE10=Going Down Slow
+TTITLE11=Early In The Morning
+TTITLE12=Sloppy Drunk
+TTITLE13=Tired Of Being Mistreated
+TTITLE14=I Like To Make Love
+TTITLE15=Something Got To Change
+TTITLE16=You Got Me Up
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

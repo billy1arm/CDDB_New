@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23232
+#	40180
+#	68407
+#	88095
+#	108967
+#	127172
+#	141592
+#
+# Disc length: 2193 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d088f08
+DTITLE=Phil Upchurch - Lovin' Feeling
+DYEAR=1973
+DGENRE=Rock
+TTITLE0=Keep On Trippin'
+TTITLE1=Another Funky Tune
+TTITLE2=Being At War With Each Other
+TTITLE3=Sitar Soul
+TTITLE4=You've Lost That Lovin' Feeling
+TTITLE5=I Still Love You
+TTITLE6=Washing Machine
+TTITLE7=You've Been Around Too Long
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

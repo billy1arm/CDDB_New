@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7785
+#	17884
+#	29938
+#	41678
+#	55211
+#	70933
+#	86506
+#	99593
+#	112195
+#	126656
+#	139802
+#	153712
+#	168016
+#	180969
+#	191644
+#	204159
+#	217874
+#	229968
+#	243429
+#
+# Disc length: 3401 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=180d4714
+DTITLE=Various Artist - The Best Of Boogie Woogie - CD 3
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Cow Cow Davenport - 5th Street Blues
+TTITLE1=Meade Lux Lewis - Randini's Boogie
+TTITLE2=Jimmy Blythe - Chicago Stomp
+TTITLE3=Tampy Red and Big Maceo - Me Play With Your Poodle
+TTITLE4=Albert Ammons - Albert's Special Boogie Woogie
+TTITLE5=James P. Johnson - Birmingham Blues
+TTITLE6=Roosevelt Sykes - You So Dumb
+TTITLE7=Big Maceo - Chicago Breakdown
+TTITLE8=Champion Jack Dupree - Junker Blues
+TTITLE9=Speckled Red - The Dirty Dozen
+TTITLE10=John Oscar - Whoopee Mama Blues
+TTITLE11=Cow Cow Davenport - State Street Jive
+TTITLE12=Pinetop Smith - Sober Now
+TTITLE13=The Harlem Hamfats - Gonna Pitch A Boogie Woogie
+TTITLE14=Meade Lux Lewis - Bearcat Crawl
+TTITLE15=Bob Zurke - Rhumboogie
+TTITLE16=Lionel Hampton - Central Avenue Breakdown
+TTITLE17=Jimmy Yancey - Yancey's Buggle Call
+TTITLE18=Speckled Red - The Dirty Dozen No.2
+TTITLE19=Little Brother Montgomery - Shreveport Blues
+EXTD=YEAR: 2003
+EXTT0=(Davenport)
+EXTT1=(Lewis)
+EXTT2=(Blythe)
+EXTT3=(Whittaker)
+EXTT4=(Ammons)
+EXTT5=(Johnson)
+EXTT6=(Sykes)
+EXTT7=(Merriweather)
+EXTT8=(Dupree)
+EXTT9=(Perryman)
+EXTT10=(Oscar)
+EXTT11=(Davenport)
+EXTT12=(Smith)
+EXTT13=(McCoy)
+EXTT14=(Lewis)
+EXTT15=(Zurke/Miller)
+EXTT16=(Hampton)
+EXTT17=(Yancey)
+EXTT18=(Perryman)
+EXTT19=(Montgomery)
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19875
+#	45995
+#	69027
+#	86040
+#	103635
+#	123240
+#	147615
+#	164625
+#	179067
+#	197047
+#
+# Disc length: 2894 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9a0b4c0b
+DTITLE=Various Artist - Bullseye Blues Christmas
+DYEAR=1995
+DGENRE=Christmas
+TTITLE0=Happy Christmas Tears - Little Jimmy King w-the Memphis Horns
+TTITLE1=Merry Christmas, Baby - Please Come Home for Christmas - Charles Brown
+TTITLE2=Lonesome Christmas - Lowell Fulson
+TTITLE3=Poor Man's X-Mas - Smokin' Joe Kubek and Benois King
+TTITLE4=Help the Poor - Larry Davis w-the Memphis Horns
+TTITLE5=Christmas Comes but Once a Year - Charles Brown and Johnny Otis
+TTITLE6=Freedom - Champion Jack Dupree
+TTITLE7=Merry Christmas, Baby - Luther ''Guitar Jr.'' Johnson 
+TTITLE8=X-Mas Blues - The Preston Shannon Band
+TTITLE9=Five Pound Box of Money - Michelle ''Evil Gal'' Wilson
+TTITLE10=Oh, Heavenly Salvation - The Persuasions
+EXTD=YEAR: 1995
+EXTT0=Performed By Little Jimmy King With The \nMemphis Horns\n
+EXTT1=Performed By Charles Brown\n
+EXTT2=Performed By Lowell Fulson\n
+EXTT3=Performed By The Smokin Joe Kubek \nBand Featuring Bnois King\n
+EXTT4=Performed By Larry Davis With The \nMemphis Horns\n
+EXTT5=Performed By Charles Brown and Johnny \nOtis\n
+EXTT6=Performed By Champion Jack Dupree\n
+EXTT7=Performed By Luther Guitar Junior \nJohnson\n
+EXTT8=Performed By The Preston Shannon \nBand\n
+EXTT9=Performed By Michelle Evil Gal Willson\n
+EXTT10=Performed By The Persuasions\n
+PLAYORDER=

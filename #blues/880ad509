@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21337
+#	46250
+#	74050
+#	103325
+#	116072
+#	144347
+#	155957
+#	173884
+#
+# Disc length: 2775 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=880ad509
+DTITLE=Samuel Blais - Where To Go
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Where To Go
+TTITLE1=Relativisme
+TTITLE2=Three Steps
+TTITLE3=If I Knew
+TTITLE4=Mr Pig Pen
+TTITLE5=The Untold
+TTITLE6=Madness
+TTITLE7=Roger
+TTITLE8=My Shadows
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14560
+#	35977
+#	43517
+#	59072
+#	77027
+#	86320
+#	104802
+#	123035
+#	144262
+#
+# Disc length: 2208 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=86089e0a
+DTITLE=Flavium - Pluggin' In Your Socket
+DYEAR=1977
+DGENRE=Blues
+TTITLE0=Come on
+TTITLE1=Can someone tell me
+TTITLE2=Ring your bell
+TTITLE3=Somebody's been talkin'
+TTITLE4=Mama ain't home
+TTITLE5=How can I ever tell you
+TTITLE6=Dealin'
+TTITLE7=Highlife
+TTITLE8=She called 'round midnight
+TTITLE9=Still apart
+EXTD=Dutch Bluesband\nRec. 1977 YEAR: 1977 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

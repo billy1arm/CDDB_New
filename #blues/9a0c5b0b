@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13892
+#	40175
+#	59740
+#	93730
+#	133975
+#	150825
+#	168565
+#	189502
+#	203770
+#	220542
+#
+# Disc length: 3165 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9a0c5b0b
+DTITLE=NDR Bigband - plays Norbert Stein Pata Music: Graffiti Suite
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Franz Patäng, Paet I
+TTITLE1=Franz Patäng, Paet II
+TTITLE2=Franz Patäng, Paet III
+TTITLE3=Franz Patäng, Paet IV
+TTITLE4=U.B.U: No.w.here
+TTITLE5=Musik in 7 Häusern, Erstes Haus
+TTITLE6=Musik in 7 Häusern, Zweites Haus
+TTITLE7=Musik in 7 Häusern, Drittes/Viertes Haus
+TTITLE8=Musik in 7 Häusern, Fünftes Haus
+TTITLE9=Musik in 7 Häusern, Sechstes Haus
+TTITLE10=Musik in 7 Häusern, Siebtes Haus
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

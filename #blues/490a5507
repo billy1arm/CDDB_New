@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23107
+#	44447
+#	77375
+#	118100
+#	150930
+#	170080
+#
+# Disc length: 2647 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=490a5507
+DTITLE=Lionel Hampton - 50th Anniversary Concert
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=Tea for Two
+TTITLE1=I'm Confessin'
+TTITLE2=The Nearness of You
+TTITLE3=Misty
+TTITLE4=Avalon
+TTITLE5=More Than You Know
+TTITLE6=Runnin' Wild
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

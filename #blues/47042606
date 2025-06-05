@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18144
+#	32808
+#	49182
+#	56519
+#	66769
+#
+# Disc length: 1064 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=47042606
+DTITLE=Dieter Wilms - Blues From The Attic
+DYEAR=2012
+DGENRE=Blues
+TTITLE0=I Feel Like Going Home
+TTITLE1=Dimples
+TTITLE2=Honest I Do
+TTITLE3=Don`t Cry Baby
+TTITLE4=Easy Rider Blues
+TTITLE5=Blues For Christian
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

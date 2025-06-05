@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4652
+#	22957
+#	69800
+#	86045
+#	99082
+#	117337
+#	134115
+#
+# Disc length: 1940 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=5b079208
+DTITLE=Various Artist - TBS系TV 少年アシベ
+DYEAR=1900
+DGENRE=Anime
+TTITLE0=荒川敏行/グッドモーニング・アシベ
+TTITLE1=田村英里子/まかせて!チン・トン・シャン
+TTITLE2=サウンド・ミニ・ドラマ「ゴマちゃんがヒーロー」
+TTITLE3=田村英里子/愛のナイチンゲール
+TTITLE4=ゴマゴマ合唱団/ゴマちゃん音頭
+TTITLE5=ゴマゴマ合唱団/まかせて!チン・トン・シャン(ちびっこバージョン)
+TTITLE6=田村英里子/リトル・ダーリン
+TTITLE7=リトル・ダーリン(おやすみバージョン)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

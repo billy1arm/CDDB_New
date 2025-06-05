@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43862
+#	71262
+#	77300
+#	107600
+#	171525
+#	238500
+#	288150
+#
+# Disc length: 3899 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=610f3908
+DTITLE=Ludwig Van Beethoven - Violin Sonatas No.5 Spring No.9 Kreutzer - Gidon Kremer ・ Martha Argerich
+DYEAR=1987
+DGENRE=Classical
+TTITLE0=バイオリンソナタ 第5番 ヘ長調 作品24 春 第1楽章 アレグロ
+TTITLE1=バイオリンソナタ 第5番 ヘ長調 作品24 春 第2楽章：アダジオモルトエスプレッシボ
+TTITLE2=バイオリンソナタ 第5番 ヘ長調 作品24 春 第3楽章：スケルツォ．アレグロモルト
+TTITLE3=バイオリンソナタ 第5番 ヘ長調 作品24 春 第4楽章：ロンド．アレグロマノントロッポ
+TTITLE4=バイオリンソナタ 第9番 イ長調 作品47 クロイツェル　第1楽章：アダジオソステヌート−プレスト−アダジオ−テンポI
+TTITLE5=バイオリンソナタ 第9番 イ長調 作品47 クロイツェル　第２楽章：アンダンテコンバリエーション　I-IV
+TTITLE6=バイオリンソナタ 第9番 イ長調 作品47 クロイツェル　第３楽章：フィナーレ．プレスト
+TTITLE7=データ トラック
+EXTD=YEAR: 3/1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

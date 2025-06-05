@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21958
+#	42476
+#	66878
+#	86089
+#	102159
+#	128881
+#	162172
+#	188647
+#	218998
+#	244142
+#
+# Disc length: 3602 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=980e100b
+DTITLE=Dave Brubeck - The best
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Kathy's Waltz
+TTITLE1=Basin Street Blues
+TTITLE2=Take Five
+TTITLE3=Somewhere
+TTITLE4=Audrey
+TTITLE5=Swanee River
+TTITLE6=Strange Meadowlark
+TTITLE7=You Go To My Head
+TTITLE8=Blue Rondo A La Turk
+TTITLE9=La Paloma Azul (The Blue Dove)
+TTITLE10=Besame Mucho
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23457
+#	47200
+#	74760
+#	93690
+#	113405
+#	140522
+#	161832
+#
+# Disc length: 2460 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c099a08
+DTITLE=Bonny Cepeda - merengue
+DYEAR=1989
+DGENRE=Merengue
+TTITLE0=me tiene loco
+TTITLE1=muchacha curazoleña
+TTITLE2=el hijo de mama ines
+TTITLE3=la carta de margot
+TTITLE4=yo te vi
+TTITLE5=hoy rio yo
+TTITLE6=la hija de mama
+TTITLE7=ay doctor
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

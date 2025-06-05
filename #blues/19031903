@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20275
+#	39525
+#
+# Disc length: 795 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=19031903
+DTITLE=市井由理 - 恋がしたかった
+DYEAR=1996
+DGENRE=JPop
+TTITLE0=恋がしたかった
+TTITLE1=雲のように
+TTITLE2=恋がしたかった(backing track)
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

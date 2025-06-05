@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26250
+#	58275
+#	73800
+#	91800
+#	113025
+#	145425
+#	179550
+#	214875
+#
+# Disc length: 3189 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=870c7309
+DTITLE=Philip Harper - Soulful Sin
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Soulful Sin
+TTITLE1=The Old Country
+TTITLE2=Mellow Afternoon
+TTITLE3=Songbird
+TTITLE4=Juicy Fruit
+TTITLE5=Survival
+TTITLE6=Weaver Of Dreams
+TTITLE7=New Endings
+TTITLE8=Blue Jay
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

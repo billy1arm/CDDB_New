@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43059
+#	68541
+#	91652
+#	125627
+#
+# Disc length: 2370 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=39094005
+DTITLE=John Abercrombie Quartet - Arcade
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Arcade
+TTITLE1=Nightlake
+TTITLE2=Paramour
+TTITLE3=Neptune
+TTITLE4=Alchemy
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17342
+#	33702
+#	54942
+#	77348
+#	92395
+#	107756
+#	130299
+#
+# Disc length: 1972 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5107b208
+DTITLE=DaLe Salsa - featuring Alfredo Linares
+DYEAR=2008
+DGENRE=Salsa
+TTITLE0=No me digas adiós
+TTITLE1=Cariñito
+TTITLE2=Wonderful life
+TTITLE3=Sonando el tambo
+TTITLE4=Querida
+TTITLE5=Cada día cada noche
+TTITLE6=La quinta
+TTITLE7=A la orilla del mar
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

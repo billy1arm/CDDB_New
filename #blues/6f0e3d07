@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33673
+#	78731
+#	119176
+#	157247
+#	191682
+#	223087
+#
+# Disc length: 3647 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=6f0e3d07
+DTITLE=Manhattan Jazz Quintet - Special Edition of MJQ [Disk 2]
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=My Funny Valentine
+TTITLE1=Take Five
+TTITLE2=Mercy, Mercy, Mercy
+TTITLE3=The Sidewinder
+TTITLE4=Black Orpheus
+TTITLE5=A Night In Tunisia
+TTITLE6=Autumn Leaves
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

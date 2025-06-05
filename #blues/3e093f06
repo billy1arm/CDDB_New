@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14311
+#	47122
+#	76844
+#	113354
+#	145255
+#
+# Disc length: 2369 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=3e093f06
+DTITLE=Freeloaders feat. The Real Thing - So Much Love To Give
+DYEAR=2005
+DGENRE=House
+TTITLE0=So Much Love To Give (Radio Edit)
+TTITLE1=So Much Love To Give (Extended Mix)
+TTITLE2=So Much Love To Give (Morjac Remix)
+TTITLE3=So Much Love To Give (Milk and Sugar Remix)
+TTITLE4=So Much Love To Give (LMC Remix)
+TTITLE5=So Much Love To Give (Basscore Mix)
+EXTD=ID3G:  35 YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

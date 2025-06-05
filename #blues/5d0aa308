@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28257
+#	60137
+#	90367
+#	106217
+#	127597
+#	146110
+#	176712
+#
+# Disc length: 2725 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d0aa308
+DTITLE=Jim Hall - Storyteller Vol. 1 Circles
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=(All Of A Sudden) My Heart Song
+TTITLE1=Love Letters
+TTITLE2=Down From Antigua
+TTITLE3=Echo
+TTITLE4=I Can't Get Started
+TTITLE5=T.C. Blues
+TTITLE6=Circles
+TTITLE7=Aruba
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

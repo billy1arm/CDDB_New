@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14000
+#     27101
+#     37478
+#     42641
+#     52034
+#     68783
+#     79363
+# 
+# Disc length: 1270 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7504f408
+DTITLE=Matt Black - Matt Black - Captured By Aliens
+DYEAR=1900
+DGENRE=
+TTITLE0=The Hook
+TTITLE1=I Want You
+TTITLE2=From Time To Time
+TTITLE3=Lord
+TTITLE4=Let Me Rest Tonight
+TTITLE5=Sun The Moon
+TTITLE6=When You Wake
+TTITLE7=How Could You Let Me Love You?
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=(Bungay]\n
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

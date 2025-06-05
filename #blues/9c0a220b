@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14692
+#     28770
+#     43437
+#     59352
+#     86000
+#     98812
+#     111502
+#     138647
+#     161462
+#     176520
+# 
+# Disc length: 2596 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9c0a220b
+DTITLE=Bert Wills - Mr. Politician
+DYEAR=1900
+DGENRE=
+TTITLE0=Mr. Politician
+TTITLE1=You'll Miss Your Water
+TTITLE2=Crimes Of Passion
+TTITLE3=Three Past Midnight
+TTITLE4=It's OK
+TTITLE5=Dangerous Man
+TTITLE6=I Want You To Make Love To Me
+TTITLE7=I Want A Lover
+TTITLE8=Don't Tease Me
+TTITLE9=Christmas Blues
+TTITLE10=Carene
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33935
+#	64375
+#	86967
+#	105620
+#	127996
+#	159966
+#	210486
+#	226226
+#
+# Disc length: 3158 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f0c5409
+DTITLE=Juhasz Gabor - 1978
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Alatskivi (Alatskivi)
+TTITLE1=Tavasz, Pecs, Dylan (Spring, Pecs, Dylan)
+TTITLE2=Nyar (Summer)
+TTITLE3=Pompa (Splendour)
+TTITLE4=Osz (Autumn)
+TTITLE5=Tel (Winter)
+TTITLE6=Tango, Szentbealla (Tango, Szentbekalla)
+TTITLE7=Bucsu (Farewell)
+TTITLE8=Kek nefelejcs (Blue Forget-Me-Not) - Serly Lajos
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

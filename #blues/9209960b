@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     24793
+#     41025
+#     56123
+#     69310
+#     83083
+#     104460
+#     119030
+#     137328
+#     141828
+#     158133
+# 
+# Disc length: 2456 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9209960b
+DTITLE=Hopkins, Lightnin' - Strikes Again
+DYEAR=1900
+DGENRE=
+TTITLE0=Born In the Bottom
+TTITLE1=Mojo Hand
+TTITLE2=The World's In a Tangle
+TTITLE3=I Went To Louisiana
+TTITLE4=Feel Like Ballling the Jack
+TTITLE5=A Man Like Me Is Hard To Find
+TTITLE6=Go Ahead
+TTITLE7=I Wonder Where She Can Be Tonight
+TTITLE8=Old Man
+TTITLE9=Movin' Out
+TTITLE10=Crying For Bread
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

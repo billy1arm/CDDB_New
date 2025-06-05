@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	54405
+#	106675
+#	148005
+#	174835
+#
+# Disc length: 2645 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=360a5305
+DTITLE=Charles Lloyd - Dream Weaver
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=Autumn Sequence
+TTITLE1=Dream Weaver
+TTITLE2=Bird Flight
+TTITLE3=Love Ship
+TTITLE4=Sombrero Sam
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

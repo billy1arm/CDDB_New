@@ -1,0 +1,49 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 188
+# 13920
+# 42433
+# 61085
+# 78033
+# 98803
+# 127328
+# 150118
+# 158715
+# 187313
+# 207508
+#
+# Disc length: 3549 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.3.330
+#
+DISCID=8d0ddb0b
+DTITLE=Various Artist - Magnificat
+DYEAR=1900
+DGENRE=
+TTITLE0=Carl Phillipp Emanuel Bach - 1. Chor
+TTITLE1=Carl Phillipp Emanuel Bach - 2. Arie (Soprano)
+TTITLE2=Carl Phillipp Emanuel Bach - 3. Arie (Tenor)
+TTITLE3=Carl Phillipp Emanuel Bach - 4. Chor
+TTITLE4=Carl Phillipp Emanuel Bach - 5. Arie (Bass)
+TTITLE5=Carl Phillipp Emanuel Bach - 6. Duet (Alto, Tenor)
+TTITLE6=Carl Phillipp Emanuel Bach - 7. Arie (Alto)
+TTITLE7=Carl Phillipp Emanuel Bach - 8. Chor
+TTITLE8=Carl Phillipp Emanuel Bach - 9. Chor
+TTITLE9=Johann Nikolaus Bach - (Missa Brevis) Kyrie
+TTITLE10=Johann Nikolaus Bach - (Missa Brevis) Gloria
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

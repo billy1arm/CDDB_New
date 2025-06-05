@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18930
+#	36368
+#	52688
+#	70740
+#	89388
+#	104770
+#	119528
+#	137328
+#	160293
+#
+# Disc length: 2282 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=7f08e80a
+DTITLE=Jari - Midnattståg
+DYEAR=1900
+DGENRE=
+TTITLE0=Djävulen i Katmandu
+TTITLE1=Annas rum
+TTITLE2=Eau de cologne
+TTITLE3=Min amerikanska vän
+TTITLE4=Tiger
+TTITLE5=Det bästa vi vet
+TTITLE6=Ta mig med
+TTITLE7=Tåget tillbaka
+TTITLE8=Vägen utanför
+TTITLE9=Vi måste gå dit ner igen
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

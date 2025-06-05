@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     17470
+#     34425
+#     49420
+#     67415
+#     81170
+#     96037
+#     113347
+#     128182
+# 
+# Disc length: 1949 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=76079b09
+DTITLE=Ed Motta - Ed Motta and Conexao Japeri
+DYEAR=1900
+DGENRE=
+TTITLE0=Manuel
+TTITLE1=Vamos Dancar
+TTITLE2=Lady
+TTITLE3=Seis da tarde
+TTITLE4=Um Love
+TTITLE5=Baixo Rio
+TTITLE6=Caminhos
+TTITLE7=Parada de Lucas
+TTITLE8=A Rua
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

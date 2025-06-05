@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30479
+#	61419
+#	107604
+#	121487
+#	139758
+#	153194
+#	201946
+#
+# Disc length: 2977 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670b9f08
+DTITLE=Dave Brubeck - Jackpot (XLP)
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=01 Ace in the Hole 
+TTITLE1=02 Out of Nowhere
+TTITLE2=03 You Go to My Head
+TTITLE3=04 Who 's Afraid
+TTITLE4=05 Chicago
+TTITLE5=06 Rude Old Man
+TTITLE6=07 Jackpot
+TTITLE7=08 Win a Few
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

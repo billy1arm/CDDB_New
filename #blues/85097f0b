@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	23840
+#	44315
+#	60600
+#	76727
+#	93040
+#	105375
+#	117717
+#	132250
+#	145277
+#	159367
+#
+# Disc length: 2433 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=85097f0b
+DTITLE=Johnny Adams - Christmas In New Orleans with Johnny Adams
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=Silent Night
+TTITLE1=O Little Town of Bethlehem
+TTITLE2=The Lord's Prayer
+TTITLE3=Silver Bells
+TTITLE4=The Christmas Song
+TTITLE5=The Little Boy that Santa Forgot
+TTITLE6=This Christmas
+TTITLE7=Lonesome Christmas
+TTITLE8=The Bells of St. Mary
+TTITLE9=White Christmas
+TTITLE10=Please Come Home for Christmas
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

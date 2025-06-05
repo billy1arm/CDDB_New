@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21805
+#	42632
+#	66940
+#	86882
+#	110997
+#	127242
+#	143660
+#
+# Disc length: 2248 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7d08c608
+DTITLE=Alfredo Rodriguez - Monsieur Oh La La
+DYEAR=1900
+DGENRE=Salsa
+TTITLE0=Monsieur Oh La La
+TTITLE1=Si Tu Me Quisieras
+TTITLE2=El Boule-Boulevard
+TTITLE3=Isora Club
+TTITLE4=Mademoiselle Yi Yi
+TTITLE5=Mamey Colorao
+TTITLE6=Dominicanita
+TTITLE7=Guajira Mi-Do
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43314
+#	75925
+#	113484
+#
+# Disc length: 2101 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=23083304
+DTITLE=Dexter Gordon - Gotham City
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=HI-FLY
+TTITLE1=A NIGHTINGALE SANG IN BERKELEY SQUARE
+TTITLE2=THE BLUES WALK (Loose Walk)
+TTITLE3=GOTHAM CITY
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

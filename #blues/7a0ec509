@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32728
+#	61566
+#	97036
+#	118942
+#	158822
+#	177207
+#	216295
+#	253163
+#
+# Disc length: 3783 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a0ec509
+DTITLE=Donny McCaslin - Beyond Now
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=Shake Loose
+TTITLE1=A Small Plot Of Land
+TTITLE2=Beyond Now
+TTITLE3=Coelacanth 1
+TTITLE4=Bright Abyss
+TTITLE5=FACEPLANT
+TTITLE6=Warszawa
+TTITLE7=Glory
+TTITLE8=Remain
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

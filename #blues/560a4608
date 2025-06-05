@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30752
+#	55950
+#	76704
+#	100808
+#	120488
+#	141841
+#	165698
+#
+# Disc length: 2632 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=560a4608
+DTITLE=Mal Waldron and Steve Lacy - Sempre Amore
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Johnny Come Lately
+TTITLE1=Prelude To A Kiss
+TTITLE2=Star-Crossed Lovers
+TTITLE3=To The Bitter
+TTITLE4=Azure
+TTITLE5=Sempre Amore
+TTITLE6=A Flower Is A Lovesome Thing
+TTITLE7=Smada
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

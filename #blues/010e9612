@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13490
+#	32204
+#	45652
+#	70943
+#	85254
+#	102048
+#	115590
+#	135286
+#	149104
+#	157946
+#	173625
+#	186566
+#	198337
+#	221310
+#	235801
+#	251137
+#	263941
+#
+# Disc length: 3736 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=010e9612
+DTITLE=Orkest Polytour - Le Roi des Jongleurs
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=J'ai rendez-vous avec vous
+TTITLE1=Le bal de la Marine
+TTITLE2=Djangology
+TTITLE3=Les Feuilles Mortes
+TTITLE4=Coeur Vagabond
+TTITLE5=Douce France
+TTITLE6=Menilmontant
+TTITLE7=Softly as in a Morning Sunrise
+TTITLE8=J'attendrai
+TTITLE9=Le Vent
+TTITLE10=L'indifference
+TTITLE11=Le Roi des Jongleurs
+TTITLE12=My Blue Heaven
+TTITLE13=Les Amoureux des Bancs Publics
+TTITLE14=Le danseur de Charleston
+TTITLE15=La Chansonnette
+TTITLE16=Polytour
+TTITLE17=Lucia
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

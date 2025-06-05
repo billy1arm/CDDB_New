@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38809
+#	59339
+#	80149
+#	101994
+#	139969
+#	284566
+#	330043
+#
+# Disc length: 4731 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.65 - http://www.feurio.com
+#
+DISCID=75127908
+DTITLE=The Allman Brothers - Beacon Theatre 2002 compilation - Disc 1
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Statesboro blues
+TTITLE1=Trouble no more
+TTITLE2=Don't keep me wonderin'
+TTITLE3=Done somebody wrong
+TTITLE4=One way out
+TTITLE5=In memory of Elizabeth Reed
+TTITLE6=Stormy monday
+TTITLE7=Hot 'Lanta
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

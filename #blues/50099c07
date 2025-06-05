@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14954
+#	30393
+#	59465
+#	83609
+#	99992
+#	160458
+#
+# Disc length: 2462 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=50099c07
+DTITLE=Percy Heath - A Love Song
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=A Love Song
+TTITLE1=Watergate Blues
+TTITLE2=Django
+TTITLE3=Century Rag
+TTITLE4=No More Weary Blues
+TTITLE5=Suite For Pop
+TTITLE6=Hanna's Mood
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

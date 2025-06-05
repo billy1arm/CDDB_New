@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38614
+#	68080
+#	107965
+#	147236
+#	171454
+#	202059
+#
+# Disc length: 3017 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670bc707
+DTITLE=Dan Gibson - Solitudes - Natural Beauty
+DYEAR=2008
+DGENRE=New Age
+TTITLE0=Canon - Beyond The Horizon
+TTITLE1=Sonata Pathetique - 2nd movement
+TTITLE2=Andante From Piano Concerto No. 21 in C
+TTITLE3=Symphony No. 7 - 2nd movement
+TTITLE4=Romanze From Eine Kleine Nachtmusik
+TTITLE5=Moonlight Sonata - 1st movement
+TTITLE6=Canon - Timeless And Free
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

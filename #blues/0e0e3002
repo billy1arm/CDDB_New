@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	136626
+#
+# Disc length: 3634 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0e0e3002
+DTITLE=Pimsleur - American English
+DYEAR=1999
+DGENRE=Language
+TTITLE0=Lesson 21
+TTITLE1=Lesson 22
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+PLAYORDER=

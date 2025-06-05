@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41057
+#	69764
+#	120606
+#	165825
+#	199361
+#	248994
+#
+# Disc length: 3605 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=580e1307
+DTITLE=Haruki Murakami - Gefährliche Geliebte CD5
+DYEAR=2003
+DGENRE=Hörbuch
+TTITLE0=Geliebte CD5-01
+TTITLE1=Geliebte CD5-02
+TTITLE2=Geliebte CD5-03
+TTITLE3=Geliebte CD5-04
+TTITLE4=Geliebte CD5-05
+TTITLE5=Geliebte CD5-06
+TTITLE6=Geliebte CD5-07
+EXTD=gelesen von Joachim Król YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

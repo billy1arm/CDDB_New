@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14340
+#	25482
+#	45285
+#	63842
+#	79930
+#	92775
+#	113535
+#	129607
+#	141325
+#	160735
+#
+# Disc length: 2291 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=8708f10b
+DTITLE=The Paul Butterfield Blues Band - The Paul Butterfield Blues Band
+DYEAR=1965
+DGENRE=Blues
+TTITLE0=Born In Chicago
+TTITLE1=Shake Your Money-maker
+TTITLE2=Blues With A Feeling
+TTITLE3=Thank You Mr. Poobah
+TTITLE4=I Got My Mojo Working
+TTITLE5=Mellow Down Easy
+TTITLE6=Screamin'
+TTITLE7=Our Love Is Drifting
+TTITLE8=Mystery Train
+TTITLE9=Last Night
+TTITLE10=Look Over Yonders Wall
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

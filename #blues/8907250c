@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	10372
+#	19827
+#	32192
+#	45010
+#	52905
+#	63337
+#	76220
+#	86080
+#	99850
+#	109340
+#	124797
+#
+# Disc length: 1831 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.83
+#
+DISCID=8907250c
+DTITLE=Peggy Lee - Old Favorites
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Just One Of Those Things
+TTITLE1=You
+TTITLE2=I've Got The World On A String
+TTITLE3=Oh What A Beautiful Morning
+TTITLE4=It's A Good Day
+TTITLE5=What Is This Thing Called Love
+TTITLE6=I'm Beginning To See The Light
+TTITLE7=Gone With The Wind
+TTITLE8=Don't Blame Me
+TTITLE9=Baby Won't You Please Come Home
+TTITLE10=September In The Rain
+TTITLE11=That Old Gang Of Mine
+EXTD=more info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Composer;Date,Artist,Location,State,Country)
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

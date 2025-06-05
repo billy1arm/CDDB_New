@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	90409
+#	117225
+#	174349
+#	219836
+#
+# Disc length: 3153 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=330c4f05
+DTITLE=Paul Bley Trio - Bremen '66
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=New Love
+TTITLE1=Closer
+TTITLE2=Sweet and Lovely
+TTITLE3=Mazatlan
+TTITLE4=Ida Lupino
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

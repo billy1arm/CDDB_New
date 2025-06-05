@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22891
+#	53808
+#	91600
+#	124729
+#	151028
+#	170607
+#
+# Disc length: 2645 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=440a5307
+DTITLE=Nik Tyndall - Sonnenlicht
+DYEAR=1980
+DGENRE=New Age
+TTITLE0=Südwind
+TTITLE1=Sonnenlicht
+TTITLE2=Wolkenlos
+TTITLE3=Regen Fällt
+TTITLE4=Windig
+TTITLE5=Veränderlich
+TTITLE6=Trotzdem
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

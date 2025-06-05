@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	1625
+#	19077
+#	37120
+#	54697
+#	74267
+#	94332
+#	115985
+#	135302
+#	151552
+#	167920
+#	188337
+#
+# Disc length: 2530 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8d09e00c
+DTITLE=孟庭葦 - 心言手語
+DYEAR=1996
+DGENRE=Pop
+TTITLE0=晨
+TTITLE1=手語
+TTITLE2=將錯就錯
+TTITLE3=愛情海
+TTITLE4=愛情的真相
+TTITLE5=逃
+TTITLE6=心電感應
+TTITLE7=你是誰
+TTITLE8=無處可藏
+TTITLE9=傷了你的心的我傷心
+TTITLE10=放在心裡面
+TTITLE11=夜
+EXTD=YEAR: 1996
+EXTT0=\n
+EXTT1=y\n
+EXTT2=N   N  \n
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	83647
+#	107437
+#	126902
+#	150370
+#
+# Disc length: 2361 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2c093705
+DTITLE=Pat Metheny - Zero Tolerance for Silence
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Part 1
+TTITLE1=Part 2
+TTITLE2=Part 3
+TTITLE3=Part 4
+TTITLE4=Part 5
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

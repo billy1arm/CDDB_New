@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42662
+#	87477
+#	128892
+#	183992
+#	219722
+#	252542
+#	303762
+#
+# Disc length: 4424 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=74114608
+DTITLE=Robert McKee - Story [CD3]
+DYEAR=1997
+DGENRE=Audiobook
+TTITLE0=Moby Dick
+TTITLE1=The second of the five...
+TTITLE2=A story can be told...
+TTITLE3=A scene is a story...
+TTITLE4=Now let's look at the nature of dramatic choice.
+TTITLE5=Step One
+TTITLE6=Step Three
+TTITLE7=Let's take a wider view...
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

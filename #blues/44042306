@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	1562
+#	19750
+#	35185
+#	49518
+#	64447
+#
+# Disc length: 1061 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=44042306
+DTITLE=The Can Utility - Power 0.42
+DYEAR=2003
+DGENRE=1010011010
+TTITLE0=power 0.42
+TTITLE1=merlin's blade
+TTITLE2=blood for heroes
+TTITLE3=fish don't drink h2o
+TTITLE4=ronald miller
+TTITLE5=paddleboat pond
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

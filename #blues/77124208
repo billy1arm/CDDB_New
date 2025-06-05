@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46935
+#	89352
+#	130632
+#	178742
+#	215897
+#	254532
+#	297840
+#
+# Disc length: 4676 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=77124208
+DTITLE=Buddy DeFranco - The Buenos Aires Concerts
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Billie's Bounce
+TTITLE1=Triste
+TTITLE2=Ja Da
+TTITLE3=Yesterdays
+TTITLE4=Mood Indigo
+TTITLE5=Scrapple From The Apple
+TTITLE6=Street Of Dreams
+TTITLE7=The Song Is You
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

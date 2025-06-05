@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32256
+#	90191
+#	162349
+#	205923
+#
+# Disc length: 3873 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2d0f1f05
+DTITLE=Krzysztof Komeda - Memory of Bach
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Memory of Bach
+TTITLE1=Crazy Girl
+TTITLE2=II (Roman Two)
+TTITLE3=After the Catastrophe
+TTITLE4=Zofia Komeda Presents vol.2
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

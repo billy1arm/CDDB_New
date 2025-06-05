@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23538
+#	42591
+#	68279
+#	88824
+#	106904
+#	125527
+#	143942
+#	168206
+#
+# Disc length: 2500 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e09c209
+DTITLE=Fixture - Ultrasound
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Miss Behaving
+TTITLE1=Moment of Silence
+TTITLE2=Kid Liar
+TTITLE3=Pause to Pray
+TTITLE4=Fist
+TTITLE5=Nrb
+TTITLE6=Freezer
+TTITLE7=Special K
+TTITLE8=Girth
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

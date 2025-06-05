@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10466
+#	30144
+#	43940
+#	60193
+#	72576
+#	86922
+#	102388
+#	108141
+#	126876
+#	138760
+#	150920
+#
+# Disc length: 2335 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=92091d0c
+DTITLE=Dorado Schmitt - Hommage à la romanes
+DYEAR=1983
+DGENRE=Jazz
+TTITLE0=Dorado Swing 83
+TTITLE1=^Flora
+TTITLE2=Blues
+TTITLE3=Sinti Mer
+TTITLE4=Django Tigre
+TTITLE5=Comme au bon Vieux Temps
+TTITLE6=Claudio Swing
+TTITLE7=Sarrebruck
+TTITLE8=Lune de Miel
+TTITLE9=Happy Swing
+TTITLE10=Ballade a la Romanes
+TTITLE11=Natascha
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

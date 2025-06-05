@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42525
+#	86705
+#	112022
+#	164205
+#
+# Disc length: 2755 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=460ac105
+DTITLE=Miles Davis - Kind of Blue
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=So What
+TTITLE1=Freddie Freeloader
+TTITLE2=Blue in Green
+TTITLE3=All Blues
+TTITLE4=Flamenco Sketches
+EXTD=Miles Davis, trumpet\nCannonball Adderley, alto sax\nJohn Coltrane, tenor sax\nWynton Kelly, piano\nBill Evans, piano\nPaul Chambers, bass\nJimmy Cobb, drums\n YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33150
+#	56550
+#	70800
+#	89550
+#	114250
+#	142725
+#	160525
+#	173500
+#
+# Disc length: 2566 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.78
+#
+DISCID=640a0409
+DTITLE=Maarten Hogenhuis Trio - Mimicry
+DYEAR=2017
+DGENRE=Jazz
+TTITLE0=The Single Petal of a Rose - Le Sucrier Velours
+TTITLE1=Coko
+TTITLE2=Samuel
+TTITLE3=Tea for Two
+TTITLE4=Sonder
+TTITLE5=Vertigo
+TTITLE6=The Peter-Cat
+TTITLE7=Three Monkeys
+TTITLE8=Bucks
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

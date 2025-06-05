@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12295
+#	22822
+#	35317
+#	48330
+#	69697
+#	82775
+#	96195
+#	110950
+#	120790
+#	135852
+#	148580
+#
+# Disc length: 2158 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8d086c0c
+DTITLE=Claude Bolling - Original Ragtime
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=Waiting for the Robert E. Lee
+TTITLE1=On the Mississippi
+TTITLE2=Mississippi Rag
+TTITLE3=Temptation rag
+TTITLE4=Canadian capers
+TTITLE5=Perfect rag
+TTITLE6=Maple leaf rag
+TTITLE7=Kitten on the keys
+TTITLE8=Harlem strut
+TTITLE9=Cataract rag
+TTITLE10=Saint-Louis rag
+TTITLE11=The entertainer's rag
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

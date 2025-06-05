@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29459
+#	82105
+#	107806
+#	162383
+#	227895
+#	267023
+#	300671
+#
+# Disc length: 4259 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=6310a108
+DTITLE=Isac Delgado - En Vivo
+DYEAR=2002
+DGENRE=Salsa
+TTITLE0=La vida es un carnaval
+TTITLE1=La formula
+TTITLE2=Con la punta del pie
+TTITLE3=Luz Viajera
+TTITLE4=Que tretica eres
+TTITLE5=Deja que roberto te toque
+TTITLE6=El solar
+TTITLE7=La vida es un carnaval (remix)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

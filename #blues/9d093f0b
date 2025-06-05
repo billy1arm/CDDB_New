@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13950
+#	32187
+#	46137
+#	68287
+#	89770
+#	106305
+#	125197
+#	145275
+#	160052
+#	171725
+#
+# Disc length: 2369 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9d093f0b
+DTITLE=''Машина времени'' - ''Это было так давно... 1978. Диск А''.
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=''Избавление''.
+TTITLE1=''День рождения''.
+TTITLE2=''Посвящение хорошему знакомому''.
+TTITLE3=''Ты и я''.
+TTITLE4=''Девятый вал''.
+TTITLE5=''Полный штиль''.
+TTITLE6=''Марионетки''.
+TTITLE7=''Маски''.
+TTITLE8=''Флаг над замком''.
+TTITLE9=''Гимн забору''.
+TTITLE10=''Самая тихая песня''.
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

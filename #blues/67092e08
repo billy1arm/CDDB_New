@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	183
+#	12885
+#	33215
+#	55228
+#	88830
+#	108478
+#	134028
+#	153638
+#
+# Disc length: 2352 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL2
+#
+DISCID=67092e08
+DTITLE=John Lee Hooker - Alone  Disc 1
+DYEAR=1900
+DGENRE=
+TTITLE0=I Miss You So
+TTITLE1=Jesse James
+TTITLE2=Dark Room
+TTITLE3=I'll Never Get Out Of These Blues Alive
+TTITLE4=Boogie Chillun
+TTITLE5=When My First Wife Left Me
+TTITLE6=Boom Boom
+TTITLE7=One Bourbon, One Scotch, One Beer
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13800
+#	34500
+#	52500
+#	75450
+#	94650
+#	108150
+#	132150
+#	144450
+#	160050
+#
+# Disc length: 2522 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6909d80a
+DTITLE=The Diamond Five - Montmartre Blues
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=The beauty of the Ball
+TTITLE1=Fair Weather
+TTITLE2=Alexanders Ragtime
+TTITLE3=Montmartre Blues
+TTITLE4=Parle moi de Velours
+TTITLE5=Bobby Tale
+TTITLE6=Jubilation
+TTITLE7=Royal Dream
+TTITLE8=Olea
+TTITLE9=Sister Sadie
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  27755
+#  54337
+#  81005
+#  106790
+#  129540
+#
+# Disc length: 2050 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.20
+#
+DISCID=3d080006
+DTITLE=CHEB MAMI - MAMAZAREH - MAMAZARH
+DYEAR=1900
+DGENRE=
+TTITLE0=MAMAZAREH
+TTITLE1=HA DELLALI
+TTITLE2=MOUHAL
+TTITLE3=LOUMEK
+TTITLE4=HADI KASSA
+TTITLE5=MATEBKICH
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

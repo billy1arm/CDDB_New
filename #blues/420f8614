@@ -1,0 +1,77 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12725
+#	28717
+#	44402
+#	56605
+#	69622
+#	82277
+#	97175
+#	105617
+#	118507
+#	130492
+#	141422
+#	152442
+#	178930
+#	197050
+#	209717
+#	224302
+#	246332
+#	263867
+#	280042
+#
+# Disc length: 3976 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=420f8614
+DTITLE=Barber, Chris - In the Beginning
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Gatemouth (1949)
+TTITLE1=Mama's Gone, Goodbye (1954)
+TTITLE2=Sing On (1958)
+TTITLE3=How Long Blues (1958)
+TTITLE4=The Martinique (1959)
+TTITLE5=Bobby Shafto (1959)
+TTITLE6=Stevedore Stomp (1958)
+TTITLE7=Yellow Dog Blues (1961)
+TTITLE8=Original Charleston Strut (1962)
+TTITLE9=Jazz Lips (1962)
+TTITLE10=Over In The Gloryland (1965)
+TTITLE11=Tiger Rag (1965)
+TTITLE12=Baby, Won't you please come home (1970)
+TTITLE13=Doctor Jazz (1970)
+TTITLE14=When Things Go Wrong With You (It Hurts Me Too) (1958)
+TTITLE15=Highway To Heaven (1962)
+TTITLE16=High Society (1962)
+TTITLE17=I'm Gonna Move To The Outskirts Of Town (1962)
+TTITLE18=Help Me (1964)
+TTITLE19=Bone And Bread (1969)
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22987
+#	53937
+#	71519
+#	94340
+#	125719
+#	141958
+#	158102
+#	194071
+#
+# Disc length: 2788 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=850ae209
+DTITLE=Peter Buffett - Outside Looking In
+DYEAR=2006
+DGENRE=New Age
+TTITLE0=From Where You Are
+TTITLE1=You're Right
+TTITLE2=Dadaday
+TTITLE3=Missouri Turning
+TTITLE4=Riverside Drive
+TTITLE5=Ye Olde Henry
+TTITLE6=Did You Mean It?
+TTITLE7=Low Spark
+TTITLE8=Waiting
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,29 @@
+# xmcd
+# Copyright (c) 1998 CDDB Inc.
+#
+# Track frame offsets:
+#	150
+#	17244
+#	37876
+#	59671
+#
+# Disc length: 1049 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.70
+#
+DISCID=2e041704
+DTITLE=HOT STRINGS - Viento de Verano (Single-Auskopplung)
+DYEAR=1900
+DGENRE=
+TTITLE0=Viento De Verano
+TTITLE1=In Memory Of Papa John Creach
+TTITLE2=La Cohiba
+TTITLE3=Adios, Habana
+EXTD=http://www.hotstrings.de
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

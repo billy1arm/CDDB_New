@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47811
+#	75392
+#	100072
+#	140190
+#	170788
+#
+# Disc length: 2574 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d0a0c06
+DTITLE=Hank Mobley - Roll Call
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=01-Roll.Call
+TTITLE1=02-My.Groove.Your.Move
+TTITLE2=03-Take.Your.Pick
+TTITLE3=04-A.Baptist.Beat
+TTITLE4=05-The.More.I.See.You
+TTITLE5=06-The.Breakdown
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

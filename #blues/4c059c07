@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20242
+#	39772
+#	46177
+#	68012
+#	80352
+#	103575
+#
+# Disc length: 1438 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4c059c07
+DTITLE=Love Notes - JALL CHRISTMAS by LOVE NOTES
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=CHRISTMAS MEDLEY #1
+TTITLE1=WHEN YOU WISH UPON A STAR
+TTITLE2=IT CAME UPON A MIDNIGHT CLEAR -Instrumental-
+TTITLE3=THE CHRISTMAS SONG
+TTITLE4=AWAY IN A MANGER - with Noel Paul Stookey
+TTITLE5=CHRISTMAS MEDLEY #2
+TTITLE6=SILENT NIGHT , HOLY NIGHT -Instrumental-
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

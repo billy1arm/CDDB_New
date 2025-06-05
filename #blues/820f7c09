@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44952
+#	65550
+#	94972
+#	133620
+#	159837
+#	184555
+#	232155
+#	259877
+#
+# Disc length: 3966 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=820f7c09
+DTITLE=Edvard Grieg - Chamber Music Vol.2
+DYEAR=1995
+DGENRE=Classique
+TTITLE0=Violin Sonata N°1 in F major Op.8  - I. Allegro con brio [Ivan Zenaty, violin and Antonin Kubalek, piano]
+TTITLE1=Violin Sonata N°1 in F major Op.8  - II. Allegretto quasi Andantino
+TTITLE2=Violin Sonata N°1 in F major Op.8  - III. Allegro molto vivace
+TTITLE3=Violin Sonata N°2 in G major Op.13  - I. Lento doloroso
+TTITLE4=Violin Sonata N°2 in G major Op.13  - II. Allegretto tranquillo
+TTITLE5=Violin Sonata N°2 in G major Op.13  - III. Allegro animato
+TTITLE6=Violin Sonata N°3 in C minor Op.45  - I. Allegro molto ed appassionato
+TTITLE7=Violin Sonata N°3 in C minor Op.45  - II. Allegretto espressivo alla Romanza
+TTITLE8=Violin Sonata N°3 in C minor Op.45  - III. Allegro animato
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

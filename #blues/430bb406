@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25478
+#	84004
+#	151896
+#	175356
+#	200716
+#
+# Disc length: 2998 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=430bb406
+DTITLE=Ronda - Journey CD 1
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=Islands
+TTITLE1=Mountains
+TTITLE2=Lakes
+TTITLE3=Seas
+TTITLE4=Plants
+TTITLE5=Clouds
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

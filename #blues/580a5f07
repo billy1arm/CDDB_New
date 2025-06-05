@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	20055
+#	64583
+#	87463
+#	105033
+#	126760
+#	146745
+#
+# Disc length: 2657 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=580a5f07
+DTITLE=Dzem - Dzien w ktorym peklo niebo
+DYEAR=1984
+DGENRE=Blues
+TTITLE0=Dzien w ktorym peklo niebo
+TTITLE1=Oh, slodka
+TTITLE2=Kim jestem - jestem sobie
+TTITLE3=Powial boczny wiatr
+TTITLE4=Czerwony jak cegla
+TTITLE5=Nieudany skok
+TTITLE6=Niewinni i ja - cz. I i II
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

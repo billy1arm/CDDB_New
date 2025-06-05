@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27128
+#	56688
+#	83778
+#	102642
+#
+# Disc length: 1845 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=39073305
+DTITLE=4 Free Hands - Handgemachter Saitenzauber
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Two Faces
+TTITLE1=Walzer
+TTITLE2=Drakula's Breakfast
+TTITLE3=Gipsy Miles
+TTITLE4=Kontraste
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

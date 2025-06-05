@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49500
+#	74400
+#	111300
+#	135524
+#	190199
+#	242249
+#	275924
+#
+# Disc length: 4147 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=79103108
+DTITLE=Randy Weston - Sel. Portraits of D. Ellington and T. Monk
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Misterioso
+TTITLE1=Ruby My Dear
+TTITLE2=I Mean You
+TTITLE3=Off Minor - Thelonious
+TTITLE4=Caravan
+TTITLE5=Sepia Panorama
+TTITLE6=C Jam Blues
+TTITLE7=Chromatic Love Affair
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

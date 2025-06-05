@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    182
+#    13022
+#    29997
+#    46297
+#    64137
+#    91167
+#    107747
+#    120495
+#    138930
+#    159527
+#
+# Disc length: 2441 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.3.9a  (wjohn@fix.net)
+#
+DISCID=8209870a
+DTITLE=Hans Theesink - 
+DTITLE=Johnny and the Devil
+DYEAR=1900
+DGENRE=
+TTITLE0=Johnny and the Devil
+TTITLE1=Travelling Man
+TTITLE2=Sitting In Limbo
+TTITLE3=Living In The Fast Lane
+TTITLE4=Mississippi
+TTITLE5=Flying Shoes
+TTITLE6=Shake Hands With The Sun
+TTITLE7=Dough Roller Blues
+TTITLE8=Grinning In Your Face
+TTITLE9=False Accusations
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

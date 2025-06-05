@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20137
+#	40775
+#	75500
+#	85862
+#	105097
+#	119185
+#	136032
+#	170817
+#	189420
+#	216157
+#	243422
+#
+# Disc length: 3385 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=9b0d370c
+DTITLE=George Benson - This is Jazz
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Clockwise
+TTITLE1=Myna Bird Blues
+TTITLE2=Willow Weep For Me
+TTITLE3=Stormy Weather
+TTITLE4=The Cooker
+TTITLE5=The Borgia Stick
+TTITLE6=Ode To A Kudu
+TTITLE7=Take Five
+TTITLE8=I Remember Wes
+TTITLE9=Good King Bad
+TTITLE10=Sumertime (Live)
+TTITLE11=From Now On
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

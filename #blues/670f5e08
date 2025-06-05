@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	45832
+#	81905
+#	119370
+#	149160
+#	186232
+#	230445
+#	256585
+#
+# Disc length: 3936 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670f5e08
+DTITLE=Andy Sheppard - In Co-Motion
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=A.S.A.P
+TTITLE1=Eargliding
+TTITLE2=Backstage Passes
+TTITLE3=Movies
+TTITLE4=Upstage
+TTITLE5=Let's Lounge
+TTITLE6=Pinky
+TTITLE7=Circles
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

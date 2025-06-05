@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31865
+#	58320
+#	83747
+#	113125
+#	136697
+#
+# Disc length: 2227 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=4508b106
+DTITLE=Lest Young - in Washington DC volume three
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Just You, Just Me
+TTITLE1=Sometimes I'm Happy
+TTITLE2=Indiana (Back Home Again In)
+TTITLE3=Up'n Adam
+TTITLE4=There Will Never Be Another You
+TTITLE5=G's, If You Please
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

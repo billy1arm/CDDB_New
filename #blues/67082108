@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14016
+#	35238
+#	58856
+#	75870
+#	94578
+#	118607
+#	140607
+#
+# Disc length: 2083 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=67082108
+DTITLE=Guy Bergeron - Last Of The Hip White Boys
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=Hittin On The Bottle
+TTITLE1=Audience For My Pain
+TTITLE2=Livin In The Valley
+TTITLE3=Lets Find A Place
+TTITLE4=Mojo Mama
+TTITLE5=Sunday Drive
+TTITLE6=Some Kind Of Wonderful
+TTITLE7=Fender Bender
+EXTD=YEAR: 2002 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

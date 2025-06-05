@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30600
+#	62060
+#	86662
+#	112805
+#	139770
+#	166282
+#	198945
+#	228246
+#	254045
+#	277142
+#
+# Disc length: 4120 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9810160b
+DTITLE=Keith Richards - Life 5v6 
+DYEAR=2010
+DGENRE=Hoerbuch
+TTITLE0=Keith Richards Life 5v6 01
+TTITLE1=Keith Richards Life 5v6 02
+TTITLE2=Keith Richards Life 5v6 03
+TTITLE3=Keith Richards Life 5v6 04
+TTITLE4=Keith Richards Life 5v6 05
+TTITLE5=Keith Richards Life 5v6 06
+TTITLE6=Keith Richards Life 5v6 07
+TTITLE7=Keith Richards Life 5v6 08
+TTITLE8=Keith Richards Life 5v6 09
+TTITLE9=Keith Richards Life 5v6 10
+TTITLE10=Keith Richards Life 5v6 11
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

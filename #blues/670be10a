@@ -1,0 +1,46 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 19550
+# 38550
+# 55362
+# 84005
+# 115260
+# 166960
+# 180775
+# 195522
+# 212317
+#
+# Disc length: 3043 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.3.331
+#
+DISCID=670be10a
+DTITLE=John Williams - The John Williams Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Prelude No. 1 in E Minor
+TTITLE1=Fantasie No. 7
+TTITLE2=Madrigal (Gavota)
+TTITLE3=Asturias
+TTITLE4=Caprice No. 24
+TTITLE5=Concierto De Aranjuez - Adagio
+TTITLE6=Jesu, Joy of Man's Desiring
+TTITLE7=Sonata in D
+TTITLE8=La Maja De Goya
+TTITLE9=Turkish Rondo, K.331
+EXTD=
+EXTT0=Villa-Lobos
+EXTT1=Dowland
+EXTT2=Barrios
+EXTT3=I.Albeniz
+EXTT4=Paganni
+EXTT5=Rodrigo
+EXTT6=Bach
+EXTT7=M. Albeniz
+EXTT8=Granados
+EXTT9=Mozart
+PLAYORDER=

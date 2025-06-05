@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17215
+#	38216
+#	60791
+#	92749
+#	119611
+#	145200
+#	166451
+#	187562
+#
+# Disc length: 2913 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d0b5f09
+DTITLE=BadBadNotGood - III
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=Triangle
+TTITLE1=Can't leave the night
+TTITLE2=Confessions
+TTITLE3=Kaleidoscope
+TTITLE4=Eyes closed
+TTITLE5=Hedron
+TTITLE6=Differently, still
+TTITLE7=Since you asked kindly
+TTITLE8=cs60
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

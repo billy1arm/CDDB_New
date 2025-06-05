@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	38275
+#	74393
+#	90245
+#	114925
+#	159485
+#	168513
+#	200543
+#
+# Disc length: 3143 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=570c4508
+DTITLE=Kris Defoort - KD's Basement Party - Sketches Of Belgium
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Sketches Of Belgium
+TTITLE1=Trinkle Tinkle
+TTITLE2=Anoraxia
+TTITLE3=Monk's Dream
+TTITLE4=New Life
+TTITLE5=M31 (Intro To Roxanne)
+TTITLE6=Roxanne
+TTITLE7=Middle Jazz
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

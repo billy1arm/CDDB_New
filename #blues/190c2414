@@ -1,0 +1,77 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13667
+#	24825
+#	35400
+#	45900
+#	58800
+#	70680
+#	81075
+#	91725
+#	104550
+#	117555
+#	129125
+#	140050
+#	153525
+#	163875
+#	175725
+#	187145
+#	197550
+#	209325
+#	221062
+#
+# Disc length: 3110 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=190c2414
+DTITLE=Robert Johnson - The Gold Collection 40 Classic Performances Disc 2
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=I Believe I´ll Dust My Broom
+TTITLE1=Drunken Hearted Man - 1
+TTITLE2=Drunken Hearted Man - 2
+TTITLE3=Malted Milk
+TTITLE4=Come On In My Kitchen - 1
+TTITLE5=Come On In My Kitchen - 2
+TTITLE6=Milkcow´s Calf Blues - 1
+TTITLE7=Milkcow´s Calf Blues - 2
+TTITLE8=Travelling Riverside Blues
+TTITLE9=Kindhearted Woman Blues - 1
+TTITLE10=Kindhearted Woman Blues - 2
+TTITLE11=From Four Till Late
+TTITLE12=They´re Red Hot
+TTITLE13=Stop Breakin´ Down Blues
+TTITLE14=Hellhound On My Trail
+TTITLE15=Dead Shrimp Blues
+TTITLE16=Honeymoon Blues
+TTITLE17=I´m A Steady Rollin´ Man
+TTITLE18=If I Had Possession Over Judgement Day
+TTITLE19=Last Fair Deal Gone Down
+EXTD=ID3G:   0
+EXTT0=1993
+EXTT1=nose
+EXTT2=Bootleg\nSubmitted by Lars.Wahlgren@privat.utfors.se
+EXTT3=Ünlü ist eine deutsch/türkische Rockband
+EXTT4=zart, arranged by inViolet. (c) 1998, 1999
+EXTT5=Un film de ALMODÓVAR
+EXTT6=e First Movie CD Single with M2M
+EXTT7=607\nhttp:/www.cs.ut.ee/vennaskond\n
+EXTT8=@algonet.se
+EXTT9=Tobi on Top  :) HaVeMoReFuN (:\n\nwww.TOBI-ON-TOP.de
+EXTT10=Movie's track's
+EXTT11=---------\n \n  \n
+EXTT12=Enregistrement public 1990\n2 volumes
+EXTT13=ck 9 by Mike Patton.
+EXTT14=home Chicago
+EXTT15=eally make me, baby, feel alright
+EXTT16=(Rannenberg/Jahn)
+EXTT17=(Percy Mayfield)
+EXTT18=(Charles Davenport)
+EXTT19=(Leroy Carr)
+PLAYORDER=

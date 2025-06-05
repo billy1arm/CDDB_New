@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43600
+#	113442
+#	197517
+#
+# Disc length: 3586 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=270e0004
+DTITLE=世界宗教音楽ライブラリー - チベット・ナミギェル寺院の声明
+DYEAR=1992
+DGENRE=World
+TTITLE0=カーラチャクラ供養鬘(KALACAKRA PART 1)
+TTITLE1=カーラチャクラ供養鬘(KALACAKRA PART 2)
+TTITLE2=カーラチャクラ供養鬘(KALACAKRA PART 3)
+TTITLE3=カーラチャクラ供養鬘(KALACAKRA PART 4)
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

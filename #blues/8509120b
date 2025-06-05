@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17457
+#     38050
+#     54977
+#     65937
+#     81425
+#     97775
+#     110437
+#     124767
+#     137335
+#     156770
+# 
+# Disc length: 2324 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=8509120b
+DTITLE=Tracy Nelson - Time Is On My Side
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Anything You Want
+TTITLE1=Time Is On My Side
+TTITLE2=The Woman In Your Heart
+TTITLE3=I Could Have Been Your Best Friend
+TTITLE4=Sudden Changes
+TTITLE5=I've Never Loved You More
+TTITLE6=Let The Memory Fade
+TTITLE7=An Arm And A Leg
+TTITLE8=You Just Can't Forget Her (Can You Fool)
+TTITLE9=Couldn't Do Nothing Right
+TTITLE10=Let The Memory Fade (alternate take)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

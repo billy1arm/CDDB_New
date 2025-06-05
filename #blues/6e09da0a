@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19072
+#	39044
+#	60958
+#	76259
+#	91320
+#	124144
+#	138015
+#	152656
+#	170934
+#
+# Disc length: 2524 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6e09da0a
+DTITLE=Liederbayern-Duo - Lieder über Land und Leute
+DYEAR=1982
+DGENRE=Lieder
+TTITLE0=Blütenstaub
+TTITLE1=Besetzt
+TTITLE2=Lena
+TTITLE3=Lied vom Werben
+TTITLE4=Sei leise, mein Kind
+TTITLE5=Bayernland
+TTITLE6=Sommerzeit-Blues
+TTITLE7=Heit hab I meine Tage
+TTITLE8=Mir fällt nix ein
+TTITLE9=Papa, warum?
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

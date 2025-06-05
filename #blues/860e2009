@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30185
+#	67207
+#	93640
+#	127012
+#	146752
+#	183055
+#	214637
+#	245995
+#
+# Disc length: 3618 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=860e2009
+DTITLE=Roman Pokorny Quartet - Magic Holidays
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Magic Holidays
+TTITLE1=Something for M.P.
+TTITLE2=Blue Stone
+TTITLE3=Betweeen two people
+TTITLE4=My Old car
+TTITLE5=The raincoat
+TTITLE6=My secret love
+TTITLE7=Song about you
+TTITLE8=Bell-bottomed shorts
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

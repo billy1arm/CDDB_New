@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20207
+#	55407
+#	85383
+#	125645
+#	187600
+#	228562
+#
+# Disc length: 3584 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5b0dfe07
+DTITLE=Sonny Rollins - The Village Vanguard Vol.2 - Kind Of Rollins CD-3
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=I Can't Get Started (Duke/Gershwin)
+TTITLE1=Old Devil Moon (Lane/Harburg)
+TTITLE2=All The Things You Are (Kern/Hammerstein)
+TTITLE3=Get Happy (Arlen/Koehler)
+TTITLE4=What Is This Thing Called Love (Porter)
+TTITLE5=I'll Remember April (Raye/Paul/Johnston)
+TTITLE6=Night In Tunisia (Gillespie/Paparelli)
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

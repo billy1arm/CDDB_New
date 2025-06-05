@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29585
+#	65055
+#	94325
+#	129705
+#
+# Disc length: 2281 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4908e705
+DTITLE=Dave Brubeck - Jazz At Oberlin
+DYEAR=1953
+DGENRE=Jazz
+TTITLE0=These Foolish Things (Remind Me of You)
+TTITLE1=Perdido
+TTITLE2=Stardust
+TTITLE3=The Way You Look Tonight
+TTITLE4=How High the Moon
+EXTD=YEAR: 1953
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

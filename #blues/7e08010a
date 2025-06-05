@@ -1,0 +1,47 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	13305
+#	32867
+#	46880
+#	57832
+#	77717
+#	91595
+#	103690
+#	116777
+#	139792
+#
+# Disc length: 2051
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 1.4
+# Normalized: r1:DSETVAR1,TDELIM( - ),TSWAP
+#
+DISCID=7e08010a
+DTITLE=Various Artist - Blues Legends
+DYEAR=1900
+DGENRE=
+TTITLE0=Gatemouth Brown - Depression Blues
+TTITLE1=Koko Taylor - Big Boss Man
+TTITLE2=Albert King - Callin' on My Darling
+TTITLE3=T-Bone Walker - Call It Stormy Monday
+TTITLE4=Z.Z. Hill - Love Is So Good When You Are Stealing It
+TTITLE5=Willie Dixon - Walking the Blues
+TTITLE6=Little Milton - We're Gonna Make It
+TTITLE7=Big Joe Turner - Corina Corina
+TTITLE8=John Lee Hooker - Tantalizing With The Blues
+TTITLE9=Muddy Waters - Hard Loser
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21825
+#	42920
+#	64620
+#	85747
+#
+# Disc length: 1429 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=34059305
+DTITLE=氷川きよし - きよしのドドンパ
+DYEAR=2004
+DGENRE=JPop
+TTITLE0=きよしのドドンパ
+TTITLE1=ハマナス旅情
+TTITLE2=きよしのドドンパ(カラオケ)
+TTITLE3=ハマナス旅情(カラオケ)
+TTITLE4=きよしのドドンパ（半音下げカラオケ）
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19361
+#	42869
+#	59718
+#	81680
+#	102022
+#	124437
+#	145290
+#	167729
+#	187535
+#	207880
+#	226182
+#
+# Disc length: 3162 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a70c580c
+DTITLE=Tom Vieth - I'm gonna carry on and sing the blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Beggin' and prayin'
+TTITLE1=Lonely hours
+TTITLE2=Lets talk about love
+TTITLE3=The world is mad
+TTITLE4=Cleo's back
+TTITLE5=Too many pretty woman
+TTITLE6=When you turn your back on me
+TTITLE7=First crime shuffle
+TTITLE8=House no. 7
+TTITLE9=Bad boy
+TTITLE10=Tom's mood
+TTITLE11=I'm gonna carry on and sing the blues
+EXTD=Out of Space Records\nBlues series #1\n
+EXTT0=(T. V.)
+EXTT1=(Lowell Fulson)
+EXTT2=(Ray Agee)
+EXTT3=(T. V.)
+EXTT4=(W. Woods)
+EXTT5=(T. V.)
+EXTT6=(T. V.)
+EXTT7=(T. V.)
+EXTT8=(T. V.)
+EXTT9=(E. Taylor)
+EXTT10=(T. V.)
+EXTT11=(T. V.)
+PLAYORDER=

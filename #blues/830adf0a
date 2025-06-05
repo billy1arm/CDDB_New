@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     22842
+#     43377
+#     61055
+#     82135
+#     107262
+#     125420
+#     147587
+#     171897
+#     191330
+# 
+# Disc length: 2785 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=830adf0a
+DTITLE=Amy Keys - Lover's Intuition
+DYEAR=1900
+DGENRE=
+TTITLE0=I Know What's Good For You
+TTITLE1=Lover's Intuition
+TTITLE2=Will You Respect Me (In The Morning)
+TTITLE3=Someone's Gonna Fall In Love
+TTITLE4=Has It Come To This
+TTITLE5=Even Now
+TTITLE6=A Man And A Woman
+TTITLE7=Everytime I Close My Eyes
+TTITLE8=Precious
+TTITLE9=Crazy Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

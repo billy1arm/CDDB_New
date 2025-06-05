@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38581
+#	58605
+#	84976
+#	112795
+#	137694
+#	174369
+#	223147
+#	248780
+#
+# Disc length: 3685 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=6e0e6309
+DTITLE=Bobby Kapp and Matthew Shipp - Cactus
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=Overture
+TTITLE1=Before
+TTITLE2=During
+TTITLE3=Money
+TTITLE4=Cactus
+TTITLE5=After
+TTITLE6=Good Wood
+TTITLE7=Drum-a-Phone
+TTITLE8=The 3rd Sound
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

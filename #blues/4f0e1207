@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48335
+#	89529
+#	122059
+#	157831
+#	189929
+#	234604
+#
+# Disc length: 3604 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4f0e1207
+DTITLE=John Coltrane - Blue Train
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Blue Train
+TTITLE1=Moment's Notice
+TTITLE2=Locomotion
+TTITLE3=I'm Old Fashioned
+TTITLE4=Lazy Bird
+TTITLE5=Blue Train (alternate take)
+TTITLE6=Lazy Bird (alternate take)
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

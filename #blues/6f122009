@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30491
+#	52875
+#	72940
+#	154185
+#	183131
+#	209608
+#	238182
+#	307776
+#
+# Disc length: 4642 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f122009
+DTITLE=John Mayall And The Bluesbreakers - 70th Birthday Concert cd2
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Please Mr Lofton (with Eric Clapton)
+TTITLE1=Hideway (with Eric Clapton and Chris Barber)
+TTITLE2=All Your Love (with Eric Clapton)
+TTITLE3=Have You Heard (with Eric Clapton and Chris Barber) 
+TTITLE4=Hoochie Coochie Man (with Eric Clapton and Chris Barber)
+TTITLE5=I'm Tore Down (with Eric Clapton and Chris Barber)
+TTITLE6=It Ain't Right
+TTITLE7=California (with Mick Taylor, Chris Barber and Lowther)
+TTITLE8=Talk To Your Daughter (with Eric Clapton, Chris Taylor and Chris Barber)
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

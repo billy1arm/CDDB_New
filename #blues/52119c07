@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4023
+#	80691
+#	172646
+#	224408
+#	278312
+#	313404
+#
+# Disc length: 4510 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=52119c07
+DTITLE=The Jimi Hendrix Experience - 1968.10.10-12 The Definitive Winterland [Disc Two]
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=Intro
+TTITLE1=Are Your Experienced
+TTITLE2=Tax Free
+TTITLE3=Red House
+TTITLE4=Hear My Train a Comin'
+TTITLE5=Killing Floor
+TTITLE6=Purple Haze
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

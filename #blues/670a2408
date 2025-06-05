@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23307
+#	64414
+#	79234
+#	95835
+#	113979
+#	155646
+#	178147
+#
+# Disc length: 2598 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670a2408
+DTITLE=Blues Company - Live 80
+DYEAR=1980
+DGENRE=Blues
+TTITLE0=29 Ways
+TTITLE1=Driftin' Blues
+TTITLE2=Blues With A Feelin'
+TTITLE3=Riot
+TTITLE4=Good Rockun' Tonite
+TTITLE5=Tobacco Road
+TTITLE6=It's Nice ...
+TTITLE7=If I Ever Get Lucky
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

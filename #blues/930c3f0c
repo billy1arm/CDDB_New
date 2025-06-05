@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	24697
+#	35775
+#	53450
+#	78285
+#	99097
+#	116112
+#	127747
+#	152947
+#	168997
+#	195172
+#	216387
+#
+# Disc length: 3137 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=930c3f0c
+DTITLE=B.B. King - 36 All-Time Greatest Hits (Volume 1) 
+DYEAR=1900
+DGENRE=
+TTITLE0=The Thrill is Gone
+TTITLE1=Lucille Talks Back
+TTITLE2=My Song
+TTITLE3=Never Make A Move Too Soon
+TTITLE4=No Good
+TTITLE5=No Money No Luck
+TTITLE6=Paying The Cost To Be The Boss
+TTITLE7=So Excited
+TTITLE8=Tired Of Your Jive
+TTITLE9=Watch Yourself
+TTITLE10=What Happened?
+TTITLE11=When It All Comes Down (I'll Still Be Around)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

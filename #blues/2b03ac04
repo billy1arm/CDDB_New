@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15915
+#	40962
+#	63705
+#
+# Disc length: 942 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2b03ac04
+DTITLE=山本正之 - 花火
+DYEAR=1994
+DGENRE=JPop
+TTITLE0=花火
+TTITLE1=ミルクホールワルツ
+TTITLE2=フットライト
+TTITLE3=駅
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

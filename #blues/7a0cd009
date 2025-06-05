@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25678
+#	36225
+#	71330
+#	105523
+#	121363
+#	146033
+#	181130
+#	221658
+#
+# Disc length: 3282 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a0cd009
+DTITLE=Ruzicka Karel - Flight
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Now You Know
+TTITLE1=Good Morning
+TTITLE2=By Chance
+TTITLE3=My Secret Love
+TTITLE4=Bleecker Street
+TTITLE5=After Hours
+TTITLE6=Together
+TTITLE7=Andrea
+TTITLE8=Flight
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

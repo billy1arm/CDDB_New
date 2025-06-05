@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33058
+#	61458
+#	94759
+#	112977
+#	141766
+#	163536
+#	198212
+#
+# Disc length: 3211 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5f0c8908
+DTITLE=Mike Simmons - Compositions of Stone
+DYEAR=1998
+DGENRE=New Age
+TTITLE0=Carnac - The Alignments
+TTITLE1=The Ring of Brodgar
+TTITLE2=Rollright Stones
+TTITLE3=Merry Maidens
+TTITLE4=Long Meg and her Daughters
+TTITLE5=Castlerigg
+TTITLE6=Avebury
+TTITLE7=Stonehenge
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

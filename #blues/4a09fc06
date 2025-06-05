@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	42112
+#	60925
+#	96725
+#	114200
+#	127012
+#
+# Disc length: 2558 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=4a09fc06
+DTITLE=Paulo Moura  - Gafierira Etc and Tal
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Dialogo
+TTITLE1=Ao Velho Pedro
+TTITLE2=Rio Negro
+TTITLE3=Alma Brasileira
+TTITLE4=Nada Alem
+TTITLE5=Fibra
+EXTD=Submitted By WinSkol
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

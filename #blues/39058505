@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  17920
+#  40425
+#  65275
+#  81080
+#
+# Disc length: 1415 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=39058505
+DTITLE=John Farnham - Fight For Survival
+DYEAR=1900
+DGENRE=
+TTITLE0=Always The Same )Fight For Survival) (Live)
+TTITLE1=It's a Long Way To The Top (If You Wanna Rock and Roll) (Live)
+TTITLE2=Angels (Live)
+TTITLE3=Chain Reaction (Live)
+TTITLE4=Age of Reason (Live)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

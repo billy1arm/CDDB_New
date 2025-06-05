@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21874
+#	88348
+#	183532
+#	269094
+#
+# Disc length: 4761 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=46129705
+DTITLE=Jean-Michael Jarre - The Concerts in China (Koncerty w Chinach)
+DYEAR=1982
+DGENRE=New Age
+TTITLE0=The Overture
+TTITLE1=Arpegiator, Equinoxe (Part 4)
+TTITLE2=Fishing Junks at Sunset, Band in the Rain, Equinoxe (Part 7)
+TTITLE3=Orient Express,Chants Magnetiques I, Magnetic Fields III-IV,  Laser Harp
+TTITLE4=Nuit a Shanghai, The Last Rumba, Magnetic Fields II, Souvenir de Chine
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

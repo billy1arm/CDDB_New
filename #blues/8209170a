@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	15330
+#	32260
+#	48157
+#	67095
+#	85657
+#	104882
+#	127342
+#	147197
+#	167627
+#
+# Disc length: 2329 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=8209170a
+DTITLE=Eric Burdon - I Used To Be An Animal
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=I Used To Be An Animal
+TTITLE1=Sixteen Tons
+TTITLE2=American Dream
+TTITLE3=Going Back To Memphis
+TTITLE4=Leo´s Place
+TTITLE5=Run For Your Life
+TTITLE6=Don´t Give A Damn (Maski, Maski)
+TTITLE7=Living In Fear
+TTITLE8=I Will Be With You Again
+TTITLE9=The Dream
+EXTD=YEAR: 1993  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

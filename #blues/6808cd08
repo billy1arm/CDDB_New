@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21392
+#	46267
+#	64702
+#	83520
+#	105712
+#	124237
+#	146667
+#
+# Disc length: 2255 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=6808cd08
+DTITLE=佐藤裕美 - Sugar kiss テーマソングコレクション
+DYEAR=2003
+DGENRE=Vocal
+TTITLE0=Sugar kiss
+TTITLE1=星空
+TTITLE2=ラブレター
+TTITLE3=CODA
+TTITLE4=Smile
+TTITLE5=初恋
+TTITLE6=STAIRS
+TTITLE7=陽だまり
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

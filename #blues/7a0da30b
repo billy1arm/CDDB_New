@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24688
+#	52858
+#	80319
+#	106279
+#	130548
+#	150160
+#	172946
+#	192692
+#	219940
+#	242403
+#
+# Disc length: 3493 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a0da30b
+DTITLE=European Jazz Trio - Bolero
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Nocturne F minor (Chopin)
+TTITLE1=Bolero (Ravel)
+TTITLE2=The Swan (Saint-Seans)
+TTITLE3=Rhapsody in Blue (Gershwin)
+TTITLE4=Apres Un Reve (Faure)
+TTITLE5=Polonaise in Ab (chopin)
+TTITLE6=Symphony No.3 in F (Brahms)
+TTITLE7=Piano Concerto 23 (Mozart)
+TTITLE8=Romeo and Juliet (Tchaikovsky)
+TTITLE9=Waltz in Ab (Chopin)
+TTITLE10=Sheep May Safely Graze (Bach)
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34875
+#	70897
+#	111250
+#	167747
+#	210540
+#	253407
+#	273742
+#	312840
+#
+# Disc length: 4447 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=89115d09
+DTITLE=Albert Beger - The Primitive
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Streams
+TTITLE1=Primitive
+TTITLE2=Yelow
+TTITLE3=To Joe
+TTITLE4=Harold
+TTITLE5=The Voice
+TTITLE6=Anat
+TTITLE7=Traffic
+TTITLE8=Time To Relax
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

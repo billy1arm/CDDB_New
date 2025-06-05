@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	58253
+#	170523
+#
+# Disc length: 3974 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=240f8403
+DTITLE=五代目 古今亭志ん生 - 落語ベスト集04
+DYEAR=2001
+DGENRE=Comedy
+TTITLE0=鶴亀
+TTITLE1=五人まわし
+TTITLE2=文違い
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

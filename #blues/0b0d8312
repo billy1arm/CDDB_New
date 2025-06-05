@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19516
+#	37770
+#	52277
+#	65846
+#	77112
+#	91634
+#	111343
+#	126309
+#	138583
+#	152502
+#	165444
+#	179211
+#	192583
+#	204457
+#	217151
+#	230088
+#	245540
+#
+# Disc length: 3461 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0b0d8312
+DTITLE=Count Basie - One O'Clock Jump
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=One O'Clock Jump
+TTITLE1=Let's Jump
+TTITLE2=Jumpin' At The Woodside
+TTITLE3=Mama Don't Want No Peas An' Rice An' Coconut Oil
+TTITLE4=Basie Boogie
+TTITLE5=Blues In The Dark
+TTITLE6=Dance Of The Gremlins
+TTITLE7=Don't You Miss Your Baby
+TTITLE8=Georgiana
+TTITLE9=Sent For You Yesterday And Here You Come Today
+TTITLE10=Jazz Me Blues
+TTITLE11=Honeysuckle Rose
+TTITLE12=Now Will You Be Good
+TTITLE13=Roseland Shuffle
+TTITLE14=Sing For Your Supper
+TTITLE15=Swinging The Blues
+TTITLE16=Every Tub
+TTITLE17=Boogie Woogie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

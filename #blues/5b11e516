@@ -1,0 +1,82 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13335
+#	30390
+#	44557
+#	57320
+#	69277
+#	80657
+#	92357
+#	104865
+#	115457
+#	131730
+#	178685
+#	191112
+#	200827
+#	213567
+#	227190
+#	239215
+#	251147
+#	271882
+#	295357
+#	317487
+#	331020
+#
+# Disc length: 4583 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b11e516
+DTITLE=Various Artist - Blues Masters - The Essential Blues Collection
+DYEAR=1986
+DGENRE=Blues
+TTITLE0=Ain't Nobody's Business - Jimmy Witherspoon
+TTITLE1=T-Bone Blues - T-Bone Walker
+TTITLE2=Laundromat Blues - Albert King
+TTITLE3=Rollin' and Tumblin' Part 1 - Baby Face Leroy Trio
+TTITLE4=All Your Love (I Miss Loving) - Otis Rush
+TTITLE5=Evening Sun - Johnny Shines
+TTITLE6=Little By Little - Junior Wells
+TTITLE7=Short-Haired Woman - Lightnin' Hopkins
+TTITLE8=The Freeze - Albert Collins And His Rhythm Rockers
+TTITLE9=The Stumble - Freddie King
+TTITLE10=Flood Down In Texas - Stevie Ray Vaughan
+TTITLE11=Sugar Coated Love - Lazy Lester
+TTITLE12=Steady - Jerry McCain
+TTITLE13=I Got Love If You Want It - Slim Harpo
+TTITLE14=Shake, Rattle, And Roll - Joe Turner
+TTITLE15=Hoy Hoy - Little Johnnie Jones
+TTITLE16=Hello Little Boy - Ruth Brown
+TTITLE17=I'm A Woman - Koko Taylor
+TTITLE18=Master Charge - Albert Collins
+TTITLE19=Mojo Boogie (aka The Mojo) - Johnny Winter
+TTITLE20=Feelin' Good - Little Junior's Blues Flames
+TTITLE21=Bear Cat - Rufus "Hound Dog" Thomas, Jr.
+EXTD=YEAR: 1986
+EXTT0=Jimmy Witherspoon\n
+EXTT1=T-Bone Walker\n
+EXTT2=Albert King\n
+EXTT3=Baby Face Leroy Trio\n
+EXTT4=Otis Rush\n
+EXTT5=Johnny Shines\n
+EXTT6=Junior Wells\n
+EXTT7=Lightnin' Hopkins\n
+EXTT8=Albert Collins And His Rhythm Rockes\n
+EXTT9=Freddy King\n
+EXTT10=Stevie Ray Vaughn\n
+EXTT11=Lazy Lester\n
+EXTT12=Jerry McCain\n
+EXTT13=Slim Harpo\n
+EXTT14=Joe Turner\n
+EXTT15=Little Johnnie Jones\n
+EXTT16=Ruth Brown\n
+EXTT17=Koko Taylor\n
+EXTT18=Albert Collins\n
+EXTT19=Johnny Winter\n
+EXTT20=Little Junior's Blue Flames\n
+EXTT21=Rufus 'Hound Dog' Thomas, Jr.\n
+PLAYORDER=

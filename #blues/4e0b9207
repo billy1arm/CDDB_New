@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39052
+#	48757
+#	64832
+#	145662
+#	165525
+#	204222
+#
+# Disc length: 2964 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e0b9207
+DTITLE=Jacques Loussier Trio - Play Bach aux Champs-Elysees - disc 2
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=01-Two-part Invention No 8 in F Major (BWV 779)
+TTITLE1=02-Prelude No 2 in C minor (The Well-tempered Clavier, book 1, BWV 847)
+TTITLE2=03-Prelude No 12 in F minor (The Well-tempered Clavier, book 2, BWV 881)
+TTITLE3=04-Harpsichord Concerto No 1 in D minor (BWV 1052)
+TTITLE4=05-Aria (Orchestral Suite No 3 in D major, BWV 1068)
+TTITLE5=06-Choral No 1, Wake, Arise, The Voices Call Us (BWV 645)
+TTITLE6=07-Sinfonia (Cantata No 29 BWV 29)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	68539
+#	103297
+#	170934
+#
+# Disc length: 2616 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=350a3604
+DTITLE=Pedro Iturralde Quintet - Flamenco-Jazz with Paco de Lucia
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Veleta de tu Viento
+TTITLE1=Cancion de las Penas de Amor
+TTITLE2=El Vito
+TTITLE3=Cancion del Fuego Fatuo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

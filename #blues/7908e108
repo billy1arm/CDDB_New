@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21840
+#	41530
+#	71685
+#	89882
+#	102582
+#	124615
+#	149067
+#
+# Disc length: 2275 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=7908e108
+DTITLE=Bill Evans - Trio '65
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Israel
+TTITLE1=Elsa
+TTITLE2='Round Midnight
+TTITLE3=Love Is Here To Stay
+TTITLE4=How My Heart Sings
+TTITLE5=Who Can I Turn To?
+TTITLE6=Come Rain Or Come Shine
+TTITLE7=If You Could See Me Now
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

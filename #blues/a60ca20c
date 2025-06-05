@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18385
+#	34787
+#	62492
+#	76422
+#	96612
+#	119630
+#	151167
+#	172107
+#	190820
+#	210175
+#	222662
+#
+# Disc length: 3236 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta5_freedb
+#
+DISCID=a60ca20c
+DTITLE=Blues Traveler - Bridge
+DYEAR=1900
+DGENRE=
+TTITLE0=Back in The Day
+TTITLE1=Girl Inside My Head
+TTITLE2=Rage
+TTITLE3=Just For Me
+TTITLE4=You Reach Me
+TTITLE5=All Hands
+TTITLE6=Pretty Angry
+TTITLE7=The Way
+TTITLE8=You Lost Me There
+TTITLE9=Sadly A Fiction
+TTITLE10=You're Burning Me
+TTITLE11=Decision Of The Skies
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=for J. Sheehan
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

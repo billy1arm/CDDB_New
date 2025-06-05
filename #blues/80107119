@@ -1,0 +1,91 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13052
+#	23615
+#	33575
+#	48497
+#	63560
+#	79687
+#	94512
+#	107232
+#	120770
+#	134225
+#	145300
+#	158462
+#	170105
+#	181785
+#	193190
+#	206072
+#	221207
+#	234610
+#	245215
+#	257142
+#	269990
+#	277692
+#	290675
+#	304127
+#
+# Disc length: 4211 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.94
+#
+DISCID=80107119
+DTITLE=Various Artist - A Fortune Of Blues # 01
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=John Lee Hooker - 609 Boogie
+TTITLE1=Doctor Ross - Cat Squirrel
+TTITLE2=Bobo Jenkins - Ten Below Zero (version 1)
+TTITLE3=Bobo Jenkins - Ten Below Zero (version 2)
+TTITLE4=John Lee Hooker - Cry Baby
+TTITLE5=John Lee Hooker - Love You Baby
+TTITLE6=Doctor Ross - Call The Doctor
+TTITLE7=Maceo Merriweather - Worried Life Blues
+TTITLE8=Eddie Kirkland - I Must've Done Something Wrong
+TTITLE9=Doctor Ross - New York Breakdown
+TTITLE10=Big Jack Reynolds - I Had A Little Dog
+TTITLE11=John Lee Hooker - Whiskey and Women
+TTITLE12=Grace Brim - Strange Man
+TTITLE13=Doctor Ross - Industrial Boogie
+TTITLE14=Bobo Jenkins - Baby Don't You Want To Go (version 1)
+TTITLE15=Bobo Jenkins - Baby Don't You Want To Go (version 2)
+TTITLE16=John Lee Hooker - Have Mercy On Poor Me
+TTITLE17=John Lee Hooker - It's My Own Fault
+TTITLE18=Maceo Merriweather - Have You Heard About It
+TTITLE19=Harry Willis - Poker Playing Baby
+TTITLE20=Big Blue Carson - Why Did You Leave
+TTITLE21=Earl Chapman - Take Two Steps Back
+TTITLE22=Doctor Ross - Cannonball
+TTITLE23=Sir John Lee Hooker - Crazy 'Bout That Walk
+TTITLE24=Joe Weaver - I'm On My Merry Way
+EXTD=
+EXTT0=John Lee Hooker
+EXTT1=Dr. Ross
+EXTT2=Bobo Jenkins
+EXTT3=Bobo Jenkins
+EXTT4=John Lee Hooker
+EXTT5=John Lee Hooker
+EXTT6=Dr. Ross
+EXTT7=Maceo Merriweather
+EXTT8=Eddie Kirkland
+EXTT9=Dr. Ross
+EXTT10=Big Jack Reynolds
+EXTT11=John Lee Hooker
+EXTT12=Grace Brim
+EXTT13=Dr. Ross
+EXTT14=Bobo Jenkins
+EXTT15=Bobo Jenkins
+EXTT16=John Lee Hooker
+EXTT17=John Lee Hooker
+EXTT18=Maceo Merriweather
+EXTT19=Harry Willis
+EXTT20=Big Blue Carson
+EXTT21=Earl Chapman
+EXTT22=Dr. Ross
+EXTT23=Sir John Lee Hooker
+EXTT24=Joe Weaver
+PLAYORDER=

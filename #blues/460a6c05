@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40461
+#	97304
+#	144339
+#	192284
+#
+# Disc length: 2670 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=460a6c05
+DTITLE=Miles Davis - Miles In Berlin
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Milestones
+TTITLE1=Autumn Leaves
+TTITLE2=So What
+TTITLE3=Walkin'
+TTITLE4=Go-Go (Theme And Announcement)
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

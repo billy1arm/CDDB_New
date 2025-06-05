@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19517
+#	40080
+#	51530
+#	74567
+#	87682
+#	107420
+#	121712
+#	131470
+#	152880
+#	166262
+#	189605
+#
+# Disc length: 2818 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=9f0b000c
+DTITLE=Kevin Coyne and The Paradise Band - Wild Tiger Love
+DYEAR=1900
+DGENRE=
+TTITLE0=The Bungalow Song
+TTITLE1=Sensual
+TTITLE2=Cafe Crazy
+TTITLE3=Looking In Your Eyes
+TTITLE4=Open Up the Gates
+TTITLE5=Go, Sally, Go
+TTITLE6=American Girls
+TTITLE7=Fish Brain
+TTITLE8=Fooled Again
+TTITLE9=Don´t You Look (That Way)
+TTITLE10=Raindrops on the Window
+TTITLE11=Passion´s Pleasure
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26080
+#
+# Disc length: 690 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=1002b002
+DTITLE=Blackfeel Wite - First Night
+DYEAR=2008
+DGENRE=House
+TTITLE0=First Night (Vocal Mix)
+TTITLE1=First Night (Instrumental Mix)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+PLAYORDER=

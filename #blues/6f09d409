@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18982
+#	32602
+#	55420
+#	77740
+#	97185
+#	117342
+#	130047
+#	168422
+#
+# Disc length: 2518 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6f09d409
+DTITLE=Angel Parra Trio - Patana
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Patana
+TTITLE1=Minoresqui
+TTITLE2=Dulce Compañia
+TTITLE3=Blues for Marta
+TTITLE4=El Perla
+TTITLE5=Maruri
+TTITLE6=Trimno
+TTITLE7=Hans
+TTITLE8=Quemalecho
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

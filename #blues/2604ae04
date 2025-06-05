@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19110
+#	45180
+#	64105
+#
+# Disc length: 1200 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2604ae04
+DTITLE=恋愛信号 - 彼女の友達
+DYEAR=1999
+DGENRE=J-POP
+TTITLE0=彼女の友達
+TTITLE1=MOTHER
+TTITLE2=彼女の友達(inst)
+TTITLE3=MOTHER(inst)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

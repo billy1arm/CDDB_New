@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31542
+#	61250
+#	81162
+#	100287
+#	129192
+#	150187
+#
+# Disc length: 2430 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=40097c07
+DTITLE=Pukar - Pukar
+DYEAR=1998
+DGENRE=Other
+TTITLE0=Kay Sera Sera
+TTITLE1=Sunta Hai Mera Khuda
+TTITLE2=Humrahi Jab Ho Mastana
+TTITLE3=Hai Jaana Hai Jaana 
+TTITLE4=Kismat Se Tum Ko Mile
+TTITLE5=Hai Jaana Hai Jaana 2
+TTITLE6=Ek Tu Hi Bharosa
+EXTD=YEAR: 1998 ID3G: 12
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

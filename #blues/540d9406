@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49350
+#	87700
+#	121800
+#	184370
+#	238702
+#
+# Disc length: 3478 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=540d9406
+DTITLE=Muhal Richard Abrams and Marty Erlich - The Open Air Meeting
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Marching With Honor
+TTITLE1=Dark Sestina
+TTITLE2=Crossbeams
+TTITLE3=The Price Of The Ticket
+TTITLE4=Bright Canto
+TTITLE5=Blues To You
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,45 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+# 150
+# 20861
+# 47951
+# 69790
+# 90730
+# 114007
+# 140455
+# 163827
+# 184291
+# 214140
+#
+# Disc length: 3601 seconds
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: MusicBin 0.4
+#
+DISCID=8c0e0f0a
+DTITLE=Hot Club of New Orleans - Hot Club of New Orleans
+DYEAR=2003
+DGENRE=Swing
+TTITLE0=On A Slow Boat To China
+TTITLE1=Bei Mir Bist du Schon
+TTITLE2=Lucky So 'n So
+TTITLE3=Minor Swing
+TTITLE4=Azalea
+TTITLE5=Stutter Step
+TTITLE6=Old Devil Moon
+TTITLE7=Black And Tan Fantasy
+TTITLE8=Natchitoches Noisette
+TTITLE9=DATA
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24767
+#	48723
+#	87471
+#	103675
+#	124131
+#	162668
+#	186152
+#
+# Disc length: 2906 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=690b5808
+DTITLE=B.B. KING - Why I Sing The Blues
+DYEAR=1985
+DGENRE=Blues
+TTITLE0=The Thrill Is Gone
+TTITLE1=Ghetto Woman
+TTITLE2=Why I Sing The Blues
+TTITLE3=Ain't Nobody Home
+TTITLE4=Hummingbird
+TTITLE5=To Know You Is To Love You
+TTITLE6=How Blue Can You Get
+TTITLE7=Sweet Sixteen
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

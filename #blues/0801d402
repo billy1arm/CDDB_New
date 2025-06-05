@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18000
+#
+# Disc length: 470 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=0801d402
+DTITLE=Sheryl Crow - Sweet Child O' Mine
+DYEAR=1999
+DGENRE=Rock
+TTITLE0=Sweet Child O' Mine (Rock Mix)
+TTITLE1=Sweet Child O' Mine (Pop Mix)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+PLAYORDER=

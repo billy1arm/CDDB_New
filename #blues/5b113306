@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	56557
+#	93728
+#	139815
+#	211487
+#	272049
+#
+# Disc length: 4405 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5b113306
+DTITLE=New Couriers - Celebrating the Jazz Couriers (Vol 1)
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Autumn Leaves
+TTITLE1=A Foggy Day
+TTITLE2=Guys and Dolls
+TTITLE3=Yesterdays
+TTITLE4=Royal Ascot
+TTITLE5=If This Isn't Love
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21129
+#	40862
+#	62081
+#
+# Disc length: 1086 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2b043c04
+DTITLE=鈴木結女 - 輝きは君の中に
+DYEAR=1995
+DGENRE=JPop
+TTITLE0=輝きは君の中に
+TTITLE1=それでも明日はやってくる
+TTITLE2=輝きは君の中に(カラオケ・バージョン)
+TTITLE3=それでも明日はやってくる(カラオケ・バージョン)
+EXTD=YEAR: 1995
+EXTT0=vocal MAX
+EXTT1=vocal MAX
+EXTT2=(Instrumental)
+EXTT3=(Instrumental)
+PLAYORDER=

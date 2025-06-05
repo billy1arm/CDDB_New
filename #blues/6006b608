@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	16245
+#	30708
+#	49420
+#	65183
+#	80970
+#	93008
+#	112563
+#
+# Disc length: 1720 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.18
+#
+DISCID=6006b608
+DTITLE=Cure - Japanese Whispers
+DYEAR=1984
+DGENRE=Blues
+TTITLE0=Let's Go To Bed
+TTITLE1=The Dream
+TTITLE2=Just One Kiss
+TTITLE3=The Upstairs Room
+TTITLE4=The Walk
+TTITLE5=Speak My Language
+TTITLE6=Lament
+TTITLE7=The Lovecats
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

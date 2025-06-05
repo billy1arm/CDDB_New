@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22096
+#	29851
+#	45160
+#	57048
+#	69063
+#	90828
+#	99400
+#	113454
+#	122463
+#	140700
+#	164083
+#
+# Disc length: 2304 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9208fe0c
+DTITLE=Domenico Scarlatti - Concerti grossi N°4, N°6, N°2  (Charles Avison, Tafelmusic Baroque Orchestra)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Concerto grosso N°4 en la mineur - I. Andante
+TTITLE1=Concerto grosso N°4 en la mineur - II. Allegro
+TTITLE2=Concerto grosso N°4 en la mineur - III. Largo
+TTITLE3=Concerto grosso N°4 en la mineur - IV. Vivace
+TTITLE4=Concerto grosso N°6 en ré majeur - I. Largo
+TTITLE5=Concerto grosso N°6 en ré majeur - II. Con furia
+TTITLE6=Concerto grosso N°6 en ré majeur - III. Adagio
+TTITLE7=Concerto grosso N°6 en ré majeur - IV. Vivacemente
+TTITLE8=Concerto grosso N°2 en sol majeur - I. Largo
+TTITLE9=Concerto grosso N°2 en sol majeur - II. Allegro
+TTITLE10=Concerto grosso N°2 en sol majeur - III. Andante
+TTITLE11=Concerto grosso N°2 en sol majeur - IV. Vivace
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

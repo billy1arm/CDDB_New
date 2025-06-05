@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	160
+#	14617
+#	30903
+#	45263
+#	59610
+#
+# Disc length: 988 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3403da05
+DTITLE=Tim Toupet and DJ Padre - Humba Täterä (Gebt mir ein H)
+DYEAR=2007
+DGENRE=Party
+TTITLE0=Humba Täterä (Gebt mir ein H) (Stadion Mix)
+TTITLE1=Humba Täterä (Gebt mir ein H) (Party Mix)
+TTITLE2=Humba Täterä (Gebt mir ein H) (Apres Ski Edit)
+TTITLE3=Humba Täterä (Gebt mir ein H) (Karneval Edit)
+TTITLE4=Tim Toupet - Dabei ist alles
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

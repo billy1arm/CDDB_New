@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7962
+#	22889
+#	38555
+#	50111
+#	62363
+#	77394
+#	95075
+#	104227
+#	125726
+#
+# Disc length: 1862 seconds
+#
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+#CATEGORY=blues
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=7907440a
+DTITLE=Kech - Are you safe?
+DYEAR=2003
+DGENRE=Indie
+TTITLE0=A Lovely Place
+TTITLE1=Feet Bleed
+TTITLE2=Cerry
+TTITLE3=Queen Mum
+TTITLE4=On Hold
+TTITLE5=Caesar
+TTITLE6=Recording My Thoughts
+TTITLE7=Details
+TTITLE8=Swing A Bit
+TTITLE9=Ten Cases To Carry
+EXTD=www.kechworld.com
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

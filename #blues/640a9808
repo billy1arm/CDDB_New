@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18467
+#	40312
+#	61764
+#	78648
+#	110617
+#	134398
+#	181076
+#
+# Disc length: 2714 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=640a9808
+DTITLE=Paul Millns Band - Live in Geneva [CD2]
+DYEAR=2012
+DGENRE=Blues
+TTITLE0=Calling all clowns
+TTITLE1=That perfume
+TTITLE2=Stuck in a bar
+TTITLE3=Put on a sunny hat
+TTITLE4=Last train blues
+TTITLE5=Gasoline heart
+TTITLE6=Baby what you want me to do (Jimmy Reed)
+TTITLE7=When love comes calling
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

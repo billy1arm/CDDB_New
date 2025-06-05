@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25529
+#	45212
+#	68762
+#	90406
+#	105069
+#	133460
+#	157369
+#	194011
+#
+# Disc length: 3178 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6e0c6809
+DTITLE=Lesní zvěř - Lesní zvěř
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=21st
+TTITLE1=Dusty Roads
+TTITLE2=Frank Frank
+TTITLE3=Sun
+TTITLE4=Gotcha
+TTITLE5=Turzovka
+TTITLE6=Simplicity
+TTITLE7=Voda
+TTITLE8=Hostýn
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

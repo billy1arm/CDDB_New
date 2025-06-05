@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13945
+#	27492
+#	43877
+#	57512
+#	70285
+#	82887
+#	98482
+#	113820
+#	129842
+#	151572
+#	165762
+#
+# Disc length: 2943 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=890b7d0c
+DTITLE=Charlie Parker - Bird: The Original Recordings of Charlie Parker
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Now's the Time
+TTITLE1=Laura
+TTITLE2=Mohawk
+TTITLE3=Kim
+TTITLE4=Blues for Alice
+TTITLE5=Laird Baird
+TTITLE6=K.C. Blues
+TTITLE7=Lover Man
+TTITLE8=Just Friends
+TTITLE9=The Bird
+TTITLE10=April In Paris
+TTITLE11=Lester Leaps In
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

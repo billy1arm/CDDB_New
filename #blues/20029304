@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     11515
+#     25947
+#     38542
+# 
+# Disc length: 661 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=20029304
+DTITLE=Bo Diddley - Vintage Gold
+DYEAR=1900
+DGENRE=
+TTITLE0=Bo Diddley
+TTITLE1=Say Man
+TTITLE2=I'm a Man
+TTITLE3=Diddley Daddy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

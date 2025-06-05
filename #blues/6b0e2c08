@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33575
+#	60170
+#	91483
+#	116940
+#	147435
+#	193175
+#	228002
+#
+# Disc length: 3630 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6b0e2c08
+DTITLE=Septet Music - Septet Music
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=mr.adams (for pepper adams)
+TTITLE1=hookdown
+TTITLE2=easier said than done
+TTITLE3=two and a half steps forward
+TTITLE4=aspiration
+TTITLE5=you don't know what love is
+TTITLE6=conversation piece
+TTITLE7=second handy motion
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

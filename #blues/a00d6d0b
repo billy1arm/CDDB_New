@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27784
+#	62023
+#	87280
+#	116903
+#	136303
+#	156461
+#	179877
+#	198779
+#	215514
+#	240732
+#
+# Disc length: 3439 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=a00d6d0b
+DTITLE=Сан Саныч Волгин - Плохо темперированный клавир
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Голос
+TTITLE1=Черепаха
+TTITLE2=Сколько здесь всего
+TTITLE3=Почему я такой
+TTITLE4=Уточка
+TTITLE5=Надвигается осень
+TTITLE6=Птица
+TTITLE7=Я буду качать
+TTITLE8=Анаша
+TTITLE9=Я родился
+TTITLE10=Быстрая птица
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

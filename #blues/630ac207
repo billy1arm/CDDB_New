@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40571
+#	89640
+#	103223
+#	133307
+#	145280
+#	182603
+#
+# Disc length: 2756 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=630ac207
+DTITLE=University of Alabama Jazz Ensemble 2005 - Hilaritas
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Opener (Steve Sample)
+TTITLE1=A Salsa Merry Christmas (Tom Wolfe)
+TTITLE2=O Come All Ye Faithful (Fred Prentice)
+TTITLE3=Stocking Stuffer (Tom Wolfe)
+TTITLE4=Jingle Bells (Steve Sample)
+TTITLE5=Merry Christmas, Charlie Brown (Tom Wolfe)
+TTITLE6=Finale (Steve Sample)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

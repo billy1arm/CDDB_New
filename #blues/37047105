@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	15874
+#	34260
+#	52163
+#	62539
+#
+# Disc length: 1139 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=37047105
+DTITLE=MG Blues Band - Red Hot Time
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Red Hot Time
+TTITLE1=Undercover Agent for the Blues
+TTITLE2=Crying String
+TTITLE3=Ain't Got Nothing but You
+TTITLE4=My Sweet Kind of Woman
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

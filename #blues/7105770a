@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     12955
+#     24072
+#     35257
+#     43700
+#     53535
+#     65410
+#     73545
+#     85082
+#     94365
+# 
+# Disc length: 1401 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7105770a
+DTITLE=Brook Benton - Boll Weevil Song
+DYEAR=1900
+DGENRE=
+TTITLE0=The Boll Weevil Song
+TTITLE1=Frankie And Johnny
+TTITLE2=The Ties That Bind
+TTITLE3=You're For Me
+TTITLE4=Ninety Nine Percent
+TTITLE5=Nothing In The World
+TTITLE6=Doggone Baby Doggone
+TTITLE7=Ain't It Good
+TTITLE8=Shadrock
+TTITLE9=Revenge
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

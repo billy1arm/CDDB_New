@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     27440
+#     45947
+#     64450
+#     85270
+#     112332
+#     139202
+#     166497
+# 
+# Disc length: 2453 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=71099308
+DTITLE=Fugees - Vocab (BR single)
+DYEAR=1900
+DGENRE=
+TTITLE0=Vocab (Remix)
+TTITLE1=Vocab (Refugees Hip Hop Remix)
+TTITLE2=Vocab (Refugees Acoustic Remix)
+TTITLE3=Refugees On The Mic (Remix)
+TTITLE4=Vocab (Remix Instrumental)
+TTITLE5=Vocab (Salaam's Acoustic Remix)
+TTITLE6=Vocab (Vibey Remix)
+TTITLE7=Nappy Heads (Mad Spider Remix)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

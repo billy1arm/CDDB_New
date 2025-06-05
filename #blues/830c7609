@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26053
+#	49144
+#	91078
+#	117528
+#	144074
+#	168466
+#	197957
+#	216656
+#
+# Disc length: 3192 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=830c7609
+DTITLE=Tranquility Music - Classics by the Sea
+DYEAR=2002
+DGENRE=New Age
+TTITLE0=Ave Maria  (Bach)
+TTITLE1=Canon in D  (Pachebel)
+TTITLE2=The Patahetique  (Tchaikovsky)
+TTITLE3=Arabesque  (Debussy)
+TTITLE4=Sonata in G Major  (Mozart)
+TTITLE5=The Moldau  (Smetana)
+TTITLE6=Moonlight Sonata  (Beethovan)
+TTITLE7=Lullaby  (Brahms)
+TTITLE8=Canon in D (reprise)  (Pachebel)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

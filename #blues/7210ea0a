@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12463
+#     35538
+#     103583
+#     124560
+#     150935
+#     210280
+#     226128
+#     241383
+#     293653
+# 
+# Disc length: 4332 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7210ea0a
+DTITLE=Stevie Ray Vaughan And Double Trouble - Scuttle Buttin' '75
+DYEAR=1900
+DGENRE=
+TTITLE0=Scuttle Buttin'
+TTITLE1=Say What
+TTITLE2=Voodoo Chile
+TTITLE3=Cold Shot
+TTITLE4=Couldn't Stand The Weather
+TTITLE5=Tin Pan Alley (Dirty Pool)
+TTITLE6=Mary Had A Little Lamb
+TTITLE7=Love Struck Baby
+TTITLE8=Texas Flood
+TTITLE9=Lenny
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

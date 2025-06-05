@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36604
+#	48547
+#	106099
+#	200971
+#
+# Disc length: 3084 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=490c0a05
+DTITLE=Frode Gjerstad - Kevin Norton - David Watson - Tipples
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Tipple
+TTITLE1=Dapple
+TTITLE2=Ripple
+TTITLE3=Rabbel
+TTITLE4=Flabbel
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

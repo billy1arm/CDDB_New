@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23710
+#	44192
+#	64437
+#	84516
+#	113866
+#	136093
+#	162643
+#
+# Disc length: 2461 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=70099b08
+DTITLE=David Arkenstone - Oddysea
+DYEAR=2002
+DGENRE=New Age
+TTITLE0=Down to the Sea
+TTITLE1=Sunsplash
+TTITLE2=Ocean Dreams
+TTITLE3=Under the Reef
+TTITLE4=Voices of the Deep
+TTITLE5=Calypso Beach
+TTITLE6=Underwater World
+TTITLE7=Dolphin Dance
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

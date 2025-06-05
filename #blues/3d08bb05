@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33346
+#	60345
+#	85211
+#	134794
+#
+# Disc length: 2237 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3d08bb05
+DTITLE=Lee Morgan - The Gigolo
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Yes I Can, No You Can't
+TTITLE1=Trapped
+TTITLE2=Speedball
+TTITLE3=The Gigolo
+TTITLE4=You Go To My Head
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

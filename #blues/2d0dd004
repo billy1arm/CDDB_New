@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	103755
+#	128877
+#	233044
+#
+# Disc length: 3538 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2d0dd004
+DTITLE=Charles Mingus - Concertgebouw Amsterdam, Vol. 2
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Meditation On A Pair Of Wire Cutters
+TTITLE1=Sophisticated Lady
+TTITLE2=Fables Of Faubus (Part 1)
+TTITLE3=Fables Of Faubus (Part 2)
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

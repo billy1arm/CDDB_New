@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3461
+#	20877
+#	39076
+#	67910
+#	85924
+#	102465
+#	127466
+#	150239
+#	168950
+#	189143
+#
+# Disc length: 2807 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=810af50b
+DTITLE=Jamey Abersold - How To Play Jazz Vol1 slow
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Tuning Notes (Bb and A)
+TTITLE1=F minor, E flat minor, D minor (8bars ea.)
+TTITLE2=F minor, E flat minor, D minor (4 bas ea.)
+TTITLE3=Random minor chords (8 bars ea.)
+TTITLE4=Random minor chords (4 bars ea.)
+TTITLE5=Four measure cadences
+TTITLE6=Blues in Key of B flat concert
+TTITLE7=Blues in Key of F concert
+TTITLE8=Cycle of Dominant 7th chords (4 bars ea.)
+TTITLE9=24-measure song
+TTITLE10=Minor to Dominant progression (12 keys)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

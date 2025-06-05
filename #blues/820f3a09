@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25095
+#	50651
+#	88805
+#	111759
+#	146802
+#	183646
+#	213275
+#	256320
+#
+# Disc length: 3900 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40PlusFr
+#
+DISCID=820f3a09
+DTITLE=Various Artist - Mystic India 2
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=James Asher - Pemulwuy
+TTITLE1=Sambodhi Prem - Mirror of the sun
+TTITLE2=Narayana - Sangit
+TTITLE3=Chinmaya Dunster - Right Samadhi
+TTITLE4=Kamal - Spirit Gathering
+TTITLE5=Kala Ramnath - Raag n Rythm
+TTITLE6=Deuter - Apres La Pluie
+TTITLE7=Namaste - Shiva Shambo
+TTITLE8=Hariprasad Chaurasia - Folk Melody
+EXTD=ID3G: 10
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

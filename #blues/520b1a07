@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29515
+#	53735
+#	93785
+#	115472
+#	143012
+#	168795
+#
+# Disc length: 2844 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=520b1a07
+DTITLE=Helloween - Live In The U.K.
+DYEAR=1989
+DGENRE=Power Metal
+TTITLE0=A Little Time
+TTITLE1=Dr. Stein
+TTITLE2=Future World
+TTITLE3=Rise And Fall
+TTITLE4=We Got The Right
+TTITLE5=I Want Out
+TTITLE6=How Many Tears
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

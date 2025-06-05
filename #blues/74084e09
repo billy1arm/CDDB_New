@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    183
+#    18228
+#    31328
+#    44185
+#    66610
+#    82653
+#    98685
+#    124380
+#    136673
+#
+# Disc length: 2128 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.1.6  (wjohn@fix.net)
+#
+DISCID=74084e09
+DTITLE=Bo Diddley - The London Sessions
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Want No Lyin' Woman
+TTITLE1=Bo Diddley
+TTITLE2=Going Down
+TTITLE3=Make A Hit Record
+TTITLE4=Bo-Jam
+TTITLE5=Husband-In_law
+TTITLE6=Do The Robot
+TTITLE7=Sneakers On A Rooster
+TTITLE8=Get Out Of My Life
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

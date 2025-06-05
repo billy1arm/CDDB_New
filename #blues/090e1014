@@ -1,0 +1,77 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+#
+# Track frame offsets:
+#	150
+#	11780
+#	24368
+#	36596
+#	47354
+#	60297
+#	77472
+#	91677
+#	102649
+#	119542
+#	136268
+#	148057
+#	160765
+#	174803
+#	185511
+#	204302
+#	217739
+#	233538
+#	247404
+#	259448
+#
+# Disc length: 3602
+#
+# Revision: 4
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CoolCD_Studio 1.3.1
+#
+DISCID=090e1014
+DTITLE=Ella Fitzgerald - Ella Swings Lightly
+DYEAR=1900
+DGENRE=
+TTITLE0=Little White Lies
+TTITLE1=You Hit The Spot
+TTITLE2=What's Your Story, Morning Glory?
+TTITLE3=Just You, Just Me
+TTITLE4=As Long as I Live
+TTITLE5=Teardrops from My Eyes
+TTITLE6=Gotta Be This or That
+TTITLE7=Moonlight on the Ganges
+TTITLE8=My Kinda Love
+TTITLE9=Blues in the Night
+TTITLE10=If I Were a Bell
+TTITLE11=You're an Old Smoothie
+TTITLE12=Little Jazz
+TTITLE13=You Brought a New Kind of Love to Me
+TTITLE14=Knock Me a Kiss
+TTITLE15=720 in the Books
+TTITLE16=Oh, What a Night for Love (long)
+TTITLE17=Little Jazz (alternate take)
+TTITLE18=Dreams Are Made for Children
+TTITLE19=Oh, What a Night for Love (single)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

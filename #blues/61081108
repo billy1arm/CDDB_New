@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21984
+#	42845
+#	57423
+#	76837
+#	91379
+#	107471
+#	139340
+#
+# Disc length: 2067 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=61081108
+DTITLE=Blue Indigo - (97) Sonja L.
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Ascension (don't ever wonder)
+TTITLE1=Bittersweet
+TTITLE2=All in love is fair
+TTITLE3=Rester debout
+TTITLE4=Whenever, Wherever, Whatever
+TTITLE5=Hell to pay
+TTITLE6=Bleu indigo
+TTITLE7=Benoît n'a pas de son !
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

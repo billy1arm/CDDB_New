@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22100
+#	54082
+#	72805
+#	114272
+#	151651
+#	183239
+#	211215
+#
+# Disc length: 3282 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a0cd008
+DTITLE=Nevertheless Jazz Trio - First Things First
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=I Should Care
+TTITLE1=Sweet Georgia Bright
+TTITLE2=Like Someone In Love
+TTITLE3=Windows
+TTITLE4=Good Bye Pork Pie Hat
+TTITLE5=How High the Moon
+TTITLE6=East to Love
+TTITLE7=So What
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

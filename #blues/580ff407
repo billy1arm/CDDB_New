@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47316
+#	85602
+#	125970
+#	183030
+#	219624
+#	258382
+#
+# Disc length: 4086 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=580ff407
+DTITLE=Satoko Fujii Orchestra Nagoya - Sanrei
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Gokaku
+TTITLE1=Eaves
+TTITLE2=Blueprint
+TTITLE3=Kondo Star
+TTITLE4=Shogetu
+TTITLE5=Sankaku
+TTITLE6=Sanrei
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

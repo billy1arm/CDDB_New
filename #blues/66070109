@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10444
+#	22516
+#	43710
+#	56088
+#	69003
+#	86784
+#	101281
+#	124854
+#
+# Disc length: 1795 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=66070109
+DTITLE=olivier caillard - les ptit loups du jazz
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Les p'tits loup du jazz
+TTITLE1=Mamadou, Casimir et Tintin
+TTITLE2=Le blaireau
+TTITLE3=P'tit korrigans
+TTITLE4=Les Menteurs
+TTITLE5=Un petit poisson
+TTITLE6=Les dents qui swingent
+TTITLE7=Le voyage
+TTITLE8=Les p'tits loup du jazz (fin)
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

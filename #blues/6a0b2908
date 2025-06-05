@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	182
+#	29482
+#	46385
+#	81642
+#	106175
+#	132412
+#	143500
+#	182600
+#
+# Disc length: 2859 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL2
+#
+DISCID=6a0b2908
+DTITLE=Eliane Elias - Fantasia
+DYEAR=1900
+DGENRE=
+TTITLE0=The Girl From Ipanema
+TTITLE1=Wave
+TTITLE2=Milton Nascimento Medley
+TTITLE3=Sabe Voce (Do You Know)
+TTITLE4=Bahia (Na Baixa Do Sapateiro)
+TTITLE5=Fantasia (To Amanda)
+TTITLE6=No More Blues  (Chega de Saudade)
+TTITLE7=Ivan Lins Medley
+EXTD=Eliane Elias\nFantasia\n\n1. The Girl From Ipanema (Gartta De Ipane
+EXTD=ma]\n2. Wave\n3. Milton Nascimento Medley\n     Ponta de Areia\n    
+EXTD=Cangco do Sal (Salt Song]\n     Cravo e Canela (Clove and Cinnam
+EXTD=on]\n4. Sabe Voce (Do You Know]\n5. Bahia (Na Baixa Do Sapateiro]\n
+EXTD=6. Fantasia (To Amanda]\n7. No More Blues  (Chega de Saudade]\n8. 
+EXTD=Ivan Lins Medley\n    Coragem Mulher\n    Choro das Aguas\n    Doce
+EXTD=Presenga\n    Coragem Mulher\n\nEliane Elias, piano and vocals\nEddie
+EXTD=Gomez, bass            Marc Johnson, bass\nJack DeJohnette, drum
+EXTD=s     Peter Erskine, drums\nNana Vasconcelos, percussion\n\nSpecial
+EXTD=guest: Ivan Lins, vocals\nIntroducing: Amanda Elias Brecker, voc
+EXTD=als\n\nProduced and arranged by Eliane Elias\n\nCopyright Somethin' 
+EXTD=Else Records, \n   a division of Toshiba-EMI Ltd.\n  under exclusi
+EXTD=ve license to Blue Note Records
+EXTT0=(Gartta De Ipanema)
+EXTT1=
+EXTT2=Ponta de Areia\nCangco do Sal (Salt Song]\nCravo e Canela (Clove a
+EXTT2=nd Cinnamon)
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=Coragem Mulher\nChoro das Aguas\nDoce Presenga\nCoragem Mulher
+PLAYORDER=

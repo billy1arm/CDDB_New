@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21471
+#	47210
+#	77593
+#	118331
+#	153664
+#	174453
+#	205067
+#	242203
+#
+# Disc length: 3736 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=7a0e9609
+DTITLE=Tim White and Jack Gates - Morning Song Evening Song
+DYEAR=1982
+DGENRE=New Age
+TTITLE0=Desert Solitude
+TTITLE1=Flint
+TTITLE2=Morning Song
+TTITLE3=Odyssesu and Circe
+TTITLE4=Phases of the Moon
+TTITLE5=Evening Song
+TTITLE6=Espana
+TTITLE7=Wild Night
+TTITLE8=Twilight
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

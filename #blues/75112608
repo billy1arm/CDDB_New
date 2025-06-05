@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39582
+#	72772
+#	125267
+#	171227
+#	231034
+#	260245
+#	296710
+#
+# Disc length: 4392 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=75112608
+DTITLE=Joe Rosenberg - The Long and Short of It
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Allez
+TTITLE1=Detritus
+TTITLE2=What It Is
+TTITLE3=The Long and Short Of It
+TTITLE4=Motion
+TTITLE5=Go
+TTITLE6=Stasis
+TTITLE7=C'est Facile
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

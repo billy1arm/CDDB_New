@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22469
+#	41991
+#	60525
+#	77325
+#	98506
+#	118500
+#	147750
+#	161854
+#
+# Disc length: 2436 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=74098209
+DTITLE=Herb Alpert - Wild Romance
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0="8" Ball
+TTITLE1=Wild Romance
+TTITLE2=You Are The One
+TTITLE3=Lady Love
+TTITLE4=It's All For You
+TTITLE5=Catch Me
+TTITLE6=African Flame
+TTITLE7=Dancing In The Light
+TTITLE8=No Time For Time
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

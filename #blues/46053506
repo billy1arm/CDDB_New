@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21452
+#	38550
+#	56775
+#	72225
+#	83451
+#
+# Disc length: 1335 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=46053506
+DTITLE=Serena Ryder - Live
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=Hiding Place
+TTITLE1=Rust Looks Like Wood
+TTITLE2=Winter Waltz
+TTITLE3=Fortune's Wheel
+TTITLE4=Easy Enough
+TTITLE5=Melancholy Blue
+EXTD=YEAR: 2002 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

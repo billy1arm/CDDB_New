@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28986
+#	80657
+#	108679
+#	151156
+#	222955
+#	268228
+#
+# Disc length: 4273 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6310af07
+DTITLE=Various Artist - Carl Nielsen, Béla Bartók - Violin Concertos  (Yehudi Menuhin, violin)
+DYEAR=1900
+DGENRE=classic
+TTITLE0=Carl Nielsen - Violin Concerto, Op.33 - I. Praeludium - Largo  [Danish State Radio Orch, Mogens Wöldike - 1952]
+TTITLE1=Carl Nielsen - Violin Concerto, Op.33 - I. Allegro cavalleresco
+TTITLE2=Carl Nielsen - Violin Concerto, Op.33 - II. Intermezzo - Poco adagio
+TTITLE3=Carl Nielsen - Violin Concerto, Op.33 - II. Rondo - Allegretto scherzando
+TTITLE4=Béla Bartók - Violin Concerto N°2 in B minor - I. Allegro non troppo  [Philharmonia Orch, Wilhelm Furtwängler - 1953]
+TTITLE5=Béla Bartók - Violin Concerto N°2 in B minor - II. Andante tranquillo
+TTITLE6=Béla Bartók - Violin Concerto N°2 in B minor - III. Allegro molto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24395
+#	40121
+#	64382
+#
+# Disc length: 1068 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2d042a04
+DTITLE=Chage - TOKYO MOON
+DYEAR=2011
+DGENRE=JPop
+TTITLE0=TOKYO MOON
+TTITLE1=遠くへ行きたい
+TTITLE2=TOKYO MOON (Instrumental)
+TTITLE3=遠くへ行きたい (Instrumental)
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

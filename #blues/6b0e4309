@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36388
+#	58674
+#	91068
+#	128076
+#	151875
+#	177107
+#	203187
+#	229520
+#
+# Disc length: 3653 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=6b0e4309
+DTITLE=Harvie Swartz - New Beginning
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=New Beginning
+TTITLE1=En la Batalla
+TTITLE2=Chump Change
+TTITLE3=Luna Romantica
+TTITLE4=African Heartbeat
+TTITLE5=a bright moment
+TTITLE6=from the ashes
+TTITLE7=tres mundos
+TTITLE8=Mothership
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

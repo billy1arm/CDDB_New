@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 2007 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13269
+#     27517
+#     47751
+#     67920
+#     83133
+#     100653
+#     115322
+#     127052
+#     143672
+# 
+# Disc length: 2193 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=84088f0a
+DTITLE=Burton Jespersen - The Ride
+DYEAR=1900
+DGENRE=
+TTITLE0=Perpetual Blues Machine
+TTITLE1=The Ride
+TTITLE2=Native Son
+TTITLE3=You're a Big Girl Now
+TTITLE4=Shotgun Boogie
+TTITLE5=Clatter and Roll
+TTITLE6=It's Only Me
+TTITLE7=Tennessee Plates
+TTITLE8=Tomorrow
+TTITLE9=Neon Moon
+EXTD=Burton Jesperson sometimes performs with Brett Perkins and Bright Blue 
+EXTD=Gorilla.\n\nSubmitted by ecto@cox.net
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

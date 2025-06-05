@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16978
+#	38886
+#	50396
+#	85401
+#	118417
+#	129726
+#	176097
+#	190852
+#	221967
+#
+# Disc length: 3326 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=950cfc0a
+DTITLE=Douglas Adams - Per Anhalter durch die Galaxis 1
+DYEAR=2005
+DGENRE=Hörspiel
+TTITLE0=Das Mädchen und der Wal 01
+TTITLE1=Das Mädchen und der Wal 02
+TTITLE2=Das Mädchen und der Wal 03
+TTITLE3=Das Mädchen und der Wal 04
+TTITLE4=Das Mädchen und der Wal 05
+TTITLE5=Das Mädchen und der Wal 06
+TTITLE6=Das Mädchen und der Wal 07
+TTITLE7=Das Mädchen und der Wal 08
+TTITLE8=Das Mädchen und der Wal 09
+TTITLE9=Das Mädchen und der Wal 10
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

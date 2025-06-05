@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27480
+#	59665
+#	95067
+#	117672
+#	154852
+#
+# Disc length: 2490 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5609b806
+DTITLE=Jackie McLean - Jackie McLean Quintet
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=The Three Minors
+TTITLE1=Blues In A Riff
+TTITLE2=Blues For Jackie
+TTITLE3=Marilyn'a Dilemma
+TTITLE4=Iddy Bitty
+TTITLE5=The Way I Feel
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  11300
+#  24510
+#  39625
+#  52825
+#  80255
+#  88987
+#  100670
+#  114035
+#  124972
+#  136152
+#  151490
+#  160135
+#
+# Disc length: 2205 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.23
+#
+DISCID=90089b0d
+DTITLE=The Beatles - Sessions
+DYEAR=1900
+DGENRE=
+TTITLE0=Come and Get it
+TTITLE1=Leave My Kitten Alone
+TTITLE2=Not Guilty
+TTITLE3=I'm Looking Through You
+TTITLE4=What's The New, Mary Jane?
+TTITLE5=How Do You Do It?
+TTITLE6=Besame Mucho
+TTITLE7=One After 909
+TTITLE8=If You've Got Troubles
+TTITLE9=That Means A lot
+TTITLE10=While My Guitar Gently Weeps
+TTITLE11=Mailman, Bring Me No More Blues
+TTITLE12=Christmas Time Is Here Again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

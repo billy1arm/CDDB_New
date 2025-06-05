@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14710
+#	38307
+#	50717
+#	74622
+#	101422
+#	115535
+#	130642
+#	145782
+#	165217
+#
+# Disc length: 2396 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=7a095a0a
+DTITLE=Various Artist - Guitar Heroes
+DYEAR=1989
+DGENRE=Rock
+TTITLE0=Confidence Man (Jeff Healy Band)
+TTITLE1=Giddy-Up (Mick Taylor)
+TTITLE2=Stroll On (Yardbirds feat. Jeff Beck and Jimmy Page)
+TTITLE3=Black Magic Woman/Gypsy Queen (Santana)
+TTITLE4=Duane's Tune (Dicky Betts Band)
+TTITLE5=Draggin' my Tail (Eric Clapton and Jimmy Page)
+TTITLE6=Life on Earth (Jack Bruce feat. Vernon Reid)
+TTITLE7=Testify (Stevie Ray Vaughn)
+TTITLE8=Stop (Michael Bloomfield)
+TTITLE9=Hurdy Gurdy Man (Donovan feat. Jimmy Page)
+EXTD=1992 YEAR: 1989
+EXTT0=Jeff Healy Band
+EXTT1=Mick Taylor
+EXTT2=YardBirds
+EXTT3=Santana
+EXTT4=Dickey Betts Band
+EXTT5=Eric Clapton and Jimmy Page
+EXTT6=Jack Bruce
+EXTT7=Stevie Ray Vaughan and Double Trouble
+EXTT8=Michael Bloomfield
+EXTT9=Donovan
+PLAYORDER=

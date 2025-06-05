@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32427
+#	57352
+#	93200
+#	128442
+#	151300
+#	221975
+#	265700
+#	290295
+#
+# Disc length: 4303 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7310cd09
+DTITLE=Herbie Hancock - Ken Burns JAZZ
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Watermelon Man [H. Hancock] [1962]
+TTITLE1=Cantaloupe Island [H. Hancock] [1964]
+TTITLE2=Maiden Voyage [H. Hancock] [1965]
+TTITLE3=Speak Like A Child [H. Hancock] [1968]
+TTITLE4=Tell Me A Bedtime Story [H. Hancock] [1969]
+TTITLE5=Chameleon [H. Hancock-H. Mason-B. Maupin-P. Jackson] [1973]
+TTITLE6=Actual Proof [H. Hancock] [1974]
+TTITLE7=Rockit [H. Hancock-B. Laswell-M. Beinhom] [1983]
+TTITLE8=You've Got It Bad Girl [S. Wonder-S. Wright] [1995]
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

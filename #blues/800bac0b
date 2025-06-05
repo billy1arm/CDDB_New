@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21800
+#	39512
+#	55387
+#	78795
+#	95425
+#	105450
+#	123887
+#	143112
+#	168000
+#	193580
+#
+# Disc length: 2990 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.78
+#
+DISCID=800bac0b
+DTITLE=Big Sugar - Five Hundred Pounds
+DYEAR=1994
+DGENRE=Rock
+TTITLE0=Ride Like Hell
+TTITLE1=Standing Around Crying
+TTITLE2=I'm A Ram
+TTITLE3=Sugar In My Coffee
+TTITLE4=All Over Now
+TTITLE5=AAA Aardvark Hotel
+TTITLE6=How Many Times
+TTITLE7=Deliver Me
+TTITLE8=Still Waitin'
+TTITLE9=Wild Ox Moan
+TTITLE10=Ride On
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

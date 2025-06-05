@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14445
+#	28202
+#	50450
+#	62297
+#	80475
+#	99167
+#	111342
+#	126080
+#	139780
+#	158475
+#	171412
+#
+# Disc length: 2490 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9609b80c
+DTITLE=Cusco - Virgin Islands
+DYEAR=1983
+DGENRE=New Age
+TTITLE0=Virgin Islands
+TTITLE1=Santo Domingo
+TTITLE2=Easter Islands
+TTITLE3=Bali
+TTITLE4=Philippines
+TTITLE5=Sun Of Jamaica
+TTITLE6=Alcatraz
+TTITLE7=Seychelles
+TTITLE8=Samoa
+TTITLE9=Fiji Islands
+TTITLE10=Java
+TTITLE11=Saipan Islands
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

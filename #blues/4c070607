@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15225
+#	40721
+#	61011
+#	72112
+#	97176
+#	115798
+#
+# Disc length: 1800 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4c070607
+DTITLE=Urbie Green - Urbie Green's Big Beautiful Band
+DYEAR=1974
+DGENRE=Jazz
+TTITLE0=Sing
+TTITLE1=Ana Luiza
+TTITLE2=Summertime
+TTITLE3=Alone Again, Naturally
+TTITLE4=Saint Louis Blues
+TTITLE5=AVery Precious Love
+TTITLE6=What Have They Done To My Song, Ma
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

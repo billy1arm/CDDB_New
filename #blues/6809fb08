@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	27750
+#	47838
+#	70223
+#	87038
+#	112131
+#	132427
+#	165613
+#
+# Disc length: 2557 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=6809fb08
+DTITLE=Stoney Curtis Band - Stoney Curtis Band
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Last Train To Chicago
+TTITLE1=Evil Woman
+TTITLE2=Soul Love
+TTITLE3=Free
+TTITLE4=People Rise Up
+TTITLE5=Damn Right I Got The Blues
+TTITLE6=Straighten It Out
+TTITLE7=Sweet Home Chicago
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

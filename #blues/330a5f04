@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30384
+#	65723
+#	110153
+#
+# Disc length: 2657 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=330a5f04
+DTITLE=Christian Vander - Les 3 Jefs
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=Colchique Dans Les Pres
+TTITLE1=Joie
+TTITLE2=Tromba (Part 1)
+TTITLE3=Tromba (Part 2)
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

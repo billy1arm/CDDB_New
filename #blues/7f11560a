@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14840
+#	46439
+#	75956
+#	101051
+#	124230
+#	150961
+#	174675
+#	198214
+#	332969
+#
+# Disc length: 4440 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7f11560a
+DTITLE=Various Artist - Music for lovers
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Stan Getz - Moonlight in Vermont
+TTITLE1=Horace Silver - My one and only love
+TTITLE2=Jimmy Smith - Time after time
+TTITLE3=Lee Morgan - Since I fell for you
+TTITLE4=Hank Mobley - The good life
+TTITLE5=Stanley Turrentine - My ship
+TTITLE6=Dexter Gordon - Who can I turn to?
+TTITLE7=Earl Klugh - Like a lover
+TTITLE8=Data track
+TTITLE9=Unknown
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

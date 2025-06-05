@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	62730
+#	87685
+#	109785
+#	134805
+#
+# Disc length: 2307 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=4a090105
+DTITLE=Joe Lee Wilson - Shout for Trane
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Mode
+TTITLE1=Sophisticated Lady
+TTITLE2=Song for My Father
+TTITLE3=One
+TTITLE4=Four
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

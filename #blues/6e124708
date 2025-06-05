@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	60975
+#	104700
+#	150075
+#	192225
+#	221850
+#	272550
+#	305785
+#
+# Disc length: 4681 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e124708
+DTITLE=Ulster Orchestral - Handley - Moeran Orchestral Music
+DYEAR=1989
+DGENRE=Orchestral
+TTITLE0=Violin Concerto -I- Alegro moderato
+TTITLE1=Violin Concerto -II- Rondo: Vivace -- Alla valse burlesca
+TTITLE2=Violin Concerto -III- Lento
+TTITLE3=Lonley Waters
+TTITLE4=Whythorne's Shadow
+TTITLE5=Cello Concerto -I- Moderato
+TTITLE6=Cello Concerto -II- Adagio
+TTITLE7=Cello Concerto -III- Allegretto deciso, alla marcia
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

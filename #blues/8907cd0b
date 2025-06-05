@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10310
+#     33925
+#     46457
+#     58550
+#     70417
+#     83432
+#     94312
+#     105072
+#     124750
+#     137975
+# 
+# Disc length: 1999 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8907cd0b
+DTITLE=B. B. King - The Electric B.B. King - His Best
+DYEAR=1900
+DGENRE=
+TTITLE0=Tired Of Your Jive
+TTITLE1=Don't Answer The Door
+TTITLE2=The B.B. Jones
+TTITLE3=All Over Again
+TTITLE4=Paying The Cost To Be The Boss
+TTITLE5=Think It Over
+TTITLE6=I Done Got Wise
+TTITLE7=Meet My Happiness
+TTITLE8=Sweet Sixteen
+TTITLE9=You Put It On Me
+TTITLE10=I Don't Want You Cuttin' Off Your Hair
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

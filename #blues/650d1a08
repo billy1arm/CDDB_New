@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32966
+#	65211
+#	99939
+#	129004
+#	159257
+#	190084
+#	212081
+#
+# Disc length: 3356 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=650d1a08
+DTITLE=Deva Premal - Embrace
+DYEAR=2002
+DGENRE=New Age
+TTITLE0=Om Tare Tuttare
+TTITLE1=Om Namo Bhagavate
+TTITLE2=Hari Om Shiva Om
+TTITLE3=Om Ram Ramaya
+TTITLE4=Shree Ram Jai Ram
+TTITLE5=Shante Prashante
+TTITLE6=Rang De
+TTITLE7=Teyata
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

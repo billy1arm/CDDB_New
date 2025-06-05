@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12472
+#	140681
+#
+# Disc length: 3551 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=240ddd03
+DTITLE=Mahavishnu Orchestra - Live at Budokan 1973 - Disc3
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=Hope ～ Awakeing
+TTITLE1=One Word
+TTITLE2=Jam
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

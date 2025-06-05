@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	23375
+#	43830
+#	65387
+#	83647
+#	100975
+#	119972
+#	141517
+#	163350
+#	178127
+#	191345
+#
+# Disc length: 2829 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9d0b0b0b
+DTITLE=Paul deLay Band - Nice and Strong
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Over and Done
+TTITLE1=Fourteen Dollars in the Bank
+TTITLE2=Too Old to Scold
+TTITLE3=Love on a Roll
+TTITLE4=She Doesn't Work That Way
+TTITLE5=I'm Gonna Miss Talkin' To You
+TTITLE6=Nice and Strong
+TTITLE7=What Do You Want in a Man?
+TTITLE8=I Know You Got Another Man
+TTITLE9=Come On With It
+TTITLE10=Punchy
+EXTD=YEAR: 1998 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

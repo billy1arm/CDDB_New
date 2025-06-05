@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 15777
+# 25992
+# 36925
+# 61627
+# 74977
+#
+# Disc length: 1133 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=47046b06
+DTITLE=Tiger City Jukes - High Temperature
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Remember Me
+TTITLE1=Up The Line
+TTITLE2=Temperature
+TTITLE3=Big City Girl
+TTITLE4=My Baby's Sweeter
+TTITLE5=I Don't Love You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

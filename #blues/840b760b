@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12646
+#	33863
+#	52595
+#	80555
+#	97273
+#	115409
+#	125577
+#	151424
+#	174473
+#	195058
+#
+# Disc length: 2936 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=840b760b
+DTITLE=Tin Pan Alley - Talking With The Blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Find Yourself Another Fool
+TTITLE1=Down In South Central
+TTITLE2=Talking With The Blues
+TTITLE3=Full Moon On Mainstreet
+TTITLE4=Green Stuff
+TTITLE5=Watching The River Flow
+TTITLE6=Come On In
+TTITLE7=Cut You Loose
+TTITLE8=You Keep Watching Me
+TTITLE9=I Just Wanna Make Love To You
+TTITLE10=Crossroads (Electric Version)
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

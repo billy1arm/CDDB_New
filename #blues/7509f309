@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19485
+#     42215
+#     60817
+#     82062
+#     103375
+#     130292
+#     154230
+#     170467
+# 
+# Disc length: 2549 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7509f309
+DTITLE=MC Hammer - Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=U Can't Touch This (LP Version)
+TTITLE1=Pray (Jam the Hammer Mix)
+TTITLE2=Let's Get It Started (Radio Edit)
+TTITLE3=Have You Seen Her (LP Version)
+TTITLE4=Turn This Mutha Out (Edit)
+TTITLE5=Here Comes the Hammer (Uh-Oh Here Comes the Hammer '91)
+TTITLE6=Help the Children (LP Version)
+TTITLE7=Dancin' Machine (Funk Mix)
+TTITLE8=Yo!! Sweetness (Original Version)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

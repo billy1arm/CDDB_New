@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	73386
+#	155213
+#	211850
+#	259029
+#
+# Disc length: 3903 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4a0f3d05
+DTITLE=Ensemble Antipodes - 5 Octuors du  XX ème siècle  (Ensemble Antipodes - 1995)
+DYEAR=2007
+DGENRE=Musique Contemporaine
+TTITLE0=Roger Tessier  [1939] - Envol
+TTITLE1=Jean Yves Bosseur  [1947] - Octuor
+TTITLE2=Iannis Xenakis  [1922-2001] - Anaktoria
+TTITLE3=Jean-Luc Darbellay  [1946] - Lumières
+TTITLE4=Rico Gubler  [1972] - Fal
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

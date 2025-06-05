@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     30577
+#     54710
+#     73735
+#     87362
+#     101550
+#     113550
+#     135280
+#     149230
+#     162377
+#     184522
+# 
+# Disc length: 2717 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=980a9b0b
+DTITLE=Wu-Tang - Wu-Tang Forever Disc One
+DYEAR=1900
+DGENRE=
+TTITLE0=Wu-Revolution
+TTITLE1=Reunited
+TTITLE2=For Heavens Sake
+TTITLE3=Cash Still Rulez/ Scary Hours
+TTITLE4=Visionz
+TTITLE5=As High As Wu-Tang Get
+TTITLE6=Severe Punishment
+TTITLE7=Older Gods
+TTITLE8=Maria
+TTITLE9=A Better Tomorrow
+TTITLE10=It's Yourz
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

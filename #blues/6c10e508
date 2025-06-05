@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37313
+#	73957
+#	94129
+#	124537
+#	183785
+#	217707
+#	252782
+#
+# Disc length: 4327 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6c10e508
+DTITLE=Ronnie Earl and Duke Robillard - The Duke Meets The Earl
+DYEAR=2005
+DGENRE=Blues
+TTITLE0=I Need You So Bad
+TTITLE1=Two Bones and A Pick
+TTITLE2=Lookin' For Trouble
+TTITLE3=What Have I Done Wrong
+TTITLE4=A Soul That's Been Abused
+TTITLE5=Zeb's Thing
+TTITLE6=West Side Shuffle
+TTITLE7=My Tears
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

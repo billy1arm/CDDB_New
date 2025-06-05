@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12725
+#     26865
+#     38352
+#     49380
+#     61770
+#     72867
+#     85195
+#     96445
+#     107037
+#     118155
+#     127405
+#     138712
+#     154240
+#     166870
+#     176605
+#     190647
+#     204510
+# 
+# Disc length: 2916 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=050b6212
+DTITLE=Bo Diddley - Jungle Music
+DYEAR=1900
+DGENRE=
+TTITLE0=The Story Of Bo Diddley
+TTITLE1=Down Home Special
+TTITLE2=Little Girl
+TTITLE3=Bo Diddley
+TTITLE4=You Don't Love Me
+TTITLE5=Diddy Wah Diddy
+TTITLE6=Pretty Thing
+TTITLE7=Bring It To Jerome
+TTITLE8=Dancing Girl
+TTITLE9=Who Do You Love
+TTITLE10=Crackin' Up
+TTITLE11=I Am Looking For A Woman
+TTITLE12=Cops and Robbers
+TTITLE13=Nursery Rhyme
+TTITLE14=Hey! Bo Diddley
+TTITLE15=You Can't Judge A Book By The Cover
+TTITLE16=Before You Accuse Me
+TTITLE17=Say Man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20875
+#     43915
+#     68092
+#     89225
+#     116535
+#     135247
+# 
+# Disc length: 2393 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=62095707
+DTITLE=Muddy Waters - Muddy  Mississipi  Waters live
+DYEAR=1900
+DGENRE=
+TTITLE0=Mannish Boy
+TTITLE1=She's Nineteen Years Old
+TTITLE2=Nine Below Zero
+TTITLE3=Streamline Woman
+TTITLE4=Howling Wolf
+TTITLE5=Baby Please Don't Go
+TTITLE6=Deep Down In Florida
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

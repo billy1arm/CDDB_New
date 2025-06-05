@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17941
+#	35804
+#	67960
+#	87802
+#	105402
+#	121843
+#	138869
+#
+# Disc length: 2100 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=60083208
+DTITLE=Paddy McAloon - Steve McQueen [Disc2]
+DYEAR=2007
+DGENRE=Pop
+TTITLE0=Appetite [Acoustic Version]
+TTITLE1=Bonny [Acoustic Version]
+TTITLE2=Desire As [Acoustic Version]
+TTITLE3=When Love Breaks Down [Acoustic Version]
+TTITLE4=Goodbye Lucille #1 [Acoustic Version]
+TTITLE5=Moving The River [Acoustic Version]
+TTITLE6=Faron Young [Acoustic Version]
+TTITLE7=When The Angels [Acoustic Version]
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

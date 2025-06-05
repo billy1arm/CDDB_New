@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	88812
+#
+# Disc length: 2848 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=100b1e02
+DTITLE=Michel Portal - Michel Portal Unit - Chateauvallon  1972
+DYEAR=1972
+DGENRE=Jazz
+TTITLE0=1 - No, no but it may be
+TTITLE1=2 - No, no but it may be (alt. take)
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+PLAYORDER=

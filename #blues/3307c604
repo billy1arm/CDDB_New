@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	74062
+#	93475
+#	116337
+#
+# Disc length: 1992 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3307c604
+DTITLE=Dizzy Gillespie - Manteca
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=The Manteca Suite
+TTITLE1=Night In Tunisia
+TTITLE2=Con Alma
+TTITLE3=Caravan
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

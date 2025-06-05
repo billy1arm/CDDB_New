@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20724
+#	74790
+#	121695
+#	159022
+#
+# Disc length: 4357 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3a110305
+DTITLE=Alex Lodico Ensemble - Live in New York
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=NPR Presentation
+TTITLE1=Blue Bossa
+TTITLE2=Tenor Madness
+TTITLE3=Caravan
+TTITLE4=Things Ain't What They Used To Be (Suite)
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

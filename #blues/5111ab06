@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	56887
+#	99297
+#	177395
+#	246307
+#	304405
+#
+# Disc length: 4525 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5111ab06
+DTITLE=Date Course Pentagon Royal Garden - MUSICAL FROM CHAOS 2 CD
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=構造I......'03/7@西部講堂
+TTITLE1=構造II......'04/9@Liquidroom
+TTITLE2=構造III......'03/6@SHIBUYA CLUB
+TTITLE3=構造IV......'03/6@SHIBUYA CLUB
+TTITLE4=構造V......'03/12@Liquidroom
+TTITLE5=構造VI......'03/6@SHIBUYA CLUB
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

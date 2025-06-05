@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21189
+#     40679
+#     61709
+#     85409
+# 
+# Disc length: 1457 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=3205af05
+DTITLE=Big Daddy Green - Tore Up From The Floor Up
+DYEAR=1900
+DGENRE=
+TTITLE0=Aint No Second Chance
+TTITLE1=You Put It There
+TTITLE2=Rain Tonight
+TTITLE3=Tore Up From The Floor Up
+TTITLE4=I Don't Care
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

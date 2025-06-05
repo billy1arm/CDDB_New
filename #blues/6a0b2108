@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32689
+#	51591
+#	72816
+#	97978
+#	119242
+#	152852
+#	188326
+#
+# Disc length: 2851 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a0b2108
+DTITLE=Taj Mahal - Big Blues
+DYEAR=1990
+DGENRE=Blues
+TTITLE0=Big Blues
+TTITLE1=Mail Box Blues
+TTITLE2=Staggerlee
+TTITLE3=Come On In My Kitchen
+TTITLE4=Local Local Girl
+TTITLE5=Soothin'
+TTITLE6=Fishin' Blues
+TTITLE7=Everybody Is Somebody
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

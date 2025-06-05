@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    183
+#    21588
+#    41218
+#    93720
+#    104800
+#    127955
+#    146220
+#    182685
+#    202840
+#
+# Disc length: 2960 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.1.9  (wjohn@fix.net)
+#
+DISCID=890b8e09
+DTITLE=Stevie Ray Vaughan - Somewhere Over The Rainbow
+DYEAR=1900
+DGENRE=
+TTITLE0=Shuffle
+TTITLE1=Testify
+TTITLE2=Voodoo Childe (Slight Return)
+TTITLE3=Honey Bee
+TTITLE4=Couldn't Stand The Weather
+TTITLE5=Cold Shot
+TTITLE6=Texas Flood
+TTITLE7=Pride And Joy
+TTITLE8=Rude Mood
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

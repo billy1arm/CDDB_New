@@ -1,0 +1,24 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25478
+#	129425
+#
+# Disc length: 3568
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cddb.el 1.0 (Emacs 22.2.1)
+#
+DISCID=200dee03
+DTITLE=Charles Mingus and Eric Dolphy - Complete Live in Amsterdam (2)
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Sophisticated Lady
+TTITLE1=Meditations on Integration
+TTITLE2=Fables of Faubus
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

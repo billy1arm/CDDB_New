@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	27960
+#	53272
+#	87355
+#	115852
+#	140987
+#	167575
+#	187790
+#
+# Disc length: 3027 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5e0bd108
+DTITLE=Archie Shepp - Attica Blues Big Band - Live At The Palais Des Glaces disk2
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Strollin'
+TTITLE1=Ballad For A Child
+TTITLE2=Simone
+TTITLE3=Crucificado
+TTITLE4=A Change Has Come Over Me
+TTITLE5=Goodbye Sweet Pops
+TTITLE6=Skippin'
+TTITLE7=Attica Blues,pt.2
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

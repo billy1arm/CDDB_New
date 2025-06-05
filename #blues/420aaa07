@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33047
+#	46094
+#	88072
+#	105147
+#	135282
+#	173877
+#
+# Disc length: 2732 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=420aaa07
+DTITLE=John Mayall - Jazz Blues Fusion
+DYEAR=1972
+DGENRE=Blues
+TTITLE0=Country Road
+TTITLE1=Mess Around
+TTITLE2=Good Times Boogie
+TTITLE3=Change your Ways
+TTITLE4=Dry Throat
+TTITLE5=Exercise in C Major for Harmonica
+TTITLE6=Got To Be This Way
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

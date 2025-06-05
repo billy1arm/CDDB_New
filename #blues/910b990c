@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16775
+#	29900
+#	46375
+#	66890
+#	86305
+#	102787
+#	122555
+#	143655
+#	164595
+#	181697
+#	195790
+#
+# Disc length: 2971 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=910b990c
+DTITLE=Madonna - no title
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Boom Boom BA
+TTITLE1=Bongo Bong
+TTITLE2=Don`t make me love you
+TTITLE3=AmericanPie
+TTITLE4=This life
+TTITLE5=If everybody looked the same
+TTITLE6=Why does my heart feel so bad
+TTITLE7=I`m not in love
+TTITLE8=Satars all seem to weep
+TTITLE9=Time stood still
+TTITLE10=Swayambnu
+TTITLE11=Forever and always
+EXTD=\nYEAR: 2001  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

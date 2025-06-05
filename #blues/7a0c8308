@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	59305
+#	79392
+#	107776
+#	146822
+#	177260
+#	192484
+#	208053
+#
+# Disc length: 3205 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a0c8308
+DTITLE=Schumann - Sonates N°2 and 3 pour violon et piano (A.Malikian, violon and S.Kradjian, piano)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Sonate N°2 pour violon et piano en ré mineur, Op.121 - I. Ziemlich langsam - Lebhaft
+TTITLE1=Sonate N°2 pour violon et piano en ré mineur, Op.121 - II. Sehr lebhaft
+TTITLE2=Sonate N°2 pour violon et piano en ré mineur, Op.121 - III. Leise, einfach
+TTITLE3=Sonate N°2 pour violon et piano en ré mineur, Op.121 - IV. Bewegt
+TTITLE4=Sonate N°3 pour violon et piano en la mineur, Op.posthume - I. Ziemlich langsam - Lebhaft
+TTITLE5=Sonate N°3 pour violon et piano en la mineur, Op.posthume - II. Scherzo
+TTITLE6=Sonate N°3 pour violon et piano en la mineur, Op.posthume - III. Intermezzo
+TTITLE7=Sonate N°3 pour violon et piano en la mineur, Op.posthume - IV. Finale
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

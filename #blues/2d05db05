@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15800
+#	37737
+#	59992
+#	90322
+#
+# Disc length: 1501 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2d05db05
+DTITLE=Peter Andre - All Night All Right CD Single
+DYEAR=1998
+DGENRE=R and B
+TTITLE0=All Night All Right Feat Warren G (Radio Edit)
+TTITLE1=All Night All Right (Brooklyn Funk Club Mix)
+TTITLE2=All Night All Right (Brooklyn Funk R&B Mix)
+TTITLE3=All Night All Right (ForthrightClassy Club Mix)
+TTITLE4=All Night All Right (Forthright Slamming Dub Mix)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

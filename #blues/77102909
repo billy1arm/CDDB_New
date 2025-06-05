@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32567
+#	59762
+#	84707
+#	119850
+#	154505
+#	204102
+#	241677
+#	274837
+#
+# Disc length: 4139 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=77102909
+DTITLE=Herbie Hancock - the blue note years
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Watermelon Man
+TTITLE1=The Eye Of The Hurricane
+TTITLE2=Cantaloupe Island
+TTITLE3=Speak Like A Child
+TTITLE4=Succotash
+TTITLE5=I Have A Dream
+TTITLE6=Blind Man,Blind Man
+TTITLE7=One Finger Snap
+TTITLE8=Maiden Voyage
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

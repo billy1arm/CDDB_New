@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39677
+#	77715
+#	102640
+#	135117
+#	158110
+#	199107
+#
+# Disc length: 3216 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=540c8e07
+DTITLE=David Liebman Quintet - STARDUST
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=If They only Knew
+TTITLE1=Capistrano
+TTITLE2=Moontide
+TTITLE3=Reunion
+TTITLE4=Autumn in New York
+TTITLE5=Move on Some
+TTITLE6=Stardust
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

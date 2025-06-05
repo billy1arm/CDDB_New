@@ -1,0 +1,86 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13829
+#	27741
+#	40412
+#	52187
+#	65801
+#	77592
+#	92943
+#	106497
+#	119135
+#	132262
+#	151603
+#	166055
+#	178505
+#	193848
+#	207235
+#	219616
+#	231406
+#	244226
+#	256120
+#	267365
+#	282331
+#
+# Disc length: 3971 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+#
+# Submitted via: cddb-tool 0.4.7
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+#CATEGORY=misc
+#
+DISCID=500f8116
+DTITLE=Various Artist - The Copulatin' Blues, Volume One
+DYEAR=2009
+DGENRE=blues
+TTITLE0=Sidney Bechet and His New Orleans Feetwarmers - Preachin' Blues
+TTITLE1=Lil Johnson With Her Chicago Swingers - Let's Get Drunk And Truck
+TTITLE2=Bessie Smith - I Need A LIttle Sugar In My Bowl
+TTITLE3=Oscar's Chicago Swingers Feturing Lovin' Sam Theard - New Rubbin' On The Darned Old Thing
+TTITLE4=Lil Johnson - Stavin' Chain (That Rockin' Swing) Take 2
+TTITLE5=Marline Johnson - Don't You Make Me High
+TTITLE6=Tampa Red's Hokum Jug Band With Frankie "Half Pint" Jaxon - My Daddy Rocks Me (With One Steady Roll)
+TTITLE7=Cool Grant and Kid Wilson - Keep Your Hands Off My Mojo
+TTITLE8=Lovin' Sam Theard - State Street Blues
+TTITLE9=Georgia White - I'll Keep Sittin' On It (If I Can't Sell It)
+TTITLE10=Jelly Roll Morton - Winin' Boy Blues, Part 2
+TTITLE11=Lil Johnson - Press My Button (Ring My Bell)
+TTITLE12=Palooka Washboard Band - Save Me Some
+TTITLE13=Lucille Bogan - Shave 'em Dry (2nd Version)
+TTITLE14=Bo Carter - Please Warm My Wiener
+TTITLE15=Georgia White - Hot Nuts (Get 'Em From The Peanut Man)
+TTITLE16=Lil Johnson - You Stole My Cherry
+TTITLE17=Ethel Waters - Bring Your Greenbacks
+TTITLE18=Lucille Bogan - Barbecue Bess
+TTITLE19=Irene Scruggs - Must Get Mine In Front
+TTITLE20=Billie Pierce - I'm In The Racket
+TTITLE21=Bessie Smith - Do Your Duty
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

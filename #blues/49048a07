@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9866
+#	18290
+#	33095
+#	46902
+#	60961
+#	74030
+#
+# Disc length: 1164 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=49048a07
+DTITLE=compilation - jazz magazine - Multi-instrumentistes
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Sidney bechet - The Sheik of Araby
+TTITLE1=Sidney bechet - Blues of Bechet
+TTITLE2=Benny Carter - All of me
+TTITLE3=Benny carter - Coktails for two
+TTITLE4=Benny carter - Dream Lullaby
+TTITLE5=Duke Ellington - Take the A train
+TTITLE6=Duke Ellington - Moon Mist
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

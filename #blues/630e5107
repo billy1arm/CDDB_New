@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	58888
+#	72400
+#	90513
+#	138128
+#	181285
+#	201988
+#
+# Disc length: 3667 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=630e5107
+DTITLE=Togashi Masahiko and Kikuchi Masabumi - Concert - Disc2
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Riding Love's Echoes
+TTITLE1=Relighting
+TTITLE2=Mezame
+TTITLE3=Little Eyes
+TTITLE4=Passing Breeze
+TTITLE5=Utviklingssang
+TTITLE6=Unbalance
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

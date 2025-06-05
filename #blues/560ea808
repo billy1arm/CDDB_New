@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34742
+#	75017
+#	116090
+#	159202
+#	192740
+#	225270
+#	274747
+#
+# Disc length: 3754 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=560ea808
+DTITLE=James Moody - The Collected James Moody
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Moody's Mood
+TTITLE1=Autumn Leaves
+TTITLE2=I Can't Get Started With You
+TTITLE3=Get the Booty
+TTITLE4=Mutt and Jeff
+TTITLE5=When You Wish Upon a Star
+TTITLE6=The Night Has a Thousand Eyes
+TTITLE7=Moody's Theme
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

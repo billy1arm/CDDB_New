@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	66735
+#	140722
+#	236505
+#	295415
+#
+# Disc length: 4525 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5411ab05
+DTITLE=Rob Blakeslee - Lifeline
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=The Beggars
+TTITLE1=Haida
+TTITLE2=Absence Of Mallets
+TTITLE3=Dubra
+TTITLE4=Den Dun Swung
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

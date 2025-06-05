@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48956
+#	68998
+#	101331
+#	114307
+#
+# Disc length: 1794 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=38070005
+DTITLE=Wynton Kelly - The Cool Jazz Collection 62
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Kelly Blue
+TTITLE1=Do Nothin' Till You Hear from Me
+TTITLE2=Whisper Not
+TTITLE3=It's All Right
+TTITLE4=On the Trail
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

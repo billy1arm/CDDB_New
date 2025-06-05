@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     21865
+#     42005
+#     58780
+#     74650
+#     100012
+#     119902
+#     140550
+#     170842
+#     186770
+#     213105
+# 
+# Disc length: 3099 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=a70c190b
+DTITLE=Lucky Peterson - Lifetime
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Time
+TTITLE1=Lifetime
+TTITLE2=Shining Star
+TTITLE3=We'll Be Together
+TTITLE4=Bad Condition
+TTITLE5=Ecstasy
+TTITLE6=The Last Thing I Need
+TTITLE7=Wash My Back
+TTITLE8=I Ain't Buyin'
+TTITLE9=Next In Line
+TTITLE10=Change Is Gonna Come
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

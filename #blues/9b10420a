@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44256
+#	74881
+#	104163
+#	145927
+#	175102
+#	200348
+#	231323
+#	249023
+#	288653
+#
+# Disc length: 4164 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9b10420a
+DTITLE=Muzio Clementi - Concerto pour piano - Sonates  (Alberto Zedda, New Chamber Orchestra de Prague)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Concerto pour piano and orchestre en ut majeur - I. Allegro [Felicia Blumental, piano]
+TTITLE1=Concerto pour piano and orchestre en ut majeur - II. Adagio
+TTITLE2=Concerto pour piano and orchestre en ut majeur - III. Presto
+TTITLE3=Sonate N°3, Op.33 - I. Allegro con spirito          [Pietro Spada, piano]
+TTITLE4=Sonate N°3, Op.33 - II. Adagio cantabile con grande espressione
+TTITLE5=Sonate N°3, Op.33 - III. Presto
+TTITLE6=Sonate N°1, Op.33 - I. Allegro
+TTITLE7=Sonate N°1, Op.33 - II. Presto
+TTITLE8=Sonate N°2, Op.33 - I. Adagio - Allegro con fuoco
+TTITLE9=Sonate N°2, Op.33 - II. Presto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

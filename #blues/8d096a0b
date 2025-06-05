@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15082
+#	31749
+#	48583
+#	60046
+#	74540
+#	92169
+#	106506
+#	118888
+#	149200
+#	161820
+#
+# Disc length: 2412 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=8d096a0b
+DTITLE=The Jimi Hendrix Experience - Are You Experienced
+DYEAR=1967
+DGENRE=Rock
+TTITLE0=Foxy Lady
+TTITLE1=Manic Depression
+TTITLE2=Red House [* mono]
+TTITLE3=Can You See Me
+TTITLE4=Love Or Confusion
+TTITLE5=I Don't Live Today
+TTITLE6=May This Be Love
+TTITLE7=Fire
+TTITLE8=3rd Stone From The Sun
+TTITLE9=Remember [* mono]
+TTITLE10=Are You Experienced
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

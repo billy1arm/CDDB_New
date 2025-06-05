@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31343
+#	50443
+#	69730
+#	109600
+#	129085
+#	146908
+#	164581
+#	181376
+#	199754
+#	225505
+#	241393
+#
+# Disc length: 3456 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a60d7e0c
+DTITLE=Jacques Loussier Trio - Antonio Vivaldi - Las 4 Estaciones
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Primavera, Con No.1 in E - Allegro
+TTITLE1=Primavera, Con No.1 in E - Largo
+TTITLE2=Primavera, Con No.1 in E - Allegro - Danza Pastorale
+TTITLE3=Verano, Con No.2 in G - Allegro Non Molto
+TTITLE4=Verano, Con No.2 in G - Adagio
+TTITLE5=Verano, Con No.2 in G - Presto
+TTITLE6=Otoño, Con No.3 in F - Allegro
+TTITLE7=Otoño, Con No.3 in F - Adagio molto
+TTITLE8=Otoño, Con No.3 in F - Allegro
+TTITLE9=Invierno, Con No.4 in F - Allegro Non Molto
+TTITLE10=Invierno, Con No.4 in F - Largo
+TTITLE11=Invierno, Con No.4 in F - Allegro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

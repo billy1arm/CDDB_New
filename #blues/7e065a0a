@@ -1,0 +1,47 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	12342
+#	27162
+#	39872
+#	56142
+#	72402
+#	82330
+#	91595
+#	104455
+#	114627
+#
+# Disc length: 1628
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+# Normalized: r1:DSETVAR1,TDELIM( - ),TSWAP
+#
+DISCID=7e065a0a
+DTITLE=Various Artist - Natty Dread
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Bob Marley - Soul Almighty
+TTITLE1=Judge Dread - Big Seven
+TTITLE2=Johnny Clarke - The Tide Is High
+TTITLE3=Lee Perry and the Upsetters - Jah Jah Ah Natty Dread
+TTITLE4=Freddie McGregor - The Walls Of Jericho
+TTITLE5=Ken Boothe - Ain't No Sunshine
+TTITLE6=Bob Marley - Soul Captive
+TTITLE7=Dennis Brown - Too Much Information
+TTITLE8=General Degree - Bad Minded People
+TTITLE9=Gregory Isaacs - All I Have Is Love
+EXTD=\nYEAR: 2001  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

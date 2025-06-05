@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	40832
+#	46658
+#	73751
+#	96597
+#	100660
+#	169100
+#	173116
+#	210816
+#	245425
+#	248904
+#
+# Disc length: 3855 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta0
+#
+DISCID=8b0f0d0b
+DTITLE=Albert King with Stevie Ray Vaughan - In Session (Live - December 6, 
+DTITLE=1983)
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Call It Stormy Monday
+TTITLE1=Old Times
+TTITLE2=Pride and Joy
+TTITLE3=Ask Me No Questions
+TTITLE4=Pep Talk
+TTITLE5=Blues at Sunrise
+TTITLE6=Turn It Over
+TTITLE7=Overall Junction
+TTITLE8=Match Box Blues
+TTITLE9=Who is Stevie?
+TTITLE10=Don't Lie To Me
+EXTD=YEAR: 1999 (1983) ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

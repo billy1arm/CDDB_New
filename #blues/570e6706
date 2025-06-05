@@ -1,0 +1,35 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37900
+#	109905
+#	193922
+#	209947
+#	235180
+#
+# Disc length: 3689 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=570e6706
+DTITLE=Bernstein - Leonard Bernstein - Vol.04
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Kaddish, Symphony N°3 - I. Invocation, Kaddish 1 (To the beloved memory of John F. Kennedy) [New York Ph.]
+TTITLE1=Kaddish, Symphony N°3 - II. Din-Torah, Kaddish 2
+TTITLE2=Kaddish, Symphony N°3 - III. Scherzo, Kaddish 3, Finale
+TTITLE3=Chichester Psalms for chorus and orchestra - I. Psalm 108 (verse 2) and Psalm 100 (complete)  [New York Ph.]
+TTITLE4=Chichester Psalms for chorus and orchestra - II. Psalm 23 (complete) and Psalm 2 (verses 1-4)
+TTITLE5=Chichester Psalms for chorus and orchestra - III. Psalm 131 and Psalm 133 (verse 1)
+EXTD=Kaddish, Symphony No.3 (To the Beloved Memory of John F. Kennedy]\nFelicia Montealegre, speaker\nJennie Tourel, mezzo-soprano\nCamerata Singers, Abraham Kaplan, Director\nColumbus Boychoir, Donald Bryand, director\n\nChichester Psalms for Chorus and
+EXTD=Orchestra\nJohn Bogard, alto solo\nCamerata Singers, Abraham Kaplan, Director\n\nNew York Philharmonic, Leonard Bernstein, conductor
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

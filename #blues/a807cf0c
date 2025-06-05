@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13635
+#	26500
+#	38945
+#	50497
+#	63575
+#	74360
+#	85425
+#	98632
+#	110700
+#	123535
+#	136915
+#
+# Disc length: 2001 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a807cf0c
+DTITLE=Patty Page - Say Wonderful Things
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Fly Me To The Moon(In Other Worlds)
+TTITLE1=The Good Life
+TTITLE2=Love Letters
+TTITLE3=Can't Get Used To Losing You
+TTITLE4=Call Me Irresponsible
+TTITLE5=Say Wonderful Things
+TTITLE6=If And When
+TTITLE7=Days Of Wine And Roses
+TTITLE8=I Wanna Be Around
+TTITLE9=Moon River
+TTITLE10=The End Of World
+TTITLE11=Our Day Will Come
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    150
+#    3152
+#    117597
+#    218185
+#    263950
+#
+# Disc length: 3549 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.1.9  (wjohn@fix.net)
+#
+DISCID=410ddb05
+DTITLE=Stevie Ray Vaughan - King Biscuit Flower Hour 1/14/89
+DYEAR=1900
+DGENRE=
+TTITLE0=Tone
+TTITLE1=Scuttlebuttin'/Testify/Voodoo Chile
+TTITLE2=Couldn't Stand/Cold Shot/TX Flood/Honey Bee
+TTITLE3=Pride And Joy/Rude Mood
+TTITLE4=Promos
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

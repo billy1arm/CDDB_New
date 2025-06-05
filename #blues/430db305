@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	60443
+#	117970
+#	146055
+#	199033
+#
+# Disc length: 3509 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=430db305
+DTITLE=Brahms - 交響曲全集 Disk4 - Lenard Bernstein
+DYEAR=1983
+DGENRE=Classical
+TTITLE0=交響曲 第4番 ホ短調 作品98 - 1.Allegro non troppo
+TTITLE1=交響曲 第4番 ホ短調 作品98 - 2.Andante moderato
+TTITLE2=交響曲 第4番 ホ短調 作品98 - 3.Allegro giocoso - Poco meno presto - Tempo I
+TTITLE3=交響曲 第4番 ホ短調 作品98 - 4.Allegro energico e passionato - Piu Allegro
+TTITLE4=悲劇的序曲 作品81 - Allegro non troppo - Molto piu moderato - Tempo primo
+EXTD=Vienna PhO/ Leonard Bernstein YEAR: 1983
+EXTT0=Allegro non troppo (13:24)
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=Allegro non troppo-Molto piu moderato- Tempo primo
+PLAYORDER=

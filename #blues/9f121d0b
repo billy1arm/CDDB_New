@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     26972
+#     66505
+#     80752
+#     97837
+#     143847
+#     190982
+#     212905
+#     257390
+#     288275
+#     308642
+# 
+# Disc length: 4639 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9f121d0b
+DTITLE=Stevie Ray Vaughan And Double Trouble - Force Of Nature II - Disc 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Opening Jam
+TTITLE1=Come On
+TTITLE2=Mary Had A Little Lamb
+TTITLE3=Rude Mood
+TTITLE4=Dirty Pool
+TTITLE5=Voodoo Child
+TTITLE6=Heartfixer
+TTITLE7=Drivin' South
+TTITLE8=Texas Flood
+TTITLE9=Testify
+TTITLE10=Jam 292
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

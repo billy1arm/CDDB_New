@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	23293
+#	46790
+#	71250
+#	91210
+#	115213
+#	135853
+#	161478
+#
+# Disc length: 2428 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=4e097a08
+DTITLE=Billy Cobham - Warning
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=Mozaik
+TTITLE1=Red and Yellow Cabriolet
+TTITLE2=Slow Body Poppin'
+TTITLE3=Unknown Jeromes
+TTITLE4=The Dancer
+TTITLE5=Stratus
+TTITLE6=Come Join Me
+TTITLE7=Go For It!
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46528
+#	84255
+#	103860
+#	149076
+#	192426
+#	223539
+#	243685
+#
+# Disc length: 4122 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.99.1
+#
+DISCID=71101808
+DTITLE=Novendo klavierquartett, Thomas Schmitz - Charles-Marie Widor - klavierquartett
+DYEAR=2009
+DGENRE=Classical
+TTITLE0=Klavierquartett in a op. 66 - Allegro Moderato - Novendo Quartett
+TTITLE1=Klavierquartett in a op. 66 - Adagio - Novendo Quartett
+TTITLE2=Klavierquartett in a op. 66 - Vivace - Novendo Quartett
+TTITLE3=Klavierquartett in a op. 66 - Allegro ma non troppo - Novendo Quartett
+TTITLE4=Symphonie in c op. 70 Gothique - Moderato - Thomas Schmitz
+TTITLE5=Symphonie in c op. 70 Gothique - Andante sostenuto - Thomas Schmitz
+TTITLE6=Symphonie in c op. 70 Gothique - Allegro - Thomas Schmitz
+TTITLE7=Symphonie in c op. 70 Gothique - Moderato-Allegro-Moderato-Andante-Allegro - Thomas Schmitz
+EXTD=Movendo  Klavierquartet\nKarin Struck Violine  ;Christoph Struck Viola\nLutz Wagnes,Violoncello ;Anette Strootman, Klavier\nThomas Schmitz orgel\nAn der Kleis-Orgel im Hogen Dom zu Munster Deutscland YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

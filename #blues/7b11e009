@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35269
+#	96382
+#	124468
+#	175176
+#	205603
+#	242587
+#	264307
+#	326247
+#
+# Disc length: 4578 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7b11e009
+DTITLE=Dave Holland Quintet - Prime Directive
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Prime Directive
+TTITLE1=Looking Up
+TTITLE2=Make Believe
+TTITLE3=A Seeking Spirit
+TTITLE4=High Wire
+TTITLE5=Jugglers Parade
+TTITLE6=Candlelight Vigil
+TTITLE7=Wonders Never Cease
+TTITLE8=Downtime
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  16867
+#  32330
+#  40302
+#  57922
+#  74760
+#  85515
+#  100500
+#  120357
+#  132090
+#  144875
+#  162297
+#
+# Disc length: 2346 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=8b09280c
+DTITLE=The Moptops - Inside
+DYEAR=1900
+DGENRE=
+TTITLE0=Plastic Moon Rain
+TTITLE1=Inside
+TTITLE2=Sending Letters
+TTITLE3=Sweet Dreams
+TTITLE4=Love On A Carousel
+TTITLE5=I Want To Tell You
+TTITLE6=The Loner
+TTITLE7=Melancholy
+TTITLE8=She's So Fine
+TTITLE9=I Wish I Knew You
+TTITLE10=Whenever I'm Alone
+TTITLE11=I Won't Give It Back
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

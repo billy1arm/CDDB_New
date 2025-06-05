@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22088
+#	41315
+#	64563
+#	90200
+#	120948
+#	139990
+#	161188
+#
+# Disc length: 2373 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.74
+#
+DISCID=5d094308
+DTITLE=Klaus Doldinger - Jazz Made In Germany
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Bluesy Toosy
+TTITLE1=Bee-Bop
+TTITLE2=Delilah
+TTITLE3=Well You Needn't
+TTITLE4=Blues For George
+TTITLE5=Solar
+TTITLE6=Stars Fell On Alabama
+TTITLE7=Signal
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

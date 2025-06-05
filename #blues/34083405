@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31296
+#	59299
+#	80635
+#	99234
+#
+# Disc length: 2102 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=34083405
+DTITLE=Pat Metheny - American Garage
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=(Cross the) Heartland
+TTITLE1=Airstream
+TTITLE2=The Search
+TTITLE3=American Garage
+TTITLE4=The Epic 
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

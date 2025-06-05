@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12552
+#     31474
+#     49284
+#     68674
+#     92734
+#     115649
+#     144403
+#     162830
+#     181037
+#     203116
+#     227420
+#     257312
+# 
+# Disc length: 3844 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=9f0f020d
+DTITLE=Varios - Queco's Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Aint Nobodys Bizness
+TTITLE1=As The Years Go Passing By
+TTITLE2=Cowards Knife
+TTITLE3=Cried Last Night
+TTITLE4=Do You Believe In Love
+TTITLE5=Guess Who
+TTITLE6=Hold That Train
+TTITLE7=Nightlife
+TTITLE8=Out Of The Blue
+TTITLE9=Save Your Love For Me
+TTITLE10=Texas Flood
+TTITLE11=Third Degree
+TTITLE12=Bonus Track
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

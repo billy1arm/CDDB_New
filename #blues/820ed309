@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30461
+#	56865
+#	102984
+#	127267
+#	175273
+#	210827
+#	227211
+#	254118
+#
+# Disc length: 3797 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=820ed309
+DTITLE=Santi Debriano - Artistic Licence
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Holiday
+TTITLE1=Tenor Pan Woogie
+TTITLE2=Liberty Road
+TTITLE3=Little Free Spirit Be
+TTITLE4=Trance Dance
+TTITLE5=Brava
+TTITLE6=Little Church
+TTITLE7=Harmonious
+TTITLE8=Leaving
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

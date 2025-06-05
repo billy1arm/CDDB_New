@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32860
+#	67582
+#	84752
+#	110727
+#	180455
+#	208062
+#	229137
+#
+# Disc length: 3557 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=5f0de308
+DTITLE=スメタナ四重奏団 - ドヴォルザーク：弦楽四重奏曲第12番ヘ長調≪アメリカ≫、弦楽六重奏曲イ長調
+DYEAR=1987
+DGENRE=Classical
+TTITLE0=弦楽四重奏曲 第12番 ヘ長調 作品96 B.179≪アメリカ≫ I-Allegro,ma non troppo
+TTITLE1=弦楽四重奏曲 第12番 ヘ長調 作品96 B.179≪アメリカ≫ II-Lento
+TTITLE2=弦楽四重奏曲 第12番 ヘ長調 作品96 B.179≪アメリカ≫ III-Molto vivace
+TTITLE3=弦楽四重奏曲 第12番 ヘ長調 作品96 B.179≪アメリカ≫ IV-Finale - Vivace,ma non troppo
+TTITLE4=弦楽六重奏曲 イ長調 作品48、B.80 I-Allegro moderato
+TTITLE5=弦楽六重奏曲 イ長調 作品48、B.80 II-Dumka(Elegie) - Poco Allegretto-Adagio,quasi tempo di marcia-Andante
+TTITLE6=弦楽六重奏曲 イ長調 作品48、B.80 III-Furiant - Presto
+TTITLE7=弦楽六重奏曲 イ長調 作品48、B.80 IV-Finale.Thema mit Variationen - Allegretto grazioso,quasi Andantino
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

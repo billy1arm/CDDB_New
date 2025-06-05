@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36075
+#	76980
+#	113415
+#	151995
+#	179835
+#	218670
+#
+# Disc length: 3400 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=510d4607
+DTITLE=Runestone - The Lost Henge
+DYEAR=2006
+DGENRE=New Age
+TTITLE0=Forgotten Shores
+TTITLE1=The Lost Henge
+TTITLE2=Rite of Regression
+TTITLE3=Hands Across Time
+TTITLE4=The Great Oak
+TTITLE5=Beneath a Sea of Stars
+TTITLE6=Waves of Recollection
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

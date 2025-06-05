@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  187
+#  21247
+#  43117
+#  78145
+#  106862
+#  130295
+#  158945
+#  179982
+#
+# Disc length: 2619 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=660a3908
+DTITLE=Shirley Caesar - Live
+DYEAR=1900
+DGENRE=
+TTITLE0=I Cannot Stop Praising Him
+TTITLE1=Jesus Is Everywhere
+TTITLE2=Worship Him
+TTITLE3=I Remember Mama
+TTITLE4=Expect Your Blessing
+TTITLE5=Don't Give Up
+TTITLE6=He'll Do It Again
+TTITLE7=What Would You Do
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

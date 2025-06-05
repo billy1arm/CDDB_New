@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45619
+#	89874
+#	98034
+#	133691
+#	149241
+#	194532
+#	222732
+#
+# Disc length: 3564 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=880dea08
+DTITLE=Terra Mystica - Great Wall of China
+DYEAR=1995
+DGENRE=New Age
+TTITLE0=The four Corners of the World
+TTITLE1=The Middle Kingdom
+TTITLE2=Invasion of the Northern Hordes
+TTITLE3=Erection of the White Wall
+TTITLE4=The Ghosts of the Deceased
+TTITLE5=The Impregnable Bastion
+TTITLE6=Times of War
+TTITLE7=The Green Wall
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

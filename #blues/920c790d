@@ -1,0 +1,61 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15815
+#     31005
+#     46730
+#     62845
+#     80663
+#     96848
+#     114238
+#     140463
+#     154395
+#     172560
+#     196650
+#     210570
+# 
+# Disc length: 3195 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=920c790d
+DTITLE=The Johnny Otis Show - Good Lovin' Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Ida Mae
+TTITLE1=Loving You Is All I Know
+TTITLE2=Ice Water In Your Veins
+TTITLE3=Listen, Women
+TTITLE4=Your Last Boogie
+TTITLE5=Time To Say 'Bye Bye'
+TTITLE6=Pop and Sons Boogie
+TTITLE7=Medley
+TTITLE8=In The Driver's Seat
+TTITLE9=Good Good Lovin' Blues
+TTITLE10=Come On Over, Baby
+TTITLE11=Rock Me Baby
+TTITLE12=Hey, Mr Bartender
+EXTD=Johnny Otis - piano, vocals and vibes\nNick Otis - drums, background vo
+EXTD=cals\nShuggie Otis - guitar, bass and organ\nLarry Douglas - trumpet\nM
+EXTD=ack Johnson - trumpet\nClifford Soloman - alto and tenor saxophone\nRon
+EXTD=ald Wilson - baritone saxophone\nJohn 'Streamline' Ewing - trombone\nCh
+EXTD=arley Schofner - trombone\nBrad Pie - guitar\nRamona - vocals\nJackie P
+EXTD=ayne - vocals\nLa Dee Streeter - vocals
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=La Dee Streeter - vocal\n
+EXTT5=
+EXTT6=
+EXTT7=a) Open House At My House\nb) Baby What You Want Me To Do\n
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=Brad Pie - guitar solo\n
+PLAYORDER=

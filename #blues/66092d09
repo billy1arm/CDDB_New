@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14730
+#	36227
+#	57575
+#	78145
+#	86675
+#	117785
+#	135167
+#	151087
+#
+# Disc length: 2351 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=66092d09
+DTITLE=The Square - Rockoon
+DYEAR=1980
+DGENRE=Fusion
+TTITLE0=Rockoon
+TTITLE1=Really Love
+TTITLE2=Tomorrow's Affair
+TTITLE3=Banana
+TTITLE4=複眼人生
+TTITLE5=Little Pop Sugar
+TTITLE6=Come Back
+TTITLE7=It's Happening Again
+TTITLE8=Good Night
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

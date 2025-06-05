@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 18137
+# 27580
+#
+# Disc length: 679 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=1902a503
+DTITLE=Buddy Guy - Heavy Love - Limited Edition Bonus CD
+DYEAR=1900
+DGENRE=
+TTITLE0=Hoochie Coochie Man
+TTITLE1=I'm In The Mood
+TTITLE2=Nobody Understands Me But My Guitar
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

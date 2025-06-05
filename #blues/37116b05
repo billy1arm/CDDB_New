@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49109
+#	110459
+#	187878
+#	256740
+#
+# Disc length: 4461 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=37116b05
+DTITLE=Miles and Coltrane - Live in Stockholm
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=So What
+TTITLE1=On Green Dolphin St.
+TTITLE2=All Blues
+TTITLE3=So What (Take 2)
+TTITLE4=So What (Take 3)
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

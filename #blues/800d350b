@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17145
+#	33005
+#	51322
+#	79327
+#	108337
+#	128685
+#	159210
+#	182482
+#	204407
+#	230480
+#
+# Disc length: 3383 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=800d350b
+DTITLE=Paul Hanmer, Ian Herman and Pete Sklair - Unofficial Language - Primal Steps
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=The Rock
+TTITLE1=Hymn for the Ballies
+TTITLE2=Softly
+TTITLE3=Metalglass
+TTITLE4=Tender Mercies
+TTITLE5=Primal Steps
+TTITLE6=Eden Suite
+TTITLE7=Dance # 1
+TTITLE8=Processional Waltz
+TTITLE9=Unofficial Language
+TTITLE10=The Imaginaray Tabla-player
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

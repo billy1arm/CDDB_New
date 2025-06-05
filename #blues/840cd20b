@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8347
+#	32704
+#	52525
+#	80535
+#	100739
+#	127448
+#	144219
+#	162423
+#	187970
+#	221504
+#
+# Disc length: 3284 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=840cd20b
+DTITLE=Cordoba Reunion - Argentina Jazz
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Pajas Blancas
+TTITLE1=Danza de las Madres
+TTITLE2=La Oncena
+TTITLE3=Ya Esta
+TTITLE4=Una Vez Mas
+TTITLE5=Cacaraca
+TTITLE6=Sueño'e Zamba
+TTITLE7=Rio Xanaes
+TTITLE8=Marcari
+TTITLE9=La del Cuarteto
+TTITLE10=Zamba del Tiempo'e naupa
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

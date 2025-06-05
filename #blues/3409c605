@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	107377
+#	130370
+#	152265
+#	170722
+#
+# Disc length: 2504 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3409c605
+DTITLE=Gary Bartz - Another Earth
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=Another Earth
+TTITLE1=Dark Nebula
+TTITLE2=UFO
+TTITLE3=Lost in the Stars
+TTITLE4=Perihelion and Aphelion
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

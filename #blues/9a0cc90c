@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     25710
+#     42382
+#     63695
+#     84157
+#     105115
+#     123855
+#     149410
+#     169555
+#     192755
+#     209522
+#     229955
+# 
+# Disc length: 3275 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9a0cc90c
+DTITLE=Craig Thatcher - The Craig Thatcher Band
+DYEAR=1900
+DGENRE=
+TTITLE0=Because of You
+TTITLE1=Christine
+TTITLE2=Rockin' Daddy
+TTITLE3=Make up Your Mind
+TTITLE4=The Way You Are
+TTITLE5=Got My Eye On You
+TTITLE6=Missin' You Blues
+TTITLE7=Born Under A Bad Sign
+TTITLE8=Do What You Like, Like What You Do
+TTITLE9=The Wind Cries Mary
+TTITLE10=Talk To Me Baby
+TTITLE11=Daddy I Remember
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

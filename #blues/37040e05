@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19152
+#	34512
+#	48289
+#	66854
+#
+# Disc length: 1040 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=37040e05
+DTITLE=Sugarland - Bonus Tracks
+DYEAR=2007
+DGENRE=Christmas
+TTITLE0=Little Wood Guitar
+TTITLE1=Nuttin' for Christmas
+TTITLE2=Holly Jolly Christmas
+TTITLE3=O Come, O Come, Emmanuel
+TTITLE4=Winter Wonderland
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

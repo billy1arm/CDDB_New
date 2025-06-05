@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18310
+#     36747
+#     83987
+#     131210
+#     151950
+#     164565
+#     208530
+# 
+# Disc length: 3059 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6d0bf108
+DTITLE=Joi Cardwell - Found Love
+DYEAR=1900
+DGENRE=
+TTITLE0=Frankie Knuckles Radio Version
+TTITLE1=Gomi's Radio Edit
+TTITLE2=Gomi's Global Village Vocal Mix
+TTITLE3=Gomi's Lair Club Mix
+TTITLE4=Gomi's Alternate Vocal Mix
+TTITLE5=Gomi's Bonus Beats
+TTITLE6=The Queen's Mix (Bonus Mix)
+TTITLE7=What Does It Mean (Bonus Track)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

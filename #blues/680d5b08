@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24548
+#	47430
+#	73795
+#	106030
+#	141037
+#	190791
+#	208683
+#
+# Disc length: 3421 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=680d5b08
+DTITLE=Catfish Lane ft.Justin Fox - Catfish Lane
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Burning Red
+TTITLE1=Run To Me 
+TTITLE2=Loved Another
+TTITLE3=Throughout The Years
+TTITLE4=Let Me tell You Woman
+TTITLE5=Catfish Blues (Live)
+TTITLE6=Man In Shiny Shoes(Live)
+TTITLE7=Tin Pan Alley(Live)
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

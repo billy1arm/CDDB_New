@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10949
+#	23557
+#	35854
+#	49617
+#	62265
+#	73830
+#	86411
+#	99207
+#	113452
+#
+# Disc length: 1700 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6e06a20a
+DTITLE=compilation - jazz magazine - 1925
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Louis Armstrong - My heart
+TTITLE1=Louie Austin - Majo blues
+TTITLE2=Bix Beiderbecke and his rhythm jugglers - Davenport blues
+TTITLE3=The Charleston chasers - Red hot Henry Brown
+TTITLE4=Fletcher Henderson and his orchestra - Sugar foot stomp
+TTITLE5=Original Tuxedo jazz orchestra - Black rag
+TTITLE6=Halway House orchestra - Barataria
+TTITLE7=Dora Care and Cow Cow Davenport - Cow cow blues
+TTITLE8=Ethel Waters - Shake that thing
+TTITLE9=Bessie Smith - St Louis Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

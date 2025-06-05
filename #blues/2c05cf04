@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57424
+#	85625
+#	97169
+#
+# Disc length: 1489 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2c05cf04
+DTITLE=Phish - Le Spectrum 12-13-92 Disc 3
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=Harry Hood
+TTITLE1=Cavern
+TTITLE2=Sweet Adeline
+TTITLE3=Rocky Top
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24284
+#	57779
+#	76369
+#	106824
+#	126248
+#	150561
+#	174226
+#
+# Disc length: 2630 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=520a4408
+DTITLE=Horace Silver - Modern Jazz Hard Bop Vol. 2 CD 054
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Horace Silver Quintet - Room 608
+TTITLE1=Horace Silver Quintet - Creepin' In
+TTITLE2=Horace Silver Quintet - Stop Time
+TTITLE3=Horace Silver Quintet - Doodlin'
+TTITLE4=Horace Silver Quintet - The Preacher
+TTITLE5=Horace Silver Quintet - Hippy
+TTITLE6=Horace Silver Quintet - Hankerin'
+TTITLE7=Horace Silver Quintet - To Whom It May Concern
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

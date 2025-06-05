@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11502
+#	23750
+#	35865
+#	49425
+#	61102
+#	93525
+#	106575
+#	120275
+#	131062
+#	142200
+#	156012
+#
+# Disc length: 2281 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta4
+#
+DISCID=9e08e70c
+DTITLE=Various Artist - Legends Of Blues - Hoochie Coochie Man
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Muddy Waters/Hoochie Coochie Man
+TTITLE1=Howlin' Wolf/How Many More Years
+TTITLE2=John Lee Hooker/Boom Boom
+TTITLE3=Bobby Bland/Farther Up The Road
+TTITLE4=Junior Parker/Stand By Me
+TTITLE5=Buddy Guy/Stone Crazy
+TTITLE6=T-Bone Walker/Why My Baby (Keep On Bothering Me)
+TTITLE7=Little Milton/Let's Get Together
+TTITLE8=Jimmy Reed/Heartaches and Troubles
+TTITLE9=Elmore James/Call It Stormy Monday
+TTITLE10=Willie Dixon/Walking The Blues
+TTITLE11=Big Joe Turner/Little Bitty Gals Blues
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25262
+#	54630
+#	62820
+#	86552
+#	117915
+#	140015
+#	152247
+#
+# Disc length: 2380 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6d094a08
+DTITLE=Spring - Spring
+DYEAR=1971
+DGENRE=Progressive Rock
+TTITLE0=The Prisoner
+TTITLE1=Grail
+TTITLE2=Boats
+TTITLE3=Shipwrecked Soldier
+TTITLE4=Golden Fleece
+TTITLE5=Inside Out
+TTITLE6=Song To Absent Friends (The Island)
+TTITLE7=Gazing
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

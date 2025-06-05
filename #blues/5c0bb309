@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34274
+#	66890
+#	83316
+#	105292
+#	127697
+#	154556
+#	188389
+#	197875
+#
+# Disc length: 2997 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5c0bb309
+DTITLE=Bill Stewart - Incandescence
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Knock on my door
+TTITLE1=Toad
+TTITLE2=Portals opening
+TTITLE3=Opening portals
+TTITLE4=See ya
+TTITLE5=Four hand job
+TTITLE6=Tell a televangelist
+TTITLE7=Metallurgy
+TTITLE8=Incandescence
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

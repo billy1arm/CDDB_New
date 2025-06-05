@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9199
+#	27018
+#	47210
+#	70391
+#	89281
+#	91333
+#	110912
+#	133378
+#	134868
+#	154908
+#	155923
+#	176768
+#	199060
+#	216824
+#	217472
+#	234337
+#	245587
+#	268030
+#
+# Disc length: 3704 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2a0e7613
+DTITLE=Ridillo - Ridillo
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Benvenuti
+TTITLE1=MondoNuovo
+TTITLE2=Festa in 2
+TTITLE3=Pace&Amore
+TTITLE4=Sessonestissimo
+TTITLE5=Nel 1912...
+TTITLE6=Il poeta si diverte
+TTITLE7=Chiéche
+TTITLE8=Petting
+TTITLE9=Arrivano i nostri
+TTITLE10=Vibrazione
+TTITLE11=Funk lab
+TTITLE12=Bella ciao
+TTITLE13=Il ballo della mosca cieca
+TTITLE14=3 pistoni
+TTITLE15=Henry Cocomerì
+TTITLE16=Bentornati
+TTITLE17=Ay caramba
+TTITLE18=Cartoline jazz
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

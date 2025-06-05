@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36515
+#	86869
+#	124888
+#	155415
+#	192901
+#	226712
+#	264623
+#
+# Disc length: 3775 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=690ebd08
+DTITLE=Pat Metheny - Artists in Residence Project [CD1]
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=07 - Turnaround (Coleman)
+TTITLE1=How Insensitive (Jobim/Moreas)
+TTITLE2=Time Of The Gypsies (Wim Bronnenberg)
+TTITLE3=4 P.M. (Jo Didderen)
+TTITLE4=Met Metheny (Ruud Jan Bos)
+TTITLE5=Travels (Metheny/Mays)
+TTITLE6=Song For Bilbao (Metheny)
+TTITLE7=Better Days Ahead (Metheny)
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

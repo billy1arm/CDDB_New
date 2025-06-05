@@ -1,0 +1,25 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 183
+# 127408
+# 183970
+#
+# Disc length: 3412 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.2.327
+#
+DISCID=270d5203
+DTITLE=Edvard Grieg - Piano Concerto - Peer Gynt Suites
+DYEAR=1900
+DGENRE=
+TTITLE0=Piano Concerto in A Minor, Op. 16
+TTITLE1=Peer Gynt Suite No. 1, Op. 46
+TTITLE2=Peer Gynt Suite No. 2, Op. 55
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

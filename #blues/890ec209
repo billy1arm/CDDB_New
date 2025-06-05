@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26985
+#	41425
+#	115163
+#	146770
+#	176961
+#	220806
+#	246877
+#	263964
+#
+# Disc length: 3780 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=890ec209
+DTITLE=Tacchini Alberto - Drops
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Stars
+TTITLE1=Big Rush
+TTITLE2=Red Tribe
+TTITLE3=Velociraptor
+TTITLE4=Toys Room
+TTITLE5=The Old Museum
+TTITLE6=Candle-Light
+TTITLE7=Shadows
+TTITLE8=Dreams
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

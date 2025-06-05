@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22272
+#	37707
+#	57740
+#	77580
+#	90636
+#	112479
+#	131600
+#
+# Disc length: 2000 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b07ce08
+DTITLE=Kairos - Música popular cubana
+DYEAR=1900
+DGENRE=Salsa
+TTITLE0=El manicero
+TTITLE1=Bonito y sabroso
+TTITLE2=Que me digan feo
+TTITLE3=Echale limón
+TTITLE4=Gózalo mulata
+TTITLE5=La noche perfecta
+TTITLE6=Guantanamera
+TTITLE7=Juana
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

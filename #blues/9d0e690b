@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	23953
+#	62595
+#	79593
+#	104428
+#	119120
+#	163963
+#	189810
+#	218868
+#	242193
+#	261998
+#
+# Disc length: 3691 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9d0e690b
+DTITLE=Various Artist - Paris Jazz Concert
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Count Basie - Shiny Stockings
+TTITLE1=Lionel Hampton - Stardust
+TTITLE2=Clarke Boland Big Band - Evanescence
+TTITLE3=Gerry Mulligan - My Funny Valentine
+TTITLE4=Sidney Bechet - Moi J'en Ai Marre
+TTITLE5=Art Blakey - Dat Dere
+TTITLE6=Miles Davis - Round ABout Midnight
+TTITLE7=Jimmy Smith - Delon's Blues
+TTITLE8=Thelonious Monk - Epistrophy
+TTITLE9=Duke Ellington - Chelsea Bridge
+TTITLE10=Louis Armstrong - When it's Sleepy Time Down South
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

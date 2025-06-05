@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41990
+#	58556
+#	89796
+#	110902
+#	166033
+#	191794
+#	221781
+#	243101
+#
+# Disc length: 3501 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=860dab09
+DTITLE=Orange - Implicity
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Intro Til Hostsaga
+TTITLE1=Hostsaga
+TTITLE2=Reggi
+TTITLE3=Liten Sang
+TTITLE4=Implicity
+TTITLE5=Mold
+TTITLE6=Knusk
+TTITLE7=Midnattskyr
+TTITLE8=Svensk Vals
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

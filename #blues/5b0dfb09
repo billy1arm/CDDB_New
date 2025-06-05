@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57065
+#	84660
+#	116322
+#	153210
+#	173390
+#	206315
+#	229935
+#	248505
+#
+# Disc length: 3581 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b0dfb09
+DTITLE=Pour ceux qui aiment le Jazz - Live CD2
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Art Blakey - Blues march
+TTITLE1=Gerry Mulligan - Fire brothers
+TTITLE2=Oscar Peterson :Lil' darlin
+TTITLE3=Cannonball Adderley - The work song
+TTITLE4=Louis Armstrong - Mack the knife
+TTITLE5=Lionel Hampton - Flying home
+TTITLE6=Thelonious Monk - Epistography
+TTITLE7=Sidney Bechet :Les oignons
+TTITLE8=Clarke-Boland Big Band - Volcano
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

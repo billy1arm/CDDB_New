@@ -1,0 +1,40 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 6337
+# 70885
+# 90055
+# 115745
+# 133907
+# 174892
+# 223510
+# 244160
+#
+# Disc length: 4441 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.3.331
+#
+DISCID=6e110508
+DTITLE=Blues Traveler - Live From the Fall (disk 2)
+DYEAR=1900
+DGENRE=
+TTITLE0=Alone
+TTITLE1=Freedom
+TTITLE2=Mountains Win Again
+TTITLE3=Breakfast
+TTITLE4=Go
+TTITLE5=Low, Go
+TTITLE6=Run
+TTITLE7=Hippie, Imagine
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

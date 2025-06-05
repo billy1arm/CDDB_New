@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13365
+#     34762
+#     54407
+#     72847
+#     86632
+#     105992
+#     123032
+#     138332
+#     152720
+# 
+# Disc length: 2241 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7a08bf0a
+DTITLE=Cesar Camargo Mariano - Mitos
+DYEAR=1900
+DGENRE=
+TTITLE0=Mitos
+TTITLE1=Ca a   Baleia
+TTITLE2=Amor em paz
+TTITLE3=Salamanca
+TTITLE4=Tokyo
+TTITLE5=Uma mulher
+TTITLE6=Constitu ndio
+TTITLE7=Cremoso
+TTITLE8=Send one your love
+TTITLE9=Belo Horizonte
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26842
+#	49022
+#	104157
+#	142140
+#	170922
+#	238077
+#
+# Disc length: 3538 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6c0dd007
+DTITLE=WIM - We In Music
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Peace People
+TTITLE1=Waltz For Vana
+TTITLE2=Only A Step
+TTITLE3=It's Never Too Late To Meet Again
+TTITLE4=Just Like Blues
+TTITLE5=Rain City
+TTITLE6=Unknown Children
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

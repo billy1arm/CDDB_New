@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	18385
+#	35982
+#	61900
+#	94732
+#	106375
+#	122910
+#	140680
+#	165731
+#	184269
+#
+# Disc length: 2816 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=810ae00a,900af40a
+DTITLE=Rolling Stones - Sticky Fingers
+DYEAR=1900
+DGENRE=
+TTITLE0=Brown Sugar
+TTITLE1=Sway
+TTITLE2=Wild Horses
+TTITLE3=Can't You Hear Me Knocking
+TTITLE4=You Gotta Move
+TTITLE5=Bitch
+TTITLE6=I Got The Blues
+TTITLE7=Sister Morphine
+TTITLE8=Dead Flowers
+TTITLE9=Moonlight Mile
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

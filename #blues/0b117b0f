@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  28330
+#  49417
+#  72622
+#  92857
+#  115382
+#  141562
+#  161785
+#  185722
+#  216615
+#  243547
+#  267267
+#  269620
+#  294717
+#  312867
+#
+# Disc length: 4477 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=0b117b0f
+DTITLE=Various Artist - strip oop!
+DYEAR=1900
+DGENRE=
+TTITLE0=Aqua (Don Carlos)
+TTITLE1=In the 90s (Photek)
+TTITLE2=Tides (A Forest Mighty Black)
+TTITLE3=Steamy Widows (Nasty Dolls)
+TTITLE4=Paranoia Street (Street Walkers)
+TTITLE5=Hipnodelic (Francis Kevorkian)
+TTITLE6=Natural Flame (Unit)
+TTITLE7=Funk My Ass (Ohm Guru)
+TTITLE8=The Man Who Hates Himself (Sin)
+TTITLE9=Power (Zoltan Ipnotic)
+TTITLE10=The Call (T.D.S.)
+TTITLE11=Fresh Food Part 1 (Darkwah)
+TTITLE12=Can't Deal With This (Cool Breeze)
+TTITLE13=Starry Night (Bubble Jet)
+TTITLE14=For Your Precious Love (Jestofunk)
+EXTD=
+EXTT0=Don Carlos
+EXTT1=Photek
+EXTT2=A Forest Mighty Black
+EXTT3=Nasty Dolls
+EXTT4=Street Walkers
+EXTT5=Francis Kevorkian)
+EXTT6=Unit
+EXTT7=Ohm Guru
+EXTT8=Sin
+EXTT9=Zoltan Ipnotic
+EXTT10=T.D.S.
+EXTT11=Darkwah
+EXTT12=Cool Breeze
+EXTT13=Bubble Jet
+EXTT14=Jestofunk
+PLAYORDER=

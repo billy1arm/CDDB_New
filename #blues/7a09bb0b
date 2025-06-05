@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16702
+#     33945
+#     49602
+#     68857
+#     85820
+#     105125
+#     118127
+#     133642
+#     150562
+#     169005
+# 
+# Disc length: 2493 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7a09bb0b
+DTITLE=Alyson Moyet - Essex
+DYEAR=1900
+DGENRE=
+TTITLE0=Falling
+TTITLE1=And I know
+TTITLE2=Whispering your name
+TTITLE3=Getting into something
+TTITLE4=So am I
+TTITLE5=Satellite
+TTITLE6=Ode to boy
+TTITLE7=Dorothy
+TTITLE8=Another living day
+TTITLE9=Boys own
+TTITLE10=Take of me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

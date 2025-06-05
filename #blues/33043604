@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23080
+#	50376
+#	73430
+#
+# Disc length: 1080 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=33043604
+DTITLE=NTconfess - 夜の雨
+DYEAR=2004
+DGENRE=Game
+TTITLE0=ak - The Cage〜永夜抄〜
+TTITLE1=ak - Moonflame〜竹取飛翔〜
+TTITLE2=ak - Lunacy〜狂気の瞳〜
+TTITLE3=ak - 1970〜月見草〜
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

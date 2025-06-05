@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9314
+#	33089
+#	48906
+#	59624
+#	77288
+#	95481
+#	108122
+#
+# Disc length: 1681 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e068f08
+DTITLE=Matej Ptaskek and Blues Mothers Band - Sound from the Street (Prague)
+DYEAR=2005
+DGENRE=Blues
+TTITLE0=Roll and Tumble
+TTITLE1=Stormy Monday
+TTITLE2=Hoochie Coochie Man
+TTITLE3=Parchman Farm
+TTITLE4=Little Red Rooster
+TTITLE5=Sweet Home Chicago
+TTITLE6=My Babe
+TTITLE7=When you got a Good Friend
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

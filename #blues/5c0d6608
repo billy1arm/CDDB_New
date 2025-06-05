@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28625
+#	58515
+#	78032
+#	134270
+#	168920
+#	206175
+#	234210
+#
+# Disc length: 3432 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c0d6608
+DTITLE=Carl Orr - Absolute Freedom
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Unstoppable
+TTITLE1=Blues for Jimi
+TTITLE2=Tomorrow's Girls
+TTITLE3=Dangerfunk
+TTITLE4=Return of the Jazz Police
+TTITLE5=Voice of the People
+TTITLE6=Non-Violence is the Only Way Forward
+TTITLE7=The Price of Peace
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

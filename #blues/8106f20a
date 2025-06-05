@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11636
+#	24462
+#	38480
+#	50939
+#	65827
+#	77348
+#	88784
+#	101043
+#	110784
+#
+# Disc length: 1780 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8106f20a
+DTITLE=compilation - jazz magazine - les deux font la paire
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=King Oliver and Jelly Roll Morton - King Porter
+TTITLE1=Eddie Lang and Joe Venuti - Stringin' the blues
+TTITLE2=Eddie South and Django Reinhardt - Eddie's blues
+TTITLE3=Louis Armstrong and Earl Hines - Wheater bird
+TTITLE4=Louis Armstrong and Buck Washington - Dear old southland
+TTITLE5=Bob Haggart and Ray Bauduc - Big noise from Winnetka
+TTITLE6=Stephane Grappelli and Django Reinhardt - Tornerai
+TTITLE7=Pete Johnson and Albert Ammons - Six avenue express
+TTITLE8=Slim and Slam - Flat foot floogie
+TTITLE9=Kay Davis and Billy Strayhorn - Lush life
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

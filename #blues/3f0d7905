@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	59687
+#	98322
+#	141607
+#	188400
+#
+# Disc length: 3451 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=3f0d7905
+DTITLE=DoppelMoppel - Aventure Québecoise
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Aventure québecoise I
+TTITLE1=Aventure québecoise II
+TTITLE2=Aventure québecoise III
+TTITLE3=Aventure québecoise IV
+TTITLE4=Aventure québecoise V
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

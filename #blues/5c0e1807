@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50575
+#	93700
+#	121300
+#	173125
+#	203800
+#	234475
+#
+# Disc length: 3610 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c0e1807
+DTITLE=Karl Denson - Chunky Pecan Pie
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Waltz For Leslie
+TTITLE1=Is It A Bell ?
+TTITLE2=Fried Bananas
+TTITLE3=Heart Of The Wanderer
+TTITLE4=Blue-Eyed Peas
+TTITLE5=Banana Boy
+TTITLE6=In Order To Form A More Perfect Union
+EXTD=recorded 1994\n(P) and (C) 1994 YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

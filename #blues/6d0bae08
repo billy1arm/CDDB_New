@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36544
+#	66548
+#	97871
+#	122993
+#	153306
+#	181115
+#	210525
+#
+# Disc length: 2992 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d0bae08
+DTITLE=Eric Séva - Espaces croisés
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Résonances 
+TTITLE1=Crossroad 
+TTITLE2=Espaces croisés
+TTITLE3=Place Duodurum 
+TTITLE4=Pont des Arts
+TTITLE5=Transit Mix
+TTITLE6=Les roots d'Alicante
+TTITLE7=Identité vagabonde
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

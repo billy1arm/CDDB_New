@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24992
+#	59430
+#	79055
+#	110473
+#	128643
+#	166956
+#	192117
+#	221303
+#	267853
+#	294048
+#
+# Disc length: 4326 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=8b10e40b
+DTITLE=Led Zeppelin - Remasters [CD 2)
+DYEAR=1992
+DGENRE=Rock
+TTITLE0=The Song Remains The Same
+TTITLE1=The Rain Song
+TTITLE2=D'yer Mak'er
+TTITLE3=No Quarter
+TTITLE4=Houses Of The Holy
+TTITLE5=Kashmir
+TTITLE6=Trampled Underfoot
+TTITLE7=Nobody's Fault But Mine
+TTITLE8=Achilles Last Stand
+TTITLE9=All My Love
+TTITLE10=In The Evening
+EXTD=YEAR: 1992 ID3G: 17
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

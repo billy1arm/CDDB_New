@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	99933
+#	108140
+#	127502
+#	141345
+#	172480
+#	196138
+#
+# Disc length: 2803 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=560af107
+DTITLE=Duke Ellington - Jazz at the Plaza, Vol. 2
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Jazz Festival Suite
+TTITLE1=Jones
+TTITLE2=El Gato
+TTITLE3=All Of Me
+TTITLE4=Go Away Blues/Hello, Little Girl/Love To Hear My Baby Call My Name
+TTITLE5=When Your Lover Has Gone/(Hush Now) Don't Explain
+TTITLE6=Take The "A" Train
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

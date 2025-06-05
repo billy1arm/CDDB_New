@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17822
+#	34820
+#
+# Disc length: 698 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=1c02b803
+DTITLE=Tomosaka Rie - Cappuccino
+DYEAR=1999
+DGENRE=JPop
+TTITLE0=Cappuccino
+TTITLE1=Mokuren no Kuriimu
+TTITLE2=Cappuccino (original karaoke)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

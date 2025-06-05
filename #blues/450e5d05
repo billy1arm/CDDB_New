@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	67155
+#	85222
+#	164193
+#	236635
+#
+# Disc length: 3679 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=450e5d05
+DTITLE=Charles Mingus - Reincarnation of a lovebird
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Reincarnation of a lovebird
+TTITLE1=I left my heart in San Francisco
+TTITLE2=Blue bird
+TTITLE3=The man who never sleeps
+TTITLE4=O.P.
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

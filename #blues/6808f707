@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29901
+#	47005
+#	69846
+#	92687
+#	125953
+#	146732
+#
+# Disc length: 2297 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CD2WAV32(JP) R3.22
+#
+DISCID=6808f707
+DTITLE=Skoop on Somebody - 20051226 Source Disk (Bass Part)
+DYEAR=2005
+DGENRE=JPop
+TTITLE0=happypeople
+TTITLE1=happypeople(Bass part)
+TTITLE2=Key of Love(Tenor part)
+TTITLE3=Key of Love(Bass part)
+TTITLE4=Everlasting Love(Bass part)
+TTITLE5=誰かが君を想ってる(Bass part)
+TTITLE6=街に愛があふれて・・・(Bass part)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

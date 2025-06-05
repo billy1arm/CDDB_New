@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23994
+#	39124
+#	67907
+#	92058
+#	114664
+#	137134
+#
+# Disc length: 2256 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=5408ce07
+DTITLE=Suzuki Kazuhiro - Rhythmatic Organ Mania #2
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=WHAT'S GOING ON
+TTITLE1=DRIVE MY CAR
+TTITLE2=ROBBEN CHAN(オリジナル)
+TTITLE3=La Nona Rica(オリジナル)
+TTITLE4=WHAT A FOOL BELIEVES
+TTITLE5=SUPER STRUT
+TTITLE6=LAST TANGO IN MEMPHIS
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

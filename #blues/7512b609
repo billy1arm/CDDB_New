@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39940
+#	67190
+#	99767
+#	144687
+#	176817
+#	204980
+#	227957
+#	255765
+#
+# Disc length: 4792 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7512b609
+DTITLE=BBC PO - Tortelier - Tracey - Poulenc Concerto for Organ, Strings and Timpani
+DYEAR=1993
+DGENRE=Symphonic
+TTITLE0=Symphony No.1 for Organ and Orchestra Op.42 -I- Introduction und Allegro
+TTITLE1=Symphony No.1 for Organ and Orchestra Op.42 -II- Pastorale - Andante quasi allegretto
+TTITLE2=Symphony No.1 for Organ and Orchestra Op.42 -III- Finale. Allegro assai - Andante maestoso - Tempo primo
+TTITLE3=Symphony for Organ Op.42 No.5 -I- Allegro vivace - Più lento
+TTITLE4=Symphony for Organ Op.42 No.5 -II- Allegro cantabile
+TTITLE5=Symphony for Organ Op.42 No.5 -III- Andantino quasi allegretto
+TTITLE6=Symphony for Organ Op.42 No.5 -IV- Adagio
+TTITLE7=Symphony for Organ Op.42 No.5 -V- Toccata. Allegro
+TTITLE8=Concerto for Organ, Strings and Timpani 
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

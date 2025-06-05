@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17145
+#	33090
+#	48150
+#	62032
+#	86572
+#	104197
+#	119872
+#	141479
+#	158579
+#
+# Disc length: 2401 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8a095f0a
+DTITLE=Daniel Balavoine - Le Chanteur
+DYEAR=1978
+DGENRE=Other
+TTITLE0=Les Oiseaux (Partie 1)
+TTITLE1=Les Oiseaux (Partie 2)
+TTITLE2=France
+TTITLE3=C'est Un Voyou
+TTITLE4=Lucie
+TTITLE5=Le Chanteur
+TTITLE6=Si Je Suis Fou
+TTITLE7=Oiseau De Nuit
+TTITLE8=Le Pied Par Terre
+TTITLE9=Des Gens Comme Vous
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

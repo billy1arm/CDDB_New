@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11011
+#	23986
+#	35200
+#	47323
+#	64549
+#
+# Disc length: 1076 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=44043206
+DTITLE=Hans Hultman-Boye - Rags och annat
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=Abbes rag
+TTITLE1=Billes mix
+TTITLE2=Ellis rag
+TTITLE3=Emanuels rag
+TTITLE4=Kay Cee Pie
+TTITLE5=Till Alla N N
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

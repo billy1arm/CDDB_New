@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	47969
+#	67307
+#	92523
+#	105482
+#	159380
+#	208835
+#
+# Disc length: 3137 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.52 - http://www.feurio.com
+#
+DISCID=5d09c206
+DTITLE=Various Artist - Piano - Intersound
+DYEAR=1900
+DGENRE=
+TTITLE0=Tchaikovsky - Piano Concerto No 1 - Allegro
+TTITLE1=Mozart - Piano Concerto No 21 - Andante
+TTITLE2=Beethoven - Bagatelle in  A Minor - Fur Elise
+TTITLE3=Brahms - Piano Concerto No 1 - Rondo
+TTITLE4=Rachmaninoff - Piano Concerto No 2 - Adagio
+TTITLE5=Gershwin - Rhappsody in Blue - Finale
+EXTD=Ha visual tracks
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

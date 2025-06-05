@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15083
+#     32448
+#     51443
+#     66563
+#     84780
+#     102173
+#     116663
+#     131258
+#     153220
+# 
+# Disc length: 2232 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6e08b60a
+DTITLE=Phil Campbell - The Light Beyond The Woods
+DYEAR=1900
+DGENRE=
+TTITLE0=Kiss And Say goodbye
+TTITLE1='Til I Gain Control Again
+TTITLE2=Song For Bernadette
+TTITLE3=Here, There And Everywhere
+TTITLE4=Roseville Fair
+TTITLE5=Love Has No Pride
+TTITLE6=Defying Gravity
+TTITLE7=You Can't Stay Here
+TTITLE8=There's A Light Beyond The Woods (Mary Margaret)
+TTITLE9=I Sing The Blues For You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

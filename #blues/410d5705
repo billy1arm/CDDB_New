@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33216
+#	72485
+#	74440
+#	236541
+#
+# Disc length: 3417 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=410d5705
+DTITLE=Berndt Luef - On That Score
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Sarajevo
+TTITLE1=On That Score
+TTITLE2=Hojac
+TTITLE3=Dendriten
+TTITLE4=Trivial Pursuit
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

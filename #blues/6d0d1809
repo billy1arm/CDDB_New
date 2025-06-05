@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	27002
+#	48102
+#	69682
+#	93807
+#	123790
+#	159675
+#	192222
+#	222100
+#
+# Disc length: 3354 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.06
+#
+DISCID=6d0d1809
+DTITLE=Pharista - Islands In The Sky
+DYEAR=1990
+DGENRE=New Age
+TTITLE0=Cascades Island
+TTITLE1=Extasy
+TTITLE2=Sawadika
+TTITLE3=Blue Island
+TTITLE4=Dreams Island
+TTITLE5=Majestic
+TTITLE6=The White Island
+TTITLE7=Discreet Time
+TTITLE8=Beyond Islands
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

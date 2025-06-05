@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20730
+#	37395
+#	58767
+#	78435
+#	104067
+#	126410
+#	147582
+#
+# Disc length: 2258 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8008d008
+DTITLE=Naty y su Orquesta - Los Amigos de Naty
+DYEAR=1900
+DGENRE=Salsa
+TTITLE0=Si tu me dices ven
+TTITLE1=Prueba de Amor
+TTITLE2=Amigo Secreto
+TTITLE3=No se olvidar
+TTITLE4=Corazon necio
+TTITLE5=Acuerdate de mi
+TTITLE6=Puro deseo de amar
+TTITLE7=Si tu supieras
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

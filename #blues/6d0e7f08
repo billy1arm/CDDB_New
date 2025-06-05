@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2761
+#	43807
+#	78541
+#	107631
+#	147261
+#	202266
+#	227908
+#
+# Disc length: 3713 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d0e7f08
+DTITLE=Enrico Pieranunzi - Live In Paris CD1
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Introduction
+TTITLE1=Ouverthree
+TTITLE2=Body and soul
+TTITLE3=I hear a rhapsody
+TTITLE4=Footprints
+TTITLE5=I fall in love too easily
+TTITLE6=But not for me
+TTITLE7=Hindsight
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

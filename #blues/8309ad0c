@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  17080
+#  31000
+#  49107
+#  67935
+#  83397
+#  92400
+#  105687
+#  119307
+#  136962
+#  153682
+#  168007
+#
+# Disc length: 2479 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: KiC 2.1 - (C) 1996-1998 Alwin Hoogerdijk
+#
+DISCID=8309ad0c
+DTITLE=James "Thunderbird" Davis - Check Out Time
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm Ready Now
+TTITLE1=You Did Me Wrong
+TTITLE2=Hello Sundown
+TTITLE3=Check-Out Time
+TTITLE4=What Else Is There To Do ?
+TTITLE5=If I Had My Life To Live Over
+TTITLE6=It's Your Turn To Cry
+TTITLE7=Come By Here
+TTITLE8=I Should've Known Better
+TTITLE9=A Case Of Love
+TTITLE10=Bloodshot Eyes
+TTITLE11=Dark End Of The Street
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

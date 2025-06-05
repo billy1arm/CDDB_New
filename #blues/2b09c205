@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42570
+#	76544
+#	102957
+#	159158
+#
+# Disc length: 2500 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2b09c205
+DTITLE=Dexter Gordon - Doin' Allright
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=I Was Doin' All Right
+TTITLE1=You've Changed
+TTITLE2=For Regulars Only
+TTITLE3=Society Red
+TTITLE4=It's You Or No One
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

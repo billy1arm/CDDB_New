@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38635
+#	64960
+#	98328
+#	162785
+#	207813
+#
+# Disc length: 3330 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=410d0006
+DTITLE=Ben Webster - Live at the Haarlemse Jazz Club
+DYEAR=1972
+DGENRE=Jazz
+TTITLE0=For all we know
+TTITLE1=Sunday
+TTITLE2=How long has this been going on?
+TTITLE3=In a mellotone
+TTITLE4=Stardust
+TTITLE5=Perdido
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

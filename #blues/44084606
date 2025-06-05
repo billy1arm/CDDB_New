@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30775
+#	72250
+#	78287
+#	89272
+#	133480
+#
+# Disc length: 2120 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=44084606
+DTITLE=Al Di Meola - Land of the Midnight Sun
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=The Wizard
+TTITLE1=Land of the Midnight Sun
+TTITLE2=Sarabande from Violin Sonata in B Minor
+TTITLE3=Love Theme from "Pictures of the Sea"
+TTITLE4=Suite Golden Dawn
+TTITLE5=Short Tales of the Black Forest
+EXTD=\n YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

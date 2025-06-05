@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21675
+#	49725
+#	77325
+#	93675
+#	118050
+#	139125
+#
+# Disc length: 2205 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=5d089b07
+DTITLE=Duke Levine Group - Guitar Talk
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Come On in My Kitchen
+TTITLE1=Black East Blues
+TTITLE2=Deep Blue (Sometimes Gray)
+TTITLE3=Gospel
+TTITLE4=If Six Was Four
+TTITLE5=The Ballad Of Sonny and Slim
+TTITLE6=Blues Triangle
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

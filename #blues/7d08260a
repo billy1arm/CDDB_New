@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13270
+#     30157
+#     44450
+#     64582
+#     78077
+#     100282
+#     111280
+#     128535
+#     140877
+# 
+# Disc length: 2088 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7d08260a
+DTITLE=Barry White - I Love to sing the Songs
+DYEAR=1900
+DGENRE=
+TTITLE0=Midnight and You
+TTITLE1=Heavenly, Thats What You Are
+TTITLE2=Honey Please Cant You See
+TTITLE3=Lady Sweet Lady
+TTITLE4=My Buddy
+TTITLE5=Shadows of Love
+TTITLE6=Baby Blues
+TTITLE7=Bring Back My Yesterday
+TTITLE8=I Love To Sing The Songs
+TTITLE9=Playing Your Game
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

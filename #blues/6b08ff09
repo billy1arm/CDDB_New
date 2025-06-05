@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15610
+#	29525
+#	42642
+#	60687
+#	79782
+#	97090
+#	128712
+#	150135
+#
+# Disc length: 2305 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.4
+#
+DISCID=6b08ff09
+DTITLE=Big Joe Turner And Roomful of Blues - Blues Train
+DYEAR=1900
+DGENRE=
+TTITLE0=Crawdad Hole
+TTITLE1=Red Sails In The Sunset
+TTITLE2=Cocka-Doodle-Doo
+TTITLE3=Jumpin' For Joe
+TTITLE4=I Want A Little Girl
+TTITLE5=Blues Train
+TTITLE6=I Know You Love Me
+TTITLE7=Last Night
+TTITLE8=I Love The Way (My Baby Sings The Blues)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

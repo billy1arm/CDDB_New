@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	12137
+#	30312
+#	46320
+#	64095
+#	79730
+#	103330
+#	122572
+#
+# Disc length: 2275 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b08e108
+DTITLE=Johnny Rivers and His L.A. Boogie Band - Last Boogie in Paris
+DYEAR=1973
+DGENRE=Blues
+TTITLE0=Sea Cruise
+TTITLE1=Over the Line
+TTITLE2=Barefootin'
+TTITLE3=Summer Rain
+TTITLE4=Long Tall Sally
+TTITLE5=Walkin' Blues
+TTITLE6=Take Me in Your Arms
+TTITLE7=John Lee Hooker
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

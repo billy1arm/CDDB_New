@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15011
+#	30847
+#	51783
+#	102590
+#	134930
+#	156922
+#	172230
+#
+# Disc length: 2576 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=640a0e08
+DTITLE=Hoard Rogers Lassiter - The Land Outside
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Falling Arch
+TTITLE1=Tone On One
+TTITLE2=Gold And Russet
+TTITLE3=Permafrost
+TTITLE4=Counteraction
+TTITLE5=Disappearing Nature
+TTITLE6=Sea Form
+TTITLE7=The Land Outside
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

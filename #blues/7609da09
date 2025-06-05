@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22145
+#	45132
+#	64280
+#	82450
+#	99407
+#	122897
+#	145585
+#	168867
+#
+# Disc length: 2524 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7609da09
+DTITLE=Yambu - Yambu
+DYEAR=1975
+DGENRE=Salsa
+TTITLE0=Dinamita
+TTITLE1=A New Thing
+TTITLE2=Cosas Del Amor
+TTITLE3=Profesor
+TTITLE4=Hippopatamus
+TTITLE5=Caballo
+TTITLE6=Movin on
+TTITLE7=Vecindad
+TTITLE8=Sunny
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

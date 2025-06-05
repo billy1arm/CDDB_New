@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26625
+#	56815
+#	86808
+#	97230
+#	118290
+#	151388
+#	169038
+#	192765
+#	213138
+#	222695
+#
+# Disc length: 3114 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a40c280b
+DTITLE=Herbie Hancock - The Blow Up Extra-Sessions
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=Herbie's Blues
+TTITLE1=Rock Your Soul
+TTITLE2=Jammin' with Herbie
+TTITLE3=Hot and Heavy
+TTITLE4=Night Walker
+TTITLE5=Hot Piano
+TTITLE6=Live and Awake
+TTITLE7=Scoochie
+TTITLE8=Afro Boogie
+TTITLE9=Far Out
+TTITLE10=	[Untitled Track]
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

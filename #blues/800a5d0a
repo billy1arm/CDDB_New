@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7295
+#	57562
+#	63122
+#	84017
+#	89782
+#	109102
+#	141955
+#	168165
+#	181085
+#
+# Disc length: 2655 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=800a5d0a
+DTITLE=宮内庁式部職楽部 - "Etenraku" In Three Different Modes　越天楽　三調
+DYEAR=1991
+DGENRE=Ethnic
+TTITLE0=Hyojo No Netori　平調音取
+TTITLE1=Hyojo Etenraku Nokorigaku Sanben　平調越天楽残楽三返
+TTITLE2=Banshiki-Cho No Netori　盤渉調音取
+TTITLE3=Banshiki-Cho Etenraku　盤渉調越天楽
+TTITLE4=Oshiki-Cho No Netori　黄鐘調音取
+TTITLE5=Oshiki-Cho Etenraku　黄鐘調越天楽
+TTITLE6=Goshoraku No Kyu, Hyojo　五常楽急　平調
+TTITLE7=Nasori No Ha, Koma Ichikotsu-Cho　納曽利破　高麗壱越調
+TTITLE8=Nasori No Kyu, Koma Ichikotsu-Cho　納曽利急　高麗壱越調
+TTITLE9=Etenraku Imayo　越天楽今様
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

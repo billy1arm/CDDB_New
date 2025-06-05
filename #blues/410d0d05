@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54492
+#	97150
+#	136225
+#	188795
+#
+# Disc length: 3343 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=410d0d05
+DTITLE=Chick Corea - Summer Jam 1979
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Night Streets
+TTITLE1=Chick Corea Solo
+TTITLE2=Al Dimeola Solo
+TTITLE3=Isfahan
+TTITLE4=All Blues
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

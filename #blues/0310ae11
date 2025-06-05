@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	20783
+#	37260
+#	58963
+#	77915
+#	103543
+#	127183
+#	149783
+#	170743
+#	188535
+#	210258
+#	225228
+#	246033
+#	261450
+#	276035
+#	289548
+#	303480
+#
+# Disc length: 4272 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=0310ae11
+DTITLE=Robert Calvert - Blueprints from the Cellar
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=All the Machines Are Quiet
+TTITLE1=Work Song
+TTITLE2=Subterraneans
+TTITLE3=Soweto
+TTITLE4=Radio Egypt
+TTITLE5=Over The Moon
+TTITLE6=Hidden Persuasion
+TTITLE7=Re-Wind
+TTITLE8=Working Down A Diamond Mine
+TTITLE9=Thanks to the Scientists
+TTITLE10=I Hear Voices
+TTITLE11=Acid Rain
+TTITLE12=Fly On The Wall
+TTITLE13=Standing On The Picket Line
+TTITLE14=The Ra Ra Man
+TTITLE15=Ned Ludd
+TTITLE16=Marathon Man
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19132
+#	47975
+#	62810
+#	83427
+#	106962
+#	130070
+#	148762
+#
+# Disc length: 2239 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6808bd08
+DTITLE=Sonny Stitt - Now!
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Surfin'
+TTITLE1=Lester Leaps In
+TTITLE2=Estralita
+TTITLE3=Please Don't Talk About Me When I'm Gone
+TTITLE4=Touchy
+TTITLE5=Never-Sh!
+TTITLE6=My Mother's Eyes
+TTITLE7=I'm Getting Sentimental Over You
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

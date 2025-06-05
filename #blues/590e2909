@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37924
+#	75775
+#	99317
+#	130178
+#	160726
+#	188989
+#	220511
+#	240873
+#
+# Disc length: 3627 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=590e2909
+DTITLE=Michael Haydn - Concertos pour violon  (Barnabàs Kelmen, Erkel Ferenc Chamber Orchestra)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Concerto en si bémol majeur - I. Allegro moderato   (Barnabàs Kelmen, violon)
+TTITLE1=Concerto en si bémol majeur - II. Adagio
+TTITLE2=Concerto en si bémol majeur - III. Allegro molto
+TTITLE3=Concerto en si sol majeur - I. Allegro moderato
+TTITLE4=Concerto en si sol majeur - II. Adagio amoroso
+TTITLE5=Concerto en si sol majeur - III. Allegro
+TTITLE6=Concerto en si la majeur - I. Allegro ma non troppo
+TTITLE7=Concerto en si la majeur - II. Adagio
+TTITLE8=Concerto en si la majeur - III. Rondo - Presto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

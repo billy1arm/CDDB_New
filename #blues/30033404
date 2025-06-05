@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	13645
+#	27625
+#	43992
+#
+# Disc length: 822 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=30033404
+DTITLE=Sydney Bechet - The best of
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Mon Homme
+TTITLE1=Summertime
+TTITLE2=Stormy Weather
+TTITLE3=Muskrat Ramble
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26790
+#	68162
+#	104920
+#	146442
+#	183002
+#
+# Disc length: 2881 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=520b3f06
+DTITLE=Phil Woods - Phil Talks With Quill
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Doxie (Doxy) I
+TTITLE1=A Night In Tunisia
+TTITLE2=Hymn for Kim
+TTITLE3=Dear Old Stockholm
+TTITLE4=Scrapple from the Apple
+TTITLE5=Doxie (Doxy) II
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

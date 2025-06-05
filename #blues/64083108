@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22763
+#	42711
+#	57866
+#	76760
+#	96125
+#	118971
+#	139182
+#
+# Disc length: 2099 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=64083108
+DTITLE=Willie Rosario - Nuevos Horizontes
+DYEAR=1984
+DGENRE=Salsa
+TTITLE0=Lluvia 
+TTITLE1=Si Yo Tuviera Un Millon 
+TTITLE2=Chango Ta Beni 
+TTITLE3=Babarabatiri 
+TTITLE4=Caramelito Del Campo 
+TTITLE5=Obra Sellada 
+TTITLE6=El Plantao 
+TTITLE7=Laura 
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

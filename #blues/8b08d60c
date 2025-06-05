@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10021
+#	18183
+#	31212
+#	41602
+#	55020
+#	66348
+#	80524
+#	96918
+#	114449
+#	134693
+#	150871
+#
+# Disc length: 2264 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8b08d60c
+DTITLE=Joe and Jack Waters - 10 and 50
+DYEAR=2008
+DGENRE=Blues
+TTITLE0=Missin Texas Blues
+TTITLE1=Start the Night
+TTITLE2=Big G
+TTITLE3=Stop Sign Blues
+TTITLE4=Arthritis Blues
+TTITLE5=Little Faces Little Smiles
+TTITLE6=Harmonic Chromatic
+TTITLE7=The Honey
+TTITLE8=Fortunate
+TTITLE9=Where Do Ya Live?
+TTITLE10=Yellow Tape
+TTITLE11=Talkin to Snakes
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

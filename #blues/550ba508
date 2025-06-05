@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18059
+#	31371
+#	69000
+#	96188
+#	124894
+#	161321
+#	173226
+#
+# Disc length: 2983 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=550ba508
+DTITLE=Antonio Forcione and Charlie Haden - Heartplay
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Anna
+TTITLE1=If
+TTITLE2=La Pasionaria
+TTITLE3=Snow
+TTITLE4=Silence
+TTITLE5=Childs Song
+TTITLE6=Nocturne
+TTITLE7=For Turia
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

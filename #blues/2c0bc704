@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57947
+#	143700
+#	161365
+#
+# Disc length: 3017 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2c0bc704
+DTITLE=Ornette Coleman - Falling Star
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Lonely Women
+TTITLE1=Clergymans's Dream
+TTITLE2=Sadness
+TTITLE3=Falling Star
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

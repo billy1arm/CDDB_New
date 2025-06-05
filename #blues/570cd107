@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30224
+#	67134
+#	104215
+#	152852
+#	190730
+#	227500
+#
+# Disc length: 3283 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=570cd107
+DTITLE=Janusz Muniak Quartet - Annie
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Annie
+TTITLE1=Before Rain
+TTITLE2=My Shining Hour
+TTITLE3=Late-night-out-ism
+TTITLE4=For Minors Only
+TTITLE5=Blues For H.G.
+TTITLE6=Piece For Wietek
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

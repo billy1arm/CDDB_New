@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	23033
+#	41110
+#	67898
+#	83633
+#	104268
+#	124428
+#	143510
+#	168463
+#	193585
+#
+# Disc length: 2849 seconds
+#
+# Revision: 33
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=820b150a,920b000a,930b000a,940b040a,960b040a
+DTITLE=Rolling Stones - Goats Head Soup
+DYEAR=1900
+DGENRE=
+TTITLE0=Dancing With Mr. D.
+TTITLE1=100 Years Ago
+TTITLE2=Coming Down Again
+TTITLE3=Doo Doo Doo Doo Doo (Heartbreaker)
+TTITLE4=Angie
+TTITLE5=Silver Train
+TTITLE6=Hide Your Love
+TTITLE7=Winter
+TTITLE8=Can You Hear The Music
+TTITLE9=Star Star
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28954
+#	54017
+#	83284
+#	107557
+#	130154
+#	161786
+#	179803
+#
+# Disc length: 2599 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5f0a2508
+DTITLE=Sinne Eeg - Sinne Eeg
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=How deep is the ocean
+TTITLE1=The night has a thousand eyes
+TTITLE2=You don't know what love is
+TTITLE3=Everybody's song but my own
+TTITLE4=Comes love
+TTITLE5=Silence
+TTITLE6=Month of May
+TTITLE7=Close your eyes
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

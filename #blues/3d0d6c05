@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20982
+#	72018
+#	164251
+#	228597
+#
+# Disc length: 3438 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3d0d6c05
+DTITLE=Steve Kimock Band - 02-08-10 Disc1
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Steel Guitar Rag
+TTITLE1=A New Africa
+TTITLE2=Why Cant We All Just Samba
+TTITLE3=Severe Tire Damage
+TTITLE4=Drums
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

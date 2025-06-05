@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	30020
+#	47033
+#	73285
+#	94573
+#	123363
+#	160190
+#	178820
+#
+# Disc length: 2690 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=600a8008
+DTITLE=Michel Sardaby - Going places
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Going places
+TTITLE1=Mumbo-Jumbo
+TTITLE2=Yearning
+TTITLE3=Sugar loaf
+TTITLE4=Drum tantrum
+TTITLE5=How deep is the ocean ?
+TTITLE6=Street smart
+TTITLE7=Lotus blossom
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

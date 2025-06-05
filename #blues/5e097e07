@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29652
+#	51527
+#	91662
+#	115140
+#	148115
+#	173700
+#
+# Disc length: 2432 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5e097e07
+DTITLE=Miles Davis - Sorcerer
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=Prince of Darkness
+TTITLE1=Pee Wee
+TTITLE2=Masqualero
+TTITLE3=The Sorcerer
+TTITLE4=Limbo
+TTITLE5=Vonetta
+TTITLE6=Nothing Like You
+EXTD=Entry: Martin Emmerich <me@grmbl.muc.de>\n03-Mar-1998 YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,88 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15378
+#	25481
+#	40651
+#	53400
+#	67519
+#	81501
+#	93698
+#	106618
+#	119648
+#	133233
+#	145526
+#	158944
+#	172074
+#	182237
+#	194821
+#	208430
+#	221204
+#	232307
+#	245354
+#	256976
+#	270408
+#	284208
+#	297729
+#
+# Disc length: 4145 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7f102f18
+DTITLE=Jazz à la Gitane vol. 3 - 'Round about Django
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Quintette du hot-club de France - Ultrafox
+TTITLE1=Django Reinhardt Trio - After You've Gone
+TTITLE2=Michel Warlop et son orchestre - Taj Mahal
+TTITLE3=Hot-CLub Swing Stars - Daphne
+TTITLE4=Trio Ferret - Gin Gin
+TTITLE5=Svenska Hotkvintetten - Stardust
+TTITLE6=String Swing - Oh, Lady Be Good
+TTITLE7=Tony Murena et son ensemble Swing - Avenir
+TTITLE8=Radics Gabor Jazz-Egvuttese - Buvos Hegedu (Magic Violin)
+TTITLE9=Django's Music - Melodie Au Crepuscule
+TTITLE10=Gus Viseur et son orchestre - Swing 42
+TTITLE11=Quintetto Ritmico di milano - Ritmo Allegro
+TTITLE12=Louis Vola del Quinteto del hot-club de francia - Tiger Rag
+TTITLE13=Andre Ekyan et son swingtette - Tcha Tcha
+TTITLE14=Frans Wouters en zyn Dansorkest - Dr Hekyll And Mr Jyde
+TTITLE15=Het Ramblers Dansorkest - Hilversum Expres
+TTITLE16=Jerry Thomas Swingtet - Flying Home
+TTITLE17=Sarane Ferret et son orchestre - Paper Doll
+TTITLE18=Sextette "swing" Ray Ventura - My Guy's Come Back
+TTITLE19=Toots Thielemans Quartet - It Had To Be "Bird"
+TTITLE20=Stephane Grapelli-Henri Crolla Quartet - Belleville
+TTITLE21=Jean Bonal Quintet - Viper's Dream
+TTITLE22=Jean-Pierre Sasson Quintet - Minor Swing
+TTITLE23=Django Reinhardt Quintet - Le Soir
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+PLAYORDER=

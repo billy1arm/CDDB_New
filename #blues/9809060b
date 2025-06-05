@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     19975
+#     40432
+#     52117
+#     64892
+#     78675
+#     93865
+#     110227
+#     124560
+#     144150
+#     160800
+# 
+# Disc length: 2312 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9809060b
+DTITLE=Gladys Knight and the Pips - Motown Legends
+DYEAR=1900
+DGENRE=
+TTITLE0=Neither One of Us (Wants to be the First to Say Goodbye)
+TTITLE1=All I Need is Time
+TTITLE2=Your Old Standby
+TTITLE3=I Wish it Would Rain
+TTITLE4=Signed Gladys
+TTITLE5=I Don't Want to do Wrong
+TTITLE6=Between Her GoodBye and My Hello
+TTITLE7=One Less Bell to Answer
+TTITLE8=Help Me Make it Through the Night
+TTITLE9=I Hate Myself for Loving You
+TTITLE10=Every Little Bit Hurts
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18271
+#	33633
+#	64824
+#	78015
+#	89721
+#	103671
+#	105132
+#	127335
+#
+# Disc length: 2924 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6e0b6a09
+DTITLE=Canned Heat - Living The Blues
+DYEAR=1970
+DGENRE=Blues
+TTITLE0=Pony Blues
+TTITLE1=My Mistake
+TTITLE2=Sandy's Blues
+TTITLE3=Going Up The Country
+TTITLE4=Walking By Myself
+TTITLE5=Boogie Music
+TTITLE6=Hidden Track
+TTITLE7=One Kind Favour
+TTITLE8=Parthogenesis
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

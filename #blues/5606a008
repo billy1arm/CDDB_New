@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12134
+#	25694
+#	41601
+#	53399
+#	62982
+#	88640
+#	107024
+#
+# Disc length: 1698 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=5606a008
+DTITLE=Clifford Jordan - Soul Fountain
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=T.N.T.
+TTITLE1=I've Gat A Feeling For You
+TTITLE2=H.N.I.C.
+TTITLE3=I Got You (I Feel Good)
+TTITLE4=Caribbean Cruise
+TTITLE5=Senor Blues
+TTITLE6=Eeh Bah Lickey Doo
+TTITLE7=Retribution
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

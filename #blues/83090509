@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21407
+#	43026
+#	69986
+#	88665
+#	107776
+#	127250
+#	139645
+#	157371
+#
+# Disc length: 2311 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=83090509
+DTITLE=J. Leino - BluesSkies
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Chicken head
+TTITLE1=You don't know what love is
+TTITLE2=Cold cold feeling
+TTITLE3=Pack it up
+TTITLE4=Any fool will do
+TTITLE5=Give me my blues
+TTITLE6=That's all right
+TTITLE7=Tore up
+TTITLE8=Ain't that I don't love you
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

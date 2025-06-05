@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19461
+#	40606
+#	64696
+#	97201
+#	121701
+#	146567
+#	161064
+#	181464
+#	205114
+#	236271
+#	265081
+#
+# Disc length: 3918 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a20f4c0c
+DTITLE=Nils Wülker - Spacenight 10
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Abell 70
+TTITLE1=Thebe
+TTITLE2=Crescent Nebula
+TTITLE3=Prospero
+TTITLE4=Metis
+TTITLE5=Pinwheel Galaxy
+TTITLE6=Abell 9
+TTITLE7=Hypernova
+TTITLE8=Swan Nebula
+TTITLE9=Deep Field
+TTITLE10=Andrastea
+TTITLE11=Abell 12
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

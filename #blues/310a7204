@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50008
+#	102555
+#	153482
+#
+# Disc length: 2676 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=310a7204
+DTITLE=Masayuki Takayanagi - Live at Taro (Daytime Show)
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Come Fall
+TTITLE1=Time on My Hand
+TTITLE2=You'd be So Nice to Come Home to
+TTITLE3=Subconcious Lee
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

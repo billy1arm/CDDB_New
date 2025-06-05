@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14142
+#	28415
+#	38830
+#	49317
+#	58827
+#	71320
+#	85872
+#	98072
+#	112257
+#
+# Disc length: 1615 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8e064d0a
+DTITLE=Memphis Slim - Messing Around
+DYEAR=1900
+DGENRE=
+TTITLE0=Messing Around
+TTITLE1=Blue And Lonsome
+TTITLE2=The Comeback
+TTITLE3=Gotta Find My Baby
+TTITLE4=Rockin' The House
+TTITLE5=Sassy Mae
+TTITLE6=Lend Me Your Love
+TTITLE7=Wish Me Well
+TTITLE8=Slim's Blues
+TTITLE9=Steppin' Out
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

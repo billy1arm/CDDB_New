@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28005
+#	51822
+#	81078
+#	106200
+#	140330
+#	193958
+#	222341
+#
+# Disc length: 3368 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f0d2608
+DTITLE=Horn and Strings - Live im Walderdorff's Trier
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=All Of Me
+TTITLE1=I love You
+TTITLE2=Dolphin Dance
+TTITLE3=Pent Up House
+TTITLE4=Days Of Wine And Roses
+TTITLE5=Maiden Voyage
+TTITLE6=Beautiful Love
+TTITLE7=Cantaloop Island
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

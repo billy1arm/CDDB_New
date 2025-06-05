@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32952
+#	61807
+#	102867
+#	134077
+#	167550
+#	198912
+#	228662
+#	258960
+#
+# Disc length: 3801 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=7a0ed709
+DTITLE=Roland Batik Trio - Neighbourhood
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Without
+TTITLE1=Can You Feel It
+TTITLE2=The Beginning
+TTITLE3=Adriane´s Waltz
+TTITLE4=Neighbourhood
+TTITLE5=Waldviertel
+TTITLE6=Still Alive
+TTITLE7=Stella By Starlight
+TTITLE8=What´s That
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

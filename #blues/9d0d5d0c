@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16149
+#	31313
+#	49926
+#	65237
+#	83775
+#	107369
+#	125143
+#	143583
+#	159965
+#	176849
+#	204981
+#
+# Disc length: 3423 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9d0d5d0c
+DTITLE=Britney Spears - Baby One More Time
+DYEAR=1999
+DGENRE=Pop
+TTITLE0=Baby One More Time
+TTITLE1=(You Drive Me) Crazy
+TTITLE2=Sometimes
+TTITLE3=Soda Pop
+TTITLE4=Born To Make You Happy
+TTITLE5=From The Bottom Of My Broken Heart
+TTITLE6=I Will Be There
+TTITLE7=I Will Still Love You
+TTITLE8=Thinkin' About You
+TTITLE9=E-Mail My Heart
+TTITLE10=The Beat Goes On
+TTITLE11=data track
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

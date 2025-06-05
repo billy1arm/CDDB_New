@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	31890
+#	54800
+#	87633
+#	102278
+#	112898
+#	128598
+#	149848
+#	170073
+#	185633
+#	215690
+#	236288
+#
+# Disc length: 3435 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=a80d690c
+DTITLE=Johann Sebastian Bach - Samtliche Violinkonzerte - CD 2
+DYEAR=1900
+DGENRE=Baroque
+TTITLE0=ohne Bezeichnung
+TTITLE1=Adagio
+TTITLE2=Allegro
+TTITLE3=ohne Bezeichnung
+TTITLE4=Largo
+TTITLE5=Presto
+TTITLE6=Allegro
+TTITLE7=Adagio
+TTITLE8=Allegro
+TTITLE9=Allegro
+TTITLE10=Adagio
+TTITLE11=Allegro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

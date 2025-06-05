@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16992
+#	31589
+#	47257
+#	58757
+#	74398
+#	90342
+#	99838
+#
+# Disc length: 1504 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5005de08
+DTITLE=Jana Orlická and Bigband Brno - J`ai deux amours
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=La Marseillaise
+TTITLE1=Coin de rue
+TTITLE2=Paris canaille
+TTITLE3=La couleur des yeux
+TTITLE4=Que reste t-il de nos amours
+TTITLE5=La javanaise
+TTITLE6=Me revoila Paris
+TTITLE7=J`ai deux amours
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

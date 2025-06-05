@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12229
+#	25978
+#	40341
+#	51903
+#	64801
+#	77720
+#	90829
+#	104624
+#	118885
+#	135085
+#	146820
+#	160634
+#	170339
+#	184324
+#	198368
+#	212866
+#	225041
+#	237640
+#	249831
+#
+# Disc length: 3523 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=090dc114
+DTITLE=Various Artist - Diggin' Deeper: 200 Legendary Blues Treasures [disc 7]
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=Brownie McGhee - Let Me Tell You 'Bout My Baby
+TTITLE1=Mississippi John Hurt - Avalon Blues
+TTITLE2=Ma Rainey - Toad Frog Blues
+TTITLE3=Blind Boy Fuller and Sonny Terry - Bye Bye Baby Blues
+TTITLE4=Bukka White - Strange Place Blues
+TTITLE5=Big Bill Broonzy - Bull Cow Blues
+TTITLE6=John Lee Williamson - Hoo Doo Hoo Doo
+TTITLE7=Arthur Crudup - If I Get Lucky
+TTITLE8=Leadbelly - The Red Cross Store Blues
+TTITLE9=Bessie Smith - If You Don't, I Know Who Will
+TTITLE10=Robert Johnson - I'm a Steady Rollin' Man
+TTITLE11=John Lee Hooker - Alberta
+TTITLE12=Lightnin' Hopkins - Feel So Bad
+TTITLE13=Sleepy John Estes - Fire Department Blues
+TTITLE14=Jimmy Yancey - Big Bear Train
+TTITLE15=Kokomo Arnold - Wild Water Blues
+TTITLE16=Joe Turner - Rebecca
+TTITLE17=Memphis Minnie - Boy Friend Blues
+TTITLE18=Muddy Waters - I Can't Be Satisfied
+TTITLE19=Blind Willie McTell - Lonesome Day Blues
+EXTD=10CD: Documents/Membran 222024-321 (2004), EAN 4011222220240, ISBN 978-3-87562-765-8. YEAR: 2004
+EXTT0=(Walter McGhee)
+EXTT1=(John Hurt)
+EXTT2=(trad./Ma Rainey)
+EXTT3=(F. Allen/Fuller)
+EXTT4=(Bukka White)
+EXTT5=(Bill Broonzy)
+EXTT6=(John Lee Williamson)
+EXTT7=(Arthur Crudup/J. McCoy)
+EXTT8=(Huddie Ledbetter/John Lomax/Alan Lomax)
+EXTT9=(C. Williams/C. Smith/Tim Brymn)
+EXTT10=(Robert Johnson)
+EXTT11=(John Lee Hooker)
+EXTT12=(Sam Hopkins)
+EXTT13=(Martha Hardin)
+EXTT14=(Jimmy Yancey)
+EXTT15=(James Arnold)
+EXTT16=(Turner)
+EXTT17=(E. Lawler)
+EXTT18=(McKinley Morganfield)
+EXTT19=(Willie McTell)
+PLAYORDER=

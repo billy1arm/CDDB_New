@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	46355
+#	79280
+#	104180
+#	148130
+#	164480
+#	208205
+#	258755
+#	300830
+#
+# Disc length: 4337 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8010ef09
+DTITLE=McCoy Tyner Trio and Michael Brecker - Infinity
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Flying High
+TTITLE1=I Mean You
+TTITLE2=Where Is Love
+TTITLE3=Changes
+TTITLE4=Blues Stride
+TTITLE5=Happy Days
+TTITLE6=Impressions
+TTITLE7=Mellow Minor
+TTITLE8=Good Morning, Heartache
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13677
+#     26285
+#     36872
+#     51877
+#     60900
+#     73067
+#     83542
+#     98307
+#     119625
+# 
+# Disc length: 1783 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7106f50a
+DTITLE=Shirley Bassey - Big Spender
+DYEAR=1900
+DGENRE=
+TTITLE0=And We Were Lovers
+TTITLE1=Summer Wind
+TTITLE2=Somebody Like Me
+TTITLE3=It Must Be Him
+TTITLE4=Big Spender
+TTITLE5=The Impossible Dream
+TTITLE6=Dommage, Dommage
+TTITLE7=On A Clear Day You Can See Forever
+TTITLE8=If You Go Away
+TTITLE9=That's Life
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

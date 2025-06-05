@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11725
+#	28388
+#	40298
+#	52758
+#	62860
+#	82280
+#	95838
+#	112115
+#	128455
+#
+# Disc length: 1944 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8b07960a
+DTITLE=Count Basie - Classic Count
+DYEAR=1900
+DGENRE=
+TTITLE0=I Never Knew
+TTITLE1=My What a Fry
+TTITLE2=I Found a New Baby
+TTITLE3=Blue Skies
+TTITLE4=Jivin Joe Jackson
+TTITLE5=Taps Miller
+TTITLE6=Please Don't Talk About Me
+TTITLE7=Tush
+TTITLE8=Back Door Romeo
+TTITLE9=Taint Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

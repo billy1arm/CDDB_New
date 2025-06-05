@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34565
+#	62385
+#	80765
+#	122932
+#
+# Disc length: 2164 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=39087205
+DTITLE=Dave Grusin - One of a Kind
+DYEAR=1977
+DGENRE=Jazz
+TTITLE0=Modaji
+TTITLE1=The Heart Is A Lonely Hunter
+TTITLE2=Catavento
+TTITLE3=Montage
+TTITLE4=Playera
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	225
+#	13457
+#	26522
+#	38077
+#	50937
+#	70660
+#	83820
+#	92815
+#	101237
+#	116120
+#
+# Disc length: 1664 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8a067d0a
+DTITLE=Various Artists Stand By Me - Rock and Roll Hall of Fame
+DTITLE=XIX
+DYEAR=1900
+DGENRE=
+TTITLE0=Stand By Me
+TTITLE1=The "In" Crowd
+TTITLE2=Mother-In-Law
+TTITLE3=Judy In Disguise (with Glasses)
+TTITLE4=Lean On Me
+TTITLE5=Town Without Pity
+TTITLE6=Jolly Green Giant
+TTITLE7=Yakety Yak
+TTITLE8=Warm And Tender Love
+TTITLE9=Hey Girl Don't Bother Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

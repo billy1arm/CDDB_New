@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22525
+#	39117
+#	55760
+#	76392
+#	96615
+#	115175
+#	134845
+#	158550
+#	176995
+#	203225
+#
+# Disc length: 2988 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8b0baa0b
+DTITLE=Orquesta piel canela - El que no corre vuela
+DYEAR=1999
+DGENRE=Salsa
+TTITLE0=Venus
+TTITLE1=El que no corre vuela
+TTITLE2=Tres deseos
+TTITLE3=Camas separadas
+TTITLE4=Alta marea
+TTITLE5=Tequiero, porque te quiero
+TTITLE6=Dame la mano
+TTITLE7=Candito
+TTITLE8=Sientate
+TTITLE9=Vete
+TTITLE10=Candito (en vivo)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	10107
+#	21200
+#	35025
+#	48605
+#	58185
+#	70982
+#	88682
+#	99427
+#	109825
+#	123105
+#	135255
+#
+# Disc length: 2031
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+# Normalized: r3:TDELIM( - )
+#
+DISCID=9d07ed0c
+DTITLE=Clapton Mayall and others - Blues anytime vol 1(antholgy British Blues)
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=John Mayall and the Blues Breakers - I'm your witchdoctor
+TTITLE1=Eric Clapton - Snake Drive
+TTITLE2=TS McPhee - Ain't gonna cry no more
+TTITLE3=Savoy Brown Blues Band - I tried
+TTITLE4=Eric Clapton - Tribute to Ellmore
+TTITLE5=Jo Anne Kelly - I feel so good
+TTITLE6=John Mayall and the Bluesbreakers - Telephone blues
+TTITLE7=TS McPhee - You don't love me
+TTITLE8=Eric Clapton - West coast idea
+TTITLE9=Jo Anne Kelly - Ain't see no whisky
+TTITLE10=Stones Masonry - Flapjacks
+TTITLE11=Savoy Brown Blues Band - Cold blooded woman
+EXTD=ID3G: 0
+EXTT0=John Mayall and the Bluesbreakers
+EXTT1=Eric Clapton
+EXTT2=T.S.McPhee
+EXTT3=Savoy Brow
+EXTT4=Eric Clapton
+EXTT5=Jo-Ann Kelly
+EXTT6=John Mayall and the Bluesbreakers
+EXTT7=T.S.McPhee
+EXTT8=Eric Clapton
+EXTT9=Jo-Ann Kelly
+EXTT10=Stone's Masonry
+EXTT11=Savoy Brown
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	1372
+#	28471
+#	56806
+#	101784
+#	127346
+#	149054
+#
+# Disc length: 2560 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7109fe07
+DTITLE=Boston Horns - Boston Horns
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=01 In the ...
+TTITLE1=02 Pink
+TTITLE2=03 Speedball
+TTITLE3=04 Ain't nothin to it
+TTITLE4=05 Love will slip up on you
+TTITLE5=06 Blues for Ben
+TTITLE6=07 Bonus live track
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

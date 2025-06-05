@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	13922
+#	59700
+#	110874
+#	173573
+#
+# Disc length: 2633 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=440a4705
+DTITLE=Thelonious Monk - The Complete Blue Note Recordings (4)
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Crepuscle With Nellie
+TTITLE1=Trinkle Tinkle
+TTITLE2=In Walked Bud
+TTITLE3=I Mean You
+TTITLE4=Epistrophy
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	162672
+#	208650
+#
+# Disc length: 4258 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=2610a003
+DTITLE=Richard Strauss - Zarathustra
+DYEAR=1987
+DGENRE=Classical
+TTITLE0=Thus spake Zarathustra
+TTITLE1=Dance of the Seven Veils
+TTITLE2=Four Symphonic Interludes from Intermezzo
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

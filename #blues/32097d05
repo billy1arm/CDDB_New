@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45706
+#	93291
+#	128468
+#	156858
+#
+# Disc length: 2431 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=32097d05
+DTITLE=Cedar Walton - Mobius
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Blue Train
+TTITLE1=Soho
+TTITLE2=Off Minor
+TTITLE3=The Maestro
+TTITLE4=Road Island Red
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

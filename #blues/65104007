@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31912
+#	73897
+#	177446
+#	201823
+#	242878
+#	286179
+#
+# Disc length: 4162 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=65104007
+DTITLE=Paul Personne - Il Etait Une Fois La Route - CD2
+DYEAR=2006
+DGENRE=Blues
+TTITLE0=Loco-Loco (Live)
+TTITLE1=Le Bourdon (Live)
+TTITLE2=Zic (Live)
+TTITLE3=Peepin' And Hiddin' (Live)
+TTITLE4=Visions (Live)
+TTITLE5=Vue Hier Soir (Live)
+TTITLE6=C'est La Vie Qui M'a Fait Comme Ca (Live)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

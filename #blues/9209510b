@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13187
+#	29890
+#	37217
+#	52845
+#	77845
+#	94160
+#	104972
+#	126002
+#	151312
+#	168160
+#
+# Disc length: 2387 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9209510b
+DTITLE=The Desert Sessions - The Desert Sessions 5 and 6
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=You Think I Ain't Worth A Dollar, But I Feel Like A Millionaire
+TTITLE1=Letters To Mommy
+TTITLE2=I'm Dead
+TTITLE3=Punk Rock Caveman Living In A Prehistoric Age
+TTITLE4=Going To A Hangin
+TTITLE5=A#1
+TTITLE6=Like A Drug
+TTITLE7=Take Me To Your Leader
+TTITLE8=Teens Of Thailand
+TTITLE9=Rickshaw
+TTITLE10=Like A Drug (instrumental)
+EXTD=YEAR: 1999 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

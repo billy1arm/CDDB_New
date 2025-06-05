@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46620
+#	81142
+#	113937
+#	134687
+#
+# Disc length: 2249 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=3b08c705
+DTITLE=Stanley Turrentine - Salt song
+DYEAR=1971
+DGENRE=Jazz
+TTITLE0=Gibraltar
+TTITLE1=I told Jesus
+TTITLE2=Salt song
+TTITLE3=I haven't got anything better to do
+TTITLE4=Storm
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

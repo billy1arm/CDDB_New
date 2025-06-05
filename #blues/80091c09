@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	39255
+#	63335
+#	89565
+#	92130
+#	121685
+#	128225
+#	140195
+#	144625
+#
+# Disc length: 2334 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=80091c09
+DTITLE=Theodosii Spassov - Everest Concert
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Reveil
+TTITLE1=Karchenitza
+TTITLE2=Avril
+TTITLE3=Ressam pi-ri-ri
+TTITLE4=Tang Boche
+TTITLE5=Crazapattar
+TTITLE6=La Plurie
+TTITLE7=Ressam pi-ri-ri II
+TTITLE8=Reveil II
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

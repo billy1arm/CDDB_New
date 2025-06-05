@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	43263
+#	87162
+#	121662
+#	167081
+#	193395
+#
+# Disc length: 2901 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=4c0b5306
+DTITLE=Source Bleue - Percussions
+DYEAR=1900
+DGENRE=
+TTITLE0=Najjari driss-ksar meski - tamtam
+TTITLE1=Najjari abbelhadi - djambi tamtam
+TTITLE2=Haddani abdelouahed - derbouka bendire
+TTITLE3=Najjari Abdelghani - conga
+TTITLE4=Oubja sa d - castaniete
+TTITLE5=Mohamed kassi - bandier castaniete
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

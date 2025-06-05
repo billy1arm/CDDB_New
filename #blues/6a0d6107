@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29745
+#	65252
+#	116081
+#	146056
+#	173990
+#	215376
+#
+# Disc length: 3427 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6a0d6107
+DTITLE=Wolfgang Hohlbein - Dunkel CD 4
+DYEAR=1999
+DGENRE=Hörbuch
+TTITLE0=Dunkel 4-22
+TTITLE1=Dunkel 4-23
+TTITLE2=Dunkel 4-24
+TTITLE3=Dunkel 4-25
+TTITLE4=Dunkel 4-26
+TTITLE5=Dunkel 4-27
+TTITLE6=Dunkel 4-28
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

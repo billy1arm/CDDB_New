@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9805
+#	20932
+#	32012
+#	49227
+#	61807
+#	76195
+#	92800
+#	113442
+#	129522
+#
+# Disc length: 1799 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=7007050a
+DTITLE=The Northstar Musicians - A Blues Christmas
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Joy To The World
+TTITLE1=Winder Wonderland
+TTITLE2=God Rest Ye Merry Gentlemen
+TTITLE3=Got Those Holiday Blues
+TTITLE4=Blue Christmas
+TTITLE5=Santa Baby
+TTITLE6=Jingle Bells
+TTITLE7=Silen Night
+TTITLE8=Deck The Halls
+TTITLE9=Hark The Herald Angels Sing
+EXTD=YEAR: 1998 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

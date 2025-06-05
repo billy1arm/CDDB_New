@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24810
+#	44833
+#	74140
+#	86868
+#
+# Disc length: 1422 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=45058c05
+DTITLE=hal - 低温火傷
+DYEAR=2000
+DGENRE=Rock
+TTITLE0=jet lag.
+TTITLE1=weathers
+TTITLE2=プラトニック ラブ
+TTITLE3=無感覚サイボーグ
+TTITLE4=独占欲
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

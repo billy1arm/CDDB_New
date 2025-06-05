@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	106383
+#	151644
+#
+# Disc length: 3356 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=150d1a03
+DTITLE=Anton Bruckner - Symphonie N°9 en ré mineur  (Carl Schuricht, Radio-Sinfonieorchester Stuttgart)
+DYEAR=1951
+DGENRE=Classique
+TTITLE0=Symphonie N°9 en ré mineur - I. Feierlich - Misterioso
+TTITLE1=Symphonie N°9 en ré mineur - II. Scherzo - Bewegt, lebhaft - Trio - Schnell
+TTITLE2=Symphonie N°9 en ré mineur - III. Adagio - Langsam feierlich
+EXTD=YEAR: 1951
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

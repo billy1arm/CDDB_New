@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27095
+#	45345
+#	58997
+#	77127
+#	96804
+#	112667
+#	132820
+#
+# Disc length: 1976 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5907b608
+DTITLE=Little Walter and Otis Rush - Live at the Chicago Blues Festival 1967
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=It's Hard for Me to Believe Baby
+TTITLE1=It May be the Last Time
+TTITLE2=I fell Good
+TTITLE3=Otis' Blues
+TTITLE4=Goin' Down Slow
+TTITLE5=Walter's Blues
+TTITLE6=Lovin' You all the Time
+TTITLE7=Blue Mood
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57447
+#	106167
+#	139877
+#	175459
+#	225475
+#	265950
+#
+# Disc length: 3912 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f0f4607
+DTITLE=Lard Duppler - Palindrom 6tet
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Booker
+TTITLE1=Squares
+TTITLE2=Douglas 64 part 1
+TTITLE3=Douglas 64 part 2
+TTITLE4=Douglas 64 part 3
+TTITLE5=Forfait
+TTITLE6=Prelude
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

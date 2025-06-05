@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	107120
+#	149000
+#	195858
+#
+# Disc length: 3334 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=330d0404
+DTITLE=Marilyn Crispell - Circles
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Rituel
+TTITLE1=Sorrow
+TTITLE2=Circles
+TTITLE3=Chant
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,35 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	70670
+#	119777
+#	163200
+#	251437
+#	290887
+#
+# Disc length: 4477 seconds
+#
+# Revision: 20
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5e117b06
+DTITLE=Beethoven - Concertos pour piano N° 3 and 5  [Leonard Bernstein, New York Philharmonic - Rudolf Serkin]
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Concerto pour piano N°3  en ut mineur, Op.37 - I. Allegro con brio  ...  [rec.1964]
+TTITLE1=Concerto pour piano N°3  en ut mineur, Op.37 - II. Largo
+TTITLE2=Concerto pour piano N°3  en ut mineur, Op.37 - III. Rondo. Allegro
+TTITLE3=Concerto pour piano N°5  en mi bémol majeur, Op.73 - I. Allego  ...  [rec.1962]
+TTITLE4=Concerto pour piano N°5  en mi bémol majeur, Op.73 - II. Allegro un poco moto
+TTITLE5=Concerto pour piano N°5  en mi bémol majeur, Op.73 - III. Rondo. Allegro
+EXTD=Rudolf Serkin: piano\nNew York Philharmonic, conducted by Leonard Bernstein\nRecorded at Manhattan Center, New York US-NY, 1962-05-01 (#5) and 1964-01-20 (#3).\nOriginally released 1962 and 1964.\nCD: Sony Classical SMK 63080 (1997-10-28), UPC 074646308
+EXTD=028.
+EXTT0=Ludwig van Beethoven (1770-1827): Concerto for Piano and Orchestra No.3 in C minor, Op.37 (1800-1802)
+EXTT1=Ludwig van Beethoven (1770-1827): Concerto for Piano and Orchestra No.3 in C minor, Op.37 (1800-1802]\n
+EXTT2=Ludwig van Beethoven (1770-1827): Concerto for Piano and Orchestra No.3 in C minor, Op.37 (1800-1802]\n
+EXTT3=Ludwig van Beethoven (1770-1827): Concerto for Piano and Orchestra No.5 in E-flat major, Op.73 "Emperor" (1809)
+EXTT4=Ludwig van Beethoven (1770-1827): Concerto for Piano and Orchestra No.5 in E-flat major, Op.73 "Emperor" (1809)
+EXTT5=Ludwig van Beethoven (1770-1827): Concerto for Piano and Orchestra No.5 in E-flat major, Op.73 "Emperor" (1809)
+PLAYORDER=

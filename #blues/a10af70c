@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15488
+#	29008
+#	47938
+#	71320
+#	84020
+#	104180
+#	117535
+#	140288
+#	159860
+#	174595
+#	202075
+#
+# Disc length: 2809 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=a10af70c
+DTITLE=Skip James - Skip James Today!
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Hard Times Killing Floor Blues
+TTITLE1=Crow Jane
+TTITLE2=Washington D.C. Hospital Center Blues
+TTITLE3=Special Rider Blues
+TTITLE4=Drunken Spree
+TTITLE5=Cherryball
+TTITLE6=How Long
+TTITLE7=All Night Long
+TTITLE8=Cyrpess Grove
+TTITLE9=Look Down The Road
+TTITLE10=My Gal
+TTITLE11=I'm So Glad
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

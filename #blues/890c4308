@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	44148
+#	68888
+#	93700
+#	112155
+#	149708
+#	171535
+#	205133
+#
+# Disc length: 3141 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=890c4308
+DTITLE=Art Blakey And The Jazz Messengers - Caravan
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=Caravan
+TTITLE1=Sweet 'n' Sour (Take 4)
+TTITLE2=Sweet 'n' Sour
+TTITLE3=In The Wee Small Hours Of The Morning
+TTITLE4=This Is For Albert
+TTITLE5=Skylark
+TTITLE6=Thermo
+TTITLE7=Thermo (Take 2)
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

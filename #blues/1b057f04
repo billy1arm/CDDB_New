@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23400
+#	53250
+#	79800
+#
+# Disc length: 1409 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1b057f04
+DTITLE=Key+Lia - Spica/Hanabi/Moon
+DYEAR=2003
+DGENRE=Vocal
+TTITLE0=Spica
+TTITLE1=Hanabi
+TTITLE2=Moon
+TTITLE3=Spica -SORMA remix-
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

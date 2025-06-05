@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9905
+#	29342
+#	51342
+#	73890
+#	95815
+#	111640
+#	127645
+#	149090
+#	180167
+#
+# Disc length: 2720 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=8d0a9e0a
+DTITLE=ATLUS - Rebus Original Soundtracks and Classical Arrange [CD2]
+DYEAR=1900
+DGENRE=General Soundtrack
+TTITLE0=Divine Protection
+TTITLE1=Saladinart
+TTITLE2=Toxa
+TTITLE3=Lacryna
+TTITLE4=Sad Situation
+TTITLE5=Decisive Battle
+TTITLE6=Dance Of Words
+TTITLE7=Conversation
+TTITLE8=Silence
+TTITLE9=Rebus
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

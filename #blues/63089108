@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6830
+#	41904
+#	91833
+#	125777
+#	130045
+#	136929
+#	150566
+#
+# Disc length: 2195 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=63089108
+DTITLE=Groove Collective - Brooklyn, NY 04.20.02 [CD2]
+DYEAR=2003
+DGENRE=Jazz+Funk
+TTITLE0=Distinct Vybe
+TTITLE1=Ransom
+TTITLE2=Black Is The Color Of My Coffee
+TTITLE3=42nd Street Theme - Tender Steppin'
+TTITLE4=2k3 Suite
+TTITLE5=Village Shout
+TTITLE6=Everyday People
+TTITLE7=Everyday People Reprise
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

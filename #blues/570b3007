@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35767
+#	63320
+#	98815
+#	129315
+#	151227
+#	184225
+#
+# Disc length: 2866 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=570b3007
+DTITLE=Milt Jackson - Used To Be Jackson Vol.2
+DYEAR=1984
+DGENRE=Jazz
+TTITLE0=Close Enough For Love
+TTITLE1=Blues March
+TTITLE2=Come Sunday
+TTITLE3=Ain't Misbehavin
+TTITLE4=If I Were A Bell
+TTITLE5=Manha Do Carnaval
+TTITLE6=Django
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

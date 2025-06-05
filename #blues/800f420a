@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13445
+#	28287
+#	45115
+#	106845
+#	156372
+#	174947
+#	209415
+#	238965
+#	263485
+#
+# Disc length: 3908 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=800f420a
+DTITLE=Many Artists - Legendary Wizards(Sax Players)
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=01 KOKO(Charlie Parker)
+TTITLE1=02 Now's the Time(Charlie Parker)
+TTITLE2=03 Giant Steps(John Coltrane)
+TTITLE3=04 My Favorite Things(John Coltrane))
+TTITLE4=05 Autumn Leaves(Julian "Cannonball"Adderley)
+TTITLE5=06 Dancing in the Dark(Julian "Cannonball"Adderley)
+TTITLE6=07 Love for Sale(Dexter Gordon)
+TTITLE7=08 Cheese Cake(Dexter Gordon)
+TTITLE8=09 You'd be so nice to come home to(Art Pepper)
+TTITLE9=10 The Man I Love(Art Pepper)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

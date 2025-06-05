@@ -1,0 +1,49 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16770
+#	34495
+#	59251
+#	81948
+#	102804
+#	128978
+#	151522
+#	180378
+#	217611
+#
+# Disc length: 3304 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 1.4
+#
+DISCID=6f0ce60a
+DTITLE=Little Georgie and the Shuffling Hungarians/Live from Styleen's 
+DTITLE=Rhythm Palace (2 of 2)
+DYEAR=1900
+DGENRE=
+TTITLE0=Mama  He Treats Your Daughter Mean
+TTITLE1=Jim Dandy
+TTITLE2=Tear It Down
+TTITLE3=You Like It
+TTITLE4=Lie To Me
+TTITLE5=Hey Pocky Way
+TTITLE6=Low Rider
+TTITLE7=Thank U Falletinme Be Mice Elf Again
+TTITLE8=2x9/The Boogie Rocks/2x9 Reprise
+TTITLE9=Let's Go Get Stoned
+EXTD=This Syracuse bar band plays one hot set of New Orleans\nstyle mu
+EXTD=sic.\n
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

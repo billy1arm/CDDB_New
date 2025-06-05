@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27003
+#	39754
+#	58833
+#	70461
+#	89728
+#	123564
+#	217797
+#	279291
+#
+# Disc length: 4085 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7b0ff309
+DTITLE=Various Artist - Dickie's Jazz Comp 2002
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Weather Report - Birdland
+TTITLE1=Dave Bruebeck Quartet - My Favourite Things
+TTITLE2=Ella Fitzgerald - It Don't Mean a Thing
+TTITLE3=Nina SImone - I Put a Spell on You
+TTITLE4=Diana Krall - Hit That Jive, Jack
+TTITLE5=Horace Silver Quartet - Pretty Eyes
+TTITLE6=Keith Jarrett - On Green Dolphin Street
+TTITLE7=John Coltrane - My Favourite Things
+TTITLE8=Manhattan Transfer - Birdland
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

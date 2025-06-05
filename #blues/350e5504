@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	70967
+#	119476
+#	190123
+#
+# Disc length: 3671 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=350e5504
+DTITLE=The Celestral Communication Orchestra - HR57 III
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Amplitude I
+TTITLE1=Amplitude II
+TTITLE2=HR57 I
+TTITLE3=HR57 II
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

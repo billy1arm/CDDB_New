@@ -1,0 +1,59 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	29610
+#	53925
+#	65115
+#	86082
+#	123900
+#	154525
+#	178495
+#	210055
+#	242485
+#	281095
+#	310505
+#
+# Disc length: 4548 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a411c20c
+DTITLE=Various Artist - The Verve Story - 1944-1994 - CD4
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Bill Evans: 'Round Midnight [1963]
+TTITLE1=Stan Getz and João Gilberto featuring Antonio Carlos Jobim: The Girl from Ipanema (Garota de Ipanema) [1963]
+TTITLE2=Cal Tjader: Soul Sauce [1964]
+TTITLE3=Kenny Burrell: Last Night When We Were Young [1964]
+TTITLE4=Wes Montgomery with the Wynton Kelly Trio: If You Could See Me Now [1965]
+TTITLE5=Jimmy Smith and Wes Montgomery: Night Train [1966]
+TTITLE6=Joe Williams: Every Night [1987]
+TTITLE7=Betty Carter: The Good Life [1988]
+TTITLE8=Shirley Horn: You Won't Forget Me [1990]
+TTITLE9=Abbey Lincoln featuring Stan Getz: Bird Alone [1991]
+TTITLE10=Joe Henderson: Johnny Come Lately [1991]
+TTITLE11=Charlie Haden: Hello My Lovely [1991]
+EXTD=Disc 4 - 1962-1992 YEAR: 1994
+EXTT0=Composers:\tCharles Melvin "Cootie" Williams\n\t\tThelonious Sphere Monk\n\t\tBernie Hanighen\n\nFeaturing:\n\tBill Evans\t(overdubbed p]\n\nRecorded:\n\tFebruary 9, 1963 in New York City
+EXTT1=The Girl from Ipanema (Garota de Ipanema]\n\nComposers:\tAntonioCarlos Jobim\n\t\tVinicius de Moraes\n\t\tNorman Gimbel\n\nFeaturing:\n\tStan Getz\t\t(ts]\n\tJoao Gilberto\t(g, vcl]\n\tAntonio Carlos Jobim\t(p]\nwith:\n\tTommy WIlliams\t(b]\n\tMilt
+EXTT1=on Banana\t(perc]\n\tAstrud Gilberto\t(vcl]\n\nRecorded:\n\tMarch 18 or19, 1963 in New York City
+EXTT2=Composers:\tJohn Birks "Dizzy" Gillespie\n\t\tChano Pozo\n\nFeaturing:\n\tCal Tjader\t(vb]\nwith:\n\tLonnie Hewitt\t(p]\n\tWillie Bobo\n\tArmando Peraza\n\tAlberto Valdes\t(perc]\n\tJohn Hilliard\t(b]\n\tJohnny Rae\t(d]\n\nRecorded:\n\tNovember 20,
+EXTT2=1964 inNew York City
+EXTT3=Composers:\tHarold Arlen\n\t\tE.Y. "Yip" Harburg\n\nFeaturing:\n\tKenny Burrell\t(g]\nwith the Gil Evans Orchestra:\n\tRay Alonge or\n\tJulius Watkins\t(frh]\n\tJohnny Coles or\n\tLouis Mucci\t(t]\n\tJimmy Cleveland\n\tJimmy Knepper\t(tb]\n\tBill B
+EXTT3=arber\t(tu]\n\tAndy Fitzgerald\n\tGeorge Marge\t(fl, engh]\n\tRay Beckenstein\t(fl, bcl]\n\tSteve Lacy\t(ss]\n\tLee Konitz\t(as]\n\tRichie Kamuca\t(ts, oboe]\n\tBob Tricarico\t(bsn, fl, ts]\n\tRon Carter\t(b]\n\tElvin Jones or\n\tCharli Persip\t(d)
+EXTT3=\n\tEvans\t\t(arr, cond]\n\nRecorded:\n\tDecember 4, 1964 in New York City
+EXTT4=Composers:\tTadley Ewing Peake "Tadd" Dameron\n\t\tCarl Sigman\n\nFeaturing:\n\tWes Montgomery\t(g]\nwith the Wynton Kelly Trio:\n\tKelly\t\t(p]\n\tPaul Chambers\t(b]\n\tJimmy Cobb\t(d]\n\nRecorded:\n\tJune 1965 at the Half Note Cafe, New York City
+EXTT5=Composers:\tJames Robert "Jimmy" Forest, Jr.\n\t\tOscar Washington\n\t\tLewis C. Simpkins\n\nFeaturing:\n\tJimmy Smith\t(org]\n\tWes Montgomery\t(g]\nwith Oliver Nelson's orchestra:\n\tClark Terry\t(t, flh]\n\tJimmy Maxwell\n\tJoe Newman\n\tErnie R
+EXTT5=oyal\t(t]\n\tJimmy Cleveland\n\tDick Hixson\n\tQuentin Jackson\n\tMelba Liston\t(tb]\n\tJerry Dodgion\t(as, fl, cl]\n\tJerome Richardson\t(fl, cl]\n\tPhil Woods\t(as, cl]\n\tBob Ashton\t(cl, fl, ts]\n\tDanny Bank\t(bs, fl, bcl]\n\tRichard Davis\t(b
+EXTT5=]\n\tRay Barretto\t(perc]\n\tGrady Tate\t(d]\n\tNelson\t\t(arr, cond]\n\nRecorded:\n\tSeptember 23, 1966 in New York City
+EXTT6=Composer:\tJoseph Goreed "Joe" Williams\n\nFeaturing:\n\tJoe Williams\t(vcl]\nwith:\n\tNorman Simmons\t(p, arr]\n\tHenry Johnson\t(g]\n\tBob Badgley\t(b]\n\tGerryck King\t(d]\n\nRecorded:\n\tMay 7 or 8, 1987 at Vine Street Bar and Grill, Hollywood
+EXTT7=Composers:\tJack Reardon\n\t\tSacha Distel\n\nFeaturing:\n\tBetty Carter\t(vcl]\nwith:\n\tDon Braden\t(ts]\n\tStephen Scott\t(p]\n\tIra Coleman\t(b]\n\tLewis Nash\t(d]\n\nRecorded:\n\tMarch 2,1988 at Clinton Recording Studios, New York City
+EXTT8=Composers:\tKermit Goell\n\t\tFred Spielman\n\nFeaturing:\n\tShirley Horn\t(p, vcl]\nwith:\n\tMiles Davis\t(t]\n\tCharles Ables\t(b]\n\tSteve Williams\t(d]\n\nRecorded:\n\tAugust 12, 1990 at Clinton Recording Studios, New York City
+EXTT9=Composer:\tAbbey Lincoln\n\nFeaturing:\n\tAbbey Lincoln\t(vcl]\n\tStan Getz\t\t(ts]\nwith:\n\tMaxine Roach\t(fla]\n\tHank Jones\t(p]\n\tCharlie Haden\t(b]\n\tMarc Johnson\t(d]\n\nRecorded:\n\tFebruary 1991 in New York City
+EXTT10=Composer:\tWilliam Thomas "Billy" Strayhorn\n\nFeaturing:\n\tJoe Henderson\t(ts]\nwith:\n\tWynton Marsalis\t(t]\n\tStephen Scott\t(p]\n\tChristian McBride\t(b]\n\tGregory Hutchinson\t(d]\n\nRecorded:\n\tSeptember 3, 6, or 8, 1991 at Van Gelder Stu
+EXTT10=dios,Englewood Cliffs, New Jersey
+EXTT11=Composer:\tCharles Edward Haden\n\nFeaturing:\n\tCharlie Haden\t(b]\nwith:\n\tErnie Watts\t(ts]\n\tAlan Broadbent\t(p]\n\tLarance Marable\t(d]\n\nRecorded:\n\tOctober 27 or 28, 1991 in Sete,France
+PLAYORDER=

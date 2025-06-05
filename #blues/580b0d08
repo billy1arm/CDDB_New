@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26954
+#	53430
+#	85174
+#	120940
+#	141089
+#	176467
+#	195758
+#
+# Disc length: 2831 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=580b0d08
+DTITLE=The Man I Love (Take 1) - 21. 'Round Midnight
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Round Midnight
+TTITLE1=Ah-Leu-Cha
+TTITLE2=All of You
+TTITLE3=Bye Bye Blackbird
+TTITLE4=Tadd’s Delight
+TTITLE5=Dear Old Stockholm
+TTITLE6=Budo
+TTITLE7=Sweet Sue, Just You
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

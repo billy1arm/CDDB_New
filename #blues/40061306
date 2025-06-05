@@ -1,0 +1,35 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	24722
+#	38027
+#	61552
+#	76840
+#	89897
+#
+# Disc length: 1557
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+# Normalized: r0:DSETVAR1,TDELIM( - ),TSWAP
+#
+DISCID=40061306
+DTITLE=Various Artist - The Best Of The Blues
+DYEAR=1974
+DGENRE=Blues
+TTITLE0=BB King - The Thrill Is Gone
+TTITLE1=Bobby Bland - Stormy Monday
+TTITLE2=John Lee Hooker - Lonesome Mood
+TTITLE3=Joe Turner - Little Bittie Gal's Blues
+TTITLE4=T-Bone Walker - Why My Baby
+TTITLE5=Bobby Bland and BB King - I like To Live The Love
+EXTD=YEAR: 1974 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

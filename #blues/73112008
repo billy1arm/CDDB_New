@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	55237
+#	92558
+#	117337
+#	183659
+#	216982
+#	238805
+#	293401
+#
+# Disc length: 4386 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=73112008
+DTITLE=Schubert, Franz - Piano Sonata No.4, 20 etc. (Georges Pludermacher)
+DYEAR=2002
+DGENRE=Classical
+TTITLE0=Piano Sonata No.4 in A minor, D.537 - 1. Allegro ma non troppo
+TTITLE1=Piano Sonata No.4 in A minor, D.537 - 2. Allegretto quasi andantino
+TTITLE2=Piano Sonata No.4 in A minor, D.537 - 3. Allegro vivace
+TTITLE3=Piano Sonata No.20 in A major, D.959 - 1. Allegro
+TTITLE4=Piano Sonata No.20 in A major, D.959 - 2. Andantino
+TTITLE5=Piano Sonata No.20 in A major, D.959 - 3. Scherzo (Allegro vivace)
+TTITLE6=Piano Sonata No.20 in A major, D.959 - 4. Rondo (Allegretto)
+TTITLE7=Musical Moment, D.780 - No.2 in A flat major
+EXTD=YEAR: 2002 ID3G: 32
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

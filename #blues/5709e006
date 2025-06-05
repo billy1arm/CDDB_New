@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34427
+#	62962
+#	90786
+#	122231
+#	149746
+#
+# Disc length: 2530 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5709e006
+DTITLE=Stan Getz - Modern Jazz West Coast Jazz 1955  CD 017
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Four
+TTITLE1=East Of The Sun
+TTITLE2=Night In Tunesia
+TTITLE3=Suddenly It's Spring
+TTITLE4=Summertime
+TTITLE5=Shine
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

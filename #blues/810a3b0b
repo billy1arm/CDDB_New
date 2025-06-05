@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2625
+#	17100
+#	39450
+#	65025
+#	85725
+#	94575
+#	114975
+#	135300
+#	155325
+#	185025
+#
+# Disc length: 2621 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: freeDBTagger 0.5
+#
+DISCID=810a3b0b
+DTITLE=より子 - Cocoon
+DYEAR=2005
+DGENRE=blues
+TTITLE0=01-introduction
+TTITLE1=02-I share all with you
+TTITLE2=03-それでいいのですか？
+TTITLE3=04-忘れられた桜の木
+TTITLE4=05-親愛なる絵描きさんへ
+TTITLE5=06-安里屋ユンタ
+TTITLE6=07-Happy Birthday To You
+TTITLE7=08-Truth is there
+TTITLE8=09-今、あなたを愛すること
+TTITLE9=10-Break the Cocoon
+TTITLE10=11-あなた
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

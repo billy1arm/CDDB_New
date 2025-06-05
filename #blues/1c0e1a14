@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13677
+#	25199
+#	37309
+#	53944
+#	64415
+#	76622
+#	90077
+#	99879
+#	114217
+#	129149
+#	143052
+#	156349
+#	169164
+#	184237
+#	201542
+#	216727
+#	231689
+#	245370
+#	258606
+#
+# Disc length: 3612 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1c0e1a14
+DTITLE=Various Artist - The Best Of Boogie Woogie - CD 2
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Roosevelt Sykes - 44 Blues
+TTITLE1=Big Maceo - Kidman Blues
+TTITLE2=Leroy Carr - Barrelhouse Woman No.2
+TTITLE3=Albert Ammons - Boogie Woogie Blues
+TTITLE4=Meade Lux Lewis - Lux' Boogie
+TTITLE5=Albert Ammons and Pete Johnson - Sixth Avenue Express
+TTITLE6=Pete Johnson - Death Ray Boogie
+TTITLE7=Meade Lux Lewis - Glendale Glide
+TTITLE8=Cow Cow Davenport - Slum Gullion Stomp
+TTITLE9=Pinetop Smith - Jump Steady Blues
+TTITLE10=Jimmy Yancey - K Special
+TTITLE11=Clarence Lofton and Red Nelson - Strut That Thing
+TTITLE12=Speckled Red - Wilkins Street Stomp
+TTITLE13=Montana Taylor - Detroit Rocks
+TTITLE14=Albert Ammons - Suitcase Blues
+TTITLE15=Clarence Williams - Papa De Da Da
+TTITLE16=Pete Johnson - Climbin' and Screamin'
+TTITLE17=Leroy Garnett - Chain 'em Down
+TTITLE18=Romeo Nelson - Getting Dirty
+TTITLE19=Big Maceo - Detroit Jump
+EXTD=YEAR: 2003
+EXTT0=(Sykes)
+EXTT1=(Merriweather)
+EXTT2=(Williams)
+EXTT3=(Ammons)
+EXTT4=(Lewis)
+EXTT5=(Ammons/Johnson)
+EXTT6=(Johnson/Dexter)
+EXTT7=(Lewis)
+EXTT8=(Davenport)
+EXTT9=(Smith)
+EXTT10=(Yancey)
+EXTT11=(Lofton)
+EXTT12=(Perryman)
+EXTT13=(Taylor)
+EXTT14=(Thomas)
+EXTT15=(Williams/Todd)
+EXTT16=(Johnson)
+EXTT17=(Garnett)
+EXTT18=(Nelson)
+EXTT19=(Merriweather)
+PLAYORDER=

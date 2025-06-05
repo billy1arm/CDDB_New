@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32315
+#	69346
+#	94787
+#	116620
+#	144414
+#	160401
+#	191919
+#
+# Disc length: 3448 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=660d7608
+DTITLE=Whip Cream - Funky jazzy Gogo Bar
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Let the dug out
+TTITLE1=Keep on marchin
+TTITLE2=Happy hour
+TTITLE3=The cat
+TTITLE4=Spooky
+TTITLE5=Woody wood pecker
+TTITLE6=Everybody's party
+TTITLE7=Taxman
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

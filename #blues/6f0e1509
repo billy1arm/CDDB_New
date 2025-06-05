@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34830
+#	58705
+#	90635
+#	122325
+#	150537
+#	177570
+#	211790
+#	234630
+#
+# Disc length: 3607 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=6f0e1509
+DTITLE=Sammy Rimington - One Swiss Night
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Bugle Boy March
+TTITLE1=Honey
+TTITLE2=I'm so Sorry I Made you cry
+TTITLE3=Tishomingo Blues
+TTITLE4=High Society
+TTITLE5=If I Had My Life to Live
+TTITLE6=My Funny Valentine
+TTITLE7=My Buddy
+TTITLE8=Running Wild
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

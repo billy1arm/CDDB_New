@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15004
+#	36074
+#	60160
+#	88766
+#
+# Disc length: 1371 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=27055905
+DTITLE=Michel Legrand - Cool Jazz Collection 38
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Arrivée des Camionneurs
+TTITLE1=Dingo Lament
+TTITLE2=The Jitterbug Waltz
+TTITLE3=Watch What Happens
+TTITLE4=La Vie en Rose
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

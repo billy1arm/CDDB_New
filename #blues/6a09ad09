@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	21065
+#	39370
+#	60407
+#	78612
+#	97307
+#	120157
+#	140365
+#	161560
+#
+# Disc length: 2479 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=6a09ad09
+DTITLE=The J. Geils Band - Hotline
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Love-itis
+TTITLE1=Easy way out
+TTITLE2=Think it over
+TTITLE3=Be careful (what you do)
+TTITLE4=Jealous love
+TTITLE5=Mean love
+TTITLE6=Orange driver
+TTITLE7=Believe in me
+TTITLE8=Fancy footwork
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

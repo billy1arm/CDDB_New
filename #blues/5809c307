@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25125
+#	50960
+#	72852
+#	99925
+#	126927
+#	153925
+#
+# Disc length: 2501 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=5809c307
+DTITLE=Lew Tabackin - My Old Flame
+DYEAR=1982
+DGENRE=Jazz
+TTITLE0=My Old Flame
+TTITLE1=My Silent Love
+TTITLE2=Star Eyes
+TTITLE3=I Cover The Waterfront
+TTITLE4=More Than You Know
+TTITLE5=The Man I Love
+TTITLE6=Love For Sale
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

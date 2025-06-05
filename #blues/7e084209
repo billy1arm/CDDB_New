@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	21643
+#	38333
+#	52190
+#	73710
+#	90513
+#	106815
+#	124235
+#	141390
+#
+# Disc length: 2116 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7e084209
+DTITLE=The Greg Allman Band - Playin' Up A Storm
+DYEAR=1900
+DGENRE=
+TTITLE0=Come and Go Blues
+TTITLE1=Let this be a Lesson to Ya'
+TTITLE2=Brightest Smile in Town
+TTITLE3=Bring it on Back
+TTITLE4=Cryin' Shame
+TTITLE5=Sweet Feelin'
+TTITLE6=It Ain't No Use
+TTITLE7=Matthew's Arrival
+TTITLE8=One More Try
+EXTD=Polydor - PolyGram Records
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

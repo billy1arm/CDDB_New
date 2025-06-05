@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54736
+#	81182
+#	115668
+#	163478
+#	212777
+#
+# Disc length: 3499 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=520da906
+DTITLE=Rachmaninoff - Historical Recordings - Vol.2
+DYEAR=2008
+DGENRE=Classique
+TTITLE0=Piano Concerto N°1 in F sharp minor Op.1 - I. Vivace [Sviatoslav Richter, piano, 1969]
+TTITLE1=Piano Concerto N°1 in F sharp minor Op.1 - II.  Andante cantabile [Aleg Agarkof, 1969]
+TTITLE2=Piano Concerto N°1 in F sharp minor Op.1 - III. Allegro vivace [Ussr State Symphony Orchestra, 1969]
+TTITLE3=Piano Concerto N°2 in C minor Op.18 - I. Moderato [Sviatoslav Richter, piano, 1951]
+TTITLE4=Piano Concerto N°2 in C minor Op.18 - II. Adagio sostenuto [Kirill Kondrashin, 1951]
+TTITLE5=Piano Concerto N°2 in C minor Op.18 - III. Allegro scherzando [Moscow Youth Symphony Orchestra, 1951]
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

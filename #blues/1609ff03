@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	90282
+#	154290
+#
+# Disc length: 2561 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1609ff03
+DTITLE=John Coltrane et al - Soul Jazz
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=All Morning Long
+TTITLE1=All Day Long
+TTITLE2=Lights Out
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

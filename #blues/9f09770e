@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9475
+#	23475
+#	39225
+#	46575
+#	61200
+#	70950
+#	85275
+#	97800
+#	107925
+#	121800
+#	139050
+#	151150
+#	165600
+#
+# Disc length: 2425 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=9f09770e
+DTITLE=Little Willie Littlefield - Plays the Boogie Woogie
+DYEAR=1900
+DGENRE=
+TTITLE0=Free Fun Boogie
+TTITLE1=Johnson Rag
+TTITLE2=Ruby, Ruby
+TTITLE3=12th Street Rag
+TTITLE4=One Scotch, One Bourbon, One Beer
+TTITLE5=One O'Clock Jump
+TTITLE6=Chicken Shack Boogie
+TTITLE7=Cow Cow Boogie
+TTITLE8=Undecided Boogie
+TTITLE9=Roomin' House Boogie
+TTITLE10=St. Louis Blues
+TTITLE11=Bobby McGhee
+TTITLE12=Shake, Rattle and Roll
+TTITLE13=Cajun Queen
+EXTD=AAD\nCM 8013\nCMA Music Production\n(P) 1987\n(C) 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

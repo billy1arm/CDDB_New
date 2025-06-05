@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	63707
+#	107481
+#	155407
+#
+# Disc length: 3149 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=2d0c4b04
+DTITLE=Chick Corea - Trio in 2004 - Disk2
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Fingerprints
+TTITLE1=But Beautiful
+TTITLE2=Anna's Tango
+TTITLE3=Rumba Flamenca
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

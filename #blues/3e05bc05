@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     26208
+#     46853
+#     68765
+#     88333
+# 
+# Disc length: 1470 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=3e05bc05
+DTITLE=Shades Of Lace - Smoovin' With Shades Of Lace
+DYEAR=1900
+DGENRE=
+TTITLE0=Whisper Of The Heart
+TTITLE1=Love A Little Bit More
+TTITLE2=Will You Be There
+TTITLE3=So Deep, So True
+TTITLE4=I Wanna Be With U
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

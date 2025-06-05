@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	104347
+#	129792
+#	234510
+#
+# Disc length: 3561 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=270de704
+DTITLE=Charles Mingus - In Amsterdam 1964 (Disc-2)
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Meditation On A Paris Of Wire Cutters
+TTITLE1=Sophisticated Lady
+TTITLE2=Fables Of Faubus (part 1)
+TTITLE3=Fables Of Faubus (part 2)
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39164
+#	64154
+#	112265
+#	148354
+#	199064
+#	219436
+#	261403
+#
+# Disc length: 4098 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=81100008
+DTITLE=Chris Anderson - Solo Ballades Two
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Polka Dots and Moombeams
+TTITLE1=Good morning Heartache
+TTITLE2=Solitude
+TTITLE3=Day Dream
+TTITLE4=There's a Lull in my Life
+TTITLE5=Theme from The Bad and The Beautiful
+TTITLE6=Whe Sunny Gets Blue
+TTITLE7=Theme from Wuthering Heighs
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

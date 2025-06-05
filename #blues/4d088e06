@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	36300
+#	61875
+#	86850
+#	123900
+#	136800
+#
+# Disc length: 2192 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=4d088e06
+DTITLE=Ron Carter - Blues Farm
+DYEAR=1900
+DGENRE=
+TTITLE0=Blues farm
+TTITLE1=A small ballad
+TTITLE2=Django
+TTITLE3=A hymn for him
+TTITLE4=Two-beat Johnson
+TTITLE5=R2, M1
+EXTD=Produced by Creed Taylor\n\n
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

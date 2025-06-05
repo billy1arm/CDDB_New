@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24546
+#	44336
+#	70002
+#	85808
+#	99930
+#	122962
+#	140609
+#	154636
+#	173720
+#	192239
+#
+# Disc length: 2845 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=8b0b1b0b
+DTITLE=Butch Mudbone - Bone A Fide
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Caught You White-handed
+TTITLE1=Tuscarora Stomp
+TTITLE2=Do It Your Own Way
+TTITLE3=Down In Louisiana
+TTITLE4=Blues Is Everywhere
+TTITLE5=I've Never Been So Blue
+TTITLE6=Crazy Horse
+TTITLE7=Mean Old Viper
+TTITLE8=Living on Borrowed Time
+TTITLE9=Highwayman Blue
+TTITLE10=Dust My Blues
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12425
+#	38020
+#	63527
+#	89882
+#	151547
+#	181210
+#	210205
+#	232537
+#	246582
+#	269102
+#
+# Disc length: 3771 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8c0eb90b
+DTITLE=Vangelis, Kathleen Battle, Jessye Norman - Mythodea - Music for the NASA Mission - 2001 Mars Odyssey
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=Introduction
+TTITLE1=Movement 1
+TTITLE2=Movement 2
+TTITLE3=Movement 3
+TTITLE4=Movement 4
+TTITLE5=Movement 5
+TTITLE6=Movement 6
+TTITLE7=Movement 7
+TTITLE8=Movement 8
+TTITLE9=Movement 9
+TTITLE10=Movement 10
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

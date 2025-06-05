@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16482
+#	41103
+#	57618
+#	81294
+#	99296
+#	121173
+#	140307
+#
+# Disc length: 2289 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6608ef08
+DTITLE=Sarah Vaughan - After Hours At The London House
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Like Someone In Love
+TTITLE1=Detour Ahead
+TTITLE2=Three Little Words
+TTITLE3=I'll String Along With You
+TTITLE4=You'd Be So Nice To Come Home To
+TTITLE5=Speak Low
+TTITLE6=All Of You
+TTITLE7=Thanks For The Memory
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

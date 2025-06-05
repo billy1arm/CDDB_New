@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	38300
+#	77382
+#	101670
+#	134192
+#	165575
+#	205305
+#	231245
+#
+# Disc length: 3441 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=610d6e08
+DTITLE=Krzysztof Herdzin - Chopin
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Etiuda E Dur
+TTITLE1=Walc cis moll
+TTITLE2=Mazurek F Dur
+TTITLE3=Walc h moll
+TTITLE4=Preludium A dur
+TTITLE5=Grande valse brillante as dur
+TTITLE6=Preludium des dur
+TTITLE7=Zyczenie
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

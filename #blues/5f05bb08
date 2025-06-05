@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+# 150
+# 12732
+# 26590
+# 39892
+# 54642
+# 67772
+# 81762
+# 96477
+#
+# Disc length: 1469 seconds
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: MusicBin 0.4
+#
+DISCID=5f05bb08
+DTITLE=Charlie Christian - The Original Guitar Hero
+DYEAR=2002
+DGENRE=Swing
+TTITLE0=Seven Come Eleven
+TTITLE1=Wholly Cats
+TTITLE2=Good Enough To Keep (Air Mail Special) (1st version- alter
+TTITLE2=nate take)
+TTITLE3=Flying Home (alternate take)
+TTITLE4=Boy Meets Goy (Grand Slam)
+TTITLE5=Benny's Bugle
+TTITLE6=Gone With What Wind (alternate take)
+TTITLE7=Breakfast Feud (second version)
+EXTD=YEAR: 2002
+EXTT0=\nYEAR: 1939
+EXTT1=\nYEAR: 1940
+EXTT2=\nYEAR: 1940
+EXTT3=\nYEAR: 1939
+EXTT4=\nYEAR: 1940
+EXTT5=\nYEAR: 1940
+EXTT6=\nYEAR: 1940
+EXTT7=\nYEAR: 1941
+PLAYORDER=

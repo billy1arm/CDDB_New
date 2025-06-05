@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13682
+#	26190
+#	40842
+#	56227
+#	72245
+#	91097
+#	111182
+#	124767
+#	146345
+#
+# Disc length: 2157 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=87086b0a
+DTITLE=Chi-Lites - The Best Of
+DYEAR=1900
+DGENRE=
+TTITLE0=Oh girl
+TTITLE1=Give It Away
+TTITLE2=Stoned Out Of My Mind
+TTITLE3=I Found Sunshine
+TTITLE4=Homely girl
+TTITLE5=A Lettter To Myself
+TTITLE6=I want to Pay Yo back
+TTITLE7=Give More Power To The People
+TTITLE8=Have You Seen Her
+TTITLE9=We Are Neighbors
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

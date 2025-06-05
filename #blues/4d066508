@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13771
+#	26280
+#	38884
+#	58274
+#	75048
+#	88078
+#	105178
+#
+# Disc length: 1639 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4d066508
+DTITLE=Franco Cerri - Internaional Jazz Meeting
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Mary And Steve
+TTITLE1=Broadway
+TTITLE2=A Serenade For Patrick
+TTITLE3=Ow
+TTITLE4=I Love You
+TTITLE5=Misty
+TTITLE6=Boplicity
+TTITLE7=Flagebakaefra Blues
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

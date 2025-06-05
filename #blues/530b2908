@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17522
+#	60580
+#	84254
+#	103186
+#	138030
+#	159452
+#	189207
+#
+# Disc length: 2859 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=530b2908
+DTITLE=Morten Kargaard Septet - Zealand
+DYEAR=2017
+DGENRE=Jazz
+TTITLE0=A Humble Prayer
+TTITLE1=The Wind
+TTITLE2=Folk Song
+TTITLE3=Painter's Garden
+TTITLE4=You Must Believe
+TTITLE5=Swan Song intro
+TTITLE6=Swan Song
+TTITLE7=A Boy's Dream
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

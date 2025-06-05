@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     23575
+#     42267
+#     58699
+#     99985
+#     118854
+#     140507
+# 
+# Disc length: 2534 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=5809e407
+DTITLE=Stevie Ray Vaughan And Double Trouble - Live From Skeppsholmen
+DYEAR=1900
+DGENRE=
+TTITLE0=Mary Had A Little Lamb
+TTITLE1=Pride And Joy
+TTITLE2=Look At Little Sister
+TTITLE3=Life Without You
+TTITLE4=Love Struck Baby
+TTITLE5=Gone Home
+TTITLE6=Texas Flood
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

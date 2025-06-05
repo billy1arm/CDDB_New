@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13149
+#	28207
+#	42368
+#	56168
+#	95634
+#	108229
+#	120064
+#	144544
+#
+# Disc length: 2121 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=76084709
+DTITLE=Lionel Hampton - Flying Home CD4
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=1 I’ve Found A New Baby  (Palmer/Williams)
+TTITLE1=2 Muskrat Ramble (Ory)
+TTITLE2=3 Playboy (Hampton/Kynard)
+TTITLE3=4 Red Top  (Hampton/Kynard)
+TTITLE4=5 Old Man River (Kern/Hammerstein)
+TTITLE5=6 Slide Hamp Slide(L. Hampton)
+TTITLE6=7 Tempo’s Birthday (Hampton/Morris)
+TTITLE7=8 Vibe Boogie  (Hampton)
+TTITLE8=9 Midnight Sun (Burke/Mercer/Hampton)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

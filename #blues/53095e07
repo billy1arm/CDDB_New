@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23349
+#	48276
+#	68070
+#	89389
+#	122321
+#	147699
+#
+# Disc length: 2400 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=53095e07
+DTITLE=The Cannonball Adderley Quintet - Them Dirty Blues
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Work Song
+TTITLE1=Dat Dere
+TTITLE2=Easy Living
+TTITLE3=Del Sasser
+TTITLE4=Jeannine
+TTITLE5=Soon
+TTITLE6=Them Dirty Blues
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

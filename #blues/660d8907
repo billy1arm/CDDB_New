@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36457
+#	79932
+#	111140
+#	146467
+#	183535
+#	214335
+#
+# Disc length: 3467 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=660d8907
+DTITLE=Beets Brothers - In Concert at Nick Vollebregt's Jazz Cafe
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Bass-ic Instinct
+TTITLE1=Is It Wrong to be Right?
+TTITLE2=The Man I Love
+TTITLE3=I Got Rhythm
+TTITLE4=It Has Happened
+TTITLE5=Soultrane
+TTITLE6=Blues for The Date
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

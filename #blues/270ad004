@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47912
+#	103861
+#	151555
+#
+# Disc length: 2770 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=270ad004
+DTITLE=Mozart - Concerto pour piano N°9 and Fantaisie  (Mario Bernardi, CBC Vancouver Orchestra)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Concerto pour piano et orchestre N°9 en mi bémol majeur K.271 'Jeune Homme' - I. Allegro
+TTITLE1=Concerto pour piano et orchestre N°9 - II. Andantino . . . . . [Angela Cheng, piano]
+TTITLE2=Concerto pour piano et orchestre N°9 - III. Rondo presto - Menuetto cantabile - Presto
+TTITLE3=Fantaisie en ut mineur K.475 - Adagio - Allegro - Andantino - Più allegro  [Zoltàn Kocsis, piano]
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

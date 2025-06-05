@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30518
+#	59675
+#	83245
+#	99095
+#	135861
+#	154100
+#	183550
+#	210876
+#
+# Disc length: 3101 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=660c1b09
+DTITLE=Frank Spaniol Quartett - Acoustic Jazz
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Monster
+TTITLE1=Hydra Hype
+TTITLE2=For Grover
+TTITLE3=We Love It
+TTITLE4=Akurstik
+TTITLE5=Lost Highway
+TTITLE6=Searching
+TTITLE7=Mr. Salidus
+TTITLE8=The Outer Line
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

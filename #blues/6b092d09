@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	22577
+#	43345
+#	63310
+#	81007
+#	98190
+#	118895
+#	136927
+#	152592
+#
+# Disc length: 2351 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=6b092d09
+DTITLE=Etta James - Etta, Red-Hot and Live
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Respect Yourself
+TTITLE1=I'd Rather Go Blind
+TTITLE2=Shake Your Bootie
+TTITLE3=Dust Your Broom
+TTITLE4=Summer Heat
+TTITLE5=Drown In My Own Tears
+TTITLE6=Can't Turn You Loose
+TTITLE7=Rock Me Baby
+TTITLE8=Stormy Monday
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

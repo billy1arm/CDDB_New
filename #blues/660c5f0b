@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     19540
+#     37683
+#     62268
+#     86068
+#     107463
+#     132545
+#     151003
+#     167370
+#     210020
+#     226633
+# 
+# Disc length: 3169 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=660c5f0b
+DTITLE=Hound Dog Taylor - Live at Joe's Place
+DYEAR=1900
+DGENRE=
+TTITLE0=Kitchen Sink Boogie
+TTITLE1=Phillip's Crawl
+TTITLE2=Wild About You Baby
+TTITLE3=Kansas City
+TTITLE4=Mama, Talk to Your Daughter
+TTITLE5=The Sky is Crying
+TTITLE6=It Hurts Me Too
+TTITLE7=Dust My Broom
+TTITLE8=Freddy's Blues
+TTITLE9=Give Me Back My Wig
+TTITLE10=Take Five
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	208
+#	22648
+#	42686
+#	57689
+#	85354
+#	107845
+#	138499
+#	155102
+#	183105
+#	199779
+#
+# Disc length: 2955 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51
+#
+DISCID=8b0b890a
+DTITLE=Jimmy Dawkins - Me - My Guitar and the Blues
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Back to School
+TTITLE1=You Don't Want Me
+TTITLE2=Down, Down Baby
+TTITLE3=I'm Running
+TTITLE4=Tuff Girl
+TTITLE5=Me, My Guitar and the Blues
+TTITLE6=Jimmy's Bag
+TTITLE7=Tru Love
+TTITLE8=Back Street Blues
+TTITLE9=Cold as Hell
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

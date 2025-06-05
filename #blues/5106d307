@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21535
+#	40477
+#	54319
+#	69407
+#	83291
+#	109669
+#
+# Disc length: 1749 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5106d307
+DTITLE=Live on Steeg - Gaat Waterloopen 
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Purmer_Nimf
+TTITLE1=Ella
+TTITLE2=Gemaal
+TTITLE3=Phanta_Rhei
+TTITLE4=E_is_Up
+TTITLE5=Gedesorienteerde_Grutto
+TTITLE6=LiveonSteegData
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

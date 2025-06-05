@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34003
+#	71514
+#	100582
+#	127479
+#	149845
+#	180518
+#	200183
+#	233215
+#	273834
+#	304121
+#
+# Disc length: 4326 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a710e40b
+DTITLE=Frank Herbert - DUNE - Der Wüstenplanet - Teil1 - CD03
+DYEAR=2008
+DGENRE=Speech
+TTITLE0=022 - DUNE - Der Wüstenplanet - Teil 1
+TTITLE1=023 - DUNE - Der Wüstenplanet - Teil 1
+TTITLE2=024 - DUNE - Der Wüstenplanet - Teil 1
+TTITLE3=025 - DUNE - Der Wüstenplanet - Teil 1
+TTITLE4=026 - DUNE - Der Wüstenplanet - Teil 1
+TTITLE5=027 - DUNE - Der Wüstenplanet - Teil 1
+TTITLE6=028 - DUNE - Der Wüstenplanet - Teil 1
+TTITLE7=029 - DUNE - Der Wüstenplanet - Teil 1
+TTITLE8=030 - DUNE - Der Wüstenplanet - Teil 1
+TTITLE9=031 - DUNE - Der Wüstenplanet - Teil 1
+TTITLE10=032 - DUNE - Der Wüstenplanet - Teil 1
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

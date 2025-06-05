@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	37117
+#	68785
+#	106332
+#	139660
+#	175315
+#	220017
+#	255225
+#	284575
+#
+# Disc length: 4317 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8310db09
+DTITLE=Future Loop Foundation - Time and Bass
+DYEAR=1900
+DGENRE=
+TTITLE0=Discovery
+TTITLE1=Kinetic Pioneers
+TTITLE2=Spirit Catcher
+TTITLE3=I Want to Believe
+TTITLE4=Shake the Ghost
+TTITLE5=Carla's Dream
+TTITLE6=Bad Joss
+TTITLE7=The Journey
+TTITLE8=Journey's End (Polyphony)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

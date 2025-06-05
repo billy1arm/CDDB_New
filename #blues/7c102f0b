@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15287
+#	33127
+#	85680
+#	116440
+#	156157
+#	166882
+#	207707
+#	225107
+#	236850
+#	269425
+#
+# Disc length: 4145 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7c102f0b
+DTITLE=The Fat James Band - LIVE! at the CENTRAL
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Let The Good Times Roll
+TTITLE1=I Came For your Daughter
+TTITLE2=Too Much Seconal
+TTITLE3=Buddy, Buddy, Friends
+TTITLE4=I Feel So Bad
+TTITLE5=I Think She Likes Me
+TTITLE6=Rock Me Baby
+TTITLE7=Messin' With The Kid
+TTITLE8=Just A Little Bit
+TTITLE9=Flip, Flop, And Fly
+TTITLE10=She's Gone
+EXTD=YEAR: 1995 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

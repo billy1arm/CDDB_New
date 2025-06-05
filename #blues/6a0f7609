@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37740
+#	68487
+#	102207
+#	126713
+#	162905
+#	198030
+#	233140
+#	264822
+#
+# Disc length: 3960 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6a0f7609
+DTITLE=John Tank - So In Love
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=So In Love
+TTITLE1=Address This Issue
+TTITLE2=Snow Place
+TTITLE3=West Of The Moon
+TTITLE4=Suite - Peace
+TTITLE5=We'll Say Hello Again
+TTITLE6=Vengeance
+TTITLE7=Uptown Lex
+TTITLE8=Whipmarks
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

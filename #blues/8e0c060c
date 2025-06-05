@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18846
+#	39273
+#	58977
+#	76674
+#	93011
+#	113500
+#	136377
+#	157232
+#	176564
+#	195988
+#	214685
+#
+# Disc length: 3080 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8e0c060c
+DTITLE=Lifescapes - Fireside Christmas
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=The Christmas Song
+TTITLE1=The First Noel
+TTITLE2=O Tannenbaum
+TTITLE3=Deck the Halls
+TTITLE4=Gesu Bambino
+TTITLE5=White Christmas
+TTITLE6=Greensleeves
+TTITLE7=In the Bleak Midwinter
+TTITLE8=Silent Night
+TTITLE9=Winter Wonderland
+TTITLE10=The Holly and the Ivy
+TTITLE11=Auld Lang Syne
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

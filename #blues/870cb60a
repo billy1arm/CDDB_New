@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23913
+#	46166
+#	62886
+#	77344
+#	97432
+#	114819
+#	137647
+#	149869
+#	168264
+#
+# Disc length: 3256 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=870cb60a
+DTITLE=Richard Zimmerman - ScottJop v5
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=ARealSlowDrag - ARealSlowDrag
+TTITLE1=FrolicOfBears - FrolicOfBears
+TTITLE2=KismetRag - KismetRag
+TTITLE3=LilyQueen - LilyQueen
+TTITLE4=MagneticRag - MagneticRag
+TTITLE5=PreludeToAct3 - PreludeToAct3
+TTITLE6=ReflectionsRag - ReflectionsRag
+TTITLE7=Sensation - Sensation
+TTITLE8=SilverSwanRag - SilverSwanRag
+TTITLE9=Treemonisha - Treemonisha
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

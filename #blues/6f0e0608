@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49425
+#	74542
+#	92762
+#	129267
+#	168667
+#	195720
+#	227570
+#
+# Disc length: 3592 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f0e0608
+DTITLE=John Abercrombie - Cat 'n' Mouse
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=A Nice Idea
+TTITLE1=Convolution
+TTITLE2=String Thing
+TTITLE3=Soundtrack
+TTITLE4=Third Stream Samba
+TTITLE5=On The Loose
+TTITLE6=Stop and Go
+TTITLE7=Show Of Hands
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

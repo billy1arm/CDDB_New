@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14225
+#	26650
+#	39512
+#	64762
+#	78825
+#	101025
+#	115800
+#	133950
+#	153137
+#	175112
+#
+# Disc length: 2383 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8c094d0b
+DTITLE=Blues Brothers - Groove Me
+DYEAR=1979
+DGENRE=Blues
+TTITLE0=Rubber Biscuit
+TTITLE1=Almost
+TTITLE2=Hey Bartender
+TTITLE3=Shot Gun Blues
+TTITLE4=Soul Man
+TTITLE5=I Don't Know
+TTITLE6=Groove Me
+TTITLE7=Flip, Flop and Fly
+TTITLE8=B  Movie Box Car Blues
+TTITLE9=Jailhouse Rock
+TTITLE10=Final
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

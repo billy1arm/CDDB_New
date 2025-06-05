@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39394
+#	84774
+#	120567
+#	161878
+#	199085
+#	242582
+#
+# Disc length: 3898 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e0f3807
+DTITLE=Jorge Luis Martin - Pancadhara das - Chandra -  Luna de los Sueños
+DYEAR=2003
+DGENRE=New Age
+TTITLE0=Luna de los Sueños
+TTITLE1=Encuentro en la Montaña
+TTITLE2=A Orrilas del Arroyo
+TTITLE3=Tormenta en el Valle
+TTITLE4=Despues de la Tormenta
+TTITLE5=Fin de la Noche
+TTITLE6=Comenzando un Nuevo Día
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

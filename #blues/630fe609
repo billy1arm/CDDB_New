@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31017
+#	60402
+#	91887
+#	128390
+#	171215
+#	204655
+#	249752
+#	279867
+#
+# Disc length: 4072 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=630fe609
+DTITLE=Paul Tobey - Street Culture
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Street Culture
+TTITLE1=The Netster
+TTITLE2=Bay St. Blues
+TTITLE3=In My Own Time
+TTITLE4=A Conversation with Ibach
+TTITLE5=Setltin' In
+TTITLE6=Ko-gals
+TTITLE7=Adrian's Song
+TTITLE8=Street Culture (radio version)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

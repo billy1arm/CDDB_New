@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20700
+#	45017
+#	66712
+#	89802
+#	109327
+#	136682
+#
+# Disc length: 2062 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=60080c07
+DTITLE=Jimmy Johnson - Pepper's Hangout
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Same Old Blues
+TTITLE1=Married Woman Blues
+TTITLE2=High Heel Sneakers
+TTITLE3=The Things That I Used To Do
+TTITLE4=Pepper's Hangout
+TTITLE5=Looking For My Baby
+TTITLE6=Riding In The Moonlight
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

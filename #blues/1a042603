@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17955
+#	38570
+#
+# Disc length: 1064 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1a042603
+DTITLE=Eric Clapton - Pilgrim (Bonus Disc)
+DYEAR=1997
+DGENRE=Rock
+TTITLE0=Change The World
+TTITLE1=Tears In Heaven
+TTITLE2=Wonderful Tonight (LIVE)
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

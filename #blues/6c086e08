@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24645
+#	49208
+#	65433
+#	90033
+#	112428
+#	124745
+#	147135
+#
+# Disc length: 2160 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=6c086e08
+DTITLE=John Altenburgh - Vol. 2
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=1960
+TTITLE1=Pete the Pontiac
+TTITLE2=Indian Summer
+TTITLE3=Herkimer County
+TTITLE4=Fran's Back!!
+TTITLE5=Jim and Elly's Summer Vacation
+TTITLE6=Coastin' Home
+TTITLE7=The Scott Street Shuffle
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

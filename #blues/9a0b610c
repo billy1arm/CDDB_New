@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  9375
+#  29598
+#  45055
+#  67375
+#  93998
+#  110550
+#  129393
+#  143790
+#  155775
+#  175178
+#  188273
+#
+# Disc length: 2915 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.15
+#
+DISCID=9a0b610c
+DTITLE=Various Artist - The Best of The American Folk Blues Festivals '63-'67
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm Tearing Little Dady
+TTITLE1=First Time I Met The Blues
+TTITLE2=Hound Dog
+TTITLE3=Five Long Years
+TTITLE4=Dust My Broom
+TTITLE5=King Of The World
+TTITLE6=I'm Trying To Make London My Home
+TTITLE7=Rock Island Line
+TTITLE8=Come On Back Home
+TTITLE9=Vietnam Blues
+TTITLE10=Aberdeen Mississippi Blues
+TTITLE11=Ain't It A Pity
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

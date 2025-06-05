@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30750
+#	66525
+#	85275
+#	121650
+#	161175
+#	186900
+#
+# Disc length: 2984 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=560ba607
+DTITLE=小澤征璽 - ホルスト 惑星
+DYEAR=1981
+DGENRE=Classical
+TTITLE0=火星
+TTITLE1=金星
+TTITLE2=水星
+TTITLE3=木星
+TTITLE4=土星
+TTITLE5=天王星
+TTITLE6=海王星
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

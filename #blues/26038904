@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15731
+#	33932
+#	50380
+#
+# Disc length: 907 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=26038904
+DTITLE=Various Artist - Unknown CD for MusicBrainz and FreeDB
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=This May Be The Last Time - Pops Staples
+TTITLE1=I Shall Not Be Moved - Pops Staples
+TTITLE2=I've Got Love If You Want It - John Hammond
+TTITLE3=You Don't Love Me - John Hammond
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

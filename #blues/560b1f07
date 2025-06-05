@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25741
+#	41042
+#	80301
+#	105263
+#	125969
+#	177609
+#
+# Disc length: 2849 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.97
+#
+DISCID=560b1f07
+DTITLE=John Coltrane - Both Direction At Once (The Lost Album CD1)
+DYEAR=2018
+DGENRE=Jazz
+TTITLE0=Untitled Original 11383 (Take 1)
+TTITLE1=Nature Boy
+TTITLE2=Untitled Original 11386 (Take 1)
+TTITLE3=Vilia (Take 3)
+TTITLE4=Impressions (Take 3)
+TTITLE5=Slow Blues
+TTITLE6=One Up, One Down (Take 1)
+EXTD=YEAR: 2018
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

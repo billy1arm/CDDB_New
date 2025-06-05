@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20131
+#	37421
+#	58925
+#	84114
+#	102355
+#
+# Disc length: 1541 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=4e060306
+DTITLE=バド・パウエル - ブルーノート・ベスト・ジャズ・コレクション 0９
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=クレオパトラの夢
+TTITLE1=ブルー・パール
+TTITLE2=ウン・ポコ・ローコ
+TTITLE3=バスター・ライズ・アゲイン
+TTITLE4=ダウン・ウィズ・イット
+TTITLE5=虹の彼方に
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

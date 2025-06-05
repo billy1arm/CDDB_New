@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	19027
+#	43044
+#	66663
+#	85330
+#	101171
+#	121958
+#	138118
+#	151015
+#
+# Disc length: 2389 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=72095309
+DTITLE=Ray Chesna - Every Day Above Ground
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Every Day Above Ground is a Good One
+TTITLE1=Viola Lee Blues
+TTITLE2=Evening Sun Blues
+TTITLE3=Make Your Own Music
+TTITLE4=Hi'A Cynth
+TTITLE5=Barsong
+TTITLE6=Banty Rooster
+TTITLE7=Early Morning Blues
+TTITLE8=One More Bar
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

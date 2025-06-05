@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27217
+#	50683
+#	73878
+#	99191
+#	133528
+#	164345
+#
+# Disc length: 2648 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a0a5607
+DTITLE=Gulda - As You Like It
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Blues for H.G.
+TTITLE1=I only have eyes for you
+TTITLE2=What is this thing called love
+TTITLE3=All Blues
+TTITLE4=Light my fire
+TTITLE5=Round midnight
+TTITLE6=East of the sun
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

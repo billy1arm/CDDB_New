@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24674
+#	47673
+#	62898
+#	85177
+#	110404
+#	128014
+#	146365
+#	174538
+#
+# Disc length: 2528 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7409de09
+DTITLE=Rodgau Jazz-Big-Band - Stopover
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Lila Pause
+TTITLE1=Tower
+TTITLE2=Count
+TTITLE3=Stopover
+TTITLE4=Hexer
+TTITLE5=Helma
+TTITLE6=Lara
+TTITLE7=6:4
+TTITLE8=Rahmschnitzel
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

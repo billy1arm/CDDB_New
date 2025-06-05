@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22105
+#	42768
+#	75545
+#	93075
+#	121728
+#	147360
+#
+# Disc length: 2665 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d0a6707
+DTITLE=Lewis, Vince - Makin' A Move
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Makin' A Move
+TTITLE1=Hello Charleston
+TTITLE2=Gone Too Soon
+TTITLE3=Night Mayor
+TTITLE4=East to Wes
+TTITLE5=Samba
+TTITLE6=Ballad
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51443
+#	94347
+#	117222
+#	157317
+#	213382
+#	253382
+#
+# Disc length: 4035 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c0fc107
+DTITLE=Mozart, Wolfgang Amadeus - The Great Composers XLIX
+DYEAR=2008
+DGENRE=Klassik
+TTITLE0=Sinfonie Nr. 41 in C-Dur, K.551 "Jupiter" Allegro vivace
+TTITLE1=Sinfonie Nr. 41 in C-Dur, K.551 "Jupiter" Adante cantabile
+TTITLE2=Sinfonie Nr. 41 in C-Dur, K.551 "Jupiter" Menuetto
+TTITLE3=Sinfonie Nr. 41 in C-Dur, K.551 "Jupiter" Molto allegro
+TTITLE4=Klavierkonzert Nr. 22 in Es-Dur, K.482 Allegro
+TTITLE5=Klavierkonzert Nr. 22 in Es-Dur, K.482 Andante
+TTITLE6=Klavierkonzert Nr. 22 in Es-Dur, K.482 Allegro
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

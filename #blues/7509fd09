@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24160
+#	50439
+#	72624
+#	92879
+#	113469
+#	133894
+#	153038
+#	170958
+#
+# Disc length: 2559 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7509fd09
+DTITLE=Oxana Voytenko Quartet - Amber Light
+DYEAR=2018
+DGENRE=Jazz
+TTITLE0=Amber Light
+TTITLE1=Father's Song
+TTITLE2=Destiny
+TTITLE3=On the Island
+TTITLE4=Discovery
+TTITLE5=Dance of the Spirits
+TTITLE6=The New Day
+TTITLE7=Think of Me
+TTITLE8=Come Thunder
+EXTD=YEAR: 2018
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,83 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	183
+# 	10455
+# 	23995
+# 	35833
+# 	48215
+# 	59848
+# 	70430
+# 	82853
+# 	94645
+# 	107433
+# 	119923
+# 	133033
+# 	144883
+# 	155920
+# 	166160
+# 	177780
+# 	191070
+# 	202573
+# 	213498
+# 	224758
+# 	235235
+# 	251195
+#
+# Disc length: 3506 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=480db016
+DTITLE=John Lee Hooker - Boogie Chillun'
+DYEAR=1960
+DGENRE=Blues
+TTITLE0=Dimples
+TTITLE1=Every Night
+TTITLE2=Little Wheel
+TTITLE3=You Can Lead Me Baby
+TTITLE4=I Love You Honey
+TTITLE5=Maudie
+TTITLE6=I'm In The Mood
+TTITLE7=Boogie Chillun'
+TTITLE8=Hobo Blues
+TTITLE9=Crawlin' Kingsnake
+TTITLE10=Drive Me Away
+TTITLE11=Solid Sender
+TTITLE12=No Shoes
+TTITLE13=Want Ad Blues
+TTITLE14=Will The Circle Be Unbroken
+TTITLE15=I'm Goin' Upstairs
+TTITLE16=Boom Boom
+TTITLE17=Bottle Up And Go
+TTITLE18=This Is Hip
+TTITLE19=Big Legs, Tight Skirt
+TTITLE20=It Serves Me Right To Suffer
+TTITLE21=Your Baby Ain't Sweet Like Mine
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

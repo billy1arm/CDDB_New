@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25690
+#	54283
+#	86744
+#	107846
+#	167556
+#	218993
+#	285410
+#
+# Disc length: 4012 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=630faa08
+DTITLE=Tony Fruscella - Complete live recordings
+DYEAR=1955
+DGENRE=Jazz
+TTITLE0=Tony's blues
+TTITLE1=Get happy
+TTITLE2=Dear old Stokholm
+TTITLE3=Pernod
+TTITLE4=Scrapple from the apple
+TTITLE5=Night train
+TTITLE6=A night in tunesia
+TTITLE7=Lover man
+EXTD=YEAR: 1955
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

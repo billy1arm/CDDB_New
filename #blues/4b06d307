@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17023
+#	30127
+#	60169
+#	74481
+#	85737
+#	124912
+#
+# Disc length: 1749 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4b06d307
+DTITLE=Jimi Hendrix - Instrumental (Vinyl) 1973
+DYEAR=1973
+DGENRE=Rhythmic Soul
+TTITLE0=Hornet's Nest (2)
+TTITLE1=No Business (2) Sleepy Fate
+TTITLE2=Hush Now (4) Torture Me Honey
+TTITLE3=Strange Things (2) You Can Do It
+TTITLE4=Ballad Of Jimi (1) My Best Friend
+TTITLE5=Love Love (1) Mery Lady Day
+TTITLE6=Hush Now (1) Wah Wah
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

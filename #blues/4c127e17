@@ -1,0 +1,85 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7451
+#	23283
+#	43264
+#	67815
+#	80778
+#	93485
+#	104928
+#	111416
+#	137300
+#	148149
+#	155271
+#	175881
+#	206521
+#	225076
+#	239111
+#	241241
+#	258208
+#	277157
+#	284734
+#	309245
+#	317338
+#	319876
+#
+# Disc length: 4736 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4c127e17
+DTITLE=Münchner Lach and Schießgesellschaft - Verlängert - 50 Jahre L&S (2007)
+DYEAR=2007
+DGENRE=Kabarett
+TTITLE0=Seemann Blau
+TTITLE1=Festrede Dietmar Deutschland
+TTITLE2=Im Auto
+TTITLE3=Praxis: Die Verwechslung
+TTITLE4=1. Rueckfuehrung: Die 50er Jahre
+TTITLE5=Praxis: Fingerverband
+TTITLE6=Sarah Suttners Radio-Show
+TTITLE7=Praxis: NPD
+TTITLE8=2. Rueckfuehrung: Eichmann bei Robert Lembke
+TTITLE9=Praxis: Armverband
+TTITLE10=Rueckfuehrung: Mauerbau
+TTITLE11=Praxis: Frl. Suttner zu Besuch
+TTITLE12=4. Rueckfuehrung: 68er
+TTITLE13=Computerspiel "Hedge-Fond-Splatter"
+TTITLE14=Praxis: Deutsche Erfindungen
+TTITLE15=Rueckfuehrung: Wiedervereinigung
+TTITLE16=Praxis: Geld wechselt Besitzer
+TTITLE17=Doppelszene Suttner/Hedge Fong
+TTITLE18=Praxis: "Skrupelitis"
+TTITLE19=Das BOOT im Hirn
+TTITLE20=Praxis: Kopfverband
+TTITLE21=Deutschland trifft Neo-Nazi
+TTITLE22=Die LAST EXIT Show
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+PLAYORDER=

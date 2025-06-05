@@ -1,0 +1,47 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	13200
+#	25820
+#	38860
+#	54375
+#	64210
+#	75675
+#	98495
+#	117417
+#	138615
+#
+# Disc length: 2000
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.83.01
+# Normalized: r1:TDELIM( - ),TSWAP
+#
+DISCID=8207ce0a
+DTITLE=Various Artist - blowin' the blues
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Slim Harpo - Baby, Scratch My Back
+TTITLE1=Sonny Boy Williamson - One Way Out
+TTITLE2=Little Walter - Roller Coaster
+TTITLE3=Buddy Guy, Junior Wells and Junior Mance - Buddy's Blues
+TTITLE4=Lazy Lester - I Hear You Knockin'
+TTITLE5=James Cotton - Don't Start Me To Talkin'
+TTITLE6=Sonny Terry and Brownie McGhee - White Boy Lost In The Blues
+TTITLE7=Big Walter "Shakey" Horton - Good Moanin' Blues
+TTITLE8=John Mayall - Room To Move
+TTITLE9=Howlin' Wolf - Sitting On Top Of The World
+EXTD=
+EXTT0=Slim Harpo
+EXTT1=Sonny Boy Williamson
+EXTT2=Little Walter
+EXTT3=Buddy Guy, Junior Wells and Junior Mance
+EXTT4=Lazy Lester
+EXTT5=James Cotton
+EXTT6=Sonny Terry and Brownie McGhee
+EXTT7=Big Walter "Shakey" Horton
+EXTT8=John Mayall
+EXTT9=Howlin' Wolf
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27215
+#	48648
+#	79489
+#	103164
+#	118895
+#	187500
+#
+# Disc length: 2693 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=580a8307
+DTITLE=Don Shirley - Point Of View
+DYEAR=1972
+DGENRE=Jazz
+TTITLE0=The Warning
+TTITLE1=Carry Me Back To The Old Virginny
+TTITLE2=Bridge Over Troubled Water
+TTITLE3=The Shadow Of Your Smile
+TTITLE4=Alfie
+TTITLE5=Gershwin Medley
+TTITLE6=By The Time I Get To Phoenix
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

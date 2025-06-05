@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	90695
+#	100037
+#	116079
+#	126352
+#	140100
+#	175820
+#	221570
+#	298145
+#
+# Disc length: 4512 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8c119e09
+DTITLE=Esa-Pekka Salonen - LA Variations
+DYEAR=2001
+DGENRE=Contemporary music
+TTITLE0=LA Variations (1997)
+TTITLE1=Five Images After Sappho (1999) 1. Tell Everyone
+TTITLE2=Five Images After Sappho (1999) 2. Without Warning
+TTITLE3=Five Images After Sappho (1999) 3. It's No Use
+TTITLE4=Five Images After Sappho (1999) 4. The Evening Star
+TTITLE5=Five Images After Sappho (1999) 5. Wedding
+TTITLE6=Giro (1981/1997)
+TTITLE7=Mania (2000-01)
+TTITLE8=Gambit (1998)
+EXTD=Dawn Upshaw, soprano\nAnssi Karttunen, cello\nLos Angeles Philharmonic\nLondon Sinfonietta\nEsa-Pekka Salone, conductor and composer YEAR: 2001
+EXTT0=Los Angeles Philharmonic
+EXTT1=Dawn Upshaw, soprano\nLondon Sinfonietta
+EXTT2=Dawn Upshaw, soprano\nLondon Sinfonietta
+EXTT3=Dawn Upshaw, soprano\nLondon Sinfonietta
+EXTT4=Dawn Upshaw, soprano\nLondon Sinfonietta
+EXTT5=Dawn Upshaw, soprano\nLondon Sinfonietta
+EXTT6=Los Angeles Philharmonic
+EXTT7=anssi karttunen, cello\nLondon Sinfonietta
+EXTT8=Los Angeles Philharmonic
+PLAYORDER=

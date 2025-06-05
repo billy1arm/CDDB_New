@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14932
+#	38557
+#	51535
+#	69660
+#	89127
+#	108085
+#	127415
+#	152790
+#	173882
+#
+# Disc length: 2628 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.30 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=950a420a
+DTITLE=Keith Christmas - Love Beyond Deals
+DYEAR=1900
+DGENRE=
+TTITLE0=New Fool
+TTITLE1=Bargees
+TTITLE2=Loretta
+TTITLE3=Plunder Town
+TTITLE4=Please
+TTITLE5=War Behind Walls
+TTITLE6=Judgement Day
+TTITLE7=Tied to the Wheel
+TTITLE8=Love Like This
+TTITLE9=The Journey
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

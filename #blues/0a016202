@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19510
+#
+# Disc length: 356 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,15,908
+#
+DISCID=0a016202
+DTITLE=Phil Collins - Tarzan
+DYEAR=1999
+DGENRE=New Age
+TTITLE0=You'll Be In My Heart - Phil Version
+TTITLE1=You'll Be In My Heart
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+PLAYORDER=

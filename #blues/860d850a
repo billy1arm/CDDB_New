@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27650
+#	55275
+#	80850
+#	102375
+#	133850
+#	166700
+#	188750
+#	213900
+#	232800
+#
+# Disc length: 3463 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=860d850a
+DTITLE=Hajo Hoffmann, Jörg Widmoser - A touch of Jazz Violins
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=01 Rythm-A-Ning
+TTITLE1=02 Autumn Leaves
+TTITLE2=03 There'll Never Be Another You
+TTITLE3=04 When Sunny Gets Blue
+TTITLE4=05 Straight No Chaser
+TTITLE5=06 Ceora
+TTITLE6=07 Love For Sale
+TTITLE7=08 The Song Is You
+TTITLE8=09 Tenderly
+TTITLE9=10 Vonetta
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

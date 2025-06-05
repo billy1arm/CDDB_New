@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	18987
+#	48250
+#	70540
+#	98627
+#	123875
+#	142465
+#
+# Disc length: 2151 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=58086507
+DTITLE=2 In A Room - El Trago The Drink (Single)
+DYEAR=1900
+DGENRE=
+TTITLE0=El Trago The Drink (Virgin Drink Radio)
+TTITLE1=El Trago The Drink ($2 Drink Special)
+TTITLE2=El Trago The Drink (Free Drink Special)
+TTITLE3=El Trago The Drink (El Boracho Club)
+TTITLE4=El Trago The Drink (El Boracho Instrumental)
+TTITLE5=El Trago The Drink (Spanish Radio)
+TTITLE6=El Trago The Drink (The Pony Radio)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

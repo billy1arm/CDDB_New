@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19970
+#	33397
+#	46092
+#
+# Disc length: 773 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=28030304
+DTITLE=10-FEET - RIVER
+DYEAR=2002
+DGENRE=Punk Rock
+TTITLE0=RIVER
+TTITLE1=IN THE END
+TTITLE2=FUTURE
+TTITLE3=FELLOWS 2
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  15300
+#  34328
+#  53700
+#  73825
+#  91505
+#  115515
+#  134485
+#  150073
+#
+# Disc length: 2231 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.31
+#
+DISCID=6008b509
+DTITLE=Francesco Baccini - Baccini a colori
+DYEAR=1900
+DGENRE=
+TTITLE0=Filma!
+TTITLE1=Sono stufo di vedere quelle facce alla tivvu'-u'-u'
+TTITLE2=Superbacc
+TTITLE3=Zac
+TTITLE4=Canzone in allegria
+TTITLE5=Can di un blues
+TTITLE6=Elvira la vampira
+TTITLE7=Il 500 innamorato
+TTITLE8=Piccolo idiota
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

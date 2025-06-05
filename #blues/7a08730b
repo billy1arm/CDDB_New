@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	182
+# 	18365
+# 	31827
+# 	53397
+# 	65357
+# 	79715
+# 	89895
+# 	105355
+# 	120950
+# 	137295
+# 	147070
+#
+# Disc length: 2165 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3
+#
+DISCID=7a08730b
+DTITLE=Lightnin' Hopkins - Los Angeles Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=California Mudslide
+TTITLE1=Rosie Mae
+TTITLE2=Los Angeles Blues
+TTITLE3=Easy on your Heels
+TTITLE4=New Santa Fe
+TTITLE5=Jesus, Would you come by Here
+TTITLE6=No Education
+TTITLE7=Antoinette's Blues
+TTITLE8=Change My Way of Living
+TTITLE9=Los Angeles Boogie
+TTITLE10=Call on My Baby
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

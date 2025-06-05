@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23360
+#	45910
+#	59215
+#	80010
+#	100440
+#	119325
+#	144440
+#	164192
+#	182387
+#	206392
+#
+# Disc length: 3118 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=930c2c0b
+DTITLE=D'talle - De La Salsa Cubana
+DYEAR=1999
+DGENRE=Salsa
+TTITLE0=un adios
+TTITLE1=suavecito
+TTITLE2=tu presencia
+TTITLE3=en ese lugar
+TTITLE4=son de a verdad
+TTITLE5=tu cancion
+TTITLE6=un dia mas
+TTITLE7=esa es la vida
+TTITLE8=ese amigo infeliz
+TTITLE9=algo anda mal
+TTITLE10=popurri de sones
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

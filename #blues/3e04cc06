@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15500
+#	31461
+#	44675
+#	61623
+#	76235
+#
+# Disc length: 1230 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3e04cc06
+DTITLE=Norah Jones - The Fall - Bonus CD live
+DYEAR=2009
+DGENRE=Blues
+TTITLE0=It's Gonna Be
+TTITLE1=Waiting
+TTITLE2=You've Ruined Me
+TTITLE3=Jesus Etc.
+TTITLE4=Cry, Cry, Cry
+TTITLE5=Strangers
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

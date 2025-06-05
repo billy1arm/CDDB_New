@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39102
+#	61182
+#	94000
+#	114587
+#	144192
+#	163232
+#
+# Disc length: 2448 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=50098e07
+DTITLE=Jimmy Smith - The Champ
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=The Champ
+TTITLE1=Bayou
+TTITLE2=Deep Purple
+TTITLE3=Moonlight In Vermont
+TTITLE4=Ready'n Able
+TTITLE5=Turquoise
+TTITLE6=Bubbis
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

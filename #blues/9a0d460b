@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20833
+#	53666
+#	76290
+#	99720
+#	131798
+#	151767
+#	170965
+#	194233
+#	214170
+#	234192
+#
+# Disc length: 3400 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=9a0d460b
+DTITLE=caia - the magic dragon
+DYEAR=2003
+DGENRE=Electronic
+TTITLE0=The Rose Room
+TTITLE1=Remembrance
+TTITLE2=The Love Room
+TTITLE3=Summer Lightning
+TTITLE4=La Telecabine
+TTITLE5=Mr Gone
+TTITLE6=Whose Blues
+TTITLE7=Heavy Weather
+TTITLE8=Subway Freedom
+TTITLE9=Jericho
+TTITLE10=11 Afterwards@The Bar
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

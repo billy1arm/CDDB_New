@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	56475
+#	117525
+#	181125
+#
+# Disc length: 4080 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=300fee04
+DTITLE=Chick Corea - John McLauglin - Five Peace Band CD1
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Raju
+TTITLE1=The Disguise
+TTITLE2=New Blues, Old Bruise
+TTITLE3=Hymm To Andromeda
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

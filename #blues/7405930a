@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11295
+#	20607
+#	30785
+#	42742
+#	51532
+#	65235
+#	75432
+#	86502
+#	97965
+#
+# Disc length: 1429 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.2
+#
+DISCID=7405930a
+DTITLE=Canned Heat - Rolling And Tumbling
+DYEAR=1900
+DGENRE=
+TTITLE0=Spoonful
+TTITLE1=Big Road Blues
+TTITLE2=Rolling And Tumbling
+TTITLE3=Got My Mojo Working
+TTITLE4=Pretty Thing
+TTITLE5=Louise
+TTITLE6=Dimples
+TTITLE7=Can't Hold Out
+TTITLE8=Straight Ahead
+TTITLE9=Rolling And Tumbling (with harmonica)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

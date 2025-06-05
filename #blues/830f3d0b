@@ -1,0 +1,49 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	6899
+#	41388
+#	56323
+#	82845
+#	118535
+#	142128
+#	165251
+#	212275
+#	239729
+#	267034
+# Disc length: 3903 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=830f3d0b
+DTITLE=Late September Dogs - Late September Dogs
+DYEAR=1900
+DGENRE=
+TTITLE0=Alice D
+TTITLE1=Armageddon
+TTITLE2=Religion
+TTITLE3=Secret Tunnel
+TTITLE4=Rainbow warrior
+TTITLE5=Steve attack
+TTITLE6=Instant Prana
+TTITLE7=Runaway lover
+TTITLE8=Sexual
+TTITLE9=Wishless
+TTITLE10=Manshy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

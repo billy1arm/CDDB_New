@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23112
+#	45752
+#	72345
+#	94530
+#	111612
+#	127800
+#	149605
+#
+# Disc length: 2257 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.10
+#
+DISCID=6808cf08
+DTITLE=Lou Wilson and Today's People - On the Right Track
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=One Step From The Door Vocal Version
+TTITLE1=One Step From The Door Instrumental
+TTITLE2=Hard Pill To Swallow
+TTITLE3=I'm On To Something
+TTITLE4=Laughing All The Way To The Bank Vocal Version
+TTITLE5=Laughing All The Way To The Bank Instrumental
+TTITLE6=Do Your Will For A Thrill
+TTITLE7=Bottom Line Is
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

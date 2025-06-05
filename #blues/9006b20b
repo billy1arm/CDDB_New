@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11120
+#	23188
+#	33409
+#	46443
+#	58484
+#	70977
+#	85377
+#	94555
+#	105495
+#	117766
+#
+# Disc length: 1716 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9006b20b
+DTITLE=Duke Robillard - Classic Guitar Styles of Duke Robillard
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Duke's Boogie
+TTITLE1=Westside Blues
+TTITLE2=Duke Jumps the Blues
+TTITLE3=Blues for Jimmy
+TTITLE4=Jammin' in G
+TTITLE5=Westside Bounce
+TTITLE6=Memphis Grind
+TTITLE7=Rhythm for Billy
+TTITLE8=Jazzy Blues
+TTITLE9=Fishnet Funk
+TTITLE10=Swingin'
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

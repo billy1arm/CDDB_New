@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30892
+#	64334
+#	89674
+#	121825
+#	178895
+#	205058
+#	223562
+#
+# Disc length: 3060 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e0bf208
+DTITLE=Chip Davis - Autumn Song (Ambience)
+DYEAR=2003
+DGENRE=New Age
+TTITLE0=Remembering Castles
+TTITLE1=Walking In Straw Grass
+TTITLE2=The Crows Knows (Or Just Be Caw Caw Cause)
+TTITLE3=Blowing Leaves
+TTITLE4=Harvest Dance
+TTITLE5=Golden Sunset
+TTITLE6=Full Moon
+TTITLE7=Wooden Tent
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

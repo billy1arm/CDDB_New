@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15437
+#	28797
+#	48210
+#	60694
+#	77131
+#	85229
+#	97090
+#
+# Disc length: 1508 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5a05e208
+DTITLE=Hal Leonard Corporation - Easy Jazz Ensemble 2002
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Besame Mucho
+TTITLE1=Green Onions
+TTITLE2=Blue Flame
+TTITLE3=Respect
+TTITLE4=Bad Attitude
+TTITLE5=I Get Around
+TTITLE6=Traces
+TTITLE7=Iron Man
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

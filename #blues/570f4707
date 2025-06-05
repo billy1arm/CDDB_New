@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33720
+#	77635
+#	120527
+#	180152
+#	220850
+#	253802
+#
+# Disc length: 3913 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=570f4707
+DTITLE=Franco d'Andrea - Eleven
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Deep
+TTITLE1=Dancing colours (take1)
+TTITLE2=Old time blues (take 2)
+TTITLE3=Afro abstractions
+TTITLE4=Monodic
+TTITLE5=Old time blues (take 1)
+TTITLE6=Dancing colours (take 2)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19960
+#	54527
+#	75339
+#	95936
+#	124580
+#	152228
+#
+# Disc length: 2533 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5309e307
+DTITLE=Yelena Eckemoff - Nocturnal Animals
+DYEAR=2019
+DGENRE=Jazz
+TTITLE0=Hedgehog
+TTITLE1=Toad
+TTITLE2=Lynx
+TTITLE3=Scorpion
+TTITLE4=Firefly
+TTITLE5=Owl
+TTITLE6=Sea Turtle
+EXTD=YEAR: 2019
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

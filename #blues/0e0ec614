@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13901
+#	28035
+#	42212
+#	60208
+#	76923
+#	93576
+#	102888
+#	115711
+#	130908
+#	142658
+#	155207
+#	168636
+#	182884
+#	200692
+#	212839
+#	226883
+#	237780
+#	257398
+#	269511
+#
+# Disc length: 3784 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0e0ec614
+DTITLE=Various Artist - The Best Of Boogie Woogie - CD 7
+DYEAR=2005
+DGENRE=Boogie Woogie
+TTITLE0=Willie Kelly - Give Me Your Change
+TTITLE1=Sammy Price - My Blue Heaven
+TTITLE2=Will Bradley - Down The Road Apiece
+TTITLE3=Albert Ammons - Chicago In My Mind
+TTITLE4=Meade Lux Lewis - Bass On Top
+TTITLE5=Pete Johnson - Vine Street Blues
+TTITLE6=Sammy Price - Stormy Weather
+TTITLE7=Will Bradley - Three Ring Ragout
+TTITLE8=Joe Coleman - Gonna Beat It To Memphis
+TTITLE9=Little Brother Montgomery - Crescent City Blues
+TTITLE10=Sammy Price - Untitled Boogie Woogie
+TTITLE11=Will Bradley - The Booblie Wooglie Piggy
+TTITLE12=Sammy Benskin - The World Is Waiting For The Sunrise
+TTITLE13=Art Hodes - Funny Feathers
+TTITLE14=Jimmy Yancey - State Street Special
+TTITLE15=Sammy Price - Boogie With Riffs
+TTITLE16=Albert Ammons - Shoot For Joy
+TTITLE17=Earl Hines - The Father's Gateway
+TTITLE18=Art Tatum - Aunt Hagar's Blues
+TTITLE19=Sammy Price - Barefoot Boogie
+EXTD=YEAR: 2005
+EXTT0=(Sykes)
+EXTT1=(Donaldson/Whiting)
+EXTT2=(Raye)
+EXTT3=(Ammons)
+EXTT4=(Lewis)
+EXTT5=(Johnson)
+EXTT6=(Arlen/Koehler)
+EXTT7=(Bradley)
+EXTT8=(Coleman)
+EXTT9=(Montgomery)
+EXTT10=(Price)
+EXTT11=(Bradley)
+EXTT12=(Unknown)
+EXTT13=(Hodes)
+EXTT14=(Yancey)
+EXTT15=(Price)
+EXTT16=(Ammons)
+EXTT17=(Hines)
+EXTT18=(Tatum)
+EXTT19=(Price)
+PLAYORDER=

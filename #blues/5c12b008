@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	155
+#	2070
+#	59762
+#	92280
+#	132445
+#	181185
+#	228767
+#	313600
+#
+# Disc length: 4786 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5c12b008
+DTITLE=Benny Golson - Three Little Words
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Intro
+TTITLE1=Where or when
+TTITLE2=Stablemates
+TTITLE3=My foolish heart
+TTITLE4=Quit nights of quiet stars
+TTITLE5=Just in time
+TTITLE6=Stella by Starlight
+TTITLE7=Three little words
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

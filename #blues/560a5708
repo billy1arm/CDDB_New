@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24118
+#	48919
+#	78513
+#	102326
+#	128939
+#	150317
+#	178107
+#
+# Disc length: 2649 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=560a5708
+DTITLE=Alf Häggkvist - Blue Serge
+DYEAR=2017
+DGENRE=Jazz
+TTITLE0=Stella By Starlight
+TTITLE1=Fluffy
+TTITLE2=Freely One
+TTITLE3=There Is No Greater Love
+TTITLE4=Freely Two
+TTITLE5=Autumn Leaves
+TTITLE6=Beautiful Contrast - Crystal Clear
+TTITLE7=Blue Serge
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16225
+#	33377
+#	54100
+#	77685
+#	95187
+#	113937
+#	131640
+#	147955
+#	170425
+#	193445
+#	210580
+#
+# Disc length: 3474 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a70d900c
+DTITLE=Nicolas Cauel - Canuel
+DYEAR=2000
+DGENRE=Québécois
+TTITLE0=ou je veux
+TTITLE1=hurler
+TTITLE2=un ami
+TTITLE3=brailler
+TTITLE4=communion
+TTITLE5=silence
+TTITLE6=un ange
+TTITLE7=elle
+TTITLE8=partie
+TTITLE9=mélamanie
+TTITLE10=cerveaulent
+TTITLE11=seul
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

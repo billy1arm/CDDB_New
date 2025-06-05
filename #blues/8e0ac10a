@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18645
+#	36152
+#	70425
+#	83560
+#	99495
+#	115935
+#	134212
+#	167355
+#	194872
+#
+# Disc length: 2755 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8e0ac10a
+DTITLE=Eric Jerardi - Eric Jerardi
+DYEAR=1900
+DGENRE=blues
+TTITLE0=My Blessing's My Curse
+TTITLE1=Payin' Dues
+TTITLE2=Glimpse Beyond Reality
+TTITLE3=Goodbye Destiny
+TTITLE4=So Many Things
+TTITLE5=Happiness is So Hard To Find
+TTITLE6=The Grass Ain't Greener on the Other Side
+TTITLE7=My Secret Sign
+TTITLE8=She
+TTITLE9=Mean, Heartless Women
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

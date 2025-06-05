@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17700
+#	41625
+#
+# Disc length: 785 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=1c030f03
+DTITLE=Four Seasons - MOVE ON!
+DYEAR=1999
+DGENRE=Game
+TTITLE0=MOVE ON!
+TTITLE1=そよ風のエチュード
+TTITLE2=MOVE ON!(オリジナル・カラオケ)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

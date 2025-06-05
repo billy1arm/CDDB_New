@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42970
+#	77412
+#	95480
+#	117540
+#	155130
+#
+# Disc length: 2367 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=46093d06
+DTITLE=Dave Brubeck Quartet - Dave Digs Disney
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Alice in Wonderland from "Alice in Wonderland"
+TTITLE1=Give a Little Whistle from "Pinocchio"
+TTITLE2=Heigh-Ho! from "Snow White and the Seven Dwarfs"
+TTITLE3=When You Wish upon a Star from "Pinocchio"
+TTITLE4=Someday My Prince Will Come from "Snow White and the Seven Dwarfs"
+TTITLE5=One Song from "Snow White and the Seven Dwarfs"
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

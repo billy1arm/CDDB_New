@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21042
+#	49500
+#	72900
+#	96030
+#	120422
+#
+# Disc length: 2018 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=4107e006
+DTITLE=Michel Sardaby Trio - Night Cap
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Traveling On
+TTITLE1=Night Cap
+TTITLE2=I'm Free Again
+TTITLE3=Maya
+TTITLE4=Nile Voyage
+TTITLE5=Satin Doll
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

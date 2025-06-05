@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12952
+#     31540
+#     46637
+#     58502
+#     80205
+#     97182
+#     112254
+#     126552
+#     141107
+# 
+# Disc length: 2146 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8708600a
+DTITLE=Robert Cray - The Score
+DYEAR=1900
+DGENRE=
+TTITLE0=Too Many Cooks
+TTITLE1=The Score
+TTITLE2=The Welfare (Turns It's Back On You)
+TTITLE3=That's What I'll Do
+TTITLE4=I'd Rather Be Wino
+TTITLE5=Who's Been Talkin'
+TTITLE6=Sleeping In The Ground
+TTITLE7=I'm Gonna Forget About You
+TTITLE8=Nice As A Fool Can Be
+TTITLE9=If You're Thinkin' What I'm Thinkin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

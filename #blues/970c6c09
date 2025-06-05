@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36738
+#	63600
+#	97967
+#	125099
+#	149563
+#	193696
+#	200692
+#	213300
+#
+# Disc length: 3182 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=970c6c09
+DTITLE=Benjamin Schaefer - Beneath The Surface
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Bryant Park
+TTITLE1=Legend Of The Green Parrots
+TTITLE2=Distant Shores
+TTITLE3=Shanty
+TTITLE4=Descent
+TTITLE5=Beneath The Surface
+TTITLE6=Davy Jones
+TTITLE7=Swan Song
+TTITLE8=Texas
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

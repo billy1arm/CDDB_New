@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54387
+#	96237
+#	124377
+#	169017
+#
+# Disc length: 2907 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=3e0b5905
+DTITLE=Vienna Opera Orchestra - Johann Strauss - Waltzes
+DYEAR=1900
+DGENRE=
+TTITLE0=Emperor Waltz, Opus 437
+TTITLE1=Roses from the South, Opus 338
+TTITLE2=Wine, Women, and Song, Opus 333
+TTITLE3=Artist's Life, Opus 316
+TTITLE4=On the Beautiful Blue Danube, Opus 314
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

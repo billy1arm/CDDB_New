@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15625
+#	37375
+#	55275
+#	90110
+#	105275
+#	126225
+#
+# Disc length: 1906 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=50077007
+DTITLE=Herbie Hancock - The Piano
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=otani
+TTITLE1=time
+TTITLE2=island
+TTITLE3=my funny valentine
+TTITLE4=on green dolphin street
+TTITLE5=someday my prince will come
+TTITLE6=sonrisa
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

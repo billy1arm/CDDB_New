@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21864
+#	58460
+#	84073
+#	106193
+#	137751
+#	159264
+#	185958
+#	208248
+#	227600
+#	251925
+#
+# Disc length: 3732 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=980e920b
+DTITLE=San Francisco Jazz Quartet - Ode to Swing
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Bernie's Tune
+TTITLE1=Swingtime in Sonoma
+TTITLE2=Alice in Wonderland
+TTITLE3=Grove Merchant
+TTITLE4=Blue rondo a la turk
+TTITLE5=Favela
+TTITLE6=Skylark
+TTITLE7=If I Were a Bell
+TTITLE8=Slipslider
+TTITLE9=Love Theme from Spartacus
+TTITLE10=Ode to Joy - Avalon
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

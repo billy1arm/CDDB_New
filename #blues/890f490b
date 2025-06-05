@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19841
+#	43503
+#	59426
+#	70805
+#	93374
+#	114118
+#	127044
+#	150033
+#	211495
+#	241375
+#
+# Disc length: 3915 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=890f490b
+DTITLE=Edvard Grieg - Orchestral Works Vol.1
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Peer Gynt Suite N°1 Op.46 - Morgenstimmung  [Mark Ermler, Ruyal Philharmonic Orchestra]
+TTITLE1=Peer Gynt Suite N°1 Op.46 - Aases tod (Death of Aase)
+TTITLE2=Peer Gynt Suite N°1 Op.46 - Anitra's Tanz (Dance of Anitra)
+TTITLE3=Peer Gynt Suite N°1 Op.46 - In the Hall of Mountain King
+TTITLE4=Peer Gynt Suite N°2 Op.55 - Ingrid's Lament
+TTITLE5=Peer Gynt Suite N°2 Op.55 - Arabian Dance
+TTITLE6=Peer Gynt Suite N°2 Op.55 - Peer Gynt's Homecoming
+TTITLE7=Peer Gynt Suite N°2 Op.55 - Solveig's Song
+TTITLE8=Piano Concerto in A minor Op.16 - Allegro moderato  [Riccardo Chailly, Radio-Sinphonie-Orchester Berlin]
+TTITLE9=Piano Concerto in A minor Op.16 - Adagio                 [Jorge Bolet, piano]
+TTITLE10=Piano Concerto in A minor Op.16 - Allegro marcato
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

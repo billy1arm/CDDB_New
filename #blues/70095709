@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	900
+#	20660
+#	40183
+#	57537
+#	77411
+#	88807
+#	116948
+#	136510
+#	158809
+#
+# Disc length: 2403 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cddb-tool 0.4.7
+#
+DISCID=70095709
+DTITLE=Alice - Park Hotel
+DYEAR=1986
+DGENRE=Rock
+TTITLE0=Il Senso Dei Desideri
+TTITLE1=Viali Di Solitudine
+TTITLE2=Conoscersi
+TTITLE3=Citta Chiusa
+TTITLE4=Nuvole Rosse
+TTITLE5=Luci Lontane
+TTITLE6=Nomadi
+TTITLE7=Volo Di Notte
+TTITLE8=Segni Nel Cielo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19922
+#	36257
+#	49890
+#	60855
+#	74615
+#	91217
+#	110927
+#	127017
+#	142520
+#	163110
+#	173122
+#
+# Disc length: 2488 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=a609b60c
+DTITLE=TVサントラ - 機動戦士ZガンダムBGM集VOL.2
+DYEAR=1991
+DGENRE=Soundtrack
+TTITLE0=美しき地球
+TTITLE1=潜入
+TTITLE2=追撃
+TTITLE3=グリーン・ノア2
+TTITLE4=悲哀
+TTITLE5=Z-GUNDAM
+TTITLE6=モビル・スーツ
+TTITLE7=危機
+TTITLE8=憧れ
+TTITLE9=大会戦
+TTITLE10=廃墟
+TTITLE11=希望
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32984
+#	65306
+#	98508
+#
+# Disc length: 1747 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2906d104
+DTITLE=Esphyr Slobodkina - Caps For Sale
+DYEAR=1900
+DGENRE=Childrens
+TTITLE0=Caps For Sale - Hardcover with Signals
+TTITLE1=Caps For Sale - Hardcover no Signals
+TTITLE2=Caps For Sale - Paperback with Signals
+TTITLE3=Caps For Sale - Paperback no Signals
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

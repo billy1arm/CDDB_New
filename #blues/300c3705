@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	68367
+#	100406
+#	128088
+#	150267
+#
+# Disc length: 3129 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=300c3705
+DTITLE=Marina Piccinini, Kim Kashkashian, Sivan Magen - TRE VOCI
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=Toru Takemitsu-And then I knew ´twas Wind
+TTITLE1=Claude Debussy-Sonata for flute, viola and harp: Pastorale
+TTITLE2=Claude Debussy-Sonata for flute, viola and harp: Interlude
+TTITLE3=Claude Debussy-Sonata for flute, viola and harp: Finale
+TTITLE4=Sofia Gubaidulina-Garten von Freuden und Traurigkeit
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

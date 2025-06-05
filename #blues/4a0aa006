@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38657
+#	95057
+#	120530
+#	152977
+#	176822
+#
+# Disc length: 2722 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4a0aa006
+DTITLE=Mozart - Mozart String Trio/ Divertimento in E-Flat Major, KV563
+DYEAR=1983
+DGENRE=Jazz
+TTITLE0=Divertimenyo in E-Flat Major, Allegro
+TTITLE1=Divertimenyo in E-Flat Major,Adagio
+TTITLE2=Divertimenyo in E-Flat Major,Menuetto: Allegro
+TTITLE3=Divertimenyo in E-Flat Major,Andante
+TTITLE4=Divertimenyo in E-Flat Major,Menuettp: Allegretto
+TTITLE5=Divertimenyo in E-Flat Major,Allegro
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

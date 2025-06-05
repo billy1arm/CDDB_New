@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15230
+#	29532
+#	41480
+#	56245
+#	71530
+#	84430
+#	100217
+#
+# Disc length: 1568 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=5e061e08
+DTITLE=Stu Williamson - Sapphire
+DYEAR=1955
+DGENRE=Jazz
+TTITLE0=Slugger
+TTITLE1=There'll Never Be Another You
+TTITLE2=Autumn In New York
+TTITLE3=Sunday
+TTITLE4=Sapphire
+TTITLE5=The Things We Did Last Summer
+TTITLE6=Don't Get Around Much Anymore
+TTITLE7=Strike Up The Band
+EXTD=YEAR: 1955
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

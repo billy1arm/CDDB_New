@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32241
+#	59652
+#	127348
+#
+# Disc length: 2504 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: freedbtool 1.11
+#
+DISCID=3d09c604
+DTITLE=Stevie Ray Vaughan - srv1987-07-23-d2
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=t01
+TTITLE1=t02
+TTITLE2=t03
+TTITLE3=t04
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

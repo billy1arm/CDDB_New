@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30183
+#	50565
+#	66482
+#	81724
+#	112509
+#	127154
+#
+# Disc length: 1901 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5c076b07
+DTITLE=Steve Grossman - Terra Firma
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Katonah
+TTITLE1=In it
+TTITLE2=37 Willoughby Place
+TTITLE3=Enya
+TTITLE4=Inmate Man
+TTITLE5=Relentless Lady
+TTITLE6=This Way Out
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

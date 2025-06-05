@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18180
+#	38055
+#	59728
+#	77758
+#
+# Disc length: 1298 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=36051005
+DTITLE=TOKIO - 宙船(そらふね)/do! do! do!
+DYEAR=2006
+DGENRE=JPop
+TTITLE0=宙船(そらふね)
+TTITLE1=do! do! do!
+TTITLE2=リプライ
+TTITLE3=宙船(そらふね)(Backing Track)
+TTITLE4=do! do! do!(Backing Track)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	80150
+#	135090
+#	182082
+#	210065
+#	251507
+#
+# Disc length: 3708 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=420e7a06
+DTITLE=Chris Jarrett - Live In Tübingen
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Protzeduren
+TTITLE1=Wanderings
+TTITLE2=Dance Dreams
+TTITLE3=Musica Satirica
+TTITLE4=Ballade
+TTITLE5=Moon Music
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15780
+#	40820
+#	53440
+#	75332
+#	91960
+#	109142
+#	129852
+#	154617
+#	168575
+#
+# Disc length: 2534 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f09e40a
+DTITLE=Bob Hall and George Green - Shufflin' The Boogie
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=Rocket 88
+TTITLE1=I'm In A World of Trouble
+TTITLE2=Barrel House Boogie
+TTITLE3=Foo Woo
+TTITLE4=Great Western Boogie
+TTITLE5=Shufflin' The Boogie
+TTITLE6=Swanee River Boogie
+TTITLE7=Why I'm Leaving You
+TTITLE8=Too Late For That Now
+TTITLE9=Jammin' The Boogie
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

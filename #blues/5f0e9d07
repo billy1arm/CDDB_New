@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	50687
+#	93935
+#	132940
+#	180690
+#	220840
+#	256880
+#
+# Disc length: 3743 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=5f0e9d07
+DTITLE=Laurent de Wilde - Barney Wilen 'the Osaka concert'
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Que reste-t-il de nos Amours
+TTITLE1=L'âmes des poêtes
+TTITLE2=Les feuilles mortes
+TTITLE3=Sous le ciel de Paris
+TTITLE4=Lullaby pour enfants - Talisman
+TTITLE5=No problem
+TTITLE6=Night in Tunisia
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

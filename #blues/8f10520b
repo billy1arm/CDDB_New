@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24502
+#	36443
+#	82020
+#	95372
+#	129574
+#	156092
+#	192106
+#	225411
+#	244458
+#	272176
+#
+# Disc length: 4180 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=8f10520b
+DTITLE=François Bourassa Quartet - Indefinite Time
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=I Dropped the Radio
+TTITLE1=Transit
+TTITLE2=Boubaca
+TTITLE3=WS Part I
+TTITLE4=WS Part II
+TTITLE5=Check out Time
+TTITLE6=Nuit
+TTITLE7=Véquéchieun
+TTITLE8=Won u Part I
+TTITLE9=Won u Part II
+TTITLE10=Could You do The Dishes Please?
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

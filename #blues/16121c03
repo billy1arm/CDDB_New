@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	124712
+#	240037
+#
+# Disc length: 4638 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=16121c03
+DTITLE=Various Artist - Bravo Hit Mix No. 1
+DYEAR=2005
+DGENRE=Mix
+TTITLE0=Barvo 13 Mix
+TTITLE1=Bravo 14 Mix
+TTITLE2=Bravo 15 Mix
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

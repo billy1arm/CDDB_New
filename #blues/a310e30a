@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	29237
+#	46585
+#	65517
+#	111980
+#	123637
+#	149827
+#	198487
+#	241355
+#	282300
+#
+# Disc length: 4325 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a310e30a
+DTITLE=Prokofiev - Concertos pour piano N°1-2-3 (Kurt Masur, Gewandhaus-Orchester Leipzig - Michel Béroff)
+DYEAR=1974
+DGENRE=Contemporain
+TTITLE0=Concerto pour piano N°1 en ré majeur, Op.10 - I. Allegro brioso
+TTITLE1=Concerto pour piano N°1 en ré majeur, Op.10 - II. Andante assai
+TTITLE2=Concerto pour piano N°1 en ré majeur, Op.10 - III. Allegro scherzando
+TTITLE3=Concerto pour piano N°2 en sol mineur, Op.16 - I. Andantino - Allegretto
+TTITLE4=Concerto pour piano N°2 en sol mineur, Op.16 - II. Scherzo (vivace)
+TTITLE5=Concerto pour piano N°2 en sol mineur, Op.16 - III. Intermezzo (allegro moderato)
+TTITLE6=Concerto pour piano N°2 en sol mineur, Op.16 - IV. Finale (allegro tempestuoso)
+TTITLE7=Concerto pour piano N°3 en ut majeur, Op.26 - I. Andante - Allegro
+TTITLE8=Concerto pour piano N°3 en ut majeur, Op.26 - II. Thème et variations
+TTITLE9=Concerto pour piano N°3 en ut majeur, Op.26 - III. Allegro ma non troppo
+EXTD=Michel Beroff, piano\nGewandhaus-Orchester Leipzig\nKurt Masur, conductor YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

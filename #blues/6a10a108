@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48673
+#	76222
+#	121825
+#	166591
+#	200811
+#	245525
+#	281048
+#
+# Disc length: 4259 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6a10a108
+DTITLE=Bill Evans and WDR Big Band Cologne - Van's Joint
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Soulgrass
+TTITLE1=Soulbop
+TTITLE2=Cool Eddie
+TTITLE3=Sweet Tea
+TTITLE4=Rattletrap
+TTITLE5=Let's Pretend
+TTITLE6=Van's Joint
+TTITLE7=Snap Dragon
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,244 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	1753
+#	6500
+#	9301
+#	11384
+#	13839
+#	16603
+#	21687
+#	22133
+#	28641
+#	33352
+#	34372
+#	35910
+#	38624
+#	47324
+#	50535
+#	51743
+#	53167
+#	56015
+#	60413
+#	65819
+#	70521
+#	74211
+#	76347
+#	82501
+#	88371
+#	94097
+#	99822
+#	105516
+#	111655
+#	117981
+#	124620
+#	131074
+#	139951
+#	143626
+#	146589
+#	149516
+#	155832
+#	162100
+#	168211
+#	174710
+#	177859
+#	180568
+#	183111
+#	185811
+#	188406
+#	195405
+#	200838
+#	201891
+#	208277
+#	214466
+#	217746
+#	220638
+#	227748
+#	229580
+#	233909
+#	240864
+#	243914
+#	246563
+#	253236
+#	255835
+#	259600
+#	262843
+#	265844
+#	271273
+#	272420
+#	279265
+#	285948
+#	288922
+#	291491
+#	297966
+#	304512
+#	311251
+#	312592
+#	317646
+#	324344
+#
+# Disc length: 4435 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=4f11514c
+DTITLE=東進ブックス - 今すぐ話せるタイ語単語集　Disk-A
+DYEAR=2002
+DGENRE=Books
+TTITLE0=Title
+TTITLE1=Prologue 基本単語　あいさつ
+TTITLE2=Prologue 基本単語　代名詞
+TTITLE3=Prologue 基本単語　数詞１
+TTITLE4=Prologue 基本単語　数詞２
+TTITLE5=Prologue 基本単語　類別詞
+TTITLE6=Prologue 基本単語　度量衡１
+TTITLE7=Prologue 基本単語　度量衡２
+TTITLE8=Prologue 基本単語　時刻
+TTITLE9=Prologue 基本単語　時間
+TTITLE10=Prologue 基本単語　週
+TTITLE11=Prologue 基本単語　曜日
+TTITLE12=Prologue 基本単語　日
+TTITLE13=Prologue 基本単語　月の名称
+TTITLE14=Prologue 基本単語　月、年
+TTITLE15=Prologue 基本単語　季節
+TTITLE16=Prologue 基本単語　方角
+TTITLE17=Prologue 基本単語　色
+TTITLE18=Prologue 基本単語　助動詞
+TTITLE19=Prologue 基本単語　疑問詞
+TTITLE20=Prologue 基本単語　前置詞
+TTITLE21=Prologue 基本単語　接続詞
+TTITLE22=Prologue 基本単語　場所を表す言葉
+TTITLE23=Part1　動きと五感　1.動作を表す　＜動詞１＞
+TTITLE24=Part1　動きと五感　1.動作を表す　＜動詞２＞
+TTITLE25=Part1　動きと五感　1.動作を表す　＜動詞３＞
+TTITLE26=Part1　動きと五感　2.感覚、感情を表す　＜動詞１＞
+TTITLE27=Part1　動きと五感　2.感覚、感情を表す　＜動詞２＞
+TTITLE28=Part1　動きと五感　3.ものごとの状態、状況を表す　＜動詞１＞
+TTITLE29=Part1　動きと五感　3.ものごとの状態、状況を表す　＜動詞２＞
+TTITLE30=Part1　動きと五感　3.ものごとの状態、状況を表す　＜動詞３＞
+TTITLE31=Part1　動きと五感　3.ものごとの状態、状況を表す　＜動詞４＞
+TTITLE32=Part1　ステップアップ　タイ文字のアルファベット
+TTITLE33=Part2　日常生活　1.日課、家事、買い物　＜名詞１＞
+TTITLE34=Part2　日常生活　1.日課、家事、買い物　＜名詞２＞
+TTITLE35=Part2　日常生活　1.日課、家事、買い物　＜名詞３＞
+TTITLE36=Part2　日常生活　1.日課、家事、買い物　＜名詞４＞
+TTITLE37=Part2　日常生活　1.日課、家事、買い物　＜動詞１＞
+TTITLE38=Part2　日常生活　1.日課、家事、買い物　＜動詞２＞
+TTITLE39=Part2　日常生活　1.日課、家事、買い物　＜動詞３＞
+TTITLE40=Part2　日常生活　2.食事、食品、料理　＜名詞１＞
+TTITLE41=Part2　日常生活　2.食事、食品、料理　＜名詞２＞
+TTITLE42=Part2　日常生活　2.食事、食品、料理　＜名詞３＞
+TTITLE43=Part2　日常生活　2.食事、食品、料理　＜名詞４＞
+TTITLE44=Part2　日常生活　2.食事、食品、料理　＜名詞５＞
+TTITLE45=Part2　日常生活　2.食事、食品、料理　＜名詞６＞
+TTITLE46=Part2　日常生活　2.食事、食品、料理　＜名詞７＞
+TTITLE47=Part2　日常生活　2.食事、食品、料理　＜動詞１＞
+TTITLE48=Part2　日常生活　2.食事、食品、料理　＜動詞２＞
+TTITLE49=Part2　日常生活　2.食事、食品、料理　＜動詞３＞
+TTITLE50=Part2　日常生活　3.衣服、身の回り　＜名詞１＞
+TTITLE51=Part2　日常生活　3.衣服、身の回り　＜名詞２＞
+TTITLE52=Part2　日常生活　3.衣服、身の回り　＜名詞３＞
+TTITLE53=Part2　日常生活　3.衣服、身の回り　＜名詞４＞
+TTITLE54=Part2　日常生活　3.衣服、身の回り　＜動詞１＞
+TTITLE55=Part2　日常生活　3.衣服、身の回り　＜動詞２＞
+TTITLE56=Part2　日常生活　4.住居　＜名詞１＞
+TTITLE57=Part2　日常生活　4.住居　＜名詞２＞
+TTITLE58=Part2　日常生活　4.住居　＜名詞３＞
+TTITLE59=Part2　日常生活　4.住居　＜名詞４＞
+TTITLE60=Part2　日常生活　4.住居　＜動詞＞
+TTITLE61=Part2　日常生活　5.家族、人間関係　＜名詞１＞
+TTITLE62=Part2　日常生活　5.家族、人間関係　＜名詞２＞
+TTITLE63=Part2　日常生活　5.家族、人間関係　＜名詞３＞
+TTITLE64=Part2　日常生活　5.家族、人間関係　＜動詞１＞
+TTITLE65=Part2　日常生活　5.家族、人間関係　＜動詞２＞
+TTITLE66=Part2　日常生活　5.家族、人間関係　＜動詞３＞
+TTITLE67=Part2　日常生活　6.からだ、健康状態　＜名詞１＞
+TTITLE68=Part2　日常生活　6.からだ、健康状態　＜名詞２＞
+TTITLE69=Part2　日常生活　6.からだ、健康状態　＜名詞３＞
+TTITLE70=Part2　日常生活　6.からだ、健康状態　＜名詞４＞
+TTITLE71=Part2　日常生活　6.からだ、健康状態　＜名詞５＞
+TTITLE72=Part2　日常生活　6.からだ、健康状態　＜名詞６＞
+TTITLE73=Part2　日常生活　6.からだ、健康状態　＜動詞１＞
+TTITLE74=Part2　日常生活　6.からだ、健康状態　＜動詞２＞
+TTITLE75=Part2　日常生活　6.からだ、健康状態　＜動詞３＞
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+PLAYORDER=

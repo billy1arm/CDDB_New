@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26872
+#	56162
+#	74302
+#	105667
+#	133227
+#	160772
+#	191055
+#	215959
+#	238984
+#
+# Disc length: 3572 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=a10df20a
+DTITLE=Nature Quest - Midnight Fire
+DYEAR=1996
+DGENRE=New Age
+TTITLE0=Heavenly Glow
+TTITLE1=Twilight Hues
+TTITLE2=Luminous Arc
+TTITLE3=Astral Palette
+TTITLE4=Solar Messenger
+TTITLE5=Aurora Borealis
+TTITLE6=Celestial Rainbow
+TTITLE7=Dancing Lights
+TTITLE8=Sky Flames
+TTITLE9=Midnight Fire
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43978
+#	60656
+#	86501
+#	133742
+#	144343
+#	163619
+#	173665
+#
+# Disc length: 2616 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=690a3608
+DTITLE=Miles Davis - Miles Davis 1970 Concert in Tanglewood
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Miles Davis - Directions
+TTITLE1=Miles Davis - Bitches Brew
+TTITLE2=Miles Davis - The Mask
+TTITLE3=Miles Davis - It's About That Time
+TTITLE4=Miles Davis - Sanctuary
+TTITLE5=Miles Davis - Spanish Key
+TTITLE6=Miles Davis - The Theme
+TTITLE7=Miles Davis - Miles Runs the Voodoo Down
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

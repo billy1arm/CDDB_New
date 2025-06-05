@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9217
+#	24050
+#
+# Disc length: 443 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=0c01b903
+DTITLE=Los Compadres - Boniato Asado
+DYEAR=2002
+DGENRE=Salsa
+TTITLE0=Boniato Asado - T.V. Version
+TTITLE1=Boniato Asado - Original Version
+TTITLE2=Boniato Asado - Karaoke Version
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

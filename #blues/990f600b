@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	70100
+#	85425
+#	96075
+#	105000
+#	110175
+#	125700
+#	131775
+#	143475
+#	175800
+#	219325
+#
+# Disc length: 3938 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=990f600b
+DTITLE=カラヤン - チャイコフスキー：Ouverture solennelle "1812"
+DYEAR=1989
+DGENRE=Classical
+TTITLE0=Ouverture solennelle  1812 - Allegro
+TTITLE1=Casse Noisette op 71a - Ouverture Miniature Allegro
+TTITLE2=Casse Noisette op 71a - Marche
+TTITLE3=Casse Noisette op 71a - Danse de la F馥 Drag馥
+TTITLE4=Casse Noisette op 71a - Danse Russe Tr駱ak
+TTITLE5=Casse Noisette op 71a - Danse Arabe
+TTITLE6=Casse Noisette op 71a - Danse Chinoise
+TTITLE7=Casse Noisette op 71a - Danse des Mirlitons
+TTITLE8=Casse Noisette op 71a - Valse des Fleurs
+TTITLE9=Marche Slave op 31 - Andante molto
+TTITLE10=Capriccio italien op 45 - Capriccio italien op 45
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

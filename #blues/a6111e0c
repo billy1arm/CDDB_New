@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	26450
+#	50276
+#	73537
+#	102348
+#	141096
+#	163005
+#	189046
+#	215659
+#	244708
+#	267079
+#	298520
+#
+# Disc length: 4384 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.3.1JRelease
+#
+DISCID=a6111e0c
+DTITLE=MISIA - MISIA 'GREATEST HIT'
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=01 - Track
+TTITLE1=02 - Track
+TTITLE2=03 - Track
+TTITLE3=04 - Track
+TTITLE4=05 - Track
+TTITLE5=06 - Track
+TTITLE6=07 - Track
+TTITLE7=08 - Track
+TTITLE8=It's just love
+TTITLE9=09 - Track
+TTITLE10=11 - Track
+TTITLE11=12 - Track
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

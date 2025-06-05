@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3705
+#	15932
+#	23805
+#	35362
+#	45105
+#	54030
+#	67605
+#	80507
+#	99187
+#	110212
+#	122145
+#	139642
+#
+# Disc length: 2117 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8d08430d
+DTITLE=Paul McCartney - McCartney [DCC]
+DYEAR=1970
+DGENRE=Rock
+TTITLE0=The Lovely Linda
+TTITLE1=That Would Be Something
+TTITLE2=Valentine Day
+TTITLE3=Every Night
+TTITLE4=Hot As Sun - Glasses
+TTITLE5=Junk
+TTITLE6=Man We Was Lonely
+TTITLE7=Oo You
+TTITLE8=Momma Miss America
+TTITLE9=Teddy Boy
+TTITLE10=Singalong Junk
+TTITLE11=Maybe I'm Amazed
+TTITLE12=Kreen - Akrore
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

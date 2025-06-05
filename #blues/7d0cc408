@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#     183
+#     20753
+#     58328
+#     81218
+#     100298
+#     124383
+#     143950
+#     207540
+#
+# Disc length: 3270 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+#
+DISCID=7d0cc408
+DTITLE=Stevie Ray Vaughan - Cold Shot [CD1]
+DYEAR=1900
+DGENRE=
+TTITLE0=Say What
+TTITLE1=Aint Gonna Give Up On Love
+TTITLE2=Pride and Joy
+TTITLE3=Mary Had a Little Lamb
+TTITLE4=Cold Shot
+TTITLE5=I'm Leaving You
+TTITLE6=Tin Pan Alley
+TTITLE7=Look At Little Sister
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

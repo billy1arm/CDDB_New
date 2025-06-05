@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15987
+#	32487
+#	59187
+#	77062
+#	91000
+#	107925
+#	125187
+#	143387
+#
+# Disc length: 2404 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=6e096209
+DTITLE=Peter Green - Kolors
+DYEAR=1900
+DGENRE=
+TTITLE0=What Am I Doing Here?
+TTITLE1=Bad Bad Feeling
+TTITLE2=Big Boy Now
+TTITLE3=Black Woman
+TTITLE4=Bandit
+TTITLE5=Same Old Blues
+TTITLE6=Liquor and you
+TTITLE7=Gotta do it with me
+TTITLE8=Funky Jam
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	30658
+#	54648
+#	80695
+#	123333
+#	150833
+#	201458
+#	233058
+#	264333
+#
+# Disc length: 3912 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6e0f4609
+DTITLE=Breuer, Hermann and Breuer, Carolyn - family jazz
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=prost
+TTITLE1=my ideal
+TTITLE2=blue rock
+TTITLE3=fidelidade
+TTITLE4=brushes
+TTITLE5=trixi
+TTITLE6=that silver hilversum
+TTITLE7=lyrical excursion
+TTITLE8=sunset one
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

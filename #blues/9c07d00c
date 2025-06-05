@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     14122
+#     26370
+#     40072
+#     53235
+#     67170
+#     79142
+#     90652
+#     102967
+#     115347
+#     127845
+#     139512
+# 
+# Disc length: 2002 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9c07d00c
+DTITLE=Memphis Slim - Real Folk Blues, The
+DYEAR=1900
+DGENRE=
+TTITLE0=My Baby
+TTITLE1=Trouble Trouble
+TTITLE2=Slim's Blues
+TTITLE3=Tiajuana
+TTITLE4=I Guess I'm A Fool
+TTITLE5=Really Got The Blues
+TTITLE6=Feeling Low
+TTITLE7=For A Day
+TTITLE8=Mother Earth
+TTITLE9=Blues For My Baby
+TTITLE10=Marack
+TTITLE11=Having Fun
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

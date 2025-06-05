@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	14783
+#	31520
+#	60240
+#	80118
+#	100321
+#	130796
+#	144762
+#
+# Disc length: 2181 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=5d088308
+DTITLE=Mike Schau and Highway 61 - Livin' The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Herman's Boogie
+TTITLE1=Eat Where You Slept Last Night
+TTITLE2=Left Me Blue
+TTITLE3=Since You've Been Gone
+TTITLE4=White Bread
+TTITLE5=Red House
+TTITLE6=Say What?
+TTITLE7=Livin' The Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

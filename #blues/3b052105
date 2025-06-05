@@ -1,0 +1,32 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	20367
+#	33507
+#	74075
+#	86407
+#
+# Disc length: 1315
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.11 
+# Normalized: r1:DSETVAR2,TDELIM( - )
+#
+DISCID=3b052105
+DTITLE=Various Artist - Espace Rhythm and Blues
+DYEAR=1900
+DGENRE=Soul
+TTITLE0=Nina Simone - My Baby Just Cares For Me
+TTITLE1=Joe Tex - Show Me
+TTITLE2=James Brown - It's A Man's Man's Man's World
+TTITLE3=Ike and Tina Turner - Rock Me Baby
+TTITLE4=Chuck Berry - No Particular Place To Go
+EXTD=Offert par votre débitant
+EXTT0=Live
+EXTT1=
+EXTT2=Live
+EXTT3=
+EXTT4=
+PLAYORDER=

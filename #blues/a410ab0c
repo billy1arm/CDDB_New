@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	79236
+#	110010
+#	128694
+#	159869
+#	176737
+#	200510
+#	222482
+#	235602
+#	259835
+#	273220
+#	304865
+#
+# Disc length: 4269 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=a410ab0c
+DTITLE=Pink Floid - The Best Of Pink Floyd [CD 2)
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Shine on you crazy diamond (parts 1-7)
+TTITLE1=Time
+TTITLE2=The fletcher memorial home
+TTITLE3=Confortably numb
+TTITLE4=When the tigers broke free
+TTITLE5=One of these days
+TTITLE6=Us and them
+TTITLE7=Laerning to fly
+TTITLE8=Arnold Layne
+TTITLE9=Wish you were here
+TTITLE10=Jugband blues
+TTITLE11=High hopes
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

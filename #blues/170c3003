@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	93090
+#	202870
+#
+# Disc length: 3122 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=170c3003
+DTITLE=Adolphe Adam - Giselle - Actes I and II  (Gianfranco Rivoli, Orchestre des concerts de Paris)
+DYEAR=1900
+DGENRE=Ballet
+TTITLE0=Giselle - Acte I
+TTITLE1=Giselle - Acte II
+TTITLE2=Si j'étais roi - Ouverture  (Pierre-Michel Le Conte, Orchestre des concerts de Paris)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	20065
+#	55835
+#	74513
+#	89958
+#	112605
+#	148673
+#	169863
+#
+# Disc length: 2391 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=72095508
+DTITLE=Henri Guedon et L'Orchestre d' Harmonie du Havre - L'Opera Triangulaire
+DYEAR=1988
+DGENRE=Merengue
+TTITLE0=Yorub'Haitian Suite
+TTITLE1=Cantate Nubienne (Part I,II,III,IV)
+TTITLE2=Lapin Chaude (Karamel)
+TTITLE3=Balamambo
+TTITLE4=Oshun-Owner of a lonely heart
+TTITLE5=Hommage a' la paix (Part I,II,III)
+TTITLE6=Martinique via Le Havre Paris Saint-Lazare
+TTITLE7=Incantaion a' la liberte'
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

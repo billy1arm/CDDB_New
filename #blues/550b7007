@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31822
+#	69507
+#	87442
+#	121820
+#	160297
+#	186230
+#
+# Disc length: 2930 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=550b7007
+DTITLE=Holst - The Planets /Berlin Philharmonic Orchestra /Herbert von Karajan
+DYEAR=1993
+DGENRE=Classical
+TTITLE0=Mars,The Bringer Of War
+TTITLE1=Venus,The Bringer Of Peace
+TTITLE2=Mercury,The Winger Messenger
+TTITLE3=Jupiter,The Bringer Of Jollity
+TTITLE4=Saturn,The Bringer Of Old Age
+TTITLE5=Uranus,The Magician
+TTITLE6=Neptune,Themystic
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

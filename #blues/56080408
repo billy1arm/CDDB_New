@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19098
+#	34778
+#	60303
+#	78268
+#	94648
+#	120705
+#	138810
+#
+# Disc length: 2054 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.10
+#
+DISCID=56080408
+DTITLE=Artie White - Blues Boy
+DYEAR=1985
+DGENRE=Blues
+TTITLE0=Warm Room
+TTITLE1=Leaning Tree
+TTITLE2=I Need Someone
+TTITLE3=Chain of Fools
+TTITLE4=Turned Out
+TTITLE5=Funny How Time Slips Away
+TTITLE6=Jimmie
+TTITLE7=What Pleases You, Pleases Me
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

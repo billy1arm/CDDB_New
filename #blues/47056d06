@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20739
+#	35285
+#	55850
+#	70436
+#	91009
+#
+# Disc length: 1391 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=47056d06
+DTITLE=AAA - Seaside Bound
+DYEAR=2015
+DGENRE=avex
+TTITLE0=Seaside Bound
+TTITLE1=F-3
+TTITLE2=Seaside Bound (Instrumental)  
+TTITLE3=F-3 (Instrumental)  
+TTITLE4=Seaside Bound (Acappella)  
+TTITLE5=F-3 (Acappella)  
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

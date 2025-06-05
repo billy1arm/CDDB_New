@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	17990
+#	35755
+#	49495
+#	63517
+#	76407
+#	87772
+#	113305
+#	128272
+#	149282
+#	180072
+#	198395
+#
+# Disc length: 2887 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.50
+#
+DISCID=940b450c
+DTITLE=Mike Morgan and the Crawl - Mighty Fine Dancin'
+DYEAR=1900
+DGENRE=
+TTITLE0=Losing Ground
+TTITLE1=You Ain't Like You Used to Be
+TTITLE2=Just the Kind of Man I Am
+TTITLE3=Frankie's Blues
+TTITLE4=Don't Stay Out All Night Long
+TTITLE5="Big D" Shuffle
+TTITLE6=Kiss Me Baby
+TTITLE7=Movin' It On
+TTITLE8=Cause I Love You
+TTITLE9=Blues for Al and Peggy
+TTITLE10=I Don't Want You Hanging Around
+TTITLE11=Swingin' Mama
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

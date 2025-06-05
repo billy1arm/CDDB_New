@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38335
+#	73455
+#	106402
+#	139165
+#	168837
+#
+# Disc length: 2717 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d0a9b06
+DTITLE=Art Farmer, Phil Woods - What Happens?
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=Watch What Happens
+TTITLE1=Chelsea Bridge
+TTITLE2=Blue Bossa
+TTITLE3=Blue Lights
+TTITLE4=The Day After
+TTITLE5=Sunrise Sunset
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

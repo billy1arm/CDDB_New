@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36247
+#	70792
+#	114562
+#	150794
+#	167141
+#	194281
+#	221675
+#
+# Disc length: 3366 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta3
+#
+DISCID=660d2408
+DTITLE=D.E.W. East - D.E.W. East Meets Nick Brignola
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Grand Street
+TTITLE1=1110 Dovercourt
+TTITLE2=Albert's Song
+TTITLE3=The Hesitation Blues
+TTITLE4=Let's Monk
+TTITLE5=Three For Cappucine
+TTITLE6=Rhythm and Blues
+TTITLE7=You Don't Know What Love Is
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34329
+#	55023
+#	94921
+#	153918
+#
+# Disc length: 2300 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3608fa05
+DTITLE=Herbie Mann - Hold On, I'm Comin'
+DYEAR=1972
+DGENRE=Jazz
+TTITLE0=(Gimme Some Of That Good Old) Soul Beat Momma
+TTITLE1=Never Can Say Goodbye
+TTITLE2=Respect Yourself
+TTITLE3=Memphis Underground
+TTITLE4=Hold On, I'm Comin'
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

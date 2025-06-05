@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	62066
+#	93760
+#	138693
+#	174370
+#	189600
+#	217542
+#	248036
+#
+# Disc length: 4094 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=650ffc08
+DTITLE=Kevin Norton's Bauhaus Quartet - Time-Space Modulator
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Mother Tongue
+TTITLE1=Seoul Soul
+TTITLE2=Didkovsky
+TTITLE3=Milt's Forward-looking Tradition
+TTITLE4=Microbig
+TTITLE5=Atie Aife
+TTITLE6=Difficulty
+TTITLE7=Moonstruck
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

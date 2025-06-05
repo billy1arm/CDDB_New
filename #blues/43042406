@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	1988
+#	12210
+#	21870
+#	37020
+#	58943
+#
+# Disc length: 1062 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=43042406
+DTITLE=YMCK - Family Music
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Opening
+TTITLE1=Pastel Colored Candy
+TTITLE2=Darling
+TTITLE3=Pow * Pow
+TTITLE4=Does John Coltrane Dream of a Merry-go-round?
+TTITLE5=Yellow, Magenta, Cyan and Black(Themes from YMCK)
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

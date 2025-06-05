@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23610
+#	51007
+#	78437
+#	114007
+#	141730
+#	174842
+#	213855
+#
+# Disc length: 3228 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d0c9a08,640c9a08
+DTITLE=Big Bud - Late Night Blues [CD1)
+DYEAR=2000
+DGENRE=Downtempo
+TTITLE0=Return of Spiritman
+TTITLE1=On The Six
+TTITLE2=Baby
+TTITLE3=Mombassa
+TTITLE4=Sacha's Song
+TTITLE5=All Over The World
+TTITLE6=Soulfood
+TTITLE7=Persian Blues
+EXTD=YEAR: 2000
+EXTT0=Written by R. O'Reilly and Weldon Irvine. Produced by R. O'Reilly. WeldonIrvine (Vocal and Fender Rhodes)
+EXTT1=Written and Produced by R. O'Reilly. Les Lyons (Tenor Sax)
+EXTT2=Written and Produced by R. O'Reilly. Ellen Causey (Vocal)
+EXTT3=Written and Produced by R. O'Reilly. A. Gudgeon (Congas), A. Orba (Flute)
+EXTT4=Written and Produced by R. O'Reilly. A. Orba (Flute)
+EXTT5=Written and Produced by R. O'Reilly. Paul Gordon (Vocals)
+EXTT6=Written by R. O'Reilly and P.Windebank. Produced by R. O'Reilly.
+EXTT7=Written by R. O'Reilly and Weldon Irvine. Produced by R. O'Reilly. WeldonIrvine (Fender Rhodes)
+PLAYORDER=

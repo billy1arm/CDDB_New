@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31774
+#	47541
+#	74333
+#	103680
+#	120569
+#	146391
+#	158275
+#
+# Disc length: 2701 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=5a0a8b08
+DTITLE=Ucla Jazz Ensemble I - You Better Believe It
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Viva Tirado
+TTITLE1=I. Fast And Direct
+TTITLE2=II. Funky Camels
+TTITLE3=III. Missing Platlets
+TTITLE4=Love For Sale
+TTITLE5=Listen To The Dawn
+TTITLE6=Honeysuckle Rose
+TTITLE7=You Better Believe It
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

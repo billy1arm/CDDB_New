@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	44487
+#	73980
+#	86997
+#	105640
+#	119090
+#	177905
+#
+# Disc length: 3313 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=6a0cef07
+DTITLE=Tom Waits - Mainstreet--CD2
+DYEAR=1900
+DGENRE=
+TTITLE0=Spare Parts
+TTITLE1=Invitation To The Blues
+TTITLE2=Depot, Depot
+TTITLE3=San Diego Serenade
+TTITLE4=New Coat Of Paint
+TTITLE5=Putnam County/Big Joe And Phantom 309
+TTITLE6=Diamonds On My Windshield/Tom Traubert's Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

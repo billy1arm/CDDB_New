@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18212
+#     33447
+#     56600
+#     87005
+#     99160
+#     115320
+# 
+# Disc length: 1813 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=47071307
+DTITLE=A.N.G - London Bridge
+DYEAR=1900
+DGENRE=
+TTITLE0=London Bridge (Radio Mix)
+TTITLE1=Rufless Hoe (Radio Mix)
+TTITLE2=London Bridge (Bed Mix)
+TTITLE3=Rufless Hoe (Club Mix)
+TTITLE4=Excerpts From Outta Bounds
+TTITLE5=London Bridge (Radio Mix Too)
+TTITLE6=Rufless Hoe (Bonus Verses)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17147
+#	39889
+#	59495
+#	78208
+#	113672
+#	130482
+#	145828
+#	162207
+#	185813
+#
+# Disc length: 2803 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=820af10a
+DTITLE=Jake's Blues - First Time Out
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=She's Satisfied
+TTITLE1=Down in the Gut
+TTITLE2=Sick 'n Tired
+TTITLE3=Huckle Boogie
+TTITLE4=Telephone Man
+TTITLE5=Pass Me My Pain
+TTITLE6=Let Me In
+TTITLE7=I Was Wrong
+TTITLE8=I Need Your Love So Bad
+TTITLE9=Drivin' South (Part 2)
+EXTD=YEAR: 1995 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

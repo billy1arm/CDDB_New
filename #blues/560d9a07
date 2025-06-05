@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42107
+#	79000
+#	109792
+#	147870
+#	182888
+#	242027
+#
+# Disc length: 3484 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=560d9a07
+DTITLE=Stan Getz - Cherokee
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Cherokee
+TTITLE1=Ballad Medley: Tenderly - autumn in New York
+TTITLE2=Louise
+TTITLE3=Jumping  at the woodside
+TTITLE4=Gladys
+TTITLE5=All the things you are
+TTITLE6=The Folks Who Live On The Hill
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

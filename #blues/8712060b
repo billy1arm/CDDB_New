@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42509
+#	90796
+#	124961
+#	155371
+#	188570
+#	212706
+#	237157
+#	251382
+#	281654
+#	309116
+#
+# Disc length: 4616 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8712060b
+DTITLE=Various Artist - The Art Of Jazz - CD1
+DYEAR=1016
+DGENRE=Jazz
+TTITLE0=Miles Davis - So What
+TTITLE1=John Coltrane - Blue Train
+TTITLE2=Bill Evans - Night And Day
+TTITLE3=Dave Brubeck - Blue Rondo A La Turk
+TTITLE4=Charles Mingus - Better Git It In Your Soul
+TTITLE5=Bill Evans - Minority
+TTITLE6=Dave Brubeck - Three To Get Ready
+TTITLE7=Charles Mingus - Self Portrait In Three Colours
+TTITLE8=Bill Evans - Peace Piece
+TTITLE9=Ornette Coleman - Chronology
+TTITLE10=Charles Mingus - Fables Of Faubus
+EXTD=YEAR: 1016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22277
+#	44712
+#	69813
+#	92608
+#	116020
+#	135472
+#	163136
+#
+# Disc length: 2478 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c09ac08
+DTITLE=Midway Jazzquintet - Domicile du Jazz
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Centerpiece
+TTITLE1=Topsy
+TTITLE2=Big Music
+TTITLE3=Jumpin' at the Woodside
+TTITLE4=Lil' Darling
+TTITLE5=One Mint Julip
+TTITLE6=Night Train
+TTITLE7=Movin' with Lester
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

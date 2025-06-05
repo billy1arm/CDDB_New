@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37168
+#	72626
+#	103495
+#	123208
+#	141381
+#	163620
+#	215364
+#
+# Disc length: 3621 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=800e2308
+DTITLE=L. Smith, M. Turner, B. Mitchell, A. Laverne, J. Anderson, B.Drummond - Jam Session Vol 7
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Blues for Jimmy
+TTITLE1=On The Trail
+TTITLE2=Hat Trick
+TTITLE3=My Romance
+TTITLE4=What's New
+TTITLE5=I Love You Porgy
+TTITLE6=Autumn Leaves
+TTITLE7=Four
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

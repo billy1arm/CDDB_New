@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37329
+#	61791
+#	92297
+#	137131
+#
+# Disc length: 2381 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3c094b05
+DTITLE=Reuben Wilson - On Broadway
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=On Broadway
+TTITLE1=Baby I Love You
+TTITLE2=Ain't That Peculiar
+TTITLE3=Ronnie's Bonnie
+TTITLE4=Poinciana
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

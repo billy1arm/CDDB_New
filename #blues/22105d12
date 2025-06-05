@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15582
+#	38142
+#	54537
+#	69390
+#	87640
+#	104702
+#	120400
+#	138280
+#	155745
+#	172077
+#	194625
+#	208795
+#	224992
+#	244932
+#	262307
+#	280917
+#	300517
+#
+# Disc length: 4191 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=22105d12
+DTITLE=Various Artist - Canto e encanto nativo vol 6
+DYEAR=1900
+DGENRE=
+TTITLE0=Tropa de osso
+TTITLE1=Rancho coração
+TTITLE2=Galope do mouro
+TTITLE3=Ronda das casas
+TTITLE4=Tiempo adentro y campo afuera
+TTITLE5=Meu canto
+TTITLE6=Teu olhar
+TTITLE7=Prece pampeana
+TTITLE8=Sonho antigo
+TTITLE9=Recuerdos
+TTITLE10=Os cardeais
+TTITLE11=Potro saudade
+TTITLE12=Tormento
+TTITLE13=Sentimentos
+TTITLE14=Saudade aragana
+TTITLE15=Alma potra
+TTITLE16=Taim, um grito de alerta
+TTITLE17=Súplica de saudade
+EXTD=
+EXTT0=Oswaldir and Carlos Magr o\n(Humberto Zanatta - Luiz Carlos Borges)
+EXTT1=D lcio Tavares\n(M rcio Rosado - Jaime Brum Carlos)
+EXTT2=Os Mateadores\n(Lu s Bastos - Paulo R. Saavedra)
+EXTT3=Chiquito E Grupo Bordoneio\n(Araby Rodrigues - Nelson Ort cio - Pedro Neves)
+EXTT4=Pedro Orta a\n(Jo o Sampaio - Pedro Orta a)
+EXTT5=Adair De Freitas\n(Adair De Freitas)
+EXTT6=Os Tiranos\n( ngelo Marques - L o R. De Souza - Ricardo Marques)
+EXTT7=L o Almeida\n(M rio Barros)
+EXTT8=Os Caibat s\n(Vaine Darde - Gelson Couto)
+EXTT9=Grupo Minuano\n(Carlos B. Madruga - Dirceu Abrianos)
+EXTT10=Cesar Passarinho\n(Elton Saldanha)
+EXTT11=Grupo Rodeio\n(R gis Marques)
+EXTT12=Wilson Paim\n(S rgio R. Vieira - Neymar Xavier)
+EXTT13=Os Campeiros\n(Luiz Cl udio Dos Santos)
+EXTT14=Pampa E Guitarra\n(Fl vio Roberto Alves)
+EXTT15=Grupo Tropeiros\n(Xavier Fritsch)
+EXTT16=Teixeirinha Filho\n(Victor Mateus Teixeira Filho)
+EXTT17=Grupo Renascen a\n(Luiz Carlos Alves)
+PLAYORDER=

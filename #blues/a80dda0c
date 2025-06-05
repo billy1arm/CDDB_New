@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+#
+# Track frame offsets:
+#	150
+#	13916
+#	27049
+#	73144
+#	97053
+#	119544
+#	132737
+#	153397
+#	174006
+#	213418
+#	225625
+#	238229
+#
+# Disc length: 3548
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CoolCD_Studio 1.3
+#
+DISCID=a80dda0c
+DTITLE=Various Artist - Blues Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=John Lee Hooker - Hobo Blues
+TTITLE1=Etta James - A Sunday Kind Of Love
+TTITLE2=B.B.King - Lucille
+TTITLE3=Roy Buchanan - These Arms Of Mine
+TTITLE4=J.Wells - Vietcong Blues
+TTITLE5=Bessie Smith - Standin' In The Rain Blues
+TTITLE6=Dana Gillespie - Where Blue Begins
+TTITLE7=Luther Allison - Nobody But You
+TTITLE8=Ike Turner - All The Blues, All The Time
+TTITLE9=Elmore James - Blues Before Sunrise
+TTITLE10=Aretha Franklin - Today I Sing The Blues
+TTITLE11=Bather Smith - Play The Blues In Paris
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

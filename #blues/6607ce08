@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	167
+#	27300
+#	45557
+#	59110
+#	77285
+#	97092
+#	113042
+#	134367
+#
+# Disc length: 2000 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=6607ce08
+DTITLE=Little Walter and Otis Rush - Windy City Blues
+DYEAR=1967
+DGENRE=Blues
+TTITLE0=It's Hard for Me to Believe You Baby
+TTITLE1=May Be the Last Time
+TTITLE2=I Feel Good
+TTITLE3=Otis' Blues
+TTITLE4=Goin' Down Slow
+TTITLE5=Walter's Blues
+TTITLE6=Lovin' You All the Time
+TTITLE7=Blue Mood
+EXTD=YEAR: 1967 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

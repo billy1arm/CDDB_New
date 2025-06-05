@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24753
+#	45740
+#	61082
+#	79775
+#	101851
+#	133584
+#	193850
+#
+# Disc length: 3148 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=630c4a08
+DTITLE=Colin Towns and the NDR Bidband - John Lennon - In my own write CD 2
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Whatever gets you thru the night
+TTITLE1=Jealous guy
+TTITLE2=Slow going
+TTITLE3=Tomorrow never knows
+TTITLE4=beautiful boy (Darling boy)
+TTITLE5=Strawberry fields forever
+TTITLE6=a day in the life
+TTITLE7=imagine
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

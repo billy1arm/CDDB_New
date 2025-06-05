@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18500
+#	36787
+#	52792
+#
+# Disc length: 903 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=25038504
+DTITLE=Spice Girls - 2 Become 1
+DYEAR=1996
+DGENRE=Pop
+TTITLE0=2 Become 1 [Single Version]
+TTITLE1=2 Become 1 [Orchestral Version]
+TTITLE2=One Of These Girls
+TTITLE3=Sleigh Ride
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17018
+#	35010
+#	55633
+#	80358
+#	104490
+#	124060
+#	140365
+#	151993
+#	171303
+#	189783
+#	207585
+#
+# Disc length: 2982 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.67 - http://www.feurio.com
+#
+DISCID=9c0ba40c
+DTITLE=Blues Big Band - Live
+DYEAR=1989
+DGENRE=
+TTITLE0=Natural Ball
+TTITLE1=Pack It Up
+TTITLE2=Always Thinking Of You
+TTITLE3=Stormy Monday
+TTITLE4=Thrill's Gone
+TTITLE5=Don't Pay Them No Mind
+TTITLE6=Ain't Superstitious
+TTITLE7=Hey Bartender
+TTITLE8=Send Me Someone To Love
+TTITLE9=Letter Of Thanks
+TTITLE10=Got The Blues So Bad
+TTITLE11=Come On
+EXTD=Heidi Winter voc, Christiane Winning voc, Kurt Sogel voc, Heiner Dickhaut 
+EXTD=voc,\r\nJuergen Sprenger tp, Hermann Naegele tp, Karsten Fruechtenicht 
+EXTD=tp,\r\nDetlef Landeck tb, Berthold Althoff tb,\r\nWolfgang "Hugo" Scholz 
+EXTD=ts as harp voc, Thomas Phleps as g,\r\nPeter Zingrebe bs, Michael Frei g 
+EXTD=ts, Frank Pecher g as,\r\nHartmut Schmidt keyb, Jochen Bergmann 
+EXTD=p,\r\nMarkus Frei bg, Michael Konzog perc, Michael Rappold 
+EXTD=dr,\r\nrecorded live December 1989
+EXTT0=A.King
+EXTT1=G.Chandler/Gonzales
+EXTT2=C.Crowe
+EXTT3=A.Walker
+EXTT4=B.B.King
+EXTT5=P.Wingfield
+EXTT6=W.Dixon
+EXTT7=F.Dickson
+EXTT8=P.Mayfield
+EXTT9=J.Bruce/P.Brown
+EXTT10=T.Phleps
+EXTT11=E.King
+PLAYORDER=

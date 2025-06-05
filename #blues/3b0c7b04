@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49200
+#	123740
+#	185808
+#
+# Disc length: 3197 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3b0c7b04
+DTITLE=David S. Ware - Apogee - Birth of a Being
+DYEAR=1977
+DGENRE=Jazz
+TTITLE0=Prayer
+TTITLE1=Thematic Womb
+TTITLE2=A Primary Piece #1
+TTITLE3=A Primary Piece #2
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

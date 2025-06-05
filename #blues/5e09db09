@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15337
+#	38785
+#	53635
+#	76600
+#	92952
+#	117397
+#	136597
+#	158860
+#
+# Disc length: 2525 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=5e09db09
+DTITLE=Peewee Blues Gang - Jaguar and Thunderbird
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=scratch my back
+TTITLE1=jaguar and thunderbird
+TTITLE2=love me tonight
+TTITLE3=have a heart
+TTITLE4=hood bird
+TTITLE5=long cold winter
+TTITLE6=when the game is over
+TTITLE7=ninja heart
+TTITLE8=need your lovin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

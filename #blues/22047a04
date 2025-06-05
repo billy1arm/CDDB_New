@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18055
+#	41613
+#	68438
+#
+# Disc length: 1148 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=22047a04
+DTITLE=Jazzkantine - Unknown CD for MusicBrainz and FreeDB
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Alles Nur Chemie (Radio Mix)
+TTITLE1=Alles Nur Chemie (Rias Big Band Mix)
+TTITLE2=Alles Nur Chemie (Erchi's Space Mix)
+TTITLE3=Alles Nur Chemie (Instrumental)
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

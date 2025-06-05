@@ -1,0 +1,78 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18512
+#	33466
+#	52081
+#	63733
+#	84632
+#	95432
+#	112106
+#	126821
+#	144500
+#	164252
+#	174754
+#	187794
+#	198986
+#	210563
+#	223205
+#	244369
+#	263559
+#	285271
+#	315050
+#
+# Disc length: 4433 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=1b114f14
+DTITLE=Ella Fitzgerald and Cole Porter * Ella Fitzgerald/Louis Armstrong - Dream
+DTITLE=Dancing (1-15) * Ella and Louis (16-20)
+DYEAR=1900
+DGENRE=
+TTITLE0=Dream Dancing
+TTITLE1=I've Git You Under My Skin
+TTITLE2=I Concentrate On You
+TTITLE3=My Heart Belongs To Daddy
+TTITLE4=Love For Sale
+TTITLE5=So Near ANd Yet So Far
+TTITLE6=Down In The Depth
+TTITLE7=After You
+TTITLE8=Just One Of Those Things
+TTITLE9=I Get A Kick Out Of You
+TTITLE10=All Of You
+TTITLE11=Anything Goes
+TTITLE12=At Long Last Love
+TTITLE13=C'est Magnifique
+TTITLE14=Without Love
+TTITLE15=They Can't Take That Away From Me
+TTITLE16=Gee Baby Ain't Good To You
+TTITLE17=I Won't Dance
+TTITLE18=It Ain't Necessarily So
+TTITLE19=A Fine Romance
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

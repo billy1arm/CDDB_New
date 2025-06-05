@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29718
+#	62440
+#	107515
+#	137838
+#	178000
+#	210150
+#	255528
+#
+# Disc length: 3875 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=680f2108
+DTITLE=Don Friedman - Hot Knepper and Pepper
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Audobon (Take 4)
+TTITLE1=I'm getting sentimental over you (Take 2)
+TTITLE2=Hellure
+TTITLE3=Groovin' high
+TTITLE4=Medley: Alfie, Laura, Prelude to a kiss, I got it bad
+TTITLE5=I'm getting sentimental over you (Alt. Take 1)
+TTITLE6=Beautiful Love (Alt. Take 1)
+TTITLE7=Audobon (Alt. Take 3)
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

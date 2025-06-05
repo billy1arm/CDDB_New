@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15737
+#	43527
+#	56920
+#	82685
+#	101665
+#	126875
+#	147902
+#	179250
+#	200100
+#
+# Disc length: 3089 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=880c0f0a
+DTITLE=Hunter, Long John - Ride with me
+DYEAR=1900
+DGENRE=
+TTITLE0=Ride With Me
+TTITLE1=Irene
+TTITLE2=El Paso Rock
+TTITLE3=Crazy Love
+TTITLE4=Bad Feet
+TTITLE5=I Raise My Hand
+TTITLE6=Dream About the Devil
+TTITLE7=West Texas Homecoming
+TTITLE8=Tell Me
+TTITLE9=Still Blue
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

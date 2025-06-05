@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40035
+#	80762
+#	112587
+#	151182
+#
+# Disc length: 2562 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2a0a0005
+DTITLE=Marcio Doctor - Restless World
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Primal Soils
+TTITLE1=Restless World
+TTITLE2=The Unique Wind
+TTITLE3=Sombras del Regreso
+TTITLE4=Playground in the Dark
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

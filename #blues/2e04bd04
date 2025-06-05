@@ -1,0 +1,28 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 17900
+# 40975
+# 71430
+#
+# Disc length: 1215 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.2.328
+#
+DISCID=2e04bd04
+DTITLE=Fish - Something in the air
+DYEAR=1900
+DGENRE=
+TTITLE0=Something in the air (radio edit)
+TTITLE1=Something in the air (album mix)
+TTITLE2=Something in the air (teddybear mix)
+TTITLE3=Dear friend (live)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13727
+#	27330
+#	37732
+#	51350
+#	68695
+#	80877
+#	92367
+#	101805
+#
+# Disc length: 1553 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=6b060f09
+DTITLE=Various Artist - Sweet Home Blues
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Rock Me Baby - B.B. King
+TTITLE1=Wang Dang Doodle - Koko Taylor
+TTITLE2=First Time I Met The Blues - Buddy Guy
+TTITLE3=Bad Luck -Albert King/Otis Rush
+TTITLE4=The Red Rooster - Howlin' Wolf
+TTITLE5=Cry, Cry, Cry - Bobby Bland
+TTITLE6=Sweet Home Chicago - Junior Parker
+TTITLE7=Frostbite - Albert Collins
+TTITLE8=Whose Muddy Shoes - Elmore James
+EXTD=YEAR: 2000 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

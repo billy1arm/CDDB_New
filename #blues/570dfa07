@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50973
+#	96058
+#	128718
+#	176270
+#	193670
+#	242460
+#
+# Disc length: 3580 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=570dfa07
+DTITLE=Gabriel Faure - Quintettes pour piano and cordes - Jean Hubeau, Quatuor Via Nova
+DYEAR=1984
+DGENRE=Classical
+TTITLE0=Quintette No 1, Op. 89 - Molto moderato
+TTITLE1=Quintette No 1, Op. 89 - Adagio
+TTITLE2=Quintette No 1, Op. 89 - Allegretto moderato
+TTITLE3=Quintette No 2, Op. 115 - Allegro moderato
+TTITLE4=Quintette No 2, Op. 115 - Allegro vivo
+TTITLE5=Quintette No 2, Op. 115 - Andante moderato
+TTITLE6=Quintette No 2, Op. 115 - Allegro molto
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

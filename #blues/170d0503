@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6963
+#	128333
+#
+# Disc length: 3335 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta4
+#
+DISCID=170d0503
+DTITLE=Sottotono - Soprattutto sotto
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Solo fischio
+TTITLE1=Lato A
+TTITLE2=Lato B
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

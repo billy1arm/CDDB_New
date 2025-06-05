@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11425
+#	23262
+#	37867
+#	49107
+#	61797
+#	77377
+#	85522
+#	97892
+#	113177
+#	125545
+#	137505
+#	151280
+#
+# Disc length: 2187 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8008890d
+DTITLE=Sarah Vaughan - Viva! Vaughan
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Boy From Ipanema Gimbel-De Moraes-Jobim)
+TTITLE1=Fascinating Rhythm (George and Ira Gershwin)
+TTITLE2=Night Song (C.Strouse-Lee Adams)
+TTITLE3=Mr. Lucky (Evans-Livingston-Mancini)
+TTITLE4=Fever (Coolie-Davenport)
+TTITLE5=Shiny Stockings (E.Fitzgerald-F.Foster)
+TTITLE6=Avalon (Rose-DeSylva-Jolson)
+TTITLE7=Tea For Two (Caeser-Youmans)
+TTITLE8=Quiet Nights Of Quiet Stars (Corcovado) (Lees-Jobim)
+TTITLE9=Stompin' At The Savoy (Webb-Goodman-Sampson)
+TTITLE10=Moment Of Truth (Scott-Scatterwhite)
+TTITLE11=Jive Samba (hendicks-Adderley)
+TTITLE12=Taste Of Honey
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

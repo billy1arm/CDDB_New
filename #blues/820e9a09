@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26316
+#	63602
+#	89836
+#	119066
+#	140502
+#	175653
+#	203812
+#	250802
+#
+# Disc length: 3740 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=820e9a09
+DTITLE=Nick Homes - Collected Dreams
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Helping Hands
+TTITLE1=I Fly
+TTITLE2=I Think I Got It
+TTITLE3=Five
+TTITLE4=Coalesce
+TTITLE5=Lord
+TTITLE6=Always There For Me 
+TTITLE7=Plazer
+TTITLE8=Gool
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

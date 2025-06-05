@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	34742
+#	78582
+#	120917
+#	155750
+#	185097
+#	217045
+#
+# Disc length: 3160 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5d0c5607
+DTITLE=And His Orchestra - A.H.O.
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Hornet (Lazro)
+TTITLE1=Paesaaggi (Bolcato)
+TTITLE2=Kitty Malone (Lacy)
+TTITLE3=Hardes (Lazro)
+TTITLE4=Saga of the outlaws (Tyler)
+TTITLE5=Chaboud jarret (Bolcato)
+TTITLE6=Bel ascoltare (Rollet)
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

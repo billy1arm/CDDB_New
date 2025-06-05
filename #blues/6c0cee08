@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32846
+#	59394
+#	91785
+#	124855
+#	154275
+#	186233
+#	220871
+#
+# Disc length: 3312 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c0cee08
+DTITLE=Mads Baerentzen Trio feat. Eric Alexander - 785 Madison Ave
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Gingerbread Boy
+TTITLE1=To The Doctor
+TTITLE2=Minor Move
+TTITLE3=Green Dolphin Street
+TTITLE4=Sunset
+TTITLE5=Scoochie
+TTITLE6=Bewitched
+TTITLE7=Voyage
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

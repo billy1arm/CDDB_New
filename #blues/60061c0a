@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  12785
+#  24787
+#  36325
+#  45835
+#  56505
+#  69445
+#  81132
+#  92482
+#  105085
+#
+# Disc length: 1566 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=60061c0a
+DTITLE=Mary Wells - Mary Wells
+DYEAR=1900
+DGENRE=
+TTITLE0=Two Lovers
+TTITLE1=Guess Who
+TTITLE2=My 2 Arms -You=Tears
+TTITLE3=Goody Goody
+TTITLE4=Stop Right Here
+TTITLE5=Laughing Back
+TTITLE6=Looking Back
+TTITLE7=(I Guess There's) No Love
+TTITLE8=Was It Worth It
+TTITLE9=Operator
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

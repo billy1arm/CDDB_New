@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19415
+#	39692
+#	61620
+#	88187
+#	102403
+#	121858
+#	142224
+#	155800
+#
+# Disc length: 2351 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=7e092d09
+DTITLE=Eurotrash - Compacted
+DYEAR=1999
+DGENRE=New Wave
+TTITLE0=Stone
+TTITLE1=Blurred
+TTITLE2=Prison Of Pain
+TTITLE3=Jodi
+TTITLE4=Still Life
+TTITLE5=Blurred (Club Mix)
+TTITLE6=Carnival
+TTITLE7=Still Life (Art Mix)
+TTITLE8=Jodi (Club Mix)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

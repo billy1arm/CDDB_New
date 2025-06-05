@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50345
+#	85684
+#	128079
+#	177169
+#
+# Disc length: 4440 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=34115605
+DTITLE=Art Blakey and The Jazz Messangers - Free For All
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Free For All
+TTITLE1=Hammer Head
+TTITLE2=The Core
+TTITLE3=Pensativa
+TTITLE4=Data Track
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

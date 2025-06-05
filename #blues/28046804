@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15115
+#     37227
+#     59282
+# 
+# Disc length: 1130 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=28046804
+DTITLE=MC 900 Ft Jesus - Killer Inside Me
+DYEAR=1900
+DGENRE=
+TTITLE0=Killer Inside Me (Killer Radio Edit)
+TTITLE1=Killer Inside Me (Meat Beat Manifestation #1)
+TTITLE2=Killer Inside Me (Killer Long Version)
+TTITLE3=Killer Inside Me (Adventures In Failure Dub)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

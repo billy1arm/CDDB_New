@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	14443
+#	34833
+#	53105
+#	66950
+#	76358
+#	90570
+#	106640
+#	121175
+#	140308
+#
+# Disc length: 2195 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7708910a
+DTITLE=Clara Sverner and Paulo Moura - Vou Vivendo
+DYEAR=1900
+DGENRE=
+TTITLE0=Vou Vivendo
+TTITLE1=Lamento
+TTITLE2=Ingenuo
+TTITLE3=Atraente
+TTITLE4=Amapa
+TTITLE5=Io T`amo
+TTITLE6=Monotonia
+TTITLE7=Samba-can ao 
+TTITLE8=Devaneio
+TTITLE9=Fantasia
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

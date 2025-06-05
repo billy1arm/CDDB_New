@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18900
+#	37762
+#	56475
+#
+# Disc length: 1001 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2203e704
+DTITLE=Kiroro - 最後のKiss
+DYEAR=1999
+DGENRE=JPop
+TTITLE0=最後のKiss
+TTITLE1=ちょきん
+TTITLE2=最後のKiss(カラオケ)
+TTITLE3=ちょきん(カラオケ)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

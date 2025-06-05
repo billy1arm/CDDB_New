@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16125
+#	32153
+#
+# Disc length: 638 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=18027c03
+DTITLE=GOTTA - FIFA ANTHEM
+DYEAR=2002
+DGENRE=Other
+TTITLE0=FIFA ANTHEM
+TTITLE1=FIFA ANTHEM Orchestra Version2
+TTITLE2=FIFA ANTHEM Samba Version
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

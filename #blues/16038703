@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23362
+#	45690
+#
+# Disc length: 905 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.7
+#
+DISCID=16038703
+DTITLE=Melissa Etheridge - Lucky - Bonus CD
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=Royal Station
+TTITLE1=No Souvenirs
+TTITLE2=Chrome Plated Heart
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35400
+#	61800
+#	74660
+#	90935
+#	104110
+#	121607
+#	138925
+#	165780
+#
+# Disc length: 2442 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d098809
+DTITLE=Glenn Gould - Three Keyboad Concertos
+DYEAR=1967
+DGENRE=Classical
+TTITLE0=Concerto No. 3 in D Major, BWV 1054 I-[Allegro]
+TTITLE1=Concerto No. 3 in D Major, BWV 1054 II-Adagio e piano sempre
+TTITLE2=Concerto No. 3 in D Major, BWV 1054 III-Allegro
+TTITLE3=Concerto No. 5 in F Minor, BWV 1056 I-Allegro
+TTITLE4=Concerto No. 5 in F Minor, BWV 1056 II-Largo
+TTITLE5=Concerto No. 5 in F Minor, BWV 1056 III-Presto
+TTITLE6=Concerto No. 7 in G Minor, BWV 1058 I-[Allegro]
+TTITLE7=Concerto No. 7 in G Minor, BWV 1058 II-Andante
+TTITLE8=Concerto No. 7 in G Minor, BWV 1058 III-Allegro assai
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

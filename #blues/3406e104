@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	29998
+#	64650
+#	84726
+#
+# Disc length: 1763 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3406e104
+DTITLE=Tart  - The End
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Arom im Tee
+TTITLE1=Deutschmann is(s)t Waldmeister
+TTITLE2=Fliegen Sie sofort nach Kuba
+TTITLE3=Gehe nicht über Los, ziehe nicht 4000 Mark ein
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27345
+#	42899
+#	81260
+#	149192
+#
+# Disc length: 2700 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.21
+#
+DISCID=430a8a05
+DTITLE=Jazz Explosion Superband - BERKLEE 1988 DISC-2 (early show)
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=drums solo
+TTITLE1=guitar and drums duet
+TTITLE2='Round Midnight
+TTITLE3=F Blues
+TTITLE4=Au Privave
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

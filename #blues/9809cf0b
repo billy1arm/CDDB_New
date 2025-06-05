@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15962
+#	35012
+#	50162
+#	65012
+#	81512
+#	103787
+#	117137
+#	137237
+#	159587
+#	174587
+#
+# Disc length: 2513 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=9809cf0b
+DTITLE=Lea Shabat - Chom Sheata Mechapess
+DYEAR=1990
+DGENRE=Blues
+TTITLE0=Rak Hachayim
+TTITLE1=Yareach Bashamayim
+TTITLE2=Kesem Haya Bilbul
+TTITLE3=Shir Eress Yashan
+TTITLE4=Chor Sheata Mechapess
+TTITLE5=Hergelim
+TTITLE6=Erev Bikurim
+TTITLE7=Kmo Even
+TTITLE8=Seret Milchama
+TTITLE9=Im Eda Lishmor
+TTITLE10=Lo Zocheret Eize Choref
+EXTD=YEAR: 1990 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

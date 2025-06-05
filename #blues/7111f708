@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14890
+#	128615
+#	166310
+#	200580
+#	242250
+#	273550
+#	291855
+#
+# Disc length: 4601 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: freedbtool 1.11
+#
+DISCID=7111f708
+DTITLE=Stevie Ray Vaughan and Buddy Guy - Live In Chicago
+DYEAR=1900
+DGENRE=
+TTITLE0=Still Got The Blues
+TTITLE1=Blues Jam
+TTITLE2=Scuttle Buttin'
+TTITLE3=Leave Me Girl Alone
+TTITLE4=Worry, Worry
+TTITLE5=The Things That I Used To Do
+TTITLE6=Pride And Joy
+TTITLE7=Tin Pan Alley
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15208
+#     31843
+#     53715
+#     68918
+#     84168
+#     99630
+#     113143
+#     128085
+#     145313
+#     161828
+#     176645
+# 
+# Disc length: 2537 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9309e70c
+DTITLE=John Lee Hooker - Burning Hell
+DYEAR=1964
+DGENRE=Blues
+TTITLE0=Burning Hell
+TTITLE1=Graveyard Blues
+TTITLE2=Baby, Please Don't Go
+TTITLE3=Jackson, Tennessee
+TTITLE4=You Live Your Life And I'll Live Mine
+TTITLE5=Smokestack Lightin'
+TTITLE6=How Can You Do It?
+TTITLE7=Short-Haired Woman
+TTITLE8=I Rolled And Turned And Cried The Whole Night Long
+TTITLE9=Blues For My Baby
+TTITLE10=Key To The Highway
+TTITLE11=Natchez Fire (Burnin')
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

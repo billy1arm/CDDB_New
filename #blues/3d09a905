@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	58050
+#	100700
+#	122942
+#	168355
+#
+# Disc length: 2475 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=3d09a905
+DTITLE=Doug Watkins - Watkins at Large
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Return to Paradise
+TTITLE1=Phinupi
+TTITLE2=Phil T. McNasty's Blues
+TTITLE3=More of the Same
+TTITLE4=Panonica
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  13060
+#  29897
+#  54860
+#  75435
+#  93555
+#  107525
+#  122685
+#  144722
+#  161567
+#  182667
+#  195875
+#
+# Disc length: 2800 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=940aee0c
+DTITLE=Various Artist - Hot, Hot Reggae, Vol.2
+DYEAR=1900
+DGENRE=
+TTITLE0=Hammer/Bob Marley and the Wailers
+TTITLE1=Jamaica Rum/Greyhound
+TTITLE2=Sitting on the Dock of a Bay/Club Safari
+TTITLE3=Uptight/Georgie Fame
+TTITLE4=Cause You Love My Baby/Susan Cadagan
+TTITLE5=Touch Me/ Bob Marley and the Wailers
+TTITLE6=Sky High/Greyhound
+TTITLE7=Green, Green Grass of Home/Lou Thomm
+TTITLE8=Love Me/Susan Cadagan
+TTITLE9=Key to the World/Ruddt Thomas
+TTITLE10=Memphis/Bob Marley and the Wailers
+TTITLE11=Lilly/Greyhound
+EXTD=
+EXTT0=Bob Marley and the Wailers
+EXTT1=Greyhound
+EXTT2=Club Safari
+EXTT3=Georgie Fame
+EXTT4=Susan Cadagan
+EXTT5=Bob Marley and the Wailers
+EXTT6=Greyhound
+EXTT7=Lou Thomm
+EXTT8=Susan Cadagan
+EXTT9=Ruddt Thomas
+EXTT10=Bob Marley and the Wailers
+EXTT11=Greyhound
+PLAYORDER=

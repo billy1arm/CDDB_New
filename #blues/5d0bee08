@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34564
+#	65774
+#	91093
+#	120340
+#	153094
+#	182153
+#	201156
+#
+# Disc length: 3056 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5d0bee08
+DTITLE=John St. John - Mystic Winds
+DYEAR=1997
+DGENRE=New Age
+TTITLE0=Eastern Winds
+TTITLE1=Summer Breezes
+TTITLE2=Mystic Wind
+TTITLE3=Playful Breezes
+TTITLE4=West Wind
+TTITLE5=Arctic Winds
+TTITLE6=Windmills
+TTITLE7=Winds Of Change
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

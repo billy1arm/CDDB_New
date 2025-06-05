@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	64019
+#	111641
+#	156853
+#	199251
+#	226966
+#	257912
+#	285871
+#
+# Disc length: 4635 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=70121908
+DTITLE=SFJAZZ Collective - 4th Annual Concert Tour - disk II
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Haast Pass
+TTITLE1=Life at the End of the Tunnel
+TTITLE2=Lion's Gate
+TTITLE3=Peace Offering
+TTITLE4=Alcatraz - San Francisco Suite
+TTITLE5=Amoeba - San Francisco Suite
+TTITLE6=Assisi - San Francisco Suite
+TTITLE7=Union
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

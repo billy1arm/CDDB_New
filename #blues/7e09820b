@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	11220
+#	26120
+#	43888
+#	60485
+#	75558
+#	90498
+#	108813
+#	128638
+#	145675
+#	165188
+#
+# Disc length: 2436 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.4
+#
+DISCID=7e09820b
+DTITLE=John Lee Hooker - The 1965 London Sessions
+DYEAR=1900
+DGENRE=
+TTITLE0=I Don't Want Nobody Else
+TTITLE1=Storming On The Deep Blue Sea
+TTITLE2=I'm Losing You
+TTITLE3=Go Back To School, Little Girl
+TTITLE4=Don't Be Messing With My Bread
+TTITLE5=Mary Lee
+TTITLE6=I Cover The Waterfront
+TTITLE7=Crazy Mixed-Up World
+TTITLE8=Seven Days
+TTITLE9=Little Dreamer
+TTITLE10=Lost Everything
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

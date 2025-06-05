@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39205
+#	79743
+#	105305
+#	140580
+#	179093
+#	213080
+#
+# Disc length: 3512 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=550db607
+DTITLE=Chet Baker and Stan Getz - The Stockholm Concerts, Disc 2
+DYEAR=1983
+DGENRE=Jazz
+TTITLE0=My Funny Valentine
+TTITLE1=Sipping At Bell's
+TTITLE2=Stella By Starlight
+TTITLE3=Airegin
+TTITLE4=The Baggage Room Blues
+TTITLE5=We'll Be Together Again
+TTITLE6=I'll Remember April
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

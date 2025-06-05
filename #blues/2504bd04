@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25565
+#	45755
+#	71173
+#
+# Disc length: 1215 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=2504bd04
+DTITLE=有坂美香 - 月迷風影
+DYEAR=2002
+DGENRE=Anime
+TTITLE0=月迷風影
+TTITLE1=十二幻夢曲～孤月蒼夜
+TTITLE2=月迷風影 (Original Karaoke)
+TTITLE3=十二幻夢曲～孤月蒼夜 (Original Karaoke)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

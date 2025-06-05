@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21177
+#	68477
+#
+# Disc length: 1192 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.3.1JRelease
+#
+DISCID=1b04a603
+DTITLE=BLUESEED - Yousei Yori Ai Wo Komete
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=林原めぐみ/GO IT Alone
+TTITLE1=Blue Seed Cast/Yousei Yori Ai Wo Komete
+TTITLE2=Karaoke/GO IT Alone
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

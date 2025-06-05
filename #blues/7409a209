@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19372
+#	28250
+#	54435
+#	57855
+#	91970
+#	108427
+#	137982
+#	159945
+#
+# Disc length: 2468 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7409a209
+DTITLE=Black Sabbath - Born Again
+DYEAR=1983
+DGENRE=Heavy Metal
+TTITLE0=Trashed
+TTITLE1=Stonehenge
+TTITLE2=Disturbing The Priest
+TTITLE3=The Dark
+TTITLE4=Zero The Hero
+TTITLE5=Digital Bitch
+TTITLE6=Born Again
+TTITLE7=Hot Line
+TTITLE8=Keep It Warm
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

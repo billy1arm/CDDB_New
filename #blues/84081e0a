@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17085
+#     35545
+#     48917
+#     67497
+#     80622
+#     94125
+#     111165
+#     124595
+#     137320
+# 
+# Disc length: 2080 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=84081e0a
+DTITLE=Buddy Guy, Hubert Sumlin, Freddy King, Sonny Terry, etc. - A Celebrat
+DTITLE=ion of Blues - great Country Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Leave Me - Buddy Guy
+TTITLE1=Blues Is A Feelin' - Jesse Thomas
+TTITLE2=Shelby County Blues - Charlie Musselwhite
+TTITLE3=Mr. Downchild - Ronnie Earl and Robert Lockwood Jr.
+TTITLE4=Down the Dusty Road - Hubert Sumlin
+TTITLE5=Come On In My Kitchen - Johnny Shines
+TTITLE6=Travellin' Riverside Blues - Jimmy Thackery
+TTITLE7=Terraplane Blues - John Lee Hooker
+TTITLE8=Dust My Broom - Freddie King
+TTITLE9=So Tough With Me - Sonny Terry, Johnny Winter, Willie Dixon
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	21975
+#	60317
+#	69162
+#	91050
+#	123377
+#	132960
+#	171220
+#
+# Disc length: 2480 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta6
+#
+DISCID=6009ae08
+DTITLE=Marino - Blues for lovers
+DYEAR=1991
+DGENRE=Blues
+TTITLE0=Angel of mercy
+TTITLE1=Sanctify my soul
+TTITLE2=Lovers forever (Jan's theme)
+TTITLE3=Angel of mercy - Part 2 (Lovers become one)
+TTITLE4=Blissed out of Havana
+TTITLE5=Alone in the dark
+TTITLE6=Sanctified - Part 2 (Sweet seduction)
+TTITLE7=Blues for lovers
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

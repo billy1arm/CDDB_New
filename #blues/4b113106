@@ -1,0 +1,39 @@
+# xmcd CD Database Entry
+#
+# Track frame offsets:
+# 150
+# 95175
+# 136650
+# 173400
+# 251593
+# 274180
+#
+# Disc length: 4403 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: tcd 2.0b
+#
+DISCID=4b113106
+DTITLE=Brahms - Beethoven - Violin Concerto - Triple Corcerto
+DYEAR=1900
+DGENRE=
+TTITLE0=BRAHMS  Violin Concerto in D major Op 77   Allegro ma non tro
+TTITLE0=ppo
+TTITLE1=BRAHMS  Violin Concerto in D major Op 77   Adagio
+TTITLE2=BRAHMS  Violin Concerto in D major Op 77   Allegro, ma non tr
+TTITLE2=oppo vivace
+TTITLE3=BEETHOVEN  Concerto for Violin, cello and Piano in C major Op
+TTITLE3=56  Allegro
+TTITLE4=BEETHOVEN  Concerto for Violin, cello and Piano in C major Op
+TTITLE4=56  Largo
+TTITLE5=BEETHOVEN  Concerto for Violin, cello and Piano in C major Op
+TTITLE5=56  Rondo alla Polacca
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

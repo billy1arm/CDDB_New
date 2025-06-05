@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30455
+#	60390
+#	90547
+#	137117
+#
+# Disc length: 2531 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3609e105
+DTITLE=Freddie Hubbard - Ready For Freddie
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Ariets
+TTITLE1=Weaver Of Dreams
+TTITLE2=Marie Antoinette
+TTITLE3=Birdlike
+TTITLE4=Crisis
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

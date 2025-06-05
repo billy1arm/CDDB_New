@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	71120
+#	118708
+#	192721
+#
+# Disc length: 4086 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3d0ff404
+DTITLE=Beethoven - Symphony N°9, Op.125  (Karajan, Orchestra di Roma della RAI)
+DYEAR=1954
+DGENRE=Classique
+TTITLE0=Symphony N°9 in D minor Op.125 - I. Allegro non troppo. Un poco maestoso
+TTITLE1=Symphony N°9 in D minor Op.125 - II. Molto vivace. Presto
+TTITLE2=Symphony N°9 in D minor Op.125 - III. Adagio molto e cantabile. Andante moderato
+TTITLE3=Symphony N°9 in D minor Op.125 - IV. Presto - Allegro assai  '' Ode à la Joie ''
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

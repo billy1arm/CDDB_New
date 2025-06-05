@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15515
+#	38330
+#	58320
+#	80382
+#	90187
+#	105650
+#	128470
+#	162890
+#
+# Disc length: 2453 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=57099309
+DTITLE=The Three Sounds - Today' Sounds Live At The London House
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Downtown
+TTITLE1=Gee Baby, Ain't I Good To You
+TTITLE2=The Way I Feel
+TTITLE3=The Good Life
+TTITLE4=Mohair Sam
+TTITLE5=Simple Simon
+TTITLE6=A.M. Blues
+TTITLE7=Old Folks
+TTITLE8=Goodnight Ladies
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

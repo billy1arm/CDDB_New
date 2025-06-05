@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37139
+#	85838
+#	108928
+#	127721
+#	160607
+#	185268
+#	220704
+#	258441
+#	303480
+#
+# Disc length: 4415 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=78113d0a
+DTITLE=’βατον - Εξ Αδοκήτω
+DYEAR=1996
+DGENRE=New Age
+TTITLE0=Αερίων Επέων ’ρχομαι
+TTITLE1=Ουκ Εθέλω Πλουτείν
+TTITLE2=Μέλπεια
+TTITLE3="Αλόεσσα"
+TTITLE4=Ταις Έμαις Εταίραις
+TTITLE5=Τοίσι Μεν Ευ
+TTITLE6=Υμήναον
+TTITLE7=Βάκχος
+TTITLE8=Σιμούν
+TTITLE9=Έρως Αελίω
+EXTD=YEAR: 1996
+EXTT0=With A Few Celestial Words I Shall Begin\n
+EXTT1=I Do Not Wish I Were Wealthy\n
+EXTT2=Melpeia\n
+EXTT3=Aloessa\n
+EXTT4=To My Hetaerae\n
+EXTT5=For Those Who Lead A Happy Life\n
+EXTT6=Hymenaon\n
+EXTT7=Bacchus\n
+EXTT8=Simoun\n
+EXTT9=The Love For The Sun\n
+PLAYORDER=

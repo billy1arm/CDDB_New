@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14250
+#	29409
+#	45476
+#	59613
+#	76695
+#	90891
+#	107841
+#	126555
+#	139228
+#	162205
+#
+# Disc length: 2228 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=8808b20b
+DTITLE=Guido - Boomerang
+DYEAR=2003
+DGENRE=Schlager
+TTITLE0=Guido - Boomerang
+TTITLE1=Guido - Du und ich 
+TTITLE2=Guido - Dein kleiner Prinz
+TTITLE3=Guido - Du hast mir gerade noch gefehlt
+TTITLE4=Guido - Du, ich bin verliebt
+TTITLE5=Guido - Du bist bei mir
+TTITLE6=Guido - Himbeereis zum Frühstück
+TTITLE7=Guido - Die Fischer von San Juan
+TTITLE8=Guido - Tulpen aus Amsterdam
+TTITLE9=Guido - Patrona Bavariae '03
+TTITLE10=Data Track
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

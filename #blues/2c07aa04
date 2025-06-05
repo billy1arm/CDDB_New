@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46462
+#	76900
+#	126962
+#
+# Disc length: 1964 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=2c07aa04
+DTITLE=Herbie Hancock - V.S.O.P. - The quintet - Five stars
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Skagly
+TTITLE1=Finger painting
+TTITLE2=Mutants on the beach
+TTITLE3=Circe
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

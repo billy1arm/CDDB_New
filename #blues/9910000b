@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23612
+#	90568
+#	106204
+#	136605
+#	174597
+#	210847
+#	246457
+#	275634
+#	287562
+#	297557
+#
+# Disc length: 4098 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=9910000b
+DTITLE=PULLTOP - ゆのはなドラマCD vol.2 『われらゆのはな振興委員会』
+DYEAR=2005
+DGENRE=Game
+TTITLE0=Track01
+TTITLE1=Track02
+TTITLE2=Track03
+TTITLE3=Track04
+TTITLE4=Track05
+TTITLE5=Track06
+TTITLE6=Track07
+TTITLE7=Track08
+TTITLE8=Track09
+TTITLE9=Track10
+TTITLE10=Track11
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15120
+#	31992
+#	49180
+#	73772
+#	93312
+#	108177
+#	124280
+#	148965
+#	163750
+#	180910
+#
+# Disc length: 2617 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta5_freedb
+#
+DISCID=8d0a370b
+DTITLE=North Mississippi Allstars - 51 Phantom
+DYEAR=1900
+DGENRE=
+TTITLE0=51 Phantom
+TTITLE1=Snakes in My Bushes
+TTITLE2=Sugartown
+TTITLE3=Lord Have Mercy
+TTITLE4=Storm
+TTITLE5=Freedom Highway
+TTITLE6=Circle In the Sky
+TTITLE7=Ship
+TTITLE8=Leavin'
+TTITLE9=Up Over Yonder
+TTITLE10=Mud
+EXTD=Tone Cool 
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

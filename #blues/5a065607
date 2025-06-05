@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21990
+#	38981
+#	48856
+#	66118
+#	81916
+#	103275
+#
+# Disc length: 1624 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5a065607
+DTITLE=DA CAPO Borovichi Jazz Band - Demo
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Black cat bone - trad
+TTITLE1=Summertimes - Gershvin
+TTITLE2=Cowboys blues - trad
+TTITLE3=Hotel "Брак" - Maik
+TTITLE4=Mexican hip dance - Silver
+TTITLE5=Balmont blues - Da Capo
+TTITLE6=When the saints go marching in
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

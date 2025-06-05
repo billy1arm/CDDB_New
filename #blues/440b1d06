@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44137
+#	62575
+#	94905
+#	150764
+#	176535
+#
+# Disc length: 2847 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=440b1d06
+DTITLE=Muzio Clementi - Sonates N°2 and N°3, Op.50  (Pietro Spada, piano)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Sonate N°2 en ré mineur, Op.50 - I. Allegro non troppo ma con energia
+TTITLE1=Sonate N°2 en ré mineur, Op.50 - II. Adagio con espressione
+TTITLE2=Sonate N°2 en ré mineur, Op.50 - III. Allegro con fuoco ma non troppo presto
+TTITLE3=Sonate N°3 en sol mineur, Op.50 - I. Largo patetico e sostenuto - Allegro ma non espressione
+TTITLE4=Sonate N°3 en sol mineur, Op.50 - II. Adagio dolente
+TTITLE5=Sonate N°3 en sol mineur, Op.50 - III. Allegro agitato e con disperazione
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

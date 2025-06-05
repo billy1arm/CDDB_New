@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45655
+#	81909
+#	112077
+#	141156
+#	191108
+#	226642
+#	243072
+#
+# Disc length: 3605 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=630e1308
+DTITLE=Franz Schubert - Symphonies N°1 and N°2  (Herbert von Karajan, Orchestre Philharmonique de Berlin)
+DYEAR=1978
+DGENRE=Classique
+TTITLE0=Symphonie N°1 en ré majeur, D.82 - I. Adagio - Allegro vivace
+TTITLE1=Symphonie N°1 en ré majeur, D.82 - II. Andante
+TTITLE2=Symphonie N°1 en ré majeur, D.82 - III. Menuetto (Allegro) and Trio
+TTITLE3=Symphonie N°1 en ré majeur, D.82 - IV. Allegro vivace
+TTITLE4=Symphonie N°2 en si bémol majeur, D.125 - I. Largo - Allegro vivace
+TTITLE5=Symphonie N°2 en si bémol majeur, D.125 - II. Andante
+TTITLE6=Symphonie N°2 en si bémol majeur, D.125 - III. Menuetto (Allegro vivace) and Trio
+TTITLE7=Symphonie N°2 en si bémol majeur, D.125 - IV. Presto vivace
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

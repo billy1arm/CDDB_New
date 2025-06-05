@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26150
+#	53900
+#	74581
+#	102439
+#	119810
+#	144501
+#	172379
+#	208076
+#
+# Disc length: 3168 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=970c5e09
+DTITLE=Paco De Lucia - Al Di Meola - John McLaughlin - The Guitar Trio
+DYEAR=1996
+DGENRE=Instrumental
+TTITLE0=La Estiba
+TTITLE1=Beyond the Mirage
+TTITLE2=Midsummer Night
+TTITLE3=Manha De Carnaval
+TTITLE4=Letter From India
+TTITLE5=Espiritu
+TTITLE6=Le Monastere Dans Les Montagnes
+TTITLE7=Azzura
+TTITLE8=Cardeosa
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

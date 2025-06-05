@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28371
+#	75188
+#	102008
+#	135553
+#	168800
+#	217599
+#	252206
+#
+# Disc length: 3521 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=540dbf08
+DTITLE=Bill Blue And The Nervous Guys - Live At The Full Moon Saloon
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Who's Making Love 01
+TTITLE1=Pretty Girl, Cadillac And Some Money 02
+TTITLE2=On My Knees 03
+TTITLE3=Don't Let Go 04
+TTITLE4=Unchain My Heart 05
+TTITLE5=Hard Work 06
+TTITLE6=OnThe Road For Big Boy 07
+TTITLE7=Got To Be Cool 08
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

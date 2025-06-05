@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26450
+#	51679
+#	78157
+#	101009
+#	121762
+#	161489
+#
+# Disc length: 2518 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.10
+#
+DISCID=4f09d407
+DTITLE=The Sala Brothers - Out of the Blue
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Until Forever
+TTITLE1=Back in the Day
+TTITLE2=Soul Steps
+TTITLE3=Essence
+TTITLE4=Out of the Blue
+TTITLE5=Eternal Flight
+TTITLE6=Colors and Shades
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

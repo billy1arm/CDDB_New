@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18157
+#	37895
+#	58657
+#	74155
+#	94955
+#	120780
+#	142830
+#	162282
+#	184517
+#	206757
+#	221095
+#
+# Disc length: 3158 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=a50c540c
+DTITLE=lucky peterson - **
+DYEAR=2001
+DGENRE=blues
+TTITLE0=deal with it
+TTITLE1=the other side
+TTITLE2=tribute to luther allison
+TTITLE3=shake
+TTITLE4=funny how time slips away
+TTITLE5=why can't we live together
+TTITLE6=ask me nothing 'bout the blues
+TTITLE7=she's giving me the blues
+TTITLE8=seduction
+TTITLE9=ta' ta' you
+TTITLE10=don't cry no more
+TTITLE11=ode to billy joe
+EXTD=YEAR: 2001  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

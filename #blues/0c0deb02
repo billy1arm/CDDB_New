@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	107414
+#
+# Disc length: 3565 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0c0deb02
+DTITLE=Otfried Preussler - Der Räuber Hotzenplotz - CD 1
+DYEAR=2005
+DGENRE=Hörbuch
+TTITLE0=Ein dreister Diebstahl
+TTITLE1=Der vertauschte Seppel
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32069
+#	60215
+#	85229
+#	109116
+#	140820
+#	161820
+#	184670
+#
+# Disc length: 2902 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=660b5408
+DTITLE=Thierry Lang - Lyoba 2
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Le vieux chalet
+TTITLE1=Que la Gruyère est belle
+TTITLE2=Rêver
+TTITLE3=A star to my father
+TTITLE4=Vos
+TTITLE5=A Molèson
+TTITLE6=Prayer for peace
+TTITLE7=La Montagne
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

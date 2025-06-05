@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     22550
+#     42247
+#     62930
+#     83702
+#     106620
+#     126740
+#     148815
+# 
+# Disc length: 2279 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6608e508
+DTITLE=Peabo Bryson - Quiet Storm
+DYEAR=1900
+DGENRE=
+TTITLE0=Since I've Been In Love
+TTITLE1=Somebody In Your Life
+TTITLE2=Good Combination
+TTITLE3=If You Love Me (Let Me Know)
+TTITLE4=The Higher You Climb
+TTITLE5=Catch
+TTITLE6=Only At Night
+TTITLE7=After You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

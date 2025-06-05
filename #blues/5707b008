@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13279
+#	37010
+#	52746
+#	75397
+#	85859
+#	101996
+#	128397
+#
+# Disc length: 1970 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5707b008
+DTITLE=The Wabash Cannonballs - The Wabash Cannonballs
+DYEAR=2006
+DGENRE=Blues
+TTITLE0=Dust my broom
+TTITLE1=Goin' down to Eli's
+TTITLE2=Ain't superstitious
+TTITLE3=Long distance call
+TTITLE4=Jaguar and Thunderbird
+TTITLE5=Hey bartender
+TTITLE6=Hoochie coochie man
+TTITLE7=Road runner
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

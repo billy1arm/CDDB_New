@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49210
+#	68662
+#	92070
+#	110315
+#	127525
+#	155177
+#	166047
+#
+# Disc length: 2506 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b09c808
+DTITLE=Various Artist - Live Jazz From Club 15
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Stan Getz Quartet - Desafinado
+TTITLE1=Stan Getz Quartet - The Shadow of Your Smile
+TTITLE2=Stan Getx Quartet - Tonight I Shall Sleep
+TTITLE3=Gene Krupa - Lover
+TTITLE4=Gene Krupa - Honeysuckle Rose
+TTITLE5=Gene Krupa -  Flying Home
+TTITLE6=Maynard Ferguson and His Orchestra - Take the A Train
+TTITLE7=Maynard Ferguson and His Orchestra - Got the Spirit
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

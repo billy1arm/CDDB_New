@@ -1,0 +1,46 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	5900
+#	11017
+#	19592
+#	35412
+#	42302
+#	52845
+#	93785
+#	103912
+#	117785
+# Disc length: 1707 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=7206a90a
+DTITLE=James Brown - Golden Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Hot Pants
+TTITLE1=Cold Sweat
+TTITLE2=I Can't Stand It
+TTITLE3=I Got You (I Feel Good)
+TTITLE4=Turn It Loose
+TTITLE5=I Got The Feeling
+TTITLE6=It's A Man's World
+TTITLE7=Papa's Got A Brand New Bag
+TTITLE8=Get On The Good Foot
+TTITLE9=Get Up Off That Thing
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

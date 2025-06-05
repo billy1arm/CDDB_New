@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25614
+#	47374
+#	67925
+#	93111
+#	121010
+#	148536
+#	176169
+#	187592
+#
+# Disc length: 2840 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=600b1609
+DTITLE=Tats Cats - Tats Cats
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Killer Joe
+TTITLE1=Povo
+TTITLE2=Straight Life
+TTITLE3=Memphis Underground
+TTITLE4=Manha De Carnaval
+TTITLE5=Jean Pierre
+TTITLE6=Autumn Leaves
+TTITLE7=My Ship
+TTITLE8=Song For My Father
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

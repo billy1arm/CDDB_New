@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13072
+#	40158
+#	55361
+#	81325
+#	94764
+#	110488
+#
+# Disc length: 2051 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=55080107
+DTITLE=Savoy Brown - Hellbound Train
+DYEAR=1972
+DGENRE=Blues
+TTITLE0=Doin' fine
+TTITLE1=Lost and lonely child
+TTITLE2=I'll make everything alright
+TTITLE3=Troubled by these days and times
+TTITLE4=If I could see an end
+TTITLE5=It'll make you happy
+TTITLE6=Hellbound train
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

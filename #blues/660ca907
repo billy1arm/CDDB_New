@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36142
+#	65892
+#	127950
+#	165690
+#	193312
+#	212542
+#
+# Disc length: 3243 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=660ca907
+DTITLE=Duke Ellington - Uptown
+DYEAR=1952
+DGENRE=Jazz
+TTITLE0=Take the 'A' Train
+TTITLE1=The Mooche
+TTITLE2=A Tone Parallel to Harlem (The Harlem Suite)
+TTITLE3=Perdido
+TTITLE4=The Controversial Suite (Before My Time)
+TTITLE5=The Controversial Suite (Later)
+TTITLE6=Skin Deep
+EXTD=YEAR: 1952
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

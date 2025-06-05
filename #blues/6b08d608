@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	24470
+#	42858
+#	53133
+#	81083
+#	115183
+#	137083
+#	149683
+#
+# Disc length: 2264 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b08d608
+DTITLE=Grace Jones - Slave To The Rhythm
+DYEAR=1985
+DGENRE=Blues
+TTITLE0=Jones The Rhythm
+TTITLE1=The Fashion
+TTITLE2=Operattack
+TTITLE3=Slave To The Rhythm
+TTITLE4=Frog and The Princess
+TTITLE5=The Crossing (Ooh The Action...)
+TTITLE6=Don't Cry - It's Only They Rhythm
+TTITLE7=Ladies And Gentleman: Miss Grace Jones
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

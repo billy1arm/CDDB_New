@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38142
+#	77880
+#	116224
+#	140656
+#	170943
+#	213014
+#	258107
+#
+# Disc length: 4200 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=71106608
+DTITLE=Dave Stryker - Keystone
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Keystone
+TTITLE1=Can't Buy Me Love
+TTITLE2=Sentinelese
+TTITLE3=Lady Sings The Blues
+TTITLE4=The Rose (For Mike Rosinsky)
+TTITLE5=First Strike
+TTITLE6=Tenderly
+TTITLE7=Watch What Happens
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

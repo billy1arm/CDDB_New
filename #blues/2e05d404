@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14634
+#	47040
+#	68575
+#
+# Disc length: 1494 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2e05d404
+DTITLE=Compilation - Jazzmag n°604 - King size
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Andy Emler MegaOctet - Ouvertoire
+TTITLE1=Diagonal/Jean-Christophe Cholet - Musette
+TTITLE2=Laurent Dehors - Carolina Shout
+TTITLE3=Marc Ducret - Tapage
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

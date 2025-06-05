@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  20557
+#  51112
+#  75112
+#  98845
+#
+# Disc length: 1642 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=2c066805
+DTITLE=Cameo - I Want It Now (Single)
+DYEAR=1900
+DGENRE=
+TTITLE0=I Want It Now (LP Version)
+TTITLE1=I Want It Now (12" Edit)
+TTITLE2=I Want It Now (Rough Mix)
+TTITLE3=I Want It Now (Then Dub)
+TTITLE4=I Want It Now (Now Dub)
+EXTD=From "Real men Wear Black"
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

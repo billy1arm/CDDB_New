@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28246
+#	61703
+#	144504
+#	216947
+#	243527
+#	281892
+#
+# Disc length: 4467 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=6c117107
+DTITLE=The Dorrs - Original Lives
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Little Red Rooster
+TTITLE1=Who Do You Love 
+TTITLE2=Light My Fire
+TTITLE3=The End
+TTITLE4=Roadhouse Blues
+TTITLE5=Back Door Man
+TTITLE6=When The Music Is Over
+EXTD=Original lives YEAR: 1999 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

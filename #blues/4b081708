@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Generated: Sam Apr 3 13:01:10 2004 by KSCD
+# 
+# Track frame offsets:
+#       150
+#       27013
+#       46694
+#       67547
+#       78869
+#       104260
+#       122609
+#       142590
+#
+# Disc length: 2073 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: Kscd 1.3.3
+#
+DISCID=4b081708
+DTITLE=barfly - 03
+DYEAR=1900
+DGENRE=
+TTITLE0=all blues
+TTITLE1=southern winds
+TTITLE2=moondance
+TTITLE3=donna lee
+TTITLE4=stormy monday
+TTITLE5=mingus eyes
+TTITLE6=watermelon man
+TTITLE7=thrill is gone
+EXTD=
+EXTT0=m. davis - columbia legacy - rec. o3
+EXTT1=m. blenk - rec. o3
+EXTT2=v . morrison - warner chapell music ltd. - rec. o2
+EXTT3=c. parker - savoy records - rec. o2
+EXTT4=a. walker - burlington music co. ltd. - rec. o2
+EXTT5=r. thompson - capitol records - rec. o3
+EXTT6=h. hancock - blue note - rec. o3
+EXTT7=r. hancock - r. darnell - elektra ent. group - rec. o2
+PLAYORDER=

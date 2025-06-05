@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14272
+#	32772
+#	46312
+#	57217
+#	68845
+#
+# Disc length: 1074 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=47043006
+DTITLE=Wilson Pickett - Wilson Pickett - Six Track Pack
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Mustang Sally
+TTITLE1=Hey Jude
+TTITLE2=Sugar Sugar
+TTITLE3=I'm a Midnight Mover
+TTITLE4=Don't Fight It
+TTITLE5=Funky Broadway
+EXTD=YEAR: 1998 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

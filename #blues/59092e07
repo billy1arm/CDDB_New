@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40362
+#	59607
+#	88390
+#	110365
+#	128620
+#	161277
+#
+# Disc length: 2352 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=59092e07
+DTITLE=Duke Jordan - Les Liaisons Dangereuses
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=No Problem #1
+TTITLE1=No Problem #2
+TTITLE2=No Problem #3
+TTITLE3=Jazz Vendor
+TTITLE4=Subway Inn
+TTITLE5=The Feeling Of Love #1
+TTITLE6=The Feeling Of Love #2
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

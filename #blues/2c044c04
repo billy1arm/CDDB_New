@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17576
+#	43141
+#	60646
+#
+# Disc length: 1102 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2c044c04
+DTITLE=강허달림 - 독백
+DYEAR=2005
+DGENRE=Blues
+TTITLE0=춤이라도 춰 볼까
+TTITLE1=독백
+TTITLE2=지하철 자유인
+TTITLE3=버려진 꿈
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

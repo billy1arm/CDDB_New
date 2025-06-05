@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	954
+#	17847
+#	42350
+#	65482
+#	103644
+#	120666
+#	148599
+#	172081
+#	199297
+#	283121
+#
+# Disc length: 4200 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9b10660b
+DTITLE=Pete Cornelius and the Devils - Live@Narooma
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Introduction
+TTITLE1=Coming Home
+TTITLE2=Leave my little girl alone
+TTITLE3=If you be my baby
+TTITLE4=afterschool blues
+TTITLE5=I'm tore down
+TTITLE6=Something inside of me 
+TTITLE7=Heartbreaker
+TTITLE8=All my heroes are dead
+TTITLE9=Hey Joe, Voodoo chile, Little wing
+TTITLE10=baby please don't go
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

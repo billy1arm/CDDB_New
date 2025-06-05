@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  19875
+#  37875
+#  49425
+#  70200
+#  85350
+#  101300
+#  116075
+#  130212
+#  161475
+#  184612
+#  200312
+#
+# Disc length: 2939 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.12
+#
+DISCID=9e0b790c
+DTITLE=William Clarke - Serious Intentions
+DYEAR=1900
+DGENRE=
+TTITLE0=Pawnshop Bound
+TTITLE1=Trying To Stretch My Money
+TTITLE2=Educated Fool
+TTITLE3=Going Down This Highway
+TTITLE4=I Know You're Fine
+TTITLE5=Driving My Life Away
+TTITLE6=Chasin' The Gator
+TTITLE7=With A Tear In My Eye
+TTITLE8=It's Been A Long Time
+TTITLE9=Work Song
+TTITLE10=I Feel Like Jumping
+TTITLE11=Soon Forgotten
+EXTD=ALCD 4806
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17655
+#	40887
+#	60917
+#	76190
+#	100075
+#	111007
+#	142677
+#	155405
+#	176662
+#	192887
+#	217145
+#
+# Disc length: 3614 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=890e1a0c,910e1c0c,930e1d0c
+DTITLE=The Ford Blues Band - Fords And Friends
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Tell Me Mama
+TTITLE1=Another Fine Day
+TTITLE2=Happy Anniversary Baby
+TTITLE3=I'm In Love
+TTITLE4=The Sign
+TTITLE5=Baby Please
+TTITLE6=Sahara Moon
+TTITLE7=Hey Sister
+TTITLE8=Tell Old Bill
+TTITLE9=Little Baby
+TTITLE10=That Happy Look In Your Eye
+TTITLE11=Luther's Lament
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

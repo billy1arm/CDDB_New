@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30599
+#	62998
+#	89385
+#	105835
+#	131988
+#
+# Disc length: 2112 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.74
+#
+DISCID=4a083e06
+DTITLE=Kollektif - hijazz CD2
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Sohbet-iVisal - Birol Yala, Engin Gurkey
+TTITLE1=Nikriz Sirto - Tanburi Gemil Bey
+TTITLE2=Bab-i Esrar - Birol Yala
+TTITLE3=Sagah - Tanburi Buyuk Osman Efendi
+TTITLE4=Saba Pesrevi - Nayi Osman Dede
+TTITLE5=Mindos - M. Alper Berksu
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

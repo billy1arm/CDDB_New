@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38034
+#	75316
+#	103877
+#	134087
+#	163987
+#
+# Disc length: 2540 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4c09ea06
+DTITLE=The Modern Jazz Quartet and Orchestra - Collectables Jazz Classics
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Around the Blues
+TTITLE1=Divertimento
+TTITLE2=England's Carol
+TTITLE3=Concertino for Jazz Quartet and Orchestra - First Movement
+TTITLE4=Concertino for Jazz Quartet and Orchestra - Second Movement
+TTITLE5=Concertino for Jazz Quartet and Orchestra - Third Movement
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

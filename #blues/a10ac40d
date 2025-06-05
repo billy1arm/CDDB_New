@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14568
+#     31995
+#     48985
+#     66875
+#     78908
+#     93128
+#     108698
+#     121778
+#     133430
+#     153275
+#     174965
+#     189968
+# 
+# Disc length: 2758 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=a10ac40d
+DTITLE=Henry Townsend - Mule
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Bad Luck Dice
+TTITLE1=Nothing But Trouble
+TTITLE2=Things Have Changed
+TTITLE3=The Old Man's Soul
+TTITLE4=Tears Come Rollin' Down
+TTITLE5=It's A Hard Road To Travel
+TTITLE6=Talkin' Guitar Blues
+TTITLE7=I'm Just An Ordinary Man
+TTITLE8=Alley Strut
+TTITLE9=Can't You See
+TTITLE10=Dark Clouds Rising
+TTITLE11=The Train Is At The Station
+TTITLE12=Overstayed My Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

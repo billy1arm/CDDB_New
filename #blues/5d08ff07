@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24103
+#	44734
+#	64478
+#	84456
+#	101179
+#	122713
+#
+# Disc length: 2305 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=5d08ff07
+DTITLE=John Lewis - The John Lewis Piano
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Harlequin
+TTITLE1=Little Girl Blue
+TTITLE2=The Bad And The Beautiful
+TTITLE3=D and E
+TTITLE4=Never Entered My Mind
+TTITLE5=Warmeland
+TTITLE6=Two Lyric Pieces a)Pierot. b)Colombine
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

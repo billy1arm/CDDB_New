@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34591
+#	49478
+#	62459
+#	84281
+#	105896
+#	132941
+#	143093
+#	154454
+#	184450
+#	211515
+#
+# Disc length: 2990 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=8e0bac0b
+DTITLE=Vadim Bondarenko - Seven Moons
+DYEAR=2003
+DGENRE=New Age
+TTITLE0=Flute Song I
+TTITLE1=Ballad
+TTITLE2=Prelude
+TTITLE3=Flute Song II
+TTITLE4=Nocturne
+TTITLE5=Flute Song III
+TTITLE6=Hymn
+TTITLE7=La Valse
+TTITLE8=Flute Song IV
+TTITLE9=Two Rainy Preludes
+TTITLE10=Dream
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

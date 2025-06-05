@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38682
+#	59664
+#	86875
+#	110495
+#	140176
+#	173427
+#	206933
+#	231392
+#
+# Disc length: 3462 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=870d8409
+DTITLE=Victor Castillo - Feng Shui
+DYEAR=2004
+DGENRE=New Age
+TTITLE0=Feng Shui
+TTITLE1=Yin Yang
+TTITLE2=Energía Vital
+TTITLE3=Madera
+TTITLE4=Fuego
+TTITLE5=Tierra
+TTITLE6=Metal
+TTITLE7=Agua
+TTITLE8=Armonía
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

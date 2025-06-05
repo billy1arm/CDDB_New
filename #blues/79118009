@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	750
+#	82265
+#	160260
+#	172817
+#	216925
+#	258195
+#	298012
+#	309875
+#	336187
+#
+# Disc length: 4490 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=79118009
+DTITLE=Erich Kunzel and the Cincinnati Pops Orchestra - The Best of Gershwin
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Rhapsody in Blue (original 1924 version)
+TTITLE1=An American in Paris
+TTITLE2=Summertime from Porgy and Bess
+TTITLE3=Cuban Overture
+TTITLE4=Variations on "I Got Rhythm"
+TTITLE5=Lullaby
+TTITLE6=Rialto Ripples Rag
+TTITLE7=Prelude No. 2
+TTITLE8=CopyProtection
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

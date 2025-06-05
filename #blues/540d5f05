@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28868
+#	95815
+#	179105
+#	224931
+#
+# Disc length: 3425 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=540d5f05
+DTITLE=John Coltrane - Live at the half note vol1
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Untitled original
+TTITLE1=Impressions
+TTITLE2=Chim Chim Cheree
+TTITLE3=I Want To Talk About You
+TTITLE4=One Up One Down
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

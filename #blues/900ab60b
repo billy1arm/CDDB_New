@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16489
+#	37411
+#	59887
+#	77715
+#	93431
+#	121533
+#	139188
+#	150822
+#	164194
+#	189289
+#
+# Disc length: 2744 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51
+#
+DISCID=900ab60b
+DTITLE=Bluesick - Side Walk
+DYEAR=1900
+DGENRE=
+TTITLE0=Bourgoise Blues
+TTITLE1=See Saw
+TTITLE2=Talk To Me
+TTITLE3=New Day
+TTITLE4=No Way Back
+TTITLE5=Take My Breath Away
+TTITLE6=Railway Station
+TTITLE7=Beer Drinking Woman
+TTITLE8=Peepin' And Moanin' blues
+TTITLE9=Little House
+TTITLE10=It's Time For Me to Leave You
+EXTD=Klaus Luther, git., voc.\nBrigitte van de Witt, voc., perc.\nAndrea Bib
+EXTD=el, voc., perc.\nLothar Dursch, git., voc.
+EXTT0=Leadbelly, Arr. Bluesick
+EXTT1=C avay/Cropper, Arr. Bluesick
+EXTT2=van de Witt/Luther
+EXTT3=van de Witt/Luther
+EXTT4=Bibel/Luther
+EXTT5=Trad. Arr. Bluesick
+EXTT6=van de Witt/Luther
+EXTT7=Memphis Slim/Arr. Luther
+EXTT8=M.Bloomfield - Arr. Bluesick
+EXTT9=van de Witt/Luther
+EXTT10=Dursch/Luther
+PLAYORDER=

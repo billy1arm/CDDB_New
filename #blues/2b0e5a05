@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8597
+#	117800
+#	165450
+#	243230
+#
+# Disc length: 3676 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2b0e5a05
+DTITLE=Kempowski, Walter - Aus großer Zeit - CD 4
+DYEAR=2001
+DGENRE=Hörbuch
+TTITLE0=Musik
+TTITLE1=Kapitel 11
+TTITLE2=Kapitel 12, Noch ein Schulfreund
+TTITLE3=Kapitel 13
+TTITLE4=Kapitel 14, Die Schneiderin
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

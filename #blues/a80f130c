@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24007
+#	47737
+#	71517
+#	95960
+#	119622
+#	144013
+#	167622
+#	191594
+#	215525
+#	239931
+#	264029
+#
+# Disc length: 3861 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=a80f130c
+DTITLE=Deborah Van Dyke - Chords of the Cosmos: Harmonies of the Zodiac with Crystal Bowls for Chakra Balancing, Meditation and The Healing Arts
+DYEAR=2003
+DGENRE=New Age
+TTITLE0=Aries  -  C G E
+TTITLE1=Taurus  -  C# F G#
+TTITLE2=Gemini  -  D F# A
+TTITLE3=Cancer  -  D# G A#
+TTITLE4=Leo  -  E G# B
+TTITLE5=Virgo  -  F a C
+TTITLE6=Libra  -  F# A# C#
+TTITLE7=Scorpio  -  G B D
+TTITLE8=Sagittarius  -  G# C D#
+TTITLE9=Capricorn  -  a C# E
+TTITLE10=Aquarius  -  A# D F
+TTITLE11=Pisces  -  B D# F#
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

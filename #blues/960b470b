@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16599
+#	34502
+#	58466
+#	80352
+#	89772
+#	109255
+#	134681
+#	147783
+#	173958
+#	198223
+#
+# Disc length: 2889 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=960b470b
+DTITLE=CAFE NOIR - Dans La Vie
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=A Dream Of You
+TTITLE1=Sweet Georgia Brown
+TTITLE2=Oblivion
+TTITLE3=Samba Prelude
+TTITLE4=Valse Pour Nicky
+TTITLE5=Un Jour De Juillet
+TTITLE6=Savoir Vivre
+TTITLE7=Hommage A Hojok
+TTITLE8=Vuelvo Al Sur
+TTITLE9=Et Maintenant
+TTITLE10=Deux Guitares
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

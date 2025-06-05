@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	13335
+# 	40425
+# 	54415
+# 	67142
+# 	79245
+# 	91430
+# 	103335
+# 	117110
+# 	130950
+#
+# Disc length: 1889 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=90075f0a
+DTITLE=Various Artist - Chess blues - the Sampler
+DYEAR=1900
+DGENRE=
+TTITLE0=Hoochie Coochie Man
+TTITLE1=The Red Rooster
+TTITLE2=Walkin' the Blue
+TTITLE3=Bo Diddley
+TTITLE4=Johnny B. Goode
+TTITLE5=My Babe
+TTITLE6=Don't Start Me Talking
+TTITLE7=1 Bourbon, 1 Scotch, 1 Beer
+TTITLE8=Wand Dang Doodle
+TTITLE9=Tell Mama
+EXTD=
+EXTT0=Muddy Waters
+EXTT1=Howlin' Wolf
+EXTT2=Willy Dixon
+EXTT3=Bo Diddley
+EXTT4=Chuck Berry
+EXTT5=Little Walter
+EXTT6=Sonny Boy Williamson
+EXTT7=John Lee Hooker
+EXTT8=Ko Ko Taylor
+EXTT9=Etta James
+PLAYORDER=

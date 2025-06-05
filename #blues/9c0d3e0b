@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13666
+#	40579
+#	68857
+#	93275
+#	117303
+#	126416
+#	139831
+#	169959
+#	198922
+#	232308
+#
+# Disc length: 3392 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=9c0d3e0b
+DTITLE=Dave Brubeck - Best Of Dave Brubeck CD1
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Take Five
+TTITLE1=Travelin' Blues
+TTITLE2=Pennies From Heaven
+TTITLE3=Three To Get Ready
+TTITLE4=The Most Beautiful Girl In The World
+TTITLE5=Campton Races
+TTITLE6=My Favorite Things
+TTITLE7=It's A Raggy Waltz
+TTITLE8=Gone With The Wind
+TTITLE9=Strange Meadow Lark
+TTITLE10=Night And Day
+EXTD=YEAR: 1994 ID3G: 8
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

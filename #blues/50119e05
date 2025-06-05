@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	89822
+#	172430
+#	239281
+#	289458
+#
+# Disc length: 4512 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=50119e05
+DTITLE=Kenny Garrett Quartet - Live at Vardan's [CD1]
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=2 Down and 1 Across
+TTITLE1=Chief Blackwater
+TTITLE2=Spanish-Go-Round
+TTITLE3=Giant Steps
+TTITLE4=Delta Dali Blues
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

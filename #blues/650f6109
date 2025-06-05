@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15837
+#	31691
+#	61043
+#	105612
+#	132599
+#	158073
+#	182441
+#	216216
+#
+# Disc length: 3939 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=650f6109
+DTITLE=T.S. Henry Webb - Obvious Necessity 
+DYEAR=1900
+DGENRE=
+TTITLE0=Time-Stand-Ting (Chung Qua Time)
+TTITLE1=Ode to an Ironman
+TTITLE2=Crusaders Ballad
+TTITLE3=Jet Stream
+TTITLE4=March Song for my Father
+TTITLE5=Dream On
+TTITLE6=Hostage
+TTITLE7=Invader
+TTITLE8=Signal Flow
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

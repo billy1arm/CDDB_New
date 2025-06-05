@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53562
+#	99077
+#	145535
+#	190750
+#	235072
+#
+# Disc length: 3628 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CD2WAV32(JP) R3.22
+#
+DISCID=3c0e2a06
+DTITLE=（自然音） - 立体音響で聴く　波～慶良間・久米島
+DYEAR=1998
+DGENRE=Soundtrack
+TTITLE0=001 渡嘉志久（渡嘉敷島）
+TTITLE1=002 阿波連（渡嘉敷島）
+TTITLE2=003 古座間味（座間味島）
+TTITLE3=004 アーラ浜（久米島）
+TTITLE4=005 イーフビーチ（久米島）
+TTITLE5=006 はての浜（久米島）
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

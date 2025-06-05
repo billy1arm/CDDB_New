@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    150
+#    24829
+#    38122
+#    50431
+#    66434
+#    80492
+#    95907
+#    118020
+#    131876
+#    152115
+#    168289
+#    190413
+#
+# Disc length: 2806 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.3.9a  (wjohn@fix.net)
+#
+DISCID=a50af40c
+DTITLE=Ralph Covert - 
+DTITLE=Eat at Godot's
+DYEAR=1900
+DGENRE=
+TTITLE0=Out of my element
+TTITLE1=Wild young things
+TTITLE2=When the radio plays your song
+TTITLE3=Calico kid
+TTITLE4=Anna Brigaux
+TTITLE5=My dog has been barking
+TTITLE6=Any twisted thing
+TTITLE7=Autumn in New Mexico
+TTITLE8=Cold shivers
+TTITLE9=Believe in miracles
+TTITLE10=Adam McCarthy
+TTITLE11=Small grey Rain
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

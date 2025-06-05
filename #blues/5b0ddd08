@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21406
+#	57162
+#	90079
+#	127611
+#	156272
+#	194574
+#	227815
+#
+# Disc length: 3551 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=5b0ddd08
+DTITLE=Anotony Ortega - Neuf
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Spartacus
+TTITLE1=Toulouse
+TTITLE2=Plato
+TTITLE3=The Way I Feel
+TTITLE4=Gemini
+TTITLE5=El Coyote
+TTITLE6=Butterfly
+TTITLE7=The Dove
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

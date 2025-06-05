@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42809
+#	83476
+#	103781
+#	145183
+#	187800
+#	216642
+#	279074
+#
+# Disc length: 4111 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=66100d08
+DTITLE=Los Andes Big Band - Suite Chileno
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Pacha Mama
+TTITLE1=Andacollo
+TTITLE2=Kaweskar - Cancion de Amor
+TTITLE3=Nguillatun
+TTITLE4=La Portena
+TTITLE5=First Things First
+TTITLE6=Retrato de Dizzy
+TTITLE7=Blues para Los Andes
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

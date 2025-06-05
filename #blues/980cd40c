@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17482
+#	38972
+#	63135
+#	85075
+#	102477
+#	122660
+#	140987
+#	161005
+#	185352
+#	205232
+#	225090
+#
+# Disc length: 3286 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=980cd40c
+DTITLE=Roald Dahl - SVK [CD 4 av 4)
+DYEAR=2000
+DGENRE=Lydbok
+TTITLE0=Kapittel 01
+TTITLE1=Kapittel 02
+TTITLE2=Kapittel 03
+TTITLE3=Kapittel 04
+TTITLE4=Kapittel 05
+TTITLE5=Kapittel 06
+TTITLE6=Kapittel 07
+TTITLE7=Kapittel 08
+TTITLE8=Kapittel 09
+TTITLE9=Kapittel 10
+TTITLE10=Kapittel 11
+TTITLE11=Kapittel 12
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

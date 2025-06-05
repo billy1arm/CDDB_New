@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15525
+#	34950
+#	51900
+#	60825
+#	73575
+#	88200
+#	114900
+#	129225
+#	143025
+#	163050
+#	182325
+#	196050
+#
+# Disc length: 2875 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a50b390d
+DTITLE=Making Blues - You
+DYEAR=2012
+DGENRE=Blues
+TTITLE0=Stagolee
+TTITLE1=Pawn Shop Blues
+TTITLE2=You
+TTITLE3=Hustle On Down
+TTITLE4=You Got to Move
+TTITLE5=Glory Of Love
+TTITLE6=Penny Pinchin Blues
+TTITLE7=Chump Man Blues
+TTITLE8=Trouble In Mind
+TTITLE9=Midnight Special
+TTITLE10=Train To Coleraine
+TTITLE11=Goin Down This Road
+TTITLE12=Blue Skies
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

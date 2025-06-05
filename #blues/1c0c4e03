@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     108258
+#     196812
+# 
+# Disc length: 3152 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=1c0c4e03
+DTITLE=Steve Solomon - Shigionoth - The Name
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Yahweh
+TTITLE1=Let it Flow
+TTITLE2=Hashem - The Name
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

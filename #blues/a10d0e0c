@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  20625
+#  37242
+#  55130
+#  78190
+#  108350
+#  125732
+#  138760
+#  155700
+#  178100
+#  210405
+#  230380
+#
+# Disc length: 3344 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=a10d0e0c
+DTITLE=Various Artist - Modern Blues Legends
+DYEAR=1900
+DGENRE=
+TTITLE0=Damn Right, I've Got The Blues
+TTITLE1=The Hunter
+TTITLE2=Beat of The Night
+TTITLE3=I Shiver
+TTITLE4=Story Of The Blues
+TTITLE5=Give It Back
+TTITLE6=My Babe
+TTITLE7=Born Under A Bad Sign
+TTITLE8=Ellis Island
+TTITLE9=Prison Blues
+TTITLE10=How Long Can A Man Be Strong
+TTITLE11=Stormy Seas
+EXTD=
+EXTT0=Buddy Guy
+EXTT1=Paul Rogers
+EXTT2=Danny Gatton
+EXTT3=Robert Cray
+EXTT4=Gary Moore
+EXTT5=Johnny Winter
+EXTT6=The Fabulous Thunderbirds
+EXTT7=Robben Ford
+EXTT8=Big Head Todd And The Monsters
+EXTT9=Jimmy Page
+EXTT10=Jeff Healey
+EXTT11=Dave Hole
+PLAYORDER=

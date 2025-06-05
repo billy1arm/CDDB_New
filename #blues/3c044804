@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18675
+#	37225
+#	59887
+#
+# Disc length: 1098 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3c044804
+DTITLE=中原小麦 - ぬくもり
+DYEAR=2004
+DGENRE=Game
+TTITLE0=ロックンロールプレイング
+TTITLE1=ロックンロールプレイング（カラオケ）
+TTITLE2=Heron Sister
+TTITLE3=Heron Sister（カラオケ）
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

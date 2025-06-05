@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	11158
+#	24333
+#	63208
+#	86363
+#	123015
+#	143623
+#
+# Disc length: 2726 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta2
+#
+DISCID=480aa407
+DTITLE=Jimi Hendrix - Auld Lang Syne CD 1
+DYEAR=1969
+DGENRE=Blues
+TTITLE0=Theme 2001
+TTITLE1=Auld Lang Syne
+TTITLE2=Who Knows
+TTITLE3=I´m a Man (Trying to be)
+TTITLE4=Burning Desire
+TTITLE5=Easy Rider
+TTITLE6=Machine Gun
+EXTD=YEAR: 1969 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	80500
+#	112382
+#	164425
+#	259535
+#
+# Disc length: 3955 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3e0f7105
+DTITLE=John Coltrane - Collection
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=My Favorite Things
+TTITLE1=Naima
+TTITLE2=Traneing
+TTITLE3=Impressions
+TTITLE4=Mr. P.C.
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

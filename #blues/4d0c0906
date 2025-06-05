@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30962
+#	66065
+#	110770
+#	154432
+#	191735
+#
+# Disc length: 3083 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d0c0906
+DTITLE=Manhattan Jazz Orchestra - Black Magic Woman
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Air Mail Special
+TTITLE1=Ascenseur Pour L'echafaud
+TTITLE2=Black Magic Woman
+TTITLE3=C Jam Blues
+TTITLE4=California Dreamin'
+TTITLE5=Candy
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

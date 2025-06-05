@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16567
+#	43650
+#	59995
+#	73725
+#	90497
+#	120365
+#	142272
+#	171525
+#
+# Disc length: 2496 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8109be09
+DTITLE=Lennie Tristano - Manhattan Studio
+DYEAR=1955
+DGENRE=Jazz
+TTITLE0=Manhattan Studio
+TTITLE1=My Melancholy Baby
+TTITLE2=Lover Man
+TTITLE3=I'll See you in My Dreams
+TTITLE4=There Will Never Be Another You
+TTITLE5=Momentum
+TTITLE6=Mean to Me
+TTITLE7=All the Things You Are
+TTITLE8=I'll Remember April
+EXTD=YEAR: 1955
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

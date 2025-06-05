@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	59345
+#	78982
+#	139405
+#	216187
+#	259832
+#
+# Disc length: 3991 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=570f9506
+DTITLE=Alex Cline - Montsalvat
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=He Hears The Cry
+TTITLE1=The Kiss Of Peace
+TTITLE2=In The Shadow Of The Mountain
+TTITLE3=Colors Of Memory
+TTITLE4=Shining One
+TTITLE5=Spiral Steps
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

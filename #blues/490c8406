@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54120
+#	87397
+#	131137
+#	177487
+#	210092
+#
+# Disc length: 3206 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=490c8406
+DTITLE=The dave Brubeck Quartett - Live at Carnegie Hall CD1
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=St. Louis Blues
+TTITLE1=Bossa Nova U.S.A.
+TTITLE2=For All We Know
+TTITLE3=Pennies From Heaven
+TTITLE4=Southern Scene
+TTITLE5=Three To Get Ready
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30641
+#	78048
+#	119250
+#	157223
+#	186154
+#	225795
+#	251847
+#
+# Disc length: 4453 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=59116308
+DTITLE=Barbara Thompson's Paraphernalia - Live in Concert 1980
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=	Summer Madness
+TTITLE1=Frilly Bolero
+TTITLE2=From Nowhere
+TTITLE3=Scrummage
+TTITLE4=Little Annie-Ooh
+TTITLE5=The Blues
+TTITLE6=Sunset
+TTITLE7=Aliyah
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

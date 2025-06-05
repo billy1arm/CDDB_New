@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	68324
+#	227134
+#
+# Disc length: 3579 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=190df903
+DTITLE=Amalgam - Wipe Out [CD1]
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Wipe Out
+TTITLE1=Ongoing Situation
+TTITLE2=The Golden Salamander
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25080
+#	54441
+#	78937
+#	105226
+#	133266
+#	160024
+#	180857
+#
+# Disc length: 2777 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=500ad708
+DTITLE=Charles Davis - Blue Gardenia
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=A Beautiful Friendship
+TTITLE1=Texas Moon
+TTITLE2=Bossa Joe
+TTITLE3=Stranded
+TTITLE4=Shadow of the Sunset
+TTITLE5=Sabia
+TTITLE6=Blues for Yahoo
+TTITLE7=Blue Gardenia
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

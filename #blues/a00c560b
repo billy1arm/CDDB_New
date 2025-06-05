@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17065
+#     36667
+#     73742
+#     82825
+#     97227
+#     122097
+#     141675
+#     174867
+#     199252
+#     227110
+# 
+# Disc length: 3160 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a00c560b
+DTITLE=Dirty Pool - Dirty Pool
+DYEAR=1900
+DGENRE=
+TTITLE0=Homebrew
+TTITLE1=T-Bone Shuffle
+TTITLE2=Sad Land Train
+TTITLE3=Pack Fair and Square
+TTITLE4=Crazy Mixed Up World
+TTITLE5=Garbage Man
+TTITLE6=Okie Dokie Stomp
+TTITLE7=Trust My Baby
+TTITLE8=Just a Wanna Be
+TTITLE9=Chitlin Con Carne
+TTITLE10=Pontiac
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

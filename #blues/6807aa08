@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25425
+#	41475
+#	73125
+#	86250
+#	102150
+#	121275
+#	133725
+#
+# Disc length: 1964 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6807aa08
+DTITLE=Bud Powell - Lover Come back To Me
+DYEAR=1953
+DGENRE=Jazz
+TTITLE0=Tea For Two
+TTITLE1=It Could Happen To You
+TTITLE2=Lover Come Back To Me
+TTITLE3=Lullaby Of Birdland
+TTITLE4=I Want To Be Happy
+TTITLE5=Embracable You
+TTITLE6=I've Got You Under My skin
+TTITLE7=Ornithology
+EXTD=YEAR: 1953
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

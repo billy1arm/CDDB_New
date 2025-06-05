@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	28652
+#	46879
+#	68255
+#	84232
+#	109812
+#	135615
+#	153391
+#	171106
+#	183694
+#	196073
+#
+# Disc length: 2825 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=850b070b
+DTITLE=Евгений Мргулис - Шанхай - Наутилус
+DYEAR=1984
+DGENRE=Blues
+TTITLE0=Наутилус
+TTITLE1=По Дороге Дней
+TTITLE2=Жаль
+TTITLE3=Баркас
+TTITLE4=Баобаб
+TTITLE5=Летом На Деревьях...
+TTITLE6=Поезд Жизни
+TTITLE7=Дороги Наши Разошлись...
+TTITLE8=Стена
+TTITLE9=Люди Могут Летать
+TTITLE10=До Свидания, Друг!
+EXTD=YEAR: 1984 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

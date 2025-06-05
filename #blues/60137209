@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31195
+#	59077
+#	92013
+#	123116
+#	180835
+#	248327
+#	279147
+#	318027
+#
+# Disc length: 4980 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=60137209
+DTITLE=Grant Green - The Classic Album Collection [Disk 4/4]
+DYEAR=2017
+DGENRE=Jazz
+TTITLE0=Am I Blue
+TTITLE1=Take These Chains From My Heart
+TTITLE2=I Wanna Be Loved
+TTITLE3=Sweet Slumber
+TTITLE4=For All We Know
+TTITLE5=Idle Moments
+TTITLE6=Jean De Fleur
+TTITLE7=Django
+TTITLE8=Nomad
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

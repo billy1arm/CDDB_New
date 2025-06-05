@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	4750
+#	20565
+#	32958
+#	53023
+#	64470
+#	76248
+#	94330
+#	108025
+#	131068
+#	154225
+#	167978
+#	180885
+#
+# Disc length: 2575 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a30a0d0d
+DTITLE=Adoniran Barbosa - Adoniran Barbosa Ao Vivo
+DYEAR=1900
+DGENRE=
+TTITLE0=Abertura: Trem Das Onze
+TTITLE1=Ja Fui Uma Brasa
+TTITLE2=As Mariposa
+TTITLE3=Um Samba No Bexiga
+TTITLE4=Samba Italiano
+TTITLE5=Bom Dia Tristeza
+TTITLE6=Apaga O Fogo Mane
+TTITLE7=Samba Do Arnesto
+TTITLE8=Despejo Na Favela
+TTITLE9=Uma Simples Margarida (Samba Do Metro)
+TTITLE10=Viaduto Santa Ifigenia
+TTITLE11=Iracema
+TTITLE12=Rua Dos Gusmoes
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

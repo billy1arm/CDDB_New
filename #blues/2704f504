@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18280
+#     41240
+#     68320
+# 
+# Disc length: 1271 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=2704f504
+DTITLE=Kenny Lattimore - Just What It Takes (Single)
+DYEAR=1900
+DGENRE=
+TTITLE0=radio edit
+TTITLE1=album version
+TTITLE2=human rhythm remix
+TTITLE3=human rhythm remix instrumental
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25070
+#	41902
+#
+# Disc length: 808 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=1e032603
+DTITLE=相川七瀬 - 2000.1.11 Secret Live
+DYEAR=2000
+DGENRE=Rock
+TTITLE0=Sweet Emotion（secret live）
+TTITLE1=China Rose（secret live）
+TTITLE2=BUB（secret live）
+EXTD=YEAR: 2000 ID3G: 17
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

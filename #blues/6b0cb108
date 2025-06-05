@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31344
+#	59469
+#	92950
+#	119408
+#	161118
+#	187728
+#	222080
+#
+# Disc length: 3251 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6b0cb108
+DTITLE=John Taylor - Whirlpool
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Consolation
+TTITLE1=Whirlpool
+TTITLE2=For Ada
+TTITLE3=Nicolette
+TTITLE4=The Woodcocks
+TTITLE5=I Loves You Porgy
+TTITLE6=Everybody's Song But My Own
+TTITLE7=In The Bleak Midwinter
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	40750
+#	110658
+#	162548
+#
+# Disc length: 2946 seconds
+#
+# Revision: 11
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=2f0b8004
+DTITLE=Keith Jarrett - dancing
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=Dancing
+TTITLE1=Endless
+TTITLE2=Lifeline
+TTITLE3=Ecstacy
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

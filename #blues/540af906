@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35020
+#	69615
+#	104925
+#	135090
+#	176688
+#
+# Disc length: 2811 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=540af906
+DTITLE=Charlie Parker - The Quintet
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Perdido
+TTITLE1=Salt Peanuts
+TTITLE2=All the Things You Are
+TTITLE3=Wee
+TTITLE4=Hot House
+TTITLE5=A Night in Tunisia
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

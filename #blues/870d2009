@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42726
+#	54868
+#	70476
+#	102562
+#	123176
+#	171844
+#	184597
+#	215827
+#
+# Disc length: 3362 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=870d2009
+DTITLE=Dizzy Gillespie - The Very Best Of Dizzy Gillespie 1/2
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=01 Manteca (Live)
+TTITLE1=02 Get That Booty (Live)
+TTITLE2=03 Harlem Samba
+TTITLE3=04 Shim Sham Shimmy On The St. Louis Blues
+TTITLE4=05 Poor Joe
+TTITLE5=06 A Night In Tunesia
+TTITLE6=07 September Song
+TTITLE7=08 The Jitterbug Waltz
+TTITLE8=09 Get Happy
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

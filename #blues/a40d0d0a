@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     180
+#     20527
+#     52315
+#     70177
+#     96364
+#     125184
+#     146629
+#     168590
+#     193435
+#     229411
+# 
+# Disc length: 3343 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a40d0d0a
+DTITLE=Red Beans and Rice - Staples
+DYEAR=1900
+DGENRE=
+TTITLE0=Just U Wait NC
+TTITLE1=The Blues Seen
+TTITLE2=Better Days
+TTITLE3=2 Close to U
+TTITLE4=Way Life Goes
+TTITLE5=Someday
+TTITLE6=Dirtywork
+TTITLE7=Muskrat
+TTITLE8=Don't Call Me Your Baby
+TTITLE9=Dancing with Chains
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

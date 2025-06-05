@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  12405
+#  35035
+#  64460
+#  90054
+#  109042
+#  147202
+#  177527
+#  203202
+#  221342
+#  242642
+#  274622
+#
+# Disc length: 3978 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: KiC 2.1 - (C) 1996-1998 Alwin Hoogerdijk
+#
+DISCID=a90f880c
+DTITLE=Cincinnati Blues Allstars - Blues Man's Nature
+DYEAR=1900
+DGENRE=
+TTITLE0=Blowin'
+TTITLE1=That's Enough
+TTITLE2=I Must be Dreaming
+TTITLE3=Root Doctor
+TTITLE4=Pack It Up
+TTITLE5=In The Dark
+TTITLE6=Hand Clappin'
+TTITLE7=Ain't Nobody's Business
+TTITLE8=She's Into Something
+TTITLE9=Little Girl
+TTITLE10=Sugar Tree
+TTITLE11=Big Fat Woman
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

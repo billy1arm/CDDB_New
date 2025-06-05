@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13373
+#	32099
+#	44595
+#	59943
+#	75774
+#	88408
+#	108935
+#	124862
+#	141311
+#
+# Disc length: 2066 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8f08100a
+DTITLE=Fred Karato "Red Sax" - Brassens à Cuba
+DYEAR=2006
+DGENRE=Salsa
+TTITLE0=La Mauvaise Réputation
+TTITLE1=Les Copains d'abord
+TTITLE2=Le Gorille
+TTITLE3=Chanson pour l'Auvergnat
+TTITLE4=Le Vent
+TTITLE5=Les Sabots d'Hélène
+TTITLE6=Brave Margot
+TTITLE7=Le Parapluie
+TTITLE8=Je m'suis fait tout Petit
+TTITLE9=Supplique pour être enterré à la Plage de Sète
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

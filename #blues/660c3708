@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25887
+#	47344
+#	74340
+#	110352
+#	143952
+#	182424
+#	212424
+#
+# Disc length: 3129 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=660c3708
+DTITLE=Matt Roberts Quartet - Life Stages
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=San Francisco song
+TTITLE1=Epiphany (Congratulations on your new self)
+TTITLE2=Movin' on
+TTITLE3=Footprints
+TTITLE4=In the hands of fate
+TTITLE5=Something to hide
+TTITLE6=Life stages
+TTITLE7=Distant wonder
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24193
+#	44874
+#	67677
+#	83093
+#	102012
+#	117177
+#	132603
+#	151391
+#	165228
+#	181369
+#
+# Disc length: 2669 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=820a6b0b
+DTITLE=Paris-Londres - Terre Nouvelle
+DYEAR=2010
+DGENRE=New Age
+TTITLE0=Yasalama
+TTITLE1=Dauphin
+TTITLE2=La vieille ferme
+TTITLE3=Messagère
+TTITLE4=Prélude
+TTITLE5=Danse médiévale
+TTITLE6=Marcher
+TTITLE7=Terre nouvelle
+TTITLE8=Seventies
+TTITLE9=Solitaire
+TTITLE10=Midnight
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

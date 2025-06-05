@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20643
+#	34914
+#	61854
+#	81627
+#	99963
+#	113915
+#
+# Disc length: 1697 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=56069f07
+DTITLE=Faton Cahen - Hisoires de piano
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=La louve !
+TTITLE1=Fiesta chez Phillou
+TTITLE2=Éric Satyre
+TTITLE3=La chanson d'Ivry
+TTITLE4=Les Peuhls et les Bororos
+TTITLE5=Balade en Armagnac
+TTITLE6=Une Guadeloupe de rêve
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

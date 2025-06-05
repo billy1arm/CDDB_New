@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14072
+#	30642
+#	47457
+#	60327
+#	76330
+#	91997
+#	105555
+#	122307
+#	137892
+#	150327
+#	165845
+#	181550
+#	194655
+#
+# Disc length: 2852 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=9c0b220e
+DTITLE=Mickey Baker - Mississippi Delta Dues
+DYEAR=1900
+DGENRE=
+TTITLE0=Good Advice
+TTITLE1=High Sheriff Blues
+TTITLE2=Blues Before Sunrise
+TTITLE3=Terraplane Blues
+TTITLE4=Animal Farm
+TTITLE5=Alabama March
+TTITLE6=Spoonful
+TTITLE7=Sun is Going Down
+TTITLE8=Sweet Home Chicago
+TTITLE9=My Black Woman
+TTITLE10=Can't Find my Baby
+TTITLE11=Trouble is a Woman
+TTITLE12=Lazy Daisy
+TTITLE13=Drucilla
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14811
+#	45643
+#	69457
+#	101127
+#	130126
+#	155956
+#	187668
+#
+# Disc length: 3128 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d0c3608
+DTITLE=Satori - Kanashibari
+DYEAR=2008
+DGENRE=Expérimental
+TTITLE0=Hypnagogic State
+TTITLE1=Nocturnal Fury
+TTITLE2=Unseen Force
+TTITLE3=Entity
+TTITLE4=Paralysis
+TTITLE5=Pavor Nocturnus
+TTITLE6=Threshold Consciousness
+TTITLE7=Kanashibari
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

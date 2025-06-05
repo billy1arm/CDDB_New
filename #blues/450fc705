@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	83862
+#	110630
+#	201676
+#	235338
+#
+# Disc length: 4041 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.21
+#
+DISCID=450fc705
+DTITLE=Jiri Labus - Kipling - Bajky i nebajky
+DYEAR=2007
+DGENRE=Speech
+TTITLE0=Sloni mlade
+TTITLE1=Proc ma nosorozec zvarhanelou kuzi
+TTITLE2=Puvod pasovcu
+TTITLE3=Proc ma velryba uzky jicen
+TTITLE4=Proc je leopard skvrnity
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

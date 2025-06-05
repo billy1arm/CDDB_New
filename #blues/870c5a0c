@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17324
+#	30874
+#	49225
+#	71250
+#	79312
+#	108199
+#	126825
+#	157125
+#	174000
+#	195475
+#	202850
+#
+# Disc length: 3164 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=870c5a0c
+DTITLE=ヴェルディ - 歌劇「椿姫」―ハイライト
+DYEAR=1954
+DGENRE=Classical
+TTITLE0=第一幕　前奏曲
+TTITLE1=第一幕　アルフレード「楽しい杯をほして愉快になりましょう」（乾杯の歌）
+TTITLE2=第一幕　ヴィオレッタ「ふしぎだわ！ふしぎだわ！……ああ、たぶんあの方よ……」
+TTITLE3=第一幕　ヴィオレッタ「ばからしい！ばからしい！……私はいつだって自由」
+TTITLE4=第二幕　アルフレード「彼女が離れていては私の喜びは……」
+TTITLE5=第二幕　ジェルモン「神は天使のような」
+TTITLE6=第二幕　ジェルモン「プロヴァンスの海と土とを」
+TTITLE7=第二幕　フローラ「仮面舞踏会の夜を楽しみましょう」・ジプシーの合唱「私たちは遠くからきた」
+TTITLE8=第三幕　前奏曲
+TTITLE9=第三幕　ヴィオレッタ「あなたは約束を守ってくださいました……」・ヴィオレッタ「おそすぎます！待てど待てど……」・ヴィオレッタ「過去よ、さようなら……」
+TTITLE10=第三幕　アンニーナ「奥様！」ヴィオレッタ「何か起こったの？」
+TTITLE11=第三幕　アルフレード「パリを離れて、一緒に暮らそう」・ヴィオレッタ「ああ、神様！こんなに若く死なねばならないの」
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

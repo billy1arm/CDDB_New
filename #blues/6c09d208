@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23506
+#	42320
+#	72634
+#	93122
+#	119113
+#	147362
+#	172977
+#
+# Disc length: 2516 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6c09d208
+DTITLE=Mr. Whitekeys - The Bluesaholics
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Calidonia
+TTITLE1=Doo Wah Doo
+TTITLE2=I'm a Bluesaholic
+TTITLE3=Early in the Morning
+TTITLE4=Hey Bartender
+TTITLE5=Monterey Mist
+TTITLE6=The Seventh Son
+TTITLE7=House of Blue Lights
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

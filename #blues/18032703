@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20292
+#	40860
+#
+# Disc length: 809 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=18032703
+DTITLE=Ichii Sayaka in CUBIC-CROSS - Situren LOVESONG
+DYEAR=1900
+DGENRE=Pop
+TTITLE0=Situren LOVESONG
+TTITLE1=Zutto-ne
+TTITLE2=Situren LOVESONG
+EXTD=ID3G: 13
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

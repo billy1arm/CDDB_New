@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20692
+#	32100
+#	44382
+#	74855
+#	87975
+#	101882
+#	113185
+#	135825
+#
+# Disc length: 2006 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7e07d409
+DTITLE=Mannheim Steamroller - Fresh Aire III
+DYEAR=1985
+DGENRE=New Age
+TTITLE0=Toccata
+TTITLE1=Small Wooden Bach'ses
+TTITLE2=Amber
+TTITLE3=Mere Image
+TTITLE4=Morning
+TTITLE5=Interlude 6
+TTITLE6=The Cricket
+TTITLE7=The Sky
+TTITLE8=Midnight On A Full Moon
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

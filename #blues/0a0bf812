@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11444
+#	24857
+#	36818
+#	48538
+#	61142
+#	73632
+#	82498
+#	96021
+#	110347
+#	122991
+#	134119
+#	147334
+#	159907
+#	182530
+#	194724
+#	205994
+#	218164
+#
+# Disc length: 3066 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0a0bf812
+DTITLE=Big Joe Turner - Rocks In My Bed
+DYEAR=2005
+DGENRE=Blues
+TTITLE0=Don't You Cry
+TTITLE1=Still In Love
+TTITLE2=Honey Hush
+TTITLE3=Crawdad Hole
+TTITLE4=TV Mama
+TTITLE5=Oke-She-Moke-She-Pop
+TTITLE6=The Sun Is Shining
+TTITLE7=Shake, Rattle And Roll
+TTITLE8=You Know I Love You
+TTITLE9=Married Woman
+TTITLE10=Well All Right
+TTITLE11=Ti-Re-Lee
+TTITLE12=Flip Flop And Fly
+TTITLE13=In The Evenin' When The Sun Goes Down
+TTITLE14=Hide And Seek
+TTITLE15=Midnight Cannonball
+TTITLE16=Morning, Noon And Night
+TTITLE17=The Chicken And The Hawk
+EXTD=typo fixes YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

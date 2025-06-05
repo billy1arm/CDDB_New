@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20012
+#	43200
+#	57677
+#	71315
+#	101847
+#	117117
+#	132145
+#
+# Disc length: 2061 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=72080b08
+DTITLE=Midnight blues - Just for fun!
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Sweet home Chicago
+TTITLE1=Minor blues
+TTITLE2=Let's work together
+TTITLE3=Lonely avenue
+TTITLE4=I wonder who
+TTITLE5=Gimme love
+TTITLE6=Drown in my own tears
+TTITLE7=Dreamer drummer
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

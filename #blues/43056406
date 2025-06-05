@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19113
+#	38390
+#	49750
+#	70749
+#	87624
+#
+# Disc length: 1382 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=43056406
+DTITLE=Unarmed - ...and Dangerous
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Draggin'
+TTITLE1=Emotion
+TTITLE2=American Made
+TTITLE3=Highway
+TTITLE4=Red Pie Affair
+TTITLE5=So Human
+EXTD=YEAR: 2001 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

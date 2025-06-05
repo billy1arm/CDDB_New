@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45420
+#	95824
+#	119682
+#	150154
+#
+# Disc length: 2404 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=36096205
+DTITLE=Pedra Contida - Amethyst
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=Scree
+TTITLE1=Chalk
+TTITLE2=Agate
+TTITLE3=Obsidian
+TTITLE4=Touchstone
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

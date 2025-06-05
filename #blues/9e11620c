@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29286
+#	56640
+#	91000
+#	128368
+#	177576
+#	181907
+#	186125
+#	227119
+#	231390
+#	266963
+#	319615
+#
+# Disc length: 4452 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9e11620c
+DTITLE=Ten Years After - Recorded Live (Original Song Listing)
+DYEAR=1973
+DGENRE=Blues
+TTITLE0=One of These Days
+TTITLE1=You Give Me Lovin
+TTITLE2=Good Morning Little Schoolgirl
+TTITLE3=Hobbit
+TTITLE4=Help Me
+TTITLE5=Classical Thing
+TTITLE6=Scat Thing
+TTITLE7=I Can't Keep From Crying, Sometimes
+TTITLE8=Silly Thing
+TTITLE9=Slow Blues in C
+TTITLE10=I'm Goin Home
+TTITLE11=Choo Choo Mama
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

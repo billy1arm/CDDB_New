@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28887
+#	43920
+#	57000
+#	82472
+#	93915
+#	107090
+#	132550
+#	161122
+#
+# Disc length: 2321 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=80090f09
+DTITLE=Buddy Guy - A Man And The Blues
+DYEAR=1968
+DGENRE=Blues
+TTITLE0=A Man And The Blues
+TTITLE1=I Can't Quit The Blues
+TTITLE2=Money (That's What I Want)
+TTITLE3=One Room Country Shack
+TTITLE4=Mary Had A Little Lamb
+TTITLE5=Just Playing My Axe
+TTITLE6=Sweet Little Angel
+TTITLE7=Worry, Worry
+TTITLE8=Jam On A Monday Morning
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

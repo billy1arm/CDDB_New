@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42547
+#	59474
+#	107749
+#	119340
+#	150318
+#
+# Disc length: 2771 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4a0ad106
+DTITLE=Cannonball Adderely - Nippon Soul (nonaural vinyl)
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Nippon Soul
+TTITLE1=Easy to Love
+TTITLE2=The Weaver
+TTITLE3=Tengo Tango
+TTITLE4=Come Sunday
+TTITLE5=Brother John
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

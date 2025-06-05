@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  30852
+#  73417
+#  105612
+#  137390
+#  159942
+#  186432
+#  215845
+#
+# Disc length: 3297 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=6d0cdf08
+DTITLE=Too Short - The Player Years 1983-1988 Disc Two
+DYEAR=1900
+DGENRE=
+TTITLE0=Oakland, California
+TTITLE1=Don't Stop Rappin'
+TTITLE2=Shortrapp
+TTITLE3=Wild Wild West
+TTITLE4=Every Time
+TTITLE5=Dance (Don't Geek)
+TTITLE6=Don't Ever Stop
+TTITLE7=Players
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

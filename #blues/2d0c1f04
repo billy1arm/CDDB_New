@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53544
+#	123930
+#	176213
+#
+# Disc length: 3105 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2d0c1f04
+DTITLE=Masters Of The Universe - The Shard Of Darkness
+DYEAR=1900
+DGENRE=Hörspiel
+TTITLE0=01 - The Shard Of Darkness
+TTITLE1=02 - The Shard Of Darkness
+TTITLE2=03 - The Shard Of Darkness
+TTITLE3=04 - The Shard Of Darkness
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

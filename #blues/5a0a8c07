@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27747
+#	48659
+#	82888
+#	113060
+#	136256
+#	162596
+#
+# Disc length: 2702 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a0a8c07
+DTITLE=Brazilian Jazz Quartet - The Good Neighbors Jazz
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Rough Ridin'
+TTITLE1=Easy To Love
+TTITLE2=Out of Nowhere
+TTITLE3=Mojor Blues
+TTITLE4=Yesterdays
+TTITLE5=Copacabana
+TTITLE6=Peixoto's Blues
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

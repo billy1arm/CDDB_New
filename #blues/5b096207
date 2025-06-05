@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9272
+#	35460
+#	70407
+#	89722
+#	128860
+#	144315
+#
+# Disc length: 2404 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5b096207
+DTITLE=Roy Buchanan - You're Not Alone
+DYEAR=1978
+DGENRE=Blues
+TTITLE0=The Opening...Miles From Earth
+TTITLE1=Turn To Stone
+TTITLE2=Fly...Night Bird
+TTITLE3=1841 Shuffle
+TTITLE4=Down By The River
+TTITLE5=Supernova
+TTITLE6=You're Not Alone
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

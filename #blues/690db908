@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44225
+#	75749
+#	110533
+#	150262
+#	193670
+#	220393
+#	242594
+#
+# Disc length: 3515 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=690db908
+DTITLE=Johannes Brahms - Quatuor à cordes N°3, Op.67 - Quintette à cordes N°2, Op.111
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Quatuor à cordes N°3 en si bémol majeur, Op.67 - I. Vivace
+TTITLE1=Quatuor à cordes N°3 en si bémol majeur, Op.67 - II. Andante
+TTITLE2=Quatuor à cordes N°3 en si bémol majeur, Op.67 - III. Agitato - Allegretto non troppo
+TTITLE3=Quatuor à cordes N°3 en si bémol majeur, Op.67 - IV. Pocco allegretto con Variazioni
+TTITLE4=Quintette à cordes N°2, Op.111 - I. Allegro non troppo ma con brio
+TTITLE5=Quintette à cordes N°2, Op.111 - II. Adagio
+TTITLE6=Quintette à cordes N°2, Op.111 - III. Un poco allegretto
+TTITLE7=Quintette à cordes N°2, Op.111 - IV. Vivace ma non troppo presto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12122
+#	25115
+#	36872
+#	54520
+#	68057
+#	81667
+#	95042
+#	108565
+#	124025
+#	135407
+#	150712
+#
+# Disc length: 2174 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9a087c0c
+DTITLE=Raoul Casadei - I Grandi Successi Originali cd2
+DYEAR=2000
+DGENRE=Pop
+TTITLE0=La mazurca di periferia
+TTITLE1=La mucciolata
+TTITLE2=La passionaria
+TTITLE3=Sangue romagnolo
+TTITLE4=Lella
+TTITLE5=Liscio parade
+TTITLE6=Pedala, pedala
+TTITLE7=Re cecconi
+TTITLE8=Romagna mia
+TTITLE9=Romagna sangiovese
+TTITLE10=Simpatia
+TTITLE11=La sventola
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

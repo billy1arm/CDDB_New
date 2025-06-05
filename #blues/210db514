@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12108
+#	23329
+#	35286
+#	45584
+#	55813
+#	66934
+#	79302
+#	90135
+#	104524
+#	116902
+#	131739
+#	148266
+#	161703
+#	178772
+#	193372
+#	208321
+#	220855
+#	233308
+#	247418
+#
+# Disc length: 3511 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=210db514
+DTITLE=Stéphane Grappelli - Reader's Digest - CD2 - Moving Melodies
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Country Club
+TTITLE1=Super Punk
+TTITLE2=Sea Club Boogie
+TTITLE3=Kent
+TTITLE4=Sun Tune
+TTITLE5=Blue Emotion
+TTITLE6=Beautiful Trip
+TTITLE7=Rebecca my Gal
+TTITLE8=Bélier
+TTITLE9=Gémeaux
+TTITLE10=Lion
+TTITLE11=Balance
+TTITLE12=Sagittaire
+TTITLE13=Verseau
+TTITLE14=Taureau
+TTITLE15=Cancer Influence
+TTITLE16=Vierge
+TTITLE17=Scorpion
+TTITLE18=Capricorne
+TTITLE19=Poissons
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

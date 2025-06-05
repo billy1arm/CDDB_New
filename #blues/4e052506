@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21895
+#	42402
+#	51390
+#	66895
+#	76482
+#
+# Disc length: 1319 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e052506
+DTITLE=KENNY DREW - CHRISTMAS SONG
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Jingle Bells
+TTITLE1=White Christmas
+TTITLE2=Blue Christmas
+TTITLE3=The Christmas Song
+TTITLE4=A Way in a Manger
+TTITLE5=Silent Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

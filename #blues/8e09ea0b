@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16831
+#	32566
+#	52913
+#	74727
+#	93912
+#	108992
+#	130422
+#	145489
+#	162262
+#	175538
+#
+# Disc length: 2540 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=8e09ea0b
+DTITLE=Memphis La Blusera - Angelitos Culones
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Angelitos Culones
+TTITLE1=Estepario
+TTITLE2=Hacia la Libertad
+TTITLE3=Confundido
+TTITLE4=Traigo Gasolina
+TTITLE5=Enloquecido (El Hombre)
+TTITLE6=Los Amantes
+TTITLE7=Irresponsable
+TTITLE8=Amigo Mio
+TTITLE9=La Potra
+TTITLE10=Viaja Paloma Viaja
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

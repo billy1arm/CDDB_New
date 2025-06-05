@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16017
+#     35995
+#     52337
+#     64747
+#     82080
+#     93840
+#     106725
+#     121197
+#     137952
+# 
+# Disc length: 2131 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8608510a
+DTITLE=[Paperclip] - Bulk Song Boek [CDThree)
+DYEAR=1900
+DGENRE=
+TTITLE0=Afscheid - De Jazzpolitie
+TTITLE1=De wereld is verscheurd - Henk Westbroek
+TTITLE2=Het is voorbij - VOF de Kunst
+TTITLE3=Rails - Jan Rot
+TTITLE4=Niemand die me ziet - G  Reinders
+TTITLE5=Zeven dagen - Jan-Paul van der Meij
+TTITLE6=Ongehoorde stilte - Bas Westerweel
+TTITLE7=Het meisje en de tijd - Ernst Jansz
+TTITLE8=Verzonnen - Nadieh
+TTITLE9=De bus naar zuid - Herman Brood
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

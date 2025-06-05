@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	14075
+#	32350
+#	51850
+#	69075
+#	85350
+#	101525
+#	115700
+#	131450
+#	146662
+#	167487
+#	195349
+#	217487
+#	238874
+#	257787
+#	282762
+#	302112
+#	325812
+#
+# Disc length: 4685 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=01124112
+DTITLE=Three Degrees - Hits And More
+DYEAR=1900
+DGENRE=
+TTITLE0=When Will I See You Again
+TTITLE1=Midnight Train
+TTITLE2=Dirty Ol' Man
+TTITLE3=Nigai Namida
+TTITLE4=T.S.O.P. (The Sound Of Philadelphia)
+TTITLE5=I'm Doing Fine Now
+TTITLE6=I'm Going To Miss You
+TTITLE7=I'll Be Around
+TTITLE8=Do Right Woman Do Right Man
+TTITLE9=let's Get It On
+TTITLE10=Tie U Up
+TTITLE11=Win, Place Or Show
+TTITLE12=Make It Easy On Yourself
+TTITLE13=Lock It Up
+TTITLE14=Vital Signs
+TTITLE15=A Tender Lie
+TTITLE16=After The Night Is Over
+TTITLE17=Are You That Kind Of Guy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

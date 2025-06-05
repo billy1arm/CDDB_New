@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     24600
+#     38887
+#     56100
+#     86025
+#     105262
+#     125775
+#     144450
+#     166425
+#     188512
+# 
+# Disc length: 2782 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=850adc0a
+DTITLE=Kim Lembo - Blue Heat
+DYEAR=1900
+DGENRE=
+TTITLE0=Killing My Love
+TTITLE1=Stop Messin' Around
+TTITLE2=So Swell When You're Well
+TTITLE3=As The Crow Flies
+TTITLE4=My Tears Came Rolling Down
+TTITLE5=If This Is Love
+TTITLE6=Temperature
+TTITLE7=Love to Ride
+TTITLE8=Taking Our Time
+TTITLE9=Drift Away Again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

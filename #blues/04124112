@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  12935
+#  20275
+#  40202
+#  69657
+#  83130
+#  111997
+#  121945
+#  130447
+#  158822
+#  185660
+#  204225
+#  222562
+#  257625
+#  263380
+#  268552
+#  284830
+#  318000
+#
+# Disc length: 4675 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=04124112
+DTITLE=London Symphony Orchestra - Braveheart
+DYEAR=1900
+DGENRE=
+TTITLE0=Main Title
+TTITLE1=A Gift Of A Thistle
+TTITLE2=Wallace Courts Murron
+TTITLE3=The Secret Wedding
+TTITLE4=Attack On Murron
+TTITLE5=Murron's Burial
+TTITLE6=Revenge
+TTITLE7=Making Plans/Gathering The Clans
+TTITLE8="Sons Of Scotland"
+TTITLE9=The Battle Of Stirling
+TTITLE10=For The Love Of A Princess
+TTITLE11=Falkirk
+TTITLE12=Betrayal and Desolation
+TTITLE13=Mornay's Dream
+TTITLE14=The Legend Spreads
+TTITLE15=The Princess Pleads For Wallace's Life
+TTITLE16="Freedom" /The Execution/Bannockburn
+TTITLE17=End Credits
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

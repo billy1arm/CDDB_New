@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20685
+#	50428
+#	71820
+#	106120
+#
+# Disc length: 2076 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3e081a05
+DTITLE=Lenny Breau - Lenny Breau Trio
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=You Needed Me
+TTITLE1=Don't Think Twice (It's All Right)
+TTITLE2=Mister Night
+TTITLE3=Neptune
+TTITLE4=Claude (Free Song)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

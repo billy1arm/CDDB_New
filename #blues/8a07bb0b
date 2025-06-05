@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	185
+#	10875
+#	22392
+#	38337
+#	52917
+#	70100
+#	80260
+#	96487
+#	107870
+#	119307
+#	129485
+#
+# Disc length: 1981 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=8a07bb0b
+DTITLE=Shack of Peasants - Gospel Blues Volume 2
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Don't Wanna Go Down There
+TTITLE1=Samson And Delilah
+TTITLE2=Swing Low, Sweet Chariot - Swing Down, Chariot
+TTITLE3=Ring Them Bells
+TTITLE4=I'm Going to That City
+TTITLE5=A Shack in Negev
+TTITLE6=Hymns of The Meek
+TTITLE7=John the Revelator
+TTITLE8=One More River To Cross
+TTITLE9=There'll Be Bo Grubler There
+TTITLE10=Won't Be Long Til' Paradise
+EXTD=YEAR: 1993
+EXTT0=Crystal Lewis
+EXTT1=Philip Bardowell
+EXTT2=
+EXTT3=Lanny Cordola
+EXTT4=Crystal Lewis
+EXTT5=
+EXTT6=
+EXTT7=Crystal Lewis and Darrell Mansfield
+EXTT8=
+EXTT9=Chris Lizotte
+EXTT10=Crystal Lewis
+PLAYORDER=

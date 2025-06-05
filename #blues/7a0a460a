@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19370
+#	44120
+#	61894
+#	81003
+#	100571
+#	121547
+#	136564
+#	154355
+#	175482
+#
+# Disc length: 2632 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=7a0a460a
+DTITLE=Various Artist - Cuban Greats [CD2)
+DYEAR=2006
+DGENRE=Salsa
+TTITLE0=Chan chan - Compay Segundo
+TTITLE1=Malecon (Cayo Largo Mix) - Havana Trio
+TTITLE2=Chocolote (Cerro Mix) - El Son
+TTITLE3=More love (Mojito Mix) - Sin City
+TTITLE4=Drums of change ( Playas Del Este Mix) - Sol Drummer
+TTITLE5=Waters run deep - bolero Orchestra
+TTITLE6=Madalena - Viva Tribe
+TTITLE7=Dance hall fire (Cayo Grande Mix) - Senor lopez
+TTITLE8=Descarga (Jazzin' Mix) - Joachim Ochca
+TTITLE9=Tumbap (Rio Almandares Mix) - Luis Villa
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

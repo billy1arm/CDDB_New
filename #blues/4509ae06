@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33955
+#	67072
+#	100110
+#	123907
+#	153340
+#
+# Disc length: 2480 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4509ae06
+DTITLE=Shinji Kinoshita - Caribbean Paradise
+DYEAR=1997
+DGENRE=New Age
+TTITLE0=Bougainvillaea Bright
+TTITLE1=Morpho Butterfly
+TTITLE2=Queen Triggerfish
+TTITLE3=Quetzai
+TTITLE4=Hibiscus
+TTITLE5=Yellowtail Snapper
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

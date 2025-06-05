@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	13390
+#	26263
+#	38805
+#	62228
+#	76158
+#	90763
+#	102755
+#	112695
+#	123138
+#	136325
+#	147593
+#	161663
+#	173615
+#
+# Disc length: 2480 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=a309ae0e
+DTITLE=BB King - Talkin' 'bout the Blues
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=When My heart Beats Like a Hammer
+TTITLE1=The Woman I Love
+TTITLE2=Ten Long Years
+TTITLE3=How Blue Can You Get
+TTITLE4=You Know I Love Youe
+TTITLE5=Past Day
+TTITLE6=Dark is the Night - Part 1
+TTITLE7=Jump With You Baby
+TTITLE8=That Ain't the Way to Do It
+TTITLE9=Blind Love
+TTITLE10=Bye Bye Baby
+TTITLE11=Whole Lotta Love
+TTITLE12=Paying The Cost to be the Boss
+TTITLE13=Every Day I Have The Blues
+EXTD=\nYEAR: 2000  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

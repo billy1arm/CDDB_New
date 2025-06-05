@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15300
+#	32400
+#	51525
+#	80550
+#	103575
+#	120425
+#	138225
+#	156412
+#	173325
+#	187500
+#	207825
+#
+# Disc length: 3043 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=890be10c
+DTITLE=Little Willie Littlefield - The Stars of Rhythm'n Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Chicago Breakdown
+TTITLE1=Come On Baby
+TTITLE2=Water in my Ears
+TTITLE3=I Want A Little Girl
+TTITLE4=C-Jam Blues
+TTITLE5=Everyday I Have The Blues
+TTITLE6=Wake up Old Maid
+TTITLE7=Route 66
+TTITLE8=Just Boogie
+TTITLE9=The great Pretender
+TTITLE10=Christmas Blues
+TTITLE11=Shake, Rattle, and Roll
+EXTD=ADD\nCM 10007\nCMA Music Production\n(P) and (C) 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

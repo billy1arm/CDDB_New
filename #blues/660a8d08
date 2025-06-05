@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32800
+#	52187
+#	75212
+#	94900
+#	123287
+#	146165
+#	167762
+#
+# Disc length: 2703 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=660a8d08
+DTITLE=Robert Bearns and Ron Dexter - Golden Voyage Vol Three
+DYEAR=1979
+DGENRE=New Age
+TTITLE0=Sanctuary of Timeless Dreams
+TTITLE1=Thimble Full of Light
+TTITLE2=The Eternal Garden
+TTITLE3=I'll Remember
+TTITLE4=Look AfterTomorrow For Me
+TTITLE5=Being Here With You
+TTITLE6=The Eternal Garden
+TTITLE7=I'll Stay
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

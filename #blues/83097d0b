@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12840
+#	25112
+#	48430
+#	61707
+#	78772
+#	98472
+#	108995
+#	129557
+#	149960
+#	162255
+#
+# Disc length: 2431 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=83097d0b
+DTITLE=Frank Frost with Sam Carr - Keep Yourself Together
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=Keep Yourself Together
+TTITLE1=Frank's Boogie Woogie
+TTITLE2=Tired Of Living By Myself
+TTITLE3=You're So Kind
+TTITLE4=Going To Chicago
+TTITLE5=Just A Feeling
+TTITLE6=Cotton Needs Pickin'
+TTITLE7=Come On Home
+TTITLE8=All My Life
+TTITLE9=Everything's Gonna Be Alright
+TTITLE10=My Soul Lover
+EXTD=YEAR: 1996 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

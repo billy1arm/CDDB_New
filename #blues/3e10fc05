@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	74262
+#	108110
+#	205290
+#	308797
+#
+# Disc length: 4350 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3e10fc05
+DTITLE=Three Blokes - Lol Coxhill, Steve Lacy, Evan Parker
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=The Crawl (Parker/Lacy)/1992.09.25
+TTITLE1=Backslash (Parker/Lacy)/1992.09.25
+TTITLE2=Glanced (Coxhill/Lacy)/1992.09.26
+TTITLE3=Broad Brush (Parker/Coxhill)/1992.09.27
+TTITLE4=Three Blokes (Lacy)/1992.09.27
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

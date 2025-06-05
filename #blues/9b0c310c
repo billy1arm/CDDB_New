@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10080
+#	24115
+#	41237
+#	66490
+#	84352
+#	97967
+#	112690
+#	126900
+#	160834
+#	179795
+#	209652
+#
+# Disc length: 3123 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9b0c310c
+DTITLE=Lee Konitz - Konitz
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Bop Goes The Leesel
+TTITLE1=Easy Livin'
+TTITLE2=Mean To Me
+TTITLE3=I'll Remember April
+TTITLE4=317 East 32nd
+TTITLE5=Skylark
+TTITLE6=Nursery Rhyme
+TTITLE7=Limehouse Blues
+TTITLE8=Hi Beck
+TTITLE9=These Foolish Things
+TTITLE10=Sound Lee
+TTITLE11=Subconscious Lee
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21400
+#	42800
+#	61715
+#	87080
+#	107025
+#	126590
+#	145995
+#
+# Disc length: 2220 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=6a08aa08
+DTITLE=Antonio Cartagena - Dimi Que Si
+DYEAR=1993
+DGENRE=Salsa
+TTITLE0=Perdone Querida
+TTITLE1=Apaga la Luz
+TTITLE2=Entregate
+TTITLE3=Dicen
+TTITLE4=Dime Que Si
+TTITLE5=Sienteme
+TTITLE6=Noche de Locos Corazones
+TTITLE7=No Les Llevo Nada
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

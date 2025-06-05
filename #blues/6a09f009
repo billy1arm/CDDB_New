@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19565
+#	42363
+#	65123
+#	86663
+#	106363
+#	132073
+#	151210
+#	167503
+#
+# Disc length: 2546 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a09f009
+DTITLE=Richie Kotzen - Electric Joy
+DYEAR=1991
+DGENRE=Rock
+TTITLE0=B Funk
+TTITLE1=Electric Joy
+TTITLE2=Shufina
+TTITLE3=Acid Lips
+TTITLE4=Slow Blues
+TTITLE5=High Wire
+TTITLE6=Dr. Glee
+TTITLE7=Hot Rails
+TTITLE8=The Deece Song
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

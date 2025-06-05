@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20425
+#	48490
+#	77975
+#	119245
+#	146630
+#	176037
+#	195110
+#
+# Disc length: 2901 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e0b5308
+DTITLE=Ronnie Cuber - Live At The Blue Note (With Randy Brecker, Ronnie Burrage, Lonnie Smith)
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Tune Up (M. Davis)
+TTITLE1=Trane's Waltz (R. Cuber)
+TTITLE2=Nica's Dream (H. Silver)
+TTITLE3=Maiden Voyage (H. Hancock)
+TTITLE4=Night And Day (C. Porter)
+TTITLE5=Philly's Blues (R. Cuber)
+TTITLE6=Something You Got (C. Kenner)
+TTITLE7=Blue 'n Boogie (J. Gillespie)
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

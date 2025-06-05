@@ -1,0 +1,26 @@
+# xmcd
+# Copyright (c) 1998 CDDB Inc.
+#
+# Track frame offsets:
+#	150
+#	14925
+#	42725
+#
+# Disc length: 1192 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.83.01
+#
+DISCID=2904a603
+DTITLE=Linkin Park - Breaking The Habit
+DYEAR=2004
+DGENRE=Alternative
+TTITLE0=Breaking The Habit
+TTITLE1=Crawling (Live)
+TTITLE2=Breaking The Habit (Video)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	9925
+#	21248
+#	32503
+#	47800
+#	61023
+#	76150
+#	89935
+#	101638
+#	126198
+#	143543
+#	155958
+#
+# Disc length: 2207 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=95089d0c
+DTITLE=Various Artist - Let's Rock
+DYEAR=1900
+DGENRE=
+TTITLE0=Long Tall Sally, Little Richard
+TTITLE1=Ain't That A Shame, Fats Domino
+TTITLE2=Save The Last Dance For Me, The Drifters
+TTITLE3=One Love, Bob Marley
+TTITLE4=Ruby Don't Take Your Love To Town, Kenny Rogers
+TTITLE5=The Great Pretender, The Platters
+TTITLE6=Blueberry Hill, Fats Domino
+TTITLE7=Under The Boardwalk, The Drifters
+TTITLE8=Strip It Up, Bob Marley
+TTITLE9=Something's Burning, Kenny Rogers
+TTITLE10=Only You (And You Alone), The Platters
+TTITLE11=Good Golly Miss Molly, Little Richard
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16842
+#	36650
+#	53625
+#	74717
+#	93850
+#	107927
+#	129607
+#	158007
+#
+# Disc length: 2352 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=78092e09
+DTITLE=The Rolling Stones - Philadelphia Special II
+DYEAR=1900
+DGENRE=Rock
+TTITLE0=Brown Sugar
+TTITLE1=Bitch
+TTITLE2=Rocks Off
+TTITLE3=Gimme Shelter
+TTITLE4=Dead Flowers
+TTITLE5=Happy
+TTITLE6=Tumbling Dice
+TTITLE7=Love In Vain
+TTITLE8=Sweet Virginia
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

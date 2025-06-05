@@ -1,0 +1,45 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    150
+#    20625
+#    36950
+#    56950
+#    77955
+#    99485
+#    133012
+#    148665
+#    176440
+#
+# Disc length: 2583 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.3.9a  (wjohn@fix.net)
+#
+DISCID=7f0a1509
+DTITLE=John Lee Hooker - 
+DTITLE=More Real Folk Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=This Land is Nobody's Land
+TTITLE1=Deep Blue Sea
+TTITLE2=Nobody Knows
+TTITLE3=Mustang Sally and GTO
+TTITLE4=Lead Me
+TTITLE5=Catfish
+TTITLE6=I Can't Quit You Baby
+TTITLE7=Want Ad Blues
+TTITLE8=House Rent Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

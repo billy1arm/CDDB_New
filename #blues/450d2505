@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	56131
+#	108509
+#	153184
+#	224008
+#
+# Disc length: 3367 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=450d2505
+DTITLE=Dave Brubeck Quartet - Aufgenommen am 17.11.2004 im Limelight, Köln(1|2)
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Dave Brubeck Quartet - Gone With The Wind
+TTITLE1=Dave Brubeck Quartet - Theme For June
+TTITLE2=Dave Brubeck Quartet - London Flat, London Sharp
+TTITLE3=Dave Brubeck Quartet - Travelin' Blues
+TTITLE4=Dave Brubeck Quartet - Unsquare Dance
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54013
+#	69549
+#	88047
+#	92961
+#	104097
+#	123800
+#	131873
+#
+# Disc length: 2357 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c093308
+DTITLE=Frank Sinatra - Trilogy - Disc 3 - The Future
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=What Time Does the Next Miracle Leave?
+TTITLE1=World War None!
+TTITLE2=The Future
+TTITLE3=The Future (continued)
+TTITLE4='I've Been There!'
+TTITLE5=The Future (conclusion)
+TTITLE6='Song Without Words'
+TTITLE7=Before the Music Ends
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21470
+#	42777
+#	57583
+#	70841
+#	92732
+#	125603
+#	152069
+#
+# Disc length: 2499 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=6c09c108
+DTITLE=Tony Redman - Elbow Grease
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Terraplane Blues
+TTITLE1=Goin' To The Country
+TTITLE2=The El Pico Swing
+TTITLE3=Natural Born Boogie
+TTITLE4=Thinamajig
+TTITLE5=Whollotta Nothin'
+TTITLE6=Elbow Grease
+TTITLE7=Quarry Call
+EXTD=YEAR: 2001 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

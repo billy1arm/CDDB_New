@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13518
+#	29730
+#	51508
+#	72918
+#	91685
+#	105723
+#	127250
+#	141123
+#	163213
+#
+# Disc length: 2540 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=9009ea0a
+DTITLE=Catfish Hodge - Like A Big Dog Barkin'
+DYEAR=1900
+DGENRE=
+TTITLE0=We Need Each Other
+TTITLE1=Blues Got The World
+TTITLE2=Ah Babe
+TTITLE3=Chicken In The Kitchen
+TTITLE4=Roll Um Easy
+TTITLE5=Dead Presidents
+TTITLE6=Cut Me Loose
+TTITLE7=Messin' With The Juice
+TTITLE8=Stinkin' Thinking
+TTITLE9=Linke A Big Dog Barkin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

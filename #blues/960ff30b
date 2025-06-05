@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26250
+#	57245
+#	87825
+#	119400
+#	145875
+#	172527
+#	196255
+#	211252
+#	238912
+#	277225
+#
+# Disc length: 4085 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=960ff30b
+DTITLE=Franco D'Andrea New Quartet - Ballads and Rituals
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Dancing Colors
+TTITLE1=Amandes
+TTITLE2=Riff
+TTITLE3=Shifting Melody
+TTITLE4=Fragole
+TTITLE5=Six Bars
+TTITLE6=Cherries
+TTITLE7=Another Riff
+TTITLE8=Sweets
+TTITLE9=Tango in 3 colors
+TTITLE10=MurecBlues
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

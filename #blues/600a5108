@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14885
+#	40508
+#	63159
+#	120142
+#	133923
+#	157034
+#	174973
+#
+# Disc length: 2643 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=600a5108
+DTITLE=Jean Robitaille - Hotel Le St-James sessions
+DYEAR=2005
+DGENRE=Lounge
+TTITLE0=Big Jim Blues
+TTITLE1=Love go
+TTITLE2=Been here before
+TTITLE3=Tropical room
+TTITLE4=Le petit  bonheur
+TTITLE5=Les sept  merveilles du monde
+TTITLE6=Ma bouchée à moi
+TTITLE7=Chansons tristes
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	56875
+#	108972
+#	163287
+#
+# Disc length: 2818 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=330b0004
+DTITLE=Brian Ales - Pan-Centric
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=the answer
+TTITLE1=ji-ae rules
+TTITLE2=ex machina
+TTITLE3=byzantium, planet earth
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17257
+#	35235
+#	56733
+#	76481
+#	99234
+#	113654
+#	128061
+#
+# Disc length: 2812 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b0afa08
+DTITLE=Jason Diaz and the Original Series - Jason Diaz and the Original Series
+DYEAR=2008
+DGENRE=Blues
+TTITLE0=Innocence
+TTITLE1=Paper Roses
+TTITLE2=Already In
+TTITLE3=Forsaken
+TTITLE4=Aftermath
+TTITLE5=Finding Fate
+TTITLE6=Firefly (Acoustic)
+TTITLE7=Tear (Acoustic)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

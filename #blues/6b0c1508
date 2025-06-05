@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29663
+#	58238
+#	93863
+#	114038
+#	145913
+#	172688
+#	202388
+#
+# Disc length: 3095 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=6b0c1508
+DTITLE=Milt Jackson and Oscar Peterson - Montreux 1975
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Funji Mama
+TTITLE1=Everything must change
+TTITLE2=Speed ball
+TTITLE3=Nature boy
+TTITLE4=Stelle by starlight
+TTITLE5=Like someone in love
+TTITLE6=Night Mist Blues
+TTITLE7=Mack the knife
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

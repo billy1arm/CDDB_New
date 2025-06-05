@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	10625
+#	20763
+#	30585
+#	42218
+#	52463
+#	64293
+#	76045
+#	88363
+#	99335
+#
+# Disc length: 1446 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7b05a40a
+DTITLE=Little Anthony And The Imperials - The Best Of
+DYEAR=1900
+DGENRE=
+TTITLE0=Tears On My Pillow
+TTITLE1=Over The Rainbow
+TTITLE2=Shimmy Shimmy Ko Ko Bop
+TTITLE3=The Diary
+TTITLE4=Oh Yeah
+TTITLE5=Two People In The World
+TTITLE6=When You Wish Upon A Star
+TTITLE7=Wishfull Thinking
+TTITLE8=So Much
+TTITLE9=Traveling Stranger
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

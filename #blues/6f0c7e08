@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30235
+#	48255
+#	81591
+#	123529
+#	149474
+#	178186
+#	207218
+#
+# Disc length: 3200 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6f0c7e08
+DTITLE=Bill Prouten - Low-Down, No-Good
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Low-Dwon, No-Good, Downright Nasty Blues
+TTITLE1=Parallel Bars
+TTITLE2=Billy's Bossa
+TTITLE3=Unbalanced
+TTITLE4=An Aire for Claire
+TTITLE5=The Brightest Moon
+TTITLE6=Four Keys
+TTITLE7=Beyond The Stars
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

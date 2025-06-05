@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23999
+#	52315
+#	79222
+#	92433
+#	115700
+#	142107
+#	160741
+#	182985
+#	209739
+#	232737
+#
+# Disc length: 3525 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=960dc30b
+DTITLE=Cannonball Adderley with Bill Evans - Know What I Mean?
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Waltz For Debby
+TTITLE1=Goodbye
+TTITLE2=Who Cares? (Take 5)
+TTITLE3=Venice
+TTITLE4=Toy (Take 10)
+TTITLE5=Elsa
+TTITLE6=Nancy (With The Laughing Face)
+TTITLE7=Know What I Mean? (Re-take 7)
+TTITLE8=Who Cares? (Take 4)
+TTITLE9=Toy (Take 8)
+TTITLE10=Know What I Mean? (Take 12)
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

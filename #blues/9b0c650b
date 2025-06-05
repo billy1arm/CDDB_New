@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15945
+#	41897
+#	64482
+#	86167
+#	110400
+#	129101
+#	156851
+#	176010
+#	202307
+#	216041
+#
+# Disc length: 3175 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9b0c650b
+DTITLE=Cécile Verny Quartet - Amoureuse
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Amoureuse
+TTITLE1=Amber tears
+TTITLE2=Kanakassi
+TTITLE3=You will know when you get there
+TTITLE4=Il pleure dans mon coeur
+TTITLE5=Ta question
+TTITLE6=I would...
+TTITLE7=K'la
+TTITLE8=J'aime l'idée
+TTITLE9=The Fly
+TTITLE10=Serendipity
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

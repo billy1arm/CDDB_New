@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34583
+#	69648
+#	103502
+#	150062
+#	179890
+#	201164
+#
+# Disc length: 3129 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=560c3707
+DTITLE=Dave Liebman - After Dark
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Song for Lieb
+TTITLE1=Tempos
+TTITLE2=Fourth World
+TTITLE3=Off a Bird
+TTITLE4=Dublin Nights
+TTITLE5=Three Sum
+TTITLE6=The Blessing of the Old Long Sound
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

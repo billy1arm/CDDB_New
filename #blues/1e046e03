@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30325
+#	57585
+#
+# Disc length: 1136 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=1e046e03
+DTITLE=Robert Bradley's Blackwater Surprise - Live At Telluride
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=California
+TTITLE1=Gambler
+TTITLE2=Born in America
+EXTD=YEAR: 2001 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

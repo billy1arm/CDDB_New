@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26522
+#	47212
+#	63587
+#	89407
+#
+# Disc length: 1414 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=3e058405
+DTITLE=Gary Clail - These Things Are Worth Fighting For [CDS)
+DYEAR=1993
+DGENRE=New Age
+TTITLE0=These Things Are Worth Fighting For (Perfecto Mix)
+TTITLE1=These Things Are Worth Fighting For (Perfecto Radio Mix)
+TTITLE2=These Things Are Worth Fighting For (Young Gods Radio Mix)
+TTITLE3=These Things Are Worth Fighting For (Young Gods Club Mix)
+TTITLE4=These Things Are Worth Fighting For (On-U Sound Mix)
+EXTD=YEAR: 1993
+EXTT0=Perfecto Mix\n
+EXTT1=Perfecto Radio Mix\n
+EXTT2=Young Gods Radio Mix\n
+EXTT3=Young Gods Club Mix\n
+EXTT4=On-U Sound Mix\n
+PLAYORDER=

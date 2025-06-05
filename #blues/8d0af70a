@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  14475
+#  32657
+#  49745
+#  73772
+#  96610
+#  118832
+#  139142
+#  160640
+#  182752
+#
+# Disc length: 2809 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.15
+#
+DISCID=8d0af70a
+DTITLE=Wouldshed - Wouldshed
+DYEAR=1900
+DGENRE=
+TTITLE0=Everyone Breathes Coal
+TTITLE1=Blindfolded Scarecrow
+TTITLE2=Take A Look
+TTITLE3=Yellow Line
+TTITLE4=Mirror
+TTITLE5=Bruises
+TTITLE6=Two Souls
+TTITLE7=Running
+TTITLE8=Orange Hum
+TTITLE9=Simon
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

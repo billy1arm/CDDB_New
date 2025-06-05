@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22589
+#	47945
+#	65308
+#	87522
+#	115916
+#	133848
+#	158411
+#	178158
+#	212343
+#	227408
+#
+# Disc length: 3687 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=850e650b
+DTITLE=Volker Kriegel - Schöne Aussichten
+DYEAR=1983
+DGENRE=Jazz
+TTITLE0=Freibad Süd
+TTITLE1=Buschtaxi
+TTITLE2=Belle Vue
+TTITLE3=Pronto Subito
+TTITLE4=Übermalung
+TTITLE5=Bamako
+TTITLE6=Balance
+TTITLE7=Blues in Bewegung
+TTITLE8=Wellenmusik 1
+TTITLE9=Wellenmusik 2
+TTITLE10=Wellenmusik 3
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47205
+#	84380
+#	134832
+#	183517
+#	224540
+#	259807
+#	302290
+#
+# Disc length: 4643 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=73122108
+DTITLE=Coleman Hawkins - The Famous JATP Performances
+DYEAR=1949
+DGENRE=Jazz
+TTITLE0=I Surrender Dear
+TTITLE1=I've Found a New Baby
+TTITLE2=Philharmonic Blues (Carnegie Blues)
+TTITLE3=Oh, Lady Be Good!
+TTITLE4=I Can't Get Started
+TTITLE5=Sweet Georgia Brown
+TTITLE6=Slow Drag
+TTITLE7=How High the Moon
+EXTD=YEAR: 1949
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	67790
+#	92095
+#	157950
+#	207645
+#	251805
+#	267752
+#
+# Disc length: 4277 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5b10b307
+DTITLE=Various Artist - Vol. 098 - Jam Session - Los Angeles_1954
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=What Is This Thing Called Love
+TTITLE1=I´ve Got You Under My Skin
+TTITLE2=Move
+TTITLE3=You Got To My Mind
+TTITLE4=Lover Come Back To Me
+TTITLE5=It Might As Well Be Spring
+TTITLE6=I´ll Remember April
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

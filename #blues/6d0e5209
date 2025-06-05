@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20195
+#	37640
+#	67089
+#	87330
+#	107369
+#	144780
+#	164631
+#	210192
+#
+# Disc length: 3668 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6d0e5209
+DTITLE=Blues Project - Reunion - Live at Central Park
+DYEAR=1966
+DGENRE=Blues
+TTITLE0=Louisiana Blues
+TTITLE1=Steve´s Song
+TTITLE2=I Can´t Keep From Cryin´Sometimes
+TTITLE3=You Can´t Catch Me
+TTITLE4=Fly Away
+TTITLE5=Caress Me Baby
+TTITLE6=Catch The Wind
+TTITLE7=Wake Me, Shake Me
+TTITLE8=Two Trains Running
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

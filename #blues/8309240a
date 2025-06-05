@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  19045
+#  41022
+#  65382
+#  84162
+#  98065
+#  118982
+#  128979
+#  140062
+#  158775
+#
+# Disc length: 2342 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.22
+#
+DISCID=8309240a
+DTITLE=Various Artist - Hot Hot Hot Vacation Jams
+DYEAR=1900
+DGENRE=
+TTITLE0=Hot Hot Hot - Buster Poindexter
+TTITLE1=Don't Worry Be Happy - Bobby Mcferrin
+TTITLE2=The Girl From Ipanema - Stan Getz
+TTITLE3=Iko Iko - Dr. John
+TTITLE4=Day-O Harry Bellafonte
+TTITLE5=Escape - Rupert Holmes
+TTITLE6=Tequila - Champs
+TTITLE7=Limbo Rock - Chubby Checker
+TTITLE8=Caribbean Queen - Billy Ocean
+TTITLE9=Celebration - Kool and the Gang
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

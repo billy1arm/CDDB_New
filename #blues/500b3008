@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30058
+#	54115
+#	76797
+#	99642
+#	117771
+#	138566
+#	162189
+#
+# Disc length: 2866 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=500b3008
+DTITLE=Adalberto alvarez - Mi linda - Habanera
+DYEAR=2005
+DGENRE=Salsa
+TTITLE0=Mi linda Habanera
+TTITLE1=Leccion de amor
+TTITLE2=Un pariente en el campo
+TTITLE3=Ella es una abusadora
+TTITLE4=Preguntame como estoy
+TTITLE5=Somos tu y yo
+TTITLE6=Controlate
+TTITLE7=Y que tu quieres que te den
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13278
+#	50995
+#	91195
+#	136920
+#	156985
+#
+# Disc length: 2134 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e085406
+DTITLE=月詠 - 月詠ラジオ堂 DVD出張版
+DYEAR=2005
+DGENRE=アニメ
+TTITLE0=オープニング
+TTITLE1=葉月のネコロジーモード
+TTITLE2=葉月のヨシヨシ相談室
+TTITLE3=月詠なんでもランキンクイズ
+TTITLE4=エンディング
+TTITLE5=葉月の贈る言葉
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

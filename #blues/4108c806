@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22770
+#	48610
+#	79002
+#	119285
+#	144235
+#
+# Disc length: 2250 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta3
+#
+DISCID=4108c806
+DTITLE=Benny Green - Walkin' and Talkin'
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=The Shouter
+TTITLE1=Green Leaves
+TTITLE2=This Love Of Mine
+TTITLE3=Walkin' and Talkin'
+TTITLE4=All I do is Dream of You
+TTITLE5=Hoppin' Johns
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

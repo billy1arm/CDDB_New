@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17268
+#	39092
+#	57597
+#
+# Disc length: 1266 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2304f004
+DTITLE=North Mississippi Allstars - 4 Song College EP
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Sugar Town
+TTITLE1=Crying (with Jon Spencer)
+TTITLE2=Smiling Assassin (with John Hermann)
+TTITLE3=Waiting on My Wings
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

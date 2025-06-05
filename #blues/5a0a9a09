@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22793
+#	45433
+#	68075
+#	90714
+#	113358
+#	135998
+#	158638
+#	181273
+#
+# Disc length: 2716 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5a0a9a09
+DTITLE=Jamey Aebersold - Aebersold Loops Vol 001
+DYEAR=1900
+DGENRE=Playalong
+TTITLE0=Fm
+TTITLE1=Ebm
+TTITLE2=Dm
+TTITLE3=251 Eb
+TTITLE4=251 F
+TTITLE5=251 G
+TTITLE6=251 Ab
+TTITLE7=251 Bb
+TTITLE8=251 C
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

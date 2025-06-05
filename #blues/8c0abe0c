@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16077
+#	33961
+#	51079
+#	64603
+#	80342
+#	101361
+#	115961
+#	136796
+#	154538
+#	170165
+#	188147
+#
+# Disc length: 2752 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8c0abe0c
+DTITLE=Slobo Horo - Unknown CD for MusicBrainz and FreeDB
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=Dzingo
+TTITLE1=Stojne
+TTITLE2=Mente
+TTITLE3=Hora Lautarerasca
+TTITLE4=Osman Aga
+TTITLE5=Semah
+TTITLE6=Dostlug RÃ¤gsi
+TTITLE7=Divane GÃ¶nlum
+TTITLE8=Zbogom
+TTITLE9=Sahane GÃ¶tzler
+TTITLE10=SÃ¤khra GÃ¶zeli
+TTITLE11=Emin Duraku
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

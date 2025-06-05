@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21477
+#	43042
+#
+# Disc length: 952 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=2103b603
+DTITLE=CONFUSION - RIDE ON TIME
+DYEAR=1995
+DGENRE=Rock
+TTITLE0=RIDE ON TIME
+TTITLE1=REAL,REAL,REAL
+TTITLE2=WORLD(CONFUSION EDIT)
+EXTD=YEAR: 1995 ID3G: 17
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

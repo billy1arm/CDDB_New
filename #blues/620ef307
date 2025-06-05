@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	65400
+#	93100
+#	118950
+#	160697
+#	206225
+#	239775
+#
+# Disc length: 3829 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=620ef307
+DTITLE=BBC Philharmonic - Martinez - Langdon - Watkins - Smyth Concerto for Violin, Horn and Orchestra 
+DYEAR=1995
+DGENRE=Concerto
+TTITLE0=Serenade in D -I- Allergo non troppo
+TTITLE1=Serenade in D -II- Allegro vivace - Allegro molto
+TTITLE2=Serenade in D -III- Allegretto grazioso - Molto vivace grazioso - Allegretto grazioso
+TTITLE3=Serenade in D -IV- Allergo con brio
+TTITLE4=Concerto for Violin, Horn and Orchestra -I- Allegro moderato
+TTITLE5=Concerto for Violin, Horn and Orchestra -II- Elegy (In Memoriam): Adagio
+TTITLE6=Concerto for Violin, Horn and Orchestra -III- Finale: Allegro
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

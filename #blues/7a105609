@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32042
+#	81427
+#	113077
+#	140690
+#	212467
+#	231022
+#	255657
+#	283527
+#
+# Disc length: 4184 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7a105609
+DTITLE=Jessica Williams - Heartland
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Heartland
+TTITLE1=The Cosmic Wheel
+TTITLE2=Animal Logic
+TTITLE3=The Integral Trees
+TTITLE4=Ishtar
+TTITLE5=Skyscape
+TTITLE6=Crystal Bay
+TTITLE7=Monkey Business
+TTITLE8=Prayer for the Mother
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28063
+#	56186
+#	78378
+#
+# Disc length: 1500 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e05da04
+DTITLE=The Extensionicers - Three's a crowd
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Snug-A-Bug Rock
+TTITLE1=Ciao Ciao
+TTITLE2=The Turnaround
+TTITLE3=Hitchhike
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

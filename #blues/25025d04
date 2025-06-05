@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10512
+#	21362
+#	35020
+#
+# Disc length: 607 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=25025d04
+DTITLE=(different) - Oldies but Goldies vol. 2
+DYEAR=1900
+DGENRE=
+TTITLE0=It's my party
+TTITLE1=Let's twist again
+TTITLE2=I wanna be loved by you
+TTITLE3=Wonderful world
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

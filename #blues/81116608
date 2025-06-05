@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57165
+#	105878
+#	128833
+#	176792
+#	224905
+#	251197
+#	290120
+#
+# Disc length: 4456 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=81116608
+DTITLE=Vienna  Art Orchestra - Blues for Brahms
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Pinkt 1, Festliche Eröffnung
+TTITLE1=Alphabet
+TTITLE2=Blues for Brahms
+TTITLE3=What was this thing called free jazz
+TTITLE4=Inspired by j.a.
+TTITLE5=Poschiavo
+TTITLE6=Body and Soul
+TTITLE7=Danke, das wars
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

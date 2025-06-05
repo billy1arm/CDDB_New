@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15310
+#	37687
+#	56452
+#	74705
+#	94162
+#	101630
+#	113470
+#	125727
+#	142505
+#	168222
+#	184287
+#
+# Disc length: 2570 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=930a080c
+DTITLE=菅野よう子 - 信長の野望 覇王伝
+DYEAR=1992
+DGENRE=Game
+TTITLE0=覇王序章
+TTITLE1=臥龍
+TTITLE2=青い波頭
+TTITLE3=慶雲の彼方
+TTITLE4=雄偉の将
+TTITLE5=陰雨簫々
+TTITLE6=破軍
+TTITLE7=陽光の頃
+TTITLE8=昂の集い
+TTITLE9=暁鐘
+TTITLE10=ほうき星
+TTITLE11=臥龍(リプライズ)
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

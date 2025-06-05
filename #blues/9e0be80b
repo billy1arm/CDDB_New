@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21190
+#	39417
+#	59234
+#	76356
+#	94187
+#	121769
+#	140800
+#	160349
+#	183036
+#	209994
+#
+# Disc length: 3050 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30PlusFR
+#
+DISCID=9e0be80b
+DTITLE=Portishead - Portishead
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Cowboys
+TTITLE1=All mine
+TTITLE2=Undenied
+TTITLE3=Half day closing
+TTITLE4=Over
+TTITLE5=Humming
+TTITLE6=Mourning air
+TTITLE7=Seven months
+TTITLE8=Only you
+TTITLE9=Elysum
+TTITLE10=Western eyes
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

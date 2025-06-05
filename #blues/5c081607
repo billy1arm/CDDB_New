@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18670
+#	48535
+#	67082
+#	97735
+#	116155
+#	136670
+#
+# Disc length: 2072 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c081607
+DTITLE=Basia - Brave New Hope - Special Edition CD5
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Brave New Hope
+TTITLE1=Until You Come Back To Me (That's What I'm Gonna Do) (Phil Harding 12'' Remix)
+TTITLE2=Brave New Hope (Brave New Mix)
+TTITLE3=Cruising For Bruising (Phil Harding 12'' remix)
+TTITLE4=From Now On (Band Version)
+TTITLE5=Masquerade
+TTITLE6=Come To Heaven
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

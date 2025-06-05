@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13348
+#	51879
+#	93083
+#	102828
+#	170450
+#	222991
+#	307533
+#
+# Disc length: 4367 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5c110d08
+DTITLE=Dolmen Orchestra - Minotrauma
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=1st Conduction - Opening
+TTITLE1=del Minotauro
+TTITLE2=He Was in a World
+TTITLE3=2nd Conduction - Moving
+TTITLE4=Posaunetaurus Tanz
+TTITLE5=Minotaurus
+TTITLE6=Il Mitonauta
+TTITLE7=3rd Conduction - Awakening
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

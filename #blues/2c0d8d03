@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	72600
+#	131700
+#
+# Disc length: 3471 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2c0d8d03
+DTITLE=古今亭志ん生 - NHK落語名人選(31) 五代目　古今亭志ん生
+DYEAR=1993
+DGENRE=落語
+TTITLE0=廐火事
+TTITLE1=強情灸
+TTITLE2=抜け雀
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

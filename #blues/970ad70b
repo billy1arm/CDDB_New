@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14438
+#     33790
+#     65823
+#     81285
+#     96549
+#     116280
+#     139350
+#     156582
+#     170398
+#     184667
+# 
+# Disc length: 2777 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=970ad70b
+DTITLE=Renee Austin - Dancin' with Mr. Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Little Bit A Texas
+TTITLE1=Calling It Quits
+TTITLE2=The Accused
+TTITLE3=One Man
+TTITLE4=Lonely Road
+TTITLE5=Pillow
+TTITLE6=It's All A Game
+TTITLE7=Catfish Woman
+TTITLE8=Heartless World
+TTITLE9=Swing
+TTITLE10=Dancin' With Mr. Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

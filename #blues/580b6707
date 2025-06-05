@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	86492
+#	116315
+#	161245
+#	171407
+#	185040
+#	204175
+#
+# Disc length: 2921 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=580b6707
+DTITLE=Various Artist - Brahms - Tchaikovsky - Violin Concerto  (Colin Davis, London Symphony Orchestra)
+DYEAR=1993
+DGENRE=Classique
+TTITLE0=Tchaikovsky - Violin Concerto in D, Op.35 - I. Allegro moderato  {Sarah Chang, violin}
+TTITLE1=Tchaikovsky - Violin Concerto in D, Op.35 - II. Canzonetta (Andante)
+TTITLE2=Tchaikovsky - Violin Concerto in D, Op.35 - III. Allegro vivacissimo
+TTITLE3=Brahms - Hungarian Dances N°7 in A major  {Jonathan Feldman, piano}
+TTITLE4=Brahms - Hungarian Dances N°2 in D minor
+TTITLE5=Brahms - Hungarian Dances N°4 in B minor
+TTITLE6=Brahms - Hungarian Dances N°1 in G minor
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

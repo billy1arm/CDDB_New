@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20942
+#	32347
+#	58010
+#	76225
+#	93137
+#	147355
+#	175897
+#	226465
+#	241832
+#	258270
+#	280430
+#
+# Disc length: 4126 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=9b101c0c
+DTITLE=The Modern Jazz Quartet - The Best Of The Modern Jazz Quartet
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Django
+TTITLE1=Vendome
+TTITLE2=Bag's Groove
+TTITLE3=Animal Dance
+TTITLE4=Concorde
+TTITLE5=Concierto De Aranjuez
+TTITLE6=England's Carol
+TTITLE7=Fontessa
+TTITLE8=Versailles (Porte De Versailles)
+TTITLE9=The Golden Striker
+TTITLE10=The Legendary Profile
+TTITLE11=Softly As In A Morning Sunrise
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

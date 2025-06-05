@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	67638
+#	140537
+#	206629
+#
+# Disc length: 2999 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=320bb504
+DTITLE=Ornette Coleman Trio - Live Free Trade Hall Manchester
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=The Fifth of Beethoven
+TTITLE1=Wedding Day
+TTITLE2=Unnamed
+TTITLE3=Sadness
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

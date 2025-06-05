@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17060
+#	37162
+#	54555
+#	74965
+#
+# Disc length: 1231 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4a04cd05
+DTITLE=Bluesgansters - special edition
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=I'm not born to weep
+TTITLE1=when a woman loves a man
+TTITLE2=I was the man
+TTITLE3=remember me
+TTITLE4=we'll win the game
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

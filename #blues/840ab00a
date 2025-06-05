@@ -1,0 +1,63 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     26764
+#     45170
+#     67330
+#     88993
+#     106303
+#     128080
+#     153371
+#     171071
+#     185650
+# 
+# Disc length: 2738 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=840ab00a
+DTITLE=Os Nativos - Divina Menina
+DYEAR=1900
+DGENRE=
+TTITLE0=Abertura
+TTITLE1=Divina Menina
+TTITLE2=Pout-Pourri Xotes
+TTITLE3=Pout-Pourri Nativo
+TTITLE4=Pout-Pourri Das Morenas
+TTITLE5=Pout-Pourri Carnavalito
+TTITLE6=Pout-Pourri Volta Pelo Brasil
+TTITLE7=Pout-Pourri Latino
+TTITLE8=Pout-Pourri Brasil
+TTITLE9=Castelhana
+EXTD=
+EXTT0=(Wilson Saldanha)
+EXTT1=(Elton Saldanha)
+EXTT2=Rock No Quintal (Z  Fl vio]\nPaix o De Beato (Pinto Do Acordeon]\nVida
+EXTT2=De Viajante (Luiz Gonzaga]\nFelicidade (Lupic nio Rodrigues]\nVoc  En
+EXTT2=doideceu Meu Cora  o (Nando Cordel]\nEu S  Quero Um Xod  (Dominguinhos
+EXTT3=Pedro Guar  (Cl udio Boeira Garcia E Jos  Cl udio Machado]\nCan  o Do 
+EXTT3=Araguaia (Luiz Bastos]\nEntardecer (Ant nio Augusto E Ewerton Ferreira
+EXTT3=]\nUm Pito (Nenito Sarturi, Nelcy Vargas E Claudio Patias)
+EXTT4=Morena Amor (Fernando]\nCan  o Do R dio (Elton Saldanha]\nQuando Ser  
+EXTT4=(Adair De Freitas)
+EXTT5=El Condor Passa (Daniel A. Rober]\nDe La Fronteira (Carlos A. Paliza E
+EXTT5=Ricardo Romero]\nBoquita De Cereza (Oscar Valles]\nSolo Le Pido Adios
+EXTT5=(Leon Giego]\nEl Humahuaque o (Porte o Saldivar)
+EXTT6=Gauchinha Bem Querer (Tito Madi]\nSaudade De Laguna (Pedro Raimundo]\n
+EXTT6=Curitibana (Tonico Tinoco E Pirigoso]\nQuarto Centen rio (J.M. Alves E
+EXTT6=Mario Zan]\nGarota De Ipanema (Tom Jobim E Vinicios De Moraes]\nOh! M
+EXTT6=inas Gerais (DP]\nCiriema  (Mario Zan E Nh  Pai]\nNa Baixa Do Sapateir
+EXTT6=o (Ari Barroso]\nMulher Rendeira (Z  Do Norte]\nParaiba (Humberto Teix
+EXTT6=eira E luiz Gonzaga]\nVassourinhas (Mathias Da Rocha E Joana Batista R
+EXTT6=amos]\nPeguei Um Ita No Norte (Dorival Caymm]\nPrenda Minha ( Barboza 
+EXTT6=Lessa]\nO Ga cho (Raul Ellwanger)
+EXTT7=Eu Sou Do Sul (Elton Saldanha]\nSoy Latino Americano (Z  Rodrix]\nAm r
+EXTT7=ica Latina (Humberto Zanatta e Chico Alves]\nGuantanamera (Jos  Fernan
+EXTT7=des Diaz]\nCachito (Consuelo Velasquez]\nLa Bamba (Ritchie Valens]\n
+EXTT8=Vermelho (Chico Da Silva]\nTotal (Jorge Zarath, Dito, Claudio Rabello)
+EXTT9=(Rui Biriva e Elton Saldanha)
+PLAYORDER=

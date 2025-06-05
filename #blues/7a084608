@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19275
+#	37473
+#	61345
+#	75638
+#	97328
+#	119478
+#	141428
+#
+# Disc length: 2120 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a084608
+DTITLE=Grupo Bongo - Volando Pa' nueva York
+DYEAR=1992
+DGENRE=Merengue
+TTITLE0=Baila La Morena
+TTITLE1=Bongo, Bongo
+TTITLE2=La Visa
+TTITLE3=Yo Todo Te Lo Daba
+TTITLE4=La Batea
+TTITLE5=Llego Bongo
+TTITLE6=Peso A Cabo
+TTITLE7=El Vivo
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	22458
+#	83630
+#	132153
+#	163943
+#	188658
+#	229983
+#
+# Disc length: 3952 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a0f6e07
+DTITLE=Chet Baker - Naima (Unusual Chet, vol. 1)
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Chet's Blues
+TTITLE1=Mr.B
+TTITLE2=Killer Joe
+TTITLE3=Lover Man
+TTITLE4=A child is born
+TTITLE5=Seven Steps to Heaven
+TTITLE6=Naima
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

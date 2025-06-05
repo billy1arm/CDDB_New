@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24995
+#	48480
+#
+# Disc length: 845 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1b034b03
+DTITLE=venus peter - obsession-ep
+DYEAR=1990
+DGENRE=Pop
+TTITLE0=obsession
+TTITLE1=sunset bell
+TTITLE2=moonstone
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

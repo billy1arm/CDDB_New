@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36779
+#	70850
+#	95177
+#	123964
+#	141068
+#	176394
+#	199802
+#	221914
+#
+# Disc length: 3293 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=860cdb09
+DTITLE=Walter Smith III - III
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Working Title
+TTITLE1=Capital Wasteland
+TTITLE2=Highschoolish
+TTITLE3=Himorme
+TTITLE4=Aubade
+TTITLE5=Byus
+TTITLE6=Henya
+TTITLE7=Moranish
+TTITLE8=Goodnight Now
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39669
+#	110735
+#	140194
+#	196465
+#	218081
+#
+# Disc length: 2935 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f0b7506
+DTITLE=Miles Davis - The Lost Fleet [CD2]
+DYEAR=1969
+DGENRE=Jazz
+TTITLE0=Directions
+TTITLE1=Bitches Brew
+TTITLE2=This
+TTITLE3=It's About That Time
+TTITLE4=No Blues
+TTITLE5=The Theme
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

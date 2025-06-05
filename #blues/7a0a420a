@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	17970
+#	34467
+#	54492
+#	73718
+#	101292
+#	120219
+#	136759
+#	160539
+#	182700
+#
+# Disc length: 2628 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7a0a420a
+DTITLE=Auntie Kate - Do You Have This In Blue?
+DYEAR=1900
+DGENRE=
+TTITLE0=Back To The Books
+TTITLE1=Keep It To Myself
+TTITLE2=Evil City Blues
+TTITLE3=Tough World
+TTITLE4=After All These Years
+TTITLE5=Naildriver
+TTITLE6=Thanks Alot For The Offer
+TTITLE7=Ain't Nothin' Goin' On
+TTITLE8=(I'd Rather Be) Blind, Crippled, and Crazy
+TTITLE9=Life's Like That
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

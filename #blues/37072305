@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26850
+#	68073
+#	91016
+#	107713
+#
+# Disc length: 1829 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=37072305
+DTITLE=Blue Mitchell - The Cool Jazz Collection 67
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=I'll Close My Eyes
+TTITLE1=Blues on My Mind
+TTITLE2=There Will Never Be Another You
+TTITLE3=Minor Vamp
+TTITLE4=Nica's Dream
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

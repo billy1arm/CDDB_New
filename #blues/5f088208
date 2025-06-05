@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18684
+#	38119
+#	61033
+#	85201
+#	105284
+#	123609
+#	143614
+#
+# Disc length: 2180 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5f088208
+DTITLE=ダイソー - ボサノバ 1 フランスの曲
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=Autumn Leaves
+TTITLE1=Le Ca Ira
+TTITLE2=Can Can
+TTITLE3=Bossa De La Mer
+TTITLE4=Ravel's Bolero Goes Bossa
+TTITLE5=La Marseilleise
+TTITLE6=Les Platini
+TTITLE7=Madame Arthur
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32490
+#	45955
+#	76972
+#	104054
+#	129879
+#
+# Disc length: 2028 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3d07ea06
+DTITLE=George Benson - Bad Benson
+DYEAR=1974
+DGENRE=Jazz
+TTITLE0=Take Five
+TTITLE1=Summer Wishes, Winter Dreams
+TTITLE2=My Latin Brother
+TTITLE3=No Sooner Said Than Done
+TTITLE4=Full Compass
+TTITLE5=The Changing World
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

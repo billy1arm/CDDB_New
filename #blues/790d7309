@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40752
+#	64668
+#	100173
+#	125093
+#	164037
+#	188303
+#	214280
+#	244519
+#
+# Disc length: 3445 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=790d7309
+DTITLE=Tony Pacini - Live At Jimmy Mark's
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Freddie Freeloader
+TTITLE1=Maybe September
+TTITLE2=Stompin' At Savoy
+TTITLE3=A Child Is Born
+TTITLE4=Love For Sale
+TTITLE5=Brotherhood Of Man
+TTITLE6=Beyond The Veil
+TTITLE7=First Light
+TTITLE8=Blues
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

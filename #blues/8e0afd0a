@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20480
+#	36472
+#	52310
+#	69317
+#	96495
+#	120992
+#	139272
+#	153125
+#	197155
+#
+# Disc length: 2815 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=8e0afd0a
+DTITLE=T.C. Carr and The Catch - Blooz-It
+DYEAR=1900
+DGENRE=
+TTITLE0=Lose That Man
+TTITLE1=Threaten To Leave
+TTITLE2=Draggin' My Name in the Dirt
+TTITLE3=Don'tcha Lie to Me
+TTITLE4=Please Send Me Someone to Love
+TTITLE5=Woman's Lookin' for a Man
+TTITLE6=Salty Dog
+TTITLE7=Girl That Radiates That Charm
+TTITLE8=Deep Down in Florida
+TTITLE9=Checkin' Out
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

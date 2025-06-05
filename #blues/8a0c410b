@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23546
+#	43416
+#	69286
+#	84534
+#	107054
+#	132105
+#	150360
+#	170484
+#	193120
+#	218634
+#
+# Disc length: 3139 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8a0c410b
+DTITLE=Kari Bremnes - Norwegian Wood
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=A Lover in Berlin
+TTITLE1=Coastal Ship
+TTITLE2=Montreal
+TTITLE3=My Heart is Pounding like a Hammer
+TTITLE4=Birds
+TTITLE5=Day
+TTITLE6=Wave on Rock
+TTITLE7=The Copenhagen Cavern
+TTITLE8=Song to a Town
+TTITLE9=Riddle Beside another Riddle
+TTITLE10=To Give You a Song
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

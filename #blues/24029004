@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13778
+#	26896
+#	37646
+#
+# Disc length: 658 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=24029004
+DTITLE=Various Artist - Play Me The Blues
+DYEAR=1991
+DGENRE=Blues
+TTITLE0=Muddy Waters - Mannish Boy
+TTITLE1=B.B. King - When my heart beats like a hammer
+TTITLE2=Eric Clapton - White snake
+TTITLE3=John Lee Hooker - I'm in the mood
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

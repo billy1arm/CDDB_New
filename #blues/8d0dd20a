@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30532
+#	52035
+#	79885
+#	100175
+#	134617
+#	162727
+#	191122
+#	213855
+#	241220
+#
+# Disc length: 3540 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=8d0dd20a
+DTITLE=Chris Minh Doky - Cinematique
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=James Bond (From The "James Bond" Movie)
+TTITLE1=Goldfinger (From "James Bond-Goldfinger")
+TTITLE2=Nothing To Lose (From "The Party")
+TTITLE3=Tossed Sald and Scrambled Eggs (From "Frasier")
+TTITLE4=Merry Christmas Mr.Lawrence (From "Merry Christmas Mr.Lawrence")
+TTITLE5=My Favorite Things (From "The Sound Of Music")
+TTITLE6=Sleepless Dream (From "Denmark's Crown Prince")
+TTITLE7=Rue Hautefeuille
+TTITLE8=Godfather (from "Godfather II")
+TTITLE9=One Day I'll Fly Away (From "Moulin Rouge")
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

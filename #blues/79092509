@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     14752
+#     36890
+#     54660
+#     73612
+#     91865
+#     109935
+#     138167
+#     154990
+# 
+# Disc length: 2343 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=79092509
+DTITLE=Juan Carlos Baglietto - Baglietto
+DYEAR=1900
+DGENRE=
+TTITLE0=El tempano
+TTITLE1=Tratando de crecer
+TTITLE2=Jeremias
+TTITLE3=Historia de mate cocido
+TTITLE4=La musica me ayuda
+TTITLE5=Carta de un leon a otro
+TTITLE6=Un loco en la calesita
+TTITLE7=El gigante de ojos azules
+TTITLE8=Amor en otras palabras
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15250
+#     34340
+#     50532
+#     61940
+#     77760
+#     95022
+#     118225
+#     129840
+#     141500
+# 
+# Disc length: 2064 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=85080e0a
+DTITLE=Os Serranos - Os Serranos - Estampa
+DYEAR=1900
+DGENRE=
+TTITLE0=Bailanta De Fronteira
+TTITLE1=Tem D 
+TTITLE2=Serra-Fita, Serra Vida
+TTITLE3=Vida De Taura
+TTITLE4=Estampa
+TTITLE5=Cambichos
+TTITLE6=Namoro De Sitio
+TTITLE7=Vaneir o Lascado
+TTITLE8=Amizade De Gaiteiro
+TTITLE9=Bugio Do Rio Grande
+EXTD=
+EXTT0=(D lvio Oviedo - Luigi Oviedo)
+EXTT1=(Amaro Peres - Jo o Francisco Becker)
+EXTT2=(Edson Dutra -Paulo Ribeiro)
+EXTT3=(Edson Dutra - Jo o Francisco Becker)
+EXTT4=(Amaro Reis)
+EXTT5=(Luiz Bastos - Jorge Rodrigues)
+EXTT6=(Edson Dutra)
+EXTT7=(Valdir Santos)
+EXTT8=(Edson Dutra - Jo o Pantale o Leite)
+EXTT9=(Edson Dutra - Jo o Pantale o Leite)
+PLAYORDER=

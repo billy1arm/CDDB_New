@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	17257
+#	33306
+#	54736
+#	78938
+#	96653
+#	120396
+#
+# Disc length: 1844 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=4c073207
+DTITLE=Wild Dogs - Wherever They Want To
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Wild Dog Hawl
+TTITLE1=Dust My Broom
+TTITLE2=That's How Easy It Is
+TTITLE3=Little Red Rooster
+TTITLE4=Killing Floor
+TTITLE5=Stormy Monday
+TTITLE6=Walkin' On Down The Line
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

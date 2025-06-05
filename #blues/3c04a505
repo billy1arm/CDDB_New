@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	20805
+#	45240
+#	59508
+#	75290
+#
+# Disc length: 1191 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=3204a505,3c04a505
+DTITLE=Willy DeVille - I Call Your Name
+DYEAR=1992
+DGENRE=Rock
+TTITLE0=I Call Your Name (Willy DeVille)
+TTITLE1=I'm In The Mood (John Lee Hooker)
+TTITLE2=Early Morning Blues (Willy DeVille)
+TTITLE3=Well It's True So True (Sheldon Ganz)
+TTITLE4=Who's Gonna Shoot Your Little Pretty Foot (Traditionnal)
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15570
+#	37077
+#	58965
+#	79767
+#
+# Disc length: 1484 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=3b05ca05
+DTITLE=Oui 3 - for what it's worth
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=for what it's worth (radio edit)
+TTITLE1=for what it's worth (stop drop mix)
+TTITLE2=oui love you
+TTITLE3=for what it's worth (full length version)
+TTITLE4=for what it's worth (buffalo mix)
+EXTD=\nYEAR: 1993  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

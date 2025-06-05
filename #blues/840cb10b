@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15553
+#	41165
+#	61161
+#	80623
+#	113865
+#	132351
+#	154189
+#	174990
+#	195829
+#	225705
+#
+# Disc length: 3251 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 5
+#
+DISCID=840cb10b
+DTITLE=Various Artist - Bai ca nguoi linh
+DYEAR=2000
+DGENRE=Vietnamese
+TTITLE0=Chien si Viet Nam
+TTITLE1=Tinh dong chi
+TTITLE2=Hanh khuc ngay va dem
+TTITLE3=Tam ao me va nam xua
+TTITLE4=Vam co dong
+TTITLE5=Anh van hanh quan
+TTITLE6=Huong tham
+TTITLE7=Con kenh xanh xanh
+TTITLE8=Hay yen long me oi
+TTITLE9=Bai ca khong quen
+TTITLE10=Bai ca nguoi linh
+EXTD=
+EXTT0=Van Cao
+EXTT1=Tho Chinh Huu - Nhac Minh Quoc
+EXTT2=Tho Bui Cong Minh - Nhac Phan Huynh Dieu
+EXTT3=Nguyen Van Ty
+EXTT4=Hoai Vu - Truong Quang Luc
+EXTT5=Tho Tran Huu Thung - Nhac Huy Du
+EXTT6=Tho Phan Thi Thanh Nhan - Nhac Vu Hoang
+EXTT7=Ngo Huynh
+EXTT8=Lu Nhat Vu
+EXTT9=Pham Minh Tuan
+EXTT10=Diep Minh Tuyen
+PLAYORDER=

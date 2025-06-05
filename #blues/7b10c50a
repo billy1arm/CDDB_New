@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	18908
+#	37795
+#	94043
+#	121358
+#	152135
+#	179480
+#	204455
+#	220655
+#	265650
+#
+# Disc length: 4295 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.78
+#
+DISCID=7b10c50a
+DTITLE=HERBERT VON KARAJAN - BARCAROLLE
+DYEAR=1985
+DGENRE=Classical
+TTITLE0=Peer Gynt Suite No 1-Morning Mood/Edvard Grieg
+TTITLE1=String Serenade-Valse/Tchaikovsky
+TTITLE2=New World Symphony - Largo/Dvorak
+TTITLE3=Air/J S Bach
+TTITLE4=Dance of the blessed Spirits/Gluck
+TTITLE5=Valse trieste/Sibelius
+TTITLE6=Eine kleine Nacht Musik-Romance/Mozart
+TTITLE7=Barcarolle - Offenbach
+TTITLE8=Violin Concerto no.1 in G minor-Adagio/Max Bruch
+TTITLE9=Vitava (Die Moldau)/Bedrich Smetana
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

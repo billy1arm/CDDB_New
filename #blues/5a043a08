@@ -1,0 +1,39 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7894
+#	10421
+#	27292
+#	42217
+#	51801
+#	55681
+#	66097
+#
+# Disc length: 1084
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cddb.el 1.0 (Emacs 27.0.50)
+#
+DISCID=5a043a08
+DTITLE=Stereolab - Sound Dust (2)
+DYEAR=2001
+DGENRE=Indie Rock/Indietronica
+TTITLE0=Black Ants (Demo)
+TTITLE1=Spacemoth Intro (Demo)
+TTITLE2=Spacemoth (Demo)
+TTITLE3=Baby Lulu (Demo)
+TTITLE4=Hallucinex Pt 1 (Demo)
+TTITLE5=Hallucinex Pt 2 (Demo)
+TTITLE6=Long Live Love (Demo)
+TTITLE7=Les bon bons des raisons (Demo)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

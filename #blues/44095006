@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	27065
+#	43750
+#	88912
+#	124030
+#	160162
+#
+# Disc length: 2386 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=44095006
+DTITLE=Gong - Gazeuse!
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Expresso
+TTITLE1=Night Illusion
+TTITLE2=Percolations - Part I and Part II
+TTITLE3=Shadows Of
+TTITLE4=Esnuria
+TTITLE5=Mireille
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

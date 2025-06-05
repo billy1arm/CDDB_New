@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39367
+#	65451
+#	100800
+#	143014
+#	172713
+#	211918
+#	236285
+#
+# Disc length: 3335 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5b0d0508
+DTITLE=Buster Williams - Griot Liberte
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Nomads
+TTITLE1=Related to One
+TTITLE2=Triumphant Dance of the Butterfly
+TTITLE3=Wind of an Immortal Soul 
+TTITLE4=Ev'ry Time We Say Goodbye 
+TTITLE5=Joined at the Hip
+TTITLE6=Concierto de Aranjuez
+TTITLE7=After the Ninth Wave
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

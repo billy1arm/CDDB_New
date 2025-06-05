@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23546
+#	37988
+#	61796
+#	75243
+#	92563
+#	110196
+#	125580
+#	146196
+#	158440
+#
+# Disc length: 2354 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7209300a
+DTITLE=Restfull - Restfull
+DYEAR=2007
+DGENRE=New Age
+TTITLE0=Restfull
+TTITLE1=Sleep
+TTITLE2=Sea
+TTITLE3=Quiet
+TTITLE4=Sea wave
+TTITLE5=Deep sleep
+TTITLE6=Sea sound
+TTITLE7=Rest
+TTITLE8=Quiet Sleep
+TTITLE9=End
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

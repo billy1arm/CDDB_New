@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21962
+#	47900
+#	81412
+#	105725
+#	134675
+#	154987
+#	180975
+#
+# Disc length: 2650 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6a0a5808
+DTITLE=Maurice vander - Jazz at the Blue Note
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Take the A train
+TTITLE1=Willow weep for me
+TTITLE2=Walkin'
+TTITLE3=Autumn Leaves
+TTITLE4=I'll remember April
+TTITLE5=The nearness of you
+TTITLE6=Django
+TTITLE7=Blue Lester
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

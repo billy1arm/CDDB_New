@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15748
+#     28870
+#     40558
+#     54568
+#     70005
+#     88680
+#     104928
+#     119468
+#     142268
+#     159858
+# 
+# Disc length: 2382 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=96094c0b
+DTITLE=K. C. Douglas - Big Raod Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Big Road Blues
+TTITLE1=Howling Blues
+TTITLE2=Move to Kansas City
+TTITLE3=Buck Dance
+TTITLE4=Tore Your Playhouse Down
+TTITLE5=Bottle up and Go
+TTITLE6=Whiskey Headed Woman
+TTITLE7=Catfish Blues
+TTITLE8=K. C.'s Blues
+TTITLE9=Canned Heat
+TTITLE10=Key to the Highway
+EXTD=
+EXTT0=Tommy Johnson\n
+EXTT1=Chester Burnett\n
+EXTT2=Jim Jackson\n
+EXTT3=Traditonal\n
+EXTT4=Traditional\n
+EXTT5=Tommy McClennan\n
+EXTT6=William Dupree\n
+EXTT7=K. C. Douglas\n
+EXTT8=K. C. Douglas\n
+EXTT9=Tommy Johnson\n
+EXTT10=William Broonzy\n
+PLAYORDER=

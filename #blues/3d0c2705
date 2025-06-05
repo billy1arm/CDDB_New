@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	82341
+#	117203
+#	169230
+#	203528
+#
+# Disc length: 3113 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.78
+#
+DISCID=3d0c2705
+DTITLE=Fabrice de Graef - Meditation on 5 Ragas
+DYEAR=2006
+DGENRE=New Age
+TTITLE0=Chandrakauns
+TTITLE1=Bopali
+TTITLE2=Puria Kalyan
+TTITLE3=Kirwani
+TTITLE4=Bhairavi
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

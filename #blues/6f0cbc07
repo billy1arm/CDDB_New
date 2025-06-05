@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41304
+#	74790
+#	102879
+#	143178
+#	178328
+#	209050
+#
+# Disc length: 3262 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f0cbc07
+DTITLE=GinmanBlachmanDahl - GinmanBlachmanDahl!
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Well, you needn't (Monk)
+TTITLE1=All blues (Davis)
+TTITLE2=Blue in green (Davis, Evans)
+TTITLE3=Milestones (Davis)
+TTITLE4=How deep is the Ocean (Berlin)
+TTITLE5=Caravan (Ellington, Tizol, Mills)
+TTITLE6=Sonnymoon for two (Rollins)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

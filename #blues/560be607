@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26635
+#	49576
+#	88875
+#	123900
+#	169209
+#	192770
+#
+# Disc length: 3048 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=560be607
+DTITLE=Dick de Graaf Septet plays Jimi Hendrix - The Burning of the Midnight Lamp
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Manic Depression
+TTITLE1=Little Wing
+TTITLE2=Voodoo Chile
+TTITLE3=Angel
+TTITLE4=Dicke Luft
+TTITLE5=The Burning of the Midnight Lamp
+TTITLE6=Purple Haze
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

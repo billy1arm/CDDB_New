@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	26012
+#	47302
+#	65909
+#	86464
+#	110065
+#	145035
+#	164478
+#	189021
+#	213746
+#
+# Disc length: 3178 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=890c680a
+DTITLE=Cam Ly - Mai Khong Phai
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Co Le
+TTITLE1=and Minh Thuan - Con Toi Voi Toi
+TTITLE2=Mai Khong Phai
+TTITLE3=Dau Chon Tinh Buon
+TTITLE4=Lang Le Goi Ten
+TTITLE5=Nguoi Thay
+TTITLE6=Nhung Anh Chang Ngo Nhan
+TTITLE7=Lang Quen
+TTITLE8=and Dan Truong - Tro Lai Pho Cu
+TTITLE9=Tro Lai Pho Cu
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

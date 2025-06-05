@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46967
+#	75230
+#	83829
+#	109772
+#	132113
+#	166012
+#	192464
+#
+# Disc length: 2878 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=560b3c08
+DTITLE=Oregon - Ecotopia
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=Twice Around the Sun
+TTITLE1=Innocente
+TTITLE2=WBAI
+TTITLE3=Zephyr
+TTITLE4=Ecotopia
+TTITLE5=Leather Cats
+TTITLE6=Redial
+TTITLE7=Song of the Morrow
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

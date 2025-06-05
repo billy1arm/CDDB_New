@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18865
+#	35422
+#	54995
+#	72910
+#	89690
+#	103055
+#	121637
+#	139472
+#	157847
+#
+# Disc length: 2363 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7d09390a
+DTITLE=Robert Cray - Strong Persuader
+DYEAR=1986
+DGENRE=Blues
+TTITLE0=Smoking Gun
+TTITLE1=I Guess I Showed Her
+TTITLE2=Right Next Door
+TTITLE3=Nothing But A Woman
+TTITLE4=Still Around
+TTITLE5=More Than I Can Stand
+TTITLE6=Foul Play
+TTITLE7=I Wonder
+TTITLE8=Fantasized
+TTITLE9=New Blood
+EXTD=YEAR: 1986 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

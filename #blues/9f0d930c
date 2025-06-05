@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28284
+#	50371
+#	75251
+#	92833
+#	109308
+#	122569
+#	146410
+#	163070
+#	177170
+#	210522
+#	239654
+#
+# Disc length: 3477 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.92
+#
+DISCID=9f0d930c
+DTITLE=Diego Imbert - Tribute to Charlie Haden
+DYEAR=2017
+DGENRE=Jazz
+TTITLE0=01 First Song
+TTITLE1=02 Charlie's Waltz
+TTITLE2=03 Charlie Haden
+TTITLE3=04 Liberation Suite 
+TTITLE4=05 Liberation Suite 2
+TTITLE5=06 Liberation Suite 3
+TTITLE6=07 Nightfall
+TTITLE7=08 Last Dance in Paris
+TTITLE8=09 Liennie's Pennies
+TTITLE9=10 Faith of the Bass
+TTITLE10=11 In the We small hours of the morning
+TTITLE11=12 Silence
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

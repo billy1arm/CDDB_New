@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	39923
+#	68018
+#	107131
+#	127771
+#	152604
+#	187442
+#
+# Disc length: 2912 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=560b5e07
+DTITLE=Various Artist - Music With 58 Musicians, Volume One, Disc Two
+DYEAR=1980
+DGENRE=
+TTITLE0=Jack Dejohnette's Special Edition - Journey to the Twin Planet
+TTITLE1=Paul Motian Trio - Drum Music
+TTITLE2=Art Ensemble of Chicago - JA
+TTITLE3=Steve Kuhn - Sheila Jordan Band - The Zoo
+TTITLE4=John Abercrombie Quartet - Nightlake
+TTITLE5=Haden/Garbarek/Gismonti - Magico
+TTITLE6=Pat Metheny Group - (Cross the) Heartland
+EXTD=Recorded from vinyl on the ECM label.
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

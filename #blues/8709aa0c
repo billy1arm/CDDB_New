@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13783
+#	45020
+#	56619
+#	65186
+#	79620
+#	90335
+#	108930
+#	123985
+#	142941
+#	159138
+#	168431
+#
+# Disc length: 2476 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8709aa0c
+DTITLE=Lasse Liten Blues Band - LLB
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Får jag leka med din pudel
+TTITLE1=Jävla Måndag
+TTITLE2=Varför slår du din fru
+TTITLE3=Man måste tjäna pengar
+TTITLE4=Du behöver inte gå nåt längre nu
+TTITLE5=Min dos av trubbel
+TTITLE6=Mod and blod and voodoo
+TTITLE7=100 spänn i näven
+TTITLE8=Hon sa hej
+TTITLE9=Trubbel, trubbel, trubbel
+TTITLE10=Go'morron
+TTITLE11=Jag ger mig av
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

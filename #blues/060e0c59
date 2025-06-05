@@ -1,0 +1,283 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	5627
+#	9679
+#	14331
+#	17033
+#	18685
+#	23337
+#	26189
+#	31741
+#	37818
+#	40595
+#	42847
+#	46524
+#	49226
+#	51853
+#	55680
+#	57632
+#	60484
+#	63186
+#	65588
+#	68140
+#	70917
+#	73394
+#	76546
+#	79923
+#	81950
+#	83752
+#	87204
+#	93581
+#	96958
+#	99510
+#	103637
+#	108139
+#	110091
+#	113093
+#	116170
+#	119472
+#	122099
+#	124701
+#	126653
+#	129431
+#	132883
+#	135810
+#	138137
+#	140464
+#	143991
+#	145643
+#	147670
+#	151347
+#	154124
+#	157201
+#	161103
+#	163295
+#	165322
+#	167799
+#	170576
+#	175153
+#	178605
+#	182357
+#	185284
+#	187986
+#	191138
+#	194365
+#	196842
+#	198794
+#	201496
+#	204123
+#	206975
+#	210427
+#	215529
+#	218456
+#	221233
+#	224160
+#	226337
+#	229189
+#	232041
+#	235193
+#	236545
+#	239172
+#	241874
+#	244051
+#	246528
+#	249605
+#	253432
+#	256134
+#	258836
+#	262513
+#	264780
+#	266282
+#
+# Disc length: 3598 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.83.01
+#
+DISCID=060e0c59
+DTITLE=Walther Streffer - Magie der Vogelstimmen
+DYEAR=2005
+DGENRE=
+TTITLE0=Amsel - Gesang, Warnrufe
+TTITLE1=Singdrossel - Ruf, Alarmruf, Gesang
+TTITLE2=Misteldrossel - Alarmrufe, Gesang
+TTITLE3=Wacholderdrossel - Rufe, Fluggesang
+TTITLE4=Ringdrossel - Gesang
+TTITLE5=Rotkehlchen - Gesang, Warnrufe
+TTITLE6=Zaunkönig - Alarmrufe, Gesang
+TTITLE7=Kohlmeise - Versch. Gesänge u Warnrufe
+TTITLE8=Blaumeise - Gesang, Warnrufe
+TTITLE9=Tannenmeise - Gesang, Schnurrlaute
+TTITLE10=Haubenmeise - Rufreihen
+TTITLE11=Sumpfmeise - Gesang
+TTITLE12=Weidenmeise - Gesang, Rufe
+TTITLE13=Schwanzmeise - Rufe, singendes M
+TTITLE14=Kleiber - Rufe, Gesang
+TTITLE15=Gartenbaumläufer - Rufe, Gesang
+TTITLE16=Waldbaumläufer - Gesang, Rufe
+TTITLE17=Wintergoldhähnchen - Gesang
+TTITLE18=Sommergoldhähnchen - Rufe, Gesang
+TTITLE19=Buchfink - Gesang, Rufe
+TTITLE20=Grünfink - Gesang, Rufe
+TTITLE21=Erlenzeisig - Rufe, Gesang
+TTITLE22=Birkenzeisig - Flugrufe, Fluggesang
+TTITLE23=Dompfaff - Rufe, Gesang
+TTITLE24=Fichtenkreuzschnabel - Rufe, Gesang
+TTITLE25=Kernbeißer - Rufgesang
+TTITLE26=Star - Gesang u Imitationen
+TTITLE27=Eichelhäher - Rufe, Imitationen, Gesang
+TTITLE28=Elster - Rufe, Gesang
+TTITLE29=Dohle - Flugrufe eines Trupps
+TTITLE30=Rabenkrähe - Rufe
+TTITLE31=Kolkrabe - Rufe
+TTITLE32=Haussperling - Rufe, singendes M
+TTITLE33=Feldsperling - Rufe, Gesang
+TTITLE34=Feldlerche - Gesang
+TTITLE35=Heidelerche - Gesang
+TTITLE36=Haubenlerche - Gesang
+TTITLE37=Goldammer - Rufe, Gesang
+TTITLE38=Rohrammer - Gesang
+TTITLE39=Bartmeise - Rufe, Triller
+TTITLE40=Wasseramsel - Flugruf, singendes M
+TTITLE41=Bachstelze - Rufe, singendes M
+TTITLE42=Gebirgstelze - Rufe, singendes M
+TTITLE43=Bergfink - Rufe, "Gesang"
+TTITLE44=Rotdrossel - Gesang
+TTITLE45=Seidenschwanz - Singendes M
+TTITLE46=Schneeammer - Rufe, Gesang
+TTITLE47=Rauchschwalbe - Rufe, Gesang
+TTITLE48=Mehlschwalbe - Rufe, Gesang
+TTITLE49=Uferschwalbe - Flugrufe (Kolonie), singendes M
+TTITLE50=Baumpieper - Singflug M
+TTITLE51=Wiesenpieper - Singflug M
+TTITLE52=Schafstelze - Rufe, Gesang
+TTITLE53=Heckenbraunelle - Gesang
+TTITLE54=Alpenbraunelle - Rufe, Gesang
+TTITLE55=Nachtigall - Alarmruf, Gesang
+TTITLE56=Sprosser - Alarmrufe, Gesang
+TTITLE57=Blaukehlchen - Alarmruf, Gesang
+TTITLE58=Braunkehlchen - Alarmruf, Gesang
+TTITLE59=Schwarzkehlchen - Alarmruf, Gesang
+TTITLE60=Hausrotschwanz - Alarmruf, Gesang
+TTITLE61=Gartenrotschwanz - Alarmruf, Gesang
+TTITLE62=Steinschmätzer - Gesang
+TTITLE63=Feldschwirl - Gesang
+TTITLE64=Drosselrohrsänger - Alarmruf, Gesang
+TTITLE65=Teichrohrsänger - Gesang
+TTITLE66=Schilfrohrsänger - Gesang
+TTITLE67=Sumpfrohrsänger - Gesang
+TTITLE68=Gelbspötter - Gesang
+TTITLE69=Mönchsgrasmücke - Gesang
+TTITLE70=Gartengrasmücke - Alarmruf, Gesang
+TTITLE71=Dorngrasmücke - Alarmrufe, Gesang
+TTITLE72=Klappergrasmücke - Alarmruf, Gesang
+TTITLE73=Zilpzalp - Rufe, Gesang
+TTITLE74=Fitis - Gesang, Rufe
+TTITLE75=Waldlaubsänger - Ruf, Gesang
+TTITLE76=Berglaubsänger - Gesang
+TTITLE77=Trauerschnäpper - Singendes M
+TTITLE78=Halsbandschnäpper - Ruf, Gesang
+TTITLE79=Zwergschnäpper - Gesang
+TTITLE80=Grauschnäpper - Gesang
+TTITLE81=Beutelmeise - Rufe, singendes M
+TTITLE82=Neuntöter - Versch. Rufe, Gesang
+TTITLE83=Pirol - Gesang, Rufe
+TTITLE84=Girlitz - Rufe, Fluggesang
+TTITLE85=Stieglitz - Rufe, Gesang
+TTITLE86=Hänfling - Rufe, singendes M
+TTITLE87=Grauammer - Gesang
+TTITLE88=Ortolan - Rufe, versch. Gesänge
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+PLAYORDER=

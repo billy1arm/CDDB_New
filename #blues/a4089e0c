@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14550
+#	27900
+#	43950
+#	56700
+#	69600
+#	81000
+#	93900
+#	108600
+#	120150
+#	135300
+#	147450
+#
+# Disc length: 2208 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a4089e0c
+DTITLE=Pierre Porte - A Musical Picture
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Pop Ouverture
+TTITLE1=The Walk
+TTITLE2=Inner Circle
+TTITLE3=Royal Flush
+TTITLE4=The Lazy Game
+TTITLE5=Steam-Line
+TTITLE6=Opo Lords
+TTITLE7=Pell Mell
+TTITLE8=A la Cour
+TTITLE9=Masked Ball
+TTITLE10=The Sun King
+TTITLE11=Final Piece
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

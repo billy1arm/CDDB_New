@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	61342
+#	146298
+#	203395
+#
+# Disc length: 3486 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2c0d9c04
+DTITLE=Michael Brecker - Tales From The Hudson Band - Live In Tokyo
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=01-Slings And Arrows
+TTITLE1=02-Midnight Voyage
+TTITLE2=03-Song For Bilbao
+TTITLE3=04-Every Day I Thank You
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

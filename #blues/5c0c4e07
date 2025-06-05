@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34510
+#	81617
+#	117891
+#	144793
+#	179457
+#	212813
+#
+# Disc length: 3152 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5c0c4e07
+DTITLE=Rocket 88 - Rocket 88
+DYEAR=1979
+DGENRE=Blues/Rock
+TTITLE0=Rocket 88
+TTITLE1=Waiting for the Call
+TTITLE2=St. Louis Blues
+TTITLE3=Roll 'em Pete
+TTITLE4=Swindon Swing
+TTITLE5=Roadhouse Boogie
+TTITLE6=Talking about Louise
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

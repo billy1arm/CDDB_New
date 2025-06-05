@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49125
+#	114450
+#	165300
+#	225675
+#	244867
+#	246075
+#	252600
+#	277800
+#	298437
+#	315225
+#
+# Disc length: 4422 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9811440b
+DTITLE=Sergiu Celibidache - WSR Stuttgart Radio Symphony Orchestra - Sheherazade, The Firebird
+DYEAR=1976
+DGENRE=Classical
+TTITLE0=Rimsky-Korsakov: Shegerazade, Symphonic Suite op.35: 1. Largo e maestoso - Lento - Allegro non troppo - Tranquillo
+TTITLE1=Rimsky-Korsakov: Shegerazade, Symphonic Suite op.35: 2. Lento - Andantino - Allegro molto - Vivace Scherzando Moderato assai - Allegro molto ed animato
+TTITLE2=Rimsky-Korsakov: Shegerazade, Symphonic Suite op.35: 3. Andantino quasi allegretto
+TTITLE3=Rimsky-Korsakov: Shegerazade, Symphonic Suite op.35: 4. Allegro molto - Lento - Vivo - Allegro non troppo e maestoso - Lento - Tempo come I
+TTITLE4=Stravinsky: L'Oisequ de feu - Suite(Version 1923): 1. Introduction
+TTITLE5=Stravinsky: L'Oisequ de feu - Suite(Version 1923): 2. The Firebird and its Dance
+TTITLE6=Stravinsky: L'Oisequ de feu - Suite(Version 1923): 3. Variation of the Firebird
+TTITLE7=Stravinsky: L'Oisequ de feu - Suite(Version 1923): 4. The Princesses' Round
+TTITLE8=Stravinsky: L'Oisequ de feu - Suite(Version 1923): 5. Infernal Dnace of King Kashchei
+TTITLE9=Stravinsky: L'Oisequ de feu - Suite(Version 1923): 6. Berceuse
+TTITLE10=Stravinsky: L'Oisequ de feu - Suite(Version 1923): 7. Finale
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

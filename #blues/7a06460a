@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12030
+#     22947
+#     33852
+#     47610
+#     60412
+#     71045
+#     86570
+#     97305
+#     110797
+# 
+# Disc length: 1608 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7a06460a
+DTITLE=Arthur Conley - Soul Directions
+DYEAR=1900
+DGENRE=
+TTITLE0=You Really Know How To Hurt A Guy
+TTITLE1=Funky Street
+TTITLE2=Burning Fire
+TTITLE3=Get  Yourself Another Fool
+TTITLE4=Otis Sleep On
+TTITLE5=Hear Say
+TTITLE6=This Love Of Minde
+TTITLE7=Love Comes And Goes
+TTITLE8=Put Our Love Together
+TTITLE9=People Sure Act Funny
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

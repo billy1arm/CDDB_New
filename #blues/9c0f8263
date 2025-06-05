@@ -1,0 +1,314 @@
+# xmcd
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#       182
+#       25077
+#       25602
+#       26377
+#       27810
+#       37637
+#       38502
+#       38882
+#       43905
+#       44367
+#       44990
+#       45407
+#       45795
+#       46390
+#       48140
+#       51412
+#       52550
+#       53492
+#       55002
+#       55497
+#       55777
+#       56437
+#       58445
+#       58840
+#       59287
+#       59580
+#       59865
+#       60167
+#       60475
+#       60840
+#       61245
+#       61592
+#       61892
+#       62265
+#       62575
+#       63377
+#       68177
+#       71982
+#       73720
+#       75055
+#       79012
+#       80602
+#       81540
+#       84037
+#       84365
+#       84660
+#       84980
+#       85327
+#       86055
+#       86655
+#       95467
+#       95747
+#       96025
+#       96352
+#       96752
+#       97677
+#       99040
+#       100227
+#       100900
+#       101415
+#       101802
+#       102355
+#       103407
+#       106067
+#       108140
+#       112295
+#       113165
+#       114917
+#       116647
+#       118392
+#       119857
+#       122640
+#       127380
+#       131405
+#       135030
+#       137170
+#       141415
+#       143495
+#       147475
+#       158977
+#       163762
+#       170120
+#       174915
+#       185325
+#       190127
+#       194927
+#       197527
+#       202362
+#       204462
+#       212792
+#       224912
+#       236387
+#       241447
+#       254240
+#       255815
+#       262200
+#       265977
+#       278665
+#       290085
+#
+# Disc length: 3972 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CD-Import v1.0
+#
+DISCID=9c0f8263
+DTITLE=O-Ton - 
+DYEAR=1900
+DGENRE=
+TTITLE0=ta kaffeemaschine
+TTITLE1=ta kaffee deckel auf dem filter
+TTITLE2=ta kaffee fläschchen gefüllt mit wasser
+TTITLE3=ta kaffee in den filter getan
+TTITLE4=ta wäschtrockner
+TTITLE5=ta wäschetrockner tür auf
+TTITLE6=ta wäschetrockner tür zu
+TTITLE7=ta ventilator ein/aktion/aus
+TTITLE8=ta sprühdose
+TTITLE9=ta tür ladentür mit glocke auf
+TTITLE10=ta tür schiebetrü auf
+TTITLE11=ta tür schiebetür zu
+TTITLE12=ta tür öffnen und schloss
+TTITLE13=ta tür auf/zu mit schritte
+TTITLE14=ta tür schwer, auf/zu mit schritte
+TTITLE15=ta tür garagentür elektronisch geöffnet
+TTITLE16=ta tür garagentür elektronisch geschlossen
+TTITLE17=ta tür auf langsam quietschend
+TTITLE18=ta tür zu langsam quietschend
+TTITLE19=ta tür schranktür zu
+TTITLE20=ta tür schranktür auf/zu
+TTITLE21=ta tür schranktür auf/herumkramen/zu
+TTITLE22=ta tür sicherheitskette zu
+TTITLE23=ta tür sicherheitskette auf
+TTITLE24=ta tür zu laut
+TTITLE25=ta tür öffnen leise
+TTITLE26=ta tür zu laut
+TTITLE27=ta türklingel tring
+TTITLE28=ta türklingerl tring/tring
+TTITLE29=ta sprechanlage summer 1x
+TTITLE30=ta sprechanlage summer 3x
+TTITLE31=ta klopfen 3x
+TTITLE32=ta klopfen 5x
+TTITLE33=ta kamera 1x automatisch
+TTITLE34=ta kamera 3x automatisch 
+TTITLE35=ta projektor 16 mm
+TTITLE36=ta kettensäge
+TTITLE37=ta hacken axt
+TTITLE38=ta hacken baum wird gefällt
+TTITLE39=ta graben schaufel
+TTITLE40=ta telefon drehscheibe
+TTITLE41=ta elekronische rechenmaschine
+TTITLE42=ta pfeifkessel
+TTITLE43=ta toaster nach unten
+TTITLE44=ta toaster nach oben
+TTITLE45=ta stuhl wird verschoben
+TTITLE46=ta stuhl wird verschoben
+TTITLE47=ta rollvorhang auf
+TTITLE48=ta rollvorhang zu
+TTITLE49=ta kühlschrank an/aus
+TTITLE50=ta kühlschrank gemüsefach zu
+TTITLE51=ta kühlschrank tür gefrierfach zu
+TTITLE52=ta schublade auf
+TTITLE53=ta schublade zu
+TTITLE54=ta schublade auf/suchen/zu
+TTITLE55=ta gasherd, streichholz /an /topf
+TTITLE56=ta container über kiesweg wegfahren
+TTITLE57=ta dose wird geöffnet
+TTITLE58=ta dose fällt
+TTITLE59=ta küchenschrank für auf/zu
+TTITLE60=ta habicht
+TTITLE61=ta eule
+TTITLE62=ta rotkehlchen
+TTITLE63=ta specht
+TTITLE64=ta gruppe gänse
+TTITLE65=ta pfau
+TTITLE66=ta fink
+TTITLE67=ta kiebitz
+TTITLE68=ta krähe
+TTITLE69=ta gelbspötter
+TTITLE70=ta nachtigal
+TTITLE71=ta grillen nachts
+TTITLE72=ta heuschrecke
+TTITLE73=ta seelöwe
+TTITLE74=ta delphin
+TTITLE75=ta schafherde
+TTITLE76=ta tiger knurren/brllen
+TTITLE77=ta ferd trab/galopp
+TTITLE78=ta pferd mit wagen
+TTITLE79=ta schnellfliessender bach
+TTITLE80=ta plätschernder bach
+TTITLE81=ta starker wasserfall
+TTITLE82=ta ruhiger wasserfall
+TTITLE83=ta allgemeine atmosphäre daraussen
+TTITLE84=ta allgemeine atmosphäre daraussen
+TTITLE85=ta höhle mit tropfendem wasser
+TTITLE86=ta meer mit hohem wellenschlag
+TTITLE87=ta es regnet auf's wasser - fernes donnern
+TTITLE88=ta es regnet auf's wasser - lautes donnern
+TTITLE89=ta fernes gewitter, es beginnt zu regnen
+TTITLE90=ta gewitter, regen und donner
+TTITLE91=ta abflussrohr, wasser fliesst aus rohr
+TTITLE92=ta wind leise und regentropfen
+TTITLE93=ta gewitter donner
+TTITLE94=ta gewitter zieht danach weg
+TTITLE95=ta gewitter in der stadt
+TTITLE96=ta wind stark
+TTITLE97=ta wind heulend
+TTITLE98=ta wind leise
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=

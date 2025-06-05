@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26503
+#	61251
+#	91563
+#	114809
+#	134405
+#	151385
+#
+# Disc length: 2326 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=48091407
+DTITLE=Various Artist - Blues: Live At Newport
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Big Momma Thorton - Little Red Rooster
+TTITLE1=Big Momma Thorton - Ball And Chain
+TTITLE2=B.B. King - Outside Help
+TTITLE3=Muddy Waters - Long Distance Call
+TTITLE4=Muddy Waters - Where's My Woman Been
+TTITLE5=Muddy Waters - I Got My Mojo Working
+TTITLE6=B.B. King - You Done Lost A Good Thing Now
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

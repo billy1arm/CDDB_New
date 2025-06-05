@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15975
+#	30675
+#
+# Disc length: 619 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=15026903
+DTITLE=Caught In The Act - You Know
+DYEAR=1995
+DGENRE=Misc
+TTITLE0=You Know (Radio Mix)
+TTITLE1=You Know (Album Mix)
+TTITLE2=You Know (Radio Instrumental)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

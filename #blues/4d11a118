@@ -1,0 +1,88 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14042
+#	25847
+#	40175
+#	54790
+#	68237
+#	81995
+#	97597
+#	111762
+#	126245
+#	141167
+#	156552
+#	168912
+#	183857
+#	199700
+#	214972
+#	228490
+#	243202
+#	256667
+#	270820
+#	283532
+#	298057
+#	313540
+#	325265
+#
+# Disc length: 4515 seconds
+#
+# Revision: 11
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=4d11a118
+DTITLE=CD 01 - Armstrong - Les Triomphes Du Jazz
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Cornet Shop Suey
+TTITLE1=Muskat Ramble
+TTITLE2=Willie The Weeper
+TTITLE3=Wild Man Blues
+TTITLE4=Potato Head Blues
+TTITLE5=Hotter Than That
+TTITLE6=Savoy Blues
+TTITLE7=Skip The Gutter
+TTITLE8=West End Blues
+TTITLE9=Basin Street Blues
+TTITLE10=No One Else But You
+TTITLE11=Weather Bird Rag
+TTITLE12=Tight Like This
+TTITLE13=I Can't Give You Anything But Love
+TTITLE14=Mahogany Hall Stomp
+TTITLE15=Saint Louis Blues
+TTITLE16=Dear Old Southland
+TTITLE17=Struttin' With Some Barbecue
+TTITLE18=Nobody Knows The Troubles I've Seen
+TTITLE19=2:19 Blues
+TTITLE20=When It's Sleepy Time Down South
+TTITLE21=Sugar
+TTITLE22=Blues For Yesterday
+TTITLE23=Do You Know What Is Means To Miss New Orleans
+EXTD=YEAR: 2000
+EXTT0=year 1926
+EXTT1=year 1926
+EXTT2=year 1927
+EXTT3=year 1927
+EXTT4=year 1927
+EXTT5=year 1927
+EXTT6=year 1927
+EXTT7=year 1928
+EXTT8=year 1928
+EXTT9=year 1928
+EXTT10=year 1928
+EXTT11=year 1928
+EXTT12=year 1928
+EXTT13=year 1929
+EXTT14=year 1929
+EXTT15=year 1929
+EXTT16=year 1930
+EXTT17=year 1938
+EXTT18=year 1938
+EXTT19=year 1940
+EXTT20=year 1941
+EXTT21=year 1946
+EXTT22=year 1946
+EXTT23=year 1947
+PLAYORDER=

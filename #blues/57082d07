@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25150
+#	46810
+#	66767
+#	85165
+#	109295
+#	130345
+#
+# Disc length: 2095 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.10
+#
+DISCID=57082d07
+DTITLE=Syndicate of Soul - Who's Snakin' Who?
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Who's Snakin' Who?
+TTITLE1=Outside Love
+TTITLE2=Ain't No Sunshine
+TTITLE3=Thank You
+TTITLE4=I Won't Fall in Love With You
+TTITLE5=Love the One You're With
+TTITLE6=Dupree
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

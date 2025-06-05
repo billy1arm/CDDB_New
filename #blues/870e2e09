@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35332
+#	65782
+#	101932
+#	141682
+#	166057
+#	183907
+#	215557
+#	240532
+#
+# Disc length: 3632 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=870e2e09
+DTITLE=Sheena Kinohara - In a Sentimental Mood
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=01_Dark Eyes(traditional)
+TTITLE1=02_Zingaro (Portrait in blan and White)
+TTITLE2=03_Detour Ahead
+TTITLE3=04_Lullaby of Birdland
+TTITLE4=05_Libertango
+TTITLE5=06_I love you
+TTITLE6=07_Song for My father
+TTITLE7=08_Oblivion
+TTITLE8=09_In a Sentimental Mood
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

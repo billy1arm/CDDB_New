@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24432
+#	64440
+#	86025
+#	113947
+#	140365
+#	170360
+#	192132
+#
+# Disc length: 3021 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=6a0bcb08
+DTITLE=Steve Allen - Jazz For Tonight
+DYEAR=1955
+DGENRE=Jazz
+TTITLE0=S'Posin'
+TTITLE1=Chicken Wire Blues
+TTITLE2=Body And Soul
+TTITLE3=I Thought About You
+TTITLE4=Limehouse Blues
+TTITLE5=Tea For Two
+TTITLE6=Lover Man
+TTITLE7=Poor Batterfly
+EXTD=YEAR: 1955
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

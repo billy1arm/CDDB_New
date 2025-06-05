@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	153382
+#	198995
+#	287640
+#
+# Disc length: 4485 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=30118304
+DTITLE=Gustav Mahler - 交響曲第３番ニ短調
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=第1楽章　力強く決然と
+TTITLE1=第2楽章　テンポ・ディ・メヌエット
+TTITLE2=第3楽章　コモト・スケルツァンド　急がずに
+TTITLE3=第4楽章　極めて緩やかに
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

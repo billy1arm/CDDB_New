@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17065
+#	43810
+#	61865
+#	83495
+#	103082
+#	129775
+#	149770
+#	168750
+#	190615
+#	210157
+#
+# Disc length: 3413 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta6
+#
+DISCID=860d530b
+DTITLE=The Rolling Stones - Paris Aux Printemps [CD1]
+DYEAR=1976
+DGENRE=Rock
+TTITLE0=Honky Tonk Women
+TTITLE1=If You Can't Rock Me - Get Off Of My Cloud
+TTITLE2=Hand Of Fate
+TTITLE3=Hey Negrita
+TTITLE4=Ain't Too Proud To Beg
+TTITLE5=Fool To Cry
+TTITLE6=Hot Stuff
+TTITLE7=Starfucker
+TTITLE8=Angie
+TTITLE9=You Gotta Move
+TTITLE10=You Can't Always Get What You Want
+EXTD=Recorded live in Paris/4.6.1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

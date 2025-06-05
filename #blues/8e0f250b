@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24907
+#	56410
+#	73162
+#	100122
+#	120222
+#	135672
+#	151260
+#	209140
+#	228155
+#	251047
+#
+# Disc length: 3879 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8e0f250b
+DTITLE=Юрий Наумов - Московский буги
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=Московский буги
+TTITLE1=Поролоновый город
+TTITLE2=Никак не похоже на блюз (Бери легче...)
+TTITLE3=Возвращение блудного сына
+TTITLE4=Пинг-понг блюз
+TTITLE5=Звездная ночь
+TTITLE6=Я собрался не туда
+TTITLE7=Дорога назад
+TTITLE8=Нью-йорк, 5-я авеню
+TTITLE9=Сказка о Карле
+TTITLE10=Театр Станиславского
+EXTD=\n YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

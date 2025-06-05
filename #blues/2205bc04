@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	33640
+#	53455
+#	78137
+#
+# Disc length: 1470 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=2205bc04
+DTITLE=De La Luz Orquesta - Salsa bailable
+DYEAR=1990
+DGENRE=Salsa
+TTITLE0=Salsa es mi energia (genki no gen mix)
+TTITLE1=Cuero sono (motion mix)
+TTITLE2=Salsa caliente del Japon (motion "charanga" version)
+TTITLE3=Cuero sono (absolutely shockin' dub version)
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

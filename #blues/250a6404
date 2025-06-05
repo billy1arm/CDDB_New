@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	90083
+#	140085
+#	166738
+#
+# Disc length: 2662 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=250a6404
+DTITLE=Tony O Connor - Zodiac Collection Pisces
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=Pisces 1
+TTITLE1=Pisces 2
+TTITLE2=Pisces 3
+TTITLE3=Pisces 4
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

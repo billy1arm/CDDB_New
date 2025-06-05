@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32023
+#	67491
+#	98463
+#	135106
+#	167166
+#	186890
+#	227130
+#	253342
+#	267794
+#
+# Disc length: 3941 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=870f630a
+DTITLE=Various Artist - David Oïstrakh - Vol.05
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Mozart - Violin Sonata N°32 in B flat major K454 - I. Largo - Allegro  [Vladimir Yampolsky, piano - 1956]
+TTITLE1=Mozart - Violin Sonata N°32 in B flat major K454 - II. Andante
+TTITLE2=Mozart - Violin Sonata N°32 in B flat major K454 - III. Allegretto
+TTITLE3=Beethoven - Violin Sonata N°3 in E flat major Op.12 n°3 - I. Allegro con spirito  [Vladimir Yampolsky, piano - 1955]
+TTITLE4=Beethoven - Violin Sonata N°3 in E flat major Op.12 n°3 - II. Adagio con molto espressione
+TTITLE5=Beethoven - Violin Sonata N°3 in E flat major Op.12 n°3 - III. Rondo - Allegro molto
+TTITLE6=Brahms - Violin Sonata N°3 in D minor Op.108 - I. Allegro  [Vladimir Yampolsky, piano - 1955]
+TTITLE7=Brahms - Violin Sonata N°3 in D minor Op.108 - II. Adagio
+TTITLE8=Brahms - Violin Sonata N°3 in D minor Op.108 - III. Un poco presto e con sentimento
+TTITLE9=Brahms - Violin Sonata N°3 in D minor Op.108 - IV. Presto agiato
+EXTD=Mozart, Beethoven Brahms
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

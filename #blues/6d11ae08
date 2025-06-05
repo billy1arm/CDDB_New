@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49750
+#	96892
+#	131025
+#	175655
+#	220617
+#	268012
+#	294085
+#
+# Disc length: 4528 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d11ae08
+DTITLE=Ａ・デイヴィス(c)／フィルハーモニアOr - ドヴォルザーク／交響曲第７＆８番／Ａ・デイヴィス(c)フィルハーモニアOr
+DYEAR=1979
+DGENRE=Symphony
+TTITLE0=ドヴォルザーク／交響曲第７番ニ短調Op70?Allegro maestoso
+TTITLE1=ドヴォルザーク／交響曲第７番ニ短調Op70?Poco adagio
+TTITLE2=ドヴォルザーク／交響曲第７番ニ短調Op70?Scherzo
+TTITLE3=ドヴォルザーク／交響曲第７番ニ短調Op70?Finale Allegro
+TTITLE4=ドヴォルザーク／交響曲第８番と長調Op88?Allegro con brio
+TTITLE5=ドヴォルザーク／交響曲第８番と長調Op88?Adagio
+TTITLE6=ドヴォルザーク／交響曲第８番と長調Op88?Allegretto grazioso
+TTITLE7=ドヴォルザーク／交響曲第８番と長調Op88?Allegro ma non troppo
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40360
+#	97887
+#	129230
+#	156982
+#
+# Disc length: 2982 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=360ba405
+DTITLE=Pierre Cartier - "Dis, Blaise..." chanson du Transsibérien
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=En ce temps-là (prologue)
+TTITLE1=Moi, le mauvais poète
+TTITLE2=Du fond de mon coeur
+TTITLE3=Mon berceau
+TTITLE4="Dis, Blaise..."
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

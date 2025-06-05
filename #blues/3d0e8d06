@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48789
+#	106524
+#	145783
+#	195381
+#	243223
+#
+# Disc length: 3727 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3d0e8d06
+DTITLE=竹田一彦 - Live at Just In Time 
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=01 JUST IN TIME
+TTITLE1=02 ALONE TOGETHER 
+TTITLE2=03 TRISTE
+TTITLE3=04 WILLOW WEEP FOR ME 
+TTITLE4=05 ON A CLEAR DAY 
+TTITLE5=06 SMILE
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

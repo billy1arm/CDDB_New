@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	90678
+#	194352
+#
+# Disc length: 3162 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=1f0c5803
+DTITLE=Togashi Masahiko and Takahashi Yuji - Duo Live 1988 Disc1
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=1988-7-31 Space Who-1
+TTITLE1=1988-7-31 Space Who-2
+TTITLE2=1988-7-31 Space Who-3
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

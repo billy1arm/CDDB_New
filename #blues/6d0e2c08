@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45529
+#	71973
+#	113439
+#	145846
+#	189460
+#	220001
+#	235136
+#
+# Disc length: 3630 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d0e2c08
+DTITLE=Beethoven - String Quartets Op.18, Vol.6  (Borodin Quartet)  [CD 3-3]
+DYEAR=2006
+DGENRE=Classique
+TTITLE0=String Quartet, Op.18, N°5 in A major - I. Allegro
+TTITLE1=String Quartet, Op.18, N°5 in A major - II. Menuetto
+TTITLE2=String Quartet, Op.18, N°5 in A major - III. Andante cantabile
+TTITLE3=String Quartet, Op.18, N°5 in A major - IV. Allegro
+TTITLE4=String Quartet, Op.18, N°6 in B flat major - I. Allegro con brio
+TTITLE5=String Quartet, Op.18, N°6 in B flat major - II. Adagio ma non troppo
+TTITLE6=String Quartet, Op.18, N°6 in B flat major - III. Scherzo. Allegro
+TTITLE7=String Quartet, Op.18, N°6 in B flat major - IV. La Malinconia. Adagio - Allegretto quasi allegro
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

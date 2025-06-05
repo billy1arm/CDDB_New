@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51258
+#	91567
+#	122290
+#	168083
+#
+# Disc length: 2713 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2b0a9705
+DTITLE=Sonny Rollins - Blue Seven - Kind Of Rollins CD-5
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Blue Seven (Rollins) *1
+TTITLE1=Pent Up House (Rollins) *2
+TTITLE2=St Thomas (Rollins) *1
+TTITLE3=Moritat (Weill/Brecht) *1
+TTITLE4=Corne Gone (Rollins) *2
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

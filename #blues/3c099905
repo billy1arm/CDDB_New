@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33637
+#	74822
+#	82592
+#	109740
+#
+# Disc length: 2459 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3c099905
+DTITLE=Sonny Rollins - There Will Never Be Another You
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=On Green Dolphin Street
+TTITLE1=Three Little Words
+TTITLE2=Mademoiselle De Paris
+TTITLE3=To A Wild Rose
+TTITLE4=There Will Never Be Another You
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51422
+#	93140
+#	130077
+#	178042
+#
+# Disc length: 3264 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3b0cbe05
+DTITLE=Von Freeman - Serenade and Blues
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Serenade in Blue
+TTITLE1=After Dark
+TTITLE2=Time After Time
+TTITLE3=Von Freeman's Blues
+TTITLE4=I'll Close My Eyes
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

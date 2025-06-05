@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7943
+#	18833
+#	44236
+#	55594
+#	71296
+#	83634
+#
+# Disc length: 1403 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=48057907
+DTITLE=Jim Weiss - A Storytelling Sampler
+DYEAR=2001
+DGENRE=Salsa
+TTITLE0=Introduction
+TTITLE1="The Blue Carbuncle" from Sherlock Holmes for Children
+TTITLE2="The Tortoise and the Hare" from Aniamsl Tales
+TTITLE3="Sir Bedivere" from King Arthur and His Knights
+TTITLE4="Mogwgli's Brothers" from The Jungle Book
+TTITLE5="Jack and the Beanstalk" from Gaints! A Colossal Collection of Tales and Tunes
+TTITLE6="Hercules and the Wild Boar" from Greek Myths
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

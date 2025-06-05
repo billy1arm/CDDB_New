@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15865
+#	32415
+#	45395
+#	63522
+#	83990
+#	102517
+#	122412
+#	142027
+#	155675
+#	172715
+#	192952
+#
+# Disc length: 2955 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=8e0b890c
+DTITLE=Libera - Libera
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Salva Me
+TTITLE1=Sanctus
+TTITLE2=Agnus Dei
+TTITLE3=Libera
+TTITLE4=Mysterium
+TTITLE5=Jubilate
+TTITLE6=Beata Lux
+TTITLE7=Dies Irae
+TTITLE8=Te Lucis
+TTITLE9=Sancta
+TTITLE10=Angelis
+TTITLE11=Lux Aeterna
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28045
+#	47215
+#	70784
+#	91867
+#	116479
+#	160300
+#	187998
+#	218377
+#	236917
+#	268021
+#
+# Disc length: 3873 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=910f1f0b
+DTITLE=Kenny Drew - a Passage in Jazz Vol.2
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Les Parapluies De Cherbourg
+TTITLE1=Chateau En Suede
+TTITLE2=Greensleeves
+TTITLE3=Moonlight Sonata
+TTITLE4=The Way We Were
+TTITLE5=Moonlight Desert
+TTITLE6=I Didn't Know What Time It Was
+TTITLE7=Autumn Leaves
+TTITLE8=My Ship
+TTITLE9=What Are You Doing The Rest Of Your Life
+TTITLE10=Expressions
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

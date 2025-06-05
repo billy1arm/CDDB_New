@@ -1,0 +1,40 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18752
+#	39655
+#	56700
+#	73530
+#	99237
+#	121172
+#
+# Disc length: 1775 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=5106ed07
+DTITLE=Nick Nikitakis - Rebetobluz
+DYEAR=1900
+DGENRE=
+TTITLE0=Belly Dance Blues
+TTITLE1=Blues #2
+TTITLE2=Crossroads
+TTITLE3=Change My Life
+TTITLE4=Red House
+TTITLE5=Me and The Devil
+TTITLE6=Cold
+EXTD=Volker Becker - Violin\nMan Breuer - Drums, Percussion\nKlaus Strenge -
+EXTD=Guitar\nNick Nikitakis - Bouzouki, Guitar, Vocals\n\nDAY-GLORecords Gm
+EXTD=bH, Probsteigasse 44-46 50670 Köln\nTel. 0221-9129459\nFax 0221-138186
+EXTT0=
+EXTT1=Nikitakis
+EXTT2=Johnson
+EXTT3=Nikitakis, Thysen, Terstape
+EXTT4=Hendrix
+EXTT5=Johnson
+EXTT6=Nikitakis
+PLAYORDER=

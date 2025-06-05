@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43114
+#	92146
+#	156793
+#	207418
+#	237427
+#	278032
+#
+# Disc length: 4108 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5e100a07
+DTITLE=Geroges Benson - The essential
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=TheMasquerade is over
+TTITLE1=There will never be another you
+TTITLE2=Blue bossa
+TTITLE3=Oleo
+TTITLE4=L'il Darlin'
+TTITLE5=All the things you are
+TTITLE6=Love walked in
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

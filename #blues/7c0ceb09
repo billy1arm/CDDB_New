@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28364
+#	77149
+#	94300
+#	129743
+#	150435
+#	167877
+#	197234
+#	220078
+#
+# Disc length: 3309 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7c0ceb09
+DTITLE=The Modern Jazz Quartet - Warner Jazz - Les Incontournables
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Lonely Woman
+TTITLE1=Pyramid
+TTITLE2=Angel Eyes
+TTITLE3=New York
+TTITLE4=Django
+TTITLE5=Over The Rainbow
+TTITLE6=Why are You Blue
+TTITLE7=Bluesology
+TTITLE8=How High The Moon
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

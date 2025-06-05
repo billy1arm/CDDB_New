@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	19930
+#	36287
+#	47470
+#	64022
+#	95840
+#	112955
+#	127775
+#	146935
+#	166325
+#	189085
+#
+# Disc length: 2778 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=8f0ad80b
+DTITLE=Darrell Mansfield - Give Him the Blues
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Never Been to the Seminary
+TTITLE1=Twelve Gates to the City
+TTITLE2=Trimmed and Burnin'
+TTITLE3=It Ain't Right
+TTITLE4=It's Too Late, Brother
+TTITLE5=God's Radar
+TTITLE6=It Takes God to Build a Home
+TTITLE7=I Know Jesus Can
+TTITLE8=Swing Low
+TTITLE9=The Mission
+TTITLE10=I Never Heard a Man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

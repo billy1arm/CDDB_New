@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	52227
+#	90550
+#	124672
+#	154582
+#	187275
+#	229125
+#	250337
+#
+# Disc length: 3867 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c0f1908
+DTITLE=Ludwig van Beethoven - Herbert von Karajan
+DYEAR=1900
+DGENRE=Klasyka
+TTITLE0=VII Symf.A-dur. Vivace poco sostenuto
+TTITLE1=VII Symf.A-dur. Allegretto
+TTITLE2=VII Symf.A-dur. Assai meno presto
+TTITLE3=VII Symf.A-dur. Finale.Allegro con brio
+TTITLE4=V Symf.c-moll. Allegro con brio
+TTITLE5=V Symf.c-moll. Andante con molto
+TTITLE6=V Symf.c-moll. Allegro attaca
+TTITLE7=V Symf.c-moll. Finale.Allegro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31850
+#	45255
+#	66125
+#	84407
+#	104462
+#	128775
+#	140820
+#
+# Disc length: 2108 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=65083a08
+DTITLE=Count basie - Breakfast Dance and Barbecue
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=In A Mellow Tone
+TTITLE1=5 O'clock In The Morning
+TTITLE2=Counter Block
+TTITLE3=Who Me
+TTITLE4=Let's Have A taste
+TTITLE5=Moten Swing
+TTITLE6=Hallelujah I Love Her So
+TTITLE7=One O'clock Jump
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

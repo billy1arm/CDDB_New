@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  183
+#  18333
+#  41128
+#  62558
+#  81055
+#  99710
+#  126945
+#  148873
+#
+# Disc length: 2265 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=6c08d708
+DTITLE=Kevin Eubanks - Opening Night
+DYEAR=1900
+DGENRE=
+TTITLE0=Opening Night
+TTITLE1=Shades Of Black
+TTITLE2=The Navigator
+TTITLE3=Thought About Thinking
+TTITLE4=In Flight From Omelas
+TTITLE5=A Place Before you've Been
+TTITLE6=Vera's Isle
+TTITLE7=To Be Continued
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41490
+#	68566
+#	115555
+#	147956
+#	181370
+#	220821
+#	263393
+#
+# Disc length: 3831 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=660ef508
+DTITLE=Twelve bar blues band - The blues has got me
+DYEAR=2006
+DGENRE=Blues
+TTITLE0=The blues has got me
+TTITLE1=Cold hearted woman
+TTITLE2=Standing on melting ice
+TTITLE3=Love is pain
+TTITLE4=Graveyard blues
+TTITLE5=Tell nobody the trouble i'm in
+TTITLE6=I can't get enough of that girl
+TTITLE7=Everyday i have the blues
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

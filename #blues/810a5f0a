@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19277
+#	35729
+#	65398
+#	83208
+#	98497
+#	115207
+#	140740
+#	159628
+#	183135
+#
+# Disc length: 2657 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=810a5f0a
+DTITLE=Mahogany - For Your Love and other R&B Ballads
+DYEAR=1900
+DGENRE=
+TTITLE0=Let's Stay Together
+TTITLE1=Crazy Love
+TTITLE2=Too Busy Thinking About My Baby
+TTITLE3=Every Time I Close My Eyes
+TTITLE4=One in a Million You
+TTITLE5=For Your Love
+TTITLE6=She's My Lady
+TTITLE7=I Swear
+TTITLE8=You Are My Song
+TTITLE9=All In Love Is Fair
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

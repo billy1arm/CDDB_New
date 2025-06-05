@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38775
+#
+# Disc length: 799 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=0f031d02
+DTITLE=Chocolate - Megamix '92
+DYEAR=1992
+DGENRE=Pop-Folk
+TTITLE0=Megamix '92
+TTITLE1=Fiesta Tropical
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+PLAYORDER=

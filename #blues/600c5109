@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24851
+#	48858
+#	75193
+#	97830
+#	147501
+#	173997
+#	204127
+#	220528
+#
+# Disc length: 3155 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=600c5109
+DTITLE=Lollypop - Lollypop Jazz Electro
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=01-Whispers_BrunoVouillon
+TTITLE1=02-Gentleman_DavidElMalek
+TTITLE2=03-VilleDeLumière_StéphaneBertrand
+TTITLE3=04-BorooBoroo_MixCity
+TTITLE4=05-Alata_Alata
+TTITLE5=06-12ans_StéphaneBertrand
+TTITLE6=07-TooLate_OutOfTheBlue
+TTITLE7=08-Spirale_Manège
+TTITLE8=09-Syncoporgue_OHuguenet
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

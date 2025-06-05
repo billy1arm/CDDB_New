@@ -1,0 +1,77 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	11626
+#	23614
+#	35814
+#	47307
+#	64902
+#	79133
+#	93514
+#	112217
+#	124873
+#	136680
+#	148999
+#	167260
+#	183678
+#	191894
+#	204070
+#	220586
+#	235318
+#	247943
+#	263459
+#
+# Disc length: 3736
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.00 
+# Normalized: r0:TDELIM( - ),TSWAP
+#
+DISCID=130e9614
+DTITLE=Various Artist - Essential Blues Masters
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=John Lee Hooker - Boom Boom
+TTITLE1=Lightin Hopkins - Lightnino's Stamp
+TTITLE2=Ray Charles - CC Rider
+TTITLE3=Canned Heat - Can't Hold On
+TTITLE4=Howlin Wolf - Dust My Broom
+TTITLE5=Mississippi John Hurt - Casey Jones
+TTITLE6=Leadbelly - The Boll Weevil
+TTITLE7=Pinetop Perkins - Kidney Stew
+TTITLE8=Lightnin Slim - G I Blues
+TTITLE9=Memphis Slim - Wish Me Well
+TTITLE10=Big Joe Turner - Chains Of Love
+TTITLE11=Muddy Waters - Corrina Corrina
+TTITLE12=Billie Holiday - Miss Brown To You
+TTITLE13=Big Jow Williams - Sugar Mama
+TTITLE14=John Lee Hooker - Process
+TTITLE15=Lightnin Hopkins - Santa Fe Blues
+TTITLE16=Lightnin Hopkins - Santa Fe Blues
+TTITLE17=Ray Charles - Rockin Chair Slow
+TTITLE18=Howlin Wolf - Goin Down Slow
+TTITLE19=Mississippi John Hurt - My Creole Belle
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

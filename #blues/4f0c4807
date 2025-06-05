@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46252
+#	83200
+#	106520
+#	129422
+#	162277
+#	183746
+#
+# Disc length: 3146 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4f0c4807
+DTITLE=Luigi Cherubini - Symphonie and Ouvertures  (Donato Renzentti, Orchestra della Toscana)
+DYEAR=1994
+DGENRE=Classique
+TTITLE0=Symphonie en ré majeur - I. Largo - Allegro
+TTITLE1=Symphonie en ré majeur - II. Larghetto cantabile
+TTITLE2=Symphonie en ré majeur - III. Minuetto - Allegro non tanto
+TTITLE3=Symphonie en ré majeur - IV. Allegro assai
+TTITLE4=Médé - Ouverture
+TTITLE5=Ifigenia in Aulide - Ouverture
+TTITLE6=Le Crescendo - Ouverture
+EXTD=Classical Master - PILZ 447102-2 YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

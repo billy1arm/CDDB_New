@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	19445
+#	42375
+#	77853
+#	95213
+#	120725
+#	156605
+#
+# Disc length: 2386 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=62095007
+DTITLE=Giorgia - Strano il mio destino ( Live and Studio 95/96 )
+DYEAR=1996
+DGENRE=Blues-Pop
+TTITLE0=Strano il mio destino
+TTITLE1=Senza segreti - Nasceremo ( Live )
+TTITLE2=Endless love ( Live )
+TTITLE3=Nessun dolore ( Live )
+TTITLE4=E poi ( Live )
+TTITLE5=You don't know what love is ( Live )
+TTITLE6=E c'è ancora mare ( Pulp beat version )
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18735
+#	34599
+#	47765
+#	64870
+#	75059
+#	94701
+#	118505
+# Disc length: 1808 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=57070e08
+DTITLE=Banana Peel Buzz - Banana Peel Buzz
+DYEAR=1900
+DGENRE=
+TTITLE0=Simple as it seems
+TTITLE1=Falling down
+TTITLE2=Kick
+TTITLE3=Magnetic Sole
+TTITLE4=Swimming by my window
+TTITLE5=Simple as it seems (live acoustic)
+TTITLE6=Twenty four (live acoustic)
+TTITLE7=Falling down (live acoustic)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

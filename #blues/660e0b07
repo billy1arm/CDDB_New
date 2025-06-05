@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29109
+#	67179
+#	89026
+#	130506
+#	152162
+#	207915
+#
+# Disc length: 3597 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=660e0b07
+DTITLE=Stan Getz - Live At Montreux 1972
+DYEAR=1972
+DGENRE=Jazz
+TTITLE0=Captain Marvel
+TTITLE1=Day Waves
+TTITLE2=Lush Life
+TTITLE3=Windows
+TTITLE4=I Remember Clifford
+TTITLE5=La Fiesta
+TTITLE6=Time's Lie
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

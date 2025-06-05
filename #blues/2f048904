@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25115
+#	43842
+#	68865
+#
+# Disc length: 1163 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2f048904
+DTITLE=Various Artist - ポケモン言えるかneo?
+DYEAR=1999
+DGENRE=Anime
+TTITLE0=ポケモン言えるかneo?(イマクニ?,チューヤン,鈴木史朗,アンノーンコーラス隊)
+TTITLE1=ne-o-e-oh!(ネオエオ!)(ネオ★ポケッツ)
+TTITLE2=ポケモン言えるかneo?(オリジナル・カラオケ)
+TTITLE3=ne-o-e-oh!(ネオエオ!)(オリジナル・カラオケ)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

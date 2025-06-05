@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14127
+#	30668
+#
+# Disc length: 675 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=1f02a103
+DTITLE=Tocotronic - This Boy Is Tocotronic (Promo-CD)
+DYEAR=2002
+DGENRE=Rock
+TTITLE0=This Boy Is Tocotronic (Radio Version)
+TTITLE1=This Boy Is Tocotronic (Single Version)
+TTITLE2=Judith (Remix)
+EXTD=YEAR: 2002 ID3G: 17
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

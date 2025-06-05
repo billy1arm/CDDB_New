@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	20797
+#	30885
+#	50547
+#
+# Disc length: 981 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=2803d304
+DTITLE=John Lee Hooker - Boogie At Russian Hill
+DYEAR=1900
+DGENRE=
+TTITLE0=Boogie At Russian Hill
+TTITLE1=I'm Bad Like Jesse James
+TTITLE2=The Blues Will Never Die
+TTITLE3=Driftin' Blues
+EXTD=Input by Bill (whall@netcomuk.co.uk)
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

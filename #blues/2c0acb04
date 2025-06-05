@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  53527
+#  103385
+#  152844
+#
+# Disc length: 2765 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: manual fix by traut@gmx.de 0.1
+#
+DISCID=2c0acb04
+DTITLE=Chemical Brothers - Live At Lollipop
+DYEAR=1900
+DGENRE=
+TTITLE0=part 1
+TTITLE1=part 2
+TTITLE2=part 3
+TTITLE3=part 4
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

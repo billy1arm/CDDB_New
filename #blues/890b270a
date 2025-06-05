@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	27019
+#	46568
+#	64943
+#	84349
+#	101012
+#	119749
+#	141431
+#	163616
+#	194042
+#
+# Disc length: 2857 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.8
+#
+DISCID=890b270a
+DTITLE=Mr.Downchild - Live at Western Maryland Blues Festival
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=01 Sweet Home Chicag
+TTITLE1=02 Aberdeen Mississippi Blues
+TTITLE2=03 Pre4achin Blues
+TTITLE3=Highway 61
+TTITLE4=05 Good Morning Little School Girl
+TTITLE5=06 Mailbag Blues
+TTITLE6=07 Worried Blues
+TTITLE7=Automatic Blues
+TTITLE8=09 Mr.Downchild
+TTITLE9=10 Poor Boy A Long Way From Home
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

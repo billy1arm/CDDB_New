@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19425
+#	37015
+#	59700
+#	89346
+#	110254
+#	123553
+#	134949
+#
+# Disc length: 2047 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7c07fd08
+DTITLE=The Capone Mob - Devil Have The Blues
+DYEAR=2012
+DGENRE=Blues
+TTITLE0=White Lightnin
+TTITLE1=Iron Man
+TTITLE2=Mountain Man
+TTITLE3=Upon the Crossroads
+TTITLE4=Deal with the Devil
+TTITLE5=Me and My Cigar
+TTITLE6=Good Time Blues
+TTITLE7=Garden of Love
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

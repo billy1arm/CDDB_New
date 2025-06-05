@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25004
+#	66484
+#	98023
+#	153454
+#	180802
+#	222120
+#	270417
+#	283351
+#
+# Disc length: 4170 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=77104809
+DTITLE=Wynton Marsalis - Angel Eyes
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=One by One
+TTITLE1=Angel Eyes
+TTITLE2=Round Midnight
+TTITLE3=Time will tell
+TTITLE4=ETA
+TTITLE5=My funny Valentine
+TTITLE6=Bitter Dose
+TTITLE7=Blakeys Theme
+TTITLE8=Wheel within a wheel
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	77122
+#	137557
+#
+# Disc length: 2716 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1d0a9a03
+DTITLE=Miles Davis - Olympia Paris 1960-05-20(cd 1)
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=All Of You
+TTITLE1=So What
+TTITLE2=On Green Dolphin Street
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

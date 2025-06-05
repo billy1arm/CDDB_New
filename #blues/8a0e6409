@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	58275
+#	94737
+#	129435
+#	182887
+#	201730
+#	212307
+#	223705
+#	247967
+#
+# Disc length: 3686 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=8a0e6409
+DTITLE=Amadinda - CAGE * MÁRTA * SÁRY * REICH Ragtime African Music
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=István Márta - Doll's House Story
+TTITLE1=Lászlo Sáry - Pebble Playing in a Pot
+TTITLE2=John Cage - Second Construction
+TTITLE3=Steve Reich - Piano Phase
+TTITLE4=Traditional African Music
+TTITLE5=George Hamilton Green - Log Cabin Blues
+TTITLE6=George Hamilton Green - Charleston Capers
+TTITLE7=Traditional African Music
+TTITLE8=George Hamilton Green - Jovial Jasper
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

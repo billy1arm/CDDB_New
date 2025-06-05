@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26570
+#	72167
+#	127353
+#	170701
+#	205464
+#	267324
+#	290625
+#
+# Disc length: 4058 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=860fd808
+DTITLE=Wind Project of Schärding - Herbst 2007
+DYEAR=2007
+DGENRE=Wind Band
+TTITLE0=Jan van der Roost - Dynamica
+TTITLE1=Gioacchino Rossini - La Gazza Ladra Overture
+TTITLE2=Thomas Doss - Aurora
+TTITLE3=Philip Sparke - Invictus
+TTITLE4=Artie Shaw - Concerto
+TTITLE5=Jan van der Roost - Spartacus
+TTITLE6=Julius Fucik - Florentiner Marsch
+TTITLE7=J. S. Bach - Jesu meine Freude
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

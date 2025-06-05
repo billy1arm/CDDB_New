@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19977
+#	38078
+#	57905
+#
+# Disc length: 1009 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2c03ef04
+DTITLE=ZONE - 卒業
+DYEAR=2004
+DGENRE=JPop
+TTITLE0=卒業
+TTITLE1=アルバム
+TTITLE2=卒業 (backing track)
+TTITLE3=アルバム (backing track)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

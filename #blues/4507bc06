@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27170
+#	57608
+#	78558
+#	98623
+#	123933
+#
+# Disc length: 1982 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4507bc06
+DTITLE=Billie Holiday - Songs For Distingue Lovers
+DYEAR=1983
+DGENRE=Blues
+TTITLE0=Day In Day Out
+TTITLE1=A Foggy Day
+TTITLE2=Stars Fell On Alabama
+TTITLE3=One For Me Baby (And One More For The Road)
+TTITLE4=Just One For Those Things
+TTITLE5=I Didn't Know What Time It Was
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33136
+#	66388
+#	97767
+#	115644
+#	142145
+#	166234
+#	198492
+#	249795
+#
+# Disc length: 3628 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6f0e2a09
+DTITLE=Patrick Kelly - Beyond the Horizon
+DYEAR=2005
+DGENRE=New Age
+TTITLE0=Adrift in Time
+TTITLE1=The Secret Temple
+TTITLE2=Sunrise in Paradise
+TTITLE3=Beyond the Horizon
+TTITLE4=Sanctuary
+TTITLE5=Awakening
+TTITLE6=Serenity
+TTITLE7=Spirit Lights
+TTITLE8=Revelation
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

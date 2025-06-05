@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	92250
+#	246300
+#	251100
+#	257147
+#
+# Disc length: 3793 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=3c0ecf05
+DTITLE=Webb - Webb
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Visualization 1
+TTITLE1=Visualization 2
+TTITLE2=Affirmations Explained
+TTITLE3=Release
+TTITLE4=Affirmations
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47775
+#	94800
+#	122250
+#	159675
+#	174675
+#	190425
+#	237000
+#
+# Disc length: 3940 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=640f6208
+DTITLE=Detroit SO - Jaarvi - Barber Orchestral Music
+DYEAR=1993
+DGENRE=Orchestral
+TTITLE0=Symphony No.3 in F -I- Allegro sostenuto
+TTITLE1=Symphony No.3 in F -II- Andante cantabile
+TTITLE2=Symphony No.3 in F -III- Vivace non troppo
+TTITLE3=Symphony No.3 in F -IV- Allegro molto energico
+TTITLE4='Vanessa' - Intermezzo: With quiet motion
+TTITLE5='Vanessa' - Under the Willow Tree: Rather sustained
+TTITLE6=Music for a Scene from Shelley Op.7 - Adagio, ma non troppo
+TTITLE7=Medea's Meditation and Dance of Vengeance Op.23a - Broadly
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

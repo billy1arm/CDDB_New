@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8805
+#	47170
+#	73322
+#	98930
+#	127720
+#	139900
+#	164280
+#
+# Disc length: 2608 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6a0a2e08
+DTITLE=Badal Roy - Ashirbad
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Introduction to Ashirbad
+TTITLE1=The Tonal and the Nagual
+TTITLE2=Folk Song of Bangladesh
+TTITLE3=Rock in Cal
+TTITLE4=Sun King
+TTITLE5=Bangalore
+TTITLE6=Shanti (Peace)
+TTITLE7=Ashirbad (Blessings)
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

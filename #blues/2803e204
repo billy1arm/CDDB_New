@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19377
+#     36165
+#     54065
+# 
+# Disc length: 996 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=2803e204
+DTITLE=The Notorious B.I.G. - Sky's The Limit
+DYEAR=1900
+DGENRE=
+TTITLE0=Sky's the Limit
+TTITLE1=Kick in the Back Door
+TTITLE2=Going Back to Cali
+TTITLE3=Sky's the Limit - Instrumental
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

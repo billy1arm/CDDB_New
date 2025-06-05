@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18142
+#	37457
+#	60765
+#	72575
+#	92017
+#	108625
+#	125887
+#	148815
+#	187275
+#
+# Disc length: 2815 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL1
+#
+DISCID=9c0afd0a
+DTITLE=Double Cookin' - Double Cookin'
+DYEAR=1900
+DGENRE=
+TTITLE0=Will They Let Me Play the Blues in Heaven
+TTITLE1=Mystery Train
+TTITLE2=Sittin' On Top of the World
+TTITLE3=Hoot -n- Holler
+TTITLE4=Madison Moon Music
+TTITLE5=Oh Lonesome Me
+TTITLE6=Devil Inside of You
+TTITLE7=Take Out Some Insurance
+TTITLE8=Jubitz Mudflaps
+TTITLE9=Ginger Man
+EXTD=Rod Cook\nJames "Curley" Cooke\n\nBlue Sub Records\n1995\n
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

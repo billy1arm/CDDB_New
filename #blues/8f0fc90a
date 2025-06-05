@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	44958
+#	69108
+#	123108
+#	148533
+#	163383
+#	180808
+#	194283
+#	241458
+#	284358
+#
+# Disc length: 4043 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8f0fc90a
+DTITLE=Various Artist - Célèbres Mélodies Classiques
+DYEAR=1987
+DGENRE=Classique
+TTITLE0=Franz von Suppe - Poète et Paysan - Ouverture  (Max Wilcox, Royal Philharmonique de Londres)
+TTITLE1=Jules Massenet - Thaïs - Méditation  (Lawrence Siegel, Royal Philharmonique de Londres)
+TTITLE2=Bedrich Smetana - La Moldau  (Libor Pesek, Orchestre Philharmonique de Prague)
+TTITLE3=Antonin Dvorak - Danse Slave N°2  (Alfred Scholz, Orchestre Symphonique de Londres)
+TTITLE4=Fritz Kreisler - Liebesfreud  (Lynn Blakeslee, violon - Anton Voigt, piano)
+TTITLE5=Fritz Kreisler - Liebesleid  (Lynn Blakeslee, violon - Anton Voigt, piano)
+TTITLE6=Antonin Dvorak - Humoresque Op.101  (Lynn Blakeslee, violon - Anton Voigt, piano)
+TTITLE7=Antonio Vivaldi - Le Printemps  (Paul Kant-Schieder, Orchestre de Chambre d'Autriche)
+TTITLE8=Léo Delibes - Coppelia - Suite de ballet  (Paul Kant-Schieder, Orchestre Philharmonique de Bamberg)
+TTITLE9=Hector Berlioz - Marche Hongroise  (Lawrence Siegel, Royal Philharmonique de Londres)
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

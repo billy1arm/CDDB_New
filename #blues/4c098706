@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34830
+#	53735
+#	82125
+#	112750
+#	148147
+#
+# Disc length: 2441 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4c098706
+DTITLE=Orchestre National de France - Ozawa - Mutter - Sarasate Zigeunerweisen Op.20
+DYEAR=1985
+DGENRE=Concerto
+TTITLE0=Symphonie Espagnole Op.21 -I- Allegro non troppo
+TTITLE1=Symphonie Espagnole Op.21 -II- Scherzando: Allegro molto
+TTITLE2=Symphonie Espagnole Op.21 -III- Intermezzo: Allegretto non troppo
+TTITLE3=Symphonie Espagnole Op.21 -IV- Andante
+TTITLE4=Symphonie Espagnole Op.21 -V- Rondo: Allegro
+TTITLE5=Zigeunerweisen Op.20
+EXTD=Anne-Sophie Mutter: Violin \nOrchestre National de France\nSeili Ozawa: Conducted by YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

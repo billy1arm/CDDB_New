@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10037
+#	22437
+#	53069
+#	74910
+#	93808
+#	124170
+#	154193
+#	173360
+#	192851
+#	204032
+#	217965
+#	226380
+#
+# Disc length: 3336 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a80d060d
+DTITLE=Arthur Conan Doyle - Seine Abschiedsvorstellung
+DYEAR=2000
+DGENRE=Hörbuch
+TTITLE0=1
+TTITLE1=2
+TTITLE2=3
+TTITLE3=4
+TTITLE4=5
+TTITLE5=6
+TTITLE6=7
+TTITLE7=8
+TTITLE8=9
+TTITLE9=10
+TTITLE10=11
+TTITLE11=12
+TTITLE12=13
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15197
+#	34772
+#	50867
+#	67445
+#	85117
+#	103587
+#	122460
+#	141482
+#	158042
+#
+# Disc length: 2309 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=8509030a
+DTITLE=Banda Chula - La Mina del Mambo
+DYEAR=1995
+DGENRE=Latin
+TTITLE0=Merengue con Pique
+TTITLE1=Papi Chulo
+TTITLE2=Pegate
+TTITLE3=La Negra
+TTITLE4=Merengue Acelera'o
+TTITLE5=Pa' mi Matrimonio
+TTITLE6=Feo pere con Swin
+TTITLE7=Este 'ta rare (Caco 'e Vaca)
+TTITLE8=Verane Chule
+TTITLE9=La Cotorra
+EXTD=\nYEAR: 1995  ID3G:  86
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

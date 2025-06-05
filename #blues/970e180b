@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     24497
+#     51257
+#     68165
+#     91042
+#     117692
+#     138370
+#     169025
+#     196002
+#     221000
+#     244792
+# 
+# Disc length: 3610 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=970e180b
+DTITLE=Double Vision - Unsafe Building
+DYEAR=1900
+DGENRE=
+TTITLE0=Knockin' (Original)
+TTITLE1=All Right (Extended)
+TTITLE2=Unsafe Building
+TTITLE3=Mney
+TTITLE4=Sara (Remix)
+TTITLE5=When Love Breaks Down
+TTITLE6=Knockin' (Extended Club-Mix)
+TTITLE7=Unsafe Building (Ken Oakland Mix)
+TTITLE8=All Rifht (Mike Nero Mix)
+TTITLE9=All Right (Monitor One House Mix)
+TTITLE10=Knockin' - All Right (Megamix)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

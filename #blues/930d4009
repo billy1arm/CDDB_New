@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34581
+#	67251
+#	89843
+#	119183
+#	155987
+#	181405
+#	209860
+#	227627
+#
+# Disc length: 3394 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=930d4009
+DTITLE=Astral Project - The Legend of Cowboy Bill
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Open Space
+TTITLE1=Too Close for Comfort
+TTITLE2=Down Time
+TTITLE3=Cowboy Bill
+TTITLE4=Dark Sage
+TTITLE5=Delicately
+TTITLE6=Second Thoughts
+TTITLE7=Saint Paul
+TTITLE8=Nowhere to Hide
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

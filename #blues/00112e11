@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	17367
+#	36450
+#	53328
+#	65084
+#	87803
+#	110955
+#	119383
+#	133415
+#	147690
+#	168303
+#	185288
+#	204958
+#	242385
+#	261416
+#	281810
+#	308991
+#
+# Disc length: 4400 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=00112e11
+DTITLE=a-Ha - Hunting High and Low - Memorial Beach
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=take on me
+TTITLE1=train of thought
+TTITLE2=hunting high and low
+TTITLE3=the blue sky
+TTITLE4=living a boy's adventure tale
+TTITLE5=the sun always shines on t.v.
+TTITLE6=and you tell me
+TTITLE7=love is reason
+TTITLE8=i dream myself alive
+TTITLE9=here i stand and face the rain
+TTITLE10=dark is the night for all
+TTITLE11=move to memphis
+TTITLE12=cold as stone
+TTITLE13=angel in the snow
+TTITLE14=lie down in darkness
+TTITLE15=how sweet it was
+TTITLE16=memorial beach
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

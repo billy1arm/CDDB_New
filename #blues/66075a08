@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21755
+#	37935
+#	55841
+#	74527
+#	91471
+#	107057
+#	126791
+#
+# Disc length: 1884 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=66075a08
+DTITLE=Tony Marino - Sunset Beach
+DYEAR=2013
+DGENRE=Jazz
+TTITLE0=Sunset Beach
+TTITLE1=Depoe Bay
+TTITLE2=Catalina Cove
+TTITLE3=Las Brisas
+TTITLE4=Pacific Coast Highway
+TTITLE5=Full Sail
+TTITLE6=Laguna Nights
+TTITLE7=Costal Dreams
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

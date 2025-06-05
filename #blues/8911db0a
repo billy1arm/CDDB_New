@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34105
+#	61628
+#	92020
+#	111273
+#	144855
+#	184503
+#	208725
+#	285400
+#	314917
+#
+# Disc length: 4573 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=8911db0a
+DTITLE=Dexter Gordon - Ballads
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Darn That Dream
+TTITLE1=Don't Explain
+TTITLE2=I'm A Fool To Want You
+TTITLE3=Ernie's Tune
+TTITLE4=You've Changed
+TTITLE5=Willow Weep For Me
+TTITLE6=Guess I'll Hang My Tears Out To Dry
+TTITLE7=Body And Soul
+TTITLE8=This Happy Madness
+TTITLE9=More Than You Know
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

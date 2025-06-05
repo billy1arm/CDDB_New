@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	53447
+#	65482
+#	107265
+#	116707
+#	155922
+#	167372
+#	213285
+#
+# Disc length: 3032 seconds
+#
+# Revision: 14
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 5
+#
+DISCID=610bd608
+DTITLE=KARAJAN - Le beau Danube Bleu
+DYEAR=1981
+DGENRE=Classique 
+TTITLE0=Le beau Danube bleu
+TTITLE1=Elien à Magyar
+TTITLE2=Acceleration
+TTITLE3=Marche persane
+TTITLE4=Ouverture la Chauve souris
+TTITLE5=Vif Argent
+TTITLE6=Vie d'artiste
+TTITLE7=Sous le tonnerre et les éclairs
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28123
+#	62732
+#	86682
+#	112479
+#	135876
+#	166535
+#	203373
+#
+# Disc length: 3029 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=600bd308
+DTITLE=Corpo - alma
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Sent omsider
+TTITLE1=Bells
+TTITLE2=Agnes
+TTITLE3=Nejd
+TTITLE4=Roda sten
+TTITLE5=Kolya
+TTITLE6=A touch
+TTITLE7=Sov, lilla hannele
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

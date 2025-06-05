@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24156
+#	51204
+#	72696
+#	97816
+#	120931
+#	143814
+#	174328
+#	207333
+#	230803
+#	255140
+#
+# Disc length: 3681 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8c0e5f0b
+DTITLE=vibraxophonie - discovering the night
+DYEAR=2013
+DGENRE=Jazz
+TTITLE0=Filou
+TTITLE1=Libertango
+TTITLE2=Country
+TTITLE3=Insomnia
+TTITLE4=Samba ConBrio
+TTITLE5=Django
+TTITLE6=Waltz for Mona
+TTITLE7=Oblivion
+TTITLE8=L'Èté Indien
+TTITLE9=In a Sentimental Mood
+TTITLE10=Milonga (live)
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

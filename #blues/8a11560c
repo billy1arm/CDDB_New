@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16355
+#	32685
+#	45962
+#	64166
+#	84205
+#	101121
+#	120471
+#	138811
+#	159208
+#	176292
+#	214836
+#
+# Disc length: 4440 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=8a11560c
+DTITLE=George Harrison - Gone Troppo
+DYEAR=1982
+DGENRE=Rock
+TTITLE0=Wake Up My Love
+TTITLE1=That's The Way It Goes
+TTITLE2=I Really Love You
+TTITLE3=Greece
+TTITLE4=Gone Troppo
+TTITLE5=Mystical One
+TTITLE6=Unknown Delight
+TTITLE7=Baby Don't Run Away
+TTITLE8=Dream Away
+TTITLE9=Circles
+TTITLE10=Mystical One (Demo Version)
+TTITLE11=DATA
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

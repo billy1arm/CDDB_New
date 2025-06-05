@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18147
+#	33324
+#	51131
+#
+# Disc length: 919 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=24039504
+DTITLE=Joe Lynn Turner - The One
+DYEAR=2006
+DGENRE=Melodic Hard Rock
+TTITLE0=The One
+TTITLE1=The One (Remix Version)
+TTITLE2=The One (Band Version)
+TTITLE3=The One (Instrumental Version))
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

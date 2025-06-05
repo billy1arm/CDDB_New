@@ -1,0 +1,313 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6175
+#	7837
+#	9143
+#	10345
+#	12551
+#	14586
+#	15775
+#	17368
+#	18338
+#	19826
+#	21297
+#	23265
+#	25161
+#	26327
+#	27837
+#	29319
+#	31868
+#	35018
+#	36957
+#	38606
+#	39718
+#	40948
+#	41737
+#	43000
+#	44661
+#	45408
+#	46956
+#	48595
+#	49861
+#	53247
+#	54276
+#	54916
+#	55584
+#	56277
+#	57179
+#	60021
+#	61735
+#	67533
+#	68864
+#	71408
+#	73367
+#	76109
+#	78485
+#	80119
+#	81842
+#	83565
+#	85162
+#	86871
+#	89135
+#	90565
+#	92100
+#	92957
+#	94855
+#	96556
+#	99169
+#	102255
+#	103474
+#	104452
+#	106225
+#	108418
+#	110761
+#	113694
+#	115346
+#	118541
+#	121663
+#	125385
+#	127468
+#	130429
+#	134495
+#	135654
+#	136816
+#	138602
+#	139508
+#	140125
+#	140703
+#	141418
+#	144403
+#	145036
+#	146198
+#	148436
+#	150878
+#	152976
+#	156389
+#	157437
+#	158174
+#	159035
+#	160023
+#	160842
+#	161885
+#	162820
+#	164389
+#	165402
+#	166279
+#	167792
+#	168514
+#	169381
+#	170483
+#	172028
+#
+# Disc length: 2304 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4408fe63
+DTITLE=Hal Leonard - Jeff Schroedl - Hal Leonard Guitar Method - Jazz Guitar
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Tuning Notes
+TTITLE1=Gmaj7 Am7 D7 Gmaj7
+TTITLE2=Dm7 G7 Cmaj7 Cmaj7
+TTITLE3=Dm7 Em7b5 A+7 Dm7
+TTITLE4=Fmaj7 F#dim7 Gm7 C7 Am7 Dm7 Gm7 C7 Fmaj7
+TTITLE5=Cmaj7 D7b5 Dm7 Db7 Cmaj7 C#dim7 Dm7 Db7 Cmaj7
+TTITLE6=Fm7 C+7 Fm7 Bb7 Abmaj7 Bbm7 A7 Abmaj7
+TTITLE7=Bbm7 Bbm(maj7) Cm7b5 F7 Bbm7
+TTITLE8=Bbmaj7 D+7 Ebmaj7 F7 Bbmaj7
+TTITLE9=Cmaj9 Dm9 G13 Cmaj9
+TTITLE10=F9 Bb13 F9 Bb13 F9
+TTITLE11=Eb9 Dm9 Eb9 Dm9 Eb9 Dm9 Em7b5 A+7 Dm9 Dm9
+TTITLE12=Cm9 Dbmaj13 Cm9 Dbmaj13 Cm9
+TTITLE13=Am11 Cm11 Am11
+TTITLE14=Cmaj7 Em7b5 A7b9 Dm9 G7 G7#5 Cmaj7
+TTITLE15=Fmaj7 F#dim7 Gm7 C7 Eb9#11 D7b9 Gm7 C7 Fmaj7
+TTITLE16=Gm7 D7#9 Gm7 G7b9 Cm7 G7#9 Cm7 Am7b5 D7#9#5 Gm7
+TTITLE17=Ebmaj7 Emaj7#11 Ebmaj7 A7b5 Abmaj7 Ebmaj7
+TTITLE18=Gmaj7 G6 Gmaj7 G6 Gm7 Gm6 Gm7 Gm6 Gmaj7
+TTITLE19=F7sus4 Bb7sus4 F7sus4 Bb7sus4 F7sus4
+TTITLE20=Dm Dm(maj7) Dm7 Dm6 Gm7 C7sus4 C7 Fmaj7
+TTITLE21=Gmaj7 G#dim7 Am7 A#dim7 Gmaj7/B Am7b5 D7b9 C/D G69
+TTITLE22=G69 G#dim7 Am7 D+7 Gmaj7
+TTITLE23=Cmaj7 Cm7 D7 Db7 C69
+TTITLE24=D69 E7 Gmaj7 Bb13 A+7 D69 Eb69 D69
+TTITLE25=Bb6 G7 Cm9 F13 Bbmaj9
+TTITLE26=Dmaj7 Bm7 Em7 A7 Dmaj7 (Dmaj9 Bm7 Em9 A13 Dmaj9)
+TTITLE27=Fm7 Eb7 Db7 C7 Fm7 (Fm9 Eb9 Db9 C7#9 C7b9 Fm7)
+TTITLE28=Dm9 Eb13 Dm9 Em7b5 A7#9#5 Dm9 (Dm7 Eb7 Dm7 Em7b5 A7 Dm7)
+TTITLE29=Cmaj9 C#dim7 Dm11 G+9 Cmaj7 C9 Fmaj7 Fm7 C69 Eb7/G Dm11 G+9 Cmaj9 A7b5 D7b9 G+7 Cmaj9 (C6 c#dim7 Dm7 G7 C6 C7 Fmaj7 Fm7 C6 Eb7 Dm7 G7 C6 A7 D7 G7 C6)
+TTITLE30=Cmaj7 Dm7 Em7 A7 (Eb7#9) Dm7 G7 (Db7) Cmaj7
+TTITLE31=Gmaj7 E7(Bbmaj7) Am7(Ebmaj7) D7(Abmaj7) Gmaj7
+TTITLE32=G7 (Db9) C9 G7
+TTITLE33=Cmaj7 (Cmaj7 Bb13) A7(A13 Eb9) Dm7(Dm9 Ab+7) G7(G13 Dbmaj7) Cmaj7
+TTITLE34=Bb7(Bb13 E9 Eb9) Eb7 (A13) Bb7(Bb13 G+7) G7 Cm7(Cm11 F#+7 F+7) F7 (B7) Bb7
+TTITLE35=Big Band - Medium Swing - Satin Doll
+TTITLE36=Big Band - Uptempo Swing - Take the "A" Train
+TTITLE37=Big Band - Ballads - A Nightingale Sang In Berkely Square
+TTITLE38=Small Combo - Bebop Blues - Billie's Bouce (Bill's Bounce)
+TTITLE39=Small Combo - Modal Jazz - Impressions
+TTITLE40=Small Combo - Jazz Waltz - Bluesette
+TTITLE41=Small Combo - Ballads - My One And Only Love
+TTITLE42=Latin Jazz - Bossa Nova - Desafinado
+TTITLE43=Latin Jazz - Samba - Samba De Orfeu
+TTITLE44=Improvising Over Dominant Chords - Mixolydian
+TTITLE45=Improvising Over Dominant Chords - Phrygian Dominant
+TTITLE46=Improvising Over Dominant Chords - Lydian Dominant
+TTITLE47=Improvising Over Dominant Chords - Super Locrian
+TTITLE48=Improvising Over Dominant Chords - Domanant Diminished | Whole Tone | Mixolydian b6
+TTITLE49=Improvising Over Major Chords - Ionian
+TTITLE50=Improvising Over Major Chords - Lydian
+TTITLE51=Improvising Over Major Chords - Lydian #2
+TTITLE52=Improvising Over Minor Chords - Dorian
+TTITLE53=Improvising Over Minor Chords - Harmonic Minor
+TTITLE54=Improvising Over Minor Chords - Melodic Minor | Aeolian | Phrygian
+TTITLE55=Improvising Over Minor 7b5 Chords - Locrian natural 6 | Locrian #2 | Locrian
+TTITLE56=Improvising Over Diminished Seventh Chords - Diminished Mode | Whole-Half Diminished Scale
+TTITLE57=Improvising Over Major 7#5 Chords - Ionian #5 | Lydian Augmented
+TTITLE58=Early Swing - Honeysuckle Rose
+TTITLE59=Mainstream Jazz - Moderate Swing - Autumn Leaves (Les Feuilles Mortes)
+TTITLE60=Mainstream Jazz - Bossa Nova - Watch What Happens
+TTITLE61=Mainstream Jazz - Ballads - Easy Living
+TTITLE62=Bebop - Uptempo Bop - Ornithology
+TTITLE63=Bebop - Blues - Blues in Bb
+TTITLE64=Bebop - Rhythm Changes - Rhythm Changes in Bb
+TTITLE65=Post Bop - Bossa Nova - Song For My Father
+TTITLE66=Post Bop - Minor Blues - Mr. P.C.
+TTITLE67=Post Bop - Dominant Blues - Blues In D
+TTITLE68=Post Bop - Funk Jazz - Road Song
+TTITLE69=Amazing Grace
+TTITLE70=Greensleeves
+TTITLE71=Saint James Infirmary
+TTITLE72=My Romance
+TTITLE73=ii-V Lick Using Diminished Seventh Chords
+TTITLE74=Lick Using Half Steps
+TTITLE75=Example Using Passing Chords
+TTITLE76=Reharmonizing Techniques - Diatonic Substitution - Look For The Silver Lining
+TTITLE77=Reharmonizing Techniques - Minor Third Substitution
+TTITLE78=Reharmonizing Techniques - Backcycling - Give My Regards To Broadway
+TTITLE79=Reharmonizing Techniques - Other Suggestions - The Christmas Song (Chestnuts Roasting On An Open Fire)
+TTITLE80=I Remember You
+TTITLE81=Indiana
+TTITLE82=Misty
+TTITLE83=Intros and Endings - Intros - I vi ii V
+TTITLE84=Intros and Endings - Intros - Pedal On V
+TTITLE85=Intros and Endings - Intros - I bVII Vamp
+TTITLE86=Intros and Endings - Intros - Turnaround To The I7
+TTITLE87=Intros and Endings - Intros - Descending Bass Line To The I7
+TTITLE88=Intros and Endings - Intros - I IV Bossa Vamp
+TTITLE89=Intros and Endings - Intros - I bVII Bossa Vamp
+TTITLE90=Intros and Endings - Intros - i vi ii V
+TTITLE91=Intros and Endings - Intros - Descending Bass Line To The i
+TTITLE92=Intros and Endings - Intros - Vamp To The ii
+TTITLE93=Intros and Endings - Intros - 5 #5 6 #5 To The i
+TTITLE94=Intros and Endings - Endings - Count Basie Ending
+TTITLE95=Intros and Endings - Endings - Ellington Ending
+TTITLE96=Intros and Endings - Endings - #IV Ending
+TTITLE97=Intros and Endings - Endings - bVI bVII I Ending
+TTITLE98=Intros and Endings - Endings - i bII i Ending
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=

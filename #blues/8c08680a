@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13338
+#     30423
+#     43590
+#     56215
+#     78815
+#     89240
+#     107808
+#     130323
+#     146108
+# 
+# Disc length: 2154 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=8c08680a
+DTITLE=Various Artist - The Blues Story Vol 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Dust My Broom
+TTITLE1=Blues Before Sunrise
+TTITLE2=Rollin' and Tumblin'
+TTITLE3=Shame, Shame, Shame
+TTITLE4=Everyday I have the Blues
+TTITLE5=Somebody's Walkin' in My House
+TTITLE6=Gambler's Blues
+TTITLE7=First Time I Met the Blues
+TTITLE8=I Believe
+TTITLE9=Walter's Blues
+EXTD=
+EXTT0=Elmore James\n
+EXTT1=John Lee Hooker\n
+EXTT2=Muddy Waters\n
+EXTT3=Jimmy Reed\n
+EXTT4=B.B. King\n
+EXTT5=Howlin' Wolf\n
+EXTT6=Memphis Slim\n
+EXTT7=Eric Clapton\n
+EXTT8=Elmore James\n
+EXTT9=Little Walter\n
+PLAYORDER=

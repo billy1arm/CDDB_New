@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30216
+#	55206
+#	82162
+#	114308
+#	134591
+#	160222
+#	182323
+#
+# Disc length: 2757 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d0ac308
+DTITLE=MusicMusicMusic - Original Music Inspired By And Composed For Shakespeare's MacBeth
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=The King
+TTITLE1=Nice Crowd, Lovely Audience
+TTITLE2=The Deeds
+TTITLE3=The Scheme
+TTITLE4=The Feast
+TTITLE5=The Creator
+TTITLE6=September
+TTITLE7=Some Other Time
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

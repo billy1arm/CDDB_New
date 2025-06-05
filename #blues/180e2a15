@@ -1,0 +1,80 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     2750
+#     10280
+#     12793
+#     21338
+#     23870
+#     32100
+#     34690
+#     46903
+#     49470
+#     58388
+#     67160
+#     78510
+#     89603
+#     127653
+#     147933
+#     162155
+#     180155
+#     192905
+#     237620
+#     251393
+# 
+# Disc length: 3628 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=180e2a15
+DTITLE=Diverse Componisten - Pueri Hebraeorum
+DYEAR=1900
+DGENRE=
+TTITLE0=Hosanna filio David
+TTITLE1=Pueri Hebraeorum portantes
+TTITLE2=Hosanna filio David
+TTITLE3=Pueri Hebraeorum portantes
+TTITLE4=Hosanna filio David
+TTITLE5=Pueri Hebraeorum portantes
+TTITLE6=Hosanna filio David
+TTITLE7=Pueri Hebraeorum vestimenta
+TTITLE8=Hosanna filio David
+TTITLE9=Pueri Hebraeorum vestimenta
+TTITLE10=Hosanna to the Son of David
+TTITLE11=Turbae quae pracedebant
+TTITLE12=Gloria laus
+TTITLE13=Gloria laus
+TTITLE14=Improperium expectavit
+TTITLE15=Domine ne longe
+TTITLE16=Improperium expectavit
+TTITLE17=Improperium expectavit
+TTITLE18=Vexilia Regis
+TTITLE19=In Monte Olivete
+TTITLE20=In Monte Oliveti
+EXTD=Cappella Traiectina\ndirigent: Kees van der Burg
+EXTT0=
+EXTT1=Giovanni Pierluigi da Palestrina
+EXTT2=
+EXTT3=Johann de Fossa
+EXTT4=
+EXTT5=Johann de Fossa
+EXTT6=
+EXTT7=Giovanni Pierluigi da Palestrina
+EXTT8=
+EXTT9=Tom s Luis de Victoria
+EXTT10=Thomas Weelkes
+EXTT11=Manuel Cardos
+EXTT12=Juan Gin s P rez
+EXTT13=Christopher Tye
+EXTT14=Giovanni Pierluigi da Palestrina
+EXTT15=
+EXTT16=Giovanni Pierluigi da Plaestrina
+EXTT17=Orlando di Lasso
+EXTT18=Giovanni Pierluigi da Palestrina
+EXTT19=Mikolay Ziel nski
+EXTT20=Orlando di Lasso
+PLAYORDER=

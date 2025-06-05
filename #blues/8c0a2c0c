@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17810
+#     32765
+#     48105
+#     63177
+#     79657
+#     99965
+#     120027
+#     138410
+#     160087
+#     179047
+#     191512
+# 
+# Disc length: 2606 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8c0a2c0c
+DTITLE=Aar e's Blues and Heartbreakers - Swing I
+DYEAR=1900
+DGENRE=
+TTITLE0=Just A Gigolo - Ain't Got Nobody
+TTITLE1=Beer Drinking Woman
+TTITLE2=Route 66
+TTITLE3=Gee I Wish
+TTITLE4=I'll Allways Be In Love With You
+TTITLE5=Stagger Lee
+TTITLE6=Just Because
+TTITLE7=Information Blues
+TTITLE8=Foo Foo Baby
+TTITLE9=Fee Fie Foo
+TTITLE10=Throw Me A Bone
+TTITLE11=The Drain
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

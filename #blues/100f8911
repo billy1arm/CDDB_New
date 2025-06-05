@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	34445
+#	51000
+#	68887
+#	81262
+#	99520
+#	117242
+#	135907
+#	163895
+#	182747
+#	193770
+#	202245
+#	218985
+#	230945
+#	244537
+#	266080
+#	284107
+#
+# Disc length: 3979 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=100f8911
+DTITLE=Rosena Horan - Off the rails
+DYEAR=1900
+DGENRE=Rhythmic Soul
+TTITLE0=01 Les rumeurs de la Dune
+TTITLE1=02 The City oh chicago
+TTITLE2=03 Scottish Set
+TTITLE3=04 The lake in the Innisfree
+TTITLE4=05 Time to kill
+TTITLE5=06 Bristish set
+TTITLE6=07 The rigs of the time
+TTITLE7=08 Carolan's Set
+TTITLE8=09 Brig Og Ni Mhaille
+TTITLE9=10 The wife's lament
+TTITLE10=11 O' Carolan Ramble ti Castle
+TTITLE11=12 Apples in the winter
+TTITLE12=13 Swalloow's tail up YaBoya
+TTITLE13=14 The song o wandering Aengus
+TTITLE14=15 Seventies set
+TTITLE15=16 Call me
+TTITLE16=17 Cork March
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

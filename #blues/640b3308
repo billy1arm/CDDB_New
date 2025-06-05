@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14002
+#	41831
+#	70525
+#	98273
+#	130425
+#	181121
+#	198436
+#
+# Disc length: 2869 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=640b3308
+DTITLE=Folmer and Humair Project - Light
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Ici et maintenant
+TTITLE1=I comme Icare
+TTITLE2=Kamakura
+TTITLE3=Galinette
+TTITLE4=Riviere calme
+TTITLE5=Attrape moi si tu peux
+TTITLE6=Gravenstein
+TTITLE7=Claire et sombre
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

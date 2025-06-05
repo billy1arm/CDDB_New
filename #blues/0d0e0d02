@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	135847
+#
+# Disc length: 3599 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0d0e0d02
+DTITLE=Pimsleur - ピンズラーアメリカ英語 I
+DYEAR=1999
+DGENRE=Speech
+TTITLE0=レッスン 7
+TTITLE1=レッスン 8
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+PLAYORDER=

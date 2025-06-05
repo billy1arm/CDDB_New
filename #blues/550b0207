@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23680
+#	53377
+#	80290
+#	112495
+#	146507
+#	182827
+#
+# Disc length: 2820 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=550b0207
+DTITLE=J.C. Camet and Orchestra - Music Of Mastes By Freddy Brua
+DYEAR=1991
+DGENRE=New Age
+TTITLE0=L'Oeil
+TTITLE1=L'Alchimie
+TTITLE2=Le Mandarin
+TTITLE3=Le Pentagrame
+TTITLE4=Le Triangle
+TTITLE5=Les Colonnes
+TTITLE6=Eloim Adonai
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57633
+#	98906
+#	130692
+#
+# Disc length: 2560 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.00
+#
+DISCID=3209fe04
+DTITLE=Steve Melling Quartet - Solar
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Solar
+TTITLE1=Monk's Dream
+TTITLE2=Search for Peace
+TTITLE3=Take the Coltrane
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

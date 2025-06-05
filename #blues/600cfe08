@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	28005
+#	61105
+#	81660
+#	113372
+#	150530
+#	169700
+#	220352
+#
+# Disc length: 3328 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=600cfe08
+DTITLE=Dick Oatts - All Of Three
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Barnacle Bill
+TTITLE1=Gumbo G
+TTITLE2=Single Line
+TTITLE3=In Love and Memory
+TTITLE4=On Dominant
+TTITLE5=In Light Of
+TTITLE6=Alone Together
+TTITLE7=Break Take
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

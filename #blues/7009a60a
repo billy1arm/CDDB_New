@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16192
+#     35465
+#     54645
+#     74022
+#     92375
+#     105770
+#     128532
+#     144270
+#     166057
+# 
+# Disc length: 2472 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=7009a60a
+DTITLE=Cicero Blake - Wives Night Out
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Wives Night Out
+TTITLE1=Getting The Best Of Nothing
+TTITLE2=Turn The Porch Light On
+TTITLE3=Telling Her About You
+TTITLE4=Love Like A Woman
+TTITLE5=Time To Get Up (Go Home)
+TTITLE6=I Saw It Coming
+TTITLE7=Let It Roll
+TTITLE8=I'm The Man For You
+TTITLE9=I Got The Touch If You Got The Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

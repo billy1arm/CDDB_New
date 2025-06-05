@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20599
+#	37652
+#	53668
+#	72884
+#	95896
+#	113161
+#	134903
+#	159517
+#	173858
+#	189990
+#	204818
+#
+# Disc length: 3013 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=9f0bc30c
+DTITLE=Antonio Orozco - Un reloj y una vela
+DYEAR=2000
+DGENRE=Ballad
+TTITLE0=Locura de amor
+TTITLE1=Tan lejos y tan cerca
+TTITLE2=Suspiros sin pasion
+TTITLE3=El cielo estaba dorado
+TTITLE4=Tu compañia
+TTITLE5=El reloj y la vela
+TTITLE6=Mirame y tocame
+TTITLE7=El bosque encantado
+TTITLE8=Ayudame a soñar
+TTITLE9=Disfruta del silencio
+TTITLE10=Un rinconcito en el mundo
+TTITLE11=Donde dicte el sol
+EXTD=Artist:Antonio Orozco YEAR: 2000 ID3G: 116
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

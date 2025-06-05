@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34725
+#	61433
+#	84932
+#	100431
+#	123992
+#	149917
+#	167949
+#	181816
+#	186980
+#	192033
+#
+# Disc length: 2869 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9d0b330b
+DTITLE=Kappeler - Zumthor - Babylon-Suite
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=Das erste Tier
+TTITLE1=Tor II
+TTITLE2=Tor I
+TTITLE3=Ne Pidu Ja Do Lesa
+TTITLE4=Annalisa
+TTITLE5=Traumgesicht
+TTITLE6=November
+TTITLE7=Tor III
+TTITLE8=Bontempi Var.I
+TTITLE9=Bontempi Var.II
+TTITLE10=Tor IV
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

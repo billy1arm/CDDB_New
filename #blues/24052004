@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22745
+#	52653
+#	73658
+#
+# Disc length: 1314 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=24052004
+DTITLE=7 O'Clock Shadow - Microdiver
+DYEAR=2000
+DGENRE=Pop
+TTITLE0=Microdiver
+TTITLE1=Brownstudy (Original MIX)
+TTITLE2=Ping Pong
+TTITLE3=Microdiver (Pal@Pop MIX)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

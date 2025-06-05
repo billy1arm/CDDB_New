@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20625
+#	35288
+#	53329
+#	68363
+#	88116
+#	116291
+#	129634
+#
+# Disc length: 1935 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=59078d08
+DTITLE=Falkevik - Louder Than I'm Used to
+DYEAR=2018
+DGENRE=Jazz
+TTITLE0=Castle
+TTITLE1=Sing to Me
+TTITLE2=You Ask
+TTITLE3=Detour
+TTITLE4=Walk Away
+TTITLE5=Little Price
+TTITLE6=Louder Than I'm Used to
+TTITLE7=Kvite Slott
+EXTD=YEAR: 2018
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

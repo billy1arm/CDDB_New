@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14470
+#	39285
+#	53012
+#	73585
+#	86062
+#	115175
+#	122992
+#	142637
+#	163527
+#	166347
+#	199062
+#	242965
+#
+# Disc length: 3776 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a90ebe0d
+DTITLE=Bernstein - Leonard Bernstein - Vol.07
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Trouble in Tahiti - Prelude - ''Daa/Doa Day - Mornin' sun''  [Columbia Wind Ensemble]
+TTITLE1=Trouble in Tahiti - Scene I - ''How Could You Say''
+TTITLE2=Trouble in Tahiti - Scene II - ''Yes ¿ Oh Mister Partridge''
+TTITLE3=Trouble in Tahiti - Scene III - ''I was standing in the garden''
+TTITLE4=Trouble in Tahiti - Scene IIIa - ''Then desire took hold inside me''
+TTITLE5=Trouble in Tahiti - Scene IV - ''I'm on my way''
+TTITLE6=Trouble in Tahiti - Interlude - ''Skid a lit day''
+TTITLE7=Trouble in Tahiti - Scene V - ''There's a law''
+TTITLE8=Trouble in Tahiti - Svene VI - ''What a movie''
+TTITLE9=Trouble in Tahiti - Scene VIa - ''There's a law''
+TTITLE10=Trouble in Tahiti - Scene VII - ''Evenin' shadows''
+TTITLE11=Facsimile - Choreographic Essai for Orchestra - Part I - Molto adagio  [New York Philharmonic, 1963]
+TTITLE12=Facsimile - Choreographic Essai for Orchestra - Part II - Allegretto
+EXTD=
+EXTT0=Trio
+EXTT1=Dinah Sam Trio
+EXTT2=Sam Trio
+EXTT3=Dinah
+EXTT4=Dinah Sam
+EXTT5=Dinah Sam
+EXTT6=Trio
+EXTT7=Sam
+EXTT8=Dinah Trio
+EXTT9=Sam
+EXTT10=Trio Sam Dinah
+EXTT11=
+EXTT12=
+PLAYORDER=

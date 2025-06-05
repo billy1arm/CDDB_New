@@ -1,0 +1,28 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20845
+#	40842
+#	66220
+# Disc length: 1163 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=31048904
+DTITLE=Bergmeister - Diorama
+DYEAR=1900
+DGENRE=
+TTITLE0=Nervengas
+TTITLE1=Chevy Bel Air
+TTITLE2=Ensenada
+TTITLE3=Ekstase
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

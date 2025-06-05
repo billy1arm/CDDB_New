@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	19497
+#	74530
+#	85791
+#	98863
+#	122791
+#	142510
+#
+# Disc length: 2217 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5808a707
+DTITLE=Various Artist - 1999 Iowa Jazz Championships
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Harlan - But Not for Me
+TTITLE1=Harlan - Channel One Suite
+TTITLE2=Harlan - Lassus Trombone
+TTITLE3=Pella - Take the 'A' Train
+TTITLE4=Pella - Things Ain't What They Used to Be
+TTITLE5=Pella - In a Sentimental Mood
+TTITLE6=Pella - Caravan
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

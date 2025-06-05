@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20400
+#	36980
+#	58805
+#	76235
+#	97912
+#	115500
+#	132720
+#	152337
+#
+# Disc length: 2281 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=6808e709
+DTITLE=Bonnie Raitt - Tour Sampler
+DYEAR=1900
+DGENRE=
+TTITLE0=You
+TTITLE1=Love Sneaking Up On You
+TTITLE2=Longing In Their Hearts
+TTITLE3=Thing Called Love
+TTITLE4=I Can't Make You Love Me
+TTITLE5=Nick Of Time
+TTITLE6=Something To Talk About
+TTITLE7=Come To Me
+TTITLE8=Not The Only One
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

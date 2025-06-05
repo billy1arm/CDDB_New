@@ -1,0 +1,20 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#
+# Disc length: 172 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=0200aa01
+DTITLE=Dominique Hudso - Juste un réveil
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Juste un réveil
+EXTD=ID3G:   0
+EXTT0=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19343
+#	41055
+#	65630
+#	87485
+#	111223
+#	128650
+#	151010
+#	179555
+#	208473
+#	229640
+#
+# Disc length: 3340 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9a0d0a0b
+DTITLE=European Jazz Trio - Night Train
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Night Train
+TTITLE1=Autumn In Rome
+TTITLE2=The Moon Of Wild Castle
+TTITLE3=As Time Goes By
+TTITLE4=You
+TTITLE5=Michelle
+TTITLE6=Night In Kyoto
+TTITLE7=Never To Early
+TTITLE8=Bassman San
+TTITLE9=Don't Say Good-bye
+TTITLE10=El Gaucho
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

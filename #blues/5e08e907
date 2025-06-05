@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27000
+#	52275
+#	75337
+#	101062
+#	125737
+#	148050
+#
+# Disc length: 2283 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.06
+#
+DISCID=5e08e907
+DTITLE=Lee Ritenour - Rio
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Rainbow
+TTITLE1=San Juan Sunset
+TTITLE2=Rio Funk
+TTITLE3=It Happens Every Day
+TTITLE4=Ipanema Sol
+TTITLE5=Simplicidad
+TTITLE6=A Little Bit Of This And A Little Bit Of That
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

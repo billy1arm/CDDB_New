@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	17732
+#	36107
+#	69095
+#	107507
+#	129147
+#	152550
+#	175267
+#	192337
+#
+# Disc length: 2865 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta3
+#
+DISCID=640b2f09
+DTITLE=Lee Oskar - The Best of Lee Oskar
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=The Promised Land
+TTITLE1=Sunshine Keri
+TTITLE2=San Francisco Bay
+TTITLE3=Before The Rain
+TTITLE4=More Than Words Can Say
+TTITLE5=Song For My Son
+TTITLE6=The Document
+TTITLE7=Feeling Happy
+TTITLE8=My Road
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

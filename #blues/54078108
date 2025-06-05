@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25297
+#	45000
+#	62947
+#	76677
+#	90429
+#	107570
+#	126950
+#
+# Disc length: 1923 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=54078108
+DTITLE=Clarence Carter - I Couldn't Refuse
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=What Was I Suppose To Do
+TTITLE1=You're Messin With My Mind
+TTITLE2=If Only
+TTITLE3=Another Night With You
+TTITLE4=Slip Away Again
+TTITLE5=I'm So Tired Of Explaining
+TTITLE6=I Was In The Neighborhood
+TTITLE7=I Couldn't Refuse
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

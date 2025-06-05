@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25018
+#	86958
+#	122070
+#	139058
+#
+# Disc length: 2289 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3d08ef05
+DTITLE=Oscar Peterson Trio - The Trio
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Blues Etude
+TTITLE1=Chicago Blues
+TTITLE2=Easy Listening Blues
+TTITLE3=Come Sunday
+TTITLE4=Secret Love
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

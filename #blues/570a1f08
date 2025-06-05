@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32037
+#	54787
+#	68587
+#	108812
+#	127755
+#	144517
+#	166770
+#
+# Disc length: 2593 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=570a1f08
+DTITLE=Andrew 'Big Voice' Odom - Feel So Good
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Feel So Good
+TTITLE1=I Made up My Mind
+TTITLE2=Mother-In-Law Blues
+TTITLE3=Woke up This Morning
+TTITLE4=Memo Blues
+TTITLE5=Bad Feelin'
+TTITLE6=You Say That You Love Me Honey
+TTITLE7=Reconsider Baby
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	57887
+#	112687
+#	150887
+#	193950
+#
+# Disc length: 3177 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=320c6705
+DTITLE=Dizzy Gillespie - Stan Getz - Sonny Stitt - For Musicians Only
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Bebop
+TTITLE1=Dark Eyes
+TTITLE2=Wee (Allen's Alley)
+TTITLE3=Lover Come Back To Me
+TTITLE4=Dark Eyes (alternate, CD only)
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

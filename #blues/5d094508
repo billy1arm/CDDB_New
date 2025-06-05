@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	38635
+#	53952
+#	84002
+#	96457
+#	128007
+#	139595
+#	152127
+#
+# Disc length: 2375 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d094508
+DTITLE=Collin Walcott - Cloud Dance
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Margueritte
+TTITLE1=Prancing
+TTITLE2=Night Glider
+TTITLE3=Scimitar
+TTITLE4=Vadana
+TTITLE5=Eastern Song
+TTITLE6=Padna
+TTITLE7=Cloud Dance
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6947
+#	34315
+#	90035
+#	126427
+#	176010
+#
+# Disc length: 2453 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=43099306
+DTITLE=Mike Bloomfield and Al Kooper - The Live Adventures Of Mike Bloomfield and Al Kooper  Disc 2
+DYEAR=1968
+DGENRE=Rock
+TTITLE0=Openning Speech
+TTITLE1=Sonny Boy Williamson
+TTITLE2=No More Lonely Nights
+TTITLE3=Dear Mr. Fantasy
+TTITLE4=Don't Throw Your Love On Me So Strong
+TTITLE5=Finale - Refugee
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

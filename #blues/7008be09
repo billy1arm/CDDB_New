@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  25087
+#  47580
+#  67320
+#  81717
+#  106012
+#  112817
+#  150985
+#  164855
+#
+# Disc length: 2240 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=7008be09
+DTITLE=Furry Lewis - Fourth And Beale
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Going To Brownsville
+TTITLE1=John Henry
+TTITLE2=Casey Jones
+TTITLE3=St. Louis Blues
+TTITLE4=Judge Boushe Blues
+TTITLE5=Just A Little Fun
+TTITLE6=Going Back To Gary
+TTITLE7=When The Saints Go Marchin' Home
+TTITLE8=A Dog Named Blue
+EXTD=Verve 519 726-2\n\nRecorded on March 5, 1969 at Furry Lewis' house i
+EXTD=n Memphis.\nPreviously released as "House of the Blues Vol. 2" (Blue
+EXTD=Star 80.602 LP]\n\nSubmitted 6/3/97\n[Jmccoy@efn.org]\nJ. Rockwall 
+EXTD=McCoy
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

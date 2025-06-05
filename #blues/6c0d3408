@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38082
+#	80382
+#	116752
+#	143154
+#	166365
+#	187973
+#	222553
+#
+# Disc length: 3382 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6c0d3408
+DTITLE=Vari - Coccole Sonore
+DYEAR=1998
+DGENRE=Easy Listening
+TTITLE0=Dormi Dormi
+TTITLE1=Un Morbido Abbraccio
+TTITLE2=Facciamo La Nanna
+TTITLE3=Sogni D'Oro
+TTITLE4=La Fatina Della Buonanotte
+TTITLE5=Ninna Nanna
+TTITLE6=Tau Ta Ta
+TTITLE7=Le Stelline e La Luna
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

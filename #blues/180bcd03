@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	76425
+#	153446
+#
+# Disc length: 3023 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=180bcd03
+DTITLE=Martin Buntrock - Dieter Greifenberg - Ausruhen am Bach, Whispering Brook
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=Ausruhen am Bach I
+TTITLE1=Magic Waves
+TTITLE2=Ausruhen am Bach II
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

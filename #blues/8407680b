@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	25202
+#	35515
+#	46577
+#	57640
+#	67910
+#	78165
+#	93827
+#	104677
+#	114350
+#	132042
+#
+# Disc length: 1898 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8407680b
+DTITLE=Eric Clapton - Birth of a Legend: '63 - '66
+DYEAR=1900
+DGENRE=
+TTITLE0=She's So Respectable
+TTITLE1=Certain Girl
+TTITLE2=For Your Love
+TTITLE3=Snake Drive
+TTITLE4=I Wish You Would
+TTITLE5=Putty In Your Hands
+TTITLE6=Louise
+TTITLE7=Boom Boom
+TTITLE8=I'm Your Witch Doctor
+TTITLE9=Telephone Blues
+TTITLE10=Got To Hurry
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

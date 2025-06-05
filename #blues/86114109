@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	27695
+#	65265
+#	108920
+#	127187
+#	171765
+#	208862
+#	226860
+#	289287
+#
+# Disc length: 4419 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=86114109
+DTITLE=Craig Owens and The Bodo Ensemble - The Seven Martyrs Of Tehran
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Prologue
+TTITLE1=Haji Mirza Siyyid 'Ali
+TTITLE2=Mirza Qurban-'Ali
+TTITLE3=Haji Mulla Isma 'Il-I-Qumi
+TTITLE4=Siyyid Husayn-I-Turshizi
+TTITLE5=Haji Muhammad-Taqiy-I-Kirmani
+TTITLE6=Siyyid Murtada
+TTITLE7=Muhammad-Husayn-I-Maraghai'I
+TTITLE8=Epilogue
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

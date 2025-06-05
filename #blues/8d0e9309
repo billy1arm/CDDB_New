@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     34430
+#     48829
+#     71752
+#     95507
+#     142291
+#     163399
+#     203853
+#     249547
+# 
+# Disc length: 3733 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8d0e9309
+DTITLE=Tony Loeffler&The Blue Angels - Bootleg Live!
+DYEAR=1900
+DGENRE=
+TTITLE0=All My Tears
+TTITLE1=I Shall Not Be Moved
+TTITLE2=Lord Of All
+TTITLE3=Finish Line
+TTITLE4=INRI
+TTITLE5=Festival Of Friends
+TTITLE6=Willie McTell
+TTITLE7=See The Valley
+TTITLE8=Sitting In Limbo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

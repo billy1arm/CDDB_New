@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21579
+#	40131
+#	64175
+#	85526
+#	100392
+#	114511
+#	152386
+#	163514
+#	189957
+#	215600
+#	233752
+#	261816
+#
+# Disc length: 3763 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a20eb10d
+DTITLE=Stan Getz - Jazz profiles
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Aguas De Marco
+TTITLE1=Sometime Ago
+TTITLE2=Misty
+TTITLE3=Jive Hoot
+TTITLE4=Four Brothers
+TTITLE5=Summer Sequence (Part 4)
+TTITLE6=La Fiesta
+TTITLE7=Lush Life
+TTITLE8=Lester Left Town
+TTITLE9=The Peacocks
+TTITLE10=Skylark
+TTITLE11=Another World
+TTITLE12=Out of This World
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

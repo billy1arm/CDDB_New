@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15030
+#	30752
+#	40340
+#	51992
+#	64552
+#	75670
+#	88732
+#	100855
+#	113375
+#	128207
+#	137565
+#
+# Disc length: 1993 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8307c70c
+DTITLE=127 Zillertaler Schürzenjäger - Grüne Tannen
+DYEAR=1900
+DGENRE=Volksmusik
+TTITLE0=Der Jagertoni
+TTITLE1=Grüne Tannen
+TTITLE2=Solo Jodler
+TTITLE3=Frühlingswalzer
+TTITLE4=Im Arm von mein`m Diandl
+TTITLE5=Lustig unterwegs
+TTITLE6=Wir kommen von den Bergen
+TTITLE7=Herbst in den Bergen
+TTITLE8=Uns`re Bergeswelt
+TTITLE9=Wenn ich zu meiner Zenzi geh
+TTITLE10=Der Jaga vom Karwendel
+TTITLE11=Mei winzig`s Diandl
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

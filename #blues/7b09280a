@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  15142
+#  32740
+#  54475
+#  69967
+#  88027
+#  103840
+#  123640
+#  137825
+#  155380
+#
+# Disc length: 2346 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=7b09280a
+DTITLE=South By Southwest - Deep In The West
+DYEAR=1900
+DGENRE=
+TTITLE0=Ricochet
+TTITLE1=West Texas Wind
+TTITLE2=Deep In The West
+TTITLE3=Dance The Blues
+TTITLE4=Mountain Melodies
+TTITLE5=Two Hearts In The Desert Wind
+TTITLE6=Heaven Lost An Angel
+TTITLE7=Rider Of Love
+TTITLE8=Little Adobe House
+TTITLE9=Blue Morning Rain
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

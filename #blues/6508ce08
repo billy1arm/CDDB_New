@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11919
+#	30650
+#	49026
+#	68347
+#	81902
+#	98156
+#	127420
+#
+# Disc length: 2256 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6508ce08
+DTITLE=able billingual - Sample Reading テキスト
+DYEAR=1997
+DGENRE=
+TTITLE0=Lesson 01
+TTITLE1=Lesson 02
+TTITLE2=Lesson 03
+TTITLE3=Lesson 04
+TTITLE4=Lesson 05
+TTITLE5=Lesson 06
+TTITLE6=Lesson 07
+TTITLE7=Lesson 08
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

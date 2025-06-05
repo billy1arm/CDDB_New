@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36571
+#	58853
+#	82001
+#	107529
+#	148914
+#	202571
+#	242128
+#	282923
+#
+# Disc length: 3923 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=820f5109
+DTITLE=Schubert, Franz - Piano Sonata No.9, 17 etc. (Georges Pludermacher)
+DYEAR=2002
+DGENRE=Classical
+TTITLE0=Piano Sonata No.9 in B major, D.575 - 1. Allegro ma non troppo
+TTITLE1=Piano Sonata No.9 in B major, D.575 - 2. Andante
+TTITLE2=Piano Sonata No.9 in B major, D.575 - 3. Scherzo (Allegretto)
+TTITLE3=Piano Sonata No.9 in B major, D.575 - 4. Allegro giusto
+TTITLE4=Piano Sonata No.17 in D major, D.850 - 1. Allegro
+TTITLE5=Piano Sonata No.17 in D major, D.850 - 2. Con moto
+TTITLE6=Piano Sonata No.17 in D major, D.850 - 3. Scherzo (Allegro vivace)
+TTITLE7=Piano Sonata No.17 in D major, D.850 - 4. Rondo (Allegro moderato)
+TTITLE8=Musical Moment, D.780, No.3 in F minor (Version 2)
+EXTD=YEAR: 2002 ID3G: 32
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

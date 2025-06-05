@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18082
+#	34854
+#	51954
+#	68438
+#	81670
+#	103912
+#	124632
+#	145231
+#
+# Disc length: 2146 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=77086009
+DTITLE=Baghdad Jones - Beautiful Day
+DYEAR=1900
+DGENRE=
+TTITLE0=Good Thing
+TTITLE1=Funk U Up
+TTITLE2=All I Need
+TTITLE3=Beautiful Day
+TTITLE4=Cheatin'
+TTITLE5=Dis'n Me
+TTITLE6=Black Music
+TTITLE7=Think About That Flag
+TTITLE8=Big On 5
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

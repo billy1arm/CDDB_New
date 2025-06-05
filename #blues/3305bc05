@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26029
+#	46806
+#	68347
+#	88669
+#
+# Disc length: 1470 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3305bc05
+DTITLE=Foxx - Late Nights
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=The Dance
+TTITLE1=Love
+TTITLE2=Dreams
+TTITLE3=Sweet Whispers
+TTITLE4=Sway
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

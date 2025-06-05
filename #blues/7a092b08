@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27643
+#	44480
+#	70060
+#	87440
+#	116215
+#	142390
+#	164313
+#
+# Disc length: 2349 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7a092b08
+DTITLE=Donald Fagen - The Nightfly
+DYEAR=1982
+DGENRE=Jazz
+TTITLE0=I.G.Y.
+TTITLE1=Green Flower Street
+TTITLE2=Ruby Baby
+TTITLE3=Maxine
+TTITLE4=New Frontier
+TTITLE5=The Nightfly
+TTITLE6=The Goodbye Look
+TTITLE7=Walk Between Raindrops
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

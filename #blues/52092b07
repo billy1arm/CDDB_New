@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	27847
+#	54940
+#	83882
+#	107110
+#	123815
+#	143190
+#
+# Disc length: 2349 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 1.4
+#
+DISCID=52092b07
+DTITLE=Johnny "Guitar" Watson - What The Hell Is This?
+DYEAR=1900
+DGENRE=
+TTITLE0=What The Hell Is This?
+TTITLE1=In The World
+TTITLE2=Proud Of You
+TTITLE3=Cop and Blow
+TTITLE4=I Don't Want To Be President
+TTITLE5=Mother In Law
+TTITLE6=Strung Out
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

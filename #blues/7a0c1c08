@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29189
+#	58149
+#	86662
+#	116403
+#	142217
+#	165486
+#	208947
+#
+# Disc length: 3102 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a0c1c08
+DTITLE=Mike Simmons - Dreams of Avalon
+DYEAR=1997
+DGENRE=New Age
+TTITLE0=Dreams of Avalon
+TTITLE1=The Search for the Holy Grail
+TTITLE2=Lessons with Merlin
+TTITLE3=The Love of Guinevere
+TTITLE4=The Sleeping King
+TTITLE5=The Enchantment
+TTITLE6=Arthur's Destiny
+TTITLE7=Thr Fragile Flame
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

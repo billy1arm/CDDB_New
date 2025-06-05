@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	28007
+#	40392
+#	59002
+#	80345
+#	99412
+#	113920
+#	129302
+#	141305
+#	161552
+#
+# Disc length: 2420 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8609720a
+DTITLE=Sistah Blue - Sistah Blue
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Baby What You Want Me To Do
+TTITLE1=Just Cant take it
+TTITLE2=Me Without You
+TTITLE3=You'll Lose A Good Thing
+TTITLE4=Lightnin Boogie
+TTITLE5=Cant Be Wrong
+TTITLE6=For You My Love
+TTITLE7=About To Lose My Mind
+TTITLE8=Sweet Talk Me
+TTITLE9=You Dont Love Me
+EXTD=YEAR: 1998 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

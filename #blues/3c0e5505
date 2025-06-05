@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32116
+#	76933
+#	121470
+#	204605
+#
+# Disc length: 3671 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3c0e5505
+DTITLE=The Kyteman Orchestra - The Jam Sessions - CD3
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=Breaking The Silence (De Effenaar, Eindhoven, 03-04-2014)
+TTITLE1=The Page - Part I (Tivoli Oudegracht, Utrecht, 30-05-2014)
+TTITLE2=The Page - Part II (Tivoli Oudegracht, Utrecht, 30-05-2014)
+TTITLE3=PaDaDe (Kytopia Zeedijk, Utrecht, 13-03-2014)
+TTITLE4=Homecoming (Rotterdamse Schouwburg, 12-04-2014)
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

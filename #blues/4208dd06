@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30161
+#	44853
+#	76800
+#	113696
+#	144377
+#
+# Disc length: 2271 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4208dd06
+DTITLE=Ornette Coleman - The Empty Foxhole 
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=Good Old Days 
+TTITLE1=Empty Foxhole
+TTITLE2=Sound Gravitation 
+TTITLE3=Freeway Express 
+TTITLE4=Faithful 
+TTITLE5=Zig Zag 
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

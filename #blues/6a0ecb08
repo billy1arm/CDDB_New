@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32601
+#	65594
+#	98734
+#	143159
+#	174883
+#	203127
+#	245838
+#
+# Disc length: 3789 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a0ecb08
+DTITLE=Avalon Sound Orchestra - Sea Of Dreams
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=Sea Of Dreams
+TTITLE1=Waves In The Sun
+TTITLE2=The Ionian Sea
+TTITLE3=Reflections On The Water
+TTITLE4=Cloudly Sky
+TTITLE5=Raging Waters
+TTITLE6=Avalothos
+TTITLE7=Nightfall On The Beach
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

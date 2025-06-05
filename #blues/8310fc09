@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41425
+#	74547
+#	102733
+#	147442
+#	173426
+#	218292
+#	259244
+#	280138
+#
+# Disc length: 4350 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8310fc09
+DTITLE=Alfredo Rodriguez - Live
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Claudia
+TTITLE1=Aguardiente
+TTITLE2=Longina
+TTITLE3=Mario's Blues
+TTITLE4=Puerto Padre
+TTITLE5=Almendra
+TTITLE6=Summertime
+TTITLE7=Tres palabres
+TTITLE8=Oye afra
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

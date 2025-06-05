@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	62655
+#	122780
+#	153085
+#
+# Disc length: 2698 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2a0a8804
+DTITLE=Anton Bruckner - Symphony N°0 in D minor  (Stanislaw Skrowaczewski, Saarbrücken Radio Symphony Orchestra)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Nullte Symphony  in D minor - I. Allegro
+TTITLE1=Nullte Symphony  in D minor - II. Andante
+TTITLE2=Nullte Symphony  in D minor - III. Scherzo
+TTITLE3=Nullte Symphony  in D minor - IV. Finale, moderato
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

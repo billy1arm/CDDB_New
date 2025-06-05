@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21445
+#	40407
+#	61107
+#
+# Disc length: 955 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=2e03b904
+DTITLE=Gary Moore - More Blues Alive (Bonus Disk)
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Stop Messin Around
+TTITLE1=You Don'T Love Me
+TTITLE2=Since I Met You Baby
+TTITLE3=Key To Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

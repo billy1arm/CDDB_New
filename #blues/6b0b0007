@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34467
+#	62007
+#	85462
+#	121900
+#	149632
+#	185725
+#
+# Disc length: 2818 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b0b0007
+DTITLE=Mark Isaacs - For Sure
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=For Sure
+TTITLE1=Never Too Far Away
+TTITLE2=Giant Steps
+TTITLE3=Las Vegas Tango
+TTITLE4=A Night in Tunisia
+TTITLE5=Heyoke
+TTITLE6=Lucky Southern
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

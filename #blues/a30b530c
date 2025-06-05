@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19360
+#	28181
+#	50100
+#	67959
+#	90842
+#	108511
+#	131930
+#	146728
+#	161261
+#	174513
+#	190613
+#
+# Disc length: 2901 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a30b530c
+DTITLE=Gray/Kelley/Hogan/Smith/Edwards - Louisiana Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=The Blues Won´t Let Me Take My Rest
+TTITLE1=Lucky, Lucky Man
+TTITLE2=If I Ever Get Back Home
+TTITLE3=Talk To Me Baby
+TTITLE4=I Got A Funny Feeling
+TTITLE5=I Love You Baby
+TTITLE6=Run Around Blues
+TTITLE7=Rats And Roaches In My Kitchen
+TTITLE8=Cold Chills
+TTITLE9=Hear That Rumbling
+TTITLE10=How Many More Years
+TTITLE11=On The Dark Road Crying
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20540
+#	36030
+#	59037
+#	81400
+#
+# Disc length: 1402 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=3e057805
+DTITLE=Ben Harper - Live (promo)
+DYEAR=1900
+DGENRE=
+TTITLE0=Voodoo Chile (Live - Edit)
+TTITLE1=Faded (edit)
+TTITLE2=Faded (Live)
+TTITLE3=The Will to Live (LP)
+TTITLE4=The Will to Live (live)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

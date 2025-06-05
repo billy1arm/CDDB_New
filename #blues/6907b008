@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21300
+#	39165
+#	55010
+#	78237
+#	95635
+#	116955
+#	134845
+#
+# Disc length: 1970 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6907b008
+DTITLE=Dizzy Gillespie Orchestra - Diz Big Band
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Roses Of Picardy
+TTITLE1=Silhouette
+TTITLE2=Can You Recall?
+TTITLE3=O Solow
+TTITLE4=Cool Eyes
+TTITLE5=Confusion
+TTITLE6=Pile Driver
+TTITLE7=Hob Nail Special
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

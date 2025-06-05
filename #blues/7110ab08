@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	50580
+#	83860
+#	127333
+#	173133
+#	205308
+#	233593
+#	289675
+#
+# Disc length: 4269 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7110ab08
+DTITLE=The Dave Brubeck Quartet with Paul Desmond - Vol. 031 - NYC, Carnegie Hall, Feb. 22, 1963
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=St. Louis Blues
+TTITLE1=Bossa Nova U.S.A.
+TTITLE2=For All We Know
+TTITLE3=Pennies from Haven
+TTITLE4=Southern Scene
+TTITLE5=Three to Get Ready
+TTITLE6=Blue Rondo a la Turk
+TTITLE7=Take Five
+EXTD=Dave Brubeck (p) - Paul Desmond (as) - Gene Wright (b) - Joe Morello (d) YEAR: 1963
+EXTT0=W. C. Handy
+EXTT1=D. Brubeck
+EXTT2=S. Lewis - J. F. Coots
+EXTT3=J. Burke - A. Johnston
+EXTT4=D. Brubeck
+EXTT5=D. Brubeck
+EXTT6=D. Brubeck
+EXTT7=P. Desmond
+PLAYORDER=

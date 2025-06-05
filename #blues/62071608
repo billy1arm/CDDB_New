@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18402
+#	38000
+#	56462
+#	72815
+#	87570
+#	104912
+#	120140
+#
+# Disc length: 1816 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=62071608
+DTITLE=Norman Connors - Aquarian dream
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Phoenix
+TTITLE1=Once again
+TTITLE2=Treat me like the one you love
+TTITLE3=East 6th street
+TTITLE4=Guitar talk
+TTITLE5=Let me be the one
+TTITLE6=Lokk ahead
+TTITLE7=I'll always love you "T"
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

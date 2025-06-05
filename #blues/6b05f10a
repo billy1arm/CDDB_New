@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9002
+#	20377
+#	31875
+#	43063
+#	52246
+#	63818
+#	78460
+#	87450
+#	98337
+#
+# Disc length: 1523 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6b05f10a
+DTITLE=Steven Zdenek Eckels - blues classiccs
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Frankie and Johnny
+TTITLE1=St. James Infirmary
+TTITLE2=Stealin
+TTITLE3=Deep River Blues
+TTITLE4=Hestitation Blues
+TTITLE5=A Real Slow Drag
+TTITLE6=Freight Train Blues
+TTITLE7=Empty Bed Blues
+TTITLE8=Take Your Fingers Off It
+TTITLE9=Darlin
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

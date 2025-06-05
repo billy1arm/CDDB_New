@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29296
+#	68079
+#	117792
+#	167932
+#	208761
+#	255577
+#	293479
+#
+# Disc length: 4463 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d116d08
+DTITLE=Brussels Jazz Orchestra - BJO's finest - Live!
+DYEAR=2013
+DGENRE=Jazz
+TTITLE0=HOPPIN' AROUND
+TTITLE1=NEIGE
+TTITLE2=POTION
+TTITLE3=DANSE ETERNELLE
+TTITLE4=CAFESIESTE
+TTITLE5=BELLS and BRASS
+TTITLE6=FOR KENNY
+TTITLE7=THE LIZARD GAME
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

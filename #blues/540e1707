@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34266
+#	85339
+#	116469
+#	169026
+#	207127
+#	248804
+#
+# Disc length: 3609 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=540e1707
+DTITLE=Harris Eisenstadt - Ahimsa Orchestra
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Non-Violence I
+TTITLE1=Non-Violence II
+TTITLE2=Non-Violence III
+TTITLE3=Relief I
+TTITLE4=Relief II
+TTITLE5=Relief III
+TTITLE6=Relief IV
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

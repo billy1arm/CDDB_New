@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23400
+#	54552
+#	75510
+#	94575
+#	115682
+#	138235
+#	161035
+#
+# Disc length: 2419 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=53097108
+DTITLE=Christoph Spendel - Dreams and Melodies
+DYEAR=1982
+DGENRE=Jazz
+TTITLE0=Melodic Adventure
+TTITLE1=Rainbow Melody
+TTITLE2=Skate Away
+TTITLE3=Song for Christina
+TTITLE4=Cafe Cactus
+TTITLE5=Evening Song
+TTITLE6=Dancing with Your Own Shadow
+TTITLE7=Talking to the Wind
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

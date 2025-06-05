@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25349
+#	55138
+#	91116
+#	127509
+#	163341
+#	201357
+#
+# Disc length: 3135 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=530c3d07
+DTITLE=Pierre Favre Ensamble - Fleuve
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Mort d'eurydice
+TTITLE1=Pianama
+TTITLE2=Albatros
+TTITLE3=Reflet Sud
+TTITLE4=Fire Red - Gas Blue - Ghost Green
+TTITLE5=Nile
+TTITLE6=Decors
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

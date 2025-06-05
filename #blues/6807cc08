@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18225
+#	37465
+#	54903
+#	69425
+#	94130
+#	117150
+#	139643
+#
+# Disc length: 1998 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6807cc08
+DTITLE=Blue By Nature - Hard Daze
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=I'm So Tired
+TTITLE1=Rain
+TTITLE2=Travelin' Blues
+TTITLE3=You're Gonna Need My Help
+TTITLE4=Bad Spell
+TTITLE5=Break Down
+TTITLE6=Hard Day
+TTITLE7=Salt Tears
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

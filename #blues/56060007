@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11025
+#	25575
+#	38775
+#	55950
+#	70050
+#	96525
+#
+# Disc length: 1538 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=56060007
+DTITLE=Quicksand - 1993-09-05-Irvine Meadows-Los Angeles, CA
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Omission
+TTITLE1=How Soon Is Now?
+TTITLE2=Clean Slate
+TTITLE3=Dine Alone
+TTITLE4=Fazer
+TTITLE5=Unfulfilled
+TTITLE6=Unknown
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

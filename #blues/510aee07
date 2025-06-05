@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28870
+#	51163
+#	90801
+#	115204
+#	146492
+#	183139
+#
+# Disc length: 2800 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=510aee07
+DTITLE=The Java Quartet - Deep Blue Sea
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=In The Swim
+TTITLE1=The Leaving Song
+TTITLE2=Seek Ye The Kingdom (for Mabel Hawkins)
+TTITLE3=Transitions
+TTITLE4=Be Still My Friend
+TTITLE5=Jetty
+TTITLE6=Little Boy
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

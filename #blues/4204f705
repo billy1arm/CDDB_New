@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14095
+#	27927
+#	42331
+#	56977
+#
+# Disc length: 1273 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4204f705
+DTITLE=Various Artist - Jazz Magazine - Big bands of 1931
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=King Oliver and son orchestre - Stop Cryin'
+TTITLE1=Fletcher Henderson and son orchestre - Sugar foot stomp
+TTITLE2=Cab Calloway and his orchestra - Minnie the moocher
+TTITLE3=Mills blue rhythm band - Moanon'
+TTITLE4=Duke Ellington and his orchestra - Creole Rhapsody
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

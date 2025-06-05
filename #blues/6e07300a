@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17287
+#	30038
+#	48105
+#	60746
+#	79234
+#	88759
+#	100195
+#	112195
+#	121989
+#
+# Disc length: 1842 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e07300a
+DTITLE=Various Artist - Todos os Fados - Visão  CD 06
+DYEAR=2005
+DGENRE=Fado
+TTITLE0=Fernando Maurício - Boa Noite Solidão
+TTITLE1=António Pelarigo - Carmencita
+TTITLE2=Ana Moura - Guarda-me a vida na mão
+TTITLE3=Teresa Siqueira - Contradição
+TTITLE4=Júlio Peres - Velho Faroleiro
+TTITLE5=João Braga - Maré Vaza
+TTITLE6=Maria do Rosário Bettencourt - Não cantes p'ra mais ninguém
+TTITLE7=Fernanda Maria - Sou companheira do vento
+TTITLE8=Pedro Moutinho - Restos de uma saudade
+TTITLE9=Berta Cardoso - Cruz de guerra
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

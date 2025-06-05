@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37035
+#	63985
+#	99842
+#	136602
+#	162920
+#	182502
+#	236980
+#
+# Disc length: 3737 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=600e9708
+DTITLE=Bill Charlap Trio - Souvenir
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Turnaround
+TTITLE1=Half Step
+TTITLE2=Souvenir
+TTITLE3=Waltz New
+TTITLE4=Confirmation
+TTITLE5=Godchild
+TTITLE6=Alone Together
+TTITLE7=Goodbye Mr. Evans
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

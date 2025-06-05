@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	121137
+#	188145
+#	249497
+#
+# Disc length: 4705 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=2c125f04
+DTITLE=Gustav Mahler - Symphonie #9
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=I:  Andante comodo
+TTITLE1=II:   Im Tempo eines gemalchlichen Landlers
+TTITLE2=III:  Rondo -- Burleske
+TTITLE3=IV:  Adagio
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

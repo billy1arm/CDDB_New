@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12300
+#	22500
+#	40800
+#	62100
+#	71700
+#	83175
+#	100800
+#	110850
+#	120300
+#
+# Disc length: 1817 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7907170a
+DTITLE=Alexis Korner - Blues Incorporated
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Woke Up This Morning
+TTITLE1=Skippin'
+TTITLE2=Herbie's Tune
+TTITLE3=Stormy Monday
+TTITLE4=It's Happening
+TTITLE5=Roberta
+TTITLE6=Jones
+TTITLE7=Cabbage Greens
+TTITLE8=Chicken Shack
+TTITLE9=Haitian Fight Song
+EXTD=ARD Line Records TACD 9.00634
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

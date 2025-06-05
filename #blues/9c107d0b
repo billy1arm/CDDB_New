@@ -1,0 +1,52 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  202
+#  14202
+#  29485
+#  56210
+#  80557
+#  105165
+#  130300
+#  150702
+#  196562
+#  216745
+#  252992
+#
+# Disc length: 4223 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=9c107d0b
+DTITLE=Fat Back Band - Fat Back Live
+DYEAR=1900
+DGENRE=
+TTITLE0=Track1 Backstrokin'
+TTITLE1=Track2 Wicky Wacky
+TTITLE2=Track3 The Girl Is Fine
+TTITLE3=Track4 Is This The Future
+TTITLE4=Track5 Let's Play Tonight
+TTITLE5=Track6 So Delicious
+TTITLE6=Track7 Spanish Hustle
+TTITLE7=Track8 Bus Stop
+TTITLE8=Track9 Let Your Body Talk
+TTITLE9=Track10 Jump Up Baby Jump Up
+TTITLE10=Track11 I Found Lovin'
+EXTD=Recorded live at the Hammersmith Odeon in London with introductions 
+EXTD=and a track my DJ Steve Walsh who sadly died in a car crash whilst o
+EXTD=n holiday in spain not long after
+EXTT0=The Fatback Band
+EXTT1=The Fatback Band
+EXTT2=The Fatback Band
+EXTT3=The Fatback Band
+EXTT4=The Fatback Band
+EXTT5=The Fatback Band
+EXTT6=The Fatback Band
+EXTT7=The Fatback Band
+EXTT8=The Fatback Band
+EXTT9=The Fatback Band
+EXTT10=The Fatback Band
+PLAYORDER=

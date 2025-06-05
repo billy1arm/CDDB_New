@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32884
+#	72645
+#	105247
+#	158475
+#	189328
+#	228563
+#	249860
+#	274466
+#
+# Disc length: 4125 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=73101b09
+DTITLE=ZOOT - Zoot
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Palourde
+TTITLE1=Hippo groove
+TTITLE2=Dragon
+TTITLE3=Babouin
+TTITLE4=Tortue
+TTITLE5=Papillon
+TTITLE6=Mulot song
+TTITLE7=Poney suite
+TTITLE8=Boa
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

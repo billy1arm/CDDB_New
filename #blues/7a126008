@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40200
+#	69883
+#	127735
+#	164978
+#	198670
+#	245628
+#	284678
+#
+# Disc length: 4706 seconds
+#
+# Revision: 19
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a126008
+DTITLE=Herbie Hancock/Michael Brecker/Roy Hargrove - Directions In Music
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=The Sorcerer
+TTITLE1=The Poet
+TTITLE2=So What/Impressions
+TTITLE3=Misstery
+TTITLE4=Naima
+TTITLE5=Transition
+TTITLE6=My Ship
+TTITLE7=D Trane
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

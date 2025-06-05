@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     24627
+#     39725
+#     60842
+#     76042
+#     98142
+#     111082
+#     145765
+# 
+# Disc length: 2172 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=59087a08
+DTITLE=Marvin Gaye - Dream Of a Lifetime
+DYEAR=1900
+DGENRE=
+TTITLE0=Sanctified Lady
+TTITLE1=Savage in the sack
+TTITLE2=Masochistic Beauty
+TTITLE3=It's Madness
+TTITLE4=Ain't it Funny(How things turn around)
+TTITLE5=Symphony
+TTITLE6=Life's Opera
+TTITLE7=Dream Of a Lifetime
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

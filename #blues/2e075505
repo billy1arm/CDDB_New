@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25346
+#	55593
+#	88697
+#	120025
+#
+# Disc length: 1879 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2e075505
+DTITLE=Various Artist - Jazz Magazine 593 - 06-2008 - Nouveautés ECM
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Norma Winstone - Distance
+TTITLE1=Marcin Wasilewski trio - King Korn
+TTITLE2=Charles Lloyd - Rabo de Nube
+TTITLE3=Mathias Eick - Stavanger
+TTITLE4=Trygve Seim/Frode Haltli - Redemption Song
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

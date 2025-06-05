@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49760
+#	82677
+#	102892
+#	113430
+#	143687
+#	175667
+#	192807
+#	234547
+#
+# Disc length: 3476 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=600d9209
+DTITLE=Manhattan Jazz Story - 2 Autumn Leaves
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Autumn Leaves - Cannonball Adderley
+TTITLE1=Song For My Father - Horace Silver
+TTITLE2=Bewitched, Bothered And Bewildered - Art Pepper
+TTITLE3=Ny Funny Valentine - Chet Baker
+TTITLE4=Blues Walk - Lou Donaldson
+TTITLE5=Candy - Lee Morgan
+TTITLE6=Memories of You - Sonny Criss
+TTITLE7=A Night of Tunisia - Art Blakey
+TTITLE8=Maiden Voyage - Bobby Hutcherson
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

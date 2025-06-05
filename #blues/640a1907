@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29455
+#	44802
+#	63550
+#	81392
+#	100597
+#	149417
+#
+# Disc length: 2587 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=640a1907
+DTITLE=Gato Barbieri - Chapter Four: Alive in New York
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Milonga Triste
+TTITLE1=La China Leoncia (Part 1)
+TTITLE2=La China Leoncia (Part 2)
+TTITLE3=La China Leoncia (Part 3)
+TTITLE4=La China Leoncia (Part 4)
+TTITLE5=Baihia
+TTITLE6=Lluvia Azul
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

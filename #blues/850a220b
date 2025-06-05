@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17092
+#     32835
+#     47582
+#     66397
+#     86420
+#     100767
+#     120162
+#     138820
+#     155742
+#     175875
+# 
+# Disc length: 2596 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=850a220b
+DTITLE=John Meyer - John Meyer
+DYEAR=1900
+DGENRE=
+TTITLE0=179 Hoedown
+TTITLE1=U Bute Duet
+TTITLE2=454 Stomp
+TTITLE3=Now What
+TTITLE4=Seen The Light
+TTITLE5=Cannibal Pipeline
+TTITLE6=Visions
+TTITLE7=Harry The Car
+TTITLE8=Overdrive
+TTITLE9=Scarborough Waltz
+TTITLE10=Not You Again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

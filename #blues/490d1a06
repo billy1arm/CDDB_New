@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	66451
+#	96167
+#	120864
+#	136126
+#	181865
+#
+# Disc length: 3356 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=490d1a06
+DTITLE=Dexter Gordon - The Complete Hamburg Concert 1974 Vol 02
+DYEAR=1974
+DGENRE=Jazz
+TTITLE0=What Kind of Blues
+TTITLE1=Guess I'll Hang My Tears Out To Dry
+TTITLE2=Saturday Night Function
+TTITLE3=Jersey Lightning
+TTITLE4=Latin Haze
+TTITLE5=It's About Time
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21717
+#	44775
+#	65600
+#	91240
+#	111822
+#	140497
+#	160972
+#
+# Disc length: 2519 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7509d508
+DTITLE=Paul Desmond - Bossa Antigua
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Bossa Antigua
+TTITLE1=Night Has A Thousand Eyes
+TTITLE2=O Gato
+TTITLE3=Samba Cantina
+TTITLE4=Curacao Doloroso
+TTITLE5=A Ship Without A Sail
+TTITLE6=Alianca
+TTITLE7=The Girl From East 9th St.
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

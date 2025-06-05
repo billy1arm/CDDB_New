@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24465
+#	43090
+#	70035
+#	91408
+#	125528
+#	144208
+#	163493
+#
+# Disc length: 2581 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6a0a1308
+DTITLE=Joe Sample - Rainbow Seeker
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=Rainbow Seeker
+TTITLE1=In All My Wildest Dreams
+TTITLE2=There Are Many Stops Along The Way
+TTITLE3=Melodies Of Love
+TTITLE4=Fly With The Wings Of Love
+TTITLE5=As Long As It Lasts
+TTITLE6=Islands In The Rain
+TTITLE7=Together We'll Find A Way
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

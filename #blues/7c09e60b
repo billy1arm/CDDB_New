@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14322
+#	37601
+#	54711
+#	68000
+#	86462
+#	102632
+#	129906
+#	145863
+#	158348
+#	173580
+#
+# Disc length: 2536 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta1
+#
+DISCID=7c09e60b
+DTITLE=Blues Helping - Love sculpture
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Stumble
+TTITLE1=3 o'clock blues
+TTITLE2=I believe to my soul
+TTITLE3=So unkind
+TTITLE4=Summertime
+TTITLE5=On the road again
+TTITLE6=Don't answer the door
+TTITLE7=Wang-dang-doodle
+TTITLE8=Come home babay
+TTITLE9=Shake your hips
+TTITLE10=Blues helping
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22880
+#	45027
+#	71722
+#	104055
+#	129850
+#	150082
+#	180000
+#
+# Disc length: 2899 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4c0b5108
+DTITLE=Parythm - A Chorus Line
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Dance:Ten:Looks:Three
+TTITLE1=Let Me Dance for You
+TTITLE2=Who am I anyway ?
+TTITLE3=Surprise, Surprise
+TTITLE4=What I did for Love
+TTITLE5=I can do that
+TTITLE6=One
+TTITLE7=I Hope I Get it
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

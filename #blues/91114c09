@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35889
+#	90284
+#	116851
+#	148574
+#	186746
+#	222116
+#	246627
+#	296423
+#
+# Disc length: 4430 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=91114c09
+DTITLE=Amir Baghiri - Autumn
+DYEAR=1997
+DGENRE=New Age
+TTITLE0=Last Heat
+TTITLE1=Flying Geese
+TTITLE2=Spooking Moor
+TTITLE3=Playing Wind
+TTITLE4=Autumn Sky
+TTITLE5=Dancing Fog
+TTITLE6=Dying Leaves
+TTITLE7=Rolling Thunder
+TTITLE8=Almost Winter
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21747
+#	40342
+#	61945
+#
+# Disc length: 1071 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=33042d04
+DTITLE=大黒摩季 - 空
+DYEAR=1997
+DGENRE=JPop
+TTITLE0=空
+TTITLE1=SLOW DOWN
+TTITLE2=空 (original karaoke)
+TTITLE3=SLOW DOWN (original karaoke)
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

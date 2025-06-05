@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	52565
+#	65410
+#	85662
+#	98557
+#	108687
+#	117985
+#	130795
+#	146705
+#	159277
+#	174182
+#
+# Disc length: 2531 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta5
+#
+DISCID=8209e10b
+DTITLE=Jimi Hendrix - Lo Mejor de...
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Red House
+TTITLE1=Go-go Shoes
+TTITLE2=Under the table (Take 1)
+TTITLE3=Under the table (Take 2)
+TTITLE4=Two in one goes
+TTITLE5=Go-go place
+TTITLE6=Wipe the sweat (Take 1)
+TTITLE7=Wipe the sweat (Take 2)
+TTITLE8=Wipe the sweat (Take 3)
+TTITLE9=Going home tomorrow
+TTITLE10=Soul food (That´s what i like)
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

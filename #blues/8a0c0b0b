@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20500
+#	46065
+#	69007
+#	109587
+#	129175
+#	147940
+#	162345
+#	180630
+#	195340
+#	220215
+#
+# Disc length: 3085 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8a0c0b0b
+DTITLE=Brian Gorrell and Shane Conaway - In the Swing of Christmas
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Frosty The Snowman
+TTITLE1=Go Tell It On The Mountain
+TTITLE2=Christmas Time Is Here
+TTITLE3=We Three Kings Of Orient Are
+TTITLE4=I'll Be Home Christmas
+TTITLE5=God Bless Ye Merry Gentlemen
+TTITLE6=Silent Night
+TTITLE7=The Christmas Waltz
+TTITLE8=What Child Is This
+TTITLE9=The Christmas Song
+TTITLE10=The First Noel
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

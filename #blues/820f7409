@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40460
+#	82677
+#	108520
+#	138467
+#	177502
+#	208065
+#	240562
+#	290025
+#
+# Disc length: 3958 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=820f7409
+DTITLE=James Moody - Moving Forward
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Autumn Leaves
+TTITLE1=Round Midnight
+TTITLE2=A Summer Afternoon
+TTITLE3=November Afternoon
+TTITLE4=Giant Steps
+TTITLE5=What Do You Do
+TTITLE6=Cupbearers
+TTITLE7=A Night Has A Thousand Eyes
+TTITLE8=Moody's Theme
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

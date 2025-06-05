@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16162
+#	44475
+#	103050
+#	135525
+#	165525
+#	219112
+#
+# Disc length: 3412 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=530d5207
+DTITLE=Aardvark Jazz Orchestra - Duke Ellington/Sacred Music
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=A Song For Christmas (aka Christmas Surprise)
+TTITLE1=Heaven
+TTITLE2=The Shepherd
+TTITLE3=The Black Kings (mvt 1)
+TTITLE4=David Danced
+TTITLE5=Itis Freedom (mvts 7,4,6,1,7)
+TTITLE6=Praise God And Dance
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	55523
+#	111356
+#	167462
+#
+# Disc length: 2927 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=270b6d04
+DTITLE=Llewellyn - Cristal Angels
+DYEAR=2005
+DGENRE=New Age
+TTITLE0=Archangel Michael 
+TTITLE1=Archangel Gabriel 
+TTITLE2=Archangel Ariel
+TTITLE3=Archangel Raphael
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

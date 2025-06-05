@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40660
+#	81460
+#	143975
+#	209477
+#
+# Disc length: 3312 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=450cee05
+DTITLE=Dexter Gordon - Live! at The Jazzhus Montmartre
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=I Should Care
+TTITLE1=Darn That Dream
+TTITLE2=Now's The Time
+TTITLE3=Satin Doll
+TTITLE4=What's New
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

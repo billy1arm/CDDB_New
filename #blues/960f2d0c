@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15154
+#	41921
+#	62340
+#	84302
+#	98756
+#	119347
+#	142180
+#	164166
+#	188362
+#	217871
+#	248051
+#
+# Disc length: 3887 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=960f2d0c
+DTITLE=Bill Evans - Waltz For Debby [Box Set] [CD 3)
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Come Rain Or Come Shine
+TTITLE1=Autumn Leaves
+TTITLE2=Witchcraft
+TTITLE3=When I Fall In Love
+TTITLE4=Peri's Scope
+TTITLE5=What Is This Thing Called Love
+TTITLE6=Spring Is Here
+TTITLE7=Someday My Prince Will Come
+TTITLE8=Blue Is Green
+TTITLE9=Stratusphunk (with Hal McKusick)
+TTITLE10=Atonal Ad Lib Blues For Stefan Wolpe (with Tony Scott)
+TTITLE11=People Will Say We're In Love (with Cannonball Adderley)
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22480
+#	41032
+#	51695
+#	74342
+#	89866
+#	109135
+#	128203
+#	143940
+#	152503
+#
+# Disc length: 2392 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9f09560a
+DTITLE=Eric Burdon Band - The Comeback Soundtrack
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=No more Elmore
+TTITLE1=The Road
+TTITLE2=Crawling King Snake
+TTITLE3=Take it easy
+TTITLE4=Dev won't
+TTITLE5=Wall of Silence
+TTITLE6=Streewalker
+TTITLE7=It hurts me too
+TTITLE8=Light's out
+TTITLE9=Bird on the Beach
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2470
+#	44440
+#	74575
+#	102797
+#	135295
+#	179955
+#	235667
+#	284202
+#
+# Disc length: 4306 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8010d009
+DTITLE=Kenny Neal - kenny neal live
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=intro kenny neal live
+TTITLE1=i am ready
+TTITLE2=things i used to do
+TTITLE3=blues stew
+TTITLE4=what you got
+TTITLE5=any fool will do
+TTITLE6=baby bee
+TTITLE7=evalina
+TTITLE8=blues falling down like rain
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

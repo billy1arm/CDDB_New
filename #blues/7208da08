@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15610
+#	44847
+#	67875
+#	88050
+#	102157
+#	123990
+#	149882
+#
+# Disc length: 2268 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=7208da08
+DTITLE=Chamber Jazz Sextet - Plays Pal Joey
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=ZIP
+TTITLE1=I Could Write A Book
+TTITLE2=There's A Small Hotel
+TTITLE3=My Funny Valentine
+TTITLE4=The Lady Is A Tramp
+TTITLE5=Bewitched
+TTITLE6=Terrific Rainbow
+TTITLE7=I Didn't Know What Time It Was
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

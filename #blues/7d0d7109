@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49970
+#	71527
+#	114402
+#	127825
+#	179235
+#	199009
+#	212395
+#	242525
+#
+# Disc length: 3443 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7d0d7109
+DTITLE=Perelman, Ivo - Geometry
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=geometry
+TTITLE1=linear passion
+TTITLE2=parallelism
+TTITLE3=cavaguinto, take 1
+TTITLE4=cubic rotation
+TTITLE5=equal angles
+TTITLE6=sonoc angles
+TTITLE7=subspaces
+TTITLE8=cavaquinho, take 2
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

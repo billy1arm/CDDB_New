@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	1513
+#	21051
+#	21598
+#	45511
+#	68111
+#	90964
+#	129639
+#	168625
+#	181261
+#	199188
+#
+# Disc length: 2959 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=830b8d0b
+DTITLE=The Headless roosters - Fatima
+DYEAR=1900
+DGENRE=
+TTITLE0=Traveler
+TTITLE1=I want you to know
+TTITLE2=Rainbow
+TTITLE3=Skid row
+TTITLE4=Left emo
+TTITLE5=Train of life
+TTITLE6=Voodoo sessions
+TTITLE7=Fatima
+TTITLE8=The Hatchling
+TTITLE9=Axis: Bold as love
+TTITLE10=I go to sleep
+EXTD=HTTP://www.wirehub.nl/~acdhirr/Headless/headtest3.htm\nste
+EXTD=mra no. 98030
+EXTT0=
+EXTT1=The headless Roosters (THR)
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

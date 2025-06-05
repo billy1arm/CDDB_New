@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21410
+#	41998
+#
+# Disc length: 840 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=24034603
+DTITLE=Keno - おはよう。
+DYEAR=2000
+DGENRE=Anime
+TTITLE0=おはよう。
+TTITLE1=Monkey's Banquet
+TTITLE2=おはよう。(カラオケ)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

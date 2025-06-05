@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29709
+#	59435
+#	106845
+#	142131
+#	171147
+#	201532
+#
+# Disc length: 3150 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6c0c4c07
+DTITLE=Firehouse - Live at Glenn Miller Cafe
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Cyklone Song
+TTITLE1=Slow Gow
+TTITLE2=Nothing Too Eccentric
+TTITLE3=Sing Song
+TTITLE4=Bright Lights, Clean Fights
+TTITLE5=Inner Place, Outer Space
+TTITLE6=What I Say
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

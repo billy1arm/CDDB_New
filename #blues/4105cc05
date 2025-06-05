@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27625
+#	43739
+#	70385
+#	93281
+#
+# Disc length: 1486 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4105cc05
+DTITLE=at the drive-in - invalid letter dept.
+DYEAR=2001
+DGENRE=Alternative
+TTITLE0=invalid letter dept.
+TTITLE1=initiation
+TTITLE2=quarantined
+TTITLE3=take up thy stethoscope and walk
+TTITLE4=metronome arthritis
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

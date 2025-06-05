@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46634
+#	95566
+#	129867
+#	180515
+#	222702
+#	261487
+#	307037
+#
+# Disc length: 4566 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7011d408
+DTITLE=Dan Gibsons Solitudes - America's Great National Parks
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=American Sunrise (Acadia National Park)
+TTITLE1=Southern Charm (Great Smoky Mountains National Park)
+TTITLE2=Mysterious Beauty (Everglades National Park)
+TTITLE3=Where It All Began (Yellowstone National Park)
+TTITLE4=Earth's Cathedral (Grand Canyon National Park)
+TTITLE5=Standing Proud (Yosemite National Park)
+TTITLE6=Reverence (Olympic National Park)
+TTITLE7=Northern Spirit (Denali National Park)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

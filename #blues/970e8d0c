@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     24055
+#     45450
+#     66190
+#     88635
+#     106820
+#     133990
+#     152565
+#     185388
+#     203935
+#     218532
+#     258857
+# 
+# Disc length: 3727 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=970e8d0c
+DTITLE=BB King - Blues Summit
+DYEAR=1900
+DGENRE=
+TTITLE0=Playin' With My Friends
+TTITLE1=Since I Met You Baby
+TTITLE2=I Pity The Fool
+TTITLE3=You Shook
+TTITLE4=Something You Got
+TTITLE5=There's Something On Your Mind
+TTITLE6=Little By Little
+TTITLE7=Call It Stormy Monday
+TTITLE8=You're The Boss
+TTITLE9=We're Gonna Make It
+TTITLE10=Her [I Gotta Move Out Of This Neighborhood]
+TTITLE11=Everybody's Had The Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

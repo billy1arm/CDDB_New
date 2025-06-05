@@ -1,0 +1,35 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21010
+#	34853
+#	45920
+#	62987
+#	76037
+#
+# Disc length: 1186 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid 2001.05.15.01
+#
+DISCID=3c04a006
+DTITLE=BLUESPOWER.  - another christmas
+DYEAR=1900
+DGENRE=
+TTITLE0=Share christmas
+TTITLE1=White christmas
+TTITLE2=Boogie woogie st. claus
+TTITLE3=Four little lights
+TTITLE4=Merry christmas
+TTITLE5=Run Rupolph run
+EXTD=WebSite: www.bluespower-bs.de\nproduced by lola planet musikproduktion 10
+EXTD=2002\nBest.-Nr. 6-10-1910 CB \n
+EXTT0=artist:  Köster/Moritz 
+EXTT1=Irving Berlin
+EXTT2=Charles Brown
+EXTT3=Neundrof/Friedrich
+EXTT4=artist: Köster/Moritz
+EXTT5=J.Marks/M.Brodie
+PLAYORDER=

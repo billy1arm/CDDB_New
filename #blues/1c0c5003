@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10290
+#	115941
+#
+# Disc length: 3154 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1c0c5003
+DTITLE=Miles Davis - Live - Evil 2
+DYEAR=1971
+DGENRE=Jazz
+TTITLE0=Selim
+TTITLE1=Funky Tonk
+TTITLE2=Inamorata And Narration by Conrad Roberts
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

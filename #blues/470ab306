@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49140
+#	81182
+#	104787
+#	153702
+#	172700
+#
+# Disc length: 2741 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=470ab306
+DTITLE=pocket JAZZ - Jam Session Vol. 2
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Davis, Miles - Oleo
+TTITLE1=The Newport Jazz Festival "House" Band - Sweet Georgia Brown
+TTITLE2=Terry, Clark - Howard McBride - Chasin' At Newport
+TTITLE3=The Newport Jazz Festival "House" Band - Undecided
+TTITLE4=Hawkins, Coleman - These Foolish Things
+TTITLE5=Brubeck, Dave - Like Someone In Love
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

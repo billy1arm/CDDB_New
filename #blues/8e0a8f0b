@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18930
+#	37360
+#	49685
+#	70165
+#	84220
+#	107972
+#	121755
+#	139980
+#	151857
+#	168545
+#
+# Disc length: 2705 seconds
+#
+# Revision: 24
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.99.1
+#
+DISCID=8e0a8f0b
+DTITLE=Mike Oldfield - The Millennium Bell
+DYEAR=1999
+DGENRE=Ambient
+TTITLE0=Peace On Earth
+TTITLE1=Pacha Mama
+TTITLE2=Santa Maria
+TTITLE3=Sunlight Shining Through Cloud
+TTITLE4=The Doge's Palace
+TTITLE5=Lake Constance
+TTITLE6=Mastermind
+TTITLE7=Broad Sunlit Uplands
+TTITLE8=Liberation
+TTITLE9=Amber Light
+TTITLE10=The Millennium Bell
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

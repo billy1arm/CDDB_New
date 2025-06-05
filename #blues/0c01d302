@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17675
+# 
+# Disc length: 469 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=0c01d302
+DTITLE=Anita Meyer - Het spijt me
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Het spijt me
+TTITLE1=Het spijt me (Instrumentaal)
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

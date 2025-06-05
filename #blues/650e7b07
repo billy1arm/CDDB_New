@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	85875
+#	123600
+#	157200
+#	187725
+#	223800
+#	245100
+#
+# Disc length: 3709 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=650e7b07
+DTITLE=Orpheus Chamber Orchestra - Europian Music Express
+DYEAR=1991
+DGENRE=Classical
+TTITLE0=Wagner, Richard - Siegried-Idyll
+TTITLE1=Turina, Joaquin - The Torero's Prayer
+TTITLE2=Wolf, Hugo - Italian Serenade in G major for Small Orchestra
+TTITLE3=Puccini, Giacomo - Chrysanthemums
+TTITLE4=Berlioz, Hector - Reverie et Caprice. Romance op. 8
+TTITLE5=Sibelius, Jean - Valse triste op. 44
+TTITLE6=Dvorak, Antonin - Nocturne in B mafor for string orchestra
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

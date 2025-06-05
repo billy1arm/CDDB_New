@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	25239
+#	43928
+#	75223
+#	108101
+#	135745
+#	195343
+#
+# Disc length: 2910 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4c0b5b07
+DTITLE=Michael Garrick Trio - Cold Mountain
+DYEAR=1972
+DGENRE=Jazz
+TTITLE0=Proclamation
+TTITLE1=First Born
+TTITLE2=Prayer
+TTITLE3=Annunciation
+TTITLE4=Thanksgiving Dance
+TTITLE5=Cold Mountain
+TTITLE6=Miranda Sleeping
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

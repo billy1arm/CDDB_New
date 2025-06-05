@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32875
+#	63327
+#	94827
+#	131125
+#	159962
+#	196395
+#	230057
+#
+# Disc length: 3612 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=6b0e1a08
+DTITLE=Kenny Davern - Smiles
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Palesteena
+TTITLE1=Sweet Lorraine
+TTITLE2=Bernie's Tune
+TTITLE3=Summertime
+TTITLE4=That Da Da Strain
+TTITLE5=Apex Blues
+TTITLE6=I Must Have That Man
+TTITLE7=Smiles
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

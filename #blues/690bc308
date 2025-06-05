@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	21382
+#	59302
+#	79962
+#	109337
+#	132077
+#	159602
+#	184015
+#
+# Disc length: 3013 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=690bc308
+DTITLE=Bill Bruford's Earthworks - All Heaven Broke Loose
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Hotel Splendour
+TTITLE1=Forget-Me-Not
+TTITLE2=Candles Still Flicker In Romania's Dark
+TTITLE3=Pigalle
+TTITLE4=Temple Of The Winds
+TTITLE5=Nerve
+TTITLE6=Splashing Out
+TTITLE7=All Heaven Broke Loose
+EXTD=YEAR: 1991
+EXTT0=D. Bates, B. Bruford, I. Ballamy
+EXTT1=D. Bates, B. Bruford, I. Ballamy
+EXTT2=D. Bates
+EXTT3=D. Bates, B. Bruford
+EXTT4=B. Bruford, I. Ballamy,T. Harries
+EXTT5=I. Ballamy, D. Bates, B. Bruford
+EXTT6=I. Ballamy, D. Bates
+EXTT7=I. Ballamy, B. Bruford - D. Bates, I. Ballamy
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36725
+#	69600
+#	115575
+#	149025
+#	189375
+#	263700
+#	267900
+#	316200
+#
+# Disc length: 4590 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8911ec09
+DTITLE=Miles Davis - Paris, Sindenfilgen 1967
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=Round About Midnight
+TTITLE1=Mascaler
+TTITLE2=I Fall In Love Too Easily
+TTITLE3=Riot
+TTITLE4=Walkin'
+TTITLE5=On Green Dolphin Street
+TTITLE6=Theme
+TTITLE7=Autumn Leaves
+TTITLE8=Oleo
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

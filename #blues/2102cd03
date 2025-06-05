@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17931
+#	36375
+#
+# Disc length: 719 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2102cd03
+DTITLE=WIR - 96 Shalala
+DYEAR=2007
+DGENRE=Unknown
+TTITLE0=96 Shalala (Singelmix)
+TTITLE1=96 Shalala (Hihat42Remix)
+TTITLE2=96 Shalala (Egosystem Electromix)
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

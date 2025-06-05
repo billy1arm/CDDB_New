@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	22345
+#	42522
+#	63925
+#	83732
+#	108120
+#	128037
+#	149617
+#
+# Disc length: 2377 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=6d094708
+DTITLE=Ismael Miranda - The Master
+DYEAR=1983
+DGENRE=Salsa
+TTITLE0=Asi Es La Gente
+TTITLE1=Tus Flores Negras
+TTITLE2=Cuando Un Cantor Esta Preso
+TTITLE3=Ayer
+TTITLE4=Tan Solo Un Ratito
+TTITLE5=Idolatria
+TTITLE6=Antonico
+TTITLE7=Amigo El Viento
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

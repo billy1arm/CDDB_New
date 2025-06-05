@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38176
+#	86312
+#	132123
+#	167085
+#	214127
+#	230870
+#	260629
+#
+# Disc length: 3964 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=6c0f7a08
+DTITLE=Hubert Winter Quartett - Saga Lydis
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Ring Park West
+TTITLE1=Patience
+TTITLE2=Alone together
+TTITLE3=Saga Lydis
+TTITLE4=Leaving
+TTITLE5=Spomoflex
+TTITLE6=Gulab Jamun
+TTITLE7=Marlton House #408
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

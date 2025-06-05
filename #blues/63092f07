@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31078
+#	64852
+#	89818
+#	114714
+#	136962
+#	157281
+#
+# Disc length: 2353 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=63092f07
+DTITLE=The Dave Brubeck Quartet - Time Out
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=Blue Rondo A La Turk
+TTITLE1=Strange Meadow Lark
+TTITLE2=Take Five
+TTITLE3=Three To Get Ready
+TTITLE4=Kathy's Waltz
+TTITLE5=Everybody's Jumpin'
+TTITLE6=Pick Up Sticks
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17787
+#	43444
+#	53319
+#	75822
+#	98933
+#	126910
+#	155408
+#	178951
+#	208925
+#	218351
+#	242918
+#
+# Disc length: 3725 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9e0e8b0c
+DTITLE=Off The Sky - Gently Down the Stream
+DYEAR=2005
+DGENRE=Ambient
+TTITLE0=Adagio, á Deux
+TTITLE1=Down the Stream
+TTITLE2=Agonic Drift
+TTITLE3=Low Tide
+TTITLE4=Channel Movement
+TTITLE5=Floating Point
+TTITLE6=Ahurani
+TTITLE7=Gyre of Time
+TTITLE8=Red Tides
+TTITLE9=Lite Raining
+TTITLE10=Under Current
+TTITLE11=Ebb and Flow
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

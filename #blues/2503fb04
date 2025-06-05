@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18255
+#	38535
+#	56627
+#
+# Disc length: 1021 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2503fb04
+DTITLE=佐藤裕美 YURIA - グリーングリーン OP1 Guri Guri [佐藤裕美] ED 青空 [YURIA]
+DYEAR=2003
+DGENRE=Anime
+TTITLE0=Guri Guri [佐藤裕美][グリーングリーン OP1]
+TTITLE1=青空 [YURIA][グリーングリーン ED1]
+TTITLE2=Guri Guri (カラオケ) [佐藤裕美]
+TTITLE3=青空 (カラオケ) [YURIA]
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

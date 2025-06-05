@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46055
+#	99752
+#	138360
+#	195987
+#	238100
+#	278710
+#
+# Disc length: 4293 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=5110c307
+DTITLE=Lew Tabackin - Live at Vartan Jazz
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Bemsha Swing
+TTITLE1=Ask Me Now
+TTITLE2=Cotton Tail
+TTITLE3=Pyramid
+TTITLE4=Blue Monk
+TTITLE5=Chelsea Bridge
+TTITLE6=Hackensack
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

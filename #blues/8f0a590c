@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14367
+#     35107
+#     53517
+#     68492
+#     84947
+#     100957
+#     123517
+#     144162
+#     157662
+#     170107
+#     182565
+# 
+# Disc length: 2651 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8f0a590c
+DTITLE=Carole King - Writer
+DYEAR=1900
+DGENRE=
+TTITLE0=Spaceship Races
+TTITLE1=No Easy Way Down
+TTITLE2=Child Of Mine
+TTITLE3=Goin' Back
+TTITLE4=To Love
+TTITLE5=What Have You Got To Lose
+TTITLE6=Eventually
+TTITLE7=Raspberry Jam
+TTITLE8=Can't You Be Real
+TTITLE9=I Can't Hear You No More
+TTITLE10=Sweet Sweetheart
+TTITLE11=Up On The Roof
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

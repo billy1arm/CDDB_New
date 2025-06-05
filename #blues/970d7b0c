@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22034
+#	41518
+#	61981
+#	76402
+#	103744
+#	128276
+#	148271
+#	168052
+#	185410
+#	219783
+#	236526
+#
+# Disc length: 3453 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=970d7b0c
+DTITLE=BB King - Non spécifié
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Piste audio 01
+TTITLE1=Piste audio 02
+TTITLE2=Piste audio 03
+TTITLE3=Piste audio 04
+TTITLE4=Piste audio 05
+TTITLE5=Piste audio 06
+TTITLE6=Piste audio 07
+TTITLE7=Piste audio 08
+TTITLE8=Piste audio 09
+TTITLE9=Piste audio 10
+TTITLE10=Piste audio 11
+TTITLE11=Piste audio 12
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48587
+#	98017
+#	141660
+#	178112
+#	243752
+#
+# Disc length: 3691 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=500e6906
+DTITLE=Orchestre national de Jazz, didier Levallet - ONJ express
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=rue de charenton
+TTITLE1=quelques moments d'égarement
+TTITLE2=aléas
+TTITLE3=équinoxe d'automne
+TTITLE4=O.N.J. express
+TTITLE5=out of
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

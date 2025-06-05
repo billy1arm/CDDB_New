@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	21017
+#	33657
+#	51327
+#	68102
+#	84407
+#	100035
+#	116655
+#	138355
+#	160255
+#	177392
+#	191697
+#	207592
+#	220027
+#	237320
+#	252470
+#	273195
+#	291147
+#	308292
+#	320800
+#
+# Disc length: 4492 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=25118a14
+DTITLE=Various Artist - Walking On Sunshine
+DYEAR=1994
+DGENRE=Pop
+TTITLE0=ELO/Shine A Little Love
+TTITLE1=Los Lobos/La Bamba
+TTITLE2=Yazz/The Only Way Is Up
+TTITLE3=Level 42/Something About You
+TTITLE4=Debbie Harry/I Want That Man
+TTITLE5=Bananarama/Robert De Niro's Waiting
+TTITLE6=Pseudo Echo/Funkytown
+TTITLE7=Black/Wonderful Life
+TTITLE8=Starship/We Built This City
+TTITLE9=Rupert Holmes/Escape (the Pina Coloda Song)
+TTITLE10=Bangles/Walking Down Your Street
+TTITLE11=The Weather Girls/Its Raining Men
+TTITLE12=Shakin Stevens/You drive me crazy
+TTITLE13=Alvin Stardust/I Feel Like Buddy Holly
+TTITLE14=Musical Youth/Pass the Dutchie
+TTITLE15=Wang Chung/Dance Hall Days
+TTITLE16=Jim Diamond/Hi Ho Silver
+TTITLE17=Latin Quarter/Radio Africa
+TTITLE18=Kids from Fame/Hi-Fidelity
+TTITLE19=Bros/I Owe You Nothing
+EXTD=YEAR: 1994 ID3G: 13
+EXTT0=ELO
+EXTT1=Los Lobos
+EXTT2=Yazz
+EXTT3=Level 42
+EXTT4=Debby Harry
+EXTT5=Bananarama
+EXTT6=Pseudo Echo
+EXTT7=Black
+EXTT8=Starship
+EXTT9=Rupert Holmes
+EXTT10=Bangles
+EXTT11=Weather Girls
+EXTT12=Shakin' Stevens
+EXTT13=Alvin Stardust
+EXTT14=Musical Youth
+EXTT15=Wang Chung
+EXTT16=Jim Diamond
+EXTT17=Latin Quarter
+EXTT18=Kids from Fame
+EXTT19=Bros
+PLAYORDER=

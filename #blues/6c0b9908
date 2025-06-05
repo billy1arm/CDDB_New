@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21970
+#	52465
+#	73057
+#	121945
+#	138150
+#	168072
+#	181845
+#
+# Disc length: 2971 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta3
+#
+DISCID=6c0b9908
+DTITLE=Jacques Loussier - Play Bach Today
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Prelude N.1 En Do Majeur
+TTITLE1=Pastrale En Do Mineur
+TTITLE2=Choral, Jesus Que Ma Joie Demeure
+TTITLE3=Toccata Et Fugue En Re Mineur
+TTITLE4=Aria (Extrait De La Suite En Re)
+TTITLE5=Prelude N.2 En Do Mineur
+TTITLE6=Choral N.1 En Mi Bemol
+TTITLE7=Concerto Brandebourgeois N.5 En Re Majeur, Allegro Finale
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

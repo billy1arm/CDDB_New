@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13415
+#	28585
+#	42417
+#	59525
+#	72974
+#	87387
+#	101975
+#	115211
+#	127376
+#	139369
+#	158780
+#	176488
+#	188402
+#	201271
+#	219883
+#	232060
+#	246132
+#	259590
+#	275965
+#
+# Disc length: 3840 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=390efe14
+DTITLE=Various Artist - The Best Of Boogie Woogie - CD 10
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Honey Hill - The Boogie Woogie
+TTITLE1=Pete Johnson - Shuffle Boogie
+TTITLE2=Art Hodes - South Side Shuffle
+TTITLE3=Albert Ammons - Mecca Flat Blues
+TTITLE4=Bob Zurke - Gin Mill Blues
+TTITLE5=Freddie Slack - Down the Road
+TTITLE6=Albert Ammons - Woo Woo
+TTITLE7=Pete Johnson and Harry James - Boo Woo Woo
+TTITLE8=Oscar Peterson - Oscar's Boogie
+TTITLE9=Ralph Sutton - Boogie Joys
+TTITLE10=Eddie Heywood - At the Downtown Caf
+TTITLE11=Albert Ammons - Jammin' the Boogie
+TTITLE12=Joe Sullivan - Boogie Woogie Maxixe
+TTITLE13=Louis Jordan - Choo Choo Ch'boogie
+TTITLE14=Clifton Jackson and His Village Cats - Cliff's Boogie Blues
+TTITLE15=Beverley White - If Things Don't Get Better
+TTITLE16=Laverne Holt - Mister Black Man
+TTITLE17=Deryck Sampson - Boogie Express
+TTITLE18=Lizzie Baker - It Was So Good
+TTITLE19=Beverley White - Don't Stop Now
+EXTD=YEAR: 2003
+EXTT0=(Hill)
+EXTT1=(Johnson)
+EXTT2=(Hodes)
+EXTT3=(Ammons)
+EXTT4=(Zurke)
+EXTT5=(Slack)
+EXTT6=(Ammons)
+EXTT7=(James/Johnson)
+EXTT8=(Peterson)
+EXTT9=(Sutton)
+EXTT10=(Heywood)
+EXTT11=(Ammons)
+EXTT12=(Sullivan)
+EXTT13=(Jordan)
+EXTT14=(Jackson)
+EXTT15=(White)
+EXTT16=(Holt)
+EXTT17=(Sampson)
+EXTT18=(Baker)
+EXTT19=(White)
+PLAYORDER=

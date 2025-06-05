@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14440
+#	32912
+#	46505
+#	61050
+#	75297
+#	88735
+#	101937
+#	111327
+#	123587
+#	138010
+#
+# Disc length: 2014 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8507dc0b
+DTITLE=Mamba - Syksy
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Viimeinen tanssi
+TTITLE1=Tutustutaan
+TTITLE2=Koska lähdet taas
+TTITLE3=Hyvästi
+TTITLE4=Aamuyö
+TTITLE5=Wiklundin parempi jatsi
+TTITLE6=Viime viikonloppuna
+TTITLE7=Yhdessä
+TTITLE8=Kohta han on poissa (sinun tyttösi)
+TTITLE9=Kun en tuntenut sua
+TTITLE10=Kuopiossa
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

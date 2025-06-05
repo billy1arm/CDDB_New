@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	14515
+#	42705
+#	71570
+#	82617
+#	94955
+#	124647
+#	140190
+#
+# Disc length: 2047 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=6d07fd08
+DTITLE=Roy Buchanan - Second Album
+DYEAR=1973
+DGENRE=Rock
+TTITLE0=Filthy Teddy
+TTITLE1=After Hours
+TTITLE2=Five String Blues
+TTITLE3=Thank You Lord
+TTITLE4=Treat Her Right
+TTITLE5=I Won't Tell You No Lies
+TTITLE6=Tribute To Elmore James
+TTITLE7=She Once Lived Here
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

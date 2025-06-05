@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     212
+#     20907
+#     42747
+#     63222
+#     85777
+#     109215
+#     132332
+#     154967
+#     178275
+#     200702
+#     217840
+# 
+# Disc length: 3200 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a50c7e0b
+DTITLE=Gerald Austin - 1ST Class Only
+DYEAR=1900
+DGENRE=
+TTITLE0=Tell Me
+TTITLE1=Nothin Better
+TTITLE2=I'm Going Crazy
+TTITLE3=I Believe
+TTITLE4=Stay The Night
+TTITLE5=Mirror Mirror
+TTITLE6=The Best Is Yet To Come
+TTITLE7=Devote All My Time
+TTITLE8=Just Say Yes Tonight
+TTITLE9=Kiss And Say Goodbye
+TTITLE10=Willin To Be Thrillin
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

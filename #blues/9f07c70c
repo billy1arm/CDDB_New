@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11712
+#	21662
+#	33175
+#	45925
+#	57850
+#	71325
+#	83650
+#	96525
+#	111787
+#	124475
+#	138337
+#
+# Disc length: 1993 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=9f07c70c
+DTITLE=Stan Getz - The Sound
+DYEAR=1951
+DGENRE=Jazz
+TTITLE0=Strike Up The Band
+TTITLE1=Tootsie Roll
+TTITLE2=Sweetie Pie
+TTITLE3=Yesterdays
+TTITLE4=Hershey Bar
+TTITLE5=Gone With The Wind
+TTITLE6=Standanavian
+TTITLE7=Prelude To A Kiss
+TTITLE8=I Only Have Eyes For You
+TTITLE9=Dear Old Stockholm
+TTITLE10=Night And Day
+TTITLE11=I'm Getting Sentimental Over You
+EXTD=YEAR: 1951
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

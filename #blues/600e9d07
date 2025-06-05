@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	62420
+#	103700
+#	131325
+#	183427
+#	224757
+#	243295
+#
+# Disc length: 3743 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=600e9d07
+DTITLE=Mozart - Symphony No.38 No.39 - H.Bromschtedt - Dresden Schtadtscapelle
+DYEAR=1988
+DGENRE=Classical
+TTITLE0=I Adagio - Allegro
+TTITLE1=II:Andante
+TTITLE2=III:Finale:Presto
+TTITLE3=I:Adagio-Allegro
+TTITLE4=II:Andante
+TTITLE5=III:Munuetto:Allegretto
+TTITLE6=IV:Allegro
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

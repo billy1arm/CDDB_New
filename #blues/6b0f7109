@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30068
+#	57653
+#	83475
+#	113191
+#	170437
+#	201526
+#	226770
+#	273856
+#
+# Disc length: 3955 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6b0f7109
+DTITLE=Phil Collins - A Hot Night In Paris
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Hold On  My Heart
+TTITLE1=I Don't Care  Anymore
+TTITLE2=Invisible Touch
+TTITLE3=Milestone
+TTITLE4=Pick Up The Pieces
+TTITLE5=Sussudio
+TTITLE6=That's All
+TTITLE7=The Los Endos Suite
+TTITLE8=Against All Odds
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

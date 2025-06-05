@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23106
+#	32616
+#	50028
+#	63729
+#	79605
+#	89339
+#	109723
+#	137499
+#	149039
+#
+# Disc length: 2295 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8908f50a
+DTITLE=Vangelis - Musique au coeur
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Musique au coeur (Partie I)
+TTITLE1=Medea
+TTITLE2=Antigone
+TTITLE3=Lunaire
+TTITLE4=Exemples
+TTITLE5=Contemporain
+TTITLE6=Renaissance
+TTITLE7=La Boutique
+TTITLE8=Sauvage
+TTITLE9=Musique au Coeur (Partie II)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

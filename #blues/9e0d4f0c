@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23352
+#	38377
+#	62795
+#	83790
+#	108020
+#	125930
+#	146370
+#	170905
+#	191107
+#	214592
+#	234590
+#
+# Disc length: 3409 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9e0d4f0c
+DTITLE=Nirodh  Fortini - I Suoni Dello Zodiaco
+DYEAR=1998
+DGENRE=New Age
+TTITLE0=Toro
+TTITLE1=Capricorno
+TTITLE2=Vergine
+TTITLE3=Cancro
+TTITLE4=Scorpione
+TTITLE5=Pesci
+TTITLE6=Ariete
+TTITLE7=Leone
+TTITLE8=Sagittario
+TTITLE9=Gemelli
+TTITLE10=Bilancia
+TTITLE11=Acquario
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

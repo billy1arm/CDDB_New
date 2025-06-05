@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15770
+#     32820
+#     54537
+#     67902
+#     76942
+#     97340
+#     117315
+#     133815
+#     148460
+#     165900
+#     180842
+# 
+# Disc length: 2648 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=990a560c
+DTITLE=Jo o De Almeida Neto - Palavra De Cantor
+DYEAR=1900
+DGENRE=
+TTITLE0=Palavra De Cantor
+TTITLE1=As Raz es Do Boca Braba
+TTITLE2=Minha Est ria
+TTITLE3=O P o Do Canto
+TTITLE4=Tran a De China
+TTITLE5=Vaneir o Do Boa Vida
+TTITLE6=Cantar Absinto
+TTITLE7=O Pingo E A Pinga
+TTITLE8=Homen Feio E Sem Coragem N o Possui Mulher Bonita
+TTITLE9=Luz E Esplendor
+TTITLE10=Correteando A Tristeza
+TTITLE11=Milonga Da Coragem
+EXTD=
+EXTT0=(Jo o De Almeida Neto)-Direto
+EXTT1=(Jo o De Almeida Neto)-Direto
+EXTT2=(Jo o De Almeida Neto)-Direto
+EXTT3=(Appar cio Silva Rillo-Jo o De Almeida Neto)-Direto
+EXTT4=(Gildo De Freitas)-Direto
+EXTT5=(Jos  Luis Vilalle-Jo o De Almeida Neto)-Direto
+EXTT6=(Vin cius Brum)-Direto
+EXTT7=(Paulo Brasil Gomes De Sampaio Sampaulo \nJo o De Almeida Neto)-Direto
+EXTT8=(Gildo De Freitas)-Direto
+EXTT9=(Walter Queir s)-Wagner Chappell
+EXTT10=(Fazendo Amifos) (Ga cho Da Fronteira-Jo o De Almeida Neto)-\nWagner 
+EXTT10=Chappell\nJo o De Almeida Neto e Ga cho Da Fronteira
+EXTT11=(Dilan Camargo-Lenin Nu es-Jo o C. Bernardi)-Direto
+PLAYORDER=

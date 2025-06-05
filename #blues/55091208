@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13638
+#	39396
+#	57273
+#	79831
+#	98478
+#	125483
+#	154587
+#
+# Disc length: 2324 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=55091208
+DTITLE=Susan Sinner - for now...for later
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=close your eyes
+TTITLE1=i'm glad there is you
+TTITLE2=september in the rain
+TTITLE3=never let me go
+TTITLE4=when lights are low
+TTITLE5=save your love for me
+TTITLE6=once upon a time
+TTITLE7=some other time
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

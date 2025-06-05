@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39230
+#	65642
+#	90225
+#	122592
+#	140692
+#	173635
+#	192115
+#
+# Disc length: 2906 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=620b5808
+DTITLE=Chris Glassfield - Wintertime
+DYEAR=1996
+DGENRE=New Age
+TTITLE0=Dance of the Snowflakes
+TTITLE1=Thru the Frosted Forest
+TTITLE2=Beyond the Winter Wind
+TTITLE3=Empty Shores
+TTITLE4=Remenbering
+TTITLE5=Icicles are Melting
+TTITLE6=Escape to the Sun
+TTITLE7=Dream in a Comfy Chair
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

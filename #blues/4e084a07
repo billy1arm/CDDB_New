@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	47598
+#	72890
+#	85008
+#	98023
+#	109088
+#	120565
+#
+# Disc length: 2124 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=4e084a07
+DTITLE=The Blues Project - Live At Town Hall
+DYEAR=1900
+DGENRE=
+TTITLE0=Flute Thing
+TTITLE1=I Can't Keep From Cryin'
+TTITLE2=Mean Old Southern
+TTITLE3=No Time Like The Right Time
+TTITLE4=Love WIll Endure
+TTITLE5=Where There's Smoke There's Fire
+TTITLE6=Wake Me Shake Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

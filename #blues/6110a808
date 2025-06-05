@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35255
+#	100165
+#	145037
+#	167145
+#	197420
+#	244790
+#	277880
+#
+# Disc length: 4266 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6110a808
+DTITLE=Omer Avital Quintet - Live At Smalls
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Theme For A Brighter Future
+TTITLE1=Magic Carpet
+TTITLE2=One
+TTITLE3=Bass Intro
+TTITLE4=Anthem To Life
+TTITLE5=Blues For Tardy
+TTITLE6=D-Bass
+TTITLE7=(...Just Some) Small Time Shit
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

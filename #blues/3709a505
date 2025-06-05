@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39026
+#	70342
+#	100058
+#	137624
+#
+# Disc length: 2471 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3709a505
+DTITLE=Weather Report - Paris Live 1980 vol.1
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=River People
+TTITLE1=Fast City
+TTITLE2=Three Views Of A Secret
+TTITLE3=Port Of Entry
+TTITLE4=Black Market
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

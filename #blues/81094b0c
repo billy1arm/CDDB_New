@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15043
+#	31543
+#	42180
+#	55343
+#	75990
+#	89185
+#	105193
+#	117780
+#	129143
+#	143685
+#	162675
+#
+# Disc length: 2381 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.67 - http://www.feurio.com
+#
+DISCID=81094b0c
+DTITLE=Various Artist - The Soulful Sounds Of Stax
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=The Staple Singers - I'll Take You There
+TTITLE1=Isaac Hayes - Never Can Say Goodbye
+TTITLE2=The Bar-Kays - Soulfinger
+TTITLE3=Booker T and The MG's - Green Onions
+TTITLE4=Johnny Taylor - I Believe In You
+TTITLE5=Carla Thomas - Gee Whiz
+TTITLE6=Luther Ingram - If Lovin' You Is Wrong
+TTITLE7=Otis Redding - Can't Get No Satisfaction
+TTITLE8=Jean Knight - Mr. Big Stuff
+TTITLE9=Frederick Knight - I've Been Lonely For So Long
+TTITLE10=Little Milton - Little Bluebird
+TTITLE11=The Staple Singers - Respect Yourself
+EXTD=
+EXTT0=The Staple Singers
+EXTT1=Isaac Hayes
+EXTT2=The Barkays
+EXTT3=Booker T and The MG's
+EXTT4=Johnny Taylor
+EXTT5=Carla Thomas
+EXTT6=Luther Ingram
+EXTT7=Otis Redding
+EXTT8=Jean Knight
+EXTT9=Frederick Knight
+EXTT10=Little Milton
+EXTT11=The Staple Singers
+PLAYORDER=

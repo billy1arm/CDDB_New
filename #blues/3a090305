@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22689
+#	65423
+#	104707
+#	138221
+#
+# Disc length: 2309 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3a090305
+DTITLE=Jazz club Gajo - Live sessions 2008
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=01 Hoax
+TTITLE1=02 Kitajsko zelje
+TTITLE2=03 Just friends
+TTITLE3=04 Nikolada
+TTITLE4=05 Soft and simple
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

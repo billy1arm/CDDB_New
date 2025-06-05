@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  31091
+#  60641
+#  75416
+#  100675
+#  121702
+#  152130
+#  180142
+#  200148
+#
+# Disc length: 2786 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=5f0ae009
+DTITLE=Mall - Special Education
+DYEAR=1900
+DGENRE=
+TTITLE0=Blam
+TTITLE1=Hi Fi for Small Fry
+TTITLE2=Animate
+TTITLE3=The Hidden Neighbourhood
+TTITLE4=The Flash Gordon Story
+TTITLE5=Lo Rider
+TTITLE6=Dill Nickels
+TTITLE7=As Usual (Casios Have Feelings Too)
+TTITLE8=Shake N Bake
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

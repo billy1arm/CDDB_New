@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	118542
+#	147330
+#	153084
+#
+# Disc length: 2705 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2b0a8f04
+DTITLE=Sun Ra - Disco 3000
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=Disco 3000
+TTITLE1=Third Planet
+TTITLE2=Friendly Galaxy
+TTITLE3=Dance of The Cosmo Aliens
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

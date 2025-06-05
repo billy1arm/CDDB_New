@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17807
+#	36354
+#	51443
+#	63275
+#	77583
+#	94822
+#	111433
+#	136509
+#	160029
+#	173137
+#	187121
+#
+# Disc length: 2616 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=9b0a360c
+DTITLE=Dick Annegarn - Un' Ombre
+DYEAR=2002
+DGENRE=Chanson
+TTITLE0=Taxi
+TTITLE1=Enfant sans mère
+TTITLE2=Où es tu Mohand ?
+TTITLE3=Patera
+TTITLE4=Soleyman
+TTITLE5=Puy de Dome
+TTITLE6=Melchior
+TTITLE7=Un' Ombre
+TTITLE8=C'est la misère
+TTITLE9=Bouge ton boule
+TTITLE10=Même en hiver
+TTITLE11=Miroir
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

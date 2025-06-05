@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28115
+#	55292
+#	82904
+#	110105
+#	140442
+#	166060
+#
+# Disc length: 2632 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=560a4607
+DTITLE=Med - Dirty Movie Music
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Pro Honzu
+TTITLE1=Noa Noa
+TTITLE2=Obdobi Karotky A Tomatovych Dzusu Prichazi
+TTITLE3=Blue Since
+TTITLE4=Sel Pantata Do Sveta
+TTITLE5=Tajemny Prostor Plny Oblud
+TTITLE6=Proc Je Dulezite Miti V Autobuse Kinedril
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25482
+#	37105
+#	58705
+#
+# Disc length: 1030 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=33040404
+DTITLE=Stevie Ray Vaughan - Wall Of Denial
+DYEAR=1989
+DGENRE=Blues
+TTITLE0=Wall Of Denial (LP) (Studio Version)
+TTITLE1=The House Is Rockin' (Live In Austin, TX)
+TTITLE2=Leave My Girl Alone (Live In Austin, TX)
+TTITLE3=Crossfire (Live In Austin,TX)
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

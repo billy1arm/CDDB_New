@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28926
+#	67063
+#	119317
+#	163941
+#	211606
+#	263934
+#	298265
+#
+# Disc length: 4451 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7e116108
+DTITLE=Mat Marucci Trio - Live at the Jazz Bakery
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=I Hear a Rhapsody
+TTITLE1=Stella By Starlight
+TTITLE2=In a Sentimental Mood
+TTITLE3=I Love You
+TTITLE4=Miss Tiss
+TTITLE5=There is No Greater Love
+TTITLE6=Here's That Rainy Day
+TTITLE7=Ulterior Motif
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

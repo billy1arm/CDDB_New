@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18065
+#	43637
+#	56999
+#	90509
+#	105126
+#	128967
+#	149823
+#	167561
+#	185115
+#	229404
+#	249820
+#
+# Disc length: 3595 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9e0e090c
+DTITLE=Willie Foster - I've Lived This Life
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Let 'Em Talk
+TTITLE1=Why Baby
+TTITLE2=Found Me A Lover
+TTITLE3=Born In The Delta
+TTITLE4=Entie This Knot
+TTITLE5=Foster's Shuffle
+TTITLE6=Lonely Man
+TTITLE7=Why My People So Down On Me
+TTITLE8=Shame
+TTITLE9=That's My Life
+TTITLE10=Ahh Boogie
+TTITLE11=Come Here Baby
+EXTD=YEAR: Unknown ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

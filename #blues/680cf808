@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18776
+#	50776
+#	87192
+#	120436
+#	152564
+#	198489
+#	224035
+#
+# Disc length: 3322 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=680cf808
+DTITLE=Llewellyn - Kindred Souls
+DYEAR=1996
+DGENRE=New Age
+TTITLE0=Llewellyn  - Kindred Souls - 01 - Kindred Souls Pt 1
+TTITLE1=Llewellyn   - Kindred Souls - 02 - The Past
+TTITLE2=Llewellyn  - Kindred Souls - 03 - Sacred And The Secular
+TTITLE3=Llewellyn  - Kindred Souls - 04 - Kindred Souls Pt 2
+TTITLE4=Llewellyn  - Kindred Souls - 05 - Kindred Souls Pt 3
+TTITLE5=Llewellyn - Kindred Souls - 06 - The Present
+TTITLE6=Llewellyn  - Kindred Souls - 07 - Patterns Of Life
+TTITLE7=Llewellyn  - Kindred Souls - 08 - Kindred Souls Pt 4
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

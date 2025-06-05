@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17340
+#	37535
+#	55335
+#	79077
+#	104705
+#	122927
+#	133840
+#
+# Disc length: 3019 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=620bc908
+DTITLE=佐藤通弘 - 月も凍る夜に
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=荷方節
+TTITLE1=小原節
+TTITLE2=十三の砂山
+TTITLE3=三下り
+TTITLE4=津軽音頭
+TTITLE5=田名部お島コ節
+TTITLE6=黒石よされ節
+TTITLE7=月も凍る夜に
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

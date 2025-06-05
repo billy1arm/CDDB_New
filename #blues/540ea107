@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57349
+#	103258
+#	147927
+#	152386
+#	226017
+#	279311
+#
+# Disc length: 3747 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=540ea107
+DTITLE=Charles Lloyd and Friends - Live at Yoshi's
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Charles_Lloyd_Yoshi_99 - 0512T01
+TTITLE1=Charles_Lloyd_Yoshi_99 - 0512T02
+TTITLE2=Charles_Lloyd_Yoshi_99 - 0512T03
+TTITLE3=Charles_Lloyd_Yoshi_99 - 0512T04
+TTITLE4=Charles_Lloyd_Yoshi_99 - 0512T05
+TTITLE5=Charles_Lloyd_Yoshi_99 - 0512T06
+TTITLE6=Charles_Lloyd_Yoshi_99 - 0512T07
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

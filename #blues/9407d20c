@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8577
+#	15954
+#	29559
+#	44829
+#	58477
+#	83461
+#	91118
+#	95966
+#	109834
+#	130502
+#	147015
+#
+# Disc length: 2004 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9407d20c
+DTITLE=Blues Brothers - Briefcase full of Blues
+DYEAR=1980
+DGENRE=Blues
+TTITLE0=I can't turn you loose (opening)
+TTITLE1=Hey bartender
+TTITLE2=Messin' with the kid
+TTITLE3=(I got every thing I need) almost
+TTITLE4=Rubber biscuit
+TTITLE5=Shot gun blues
+TTITLE6=Groove me
+TTITLE7=I don't know
+TTITLE8=Soul man
+TTITLE9=B-movie box car blues
+TTITLE10=Flip, flop and fly
+TTITLE11=I can't turn you loose (closing)
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

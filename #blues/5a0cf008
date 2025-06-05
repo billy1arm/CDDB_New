@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35255
+#	60322
+#	82842
+#	106627
+#	126880
+#	177820
+#	221057
+#
+# Disc length: 3314 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a0cf008
+DTITLE=DePaul University Jazz Ensemble - DePaul University Jazz Ensemble with Slide Hampton
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Neptune
+TTITLE1=End Of The Beginning
+TTITLE2=It's You Or No One
+TTITLE3=Choreographer Of The Sea
+TTITLE4=December
+TTITLE5=Little Rootie Tootie
+TTITLE6=Antoine
+TTITLE7=Birdlike
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

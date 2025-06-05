@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24692
+#	46070
+#	70377
+#	101750
+#	121832
+#
+# Disc length: 2007 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=4b07d506
+DTITLE=Gabor Szabo - Rambler
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=Rambler
+TTITLE1=It's so hard to say goodbye
+TTITLE2=New love
+TTITLE3=Reinhardt
+TTITLE4=Help me build a lifetime
+TTITLE5=All is well
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

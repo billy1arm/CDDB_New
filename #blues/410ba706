@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	61088
+#	108491
+#	135770
+#	180829
+#	211222
+#
+# Disc length: 2985 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=410ba706
+DTITLE=Minamo - Kuroi Kawa ～ Black River
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Kuroi Kawa ～ Black River
+TTITLE1=Aoi Saka ～ Blue Slope
+TTITLE2=Murasaki No Natsu ～ Purple Summer
+TTITLE3=Akai Kaze ～ Red Wind
+TTITLE4=Midori No Shinkiro ～ Green Mirag
+TTITLE5=Shiroi Arashi ～ White Storm
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

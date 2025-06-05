@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29549
+#	49648
+#	76422
+#	101021
+#	116134
+#	138257
+#	155356
+#
+# Disc length: 2266 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6208d808
+DTITLE=Pete York - Wireless
+DYEAR=1984
+DGENRE=Jazz
+TTITLE0=Laid Back Lenny
+TTITLE1=Hombre
+TTITLE2=Memphis Overkill
+TTITLE3=Afrobic
+TTITLE4=Memphis Underground
+TTITLE5=Galactic Scales
+TTITLE6=Full Speed Ahead
+TTITLE7=Keep on Running
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

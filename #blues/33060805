@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17628
+#	46323
+#	68373
+#	102373
+#
+# Disc length: 1546 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=33060805
+DTITLE=Wolfgang Amadeus Mozart - Diet
+DYEAR=1900
+DGENRE=Meditative
+TTITLE0=ディベルティメント 第3番 ヘ長調 第1楽章
+TTITLE1=ピアノ協奏曲 第21番 ハ長調 第3楽章
+TTITLE2=ピアノとヴァイオリンのためのソナタ 第32番 ヘ長調 第1楽章
+TTITLE3=交響曲 第40番 ト短調 第1楽章
+TTITLE4=アイネ・クライネ・ナハトムジーク ト長調 セレナード第13番 第4楽章
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

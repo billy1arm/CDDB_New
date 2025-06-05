@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	20222
+#	47845
+#	80077
+#	107267
+#	129905
+#	150817
+#
+# Disc length: 2689 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=490a7f07
+DTITLE=IRON MAIDEN - The Clairvoyant (LIVE)/Infinite Dreams (LIVE) (EP)
+DYEAR=1988
+DGENRE=Metal
+TTITLE0=The Clairvoyant (LIVE)
+TTITLE1=The Prisoner (LIVE)
+TTITLE2=Heaven Can Wait (LIVE)
+TTITLE3=Infinite Dreams (LIVE)
+TTITLE4=Killers (LIVE)
+TTITLE5=Still Life (LIVE)
+TTITLE6=Listen With Nicko ! Part X
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

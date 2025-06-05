@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41137
+#	76535
+#	105850
+#	149325
+#	202462
+#
+# Disc length: 3063 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4b0bf506
+DTITLE=Bartok Bela - Piano Concertos - Pollini, Chicago SO and Abbado
+DYEAR=1979
+DGENRE=Classical
+TTITLE0=no.1 - I. Allegro moderato - Allegro
+TTITLE1=no.1 - II. Andante - Allegro - attacca:
+TTITLE2=no.1 - III. Allegro molto
+TTITLE3=no.2 - I. Allegro
+TTITLE4=no.2 - II. Adagio - Presto - Adagio
+TTITLE5=no.2 - III. Allegro molto - Presto
+EXTD=Maurizio Pollini, Claudio Abbado, Chicago Symphony Orchestra YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

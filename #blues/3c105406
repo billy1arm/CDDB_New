@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48150
+#	105642
+#	191372
+#	232946
+#	270864
+#
+# Disc length: 4182 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3c105406
+DTITLE=Jonas Hellborg Trio - Live at Cafe Tattoo [CD1]
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Track01 - Track01
+TTITLE1=Track02 - Track02
+TTITLE2=Track03 - Track03
+TTITLE3=Track04 - Track04
+TTITLE4=Track05 - Track05
+TTITLE5=Track06 - Track06
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

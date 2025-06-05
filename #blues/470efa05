@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	63601
+#	109651
+#	159601
+#	223802
+#
+# Disc length: 3836 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=470efa05
+DTITLE=Sampler - Sunset Jazz Vol 1 [CD2)
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Balladaboss (Gabriel Coburger Quartet)
+TTITLE1=Ornette on Bass (Markus Steinhauser Quartett)
+TTITLE2=Eine Nacht im Luftschacht (Capri die Rote)
+TTITLE3=There are some Strangers in our Universe (Tarik Husseini Quartett)
+TTITLE4=Two Hollidays (Turner Hendrickxs Group)
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

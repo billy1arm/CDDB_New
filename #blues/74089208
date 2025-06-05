@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17196
+#	34902
+#	65440
+#	81664
+#	102743
+#	123852
+#	146664
+#
+# Disc length: 2196 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=74089208
+DTITLE=Paul W. Reeves - Christmas Vibes
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Santa Claus Is Comin' To Town
+TTITLE1=Let It Snow! Let It Snow! Let It Snow!
+TTITLE2=Christmas Bossa
+TTITLE3=Christmas Medley
+TTITLE4=Jingle Bells
+TTITLE5=Winter Wonderland
+TTITLE6=The Christmas Song
+TTITLE7=Silent Night
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

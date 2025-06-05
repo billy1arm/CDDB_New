@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50033
+#	82397
+#	113176
+#	165835
+#
+# Disc length: 3300 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=3c0ce205
+DTITLE=Dizzy Gillespie - An Electrifying Evening With The Dizzy Gillespie Quintet [1961]
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Kush
+TTITLE1=Salt Peanuts
+TTITLE2=A Night In Tunisia
+TTITLE3=The Mooche
+TTITLE4=Interview with Dizzy Gillespie, by Charles Schwartz
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

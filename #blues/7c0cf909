@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	24720
+#	53487
+#	84145
+#	117732
+#	149747
+#	173472
+#	187167
+#	214047
+#
+# Disc length: 3323 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7c0cf909
+DTITLE=Dave Stryker Quintet - Passage
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=In The Now
+TTITLE1=Kalahari
+TTITLE2=Passage
+TTITLE3=It's You Or No One
+TTITLE4=Jungle
+TTITLE5=Violation
+TTITLE6=I Fall In Love Too Easily
+TTITLE7=Minor Jones
+TTITLE8=Pursuit
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

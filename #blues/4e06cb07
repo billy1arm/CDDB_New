@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16112
+#	38707
+#	56007
+#	68488
+#	91168
+#	110068
+#
+# Disc length: 1741 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=4e06cb07
+DTITLE=Eric Clapton - Big Boss Man
+DYEAR=1984
+DGENRE=Blues
+TTITLE0=Louise
+TTITLE1=Five Long Years
+TTITLE2=Early In The Morning
+TTITLE3=Pounds And Stomps
+TTITLE4=The First Time I Met The Blues
+TTITLE5=They Call It Stormy Monday
+TTITLE6=Big Boss Man
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

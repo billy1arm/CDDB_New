@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11587
+#	60562
+#	83362
+#	104137
+#	132490
+#
+# Disc length: 2210 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4708a006
+DTITLE=THE MODERN JAZZ QUARTET - Pyramid
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Vendome
+TTITLE1=Pyramid
+TTITLE2=It Don't Mean A Thing (If It Ain't Got That Swing)
+TTITLE3=Django
+TTITLE4=How High The Moon
+TTITLE5=Romaine
+EXTD=DISC: 1\nUPC: 075678134029\nLABEL: Atlantic\nENSORECORD: 116420\n YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

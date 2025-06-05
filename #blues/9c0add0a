@@ -1,0 +1,46 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 28010
+# 47860
+# 63992
+# 78685
+# 101985
+# 126360
+# 149630
+# 169320
+# 198420
+#
+# Disc length: 2783 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.2.328
+#
+DISCID=9c0add0a
+DTITLE=William Ackerman - Past Light
+DYEAR=1900
+DGENRE=
+TTITLE0=Visiting
+TTITLE1=Garden
+TTITLE2=Three Observations of One Ocean
+TTITLE3=Pacific II
+TTITLE4=Synopsis
+TTITLE5=Ventana
+TTITLE6=Threes
+TTITLE7=Synopsis II
+TTITLE8=Rain to River
+TTITLE9=Night Slip
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

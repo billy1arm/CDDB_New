@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24505
+#	51397
+#	78409
+#	104502
+#	126547
+#	150701
+#	170636
+#
+# Disc length: 2582 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=6b0a1408
+DTITLE=unknown - Club Jazz: Deep Blue
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Just Blue
+TTITLE1=On The Spot
+TTITLE2=Goin' Home
+TTITLE3=Emily
+TTITLE4=Blues For Bernie
+TTITLE5=Mopac At Midnight
+TTITLE6=Herb's Blues
+TTITLE7=Amazing Grace
+EXTD=YEAR: 1998 ID3G: 8
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

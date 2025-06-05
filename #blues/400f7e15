@@ -1,0 +1,79 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14859
+#	29537
+#	42376
+#	54125
+#	72591
+#	90530
+#	108806
+#	127590
+#	141254
+#	155198
+#	169956
+#	183752
+#	198463
+#	211228
+#	223814
+#	234694
+#	246084
+#	260150
+#	274859
+#	286762
+#
+# Disc length: 3968 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.07
+#
+DISCID=400f7e15
+DTITLE=Django Reinhardt and The Hot Club of France Quintet - The Complete-Swing HMV Sessions 1936-1948 Disc 3
+DYEAR=1900
+DGENRE=Swing
+TTITLE0=Minor Swing (I)
+TTITLE1=Viper's Dream (I)
+TTITLE2=Swingin' With Django (J)
+TTITLE3=Paramount Stomp (J)
+TTITLE4=Bolero (K)
+TTITLE5=Bolero (alt tk) (K)
+TTITLE6=Mabel (alt tk) (K)
+TTITLE7=Mabel (K)
+TTITLE8=My Serenade (K)
+TTITLE9=You Rascal You (L)
+TTITLE10=Stephen's Blues (L)
+TTITLE11=Sugar (L)
+TTITLE12=Sweet Georgia Brown (L)
+TTITLE13=Tea For Two (L)
+TTITLE14=Stockholm (M)
+TTITLE15=Younger Generation (M)
+TTITLE16=I'll See You In My Dreams (M)
+TTITLE17=Echoes Of Spain (M)
+TTITLE18=Out Of Nowhere (M)
+TTITLE19=I Can't Give You Anything But Love (M)
+TTITLE20=Naguine (M)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+PLAYORDER=

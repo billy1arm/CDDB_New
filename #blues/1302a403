@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16577
+#	31950
+#
+# Disc length: 678 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.30 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=1302a403
+DTITLE=George Thorogood - Get A Hair Cut
+DYEAR=1900
+DGENRE=
+TTITLE0=Get A Hair Cut ( Long radio Cut)
+TTITLE1=Get A Hair Cut (shorter Cut)
+TTITLE2=Get A Hair Cut ( LP Cut )
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

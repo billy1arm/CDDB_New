@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13734
+#	48422
+#	72120
+#	93808
+#	112779
+#	142956
+#	170866
+#
+# Disc length: 2521 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6109d708
+DTITLE=ブルースビンボーズ - The Harder They Cover
+DYEAR=2004
+DGENRE=Rock
+TTITLE0=The Harder They Come
+TTITLE1=水たまり
+TTITLE2=気をつけろ
+TTITLE3=宇宙のどこかで (New Version)
+TTITLE4=誰かおいらに
+TTITLE5=もうがまんできない
+TTITLE6=Highway Song
+TTITLE7=くたびれて
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

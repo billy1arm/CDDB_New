@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13875
+#     24980
+#     36757
+#     49877
+#     63550
+#     74937
+#     87925
+#     99162
+# 
+# Disc length: 1477 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7805c309
+DTITLE=Bobby Hackett - Goodnight My Love
+DYEAR=1900
+DGENRE=
+TTITLE0=The Eyes of Love
+TTITLE1=My Funny Valentine
+TTITLE2=Wrap Your Troubles in Dreams
+TTITLE3=The Lamp Is Low
+TTITLE4=On The Street Where You Live
+TTITLE5=Goodnight My Love
+TTITLE6=Close Your Eyes
+TTITLE7=All Through the Night
+TTITLE8=You Stepped Out Of  A Dream
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

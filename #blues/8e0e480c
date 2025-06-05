@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7094
+#	30772
+#	49612
+#	76921
+#	94342
+#	122372
+#	148698
+#	176588
+#	207091
+#	227056
+#	256147
+#
+# Disc length: 3658 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8e0e480c
+DTITLE=Schiller - Zeitgeist (Limited Edition) Disc 1
+DYEAR=1999
+DGENRE=New Age
+TTITLE0=Der Anfang
+TTITLE1=Glück Und Erfüllung
+TTITLE2=Liebesschmerz
+TTITLE3=Das Unbekannte Reich
+TTITLE4=Das Glockenspiel
+TTITLE5=Körperbewegung
+TTITLE6=Freiheit
+TTITLE7=Ruhe
+TTITLE8=Sonnenuntergang
+TTITLE9=Liebesparade
+TTITLE10=Zeitgeist
+TTITLE11=Das Ende
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

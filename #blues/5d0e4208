@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21577
+#	53395
+#	90292
+#	114482
+#	169726
+#	199351
+#	235735
+#
+# Disc length: 3652 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d0e4208
+DTITLE=Gwilym Simcock - Blues Vignette - Disc 2 - Trio
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Indtroduction
+TTITLE1=Tundra
+TTITLE2=Blues Vignette
+TTITLE3=Black Coffee
+TTITLE4=Longing to be
+TTITLE5=Nice work if you can get it
+TTITLE6=Cry me a river
+TTITLE7=1981
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

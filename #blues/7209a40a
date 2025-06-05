@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    225
+#    16165
+#    38557
+#    52290
+#    70212
+#    84912
+#    98597
+#    121575
+#    141437
+#    165132
+#
+# Disc length: 2471 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.3.9a  (wjohn@fix.net)
+#
+DISCID=7209a40a
+DTITLE=Amos Garrett - 
+DTITLE=I Make My Home In My Shoes
+DYEAR=1989
+DGENRE=Blues
+TTITLE0=Home In My Shoes
+TTITLE1=Stanley Street
+TTITLE2=All My Money
+TTITLE3=Sleepwalk
+TTITLE4=Hair Of The Dog
+TTITLE5=Bert's Boogie
+TTITLE6=Move on Down The Line
+TTITLE7=Slip Away
+TTITLE8=Little Girl
+TTITLE9=Buried Alive In The Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

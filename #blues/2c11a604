@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	99927
+#	164192
+#	218335
+#
+# Disc length: 4520 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2c11a604
+DTITLE=Brahms - Concerto pour piano N°1 - Variations (Franz-Paul Decker, Münchner Philh.)
+DYEAR=1989
+DGENRE=Classique
+TTITLE0=Concerto pour piano et orchestre N°1 en ré mineur, Op.15 - I. Maestoso {Bruno-Leonardo Gelber, piano}
+TTITLE1=Concerto pour piano et orchestre N°1 en ré mineur, Op.15 - II. Adagio
+TTITLE2=Concerto pour piano et orchestre N°1 en ré mineur, Op.15 - III. Rondo - Allegro non troppo
+TTITLE3=Variations et fugue sur un thème de Haendel, Op. 24
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

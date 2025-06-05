@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20521
+#	47647
+#	75391
+#	99211
+#	145525
+#	168391
+#	206166
+#
+# Disc length: 3176 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5a0c6608
+DTITLE=Loreena McKennitt - The Book Of Secrets
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Prologue
+TTITLE1=The Mummers Dance
+TTITLE2=Skellig
+TTITLE3=Marco Polo
+TTITLE4=The Highwayman
+TTITLE5=La Serenessima
+TTITLE6=Night Ride across the Caucasus
+TTITLE7=Dantes Prayer
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

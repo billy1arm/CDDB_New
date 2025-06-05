@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  11412
+#  22625
+#  31250
+#  42162
+#  53287
+#  63687
+#  75500
+#  87537
+#  97737
+#  107712
+#  117500
+#
+# Disc length: 1676 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=80068a0c
+DTITLE=Various Artist - Little Joe And The Thrillers Meet The Schoolboys
+DYEAR=1900
+DGENRE=
+TTITLE0=Little Joe And The Thrillers - This I Know
+TTITLE1=LittleJoe And The Thrillers - Peanuts
+TTITLE2=Little Joe And The Thrillers - Lilly Lou
+TTITLE3=Little Joe And The Thrillers - The Echoes Keep Calling Me
+TTITLE4=Little Joe And The Thrillers - Let's Do The Slop
+TTITLE5=Little Joe And The Thrillers - Please Don't Go
+TTITLE6=The Schoolboys - Shirley
+TTITLE7=The Schoolboys - Please Say You Want Me
+TTITLE8=The Schoolboys - Mary
+TTITLE9=The Schoolboys - I'm Old Enough
+TTITLE10=The Schoolboys - Pearl
+TTITLE11=The Schoolboys - Carol
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

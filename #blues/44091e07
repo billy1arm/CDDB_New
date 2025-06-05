@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32565
+#	55615
+#	84057
+#	109366
+#	130646
+#	152547
+#
+# Disc length: 2336 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=44091e07
+DTITLE=Count Basie - Kansas City
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=Walking the blues
+TTITLE1=Blues for little Jazz
+TTITLE2=Vegas Drag
+TTITLE3=Wee Baby
+TTITLE4=Scooter
+TTITLE5=St. Louis blues
+TTITLE6=Opus Six
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

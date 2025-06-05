@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  21140
+#  33027
+#  47502
+#  70552
+#  93707
+#  107977
+#  124040
+#  132522
+#  157822
+#  171280
+#  189302
+#
+# Disc length: 2850 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=950b200c
+DTITLE=Duke Ellington - The Popular
+DYEAR=1900
+DGENRE=
+TTITLE0=Take The "A" Train
+TTITLE1=I Got It Bad (And That Ain't Good)
+TTITLE2=Perdido
+TTITLE3=Mood Indigo
+TTITLE4=Black and Tan Fantasy
+TTITLE5=The Twitch
+TTITLE6=Solitude
+TTITLE7=Do Nothin' Till You Hear From Me
+TTITLE8=The Mooche
+TTITLE9=Sophisticated Lady
+TTITLE10=Creole Love Call
+TTITLE11=Caravan
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

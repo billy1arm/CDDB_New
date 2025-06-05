@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57045
+#	83940
+#	112850
+#	128320
+#	144310
+#	162215
+#	171935
+#	186050
+#	221715
+#	248235
+#	276842
+#
+# Disc length: 3902 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9e0f3c0c
+DTITLE=ブラームス/シューマン チェロ・ソナタ集他 - アンナー・ビルスマ - ブラームス チェロ・ソナタ集/シューマン 民謡風の5つの小品
+DYEAR=1995
+DGENRE=Classical
+TTITLE0=Sonata for Piano and Violoncello in E minor - I Allegro non troppo
+TTITLE1=Sonata for Piano and Violoncello in E minor - II Allegretto quasi Menuetto - Trio
+TTITLE2=Sonata for Piano and Violoncello in E minor - III Allegro
+TTITLE3=Funf Stucke im Volkston - I "Vanitas anitatum". mit Humor.
+TTITLE4=Funf Stucke im Volkston -II Langsam
+TTITLE5=Funf Stucke im Volkston -III Nicht schnell, mit viel Ton zu spielen
+TTITLE6=Funf Stucke im Volkston -IV Nicht zu rasch
+TTITLE7=Funf Stucke im Volkston -V Stark und markiert
+TTITLE8=Sonata for Piano and Violoncello in F major - I Allegro vivace
+TTITLE9=Sonata for Piano and Violoncello in F major - II Adagio affetuoso
+TTITLE10=Sonata for Piano and Violoncello in F major - III Allegro passionato (- trio)
+TTITLE11=Sonata for Piano and Violoncello in F major - IV Allegro molto
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

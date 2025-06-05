@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3232
+#	23997
+#	46797
+#	65087
+#	86257
+#	109470
+#	135965
+#	154897
+#	184692
+#	210315
+#
+# Disc length: 3208 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=850c860b
+DTITLE=Various Artist - Kyoto JAZZ Massive
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=B-BANDJ and Ohtsuka - Intro
+TTITLE1=Mondo Grosso - Vibe.P.M
+TTITLE2=DJ Yamaguchi - Melting Pot
+TTITLE3=B-BANDJ feat. DJ Krush - The Habit
+TTITLE4=Bahia Sunsets - Somewhere Not Here
+TTITLE5=Bossa Free - Mas Que Nada
+TTITLE6=Conga Strings - Black Forest
+TTITLE7=Symphonic Defoggers - City Folklore
+TTITLE8=Changulu - Changulu
+TTITLE9=Big Wrong - Sleep Walker
+TTITLE10=Mondo Grosso - Souffles H
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

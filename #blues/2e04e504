@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27753
+#	50023
+#	71472
+#
+# Disc length: 1255 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e04e504
+DTITLE=Lazlo - Lazlo
+DYEAR=2002
+DGENRE=1010011010
+TTITLE0=Far From Routine
+TTITLE1=In Stereo
+TTITLE2=In My Bunkbed
+TTITLE3=Outlook Hazy, Try Again
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

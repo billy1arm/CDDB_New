@@ -1,0 +1,31 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	17392
+#	34767
+#	51230
+#	74307
+# Disc length: 1275 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=3804f905
+DTITLE=FJS - Hauptsache
+DYEAR=1900
+DGENRE=
+TTITLE0=Gewählt
+TTITLE1=Geld
+TTITLE2=Sex
+TTITLE3=Geld Zinsen-Mix
+TTITLE4=Sex Tips-Mix
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

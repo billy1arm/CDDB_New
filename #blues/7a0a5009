@@ -1,0 +1,45 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20360
+#     33600
+#     51722
+#     74572
+#     117877
+#     143127
+#     158387
+#     175757
+# 
+# Disc length: 2642 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7a0a5009
+DTITLE=Steil, A. J. and the Rhythm Invasion - A. J. Steil and the Rhythm Inv
+DTITLE=asion
+DYEAR=1900
+DGENRE=
+TTITLE0=Landing
+TTITLE1=Excuse My Soul
+TTITLE2=Hurricane
+TTITLE3=Cannibal
+TTITLE4=Blues For Mother Nature
+TTITLE5=Let Freedom Ring
+TTITLE6=No Choice But To Choose
+TTITLE7=Tomorrow's Another Day
+TTITLE8=Something In The Water
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

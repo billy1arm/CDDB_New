@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54882
+#	69051
+#	92655
+#	116472
+#	133834
+#	169034
+#	184139
+#
+# Disc length: 2671 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=600a6d08
+DTITLE=Richard Galliano - Solo
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Ballet Tango
+TTITLE1=Chiquilin de Bachin
+TTITLE2=Adios Noniño
+TTITLE3=Pedro y Pedro
+TTITLE4=Leijia's Game
+TTITLE5=Flora's Game
+TTITLE6=Sunny's Game
+TTITLE7=Oblivion
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

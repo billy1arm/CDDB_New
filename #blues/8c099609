@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21515
+#	36562
+#	56995
+#	72650
+#	95467
+#	117820
+#	141910
+#	161077
+#
+# Disc length: 2456 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8c099609
+DTITLE=Roberto Ciotti - No More Blue
+DYEAR=1988
+DGENRE=Blues
+TTITLE0=Treat Me Right
+TTITLE1=Hot Club
+TTITLE2=No More Blue
+TTITLE3=Rolls Royce
+TTITLE4=Sweet Paradise
+TTITLE5=Provocation
+TTITLE6=Back To The Night
+TTITLE7=Blue Square
+TTITLE8=Underground
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

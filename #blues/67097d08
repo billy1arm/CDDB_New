@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21060
+#	39735
+#	52067
+#	70652
+#	95947
+#	112550
+#	128162
+#
+# Disc length: 2431 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=67097d08
+DTITLE=Paul Horn - Profile Of A Jazz Musician
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Count Your Change
+TTITLE1=Now Hear This
+TTITLE2=Lazy Afternoon
+TTITLE3=What Now
+TTITLE4=Straight Ahead
+TTITLE5=Fun Time
+TTITLE6=Because We're Kids
+TTITLE7=Abstraction
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

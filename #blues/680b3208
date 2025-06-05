@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40063
+#	70163
+#	103391
+#	129731
+#	153782
+#	173895
+#	202916
+#
+# Disc length: 2868 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=680b3208
+DTITLE=Los Swing Timers - En Vivo 1985
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=El cacique
+TTITLE1=Medley
+TTITLE2=Dulce Georgia Brown
+TTITLE3=Esperando a Goodman
+TTITLE4=El cornetín de Benny
+TTITLE5=Señora sea buena
+TTITLE6=Tengo ritmo
+TTITLE7=Pájaro loco
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

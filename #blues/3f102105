@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50322
+#	91931
+#	141391
+#	252345
+#
+# Disc length: 4131 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3f102105
+DTITLE=Paul Smoker - Large Music 1
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Coast West
+TTITLE1=Up In Evan's Room
+TTITLE2=I Have None
+TTITLE3=Soluble
+TTITLE4=Beverly
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

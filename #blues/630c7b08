@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25877
+#	55042
+#	90158
+#	115792
+#	156521
+#	177494
+#	209532
+#
+# Disc length: 3197 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=630c7b08
+DTITLE=Danise - Imaginando un trio
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=1 Imaginando un trio
+TTITLE1=2 Fuoco dal mediterraneo
+TTITLE2=3 Aero
+TTITLE3=4 Marte
+TTITLE4=5 À Vucchella
+TTITLE5=6 La rumba degli scugnizzi
+TTITLE6=7 Santosa
+TTITLE7=8 Good By
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

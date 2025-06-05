@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	61960
+#	87651
+#	139796
+#
+# Disc length: 2442 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.23
+#
+DISCID=34098804
+DTITLE=John Coltrane - My Favourite Things
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=My Favourite Things
+TTITLE1=Everytime We Say Goodbye
+TTITLE2=Summertime
+TTITLE3=But Not For Me
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

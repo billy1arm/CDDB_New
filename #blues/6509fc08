@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30536
+#	44421
+#	94036
+#	119818
+#	154739
+#	178214
+#	182359
+#
+# Disc length: 2558 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=6509fc08
+DTITLE=Jeremy Steig - This is Jeremy Steig
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=Flute Diddley
+TTITLE1=Hang on to a Dream
+TTITLE2=Teresa's Blues
+TTITLE3=Don't Make Promises
+TTITLE4=Rational Nonsense
+TTITLE5=Lenny's Tomb
+TTITLE6=Insanity
+TTITLE7=Mac D
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

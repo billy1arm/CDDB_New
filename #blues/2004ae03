@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32767
+#	57315
+#
+# Disc length: 1200 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2004ae03
+DTITLE=Wild Bill Hickok - Pink Joe
+DYEAR=1994
+DGENRE=New Age
+TTITLE0=Pink Joe (Storm on the Earth mix)
+TTITLE1=Pink Joe (Storm on the Moon mix)
+TTITLE2=Pink Joe (Prototype version)
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

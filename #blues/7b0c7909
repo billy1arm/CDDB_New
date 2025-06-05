@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24447
+#	53879
+#	73481
+#	99242
+#	129651
+#	160744
+#	183401
+#	205877
+#
+# Disc length: 3195 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=7b0c7909
+DTITLE=Yellowjackets - Run For Your Life
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=01 Jacket Town
+TTITLE1=02 Even Song
+TTITLE2=03 Runferyerlife
+TTITLE3=04 The Red Sea
+TTITLE4=05 Muhammed
+TTITLE5=06 City of Lights
+TTITLE6=07 Sage
+TTITLE7=08 Ancestors
+TTITLE8=09 Wisdom
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

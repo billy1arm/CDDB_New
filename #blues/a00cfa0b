@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22354
+#	43802
+#	67244
+#	91907
+#	108612
+#	131041
+#	153864
+#	172784
+#	194961
+#	226369
+#
+# Disc length: 3324 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a00cfa0b
+DTITLE=Schiller - Forever
+DYEAR=2008
+DGENRE=New Age
+TTITLE0=Delicately Yours (Schill Out Version) (With Kim Sanders)
+TTITLE1=I Will Find You (With Kim Sanders)
+TTITLE2=I Know (With Kim Sanders)
+TTITLE3=Forever (With Kim Sanders)
+TTITLE4=Let Me Love You (Video Version) (With Kim Sanders)
+TTITLE5=I Saved You (With Kim Sanders)
+TTITLE6=Delicately Yours (With Kim Sanders)
+TTITLE7=Let  Me Love You (Schill Out Version) (With Kim Sanders)
+TTITLE8=Dancing With Loneliness (With Kim Sanders)
+TTITLE9=Distance (Live) (With Kim Sanders)
+TTITLE10=Distance (Demo Version 2000) (With Kim Sanders)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

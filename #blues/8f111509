@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30721
+#	78798
+#	109475
+#	134139
+#	175829
+#	208281
+#	245989
+#	295297
+#
+# Disc length: 4375 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8f111509
+DTITLE=DANILO REA - "SOLO" Live at the Auditorium Parco della Musica, Rome
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Il bel sogno di Doretta [Puccini]
+TTITLE1=Medley: Sommertime, I love you Porgy [Gershwin] - Si mi chiamano Mimì [Puccini]
+TTITLE2=Dichterliebe: Ich grolle nicht, Ich will meine Seele tauchen [Schumann]
+TTITLE3=Intermezzo da "La cavalleria rusticana" [Mascagni]
+TTITLE4=Medley: America [Berstein] - Envain pour eviter [Bizet].
+TTITLE5=Mon coeur s'ouvre a ta voix [Saint-Saens]
+TTITLE6=Nessun Dorma! [Puccini]
+TTITLE7=Medley: E lucevan le stelle [Puccini] - Un bel di vedremo [Puccini] - L'amour est un oiseau rebelle [Bizet].
+TTITLE8=Medley: Resta cu'me [Verde, Modugno] - Vissi d'arte [Puccini].
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	22308
+#	38655
+#	56205
+#	75778
+#	97608
+#	116958
+#	138858
+#	155508
+#	173433
+#	193233
+#	215058
+#
+# Disc length: 3117 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9c0c2b0c
+DTITLE=Billy Hart - Jazz Drumming
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Day and Nite (with drums)
+TTITLE1=Embracable You (with drums)
+TTITLE2=Equinox (with drums)
+TTITLE3=A Night In Tunisia (with drums)
+TTITLE4=Ralph's Piano Waltz (with drums)
+TTITLE5=Lo Flame (with drums)
+TTITLE6=Day and Nite
+TTITLE7=Embracable You
+TTITLE8=Equinox
+TTITLE9=A Night In Tunisia
+TTITLE10=Ralph's Piano Waltz
+TTITLE11=Lo Flame
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

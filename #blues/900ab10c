@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19610
+#	36050
+#	52602
+#	66295
+#	86282
+#	103082
+#	120042
+#	139190
+#	153030
+#	170832
+#	185935
+#
+# Disc length: 2739 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=900ab10c
+DTITLE=Finlanders - Anna jatkua yön
+DYEAR=2001
+DGENRE=Pop
+TTITLE0=Anna jatkua yön
+TTITLE1=Kasvot
+TTITLE2=Amor
+TTITLE3=Jäitkö yksin sä nyt
+TTITLE4=Taivas yksin tietää
+TTITLE5=Niin paljon kuuluu rakkauteen
+TTITLE6=Muistaa vois
+TTITLE7=Daniela
+TTITLE8=Wig Wam Bam
+TTITLE9=Tule lähemmäksi
+TTITLE10=Hei, hei, hei...nyt me juhlitaan
+TTITLE11=Hurmaava nainen
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	71250
+#	129523
+#
+# Disc length: 2820 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=200b0203
+DTITLE=Dyer, Wayne and Katie,  Byron - Vos pensées à votre service - CD2
+DYEAR=2009
+DGENRE=New Age
+TTITLE0=Le travail (suite)
+TTITLE1=Il n'y a rien de nouveau
+TTITLE2=Les pensées stressantes
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41163
+#	71533
+#	83073
+#	107767
+#	140694
+#	160924
+#	177211
+#	203726
+#	235093
+#	264144
+#	276929
+#
+# Disc length: 4003 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a30fa10c
+DTITLE=Beethoven - Trios à cordes N°1, 2, 3  (Dénes Kovàcs, violon - Géza Németh, alto - Ede Banda, violoncelle)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Trio N°1  en sol majeur Op.9 - I. Adagio - Allegro con brio
+TTITLE1=Trio N°1  en sol majeur Op.9 - II. Adagio ma non tanto e cantabile
+TTITLE2=Trio N°1  en sol majeur Op.9 - III. Scherzo - Allegro
+TTITLE3=Trio N°1  en sol majeur Op.9 - IV. Presto
+TTITLE4=Trio N°2  en do majeur Op.9 - I. Allegretto
+TTITLE5=Trio N°2  en do majeur Op.9 - II. Andante quasi allegretto
+TTITLE6=Trio N°2  en do majeur Op.9 - III. Menuetto - Allegro
+TTITLE7=Trio N°2  en do majeur Op.9 - IV. Rondo - Allegro
+TTITLE8=Trio N°3  en do mineur Op.9 - I. Allegro con spirito
+TTITLE9=Trio N°3  en do mineur Op.9 - II. Adagio con espressione
+TTITLE10=Trio N°3  en do mineur Op.9 - III. Scherzo - Allegro molto e vivace
+TTITLE11=Trio N°3  en do mineur Op.9 - IV. Finale - Allegro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

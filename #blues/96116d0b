@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22095
+#	49290
+#	80652
+#	118587
+#	143607
+#	173477
+#	202165
+#	236875
+#	263375
+#	302845
+#
+# Disc length: 4463 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=96116d0b
+DTITLE=Various Artist - Jazz - SwingJournal THE Blue NOTE [CD4]
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Blue Rondo(Jackie McLean)
+TTITLE1=Recorda-Me(joe Henderson)
+TTITLE2=Black Fire(Andrew Hill)
+TTITLE3=Hat And Beard(Eric Dolphy)
+TTITLE4=Cantaloupe Island(Herbie Hancock)
+TTITLE5=Yes Or No(Wayne Shorter)
+TTITLE6=Softly As In Morning Sunrise(Larry Young)
+TTITLE7=European Echoes(Ornette Coleman)
+TTITLE8=Maiden Voyage(Bobby Hutcherson)
+TTITLE9=Passion Dance(McCoy Tyner)
+TTITLE10=Nefertitti(Chick Corea)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

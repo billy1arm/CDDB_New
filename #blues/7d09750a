@@ -1,0 +1,53 @@
+# xmcd
+#
+# Track frame offsets: 
+#        182
+#        23475
+#        41242
+#        55350
+#        77022
+#        97180
+#        117447
+#        131477
+#        143325
+#        160707
+#
+# Disc length: 2423 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: ExactAudioCopyFreeDBPlugin 1.0
+#
+DISCID=7d09750a
+DTITLE=The Simpsons - The Simpsons Sing The Blues
+DYEAR=1990
+DGENRE=Blues
+TTITLE0=Do The Bartman (BryanLoren;1990,TheSimpsons)
+TTITLE1=School Day (ChuckBerry;1990,TheSimpsons)
+TTITLE2=Born Under A Bad Sign (BookerTJones&WilliamBell;1990,TheSimpso
+TTITLE2=ns)
+TTITLE3=Moanin' Lisa Blues (MikeReiss,AlJean,JaiWinding,JohnBoylan;199
+TTITLE3=0,TheSimpsons)
+TTITLE4=Deep, Deep Trouble (MattGroening,DJJazzyJeff;1990,TheSimpsons)
+TTITLE5=God Bless The Child (ArthurHerzogJr,BillieHoliday;1990,TheSimp
+TTITLE5=sons)
+TTITLE6=I Love To See You Smile (1989,RandyNewman;1990,TheSimpsons)
+TTITLE7=Springfield Soul Stew (1967,KurtOusley;1990,TheSimpsons)
+TTITLE8=Look At All Those Idiots (SamSimon,JeffMartin,JaiWinding,JohnB
+TTITLE8=oylan;1990,TheSimpsons)
+TTITLE9=Sibling Rivalry (JamesLBrooks,JaiWinding,JohnBoylan;1990,TheSi
+TTITLE9=mpsons)
+EXTD=more info\nMillenniumMusicProjectFormat, syntax as follows:\nTitl
+EXTD=e{Subtitle}[info](Lyricist;Composer;Date,Artist,Location)[info]\n
+EXTD=corrections to: windking3@yahoo.com
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

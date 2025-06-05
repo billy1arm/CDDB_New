@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21675
+#	40250
+#	64913
+#	87188
+#	108400
+#	131218
+#	150588
+#	169858
+#	192730
+#	214563
+#	232800
+#
+# Disc length: 3415 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a80d550c
+DTITLE=Various Artist - GRP and The Oasis 106.1 FM Present OASISMUSIC I
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Rippingtons - Angela
+TTITLE1=Patti Austin - Through The Test Of Time
+TTITLE2=Don Grusin - Outback Oasis
+TTITLE3=Larry Carlton - Minute By Minute
+TTITLE4=Spyro Gyra - Alexandra
+TTITLE5=Carl Anderson - How Deep Does It Go
+TTITLE6=Eddie Daniels - Sun Dance
+TTITLE7=Gary Burton - The Chief
+TTITLE8=Deborah Henson-Conant - Night Of  The Roses
+TTITLE9=Dave Valentin - First Date
+TTITLE10=Kevin Eubanks - Hope
+TTITLE11=Special EFX - Ballerina
+EXTD=more info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Composer;Date,Artist,Location,State,Country) YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

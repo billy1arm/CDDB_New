@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29348
+#	42737
+#	70371
+#	89296
+#	106169
+#	124457
+#	142277
+#	163205
+#
+# Disc length: 2483 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.67 - http://www.feurio.com
+#
+DISCID=8b09b109
+DTITLE=Stefan Diestelmann - Hofmusik
+DYEAR=1900
+DGENRE=
+TTITLE0=Bernies Blues
+TTITLE1=BluesGeschichte
+TTITLE2=Für Ramsey L.
+TTITLE3=Der Alte und die Kneipe
+TTITLE4=Hof vom Prenzlauer Berg
+TTITLE5=Alexanders SwingTime
+TTITLE6=Blues von der guten Erziehung
+TTITLE7=Torturas
+TTITLE8=Bottleneck
+EXTD=AMIGA \r\nDeutsche Schallplatten Berlin\r\n1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

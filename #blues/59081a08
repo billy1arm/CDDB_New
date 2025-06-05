@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15055
+#	31132
+#	48093
+#	72163
+#	92421
+#	115186
+#	134247
+#
+# Disc length: 2076 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=59081a08
+DTITLE=HONDALADY - 136
+DYEAR=2004
+DGENRE=Rock
+TTITLE0=hanauma
+TTITLE1=Night&Day
+TTITLE2=スプラッシュ
+TTITLE3=JOYJOY
+TTITLE4=オルタネイティブ・ブルー
+TTITLE5=咳をしても一人4-1
+TTITLE6=咳をしても一人4-2
+TTITLE7=咳をしても一人4-3
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

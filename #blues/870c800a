@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	28822
+# 	50145
+# 	69047
+# 	92037
+# 	114542
+# 	132707
+# 	151197
+# 	174027
+# 	214280
+#
+# Disc length: 3202 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=870c800a
+DTITLE=Buddy Guy - Breaking Out
+DYEAR=1900
+DGENRE=
+TTITLE0=Have You Ever Been Lonesome
+TTITLE1=You Can Make It If You Try
+TTITLE2=Break Out All Over You
+TTITLE3=She Winked Her Eye
+TTITLE4=I Didn't Know My Mother Had A Son Like Me
+TTITLE5=Boogie Family Style
+TTITLE6=You Called Me In My Dream
+TTITLE7=Me and My Guitar
+TTITLE8=Ice Around My Heart
+TTITLE9=Texas Flood
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

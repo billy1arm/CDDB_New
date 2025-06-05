@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	20505
+#	47597
+#	66635
+#	92825
+#	115495
+#	136775
+#	149985
+#
+# Disc length: 2257 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7c08cf08
+DTITLE=Carlos Santos - Lo Mio
+DYEAR=1982
+DGENRE=Salsa
+TTITLE0=Son cosas pasajeras
+TTITLE1=Manifesto tropical
+TTITLE2=Cuando te fuistes de mi
+TTITLE3=Dime lo que haz hecho
+TTITLE4=Eres mi sangre
+TTITLE5=Mi repertorio
+TTITLE6=Si me dices que si
+TTITLE7=Sigue queriendome asi
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

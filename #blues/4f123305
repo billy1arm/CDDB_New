@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	65487
+#	136423
+#	283307
+#	319912
+#
+# Disc length: 4661 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=4f123305
+DTITLE=RULLI RENDO - RULLI RENDO
+DYEAR=2002
+DGENRE=Salsa
+TTITLE0=POPURRI "EL TOQUE DE RULLI"
+TTITLE1=TOQUETEANDO
+TTITLE2=POPURRI GRUPERO
+TTITLE3=POPURRI "MUSICA DEL RECUERDO"
+TTITLE4=POPURRI TWIST
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

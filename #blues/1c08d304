@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	87987
+#	151520
+#	153362
+#
+# Disc length: 2261 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=1c08d304
+DTITLE=Binder - Kontinentspiel
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Kontinentspiel I-II
+TTITLE1=Elõszó
+TTITLE2=Csend
+TTITLE3=Utószó
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

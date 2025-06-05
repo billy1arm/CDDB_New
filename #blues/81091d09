@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17525
+#	40711
+#	61070
+#	80741
+#	101858
+#	119841
+#	141689
+#	157197
+#
+# Disc length: 2335 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=81091d09
+DTITLE=Marla Glen - This Is Marla Glen
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=The Cost Of Freedom
+TTITLE1=Believer
+TTITLE2=Destiny (To Get Up Again)
+TTITLE3=Enough
+TTITLE4=Personal
+TTITLE5=Control
+TTITLE6=Travel
+TTITLE7=Feet On The Ground
+TTITLE8=You Hurt Me
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

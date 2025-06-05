@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13170
+#     25705
+#     39917
+#     53780
+#     70712
+#     90800
+#     102710
+# 
+# Disc length: 1513 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=5705e708
+DTITLE=Varios artistas - Classic Love
+DYEAR=1900
+DGENRE=
+TTITLE0=When a man loves a woman
+TTITLE1=Only you
+TTITLE2=Nobody does it better
+TTITLE3=Amor
+TTITLE4=Unchained Melody
+TTITLE5=To love somebody
+TTITLE6=Love is a many splendored thing
+TTITLE7=At long last love
+EXTD=
+EXTT0=Percy Sledge\n
+EXTT1=The Platters\n
+EXTT2=Julie Andrews\n
+EXTT3=Ben E. King\n
+EXTT4=Dennis East and Kate Normington\n
+EXTT5=The Tamps\n
+EXTT6=Nat King Cole\n
+EXTT7=Frank Sinatra\n
+PLAYORDER=

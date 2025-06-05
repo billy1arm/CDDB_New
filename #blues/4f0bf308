@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39570
+#	76652
+#	107326
+#	150196
+#	155375
+#	185585
+#	191722
+#
+# Disc length: 3061 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,43,1226
+#
+DISCID=4f0bf308
+DTITLE=John Coates Jr - Giants at Work (w/ Phil Woods)
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=I Hadn't Anyone Til You
+TTITLE1=My Funny Valentine
+TTITLE2=The Gypsy
+TTITLE3=When or Where
+TTITLE4=Phil Speaks
+TTITLE5=Blue Skies
+TTITLE6=Al Cohn Stories
+TTITLE7=High on You
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

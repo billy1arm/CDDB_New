@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44078
+#	71040
+#	126406
+#	141166
+#
+# Disc length: 2476 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5109aa05
+DTITLE=Edvard Grieg - Chamber Music Vol.3
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Cello Sonata in A minor Op.36 - I. Allegro agitato  [Robert Cohen, Cello and Roger Vignoles, piano]
+TTITLE1=Cello Sonata in A minor Op.36 - II. Andante molto tranquillo
+TTITLE2=Cello Sonata in A minor Op.36 - III. Allegro-allegro moto e marcato
+TTITLE3=Fugue in F minor for string quartet - Allegro con fuoco  [Raphael Quartet]
+TTITLE4=Andante con moto for piano trio, in C minor [Jet Röling, piano - Ramy Koch, violin - Henk Lambooij, cello]
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

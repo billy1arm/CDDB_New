@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13212
+#  33787
+#  48405
+#  65737
+#  78197
+#  97057
+#  108007
+#  124505
+#  138690
+#  150607
+#
+# Disc length: 2280 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.12
+#
+DISCID=8a08e60b
+DTITLE=Nappy Brown - Tore Up
+DYEAR=1900
+DGENRE=
+TTITLE0=Who
+TTITLE1=Lemon Squeezin' Daddy
+TTITLE2=Heartbreak
+TTITLE3=Losing Hand
+TTITLE4=Tore Up Over You
+TTITLE5=Hard Luck Blues
+TTITLE6=Hidden Charms
+TTITLE7=It Ain't My Cross To Bear
+TTITLE8=Tonight I'll Be Staying Here With You
+TTITLE9=Jack The Rabbit
+TTITLE10=You Can Make It If You Try
+EXTD=ALCD 4792\n\n
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

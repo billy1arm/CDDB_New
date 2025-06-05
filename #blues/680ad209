@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24303
+#	44440
+#	65893
+#	85678
+#	114854
+#	140282
+#	160817
+#	180965
+#
+# Disc length: 2772 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=680ad209
+DTITLE=Philipp Zürcher and Tripod - Back Home
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Back Home
+TTITLE1=Steam
+TTITLE2=High Ahoy!
+TTITLE3=Prière
+TTITLE4=Gipsy Limp
+TTITLE5=UGLIness
+TTITLE6=Perciò
+TTITLE7=Crisis
+TTITLE8=no-one talks
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

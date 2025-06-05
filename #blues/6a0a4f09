@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	24744
+#	46238
+#	71009
+#	100814
+#	109136
+#	130771
+#	158349
+#	175012
+#
+# Disc length: 2641 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 1.4
+#
+DISCID=6a0a4f09
+DTITLE=Johnny "Guitar" Watson - Love Jones
+DYEAR=1900
+DGENRE=
+TTITLE0=Booty Ooty
+TTITLE1=Love Jones
+TTITLE2=Going Up In Smoke
+TTITLE3=Close Encounters
+TTITLE4=Asante Sana
+TTITLE5=Telephone Bill
+TTITLE6=Lone Ranger
+TTITLE7=Jet Plane
+TTITLE8=Children Of The Universe
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35477
+#	58885
+#	98185
+#	136895
+#	183910
+#	207922
+#	234855
+#
+# Disc length: 3505 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=680daf08
+DTITLE=Rory Stuart Quartet - Hurricane
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Rhythm-A-Ning
+TTITLE1=Hurricane
+TTITLE2=Sweet Thing
+TTITLE3=Lembrancas
+TTITLE4=Reocurring Dreams
+TTITLE5=The Scattered Brotherhood
+TTITLE6=The Ancient Ones
+TTITLE7=Push-Pull
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21312
+#	38752
+#	59882
+#
+# Disc length: 1029 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=34040304
+DTITLE=SCRIPT - 青春グローリー
+DYEAR=2005
+DGENRE=JRock
+TTITLE0=青春グローリー
+TTITLE1=君だけのストーリー
+TTITLE2=青春グローリー(Original Karaoke)
+TTITLE3=君だけのストーリー(Original Karaoke)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  14752
+#  30370
+#  43305
+#  50400
+#  65180
+#  80055
+#  89127
+#  104945
+#  115585
+#
+# Disc length: 1730 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.22
+#
+DISCID=9406c00a
+DTITLE=Billie Holiday - Lover Man - The World of Billie Holiday
+DYEAR=1900
+DGENRE=
+TTITLE0=Lover Man
+TTITLE1=Stormy Weather
+TTITLE2=My Man
+TTITLE3=Them There Eyes
+TTITLE4=They Can't Take That Away From Me
+TTITLE5=Don't Explain
+TTITLE6=What A Little Moonlight Can Do
+TTITLE7=Willow Weep for Me
+TTITLE8=Lover Come Back to Me
+TTITLE9=God Bless The Child
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

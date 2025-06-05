@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17132
+#	31182
+#	52845
+#	72537
+#	93862
+#	112965
+#	131342
+#
+# Disc length: 2088 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=5c082608
+DTITLE=Eric Clapton -  In The Blues With EC 1 
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=Rockin' Daddy (Howling Wolf)
+TTITLE1=Blues Power (Clarence Gatemouth Brown)
+TTITLE2=Don't Think Twice (Clarence Gatemouth Brown)
+TTITLE3=Wanna Make Love To You (Bobby Womack)
+TTITLE4=Why Does Love Got To Be So Sad (Buckwheat Zydeco)
+TTITLE5=Chasin' Rainbow (Marc Benno)
+TTITLE6=Last Train (Marc Benno)
+TTITLE7=Long Way Home (Clarence Gatemouth Brown)
+EXTD=YEAR: 2002 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

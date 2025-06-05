@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25660
+#	53938
+#	59521
+#	81881
+#	104452
+#	129073
+#	154127
+#	192298
+#	221738
+#
+# Disc length: 3311 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=850ced0a
+DTITLE=Pablo Ziegler Quartet - Tango meets jazz
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=La muerte del angel (Piazzolla)
+TTITLE1=Milonga en el vento (Ziegler)
+TTITLE2=Pablo's band intro
+TTITLE3=Michelangelo 70 (Piazzolla)
+TTITLE4=Alreador del choclo (Ziegler)
+TTITLE5=Desde otros tiempos (Ziegler)
+TTITLE6=Once again ...milnga (Ziegler)
+TTITLE7=Muchacha de boedo (Ziegler)
+TTITLE8=La cumparsola (Rodriguez)
+TTITLE9=La rayuela (Ziegler)
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	30745
+#	61545
+#	77960
+#	102355
+#	123195
+#	171145
+#	197775
+#
+# Disc length: 3182 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=600c6c08
+DTITLE=Jacques Loussier, Pierre Michelot, Christian Garros - Play Bach No1 - Das Wohltemerierte Klavier, Teil I, Track5 BWV 565
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=Präludium Nr.1 C-Dur
+TTITLE1=Fuge Nr.1 C-Dur
+TTITLE2=Präludium Nr. 2 c-moll
+TTITLE3=Fuge Nr.2 c-moll
+TTITLE4=Toccata und Fuge D-Dur
+TTITLE5=Präludium Nr.8 es-moll
+TTITLE6=Präludium Nr.5 D-Dur
+TTITLE7=Fuge Nr.5 D-Dur
+EXTD=YEAR: 1959 ID3G: 8
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

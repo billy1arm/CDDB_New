@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22322
+#	38800
+#	48370
+#	70565
+#
+# Disc length: 1156 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CD2WAV32(JP) R3.22
+#
+DISCID=3c048205
+DTITLE=DEEN - 永遠の明日
+DYEAR=2008
+DGENRE=J-POP(J)
+TTITLE0=永遠の明日
+TTITLE1=遠い夏の夢
+TTITLE2=夢であるように～テイルズ オブ デスティニーVersion～
+TTITLE3=永遠の明日<off vocal version>
+TTITLE4=遠い夏の夢<off vocal version>
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

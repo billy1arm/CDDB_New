@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43593
+#	158379
+#	169191
+#	223144
+#	245652
+#	308092
+#
+# Disc length: 4561 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=5711cf07
+DTITLE=The John Coltrane Quinte - So Many Things 2
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=I Want to Talk About You (L'Olympia, Paris, November 18th 1961, Second House, cont.)
+TTITLE1=My Favourite Things (L'Olympia, Paris, November 18th 1961, Second House, cont.)
+TTITLE2=Announcement (Falkconercentret, Copenhagen, Denmark, November 20th 1961)
+TTITLE3=Delilah (Falkconercentret, Copenhagen, Denmark, November 20th 1961)
+TTITLE4=Everytime We Say Goodtime (Falkconercentret, Copenhagen, Denmark, November 20th 1961)
+TTITLE5=Impressions (Falkconercentret, Copenhagen, Denmark, November 20th 1961)
+TTITLE6=Naima (Falkconercentret, Copenhagen, Denmark, November 20th 1961)
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54870
+#	105970
+#	172322
+#	209855
+#
+# Disc length: 3292 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=430cda05
+DTITLE=V.S.O.P. The Quintet - Live Under The Sky '79 [CD1]
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Eye Of The Hurracaine
+TTITLE1=Teardrop
+TTITLE2=Domo
+TTITLE3=Para Oriente
+TTITLE4=Pee Wee
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

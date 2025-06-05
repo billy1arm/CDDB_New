@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	109617
+#	152590
+#	198457
+#	267357
+#	303855
+#
+# Disc length: 4491 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=45118906
+DTITLE=Various Artist - David Oïstrakh - Vol.03
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Beethoven - Violin Concerto in D major Op.61 - I. Allegro ma non troppo [Sixten Ehrling, Stockholm Festival Orch - 1954]
+TTITLE1=Beethoven - Violin Concerto in D major Op.61 - II. Larghetto
+TTITLE2=Beethoven - Violin Concerto in D major Op.61 - III. Rondo - Allegro
+TTITLE3=Sibelius - Violin Concerto in D minor Op.47 - I. Allegro moderato
+TTITLE4=Sibelius - Violin Concerto in D minor Op.47 - II. Adagio di molto
+TTITLE5=Sibelius - Violin Concerto in D minor Op.47 - III. Allegro ma non tanto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

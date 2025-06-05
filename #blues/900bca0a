@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8210
+#	29230
+#	59373
+#	87590
+#	113928
+#	146508
+#	167795
+#	180495
+#	209423
+#
+# Disc length: 3020 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=900bca0a
+DTITLE=Ole Amund Gjersvik - A voice from the past
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Hymn
+TTITLE1=Children song
+TTITLE2=Lubbe lu
+TTITLE3=Follow Swallow
+TTITLE4=A voice from the past
+TTITLE5=Song for Charlie (ensemble)
+TTITLE6=Boble
+TTITLE7=Gorgon dances the waltz
+TTITLE8=A night in Bergen
+TTITLE9=Song for Charlie (solo)
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

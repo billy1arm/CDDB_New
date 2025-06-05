@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     142510
+#     268515
+# 
+# Disc length: 4156 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1c103a03
+DTITLE=Dom Lorenzo Perosi - Missa pontificalis - Missa eucharistica - Te Deu
+DYEAR=1900
+DGENRE=
+TTITLE0=Missa pontificalis
+TTITLE1=Missa eucharistica
+TTITLE2=Te Deum
+EXTD=Cappella Aquensis\nAlbert de Klerk, orgel\ndirigent: Andr  Rieu
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

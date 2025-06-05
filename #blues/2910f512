@@ -1,0 +1,88 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27465
+#	44122
+#	58555
+#	70790
+#	85472
+#	101645
+#	121375
+#	146752
+#	175082
+#	201405
+#	214467
+#	236405
+#	250222
+#	279725
+#	290355
+#	299142
+#	318807
+#
+# Disc length: 4343 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2910f512
+DTITLE=Basie Count - Vol. 081 - Live In Stockholm 1954
+DYEAR=1955
+DGENRE=Jazz
+TTITLE0=Nails
+TTITLE1=Jive At Five
+TTITLE2=Yesterdays
+TTITLE3=Blee Blop Blues
+TTITLE4=Two Franks
+TTITLE5=Rock-A-Bye Basie
+TTITLE6=Straight Life
+TTITLE7=Perdido
+TTITLE8=Down For Count
+TTITLE9=Sure Thing
+TTITLE10=16 Men Swinging
+TTITLE11=Blues Backstage
+TTITLE12=Peace Pipe
+TTITLE13=Plymouth Rock
+TTITLE14=Three Little Words
+TTITLE15=How Long Blues
+TTITLE16=Paradise Squat
+TTITLE17=One O´Clock Jump
+EXTD=Jazz Collection Scana 96013 YEAR: 1955
+EXTT0=Harding\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - Wess Frank, Tsax, Fl - Foster Frank, Tsax
+EXTT0=Fowlkes Charlie, Bas - Greene Freddie,Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT1=Edison Harry\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - Wess Frank, Tsax, Fl - Foster Frank,
+EXTT1=Tsax - Fowlkes Charlie, Bas - Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT2=Harbach/Kern\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - Wess Frank, Tsax, Fl - Foster Frank,
+EXTT2=Tsax - Fowlkes Charlie, Bas - Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT3=Basie Count/Atkinson\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry,Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - Wess Frank, Tsax, Fl - Foster
+EXTT3=Frank, Tsax - Fowlkes Charlie, Bas - Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT4=Hefti Neal\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - CulleyWendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - WessFrank, Tsax, Fl - Foster Frank, Tsa
+EXTT4=x - Fowlkes Charlie, Bas - Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT5=Collins/Young/Basie Count\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - Wess Frank, Tsax, Fl - 
+EXTT5=Foster Frank, Tsax - Fowlkes Charlie, Bas - Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT6=Mandel\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - Wess Frank, Tsax, Fl - Foster Frank, Tsax;
+EXTT6=Fowlkes Charlie, Bas - Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT7=Tizol Juan\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - CulleyWendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - WessFrank, Tsax, Fl - Foster Frank, Tsa
+EXTT7=x - Fowlkes Charlie, Bas - Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT8=Foster Frank\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - Wess Frank, Tsax, Fl - Foster Frank,
+EXTT8=Tsax - Fowlkes Charlie, Bas - Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT9=Hefti Neal\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - CulleyWendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - WessFrank, Tsax, Fl - Foster Frank, Tsa
+EXTT9=x - Fowlkes Charlie, Bas - Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT10=Wilkins Ernie\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb;Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - Wess Frank, Tsax, Fl - Foster Frank
+EXTT10=, Tsax - Fowlkes Charlie, Bas - Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT11=Foster Frank\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax;Wess Frank, Tsax, Fl - Foster Frank,
+EXTT11=Tsax - Fowlkes Charlie, Bas - GreeneFreddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT12=Wikins Ernie\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax;Wess Frank, Tsax, Fl - Foster Frank,
+EXTT12=Tsax - Fowlkes Charlie, Bas - GreeneFreddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT13=Hefti Neal\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - Wess Frank, Tsax, Fl - Foster Frank, 
+EXTT13=Tsax - Fowlkes Charlie, Bas - Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT14=Ruby/Kalmar\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - Wess Frank, Tsax, Fl - Foster Frank,
+EXTT14=Tsax - Fowlkes Charlie, Bas - Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT15=Carr\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - Wess Frank, Tsax, Fl - Foster Frank, Tsax - 
+EXTT15=Fowlkes Charlie, Bas - Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT16=Harding/Basie Count\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - Wess Frank, Tsax, Fl - Foste
+EXTT16=r Frank, Tsax - Fowlkes Charlie, Bas;Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+EXTT17=Basie Count\nBasie Count, Pi - Jones Reunald, Trp;Wilder Joe, Trp - Culley Wendell, TRp - Newman Joe, Trp - Hughes Bill, Trb - Coker Henry, Trb - Powell Benny, Trb - Royal Marshall, Asax, Cl - Wilkins Ernie, Asax, Tsax - Wess Frank, Tsax, Fl - Foster Frank,
+EXTT17=Tsax - Fowlkes Charlie, Bas - Greene Freddie, Git - Jones Eddie, Bas - Johnson Gus, Dru;\n1954-03
+PLAYORDER=

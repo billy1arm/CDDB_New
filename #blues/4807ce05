@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36126
+#	71489
+#	104076
+#	125106
+#
+# Disc length: 2000 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=4807ce05
+DTITLE=Herbie Hancock - BlueNote #02
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Maiden Voyage
+TTITLE1=Speak Like a Child
+TTITLE2=Watermelon Man
+TTITLE3=Riot
+TTITLE4=Cantaloupe Island
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

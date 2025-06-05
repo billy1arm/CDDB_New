@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13789
+#	26482
+#	36042
+#	48268
+#	71598
+#	83216
+#	107695
+#	122342
+#	150401
+#	169475
+#	193365
+#
+# Disc length: 2869 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=960b330c
+DTITLE=B.B. KING - Martin Scorsese Presents - The Blues
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Three O' Clock Blues
+TTITLE1=Everyday I Have The Blues
+TTITLE2=Sneakin' Around
+TTITLE3=How Blue Can You Get
+TTITLE4=Don't Answer The Door
+TTITLE5=Paying The Cost To Be The Boss
+TTITLE6=The Thrill Is Gone
+TTITLE7=Ain't Nobody Home
+TTITLE8=Don't You Lie To Me
+TTITLE9=Inflation Blues
+TTITLE10=Playin' With My Friends
+TTITLE11=I'll Survive
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

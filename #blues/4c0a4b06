@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31469
+#	61151
+#	95211
+#	118302
+#	153840
+#
+# Disc length: 2637 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=4c0a4b06
+DTITLE=Beck, Joe and Mitchell, Red - Empathy -- CD 1
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=groove yard
+TTITLE1=polka dots and moonbeams
+TTITLE2=like someone in love
+TTITLE3=soft winds
+TTITLE4=someday my prince will come
+TTITLE5=things we did last summer
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

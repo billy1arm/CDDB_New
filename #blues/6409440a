@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32278
+#	43689
+#	54185
+#	81779
+#	95277
+#	105229
+#	122468
+#	144265
+#	162084
+#
+# Disc length: 2374 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=6409440a
+DTITLE=Various Artist - The Best Of The Blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Every Day I Have The Blues Santana
+TTITLE1=Boogie Chillun' John Lee Hooker
+TTITLE2=Spoonful-Canned Heat
+TTITLE3=Stormy Monday Blues-Joe Turner
+TTITLE4=Mojo Hand- Lightnin' Hopkins
+TTITLE5=The First Time I Met The Blues-Buddy Guy
+TTITLE6=Driftin' Blues-Charles Brown
+TTITLE7=St. James Infimary-Louis Armstrong
+TTITLE8=Mama Talk To Your Daughter-John Mayall
+TTITLE9=It's My Own Fault Baby-B.B.King
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

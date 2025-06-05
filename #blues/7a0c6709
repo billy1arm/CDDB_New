@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22800
+#	42450
+#	67125
+#	103875
+#	129375
+#	162675
+#	189225
+#	217575
+#
+# Disc length: 3177 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a0c6709
+DTITLE=Nalanda - Nalanda
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=BloodFunk
+TTITLE1=She loves me, she loves me not
+TTITLE2=A Legszebbnek
+TTITLE3=Night run
+TTITLE4=In a few words about you
+TTITLE5=Everything old is new again
+TTITLE6=ESOR
+TTITLE7=Holmes
+TTITLE8=Rhyme
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

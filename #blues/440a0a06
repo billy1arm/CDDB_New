@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	25335
+#	67600
+#	91255
+#	115975
+#	147128
+#
+# Disc length: 2572 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=440a0a06
+DTITLE=Jason Hwang - Unfolding Stone
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Mizu
+TTITLE1=Edge Of Elysium
+TTITLE2=Tsuzuriorio (Tapestry)
+TTITLE3=Cloud Call
+TTITLE4=Solitude
+TTITLE5=Unfolding Stone
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

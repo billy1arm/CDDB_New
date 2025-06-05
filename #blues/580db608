@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	35312
+#	70560
+#	98560
+#	139025
+#	181525
+#	208332
+#	233275
+#
+# Disc length: 3512 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.10
+#
+DISCID=580db608
+DTITLE=Harold Faustin - Parallélisme
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Theme for Wynton
+TTITLE1=Blues for Mandela
+TTITLE2=Mizé
+TTITLE3=Tam Tam Dance
+TTITLE4=Senga
+TTITLE5=Parallélisme
+TTITLE6=Flamboyant
+TTITLE7=Blues for Monk
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

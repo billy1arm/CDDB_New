@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18425
+#     39492
+# 
+# Disc length: 804 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1a032203
+DTITLE=Portishead - All Mine
+DYEAR=1900
+DGENRE=
+TTITLE0=All Mine
+TTITLE1=Cowboys
+TTITLE2=Cowboys Instrumental
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

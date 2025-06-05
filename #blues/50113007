@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2401
+#	3530
+#	63949
+#	94448
+#	255753
+#	329035
+#
+# Disc length: 4402 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=50113007
+DTITLE=Kurt Tepperwein - Selbstbewusstsein und Lebensvision CD7
+DYEAR=2004
+DGENRE=New Age
+TTITLE0=Einleitung
+TTITLE1=Jingle
+TTITLE2=Selbst-buwusst-sein - zu Bewusstsein kommen
+TTITLE3=Das Ziel festlegen
+TTITLE4=Chance als Mensch geboren zu sein
+TTITLE5=Hindernis ICH Wahl des Weges
+TTITLE6=Jingle
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

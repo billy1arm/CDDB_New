@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24001
+#	40240
+#	64132
+#	80401
+#	104304
+#
+# Disc length: 1706 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3e06a806
+DTITLE=氷川きよし - 虹色のバイヨン【Aタイプ】
+DYEAR=2010
+DGENRE=JPop
+TTITLE0=虹色のバイヨン
+TTITLE1=きらめきのサンバ
+TTITLE2=虹色のバイヨン（オリジナル・カラオケ）
+TTITLE3=きらめきのサンバ（オリジナル・カラオケ）
+TTITLE4=虹色のバイヨン（半音下げオリジナル・カラオケ）
+TTITLE5=虹色のバイヨン（半音下げオリジナル・カラオケガイドメロ入り）
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

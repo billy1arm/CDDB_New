@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	60155
+#	119760
+#	174559
+#
+# Disc length: 3173 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2f0c6304
+DTITLE=Roland Sante - Cosmic Journey
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=Cosmic Song
+TTITLE1=Galactic Time
+TTITLE2=Starlight
+TTITLE3=Heaven's Gate
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

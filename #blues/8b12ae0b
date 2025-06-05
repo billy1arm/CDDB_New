@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13159
+#	26275
+#	41297
+#	99412
+#	117363
+#	184185
+#	210885
+#	251797
+#	294162
+#	346203
+#
+# Disc length: 4784 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8b12ae0b
+DTITLE=Miles Davis - The Best Of Cool
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Florence Sur Les Champs-Elisees
+TTITLE1=Au Bar Du Petit Bac
+TTITLE2=Summertime
+TTITLE3=Stella By Starlight
+TTITLE4=Chez Le Photographe Du Motel
+TTITLE5=My Funny Falentine
+TTITLE6=Round Midnight
+TTITLE7=So What
+TTITLE8=Flamenco Sketches
+TTITLE9=All Blues
+TTITLE10=Generique
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

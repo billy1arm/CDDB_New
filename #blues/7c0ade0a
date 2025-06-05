@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20960
+#	41280
+#	60752
+#	81847
+#	104742
+#	125472
+#	149410
+#	167275
+#	188537
+#
+# Disc length: 2784 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7c0ade0a
+DTITLE=Various Artist - Colombia Te Canta III
+DYEAR=1999
+DGENRE=Salsa
+TTITLE0=Jerry Galante - Pa'l Bailador
+TTITLE1=Orquesta Guayacan - Llego El Amor
+TTITLE2=Orquesta Matecaña - Cali Calor
+TTITLE3=Cali Aleman - Amor Sin Control
+TTITLE4=Grupo Raices - Guaganco Pa' La Calle
+TTITLE5=Alberto Barros - Tu Indiferencia
+TTITLE6=Grupo Caneo - Olvido
+TTITLE7=Checo Acosta - Quiero Volver
+TTITLE8=Kike Santana - No Me Alcancara La Vida
+TTITLE9=La Misma Gente - Un Verano En Cali
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

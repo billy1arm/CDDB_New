@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21577
+#	42850
+#	68052
+#
+# Disc length: 1142 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=30047404
+DTITLE=EL-MALO - COLOR
+DYEAR=1995
+DGENRE=Rock
+TTITLE0=COLOR(Radio Edit)
+TTITLE1=COLOR#2(14/Mar/96 Band Session)
+TTITLE2=COLOR#3(EL-MARIN Mix)
+TTITLE3=Bluebird(Unplugged Live)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

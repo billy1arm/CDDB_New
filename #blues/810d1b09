@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22258
+#	64571
+#	84822
+#	106090
+#	148187
+#	172340
+#	198571
+#	219533
+#
+# Disc length: 3357 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=810d1b09
+DTITLE=Toneart - Toneart
+DYEAR=2013
+DGENRE=Jazz
+TTITLE0=Festival - 200M
+TTITLE1=Normandie
+TTITLE2=Plan B
+TTITLE3=R 60
+TTITLE4=Sandbanks
+TTITLE5=Und Weiter Ist Nichts Los
+TTITLE6=Costa Rica
+TTITLE7=Repetition
+TTITLE8=Da Sein
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

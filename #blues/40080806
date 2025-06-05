@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20333
+#	49840
+#	76993
+#	98743
+#	128154
+#
+# Disc length: 2058 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=40080806
+DTITLE=Herb Harris - New York Daze and Knight
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Monkee See Monkee Doo
+TTITLE1=NY Daze NY Knights
+TTITLE2=Robert Earl
+TTITLE3=A Two-Per To Fill
+TTITLE4=Alice Yvonne
+TTITLE5=Paranoia
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

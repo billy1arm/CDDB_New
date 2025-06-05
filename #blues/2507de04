@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34749
+#	68349
+#	100071
+#
+# Disc length: 2016 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2507de04
+DTITLE=Normal Jean - Circle
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Homecoming
+TTITLE1=Circle
+TTITLE2=Isolated
+TTITLE3=These Things (live at UMO Jazz House)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

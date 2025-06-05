@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	27122
+#	53777
+#	82680
+#	107410
+#	140290
+#	170530
+#	199520
+#
+# Disc length: 2779 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=550ad908
+DTITLE=Bill Evans - Paris 1965
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Elsa
+TTITLE1=I Should Care
+TTITLE2=Peace, Piece
+TTITLE3=Come Rain Or Come Shine
+TTITLE4=Some Other Time
+TTITLE5=Nardis
+TTITLE6=How Deep Is The Ocean
+TTITLE7=Israel
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

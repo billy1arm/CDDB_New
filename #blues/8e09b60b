@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15191
+#     29122
+#     60392
+#     78915
+#     91439
+#     115212
+#     128930
+#     145763
+#     162527
+#     178819
+# 
+# Disc length: 2488 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8e09b60b
+DTITLE=Joey Love - Good Phone
+DYEAR=1900
+DGENRE=
+TTITLE0=I Ain't Gonna Put-Up
+TTITLE1=Smilin' Cause I'm Thru With You
+TTITLE2=(You Give)... Good Phone
+TTITLE3=Mama Told Me
+TTITLE4=Last Broken Heart
+TTITLE5=Lead Me Thru Your Door
+TTITLE6=Buttercup
+TTITLE7=Givin' Up On Love
+TTITLE8=Since We Fell Apart
+TTITLE9=Comin' Back For More
+TTITLE10=Mud Buggin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

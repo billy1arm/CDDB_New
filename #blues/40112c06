@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6589
+#	117101
+#	165051
+#	234842
+#	289946
+#
+# Disc length: 4398 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=40112c06
+DTITLE=Kempowski, Walter - Aus großer Zeit - CD 10
+DYEAR=2001
+DGENRE=Hörbuch
+TTITLE0=Musik
+TTITLE1=Kapitel 32
+TTITLE2=Kapitel 33, Ein Kamerad
+TTITLE3=Kapitel 34
+TTITLE4=Kapitel 35
+TTITLE5=Kapitel 36, Die Freundin
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

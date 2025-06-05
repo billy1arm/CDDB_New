@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21605
+#	45377
+#	69168
+#	92550
+#	111966
+#	132115
+#	152583
+#	179009
+#	218595
+#
+# Disc length: 3445 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=810d730a
+DTITLE=Spill - Amplitude
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=fada verde
+TTITLE1=cicle
+TTITLE2=jamaika plain
+TTITLE3=amplitude
+TTITLE4=lake
+TTITLE5=wiggle
+TTITLE6=time
+TTITLE7=4
+TTITLE8=spill
+TTITLE9=back to you
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

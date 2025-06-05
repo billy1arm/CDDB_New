@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     180
+#     13003
+#     26382
+#     46143
+#     63606
+#     84920
+#     107584
+#     138648
+#     166626
+#     179753
+#     205596
+#     223797
+# 
+# Disc length: 3225 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9d0c970c
+DTITLE=The Crew - Mystery Train
+DYEAR=1900
+DGENRE=
+TTITLE0=Till Tomorrow
+TTITLE1=Homeward Bound
+TTITLE2=Mystery Train
+TTITLE3=Bandera
+TTITLE4=Out Of Nowhere
+TTITLE5=Work Song
+TTITLE6=I Can t Go
+TTITLE7=Memories
+TTITLE8=Green Stuff
+TTITLE9=Turn The Page
+TTITLE10=Running Man
+TTITLE11=Baby Please Don t Go
+EXTD=
+EXTT0=by The Crew
+EXTT1=by The Crew
+EXTT2=by German Parker jr. - Sam Phillips
+EXTT3=by The Crew
+EXTT4=by The Crew
+EXTT5=by Adderly - Brown
+EXTT6=by The Crew
+EXTT7=by The Crew
+EXTT8=by Gary Fletcher
+EXTT9=by Bob Seeger
+EXTT10=by The Crew
+EXTT11=by Big Joe Williams
+PLAYORDER=

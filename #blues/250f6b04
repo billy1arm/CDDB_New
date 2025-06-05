@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	85765
+#	165459
+#	203086
+#
+# Disc length: 3949 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=250f6b04
+DTITLE=John Coltrane - Anthology disk 4
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Chim Chim Cheree
+TTITLE1=Bye Bye Blackbird
+TTITLE2=I Want To Talk About You
+TTITLE3=Roy
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

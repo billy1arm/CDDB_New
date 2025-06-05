@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57688
+#	72985
+#	105363
+#	168530
+#	230416
+#
+# Disc length: 3202 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4f0c8006
+DTITLE=Miles Davis - Ann Arbor 1970
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=It's About That Time
+TTITLE1=I Fall In Love Too Easily
+TTITLE2=Sanctuary
+TTITLE3=Bitches Brew
+TTITLE4=Masqualero
+TTITLE5=The Theme
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

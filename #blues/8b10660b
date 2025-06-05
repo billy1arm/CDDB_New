@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27997
+#	62947
+#	91420
+#	117150
+#	136770
+#	159972
+#	180790
+#	215235
+#	243022
+#	288012
+#
+# Disc length: 4200 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=8b10660b
+DTITLE=Art Pepper - The Hollywood All-Star Sessions Disc 2
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Broadway
+TTITLE1=Historia de Un Amor
+TTITLE2=Minority
+TTITLE3=You'd be so nice to come home to you (alternate)
+TTITLE4=Broadway (alternate)
+TTITLE5=Strike up the band
+TTITLE6=You go to my head
+TTITLE7=I surrender, dear
+TTITLE8=Y.I. Blues
+TTITLE9=Night and day
+TTITLE10=Everything happens to me
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23522
+#	44475
+#	64335
+#	82960
+#	97345
+#	115515
+#	133567
+#	157160
+#
+# Disc length: 2412 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=73096a09
+DTITLE=J-Blues - Sunday Blues Live
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Keep Your Hands Off Him
+TTITLE1=Wang Dang Doodle 
+TTITLE2=I'm Am A Man
+TTITLE3=Tumble Weed
+TTITLE4=Good Morning Little School Girl
+TTITLE5=Mercedes Benz
+TTITLE6=Someday After While
+TTITLE7=Jailhouse Rock
+TTITLE8=Rock Steady
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

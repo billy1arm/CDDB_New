@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41218
+#	54640
+#	100070
+#	143597
+#	195357
+#
+# Disc length: 2774 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=4b0ad406
+DTITLE=John Mayall - The Diary Of A Band (Vol 1)
+DYEAR=1968
+DGENRE=Blues
+TTITLE0=Blood On The Night
+TTITLE1=Edmonton - Cooks Ferry Inn
+TTITLE2=I Can't Quit You Baby
+TTITLE3=Medley (Anzio Annie/Snowy Wood/The Lesson)
+TTITLE4=My Own Fault
+TTITLE5=God Save The Queen
+EXTD=ID3G:   0 YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

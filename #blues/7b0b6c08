@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20987
+#	55135
+#	81552
+#	106775
+#	134717
+#	156570
+#	179900
+#
+# Disc length: 2926 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7b0b6c08
+DTITLE=Mike Travis's EH15 - The View from Where
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Regarding Nelson
+TTITLE1=Grandfather Clock Menace
+TTITLE2=Cycle Time
+TTITLE3=Forethought
+TTITLE4=L'Allegria
+TTITLE5=Moonlight over Joppa
+TTITLE6=Shall we Mr. Witherspoon
+TTITLE7=Backtalk
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31922
+#	63387
+#	80522
+#	120435
+#	130935
+#	154827
+#	166942
+#
+# Disc length: 2439 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5d098508
+DTITLE=Ido Bukelman Trio - City Tail
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Seagull Shore
+TTITLE1=Ornette
+TTITLE2=I need a song
+TTITLE3=Half time City
+TTITLE4=Woods
+TTITLE5=Rose Scar
+TTITLE6=Ornette's Tail
+TTITLE7=Closed Room
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5160
+#	28597
+#	50995
+#	92167
+#	126025
+#	137565
+#	169895
+#	193847
+#	234082
+#
+# Disc length: 3166 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=870c5c0a
+DTITLE=Lutz Gerlach - Berlin Zionskirchplatz
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Zionskirchplatz
+TTITLE1=Zionskirche 1
+TTITLE2=Zionskirche 2
+TTITLE3=und friedlich flieﬂt die Spree
+TTITLE4=E-Musik
+TTITLE5=Zionskirche 3
+TTITLE6=open windows
+TTITLE7=Zionskirche 4
+TTITLE8=Zionskirche 5
+TTITLE9=Gemeindefest
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

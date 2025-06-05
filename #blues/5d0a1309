@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17062
+#	31875
+#	52707
+#	81025
+#	106175
+#	123407
+#	151950
+#	171187
+#
+# Disc length: 2581 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5d0a1309
+DTITLE=絵里 - limelight
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=greensleeves
+TTITLE1=django
+TTITLE2=scarborough fair
+TTITLE3=maiden voyage
+TTITLE4=morning mood
+TTITLE5=bordel 1900
+TTITLE6=nightclub 1960
+TTITLE7=limelight
+TTITLE8=amapola
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

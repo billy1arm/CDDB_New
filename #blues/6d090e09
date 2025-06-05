@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11615
+#	26192
+#	40997
+#	52695
+#	69175
+#	89265
+#	142080
+#	162875
+#
+# Disc length: 2320 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d090e09
+DTITLE=Astor Piazzolla - モダン・タンゴの２０年
+DYEAR=1998
+DGENRE=Tango
+TTITLE0=曲がり角（エル・レコド） - EL　RECODO
+TTITLE1=クリオージョの誇り - ORGULLO CRIOLLO
+TTITLE2=プレパレンセ（用意はいいか） - PREPARENSE
+TTITLE3=インペリアル - IMPERIAL
+TTITLE4=バンドネオン、ギターとベース - BANDONEON, GUITARRA Y BAJO
+TTITLE5=ルンファルド（隠語） - LUNFARDO
+TTITLE6=タンゴ・バレエ - TANGO BALLET
+TTITLE7=カリンテ - CALINTE
+TTITLE8=コンテンポラネオ - CONTEMPORANEO
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     36365
+#     81180
+#     107940
+#     115340
+#     130120
+#     172115
+#     213660
+#     244640
+#     287167
+# 
+# Disc length: 4345 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9510f70a
+DTITLE=Dorothy Donegan - The Incredible Dorothy Donegan Trio
+DYEAR=1900
+DGENRE=
+TTITLE0=Warsaw Concerto - Lover Medley
+TTITLE1=Easy Living - Happy Go Lucky Local Medley
+TTITLE2=Sweet Lorraine
+TTITLE3=Remarks By Dizzy Gillespie
+TTITLE4=Time After Time
+TTITLE5=Things Ain't What They Used To Be
+TTITLE6=Tea For Two
+TTITLE7=Bumble Bee Boogie
+TTITLE8=St. Louis Blues
+TTITLE9=Jazzspeak
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

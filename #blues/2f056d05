@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16508
+#	34264
+#	58545
+#	80482
+#
+# Disc length: 1391 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.05
+#
+DISCID=2f056d05
+DTITLE=Breeze - La Plage (Lenor TV Ad, Single)
+DYEAR=1995
+DGENRE=Pop
+TTITLE0=La Plage (Lenor TV Ad, Groovy Radio Edit)
+TTITLE1=La Plage (Lenor TV Ad, Native Radio Edit)
+TTITLE2=La Plage (Lenor TV Ad, Techno Mix)
+TTITLE3=La Plage (Lenor TV Ad, Groove Mix)
+TTITLE4=Native Vision
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

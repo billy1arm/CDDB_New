@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24002
+#	68367
+#	90795
+#	149112
+#
+# Disc length: 2571 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=300a0905
+DTITLE=Lester Bowie - Fast Last!
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Lonely Woman
+TTITLE1=Banana Whistle
+TTITLE2=Hello Dolly
+TTITLE3=Fast Last - C
+TTITLE4=F Troop Rides Again
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

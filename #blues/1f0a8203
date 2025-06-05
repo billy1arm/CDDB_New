@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	59387
+#	105558
+#
+# Disc length: 2692 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=1f0a8203
+DTITLE=Herbie Hancock - Mwandishi
+DYEAR=1971
+DGENRE=Jazz
+TTITLE0=Ostinato (Suite For Angela)
+TTITLE1=You'll Know When You Get There
+TTITLE2=Wandering Spirit Song
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

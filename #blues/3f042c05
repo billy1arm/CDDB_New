@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	16385
+#	31493
+#	43275
+#	64123
+#
+# Disc length: 1070 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3f042c05
+DTITLE=Yeh Jazz - April
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=April
+TTITLE1=Distant Trains
+TTITLE2=Cathy smiles
+TTITLE3=Rainbows
+TTITLE4=Lorraine and Duane
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

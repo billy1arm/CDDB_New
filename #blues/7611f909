@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42671
+#	84752
+#	115190
+#	154221
+#	207992
+#	250533
+#	287872
+#	326469
+#
+# Disc length: 4603 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7611f909
+DTITLE=Kafka, Franz - Der Prozess
+DYEAR=2007
+DGENRE=Hoerbuch
+TTITLE0=01 Der Prozess
+TTITLE1=02 Der Prozess
+TTITLE2=03 Der Prozess
+TTITLE3=04 Der Prozess
+TTITLE4=05 Der Prozess
+TTITLE5=06 Der Prozess
+TTITLE6=07 Der Prozess
+TTITLE7=08 Der Prozess
+TTITLE8=09 Der Prozess
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

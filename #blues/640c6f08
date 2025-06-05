@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28011
+#	60158
+#	94508
+#	118769
+#	157241
+#	185599
+#	213129
+#
+# Disc length: 3185 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=640c6f08
+DTITLE=Gerry Mulligan - My Funny Valentine - CD 4
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Blight of the Fumble Bee
+TTITLE1=Song for Jonny Hodges
+TTITLE2=Gerry Meets Hamp
+TTITLE3=Limelight
+TTITLE4=Blues for Gerry
+TTITLE5=Apple Core
+TTITLE6=Line for Lyons
+TTITLE7=Walking Shoes
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18157
+#	82795
+#	172849
+#	210044
+#	220107
+#	254087
+#	262163
+#
+# Disc length: 4574 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5e11dc08
+DTITLE=Jacques Loussier Trio - Play Bach
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Prelude #1
+TTITLE1=Concerto Italien
+TTITLE2=Partita en Si Bemol
+TTITLE3=Invention #5
+TTITLE4=Prelude #2
+TTITLE5=Choral #1
+TTITLE6=Prelude #12
+TTITLE7=Concerto en Re Mineur
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

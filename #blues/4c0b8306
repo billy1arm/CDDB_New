@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36282
+#	58201
+#	76294
+#	97086
+#	137438
+#
+# Disc length: 2949 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4c0b8306
+DTITLE=Beethoven - Sonates pour piano  N°3 and 32
+DYEAR=1900
+DGENRE=Piano
+TTITLE0=Sonate N°3  en mi bémol majeur Op.31 - I. Allegro    { Annie Fischer, piano }
+TTITLE1=Sonate N°3  en mi bémol majeur Op.31 - II. Scherzo
+TTITLE2=Sonate N°3  en mi bémol majeur Op.31 - III. Menuetto
+TTITLE3=Sonate N°3  en mi bémol majeur Op.31 - IV. Presto non fuoco
+TTITLE4=Sonate N°32  en ut mineur Op.111 - I. Maestoso - Allegro con brio e appasionato  {Richard Ray, piano}
+TTITLE5=Sonate N°32  en ut mineur Op.111 - II. Arietta - Adagio molto semplice e cantabile
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

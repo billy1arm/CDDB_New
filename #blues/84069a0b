@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9317
+#	24250
+#	36945
+#	50832
+#	63740
+#	75077
+#	86030
+#	96845
+#	108582
+#	115922
+#
+# Disc length: 1692 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=84069a0b
+DTITLE=Earl Hooker - Sweet Black Angel
+DYEAR=1970
+DGENRE=Blues
+TTITLE0=I Feel Good
+TTITLE1=Drivin' Wheel
+TTITLE2=Shuffle
+TTITLE3=Country And Western
+TTITLE4=Sweet Home Chicago
+TTITLE5=Sweet Black Angel
+TTITLE6=Boogie, Don't Blot!
+TTITLE7=Cross Cut Saw
+TTITLE8=Catfish Blues
+TTITLE9=The Mood
+TTITLE10=Funky Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

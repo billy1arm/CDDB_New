@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35722
+#	63286
+#	115465
+#	157609
+#	218380
+#	231734
+#	254736
+#	280722
+#
+# Disc length: 4458 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta6
+#
+DISCID=7e116809
+DTITLE=Charlie Parker - Live at Carnegie Hall
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Ode to Yard
+TTITLE1=Groovin' high
+TTITLE2=Blues
+TTITLE3=A night in Tunisia
+TTITLE4=Now's the time
+TTITLE5=Donna Lee
+TTITLE6=Cherokee
+TTITLE7=Blues for Bird
+TTITLE8=Bird watcher-Disorder at the border
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22322
+#	57617
+#	90545
+#	116967
+#	148627
+#
+# Disc length: 2289 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta3
+#
+DISCID=5a08ef06
+DTITLE=Mal Waldron - Mal-1
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Stablemates
+TTITLE1=Yesterdays
+TTITLE2=Transfiguration
+TTITLE3=Bud Study
+TTITLE4=Dee's Dilemma
+TTITLE5=Shome
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

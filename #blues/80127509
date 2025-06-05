@@ -1,0 +1,44 @@
+# xmcd
+# Copyright (c) 1998 CDDB Inc.
+#
+# Track frame offsets:
+#	150
+#	35290
+#	56630
+#	124980
+#	161160
+#	217660
+#	239650
+#	290430
+#	310851
+#
+# Disc length: 4727 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.62
+#
+DISCID=80127509
+DTITLE=aþýk ali - hayat hikayem
+DYEAR=1900
+DGENRE=
+TTITLE0=aþýk ali ataeþ - hayat hikayem
+TTITLE1=Track - 2
+TTITLE2=Track - 3
+TTITLE3=Track - 4
+TTITLE4=Track - 5
+TTITLE5=Track - 6
+TTITLE6=Track - 7
+TTITLE7=Track - 8
+TTITLE8=Track - 9
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

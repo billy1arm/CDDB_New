@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	182
+# 	20635
+# 	39590
+# 	53905
+# 	70712
+# 	91885
+# 	112130
+# 	136337
+# 	165440
+# 	188842
+# 	206960
+#
+# Disc length: 3066 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=9a0bf80b
+DTITLE=John Lee Hooker - I Feel Good
+DYEAR=1900
+DGENRE=
+TTITLE0=Baby Baby
+TTITLE1=I Feel Good
+TTITLE2=Going Home
+TTITLE3=We Are Cooking
+TTITLE4=Looking Back Over My Day
+TTITLE5=Dazie Mae
+TTITLE6=Stand Back
+TTITLE7=Call It The Night
+TTITLE8=Roll And Tumble
+TTITLE9=Bottle Of Vine
+TTITLE10=Baby Don't Do Me Wrong
+EXTD=
+EXTT0=Written by JL Hooker -- Published by Rideau Rouge
+EXTT1=Written by JL Hooker -- Published by Rideau Rouge
+EXTT2=Written by JL Hooker -- Published by Rideau Rouge
+EXTT3=Written by JL Hooker -- Published by Topomic Music
+EXTT4=Written by JL Hooker -- Published by Rideau Rouge
+EXTT5=Written by JL Hooker -- Published by Rideau Rouge
+EXTT6=Written by JL Hooker -- Published by Rideau Rouge
+EXTT7=Written by JL Hooker -- Published by Topomic Music
+EXTT8=Written by JL Hooker -- Published by Topomic Music
+EXTT9=Written by JL Hooker -- Published by Topomic Music
+EXTT10=Written by JL Hooker -- Published by Rideau Rouge
+PLAYORDER=

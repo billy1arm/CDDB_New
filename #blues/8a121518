@@ -1,0 +1,88 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	11940
+#	31012
+#	44970
+#	57925
+#	74115
+#	87857
+#	104875
+#	119172
+#	137095
+#	146725
+#	164057
+#	176020
+#	190895
+#	207487
+#	221105
+#	238232
+#	250015
+#	260790
+#	278587
+#	295730
+#	305617
+#	315847
+#	331665
+#
+# Disc length: 4631 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8a121518
+DTITLE=Al Cook - Victrola Blues
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Bad Boy Blues
+TTITLE1=Georgia Blues
+TTITLE2=Mississippi Blues
+TTITLE3=Blue Prayer
+TTITLE4=The Sunday Suit
+TTITLE5=My Baby Left Me This Mornin'
+TTITLE6=St. Luis Woman Blues
+TTITLE7=I'm Down With The Blues
+TTITLE8=Mister Blues
+TTITLE9=East Coast Rag
+TTITLE10=Mean Old Alabam'
+TTITLE11=The Worried Blues
+TTITLE12=Cook It Up
+TTITLE13=Down South
+TTITLE14=Beale Street Breakdown
+TTITLE15=Bad Things On My Mind
+TTITLE16=Mississippi River Blues
+TTITLE17=Let Me Be Your Honeydripper
+TTITLE18=My Sweet Lovin' Mama
+TTITLE19=At The Barrelhouse
+TTITLE20=Washboard Boogie
+TTITLE21=No Kind Hearted Woman's Slave
+TTITLE22=The Bluebird Blues
+TTITLE23=Death Valley Blues
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+PLAYORDER=

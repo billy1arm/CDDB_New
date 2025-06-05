@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20759
+#	43643
+#	65543
+#	83376
+#	106583
+#	130303
+#	156277
+#	173375
+#	190422
+#	215841
+#	242479
+#
+# Disc length: 3500 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=980daa0c
+DTITLE=Prowizorka Jazz Band - Koncert RAdiowy - Polskie Radio Pomorza i Kujaw
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=destination k.c.
+TTITLE1=bernie's tune
+TTITLE2=basin str. blues
+TTITLE3=red light
+TTITLE4=taps miller
+TTITLE5=bean at the meat
+TTITLE6=moten swing
+TTITLE7=tico-tico
+TTITLE8=thru for the night
+TTITLE9=crazy rythm
+TTITLE10=i've got rythm
+TTITLE11=samba słoneczko
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11974
+#	26024
+#	39834
+#	54162
+#
+# Disc length: 1265 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3204ef05
+DTITLE=Les cinq glorieuses - Mon CD jazzmagazine
+DYEAR=2017
+DGENRE=Jazz
+TTITLE0=Original Dixieland Jazz Band - Dixie Jass Band One Step
+TTITLE1=Louis Armstrong - Hotter Than That
+TTITLE2=Count Basie - One O'Clock Jump
+TTITLE3=Klact-Oveeseds-tene
+TTITLE4=Sonny Rollins - A Night In Tunisia
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

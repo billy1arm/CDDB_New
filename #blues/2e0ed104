@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	92007
+#	166490
+#	238390
+#
+# Disc length: 3795 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e0ed104
+DTITLE=Liszt - Poemi sinfonici
+DYEAR=2001
+DGENRE=Classical
+TTITLE0=Tasso, Lamento e trionfo
+TTITLE1=I Preludi
+TTITLE2=Mazeppa
+TTITLE3=Orfeo
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

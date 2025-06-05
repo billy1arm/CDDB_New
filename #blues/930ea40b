@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	183
+#	16878
+#	43408
+#	61170
+#	85355
+#	140333
+#	158860
+#	174295
+#	206178
+#	221403
+#	247848
+#
+# Disc length: 3750 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL1
+#
+DISCID=930ea40b
+DTITLE=Blues Basement - Arctic Blues [Live from Bodx]
+DYEAR=1900
+DGENRE=
+TTITLE0=Walk in my shadow
+TTITLE1=Bad mood blues
+TTITLE2=The iron lady blues
+TTITLE3=Just give me loving
+TTITLE4=Have you ever loved a woman?
+TTITLE5=All the love
+TTITLE6=My heart beat like a hammer
+TTITLE7=Chicago nightlife
+TTITLE8=You'll never know
+TTITLE9=So many roads
+TTITLE10=Gone fishing blues
+EXTD=Eirik Steinsvik - Guitar\nPeter N. Glanfield - bass, vocals, harm
+EXTD=onica\nOle Marius Lund - vocals, guitar, harmonica\nKjell Ege Somm
+EXTD=erbakk - keyboards\nFrank Xrnxy - drums\n\nRecorded live at Sinus, 
+EXTD=Bodx, Norway\nOctober 12th 1990.\n
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

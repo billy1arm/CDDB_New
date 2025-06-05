@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19039
+#	40215
+#	68123
+#	93821
+#	120889
+#
+# Disc length: 2010 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=3c07d806
+DTITLE=Miles Ahead - Milepost 1
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Perpetually Petulantly grey
+TTITLE1=Cool and Blue
+TTITLE2=Sidewalk Cafe Rendevous
+TTITLE3=Smoke This
+TTITLE4=Open Road Run
+TTITLE5=Desert Rumba
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

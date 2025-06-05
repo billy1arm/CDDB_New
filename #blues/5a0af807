@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5260
+#	41498
+#	68905
+#	104775
+#	147870
+#	171050
+#
+# Disc length: 2810 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.14
+#
+DISCID=5a0af807
+DTITLE=claude diallo trio - live in switzerland
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=intro
+TTITLE1=blues for chris
+TTITLE2=there is hope
+TTITLE3=this i dig of you
+TTITLE4=sail away
+TTITLE5=blame it on my youth
+TTITLE6=i'm afraid the masquerade is over
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

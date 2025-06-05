@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21892
+#	40957
+#	57062
+#	79482
+#	95480
+#	121707
+#	148272
+#	167412
+#	183497
+#	205182
+#	221642
+#
+# Disc length: 3226 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL2
+#
+DISCID=a70c980c
+DTITLE=Rhythm Lords - Lone Wolf
+DYEAR=1900
+DGENRE=
+TTITLE0=Java Headed Woman
+TTITLE1=It's My Soul
+TTITLE2=Gonna Ride
+TTITLE3=Just One Of Them Days
+TTITLE4=Scorpion
+TTITLE5=Let Her Go
+TTITLE6=Trouble No More
+TTITLE7=So Many Women
+TTITLE8=Crazy Mixed Up World
+TTITLE9=Workin Blues
+TTITLE10=Blues Dogs
+TTITLE11=Fender Bender
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

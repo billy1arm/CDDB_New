@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43649
+#	80491
+#	146498
+#	191757
+#	225101
+#
+# Disc length: 3934 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=430f5c06
+DTITLE=Colusseum - Live
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Rope Ladder To The Moon
+TTITLE1=Walking In The Park
+TTITLE2=Skelington
+TTITLE3=Tenglewood'63
+TTITLE4=Encore ... Stormy Monday Blues
+TTITLE5=Lost Angeles
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

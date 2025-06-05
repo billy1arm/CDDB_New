@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15400
+#	30522
+#	47007
+#	92872
+#	105740
+#	156662
+#
+# Disc length: 2314 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta7
+#
+DISCID=4f090807
+DTITLE=Lou Rawls - Lou Rawls - Live Disk One
+DYEAR=1978
+DGENRE=Blues
+TTITLE0=Overture (You'll Never Find Another Love Like Mine)
+TTITLE1=Groovy People
+TTITLE2=Stay Awhile With Me
+TTITLE3=Charge Card Blues Medley
+TTITLE4=Pure Imagination
+TTITLE5=Dead End Street/Tobacco Road/Love is a Hurtin' Thing/A Natural
+TTITLE6=Lady Love
+EXTD=YEAR: 1978 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38485
+#	96350
+#	179452
+#
+# Disc length: 3045 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=2a0be304
+DTITLE=阿部　薫 - またの日の夢物語　solo.1972.1.21
+DYEAR=1972
+DGENRE=Jazz
+TTITLE0=1972.1.21 Alto 1
+TTITLE1=1972.1.21 Alto 2
+TTITLE2=1972.1.21 Bcl 1
+TTITLE3=1972.1.21 Alto 3
+EXTD=YEAR: 1972.1.21
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

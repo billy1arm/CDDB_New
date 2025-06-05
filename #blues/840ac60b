@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19052
+#     34157
+#     52527
+#     75550
+#     100907
+#     118177
+#     136902
+#     156570
+#     171922
+#     187870
+# 
+# Disc length: 2760 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=840ac60b
+DTITLE=Midge Marsden - Travellin On
+DYEAR=1900
+DGENRE=
+TTITLE0=Travellin On
+TTITLE1=Don't Wait Up
+TTITLE2=Promised Me Love
+TTITLE3=Pretzel Logic
+TTITLE4=Need Your Love So Bad
+TTITLE5=Wait Until Tomorrow
+TTITLE6=All I want is You
+TTITLE7=Love Junkie
+TTITLE8=The Kids Are Alright
+TTITLE9=For All it's Worth
+TTITLE10=Southern Moonlight
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

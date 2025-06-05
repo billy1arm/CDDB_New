@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	22675
+#	42422
+#	63420
+#	84367
+#	98865
+#	118780
+#	133022
+#	148562
+#	168585
+#
+# Disc length: 2478 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=8209a20a,8a098b0a
+DTITLE=Rolling Stones - Some Girls
+DYEAR=1900
+DGENRE=
+TTITLE0=Miss You
+TTITLE1=When The Whip Comes Down
+TTITLE2=Just My Imagination
+TTITLE3=Some Girls
+TTITLE4=Lies
+TTITLE5=Far Away Eyes
+TTITLE6=Respectable
+TTITLE7=Before They Make Me Run
+TTITLE8=Beast Of Burden
+TTITLE9=Shattered
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

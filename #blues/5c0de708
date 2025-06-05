@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22800
+#	48977
+#	76925
+#	109812
+#	168997
+#	190942
+#	218052
+#
+# Disc length: 3561 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=5c0de708
+DTITLE=B. B. King and His Orchestra - The Thrill Is Gone
+DYEAR=1983
+DGENRE=Jazz
+TTITLE0=The Thrill Is Gone
+TTITLE1=Guess Who
+TTITLE2=Paying The Cost To Be The Boss
+TTITLE3=All Over Again
+TTITLE4=Jam
+TTITLE5=Every Day I Have The Blues
+TTITLE6=Sweet Little Angel
+TTITLE7=B.B.s Theme
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

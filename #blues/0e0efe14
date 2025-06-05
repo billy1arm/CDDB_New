@@ -1,0 +1,77 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13705
+#	28672
+#	41400
+#	55110
+#	69517
+#	84967
+#	97680
+#	110995
+#	124397
+#	138977
+#	152787
+#	168695
+#	181962
+#	196485
+#	212400
+#	225872
+#	241492
+#	256955
+#	272732
+#
+# Disc length: 3840 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=0e0efe14
+DTITLE=Bessie Smith - The Gold Collection - 40 Classic Performances CD 2
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Alexander's Ragtime Band
+TTITLE1=Back Water Blues
+TTITLE2=It Won't Be You
+TTITLE3=Empty Bed Blues (Part 1)
+TTITLE4=Devil's Gonna Git You
+TTITLE5=Poor Man's Blues
+TTITLE6=I'm Wild About That Thing
+TTITLE7=Kittchen Man
+TTITLE8=Nobody Knows You When You're Down And Out
+TTITLE9=He's Got Me Goin'
+TTITLE10=Wasted Life Blues
+TTITLE11=Keep It To Yourself
+TTITLE12=On Revival Day (A Rhythmic Spiritual)
+TTITLE13=Moan, You Moaners
+TTITLE14=Hustlin' Day
+TTITLE15=New Orleans Hop Scop Blues
+TTITLE16=Long Old Road
+TTITLE17=Safety Mama
+TTITLE18=Gimme A Pigfoot
+TTITLE19=Do Your Duty
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

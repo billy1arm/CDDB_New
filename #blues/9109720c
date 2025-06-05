@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10800
+#	18000
+#	34950
+#	52782
+#	64950
+#	87825
+#	100482
+#	119812
+#	134250
+#	155267
+#	167325
+#
+# Disc length: 2420 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9109720c
+DTITLE=Fleetwood Mac - English Rose
+DYEAR=1968
+DGENRE=Blues
+TTITLE0=Stop Messin' Round
+TTITLE1=Jigsaw Puzzle Blues
+TTITLE2=Doctor Brown
+TTITLE3=Something Inside Of Me
+TTITLE4=Evenin' Boogie
+TTITLE5=Love That Burns
+TTITLE6=Black Magic Woman
+TTITLE7=I've Lost My Baby
+TTITLE8=One Sunny Day
+TTITLE9=Without You
+TTITLE10=Coming Home
+TTITLE11=Albatross
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

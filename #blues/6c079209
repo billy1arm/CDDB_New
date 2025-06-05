@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15200
+#	29529
+#	39193
+#	59903
+#	79429
+#	93371
+#	105353
+#	119563
+#
+# Disc length: 1940 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6c079209
+DTITLE=Chet Atkins and Lenny Breau - Standard Brands
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=01 Batucada
+TTITLE1=02 Tenderly
+TTITLE2=03 Cattle Call
+TTITLE3=04 Taking a Chance  on Love
+TTITLE4=05 Somebody's Knockin'
+TTITLE5=06 This Can't be Love
+TTITLE6=07 This Nearly Was Mine
+TTITLE7=08 Going Home
+TTITLE8=09 Polka Dots and Moonbeams
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

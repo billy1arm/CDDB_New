@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16544
+#	32839
+#	50933
+#
+# Disc length: 906 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2a038804
+DTITLE=De-Phazz - Jazz Music
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Jazz Music
+TTITLE1=Jazz Music (Strings)
+TTITLE2=Jazz Music (Extended)
+TTITLE3=Drop Down Low
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

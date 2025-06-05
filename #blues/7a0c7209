@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30375
+#	59850
+#	91125
+#	126000
+#	148575
+#	168900
+#	192075
+#	209325
+#
+# Disc length: 3188 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a0c7209
+DTITLE=ATP JAZZ TRIO - JAZZ
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Sweet Georgia Brown
+TTITLE1=Driving Dex
+TTITLE2=But Beautiful
+TTITLE3=Jardin Tropical
+TTITLE4=Tivoli
+TTITLE5=Wesward
+TTITLE6=Days Of wine and Roses
+TTITLE7=Oleo
+TTITLE8=Stolen Moments
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

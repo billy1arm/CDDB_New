@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31565
+#	63322
+#	107454
+#	138356
+#	178156
+#	201639
+#	244256
+#	274929
+#
+# Disc length: 4173 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=80104b09
+DTITLE=Paul Grabowski - Tales Of Time and Space
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Tailfin
+TTITLE1=Sideshow Sarabande
+TTITLE2=Silverland
+TTITLE3=Angel
+TTITLE4=Medium Rare
+TTITLE5=Wist
+TTITLE6=Reason and Rhyme
+TTITLE7=Updraft
+TTITLE8=Circle of Trust
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

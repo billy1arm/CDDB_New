@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     19865
+#     45597
+#     64822
+#     88137
+#     107817
+# 
+# Disc length: 1694 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=4a069c06
+DTITLE=En Vogue (Featuring Ol' Dirty Bastard) - Whatever [CD Single)
+DYEAR=1900
+DGENRE=
+TTITLE0=Album Version
+TTITLE1=The Tumblin'Dice Remix - Extended Club Remix
+TTITLE2=The Tumblin' Dice Remix - Radio Remix w/o Rap
+TTITLE3=IT'S ABOUT LOVE (Unavailable On LP)
+TTITLE4=Album Instrumental
+TTITLE5=The Tumblin' Dice Remix - Remix Instrumental
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

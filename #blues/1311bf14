@@ -1,0 +1,78 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18610
+#     36915
+#     51435
+#     67550
+#     85807
+#     105050
+#     121920
+#     141445
+#     154587
+#     172662
+#     188675
+#     203475
+#     218407
+#     234052
+#     254032
+#     274265
+#     292162
+#     313305
+#     329332
+# 
+# Disc length: 4545 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1311bf14
+DTITLE=Various Artist - Canto E Encanto Nativo-Vol. 5
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Castelhana
+TTITLE1=P  No Estribo
+TTITLE2=Cancha Reta
+TTITLE3=Meu Medo
+TTITLE4=Onde Anda O Meu Amor
+TTITLE5=Gauchadas
+TTITLE6=Soy El Chamam 
+TTITLE7=Baile Das Negra Touro
+TTITLE8=O Sul   Meu Pa s
+TTITLE9=Amorosa
+TTITLE10=Pe o Campeiro
+TTITLE11=Apaixonado
+TTITLE12=Recanto Do Amor
+TTITLE13=Parceiro
+TTITLE14=Galope Dos Sonhos
+TTITLE15=Na Hora Do Mate
+TTITLE16=Saudade Matadeira
+TTITLE17=Rastos E Milongas
+TTITLE18=Estrela Guria
+TTITLE19=Dois Em Um
+EXTD=
+EXTT0=Os Nativos\n(Elton Saldanha - Rui Biriba)
+EXTT1=Quero-Quero\n(Elton Saldanha)
+EXTT2=Candeeiro\n(Jacinto Da Rosa)
+EXTT3=Grupo Rodeio\n(R gis Marques)
+EXTT4=Tch  Guri\n(Elton Saldanha - Vaine Darde - Luiz c. Borges)
+EXTT5=Leonardo\n(Leonardo)
+EXTT6=Grupo Canto Da Terra\n(Ant nio Tarrago R s)
+EXTT7=Os Mateadores\n(Jo o Sampaio - Elton Saldanha - Quide Grande)
+EXTT8=Elto Saldanha\n(Elton Saldanha - Jos  J. S. Da Silva /Quide Grande)
+EXTT9=Beto Mayer\n(Apar cio Silva Rillo - Elton Saldanha)
+EXTT10=Os Mirins\n(Albino Manique - Vaine Noms)
+EXTT11=Tch  Barbaridade\n(Marcelo Noms - Marcos Noms)
+EXTT12=Wilson Paim\nSalvador F. Lamberty - Wilson Paim)
+EXTT13=Grupo Cheiro De Galp o\n(Mario E. Da Silva - Alberto Jardim - Luiz Ma
+EXTT13=renco)
+EXTT14=Cesar Passarinho\n(M rio Michelon - Paulo Cardoso)
+EXTT15=(Vilmar Villa Menezes - Robson Muller]\n
+EXTT16=Som Camperio\n(Adriano Lima - Carlos Moacir)
+EXTT17=Luiz Marenco\n(Eron Vaz Mattos - Luiz Marenco)
+EXTT18=Stela Maris\n(Jos  Foga a - Pery Souza)
+EXTT19=Albino Manique\n(Albino Manique - Oscar Soares)
+PLAYORDER=

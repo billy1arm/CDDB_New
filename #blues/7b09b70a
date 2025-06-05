@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13683
+#	28248
+#	43555
+#	60838
+#	91466
+#	113529
+#	138028
+#	158966
+#	172449
+#
+# Disc length: 2489 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7b09b70a
+DTITLE=Various Artist - A Taste of Latin Jazz
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Bean Soup - Coleman Hawkins
+TTITLE1=Lester Leaps In - Count Basie
+TTITLE2=Mack the Knife - Louis Armstrong
+TTITLE3=Samba Pati - Jose Feliciano
+TTITLE4=Brazilian Sunset - Mongo Santamaria
+TTITLE5=Nuestro Bolero - Paquito D'Rivera
+TTITLE6=The Gentle Rain - Irene Kral
+TTITLE7=La Propuesta - Hector Martignon
+TTITLE8=Shoe Shine Swing - Count Basie
+TTITLE9=When The Saints Go Marching In - Louis Armstrong
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

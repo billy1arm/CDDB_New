@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	230
+#	21599
+#	66545
+#	119276
+#	150308
+#	190063
+#	222883
+#	247611
+#
+# Disc length: 3590 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=680e0308
+DTITLE=Nathan Davis - I'm A Fool To Want You
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Chim Chim Cheree
+TTITLE1=What Are You Doing (For The Rest of Your Life)
+TTITLE2=El Hip
+TTITLE3=I'm A Fool To Want You
+TTITLE4=Loves Very Own
+TTITLE5=Mood Indigo
+TTITLE6=Just Friends
+TTITLE7=Jam'in With Grover
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

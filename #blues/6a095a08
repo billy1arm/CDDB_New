@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21147
+#	40127
+#	59209
+#	80860
+#	105318
+#	132748
+#	166682
+#
+# Disc length: 2396 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a095a08
+DTITLE=Domenico Scarlatti - Huit sonates pour piano  (Andràs Schiff, piano)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Sonate en mi majeur, K.162  (Andràs Schiff, piano)
+TTITLE1=Sonate en la majeur, K.322
+TTITLE2=Sonate en si mineur, K.27
+TTITLE3=Sonate en ré majeur, K.96
+TTITLE4=Sonate en mi mineur, K.394
+TTITLE5=Sonate en do majeur, K.420
+TTITLE6=Sonate en fa majeur, K.518
+TTITLE7=Sonate en fa mineur, K.519
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

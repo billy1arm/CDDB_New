@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10887
+#	20980
+#	31137
+#	40132
+#	50310
+#	60427
+#	71760
+#	81262
+#	92040
+#
+# Disc length: 1342 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7b053c0a
+DTITLE=little richard - little richard
+DYEAR=1900
+DGENRE=
+TTITLE0=tutti frutti
+TTITLE1=lucille
+TTITLE2=send me some lovin'
+TTITLE3=rip it up
+TTITLE4=whole lotta shakin' goin' on
+TTITLE5=ooh, my soul
+TTITLE6=baby face
+TTITLE7=good golly miss molly
+TTITLE8=slippin' and slidin'
+TTITLE9=jenny jenny
+EXTD=pp 1510-2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

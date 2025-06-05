@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50481
+#	85499
+#	128136
+#	159155
+#
+# Disc length: 2731 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=370aa905
+DTITLE=Alex Skolnick Trio - QUE @ Cafe Petit Campus, Montreal, Quebec 2003-10-07 CD 1
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Highway Star (Deep Purple)
+TTITLE1=No One Like You (Scorpions)
+TTITLE2=Detroit Rock City (KISS)
+TTITLE3=Fear of Flying (Skolnick)
+TTITLE4=Goodbye to Romance (Ozzy Osbourne/Randy Rhoads)
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

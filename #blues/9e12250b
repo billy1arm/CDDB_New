@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36450
+#	68775
+#	101250
+#	140250
+#	177750
+#	214950
+#	250950
+#	281550
+#	309750
+#	342300
+#
+# Disc length: 4647 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9e12250b
+DTITLE=Djabe - Életképek (Slices of Life)
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Doromb
+TTITLE1=Üzenet a jégvilágból
+TTITLE2=Sóhaj
+TTITLE3=Omachule
+TTITLE4=Hajsza a ménes után
+TTITLE5=Vízesés
+TTITLE6=Életképek
+TTITLE7=Habi városa
+TTITLE8=Gyerekszoba
+TTITLE9=Indiai élmény
+TTITLE10=Éjszaka Kolkatában
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28235
+#	51732
+#	85337
+#	109900
+#	140447
+#	166982
+#	196130
+#	228432
+#	256092
+#	297087
+#
+# Disc length: 4440 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9c11560b
+DTITLE=Patricia Barber - Live A Fortnight In France
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Gotcha (Live)
+TTITLE1=Dansons La Gigue! (Live)
+TTITLE2=Crash (Live)
+TTITLE3=Laura (Live)
+TTITLE4=Pieces (Live)
+TTITLE5=Blue Prelude (Live)
+TTITLE6=Witchcraft (Live)
+TTITLE7=Norwegian Wood (Live)
+TTITLE8=Whiteworld (Live)
+TTITLE9=Call Me (Live)
+TTITLE10=DATA
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

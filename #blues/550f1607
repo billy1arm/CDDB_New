@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2478
+#	31445
+#	68080
+#	108393
+#	236781
+#	278097
+#
+# Disc length: 3864 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=550f1607
+DTITLE=TORONTO CHAMBER JAZZ SEPTET - CBC GLENN GOULD STUDIO CD2
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Ravel's Bells (Ravel)
+TTITLE1=Snow Job (Mays)
+TTITLE2=Christmas Song (Torme)
+TTITLE3=Nutcracker Suite Pt. 1 (Tchaikovsky)
+TTITLE4=Nutcracker Suite Pt. 2 (Tchaikovsky)
+TTITLE5=Jesu, Joy Of Man's Desiring (Bach)
+TTITLE6=I'll Be Home For Christmas (Kent)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

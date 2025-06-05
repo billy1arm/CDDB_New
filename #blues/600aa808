@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15404
+#	30487
+#	45866
+#	59821
+#	70245
+#	85431
+#	100971
+#
+# Disc length: 2730 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=600aa808
+DTITLE=Adamastor Pitaco - Músicas E Piadas
+DYEAR=1900
+DGENRE=Humour
+TTITLE0=Passagem Do Som
+TTITLE1=Todo Corno É Mouco
+TTITLE2=É Bom Dançar
+TTITLE3=Cidade Sem Rua
+TTITLE4=Só A Cabecinha
+TTITLE5=Libera A Adrenalina
+TTITLE6=O Xote Dominou
+TTITLE7=Piadas
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

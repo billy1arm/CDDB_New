@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18359
+#	33065
+#	51716
+#	73560
+#	92652
+#	105285
+#	131330
+#	147596
+#
+# Disc length: 2295 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7408f509
+DTITLE=Saxon - Denim and leather
+DYEAR=1981
+DGENRE=Hard Rock
+TTITLE0=Princess of the night
+TTITLE1=Never surrender
+TTITLE2=Out of control
+TTITLE3=Rough and ready
+TTITLE4=Play it loud
+TTITLE5=And the bands played on
+TTITLE6=Midnight rider
+TTITLE7=Fire in the sky
+TTITLE8=Denim and leather
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=
