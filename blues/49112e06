@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51824
+#	94721
+#	134347
+#	180484
+#	302920
+#
+# Disc length: 4400 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=49112e06
+DTITLE=Keith Jarrett - At The Blue Note, Friday, June 4th, 1994, 2nd Set
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=How Deep is The Ocean
+TTITLE1=Close Your Eyes
+TTITLE2=Imagination
+TTITLE3=I'll Close My Eyes
+TTITLE4=I Fall In Love Too Easily
+TTITLE5=Things Ain't What They Used To Be
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

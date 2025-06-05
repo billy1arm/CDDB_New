@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11005
+#	24333
+#	44575
+#	58908
+#	86036
+#
+# Disc length: 1359 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=49054d06
+DTITLE=Menage  A Boom - Menage ABoom 2012
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Tici Tico
+TTITLE1=Oh Johnny, Oh Jonny, Oh
+TTITLE2=Bei mir bist du schön
+TTITLE3=Chattanooga Choo Choo
+TTITLE4=Fever
+TTITLE5=Belleville Tendez-Vous
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

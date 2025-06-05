@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25535
+#	50214
+#	75687
+#	95655
+#	121785
+#
+# Disc length: 1944 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=43079606
+DTITLE=James Krüss - Der Sängerkrieg der Heidehasen
+DYEAR=2004
+DGENRE=Kinderlieder
+TTITLE0=Moritat und Anfang
+TTITLE1=Na Wackelohr, eine schöne Stimme, wie?
+TTITLE2=Auf dem Sängerfest
+TTITLE3=Eröffnung des Sängerkriegs
+TTITLE4=Eins, Zwei, Hopp, Hopp
+TTITLE5=Schluss
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

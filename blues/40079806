@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19252
+#     40755
+#     75147
+#     104325
+#     124495
+# 
+# Disc length: 1946 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=40079806
+DTITLE=Ava Cherry - Forget Me Nots
+DYEAR=1900
+DGENRE=
+TTITLE0=Forget Me Nots (Stone and Rob Radio Edit)
+TTITLE1=Forget Me Nots (Chris 'n Soul Kiss Mix)
+TTITLE2=Forget Me Nots (Stone and Rob Rully Extended Mix)
+TTITLE3=Forget Me Nots (Mixmaster Club Mix)
+TTITLE4=Forget Me Nots (Chris 'N Ray Hip Hop Mix)
+TTITLE5=Forget Me Nots (Original Minute Mix)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

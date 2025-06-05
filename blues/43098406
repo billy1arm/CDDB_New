@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33997
+#	54925
+#	73782
+#	95717
+#	159020
+#
+# Disc length: 2438 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=43098406
+DTITLE=James Brown - Soul's Alive
+DYEAR=1998
+DGENRE=Funk
+TTITLE0=Funky Men
+TTITLE1=Smokin' and Drinkin'
+TTITLE2=Stay With Me
+TTITLE3=Honky Tonk
+TTITLE4=Rapp Payback (Where Is Moses?)
+TTITLE5=Mashed Potatoes
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

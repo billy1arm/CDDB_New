@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	63550
+#	87895
+#	116202
+#	145752
+#
+# Disc length: 2394 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=43095805
+DTITLE=John Coltrane Quartet - Coltrane
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Out of This World
+TTITLE1=Soul Eyes
+TTITLE2=The Inch Worm
+TTITLE3=Tunji (Toon-gee)
+TTITLE4=Miles' Mode
+EXTD=John Coltrane\nMcCoy Tyner\nJimmy Garrison\nElvin Jones\nLive Recorded in Japan 1962\nImpules! Records - MCA Records 1962 1995 GRP Records 1995\nProduced by: Bob Thiele\n YEAR: 1962
+EXTT0=(H. Arlen-J. Mercer) recorded 19.06.1962
+EXTT1=(M. Waldron) recorded 19.06.1962
+EXTT2=(F. Loesser) recorded 11.04.1962
+EXTT3=(J. Coltrane) recorded 29.06.1962
+EXTT4=(J. Coltrane) recorded 20.06.1962
+PLAYORDER=

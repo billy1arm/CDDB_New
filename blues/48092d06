@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30525
+#	57845
+#	87289
+#	123697
+#	152197
+#
+# Disc length: 2351 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=48092d06
+DTITLE=Lee Morgan - The Sixth Sense
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=The Sixth Sense
+TTITLE1=Short Count
+TTITLE2=Psychedlic
+TTITLE3=Afreaka
+TTITLE4=Anti Climax
+TTITLE5=The Cry Of My People
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

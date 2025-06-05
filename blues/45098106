@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37645
+#	64915
+#	94775
+#	121863
+#	163992
+#
+# Disc length: 2435 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=45098106
+DTITLE=Art Blabey and The Jazz Messengers - 3 Blind Mice
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0='Three Blind Mice' (Curtis Fuller)
+TTITLE1='Blue Moon' (Hart and Rodgers)
+TTITLE2='That Old Feeling' (Brown-Fain)
+TTITLE3='Plexis' (Cedar Walton)
+TTITLE4='Up Jumped Spring' (Freddie Hubbard)
+TTITLE5='When Lights Are Low' (Benny Carter)
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

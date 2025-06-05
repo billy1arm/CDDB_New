@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34275
+#	60800
+#	85537
+#	113800
+#	147275
+#
+# Disc length: 2356 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=42093206
+DTITLE=Grover Washington Jr. - Winelight
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Winelight
+TTITLE1=Let It Flow (For "DR. J")
+TTITLE2=In the Name of Love
+TTITLE3=Take Me There
+TTITLE4=Just the Two of Us
+TTITLE5=Make Me a Memory (Sad Samba)
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

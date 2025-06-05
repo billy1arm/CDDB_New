@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20476
+#	45797
+#	68598
+#	89824
+#	122772
+#
+# Disc length: 2444 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=45098a06
+DTITLE=Cream - The Best of Cream Live - 1972
+DYEAR=1900
+DGENRE=
+TTITLE0=Deserted Cities Of The Heart
+TTITLE1=White Room
+TTITLE2=Politician
+TTITLE3=Tales of Brave Ulysses
+TTITLE4=Sunshine of Your Love 
+TTITLE5=Hideaway
+EXTD=Jack Bruce\n
+EXTD=Ginger Baker\n
+EXTD=Eric Clapton\n
+EXTD=\n1972
+EXTT0=(Jack Bruce - Pete Brown)
+EXTT1=(Jack Bruce - Pete Brown)
+EXTT2=(Jack Bruce - Pete Brown)
+EXTT3=(Eric Clapton - Sharp)
+EXTT4=(Jack Bruce - Pete Brown - Eric Clapton)
+EXTT5=(Freddie King - Sonny Thompson)
+PLAYORDER=

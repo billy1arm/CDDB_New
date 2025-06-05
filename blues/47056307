@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	13511
+#	27082
+#	47133
+#	57850
+#	75007
+#	89101
+#
+# Disc length: 1381 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=47056307
+DTITLE=Les Lokey - Seven
+DYEAR=1900
+DGENRE=
+TTITLE0=right now
+TTITLE1=shiver
+TTITLE2=stuff it in a bottle
+TTITLE3=landmine
+TTITLE4=burned up and shipping
+TTITLE5=hollow bodhisattva
+TTITLE6=angels' envy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

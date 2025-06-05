@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	56015
+#	82423
+#	136565
+#	148143
+#
+# Disc length: 2386 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=46095005
+DTITLE=Miles Davis And The Lighthouse All Stars - At Last!
+DYEAR=1953
+DGENRE=Jazz
+TTITLE0=Infinity Promenade
+TTITLE1='Round Midnight
+TTITLE2=Night In Tunisia
+TTITLE3=Drum Conversation
+TTITLE4=At Last
+EXTD=YEAR: 1953
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26441
+#	44534
+#	86258
+#	128444
+#	156669
+#
+# Disc length: 2112 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=41083e06
+DTITLE=Miles Davis - Tour Over Europe (Disc2)
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=I Fall In Love Too Easily
+TTITLE1=Riot
+TTITLE2=Walkin'
+TTITLE3=On Green Dolphin Street
+TTITLE4=Gingerbread Boy
+TTITLE5=The Theme
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

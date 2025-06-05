@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	18570
+#	64852
+#	106792
+#	289355
+#
+# Disc length: 4508 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.85
+#
+DISCID=43119a05
+DTITLE=John Coltrane - A Love Supreme
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Naima (J C, E Dolphy, McC Tyner R Workman, E Jones)
+TTITLE1=Autumn Leaves  (J C, McC Tyner, J Garrison, E Jones)
+TTITLE2=The Inch Worm (J C, McC Tyner, J Garrison, E Jones)
+TTITLE3=A Love Supreme (J C, McC Tyner, J Garrison, E Jones) J les Pins 65
+TTITLE4=Afro Blues (J C, McC Tyner, J Garrison, E Jones)
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

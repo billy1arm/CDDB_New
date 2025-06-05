@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	56477
+#	88082
+#	149460
+#	246097
+#
+# Disc length: 4415 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.14
+#
+DISCID=41113d05
+DTITLE=Orquesta sinfonica de RTVE - Jazz sinfonico
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Concierto para quinteto de jazz y orquesta Allegro
+TTITLE1=Concierto para quinteto de jazz y orquesta Largo
+TTITLE2=Concierto para quinteto de jazz y orquesta Presto
+TTITLE3=El camino hacia el jazz
+TTITLE4=Porggy and bess suite
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

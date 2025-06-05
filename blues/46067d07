@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10633
+#	24057
+#	49171
+#	69719
+#	85288
+#	106705
+#
+# Disc length: 1663 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=46067d07
+DTITLE=Various Artist -  a little Verve for Christmas
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Ella Fitzgerald/Winter Wonderland
+TTITLE1=Louis Armstrong/'Zat You, Santa Claus?
+TTITLE2=Billie Holiday/I've Got My Love to Keep Me Warm
+TTITLE3=Diana Krall/White Christmas
+TTITLE4=Diana Krall/Jingle Bells
+TTITLE5=Ledisi/This Christmas (Could Be the One)
+TTITLE6=Ledisi/Be There for Christmas
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

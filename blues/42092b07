@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22525
+#	49967
+#	79857
+#	105105
+#	125195
+#	151565
+#
+# Disc length: 2349 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=42092b07
+DTITLE=Conjunto Constanza - Conjunto Constanza
+DYEAR=1981
+DGENRE=Salsa
+TTITLE0=Constanza
+TTITLE1=Consejo
+TTITLE2=No Pasaras
+TTITLE3=El Sapo
+TTITLE4=Contigo No
+TTITLE5=La Realidad
+TTITLE6=Significas
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

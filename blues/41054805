@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	24503
+#	44222
+#	70449
+#	87115
+#
+# Disc length: 1354 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=41054805
+DTITLE=Keith Doder and the Blue City Band - Blue To Bright
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=River's Invitation
+TTITLE1=Mystery Woman
+TTITLE2=Damn The Dealer
+TTITLE3=Blue To Bright
+TTITLE4=Blues Is My Religion
+EXTD=\nYEAR: 2000  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

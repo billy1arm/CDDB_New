@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28405
+#	47517
+#	69755
+#	85135
+#	103120
+#
+# Disc length: 1593 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=45063706
+DTITLE=Various Artist - Pure Rythm
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=The Rippingtons - Deep Powder
+TTITLE1=Phil Perry - We Belong Togehter
+TTITLE2=Ray obiedo - Current State
+TTITLE3=Jim Brickman - Dreams Come True
+TTITLE4=Sean Harkness - Summer Solstice
+TTITLE5=David Benoit - Major Dreams, Minor Lies
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

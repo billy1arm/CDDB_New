@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39197
+#	61205
+#	104910
+#	140830
+#
+# Disc length: 2435 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=46098105
+DTITLE=Jack DeJohnette - Zebra
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=NToro I
+TTITLE1=Jongo
+TTITLE2=Aho
+TTITLE3=Kpledzo
+TTITLE4=NToro II
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

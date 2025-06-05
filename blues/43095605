@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40497
+#	58187
+#	87020
+#	126485
+#
+# Disc length: 2392 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=43095605
+DTITLE=Various Artist - Stan Getz, Paul Horn, Joe Farrell, Mike Garson - Riviera Concert
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Impropture - Samba de Orfeu
+TTITLE1=Nature Boy
+TTITLE2=Work Song
+TTITLE3=Here's That Rainy Day
+TTITLE4=Billie's Bounce
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

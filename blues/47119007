@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	52939
+#	98282
+#	143421
+#	178611
+#	226663
+#	274108
+#
+# Disc length: 4498 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=47119007
+DTITLE=Bugge Wesseltoft - New Conception of Jazz - box cd3
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Change - Live in Yokohama
+TTITLE1=Sharing - Live in Yokohama
+TTITLE2=Yokohama - Live in Yokohama
+TTITLE3=El - Live in Yokohama
+TTITLE4=Film Ing - Live in Yokohama
+TTITLE5=Man With The Red Face - Live in Paris
+TTITLE6=Jazzlandsangen - Live at Blå
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

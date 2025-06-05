@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16699
+#	26770
+#	38380
+#	48857
+#	60929
+#	71782
+#
+# Disc length: 1087 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=49043d07
+DTITLE=ハッチハッチェル - 新曲マガジン11月号
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=コメディー映画のような一生
+TTITLE1=旅回りの一座
+TTITLE2=曲を作ろう
+TTITLE3=タクシーの運転手
+TTITLE4=やっぱり甘いものが必要
+TTITLE5=おみやげいかが
+TTITLE6=タバコはいいやつ
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

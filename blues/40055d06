@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23634
+#	48841
+#	66434
+#	84953
+#	94146
+#
+# Disc length: 1375 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=40055d06
+DTITLE=52weeks - flap+frog
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Main BGM (to R)
+TTITLE1=RYUGU (from M)
+TTITLE2=NIGHT (daybreak edit)
+TTITLE3=MORNINGO (daybreak edit)
+TTITLE4=APPEAL (club edit)
+TTITLE5=CHARACTER_SELECT (piano)
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

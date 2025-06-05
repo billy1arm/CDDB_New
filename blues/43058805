@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     19982
+#     42510
+#     65035
+#     87377
+# 
+# Disc length: 1418 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=43058805
+DTITLE=Al B. Sure - Had Enuf?
+DYEAR=1900
+DGENRE=
+TTITLE0=Had Enuf? (7 Version) Had Enuf? (12 Version)
+TTITLE1=Had Enuf? (Instrumental)
+TTITLE2=Had Enuf? (The Drums Are Done Mix)
+TTITLE3=Had Enuf? (Video Mix)
+TTITLE4=
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

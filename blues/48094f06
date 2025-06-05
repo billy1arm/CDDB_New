@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 18942
+# 41820
+# 90202
+# 125222
+# 157237
+#
+# Disc length: 2385 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b7
+#
+DISCID=48094f06
+DTITLE=Chain - Towards The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Thirty Two-Twenty Blues
+TTITLE1=Snatch It Back and Hold It
+TTITLE2=Boogie
+TTITLE3=Booze Is Bad News Blues
+TTITLE4=Albert Goose's Gonna Turn The Blue's Loose
+TTITLE5=Black and Blue
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

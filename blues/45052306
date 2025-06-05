@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17711
+#	36210
+#	52203
+#	68032
+#	83451
+#
+# Disc length: 1317 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=45052306
+DTITLE=Becky Barksdale - The Christmas EP
+DYEAR=2006
+DGENRE=Blues
+TTITLE0=Silent Night
+TTITLE1=Let It Snow
+TTITLE2=Santa Claus Is Coming To Town
+TTITLE3=Winter Wonderland
+TTITLE4=Jingle Bells
+TTITLE5=Amazing Grace (Texas Mix)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45815
+#	80112
+#	89295
+#	110195
+#	138997
+#
+# Disc length: 2137 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=48085706
+DTITLE=Yuji Takahashi - XENAKIS: EVRYALI/HERMA
+DYEAR=1986
+DGENRE=Other
+TTITLE0=XENAKIS: EVRYALI
+TTITLE1=XENAKIS: HERMA
+TTITLE2=MESSIAEN: QUATRE ETUDES DE RYTHNE - Ile de feu 1
+TTITLE3=MESSIAEN: QUATRE ETUDES DE RYTHNE - Mode de valeurs et d'intensites
+TTITLE4=MESSIAEN: QUATRE ETUDES DE RYTHNE - Neumes rythmiques
+TTITLE5=MESSIAEN: QUATRE ETUDES DE RYTHNE - Ile de feu 2
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

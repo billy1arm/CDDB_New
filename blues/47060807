@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19609
+#	32598
+#	52645
+#	68366
+#	93541
+#	107861
+#
+# Disc length: 1546 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=47060807
+DTITLE=Django's Moustache - Django's Moustache
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Mediterranean Blues
+TTITLE1=Django's Moustache
+TTITLE2=For Sephora
+TTITLE3=Nuages
+TTITLE4=Latcho Drom
+TTITLE5=Moreno Waltz
+TTITLE6=Minor Swing
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

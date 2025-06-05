@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	13683
+#	41808
+#	59808
+#	99033
+#	113733
+#
+# Disc length: 2462 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=48099c06
+DTITLE=Modern String Quartet - Elephants and Strings
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Ornithology
+TTITLE1=Elephants and Strings
+TTITLE2=Die wilde 13
+TTITLE3=YNu PYNu
+TTITLE4=Well
+TTITLE5=Grand Canyon Suite
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

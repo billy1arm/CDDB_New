@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3779
+#	42899
+#	71154
+#	101312
+#	138305
+#
+# Disc length: 1903 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=43076d06
+DTITLE=ORF On-Stage 2011-AUG-28 - Great Guitars live at Royal Garden Jazz Club Graz 2008
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=onstage110829 - onstage110829
+TTITLE1=onstage110829 - onstage110829
+TTITLE2=onstage110829 - onstage110829
+TTITLE3=onstage110829 - onstage110829
+TTITLE4=onstage110829 - onstage110829
+TTITLE5=onstage110829 - onstage110829
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21422
+#	44480
+#	67365
+#	84387
+#
+# Disc length: 1441 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.50
+#
+DISCID=44059f05
+DTITLE=Katie's Dimples - Come With...
+DYEAR=1900
+DGENRE=
+TTITLE0=Great Escape
+TTITLE1=Drought
+TTITLE2=Heaven/Nirvana
+TTITLE3=Gold Dust Woman
+TTITLE4=Raggedy Andy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

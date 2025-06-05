@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23220
+#	45525
+#	62830
+#	85900
+#	108206
+#
+# Disc length: 1672 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=43068606
+DTITLE=欅坂46 - 黒い羊 TypeC
+DYEAR=2019
+DGENRE=JPop
+TTITLE0=黒い羊
+TTITLE1=君に話しておきたいこと
+TTITLE2=ヒールの高さ
+TTITLE3=黒い羊 -off vocal ver.-
+TTITLE4=君に話しておきたいこと -off vocal ver.-
+TTITLE5=ヒールの高さ -off vocal ver.-
+EXTD=YEAR: 2019
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

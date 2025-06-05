@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	27390
+#	43695
+#	155525
+#	195037
+#	263715
+#
+# Disc length: 4412 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.50beta7
+#
+DISCID=42113a06
+DTITLE=James Brown - Funkin' In the Jungle
+DYEAR=1900
+DGENRE=
+TTITLE0=Georgia On My Mind
+TTITLE1=I Got the Feeling
+TTITLE2=It's a Man's World and Super Bad/Disco Rap
+TTITLE3=ColdSweat+WhenYouTouchMe+Papa'sGot a BrandNewBag+I Got You
+TTITLE4=TurnItLoose+It'sTooFunkyHere+GonnaHaveaFunkyGoodTime+TryMe
+TTITLE5=Get On the Good Foot+Prisoner of Love+Get Up Off That Thing
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

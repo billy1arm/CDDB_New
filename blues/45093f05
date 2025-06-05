@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30582
+#	65975
+#	92650
+#	144700
+#
+# Disc length: 2369 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=45093f05
+DTITLE=Phil Woods - Rights of Swing
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Prelude and Part I
+TTITLE1=Part II (Ballad)
+TTITLE2=Part III (Waltz)
+TTITLE3=Part IV (Scherzo)
+TTITLE4=Part V (Presto)
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

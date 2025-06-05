@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25906
+#	45920
+#	65489
+#	77663
+#	97173
+#
+# Disc length: 1678 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=43068c06
+DTITLE=Piano Jazz Trio - Live at the Sabbath Theatre in Warsaw
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Stompin' At The Savoy
+TTITLE1=Georgia On My Mind
+TTITLE2=Lady Be Good
+TTITLE3=Sweet Georgia Brown
+TTITLE4=Take The A-Train
+TTITLE5=A Hard Day's Night
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

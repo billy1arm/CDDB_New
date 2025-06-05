@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16621
+#	32891
+#	51599
+#	68056
+#	84325
+#
+# Disc length: 1373 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=43055b06
+DTITLE=SKE48 - バンザイVenus
+DYEAR=2011
+DGENRE=JPop
+TTITLE0=バンザイVenus
+TTITLE1=愛の数 (teamKⅡ)
+TTITLE2=誰かのせいにはしない (紅組)
+TTITLE3=バンザイVenus off vocal
+TTITLE4=愛の数 (teamKⅡ) -off vocal-
+TTITLE5=誰かのせいにはしない (紅組) -off vocal-
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	110356
+#	160904
+#	229082
+#	298483
+#
+# Disc length: 4667 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=43123905
+DTITLE=Rachmaninoff - Symphony N°2 - 'Youth' Symphony  (Rozhdestvensky, London Symphony Orch.)
+DYEAR=1988
+DGENRE=Classique
+TTITLE0=Symphony N°2 in E minor Op.27 - I. Largo - Allegro moderato  [rec;1988]
+TTITLE1=Symphony N°2 in E minor Op.27 - II. Scherzo - Allegro molto - Meno mosso - Allegro molto
+TTITLE2=Symphony N°2 in E minor Op.27 - III. Adagio
+TTITLE3=Symphony N°2 in E minor Op.27 - IV. Allegro vivace
+TTITLE4='Youth' Symphony in D minor - Grave - Allegro moderato [Slatkin, St Louis Sym. Orch. 1980]
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

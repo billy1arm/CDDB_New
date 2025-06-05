@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54475
+#	103317
+#	131430
+#	153640
+#
+# Disc length: 2381 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=40094b05
+DTITLE=John Coltrane - Soultrane (JOHN COLTRANE,RED GARLAND,PAUL CHAMBERS,ART TAYLOR)
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Good Bait (Dameron-Basie)
+TTITLE1=I Want To Talk About You (Billy Eckstine)
+TTITLE2=You Say You Care (Styne-Robin)
+TTITLE3=Theme For Ernie (Fred Lacey)
+TTITLE4=Russian Lullaby (Irving Berlin)
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

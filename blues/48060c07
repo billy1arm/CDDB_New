@@ -1,0 +1,37 @@
+# xmcd database file
+#
+# Track frame offsets:
+# 150
+# 15677
+# 30266
+# 45278
+# 62106
+# 76879
+# 95819
+#
+# Disc length: 1550 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CD-Runner 2006.20
+#
+DISCID=48060c07
+DTITLE=Wood Brothers - Live at Tonic
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Stealin'
+TTITLE1=One More Day
+TTITLE2=Chocolate on My Tongue
+TTITLE3=Atlas
+TTITLE4=Is What It Is
+TTITLE5=Angel Band
+TTITLE6=Chevrolet
+EXTD=
+EXTT0=01
+EXTT1=02
+EXTT2=03
+EXTT3=04
+EXTT4=05
+EXTT5=06
+EXTT6=07
+PLAYORDER=

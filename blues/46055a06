@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	16400
+#	36484
+#	50423
+#	66248
+#	84004
+#
+# Disc length: 1373 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=46055a06
+DTITLE=Riverside Blues - Devil Blues
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=Dust my broom
+TTITLE1=Me and the devil blues
+TTITLE2=Pig Meat
+TTITLE3=Stop breakin' down
+TTITLE4=Hard Times
+TTITLE5=Crossroads
+EXTD=YEAR: 2002 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

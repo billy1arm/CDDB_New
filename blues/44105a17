@@ -1,0 +1,85 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3195
+#	19275
+#	40290
+#	49740
+#	62577
+#	72397
+#	83412
+#	93085
+#	106202
+#	116160
+#	130317
+#	157117
+#	172290
+#	188932
+#	201450
+#	217782
+#	237502
+#	257090
+#	270050
+#	282082
+#	294822
+#	309552
+#
+# Disc length: 4188 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=44105a17
+DTITLE=Various Artist - Birdland All Stars
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Lullaby of Birdland - Count Basie
+TTITLE1=You For Me - Count Basie and Frank Foster
+TTITLE2=The Song is You - Charlie Parker
+TTITLE3=My Funny Valentine - Charlie Parker
+TTITLE4=Cool Blues - Charlie Parker
+TTITLE5=All of Me - Billie Holiday
+TTITLE6=Ain't Nobody's Business If I Do - Billie Holiday
+TTITLE7=Lover Come Back To Me - Billie Holiday
+TTITLE8=My Man - Billie Holiday
+TTITLE9=Them There Eyes - Billie Holiday
+TTITLE10=Lover Man - Billie Holiday
+TTITLE11=Sure Thing - Count Basie
+TTITLE12=Pennies from Heaven - Lester Young and Count Basie
+TTITLE13=Jumpin' At the Woodside - Lester Young
+TTITLE14=Perdido - Sarah Vaughan and Count Basie
+TTITLE15=Polka Dots and Moonbeams - Sarah Vaughan and Count Basie
+TTITLE16=Medley - Sarah Vaughan
+TTITLE17=Saturday - Sarah Vaughan
+TTITLE18=Time - Sarah Vaughan
+TTITLE19=That Old Devil Moon - Sarah Vaughan
+TTITLE20=Tenderly - Sarah Vaughan
+TTITLE21=Don't Blame Me - Sarah Vaughan
+TTITLE22=Finale
+EXTD=
+EXTT0=Count Basie\n
+EXTT1=Count Basie and Frank Foster\n
+EXTT2=Charlie Parker\n
+EXTT3=Charlie Parker\n
+EXTT4=Charlie Parker\n
+EXTT5=Billy Holiday\n
+EXTT6=Billy Holiday\n
+EXTT7=Billy Holiday\n
+EXTT8=Billy Holiday\n
+EXTT9=Billy Holiday\n
+EXTT10=Billy Holiday\n\n
+EXTT11=Count Basie\n
+EXTT12=Lester Young and Count Basie\n
+EXTT13=Lester Young\n
+EXTT14=Sarah Vaughan and Count Basie\n
+EXTT15=Sarah Vaughan and Count Basie\n
+EXTT16=Sarah Vaughan\nI Ain't Mad\nSummertime\n
+EXTT17=Sarah Vaughan\n
+EXTT18=Sarah Vaughan\n
+EXTT19=Sarah Vaughan\n
+EXTT20=Sarah Vaughan\n
+EXTT21=Sarah Vaughan\n
+EXTT22=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11436
+#	60413
+#	83211
+#	103988
+#	132338
+#
+# Disc length: 2208 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=46089e06
+DTITLE=The Modern Jazz Quartet - Pyramid
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Vendome
+TTITLE1=Pyramid
+TTITLE2=It don't mean a thing
+TTITLE3=Django
+TTITLE4=How high the moon
+TTITLE5=Romaine
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=
