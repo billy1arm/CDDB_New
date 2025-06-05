@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20750
+#	39847
+#	60345
+#
+# Disc length: 1057 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,39,0213
+#
+DISCID=26041f04
+DTITLE=Damien McCabes - Real Feel
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Cold Digger
+TTITLE1=Lonesome Blues
+TTITLE2=Talking Trouble
+TTITLE3=Whats New
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

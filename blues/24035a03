@@ -1,0 +1,25 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 22025
+# 44077
+#
+# Disc length: 860 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.3.331
+#
+DISCID=24035a03
+DTITLE=Jon B - don't say
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Say
+TTITLE1=Don't say (Instrumental)
+TTITLE2=Let U shine
+EXTD=Cd single
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

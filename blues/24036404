@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16587
+#	34392
+#	48860
+#
+# Disc length: 870 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=24036404
+DTITLE=Kagrra - Omou
+DYEAR=2004
+DGENRE=JRock
+TTITLE0=Omou
+TTITLE1=Metsu
+TTITLE2=Sou
+TTITLE3=Omou (Isshi-less)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

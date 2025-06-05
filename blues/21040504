@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22935
+#	38800
+#	61572
+#
+# Disc length: 1031 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=21040504
+DTITLE=lol -エルオーエル- - ladi dadi -ラディダディ-
+DYEAR=2016
+DGENRE=avex
+TTITLE0=ladi dadi
+TTITLE1=follow me
+TTITLE2=ladi dadi -instrumental-
+TTITLE3=follow me -instrumental-
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

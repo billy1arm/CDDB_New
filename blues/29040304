@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20513
+#     40985
+#     63060
+# 
+# Disc length: 1029 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=29040304
+DTITLE=todd snider - songs for the daily planet
+DYEAR=1900
+DGENRE=
+TTITLE0=alright guy
+TTITLE1=alot more
+TTITLE2=this land is our land
+TTITLE3=my generation
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

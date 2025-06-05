@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23840
+#	87008
+#	144868
+#
+# Disc length: 2357 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=23093304
+DTITLE=Don Cherry - Brown Rice
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Brown Rice
+TTITLE1=Malkauns
+TTITLE2=Chenrezig
+TTITLE3=Degi-Degi
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

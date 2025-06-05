@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19030
+#     37932
+#     59415
+# 
+# Disc length: 1078 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=28043404
+DTITLE=II D Extreme - Cry No More
+DYEAR=1900
+DGENRE=
+TTITLE0=Radio Edit
+TTITLE1=Radio Edit w/o Rap
+TTITLE2=II D Extreme Mix
+TTITLE3=II D Extreme Vocal Mix
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

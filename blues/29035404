@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13860
+#	32580
+#	50418
+#
+# Disc length: 854 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=29035404
+DTITLE=The Chiki Chaka Girls - Chiki Chaka
+DYEAR=2004
+DGENRE=Salsa
+TTITLE0=Chiki Chaka (radio version)
+TTITLE1=Chiki Chaka (extended version)
+TTITLE2=Chiki Chaka (movie version)
+TTITLE3=Madrugada
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

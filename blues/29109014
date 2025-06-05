@@ -1,0 +1,77 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13250
+#     28775
+#     42400
+#     56075
+#     65525
+#     78012
+#     88875
+#     113862
+#     129775
+#     145075
+#     161837
+#     175050
+#     193200
+#     207675
+#     228250
+#     244475
+#     261150
+#     281390
+#     305115
+# 
+# Disc length: 4242 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=29109014
+DTITLE=Stevie Ray Vaughan And Double Trouble - In 1978 There Was...
+DYEAR=1900
+DGENRE=
+TTITLE0=You Can Have My Husband
+TTITLE1=Rude Mood
+TTITLE2=Pride And Joy
+TTITLE3=Oh, Yeah
+TTITLE4=Love Struck Baby
+TTITLE5=Ti-Ni-Nee-Ni-Nu
+TTITLE6=Gonna Miss Me
+TTITLE7=I Wonder Why
+TTITLE8=I'm Crying
+TTITLE9=Sugar Coated Loving
+TTITLE10=Natural Born Lover
+TTITLE11=Ti-Ni-Nee-Ni-Nu
+TTITLE12=Scratch My Back
+TTITLE13=I'll Change
+TTITLE14=Shake A Hand, Shake A Hand
+TTITLE15=Oh Baby
+TTITLE16=Sugar Coated Love
+TTITLE17=Love In Vain
+TTITLE18=You Can Have My Husband
+TTITLE19=My Baby's Gone
+EXTD=
+EXTT0=Vocals: Lou Ann Barton\n
+EXTT1=Instrumental\n
+EXTT2=Vocals: Stevie Ray Vaughan\n
+EXTT3=Vocals: Lou Ann Barton\n
+EXTT4=Vocals: Stevie Ray Vaughan\n
+EXTT5=Vocals: Lou Ann Barton\n
+EXTT6=Vocals: Stevie Ray Vaughan\n
+EXTT7=Vocals: Lou Ann Barton\n
+EXTT8=Vocals: Stevie Ray Vaughan\n
+EXTT9=Vocals: Lou Ann Barton\n
+EXTT10=Vocals: Lou Ann Barton\n
+EXTT11=Vocals: Lou Ann Barton\n
+EXTT12=Vocals: Lou Ann Barton\n
+EXTT13=Vocals: Lou Ann Barton\n
+EXTT14=Vocals: Lou Ann Barton\n
+EXTT15=Vocals: Lou Ann Barton\n
+EXTT16=Vocals: Lou Ann Barton\n
+EXTT17=Vocals: Stevie Ray Vaughan\nSaxophone: Johnni Reno\n
+EXTT18=Vocals: Lou Ann Barton\nSaxophone: Johnni Reno\n
+EXTT19=Vocals: Lou Ann Barton\nSaxophone: Johnni Reno\n
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21150
+#	39785
+#	60740
+#
+# Disc length: 1055 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=27041d04
+DTITLE=DEEN - Teenage Dream
+DYEAR=1995
+DGENRE=JPop
+TTITLE0=Teenage Dream
+TTITLE1=Run Around
+TTITLE2=Teenage Dream (Original Karaoke)
+TTITLE3=Run Around (Original Karaoke)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

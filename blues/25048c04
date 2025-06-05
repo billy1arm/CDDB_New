@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22515
+#	45155
+#	66622
+#
+# Disc length: 1166 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=25048c04
+DTITLE=MIHO - OVER - ESPERANZA
+DYEAR=2000
+DGENRE=JPop
+TTITLE0=OVER
+TTITLE1=OVER (V.I.P REMIX)
+TTITLE2=ESPERANZA
+TTITLE3=ESPERANZA (DJ Ballicane REMIX)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

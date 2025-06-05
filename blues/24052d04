@@ -1,0 +1,29 @@
+# xmcd
+# Copyright (c) 1998 CDDB Inc.
+#
+# Track frame offsets:
+#	150
+#	17316
+#	34704
+#	64068
+#
+# Disc length: 1327 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.83.01
+#
+DISCID=24052d04
+DTITLE=Spooks - Faster Than You Know
+DYEAR=2003
+DGENRE=RAP
+TTITLE0=Faster Than You Know (Album Version)
+TTITLE1=Crazy
+TTITLE2=Around The World
+TTITLE3=Faster Than You Know (Video)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

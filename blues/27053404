@@ -1,0 +1,28 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17907
+#	48076
+#	69885
+# Disc length: 1334 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=27053404
+DTITLE=Zero 7 - In the Waiting Line
+DYEAR=1900
+DGENRE=
+TTITLE0=In The Waiting Line radio edit
+TTITLE1=In The Waiting Line dorfmeister con madrid de los austrias dub
+TTITLE2=Simple Things live
+TTITLE3=In the Waiting Line aquanote's naked adaptation
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

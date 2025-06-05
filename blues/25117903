@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	146612
+#	285399
+#
+# Disc length: 4475 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=25117903
+DTITLE=Wilhelm Busch - Jesus unser Schicksal [CD1)
+DYEAR=2008
+DGENRE=Audiobook
+TTITLE0=Teil 1
+TTITLE1=Teil 2
+TTITLE2=Teil 3
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

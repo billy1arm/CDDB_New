@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22602
+#	41060
+#	60310
+#
+# Disc length: 1058 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=22042004
+DTITLE=張國榮 - 追憶??月
+DYEAR=1998
+DGENRE=Pop
+TTITLE0=這些年來
+TTITLE1=上帝
+TTITLE2=以後
+TTITLE3=最冷一天
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,29 @@
+# xmcd
+# Copyright (c) 1998 CDDB Inc.
+#
+# Track frame offsets:
+#	182
+#	17140
+#	46387
+#	76917
+#
+# Disc length: 1321 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.83.01
+#
+DISCID=25052704
+DTITLE=Oui 3 - The Joy Of Living
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=The Joy Of Living (Radio Mix)
+TTITLE1=The Joy Of Living (Little Ba Bas Mix)
+TTITLE2=The Joy Of Living (Red City Vocal Mix)
+TTITLE3=World Of Form (Album Version)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

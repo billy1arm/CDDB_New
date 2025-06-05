@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16804
+#	34538
+#	47758
+#
+# Disc length: 879 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=23036d04
+DTITLE=Culprit - Aqoon Guud EP
+DYEAR=2004
+DGENRE=Electronic
+TTITLE0=Parting Shot
+TTITLE1=Manical
+TTITLE2=Adapt
+TTITLE3=Frozen Format
+EXTD=YEAR: 2004 ID3G: 52
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

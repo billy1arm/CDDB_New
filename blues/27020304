@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8949
+#	20464
+#	32869
+#
+# Disc length: 517 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=27020304
+DTITLE=Chad Hallyburton - Jazz Guitar
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=How Deep Is The Ocean?
+TTITLE1=The Water Is Wide
+TTITLE2=Blue Monk
+TTITLE3=Happy Birthday
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

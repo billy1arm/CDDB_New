@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	50845
+#	103803
+#
+# Disc length: 2442 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=26098803
+DTITLE=Charles Mingus - Live in Stockholm 1964 - Vol 2
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Peggy's blue skylight
+TTITLE1=When irish eyes are smiling
+TTITLE2=Fables for Faubus
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

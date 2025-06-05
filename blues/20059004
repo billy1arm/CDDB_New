@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31258
+#	55053
+#	83448
+#
+# Disc length: 1426 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=20059004
+DTITLE=Cecil Taylor - Cecil Taylor - A l'aube du free jazz
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Johny came lately
+TTITLE1=African violets
+TTITLE2=Just friends
+TTITLE3=I love Paris
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

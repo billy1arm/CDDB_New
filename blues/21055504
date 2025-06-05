@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19523
+#	51797
+#	93787
+#
+# Disc length: 1367 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=21055504
+DTITLE=Alain Le Goff - Le bateau qui marchait sur la terre et l'eau
+DYEAR=2002
+DGENRE=Enfants
+TTITLE0=Chapitre 1
+TTITLE1=Chapitre 2
+TTITLE2=Chapitre 3
+TTITLE3=Chapitre 4
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

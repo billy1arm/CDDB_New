@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16622
+#	32582
+#	49015
+#
+# Disc length: 864 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=20035e04
+DTITLE=KAT-TUN - SIGNAL
+DYEAR=2006
+DGENRE=J-Pop
+TTITLE0=SIGNAL
+TTITLE1=I'll be with you
+TTITLE2=SIGNAL (オリジナル・カラオケ)
+TTITLE3=I'll be with you (オリジナル・カラオケ)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

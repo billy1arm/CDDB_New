@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26625
+#	61050
+#	84375
+#
+# Disc length: 1425 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=25058f04
+DTITLE=Pi - Seconde esquisse
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Mista
+TTITLE1=Creeper
+TTITLE2=Scoliose
+TTITLE3=Carla's song
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25544
+#	45065
+#	72329
+#
+# Disc length: 1338 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=22053804
+DTITLE=Lucy Smith - Samples
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Movin' On
+TTITLE1=Come Sunday
+TTITLE2=I Ain't Got Nothin But The Blues
+TTITLE3=Passing For Normal
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

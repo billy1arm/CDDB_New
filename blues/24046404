@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18100
+#	42345
+#	60355
+#
+# Disc length: 1126 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=24046404
+DTITLE=上田佑司 - 女々しい野郎どもの詩
+DYEAR=1996
+DGENRE=seiyu
+TTITLE0=女々しい野郎どもの詩
+TTITLE1=君への100センチメートル
+TTITLE2=女々しい野郎どもの詩(karaoke)
+TTITLE3=君への100センチメートル(karaoke)
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

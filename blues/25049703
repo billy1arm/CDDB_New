@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32485
+#	66677
+#
+# Disc length: 1177 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.96
+#
+DISCID=25049703
+DTITLE=Ensemble de Jazz du CVL - Project J
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Cantaloupe Island
+TTITLE1=Little Sunflower
+TTITLE2=Deep Feel
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

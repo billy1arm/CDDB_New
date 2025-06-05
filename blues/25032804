@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14521
+#	31036
+#	40945
+#
+# Disc length: 810 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=25032804
+DTITLE=Voci Inconsuete - Voci Inconsuete
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=01 Night and Day
+TTITLE1=02 Fever
+TTITLE2=03 My favorite things
+TTITLE3=04 Circular Lullaby
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

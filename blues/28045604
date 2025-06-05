@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27306
+#	46697
+#	67961
+#
+# Disc length: 1112 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=28045604
+DTITLE=Kenny G - The Moment
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=The Moment
+TTITLE1=The Joy Of Life
+TTITLE2=Against Doctor's Orders
+TTITLE3=Greensleeves
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

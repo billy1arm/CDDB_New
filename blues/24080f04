@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	27200
+#	78875
+#	107245
+#
+# Disc length: 2065 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=24080f04
+DTITLE=Ron Carter - Spanish Blue
+DYEAR=1974
+DGENRE=Jazz
+TTITLE0=El Noche Sol
+TTITLE1=So What
+TTITLE2=Sabado Sombrero
+TTITLE3=Arkansas
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27382
+#	46171
+#	76746
+#
+# Disc length: 1335 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=22053504
+DTITLE=Railroad Blues Band - Live in Ittiri
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=hoochie koochie man
+TTITLE1=suspicious minds
+TTITLE2=the sky is crying
+TTITLE3=mojo working
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

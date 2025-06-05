@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20025
+#	43350
+#
+# Disc length: 820 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=25033203
+DTITLE=Malandra Burrows - Carnival In Heaven
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Carnival In Heaven - Radio Version
+TTITLE1=Carnival In Heaven - The Heavenly Mix
+TTITLE2=Carnival In Heaven - The Carnival Mix
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

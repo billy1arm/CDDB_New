@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	17927
+#	45367
+#	68475
+#
+# Disc length: 1141 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=27047304
+DTITLE=Gotthard - Homerun
+DYEAR=2001
+DGENRE=
+TTITLE0=Homerun (Radio Edit)
+TTITLE1=Homerun (Album Edit)
+TTITLE2=Time
+TTITLE3=Dirty Weekend
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

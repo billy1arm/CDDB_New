@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28200
+#	49282
+#
+# Disc length: 859 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=24035903
+DTITLE=Bill Withers - Harlem 89 (3")
+DYEAR=1989
+DGENRE=Soul
+TTITLE0=Harlem 89 (Extented Remix)
+TTITLE1=Harlem 89 (Street Remix)
+TTITLE2=Harlem 89
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

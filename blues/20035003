@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	27252
+#	43905
+#
+# Disc length: 850 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=20035003
+DTITLE=Bon Jovi - Lay your Hands on me
+DYEAR=1988
+DGENRE=Rock
+TTITLE0=Lay your Hands on me
+TTITLE1=You give love a bad name
+TTITLE2=Let it rock
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

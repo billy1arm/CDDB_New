@@ -1,0 +1,28 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 18287
+# 62310
+# 80537
+#
+# Disc length: 1334 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.2.328
+#
+DISCID=21053404
+DTITLE=2pac - Static (Single)
+DYEAR=1900
+DGENRE=
+TTITLE0=Static (Radio Edit)
+TTITLE1=Static (Extended Mix)
+TTITLE2=Static (Ragamuffin Mix)
+TTITLE3=Static
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

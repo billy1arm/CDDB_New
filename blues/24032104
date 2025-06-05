@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15450
+#	24525
+#	49030
+#
+# Disc length: 803 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=24032104
+DTITLE=Trout Fishing In Quebec - New Shoes
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=New Shoes
+TTITLE1=Hubba Hubba
+TTITLE2=Trout Fishing In Quebec
+TTITLE3=Banana Appeal
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

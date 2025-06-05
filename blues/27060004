@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18757
+#	35668
+#	64502
+#
+# Disc length: 1538 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=27060004
+DTITLE=Alicia Keys - Like You'll Never See Me Again (promo cds)
+DYEAR=2008
+DGENRE=R&B
+TTITLE0=Like You'll Never See Me Atgain (Radio Edit)
+TTITLE1=Like You'll Never See Me Again (Seiji Remix)
+TTITLE2=Like You'll Never See Me Again (Jony Rockstar Remix)
+TTITLE3=Video
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

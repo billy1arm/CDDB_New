@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45600
+#	80625
+#	120825
+#
+# Disc length: 2202 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=26089804
+DTITLE=Scott Tuma - The River 1 2 3 4
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=1
+TTITLE1=2
+TTITLE2=3
+TTITLE3=4
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24290
+#	44402
+#	68480
+#
+# Disc length: 1181 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=27049b04
+DTITLE=F-BLOOD - I
+DYEAR=1997
+DGENRE=JPop
+TTITLE0=I
+TTITLE1=GOING HOME
+TTITLE2=I(Karaoke)
+TTITLE3=GOING HOME(Karaoke)
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

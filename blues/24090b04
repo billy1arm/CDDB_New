@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	52502
+#	83510
+#	126470
+#
+# Disc length: 2317 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=24090b04
+DTITLE=Thelonious Monk - Round about midnight, live in Paris 1967 vol 2
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=Blue Monk
+TTITLE1='Round about midnight
+TTITLE2=Hackensack
+TTITLE3=Straight, no chaser
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

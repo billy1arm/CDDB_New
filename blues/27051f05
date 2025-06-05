@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23139
+#	40562
+#	62434
+#	76600
+#
+# Disc length: 1313 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=27051f05
+DTITLE=Various Artist - Montana Musicians and Artists Coalition Showcase Sampler Vol. 1
+DYEAR=2012
+DGENRE=Blues
+TTITLE0=John Floridis - See the Light
+TTITLE1=Tom Catmull - Ketchum
+TTITLE2=The Dodgy Mountain Men - Simple Man's Blues
+TTITLE3=Kevin Van Dort - Butterfly Herb Girl
+TTITLE4=Joshua Farmer - Unafraid
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

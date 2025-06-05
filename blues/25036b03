@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22000
+#	44105
+#
+# Disc length: 877 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=25036b03
+DTITLE=REDIEAN;MODE - Kiss
+DYEAR=1996
+DGENRE=Rock
+TTITLE0=Kiss
+TTITLE1=Friends
+TTITLE2=Kiss (オリジナル・カラオケ)
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

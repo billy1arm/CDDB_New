@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	55682
+#	79735
+#	123113
+#
+# Disc length: 2114 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.9
+#
+DISCID=25084004
+DTITLE=Dave Kenney - Aurora Borealis
+DYEAR=1995
+DGENRE=New Age
+TTITLE0=Serenade
+TTITLE1=An Eskimo Tale
+TTITLE2=Midnight Rainbows
+TTITLE3=Reflections
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

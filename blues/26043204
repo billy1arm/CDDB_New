@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16875
+#	40575
+#	57300
+#
+# Disc length: 1076 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=26043204
+DTITLE=Le Couple - Sofa
+DYEAR=1900
+DGENRE=J-POP
+TTITLE0=Sofa
+TTITLE1=片思いのオレンジ
+TTITLE2=Sofa(Backing Track)
+TTITLE3=片思いのオレンジ(Backing Track)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

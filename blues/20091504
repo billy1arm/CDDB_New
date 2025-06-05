@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23297
+#	93312
+#	131469
+#
+# Disc length: 2327 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=20091504
+DTITLE=Sonore - Cafe OTO - London
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Fragments for an Endgame
+TTITLE1=I Was Arranging Her Arms
+TTITLE2=Le Chien Perdu
+TTITLE3=OTO
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=
