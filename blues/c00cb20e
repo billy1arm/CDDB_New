@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40425
+#	55135
+#	68985
+#	83807
+#	97530
+#	112962
+#	126952
+#	141337
+#	163790
+#	185657
+#	197422
+#	211195
+#	230510
+#
+# Disc length: 3252 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=c00cb20e
+DTITLE=Louis Armstrong - Blues de colección
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=St. Louis blues
+TTITLE1=Wild man blues
+TTITLE2=Melancholy blues
+TTITLE3=West end blues
+TTITLE4=Potato head blues
+TTITLE5=Savoy blues
+TTITLE6=Weary blues
+TTITLE7=Putt'em down blues
+TTITLE8=Beale street blues
+TTITLE9=Royal garden blues
+TTITLE10=Blues for yesterday
+TTITLE11=Blues in the south
+TTITLE12=Back o'town blues
+TTITLE13=Canal street blues
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

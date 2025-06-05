@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	11103
+#	22843
+#	35103
+#	47960
+#	61243
+#	75373
+#	90685
+#	104440
+#	116120
+#	125850
+#	138840
+#	169938
+#	182070
+#	196183
+#
+# Disc length: 2781 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=cc0adb0f
+DTITLE=Blues Evergreens - Blues Evergreens CD4 of 4
+DYEAR=1991
+DGENRE=Blues
+TTITLE0=Howlin' Wolf - Little Red Rooster
+TTITLE1=Little Walter - My Babe
+TTITLE2=Elmore James - The Sky Is Crying
+TTITLE3=Muddy Waters - I Just Want To Make Love With You
+TTITLE4=B.B.King - When My Heart Beats Like A Hammer
+TTITLE5=Howlin' Wolf - My Life
+TTITLE6=Sonny Boy Williamson - Cross My Heart
+TTITLE7=Little Walter - You're So Fine
+TTITLE8=Elmore James - Pickin' The Blues
+TTITLE9=John Lee Hooker - Dusty Road
+TTITLE10=Leadbelly - Goodnight Irene
+TTITLE11=B.B.King - Outside Help
+TTITLE12=Howlin' Wolf - Spoonful
+TTITLE13=Muddy Waters - One More Mile
+TTITLE14=Elmore James - Early In The Morning
+EXTD=YEAR: 1991 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

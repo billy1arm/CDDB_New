@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23184
+#	47314
+#	64104
+#	89422
+#	106169
+#	127757
+#	148208
+#	168151
+#	187931
+#	212607
+#	256686
+#	284253
+#	310473
+#	321332
+#
+# Disc length: 4372 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ca11120f
+DTITLE=Alice In Neverland - 두번째달 monologue project 'Alice In Neverland'
+DYEAR=2007
+DGENRE=New Age
+TTITLE0=집으로 가는 길
+TTITLE1=outlook over the ocean
+TTITLE2=봄이다
+TTITLE3=인형사
+TTITLE4=외눈박이 소녀의 이야기
+TTITLE5=그 여름 가장 조요한 바다 with 장필순
+TTITLE6=신수동 우리집
+TTITLE7=내게 말하기 with caser
+TTITLE8=잊혀지지 않습니다
+TTITLE9=나비의 집 with 하림
+TTITLE10=타악기 공장
+TTITLE11=귀향
+TTITLE12=Eridanus
+TTITLE13=앨리스는 더이상 여기 살지 않는다 Part1
+TTITLE14=앨리스는 더이상 여기 살지 않는다 Part2
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

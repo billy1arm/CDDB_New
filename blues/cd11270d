@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41985
+#	63200
+#	87190
+#	110760
+#	130855
+#	157306
+#	180471
+#	206174
+#	231501
+#	239946
+#	258860
+#	275786
+#
+# Disc length: 4393 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta6
+#
+DISCID=cd11270d
+DTITLE=E.S.T. - Morceaux Choisis
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Say hello to Mr D.
+TTITLE1=The day after
+TTITLE2=Hymn of the river brown
+TTITLE3=The message
+TTITLE4=Serenade for the renegade
+TTITLE5=Behind the Yashmak
+TTITLE6=Bound for the beauty ot the south
+TTITLE7=Years of yearning
+TTITLE8=Somewhere else before
+TTITLE9=Serenity
+TTITLE10=Last letter from Lithuania
+TTITLE11=Pavane thoughts of a septuagenarian
+TTITLE12=Reminiscence of a soul
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

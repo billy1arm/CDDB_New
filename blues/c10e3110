@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30229
+#	47622
+#	63005
+#	79807
+#	95512
+#	109584
+#	131577
+#	149285
+#	165455
+#	178434
+#	195123
+#	213180
+#	225101
+#	238947
+#	255933
+#
+# Disc length: 3635 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c10e3110
+DTITLE=Various Artist - Jazz 'Round Midnight
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Bill Evans - 'Round Midnight
+TTITLE1=Ella Fitzgerald - Spring Can Really Hang You Up The Most
+TTITLE2=Clifford Brown - What's New
+TTITLE3=Bill Henderson - All Or Nothing At All
+TTITLE4=Johnny Hogdes - I Got It Bad (And That Ain't Good)
+TTITLE5=Shirley Horn - Only The Lonely
+TTITLE6=Gerry Mulligan - Night Lights
+TTITLE7=Blossom Dearie - Some Other Time
+TTITLE8=Stan Getz - Detour Ahead
+TTITLE9=Mel Torme - Born To Be Blue
+TTITLE10=Ben Webster - There Is No Greater Love
+TTITLE11=Sarah Vaughan - Someone To Watch Over Me
+TTITLE12=Dizzy Gillespie - Do Nothing Till You Hear From Me
+TTITLE13=Dinah Washington - My Old Flame
+TTITLE14=Oscar Petreson - I'm A Fool To Want You
+TTITLE15=Arthur Prysock - I'm Through With Love
+EXTD=YEAR: 1992
+EXTT0=Bill Evans
+EXTT1=Ella Fitzgerald
+EXTT2=Clifford Brown
+EXTT3=Bill Henderson
+EXTT4=Johnny Hodges
+EXTT5=Shirley Horn
+EXTT6=Gerry Mulligan
+EXTT7=Blossom Dearie
+EXTT8=Stan Getz
+EXTT9=Mel Torme
+EXTT10=Ben Webster
+EXTT11=Sarah Vaughn
+EXTT12=Dizzy Gillespie
+EXTT13=Dinah Washington
+EXTT14=Oscar Peterson
+EXTT15=Arthur Prysock
+PLAYORDER=

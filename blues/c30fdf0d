@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31363
+#	63313
+#	68994
+#	101591
+#	125206
+#	130905
+#	161261
+#	191275
+#	194168
+#	227815
+#	249699
+#	272850
+#
+# Disc length: 4065 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c30fdf0d
+DTITLE=Alfred Andersch - Sansibar Oder Der Letzte Grund
+DYEAR=2007
+DGENRE=Hörbuch
+TTITLE0=17 Gregor
+TTITLE1=18 Gregor
+TTITLE2=19  Der Junge
+TTITLE3=20  Knudsen - Gregor
+TTITLE4=21  Knudsen - Gregor
+TTITLE5=22 Der Junge
+TTITLE6=23 Helander - Knudsen - Gregor
+TTITLE7=24 Helander - Knudsen - Gregor
+TTITLE8=25 Der Junge
+TTITLE9=26 Judith - Gregor - Knudsen
+TTITLE10=27 Judith - Gregor - Knudsen
+TTITLE11=28 Judith - Gregor - Knudsen
+TTITLE12=29 Judith - Gregor - Knudsen
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

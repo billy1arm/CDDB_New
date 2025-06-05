@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22688
+#	44691
+#	60050
+#	64811
+#	86883
+#	109271
+#	112851
+#	134949
+#	152867
+#	176964
+#	188035
+#	205205
+#	237023
+#
+# Disc length: 3508 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c10db20e
+DTITLE=Deep Forest - Comparsa
+DYEAR=1997
+DGENRE=New Age
+TTITLE0=Noonday Sun
+TTITLE1=Green and Blue
+TTITLE2=Madazulu
+TTITLE3=1716
+TTITLE4=Deep Weather
+TTITLE5=Comparsa
+TTITLE6=Earthquake (transition 1)
+TTITLE7=Tres Marias
+TTITLE8=Radio Belize
+TTITLE9=Ekue Ekue
+TTITLE10=La Lune se bat avec
+TTITLE11=Les étoiles (transition2)
+TTITLE12=Forest Power
+TTITLE13=Media Luna
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

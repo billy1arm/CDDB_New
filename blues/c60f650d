@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20867
+#	39278
+#	67738
+#	90700
+#	104350
+#	135340
+#	149923
+#	175075
+#	203155
+#	223184
+#	247416
+#	278089
+#
+# Disc length: 3943 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=c60f650d
+DTITLE=Harry Skinner and Dave Saunders - Into The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=St. Louis Blues
+TTITLE1=Chump Man Blues
+TTITLE2=Rock Me Baby
+TTITLE3=Bring It On Home To Me
+TTITLE4=Long Tall Mama
+TTITLE5=Sail On
+TTITLE6=Rollin' And Tumblin'
+TTITLE7=Trouble In Mind
+TTITLE8=The Train I Ride
+TTITLE9=Crossroads Blues
+TTITLE10=Try Me One More Time
+TTITLE11=One Kind Favour
+TTITLE12=Moondance
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14162
+#     23947
+#     38907
+#     49542
+#     62245
+#     73340
+#     85757
+#     94127
+#     110662
+#     126647
+#     140702
+#     154357
+# 
+# Disc length: 2277 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=c708e30d
+DTITLE=Various Artist - Blues Oggi
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm getting ready
+TTITLE1=I feel so bad
+TTITLE2=Laura's blues
+TTITLE3=Vicksburg blues
+TTITLE4=I told you baby long time ago
+TTITLE5=Yes my baby's just like a dresser
+TTITLE6=Corinna Corinna
+TTITLE7=Got to get myself somebody to love
+TTITLE8=I got a pretty little flower
+TTITLE9=Baby I need your love so bad
+TTITLE10=I'll be glad when you dead ( you rascal you )
+TTITLE11=Red boogie
+TTITLE12=Brownsville Tennessee
+EXTD=
+EXTT0=Bukka White\n
+EXTT1=Dewey Corley and Mose Vinson \n
+EXTT2=Laura Dukes\n
+EXTT3=Mose Vinson and Dewey Corley\n
+EXTT4=Hammie Nixon and Sleepy John Estes\n
+EXTT5=Dewey Corley\n
+EXTT6=Hammie Nixon and Sleepy John Estes\n
+EXTT7=Laura Dukes\n
+EXTT8=Sleepy John Estes and John Piano Red \nWilliams\n\n
+EXTT9=John Piano Red Williams\n
+EXTT10=Hammie Nixon and Sleepy John Estes\n
+EXTT11=John Piano Red Williams\n
+EXTT12=Bukka White\n
+PLAYORDER=

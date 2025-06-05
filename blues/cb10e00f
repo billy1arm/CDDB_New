@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	16770
+#	39605
+#	61180
+#	82282
+#	101880
+#	118187
+#	160165
+#	187740
+#	207330
+#	226290
+#	258557
+#	267765
+#	283597
+#	302475
+#
+# Disc length: 4322 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=cb10e00f
+DTITLE=NYJO - Portraits
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Blues at the Bull
+TTITLE1=Woody
+TTITLE2=Basie
+TTITLE3=Dizzy
+TTITLE4=Duke
+TTITLE5=Bird
+TTITLE6=Quincy
+TTITLE7=Monk
+TTITLE8=Duke II
+TTITLE9=Kenton
+TTITLE10=Buddy
+TTITLE11=Point Of No Return
+TTITLE12=Come On The Blues
+TTITLE13=Royal Flush
+TTITLE14=Southern Horizons
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

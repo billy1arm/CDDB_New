@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16525
+#     32110
+#     48572
+#     62562
+#     74115
+#     84230
+#     86875
+#     103767
+#     114452
+#     123625
+#     137142
+#     152387
+#     172782
+#     183322
+# 
+# Disc length: 2550 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=c209f40f
+DTITLE=Gerard Cox - Leuk voor later
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Zo verdrietig
+TTITLE1=Met z'n twee n
+TTITLE2=Straatarm oud
+TTITLE3=Snuiven
+TTITLE4=Begrafenis
+TTITLE5=De zinloosheid van het bestaan
+TTITLE6=Zelfportret
+TTITLE7=Die ander
+TTITLE8=Pieter Goudhaan
+TTITLE9=Kom nou maar naar huis
+TTITLE10=Leuk voor later
+TTITLE11=Want het is niet goed
+TTITLE12=Nooit meer weg
+TTITLE13=Boerenkool/Kaviaar
+TTITLE14=Kwatrijn
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

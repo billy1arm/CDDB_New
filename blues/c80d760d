@@ -1,0 +1,56 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	42446
+#	60471
+#	80529
+#	110327
+#	139016
+#	164872
+#	167406
+#	185524
+#	208410
+#	222863
+#	237722
+#	253308
+#
+# Disc length: 3448 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=c80d760d
+DTITLE=Eric Clapton - Presence of the live
+DYEAR=1996
+DGENRE=blues
+TTITLE0=I'm your Hoochie Coochie man
+TTITLE1=It hurts me, too
+TTITLE2=Wonderful tonight
+TTITLE3=Have you ever loved a woman
+TTITLE4=Everyday I have the blues
+TTITLE5=Tears in Heaven
+TTITLE6=Intro
+TTITLE7=Right time, wrong place
+TTITLE8=Roberta
+TTITLE9=How long
+TTITLE10=St. James Infirmary
+TTITLE11=Layla
+TTITLE12=Closing session
+EXTD=track 1-6 Live in London at Hyde Park on June 29, 1996\r\ntrack 7-13 Live 
+EXTD=in New York at Rockwell Ballroom on May 9, 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

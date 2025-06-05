@@ -1,0 +1,57 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     74076
+#     109231
+#     118153
+#     155731
+#     184261
+#     207346
+#     225208
+#     237081
+#     251971
+#     273798
+#     294891
+#     316366
+# 
+# Disc length: 4443 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=c011590d
+DTITLE=Stevie Ray Vaughan And Double Trouble - Jiving Jam - Various Performa
+DTITLE=nces with Famous Musicians
+DYEAR=1900
+DGENRE=
+TTITLE0=Champagne And Refer
+TTITLE1=Oreo Cookie Blues
+TTITLE2=Wham
+TTITLE3=Stormy Monday Blues
+TTITLE4=Matchbox Blues
+TTITLE5=Ask Me No Questions
+TTITLE6=Wham
+TTITLE7=Texas Blues
+TTITLE8=Last Call
+TTITLE9=Jeff's Boogie
+TTITLE10=Don't Stop By The Creek, Son
+TTITLE11=Oreo Cookie Blues
+TTITLE12=Dirty Pool
+EXTD=
+EXTT0=With Buddy Guy\n
+EXTT1=With Lonnie Mack\n
+EXTT2=With Lonnie Mack\n
+EXTT3=With Albert King\n
+EXTT4=With Albert King\n
+EXTT5=With Albert King\n
+EXTT6=With Jeff Beck\n
+EXTT7=With Jeff Beck\n
+EXTT8=With Jeff Beck\n
+EXTT9=With Jeff Beck\n
+EXTT10=With Johnny Copeland\n
+EXTT11=Acoustic\nWith Lonnie Mack\n
+EXTT12=Acoustic solo\n
+PLAYORDER=

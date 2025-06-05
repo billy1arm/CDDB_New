@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17104
+#	44741
+#	66666
+#	89463
+#	112810
+#	130256
+#	151040
+#	160942
+#	176907
+#	204374
+#	209483
+#	226195
+#	242557
+#	271131
+#
+# Disc length: 3819 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ce0ee90f
+DTITLE=Johann Sebastian Bach (1685-1750) - Harpsichord Concertos (Complete) Disk 3
+DYEAR=1995
+DGENRE=Baroque
+TTITLE0=Concerto for two harpsichords in C minor, BWV 1062  Allegro
+TTITLE1=Concerto for two harpsichords in C minor, BWV 1062  Andante piano
+TTITLE2=Concerto for two harpsichords in C minor, BWV 1062  Allegro assai
+TTITLE3=Concerto for two harpsichords in C minor, BWV 1060  Allegro
+TTITLE4=Concerto for two harpsichords in C minor, BWV 1060  Largo ovvero Adagio
+TTITLE5=Concerto for two harpsichords in C minor, BWV 1060  Allegro
+TTITLE6=Concerto for four harpsichords in A minor, BWV 1065  Allegro
+TTITLE7=Concerto for two harpsichords in C minor, BWV 1065  Largo
+TTITLE8=Concerto for two harpsichords in C minor, BWV 1065  Allegro
+TTITLE9=Concerto for harpsichord in D minor, BWV 1059  Allegro
+TTITLE10=Concerto for two harpsichords in C minor, BWV 1059  Adagio
+TTITLE11=Concerto for two harpsichords in C minor, BWV 1059  Presto
+TTITLE12=Concerto for two harpsichords in G minor, BWV 1058  Allegro
+TTITLE13=Concerto for two harpsichords in G minor, BWV 1058  Andante
+TTITLE14=Concerto for two harpsichords in G minor, BWV 1058  Allegro assai
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

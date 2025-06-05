@@ -1,0 +1,205 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	5132
+#	10757
+#	16232
+#	25382
+#	34457
+#	38807
+#	43007
+#	48482
+#	53807
+#	57257
+#	60632
+#	64157
+#	67532
+#	72032
+#	76457
+#	79532
+#	82457
+#	85457
+#	88382
+#	94382
+#	100307
+#	106907
+#	113432
+#	120857
+#	126782
+#	132707
+#	140507
+#	148157
+#	155882
+#	163457
+#	167732
+#	171932
+#	176057
+#	180707
+#	185282
+#	191207
+#	198482
+#	203207
+#	207857
+#	211007
+#	214082
+#	217232
+#	220232
+#	225932
+#	231482
+#	235607
+#	239657
+#	243782
+#	247757
+#	261107
+#	274307
+#	277982
+#	281582
+#	284282
+#	286832
+#	289682
+#	292382
+#	297107
+#	301757
+#	304607
+#	307307
+#	310157
+#
+# Disc length: 4169 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c410473f
+DTITLE=Sonoton Authentic Series - Sas 103 - Nation Anthems Vol. 01
+DYEAR=1990
+DGENRE=Contentum
+TTITLE0=National Anthems - Alabama
+TTITLE1=National Anthems - Andorra (A)
+TTITLE2=National Anthems - Andorra (B)
+TTITLE3=National Anthems - Argentina (A)
+TTITLE4=National Anthems - Argentina (B)
+TTITLE5=National Anthems - Australia (A)
+TTITLE6=National Anthems - Australia (B)
+TTITLE7=National Anthems - Austria (A)
+TTITLE8=National Anthems - Austria (B)
+TTITLE9=National Anthems - Austria (C)
+TTITLE10=National Anthems - Austria (D)
+TTITLE11=National Anthems -  Austria (E)
+TTITLE12=National Anthems - Austria (F)
+TTITLE13=National Anthems - Belgia (A)
+TTITLE14=National Anthems - Belgia  (B)
+TTITLE15=National Anthems - Belgia  (C)
+TTITLE16=National Anthems - Belgia  (D)
+TTITLE17=National Anthems - Belgia  (E)
+TTITLE18=National Anthems - Belgia  (F)
+TTITLE19=National Anthems - Bolivia (A)
+TTITLE20=National Anthems - Bolivia (B)
+TTITLE21=National Anthems - Brasile (A)
+TTITLE22=National Anthems - Brasile (B)
+TTITLE23=National Anthems - Bulgaria (A)
+TTITLE24=National Anthems - Canada (A)
+TTITLE25=National Anthems - Canada (B)
+TTITLE26=National Anthems - Republica Centrale Africana (A)
+TTITLE27=National Anthems - Republica Centrale Africana (B)
+TTITLE28=National Anthems - Chile (A)
+TTITLE29=National Anthems - Chile (B)
+TTITLE30=National Anthems - China (A)
+TTITLE31=National Anthems - China (B)
+TTITLE32=National Anthems - China (A1)
+TTITLE33=National Anthems - Cuba (A)
+TTITLE34=National Anthems - Cuba (B)
+TTITLE35=National Anthems - Cuba (A1)
+TTITLE36=National Anthems - Cecoslovacchia (A)
+TTITLE37=National Anthems - Denmark 1 (A) - Royal Hymn
+TTITLE38=National Anthems - Denmark1 (B) - Royal Hymn
+TTITLE39=National Anthems - Denmark1 (C) - Royal Hymn
+TTITLE40=National Anthems - Denmark 1 (D) - Royal Hymn
+TTITLE41=National Anthems - Denmark1 (E) - Royal Hymn
+TTITLE42=National Anthems - Denmark1 (F ) - Royal Hymn
+TTITLE43=National Anthems - Denmark 2 (A )
+TTITLE44=National Anthems - Denmark 2 (B)
+TTITLE45=National Anthems - Denmark 2 (C)
+TTITLE46=National Anthems - Denmark 2 (D)
+TTITLE47=National Anthems - Denmark 2 (E)
+TTITLE48=National Anthems - Denmark 2 (F)
+TTITLE49=National Anthems - Ecuador (A)
+TTITLE50=National Anthems - Ecuador (B)
+TTITLE51=National Anthems - Egypt (A)
+TTITLE52=National Anthems - Egypt (B)
+TTITLE53=National Anthems - Europa (A) - Eurovision Fanfare
+TTITLE54=National Anthems - Europa (B) - Eurovision Fanfare
+TTITLE55=National Anthems - Finland (A) 
+TTITLE56=National Anthems - Finland (B) 
+TTITLE57=National Anthems - Frankrike (A) 
+TTITLE58=National Anthems - Frankrike (B) 
+TTITLE59=National Anthems - Frankrike (C) 
+TTITLE60=National Anthems - Frankrike (D) 
+TTITLE61=National Anthems - Frankrike (E) 
+TTITLE62=National Anthems - Frankrike (F) 
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+PLAYORDER=

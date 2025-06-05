@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11763
+#     27620
+#     46310
+#     55373
+#     77685
+#     92343
+#     105055
+#     118685
+#     131480
+#     143830
+#     157733
+#     179613
+#     194680
+#     204235
+#     219015
+# 
+# Disc length: 3120 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=ce0c2e10
+DTITLE=Various Artist - O Holy Night-Traditional Christmas Carols
+DYEAR=1900
+DGENRE=
+TTITLE0=Angels We Have Heard on High
+TTITLE1=O Holy Night
+TTITLE2=What Child is This
+TTITLE3=We Wish You a Merry Christmas
+TTITLE4=Sleepers, Wake, The Voice is Calling, BWV 645
+TTITLE5=Some Children
+TTITLE6=Let It Snow
+TTITLE7=It Came Upon a Midnight Clear
+TTITLE8=The First Noel
+TTITLE9=Silver and Gold
+TTITLE10=Hark the Herald Angels Sing
+TTITLE11=Concerto for Corno Da Caccia
+TTITLE12=O Little Town of Bethlehem
+TTITLE13=Good Christian Men Rejoice
+TTITLE14=We Three Kings
+TTITLE15=I Call You Jesus
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

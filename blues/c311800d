@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20579
+#	57949
+#	67696
+#	86145
+#	129626
+#	150693
+#	174070
+#	206731
+#	230165
+#	253781
+#	274419
+#	298350
+#
+# Disc length: 4482 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.99.1
+#
+DISCID=c311800d
+DTITLE=Edison, Harry 'Sweets' - Seven Classic Albums CD01
+DYEAR=1955
+DGENRE=Jazz
+TTITLE0=Yellow Rose of Brooklyn
+TTITLE1=Easy Does It
+TTITLE2=All Sweets
+TTITLE3=Nice Worl If You Can Get It
+TTITLE4=Barney's Bugle
+TTITLE5=Now's The Time
+TTITLE6=You're Getting To Be A Habit With Me
+TTITLE7=Mean To Me
+TTITLE8=Red Boy Blues
+TTITLE9=Penn ies For Heaven
+TTITLE10=That's All
+TTITLE11=One O'Clock Jump
+TTITLE12=She's Funny That Way
+EXTD=YEAR: 1955
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

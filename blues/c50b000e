@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13542
+#	28279
+#	40691
+#	61446
+#	74272
+#	87142
+#	104476
+#	123203
+#	137704
+#	146845
+#	164014
+#	181142
+#	200303
+#
+# Disc length: 2818 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c50b000e
+DTITLE=Stephan Joscho - Django Forever
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Blues Clair
+TTITLE1=Ballade pour Django
+TTITLE2=Daphne
+TTITLE3=Valse Samois
+TTITLE4=Train to Paris
+TTITLE5=Nuages
+TTITLE6=Hot Club Swing
+TTITLE7=Chica
+TTITLE8=Minor Blues
+TTITLE9=Micro
+TTITLE10=Gypsy
+TTITLE11=Swing 39
+TTITLE12=Troublant Bolero
+TTITLE13=All Together
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

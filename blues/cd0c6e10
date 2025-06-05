@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11425
+#	24387
+#	42075
+#	52587
+#	63800
+#	83537
+#	95275
+#	113262
+#	125287
+#	142262
+#	153612
+#	170300
+#	185862
+#	197925
+#	224675
+#
+# Disc length: 3184 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=cd0c6e10
+DTITLE=Mahalia Jackson - When The Saints Go Marching On
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Keep Your Hand On The Plow
+TTITLE1=Oh Lord Is It I
+TTITLE2=When The Saints Go Marching In
+TTITLE3=Jesus
+TTITLE4=Jesus Met The Woman At The Well
+TTITLE5=When I Wake Up In Glory
+TTITLE6=Didn't It Rain
+TTITLE7=A City Called Heaven
+TTITLE8=Walk Over God's Heaven
+TTITLE9=Out Of The Depths
+TTITLE10=Joshua Fit The Battle Of Jericho
+TTITLE11=The Lord's Prayer
+TTITLE12=I'm On My Way
+TTITLE13=Nobody Knows The Trouble I've Seen
+TTITLE14=In The Upper Room
+TTITLE15=Go Tell It On The Mountain
+EXTD=\nYEAR: 1995  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

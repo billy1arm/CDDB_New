@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8175
+#	30075
+#	59400
+#	80400
+#	100725
+#	119625
+#	138150
+#	158700
+#	185700
+#	205725
+#	223725
+#	244350
+#	260700
+#
+# Disc length: 3856 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: freeDBTagger 0.5
+#
+DISCID=c40f0e0e
+DTITLE=Yellow Magic Orchestra - YMO 1
+DYEAR=1900
+DGENRE=rock
+TTITLE0=COMPUTER GAME-Theme from the Circus コンピュータ・ゲーム
+TTITLE1=FIRECRACKER ファイアークラッカー
+TTITLE2=SIMOON シムーン
+TTITLE3=ABSOLUTE EGO DANCE アブソリュート・エゴ・ダンス
+TTITLE4=MASS マス
+TTITLE5=CHAOS PANIC カオス・パニック
+TTITLE6=LOTUS LOVE ロータス・ラヴ
+TTITLE7=U.T ユー・ティー
+TTITLE8=LA FEMME CHIOISE 中国女
+TTITLE9=RYDEEN 雷電
+TTITLE10=SOLID STATE SURVIVOR ソリッド・ステイト・サヴァイヴァー
+TTITLE11=BALLET バレエ
+TTITLE12=BEHIND THE MASK ビハインド・ザ・マスク
+TTITLE13=TONG POO 東風
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

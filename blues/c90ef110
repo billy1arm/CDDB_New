@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26117
+#	53137
+#	63200
+#	77057
+#	95895
+#	123612
+#	136535
+#	160040
+#	171042
+#	182402
+#	199767
+#	225800
+#	236262
+#	249717
+#	267347
+#
+# Disc length: 3827 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c90ef110
+DTITLE=モーツァルト - モーツァルト：≪アイネ・クライネ・ナハトムジ-ク≫
+DYEAR=1990
+DGENRE=Classical
+TTITLE0=セレナ-ド 第13番 ト長調≪アイネ・クライネ・ナハトムジ-ク≫ 第1楽章：Allegro
+TTITLE1=セレナ-ド 第13番 ト長調≪アイネ・クライネ・ナハトムジ-ク≫ 第2楽章：Romance.Andante
+TTITLE2=セレナ-ド 第13番 ト長調≪アイネ・クライネ・ナハトムジ-ク≫ 第3楽章：Menuetto.Allegretto
+TTITLE3=セレナ-ド 第13番 ト長調≪アイネ・クライネ・ナハトムジ-ク≫ 第4楽章：Rondo.Allegro
+TTITLE4=ディヴェルティメント ニ長調 KV136 第1楽章：Allegro
+TTITLE5=ディヴェルティメント ニ長調 KV136 第2楽章：Andante
+TTITLE6=ディヴェルティメント ニ長調 KV136 第3楽章：Presto
+TTITLE7=ディヴェルティメント 変ロ長調 KV137 第1楽章：Andante
+TTITLE8=ディヴェルティメント 変ロ長調 KV137 第2楽章：Allegro di molto
+TTITLE9=ディヴェルティメント 変ロ長調 KV137 第3楽章：Allegro assai
+TTITLE10=ディヴェルティメント ヘ長調 KV138 第1楽章：(Allegro)
+TTITLE11=ディヴェルティメント ヘ長調 KV138 第2楽章：Andante
+TTITLE12=ディヴェルティメント ヘ長調 KV138 第3楽章：Presto
+TTITLE13=セレナ-ド 第6番 ニ長調 第1楽章：Marcia.Maestoso
+TTITLE14=セレナ-ド 第6番 ニ長調 第2楽章：Menuetto
+TTITLE15=セレナ-ド 第6番 ニ長調 第3楽章：Rondo.Allegretto
+EXTD=YEAR: 1990/10/21
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

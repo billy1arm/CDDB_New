@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22349
+#	40159
+#	62189
+#	83462
+#	103061
+#	122506
+#	136356
+#	154762
+#	174241
+#	195472
+#	215103
+#	235982
+#	255736
+#
+# Disc length: 3678 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=c00e5c0e
+DTITLE=The Bee Gees - This Is Where I Came In
+DYEAR=2000
+DGENRE=Disco
+TTITLE0=This is where I came in
+TTITLE1=She keeps on coming
+TTITLE2=Sacred trust
+TTITLE3=Wedding day
+TTITLE4=Man in the middle
+TTITLE5=deja vu
+TTITLE6=Technicolor dreams
+TTITLE7=Walking on air
+TTITLE8=Loose talk costs lives
+TTITLE9=Embrace
+TTITLE10=The extra mile
+TTITLE11=Voice in the wilderness
+TTITLE12=Just in case
+TTITLE13=Promise the earth
+EXTD=YEAR: 2000 ID3G: 4
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

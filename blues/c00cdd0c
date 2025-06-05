@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22350
+#	42475
+#	65875
+#	79975
+#	103212
+#	126025
+#	145975
+#	159550
+#	174375
+#	186375
+#	223125
+#
+# Disc length: 3295 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c00cdd0c
+DTITLE=Various Artist - America What A Wonderful World
+DYEAR=1993
+DGENRE=Rhythmic Soul
+TTITLE0=Toto - Africa
+TTITLE1=Mile Davis - Human Nature
+TTITLE2=Jmmy Cliff - Reggae Nught
+TTITLE3=Creadence Clearwater Revival - Prod Mary
+TTITLE4=Blue Oyster Cult - ETI Extra Terrestrial Intelligence
+TTITLE5=Santana - Europa
+TTITLE6=Barry White - Can't Get Enough Of Your Love,Babe
+TTITLE7=Olivia Newton-John - Hopelessly Devoted To You
+TTITLE8=Aretha Franklin - Dr Feelgood
+TTITLE9=Otis Redding - The Dock Of The Bay (Sittin' On)
+TTITLE10=Creedence Clearwater Revival - I Heard It Through The Grapevine
+TTITLE11=Public Enemy - Don't Believe The Hype
+EXTD=YEAR: 1993
+EXTT0=Toto
+EXTT1=Miles Davis
+EXTT2=Jimm Cliff
+EXTT3=Revival
+EXTT4=Blue Oyster Cult
+EXTT5=Santana
+EXTT6=Barry White
+EXTT7=Olivia Newton John
+EXTT8=Aretha Franklin
+EXTT9=Otis Redding
+EXTT10=Revival
+EXTT11=Public Enemy
+PLAYORDER=

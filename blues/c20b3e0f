@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18097
+#	28463
+#	40901
+#	52667
+#	79254
+#	100683
+#	116313
+#	131665
+#	145437
+#	157053
+#	168219
+#	180924
+#	191691
+#	204647
+#
+# Disc length: 2880 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c20b3e0f
+DTITLE=Jazz - The Best Of Music
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=It Don't Mean A Thing - Louis Amstrong and Duke Ellington
+TTITLE1=Call Me Irresponsible - Dinah Washington
+TTITLE2=Let There Be Love - Nat King Cole
+TTITLE3=Cheek To Cheek - Peggy Lee
+TTITLE4=Crazy Rhythm - Stan Getz
+TTITLE5=Lullabye Of Birdland - Count Basie
+TTITLE6=I Waited For You - Miles Davis
+TTITLE7=Leap Here - Metronome All Stars
+TTITLE8=But Not For Me - Chet Baker
+TTITLE9=You Stepped Out Of A Dream - Nat King Cole
+TTITLE10=In A Sentimental Mood - Duke Ellington
+TTITLE11=South Of The Border - Frank Sinatra
+TTITLE12=The Best Things In Life Are Free - Jo Stafford
+TTITLE13=Somebody Loves Me - The Bud Powell Trio
+TTITLE14=You're A Heavenly Thing - Mel Torme
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

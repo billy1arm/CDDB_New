@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25245
+#	37407
+#	57405
+#	84502
+#	112990
+#	137757
+#	165050
+#	185618
+#	199873
+#	230857
+#	253181
+#	282183
+#	319098
+#
+# Disc length: 4620 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c9120a0e
+DTITLE=Sueddeutsche Zeitung - Jazz - 'Round The World
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Nguyên Lê: Sweet Ganesh
+TTITLE1=Anita O'Day: The Peanut Vendor (El Manisero)
+TTITLE2=Toots Thielemans: Coisa Feita
+TTITLE3=Michel Camilo and Tomatito: La Fiesta
+TTITLE4=Dino Saluzzi: Lustrin
+TTITLE5=Paquito D'Rivera: Tico Tico
+TTITLE6=Tito Puente: Take Five
+TTITLE7=Celia Cruz: Yo Viviré (I Will Survive)
+TTITLE8=Dizzy Gillespie: A Night In Tunesia
+TTITLE9=Anouar Brahem: Le Voyage de Sahar
+TTITLE10=Cesar Camargo Mariano: Samambaia
+TTITLE11=Abdullah Ibrahim: Angelica
+TTITLE12=Joe Zawinul: Zansa II
+TTITLE13=Antonio Carlos Jobim: Brazil
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30310
+#	49480
+#	69285
+#	82667
+#	111402
+#	129512
+#	140665
+#	165252
+#	190955
+#	213782
+#	229900
+#	243737
+#	262142
+#
+# Disc length: 3730 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.74
+#
+DISCID=c30e900e
+DTITLE=Various Artist - Soda Volume 03 The New Taste Of Pop
+DYEAR=1997
+DGENRE=Christian Artists
+TTITLE0=You Are The Only One - God's Property
+TTITLE1=Baptize Me - Jaci Velasquez
+TTITLE2=The 8 Polish Foods Of Christmas - Veggie Tales
+TTITLE3=Julianna Wilson - Identical Strangers
+TTITLE4=Oneman - Oneman
+TTITLE5=Peace Love-N-Happiness - Maximillian
+TTITLE6=100 Million Eyeballs - Miss Angie
+TTITLE7=Sons And Daughters - David Ruis
+TTITLE8=Come Back Home - Seeds
+TTITLE9=Lead Me, Lord - Hypersonic
+TTITLE10=Take My Hand - Church Of Rhythm
+TTITLE11=Home - Room Full Of Walters
+TTITLE12=Hop On The Bus - Scott Underwood
+TTITLE13=I Now Live - Crystal Lewis
+EXTD=YEAR: 1997
+EXTT0=God's Property
+EXTT1=Jaci Velasquez
+EXTT2=Veggietales
+EXTT3=Identical Strangers\n
+EXTT4=Oneman\n
+EXTT5=Maximillian
+EXTT6=Miss Angie
+EXTT7=David Ruis
+EXTT8=Seeds
+EXTT9=Hypersonic
+EXTT10=Church of Rhythm
+EXTT11=Room Full of Walters
+EXTT12=Scott Underwood
+EXTT13=Crystal Lewis
+PLAYORDER=

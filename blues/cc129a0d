@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32138
+#	89659
+#	124247
+#	149529
+#	182008
+#	213346
+#	230847
+#	244518
+#	263961
+#	284454
+#	310126
+#	322136
+#
+# Disc length: 4764 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=cc129a0d
+DTITLE=Lionel Hampton - Three Classic Albums plus CD2
+DYEAR=1955
+DGENRE=Jazz
+TTITLE0=September Song
+TTITLE1=Verve Blues
+TTITLE2=What Is This Thing Called Love
+TTITLE3=How High the Moon
+TTITLE4=Stardust
+TTITLE5=Lover Man
+TTITLE6=Midnight Sun
+TTITLE7=Love Is Here to Stay
+TTITLE8=The Nearness of You
+TTITLE9=Vibe Boogie
+TTITLE10=Flying Home
+TTITLE11=September Song (78 rpm verion)
+TTITLE12=What Is This Thing Called Loved (alt take)
+EXTD=YEAR: 1955
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

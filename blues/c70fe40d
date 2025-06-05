@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28581
+#	35079
+#	86159
+#	105630
+#	133702
+#	149951
+#	186320
+#	200757
+#	226056
+#	256503
+#	266103
+#	274864
+#
+# Disc length: 4070 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=c70fe40d
+DTITLE=MARK JOGGERST - Silence
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Overture
+TTITLE1=Silence Part I
+TTITLE2=Overtones
+TTITLE3=Silence Part II
+TTITLE4=Colors
+TTITLE5=Silence Part III
+TTITLE6=Inner Journey
+TTITLE7=Silence Part IV
+TTITLE8=Free
+TTITLE9=Silence Part V
+TTITLE10=Free Again
+TTITLE11=Silence Part VI
+TTITLE12=Epilogue
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

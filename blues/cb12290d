@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14712
+#	38827
+#	64702
+#	97500
+#	117537
+#	143180
+#	171990
+#	195730
+#	218980
+#	253255
+#	291695
+#	318912
+#
+# Disc length: 4651 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=cb12290d
+DTITLE=Fuchs, Wolfgang - Solo and Duets
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Particle 1
+TTITLE1=Particle 2
+TTITLE2=Particle 3
+TTITLE3=Particle 4
+TTITLE4=Particle 5
+TTITLE5=Particle 6
+TTITLE6=Particle 7
+TTITLE7=Particle 8
+TTITLE8=Vocal transfer
+TTITLE9=Cats on a hot tin roof
+TTITLE10=Earuption
+TTITLE11=Peche sonore
+TTITLE12=In coda al treno
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

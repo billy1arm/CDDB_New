@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	23220
+#	33910
+#	45010
+#	61637
+#	79480
+#	90982
+#	114047
+#	122920
+#	137927
+#	154785
+#	163737
+#	175885
+#	187005
+#	202775
+#	213000
+#
+# Disc length: 3055 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=c20bed10
+DTITLE=Memphis Slim - Blue Slim
+DYEAR=1900
+DGENRE=
+TTITLE0=Blue Slim
+TTITLE1=The Hustler
+TTITLE2=Back Home
+TTITLE3=Bad Luck And Trouble
+TTITLE4=Panic Street
+TTITLE5=Bluesnick Slim
+TTITLE6=Carried Away
+TTITLE7=Olympia Boogie
+TTITLE8=Hotfan's Delight
+TTITLE9=West Side Trot
+TTITLE10=I'd Take Her To Chicago
+TTITLE11=New Key To The Highway
+TTITLE12=Sonophone Boogie
+TTITLE13=Musing
+TTITLE14=John Henry
+TTITLE15=I Just Landed In Your Town
+EXTD=Jazz World JW 77042 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

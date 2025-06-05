@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7063
+#	70401
+#	94079
+#	112920
+#	140229
+#	157650
+#	185680
+#	212007
+#	239897
+#	270401
+#	290367
+#	319458
+#
+# Disc length: 4502 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c511940d
+DTITLE=Schiller - Das Album
+DYEAR=1999
+DGENRE=New Age
+TTITLE0=Der Anfang
+TTITLE1=Zeitgeist (chillout non stop)
+TTITLE2=Glück Und Erfüllung
+TTITLE3=Liebesschmerz
+TTITLE4=Das Unbekannte Reich
+TTITLE5=Das Glockenspiel
+TTITLE6=Körperbewegung
+TTITLE7=Freiheit
+TTITLE8=Ruhe
+TTITLE9=Sonnenuntergang
+TTITLE10=Liebesparade
+TTITLE11=Zeitgeist
+TTITLE12=Das Ende
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

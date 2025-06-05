@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11538
+#	27925
+#	50135
+#	65838
+#	84423
+#	96130
+#	114023
+#	131348
+#	147165
+#	170628
+#	182838
+#	197088
+#	209738
+#
+# Disc length: 3031 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c40bd50e,c70bd50e
+DTITLE=Ford Blues Band - The Ford Blues Band
+DYEAR=1989
+DGENRE=Blues
+TTITLE0=Shuffle For Walter
+TTITLE1=Parchman Farm
+TTITLE2=Self Preservation
+TTITLE3=Mojo Boogie
+TTITLE4=Down In Mississippi
+TTITLE5=Blues Are Back
+TTITLE6=One Way Out
+TTITLE7=Take Out Some Insurance
+TTITLE8=Too Late
+TTITLE9=Alabama March
+TTITLE10=Crying For My Baby
+TTITLE11=I Gotta Know
+TTITLE12=Can't You See
+TTITLE13=Cadillac Walk
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

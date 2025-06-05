@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42166
+#	66702
+#	86941
+#	110368
+#	132652
+#	165331
+#	191840
+#	215090
+#	231649
+#	258612
+#	281618
+#
+# Disc length: 3992 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c60f960c
+DTITLE=Various Artist - Stepping Into 2000 With Jazz
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Michael Jackson - Ghost
+TTITLE1=DJ MJ - Face To Face
+TTITLE2=Zarchard Breaux - I Told You
+TTITLE3=Smoke No Bones - Wondering
+TTITLE4=Sam Rainy - Suduction
+TTITLE5=Down To The Bone - Brooklyn Heights
+TTITLE6=Ronny Jordan - After Hours
+TTITLE7=Nika - Vicious
+TTITLE8=Chris Isaak - Can't Do Anything To Stop Me
+TTITLE9=Steve Winwood - Plenty Good Lovin
+TTITLE10=George Howard - Lets Unwind
+TTITLE11=Simply Red - You Make Me Believe
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,69 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     162
+#     16107
+#     35500
+#     53305
+#     81775
+#     102755
+#     115525
+#     132545
+#     147630
+#     162162
+#     174397
+#     188652
+#     205330
+#     242230
+#     263097
+# 
+# Disc length: 3855 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=c10f0d0f
+DTITLE=Various Artist - Blues-A-Rama, Volume 6
+DYEAR=1900
+DGENRE=
+TTITLE0=20 Miles
+TTITLE1=Hold That Train Conductor
+TTITLE2=Look On Yonder's Wall
+TTITLE3=One Room Country Shack
+TTITLE4=Feel So Bad
+TTITLE5=Can't Stop Lovin' My Baby
+TTITLE6=I Cry, Oh!
+TTITLE7=Irene
+TTITLE8=Apache
+TTITLE9=Certainly Ya'll
+TTITLE10=Dizzy Miss Lizzy
+TTITLE11=Howlin' For My Darlin'
+TTITLE12=Your Clock Is Running Out
+TTITLE13=Come Home Little Girl
+TTITLE14=Honey Dumplins
+EXTD=Recorded May 4, 1989 Live at Tipitina's\n\naccompaning Anson Funderburg
+EXTD=h:\nMatt McCabe - Piano\nMike Judge - Bass\nMarc Wilson - Drums\n\nacco
+EXTD=mpaning Snooks Eaglin:\nGeorge Porter, Jr. - Bass, 2nd Vocal on "Irene"
+EXTD=\nSammy Berfect - Piano, Organ\nHerman V. Ernest, III - Drums\n\naccomp
+EXTD=aning Hubert Sumlin:\nRonnie earl - Rythm Guitar\nDarrell Nulisch - 2nd
+EXTD=Vocal and Harmonica on "Your Clock Is Running Out"\nRichard "Dickie" R
+EXTD=eed - Piano, Organ\nSteve Gomes - Bass\nPer Hanson - Drums\nMark "Kaz" 
+EXTD=Kazanoff - Tenor Saxophone
+EXTT0=Anson Funderburgh And The Rockets \nFeaturing Sam Myers\n
+EXTT1=Anson Funderburgh And The Rockets \nFeaturing Sam Myers\n
+EXTT2=Anson Funderburgh And The Rockets \nFeaturing Sam Myers\n
+EXTT3=Anson Funderburgh And The Rockets \nFeaturing Sam Myers\n
+EXTT4=Anson Funderburgh And The Rockets \nFeaturing Sam Myers\n
+EXTT5=Anson Funderburgh And The Rockets \nFeaturing Sam Myers\n
+EXTT6=Snooks Eaglin\n
+EXTT7=Snooks Eaglin\n
+EXTT8=Snooks Eaglin\n
+EXTT9=Snooks Eaglin\n
+EXTT10=Snooks Eaglin\n
+EXTT11=Hubert Sumlin\n
+EXTT12=Hubert Sumlin\n
+EXTT13=Hubert Sumlin\n
+EXTT14=Hubert Sumlin\n
+PLAYORDER=

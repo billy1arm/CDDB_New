@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23043
+#	43006
+#	82693
+#	108500
+#	127796
+#	150188
+#	176980
+#	186349
+#	201439
+#	206912
+#	227174
+#	250821
+#	276909
+#	303489
+#
+# Disc length: 4214 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=ca10740f
+DTITLE=Alessandro Cerino - I colori delle stagioni Vivaldi in jazz
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Aria primaverile parte I
+TTITLE1=Aria primaverile parte II
+TTITLE2=Aria primaverile parte III
+TTITLE3=Aria estiva parte I
+TTITLE4=Aria estiva parte II
+TTITLE5=Aria estiva parte III
+TTITLE6=Aria autunnale parte I
+TTITLE7=Un ramo
+TTITLE8=Aria autunnale parte II
+TTITLE9=Le foglie sono vento
+TTITLE10=Aria autunnale parte III
+TTITLE11=Aria invernale parte I
+TTITLE12=Aria invernale parte II
+TTITLE13=Aria invernale parte III
+TTITLE14=Bianco la distesa ci allontana
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

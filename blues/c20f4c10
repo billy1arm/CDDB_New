@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     13252
+#     39037
+#     55745
+#     69805
+#     84995
+#     99212
+#     117727
+#     134232
+#     156012
+#     166512
+#     196297
+#     210035
+#     227952
+#     255222
+#     270607
+# 
+# Disc length: 3918 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=c20f4c10
+DTITLE=Muddy Waters - Fathers and Sons
+DYEAR=1900
+DGENRE=blues
+TTITLE0=All Aboard
+TTITLE1=Mean Disposition
+TTITLE2=Blow Wind Blow
+TTITLE3=Can't Lose What You Ain't Never Had
+TTITLE4=Walkin' Thru the Park
+TTITLE5=Forty Days and Forty Nights
+TTITLE6=Standin' Round Cryin'
+TTITLE7=I'm Ready
+TTITLE8=Twenty Four Hours
+TTITLE9=Sugar Sweet
+TTITLE10=Long Distance Call
+TTITLE11=Baby Please Don't Go
+TTITLE12=Honey Bee
+TTITLE13=Same Thing, The
+TTITLE14=Got My Mojo Working Part One
+TTITLE15=Got My Mojo Working Part Two
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

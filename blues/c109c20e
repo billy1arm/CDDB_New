@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	183
+# 	12383
+# 	34383
+# 	52250
+# 	63953
+# 	78788
+# 	90500
+# 	103473
+# 	116525
+# 	129575
+# 	140665
+# 	151993
+# 	163983
+# 	174438
+#
+# Disc length: 2500 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=c109c20e
+DTITLE=Muddy Waters - Gold Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Mean Mistreater
+TTITLE1=Howling Wolf
+TTITLE2=Garbage Man
+TTITLE3=Baby Please Don't Go
+TTITLE4=Everything's Gonna Be Alright
+TTITLE5=Got My Mojo Working
+TTITLE6=I Got A Rich Man's Woman
+TTITLE7=I Got To Find My Baby
+TTITLE8=I'm A Natural Born Lover
+TTITLE9=I Can't Call Her Sugar
+TTITLE10=Lovin' Man
+TTITLE11=I Can't Be Satisfied
+TTITLE12=Evil
+TTITLE13=I'm Your Hoochie Coochie Man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25872
+#	48702
+#	73577
+#	99812
+#	116092
+#	139020
+#	160500
+#	191625
+#	216422
+#	230937
+#	259845
+#	288690
+#
+# Disc length: 4194 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=c610600d
+DTITLE=Dr John - Duke Elegant_Japanese Editon
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=On The Wrong Side Of Railroad Tracks
+TTITLE1=I'm Gonna Go Fishin'
+TTITLE2=It Don't Mean A Thing
+TTITLE3=Perdido
+TTITLE4=Don't Get Around Much Anymore
+TTITLE5=Solitude
+TTITLE6=Satin Doll
+TTITLE7=Mood Indigo
+TTITLE8=Do Nothin' Til You Hear From Me
+TTITLE9=I'm Beginning To See The Light
+TTITLE10=Things Ain't What They Used To Be
+TTITLE11=Caravan
+TTITLE12=Flaming Sword
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

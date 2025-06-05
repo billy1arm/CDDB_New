@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53921
+#	72376
+#	103355
+#	119228
+#	127085
+#	142898
+#	187796
+#	200500
+#	236094
+#	269442
+#	317065
+#
+# Disc length: 4609 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c011ff0c
+DTITLE=Various Artist - Seiji Ozawa ~ Les stars du classique
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Ludwig van Beethoven - Symphonie N°6 ''Pastorale'' Op.68 - II. Scène au bord du ruisseau  (Orch. Saito Kinen)
+TTITLE1=Gabriel Fauré - Pelléas et Mélisande - IV. Sicilienne  (Orch. Sym. de Boston)
+TTITLE2=Gabriel Fauré - Pavanne  {version avec choeur}  (Choeur du Festival de Tanglewood, Orch. Sym. de Boston)
+TTITLE3=Maurice Ravel - Ma Mère l'Oye - Apothéose ~ Le jardin féerique  (Orch. Sym. de Boston)
+TTITLE4=Sergei Prokofiev - Symphonie N°1 ''Classique'' Op.25 - III. Gavotte  (Orch. Philh. de Berlin)
+TTITLE5=Igor Stravinski - Apollon Musagète ~ Pas de deux  (Orch. Saito Kinen)
+TTITLE6=Piotr Ilyich Tchaïkovski - Symphonie N°6 ''Pathétique''  - IV. Finale  (Orch. de Paris)
+TTITLE7=Ottorino Respighi - Danses et Airs antiques, Duite N°3 - I. Italiana  (Orch. Sym. de Boston)
+TTITLE8=Antonin Dvorak - Symphonie N°9 ''Du Nouveau Monde'' Op.95 - III. Scherzo  (Orch. Philh. de Vienne)
+TTITLE9=Hugo Wolf - Sérénade italienne  {version pour orchestre à cordes}  (Orch. Saito Kinen)
+TTITLE10=Gustav Mahler - Symphonie N°1 - III. Felerlich und gemessen, ohne zu schleppen  (Orch. Sym. de Boston)
+TTITLE11=Johannes Brahms - Symphonie N°3, Op.90 - III. Poco allegretto  (Orch. Saito Kinen)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

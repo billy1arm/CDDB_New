@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26013
+#	40287
+#	56292
+#	74526
+#	98490
+#	116155
+#	148023
+#	179819
+#	217583
+#	238190
+#	268286
+#	321400
+#
+# Disc length: 4642 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c712200d
+DTITLE=Earl Hines - Masters of Jazz Volume 2
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Boogie Woogie On St. Louis Blues
+TTITLE1=Jump For Joy
+TTITLE2=Hot Soup
+TTITLE3=Piano Man
+TTITLE4=You're The Cream In My Coffee
+TTITLE5=Rosetta
+TTITLE6=Medley
+TTITLE7=I've Got The World On A String
+TTITLE8=Over The Rainbow
+TTITLE9=Between The Devil And The Deep Blue Sea
+TTITLE10=Come Rain Or Come Shine
+TTITLE11=My Shining Hour
+TTITLE12=As Long As I Live
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

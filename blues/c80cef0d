@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	24420
+#	37450
+#	54087
+#	69600
+#	82945
+#	99212
+#	125450
+#	149565
+#	172085
+#	194735
+#	217160
+#	231710
+#
+# Disc length: 3313 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=c80cef0d
+DTITLE=Various Artist - Cinema Blues
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Jimmy Lunceford - Blues in The Night
+TTITLE1=Lionel Hampton - Drum Duet
+TTITLE2=Cat Anderson - West End Blues
+TTITLE3=Duke Ellington - Stormy Weather
+TTITLE4=Ada Brown and Fats Waller - That Ain't Right
+TTITLE5=Bechet - Really The Blues
+TTITLE6=Louis Armstrong - Now You Have Jazz
+TTITLE7=Memphis Sling - In the Evening
+TTITLE8=Sonny Criss Quartet - West Coast Blues
+TTITLE9=Louis Armstrong - Basin Street Blues
+TTITLE10=Earl Hines - St Louis Blues Boogie
+TTITLE11=Meade Lux Louis - Honk Tonk Train Blues
+TTITLE12=John Lurie - Chaucer Street
+EXTD=CD do Geraldo YEAR: 1999
+EXTT0=Limmy Lunceford Orchestra
+EXTT1=Lionel Hampton - Sidney Catlett
+EXTT2=Cat Henderson e Raymond Fonseque Band
+EXTT3=Duke Elington Orchestra (Ivie Anderson, vocal)
+EXTT4=Ada Brown - Fats Waller
+EXTT5=Sidney Bechet Orchestra
+EXTT6=Louis Armstrong All Stars
+EXTT7=Memphis Slim
+EXTT8=Sonny Criss Quartet
+EXTT9=Louis Armstrong
+EXTT10=Earl Hines
+EXTT11=Meade Lux Lewis
+EXTT12=John Lurie
+PLAYORDER=

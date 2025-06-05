@@ -1,0 +1,58 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20325
+#	37275
+#	50625
+#	67875
+#	85050
+#	100687
+#	119887
+#	136500
+#	152600
+#	171075
+#	183750
+#	200212
+#	218175
+# Disc length: 3085 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=c10c0b0e
+DTITLE=Various Artist - Swiss All Stars - Railraod Tour
+DYEAR=1900
+DGENRE=
+TTITLE0=Polo Hofer - Bärner
+TTITLE1=Sina - Nix värbii
+TTITLE2=Florian Ast and Kisha -  Chumm gib mer dini Hand
+TTITLE3=Betty Legler - Humanaut
+TTITLE4=Michael von der Heide and Luno Lauener - Where the Wild Roses Grow
+TTITLE5=Sonia from Core - Innocent Eyes
+TTITLE6=Florian Ast - Dr Maa
+TTITLE7=Kisha - On My Way
+TTITLE8=Michael von der Heide - Verzell mer nüüt
+TTITLE9=Elisabeth White - Cool Summer
+TTITLE10=Polo Hofer und Sina - Wenn es nötig wär
+TTITLE11=Hanery Amman - Chasch mers gloube
+TTITLE12=Yvonne Moor - My Body
+TTITLE13=Die Schmertterband - David and Cognac
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

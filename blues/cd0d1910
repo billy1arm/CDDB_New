@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	15770
+# 	31582
+# 	46182
+# 	60660
+# 	75065
+# 	89047
+# 	104825
+# 	120097
+# 	134475
+# 	148695
+# 	163297
+# 	192237
+# 	205780
+# 	220147
+# 	235797
+#
+# Disc length: 3355 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=cd0d1910
+DTITLE=Bessie Smith - The Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Downhearted Blues
+TTITLE1='Tain't Nobody's Bizness If I Do
+TTITLE2=My Sweetie Went Away
+TTITLE3=Weepin' Willow Blues
+TTITLE4=St. Louis Blues
+TTITLE5=Reckless Blues
+TTITLE6=You've Been A  Good Ole Wagon
+TTITLE7=I Ain't Gonna Play No Second Fiddle
+TTITLE8=Young Woman's Blues
+TTITLE9=Muddy Water ( A Mississippi Moan)
+TTITLE10=Mean Old BedBug Blues
+TTITLE11=Empty Bed Blues (Pts 1 and 2)
+TTITLE12=Nobody Knows You When You're Down and OUt
+TTITLE13=Black Mountain Blues
+TTITLE14=Do Your Duty
+TTITLE15=Gimme  A Pigfoot
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

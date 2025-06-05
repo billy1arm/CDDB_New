@@ -1,0 +1,62 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21058
+#	34036
+#	54177
+#	64403
+#	85850
+#	107933
+#	122816
+#	136229
+#	147187
+#	160902
+#	173054
+#	199598
+#	211970
+#	233842
+#
+# Disc length: 3225 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 7
+#
+DISCID=cb0c970f
+DTITLE=Various Artist - House of Blues - Essential Blues 3 [CD1)
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Luther Allison - You Can't Always Get What You Want
+TTITLE1=Muddy Waters - Got My Mojo Working
+TTITLE2=Otis Rush - You Fired Yourself
+TTITLE3=Jimmy Rogers - Chicago Bound
+TTITLE4=Johnny Adams - Up and Down World
+TTITLE5=Magic Sam - I Need You So Bad
+TTITLE6=Corey Harris - Jinx Blues
+TTITLE7=Bobby Bland - Farther Up the Road
+TTITLE8=Sony Boy Williamson - I Don't Know
+TTITLE9=T Bone Walker - Call It Storny Monday
+TTITLE10=Little Walter - My Babe
+TTITLE11=Junior Wells - (I Can't Get No) Satisfaction
+TTITLE12=John Lee Hooker - I'm In the Mood
+TTITLE13=R L Burnsside - Shake'em On Down
+TTITLE14=Mississippi John Hurt - Corrina Corrina
+EXTD=The current disc in the database has Artist and Track Name backwar
+EXTD=ds.
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

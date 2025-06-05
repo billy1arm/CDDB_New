@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16790
+#	33835
+#	47052
+#	59970
+#	73792
+#	88442
+#	100880
+#	112897
+#	129237
+#	141577
+#	154910
+#	170710
+#	184740
+#
+# Disc length: 2674 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=cb0a700e
+DTITLE=John Lee Hooker - Helpless Blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Helpless blues
+TTITLE1=Goin' Mad Blues
+TTITLE2=No Friend Around
+TTITLE3=My Baby's Got Somethin'
+TTITLE4=Decoration Day Blues
+TTITLE5=Do The Boogie
+TTITLE6=Morning Blues
+TTITLE7=Roll'n Roll
+TTITLE8=Low Down Midnite Boogie
+TTITLE9=House Rent Boogie
+TTITLE10=Wandering Blues
+TTITLE11=Landing Blues
+TTITLE12=Stomp Boogie
+TTITLE13=Black Man Blues
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

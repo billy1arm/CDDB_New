@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10765
+#	21960
+#	35590
+#	48607
+#	60857
+#	71345
+#	81812
+#	95757
+#	107787
+#	119745
+#	131942
+#	144715
+#	158735
+#
+# Disc length: 2270 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=c408dc0e
+DTITLE=Ray Charles - The Love Songs
+DYEAR=1900
+DGENRE=
+TTITLE0=I Wonder Who's Kissing Her Now
+TTITLE1=Here I AmOn Baby
+TTITLE2=Oh Baby
+TTITLE3=I Used To Be So Happy
+TTITLE4=Honey Honey
+TTITLE5=The Ego Song
+TTITLE6=Hey Now
+TTITLE7=Late In The Evening Blues
+TTITLE8=I Live Only For You
+TTITLE9=St. Pete's Blues
+TTITLE10=I'm Glad For Your Sake
+TTITLE11=I'm Just A lonely Boy
+TTITLE12=All Night Long
+TTITLE13=See See Rider
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

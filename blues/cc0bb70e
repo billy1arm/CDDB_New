@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	26465
+#	44589
+#	60707
+#	67296
+#	71739
+#	89417
+#	100770
+#	110758
+#	121665
+#	139204
+#	153761
+#	169293
+#	191652
+#
+# Disc length: 3001 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta2
+#
+DISCID=cc0bb70e
+DTITLE=T. J., Zac and James - Jam Session #1
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=Surf Jam 1
+TTITLE1=Run 'Em Over
+TTITLE2=I Presume
+TTITLE3=T. J. and James jammin'
+TTITLE4=Sound Check
+TTITLE5=Funeral Drinking Song
+TTITLE6=Jazz It Up
+TTITLE7=Dad likes Black Sabbath
+TTITLE8=Death Roll
+TTITLE9=Psycho Spree
+TTITLE10=B
+TTITLE11=Cough, Hack, Wheeze
+TTITLE12=Surf Jam 2
+TTITLE13=Kill Switch
+EXTD=YEAR: 2002 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

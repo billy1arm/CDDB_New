@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15545
+#	31869
+#	50200
+#	65548
+#	82872
+#	98324
+#	115796
+#	133453
+#	154919
+#	171827
+#	194147
+#	221074
+#	223324
+#
+# Disc length: 3225 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=cd0c970e
+DTITLE=Duran Duran - Astronaut
+DYEAR=2004
+DGENRE=New Wave
+TTITLE0=(Reach Up For The) Sunrise
+TTITLE1=Want You More!
+TTITLE2=What Happens Tomorrow
+TTITLE3=Astronaut
+TTITLE4=Bedroom Toys
+TTITLE5=Nice
+TTITLE6=Taste The Summer
+TTITLE7=Finest Hour
+TTITLE8=Chains
+TTITLE9=One Of Those Days
+TTITLE10=Point Of No Return
+TTITLE11=Still Breathing
+TTITLE12=Blank
+TTITLE13=Virus
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

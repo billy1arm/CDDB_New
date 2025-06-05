@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	13930
+#	27655
+#	40293
+#	66355
+#	77103
+#	118750
+#	141083
+#	174818
+#	200330
+#	221014
+#	248749
+#	259816
+#	292745
+#
+# Disc length: 4064 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=cc0fde0e
+DTITLE=Various Artist - Best Of Jazz
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Louis Armstrong - St. Louis Blues
+TTITLE1=Count Basie - Jumpin' At The Woodside
+TTITLE2=Duke Ellington - Caravan
+TTITLE3=Sonny Rollins - Cutie
+TTITLE4=Glenn Miller - Moonlight Serenade
+TTITLE5=Art Blakey - My Funny Valantine
+TTITLE6=Dizzy Gillespie - Getting Down
+TTITLE7=Dave Brubeck - Lover Man
+TTITLE8=Ahmad Jamal - Autumn Leaves
+TTITLE9=Charlie Mingus - So Long Eric
+TTITLE10=Art Blakey - My Ideal
+TTITLE11=Benny Goodman - Stompin' At The Savoy
+TTITLE12=Pat Metheny - Move To The Groove
+TTITLE13=Teddy Wilson - Prelude To A Kiss
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

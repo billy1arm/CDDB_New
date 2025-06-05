@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14515
+#	42115
+#	61118
+#	76173
+#	91270
+#	108773
+#	125380
+#	141298
+#	160260
+#	175928
+#	189363
+#	209225
+#	226045
+#	243083
+#	266518
+#
+# Disc length: 3714 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=c80e8010
+DTITLE=Various Artist - The Party's Over
+DYEAR=1993
+DGENRE=Showtunes
+TTITLE0=Bewitched, Bothered and Bewildered - Vivienne Segal
+TTITLE1=Smoke Gets in Your Eyes - Joan Roberts
+TTITLE2=I Never Know When - Elaine Stritch
+TTITLE3=Lonely Town - John Reardon
+TTITLE4=Where Am I Going - Gwen Verdon
+TTITLE5=If He Walked IInto My Life - Angela Lansbury
+TTITLE6=Anyone Can Whistle - Lee Remick
+TTITLE7=This Nearly Was Mine - Giorgio Tozzi
+TTITLE8=My Own Morning - Leslie Uggams
+TTITLE9=Send in the Clowns - Glynis Johns
+TTITLE10=Be On Your Own - Karen Akers
+TTITLE11=Being Alive - Dean Jones
+TTITLE12=Fifty Percent - Dorothy Loudon
+TTITLE13=What I Did for Love - Priscilla Lopez
+TTITLE14=Bill - Anita Darian
+TTITLE15=The Party's Over - Judy Holliday
+EXTD=YEAR: 1993
+EXTT0=from Pal Joey\n
+EXTT1=from Roberta\n
+EXTT2=from Goldilocks\n
+EXTT3=from On the Town\n
+EXTT4=from Sweet Charity\n
+EXTT5=from Mame\n
+EXTT6=from Anyone Can Whistle\n
+EXTT7=from South Pacific\n
+EXTT8=from Hallelujah, Baby!\n
+EXTT9=from A Little Night Music\n
+EXTT10=from Nine\n
+EXTT11=from Company\n
+EXTT12=from Ballroom\n
+EXTT13=from A Chorus Line\n
+EXTT14=from Show Boat\n
+EXTT15=from Bells Are Ringing\n
+PLAYORDER=

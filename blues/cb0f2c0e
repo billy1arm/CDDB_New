@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28566
+#	48878
+#	72893
+#	93337
+#	114287
+#	125971
+#	142716
+#	169482
+#	192553
+#	207193
+#	228636
+#	249554
+#	267382
+#
+# Disc length: 3886 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=cb0f2c0e
+DTITLE=Various Jazz - Blue Note Umbria Jazz 2010 [CD 1)
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Gio Cervis Blues - Paolo Fresu Quintet
+TTITLE1=Comes Love - Alice Ricciardi
+TTITLE2=Joyful Day - Fabrizio Bosso
+TTITLE3=La Sagra di Paolopoli - Stefano Bollani
+TTITLE4=Suite et Poursuite - Trio Ostico
+TTITLE5=Filter Freak - Gianluca Petrella
+TTITLE6=Lascio Chlo Pianga - Paolo Fresu Quintet
+TTITLE7=La Luna Nel Pozzo - Roberto Gatto
+TTITLE8=Conversation - High Five
+TTITLE9=Duru Duru Durulia - Paolo Fresu
+TTITLE10=Big Dog - Funk Off
+TTITLE11=Milonga - Javier Girotto Quintet
+TTITLE12=L Afflato Prodromo del Misantropo - Paolo Fresu Quintet
+TTITLE13=Donna - Enrico Rava
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

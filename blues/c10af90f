@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	16260
+# 	28882
+# 	40987
+# 	54925
+# 	72062
+# 	86880
+# 	99480
+# 	110385
+# 	125037
+# 	138102
+# 	150387
+# 	166147
+# 	181382
+# 	197137
+#
+# Disc length: 2811 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=c10af90f
+DTITLE=Various Artist - Super Box Of Soul - Disk 3
+DYEAR=1900
+DGENRE=
+TTITLE0=If You Don't Know Me By Now
+TTITLE1=Tighten Up
+TTITLE2=Just One Look
+TTITLE3=What Becomes Of The Brokenhearted
+TTITLE4=Oh Girl
+TTITLE5=Drowning In The Sea Of Love
+TTITLE6=My Guy
+TTITLE7=Walking The Dog
+TTITLE8=Soulful Strut
+TTITLE9=Don't Play That Song (You Lied)
+TTITLE10=Heat Wave
+TTITLE11=Be Thankful For What You've Got
+TTITLE12=Rock Your Baby
+TTITLE13=Show And Tell
+TTITLE14=Yes I'm Ready
+EXTD=
+EXTT0=Harold Melvin and The Blue Notes
+EXTT1=Archie Bell and The Drells
+EXTT2=Doris Troy
+EXTT3=Jimmy Ruffin
+EXTT4=The Chi-Lites
+EXTT5=Joe Simon
+EXTT6=Mary Wells
+EXTT7=Rufus Thomas
+EXTT8=Young-Holt Unlimited
+EXTT9=Ben E. King
+EXTT10=Martha Reeves
+EXTT11=William DeVaughn
+EXTT12=George McCrae
+EXTT13=Al Wilson
+EXTT14=Barbara Mason
+PLAYORDER=

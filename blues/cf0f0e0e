@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3307
+#	22044
+#	38726
+#	57345
+#	71935
+#	86987
+#	103416
+#	119006
+#	136903
+#	155490
+#	171979
+#	190524
+#	206838
+#
+# Disc length: 3856 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=cf0f0e0e
+DTITLE=Sandra Cross - Just A Dream
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Just a dream(intro)
+TTITLE1=Cry me a river
+TTITLE2=Autumn leaves
+TTITLE3=Over the rainbow
+TTITLE4=Sunny
+TTITLE5=Tenderly
+TTITLE6=Lullaby of birdland
+TTITLE7=When you wish upon a star
+TTITLE8=Fly me to the moon
+TTITLE9=You've changed
+TTITLE10=Good mornig heatache
+TTITLE11=The shadow of your smile
+TTITLE12=Summertime
+TTITLE13=Just a dream
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

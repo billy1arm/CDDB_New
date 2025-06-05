@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	19517
+#	37745
+#	61485
+#	77105
+#	98262
+#	112197
+#	133377
+#	146485
+#	174165
+#	190585
+#	204412
+#	220585
+#	243405
+#	263707
+#
+# Disc length: 4045 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=c20fcb0f
+DTITLE=Downtown Blues -  Le meilleur du Blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Boom Boom by John le Hooker
+TTITLE1=Ain't no Love in the Heart by Walter W. Washington
+TTITLE2=Fire on the Bayou by the Neville Brothers
+TTITLE3=Love to Burn by Etta James
+TTITLE4=My Problem by Robert Cray
+TTITLE5=Mattie Mae by John Hammond
+TTITLE6=Last Night by Calvin Russell
+TTITLE7=Deep Ellum by Spencer Bohren
+TTITLE8=Still got the blues by Gary Moore
+TTITLE9=Illustrated Man by Johnny Winter
+TTITLE10=Travellin South by Albert Collins
+TTITLE11=Without Her by John Mayall
+TTITLE12=Pray by Pops Staples
+TTITLE13=Little Red Rooster by Charles et les Lulus
+TTITLE14=Riviera Paradise by Stevie Ray Vaughan
+EXTD=
+EXTT0=4' 18\n
+EXTT1=4' 01\n
+EXTT2=5'15\n
+EXTT3=3'29\n
+EXTT4=4'41\n
+EXTT5=3'04\n
+EXTT6=4'40\n
+EXTT7=2'54\n
+EXTT8=6'08\n
+EXTT9=3'37\n
+EXTT10=3'03\n
+EXTT11=3'34\n
+EXTT12=5'03\n
+EXTT13=4'30\n
+EXTT14=8'46\n
+PLAYORDER=

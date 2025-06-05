@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14887
+#	33777
+#	43195
+#	53542
+#	71513
+#	90240
+#	103064
+#	111924
+#	131481
+#	148579
+#	183838
+#	200855
+#	206299
+#
+# Disc length: 3093 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=c30c130e
+DTITLE=Emile Parisien - Double Screening
+DYEAR=2019
+DGENRE=Jazz
+TTITLE0=Double Screening I
+TTITLE1=Double Screening II 
+TTITLE2=Spam 1
+TTITLE3=Hashtag I
+TTITLE4=Hashtag II
+TTITLE5=Hashtag III
+TTITLE6=Hashtag IV
+TTITLE7=Spam 3
+TTITLE8=Deux Point Zero
+TTITLE9=Elegie pour Carte Mere
+TTITLE10=Malware Invasion
+TTITLE11=Algo
+TTITLE12=Spam 2
+TTITLE13=Daddy Long Legs
+EXTD=YEAR: 2019
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

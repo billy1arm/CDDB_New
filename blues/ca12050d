@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14218
+#	34191
+#	51385
+#	67455
+#	111835
+#	142033
+#	168228
+#	214591
+#	243535
+#	279418
+#	294218
+#	310637
+#
+# Disc length: 4615 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta5_freedb
+#
+DISCID=ca12050d
+DTITLE=Van Morrison and Friends - The Blues Buddies
+DYEAR=1900
+DGENRE=
+TTITLE0=Ain't Nothing You Can Do (with James Hunter)
+TTITLE1=Baby Please Don't Go (with Johnny Lee Hooker)
+TTITLE2=Don't Look Back (with Johnny Lee Hooker)
+TTITLE3=Frisco Blues (with Johnny Lee Hooker)
+TTITLE4=Goin' Down (with Johnny Lee Hooker)
+TTITLE5=I Cover The Waterfront (with Johnny Lee Hooker)
+TTITLE6=If You Love Me (with B.B. King)
+TTITLE7=Never Get Out Of These Blues Alive (with Johnny Lee Hooker)
+TTITLE8=Serves Me Right To Suffer/Syndicator (with Johnny Lee Hooker)
+TTITLE9=Storm Monday (with Eric Clapton)
+TTITLE10=Turn On Your Love Light (with James Hunter)
+TTITLE11=When The Sun Goes Down (with Johnny Lee Hooker)
+TTITLE12=Who Do You Love (with Eric Clapton)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

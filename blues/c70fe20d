@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	26064
+#	43831
+#	67255
+#	122234
+#	137527
+#	163387
+#	183000
+#	205596
+#	215166
+#	232919
+#	251161
+#	296291
+#
+# Disc length: 4068 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta1
+#
+DISCID=c70fe20d
+DTITLE=Metropolitan Blues Allstars - Hillbilly Nation
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Smoking in the Dark
+TTITLE1=Blues in a Bottle
+TTITLE2=Hillbilly Nation
+TTITLE3=Twisted Steel
+TTITLE4=What's A' Matter with the Mill
+TTITLE5=Playing it Cruel
+TTITLE6=I Always Wanted to Meet Tony Joe White
+TTITLE7=Honey Bee
+TTITLE8=Existential Mule
+TTITLE9=Kid Man Blues
+TTITLE10=She'll Show You How to Sing the Blues
+TTITLE11=Who Do You Love
+TTITLE12=River of Blues
+EXTD=YEAR: 1995 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

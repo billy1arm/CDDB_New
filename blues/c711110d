@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     32502
+#     54640
+#     74950
+#     98040
+#     117863
+#     140777
+#     156602
+#     179952
+#     232770
+#     250452
+#     273452
+#     302527
+# 
+# Disc length: 4371 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=c711110d
+DTITLE=Stevie Ray Vaughan And Double Trouble - Force Of Nature - Disc 2
+DYEAR=1900
+DGENRE=
+TTITLE0=The Sky Is Crying
+TTITLE1=I'm Crying
+TTITLE2=Crosscut Saw
+TTITLE3=Shake For Me
+TTITLE4=Wham
+TTITLE5=Hideaway
+TTITLE6=Instrumental
+TTITLE7=Pride And Joy
+TTITLE8=Tin Pan Alley
+TTITLE9=Love Struck Baby
+TTITLE10=Tell Me
+TTITLE11=Little Wing
+TTITLE12=Manic Depression
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

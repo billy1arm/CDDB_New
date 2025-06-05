@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18960
+#	44305
+#	60465
+#	86357
+#	107630
+#	132390
+#	165317
+#	189900
+#	201500
+#	224537
+#	246259
+#	267235
+#	287420
+#
+# Disc length: 4251 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=c110990e
+DTITLE=Various Artist - New Voices in Blue
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Dianne Reeves: Smile
+TTITLE1=Tania Maria: Marguerita
+TTITLE2=Marisa Monte: Bem Que Se Quis
+TTITLE3=Michel Petrucciani: Looking Up
+TTITLE4=Eliane Elias: Agua de beber
+TTITLE5=Kurt Elling: Never Say Goodbye
+TTITLE6=John Scofield and Pat Metheny: Say The Brother's Name
+TTITLE7=Cassandra Wilson: I Can't stand The Rain
+TTITLE8=Charlie Hunter Quartet: Bend Down Low
+TTITLE9=Dianne Reever and The Ummah: Down Here On The Ground
+TTITLE10=Helén Eriksen: Alone
+TTITLE11=Holly Cole: Calling You
+TTITLE12=Caecilie Norby: Set Them Free
+TTITLE13=Denise Jannah: Interlude (A night in Tunisia)
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

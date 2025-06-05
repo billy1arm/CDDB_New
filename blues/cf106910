@@ -1,0 +1,74 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	28947
+#	49850
+#	75202
+#	90857
+#	109735
+#	134560
+#	167300
+#	189760
+#	215945
+#	229687
+#	247580
+#	261932
+#	281035
+#	290445
+#	307887
+#
+# Disc length: 4203 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=cf106910
+DTITLE=Stevie Ray Vaughan
+DYEAR=1900
+DGENRE=
+TTITLE0=Life Without You
+TTITLE1=Boogie
+TTITLE2=Texas Flood
+TTITLE3=Pride and Joy (instrumental)
+TTITLE4=Rude Mood
+TTITLE5=Lenny
+TTITLE6=Instrumental
+TTITLE7=Superstition
+TTITLE8=Voodoo Chile
+TTITLE9=Rude Mood
+TTITLE10=Pride and Joy
+TTITLE11=Scuttle Buttin'
+TTITLE12=Crossfire
+TTITLE13=Travis Walk
+TTITLE14=Sailing Shoes
+TTITLE15=The Star Spangled Banner
+EXTD=Tracks 1,2,3:\n\tNew Orleans, February 1988\n\twith BB King and Albe
+EXTD=rt Collins\nTracks 4,5,6,7:\n\tBerkeley Community Center, October 1
+EXTD=985\n\tCowboys and Indians Benefit\n\tStevie's first ever Acoustic Set
+EXTD=\n\tSomeone in the audience had taped this\n\texceptional show with 
+EXTD=exceptional quality!\nTrack 8:\n\tMTV, 1988 with:\n\tStevie Wonder, J
+EXTD=ody Watley, and Salt and Peppa\nTrack 9:\n\tMTV, 1990\nTracks 10,11,12
+EXTD=:\n\tMTV Unplugged, 1988\nTracks 13,14,15:\n\tNight Music, 1989\nTrack
+EXTD=16:\n\tHouston Astrodome, 1986\n\tAnother audience recording, very 
+EXTD=good quality\n\tThis is the only known time that Stevie had\n\tdone 
+EXTD=the Star Spangled Banner.\n
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

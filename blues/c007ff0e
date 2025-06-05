@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11345
+#	20437
+#	32837
+#	46960
+#	55440
+#	63695
+#	74555
+#	86585
+#	97917
+#	108950
+#	120495
+#	128742
+#	142070
+#
+# Disc length: 2049 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=c007ff0e
+DTITLE=Consumed - Hit For Six
+DYEAR=1999
+DGENRE=Punk
+TTITLE0=Sunnyside Up
+TTITLE1=On The Take Again
+TTITLE2=Wake Up With A Smile
+TTITLE3=King Kong Song
+TTITLE4=Nicky Fry
+TTITLE5=Something To Do
+TTITLE6=Lead The Way
+TTITLE7=Twat Called Maurice
+TTITLE8=Butterside Down
+TTITLE9=Do The Duchess
+TTITLE10=Chop Suicide
+TTITLE11=Promoter Head
+TTITLE12=Black And Blue
+TTITLE13=Start Living
+EXTD=YEAR: 1999 ID3G: 43
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

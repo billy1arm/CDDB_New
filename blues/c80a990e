@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10934
+#	27100
+#	43436
+#	59753
+#	73062
+#	84611
+#	102189
+#	111027
+#	126166
+#	138177
+#	151395
+#	168267
+#	187468
+#
+# Disc length: 2715 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c80a990e
+DTITLE=Raphaël Faÿs - Entre jazz et flamenco
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Captain Swing
+TTITLE1=Black Swing
+TTITLE2=Duke and Django
+TTITLE3=Shannon
+TTITLE4=Le petit Boléro
+TTITLE5=Djangology
+TTITLE6=Ballade pour Alexandre
+TTITLE7=Hot Swing
+TTITLE8=Bossa Romina
+TTITLE9=Rumba Canela
+TTITLE10=Fandango
+TTITLE11=Maître Paco
+TTITLE12=Buléria andalouse
+TTITLE13=Improvisation en mineur
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

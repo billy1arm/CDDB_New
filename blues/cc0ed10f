@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19125
+#	36971
+#	57897
+#	78392
+#	98003
+#	129610
+#	141592
+#	146086
+#	166840
+#	170698
+#	192783
+#	234391
+#	248535
+#	260453
+#
+# Disc length: 3795 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.92
+#
+DISCID=cc0ed10f
+DTITLE=The Alan Parsons Project - 1987 Remix [CD 2)
+DYEAR=1976
+DGENRE=Alt. Rock
+TTITLE0=A Dream Within A Dream (Instrumental)
+TTITLE1=The Raven
+TTITLE2=The Tell-Tale Heart
+TTITLE3=The Cask Of Amontillado
+TTITLE4=(The System Of) Dr. Tarr and Professor Fether
+TTITLE5=The Fall of the House of Usher: i Prelude
+TTITLE6=The Fall of the House of Usher: ii Arrival
+TTITLE7=The Fall of the House of Usher: iii Intermezzo
+TTITLE8=The Fall of the House of Usher: iv Pavane
+TTITLE9=The Fall of the House of Usher: v Fall
+TTITLE10=To One In Paradise
+TTITLE11=Eric's Guide Vocal Medley
+TTITLE12=Orson Welles Dialogue
+TTITLE13=Sea Lions In The Departure Lounge - Sound Effects and Experiments
+TTITLE14=GBH Mix - Unreleased Experiments
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

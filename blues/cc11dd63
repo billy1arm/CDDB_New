@@ -1,0 +1,314 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	735
+#	1290
+#	4737
+#	11932
+#	13070
+#	15634
+#	18177
+#	20825
+#	23292
+#	26615
+#	40295
+#	40970
+#	43652
+#	46470
+#	49197
+#	49580
+#	51952
+#	52970
+#	57552
+#	65075
+#	67710
+#	68847
+#	75537
+#	89330
+#	90472
+#	91970
+#	93500
+#	93800
+#	96500
+#	99435
+#	102770
+#	119092
+#	120982
+#	128632
+#	132187
+#	132837
+#	134600
+#	135140
+#	137070
+#	140760
+#	142500
+#	144612
+#	147742
+#	149145
+#	150547
+#	153372
+#	156195
+#	157850
+#	160217
+#	162570
+#	164852
+#	167177
+#	167772
+#	168345
+#	168910
+#	169487
+#	170450
+#	174720
+#	181215
+#	190880
+#	191405
+#	192765
+#	193967
+#	195355
+#	201852
+#	204760
+#	207907
+#	209527
+#	215637
+#	218375
+#	221817
+#	226505
+#	228867
+#	231137
+#	237367
+#	251990
+#	254100
+#	258334
+#	272137
+#	281762
+#	282972
+#	283987
+#	285937
+#	289760
+#	291595
+#	296412
+#	297855
+#	320057
+#	321512
+#	323345
+#	324795
+#	326987
+#	329057
+#	331847
+#	336245
+#	338060
+#	339060
+#	339907
+#
+# Disc length: 4575
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+# Normalized: r0:DSETVAR1
+#
+DISCID=cc11dd63
+DTITLE=Various Artist - Jazz Classics CD
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Original Dixieland Jazz Band - Dixie Jazz Band One-Step 1
+TTITLE1=Original Dixieland Jazz Band - Dixie Jazz Band One-Step 2
+TTITLE2=Original Dixieland Jazz Band - Dixie Jazz Band One-Step 3
+TTITLE3=Original Dixieland Jazz Band - Dixie Jazz Band One-Step 4
+TTITLE4=Louis Armstrong And Earl Hines - West End Blues 1
+TTITLE5=Louis Armstrong And Earl Hines - West End Blues 2
+TTITLE6=Louis Armstrong And Earl Hines - West End Blues 3
+TTITLE7=Louis Armstrong And Earl Hines - West End Blues 4
+TTITLE8=Louis Armstrong And Earl Hines - West End Blues 5
+TTITLE9=Louis Armstrong And Earl Hines - West End Blues 6
+TTITLE10=Louis Armstrong and Bessie Smith - Sobbin' Hearted Blues
+TTITLE11=Count Basie And Lester Young - Taxi War Dance 1
+TTITLE12=Count Basie And Lester Young - Taxi War Dance 2
+TTITLE13=Count Basie And Lester Young - Taxi War Dance 3
+TTITLE14=Count Basie And Lester Young - Taxi War Dance 4
+TTITLE15=Count Basie And Lester Young - Taxi War Dance 5
+TTITLE16=Count Basie And Lester Young - Taxi War Dance 6
+TTITLE17=Count Basie And Lester Young - Taxi War Dance 7
+TTITLE18=Billie Holiday and Lester Young - Back In Your Own Back Yard 1
+TTITLE19=Billie Holiday and Lester Young - Back In Your Own Back Yard 2
+TTITLE20=Art Tatum - Tiger Rag 1
+TTITLE21=Art Tatum - Tiger Rag 2
+TTITLE22=Art Tatum - Tiger Rag 3
+TTITLE23=Coleman Hawkins - Body And Soul
+TTITLE24=Duke Ellington, Barney Bigard, Cootie Williams - Harlem Airshaft 1
+TTITLE25=Duke Ellington, Barney Bigard, Cootie Williams - Harlem Airshaft 2
+TTITLE26=Duke Ellington, Barney Bigard, Cootie Williams - Harlem Airshaft 3
+TTITLE27=Duke Ellington, Barney Bigard, Cootie Williams - Harlem Airshaft 4
+TTITLE28=Duke Ellington, Barney Bigard, Cootie Williams - Harlem Airshaft 5
+TTITLE29=Duke Ellington, Barney Bigard, Cootie Williams - Harlem Airshaft 6
+TTITLE30=Duke Ellington, Barney Bigard, Cootie Williams - Harlem Airshaft 7
+TTITLE31=Johnny Hodges - I've Got It Band And That' Ain't Good
+TTITLE32=Charlie Parker - Ko-Ko 1
+TTITLE33=Charlie Parker - Ko-Ko 2
+TTITLE34=Charlie Parker - Ko-Ko 3
+TTITLE35=Dizzy Gillespie and Milt Jackson - Things To Come 1
+TTITLE36=Dizzy Gillespie and Milt Jackson - Things To Come 2
+TTITLE37=Dizzy Gillespie and Milt Jackson - Things To Come 3
+TTITLE38=Dizzy Gillespie and Milt Jackson - Things To Come 4
+TTITLE39=Dizzy Gillespie and Milt Jackson - Things To Come 5
+TTITLE40=Dizzy Gillespie and Milt Jackson - Things To Come 6
+TTITLE41=Dizzy Gillespie and Milt Jackson - Things To Come 7
+TTITLE42=Dexter Gordon, Bud Powell and Max Roach - Dexter Digs In 1
+TTITLE43=Dexter Gordon, Bud Powell and Max Roach - Dexter Digs In 2
+TTITLE44=Dexter Gordon, Bud Powell and Max Roach - Dexter Digs In 3
+TTITLE45=Dexter Gordon, Bud Powell and Max Roach - Dexter Digs In 4
+TTITLE46=Dexter Gordon, Bud Powell and Max Roach - Dexter Digs In 5
+TTITLE47=Dexter Gordon, Bud Powell and Max Roach - Dexter Digs In 6
+TTITLE48=Lennie Tristano And Lee Konitz - Subconscious-Lee 1
+TTITLE49=Lennie Tristano And Lee Konitz - Subconscious-Lee 2
+TTITLE50=Lennie Tristano And Lee Konitz - Subconscious-Lee 3
+TTITLE51=Lennie Tristano And Lee Konitz - Subconscious-Lee 4
+TTITLE52=Lennie Tristano And Lee Konitz - Subconscious-Lee 5
+TTITLE53=Lennie Tristano And Lee Konitz - Subconscious-Lee 6
+TTITLE54=Lennie Tristano And Lee Konitz - Subconscious-Lee 7
+TTITLE55=Lennie Tristano And Lee Konitz - Subconscious-Lee 8
+TTITLE56=Lennie Tristano And Lee Konitz - Subconscious-Lee 9
+TTITLE57=Cannonball Adderley and John Coltrane - Two Bass Hit 1
+TTITLE58=Cannonball Adderley and John Coltrane - Two Bass Hit 2
+TTITLE59=Cannonball Adderley and John Coltrane - Two Bass Hit 3
+TTITLE60=Cannonball Adderley and John Coltrane - Two Bass Hit 4
+TTITLE61=Cannonball Adderley and John Coltrane - Two Bass Hit 5
+TTITLE62=Cannonball Adderley and John Coltrane - Two Bass Hit 6
+TTITLE63=Miles Davis, John Coltrane and Bill Evans - Blue In Green 1
+TTITLE64=Miles Davis, John Coltrane and Bill Evans - Blue In Green 2
+TTITLE65=Miles Davis, John Coltrane and Bill Evans - Blue In Green 3
+TTITLE66=Miles Davis, John Coltrane and Bill Evans - Blue In Green 4
+TTITLE67=Miles Davis, John Coltrane and Bill Evans - Blue In Green 5
+TTITLE68=Miles Davis, John Coltrane and Bill Evans - Blue In Green 6
+TTITLE69=Miles Davis, John Coltrane and Bill Evans - Blue In Green 7
+TTITLE70=Clifford Brown,Max Roach,Sonny Rollins - Gertrude's Bounce 1
+TTITLE71=Clifford Brown,Max Roach,Sonny Rollins - Gertrude's Bounce 2
+TTITLE72=Clifford Brown,Max Roach,Sonny Rollins - Gertrude's Bounce 3
+TTITLE73=Clifford Brown,Max Roach,Sonny Rollins - Gertrude's Bounce 4
+TTITLE74=Clifford Brown,Max Roach,Sonny Rollins - Gertrude's Bounce 5
+TTITLE75=Ornette Coleman and Don Cherry - Cloning
+TTITLE76=John Coltrane, McCoy Tyner, Jimmy Garrison, Elvin Jones - Your Lady 1
+TTITLE77=John Coltrane, McCoy Tyner, Jimmy Garrison, Elvin Jones - Your Lady 2
+TTITLE78=John Coltrane, McCoy Tyner, Jimmy Garrison, Elvin Jones - Your Lady 3
+TTITLE79=John Coltrane, McCoy Tyner, Jimmy Garrison, Elvin Jones - Your Lady 4
+TTITLE80=Bill Evans, Scott LaFaro, Paul Motian - Solar 1
+TTITLE81=Bill Evans, Scott LaFaro, Paul Motian - Solar 2
+TTITLE82=Bill Evans, Scott LaFaro, Paul Motian - Solar 3
+TTITLE83=Bill Evans, Scott LaFaro, Paul Motian - Solar 4
+TTITLE84=Bill Evans, Scott LaFaro, Paul Motian - Solar 5
+TTITLE85=Bill Evans, Scott LaFaro, Paul Motian - Solar 6
+TTITLE86=Bill Evans, Scott LaFaro, Paul Motian - Solar 7
+TTITLE87=Chick Corea, Stanley Clarke, Joe Farrell, Flora Purim and Airto Moreira - Captain Marvel
+TTITLE88=Joe Zawinul, Wayne Shorter and Jaco Pastorius - Birdland 1
+TTITLE89=Joe Zawinul, Wayne Shorter and Jaco Pastorius - Birdland 2
+TTITLE90=Joe Zawinul, Wayne Shorter and Jaco Pastorius - Birdland 3
+TTITLE91=Joe Zawinul, Wayne Shorter and Jaco Pastorius - Birdland 4
+TTITLE92=Joe Zawinul, Wayne Shorter and Jaco Pastorius - Birdland 5
+TTITLE93=Joe Zawinul, Wayne Shorter and Jaco Pastorius - Birdland 6
+TTITLE94=Joe Zawinul, Wayne Shorter and Jaco Pastorius - Birdland 7
+TTITLE95=Joe Zawinul, Wayne Shorter and Jaco Pastorius - Birdland 8
+TTITLE96=Joe Zawinul, Wayne Shorter and Jaco Pastorius - Birdland 9
+TTITLE97=Joe Zawinul, Wayne Shorter and Jaco Pastorius - Birdland 10
+TTITLE98=Joe Zawinul, Wayne Shorter and Jaco Pastorius - Birdland 11
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=

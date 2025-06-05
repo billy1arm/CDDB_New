@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13740
+#	27945
+#	40992
+#	54375
+#	68785
+#	83185
+#	96400
+#	108555
+#	121015
+#	132885
+#	146127
+#	157990
+#	169475
+#	181245
+#
+# Disc length: 2561 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=cc09ff0f
+DTITLE=Los Tres Reyes - 15 Exitos
+DYEAR=1900
+DGENRE=
+TTITLE0=Poquita Fe
+TTITLE1=Mis Flores Negras
+TTITLE2=No Me Quieras Tanto
+TTITLE3=Celosa
+TTITLE4=Señora María Rosa
+TTITLE5=Triángulo
+TTITLE6=Quiero Amanecer
+TTITLE7=Conrig
+TTITLE8=Cuando Ya No Me Quieras
+TTITLE9=El Almanaque
+TTITLE10=Mi Cruz
+TTITLE11=Buscando Una Estrella
+TTITLE12=Novia Mía
+TTITLE13=Al Final De La Calle
+TTITLE14=Sin Ti
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

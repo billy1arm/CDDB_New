@@ -1,0 +1,61 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	17435
+#	33657
+#	54852
+#	69227
+#	87447
+#	98755
+#	111665
+#	129687
+#	144610
+#	163980
+#	194800
+#	217115
+#	228962
+#
+# Disc length: 3330 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 2.0
+#
+DISCID=cf0d000e
+DTITLE=Sonny Terry and Brownie McGhee - Going It Alone
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Cold Wind Blowing
+TTITLE1=Feel Like Robbin' The Grave
+TTITLE2=Keep On Loving
+TTITLE3=Mean Old Woman
+TTITLE4=The Blues Had A Baby
+TTITLE5=Selling Out
+TTITLE6=That Train And My Woman
+TTITLE7=Rainy Day
+TTITLE8=Cut Off From My Baby
+TTITLE9=Chicken When I'm Hungry
+TTITLE10=Mean And Evil
+TTITLE11=Black Night Road
+TTITLE12=Playing With The Thing
+TTITLE13=Ask Myself A Question
+EXTD=1,2,4,5,9,12,13:\nSonny Terry: harmonica, vocal\nBob Malenky: guitar, vo
+EXTD=cal\nMichael Rura: piano\n\n3,5,8,10,11,14:\nBrownie McGhee: vocal, guit
+EXTD=ar, piano\nSugar Blue: harmonica\nLouisiana Red: guitar\nTom Pomposello
+EXTD=: bass\nCandy McDonald: drums\n\nProduced by Kent Cooper and Heiner Stadler
+EXTT0=(Bob Malenky/Kent Cooper)
+EXTT1=(Don Johnson/Kent Cooper)
+EXTT2=(Brownie McGhee)
+EXTT3=(SonnyTerry/Emma Terry)
+EXTT4=(Brownie McGhee)
+EXTT5=(Bob Malenky/Kent Cooper)
+EXTT6=(Bob Malenky/Kent Cooper)
+EXTT7=(Brownie McGhee)
+EXTT8=(SonnyTerry)
+EXTT9=(Brownie McGhee)
+EXTT10=(Brownie McGhee)
+EXTT11=(Bob Malenky/Kent Cooper)
+EXTT12=(SonnyTerry)
+EXTT13=(Brownie McGhee)
+PLAYORDER=

@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15155
+#     31250
+#     44780
+#     65063
+#     83515
+#     100178
+#     112023
+#     124763
+#     147903
+#     163898
+#     183938
+#     196228
+#     212953
+#     227355
+# 
+# Disc length: 3318 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=ca0cf40f
+DTITLE=Diversos - Expoentes
+DYEAR=1900
+DGENRE=
+TTITLE0=Lindo Bal o Azul
+TTITLE1=Nem Ouro, Nem Prata
+TTITLE2=T  Voltando
+TTITLE3=Linha Do Horizonte
+TTITLE4=Juventude Transviada
+TTITLE5=Flor De Liz
+TTITLE6=Trocando Em Mi dos
+TTITLE7=Carinhoso
+TTITLE8=Estrelar
+TTITLE9=Coisa Cristalina
+TTITLE10=Olhos Coloridos
+TTITLE11=Pombo-Correio (Double Morse)
+TTITLE12=S de Dos Marujos
+TTITLE13=Me Deixa Louca (Me Vuelve Loco)
+TTITLE14=Avenida Paulista
+EXTD=
+EXTT0=A Turma Do Pirlimpimpim\n
+EXTT1=Ruy Maurity\n
+EXTT2=S rgio Mendes\n
+EXTT3=Azimuth\n
+EXTT4=Luiz Melodia
+EXTT5=Djavan
+EXTT6=Francis Hime
+EXTT7=Marcio Montarroyos
+EXTT8=Marcos Valle
+EXTT9=Wando
+EXTT10=Sandra S 
+EXTT11=Moraes Moreira
+EXTT12=Ivan Lins
+EXTT13=Elis Regina
+EXTT14=Cesar Camargo Mariano
+PLAYORDER=
