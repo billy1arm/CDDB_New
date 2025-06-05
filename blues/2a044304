@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21327
+#	42147
+#	61127
+#
+# Disc length: 1093 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2a044304
+DTITLE=y'z factory - confession
+DYEAR=2001
+DGENRE=JPop
+TTITLE0=confession
+TTITLE1=Believe in you
+TTITLE2=空
+TTITLE3=confession (instrumental)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

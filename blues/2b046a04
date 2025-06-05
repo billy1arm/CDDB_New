@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18325
+#	41235
+#	61745
+#
+# Disc length: 1132 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=2b046a04
+DTITLE=Mica Paris - South of the River
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=South of the river (upso mix)
+TTITLE1=South of the river
+TTITLE2=Where are the children
+TTITLE3=I should we've known better
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

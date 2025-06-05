@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18500
+#	38657
+#	58720
+#
+# Disc length: 1048 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=2a041604
+DTITLE=D'Angelo - Brown Sugar (The CD Single)
+DYEAR=1995
+DGENRE=R&B
+TTITLE0=Brown Sugar (Radio Version)
+TTITLE1=Brown Sugar (Album Version)
+TTITLE2=Brown Sugar (TV Track)
+TTITLE3=Brown Sugar (Instrumental)
+EXTD=YEAR: 1995 ID3G: 14
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

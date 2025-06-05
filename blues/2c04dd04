@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	20483
+#	38990
+#	61898
+#
+# Disc length: 1247 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=2c04dd04
+DTITLE=Little Axe - The Wolf That House Built
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=Crossfire
+TTITLE1=Another Sinful Day
+TTITLE2=The Time Has Come
+TTITLE3=Hear My Cry
+EXTD=ID3G:   0 YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54760
+#	133752
+#	196137
+#
+# Disc length: 3716 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2d0e8204
+DTITLE=Barthelmes, Johannes Group - Blues for George
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=steam
+TTITLE1=kalimera kastri
+TTITLE2=trane's tree
+TTITLE3=blues for george
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

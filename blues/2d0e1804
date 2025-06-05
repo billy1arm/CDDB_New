@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	62331
+#	134358
+#	205555
+#
+# Disc length: 3610 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2d0e1804
+DTITLE=Klangwelten - Klang und Stille
+DYEAR=2008
+DGENRE=New Age
+TTITLE0=Joy of silence
+TTITLE1=Balance and light
+TTITLE2=Beautiful ballads
+TTITLE3=Rest in romance
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21612
+#	37532
+#	57655
+#
+# Disc length: 928 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2e039e04
+DTITLE=Split - inisplitep
+DYEAR=2000
+DGENRE=Punk Rock
+TTITLE0=HUSKING BEE - All As I, As I'm All
+TTITLE1=HUSKING BEE - I'm A Tree
+TTITLE2=POLLEN - Girls Love Robots
+TTITLE3=POLLEN - Everybody Else
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

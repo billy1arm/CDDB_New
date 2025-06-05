@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  14770
+#  30387
+#  44350
+#
+# Disc length: 759 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=2a02f504
+DTITLE=Van Morrison - Days Like This II
+DYEAR=1900
+DGENRE=
+TTITLE0=Days Like This
+TTITLE1=I Don't Want To Go OnWithout You
+TTITLE2=That Old Black Magic
+TTITLE3=Yo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

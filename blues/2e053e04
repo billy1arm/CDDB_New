@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28160
+#	50571
+#	78534
+#
+# Disc length: 1344 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e053e04
+DTITLE=安藤　裕子 - あなたと私にできる事
+DYEAR=2005
+DGENRE=Pop
+TTITLE0=あなたと私にできる事
+TTITLE1=lovely second way
+TTITLE2=あなたと私にできる事(inst)
+TTITLE3=lovely second way(inst)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

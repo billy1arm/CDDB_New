@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19482
+#	42950
+#	61020
+#
+# Disc length: 1159 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2c048504
+DTITLE=Toadstool - Toadstool
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Carousel
+TTITLE1=Coffee
+TTITLE2=Soul To Bleed
+TTITLE3=Atlas Shrugs
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

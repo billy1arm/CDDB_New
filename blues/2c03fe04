@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18750
+#	39675
+#	58125
+#
+# Disc length: 1024 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: freeDBTagger 0.5
+#
+DISCID=2c03fe04
+DTITLE=角松敏生 - 愛と修羅
+DYEAR=2000
+DGENRE=rock
+TTITLE0=愛と修羅
+TTITLE1=UP TOWN GIRL in 有楽町
+TTITLE2=愛と修羅(Instrumental)
+TTITLE3=愛と修羅(acoustic version)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

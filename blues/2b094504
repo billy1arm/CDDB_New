@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48119
+#	88927
+#	101099
+#
+# Disc length: 2375 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=2b094504
+DTITLE=Charle Lloyd - Soundtrack
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=Sombrero Sam
+TTITLE1=Voice In The Night
+TTITLE2=Pre-Dawn
+TTITLE3=Forest Flower '69
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

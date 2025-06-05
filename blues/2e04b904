@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     17930
+#     40305
+#     58522
+# 
+# Disc length: 1211 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=2e04b904
+DTITLE=The Family Stand - Ghetto Heaven Single
+DYEAR=1900
+DGENRE=
+TTITLE0=Soul II Soul Remix-Edit
+TTITLE1=Soul II Soul Remix
+TTITLE2=Edit-Original Version
+TTITLE3=Extended-Original Version
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

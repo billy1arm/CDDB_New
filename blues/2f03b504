@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15525
+#	35897
+#	51265
+#
+# Disc length: 951 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2f03b504
+DTITLE=岡村靖幸 - どぉなっちゃってんだよ（桜塚 やっくんcover）
+DYEAR=2007
+DGENRE=J-POP(J)
+TTITLE0=どぉなっちゃってんだよ
+TTITLE1=あの娘ぼくがロングシュート決めたらどんな顔するだろう
+TTITLE2=どぉなっちゃってんだよ(カラオケ)
+TTITLE3=あの娘ぼくがロングシュート決めたらどんな顔するだろう(カラオケ)
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

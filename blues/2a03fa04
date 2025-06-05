@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21230
+#	38416
+#	59496
+#
+# Disc length: 1020 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2a03fa04
+DTITLE=D☆DATE - DAY BY DAY
+DYEAR=2011
+DGENRE=JPop
+TTITLE0=DAY BY DAY
+TTITLE1=Hello Hello
+TTITLE2=DAY BY DAY (Instrumental)
+TTITLE3=Hello Hello (Instrumental)
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

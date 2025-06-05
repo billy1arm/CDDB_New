@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	176063
+#	217231
+#
+# Disc length: 3270 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2b0cc403
+DTITLE=Satoko Fujii Orchestra New York - Summer Suite
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Summer Suite
+TTITLE1=Sanrei
+TTITLE2=In the Town You Don't See on the Map
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

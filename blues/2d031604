@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	15255
+#	29660
+#	44782
+#
+# Disc length: 792 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=2d031604
+DTITLE=郵政省簡易保険局・ＮＨＫ制定 - ラジオ体操 第一・第二
+DYEAR=1990
+DGENRE=Dance
+TTITLE0=ラジオ体操　第一（号令入り）
+TTITLE1=ラジオ体操　第二（号令入り）
+TTITLE2=ラジオ体操　第一（ピアノ）
+TTITLE3=ラジオ体操　第二（ピアノ）
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

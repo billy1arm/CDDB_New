@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21758
+#	41024
+#	62904
+#
+# Disc length: 1093 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2f044304
+DTITLE=石田燿子 - Unknown CD for MusicBrainz and FreeDB
+DYEAR=2006
+DGENRE=アニメ
+TTITLE0=幸せのいろ
+TTITLE1=僕らのキセキ
+TTITLE2=幸せのいろ(Instrumental)
+TTITLE3=僕らのキセキ(Instrumental)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

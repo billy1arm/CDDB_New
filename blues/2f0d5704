@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	61551
+#	117255
+#	212813
+#
+# Disc length: 3417 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2f0d5704
+DTITLE=Eric Dolphy - At The Five Spot Vol.1
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Fire Waltz
+TTITLE1=Bee Vamp
+TTITLE2=The Prophet
+TTITLE3=Bee Vamp(Alternate Take)
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

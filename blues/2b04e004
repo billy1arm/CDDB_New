@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21440
+#	53357
+#	73507
+#
+# Disc length: 1250 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=2b04e004
+DTITLE=Washington Jr., Grover - Grover Washington Jr.
+DYEAR=1900
+DGENRE=
+TTITLE0=Shivaree Ride
+TTITLE1=French Connections
+TTITLE2=Split Second (Act II)
+TTITLE3=Jamaica
+EXTD=© 1989 CBS Masterworks
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

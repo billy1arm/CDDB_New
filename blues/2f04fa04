@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28254
+#	68123
+#	85279
+#
+# Disc length: 1276 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=2f04fa04
+DTITLE=Loren Nerell - The venerable dark cloud
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Dark Horizon
+TTITLE1=Eclipse
+TTITLE2=Within the cloud
+TTITLE3=Ablution
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

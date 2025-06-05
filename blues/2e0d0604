@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	84005
+#	155202
+#	186701
+#
+# Disc length: 3336 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e0d0604
+DTITLE=Anton Bruckner - Symphonie N°3 en ré mineur  (Michael Gielen, SWR Sinfonieorchester Baden-Baden und Freiburg)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Symphonie N°3 en ré mineur - I. Gemässigt - Mehr bewegt - Misterioso
+TTITLE1=Symphonie N°3 en ré mineur - II. Andante - Bewegt, Feierlich - Quasi Adagio
+TTITLE2=Symphonie N°3 en ré mineur - III. Scherzo - Ziemlich schell
+TTITLE3=Symphonie N°3 en ré mineur - IV. Finale - Allegro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

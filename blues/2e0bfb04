@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	77268
+#	138100
+#	209879
+#
+# Disc length: 3069 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e0bfb04
+DTITLE=Miles Davis - prime cuts from the legendary paris olympia Concerts Volume 1
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=All Of You
+TTITLE1=So What
+TTITLE2=Walkin'
+TTITLE3=Oleo
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

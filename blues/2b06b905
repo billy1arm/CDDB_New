@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21148
+#	39434
+#	60004
+#	90563
+#
+# Disc length: 1723 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=2b06b905
+DTITLE=Stamm, Cueni, Buchmeier, Bitterlin - Hanspeter Stamm's Framework
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Framework1
+TTITLE1=Framework2
+TTITLE2=Framework3
+TTITLE3=Framework4
+TTITLE4=Framework5
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32206
+#	77051
+#	112647
+#	181872
+#
+# Disc length: 3073 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e0bff05
+DTITLE=Miles Davis - Tour Over Europe
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=Agitation
+TTITLE1=Footprints
+TTITLE2='Round Midnight
+TTITLE3=No Blues
+TTITLE4=Masqualero
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

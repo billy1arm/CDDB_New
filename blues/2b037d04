@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20385
+#	35525
+#	51930
+#
+# Disc length: 895 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2b037d04
+DTITLE=Little Charlie and The Nightcats - The Big Break
+DYEAR=1989
+DGENRE=Blues
+TTITLE0=Little Charlie and The Nightcats -01- Don't Do It
+TTITLE1=Little Charlie and The Nightcats -02- The Big Break
+TTITLE2=Little Charlie and The Nightcats -03- That's OK
+TTITLE3=Little Charlie and The Nightcats -04- Dump That Chump
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

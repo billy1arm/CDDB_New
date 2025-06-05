@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20795
+#     37837
+#     82172
+# 
+# Disc length: 1425 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=2a058f04
+DTITLE=Mariah Carey - Butterfly UK Single 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Butterfly (Album Version)
+TTITLE1=Fly Away (Butterfly Reprise)
+TTITLE2=Fly Away (Butterfly Reprise) Fly Away Club Mix
+TTITLE3=The Roof-Mobb Deep Mix
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

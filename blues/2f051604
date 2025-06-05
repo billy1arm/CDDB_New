@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23010
+#	56015
+#	74370
+#
+# Disc length: 1304 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=2f051604
+DTITLE=Badly Drawn Boy - The Hour of Bewilderbeast-bonus disc
+DYEAR=2000
+DGENRE=Pop
+TTITLE0=Distant Town
+TTITLE1=Chaos Theory
+TTITLE2=Another Pearl (Broadcast Mix)
+TTITLE3=Another Pearl (Fridge Mix)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

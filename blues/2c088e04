@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27809
+#	73894
+#	121580
+#
+# Disc length: 2192 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=2c088e04
+DTITLE=Jackie McLean - Right Now!
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Eco
+TTITLE1=Poor Eric
+TTITLE2=Christel's Time
+TTITLE3=Right Now
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

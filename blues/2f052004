@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23060
+#	44425
+#	72353
+#
+# Disc length: 1314 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2f052004
+DTITLE=Joe American - Face Down
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=Biker Blues
+TTITLE1=Big Fat Momma
+TTITLE2=Face Down
+TTITLE3=Red and Blue
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

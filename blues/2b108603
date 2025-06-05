@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	110157
+#	224440
+#
+# Disc length: 4232 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2b108603
+DTITLE=Eric Tognoni - La Gestion du Stress un art de vivre
+DYEAR=2005
+DGENRE=New Age
+TTITLE0=Le souffle intime
+TTITLE1=Amplitude énergétique
+TTITLE2=Lumière d'étoiles
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

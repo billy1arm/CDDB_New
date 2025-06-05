@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17442
+#	37102
+#	58975
+#
+# Disc length: 1037 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: ACXtractor (MTCDDB.DLL V2003.12.21)
+#
+DISCID=2f040b04
+DTITLE=General Grant - Call Me
+DYEAR=1994
+DGENRE=Soul
+TTITLE0=Call Me (original version)
+TTITLE1=Call Me (D-Ragga mix)
+TTITLE2=Call Me (D-Mash Up mix)
+TTITLE3=Call Me (D-Dubb mix)
+EXTD=ID3G:  42 YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

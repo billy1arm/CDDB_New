@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	177
+#	38104
+#	108545
+#	154112
+#
+# Disc length: 2607 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.7
+#
+DISCID=2a0a2d04
+DTITLE=Don Pullen - Solo Piano Album
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Richards Tune
+TTITLE1=Suite (Sweet) Malcom (Pt. 1: Memories and
+TTITLE2=Big Alice
+TTITLE3=Song Played Backwards
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

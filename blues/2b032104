@@ -1,0 +1,28 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15904
+#	29793
+#	47187
+# Disc length: 803 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=2b032104
+DTITLE=The Old Haunts - The Old Haunts EP
+DYEAR=1900
+DGENRE=
+TTITLE0=Out of Sight
+TTITLE1=Deflect it
+TTITLE2=It's so Scandelous
+TTITLE3=Vandal Hymn
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

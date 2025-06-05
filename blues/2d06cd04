@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23963
+#	67933
+#	107924
+#
+# Disc length: 1743 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.19
+#
+DISCID=2d06cd04
+DTITLE=Kurt Buschmann - Heggen's Heroes
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Hoodoo Man
+TTITLE1=Loaded
+TTITLE2=Who Do YouLlove
+TTITLE3=Harp Boogie 
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

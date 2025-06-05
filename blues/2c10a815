@@ -1,0 +1,79 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 9900
+# 32550
+# 55200
+# 64350
+# 73500
+# 91650
+# 109800
+# 127950
+# 146100
+# 155250
+# 160500
+# 183150
+# 201300
+# 215550
+# 220200
+# 224850
+# 229500
+# 288150
+# 310800
+# 315450
+#
+# Disc length: 4266 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.3.330
+#
+DISCID=2c10a815
+DTITLE=CBS Records - CD-1 Standard Test Disc
+DYEAR=1900
+DGENRE=
+TTITLE0=Reference, L and R
+TTITLE1=Left Separation
+TTITLE2=Right Separation
+TTITLE3=Signal-Noise
+TTITLE4=Dynamic Range, L and R
+TTITLE5=Frequency Response, L and R
+TTITLE6=61, 127, 251, 499 Hz
+TTITLE7=997, 1999, 4001, 7993 Hz
+TTITLE8=10007, 12503, 16001, 17989 Hz
+TTITLE9=19997 Hz
+TTITLE10=Sweep Frequency Response
+TTITLE11=De-Emphasis Error, L and R
+TTITLE12=Intermodulation Distortion, L and R
+TTITLE13=Wow and Flutter, L and R
+TTITLE14=Access Time, L and R
+TTITLE15=Square Wave, L and R
+TTITLE16=Impusle and Polarity Test
+TTITLE17=Linearity, 997 Hz, L and R
+TTITLE18=Linearity with Dither, 997 Hz, L and R
+TTITLE19=Fade to Noise with Dither, L and R
+TTITLE20=Monotonicity, L and R
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+PLAYORDER=

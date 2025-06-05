@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18075
+#	37523
+#	59270
+#	84675
+#
+# Disc length: 1331 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2b053105
+DTITLE=Southern Comfort - After The Rain
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=The Times We Cried
+TTITLE1=A Long Way To Go
+TTITLE2=The Bended Bow
+TTITLE3=Rock'n' Roll Singer
+TTITLE4=All My Life
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

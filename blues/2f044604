@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16915
+#	51493
+#	66062
+#
+# Disc length: 1096 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta5
+#
+DISCID=2f044604
+DTITLE=The Receivers - No Way (Single)
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=You Turn To Me
+TTITLE1=Waiting On The Sky To Fall
+TTITLE2=Babylon Falling
+TTITLE3=What Good Did The Morning Ever Do?
+EXTD=YEAR: 1999 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

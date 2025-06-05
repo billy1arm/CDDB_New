@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	45497
+#	76217
+#	113307
+#	137570
+#
+# Disc length: 2191 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2d088d05
+DTITLE=Jimmy Smith and Wes Montgomery  - 1966 - The Dynamic Duo - MP3
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=Down By The Riverside
+TTITLE1=Night Train
+TTITLE2=James And Wes
+TTITLE3=13 (Death March)
+TTITLE4=Baby, It's Cold Outside
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

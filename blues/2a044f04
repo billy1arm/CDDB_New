@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22945
+#	43448
+#	60255
+#
+# Disc length: 1105 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2a044f04
+DTITLE=松たか子 - 夢のしずく
+DYEAR=1999
+DGENRE=JPop
+TTITLE0=夢のしずく
+TTITLE1=days
+TTITLE2=夢のしずく (acoustic version)
+TTITLE3=夢のしずく (instrumental)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

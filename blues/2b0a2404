@@ -1,0 +1,30 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     27377
+#     43667
+#     155505
+# 
+# Disc length: 2598 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=2b0a2404
+DTITLE=James Brown - Best of Live
+DYEAR=1900
+DGENRE=
+TTITLE0=Georgia on my Mind
+TTITLE1=I Got the Feeling
+TTITLE2=It's a Man's Man's World/Supder Bad/Disco Rap
+TTITLE3=Cold Sweat/When You Touch Me/Papa's Got a Brand New Bag/I Got You/I 
+TTITLE3=Feel Good
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

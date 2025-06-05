@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21225
+#	39707
+#	63780
+#
+# Disc length: 1259 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2c04e904
+DTITLE=ZIGGY - SOUND TRAX
+DYEAR=1991
+DGENRE=Rock
+TTITLE0=GOIN' CRAZY
+TTITLE1=I'M A LOSER
+TTITLE2=La Vie en Rose
+TTITLE3=LONG AND WINDING ROAD
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

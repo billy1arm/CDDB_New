@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	13832
+#	27412
+#	40990
+#
+# Disc length: 758 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=2c02f404
+DTITLE=Zhane - Crush (Promo)
+DYEAR=1900
+DGENRE=
+TTITLE0=LP Version
+TTITLE1=Instrumental
+TTITLE2=Prettypella
+TTITLE3=Dub Mix
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	23414
+#	41980
+#	61322
+# Disc length: 1072 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=2b042e04
+DTITLE=Orchid Leaves - Free at last
+DYEAR=1900
+DGENRE=
+TTITLE0=Free at last
+TTITLE1=For my own
+TTITLE2=Prisoner of time
+TTITLE3=Faded Glory
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

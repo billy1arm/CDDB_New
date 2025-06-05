@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20625
+#	36825
+#	50400
+#
+# Disc length: 874 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: freeDBTagger 0.8.2.1
+#
+DISCID=2d036804
+DTITLE=AI - Believe
+DYEAR=2006
+DGENRE=misc
+TTITLE0=Believe
+TTITLE1=No Way
+TTITLE2=Too Much feat. Rain
+TTITLE3=Beautiful feat. Trey Songz
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

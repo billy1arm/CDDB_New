@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16722
+#	40055
+#	62275
+#	94683
+#
+# Disc length: 1513 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=2a05e705
+DTITLE=The Modern Jazz Quartet - The Cool Jazz Collection 72
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=The Golden Striker
+TTITLE1=Yesterdays
+TTITLE2=Confirmation
+TTITLE3=Echoes
+TTITLE4=Reunion Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

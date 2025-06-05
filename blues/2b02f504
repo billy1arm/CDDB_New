@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	14805
+#	30420
+#	44382
+#
+# Disc length: 759 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=2b02f504
+DTITLE=Van Morrison - Days Like This
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Days Like This
+TTITLE1=I Don't Want To Go On Without You
+TTITLE2=That Old Black Magic
+TTITLE3=Yo
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

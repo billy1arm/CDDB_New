@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	134445
+#	152838
+#	206320
+#
+# Disc length: 3531 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2f0dc904
+DTITLE=Koen De Cauter and Dick Van der Harst - La Nuit Est Une Sorcière
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=La Nuit Est Une Sorcière
+TTITLE1=Crêperie La Menthe
+TTITLE2=Bolero
+TTITLE3=Night In Dubrovnik
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27803
+#	52595
+#	69932
+#	88505
+#
+# Disc length: 1450 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: freeDBTagger 0.9.0.2
+#
+DISCID=2c05a805
+DTITLE=小松未歩 - 恋になれ...
+DYEAR=2005
+DGENRE=blues
+TTITLE0=恋になれ...
+TTITLE1=恋人たちのchristmas
+TTITLE2=恋になれ... 〜Forest that ripples out〜
+TTITLE3=I just wanna hold you tight 〜a strange town Mix〜
+TTITLE4=恋になれ... <instrumental>
+EXTD=GZCA-4057
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

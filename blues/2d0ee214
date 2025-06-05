@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16459
+#	30987
+#	43764
+#	55355
+#	68217
+#	80867
+#	100760
+#	116930
+#	129759
+#	143999
+#	157349
+#	171327
+#	185053
+#	198336
+#	212971
+#	227782
+#	242848
+#	258659
+#	270145
+#
+# Disc length: 3812 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2d0ee214
+DTITLE=Various Artist - The Best Of Boogie Woogie - CD 1
+DYEAR=2003
+DGENRE=Boogie Woogie
+TTITLE0=Albert Ammons - Boogie Woogie Stomp
+TTITLE1=Pinetop Smith - Pinetops Boogie Woogie
+TTITLE2=Pete Johnson and Joe Turner - Roll 'Em Pete
+TTITLE3=Cow Cow Davenport - Cow Cow Blues
+TTITLE4=Meade Lux Lewis - Honky Tonk Train Blues
+TTITLE5=Clarence Lofton and Red Nelson - Streamline Train
+TTITLE6=Jimmy Yancey - Yancey Special
+TTITLE7=Clarence Williams - Sugar Blues
+TTITLE8=Big Maceo - Texas Stomp
+TTITLE9=Tampa Red - Boogie Woogie Dance
+TTITLE10=Romeo Nelson [vcl:Tampa Red and Frankie Jaxon] - Head Rag Hop [1929]
+TTITLE11=Jimmy Blythe - Boogie Woogie Blues
+TTITLE12=Pete Johnson - Let 'Em Jump
+TTITLE13=Walter Roland - Jookit Jookit
+TTITLE14=Speckled Red - St. Louis Stomp
+TTITLE15=Turner Parrish - Fives
+TTITLE16=Albert Ammons - Bass Goin' Crazy
+TTITLE17=Montana Taylor - Indiana Avenue Stomp
+TTITLE18=Little Brother Montgomery - Parrish Street Jive
+TTITLE19=James P. Johnson - Harlem Chocolate Babies
+EXTD=10CD: Documents/Membran 223006-321 (2005-07-25), EAN 4011222230065, ISBN 3-86562-751-X. YEAR: 2003
+EXTT0=(Smith)
+EXTT1=(Smith)
+EXTT2=(Johnson/Turner)
+EXTT3=(Davenport)
+EXTT4=(Lewis)
+EXTT5=(Nelson)
+EXTT6=(Yancey)
+EXTT7=(Williams/Fletcher)
+EXTT8=(Merriweather)
+EXTT9=(Whittaker)
+EXTT10=(Nelson]\nRecorded Chicago US-IL, 1929-09-05 (mx C4300-B/C) - Vocalion 1447, HRS 8, Brunswick 80021--all as by Romeo Nelson.
+EXTT11=(Blythe)
+EXTT12=(Johnson)
+EXTT13=(Roland)
+EXTT14=(Perryman)
+EXTT15=(Parrish)
+EXTT16=(Ammons)
+EXTT17=(Taylor)
+EXTT18=(Montgomery)
+EXTT19=(Johnson)
+PLAYORDER=

@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17925
+#     36164
+#     53677
+# 
+# Disc length: 978 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=2b03d004
+DTITLE=Kai - Say You'll Stay (Maxi Single)
+DYEAR=1900
+DGENRE=
+TTITLE0=Say You'll Stay
+TTITLE1=Say You'll Stay (Instrumental)
+TTITLE2=Say You'll Stay (A Capella)
+TTITLE3=Last To Know
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

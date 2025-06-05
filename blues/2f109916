@@ -1,0 +1,82 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	15855
+#	30158
+#	42123
+#	55773
+#	71680
+#	86845
+#	103170
+#	116653
+#	132318
+#	147918
+#	162890
+#	176825
+#	192743
+#	206118
+#	219158
+#	232548
+#	245293
+#	261275
+#	276795
+#	292668
+#	304568
+#
+# Disc length: 4251 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2f109916
+DTITLE=Smith, Bessie - Mama's Got the Blues
+DYEAR=1933
+DGENRE=Blues
+TTITLE0=Careless Love Blues
+TTITLE1=Young Woman's Blues
+TTITLE2=I Want Every Bit Of It
+TTITLE3=Alexander's Ragtime Band
+TTITLE4=My Man Blues
+TTITLE5=Jazzbo Brown From Memphis Town
+TTITLE6=If You Don't, I Know Who Will
+TTITLE7=After You've Gone
+TTITLE8=T'Ain't Nobody's Business If I Do
+TTITLE9=Lonesome Desert Blues
+TTITLE10=Aggravatin' Papa (Don't You Try To Two-Time)
+TTITLE11=St. Louis Blues
+TTITLE12=Nobody In Town Can Bake A Sweet Jelly Roll Like Mine
+TTITLE13=Baby Won't You Please Come Home
+TTITLE14=Nobody's Blues But Mine
+TTITLE15=Mama's Got The Blues
+TTITLE16=Need A Little Sugar In My Bowl
+TTITLE17=Hustlin' Dan
+TTITLE18=Do Your Duty
+TTITLE19=Gimme A Pigfoot
+TTITLE20=Take Me For A Buggy Ride
+TTITLE21=Down In The Dumps
+EXTD=YEAR: 1933
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42250
+#	84943
+#	126421
+#
+# Disc length: 2064 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.20
+#
+DISCID=2b080e04
+DTITLE=Various Artist - The Complete Cuban Jam Sessions III
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Montuno-Swing
+TTITLE1=Montuno Guajiro
+TTITLE2=Chachacha Montuno
+TTITLE3=Guaguanco-Comparsa
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

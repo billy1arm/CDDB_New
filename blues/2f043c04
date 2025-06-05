@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11780
+#	36926
+#	54651
+#
+# Disc length: 1086 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2f043c04
+DTITLE=Arcade Fire - Funeral (Bonus Disc)
+DYEAR=2005
+DGENRE=Rock
+TTITLE0=My Buddy (Alvino Rey Orchestra)
+TTITLE1=Neighborhood #3 (Power Out) (August Session)
+TTITLE2=Brazil
+TTITLE3=Neighborhood #3 (Power Out) (Live)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

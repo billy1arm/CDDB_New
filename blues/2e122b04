@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	73670
+#	183995
+#	285060
+#
+# Disc length: 4653 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=2e122b04
+DTITLE=David S. Ware - Organica
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Minus Gravity 1 (sopranino)
+TTITLE1=Organica 1 (tenor)
+TTITLE2=Minus Gravity 2 (sopranino)
+TTITLE3=Organica 2 (tenor)
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18917
+#	43370
+#	63860
+#
+# Disc length: 1240 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=2d04d604
+DTITLE=Eric Clapton - Circus E.P. Part 1
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Circus (Album Version)
+TTITLE1=Wonderful Tonight
+TTITLE2=Tears In Heaven
+TTITLE3=Edge Of Darkness
+EXTD=YEAR: 1998 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

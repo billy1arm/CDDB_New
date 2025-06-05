@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42156
+#	81348
+#	120144
+#	150540
+#
+# Disc length: 2393 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2d095705
+DTITLE=Jack DeJohnette`s Special Edition - Inflation Blues
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Starburst
+TTITLE1=Ebony
+TTITLE2=The Islands
+TTITLE3=Inflation Blues
+TTITLE4=Slowdown
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

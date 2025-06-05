@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19590
+#	40380
+#	64947
+#
+# Disc length: 1141 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e047304
+DTITLE=Mariah Carey - Hero
+DYEAR=1993
+DGENRE=Pop
+TTITLE0=Hero (LP Version)
+TTITLE1=Hero (LIVE)
+TTITLE2=Everything Fades Away
+TTITLE3=Dreamlover (Club Joint Mix)
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

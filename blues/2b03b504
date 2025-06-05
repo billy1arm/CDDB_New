@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22575
+#	36750
+#	59175
+#
+# Disc length: 951 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2b03b504
+DTITLE=tohko - HEARTS
+DYEAR=1999
+DGENRE=JPop
+TTITLE0=HEARTS
+TTITLE1=HEARTS (REMIX)
+TTITLE2=HEARTS (TV MIX)
+TTITLE3=HEARTS (PIANO SOLO)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

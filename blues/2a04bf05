@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18774
+#	35272
+#	55582
+#	76358
+#
+# Disc length: 1217 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2a04bf05
+DTITLE=White and Blue - Maquette II - v2 du 14 Mars 2006
+DYEAR=2006
+DGENRE=Blues
+TTITLE0=White and Blue - 01-CertainesFilles-FunkVersion
+TTITLE1=White and Blue - 02-SmokeGetsInYourEyes
+TTITLE2=White and Blue - 03-SittingOnTheTopOfTheWorld
+TTITLE3=White and Blue - 04-LivingWithTheBlues-ChantVersion3-Retenue
+TTITLE4=White and Blue - 05-TheWindCriesMary
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

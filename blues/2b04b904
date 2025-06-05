@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22255
+#	45581
+#	67686
+#
+# Disc length: 1211 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2b04b904
+DTITLE=SMAP - ありがとう
+DYEAR=2006
+DGENRE=JPop
+TTITLE0=ありがとう
+TTITLE1=show your smile
+TTITLE2=ありがとう [back track]
+TTITLE3=show your smile [back track]
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

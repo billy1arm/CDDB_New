@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26982
+#	55912
+#	80915
+#	108207
+#	127632
+#	140712
+#	155332
+#	175640
+#	184920
+#	194570
+#	200602
+#	211445
+#	225407
+#	243390
+#	268215
+#	281627
+#	295207
+#	305710
+#	330775
+#
+# Disc length: 4616 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.52 - http://www.feurio.com
+#
+DISCID=2c120614
+DTITLE=In the butcher's backyard - [1/2]
+DYEAR=1900
+DGENRE=
+TTITLE0=v - First gate
+TTITLE1=v - Second gate
+TTITLE2=v - Third gate
+TTITLE3=v - Stroke
+TTITLE4=v - Metal process in work
+TTITLE5=v - Ex cre mental pt.II
+TTITLE6=v - Intellekt: kollaps
+TTITLE7=v - Entschuldigung, wo ist mein kopf? Teil 3
+TTITLE8=v - Onus uteri
+TTITLE9=v - Nefarior
+TTITLE10=v - Insect dawn
+TTITLE11=v - White light
+TTITLE12=v - Aprés nous le d luge II
+TTITLE13=v - Memento mori
+TTITLE14=v - Death brightens with sorrow
+TTITLE15=v - Zyringe
+TTITLE16=v - Lost in lies
+TTITLE17=v - Deeper movements in the ocean
+TTITLE18=v - Let me come inside
+TTITLE19=v - Den mäktige Tor
+EXTD=
+EXTT0=[Morthond]
+EXTT1=[Morthond]
+EXTT2=[Morthond]
+EXTT3=[Megaptera]
+EXTT4=[Megaptera]
+EXTT5=[Defekt]
+EXTT6=[Defekt]
+EXTT7=[Defekt]
+EXTT8=[ConSono]
+EXTT9=[ConSono]
+EXTT10=[ConSono]
+EXTT11=[ConSono]
+EXTT12=[Raison d' tre]
+EXTT13=[Raison d' tre]
+EXTT14=[Raison d' tre]
+EXTT15=[Systema]
+EXTT16=[Systema]
+EXTT17=[Systema]
+EXTT18=[Systema]
+EXTT19=[En halvkokt i folie]
+PLAYORDER=

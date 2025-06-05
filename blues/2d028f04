@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13200
+#	26387
+#	37335
+#
+# Disc length: 657 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2d028f04
+DTITLE=Sampler - Play Me the Blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Mannish Boy, MUDDY WATERS
+TTITLE1=When my Heart Beats like a Hammer, B.B. KING
+TTITLE2=White Snake, ERIC CLAPTON
+TTITLE3=I`m In the Mood, JOHN LEE HOOKER
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

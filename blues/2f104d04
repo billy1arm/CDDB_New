@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	79303
+#	187846
+#	274291
+#
+# Disc length: 4175 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2f104d04
+DTITLE=Adam Hurst - passages
+DYEAR=2005
+DGENRE=New Age
+TTITLE0=Reflection
+TTITLE1=Metamorphosis
+TTITLE2=Dusk
+TTITLE3=Dream
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16192
+#	38099
+#	58341
+#
+# Disc length: 1069 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=2b042b04
+DTITLE=deadman - ℃
+DYEAR=2004
+DGENRE=Visual_Rock
+TTITLE0=degreeds centigrade
+TTITLE1=monster tree
+TTITLE2=maze room
+TTITLE3=体温
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

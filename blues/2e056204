@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31167
+#	61432
+#	63336
+#
+# Disc length: 1380 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2e056204
+DTITLE=compilation - Les sources de Miles Davis
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Chet Baker - Alone together
+TTITLE1=Bill Evans - Piece peace
+TTITLE2=Jose-Maria Rodriguez - Alborada de Vigo
+TTITLE3=Lolita Triani, Ramon Montoya - Saelas
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

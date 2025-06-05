@@ -1,0 +1,31 @@
+# xmcd
+# 
+# Track frame offsets:
+#     150
+#     10540
+#     28052
+#     46090
+#     69797
+# 
+# Disc length: 1303
+# 
+# Revision: 30
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: fre:ac v1.0.31
+# 
+DISCID=2c051505
+DTITLE=Janis Joplin - Box Of Pearls The Janis Joplin Collection (5 Of 5)
+DYEAR=1999
+DGENRE=Rock/Pop
+TTITLE0=It's a Deal [Studio Outtake]
+TTITLE1=Easy Once You Know How [Studio Outtake]
+TTITLE2=Maybe [Live in Amsterdam, Holland, 1969-04-01]
+TTITLE3=Raise Your Hand [Live at the Filmore, San Francisco, 1969-10-05]
+TTITLE4=Bo Diddley [Live at the Filmore, San Francisco, 1969-10-05]
+EXTD=YEAR: 1999
+EXTT0=studio outtake
+EXTT1=studio outtake
+EXTT2=live
+EXTT3=live
+EXTT4=live
+PLAYORDER=

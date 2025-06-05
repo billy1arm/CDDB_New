@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23796
+#	73503
+#	126051
+#
+# Disc length: 2018 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=2d07e004
+DTITLE=Thelonious Monk - Monk's Music
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Off Minor
+TTITLE1=Epistrophy
+TTITLE2=Well You Needn't
+TTITLE3=Ruby, My Dear
+EXTD=The Jazz Masters Collection
+EXTT0=T. Monk
+EXTT1=T. Monk - K Clark
+EXTT2=T. Monk
+EXTT3=T. Monk
+PLAYORDER=

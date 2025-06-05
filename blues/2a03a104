@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20204
+#	38355
+#	54597
+#
+# Disc length: 931 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2a03a104
+DTITLE=No Angels - Unknown CD for MusicBrainz and FreeDB
+DYEAR=2003
+DGENRE=Misc
+TTITLE0=Nadja Benaissa - Soft Place To Fall
+TTITLE1=Ludmila Diakovska - Confession
+TTITLE2=Sandy Mölling - How Can We Be Friends?
+TTITLE3=Vanessa Petruo - Ten Degrees
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

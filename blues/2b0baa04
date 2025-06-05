@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	89280
+#	131090
+#	173008
+#
+# Disc length: 2988 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2b0baa04
+DTITLE=Archie Shepp - Lars Gullin - The House I Live In
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=You Stepped Out Of A Dream
+TTITLE1=I Should Care
+TTITLE2=The House I Live In
+TTITLE3=Sweet Georgia Brown
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

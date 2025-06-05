@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17008
+#	32756
+#	48650
+#
+# Disc length: 872 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=2b036604
+DTITLE=Fortuna - Mirrors
+DYEAR=2004
+DGENRE=Pop
+TTITLE0=Mirrors
+TTITLE1=VISION
+TTITLE2=Angel Eyes
+TTITLE3=Mirrors(inst)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15892
+#	35682
+#	67382
+#
+# Disc length: 1159 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2f048504
+DTITLE=solid base - This is how we do it
+DYEAR=1999
+DGENRE=Dance
+TTITLE0=This is how we do it(Airplay edit)
+TTITLE1=This is how we do it(Extended mix)
+TTITLE2=This is how we do it(DJ ZEB'S Clubmix)
+TTITLE3=Push it(Extended mix)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=
