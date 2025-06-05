@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	34325
+#	67600
+#	95900
+#	124200
+#
+# Disc length: 2258 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=4008d005
+DTITLE=John Thomas and Lifeforce - 3000 Worlds
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=3000 Worlds
+TTITLE1=3/4 Ballade
+TTITLE2=As You Once Were
+TTITLE3=Like A Samba
+TTITLE4=Promontory
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

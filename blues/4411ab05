@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	62273
+#	130743
+#	212690
+#	266973
+#
+# Disc length: 4525 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4411ab05
+DTITLE=Gustav Mahler - Symphonie N°5  (Klaus Tennstedt, London Philharmonic Orchestra)
+DYEAR=1979
+DGENRE=Classique
+TTITLE0=Symphonie N°5 en ut dièse mineur - I. Trauermarsch (In gemeßenem Schritt - Streng - Wie ein Kondukt)
+TTITLE1=Symphonie N°5 en ut dièse mineur - II. Stürmisch bewegt, mit größter Vehemenz
+TTITLE2=Symphonie N°5 en ut dièse mineur - III. Scherzo  (Kräftig, nicht zu schnell)
+TTITLE3=Symphonie N°5 en ut dièse mineur - IV. Adagietto  (Sehr langsam)
+TTITLE4=Symphonie N°5 en ut dièse mineur - V. Rondo - Finale  (Allegro)
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

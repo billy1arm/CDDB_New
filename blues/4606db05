@@ -1,0 +1,45 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21757
+#	40364
+#	73318
+#	102624
+#
+# Disc length: 1757 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 5
+#
+DISCID=4606db05
+DTITLE=Feeling Station - Live In Studio
+DYEAR=1900
+DGENRE=
+TTITLE0=Feeling Station
+TTITLE1=º£Æ®³² Ã³³à¿Í °áÈ¥ÇÏ±â
+TTITLE2=¸Ô±¸¸§
+TTITLE3=¶ô¸Ô´Â ÇÏ¸¶
+TTITLE4=ÇüÀÌ µÇÁÙ°Ô
+EXTD=½ÎÀÌÅ°µ¨¸¯ ºí·ç½º °Ô¶óÁö¹êµå 'ÇÊ¸µ ½ºÅ×ÀÌ¼Ç'·¹µåÁ¦ÇÃ¸°, ºí·¢½Î¹Ù
+EXTD=½º°°Àº 60³'ë Å¬·¡½Ä¶ô°ú ¸Óµð¿öÅÍ½º, Á¸¸®ÈÄÄ¿ÀÇ Á¤Åëºí·ç½º¸¦ ¼¯Àº 
+EXTD=¿øÃÊÀûÀÎ ¶ô¾Ø·Ñ »ç¿îµå. Ã¹ ¾Ù¹ü [Live in Studio]´Â ³ë·¡¿Í ¿¬ÁÖ, ½º
+EXTD=Æ©µð¿À¿¡¼­ ¸ðµÎ ´Ü ÇÑ¹ø¿¡ ³ìÀ½µÇ¾ú´Ù. ¶§¹®¿¡ 60³'ë ÁßÈÄ¹Ý ¿µ¹ÌÀÇ 
+EXTD=¶ô¾Ù¹üÀ» µè´ÂµíÇÑ ¶óÀÌºêÀûÀÎ »ýµ¿°¨À¸·Î °¡µæÇÏ´Ù. ¾î´À ¾Ç±âÇÏ³ª°
+EXTD=¡ Æ¢´Â°Íº¸´Ù ¸¶Ä¡ ºñÆ²ÁîÀÇ ±×°ÍÃ³·³ ¡°¿©¹éÀÇ ¹Ì¡±¸¦ »ì¸®¸ç °îÀüÃ¼°
+EXTD=¡ ¿©À¯·Ó°Ô ¾î¿ì·¯Áú¼öÀÖ´Â »ç¿îµå¸¦ ±¸ÃàÇß´Ù. ²ÞÆ²°Å¸®´Â ºí·ç½º ¶ô¾
+EXTD=Ø·ÑÀÇ ±ÍÈ¯À» ¡°´À³¦ÃæÀü¼Ò¡±¶ó´Â ¶æÀÇ ¹êµå ÀÌ¸§Ã³·³ ÇÊ¸µ ½ºÅ×ÀÌ¼ÇÀ»
+EXTD=ÅëÇØ Ã¤¿ï¼ö ÀÖÀ» °ÍÀÌ´Ù.
+EXTT0=¹êµåÀÇ ÁÖÁ¦°î. °­ÇÏ°í ¹«°Å¿î ¸®ÇÁÀÇ °îÀ¸·Î ÇÊ¸µ½ºÅ×ÀÌ¼Ç(´À³¦ÃæÀü¼
+EXTT0=Ò)¿¡ ¿Í¼­´À³¦À» Ã¤¿ì¶ó´Â ³»¿ë.
+EXTT1=¾Ù¹üÀÇ Å¸ÀÌÆ²°î. Áßµ¶ÀûÀÎ °¡»ç¿Í ¸á·Îµð·Î ½ÎÀÌÅ°µ¨¸¯ÇÑ ´À³¦À» Ç³±
+EXTT1=ä´Ù.ÀÎ»ó±í°Ô º» Çö¼ö¸·ÀÇ ³»¿ëÀ» °¡»ç·Î Á¤¸®ÇÑ°î. 3. ¸Ô±¸¸§ -»õ
+EXTT1=º® 4½Ã¿¡ ¸¸µé¾îÁø ¾îµÎ¿î ºÐÀ§±âÀÇ Æ÷Å©¹ß¶óµå.´©±¸¿¡°Ô³ª ÇÇÇÒ¼ö ¾
+EXTT1=ø´Â ¸Ô±¸¸§ÀÌ ÀÖ´Ù.
+EXTT2=»õº® 4½Ã¿¡ ¸¸µé¾îÁø ¾îµÎ¿î ºÐÀ§±âÀÇ Æ÷Å©¹ß¶óµå.´©±¸¿¡°Ô³ª ÇÇÇÒ¼ö
+EXTT2=¾ø´Â ¸Ô±¸¸§ÀÌ ÀÖ´Ù.
+EXTT3=60³'ë ÃÊÃ¢±â ÇÏµå·ÏÀÇ ´Þ¸®´Â ´À³¦.Áß¹Ý¿¡ ¹ÝÀüµÇ´Â °£ÁÖ°¡ Æ¯Â¡.
+EXTT4=ÀüÇüÀûÀÎ 12¸¶µð ½½·Î¿ì ºí·ç½º.¾î´ÀºÐÀÌ ´º½º¿¡¼­ ÇÏ½Å ÀÎ»óÀûÀÎ ¸»
+EXTT4=µéÀ» °¡»ç·Î ¿Å°Ü ºÃ´Ù.
+PLAYORDER=

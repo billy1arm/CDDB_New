@@ -1,0 +1,88 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12370
+#	22402
+#	35790
+#	47287
+#	62840
+#	77525
+#	90874
+#	105777
+#	119489
+#	130022
+#	144927
+#	158572
+#	172357
+#	187579
+#	201478
+#	216124
+#	228950
+#	242643
+#	255185
+#	269010
+#	282615
+#	295552
+#	310207
+#
+# Disc length: 4301 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=4910cb18
+DTITLE=Django Reinhardt - Crazy Rhyhm
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Bugle Call Rag
+TTITLE1=I Got Rhythm
+TTITLE2=Japanese Sandman
+TTITLE3=Iknow That You Know
+TTITLE4=Chicago
+TTITLE5=Georgia On My Mind
+TTITLE6=Between The Devil  And The Deep Blue Sea
+TTITLE7=Out Of Nowhere
+TTITLE8=Crazy Rythm
+TTITLE9=Finesse (Night Wind)
+TTITLE10=What A Difference A Day Made
+TTITLE11=I'm Coming Virginia
+TTITLE12=Blue Light Blues
+TTITLE13=I Can't Give You Anything But Love
+TTITLE14=Sweet Sue
+TTITLE15=Minor Swing
+TTITLE16=Nagasaki
+TTITLE17=Sweet Georgia Brown
+TTITLE18=Limehouse Blues
+TTITLE19=Solid Old Man
+TTITLE20=Avalon
+TTITLE21=Handing Around Boudon
+TTITLE22=Farewell Blues
+TTITLE23=Honeysucle Rose
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34344
+#	55517
+#	78662
+#	119213
+#
+# Disc length: 2034 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=4107f005
+DTITLE=Grover Washington,Jr. - The Cool Jazz Collection 32
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Winelight
+TTITLE1=Georgia on My Mind
+TTITLE2=Mercy Mercy Me
+TTITLE3=Mister Magic
+TTITLE4=Just the Two of Us
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

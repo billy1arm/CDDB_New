@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30880
+#	45595
+#	62745
+#	80782
+#	99737
+#
+# Disc length: 1506 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=4405e006
+DTITLE=Hipshooters - Shadowlands
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Introduce Yourself
+TTITLE1=Freedom
+TTITLE2=Stand Up (Mr. Brown)
+TTITLE3=Standing in the Shadows
+TTITLE4=Manic Depression
+TTITLE5=Little by Little
+EXTD=YEAR: 1997 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

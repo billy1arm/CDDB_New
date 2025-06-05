@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11655
+#	24000
+#	40185
+#	52962
+#	62932
+#	77280
+#
+# Disc length: 1210 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta6
+#
+DISCID=4404b807
+DTITLE=Art Pepper - Show Time
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=All the Things you Are
+TTITLE1=Everything Happens to Me
+TTITLE2=St. Louis Blues
+TTITLE3=stormy Weather
+TTITLE4=Cherokee
+TTITLE5=Over the Rainbow
+TTITLE6=What is This Thing Called Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

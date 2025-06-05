@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21975
+#	43200
+#	64625
+#	86432
+#	107762
+#
+# Disc length: 1719 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4806b506
+DTITLE=福山雅治 - Heart/you
+DYEAR=1998
+DGENRE=Pop
+TTITLE0=Heart
+TTITLE1=Like A Hurricane
+TTITLE2=you
+TTITLE3=Heart(Original Karaoke)
+TTITLE4=Like A Hurricane(Original Karaoke)
+TTITLE5=you(Original Karaoke)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33037
+#	60982
+#	99500
+#	134632
+#	159235
+#
+# Disc length: 2546 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=4009f006
+DTITLE=Horace Silver - Song for My Father
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Song for My Father
+TTITLE1=The Natives are Restless Tonight
+TTITLE2=Calcutta Cutie
+TTITLE3=Que Pasa
+TTITLE4=The Kicker
+TTITLE5=Lonely Woman
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

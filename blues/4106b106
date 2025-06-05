@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20772
+#	44397
+#	68242
+#	90905
+#	107382
+#
+# Disc length: 1715 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=4106b106
+DTITLE=Loeb, Cuesta, and Snitzer - Harveys Bristol Blues Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Live It To The Full
+TTITLE1=Let's Get Boring Together
+TTITLE2=Say It Softfly
+TTITLE3=Nothing Shocks Me
+TTITLE4=Current State Of Affairs
+TTITLE5=I Go On
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

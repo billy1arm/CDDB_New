@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34492
+#	55995
+#	100312
+#	143737
+#
+# Disc length: 2519 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4409d505
+DTITLE=Sun Ra - The Other Side of The Sun
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Space Fling
+TTITLE1=Flamingo
+TTITLE2=Space Is The Place
+TTITLE3=The Sunny Side of the Street
+TTITLE4=Manhattan Cocktail
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

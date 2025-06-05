@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22136
+#	65409
+#	86125
+#	92304
+#	105750
+#	122259
+#
+# Disc length: 2007 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4707d507
+DTITLE=compilation - Jazz Magazine 592 - 05-2008 - Bee Jazz 5 ans
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Guillaume de Chassy - Wish you were here
+TTITLE1=Jérôme Sabbagh - Pogo
+TTITLE2=Celea/Couturier/Humair - Cavatina
+TTITLE3=Manu Codjia - Nage Mute Prologue
+TTITLE4=Daniel Yvinec - Moon and Sand
+TTITLE5=Christophe Wallemme -Le temps des moussons
+TTITLE6=Chassy/Yvinec/Motian/Murphy - The I'll be tired of you
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

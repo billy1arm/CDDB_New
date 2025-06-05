@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35177
+#	55353
+#	73279
+#	109506
+#
+# Disc length: 1534 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4905fc05
+DTITLE=吉田隆一 - Autumn'92
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=solo_1
+TTITLE1=solo_2
+TTITLE2=solo_3
+TTITLE3=solo_4
+TTITLE4=solo_5 「yes or die」
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

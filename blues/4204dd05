@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21495
+#	39445
+#	62900
+#	72885
+#
+# Disc length: 1247 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4204dd05
+DTITLE=Tony Bennett - here's to the ladies
+DYEAR=1995
+DGENRE=crooner
+TTITLE0=people
+TTITLE1=somewhere over the rainbow
+TTITLE2=my love went to London
+TTITLE3=down in the depths
+TTITLE4=medley  
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

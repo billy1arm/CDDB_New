@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	73835
+#	91135
+#	109155
+#	131622
+#
+# Disc length: 2484 seconds
+#
+# Revision: 11
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4009b205
+DTITLE=Miles Davis - Sketches Of Spain
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=Concierto De Aranjuez
+TTITLE1=Will O' The Wisp
+TTITLE2=The Pan Piper
+TTITLE3=Saeta
+TTITLE4=Solea
+EXTD=Label: Columbia CK 40578\nRecording date: 20 November 1959 (1), 10-11 March 1960 (2-5]\nLiner notes: Nat Hentoff\nNotes: Arranged and conducted by Gil Evans. \nAll compositions by Gil Evans unless otherwise noted.\nPerformers: Miles Davis - flugelho
+EXTD=rn (1), trumpet\nErnie Royal - trumpet\nBernie Glow - trumpet\nLouis Mucci - trumpet\nTaft Jordan - trumpet (1]\nJohnny Coles - trumpet (2-5]\nDick Hixon - trombone\nFrank Rehak - trombone\nJimmy Buffington - french horn\nJohn Barrows - french horn 
+EXTD=(1]\nEarl Chapin - french horn (1]\nJoe Singer - french horn (2-5]\nTony Miranda - french horn (2-5]\nJimmy McAllister -tuba\nBill Barber - tuba (2-5]\nAl Block - flute\nEddie Caine - flute (1]\nRomeo Penque - oboe\nHarold Feldman - clarinet, oboe, 
+EXTD=flute (2-5]\nDanny Bank - bass clarinet\nJack Knitzer - bassoon\nJanet Putnam - harp\nPaul Chambers - bass\nJimmy Cobb - drums\nElvin Jones - percussion\nJose Manguel (?) - percussion YEAR: 1967
+EXTT0=Joaquin Rodrigo
+EXTT1=Manuel de Falla
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

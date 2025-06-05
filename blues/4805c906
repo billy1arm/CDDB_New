@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21277
+#	35407
+#	51267
+#	64707
+#	85922
+#
+# Disc length: 1483 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=4805c906
+DTITLE=Mighty Sam McClain - Your Perfect Companion
+DYEAR=1983
+DGENRE=Blues
+TTITLE0=Backstreets
+TTITLE1=Why
+TTITLE2=Miss Bea
+TTITLE3=Your Perfect Companion
+TTITLE4=Pray
+TTITLE5=A Change Is Gonna Come
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

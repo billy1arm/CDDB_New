@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32404
+#	72501
+#	103933
+#	129695
+#
+# Disc length: 2514 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4409d005
+DTITLE=Tony O Connor - Zodiac Collection Taurus
+DYEAR=1999
+DGENRE=New Age
+TTITLE0=Taurus 01
+TTITLE1=Taurus 02
+TTITLE2=Taurus 03
+TTITLE3=Taurus 04
+TTITLE4=Taurus 05
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

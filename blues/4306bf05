@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16446
+#	50902
+#	74077
+#	93767
+#
+# Disc length: 1729 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4306bf05
+DTITLE=Polizeimusikkorps Baden-Württemberg - Clarino Vol.7
+DYEAR=2007
+DGENRE=Blasmusik
+TTITLE0=La Tregenda (Hexentanz) - Giacomo Puccini
+TTITLE1=Numerus 1 - Silvain Marchal
+TTITLE2=Dublimania - Menno Bosgra
+TTITLE3=Ich gehör nur mir - Michael Kunze u. Silvester Levay
+TTITLE4=Time For Crime (Tatort, Miss Marple, Derrick, Der Kommissar)
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

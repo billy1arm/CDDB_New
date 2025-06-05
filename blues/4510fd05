@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	63480
+#	131250
+#	210650
+#	257885
+#
+# Disc length: 4351 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4510fd05
+DTITLE=Wiener Philharmoniker - Lorin Mazel - Mahler_ Sympony No. 5
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=Trauermarsch, in gemessenem Schritt, Streng, wie ein Kondukt
+TTITLE1=Sturmisch bewegt, mit grosseter Vehemenz
+TTITLE2=Scherzo, kraftig, nicht zu schnell
+TTITLE3=Adagietto, sehr langsam
+TTITLE4=Rondo, finale
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

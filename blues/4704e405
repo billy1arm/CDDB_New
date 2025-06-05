@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15444
+#	37322
+#	58328
+#	74505
+#
+# Disc length: 1254 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4704e405
+DTITLE=Zach Prather's Blues Express - Nothing but the Blues - Special Edition
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=Bom Bom
+TTITLE1=Nothing but the Blues
+TTITLE2=I dont realy want to go
+TTITLE3=Turn me on
+TTITLE4=Black Cat Bone
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

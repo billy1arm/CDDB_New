@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27655
+#	59985
+#	90877
+#	131492
+#
+# Disc length: 2493 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4109bb05
+DTITLE=Hank Mobley - Peckin' Time
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=High And Flighty
+TTITLE1=Speak Low
+TTITLE2=Peckin' Time
+TTITLE3=Stretchin' Out
+TTITLE4=Git-Go Blues
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

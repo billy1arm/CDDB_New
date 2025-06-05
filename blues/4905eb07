@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17548
+#	31846
+#	46586
+#	71903
+#	96079
+#	100010
+#
+# Disc length: 1517 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4905eb07
+DTITLE=Preservation Hall Jazz Band - Now Playing On Preservation Hall Recordings
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Eh La Bas
+TTITLE1=If I Had My Life To Live Over
+TTITLE2=Nelly Gray
+TTITLE3=Basin Street
+TTITLE4=My Blue Heaven
+TTITLE5=Everything's Lovely
+TTITLE6=Sallee Dame
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,82 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	12492
+#	24590
+#	38395
+#	51555
+#	69850
+#	90500
+#	102680
+#	114492
+#	132685
+#	146897
+#	159422
+#	181607
+#	198110
+#	206660
+#	219435
+#	243910
+#	258562
+#	275602
+#	293165
+#	310585
+#	328350
+#
+# Disc length: 4601 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4811f716
+DTITLE=George Wallington  - Al Haig  - Jimmy Jones - The Piano Collection Vol. II
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=George Wallington - 01 - Fairyland
+TTITLE1=George Wallington - 02 - Woody'n you
+TTITLE2=George Wallington - 03 - Just one of those things
+TTITLE3=George Wallington - 04 - Honeysuckle Rose
+TTITLE4=George Wallington - 05 - Star eyes
+TTITLE5=George Wallington - 06 - Ny
+TTITLE6=George Wallington - 07 - A day in Paris
+TTITLE7=George Wallington - 08 - These follish things
+TTITLE8=Al Haig - 09 - Just one of those things
+TTITLE9=Al Haig - 10 - Yardbird suite
+TTITLE10=Al Haig - 11 - Tabu
+TTITLE11=Al Haig - 12 - Mighty lak a rose
+TTITLE12=Al Haig - 13 - 'S wonderful
+TTITLE13=Al Haig - 14 - Just you, just me
+TTITLE14=Al Haig - 15 - The moon was yellow
+TTITLE15=Al Haig - 16 - Round about midnight
+TTITLE16=Jimmy Jones - 17 - Easy to love
+TTITLE17=Jimmy Jones - 18 - Little girl blue
+TTITLE18=Jimmy Jones - 19 - Lush life
+TTITLE19=Jimmy Jones - 20 - Just squeeze me
+TTITLE20=Jimmy Jones - 21 - My funny valentine
+TTITLE21=Jimmy Jones - 22 - Good morning heartache
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22683
+#	40530
+#	61869
+#	89580
+#	115799
+#	163568
+#
+# Disc length: 2553 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4509f707
+DTITLE=Pablo Gil - Suka Jazz en Directo CD2
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Sukkah (P. Gil)
+TTITLE1=A la Espera (J.A. Esquivel)
+TTITLE2=CCS Hip (P. Gil)
+TTITLE3=Tukeke (J.A. Esquivel)
+TTITLE4=Pablo de Caracas (N. Folmer)
+TTITLE5=Solar (M. Davis)
+TTITLE6=Otra Vez (P. Gil)
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

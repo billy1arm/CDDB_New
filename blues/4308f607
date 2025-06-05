@@ -1,0 +1,37 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22612
+#	46737
+#	75014
+#	91854
+#	110499
+#	149760
+# Disc length: 2296 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=4308f607
+DTITLE=The Great Escape - Ride on
+DYEAR=1900
+DGENRE=
+TTITLE0=Tomorrow
+TTITLE1=Snowboard
+TTITLE2=Ride one
+TTITLE3=If Time
+TTITLE4=Wet Pussycat
+TTITLE5=Experience
+TTITLE6=Goodbye
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

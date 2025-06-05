@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14776
+#	44101
+#	61728
+#	96500
+#
+# Disc length: 1497 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=4605d705
+DTITLE=Elize - Shake
+DYEAR=2004
+DGENRE=R&B
+TTITLE0=Shake (Radio Edit)
+TTITLE1=Shake (Extended Edit)
+TTITLE2=Shake (Remix)
+TTITLE3=Shake (Clubmix)
+TTITLE4=Shake (Karaoke Version)
+EXTD=ID3G:  14 YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

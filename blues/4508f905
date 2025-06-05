@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43308
+#	85039
+#	109393
+#	146156
+#
+# Disc length: 2299 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4508f905
+DTITLE=Milt Jackson and Ray Charles - Soul Brothers
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Soul Brothers
+TTITLE1=How Long Blues
+TTITLE2=Cosmic Ray
+TTITLE3=Blue Funk
+TTITLE4=Deed I Do
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27785
+#	48712
+#	80429
+#	104318
+#	137562
+#
+# Disc length: 2303 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4608fd06
+DTITLE=田中充 - ミツルジルシ
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=梵鐘(bonsyou)
+TTITLE1=北海(hokkai)
+TTITLE2=春音(haruoto)
+TTITLE3=東へ(higashie)
+TTITLE4=水煙(mizukemuri)
+TTITLE5=薫風(kungpoo)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=
