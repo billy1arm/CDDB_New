@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	24302
+# 	39970
+# 	62327
+# 	86145
+# 	120527
+# 	139787
+# 	167102
+# 	187995
+# 	211910
+# 	240742
+# 	260722
+#
+# Disc length: 4404 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=9d11320c
+DTITLE=Ronnie Earl and The Broadcasters - Blues Guitar Virtuoso Live In Europe
+DYEAR=1900
+DGENRE=
+TTITLE0=San-Ho-Zay
+TTITLE1=Robert Nighthawk Stomp
+TTITLE2=Thank You Mr. T-Bone
+TTITLE3=Akos
+TTITLE4=Contrition
+TTITLE5=Moanin'
+TTITLE6=Blues For The West Side
+TTITLE7=The Stumble
+TTITLE8=Szeren
+TTITLE9=Blues For Henry
+TTITLE10=Not Now Kovitch
+TTITLE11=Rego Park Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=(With Love To Magic Sam)
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18332
+#	35220
+#	53977
+#	72567
+#	94835
+#	111097
+#	126345
+#	147625
+#	162662
+#
+# Disc length: 2480 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=9d09ae0a
+DTITLE=Etta James - Deep In The Night
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Laying Beside You
+TTITLE1=Piece Of My Heart
+TTITLE2=Only Women Bleed
+TTITLE3=Take It To The Limit
+TTITLE4=Deep In The Night
+TTITLE5=Lovesick Blues
+TTITLE6=Strange Man
+TTITLE7=Sugar On The Floor
+TTITLE8=Sweet Touch Of Love
+TTITLE9=Blind Girl
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

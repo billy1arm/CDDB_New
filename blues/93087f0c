@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	1599
+#	13308
+#	23575
+#	33226
+#	48388
+#	50444
+#	66633
+#	86600
+#	101850
+#	123783
+#	144860
+#
+# Disc length: 2177 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=93087f0c
+DTITLE=YMCK - Family Music
+DYEAR=2004
+DGENRE=Techno
+TTITLE0=Fanfare
+TTITLE1=Magical 8bit Tour
+TTITLE2=Pastel Candy wa Akuma no Sasayaki
+TTITLE3=Darling
+TTITLE4=POW*POW
+TTITLE5=Interlude
+TTITLE6=SOCOPOGOGO (YMCK Version)
+TTITLE7=Synchronicity
+TTITLE8=Tetrominon ~From Russia with Blocks~
+TTITLE9=John Coltrane wa Kaitenmokuba no Yume wo Miruka
+TTITLE10=Yellow, Magenta, Cyan, Black (YMCK's theme)
+TTITLE11=Your Quest is Over
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

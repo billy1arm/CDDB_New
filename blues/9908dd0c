@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14763
+#	24981
+#	39207
+#	47390
+#	69285
+#	87016
+#	97018
+#	110651
+#	127318
+#	139357
+#	152515
+#
+# Disc length: 2271 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9908dd0c
+DTITLE=T-Bone Walker - Back On The Scene
+DYEAR=1966
+DGENRE=Blues
+TTITLE0=Good Boy
+TTITLE1=Natural Ball
+TTITLE2=Why Don't My Baby Treat Me Right
+TTITLE3=Further On Up The Road
+TTITLE4=I Used To Be A Good Boy
+TTITLE5=Please Come Back To Me
+TTITLE6=She's My Old Time Used To Be
+TTITLE7=Back On The Scene
+TTITLE8=No Do It Right
+TTITLE9=Baby She's A Hit
+TTITLE10=Treat Your Daddy Right
+TTITLE11=Afraid To Close My Eyes
+EXTD=YEAR: 1966 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15760
+#	29815
+#	58685
+#	81750
+#	112110
+#	121767
+#	138392
+#	164760
+#	184210
+#	199472
+#
+# Disc length: 2876 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9c0b3a0b
+DTITLE=Elvis Costello - Blood and Chocolate (Disc-1)
+DYEAR=1900
+DGENRE=Rock
+TTITLE0=Uncomplicated
+TTITLE1=I Hope You're Happy
+TTITLE2=Tokyo Storm Warning
+TTITLE3=Home Is Anywhere You Hang Your Head
+TTITLE4=I Want You
+TTITLE5=Honey, Are You Straight Or Are You Blind?
+TTITLE6=Blue Chair
+TTITLE7=Battered Old Bird
+TTITLE8=Crimes Of Paris
+TTITLE9=Poor Napoleon
+TTITLE10=Next Time Round
+EXTD=(c) 1986 CBS Inc.\n\nProduced by Nick Lowe with Colin Fairley
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

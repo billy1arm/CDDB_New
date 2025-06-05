@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21150
+#	42472
+#	63525
+#	84475
+#	105217
+#	126472
+#	144377
+#	163759
+#	181015
+#	201127
+#
+# Disc length: 2961 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,43,1226
+#
+DISCID=920b8f0b
+DTITLE=Checo Acosta - Solo para ti
+DYEAR=1995
+DGENRE=Salsa
+TTITLE0=Amor Secreto
+TTITLE1=Tú Y Yo
+TTITLE2=Cómo Olvidar el Amor
+TTITLE3=No Estamos Bien
+TTITLE4=Qué Viva el Amor
+TTITLE5=Me Estas Haciendo Falta
+TTITLE6=Quiero Volver
+TTITLE7=Por Ti
+TTITLE8=Traicionera
+TTITLE9=No Sé Por Qué
+TTITLE10=Si Estuvieras Aqui
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

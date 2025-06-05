@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16352
+#	25716
+#	41991
+#	56315
+#	85267
+#	99449
+#	114561
+#	135712
+#	152107
+#	175351
+#	195034
+#
+# Disc length: 2791 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=900ae50c
+DTITLE=Georges Bizet - La Jolie Fille de Perth (extraits) - L'Arlésienne, Suites N°1 and N°2
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=La Jolie Fille de Perth - Prélude  (Paul Paray, Orch. national de l'Opéra de Monté-Carlo)
+TTITLE1=La Jolie Fille de Perth - Sérénade
+TTITLE2=La Jolie Fille de Perth - Marche
+TTITLE3=La Jolie Fille de Perth - Danse bohémienne
+TTITLE4=L'Arlésienne, suite N°1 - Prélude  (Walter Goehr, Orch. des concerts Pasdeloup)
+TTITLE5=L'Arlésienne, suite N°1 - Minuetto n°1
+TTITLE6=L'Arlésienne, suite N°1 - Adagietto
+TTITLE7=L'Arlésienne, suite N°1 - Carillon
+TTITLE8=L'Arlésienne, suite N°2 - Pastorale  (Alfred Scholz, Philharmonia Slavonica)
+TTITLE9=L'Arlésienne, suite N°2 - Intermezzo
+TTITLE10=L'Arlésienne, suite N°2 - Minuetto n°2  (Walter Goehr, Orch. des concerts Pasdeloup)
+TTITLE11=L'Arlésienne, suite N°2 - Farandole
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

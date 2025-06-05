@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19005
+#	41059
+#	65162
+#	88836
+#	110896
+#	133126
+#	163273
+#	179295
+#	220903
+#
+# Disc length: 3389 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=9a0d3b0a
+DTITLE=Ephel Duath - The Painters Palette
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=ephel duath - the passage
+TTITLE1=ephel duath - the unpoetic circle
+TTITLE2=ephel duath - labyrinthine
+TTITLE3=ephel duath - praha
+TTITLE4=ephel duath - the picture
+TTITLE5=ephel duath - ruins
+TTITLE6=ephel duath - ironical communion
+TTITLE7=ephel duath - my glassy shelter
+TTITLE8=ephel duath - the other's touch
+TTITLE9=Data Track
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

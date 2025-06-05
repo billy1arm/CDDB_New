@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10355
+#	23252
+#	36420
+#	48527
+#	59857
+#	71677
+#	78377
+#	91865
+#	103110
+#	120292
+#	137560
+#
+# Disc length: 2004 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=9b07d20c
+DTITLE=Harmonicats - Selected Favorites
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Peg O' My Heart
+TTITLE1=Harmonica Boogie
+TTITLE2=Lezchinka
+TTITLE3=On The Alamo
+TTITLE4=Gallop Of The Comedians
+TTITLE5=At Dawn
+TTITLE6=Tea For Two
+TTITLE7=The Sardar March
+TTITLE8=At Sundown
+TTITLE9=Clair De Lune
+TTITLE10=Schherezade
+TTITLE11=Harbor Lights
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

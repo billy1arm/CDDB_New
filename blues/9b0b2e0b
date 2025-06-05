@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     17595
+#     31432
+#     52207
+#     70895
+#     92145
+#     123920
+#     144870
+#     157170
+#     188295
+#     202470
+# 
+# Disc length: 2864 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=9b0b2e0b
+DTITLE=Zora Young and the Ravenswood connection - I got the right to sing the 
+DTITLE=blues
+DYEAR=1900
+DGENRE=
+TTITLE0=New blowtop blues
+TTITLE1=Stroking
+TTITLE2=Bus station
+TTITLE3=Football widow
+TTITLE4=Tired of travelling
+TTITLE5=Stumbling blocks and stepping stones
+TTITLE6=The thrill is gone
+TTITLE7=I got the right to sing the blues
+TTITLE8=Baby, want you ride with me tonight
+TTITLE9=Hoochie coochie woman
+TTITLE10=I`m ready
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

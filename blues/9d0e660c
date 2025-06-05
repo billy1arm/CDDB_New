@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11512
+#	41472
+#	75917
+#	99705
+#	119650
+#	131287
+#	146142
+#	169432
+#	190555
+#	219875
+#	254350
+#
+# Disc length: 3688 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9d0e660c
+DTITLE=指揮：ムーティ　フィラデルフィア管弦楽団 - レスピーギ　ローマ三部作　ローマの松,噴水,祭り
+DYEAR=1984
+DGENRE=Classical
+TTITLE0=交響詩”ローマの松”No'1～ボルジア荘の松
+TTITLE1=交響詩”ローマの松”No'2～カタコンブ付近の松
+TTITLE2=交響詩”ローマの松”No'3～ジャニコロの松
+TTITLE3=交響詩”ローマの松”No'4～アッピア街道の松
+TTITLE4=交響詩”ローマの噴水”No'1～夜明けのジュリアの谷の噴水
+TTITLE5=交響詩”ローマの噴水”No'2～朝のトリトーネの噴水
+TTITLE6=交響詩”ローマの噴水”No'3～昼のトレヴィの噴水
+TTITLE7=交響詩”ローマの噴水”No'4～黄昏のメディチ荘の噴水
+TTITLE8=交響詩”ローマの祭り”No'1～チルチェンス
+TTITLE9=交響詩”ローマの祭り”No'2～五十年祭
+TTITLE10=交響詩”ローマの祭り”No'3～十月祭
+TTITLE11=交響詩”ローマの祭り”No'4～主顕祭
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

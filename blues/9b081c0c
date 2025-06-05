@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13012
+#	30112
+#	44287
+#	56437
+#	74812
+#	84937
+#	98137
+#	113287
+#	123412
+#	134437
+#	146212
+#
+# Disc length: 2078 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=9b081c0c
+DTITLE=Quincy Jones - Quincy's got a brand new bag
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Ain't that peculiar
+TTITLE1=I got you (I feel good)
+TTITLE2=I hear a symphony
+TTITLE3=A lover's concerto
+TTITLE4=Baby cakes
+TTITLE5=Mohair Sam
+TTITLE6=Something about you
+TTITLE7=Boss bird
+TTITLE8=Hang on Sloopy
+TTITLE9=Fever
+TTITLE10=Harlem nocturne
+TTITLE11=Papa's got a brand new bag
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

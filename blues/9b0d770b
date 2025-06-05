@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	15981
+#	41309
+#	52449
+#	90825
+#	107846
+#	125869
+#	141405
+#	156508
+#	188143
+#	205214
+#
+# Disc length: 3449 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9b0d770b
+DTITLE=Diamond dukes - The Diamond Dukes
+DYEAR=1900
+DGENRE=
+TTITLE0=Walkin' the dog
+TTITLE1=fool for your Stockings
+TTITLE2=Sell My Monkey
+TTITLE3=Leave My Little Girl Alone
+TTITLE4=Cold Sweat
+TTITLE5=Start It Up
+TTITLE6=Tore Down
+TTITLE7=Tore Up
+TTITLE8=Red House
+TTITLE9=Tired of Talkin'
+TTITLE10=Cold Shot
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

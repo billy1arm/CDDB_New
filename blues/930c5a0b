@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	27183
+#	42483
+#	59358
+#	85070
+#	107583
+#	138208
+#	158808
+#	172058
+#	189530
+#	212170
+#
+# Disc length: 3164 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=930c5a0b
+DTITLE=Various Artist - Mediation Reflections - CD 1
+DYEAR=1988
+DGENRE=New Age
+TTITLE0=Rosenstein-Wagener - Tides
+TTITLE1=Schöllmann - Romanze
+TTITLE2=Icarus - Reflections
+TTITLE3=Marco Ribaldi - Tendai
+TTITLE4=H. Ockenfels - Air
+TTITLE5=Marco Ribaldi - Clouds
+TTITLE6=M. Schoof - Sky and Ocean
+TTITLE7=Y. Kawahara - Apres Un Reve
+TTITLE8=Buschkötter - Apocalypse
+TTITLE9=Rosenstein-Wagener - Seasons
+TTITLE10=Rosenstein Wagener - Paradise
+EXTD=YEAR: 1988
+EXTT0=Bodil
+EXTT1=Bodil
+EXTT2=Grunt
+EXTT3=Bodil
+EXTT4=Cadler/Mohan
+EXTT5=Bodil
+EXTT6=Buschkötter/Schoof
+EXTT7=Faure
+EXTT8=Buschkötter/Schoof
+EXTT9=Bodil/Wagener
+EXTT10=Kern/Grunt
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5953
+#	30608
+#	57506
+#	80691
+#	102747
+#	132313
+#	149782
+#	170384
+#	190523
+#
+# Disc length: 2827 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=940b090a
+DTITLE=Senor Coconut y Su Conjunto - El Baile Alemán
+DYEAR=2000
+DGENRE=Crossover
+TTITLE0=Introducción
+TTITLE1=Showroom Dummies (Cha-Cha-Cha)
+TTITLE2=Trans Europe Express (Cumbia)
+TTITLE3=The Robots (Cha-Cha-Cha)
+TTITLE4=Neon Lights (Cha-Cha-Cha)
+TTITLE5=Autobahn (Cumbia Merengue)
+TTITLE6=Homecomputer (Merengue)
+TTITLE7=Tour de France (Merengue)
+TTITLE8=The Man Machine (Baclán)
+TTITLE9=Music Non Stop (Cumbia)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

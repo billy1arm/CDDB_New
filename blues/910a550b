@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	2931
+#	27873
+#	42022
+#	59264
+#	71764
+#	103170
+#	137958
+#	151433
+#	167075
+#	195235
+#
+# Disc length: 2647 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL2
+#
+DISCID=910a550b
+DTITLE=The Nighthawks - Ten Years Live
+DYEAR=1900
+DGENRE=
+TTITLE0=Introduction - Cerph
+TTITLE1=Metropolitan Avenue
+TTITLE2=Guard Your Heart
+TTITLE3=Push And Shove
+TTITLE4=Jenny Lou
+TTITLE5=Moving Up In Class
+TTITLE6=If You Go
+TTITLE7=Back Stabbing Woman
+TTITLE8=Destination
+TTITLE9=No Secrets
+TTITLE10=Exit - Dude
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14183
+#	49985
+#	72540
+#	127357
+#	157706
+#	176840
+#	200879
+#	224366
+#
+# Disc length: 3427 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=960d6109
+DTITLE=(boogiejazz) - The Blues In Modern Jazz (with 1 bonus track - #9)
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=01. 'Just Blues' (D. Gillespie) - Dizzy Gillespie Quintet
+TTITLE1=02. 'Blue Monk' (T. Monk) - Blakey and Monk, The Jazz Messengers
+TTITLE2=03. 'REQUIEM' (L. Tristano) - Lennie Tristano (piano solo - 1955)
+TTITLE3=04. 'Haitian Fight Song' (C. Mingus) - Charles Mingus Quintet 
+TTITLE4=05. 'Blues At Twilight' (Q. Jones) - Milt Jackson Quartet
+TTITLE5=06. 'Sweet Sixteen Bars' (R. Charles) - The Ray Charles Trio
+TTITLE6=07. 'Two Kinds Of Blues' (J. Giuffre) - The Jimmy Giuffre Trio
+TTITLE7=08. 'Bluesology' (M. Jackson) - The Modern Jazz Quartet
+TTITLE8=09. 'Haitian Fight Song' (C. Mingus) - bonus track - with cut 
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

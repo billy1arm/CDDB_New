@@ -1,0 +1,53 @@
+# xmcd
+#
+# Track frame offsets:
+#	182
+#	13580
+#	24647
+#	47940
+#	58090
+#	70270
+#	82877
+#	95450
+#	109880
+#	133925
+#	151842
+#	168862
+#
+# Disc length: 2600
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.83.01
+# Normalized: r2:DSETVAR2,TDELIM( - ),TSWAP
+#
+DISCID=990a260c
+DTITLE=Various Artist - The Charly Blues Masterworks Sampler
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=Howlin´ Wolf - Moanin' At Midnight
+TTITLE1=John Lee Hooker - This Is Hip
+TTITLE2=Clarence "Gatermouth" Brown - Goin' Down Slow
+TTITLE3=Guitar Junior - The Crawl
+TTITLE4=Muddy Waters - Trouble No More
+TTITLE5=Jimmy Rogers - I Can't Believe
+TTITLE6=Elmore James - The Sky Is Crying
+TTITLE7=Otis Rush - So Many Roads, So Many Trains
+TTITLE8=Buddy Guy - Don't Know Which Way To Go
+TTITLE9=Lightnin´ Hopkins - Letter To (My Backdoor Friend)
+TTITLE10=Walter "Wolfman" Washington - Sure Enough It's You
+TTITLE11=John Mayall´s Bluesbreakers - Ridin' On The L&N
+EXTD=
+EXTT0=Howlin' Wolf
+EXTT1=John Lee Hooker
+EXTT2=Clarence "Gatemouth" Brown
+EXTT3=Guitar Junior
+EXTT4=Muddy Waters
+EXTT5=Jimmy Rodgers
+EXTT6=Elmore James
+EXTT7=Otis Rush
+EXTT8=Buddy Guy
+EXTT9=Lightnin' Hopkins
+EXTT10=Walter "Wolfman" Washington
+EXTT11=John Mayall's Bluesbreakers
+PLAYORDER=

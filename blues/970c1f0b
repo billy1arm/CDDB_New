@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     22827
+#     43455
+#     64752
+#     91445
+#     109335
+#     120512
+#     141127
+#     161565
+#     184580
+#     207262
+# 
+# Disc length: 3105 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=970c1f0b
+DTITLE=LADAE - The Moment
+DYEAR=1900
+DGENRE=
+TTITLE0=Deep Down
+TTITLE1=My Lady
+TTITLE2=Be My Luv
+TTITLE3=I Miss Your Lovin'
+TTITLE4=Fallin' Back
+TTITLE5=Moments...
+TTITLE6=So Far Away
+TTITLE7=Without the Rain
+TTITLE8=My Mind
+TTITLE9=Come on Over
+TTITLE10=Bye Bye
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

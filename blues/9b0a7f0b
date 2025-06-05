@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21800
+#	37257
+#	55522
+#	73427
+#	90212
+#	107905
+#	130132
+#	148285
+#	167680
+#	183982
+#
+# Disc length: 2689 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9b0a7f0b
+DTITLE=Francois Feldman - A contre Jour
+DYEAR=1995
+DGENRE=Pop
+TTITLE0=Blue Berry Bar
+TTITLE1=Alexa
+TTITLE2=Exit De La Nuit
+TTITLE3=Mon Bébé
+TTITLE4=Destination
+TTITLE5=Ivresse
+TTITLE6=Comme Un Film
+TTITLE7=Compte Sur Moi
+TTITLE8=Love Platonique
+TTITLE9=Dans Ce Long Silence
+TTITLE10=A Contre-Jour
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

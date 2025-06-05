@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27000
+#	48435
+#	73085
+#	97125
+#	122275
+#	152323
+#	182780
+#	209190
+#	226638
+#	248923
+#	280185
+#
+# Disc length: 4002 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.99.1
+#
+DISCID=9f0fa00c
+DTITLE=Chambers, Paul (1935-1969) - Paul Chambers 1956 - Jazzmen Detroit 1-6  Chambers Music 7-12
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Afternoon In Paris
+TTITLE1=You Turned The Tables On Me
+TTITLE2=Apothegm
+TTITLE3=Your Host
+TTITLE4=Cottontail
+TTITLE5=Tom's Thumb
+TTITLE6=Dexterity
+TTITLE7=Stablemates
+TTITLE8=Easy To Love
+TTITLE9=Visitation
+TTITLE10=John Paul Jones
+TTITLE11=Eastbound
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     25580
+#     50237
+#     78025
+#     108100
+#     131792
+#     154287
+#     168725
+#     189675
+#     211050
+#     232712
+#     255162
+# 
+# Disc length: 3600 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=910e0e0c
+DTITLE=B.B.King - Confessin' The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=So Excited
+TTITLE1=The Thrill Is Gone
+TTITLE2=You're Still My Woman
+TTITLE3=Cryin' Won't Help You Now
+TTITLE4=King's Special
+TTITLE5=Confessin' The Blues
+TTITLE6=Ask Me No Questions
+TTITLE7=No Good
+TTITLE8=What Happened
+TTITLE9=Until I'm Dead And Cold
+TTITLE10=Chains And Things
+TTITLE11=Key To My Kingdom
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

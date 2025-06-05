@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11765
+#     35937
+#     58414
+#     72195
+#     91147
+#     103735
+#     123830
+#     167155
+#     195545
+#     249332
+# 
+# Disc length: 3845 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=970f030b
+DTITLE=Various Artist - Jaszz and Blues Vol. 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Round Midnight - Miles Davis
+TTITLE1=Ligia - Stan Getz
+TTITLE2=The Lady Is A Tramp - Claude Bolling
+TTITLE3=Don t Be That Way - Benny Goodman
+TTITLE4=New York, New York - My Kind Of Town (Chicago Is) - Ruby Braff
+TTITLE5=Take The  A Train - Betty Roche - Duke Ellington Orchestra
+TTITLE6=I Left My Baby - Count Basie and All Star
+TTITLE7=Hangin  Loose - Toshiko Akiyoshi Jazz Orchestra
+TTITLE8=Fine And Mellow - Billie Holiday
+TTITLE9=Balcory Rock - The Dave Brubeck Quartet
+TTITLE10=Just You, Just Me - Thelonious Monk
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	8570
+#	26175
+#	42922
+#	57260
+#	76455
+#	97342
+#	116085
+#	140460
+#	155387
+#	178155
+#
+# Disc length: 2839 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL1
+#
+DISCID=920b150b
+DTITLE=Jimi Hendrix - Fire
+DYEAR=1900
+DGENRE=
+TTITLE0=Sergeant Pepper's Lonely Hearts Club Band
+TTITLE1=The Wind Cries Mary
+TTITLE2=Foxy Lady
+TTITLE3=Fire
+TTITLE4=Hey Joe
+TTITLE5=I Don't Live Today
+TTITLE6=Burning of the Midnight Lamp
+TTITLE7=Purple Haze
+TTITLE8=Foxy Lady
+TTITLE9=Purple Haze
+TTITLE10=Catfish Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

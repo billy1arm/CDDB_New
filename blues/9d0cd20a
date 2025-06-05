@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21660
+#	40795
+#	59482
+#	86612
+#	104872
+#	134012
+#	170990
+#	198525
+#	226435
+#
+# Disc length: 3284 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9d0cd20a
+DTITLE=Jean-Rémy Guédon and Elise Caron and Archimusic - Sade Songs
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=L'imagination
+TTITLE1=L'ouie
+TTITLE2=Lois et passions
+TTITLE3=Les supplices
+TTITLE4=Paysage et vieillesse
+TTITLE5=Lettres d'étrennes
+TTITLE6=Peur et religion
+TTITLE7=La volupté
+TTITLE8=Le festin des passions
+TTITLE9=La nature
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

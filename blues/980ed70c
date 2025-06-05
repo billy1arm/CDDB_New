@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22312
+#	49137
+#	75290
+#	95880
+#	114297
+#	135600
+#	162820
+#	184817
+#	210882
+#	230022
+#	258187
+#
+# Disc length: 3801 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=980ed70c
+DTITLE=Various Artist - CLASSICAL TRANCE NIGHT
+DYEAR=1900
+DGENRE=Trance
+TTITLE0=アヴェ・マリア 「(+_+) MIX」/lios
+TTITLE1=カノン 「JET MIX」/JET STREAM ATTACK
+TTITLE2=G線上のアリア 「early flight MIX」/1.DT
+TTITLE3=ジムノペティ 「ileum MIX」/ef
+TTITLE4=サイレントナイト 「hit＿8MIX」/lios
+TTITLE5=アランフェス 「LOWMIX」/LOWDOPETRAXX
+TTITLE6=ボレロ 「Magic park MIX」/1.DT
+TTITLE7=カルメン2001 「To the party people MIX」/DJ Senn-maru
+TTITLE8=ある晴れた日に 「uplifting core MIX」/Taro MECHANICALHIGH
+TTITLE9=威風堂々 「ximixi x MIX」/ef
+TTITLE10=月光 「glitter lake Mix」/1.DT
+TTITLE11=合唱 「sprite MIX」/1.DT
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

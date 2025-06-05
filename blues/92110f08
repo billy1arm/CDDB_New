@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	80986
+#	119663
+#	164445
+#	223438
+#	232308
+#	260807
+#	276677
+#
+# Disc length: 4369 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=92110f08
+DTITLE=Phish - Fayston 7-2-95 Disc 2
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Runaway Jim
+TTITLE1=Makisupa Policeman
+TTITLE2=Scent of a Mule
+TTITLE3=Tweezer
+TTITLE4=Ha Ha Ha
+TTITLE5=Sleeping Monkey
+TTITLE6=Acoustic Army
+TTITLE7=Slave to the Traffic Light
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

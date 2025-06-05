@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     29030
+#     48000
+#     66000
+#     84807
+#     97847
+#     120912
+#     136312
+#     151460
+#     165700
+#     180800
+#     196807
+#     217780
+# 
+# Disc length: 3318 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=920cf40d
+DTITLE=Die Komm' Mit Mann!s - Live
+DYEAR=1900
+DGENRE=
+TTITLE0=Mustang Sally
+TTITLE1=Take Me To The River
+TTITLE2=I Can't Stand The Rain
+TTITLE3=Little Bit Of Soul
+TTITLE4=Show Me
+TTITLE5=A Whiter Shade Of Pale
+TTITLE6=Chain Of Fools
+TTITLE7=Do Right Woman Do Right Man
+TTITLE8=Hold On I'm Coming
+TTITLE9=I Never Loved A Man
+TTITLE10=Treat Her Right
+TTITLE11=Try A Little Tenderness
+TTITLE12=Feelin' Alright
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

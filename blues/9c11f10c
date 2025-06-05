@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32284
+#	56321
+#	70512
+#	102071
+#	138191
+#	164232
+#	189734
+#	213071
+#	238554
+#	263125
+#	311160
+#
+# Disc length: 4595 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9c11f10c
+DTITLE=Wahoo - CD1
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=DukePearson-Wahoo
+TTITLE1=KennyBurrel-Chitlins_con_carne
+TTITLE2=IkeQuebec-Loie
+TTITLE3=HoraceSilver-Senor_blues
+TTITLE4=GrantGreen-Joshua_fit_the_battle_ob_jericho
+TTITLE5=StanleyTurrentine-Walk_on_by
+TTITLE6=JimmySmith-Prayer_meetin
+TTITLE7=BobbyHutcherson-Little_Bs_poem
+TTITLE8=DonaldByrd-Cristo_redentor
+TTITLE9=HerbieHancock-Cantaloupte_island
+TTITLE10=JohnColtrane-Blue_train
+TTITLE11=ReubenWilson-Blue_mode
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

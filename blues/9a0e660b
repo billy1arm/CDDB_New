@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25180
+#	47427
+#	62587
+#	90265
+#	132032
+#	163430
+#	178287
+#	198502
+#	239217
+#	251150
+#
+# Disc length: 3688 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9a0e660b
+DTITLE=Hampton Hawes - Blues for Bud
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Blues Enough
+TTITLE1=Sonoro
+TTITLE2=They Say It's Wonderful
+TTITLE3=Black Forest (take 3)
+TTITLE4=Children's Play
+TTITLE5=Blues for Bud
+TTITLE6=Spanish Steps (take 2)
+TTITLE7=Dangerous
+TTITLE8=My Romance
+TTITLE9=Spanish Steps (take 1)
+TTITLE10=Black Forest (take 1)
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

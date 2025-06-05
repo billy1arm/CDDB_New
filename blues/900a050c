@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     5098
+#     21314
+#     37869
+#     52634
+#     70209
+#     96997
+#     112756
+#     129640
+#     154370
+#     169917
+#     188286
+# 
+# Disc length: 2567 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=900a050c
+DTITLE=Blues Alley - Lowdown
+DYEAR=1900
+DGENRE=
+TTITLE0=Way Back In the Alley
+TTITLE1=Blues Blues Bluies
+TTITLE2=She Don't Fool Around
+TTITLE3=She's Going Home
+TTITLE4=Big Legged Woman
+TTITLE5=Lowdown
+TTITLE6=You're Getting Old
+TTITLE7=Over The Top
+TTITLE8=Someone's Waiting
+TTITLE9=Once Twce
+TTITLE10=Sufferin' Mind
+TTITLE11=Way Back In The Alley
+EXTD=
+EXTT0=\n
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

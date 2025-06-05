@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16060
+#	39990
+#	64090
+#	81875
+#	116960
+#	141565
+#	166755
+#	196210
+#	214763
+#	253185
+#
+# Disc length: 3665 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=990e4f0b
+DTITLE=Jacintha - Autumn Leaves
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=And The Angels Sing
+TTITLE1=Skylark
+TTITLE2=One For My Baby
+TTITLE3=Midnight Sun
+TTITLE4=Autumn Leaves
+TTITLE5=Days of Wine and Roses
+TTITLE6=I Remember You
+TTITLE7=Trav'lin' Light
+TTITLE8=Something's Gotta Give
+TTITLE9=Moon River
+TTITLE10=Here's To Life (soundtrack mix)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

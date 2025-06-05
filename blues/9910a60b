@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16090
+#	59320
+#	92835
+#	126647
+#	146347
+#	182435
+#	223302
+#	255500
+#	272325
+#	292650
+#
+# Disc length: 4264 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9910a60b
+DTITLE=John Coltrane - The Complete Atlantic Recordings - Disc 1
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=Stairway to the Stars
+TTITLE1=The Late Late Blues
+TTITLE2=Bags and Trane
+TTITLE3=Three Little Words
+TTITLE4=The Night We Called It A Day
+TTITLE5=Be-Bop
+TTITLE6=Blues Legacy
+TTITLE7=Centerpiece
+TTITLE8=Giant Steps (Alternate Version)
+TTITLE9=Naima (Alternate Version)
+TTITLE10=Like Sonny (Alternate Version)
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

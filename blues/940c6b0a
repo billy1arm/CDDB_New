@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	29881
+#	56554
+#	80287
+#	104979
+#	127504
+#	148722
+#	171257
+#	192380
+#	214727
+#
+# Disc length: 3181 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=940c6b0a
+DTITLE=Manh Quynh - 10 Tinh Khuc Dang Me
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Bong Hong Cai Ao
+TTITLE1=Loi Ru Cua Me
+TTITLE2=Long Me
+TTITLE3=Long Me 2
+TTITLE4=Me Toi
+TTITLE5=Me La Que Huong
+TTITLE6=Que Me
+TTITLE7=On Nghia Xinh Thanh
+TTITLE8=Nho Me
+TTITLE9=Xuan Nao Ben Me
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

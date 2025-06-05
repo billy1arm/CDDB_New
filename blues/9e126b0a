@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	42275
+#	68750
+#	89975
+#	144425
+#	182750
+#	207725
+#	228950
+#	272000
+#	314975
+#
+# Disc length: 4717 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=9e126b0a
+DTITLE=Vic Dickenson - The Essential Vic Dickenson
+DYEAR=1953
+DGENRE=Jazz
+TTITLE0=Russian Lullaby
+TTITLE1=Keeping Out Of Mischief Now
+TTITLE2=Sir Charles At Home
+TTITLE3=Jeepers Creepers
+TTITLE4=I Cover The Waterfront
+TTITLE5=Runnin' Wild
+TTITLE6=Nice Work If You Can Get It
+TTITLE7=Old Fashioned Love
+TTITLE8=Everybody Loves My Baby
+TTITLE9=Suspension Blues
+EXTD=YEAR: 1953
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

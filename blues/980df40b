@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  11442
+#  23698
+#  35048
+#  57732
+#  112820
+#  139452
+#  163176
+#  198314
+#  217744
+#  248973
+#
+# Disc length: 3574 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=980df40b
+DTITLE=Jerry Miller and Co. - Live at Cole's
+DYEAR=1900
+DGENRE=
+TTITLE0=Deep Purple
+TTITLE1=St. Louis Blues
+TTITLE2=Bye Bye Blues
+TTITLE3=Ruston Shuffle
+TTITLE4=That's Alright
+TTITLE5=Grease Piece
+TTITLE6=Honky Tonk
+TTITLE7=Bring It On Home To Me
+TTITLE8=Junko Partner
+TTITLE9=Hiway 410 Blues
+TTITLE10=Big Jerry's Boogie
+EXTD=OwlWood Records OWRCD001\nFeatures ex-Moby Grape lead guitarist \nJe
+EXTD=rry Miller
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=Shelly Ely, vocals
+EXTT8=Kurt Brame, bass/vocals
+EXTT9='Billy Blue' Graham, guitar/vocals
+EXTT10=
+PLAYORDER=

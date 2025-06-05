@@ -1,0 +1,52 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12833
+#	24288
+#	33349
+#	43824
+#	57542
+#	68991
+#	82058
+#	94242
+#	105658
+#	120546
+#	128249
+# Disc length: 1917 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=9f077b0c
+DTITLE=David Rose and His Orchestra - The Very Best Of David Rose
+DYEAR=1900
+DGENRE=
+TTITLE0=Love Is A Many-Splendered Thing
+TTITLE1=Hoss
+TTITLE2=The Stripper
+TTITLE3=How The West Was Won
+TTITLE4=Holiday For Strings
+TTITLE5=Forbidden Planet
+TTITLE6=Holiday For Trombones
+TTITLE7=Calypso Melody
+TTITLE8=Swinging Shepherd Blues
+TTITLE9=Like Young (with Andre Previn)
+TTITLE10=Bonanza
+TTITLE11=Ponderosa
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

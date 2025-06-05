@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28548
+#	45420
+#	60048
+#	95130
+#	119799
+#	141301
+#	168473
+#	188986
+#	216534
+#	237811
+#
+# Disc length: 3409 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9f0d4f0b
+DTITLE=Peloton - Selected recordings
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Aranburu
+TTITLE1=Irizar
+TTITLE2=Isidro
+TTITLE3=Rippol
+TTITLE4=Leon
+TTITLE5=Galindo
+TTITLE6=Nozal
+TTITLE7=Munoz
+TTITLE8=Olano
+TTITLE9=Zanoli
+TTITLE10=Beloki
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

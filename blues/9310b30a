@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22130
+#	56462
+#	79307
+#	130275
+#	153580
+#	187912
+#	221535
+#	258125
+#	292407
+#
+# Disc length: 4277 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9310b30a
+DTITLE=Various Artist - Wintertime Blues: Disc 1
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Beautiful Life - Edwin McCain
+TTITLE1=Alive - Edwin McCain and Warren Haynes
+TTITLE2=I'll Be - Edwin McCain and Warren Haynes
+TTITLE3=Rastaman Chant - Derek Trucks Band
+TTITLE4=Chicken Strut - Derek Trucks Band
+TTITLE5=555 Lake - Derek Trucks Band w/ Jimmy Herring
+TTITLE6=Yield Not to Temptation -> Turn On Your Lovelight - Derek Trucks Ban
+TTITLE6=d w/ Susan Tedeschi, Col. Bruce Hampton and Jimmy Herring
+TTITLE7=Ain't That Loving You - Derek Trucks Band w/ Larry McCray and Jimmy He
+TTITLE7=rring
+TTITLE8=Don't Change Horses - Derek Trucks Band w/ Edwin McCain and Jimmy Herr
+TTITLE8=ing
+TTITLE9=Just Won't Burn - Derek Trucks Band w/ Susan Tedeschi
+EXTD=YEAR: 2000 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

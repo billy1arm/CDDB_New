@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43478
+#	69888
+#	99910
+#	125813
+#	147460
+#	180758
+#	206473
+#	242728
+#	286035
+#	308490
+#
+# Disc length: 4434 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=9511500b
+DTITLE=Eric Clapton - Otish Rush  - Montreux '86 disc 3
+DYEAR=1986
+DGENRE=Blues
+TTITLE0=Don't Know What Love Is
+TTITLE1=Let's Have A Magic Ball
+TTITLE2=Right Place, Wrong Time
+TTITLE3=Mean Old World
+TTITLE4=You Don't Love Me
+TTITLE5=Crosscut Saw
+TTITLE6=Double Trouble
+TTITLE7=All Your Love
+TTITLE8=Every Day I've Got The Blues
+TTITLE9=Caledonia
+TTITLE10=My Baby Wrote Me A Letter
+EXTD=YEAR: 1986 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

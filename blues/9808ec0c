@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11341
+#     25616
+#     39819
+#     58347
+#     73224
+#     88312
+#     99153
+#     110011
+#     134074
+#     144020
+#     158623
+# 
+# Disc length: 2286 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9808ec0c
+DTITLE=Sergio Mendes - From A to Z
+DYEAR=1900
+DGENRE=
+TTITLE0=Oba-La-La
+TTITLE1=So Tinha de Ser Com Voce
+TTITLE2=So Danco Samba
+TTITLE3=Corcovado
+TTITLE4=Desafinado
+TTITLE5=Inutil Paisagem
+TTITLE6=Ela e Carioca
+TTITLE7=Outra Vez
+TTITLE8=O Morro Nao Tem Vez
+TTITLE9=Tristeza de Nos Dois
+TTITLE10=Garota de Ipanema
+TTITLE11=O Amor Em Paz
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

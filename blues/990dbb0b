@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21116
+#	38293
+#	65134
+#	79939
+#	119939
+#	145303
+#	163931
+#	183978
+#	210259
+#	245333
+#
+# Disc length: 3517 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.3 PL0
+#
+DISCID=990dbb0b
+DTITLE=Freddie Wadling and Co - The Music of Captain Beefheart
+DYEAR=1900
+DGENRE=
+TTITLE0=Grow Fins
+TTITLE1=Nowadays woman's gotta hit a man
+TTITLE2=When it blows it stacks
+TTITLE3=Sun zoom spark
+TTITLE4=Tropical hot dog night
+TTITLE5=Bat chain puller
+TTITLE6=Ice cream for crow
+TTITLE7=China pig
+TTITLE8=Lick my decals off baby
+TTITLE9=Harry Irene
+TTITLE10=Big eyed beans from venus
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

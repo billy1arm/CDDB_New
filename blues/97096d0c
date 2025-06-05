@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	10050
+#	28752
+#	38970
+#	49415
+#	59140
+#	71632
+#	82715
+#	91897
+#	101552
+#	144950
+#	167415
+#
+# Disc length: 2415 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=97096d0c
+DTITLE=Eric Clapton - Eric Clapton and Friends
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=I Wish You Would
+TTITLE1=Stormy Monday Blues
+TTITLE2=A Certain Girl
+TTITLE3=Go To Hurry
+TTITLE4=Lovin'Up A Storm
+TTITLE5=Everything I Do Is Wrong
+TTITLE6=Think Is Over
+TTITLE7=Boll Weevil Song
+TTITLE8=Livin' Lovin' Wreck
+TTITLE9=One Long Kiss
+TTITLE10=Five Long Kiss
+TTITLE11=Dragging My Tail
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19250
+#	35525
+#	60125
+#	77600
+#	99575
+#	135725
+#	169850
+#	199475
+#	233075
+#	265775
+#	287000
+#
+# Disc length: 4274 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9e10b00c
+DTITLE=Various Artist - Jim McLeod's Jazz Tracks
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Windows of Arquez
+TTITLE1=Grandpa Spells
+TTITLE2=Moonglow
+TTITLE3=When Lights are Low
+TTITLE4=Tangerine
+TTITLE5=All of Me
+TTITLE6=Firm Roots
+TTITLE7=Intersection
+TTITLE8=Sergery
+TTITLE9=Plain Talk
+TTITLE10=Blue Mountains
+TTITLE11=At Play
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

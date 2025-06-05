@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	27550
+#	53780
+#	80735
+#	95039
+#	115864
+#	136800
+#	147148
+#	172208
+#	194872
+#
+# Disc length: 2778 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL1
+#
+DISCID=980ad80a
+DTITLE=The Blues Orphans - Neighborhood Beat
+DYEAR=1900
+DGENRE=
+TTITLE0=Orphanitis
+TTITLE1=Goin' to San Francisco
+TTITLE2=Unplug That Telephone
+TTITLE3=Jack London
+TTITLE4=Hawaiian Boogie
+TTITLE5=No Rock n' Roll
+TTITLE6=Hell Yeah I Drink
+TTITLE7=New Second Line
+TTITLE8=Joe Said It Would
+TTITLE9=Blues Orphans' Wagon Train
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

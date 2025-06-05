@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12900
+#	41025
+#	68925
+#	90375
+#	103650
+#	124350
+#	151425
+#	170475
+#	184125
+#	207975
+#
+# Disc length: 2920 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=960b660b
+DTITLE=Szalóki Ági - Hallgató (lament)
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=01 Napszállatja, napnyugta
+TTITLE1=02 Te merel e luma
+TTITLE2=03 Elrepült a vándormadár ...
+TTITLE3=04 Mi lennék?
+TTITLE4=05 Kit a bánat elért ...
+TTITLE5=06 Végigmentem, végigmentem ...
+TTITLE6=07 Kinek van, kinek nincs ...
+TTITLE7=08 Diófának három ága ...
+TTITLE8=09 Kövecses út szélén ...
+TTITLE9=10 Magyarózdi toronyalja ...
+TTITLE10=11 Napszállatja, napnyugta
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

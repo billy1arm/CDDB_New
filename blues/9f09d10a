@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14100
+#	33462
+#	54375
+#	74630
+#	95190
+#	118975
+#	133080
+#	151487
+#	171602
+#
+# Disc length: 2515 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9f09d10a
+DTITLE=David Benoit - Here's To You, Charlie Brown: 50 Great Years!
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Linus and Lucy
+TTITLE1=Charlie Brown Theme
+TTITLE2=Pebble Beach
+TTITLE3=Linus Tells Charlie
+TTITLE4=Frieda
+TTITLE5=Christmas Time Is Here
+TTITLE6=Getting Ready
+TTITLE7=Blue Charlie Brown
+TTITLE8=Red Baron
+TTITLE9=Happiness
+EXTD=LABEL =Verve Music Group\nID =314543637-2\nUPC =731454-363723\nCOPYRIGHT =2000 YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

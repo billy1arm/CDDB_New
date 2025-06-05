@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18611
+#	41729
+#	57043
+#	77087
+#	94531
+#	103498
+#	111628
+#	125158
+#	153987
+#	210182
+#	249048
+#
+# Disc length: 3660 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9c0e4a0c
+DTITLE=David Garrett - Classic Romance
+DYEAR=2009
+DGENRE=Classic
+TTITLE0=Antonin Dvorak, Humoresque
+TTITLE1=Jules Massenet, Meditation
+TTITLE2=Pjotr Iljitsch Tschaikowski, None But the Lonely Heart
+TTITLE3=Franz Schubert, Serenade
+TTITLE4=Pablo De Sarasate, Zigeunerweisen 1 Moderato
+TTITLE5=Pablo De Sarasate, Zigeunerweisen 2 Un Peu Plus Lent
+TTITLE6=Pablo De Sarasate, Zigeunerweisen 3 Allegro Molto Vivace
+TTITLE7=Edward Elgar, Salut D'amour
+TTITLE8=Serge Bachmaninoff, Vocalise
+TTITLE9=Mendelssohn Violin Concerto 1, Allegro Molto Appasionato
+TTITLE10=Mendelssohn Violin Concerto 2, Andante
+TTITLE11=Mendelssohn Violin Concerto 3, Allegro Molto Vivace
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

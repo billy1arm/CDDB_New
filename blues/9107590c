@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	15083
+#	27958
+#	39965
+#	53110
+#	64840
+#	80638
+#	90458
+#	103143
+#	114453
+#	124078
+#	133565
+#
+# Disc length: 1893 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=9107590c,a407550c
+DTITLE=Rolling Stones - 12 x 5
+DYEAR=1900
+DGENRE=
+TTITLE0=Around And Around
+TTITLE1=Confessin' The Blues
+TTITLE2=Empty Heart
+TTITLE3=Time Is On My Side
+TTITLE4=Good Times, Bad Times
+TTITLE5=It's All Over Now
+TTITLE6=2120 South Michigan Avenue
+TTITLE7=Under The Boardwalk
+TTITLE8=Congratulations
+TTITLE9=Grown Up Wrong
+TTITLE10=If You Need Me
+TTITLE11=Susie Q
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12848
+#	26100
+#	38373
+#	52754
+#	69899
+#	81220
+#	95768
+#	110762
+#	123583
+#	133937
+#	145610
+# Disc length: 2123 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=9b08490c
+DTITLE=Rock City Crimewave - Sealed with a Curse
+DYEAR=1900
+DGENRE=
+TTITLE0=The Sirens
+TTITLE1=Bang-Shang-A-Lang
+TTITLE2=Jersey Devil
+TTITLE3=Kill The Lights
+TTITLE4=Zero High
+TTITLE5=Unloose
+TTITLE6=The Strangler
+TTITLE7=Felony Racer
+TTITLE8=UFO American
+TTITLE9=Aint No Grave
+TTITLE10=My Coccoon of Terror
+TTITLE11=Burn Rock City
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

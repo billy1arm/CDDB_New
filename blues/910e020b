@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	23925
+#	48450
+#	78003
+#	101175
+#	132150
+#	148311
+#	169011
+#	187500
+#	211353
+#	235986
+#
+# Disc length: 3588 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL2
+#
+DISCID=910e020b
+DTITLE=Rod Piazza And The Mighty Flyers - Tough And Tender
+DYEAR=1900
+DGENRE=
+TTITLE0=Power Of The Blues
+TTITLE1=Quicksand
+TTITLE2=Tough And Tender
+TTITLE3=Sea Of Fools
+TTITLE4=She Can't Say No
+TTITLE5=The Teaser
+TTITLE6=Blues And Trouble
+TTITLE7=Under The Big Top
+TTITLE8=Scary Boogie
+TTITLE9=Hang-Ten Boogie
+TTITLE10=Searchin For A Fortune
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

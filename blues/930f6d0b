@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30225
+#	58465
+#	83015
+#	105272
+#	126652
+#	161105
+#	178125
+#	216420
+#	241865
+#	264050
+#
+# Disc length: 3951 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=930f6d0b
+DTITLE=Dom Um Romão - Rhythm Traveller
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Capoeira Chant
+TTITLE1=Soul Bossa Nova
+TTITLE2=Da Serra Pro Mar
+TTITLE3=Ginga Gougou -"Shake"
+TTITLE4=Samba de Nânh
+TTITLE5=Mantra
+TTITLE6=Samba de Rei
+TTITLE7=Mysterious Traveller
+TTITLE8=Jungle Carnival
+TTITLE9=Sem Terrra
+TTITLE10=Jungle Carnival - ''Batucada Groove Remix''
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

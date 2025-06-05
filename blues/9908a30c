@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15587
+#	36332
+#	50945
+#	63452
+#	79622
+#	92257
+#	103510
+#	118805
+#	130985
+#	145572
+#	155367
+#
+# Disc length: 2213 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9908a30c
+DTITLE=Sidney Bechet - Album
+DYEAR=1945
+DGENRE=Jazz
+TTITLE0=Baby won't you please come home
+TTITLE1=Blues
+TTITLE2=Dardandella
+TTITLE3=I never knew
+TTITLE4=House Party
+TTITLE5=Perdido Street Stomp
+TTITLE6=Revolutionary Blues Part One
+TTITLE7=Revolutionary Blues Part Two
+TTITLE8=Sheik of Araby
+TTITLE9=Minor Swoon
+TTITLE10=Weary Blues
+TTITLE11=Sister Kate
+EXTD=YEAR: 1945
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

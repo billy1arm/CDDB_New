@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20300
+#	36672
+#	50235
+#	65927
+#	81562
+#	98712
+#	108585
+#	124650
+#	145320
+#
+# Disc length: 2071 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=9a08150a
+DTITLE=Various Artist - Jazz Pianists Galore
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Too Close For Comfort - Carl Perkins
+TTITLE1=We'll Be Together Again - Jimmy Rowles
+TTITLE2=Laugh, Cry - Russ Freeman
+TTITLE3=Bess, You Is My Woman - Richard Twardzik
+TTITLE4=I Hear Music - Hampton Hawes
+TTITLE5=Sonny Speaks - Jimmy Rowles
+TTITLE6=Autumn In New York - Bobby Timmons
+TTITLE7=I Can't Get Started - John Lewis
+TTITLE8=Younger Than Springtime - Pete Jolly
+TTITLE9=Taking A Chance On Love - Al Haig
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

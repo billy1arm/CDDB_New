@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	16105
+#	29287
+#	49322
+#	71717
+#	82420
+#	94982
+#	119602
+#	134442
+#	150200
+#	165465
+#	177180
+#
+# Disc length: 2549 seconds
+#
+# Revision: 15
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=9d09f30c
+DTITLE=Antonio Vivaldi - Le Quattro Stagioni (Pina Carmirelli, violin)
+DYEAR=1982
+DGENRE=Classical
+TTITLE0=Concerto No. 1 "La Primavera" RV 269 in E. Allegro
+TTITLE1=Concerto No. 1 "La Primavera" RV 269 in E. Largo
+TTITLE2=Concerto No. 1 "La Primavera" RV 269 in E. Allegro (Danza Pastorale)
+TTITLE3=Concerto No. 2 "L'Estate" RV 315 in G minor. Allegro Non Molto - Allegro
+TTITLE4=Concerto No. 2 "L'Estate" RV 315 in G minor. Adagio - Presto - Adagio
+TTITLE5=Concerto No. 2 "L'Estate" RV 315 in G minor. Presto (Tempo Impetuoso d'Estate)
+TTITLE6=Concerto No. 3 "L'Autunno" RV 293 in F. Allegro (Ballo, e Canto de' Villanelli)
+TTITLE7=Concerto No. 3 "L'Autunno" RV 293 in F. Adagio Molto (Ubriachi Dormienti)
+TTITLE8=Concerto No. 3 "L'Autunno" RV 293 in F. Allegro (La Caccia)
+TTITLE9=Concerto No. 4 "L'Inverno" RV 297 in F minor. Allegro Non Molto
+TTITLE10=Concerto No. 4 "L'Inverno" RV 297 in F minor. Largo
+TTITLE11=Concerto No. 4 "L'Inverno" RV 297 in F minor. Allegro
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11648
+#     30205
+#     46803
+#     50018
+#     63788
+#     88830
+#     98333
+#     113905
+#     129990
+#     141718
+#     157293
+# 
+# Disc length: 2341 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9b09230c
+DTITLE=The Slowest Clock - LIfe Still
+DYEAR=1900
+DGENRE=
+TTITLE0=Little Fishy
+TTITLE1=Wasted
+TTITLE2=Warhol
+TTITLE3=Say It
+TTITLE4=Le Bordel
+TTITLE5=In The Cinema
+TTITLE6=Cherie
+TTITLE7=Desert Mouth
+TTITLE8=Acid Lake
+TTITLE9=Say What's On Your Mind
+TTITLE10=You Never See Me
+TTITLE11=Memories
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

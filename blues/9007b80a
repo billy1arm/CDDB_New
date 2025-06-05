@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15925
+#     29925
+#     51387
+#     69522
+#     81422
+#     88995
+#     102362
+#     121287
+#     138645
+# 
+# Disc length: 1978 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=9007b80a
+DTITLE=Various Artist - Jammin The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=3 Woman Blues
+TTITLE1=Big Black Cadillac Blues
+TTITLE2=I Got Up One Mornin' Blues
+TTITLE3=I'm A Stranger Here
+TTITLE4=Old Saw Mill Blues
+TTITLE5=Jammin' The Blues
+TTITLE6=My Man
+TTITLE7=Black And Blue
+TTITLE8=Wednesday Evening Blues
+TTITLE9=How Long
+EXTD=
+EXTT0=Memphis Slim\n
+EXTT1=Lightnin Hopkins\n
+EXTT2=Big Bill Broonzy\n
+EXTT3=Sonny Terry and Brownie McGhee\n
+EXTT4=Big Joe Williams\n
+EXTT5=Ray Charles\n
+EXTT6=Billie Holiday\n
+EXTT7=Louis Armstrong\n
+EXTT8=John Lee Hooker\n
+EXTT9=Leadbelly and Sonny Terry\n
+PLAYORDER=

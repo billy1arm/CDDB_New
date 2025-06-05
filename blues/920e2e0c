@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	23334
+#	45891
+#	69953
+#	90713
+#	110735
+#	132346
+#	152536
+#	180500
+#	199436
+#	223666
+#	247561
+#
+# Disc length: 3632 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer 1.60beta16
+#
+DISCID=920e2e0c
+DTITLE=Madonna - Ray Of Light
+DYEAR=1900
+DGENRE=
+TTITLE0=Drowned World/Substitute For Love
+TTITLE1=Swim
+TTITLE2=Ray Of Light
+TTITLE3=Candy Perfume Girl
+TTITLE4=Nothing Really Matters
+TTITLE5=Sky Fits Heaven
+TTITLE6=Shanti/Ashtangi
+TTITLE7=Frozen
+TTITLE8=The Power Of Goodbye
+TTITLE9=To Have And Not To Hold
+TTITLE10=Little Star
+TTITLE11=Mer Girl
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

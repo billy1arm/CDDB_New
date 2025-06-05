@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	175
+#	31675
+#	56575
+#	65575
+#	129100
+#	151225
+#	165250
+#	174100
+#	195400
+#	230125
+#	252400
+#	272875
+#
+# Disc length: 3944 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=930f660c
+DTITLE=David Downes - Pavilion
+DYEAR=1993
+DGENRE=New Age
+TTITLE0=Casting The Stone
+TTITLE1=Gathering
+TTITLE2=Winter Shall Wane
+TTITLE3=Pavilion
+TTITLE4=Ana Faerina
+TTITLE5=Beloved
+TTITLE6=Shadow Of A Cloud
+TTITLE7=Unstill
+TTITLE8=Torchlight Circling In The Fields
+TTITLE9=Jig
+TTITLE10=The Rusted Wheel Of Things
+TTITLE11=Full Circle
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

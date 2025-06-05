@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12777
+#	26507
+#	41187
+#	61665
+#	72335
+#	84402
+#	95867
+#	114675
+#	125030
+#	138600
+#
+# Disc length: 2078 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9b081c0b
+DTITLE=Jr. Walker - Road Runner
+DYEAR=1900
+DGENRE=
+TTITLE0=(I'm a) Road Runner
+TTITLE1=How Sweet it is (to be Loved by You)
+TTITLE2=Pucker Up Buttercup
+TTITLE3=Money (That's What I Want)
+TTITLE4=Last Call
+TTITLE5=Anyway You Wannta"
+TTITLE6=Baby You Know You Ain't Right
+TTITLE7=Ame' Cherie (Soul Darling)
+TTITLE8=Twist Lackawanna
+TTITLE9=San-ho-zay
+TTITLE10=Mutiny
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

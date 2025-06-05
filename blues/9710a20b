@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20480
+#	49392
+#	83078
+#	118261
+#	143107
+#	181097
+#	205625
+#	230544
+#	256501
+#	283356
+#
+# Disc length: 4260 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.85
+#
+DISCID=9710a20b
+DTITLE=Al Jarreau - Live At Montreux 1993
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=01 We're In This Love Together
+TTITLE1=02 Try A Little Tenderness
+TTITLE2=03 Summertime
+TTITLE3=04 We Got By
+TTITLE4=05 Mas Que Nada
+TTITLE5=06 She's Leaving Home
+TTITLE6=07 You Don't See Me
+TTITLE7=08 Save Your Love For Me
+TTITLE8=09 Your Song
+TTITLE9=10 Alonzo
+TTITLE10=11 Puddit (Put It Where You Want It)
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

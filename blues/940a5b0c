@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  20972
+#  38567
+#  58742
+#  72002
+#  83310
+#  97902
+#  115377
+#  140172
+#  155310
+#  167932
+#  180865
+#
+# Disc length: 2653 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=940a5b0c
+DTITLE=Kevin Brown - Road Dreams
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Diamond Ring
+TTITLE1=Harder You Love
+TTITLE2=Five Seconds To Go
+TTITLE3=I Still Love You
+TTITLE4=Put A Smile On Your Face
+TTITLE5=Just A Valley Away
+TTITLE6=Some People
+TTITLE7=I Should Have Known Better
+TTITLE8=Talk To Me
+TTITLE9=Farther Along
+TTITLE10=Juke Box Queen
+TTITLE11=I Wish The World
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

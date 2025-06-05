@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17980
+#	33743
+#	49066
+#	72009
+#	90874
+#	109744
+#	123648
+#	137044
+#	154044
+#	174658
+#
+# Disc length: 2447 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=90098d0b
+DTITLE=Swine Cadillac - Not Done Yet
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Smoke
+TTITLE1=Flip A Coin
+TTITLE2=Bacon Gumbo
+TTITLE3=380 Blues
+TTITLE4=She Knows What She Wants
+TTITLE5=Big Blues World
+TTITLE6=Not Done Yet
+TTITLE7=A Little Happiness
+TTITLE8=Please Leave Me Alone
+TTITLE9=Back In The House
+TTITLE10=Unknown
+EXTD=YEAR: 2001 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37857
+#	73024
+#	97539
+#	123605
+#	165832
+#	199343
+#	230260
+#	271644
+#	292411
+#	312996
+#
+# Disc length: 4412 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=90113a0b
+DTITLE=Beethoven  - Sviatoslav Richter  [Vol.2-5]  Sonatas Op.7, 31-2, 31-3
+DYEAR=1900
+DGENRE=Piano
+TTITLE0=Piano Sonata N°4 in E flat major, Op.7 - 1. Allegro molto e con brio  {1975}
+TTITLE1=Piano Sonata N°4 in E flat major, Op.7 - 2. Largo, con gran espressione
+TTITLE2=Piano Sonata N°4 in E flat major, Op.7 - 3. Allegro
+TTITLE3=Piano Sonata N°4 in E flat major, Op.7 - 4. Rondo, poco allegretto e grazioso
+TTITLE4=Piano Sonata N°17 in D minor, Op.31 n°2 ''Sturm'' - 1. Largo-allegro  {1965}
+TTITLE5=Piano Sonata N°17 in D minor, Op.31 n°2 ''Sturm'' - 2. Adagio
+TTITLE6=Piano Sonata N°17 in D minor, Op.31 n°2 ''Sturm'' - 3. Allegretto
+TTITLE7=Piano Sonata N°18 in E flat major, Op.31 n°3 - 1. Allegro  {1965}
+TTITLE8=Piano Sonata N°18 in E flat major, Op.31 n°3 - 2. Scherzo, allegretto vivace
+TTITLE9=Piano Sonata N°18 in E flat major, Op.31 n°3 - 3. Menuetto, moderato e grazioso
+TTITLE10=Piano Sonata N°18 in E flat major, Op.31 n°3 - 4. Presto con fuoco
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

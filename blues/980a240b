@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18603
+#	33551
+#	50363
+#	67197
+#	86791
+#	100595
+#	119009
+#	143408
+#	160969
+#	178745
+#
+# Disc length: 2598 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=980a240b
+DTITLE=Christmas - Christmas Jazz
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Hark the Herald Angels Sing
+TTITLE1=We Three Kings
+TTITLE2=Dance of the Sugar Plum Fairy
+TTITLE3=Carol of the Bells
+TTITLE4=God Rest Ye Merry Gentlemen
+TTITLE5=Joy to the World
+TTITLE6=Oh Holy Night
+TTITLE7=Greensleeves
+TTITLE8=It Came Upon a Midnight Clear
+TTITLE9=Arabian Dance (Nutcracker Suite)
+TTITLE10=The First Noel
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

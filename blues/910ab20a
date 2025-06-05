@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21055
+#     40740
+#     63337
+#     81497
+#     102075
+#     123607
+#     146930
+#     168630
+#     186462
+# 
+# Disc length: 2740 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=910ab20a
+DTITLE=Joe Public - Easy Come Easy Go
+DYEAR=1900
+DGENRE=
+TTITLE0=Easy Come, Easy Go
+TTITLE1=Deeper
+TTITLE2=Your Love Is On
+TTITLE3=This Time
+TTITLE4=Things You Do 4 Luv
+TTITLE5=Call Me
+TTITLE6=I L.O.V.E. U
+TTITLE7=Show Me
+TTITLE8=Rumors
+TTITLE9=What Goes Around
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,55 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12572
+#	25255
+#	39522
+#	51987
+#	69480
+#	84277
+#	99037
+#	114715
+#	128310
+#	139602
+#	156682
+#
+# Disc length: 2262 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9608d40c
+DTITLE=John Lee Hooker and Others - Danceland
+DYEAR=1900
+DGENRE=
+TTITLE0=Stampin'
+TTITLE1=Ebony Jump
+TTITLE2=Wayne County Ramblin' Blues
+TTITLE3=Cotton Pickin' Boogie
+TTITLE4=1949 Grievin' Blues (Part One)
+TTITLE5=Six O'Nine Boogie (Take 1)
+TTITLE6=Six O'Nine Boogie (Take 2)
+TTITLE7=Lord Have Mercy
+TTITLE8=Gonna Buy Me A Shotgun
+TTITLE9=I'm Gonna Catch Me A Freight Train
+TTITLE10=Gonna Call On You Babe
+TTITLE11=What's The Matter With The World
+EXTD=Tracks 1-2 by Candy Johnson\nTracks 3-7 by J.L.H.\nTracks 
+EXTD=8-11 by Tony Blues Lewis\nTrack 12 by Artist Unknown - Vir
+EXTD=gin V2 7234 8 40116 2 8\n
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

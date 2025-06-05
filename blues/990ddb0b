@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29043
+#	55140
+#	74805
+#	99128
+#	121660
+#	143840
+#	165968
+#	189950
+#	213638
+#	242195
+#
+# Disc length: 3549 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=990ddb0b
+DTITLE=Henry Butler - Blues and More, Volume I
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=Dr. Diddley
+TTITLE1=Blues After Midnight
+TTITLE2=Down By The Riverside
+TTITLE3=San Francisco Blues
+TTITLE4=Night Life Shuffle
+TTITLE5=The Breaks
+TTITLE6=The Lucky Old Sun
+TTITLE7=Samba C
+TTITLE8=A Thing Of Beauty
+TTITLE9=Tritonal Commission
+TTITLE10=Jamaica Farewell
+EXTD=YEAR: 1992 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

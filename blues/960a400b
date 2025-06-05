@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	18076
+#	31352
+#	45603
+#	62329
+#	74555
+#	88881
+#	104557
+#	118808
+#	132084
+#	146485
+#
+# Disc length: 2630 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=960a400b,9a0a3a0b
+DTITLE=Rolling Stones - Aftermath
+DYEAR=1966
+DGENRE=Rock
+TTITLE0=Paint It Black
+TTITLE1=Stupid Girl
+TTITLE2=Lady Jane
+TTITLE3=Under My Thumb
+TTITLE4=Doncha Bother Me
+TTITLE5=Think
+TTITLE6=Flight 505
+TTITLE7=High And Dry
+TTITLE8=It's Not Easy
+TTITLE9=I Am Waiting
+TTITLE10=Going Home
+EXTD=YEAR: 1966 ID3G: 17
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

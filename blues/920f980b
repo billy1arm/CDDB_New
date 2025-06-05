@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41875
+#	67943
+#	92514
+#	117694
+#	151182
+#	177147
+#	184355
+#	208370
+#	227420
+#	270825
+#
+# Disc length: 3994 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=920f980b
+DTITLE=Die drei Fragezeichen - 126_Schrecken aus dem Moor
+DYEAR=2008
+DGENRE=Hörspiel
+TTITLE0=Stuarts Geheimnis
+TTITLE1=Hausdurchsuchung
+TTITLE2=Von der Kamera erfasst
+TTITLE3=Abwechslung
+TTITLE4=Spuren
+TTITLE5=Beerdigt
+TTITLE6=Verschwunden!
+TTITLE7=Sonne und Mond
+TTITLE8=Wandelnde Leiche
+TTITLE9=Am Grunde böser Schreie
+TTITLE10=Licht an!
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

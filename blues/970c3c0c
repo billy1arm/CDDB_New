@@ -1,0 +1,55 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     23307
+#     37897
+#     57362
+#     73887
+#     98622
+#     117805
+#     138795
+#     153407
+#     175750
+#     193352
+#     213140
+# 
+# Disc length: 3134 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=970c3c0c
+DTITLE=Various Artist - Calif rnia 20 Anos Da Can  o Nativa Do Rs
+DYEAR=1900
+DGENRE=
+TTITLE0=Reflex o
+TTITLE1=Gaud ncio Sete Luas
+TTITLE2=Canto De Aurora
+TTITLE3=ltimo Grito
+TTITLE4=Ave Maria Rampeana
+TTITLE5=Cordas De Espinho
+TTITLE6=Prece Ao Minuano
+TTITLE7=Pedro Guar 
+TTITLE8=Canto De Morte De Gaud ncio Sete Luas
+TTITLE9=Leontina Das Dores
+TTITLE10=Roda Canto
+TTITLE11=Ventania
+EXTD=
+EXTT0=(Colmar P. Duarte - Julio Machado Da Silva F.]\nCec lia Machado Lopes
+EXTT1=(Luiz Coronel - Marco A. Vasconcellos]\nLeopoldo Rassier e Marco Aur l
+EXTT1=io Vasconcellos
+EXTT2=(Jos  M. Leal - Valmir Pinheiro - Joviliano Pires]\nJosete Siqueira
+EXTT3=(Kenelmo Amado Alves - Francisco Alves]\nJo o Quintana Vieira e Grupo 
+EXTT3=Parceria
+EXTT4=(Ubirajara Raffo Constant - Francisco Alves]\nRhosammaria
+EXTT5=(Luis Coronel - Marco Aur lio Vasconcellos]\nIvo Fraga E Os Posteiros
+EXTT6=(Telmo De Lima Freitas]\nEdson Otto E Os Cantores Dos 7 Povos
+EXTT7=(Claudio Garcia - Jos  Claudio Machado]\nJo o De Almeida Neto
+EXTT8=(Luis Coronel - Marco A. Vasconcellos]\nRhosammaria E Os Posteiros
+EXTT9=(Luis Coronel - Marco A. Vasconcellos]\nRhosammaria E Os Posteiros
+EXTT10=(Aparicio Silva Rillo - M rio Barbar  Dornelles]\nJo o De Almeida Net
+EXTT11=(Aparicio Silva Rillo - M rio Barbar  Dornelles]\nVictor Hugo
+PLAYORDER=

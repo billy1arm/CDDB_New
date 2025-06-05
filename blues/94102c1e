@@ -1,0 +1,106 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5905
+#	9420
+#	12045
+#	20440
+#	24275
+#	39287
+#	42067
+#	67410
+#	75437
+#	80795
+#	91097
+#	97550
+#	106890
+#	122665
+#	129590
+#	144840
+#	149255
+#	170812
+#	172157
+#	175780
+#	186922
+#	190632
+#	205252
+#	249177
+#	259052
+#	270820
+#	275940
+#	289647
+#	299390
+#
+# Disc length: 4142 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=94102c1e
+DTITLE=Balthasar-Neumann Ensemble, Thomas Hengelbrock - From the Music Library of JS Bach [CD1]
+DYEAR=2002
+DGENRE=Baroque
+TTITLE0=Albinoni - Concerto E minor Op 2, No 2 - Allegro
+TTITLE1=Concerto E minor Op 2, No 2 - Presto
+TTITLE2=Concerto E minor Op 2, No 2 - Adagio
+TTITLE3=Concerto E minor Op 2, No 2 - Allegro
+TTITLE4=Francesco Bartolomeo Conti - Motet for Soprano, 2 Oboes and Strings - Recitativo
+TTITLE5=Motet for Soprano, 2 Oboes and Strings - Aria. Allegro
+TTITLE6=Motet for Soprano, 2 Oboes and Strings - Recitativo
+TTITLE7=Motet for Soprano, 2 Oboes and Strings - Aria. Adagio
+TTITLE8=Motet for Soprano, 2 Oboes and Strings - Allelluja
+TTITLE9=Pietro Antonio Locatelli - Concerto grosso F minor Op 1, No 8 - Largo
+TTITLE10=Concerto grosso F minor Op 1, No 8 - Grave
+TTITLE11=Concerto grosso F minor Op 1, No 8 - Vivace
+TTITLE12=Concerto grosso F minor Op 1, No 8 - Grave
+TTITLE13=Concerto grosso F minor Op 1, No 8 - Largo andante
+TTITLE14=Concerto grosso F minor Op 1, No 8 - Andante
+TTITLE15=Concerto grosso F minor Op 1, No 8 - Pastorale, Largo andante
+TTITLE16=George Frederick Handel - Cantata for Soprano and Strings HWV 105 - Accompagnato
+TTITLE17=Cantata for Soprano and Strings HWV 105 - Aria. Adagio
+TTITLE18=Cantata for Soprano and Strings HWV 105 - Recitativo
+TTITLE19=Cantata for Soprano and Strings HWV 105 - Accompagnato
+TTITLE20=Cantata for Soprano and Strings HWV 105 - Aria
+TTITLE21=Cantata for Soprano and Strings HWV 105 - Recitativo
+TTITLE22=Cantata for Soprano and Strings HWV 105 - Aria. Siciliana
+TTITLE23=Johann Sebastian Bach - Ouverture C Major BWV 1066 - Ouverture
+TTITLE24=Ouverture C Major BWV 1066 - Courante
+TTITLE25=Ouverture C Major BWV 1066 - Gavotte I, II
+TTITLE26=Ouverture C Major BWV 1066 - Forlane
+TTITLE27=Ouverture C Major BWV 1066 - Minuet I, II
+TTITLE28=Ouverture C Major BWV 1066 - Bouree I, II
+TTITLE29=Ouverture C Major BWV 1066 - Passepied I, II
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+PLAYORDER=

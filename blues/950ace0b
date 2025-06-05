@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19230
+#	37885
+#	57030
+#	78680
+#	100872
+#	124437
+#	140032
+#	153452
+#	167077
+#	192340
+#
+# Disc length: 2768 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=950ace0b
+DTITLE=David Budway - The Music I Hear
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=The Ring Of Kerry
+TTITLE1=Not A Moment In My Life Without You
+TTITLE2=Amalfi Coast Drive
+TTITLE3=Papillon de Paris
+TTITLE4=A Strand Of Gold
+TTITLE5=Pop Tune
+TTITLE6=Waltz for Poulenc
+TTITLE7=Empty Stage, 1 AM
+TTITLE8=Mayaguez
+TTITLE9=Night Flight To LA
+TTITLE10=Mountain Aire
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

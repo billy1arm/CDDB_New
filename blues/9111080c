@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15492
+#	32757
+#	83361
+#	100905
+#	123833
+#	145521
+#	165496
+#	184098
+#	209478
+#	253701
+#	278670
+#
+# Disc length: 4362 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9111080c
+DTITLE=The Modern Jazz Quartet - 8 Classic Albums - CD3
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Versailles
+TTITLE1=Angel Eyes
+TTITLE2=Fontessa
+TTITLE3=Over the Rainbow
+TTITLE4=Bluesology
+TTITLE5=Willow Weep for Me
+TTITLE6=Woodyn You
+TTITLE7=De Capo
+TTITLE8=Fine
+TTITLE9=Exposure
+TTITLE10=Sketch
+TTITLE11=Conversation
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

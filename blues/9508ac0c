@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10547
+#	28719
+#	42805
+#	50600
+#	70850
+#	81945
+#	95687
+#	109755
+#	121605
+#	130660
+#	145870
+#
+# Disc length: 2222 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9508ac0c
+DTITLE=Alex Gomez - Slidin' Down the Delat
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Mississippi Mamma
+TTITLE1=Love My Baby
+TTITLE2=Kickin' Back
+TTITLE3=All Nite Long
+TTITLE4=Waitin' On Satan
+TTITLE5=B'Ham Alabam'
+TTITLE6=Handyman
+TTITLE7=See Here
+TTITLE8=Hard Drivin' Man
+TTITLE9=City Wimmen
+TTITLE10=Summer Rain
+TTITLE11=Rite From Rong
+EXTD=YEAR: 1997 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

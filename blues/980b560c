@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17415
+#     34710
+#     52542
+#     71112
+#     89642
+#     108850
+#     125390
+#     144070
+#     162422
+#     182017
+#     199387
+# 
+# Disc length: 2904 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=980b560c
+DTITLE=Diversos - Samba Mix 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Cl nica Geral
+TTITLE1=Frente a Frente
+TTITLE2=Bom Bocado
+TTITLE3=Mulheres
+TTITLE4=Samba Pr s Mo as
+TTITLE5=T  Na Cara
+TTITLE6=Pau Que Nasce Torto
+TTITLE7=24 Horas De Amor
+TTITLE8=Teu Charme
+TTITLE9=T  Del cia, T  Gostoso
+TTITLE10=D i Demais
+TTITLE11=Swing Geral
+EXTD=
+EXTT0=Gente da Gente\nCohab City\n
+EXTT1=Sempre Ser 
+EXTT2=Paparico\nA Bruxa Est  Solta
+EXTT3=Voc  Em Mim\nValeu Demais
+EXTT4=Coisa Boa Demais\nDevagar, Devagarinho
+EXTT5=No Compasso Do Criador\nRecado   Minha Amada
+EXTT6=Mel  Do Tchan\nNa Boquinha Da Garrafa
+EXTT7=Paz Enlouquecida\nResponde
+EXTT8=Maravilhosa\nFruto Dos Deuses
+EXTT9=Seu Querer\nPura Emo  o
+EXTT10=T o S \n
+EXTT11=Demorou Para Abalar\nEla Sambou, Eu Dancei
+PLAYORDER=

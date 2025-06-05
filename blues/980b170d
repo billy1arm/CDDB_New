@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16944
+#	36377
+#	54988
+#	70519
+#	88535
+#	105264
+#	125885
+#	143056
+#	159947
+#	177876
+#	195007
+#	210168
+#
+# Disc length: 2841 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=980b170d
+DTITLE=Jamey Aebersold - Blues In All Keys (Vol. 42)
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Bb Blues
+TTITLE1=B Blues
+TTITLE2=C Blues
+TTITLE3=Db Blues
+TTITLE4=D Blues
+TTITLE5=Eb Blues
+TTITLE6=E Blues
+TTITLE7=F Blues
+TTITLE8=F# Blues
+TTITLE9=G Blues
+TTITLE10=Ab Blues
+TTITLE11=A Blues
+TTITLE12=Tuning Note
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

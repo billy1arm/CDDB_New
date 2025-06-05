@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	12920
+#	27587
+#	43427
+#	58072
+#	67470
+#	81650
+#	93742
+#	107470
+#	126027
+#
+# Disc length: 1869 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=97074b0a
+DTITLE=Various Artist - Best of the Blues Vol. 1
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=B.B. King - Everyday (I Have the blues)
+TTITLE1=Muddy Waters - Rock Me
+TTITLE2=Lowell Fulson - Black Nights
+TTITLE3=Charles Brown - Driftin' Blues
+TTITLE4=Roy Brown - Let the Four Winds Blow
+TTITLE5=John Lee Hooker - Boogie Chillen
+TTITLE6=Lightnin' Hopkins - Shotgun Blues
+TTITLE7=T-Bone Walker - Call it Stormy Monday
+TTITLE8=Albert Collins - Trash Talkin'
+TTITLE9=Junior Parker - The Things I Used To Do
+EXTD=\nYEAR: 1994  ID3G:   0
+EXTT0=B.B. King
+EXTT1=Muddy Waters
+EXTT2=Lowell Fulson
+EXTT3=Charles Brown
+EXTT4=Roy Brown
+EXTT5=John Lee Hooker
+EXTT6=Lightnin' Hopkins
+EXTT7=T-Bone Walker
+EXTT8=Albert Collins
+EXTT9=Junior Parker
+PLAYORDER=

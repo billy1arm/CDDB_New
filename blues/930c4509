@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26109
+#	67440
+#	86089
+#	109443
+#	126923
+#	148598
+#	183904
+#	209560
+#
+# Disc length: 3143 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.14
+#
+DISCID=930c4509
+DTITLE=Black String - Karma
+DYEAR=2019
+DGENRE=Jazz
+TTITLE0=Surenya
+TTITLE1=Hanging Gardens of Babylon
+TTITLE2=Elevation of Light
+TTITLE3=Song of the Sea
+TTITLE4=Exit Music (For a Film)
+TTITLE5=Exhale-Puri
+TTITLE6=Karma
+TTITLE7=Beating Road
+TTITLE8=Blue Shade
+EXTD=YEAR: 2019
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

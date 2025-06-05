@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21535
+#	43462
+#	60850
+#	84615
+#	103137
+#	123242
+#	145020
+#	163495
+#	184200
+#
+# Disc length: 2750 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: QuintessentialCD v1.1 (c) 1998 Paul Quinn
+#
+DISCID=900abc0a
+DTITLE=Yul Anderson - Nighttrance
+DYEAR=1900
+DGENRE=
+TTITLE0=Sweet Baby Browns
+TTITLE1=Blues
+TTITLE2=Nighttrance
+TTITLE3=All Along The Watchtower
+TTITLE4=Cry to the Universe
+TTITLE5=Lonely Hero
+TTITLE6=Pali Gap
+TTITLE7=We Live FOrever
+TTITLE8=Everybody
+TTITLE9=Earth Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

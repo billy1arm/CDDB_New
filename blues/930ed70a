@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22000
+#	42250
+#	57325
+#	91000
+#	108325
+#	148825
+#	186325
+#	194275
+#	223900
+#
+# Disc length: 3801 seconds
+#
+# Revision: 23
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=930ed70a
+DTITLE=Masters Of Classical Music - Vol. 9 - Franz Schubert
+DYEAR=1988
+DGENRE=Classical
+TTITLE0=Ave Maria
+TTITLE1=Impromptu in E flat Major
+TTITLE2=Standchen
+TTITLE3=Trout Quintet: Tema con Variazioni
+TTITLE4=Entr'acte No.1 from 'Rosamunde'
+TTITLE5=Moment Musical in A flat Major
+TTITLE6=Entr'acte No.2 from 'Rosamunde'
+TTITLE7=Moment Musical No.3 in F Minor
+TTITLE8=Ballet Music No.2 from 'Rosamunde'
+TTITLE9=Symphony No.8 in B Minor 'Unfinished': Allegro Moderato
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

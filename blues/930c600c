@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26280
+#	49192
+#	75633
+#	98726
+#	111545
+#	122274
+#	133080
+#	162971
+#	180259
+#	196350
+#	205649
+#
+# Disc length: 3170 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=930c600c
+DTITLE=Wynton Marsalis - Big Train
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=All Aboard
+TTITLE1=Observation Car
+TTITLE2=Union Pacific Big Boy
+TTITLE3=Smokestack Shuffle
+TTITLE4=Northbound-Southbound
+TTITLE5=Dining Car
+TTITLE6=Night Train
+TTITLE7=Engine
+TTITLE8=Bullet Train
+TTITLE9=Sleeper Car
+TTITLE10=Station Call
+TTITLE11=The Caboose
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14625
+#	34017
+#	52810
+#	69485
+#	89047
+#	106012
+#	122315
+#	140935
+#	162922
+#	181385
+#
+# Disc length: 2693 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=910a830b
+DTITLE=Claes Janson - Skuggorna runt slussen
+DYEAR=1900
+DGENRE=
+TTITLE0=Snuskige Affe
+TTITLE1=Varje morgon klockan nio
+TTITLE2=Skuggorna runt slussen
+TTITLE3=Den där dagen
+TTITLE4=Postludium
+TTITLE5=Har du kvar din röda cykel
+TTITLE6=Herr Statsminister
+TTITLE7=Roffes blues
+TTITLE8=Det går över
+TTITLE9=Sigrid och Isaac
+TTITLE10=Nära
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

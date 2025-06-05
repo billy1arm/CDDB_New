@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28052
+#	54045
+#	86717
+#	107447
+#	128412
+#	150217
+#	170862
+#	198567
+#	224412
+#	259980
+#	302852
+#
+# Disc length: 4337 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9d10ef0c
+DTITLE=Eric Clapton - Royal Albert Hall 1994 (Disc2)
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=White Room
+TTITLE1=Badge
+TTITLE2=Wonderful Tonight
+TTITLE3=StoneFree
+TTITLE4=Circus Left Town
+TTITLE5=Tears In Heaven
+TTITLE6=Five Long Years
+TTITLE7=Tearing Us Apart
+TTITLE8=Crossroads
+TTITLE9=I'm So Tired
+TTITLE10=Layla
+TTITLE11=Ain't Nobady's Business
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

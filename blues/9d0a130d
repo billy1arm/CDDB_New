@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15317
+#	28797
+#	45210
+#	59515
+#	73075
+#	84255
+#	98357
+#	112982
+#	127452
+#	136825
+#	152577
+#	167782
+#
+# Disc length: 2581 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9d0a130d
+DTITLE=Eric And Suzy Thompson - Adam and Eve Had The Blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Stop And Listen
+TTITLE1=Three-In-One Two-Step
+TTITLE2=Basile Waltz
+TTITLE3=Blame It On The Blues
+TTITLE4=Chaussettes Noirs
+TTITLE5=In My Girlish Days
+TTITLE6=When I Get Home
+TTITLE7=Valse De Balfa
+TTITLE8=Adam and Eve Had The Blues
+TTITLE9=Danse De Poullard
+TTITLE10=Corrina, Corrina
+TTITLE11=Carroll Country Blues
+TTITLE12=Mean Old Bedbug Blues
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	25845
+#	49032
+#	80110
+#	98567
+#	133007
+#	164010
+#	192660
+#	220970
+#	243817
+#	278122
+#
+# Disc length: 4000 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9c0f9e0b
+DTITLE=Various Artist - School Days (Volume 3)
+DYEAR=1900
+DGENRE=
+TTITLE0=Unknown - White Horse
+TTITLE1=Unknown - Da Butt
+TTITLE2=Unknown - Full Tilt Boogie
+TTITLE3=Unknown - Love Injection
+TTITLE4=Unknown - Disco Circus
+TTITLE5=Unknown - Thanks To You
+TTITLE6=Unknown - Dance and Shake Your Tambourine
+TTITLE7=Unknown - All Night Thing
+TTITLE8=Unknown - I'll Do Anything For You
+TTITLE9=Unknown - I Like The Girls
+TTITLE10=Unknown -  People Everday
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

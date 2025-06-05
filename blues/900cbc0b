@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14390
+#	28660
+#	39182
+#	63980
+#	80187
+#	111729
+#	143707
+#	173160
+#	195135
+#	217890
+#
+# Disc length: 3262 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.05
+#
+DISCID=900cbc0b
+DTITLE=Various Artist - Priceless Jazz Sampler
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Billie Holiday - Good Morning Heartache
+TTITLE1=Ella Fitzgerald - Oh, Lady Be Good
+TTITLE2=Louis Armstrong - What A Wonderful World
+TTITLE3=Johnny Hartman - Lush Life
+TTITLE4=John Coltrane - Bessie's Blues
+TTITLE5=Sonny Rollins - Three Little Words
+TTITLE6=Pharoah Sanders - Thembi
+TTITLE7=Charles Mingus - Better Get Hit In Yo' Soul
+TTITLE8=Duke Ellington - The Jeep Is Jumpin'
+TTITLE9=Gato Barbieri - Milonga Triste
+TTITLE10=Chick Corea - Spain
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

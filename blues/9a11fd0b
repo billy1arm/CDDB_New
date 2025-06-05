@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22447
+#	45507
+#	86570
+#	119142
+#	154907
+#	177777
+#	213409
+#	234259
+#	262080
+#	304852
+#
+# Disc length: 4607 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=9a11fd0b
+DTITLE=Charles Kynard - Legends of acid jazz (Afro-disiac (1-6) - Wa-tu-wa-zui (Beautiful people) (7-11))
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Afro-disiac
+TTITLE1=Bella donna
+TTITLE2=Trippin'
+TTITLE3=Odds on
+TTITLE4=Sweetheart
+TTITLE5=Chanson du nuit
+TTITLE6=Wa-tu-wa-zui (Beautiful people)
+TTITLE7=Winter's child
+TTITLE8=Zebra walk
+TTITLE9=Something
+TTITLE10=Change up
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

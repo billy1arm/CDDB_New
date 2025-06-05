@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30495
+#	43751
+#	81496
+#	94276
+#	134132
+#	154854
+#	188702
+#	210186
+#	239800
+#	272847
+#
+# Disc length: 4093 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9f0ffb0b
+DTITLE=Miles Davis - The Complete Live Recordings 1956-57 CD3
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=20-07-57 New York - Dear Old Stockholm
+TTITLE1=Bag's Groove
+TTITLE2=27-07-57 New York - Bye Bye Blackbird
+TTITLE3=Tune Up
+TTITLE4=17-10-57 New York - All Of You
+TTITLE5=Four
+TTITLE6=30-11-57 Paris - Bag's Groove
+TTITLE7=Tune Up
+TTITLE8=Four
+TTITLE9=Walkin'
+TTITLE10=No Moe
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15140
+#	35133
+#	67885
+#	90695
+#	124390
+#	136880
+#	150433
+#	165600
+#	185555
+#	208290
+#
+# Disc length: 3391 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=900d3d0b
+DTITLE=Linwood Taylor - Take This and Stay Out of Trouble!!!
+DYEAR=1900
+DGENRE=blues
+TTITLE0=ply's bounce
+TTITLE1=rock me baby
+TTITLE2=red house
+TTITLE3=ply's hideaway
+TTITLE4=buzz me
+TTITLE5=charm city
+TTITLE6=messin' with the kid
+TTITLE7=work song
+TTITLE8=hound song
+TTITLE9=rockin' daddy
+TTITLE10=shake your hips
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

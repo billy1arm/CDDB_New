@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18232
+#	40194
+#	52987
+#	69712
+#	90354
+#	111617
+#	129889
+#	145738
+#	158597
+#	176182
+#	191622
+#
+# Disc length: 2740 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9c0ab20c
+DTITLE=Louis Armstrong - The great
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Frankie et Johnny
+TTITLE1=Avalon
+TTITLE2=Drop that sack
+TTITLE3=South
+TTITLE4=Old Kentucky home
+TTITLE5=Wolverine blues
+TTITLE6=I ain't gonna give nobody none of my jelly-roll
+TTITLE7=Sheik of Arabie
+TTITLE8=Jelly-roll blues
+TTITLE9=That's a plenty
+TTITLE10=Chimes blues
+TTITLE11=New Orleans
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

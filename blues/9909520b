@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	70282
+#	72303
+#	85726
+#	89298
+#	93775
+#	95866
+#	104963
+#	119438
+#	132118
+#	167756
+#
+# Disc length: 2388 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9909520b
+DTITLE=Vangelis - Musique au coeur de Vangelis
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Musique au coeur (Part I)
+TTITLE1=Childhood memory
+TTITLE2=Musique au coeur (Part II)
+TTITLE3=Musique au coeur (Part III)
+TTITLE4=Experimental part
+TTITLE5=Classical part
+TTITLE6=Guitar part
+TTITLE7=Jazz Part
+TTITLE8=Night of Poetry (Part I)
+TTITLE9=Night of Poetry (Part II)
+TTITLE10=Night of Poetry (Part III)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

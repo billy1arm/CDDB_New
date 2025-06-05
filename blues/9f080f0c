@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	10923
+#	22665
+#	40360
+#	53345
+#	66148
+#	77890
+#	88478
+#	101800
+#	118180
+#	130338
+#	143828
+#
+# Disc length: 2065 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=9f080f0c
+DTITLE=Sam and Dave - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Soul Sister, Brown Sugar
+TTITLE1=Soul Man
+TTITLE2=Mustang Sally
+TTITLE3=I'll Be Doggone
+TTITLE4=I Can't get No Satisfaction
+TTITLE5=Respect
+TTITLE6=Sweet Soul Music
+TTITLE7=634-5789
+TTITLE8=Love The One You're With
+TTITLE9=Hold On, I'm Coming
+TTITLE10=Good Lovin'
+TTITLE11=Land Of 1000 Dances
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

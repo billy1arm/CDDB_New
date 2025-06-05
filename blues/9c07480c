@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13055
+#     23927
+#     36277
+#     48822
+#     61262
+#     71767
+#     81920
+#     93472
+#     104375
+#     116387
+#     130225
+# 
+# Disc length: 1866 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=9c07480c
+DTITLE=The Dixie Hummingbirds - The Best Of The Dixie Hummingbirds
+DYEAR=1900
+DGENRE=
+TTITLE0=Let's Go To The Programs
+TTITLE1=The Final Edition
+TTITLE2=Thank You For One More Day
+TTITLE3=Will The Lord Be With Me
+TTITLE4=What A Friend
+TTITLE5=Christian Automobile
+TTITLE6=Bedside Of A Neighbor
+TTITLE7=In The Morning
+TTITLE8=If Anybody Asks You
+TTITLE9=The Old Time Way
+TTITLE10=Our Prayer For Peace
+TTITLE11=Another Day
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

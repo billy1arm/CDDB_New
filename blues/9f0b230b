@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	8618
+#	30329
+#	55302
+#	72931
+#	97276
+#	117936
+#	140781
+#	164409
+#	184318
+#	205288
+#
+# Disc length: 2853 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=9f0b230b
+DTITLE=Heather Hardy - Violins
+DYEAR=1900
+DGENRE=
+TTITLE0=14th street
+TTITLE1=Freak for pain
+TTITLE2=Someone else's king
+TTITLE3=Devil in your eyes
+TTITLE4=Mama
+TTITLE5=Temptation
+TTITLE6=Bluz man
+TTITLE7=The tree
+TTITLE8=Love, love, love
+TTITLE9=The next man
+TTITLE10=In memory of...
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

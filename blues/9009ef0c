@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10712
+#     20680
+#     31642
+#     63742
+#     75340
+#     99062
+#     108377
+#     125090
+#     139442
+#     153117
+#     176225
+# 
+# Disc length: 2545 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9009ef0c
+DTITLE=Lightnin' Hopkins - Nothin' But The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Nothin' But The Blues
+TTITLE1=Sick Feelin' Blues
+TTITLE2=Blues For My Cookie
+TTITLE3=Big Black Cadillac Blues
+TTITLE4=Coffee House Blues
+TTITLE5=Early In The Mornin' Blues
+TTITLE6=Lightnin's Boogie
+TTITLE7=Fugitive Blues
+TTITLE8=G String Blues
+TTITLE9=Stool Pigeon Blues
+TTITLE10=Drinkin' In The Blues
+TTITLE11=Santa Fe Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

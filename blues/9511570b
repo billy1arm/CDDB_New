@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32175
+#	58000
+#	84375
+#	116400
+#	145425
+#	173425
+#	209325
+#	235625
+#	271350
+#	296250
+#
+# Disc length: 4441 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9511570b
+DTITLE=New Orleans Jazz Band - New Orleans Quarter
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Lord Lord
+TTITLE1=Glory of Love
+TTITLE2=Siboney
+TTITLE3=Make Me A Pallet
+TTITLE4=Rebecca Boogie
+TTITLE5=Mama Inez
+TTITLE6=Girl Of My Dreams
+TTITLE7=Yearning
+TTITLE8=Sheik Of Araby
+TTITLE9=St. Louis Blues
+TTITLE10=Chimes Blues
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

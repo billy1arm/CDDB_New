@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24095
+#	42435
+#	61877
+#	98360
+#	129460
+#	150500
+#	171162
+#	191065
+#	219615
+#	239580
+#	265705
+#
+# Disc length: 3920 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=990f4e0c
+DTITLE=Gil Evans - Vol. 158 -  Gil Evans Orchestra
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Manteca
+TTITLE1='Round Midnight
+TTITLE2=Lester Leaps In
+TTITLE3=Django
+TTITLE4=Bird Feathers
+TTITLE5=Willow Tree
+TTITLE6=Struttin' With Some Barbecue
+TTITLE7=Chant of the Weed
+TTITLE8=Straight No Chaser
+TTITLE9=Davenport Blues
+TTITLE10=Ella Speed
+TTITLE11=La Nevada
+EXTD=LABEL =Promo Sound AG\nID =CD53158\nUPC =8004883-531585\nCOPYRIGHT =1998 YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

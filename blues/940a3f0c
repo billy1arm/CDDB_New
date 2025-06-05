@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19327
+#	36750
+#	60595
+#	83712
+#	96455
+#	112837
+#	128322
+#	145200
+#	159362
+#	172822
+#	185965
+#
+# Disc length: 2625 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=940a3f0c
+DTITLE=Sunitheis Ypoptoi - Meres Adespotes
+DYEAR=1995
+DGENRE=Greek
+TTITLE0=Imerologio
+TTITLE1=Meres Adespotes
+TTITLE2=Vrochi mou
+TTITLE3=Perokopes enos apokrufou euaggeliou
+TTITLE4=Korwna Grammata
+TTITLE5=Ti ti xa
+TTITLE6=Gorillas
+TTITLE7=Zwi
+TTITLE8=Ap ton paradeiso
+TTITLE9=Kokkino tholo feggari
+TTITLE10=Thelw na piw mazi sou ena tsigaro
+TTITLE11=Kali sou nuxta
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

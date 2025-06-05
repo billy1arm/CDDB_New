@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	1300
+#	29975
+#	34875
+#	82650
+#	101250
+#	153900
+#	188550
+#	195475
+#	212750
+#	216875
+#	251193
+#
+# Disc length: 3368 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=980d260c
+DTITLE=Christian Muthspiel - Octet Ost
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=introitus
+TTITLE1=VIII
+TTITLE2=interlude 1
+TTITLE3=II, interlude 2, II, interlude 3
+TTITLE4=VII
+TTITLE5=interlude 4, I 
+TTITLE6=interlude 5, IV/X
+TTITLE7=interlude 6
+TTITLE8=III
+TTITLE9=interlude 7
+TTITLE10=XIV
+TTITLE11=extroitus
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

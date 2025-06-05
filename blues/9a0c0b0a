@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     24012
+#     48632
+#     72377
+#     95942
+#     117217
+#     140562
+#     162500
+#     186307
+#     206972
+# 
+# Disc length: 3085 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9a0c0b0a
+DTITLE=Here and Now - I Can Deliver
+DYEAR=1900
+DGENRE=
+TTITLE0=Are You Ready
+TTITLE1=Ten Times the Power
+TTITLE2=The Here and Now Sound
+TTITLE3=I Can Deliver
+TTITLE4=Let's Start Over Again
+TTITLE5=Tastin' Love Again
+TTITLE6=Come Home
+TTITLE7=I am that I am
+TTITLE8=She Loves Me (Not)
+TTITLE9=Hip-Hop-Jazz-Religion
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

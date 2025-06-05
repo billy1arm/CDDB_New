@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16780
+#     33175
+#     48168
+#     67338
+#     92813
+#     111580
+#     131510
+#     151688
+#     166250
+#     189433
+#     203000
+# 
+# Disc length: 2928 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=960b6e0c
+DTITLE=J.J. And The Shuffle Kings - Just Doing The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=No Money
+TTITLE1=Baby Please Don't Go
+TTITLE2=J.J. Jump
+TTITLE3=Crazy 'Bout An Automobile
+TTITLE4=The Must Be More To Life
+TTITLE5=I'd Feel So Fine
+TTITLE6=Criusin'
+TTITLE7=May I Stay For The Night
+TTITLE8=Can't Be Satisfied
+TTITLE9=Under Your Spell
+TTITLE10=Got My Eyes On You
+TTITLE11=Sunrise
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

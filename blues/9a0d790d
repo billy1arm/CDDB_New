@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10523
+#	25645
+#	44175
+#	60330
+#	81107
+#	96597
+#	114597
+#	133308
+#	157585
+#	183718
+#	212261
+#	232557
+#
+# Disc length: 3451 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.7
+#
+DISCID=9a0d790d
+DTITLE=Jerry Beach Band - I'll Play The Blues For You
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Cuttin' Up
+TTITLE1=Roadrunner
+TTITLE2=Some Kind Of Wonderful
+TTITLE3=All By Myself
+TTITLE4=Don't Tell Me 'bout The Blues
+TTITLE5=She Loves My Automobile
+TTITLE6=Old Red Guitar
+TTITLE7=Seeds and Stems
+TTITLE8=Ooh Poo Pah Doo
+TTITLE9=St. James Infirmary
+TTITLE10=Victim Of The Blues
+TTITLE11=Take You Higher
+TTITLE12=I'll Play The Blues For You
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

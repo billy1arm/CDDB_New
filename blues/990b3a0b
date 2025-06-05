@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21499
+#	38802
+#	66130
+#	88496
+#	108869
+#	140327
+#	154344
+#	184681
+#	200293
+#	201058
+#
+# Disc length: 2876 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=990b3a0b
+DTITLE=Marie Séférian Quartett - Liban
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Liban
+TTITLE1=Mr. Clochard
+TTITLE2=Poésie contre le racisme
+TTITLE3=Petite soeur
+TTITLE4=Entre l'orient et Bach
+TTITLE5=Avec le temps
+TTITLE6=La belle dame sans regrets
+TTITLE7=La tristesse
+TTITLE8=Bonjour Paris
+TTITLE9=data1
+TTITLE10=data2
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

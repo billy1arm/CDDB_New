@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17098
+#     35983
+#     52168
+#     66753
+#     82750
+#     97725
+#     114625
+#     128725
+#     139900
+#     154538
+#     168550
+# 
+# Disc length: 2461 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9c099b0c
+DTITLE=Diversos - Lambahia II
+DYEAR=1900
+DGENRE=
+TTITLE0=Chorando Se Foi (Llorando Se Fue)
+TTITLE1=Alegria Da Cidade
+TTITLE2=Cafuringa
+TTITLE3=Vem Me Dar Um Beijo
+TTITLE4=L  Vai o Trio
+TTITLE5=Vou Te Pegar, Coisinha
+TTITLE6=Ouro Puro
+TTITLE7=Vem pr  C 
+TTITLE8=Morena
+TTITLE9=Gosto De Mar
+TTITLE10=Zorra
+TTITLE11=Dan ar Merengue
+EXTD=
+EXTT0=Carioca\n
+EXTT1=Margareth Menezes\n
+EXTT2=Fogo Baiano\n
+EXTT3=Banda Beijo\n
+EXTT4=Banda Tomalira\n
+EXTT5=Nonato Do Cavaquinho\n
+EXTT6=Elba Ramalho\n
+EXTT7=Papal guas\n
+EXTT8=Fogo Baiano\n
+EXTT9=Banda Beijo\n
+EXTT10=Luiz Caldas\n
+EXTT11=Banda Cheiro De Amor\n
+PLAYORDER=

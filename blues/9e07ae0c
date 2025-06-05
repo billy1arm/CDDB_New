@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	9420
+#	21357
+#	29932
+#	48072
+#	63730
+#	75130
+#	88457
+#	98522
+#	115250
+#	127167
+#	135707
+#
+# Disc length: 1968 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9e07ae0c
+DTITLE=Rita Pavone - I grandi successi originali cd2
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Viva la pappa col pomodoro
+TTITLE1=Ahi ahi ragazzo
+TTITLE2=Amore twist
+TTITLE3=Ti perdo e non vorrei
+TTITLE4=Finalmente libera
+TTITLE5=Sei fortissimo
+TTITLE6=Qui ritornerà
+TTITLE7=Son finite le vacanze
+TTITLE8=Stai com me
+TTITLE9=Sul cucuzzolo
+TTITLE10=Aupercalifragilistichespiralidoso
+TTITLE11=Lui
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

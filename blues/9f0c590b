@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22207
+#	41697
+#	65628
+#	85792
+#	110389
+#	129500
+#	147332
+#	173408
+#	191406
+#	215871
+#
+# Disc length: 3163 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9f0c590b
+DTITLE=Charlie Zaa - Un Segundo Sentimiento
+DYEAR=1900
+DGENRE=
+TTITLE0=Sensaciones (Tu Duda y La Mía, Azabache)
+TTITLE1=Recuerdos (Sombras, El Traje Blanco)
+TTITLE2=Sueños (En Mi Viejo San Juan, Lamento Borincano)
+TTITLE3=Tentaciones (No Me Quieras Tanto, Perfidia)
+TTITLE4=Anhelos (Me Vol Pa´l Pueblo, Ahora Seremos Felices)
+TTITLE5=Traiciones (Sin Un Querer, Ándate)
+TTITLE6=Promesas (Contigo, Triunfamos)
+TTITLE7=Desengaños (Derrumbes, Por Qué Así)
+TTITLE8=Amores (Esclavo y Amo, Entrega Total)
+TTITLE9=Verdades (Soñar Un Cariño, No Es Que Me Arrepienta)
+TTITLE10=Pensamientos (Caminemos, Rayito De Luna)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

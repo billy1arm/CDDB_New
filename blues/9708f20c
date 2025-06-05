@@ -1,0 +1,53 @@
+# xmcd
+#
+# Track frame offsets:
+# 150
+# 11825
+# 26435
+# 40808
+# 57088
+# 73075
+# 83475
+# 101620
+# 115520
+# 130925
+# 142040
+# 154858
+#
+# Disc length: 2292 seconds
+#
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.30 
+#
+DISCID=9708f20c
+DTITLE=multiple artists - Love songs from stage and screen
+DYEAR=1940
+DGENRE=Showtunes
+TTITLE0=Just in time, Tony Bennett
+TTITLE1=They say it's wonderful,Jo Stafford
+TTITLE2=They can't take that away from me, Ella Fitzgerald
+TTITLE3=All the things you are, Johnnie Mathis
+TTITLE4=I'm in the mood for love,Rosemary Clooney
+TTITLE5=Till there was you, Vaughn Monroe
+TTITLE6=We kiss in a shadow, Vic Damone
+TTITLE7=All the way, Lena Horne
+TTITLE8=Come to me,bend to me, Andy Williams
+TTITLE9=More than you know,The Hi Los
+TTITLE10=Time after time, Robert Goulet
+TTITLE11=Love is here to stay, Doris Day
+EXTD=
+EXTT0=showtunes/Bells are ringing
+EXTT1=/annie get your gun
+EXTT2=showtunes/Shallwe dance
+EXTT3=showtunes/Very warm for may
+EXTT4=showtunes/Every night at eight
+EXTT5=showtunes/musicman
+EXTT6=showtunes/King and I
+EXTT7=showtunes/The joker is wild
+EXTT8=showtunes/Brigadoon
+EXTT9=showtunes/The great day
+EXTT10=It happened in brooklyn
+EXTT11=showtunes/Goldwyn Follies
+PLAYORDER=

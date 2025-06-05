@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14442
+#	36555
+#	55472
+#	82580
+#	97750
+#	116695
+#	133777
+#	145950
+#	166052
+#	180632
+#	198985
+#
+# Disc length: 2836 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9c0b120c
+DTITLE=C. J. Chenier - My Baby Don't Wear No Shoes
+DYEAR=1900
+DGENRE=
+TTITLE0=My Baby Don't Wear No Shoes
+TTITLE1=I'm Coming Home
+TTITLE2=She's My Woman
+TTITLE3=Blue Flame Blues
+TTITLE4=Check Out The Zydeco
+TTITLE5=Harry's Big Mama Blues
+TTITLE6=Let Me In Your Heart
+TTITLE7=Bow-legged Mama
+TTITLE8=Banana Man
+TTITLE9=I'm All Shook Up
+TTITLE10=Used and Abused
+TTITLE11=I'll Be Long Gone
+EXTD=Arhoolie Records
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

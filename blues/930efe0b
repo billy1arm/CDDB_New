@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20397
+#	45725
+#	69402
+#	92405
+#	123325
+#	148930
+#	180412
+#	204117
+#	236005
+#	262157
+#
+# Disc length: 3840 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=930efe0b
+DTITLE=Compilation - New age
+DYEAR=1993
+DGENRE=New Age
+TTITLE0=Horizon
+TTITLE1=Amazonie
+TTITLE2=Statosphère 2
+TTITLE3=Condor
+TTITLE4=Zee
+TTITLE5=Galaxie découverte
+TTITLE6=Galaxie final
+TTITLE7=Archipel
+TTITLE8=Boreal
+TTITLE9=Lagon bleu
+TTITLE10=Constellation
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

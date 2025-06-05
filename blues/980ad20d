@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15185
+#	29025
+#	45743
+#	62710
+#	75248
+#	92870
+#	106238
+#	116690
+#	138833
+#	156273
+#	173440
+#	197515
+#
+# Disc length: 2772 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=980ad20d
+DTITLE=LouisArmstrong - JazzHistory
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=AroundTheWorld
+TTITLE1=ButNotForMe
+TTITLE2=GreenDolphinStreet
+TTITLE3=HelloYoungLovers
+TTITLE4=I'veGotYouUnderMySkin
+TTITLE5=MagnificentObsession
+TTITLE6=MoonRiver
+TTITLE7=MyFunnyValentine
+TTITLE8=MyOneAndOnlyLove
+TTITLE9=THAT'S ALL
+TTITLE10=TheVeryThoughtOfYou
+TTITLE11=TheySayIt'sWonderful
+TTITLE12=WhatAWonderfulWorld
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

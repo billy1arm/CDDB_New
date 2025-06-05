@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	16895
+# 	35627
+# 	53210
+# 	70562
+# 	88400
+# 	115697
+# 	129279
+# 	153947
+# 	178280
+# 	200965
+#
+# Disc length: 2888 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=960b460b
+DTITLE=Spencer Bohren - Present Tense
+DYEAR=1900
+DGENRE=
+TTITLE0=Darkness
+TTITLE1=Jake The Snake
+TTITLE2=Have Mercy
+TTITLE3=Another Day
+TTITLE4=Middle Of The Day
+TTITLE5=Sand To Sand
+TTITLE6=Fire Burns
+TTITLE7=Who DO You Love
+TTITLE8=The Party's Over
+TTITLE9=The River's Risin'
+TTITLE10=Long As I have You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

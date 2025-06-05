@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20732
+#     45852
+#     66957
+#     91722
+#     111730
+#     138562
+#     164172
+#     189890
+#     211252
+#     233137
+# 
+# Disc length: 3434 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=980d680b
+DTITLE=Peabo Bryson - Can You Stop The Rain
+DYEAR=1900
+DGENRE=
+TTITLE0=Lost In The Night
+TTITLE1=Can You Stop The Rain
+TTITLE2=Closer Than Close
+TTITLE3=Shower You With Love
+TTITLE4=I Can't Imagine (W/ Regina Belle)
+TTITLE5=I Wish You Love
+TTITLE6=You Don't Have To Beg
+TTITLE7=I Wanna Be With You
+TTITLE8=I Just Had To Fall
+TTITLE9=Soul Provider
+TTITLE10=If It's Really Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	25460
+#	43597
+#	71487
+#	93615
+#	113195
+#	132192
+#	156992
+#	171617
+#	192270
+#
+# Disc length: 2793 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=900ae70a
+DTITLE=Lynne Campbell - dressed in white
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=dressed in white
+TTITLE1=shake your moneymaker
+TTITLE2=i've been cryin'
+TTITLE3=merry go round
+TTITLE4=since you've been gone
+TTITLE5=for what it's worth
+TTITLE6=little wing
+TTITLE7=don't wait up 
+TTITLE8=something's happening here
+TTITLE9=any key
+EXTD=\nYEAR: 1999  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

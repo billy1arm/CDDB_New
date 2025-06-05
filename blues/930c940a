@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	27820
+#	51282
+#	71945
+#	99010
+#	113907
+#	136890
+#	170840
+#	193950
+#	216817
+#
+# Disc length: 3222 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=930c940a
+DTITLE=Thai Chau and Tuan Vu - Mua Dong Cua Anh
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Tuan Vu--Hoa Trinh Nu
+TTITLE1=Thai Chau--Yeu Mot Minh
+TTITLE2=Tuan Vu--Bao Dem Khong Ngu
+TTITLE3=Thai Chau--Xin Lam Nguoi Tinh Co Don
+TTITLE4=Tuan Vu--Hai Phuong Troi Cach Biet
+TTITLE5=Thai Chau--Nu Hon Cuoi
+TTITLE6=Tuan Vu--Co Lang Gieng
+TTITLE7=Thai Chau--Ao Anh
+TTITLE8=Tuan Vu--Dinh Menh Buon
+TTITLE9=Thai Chau--Mua Dong Cua Anh
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     29956
+#     57624
+#     90302
+#     133405
+#     165548
+#     199323
+#     234927
+#     265955
+#     293188
+# 
+# Disc length: 4300 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9910ca0a
+DTITLE=Various Artist - MasterBeat - Session 5, The Remixes
+DYEAR=1900
+DGENRE=
+TTITLE0=First Time Ever I Saw Your Face
+TTITLE1=Because You Loved Me
+TTITLE2=It's All Coming Back To Me Now
+TTITLE3=Unbreak My Heart
+TTITLE4=If You Leave Me Now
+TTITLE5=Sometimes When We Touch
+TTITLE6=Touch Me In The Morning
+TTITLE7=All By Myself
+TTITLE8=Breakfast At Tiffany's
+TTITLE9=You're So Vain
+EXTD=
+EXTT0=Nicole Jackson\n
+EXTT1=Lost\n
+EXTT2=Natalie Brown\n
+EXTT3=Toni Braxton\n
+EXTT4=Riverseries\n
+EXTT5=Newton\n
+EXTT6=Sylvia Mason James\n
+EXTT7=Atlanta\n
+EXTT8=Jackie 'O'\n
+EXTT9=Shima\n
+PLAYORDER=

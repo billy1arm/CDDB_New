@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	25777
+#	47779
+#	65692
+#	94909
+#	122876
+#	155147
+#	184732
+#	203910
+#	223329
+#
+# Disc length: 3229 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=9b0c9a0a
+DTITLE=Mana - Mana en Vivo [CD1)
+DYEAR=1994
+DGENRE=Latin
+TTITLE0=De pies a cabeza
+TTITLE1=Oye mi amor
+TTITLE2=Refrigerador
+TTITLE3=Donde jugaran los niños
+TTITLE4=Soledad
+TTITLE5=Huele a tristeza
+TTITLE6=Te llore un rio
+TTITLE7=Estoy agotado
+TTITLE8=Perdido en un barco
+TTITLE9=Buscandola
+EXTD=YEAR: 1994 ID3G: 86
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

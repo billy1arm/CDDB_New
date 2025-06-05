@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	19442
+#	33822
+#	48290
+#	63590
+#	84735
+#	103222
+#	123097
+#	143297
+#	158572
+#	172505
+#	191995
+#
+# Disc length: 2888 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=920b460c
+DTITLE=Jon Paris - Rock The Universe
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Blues This Bad
+TTITLE1=It's Not Easy
+TTITLE2=Rock-Rock-Roxanne
+TTITLE3=So Much Love
+TTITLE4=Deep Feeling
+TTITLE5=Goin' Nowhere Fast
+TTITLE6=Tryin' Times
+TTITLE7=Lost In The Shuffle
+TTITLE8=Born To Rock
+TTITLE9=Go! Mary Lou
+TTITLE10=Milwaukee Metal
+TTITLE11=Double Trouble
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

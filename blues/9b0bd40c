@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16899
+#	41088
+#	55061
+#	72359
+#	86366
+#	96242
+#	111551
+#	135412
+#	165929
+#	173188
+#	197143
+#
+# Disc length: 3030 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9b0bd40c
+DTITLE=Michael Haydn - Missa sancta theresiae MH 797  (Domonkos Héja, Erdödy Chamber Orchestra)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Missa sancta theresiae - I. Kyrie eleison
+TTITLE1=Missa sancta theresiae - II. Gloria in excelsis Deo
+TTITLE2=Missa sancta theresiae - III. Quoniam
+TTITLE3=Missa sancta theresiae - IV. In gloria Dei Patris
+TTITLE4=Missa sancta theresiae - V. Graduale - Petite et accipietis
+TTITLE5=Missa sancta theresiae - VI. Credo in unum Deum
+TTITLE6=Missa sancta theresiae - VII. Et incarnatus est
+TTITLE7=Missa sancta theresiae - VIII. Et resurrexit
+TTITLE8=Missa sancta theresiae - IX. Offertorium - Magnus Dominus
+TTITLE9=Missa sancta theresiae - X. Sanctus
+TTITLE10=Missa sancta theresiae - XI. Benedictus
+TTITLE11=Missa sancta theresiae - XII. Agnus Dei
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18262
+#	41550
+#	57525
+#	88500
+#	104250
+#	118575
+#	134025
+#	171750
+#	190237
+#	198235
+#
+# Disc length: 2755 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=960ac10b
+DTITLE=Dezo Ursiny - SME- Modry vrch
+DYEAR=1980
+DGENRE=Blues
+TTITLE0=Cestujuci
+TTITLE1=Luka
+TTITLE2=Obrazok hraca
+TTITLE3=Modry vrch I
+TTITLE4=Pod hladinou
+TTITLE5=Pristatie v marci
+TTITLE6=Spomienka na drozda
+TTITLE7=Modry vrch II
+TTITLE8=Nad riekou
+TTITLE9=Utok z hlbokeho rana
+TTITLE10=Vsetko vo vajci
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

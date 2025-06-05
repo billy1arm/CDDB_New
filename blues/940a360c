@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	14155
+#	30830
+#	48660
+#	68782
+#	84340
+#	101520
+#	128560
+#	141940
+#	152597
+#	166930
+#	179332
+#
+# Disc length: 2616 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=940a360c
+DTITLE=Manhattan Transfer - The Best Of Manhattan Transfer
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=Tuxedo Junction
+TTITLE1=Boy From New York City
+TTITLE2=Twilight Zone - Twilight Tone
+TTITLE3=Body And Soul
+TTITLE4=Candy
+TTITLE5=Four Brothers
+TTITLE6=Birdland
+TTITLE7=Gloria
+TTITLE8=Trickle Trickle
+TTITLE9=Operator
+TTITLE10=Java Jive
+TTITLE11=A Nightingale Sang In Berkeley Square
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

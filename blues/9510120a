@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6070
+#	83225
+#	111726
+#	131150
+#	175958
+#	183898
+#	223875
+#	228566
+#	287801
+#
+# Disc length: 4116 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9510120a
+DTITLE=Esbjörn Svensson Trio - Leucocyte
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Decade
+TTITLE1=Premonition I. Earth
+TTITLE2=Premonition II. Contorted
+TTITLE3=Jazz
+TTITLE4=Still
+TTITLE5=Ajar
+TTITLE6=Leucocyte I. Ab Initio
+TTITLE7=Leucocyte II. Ad Interim
+TTITLE8=Leucocyte III. Ad Mortem
+TTITLE9=Leucocyte IV. Ad Infinitum
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

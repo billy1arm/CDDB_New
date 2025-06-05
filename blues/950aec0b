@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23210
+#	41159
+#	56974
+#	76162
+#	93659
+#	109669
+#	123951
+#	139291
+#	154875
+#	173861
+#
+# Disc length: 2798 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=950aec0b
+DTITLE=Take That - The Circus
+DYEAR=2008
+DGENRE=Pop
+TTITLE0=The Garden
+TTITLE1=Greatest Day
+TTITLE2=Hello
+TTITLE3=Said It All
+TTITLE4=Julie
+TTITLE5=The Circus
+TTITLE6=How Did It Come To This
+TTITLE7=Up All Night
+TTITLE8=What Is Love
+TTITLE9=You
+TTITLE10=Hold Up A Light
+EXTD=YEAR: 2008
+EXTT0=Gitaar, Aram Van Ballaert
+EXTT1=Gitaar, Aram Van Ballaert
+EXTT2=Gitaar, Aram Van Ballaert
+EXTT3=Gitaar, Aram Van Ballaert
+EXTT4=Gitaar, Aram Van Ballaert
+EXTT5=Gitaar, Aram Van Ballaert
+EXTT6=Gitaar, Aram Van Ballaert
+EXTT7=Gitaar, Aram Van Ballaert
+EXTT8=Gitaar, Aram Van Ballaert
+EXTT9=Gitaar, Aram Van Ballaert
+EXTT10=Gitaar, Aram Van Ballaert
+PLAYORDER=

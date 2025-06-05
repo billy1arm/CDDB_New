@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	18010
+#	34020
+#	58967
+#	80940
+#	100475
+#	120300
+#	143255
+#	166015
+#	178260
+#	196187
+#	219955
+#
+# Disc length: 3238 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=990c9a0c,9f0c950c
+DTITLE=Bonnie Raitt - Luck Of The Draw
+DYEAR=1900
+DGENRE=
+TTITLE0=Something To Talk About
+TTITLE1=Good Man, Good Woman
+TTITLE2=I Can't Make You Love Me
+TTITLE3=Tangled And Dark
+TTITLE4=Come To Me
+TTITLE5=No Business
+TTITLE6=One Part Be My Lover
+TTITLE7=Not The Only One
+TTITLE8=Papa Come Quick
+TTITLE9=Slow Ride
+TTITLE10=Luck Of The Draw
+TTITLE11=All At Once
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

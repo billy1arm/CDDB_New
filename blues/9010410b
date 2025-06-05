@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25082
+#	51403
+#	73503
+#	110700
+#	147984
+#	180758
+#	210237
+#	240244
+#	259875
+#	279027
+#
+# Disc length: 4163 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9010410b
+DTITLE=Dave Barry - Four - The Music Of Miles Davis
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=01-ESP
+TTITLE1=02-All Of You
+TTITLE2=03-Joshua
+TTITLE3=04-My Funny Valentine
+TTITLE4=05-All Blues
+TTITLE5=06-So What
+TTITLE6=07-Neferititi
+TTITLE7=08-Gingerbread Boy
+TTITLE8=09-Four
+TTITLE9=10-Walkin'
+TTITLE10=11-Freddie Freeloader
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

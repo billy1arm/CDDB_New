@@ -1,0 +1,53 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29040
+#	61545
+#	75290
+#	106435
+#	110720
+#	146322
+#	168472
+#	192965
+#	228607
+#	242387
+#	266800
+#
+# Disc length: 3710 seconds
+#
+# Revision: 13
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9c0e7c0c
+DTITLE=Pat Metheny Group - Letter From Home
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Have You Heard
+TTITLE1=Every Summer Night
+TTITLE2=Better Days Ahead
+TTITLE3=Spring Ain't Here
+TTITLE4=45/8
+TTITLE5=5-5-7
+TTITLE6=Beat 70
+TTITLE7=Dream of the Return
+TTITLE8=Are We There Yet?
+TTITLE9=Vidala
+TTITLE10=Slip Away
+TTITLE11=Letter from Home
+EXTD=Pat Matheny/guitars, synths\nLyle Mays/piano, keyboards, trumpet\nSteve Rodby/bass\nPaul Wertico/drums\nPedro Aznar/misc\nArmando Marcal/percussion\nmore info\nMillenniumMusicProjectFormat, syntax as follows:\nTitle{Subtitle}[info](Lyricist;Composer
+EXTD=;Date,Artist,Location)[info]\ncorrections to: windking3@yahoo.com YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

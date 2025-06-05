@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32130
+#	60840
+#	69440
+#	90220
+#	120467
+#	144912
+#	162655
+#	193087
+#	202872
+#	216362
+#	248265
+#
+# Disc length: 3462 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=980d840c
+DTITLE=Paul Winter and Friends - Celtic Solstice
+DYEAR=1999
+DGENRE=New Age
+TTITLE0=Triumph
+TTITLE1=Golden Apples of the Sun
+TTITLE2=Hollow Hills
+TTITLE3=O'Farrel's Welcome to Limerick
+TTITLE4=Dawnwalker
+TTITLE5=My Fair and Faithful Love | Blarney Pilgrim
+TTITLE6=Sweet Comeraghs
+TTITLE7=After the Fleadh | Running Through the Woods with Keetu
+TTITLE8=The Minstrel's Adieu
+TTITLE9=Farewell to Govan
+TTITLE10=Golden Apples of the Sun (Reprise)
+TTITLE11=Dawnwalker (Reprise)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26618
+#	46916
+#	63692
+#	93413
+#	113456
+#	134537
+#	161930
+#	190958
+#	211445
+#	236332
+#
+# Disc length: 3383 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=990d350b
+DTITLE=Massimo Farao Trio - Cartoons In Jazz
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Alice's Adventures In Wonderland
+TTITLE1=Batman Theme
+TTITLE2=The Flinstones
+TTITLE3=Heidi
+TTITLE4=(Merrily We Roll Along) Looney Tunes Theme
+TTITLE5=The Pink Panther
+TTITLE6=Popeye The Sailorman
+TTITLE7=Someday My Prince Will Come
+TTITLE8=Spiderman Theme
+TTITLE9=Who Is Afraid Of The Big Bad Wolf
+TTITLE10=Woody Woodpecker
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

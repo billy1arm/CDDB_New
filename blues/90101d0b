@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	46502
+#	78640
+#	114520
+#	132985
+#	154995
+#	191170
+#	207772
+#	243787
+#	257795
+#	271040
+#
+# Disc length: 4127 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=90101d0b
+DTITLE=Te Jacques Loussier Trio - BACH BRANDENBURG No.5 and No.2
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=BRANDENBURG CONCERTO No.5 1st Mov:Allegro
+TTITLE1=BRANDENBURG CONCERTO No.5 2nd Mov:Affettuoso
+TTITLE2=BRANDENBURG CONCERTO No.5 3rd Mov:Allegro
+TTITLE3=AIR ON THE G STRING
+TTITLE4=PLELUDE IN C MINOR
+TTITLE5=BRANDENBURG CONCERTO No.2 1st Mov:Allegro moderato
+TTITLE6=BRANDENBURG CONCERTO No.2 2nd Mov:Andante
+TTITLE7=BRANDENBURG CONCERTO No.2 3rd Mov:Allegro assai
+TTITLE8=ETUDE 1st Mov
+TTITLE9=ETUDE 2nd Mov
+TTITLE10=ETUDE 3rd Mov
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

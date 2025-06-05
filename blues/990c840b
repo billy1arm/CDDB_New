@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47266
+#	60823
+#	72341
+#	80185
+#	120976
+#	153686
+#	165559
+#	171951
+#	194904
+#	221095
+#
+# Disc length: 3206 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=990c840b
+DTITLE=Jeff Kaiser - The Alchemical Mass - Suite Solutio
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=The Alchemical Mass I - Introitus
+TTITLE1=The Alchemical Mass II - Kyrie
+TTITLE2=The Alchemical Mass III - Collecta And Gloria
+TTITLE3=The Alchemical Mass IV - Epistola And Graduale
+TTITLE4=The Alchemical Mass V - Offertorium
+TTITLE5=The Alchemical Mass VI - Ave Maria And Commune
+TTITLE6=Suite Solutio - Part I
+TTITLE7=Suite Solutio - Part II
+TTITLE8=Suite Solutio - Part III
+TTITLE9=Suite Solutio - Part IV
+TTITLE10=Suite Solutio - Part V
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

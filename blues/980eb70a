@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26784
+#	61489
+#	88612
+#	111435
+#	133610
+#	161176
+#	186393
+#	217341
+#	243085
+#
+# Disc length: 3769 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=980eb70a
+DTITLE=Bob DYLAN - Modern Times
+DYEAR=2006
+DGENRE=Folk/Rock
+TTITLE0=01-bob_dylan-thunder_on_the_mountain
+TTITLE1=02-bob_dylan-spirit_on_the_water
+TTITLE2=03-bob_dylan-rollin_and_tumblin
+TTITLE3=04-bob_dylan-when_the_deal_goes_down
+TTITLE4=05-bob_dylan-someday_baby
+TTITLE5=06-bob_dylan-working_mans_blues_2
+TTITLE6=07-bob_dylan-beyond_the_horizon
+TTITLE7=08-bob_dylan-nettie_moore
+TTITLE8=09-bob_dylan-the_levees_gonna_break
+TTITLE9=10-bob_dylan-aint_talkin
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

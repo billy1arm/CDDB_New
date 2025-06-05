@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	160
+#	14017
+#	27437
+#	40797
+#	50397
+#	65320
+#	76345
+#	89750
+#	103022
+#	115155
+#	127230
+#
+# Disc length: 1869 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=94074b0b
+DTITLE=Junior Walker - Shake And Fingerpop
+DYEAR=1900
+DGENRE=
+TTITLE0=Shotgun
+TTITLE1=How Sweet It Is
+TTITLE2=Homecookin'
+TTITLE3=Money
+TTITLE4=Pucker Up Buttercup
+TTITLE5=What Does It Take
+TTITLE6=Come See About me
+TTITLE7=Hip City
+TTITLE8=Cleo's Mood
+TTITLE9=Shake And Fingerpop
+TTITLE10=Shoot Your Shot
+EXTD=Budget Label "Blue Moon"
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

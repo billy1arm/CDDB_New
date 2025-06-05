@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	155
+#	10432
+#	30280
+#	39077
+#	54362
+#	76342
+#	97027
+#	110852
+#	128247
+#	145652
+#	158035
+#	178017
+#
+# Disc length: 2586 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=910a180c
+DTITLE=Sam Myers Anson Funderburgh - My Love is Here to Stay
+DYEAR=1990
+DGENRE=Blues
+TTITLE0=True Love
+TTITLE1=Suggestion Blues
+TTITLE2=Life Problem
+TTITLE3=Everythings's Gonna be Alright
+TTITLE4=Hep Cats in Big Town
+TTITLE5=What's Wrong, What's Wrong
+TTITLE6=My Hear Cries Out For You
+TTITLE7=Poor Little Angel Child
+TTITLE8=Wee Wee Hours
+TTITLE9=Take Me Where You Go
+TTITLE10=Tomorrow Will FInd Me The Same Way
+TTITLE11=My Love Is Here To Stay
+EXTD=YEAR: 1990 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

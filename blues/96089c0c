@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	900
+#	17358
+#	32213
+#	43528
+#	56198
+#	69188
+#	81933
+#	91383
+#	109403
+#	120858
+#	133365
+#	152353
+#
+# Disc length: 2216 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=8b089a0c,96089c0c
+DTITLE=Rod Stewart - The Early Years
+DYEAR=1900
+DGENRE=
+TTITLE0=I Just Got Some
+TTITLE1=Bright Lights, Big City
+TTITLE2=Ain`t That Lovin` You Baby
+TTITLE3=Mopper`s Blues
+TTITLE4=Why Does It Go On?
+TTITLE5=Shake
+TTITLE6=Keep Your Hands Off Her
+TTITLE7=Don`t You Tell Nobody
+TTITLE8=Just Like I Treat You
+TTITLE9=The Day Will Come
+TTITLE10=Little Miss Understood
+TTITLE11=Come Home Baby
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

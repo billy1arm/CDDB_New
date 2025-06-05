@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20617
+#	38265
+#	61297
+#	83870
+#	98822
+#	120110
+#	137712
+#	155745
+#	168237
+#	188925
+#	206775
+#
+# Disc length: 3042 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5.3
+#
+DISCID=960be00c
+DTITLE=Himlaväsen - Bluesmobile
+DYEAR=1900
+DGENRE=
+TTITLE0=Let It Out
+TTITLE1=One Heart Leads To Another
+TTITLE2=Simple Time
+TTITLE3=Second Home
+TTITLE4=Release Yourself
+TTITLE5=Cool Water
+TTITLE6=Hotfoot
+TTITLE7=Tough Enough
+TTITLE8=Winner's the Looser
+TTITLE9=106 Miles
+TTITLE10=Bluesmobile
+TTITLE11=I Believe
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  24100
+#  46900
+#  88275
+#  116235
+#  134560
+#  152120
+#  169755
+#  189925
+#  219135
+#  236592
+#  257162
+#
+# Disc length: 3701 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: KiC 2.1 - (C) 1996-1998 Alwin Hoogerdijk
+#
+DISCID=9e0e730c
+DTITLE=Off The Wall Blues Band - On The Money
+DYEAR=1900
+DGENRE=
+TTITLE0=Big Bad Wolf
+TTITLE1=Steady Rollin' Woman
+TTITLE2=As The Years Go Passing By
+TTITLE3=I Wish You Would
+TTITLE4=The World's In A Bad Place
+TTITLE5=Jammin'
+TTITLE6=Farther Up The Road
+TTITLE7=You Fine
+TTITLE8=Somebody Watchin' You
+TTITLE9=Forty Days And Forty Nights
+TTITLE10=Help Me
+TTITLE11=Cleo's Mood
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

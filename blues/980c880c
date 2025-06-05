@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     19733
+#     31038
+#     56825
+#     72313
+#     96175
+#     114880
+#     136270
+#     154078
+#     174273
+#     195845
+#     217105
+# 
+# Disc length: 3210 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=980c880c
+DTITLE=Cesar Camargo Mariano - Cesar Camargo Mariano
+DYEAR=1900
+DGENRE=
+TTITLE0=Overture
+TTITLE1=Asa
+TTITLE2=Ao L o
+TTITLE3=Alambari
+TTITLE4=Beija-flor
+TTITLE5=Lima domingueira
+TTITLE6=Ali 
+TTITLE7=Refunk
+TTITLE8=Manhattan paulista
+TTITLE9=Gentle rain
+TTITLE10=Novo amanhecer
+TTITLE11=Amazonia (Beija-flor)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

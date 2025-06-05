@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21090
+#     38832
+#     55240
+#     79120
+#     97522
+#     125112
+#     142595
+#     165417
+#     179330
+#     197900
+#     214252
+# 
+# Disc length: 3188 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=980c720c
+DTITLE=No Secrets Blues Band - Moods
+DYEAR=1900
+DGENRE=
+TTITLE0=Fine Brown Frame
+TTITLE1=Last One
+TTITLE2=Someday Baby
+TTITLE3=Ninedays-A-Week
+TTITLE4=Hoochie Coochie Man
+TTITLE5=I Need Your Love So Bad
+TTITLE6=Rolling And Tumbling
+TTITLE7=Hallelujah I Love Her So
+TTITLE8=Work Song
+TTITLE9=Riverside Blues
+TTITLE10=Walkin' Blues
+TTITLE11=Sweet Home Chicago
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

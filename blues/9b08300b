@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  16995
+#  30730
+#  42075
+#  55012
+#  74210
+#  88435
+#  100312
+#  115130
+#  129807
+#  145432
+#
+# Disc length: 2098 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=9b08300b
+DTITLE=Various Artist - Hot, Hot Reggae  Vol. 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Soul Rebel/Bob Marley and the Wailers
+TTITLE1=I Show You How to Reggae/Soulful Dynamics
+TTITLE2=Black and White/Greyhound
+TTITLE3=Roots Rock/Desmond Dekker
+TTITLE4=Prisoner of Love/Merger
+TTITLE5=Money in My Pocket/Denis Brown
+TTITLE6=Dream Lover/Greyhound
+TTITLE7=Can You Feel It?/Billy Ocean
+TTITLE8=Reggae Fever/Curley David
+TTITLE9=Mr. Brown/Bob Marley and the Wailers
+TTITLE10=Stand For Our Rights/Greyhound
+EXTD=
+EXTT0=Bob Marley and the Wailers
+EXTT1=Soulful Dynamics
+EXTT2=Greyhound
+EXTT3=Desmond Dekker
+EXTT4=Merger
+EXTT5=Denis Brown
+EXTT6=Greyhound
+EXTT7=Billy Ocean
+EXTT8=Curley David
+EXTT9=Bob Marley and the Wailers
+EXTT10=Greyhound
+PLAYORDER=

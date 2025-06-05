@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  10737
+#  21985
+#  33810
+#  44305
+#  55240
+#  67052
+#  76065
+#  83877
+#  95117
+#  106085
+#  117357
+#
+# Disc length: 1729 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=9006bf0c
+DTITLE=Paul Gayten - Chess King of New Orleans
+DYEAR=1900
+DGENRE=blues
+TTITLE0=You Better Beleive It
+TTITLE1=Mother Roux
+TTITLE2=Down Boy
+TTITLE3=Nervous Boogie
+TTITLE4=For You My Love
+TTITLE5=The Sweeper
+TTITLE6=Music Goes Round and Round
+TTITLE7=Windy
+TTITLE8=Get It
+TTITLE9=Tickle Toe
+TTITLE10=Hot Cross Buns
+TTITLE11=The Hunch
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

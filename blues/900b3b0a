@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	20352
+#	48920
+#	71710
+#	89057
+#	106310
+#	119470
+#	135757
+#	149815
+#	174682
+#
+# Disc length: 2877 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 1.4
+#
+DISCID=900b3b0a
+DTITLE=NASTY NED and the FAMOUS CHILI DOGS - Just Like Life
+DYEAR=1900
+DGENRE=
+TTITLE0=Suspicious
+TTITLE1=Just Like Life
+TTITLE2=So Many Angels
+TTITLE3=The Wind
+TTITLE4=Sure To Be Shot
+TTITLE5=Apricot Brandy
+TTITLE6=The Poverty Line
+TTITLE7=A Book
+TTITLE8=You Upset Me
+TTITLE9=Lay Down With You
+EXTD=Nasty Ned\tvocals/harmonica\nLee Fink\t\tguitars\nGeorge Evers\tbass/k
+EXTD=eys/vocals\nRichard Tulp\tdrums\n\nBernie "the Burn" Dippolito conga
+EXTD=s(1,7,&8) background vocals(1 and 7]\n\nRecorded and mixed by Ben Elli
+EXTD=ot \nShowplace Studios\nDover, NJ - Summer 1993\nAssistant Engineer
+EXTD=: Rick Deardorff\n\nArranged and Produced by\nNasty Ned and the Famou
+EXTD=s Chili Dogs\n\nInterstate Records\nP.O. Box 42\nBound Brook, NJ 088
+EXTD=05
+EXTT0=George Evers\nBrotherwood Music ASCAP
+EXTT1=George Evers - N. Petti\nBrotherwood Music ASCAP-Nedro's Music BM
+EXTT1=I
+EXTT2=George Evers\nBrotherwood Music ASCAP
+EXTT3=George Evers\nBrotherwood Music ASCAP
+EXTT4=George Evers - Lee Fink - Joseph Cerisano\nBrotherwood Music ASCA
+EXTT4=P \nLa Beaus Music-Jenessa Music BMI
+EXTT5=Weis_Fonfara\nNina Music BMI
+EXTT6=George Evers\nBrotherwood Music ASCAP
+EXTT7=Geoorge Evers\nBrotherwood Music ASCAP
+EXTT8=J. Josea - M. Davis\nModern Music BMI
+EXTT9=N. Petti - George Evers - Lee Fink - Richard Tulp\nNedro's Music 
+EXTT9=BMI
+PLAYORDER=

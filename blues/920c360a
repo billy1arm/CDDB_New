@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    150
+#    37392
+#    52417
+#    75772
+#    94535
+#    121245
+#    140207
+#    169105
+#    193392
+#    210502
+#
+# Disc length: 3128 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.4.0c  (wjohn@fix.net)
+#
+DISCID=920c360a
+DTITLE=Various Artist - 
+DTITLE=Antones - 10th Anniversary Live
+DYEAR=1900
+DGENRE=
+TTITLE0=How'd You Learn To Shake It Like That -Snooky
+TTITLE1=If You Don't Want Me Baby - Eddie Taylor
+TTITLE2=Cotton Crop Blues - James Cotton
+TTITLE3=Built Up From The Ground - Sunnyland Slim
+TTITLE4=Cold, Cold Feeling - Albert Collins
+TTITLE5=Look On Yonders Wall - Buddy Guy
+TTITLE6=Things I Used To Do - Buddy Guy
+TTITLE7=Caldonia - Pinetop Perkins
+TTITLE8=Double Trouble - Otis Rush
+TTITLE9=You're Sweet - Jimmy Rogers w/Jimmie Vaughan
+EXTD=
+EXTT0=Pryor
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

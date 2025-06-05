@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16661
+#	29316
+#	42600
+#	56533
+#	74019
+#	89713
+#	111318
+#	132512
+#	164254
+#	187746
+#
+# Disc length: 2765 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=990acb0b
+DTITLE=Michael Haydn - Symphonies  (Pàl Németh, Capella Savaria)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Symphonie en ré majeur (P41) - I. Allegro spirituoso
+TTITLE1=Symphonie en ré majeur (P41) - II. Tempo di minuetto - Trio
+TTITLE2=Symphonie en ré majeur (P41) - III. Andante
+TTITLE3=Symphonie en ré majeur (P41) - IV. Presto assai
+TTITLE4=Symphonie en la majeur - I. Allegro molto
+TTITLE5=Symphonie en la majeur - II. Menuetto - Trio
+TTITLE6=Symphonie en la majeur - III. Andante
+TTITLE7=Symphonie en la majeur - IV. Finale - Allegro molto
+TTITLE8=Symphonie en ré majeur (P42) - I. Adagio - Allegro molto
+TTITLE9=Symphonie en ré majeur (P42) - II. Andante
+TTITLE10=Symphonie en ré majeur (P42) - III. Finale - Presto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

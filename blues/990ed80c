@@ -1,0 +1,52 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17184
+#	44274
+#	72083
+#	89796
+#	113084
+#	127939
+#	158210
+#	186071
+#	210132
+#	234340
+#	261209
+# Disc length: 3802 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=990ed80c
+DTITLE=Vari - Hot - Cd2
+DYEAR=1900
+DGENRE=
+TTITLE0=Nitin Sawhney - Nostalgia
+TTITLE1=Shri - Meditation
+TTITLE2=Mystic Diversions - The love dance
+TTITLE3=Nits - Crime and punishment
+TTITLE4=Sainko Namtchylak - Like transparent shadow
+TTITLE5=Farualla - Tonga
+TTITLE6=Camelia - 76
+TTITLE7=Atman - All is one
+TTITLE8=Zero 7 - Give it away
+TTITLE9=No man - No defence
+TTITLE10=Ludovico Einaudi - Voice
+TTITLE11=Pole - Kirschenessen
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40752
+#	54701
+#	72501
+#	89656
+#	108038
+#	118720
+#	136871
+#	169086
+#	182520
+#	199636
+#
+# Disc length: 3200 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=950c7e0b
+DTITLE=John Hughes - Wild Ocean II
+DYEAR=2011
+DGENRE=New Age
+TTITLE0=The Mandela Suite (Choral Version)
+TTITLE1=Our New Horizon
+TTITLE2=Lucy in the Hall
+TTITLE3=The Troublemaker's Jig
+TTITLE4=Appolonia
+TTITLE5=Thoughts of Maybelle
+TTITLE6=May You Dance
+TTITLE7=Alhambra
+TTITLE8=Cycles
+TTITLE9=Goodbye City
+TTITLE10=The Mandela Suite (Instrumental Version)
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

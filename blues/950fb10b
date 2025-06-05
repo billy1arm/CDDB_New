@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33162
+#	48385
+#	72672
+#	105300
+#	130053
+#	178134
+#	200068
+#	225431
+#	249435
+#	275324
+#
+# Disc length: 4019 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=950fb10b
+DTITLE=Muzio Clementi - Oeuvres de jeunesse - Sonates and Duettos  (Pietro Spada and Giorgio Cozzolino, piano)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Sonate N°2, Op.2 - I. Allegro quasi presto
+TTITLE1=Sonate N°2, Op.2 - II. Larghetto cantabile
+TTITLE2=Sonate N°2, Op.2 - III. Allegro spiritoso ma con grazia
+TTITLE3=Sonate N°4, Op.2 - I. Allegro cantabile
+TTITLE4=Sonate N°4, Op.2 - II. Allegretto spiritoso
+TTITLE5=Sonate N°6, Op.2 - I. Allegro maestoso
+TTITLE6=Sonate N°6, Op.2 - II. Prestissimo
+TTITLE7=Duetto N°1, Op.3 - I. Allegro spiritoso
+TTITLE8=Duetto N°1, Op.3 - II. Rondeau (presto)
+TTITLE9=Duetto N°2, Op.3 - I. Allegro maestoso
+TTITLE10=Duetto N°2, Op.3 - II. Tempo di minuetto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

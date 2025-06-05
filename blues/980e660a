@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35639
+#	85377
+#	106464
+#	139924
+#	182022
+#	200792
+#	208490
+#	228994
+#	248800
+#
+# Disc length: 3688 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=980e660a
+DTITLE=プラハ交弦楽団 - プラハ交響楽団が送る名曲集　～やすらぐ～
+DYEAR=1999
+DGENRE=Classical
+TTITLE0=交響曲　第4番　イ長調「イタリア」第1楽章
+TTITLE1=交響曲　第9番　ホ短調「新世界より」第4楽章
+TTITLE2=ペールギュント　第2組曲　Op.55より　「ソルヴェーグの歌」
+TTITLE3=序曲「コリオラン」
+TTITLE4=ハンガリー狂詩曲　第2番 嬰ハ短調
+TTITLE5=スラヴ舞曲集より　第1番　ハ長調　Op.46-1
+TTITLE6=「アテネの廃墟」より　トルコ行進曲
+TTITLE7=スラヴ舞曲集より　第3番　変イ長調　Op.46-3
+TTITLE8=スラヴ舞曲集より　第8番　ト短調　Op.46-8
+TTITLE9=スラヴ舞曲集より　第10番　ホ短調　Op.72-2
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

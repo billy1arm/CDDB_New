@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27942
+#	39412
+#	49400
+#	60020
+#	131190
+#	139430
+#	150182
+#	185560
+#	265115
+#	321657
+#
+# Disc length: 4460 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9b116a0b
+DTITLE=hansjörg schmitthenner - welthören cd 2 europa
+DYEAR=1990
+DGENRE=New Age
+TTITLE0=vögel im frühling_variationen von vogelstimmen
+TTITLE1=serbien_hornblasen für die kühe_gesänge für die bienenkönigin
+TTITLE2=kloster von sagorsk bei moskau_glocken, taufe, gebetsgesänge
+TTITLE3=familienfest auf dem russischen lande
+TTITLE4=neapel_auf dem markt_beschwörung des san genaro
+TTITLE5=venedig bei nacht
+TTITLE6=bayerische alpen_almengesänge, almabtrieb
+TTITLE7=oktoberfest in münchen
+TTITLE8=paris_unter den häusern und strassen, museen, blvrds
+TTITLE9=london_observatorium greenwich, big ben, buckingham, speaker's corner
+TTITLE10=glocken_stimmen christlichen glaubens
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26744
+#	50685
+#	75603
+#	92818
+#	114407
+#	161327
+#	187402
+#	223167
+#	265219
+#	317118
+#
+# Disc length: 4788 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=9d12b20b
+DTITLE=Miles Davis - Blue Miles
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0='Round Midnight
+TTITLE1=Blues For Pablo
+TTITLE2=Blue in green
+TTITLE3=The Pan Piper
+TTITLE4=Drad Dog
+TTITLE5=Basin Street Blues
+TTITLE6=Circle
+TTITLE7=Sweet Pea
+TTITLE8=So what
+TTITLE9=All Blues
+TTITLE10=Flamenco Sketches
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16757
+#	46362
+#	59547
+#	76217
+#	101150
+#	115835
+#	128382
+#	139720
+#	158207
+#	182465
+#	207670
+#
+# Disc length: 2976 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9a0b9e0c
+DTITLE=Holmes Brothers - Lotto Land
+DYEAR=1900
+DGENRE=
+TTITLE0=Funky Bust
+TTITLE1=Don't Spare Your Sword
+TTITLE2=I See You
+TTITLE3=Tell Me Again
+TTITLE4=Radio Face
+TTITLE5=Georgia Peach
+TTITLE6=Basement Blues
+TTITLE7=Win Big
+TTITLE8=On The Rocks
+TTITLE9=So Easy
+TTITLE10=Simple Things
+TTITLE11=Lotto Land
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

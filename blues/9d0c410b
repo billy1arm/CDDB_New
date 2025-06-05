@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20630
+#     41447
+#     59197
+#     82987
+#     101365
+#     123482
+#     146910
+#     173580
+#     194727
+#     212457
+# 
+# Disc length: 3139 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9d0c410b
+DTITLE=Johnny Rawls - Louisiana Woman
+DYEAR=1900
+DGENRE=
+TTITLE0=I Don't Want No Woman Tyin' Me Down
+TTITLE1=Louisiana Woman
+TTITLE2=It's All In The Game
+TTITLE3=Watcha Gonna Do?
+TTITLE4=Can't Nobody
+TTITLE5=You Got Me Going Through Changes
+TTITLE6=It's A Shame
+TTITLE7=The Blues(Good As Gold)
+TTITLE8=I Got Soul
+TTITLE9=Lover Man
+TTITLE10=How Much Longer?
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

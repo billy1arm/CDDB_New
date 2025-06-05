@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13455
+#     27083
+#     36920
+#     53543
+#     69960
+#     84162
+#     103911
+#     123890
+#     136764
+#     148061
+#     164641
+# 
+# Disc length: 2398 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9d095c0c
+DTITLE=Skip James - Skip's Piano Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=All Night Long
+TTITLE1=Rock Island Blues
+TTITLE2=Little Boy, How Old Are You
+TTITLE3=Four O'Clock Blues
+TTITLE4=Black Gal
+TTITLE5=Little Cow and Calf
+TTITLE6=How Long Blues
+TTITLE7=Vicksburg Blues
+TTITLE8=Lazy Bones
+TTITLE9=Walking The Sea
+TTITLE10=22-20 Blues
+TTITLE11=Special Rider Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

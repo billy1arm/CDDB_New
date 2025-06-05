@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19022
+#	31187
+#	53620
+#	72122
+#	92410
+#	103665
+#	119540
+#	129985
+#	152957
+#	169707
+#	192972
+#
+# Disc length: 2840 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=920b160c
+DTITLE=Eddie Shaw - In the Land of the CROSSROADS
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=Delta Bound
+TTITLE1=Tears are Falling
+TTITLE2=Fannie Mae Jones
+TTITLE3=I got to Go
+TTITLE4=She didn't tell me Everything
+TTITLE5=My Friend Rosco
+TTITLE6=Dunkin' Donut Woman
+TTITLE7=Take home Pay
+TTITLE8=Wine Head Hole
+TTITLE9=Chicago Man
+TTITLE10=Operator
+TTITLE11=Blues at the Crossroads
+EXTD=YEAR: 1992 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

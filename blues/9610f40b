@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41080
+#	67905
+#	110267
+#	139162
+#	155837
+#	181685
+#	202100
+#	226902
+#	245920
+#	309250
+#
+# Disc length: 4342 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9610f40b
+DTITLE=Miles Davis - The Best of Miles Davis
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Someday My Prince Will Come
+TTITLE1='Round Midnight
+TTITLE2=So What
+TTITLE3=Seven Steps to Heaven
+TTITLE4=I Loves You, Porgy
+TTITLE5=Milestones
+TTITLE6=My Ship
+TTITLE7=E.S.P.
+TTITLE8=In A Silent Way
+TTITLE9=Miles Runs the Voodoo Down
+TTITLE10=Time After Time
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

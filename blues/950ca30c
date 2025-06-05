@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	19167
+#	37492
+#	62380
+#	76880
+#	90877
+#	102987
+#	114600
+#	143737
+#	182422
+#	203247
+#	218305
+#
+# Disc length: 3237 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=950ca30c
+DTITLE=bb king - king of the blues
+DYEAR=1900
+DGENRE=
+TTITLE0=into the night
+TTITLE1=right place wrong time
+TTITLE2=never make a move to soon
+TTITLE3=ain't nobody home
+TTITLE4=mother fuyer
+TTITLE5=how blue can you get
+TTITLE6=paying the cost to the bass
+TTITLE7=goin' down slow
+TTITLE8=why i sing the blues
+TTITLE9=hummingbird
+TTITLE10=better not look down
+TTITLE11=the thrill is gone
+EXTD=pro cd from the \nbox set\n\nB.B. King king of the Blues
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

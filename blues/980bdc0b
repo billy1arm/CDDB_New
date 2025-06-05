@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	21390
+#	39132
+#	62800
+#	80905
+#	96970
+#	114245
+#	138590
+#	163507
+#	188025
+#	207610
+#
+# Disc length: 3038 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=980bdc0b
+DTITLE=Ruthless Blues - Sure Enough!
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=The Stomp (Is That The Blues)
+TTITLE1=Rollin' Drunk
+TTITLE2=Can I See You Tonight
+TTITLE3=Handle
+TTITLE4=This Time
+TTITLE5=Bad Case Of Lovin' You
+TTITLE6=Nursery Rhyme Blues
+TTITLE7=Break My Back
+TTITLE8=Women Problems
+TTITLE9=Born Under A Bad Sign
+TTITLE10=Lowdown Blues
+EXTD=YEAR: 1992 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

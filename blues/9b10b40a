@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	17290
+#	48945
+#	89237
+#	125865
+#	149920
+#	184130
+#	213872
+#	232477
+#	271070
+#
+# Disc length: 4278 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL1
+#
+DISCID=9b10b40a
+DTITLE=Blue Ice - Jimmy Dawkins and Vinnir Dora
+DYEAR=1900
+DGENRE=
+TTITLE0=Too Much Alcohol
+TTITLE1=Tin Pan Alley
+TTITLE2=Help Me
+TTITLE3=Country Shack
+TTITLE4=Feel So Bad
+TTITLE5=Wellfare Line
+TTITLE6=That's Alright
+TTITLE7=You Don't Love Me
+TTITLE8=Nightlife
+TTITLE9=Sometimes I Have A Heartache
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

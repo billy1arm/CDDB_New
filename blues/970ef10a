@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     22775
+#     57653
+#     83875
+#     120713
+#     146668
+#     169968
+#     201713
+#     244958
+#     265925
+# 
+# Disc length: 3827 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=970ef10a
+DTITLE=Harry Muskee - Muskee Live
+DYEAR=1900
+DGENRE=
+TTITLE0=Goin' down
+TTITLE1=Too blind to see
+TTITLE2=Caddilac assembly line
+TTITLE3=Shaky grounds
+TTITLE4=I'm in love
+TTITLE5=Brother Booze
+TTITLE6=Help me
+TTITLE7=Hobo Blues
+TTITLE8=Voodoo daddy
+TTITLE9=Window of my eyes ('91)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

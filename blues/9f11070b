@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	27767
+#	49495
+#	88505
+#	115052
+#	141470
+#	171302
+#	193490
+#	219127
+#	231295
+#	272442
+#
+# Disc length: 4361 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9f11070b
+DTITLE=burr and klaiber - Live in München '97
+DYEAR=1900
+DGENRE=
+TTITLE0=The Black Horse
+TTITLE1=Vogasere
+TTITLE2=Spectaculum Mundi Blues
+TTITLE3=Manchmal
+TTITLE4=Ali Goes To Bali
+TTITLE5=Matadors Last Fight
+TTITLE6=Besame Mucho
+TTITLE7=Im Frühtau zu Berge
+TTITLE8=Du Du Dudelidu
+TTITLE9=Brazil
+TTITLE10=Open Rooms
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

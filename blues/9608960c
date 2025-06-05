@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     5322
+#     22540
+#     43865
+#     62640
+#     77745
+#     91072
+#     94560
+#     110350
+#     126930
+#     132517
+#     149855
+# 
+# Disc length: 2200 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9608960c
+DTITLE=Grethe Svensen - 24hrs
+DYEAR=1900
+DGENRE=
+TTITLE0=Think
+TTITLE1=Easiest To Stay
+TTITLE2=24 Hours
+TTITLE3=No Matter
+TTITLE4=Good Moments
+TTITLE5=Spread Your Wings
+TTITLE6=Interlude
+TTITLE7=Earthbound
+TTITLE8=The New Beginning
+TTITLE9=I Who Thought
+TTITLE10=Just Maybe
+TTITLE11=Onions
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

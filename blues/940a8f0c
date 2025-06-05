@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13499
+#	27379
+#	42090
+#	57535
+#	86460
+#	105007
+#	120942
+#	139968
+#	153645
+#	168830
+#	183374
+#
+# Disc length: 2705 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta5_freedb
+#
+DISCID=940a8f0c
+DTITLE=Blackjacks, The - High Roller
+DYEAR=1900
+DGENRE=
+TTITLE0=Ouch!
+TTITLE1=The Thing You Love
+TTITLE2=Three-Card Trick
+TTITLE3=One Woman Man
+TTITLE4=Rhythm Of The Blues
+TTITLE5=Poor Boy
+TTITLE6=Clive's Jive
+TTITLE7=Liar
+TTITLE8=Blackjack Boogie
+TTITLE9=Special Sauce
+TTITLE10=Let's Talk About It
+TTITLE11=Scarborough Fair
+EXTD=(c) 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

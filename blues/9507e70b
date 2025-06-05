@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#     150
+#     16725
+#     22350
+#     35400
+#     49350
+#     57075
+#     78525
+#     94725
+#     106125
+#     119175
+#     126150
+#
+# Disc length: 2025 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Clarion 0.9.2
+#
+DISCID=9507e70b
+DTITLE=Peter Ratzenbeck - Blue Balance
+DYEAR=1900
+DGENRE=
+TTITLE0=In the Valley
+TTITLE1=Bike Rider´s Rag
+TTITLE2=The Red Ring
+TTITLE3=If You Leave Me
+TTITLE4=Fig Leaf Rag
+TTITLE5=Levitation
+TTITLE6=Big Road Blues
+TTITLE7=Song for Brigitte
+TTITLE8=Ten Thousand Miles
+TTITLE9=Sad Pig´s Dance
+TTITLE10=Classical Gypsy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

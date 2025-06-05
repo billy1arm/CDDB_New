@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20063
+#	41269
+#	57920
+#	70725
+#	109632
+#	132758
+#	154356
+#	174437
+#	188110
+#	220503
+#	249162
+#
+# Disc length: 3573 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta0
+#
+DISCID=990df30c
+DTITLE=Eric Clapton and BB King - Riding With the King
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Riding With the King
+TTITLE1=Ten Long Years
+TTITLE2=Key to the Highway
+TTITLE3=Marry You
+TTITLE4=Three O'Clock Blues
+TTITLE5=Help the Poor
+TTITLE6=I Wanna Be
+TTITLE7=Worried Life Blue
+TTITLE8=Days of Old
+TTITLE9=When My Heart Beats Like a Hammer
+TTITLE10=Hold On! I'm Comin'!
+TTITLE11=Come Rain or Come Shine
+EXTD=YEAR: 2000 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

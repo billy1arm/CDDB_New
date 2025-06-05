@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	13630
+#	27163
+#	39618
+#	51170
+#	63913
+#	76573
+#	88350
+#	101095
+#	115875
+#	129913
+#	140468
+#
+# Disc length: 2125 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=96084b0c
+DTITLE=Etta James - At Last
+DYEAR=1900
+DGENRE=
+TTITLE0=At Last
+TTITLE1=My Dearest Darling
+TTITLE2=Something's Got A Hold On Me
+TTITLE3=Stop The Wedding
+TTITLE4=Spoonful
+TTITLE5=Security
+TTITLE6=I'd Rather Go Blind
+TTITLE7=It's Too Soon To Know
+TTITLE8=Sunday Kinf Of Love
+TTITLE9=Stormy Weather
+TTITLE10=Girl Out Of My Dreams
+TTITLE11=Out On The Street Again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

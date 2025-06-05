@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	11683
+#	22683
+#	35665
+#	50625
+#	64285
+#	78690
+#	97120
+#	117240
+#	132433
+#	151008
+#	168083
+#
+# Disc length: 2466 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=9709a00c
+DTITLE=Mahalia Jackson - He's Got The Whole World In His Hand
+DYEAR=1982
+DGENRE=Blues
+TTITLE0=He's Got The Whole World In His Hand
+TTITLE1=Jushua Fit The Battle Of Jericho
+TTITLE2=An Evening Prayer
+TTITLE3=I'm On My Way
+TTITLE4=Walk Over God's Heaven
+TTITLE5=Didn't It Rain
+TTITLE6=I'm Going To Live The Life I Sing About In My Song
+TTITLE7=His Eye Is On The Sparrow
+TTITLE8=It Don't Cost Very Much
+TTITLE9=A City Called Heaven
+TTITLE10=The Lord's Prayer
+TTITLE11=My God Is Real
+EXTD=\nYEAR: 1982  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

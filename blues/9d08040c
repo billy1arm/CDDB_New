@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     5685
+#     24647
+#     40907
+#     49872
+#     67167
+#     77837
+#     87827
+#     98462
+#     116962
+#     132397
+#     143305
+# 
+# Disc length: 2054 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9d08040c
+DTITLE=Berini's, De - De Berini's Live!
+DYEAR=1900
+DGENRE=
+TTITLE0=In de maneschijn
+TTITLE1=Een man is een man
+TTITLE2=Harry is the boy for mij
+TTITLE3=Geiser
+TTITLE4=Tommie
+TTITLE5=Zachtjes tikt de regen
+TTITLE6=Harrie Berini boy
+TTITLE7=Telefoon
+TTITLE8=Come on
+TTITLE9=Sh Boom
+TTITLE10=Zeg niet nee
+TTITLE11=Diep in mijn hart
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

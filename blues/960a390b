@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     28950
+#     44995
+#     61630
+#     77020
+#     94335
+#     107185
+#     129382
+#     147957
+#     166912
+#     181142
+# 
+# Disc length: 2619 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=960a390b
+DTITLE=Z  Ramalho - Cidades and Lendas
+DYEAR=1900
+DGENRE=
+TTITLE0=Cidades and Lendas
+TTITLE1=Leva Eu Sodade
+TTITLE2=Bomba De Estrelas
+TTITLE3=Para Um Amor No Recife
+TTITLE4=Cada Um D  o Que Tem
+TTITLE5=N o Existe Molhado Igual ao Pranto
+TTITLE6=Profetas
+TTITLE7=Rap-Xote Esot rico
+TTITLE8=Os  ltimos Dias
+TTITLE9=Alforria
+TTITLE10=Um Lugar Para Sonhar
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

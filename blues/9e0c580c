@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	21252
+#	37390
+#	45035
+#	65132
+#	86025
+#	110545
+#	133155
+#	150375
+#	163537
+#	189812
+#	206605
+#
+# Disc length: 3162 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9e0c580c
+DTITLE=Elise Caron - Le rapatirole
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=La bataille m'avale
+TTITLE1=Epouvantail à poisson
+TTITLE2=Raptime
+TTITLE3=Arroi désarroi
+TTITLE4=Prière
+TTITLE5=A c.
+TTITLE6=Tit à petit
+TTITLE7=ich liebe dich
+TTITLE8=Rose des sables
+TTITLE9=Ode à rien
+TTITLE10=La belle au bois dormi
+TTITLE11=Eurydice
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

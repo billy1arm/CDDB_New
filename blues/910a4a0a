@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14031
+#	37240
+#	50228
+#	65234
+#	101826
+#	120848
+#	138212
+#	163043
+#	180403
+#
+# Disc length: 2636 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=910a4a0a
+DTITLE=何占豪 - 梁祝
+DYEAR=1900
+DGENRE=Musical
+TTITLE0=鋼琴演奏
+TTITLE1=雙電子琴演奏
+TTITLE2=二胡演奏
+TTITLE3=古箏演奏
+TTITLE4=排笛演奏
+TTITLE5=小提琴演奏
+TTITLE6=吉他演奏
+TTITLE7=手風琴演奏
+TTITLE8=薩克斯風演奏
+TTITLE9=揚琴演奏
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

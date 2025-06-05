@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18454
+#	56635
+#	74587
+#	96642
+#	123335
+#	133516
+#	162863
+#	187518
+#	203751
+#	234175
+#
+# Disc length: 3352 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=910d160b
+DTITLE=Stan The Man - Two Sides To Every Story
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Built For Comfort
+TTITLE1=Rock Me Baby
+TTITLE2=Who's Been Talking
+TTITLE3=The Sun Is Shining
+TTITLE4=Work Song
+TTITLE5=Hound Dog
+TTITLE6=It Won't Last
+TTITLE7=Thrill Is Gone
+TTITLE8=Bright Lights, Big City
+TTITLE9=Unchain My Heart
+TTITLE10=Badman
+EXTD=\n\nYEAR: 2000  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

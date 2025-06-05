@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19260
+#	39205
+#	56967
+#	77495
+#	94740
+#	110095
+#	129260
+#	145215
+#	160750
+#	180570
+#	199507
+#
+# Disc length: 2838 seconds
+#
+# Revision: 23
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=970b140c
+DTITLE=Celine Dion - The French Album
+DYEAR=1995
+DGENRE=Rock
+TTITLE0=Pour Que Tu M'aimes Encore
+TTITLE1=Le Ballet
+TTITLE2=Regarde Moi
+TTITLE3=Je Sais Pas
+TTITLE4=La Memoire D'Abraham
+TTITLE5=Cherche Encore
+TTITLE6=Destin
+TTITLE7=Les Derniers Seront Les Premiers
+TTITLE8=J'irai Où Tu Iras
+TTITLE9=J'attendais
+TTITLE10=Prière Païenne
+TTITLE11=Vole
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13990
+#     28277
+#     40020
+#     53267
+#     66012
+#     77807
+#     90690
+#     105047
+#     119735
+#     131125
+#     143172
+# 
+# Disc length: 2109 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9c083b0c
+DTITLE=Muddy Waters - More Real Folk Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Sad Letter
+TTITLE1=Gonna Need My Help
+TTITLE2=Whiskey Blues
+TTITLE3=Down South Blues
+TTITLE4=Train Fare Blues
+TTITLE5=Kind Hearted Woman
+TTITLE6=Hello Little Girl
+TTITLE7=Early Morning Blues
+TTITLE8=Too Young To Know
+TTITLE9=She's Alright
+TTITLE10=Landlady
+TTITLE11=Honeybee
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

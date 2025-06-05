@@ -1,0 +1,49 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	26878
+#	53035
+#	92956
+#	125063
+#	165100
+#	194320
+#	213108
+#	243195
+#	265731
+#	296961
+#
+# Disc length: 4440 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.83.01
+#
+DISCID=9b11560b
+DTITLE=Sebastian Fitzek - Das Kind
+DYEAR=2007
+DGENRE=Hoerbuch
+TTITLE0=Kapitel 01
+TTITLE1=Kapitel 02
+TTITLE2=Kapitel 03
+TTITLE3=Kapitel 04
+TTITLE4=Kapitel 05
+TTITLE5=Kapitel 06
+TTITLE6=Kapitel 07
+TTITLE7=Kapitel 08
+TTITLE8=Kapitel 09
+TTITLE9=Kapitel 10
+TTITLE10=Kapitel 11
+EXTD=CD1 gelesen von Simon Jäger
+EXTT0=05:56
+EXTT1=05:48
+EXTT2=08:52
+EXTT3=07:08
+EXTT4=08:53
+EXTT5=06:29
+EXTT6=04:10
+EXTT7=06:41
+EXTT8=05:00
+EXTT9=06:56
+EXTT10=08:00
+PLAYORDER=

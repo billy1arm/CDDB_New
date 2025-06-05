@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11600
+#	25377
+#	36171
+#	44689
+#	55849
+#	66485
+#	77558
+#	92073
+#	100540
+#	115722
+#	127820
+#
+# Disc length: 1852 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=94073a0c
+DTITLE=Fats Domino - It's Only Rock 'N' Roll(1)
+DYEAR=1999
+DGENRE=Rock
+TTITLE0=Ain't That A Shame
+TTITLE1=Blueberry Hill
+TTITLE2=Blue Monday
+TTITLE3=Be My Guest
+TTITLE4=I Want To Walk You Home
+TTITLE5=I'm Gonna Be A Wheel Someday
+TTITLE6=The Fat Man
+TTITLE7=I'm In Love Again
+TTITLE8=I'm Ready
+TTITLE9=Jambalaya
+TTITLE10=Let The Four Winds Blow
+TTITLE11=My Girl Josephine
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

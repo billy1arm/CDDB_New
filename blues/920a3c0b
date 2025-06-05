@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	187
+# 	22635
+# 	41790
+# 	60495
+# 	73112
+# 	93512
+# 	110500
+# 	128715
+# 	155277
+# 	171337
+# 	187250
+#
+# Disc length: 2622 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=920a3c0b
+DTITLE=George Thorogood - Maverick
+DYEAR=1900
+DGENRE=
+TTITLE0=Gear Jammer
+TTITLE1=I Drink Alone
+TTITLE2=Willie and the Hand Jive
+TTITLE3=What a Price
+TTITLE4=Long Gone
+TTITLE5=Dixie Fried
+TTITLE6=Crawling King Snake
+TTITLE7=Memphis Marie
+TTITLE8=Woman with the Blues
+TTITLE9=(Let's) Go Go Go
+TTITLE10=Maverick
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

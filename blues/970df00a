@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	25325
+#	49250
+#	69725
+#	95000
+#	138050
+#	164600
+#	202100
+#	224000
+#	247775
+#
+# Disc length: 3570 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=970df00a
+DTITLE=Christoph Spendel - West End Avenue II
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Fancy Colours
+TTITLE1=Back To Normal
+TTITLE2=Boulevard
+TTITLE3=Cosmic Song
+TTITLE4=West End Avenue
+TTITLE5=Monday Night
+TTITLE6=Carey Line
+TTITLE7=Brooklyn Bridge
+TTITLE8=Strange Times
+TTITLE9=City Speed
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

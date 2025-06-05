@@ -1,0 +1,43 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18688
+#	52211
+#	65861
+#	102052
+#	133265
+#	157122
+#	177408
+#	209968
+# Disc length: 3101 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=960c1b09
+DTITLE=The Inchtabokatables - Mitten im Krieg
+DYEAR=1900
+DGENRE=
+TTITLE0=Unsatisfied
+TTITLE1=Healing Hands
+TTITLE2=Rain
+TTITLE3=Birthing of a day
+TTITLE4=Escape
+TTITLE5=Endless rail
+TTITLE6=Come with me
+TTITLE7=Closed eyes
+TTITLE8=Wenn du schläfst
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

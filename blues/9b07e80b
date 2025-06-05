@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13332
+#	25562
+#	38540
+#	60340
+#	73237
+#	86020
+#	97362
+#	110692
+#	125487
+#	140097
+#
+# Disc length: 2026 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9b07e80b
+DTITLE=Dr. John - In The Right Place
+DYEAR=1973
+DGENRE=R&B
+TTITLE0=Right Place Wrong Time
+TTITLE1=Same Old Same Old
+TTITLE2=Just The Same
+TTITLE3=Qualified
+TTITLE4=Traveling Mood
+TTITLE5=Peace Brother Peace
+TTITLE6=Life
+TTITLE7=Such A Night
+TTITLE8=Shoo Fly Marches On
+TTITLE9=I Been Hoodood
+TTITLE10=Cold Cold Cold
+EXTD=\t\t YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

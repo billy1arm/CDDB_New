@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14150
+#	42050
+#	57738
+#	73676
+#	90626
+#	106047
+#	121052
+#	142452
+#	163545
+#	181820
+#
+# Disc length: 2629 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.15
+#
+DISCID=990a430b
+DTITLE=Miles Davis - The Peacocks
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Unknown Artist - Track 01 Smooch
+TTITLE1=Unknown Artist - Track 02 Blue Haze
+TTITLE2=Unknown Artist - Track 03 When The Lights Are Low
+TTITLE3=Unknown Artist - Track 04 I Waited For You
+TTITLE4=Unknown Artist - Track 05 Yesterdays
+TTITLE5=Unknown Artist - Track 06 Old Devil Moon
+TTITLE6=Unknown Artist - Track 07 Moon Dreams
+TTITLE7=Unknown Artist - Track 08 Weirdo
+TTITLE8=Unknown Artist - Track 09 How Deep Is The Ocean
+TTITLE9=Unknown Artist - Track 10 It Never Entered My Mind
+TTITLE10=Unknown Artist - Track 11 Enigma
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

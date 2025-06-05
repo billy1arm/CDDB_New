@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30381
+#	55913
+#	84241
+#	110190
+#	137082
+#	168391
+#	199266
+#	225274
+#	265231
+#	294380
+#
+# Disc length: 4329 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9210e70b
+DTITLE=Buchheim, Lothar-Günther - Das Boot
+DYEAR=1900
+DGENRE=Hörbuch
+TTITLE0=095 Das Boot
+TTITLE1=096 Das Boot
+TTITLE2=097 Das Boot
+TTITLE3=098 Das Boot
+TTITLE4=099 Das Boot
+TTITLE5=100 Das Boot
+TTITLE6=101 Das Boot
+TTITLE7=102 Das Boot
+TTITLE8=103 Das Boot
+TTITLE9=104 Das Boot
+TTITLE10=105 Das Boot
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     14245
+#     28442
+#     51212
+#     72727
+#     93297
+#     117532
+#     134887
+#     153162
+#     170400
+# 
+# Disc length: 2495 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9a09bd0a
+DTITLE=Leila Pinheiro - Olho nu
+DYEAR=1900
+DGENRE=
+TTITLE0=Olho nu
+TTITLE1=O fundo
+TTITLE2=Besame mucho
+TTITLE3=Verde
+TTITLE4=Podres poderes
+TTITLE5=Um samba
+TTITLE6=A vida corre
+TTITLE7=Becos
+TTITLE8=O mar no maracan /Dora
+TTITLE9=Todo amor que houve nessa vida
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

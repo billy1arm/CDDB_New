@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	35640
+#	57805
+#	97070
+#	114160
+#	134445
+#	168520
+#	193917
+#	215125
+#	236147
+#
+# Disc length: 3684 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=970e620a
+DTITLE=Richard Pachman - Dreams
+DYEAR=1993
+DGENRE=New Age
+TTITLE0=Morning
+TTITLE1=Africa
+TTITLE2=Sea Wind
+TTITLE3=Thinking
+TTITLE4=Noon
+TTITLE5=Prayer For Love
+TTITLE6=Missa
+TTITLE7=Song
+TTITLE8=Rumba
+TTITLE9=Dream
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

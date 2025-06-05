@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	11707
+#	30345
+#	53400
+#	94872
+#	129677
+#	146027
+#	166467
+#	191540
+#	213122
+#	226455
+#	252232
+#
+# Disc length: 3795 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL2
+#
+DISCID=9d0ed10c
+DTITLE=Peter Garstenauer Band - Ain't That Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Shuffle Time
+TTITLE1=Slow Blow
+TTITLE2=Purple Haze
+TTITLE3=Too Much Sugar
+TTITLE4=I'm Your Hoochie Coochie Man
+TTITLE5=Slide To The Bone
+TTITLE6=No Doubt
+TTITLE7=Nothing To Say
+TTITLE8=Hi-heel Sneakers
+TTITLE9=29 Ways
+TTITLE10=Rollin' Stone
+TTITLE11=Nine Below Zero
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

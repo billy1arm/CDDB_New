@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19245
+#	30435
+#	51230
+#	70737
+#	87560
+#	101622
+#	121555
+#	140690
+#	159180
+#	180937
+#	193922
+#
+# Disc length: 2816 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=970afe0c
+DTITLE=Lee McBee - Soul Deep
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=Ride With Me
+TTITLE1=It's Your Voodoo Working
+TTITLE2=Just A Feeling
+TTITLE3=Twelve Hours From You
+TTITLE4=Woman Down In Arkansas
+TTITLE5=Soul Deep
+TTITLE6=Country Blues II
+TTITLE7=Gonna Find My Baby
+TTITLE8=I Don't Understand
+TTITLE9=Your Turn To Cry
+TTITLE10=Mohair Sam
+TTITLE11=Walk
+EXTD=YEAR: 2002 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

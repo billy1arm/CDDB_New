@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18260
+#     35007
+#     51017
+#     68640
+#     87562
+#     105842
+#     120537
+#     136822
+#     154142
+#     175425
+#     193155
+# 
+# Disc length: 2812 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9b0afa0c
+DTITLE=Countdown Dance Masters - Ultimate Dance Trax [CD6]
+DYEAR=1900
+DGENRE=
+TTITLE0=Macarena
+TTITLE1=Beautiful Life
+TTITLE2=Danger
+TTITLE3=In the Summertime
+TTITLE4=Boombastic
+TTITLE5=Search for the hero
+TTITLE6=La La La Hey Hey
+TTITLE7=I Luv U Baby
+TTITLE8=Shut Up
+TTITLE9=Take Your Time
+TTITLE10=I Believe
+TTITLE11=Is It Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

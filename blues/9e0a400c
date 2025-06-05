@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18012
+#	37783
+#	58036
+#	72915
+#	92944
+#	107127
+#	124976
+#	140329
+#	155715
+#	174271
+#	186855
+#
+# Disc length: 2626 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9e0a400c
+DTITLE=Diego El Cigala - Corren tiempos de alegría
+DYEAR=2001
+DGENRE=Flamenco
+TTITLE0=La Esperanza de Volar
+TTITLE1=Carmen la Canastera
+TTITLE2=Monarcos y Republicanos
+TTITLE3=Ana, Dolores y Aurora
+TTITLE4=Gitanos de la Cava
+TTITLE5=Hay azules que se caen de moraos
+TTITLE6=Señor del Aire
+TTITLE7=La Loba
+TTITLE8=Corren tiempos de Alegría
+TTITLE9=Amar y Vivir
+TTITLE10=La Fuente de Bebo
+TTITLE11=Cadencia Inesperada
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

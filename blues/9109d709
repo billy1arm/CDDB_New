@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	20867
+#	43975
+#	73975
+#	86915
+#	100802
+#	126485
+#	146150
+#	167165
+#
+# Disc length: 2521 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=9109d709
+DTITLE=Mongo Santamaria - Fuego
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Crazy lady
+TTITLE1=Don't step on my tears
+TTITLE2=Chambique
+TTITLE3=Temihna pra bebe
+TTITLE4=Last tango in Paris
+TTITLE5=Besame
+TTITLE6=Springtime
+TTITLE7=Malcolm X
+TTITLE8=Fingers
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

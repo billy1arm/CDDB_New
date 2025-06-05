@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	20730
+# 	35085
+# 	49957
+# 	62945
+# 	81167
+# 	95255
+# 	112125
+# 	131280
+# 	149702
+#
+# Disc length: 2500 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=9609c20a
+DTITLE=Big Daddy Kinsey and Sons - Can't Let Go
+DYEAR=1900
+DGENRE=
+TTITLE0=Can't Let Go
+TTITLE1=Going To New York
+TTITLE2=Meanest Woman
+TTITLE3=Kinsey's Mood Too
+TTITLE4=It's Over
+TTITLE5=Dancin' Shoes
+TTITLE6=Do You Need Me Like I Need You?
+TTITLE7=Hard Life
+TTITLE8=I'm A Lover
+TTITLE9=Howlin' Wolf
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

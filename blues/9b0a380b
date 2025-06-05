@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21488
+#     46315
+#     61618
+#     71805
+#     90183
+#     104150
+#     139310
+#     156730
+#     169698
+#     181310
+# 
+# Disc length: 2618 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9b0a380b
+DTITLE=Stefan Grossman - Shining Shadows
+DYEAR=1900
+DGENRE=
+TTITLE0=Blues for the Mann
+TTITLE1=Requiem for Patrick Kilroy
+TTITLE2=Logan's Water
+TTITLE3=Lemon's Jump
+TTITLE4=Ms. Josephine Ayres
+TTITLE5=Beyond the Pleasure Principle
+TTITLE6=Sparkling on the Wind
+TTITLE7=Shining Shadows
+TTITLE8=Capricorn Five
+TTITLE9=Just a Closer Walk with Thee
+TTITLE10=Lament for a Goodman
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

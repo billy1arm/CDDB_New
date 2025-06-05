@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     19278
+#     38733
+#     55925
+#     72188
+#     94990
+#     110180
+#     129208
+#     148030
+#     168628
+#     188430
+# 
+# Disc length: 2744 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=9a0ab60b
+DTITLE=Pablo Herrera - M s Arriba
+DYEAR=1900
+DGENRE=
+TTITLE0=Dale una oportunidad
+TTITLE1=Sin darme cuenta
+TTITLE2=Cada nuevo sol
+TTITLE3=Ale esp rame
+TTITLE4=Vueltas en un subterr neo
+TTITLE5=Te prometo
+TTITLE6=Amor, amor
+TTITLE7=M s arriba
+TTITLE8=Entre el cielo y el mar
+TTITLE9=Alguna vez
+TTITLE10=Dif cil amarse
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

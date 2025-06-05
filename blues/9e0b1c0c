@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21750
+#	39075
+#	52875
+#	74700
+#	97200
+#	122250
+#	146100
+#	153900
+#	164775
+#	180000
+#	196350
+#
+# Disc length: 2846 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: freeDBTagger 0.5
+#
+DISCID=9e0b1c0c
+DTITLE=GOING UNDER GROUND - かよわきエナジー
+DYEAR=1900
+DGENRE=rock
+TTITLE0=トラック 05
+TTITLE1=トラック 06
+TTITLE2=トラック 07
+TTITLE3=トラック 08
+TTITLE4=トラック 09
+TTITLE5=トラック 10
+TTITLE6=トラック 11
+TTITLE7=トラック 12
+TTITLE8=トラック 01
+TTITLE9=トラック 02
+TTITLE10=トラック 03
+TTITLE11=トラック 04
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

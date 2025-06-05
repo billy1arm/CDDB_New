@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32823
+#	56662
+#	90129
+#	112004
+#	153513
+#	177723
+#	202160
+#	227412
+#	252236
+#	285223
+#
+# Disc length: 4267 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,39,0213
+#
+DISCID=9010a90b
+DTITLE=Carl Saunders - Eclecticism
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Fascinatin' Rhythm
+TTITLE1=Reaching For You
+TTITLE2=Opus 64
+TTITLE3=First Gift
+TTITLE4=Surrey With the Fringe On Top
+TTITLE5=Last Night When We Were Young
+TTITLE6=The Price of Admission
+TTITLE7=Pentiction
+TTITLE8=Night Reverie
+TTITLE9=Old Folks
+TTITLE10=Blues For The Common Man
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

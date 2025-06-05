@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9817
+#	20547
+#	33595
+#	46270
+#	59067
+#	70410
+#	83982
+#	93975
+#	108777
+#	122690
+#	136467
+#
+# Disc length: 1978 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=9b07b80c
+DTITLE=Lalo Schifrin - Bullitt
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=Bullitt (main title)
+TTITLE1=Room "26"
+TTITLE2=Hotel Daniels
+TTITLE3=The Aftermath of Love
+TTITLE4=Music to Interrogate By
+TTITLE5=On The Way To San Mateo
+TTITLE6=Ice Pick Mike
+TTITLE7=Song For Cathy
+TTITLE8=Shifting Gears
+TTITLE9=Cantata For Combo
+TTITLE10=The First Snowfall
+TTITLE11=Bullitt (end title)
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

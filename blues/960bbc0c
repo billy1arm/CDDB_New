@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24887
+#	40082
+#	59355
+#	76212
+#	92375
+#	108647
+#	128820
+#	153447
+#	171855
+#	186367
+#	206140
+#
+# Disc length: 3006 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=960bbc0c
+DTITLE=Paul Millns - Secret Operations
+DYEAR=1900
+DGENRE=blues
+TTITLE0=man overboard
+TTITLE1=secret operations
+TTITLE2=dark-eye girl from island
+TTITLE3=desperate heart
+TTITLE4=halfway home
+TTITLE5=nothing wrong with that
+TTITLE6=katya
+TTITLE7=mean times
+TTITLE8=nobody home
+TTITLE9=far out to sea
+TTITLE10=all none the wiser
+TTITLE11=spring again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

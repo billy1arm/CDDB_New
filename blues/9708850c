@@ -1,0 +1,52 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 10875
+# 24257
+# 36372
+# 46750
+# 62900
+# 77872
+# 93230
+# 107155
+# 118970
+# 134475
+# 151860
+#
+# Disc length: 2183 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.3.331
+#
+DISCID=9708850c
+DTITLE=Sounds Orchestral - Sounds Orchestral "Meet James Bond"
+DYEAR=1900
+DGENRE=
+TTITLE0=Thunderball
+TTITLE1=Solitaire
+TTITLE2=Goldfinger Theme
+TTITLE3=Mr. Kiss Bang Bang
+TTITLE4=Blues For Pussy
+TTITLE5=Mr. Oddjob
+TTITLE6=Moonshot
+TTITLE7=The James Bond Theme
+TTITLE8=Spectre
+TTITLE9=From Russia With Love
+TTITLE10=Kissy Suzuki
+TTITLE11=007 Theme
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

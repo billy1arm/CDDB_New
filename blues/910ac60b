@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	1766
+#	10620
+#	26514
+#	55677
+#	78102
+#	97395
+#	127214
+#	149126
+#	168420
+#	187209
+#
+# Disc length: 2760 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=910ac60b
+DTITLE=TU BigBand Braunschweig - Jazzstronauts - Across The Universe
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Countdown
+TTITLE1=Raumpatrouille
+TTITLE2=How High the Moon
+TTITLE3=Superstition
+TTITLE4=Moon over Bourbon Street
+TTITLE5=Dancing in the Moonlight
+TTITLE6=Sterngucker
+TTITLE7=Fantasy
+TTITLE8=Across the Universe
+TTITLE9=Fly Me to the Moon
+TTITLE10=What a Wonderful World
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18963
+#	38920
+#	65997
+#	99700
+#	123493
+#	139489
+#	168652
+#	179040
+#	228223
+#
+# Disc length: 3064 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=950bf60a
+DTITLE=Urbanek, Paul - The Hans Koller Concept 2
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Kollektiv 1
+TTITLE1=Kollektiv 2
+TTITLE2=AHC für AHC 1
+TTITLE3=Kollektiv 3
+TTITLE4=Kollektiv 4
+TTITLE5=AHC für AHC 2
+TTITLE6=Kollektiv 5
+TTITLE7=AHC für AHC 3
+TTITLE8=Peer to peer
+TTITLE9=Epilog
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

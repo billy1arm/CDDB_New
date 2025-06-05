@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+#
+# Track frame offsets:
+#	150
+#	19927
+#	54964
+#	72977
+#	97940
+#	128925
+#	147955
+#	165782
+#	198400
+#	216822
+#	239160
+#
+# Disc length: 3473
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CoolCD_Studio 1.3.1
+#
+DISCID=990d8f0b
+DTITLE=Hank Shizzoe, Sonny Landreth and Loose Gravel - In Concert, Se
+DTITLE=t 1
+DYEAR=2003
+DGENRE=
+TTITLE0=Bebopthing
+TTITLE1=Southern Movements
+TTITLE2=Arrows Through My Heart
+TTITLE3=Low Budget
+TTITLE4=Handmade Love
+TTITLE5=Indian Girl
+TTITLE6=Cought Asleep
+TTITLE7=The Whole Book
+TTITLE8=Waltz No. 1
+TTITLE9=Serious Shopping
+TTITLE10=8000 Miles To New Orleans
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

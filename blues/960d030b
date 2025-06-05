@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     26105
+#     49338
+#     76490
+#     91223
+#     105655
+#     139963
+#     153028
+#     185330
+#     204610
+#     223045
+# 
+# Disc length: 3333 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=960d030b
+DTITLE=Steve Ferguson - Mama U-Seapa
+DYEAR=1900
+DGENRE=
+TTITLE0=Fight Like You Talk
+TTITLE1=Shake and Bake
+TTITLE2=Hoo Doo Lovin'
+TTITLE3=Right String Baby, Wrong Yo-Yo
+TTITLE4=Hey Little Brother
+TTITLE5=Cops and Robbers
+TTITLE6=Coo Cha
+TTITLE7=Lyin' Cheatin' Blues
+TTITLE8=You Hung the Moon
+TTITLE9=Pig Latin Love Song
+TTITLE10=Jungle Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

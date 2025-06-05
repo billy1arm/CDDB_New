@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36035
+#	55000
+#	74335
+#	96565
+#	136917
+#	174472
+#	188857
+#	203880
+#	225887
+#	244825
+#
+# Disc length: 3429 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=930d630b
+DTITLE=八重山古典民謡保存会 - 八重山古典民謡集 その弐
+DYEAR=1996
+DGENRE=Folklore
+TTITLE0=仲良田節/石ぬ屏風節/祖納嵩節
+TTITLE1=上原ぬ島節
+TTITLE2=でんさ節
+TTITLE3=いやり節
+TTITLE4=月夜浜節/舟越節
+TTITLE5=たらくじ節/くいがま節
+TTITLE6=赤またー節
+TTITLE7=揚古見ぬ浦節
+TTITLE8=あがろーざ節
+TTITLE9=大浦越路節
+TTITLE10=川良山節（早調子）
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

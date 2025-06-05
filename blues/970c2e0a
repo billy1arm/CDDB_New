@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	28527
+#	51784
+#	66954
+#	87708
+#	109665
+#	131705
+#	157079
+#	174606
+#	194930
+#
+# Disc length: 3120 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=970c2e0a
+DTITLE=Phi Nhung - Song Que
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Song Que
+TTITLE1=Tha Lam Hat Mua Bay
+TTITLE2=Thuyen Khong Ben Do
+TTITLE3=Trang Rung Xuong Cau
+TTITLE4=Giac Mo Tu Do
+TTITLE5=Goi Gio Cho Ngan Bay
+TTITLE6=Ao Hoa
+TTITLE7=Thuyen Khong Ben Do
+TTITLE8=Toi Muon Yeu Nguoi Yeu Doi
+TTITLE9=Mot Doi Ao Me Ao Em
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

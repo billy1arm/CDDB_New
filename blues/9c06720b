@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11910
+#	21575
+#	31385
+#	43405
+#	55335
+#	65777
+#	77032
+#	88882
+#	99457
+#	109740
+#
+# Disc length: 1652 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9c06720b
+DTITLE=Wilson Pickett - If You Need Me
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=If you need me
+TTITLE1=I'm gonna love you
+TTITLE2=Baby don't you weep
+TTITLE3=Peace breaker
+TTITLE4=I'm down to my last heartbreak
+TTITLE5=Robert's monkey beat
+TTITLE6=I can't stop
+TTITLE7=I'll never be the same
+TTITLE8=Baby call me
+TTITLE9=Give your love right now
+TTITLE10=It's too late
+EXTD=YEAR: 2001
+EXTT0=soul
+EXTT1=soul
+EXTT2=soul
+EXTT3=soul
+EXTT4=soul
+EXTT5=soul
+EXTT6=soul
+EXTT7=soul
+EXTT8=soul
+EXTT9=soul
+EXTT10=soul
+PLAYORDER=

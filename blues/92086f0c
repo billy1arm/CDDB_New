@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12142
+#	26542
+#	40512
+#	53307
+#	66760
+#	81487
+#	95687
+#	109075
+#	121440
+#	135100
+#	149360
+#
+# Disc length: 2161 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta6
+#
+DISCID=92086f0c
+DTITLE=Big Joe Williams - Classic Delta Blues
+DYEAR=1964
+DGENRE=Blues
+TTITLE0=Rollin' And Tumblin'
+TTITLE1=Hellhound On My Trail
+TTITLE2=Bird's Nest Bound
+TTITLE3=Crossroads Blues
+TTITLE4=Special Rider
+TTITLE5=Pony Blues
+TTITLE6=Pea Vine Special
+TTITLE7=Walking Blues
+TTITLE8=Dirt Road Blues
+TTITLE9=Banty Rooster Blues
+TTITLE10=Terraplane Blues
+TTITLE11=Jinx Blues
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

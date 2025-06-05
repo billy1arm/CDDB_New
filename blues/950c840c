@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     13580
+#     24900
+#     45460
+#     65822
+#     82587
+#     109710
+#     133285
+#     152732
+#     175702
+#     189432
+#     212897
+# 
+# Disc length: 3206 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=950c840c
+DTITLE=Duke Ellington - Best Of Duke Ellington
+DYEAR=1900
+DGENRE=
+TTITLE0=Satin Doll
+TTITLE1=In A Sentimental Mood
+TTITLE2=Rockin' in Rhythm
+TTITLE3=Caravan
+TTITLE4=Flamingo
+TTITLE5=In The Mood
+TTITLE6=One O'Clock Jump
+TTITLE7=Honneysuckle Rose
+TTITLE8=Stompin' At The Savoy
+TTITLE9=Prelude To A Kiss
+TTITLE10=Black And Tan Fantasy
+TTITLE11=Flying Home
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

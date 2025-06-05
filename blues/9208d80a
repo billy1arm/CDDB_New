@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12312
+#     32617
+#     44167
+#     56150
+#     74347
+#     91927
+#     116442
+#     134535
+#     148045
+# 
+# Disc length: 2266 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9208d80a
+DTITLE=Lightnin' Hopkins - Mojo Hand
+DYEAR=1900
+DGENRE=
+TTITLE0=Lonesome Dog Blues
+TTITLE1=Glory Be
+TTITLE2=Sometimes She Will
+TTITLE3=Have You Ever Loved A Woman
+TTITLE4=Shake That Thing
+TTITLE5=I'm Leaving You Know
+TTITLE6=Walk A Long Time
+TTITLE7=Bring Me My Shotgun
+TTITLE8=Mojo Hand
+TTITLE9=Awful Dream
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

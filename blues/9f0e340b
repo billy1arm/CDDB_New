@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21375
+#	41120
+#	93660
+#	105150
+#	127945
+#	146190
+#	182763
+#	202973
+#	220790
+#	244495
+#
+# Disc length: 3638 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9f0e340b
+DTITLE=Stevie Ray Vaughan and Double Trouble - Rhapsody in Blues
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Scuttle
+TTITLE1=Testify
+TTITLE2=Voodoo Chile
+TTITLE3=Honeybee
+TTITLE4=Couldn't Stand the Weather
+TTITLE5=Cold Shot
+TTITLE6=Texas Flood
+TTITLE7=Pride and Joy
+TTITLE8=Rude Mood
+TTITLE9=Matchbox Blues
+TTITLE10=The Sky is Crying
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14570
+#	27207
+#	48055
+#	57200
+#	66002
+#	84115
+#	97115
+#	107255
+#	117275
+#	127855
+#	137992
+#
+# Disc length: 1984 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9107be0c
+DTITLE=Exuma - Life
+DYEAR=1973
+DGENRE=Blues
+TTITLE0=If it feels good, do it
+TTITLE1=Paint it Black
+TTITLE2=Love is strange
+TTITLE3=The Jumping Dance
+TTITLE4=Iko Iko
+TTITLE5=You cant always get what you want
+TTITLE6=Night Time People
+TTITLE7=Hayride
+TTITLE8=Oh !Lovey
+TTITLE9=Sodom and Gamorrah
+TTITLE10=Kenyatta Alisha
+TTITLE11=Viva el Matador
+EXTD=YEAR: 1973 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

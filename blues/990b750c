@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15675
+#	33225
+#	46800
+#	68625
+#	93675
+#	110025
+#	124875
+#	143625
+#	159075
+#	189825
+#	203100
+#
+# Disc length: 2935 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=990b750c
+DTITLE=La Mississippi Blues Band - Mbugi (Endiabladamente Bueno)
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Cafe Madrid
+TTITLE1=Boogie De La Ruta 2
+TTITLE2=Que Miseria
+TTITLE3=Camionero
+TTITLE4=Honey Bee
+TTITLE5=The Creeper Return
+TTITLE6=Un Poco Mas
+TTITLE7=Buenos Aires Blues
+TTITLE8=Lilly
+TTITLE9=Tres Palabras
+TTITLE10=La Chancleta
+TTITLE11=Same Old Blues
+EXTD=YEAR: 1993 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

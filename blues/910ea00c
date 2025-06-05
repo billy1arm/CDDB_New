@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16152
+#	34761
+#	64660
+#	85271
+#	99057
+#	113698
+#	157772
+#	170325
+#	187316
+#	218709
+#	258633
+#
+# Disc length: 3746 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=910ea00c
+DTITLE=Stevie Ray Vaughan and Double Trouble - Live at the El Mocambo
+DYEAR=1983
+DGENRE=Blues
+TTITLE0=Testify
+TTITLE1=So Excited
+TTITLE2=Voodoo Chile
+TTITLE3=Pride and Joy
+TTITLE4=Tell Me
+TTITLE5=Mary Had a Little Lamb
+TTITLE6=Texas Flood
+TTITLE7=Love Struck Baby
+TTITLE8=Hug And Squeeze You
+TTITLE9=Third Stone From The Sun
+TTITLE10=Lenny
+TTITLE11=Wham
+EXTD=YEAR: 1983 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=
