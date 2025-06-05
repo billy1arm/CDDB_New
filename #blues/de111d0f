@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	26600
+#	61628
+#	80980
+#	103018
+#	122718
+#	134363
+#	144725
+#	161733
+#	175820
+#	199028
+#	218515
+#	235653
+#	267398
+#	297510
+#
+# Disc length: 4383 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL1
+#
+DISCID=de111d0f
+DTITLE=The Blues ... "A Real Summit Meeting"
+DYEAR=1900
+DGENRE=
+TTITLE0=Little Red Rooster - Big Mama Thornton 
+TTITLE1=Ball and Chain - Big Mama Thornton
+TTITLE2=Clean Head Blues - Eddie ´Cleanhead´ Vinson 
+TTITLE3=Back Door Blues - Eddie ´Cleanhead´ Vinson
+TTITLE4=Kidney Stew Blues - Eddie ´Cleanhead´ Vinson
+TTITLE5=That´s All Right Mama - Arthur Big Boy Crudup
+TTITLE6=Honky Tonk Train Blues - Lloyd Glenn
+TTITLE7=After Hours - Lloyd Glenn
+TTITLE8=Pinetops Boogie Woogie - Lloyd Glenn
+TTITLE9=Long Distance Call - Muddy Waters
+TTITLE10=Where´s My Woman Been - Muddy Waters
+TTITLE11=Got My Mojo Working - Muddy Waters
+TTITLE12=The Drifter - Clarence ´Gatemouth´ Brown
+TTITLE13=Please Mr. Nixon - Clarence ´Gatemouth´ Brown
+TTITLE14=Outside Help - B.B.King
+EXTD=recorded live at Newport in New York\n
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11805
+#	26786
+#	45846
+#	59777
+#	74172
+#	91474
+#	106870
+#	123333
+#	140177
+#	157817
+#	178826
+#	192452
+#	208355
+#
+# Disc length: 2999 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=d80bb50e
+DTITLE=Benders - Brown Bottle Flu
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Brown Bottle Flu
+TTITLE1=Me Me Me
+TTITLE2=40 Days and 40 Nights
+TTITLE3=Where Were You
+TTITLE4=Nothin' Left But Blues
+TTITLE5=Caledonia
+TTITLE6=Confounded Blues
+TTITLE7=Someday Layin' In A Grave
+TTITLE8=Monica
+TTITLE9=Killin' Floor
+TTITLE10=7 o'clock Sat Eve Blues
+TTITLE11=Park Avenue Shuffle
+TTITLE12=I Am Ready
+TTITLE13=Frosty
+EXTD=YEAR: 1999 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

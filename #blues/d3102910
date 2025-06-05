@@ -1,0 +1,65 @@
+# xmcd
+#
+# Track frame offsets:
+#	182
+#	17535
+#	31430
+#	51120
+#	70672
+#	83955
+#	117310
+#	136215
+#	159370
+#	178570
+#	193985
+#	210152
+#	230745
+#	249517
+#	262510
+#	283670
+#
+# Disc length: 4139
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: tcd 2.0b
+# Normalized: r4:DSETVAR1
+#
+DISCID=d3102910
+DTITLE=Various Artist - Pop - Rock
+DYEAR=1900
+DGENRE=Pop
+TTITLE0=ABBA - Dancing Queen
+TTITLE1=Van Morrison - Brown-Eyed Girl
+TTITLE2=Rusted Root - Send Me On My Way
+TTITLE3=John Mellencamp - Jack And Diane
+TTITLE4=Smokey Robinson and The Miracles - Tracks Of My Tears
+TTITLE5=Moody Blues - Nights In White Satin
+TTITLE6=Cream - Sunshine Of Your Love
+TTITLE7=Bon Jovi - Wanted Dead Or Alive
+TTITLE8=Police - Every Breath You Take
+TTITLE9=Frankie Valli - Grease
+TTITLE10=Bryan Adams - Summer of 69
+TTITLE11=Rush - Tom Sawyer
+TTITLE12=Barry White (Love Unlimited Orchestra) - Love's Theme
+TTITLE13=James Brown - Cold Sweat
+TTITLE14=Peter Frampton - Show Me The Way
+TTITLE15=Rod Stewart - Every Picture Tells A Story
+EXTD=ID3G:  13
+EXTT0=ABBA\n
+EXTT1=Van Morrison\n
+EXTT2=Rusted Roof\n
+EXTT3=John Mellencamp\n
+EXTT4=Smokey Robinson and The Miracles\n
+EXTT5=The Moody Blues\n
+EXTT6=Cream\n
+EXTT7=Bon Jovi\n
+EXTT8=Police\n
+EXTT9=Frankie Valli\n
+EXTT10=Bryan Adams\n
+EXTT11=Rush\n
+EXTT12=Barry White (Love Unlimited Orchestra]\n
+EXTT13=James Brown\n
+EXTT14=Peter Frampton\n
+EXTT15=Rod Stewart\n
+PLAYORDER=

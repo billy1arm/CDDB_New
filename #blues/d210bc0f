@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21388
+#	42142
+#	65711
+#	88412
+#	108025
+#	128125
+#	142153
+#	165246
+#	184938
+#	204984
+#	225849
+#	243381
+#	265918
+#	298554
+#
+# Disc length: 4286 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=d210bc0f
+DTITLE=Natasha's Friends - Natasha's Friends Live
+DYEAR=1996
+DGENRE=Rock
+TTITLE0=Achshav Ani
+TTITLE1=Ani Ohev Otach
+TTITLE2=Yesh Lach Oti
+TTITLE3=Coc Batzaharayim
+TTITLE4=Bedaka Ahat Shfuya
+TTITLE5=Melancholi
+TTITLE6=Shney Sipurey Ahava
+TTITLE7=Yesh Zman
+TTITLE8=Al Kav Hazinuk
+TTITLE9=Tembel
+TTITLE10=Ani Lo Roked Kshe'atuv
+TTITLE11=Shivri et Hatelevizya
+TTITLE12=Ish Bli Netzah
+TTITLE13=Im Kvar Levad
+TTITLE14=Ne'emar Kvar Hakol
+EXTD=YEAR: 1996
+EXTT0=ahshav ani\n
+EXTT1=Ani ohev otach
+EXTT2=Yesh bach
+EXTT3=Cock bazohoraim
+EXTT4=bedaka ahat shfuya
+EXTT5=Melancholic
+EXTT6=Shnei sipuri ahava
+EXTT7=Yesh zman
+EXTT8=Al kav hazinuk
+EXTT9=Tembel
+EXTT10=Ani lo reked ksheatzuv
+EXTT11=Shivri et haTV
+EXTT12=Ish bli netzach
+EXTT13=Im kvar levad
+EXTT14=neemar hakol
+PLAYORDER=

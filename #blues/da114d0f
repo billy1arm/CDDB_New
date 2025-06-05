@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27135
+#	44096
+#	67577
+#	96661
+#	110424
+#	126384
+#	141148
+#	167507
+#	186804
+#	213121
+#	249044
+#	277920
+#	296702
+#	313287
+#
+# Disc length: 4431 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=da114d0f
+DTITLE=Steve Berry - The Paris Vendetta Disc 2
+DYEAR=2009
+DGENRE=Audio Book
+TTITLE0=The Paris Vendetta Disc 2-01
+TTITLE1=The Paris Vendetta Disc 2-02
+TTITLE2=The Paris Vendetta Disc 2-03
+TTITLE3=The Paris Vendetta Disc 2-04
+TTITLE4=The Paris Vendetta Disc 2-05
+TTITLE5=The Paris Vendetta Disc 2-06
+TTITLE6=The Paris Vendetta Disc 2-07
+TTITLE7=The Paris Vendetta Disc 2-08
+TTITLE8=The Paris Vendetta Disc 2-09
+TTITLE9=The Paris Vendetta Disc 2-10
+TTITLE10=The Paris Vendetta Disc 2-11
+TTITLE11=The Paris Vendetta Disc 2-12
+TTITLE12=The Paris Vendetta Disc 2-13
+TTITLE13=The Paris Vendetta Disc 2-14
+TTITLE14=The Paris Vendetta Disc 2-15
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13523
+#	14386
+#	25117
+#	39053
+#	52484
+#	54039
+#	69900
+#	81190
+#	93573
+#	104717
+#	117113
+#	131886
+#	147801
+#	159723
+#	175682
+#	178537
+#
+# Disc length: 2592 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=db0a1e11
+DTITLE=Scott Biram - Lo-fi Mojo live at KVRX 91.7FM Austin Feb 02
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=01. Blues In The Bottle
+TTITLE1=02. Your Friend
+TTITLE2=03. Single Girl
+TTITLE3=04. Green Onions/Cold River
+TTITLE4=05. Titantic
+TTITLE5=06. audio commentary
+TTITLE6=07. Mr. Tom Hughes Town
+TTITLE7=08. Throw A Boogie
+TTITLE8=09. Spoonful'
+TTITLE9=10. You Gotta Move
+TTITLE10=11. White House Blues
+TTITLE11=12. Wreck My Car
+TTITLE12=13. Truckdriver
+TTITLE13=14. Real Cocaine Blues
+TTITLE14=15. Pastures of Plenty
+TTITLE15=16. Stickin' To The Union
+TTITLE16=17. We Shall Be Free
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

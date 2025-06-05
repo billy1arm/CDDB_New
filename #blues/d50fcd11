@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14250
+#     30289
+#     49513
+#     75162
+#     91298
+#     113033
+#     133737
+#     155696
+#     172898
+#     188045
+#     204175
+#     220223
+#     235982
+#     251865
+#     271810
+#     288222
+# 
+# Disc length: 4047 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=d50fcd11
+DTITLE=Various Artist - A gema do novo
+DYEAR=1900
+DGENRE=
+TTITLE0=Que nem jil  - Carmina Juarez
+TTITLE1=Mama Africa - Chico Cesar
+TTITLE2=Hoje eu quero sair s  - Da de
+TTITLE3=Deus nasceu foi no Brasil - In cio Zatz
+TTITLE4=Atire a primeira pedra - Itamara assump  o
+TTITLE5=Carnaval e reveillon - Jo o Marcelo Boscoli and Cia
+TTITLE6=Lua do Brasil - Juca Novaes, Eduardo Santana e Lucila Novaes
+TTITLE7=Comendo uva na chuva - Karnak
+TTITLE8=Calend rio lunar - Kl bi
+TTITLE9=Cora  o fic  o - M rcia Salomon
+TTITLE10=Samba de verdade - M nica Salomazo e Noticias dum Brasil
+TTITLE11=Breve esta  o - Monica Tomasi
+TTITLE12=Atl ntida - N  Ozzetti
+TTITLE13=Admira  o - Paulinho Moska
+TTITLE14=Juras - Rosa Passos
+TTITLE15=Meio marota - Saul Barbosa
+TTITLE16=As quatro esta  es - V nia Abreu
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

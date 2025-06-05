@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22027
+#	50895
+#	73757
+#	92902
+#	114157
+#	139295
+#	164837
+#	185705
+#	204737
+#	234010
+#	277297
+#	294285
+#
+# Disc length: 4228 seconds
+#
+# Revision: 14
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=d010820d
+DTITLE=Stevie Ray Vaughan and Double Trouble - Live Alive
+DYEAR=1986
+DGENRE=Blues Rock
+TTITLE0=Say What!
+TTITLE1=Ain't Gone 'N' Give Up On Love
+TTITLE2=Pride And Joy
+TTITLE3=Mary Had A Little Lamb
+TTITLE4=Superstition
+TTITLE5=I'm Leaving You (Commit A Crime)
+TTITLE6=Cold Shot
+TTITLE7=Willie The Wimp
+TTITLE8=Look At Little Sister
+TTITLE9=Texas Flood
+TTITLE10=Voodoo Chile (Slight Return)
+TTITLE11=Love Struck Baby
+TTITLE12=Change It
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

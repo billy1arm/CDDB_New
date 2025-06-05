@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12150
+#	27975
+#	41250
+#	56925
+#	78900
+#	93600
+#	119033
+#	133808
+#	149033
+#	163658
+#	177608
+#	185933
+#	198308
+#
+# Disc length: 2931 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=d60b710e
+DTITLE=Flautango - Volumen I
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=El Recodo
+TTITLE1=A fuego lento
+TTITLE2=Taquito militar
+TTITLE3=Tierra querida
+TTITLE4=Haydecida
+TTITLE5=Decarissimo
+TTITLE6=Diana
+TTITLE7=Lo que vendra
+TTITLE8=Responso
+TTITLE9=Carmen
+TTITLE10=Valses del Este
+TTITLE11=El vuelo del moscardon
+TTITLE12=Alice in Wonderland
+TTITLE13=Milonga Caliente
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

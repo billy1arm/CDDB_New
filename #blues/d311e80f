@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20884
+#	42269
+#	61352
+#	76114
+#	86521
+#	104131
+#	139568
+#	164493
+#	176202
+#	215654
+#	238501
+#	271294
+#	302501
+#	321208
+#
+# Disc length: 4586 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=d311e80f
+DTITLE=Johann Sebastian Bach (1685-1750) - Harpsichord Concertos (Complete) Disk 1
+DYEAR=1995
+DGENRE=Baroque
+TTITLE0=Concerto for Harpsichord in A major, BWV 1055   Allegro
+TTITLE1=Concerto for Harpsichord in A major, BWV 1055  Larghetto
+TTITLE2=Concerto for Harpsichord in A major, BWV 1055  Allegro ma non tanto
+TTITLE3=Concerto for Harpsichord in F minor, BWV 1056  Allegro
+TTITLE4=Concerto for Harpsichord in F minor, BWV 1056  Largo
+TTITLE5=Concerto for Harpsichord in F minor, BWV 1056  Presto
+TTITLE6=Concerto for Harpsichord in D major, BWV 1054  Allegro
+TTITLE7=Concerto for Harpsichord in D major, BWV 1054  Adagio e sempre piano
+TTITLE8=Concerto for Harpsichord in D major, BWV 1054  Allegro
+TTITLE9=Concerto for Harpsichord in E major, BWV 1053  Allegro
+TTITLE10=Concerto for Harpsichord in E major, BWV 1053  Siciliano
+TTITLE11=Concerto for Harpsichord in E major, BWV 1053  Allegro
+TTITLE12=Concerto for Harpsichord  and two recorders in F major, BWV 1057  Allegro
+TTITLE13=Concerto for Harpsichord  and two recorders in F major, BWV 1057  Andante
+TTITLE14=Concerto for Harpsichord  and two recorders in F major, BWV 1057  Allegro assai
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

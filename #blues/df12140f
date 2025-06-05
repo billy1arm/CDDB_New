@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	28133
+#	52961
+#	72179
+#	96818
+#	115436
+#	137898
+#	163338
+#	189140
+#	215319
+#	240643
+#	261754
+#	284691
+#	303556
+#	327763
+#
+# Disc length: 4630 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=df12140f
+DTITLE=Cam Ly - Noi Buon Chim Sao
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Noi Buon Chim Sao
+TTITLE1=Tro Lai Pho Cu
+TTITLE2=Sac Mau Con Gai
+TTITLE3=Nguoi Ve Cuoi Pho
+TTITLE4=Chi Vi Yeu Anh
+TTITLE5=Bien Tinh Yeu
+TTITLE6=Tinh Dang Ly Kho Qua
+TTITLE7=Chong Xa
+TTITLE8=Ngay Ve
+TTITLE9=Bo Ben La
+TTITLE10=Co Phai Em Da Yeu
+TTITLE11=Noi Dau Ngay Qua
+TTITLE12=Bon Mat Yeu Anh
+TTITLE13=Co Be Kinh Can
+TTITLE14=Nhung Anh Chang Ngo Nhan
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

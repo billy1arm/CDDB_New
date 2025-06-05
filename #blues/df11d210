@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6978
+#	14642
+#	29386
+#	48897
+#	83136
+#	115300
+#	148831
+#	155470
+#	163519
+#	229035
+#	245407
+#	253207
+#	295887
+#	314476
+#	325988
+#
+# Disc length: 4564 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=df11d210
+DTITLE=Helene Grimaud - BACH
+DYEAR=2008
+DGENRE=Classical
+TTITLE0=Bach_Prelude 2 in Cm_BWV 847 WTK 1
+TTITLE1=Bach_Fugue 2 in Cm_BWV 847 WTK 1
+TTITLE2=Bach_Prelude 4 in C#m_BWV 849 WTK 1
+TTITLE3=Bach_Fugue 4 in C#m BWV_849 WTK 1
+TTITLE4=Bach_Piano Concerto 1 in Dm_BWV 1052 - I. Allegro
+TTITLE5=Bach_Piano Concerto 1 in Dm_BWV 1052 - II. Adagio
+TTITLE6=Bach_Piano Concerto 1 in Dm_BWV 1052 - III. Allegro
+TTITLE7=Bach_Prelude 6 in Dm_BWV 875 WTK 2
+TTITLE8=Bach_Fugue 6 in Dm_BWV 875 WTK 2
+TTITLE9=Bach_Busoni - Chaconne in Dm  (arr. from Violin Partita 2_BWV 1004)
+TTITLE10=Bach_Prelude 20 in Am_BWV 889 from WTK 2
+TTITLE11=Bach_Fugue 20 in Am_BWV 889 from WTK 2
+TTITLE12=Bach_Liszt - Prelude and Fugue  Am (arr. from BWV 543 for organ)
+TTITLE13=Bach_Prelude 9 in E_BWV 878 WTK 2
+TTITLE14=Bach_Fugue 9 in E_BWV 878 WTK 2
+TTITLE15=Bach_Rachmaninov - Prelude in E (arr. from Violin Partita 3_BWV 1006)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

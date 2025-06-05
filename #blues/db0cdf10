@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	15395
+#	28170
+#	45308
+#	62508
+#	78583
+#	94083
+#	116283
+#	133233
+#	147058
+#	158220
+#	170058
+#	184570
+#	198008
+#	215995
+#	231745
+#
+# Disc length: 3297 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: QuintessentialCD v1.1 (c) 1998 Paul Quinn
+#
+DISCID=db0cdf10
+DTITLE=Billie Holiday - Greatest
+DYEAR=1900
+DGENRE=
+TTITLE0=Ain't nobody's bizness if I do
+TTITLE1=Them there eyes
+TTITLE2=Moonlight in Vermont
+TTITLE3=But not for me
+TTITLE4=A fine romance
+TTITLE5=I wished on the moon
+TTITLE6=When your lover has gone
+TTITLE7=Lady sings the blues
+TTITLE8=Strange fruit
+TTITLE9=I cried for you
+TTITLE10=My man
+TTITLE11=What a little monlight can do
+TTITLE12=Lover man (oh were can you be)
+TTITLE13=God bless the child
+TTITLE14=Good morning heartache
+TTITLE15=Billie's blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

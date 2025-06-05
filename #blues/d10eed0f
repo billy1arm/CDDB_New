@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+# 183
+# 22585
+# 35110
+# 56575
+# 74788
+# 88953
+# 107380
+# 120268
+# 130030
+# 147748
+# 158460
+# 184953
+# 211175
+# 236735
+# 271175
+#
+# Disc length: 3823 seconds
+# Revision: 19
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: MusicBin 0.4
+#
+DISCID=cd0eed0f,d10eed0f
+DTITLE=Stan Getz/João Gilberto - Getz/Gilberto #2
+DYEAR=1964
+DGENRE=Bossa Nova
+TTITLE0=Grandfather's Waltz
+TTITLE1=Tonight I Shall Sleep With A Smile On My Face
+TTITLE2=Stan's Blues
+TTITLE3=Here's That Rainy Day
+TTITLE4=Samba Da Minha Terra
+TTITLE5=Rosa Morena
+TTITLE6=Um Abraco No Bonfa
+TTITLE7=Bim Bom
+TTITLE8=Meditation
+TTITLE9=O Pato
+TTITLE10=It Might As Well Be Spring
+TTITLE11=Only Trust Your Heart
+TTITLE12=Corvocado (Quiet Nights Of Quiet Stars)
+TTITLE13=Garota De Ipanema (The Girl From Ipanema)
+TTITLE14=Voce E Eu
+EXTD=Live Concert at Carnegie Hall, 1964-10-09;\nFeaturing Gary Bu
+EXTD=rton, Asturd Gilberto and Gilberto's Trio;\n
+EXTT0=Stan Getz (ts), Gary Burton (vb), Gene Cherico (b), Joe Hunt
+EXTT0=(d).
+EXTT1=Stan Getz (ts), Gary Burton (vb), Gene Cherico (b), Joe Hunt
+EXTT1=(d).
+EXTT2=Stan Getz (ts), Gary Burton (vb), Gene Cherico (b), Joe Hunt
+EXTT2=(d).
+EXTT3=Stan Getz (ts), Gary Burton (vb), Gene Cherico (b), Joe Hunt
+EXTT3=(d).
+EXTT4=Joao Gilberto (g), Ketter Betts (b), Helcio Melito (d).
+EXTT5=Joao Gilberto (g), Ketter Betts (b), Helcio Melito (d).
+EXTT6=Joao Gilberto (g), Ketter Betts (b), Helcio Melito (d).
+EXTT7=Joao Gilberto (g), Ketter Betts (b), Helcio Melito (d).
+EXTT8=Joao Gilberto (g), Ketter Betts (b), Helcio Melito (d).
+EXTT9=Joao Gilberto (g), Ketter Betts (b), Helcio Melito (d).
+EXTT10=Stan Getz (ts), Joao Gilberto (g, vcl), Gary Burton (vb), G
+EXTT10=ene Cherico (b), Joe Hunt (d), Asturd Gilberto (vcl).
+EXTT11=Stan Getz (ts), Joao Gilberto (g, vcl), Gary Burton (vb), G
+EXTT11=ene Cherico (b), Joe Hunt (d), Asturd Gilberto (vcl).
+EXTT12=Stan Getz (ts), Joao Gilberto (g, vcl), Gary Burton (vb), G
+EXTT12=ene Cherico (b), Joe Hunt (d), Asturd Gilberto (vcl).
+EXTT13=Stan Getz (ts), Joao Gilberto (g, vcl), Gary Burton (vb), G
+EXTT13=ene Cherico (b), Joe Hunt (d), Asturd Gilberto (vcl).
+EXTT14=Stan Getz (ts), Joao Gilberto (g, vcl), Gary Burton (vb), G
+EXTT14=ene Cherico (b), Joe Hunt (d), Asturd Gilberto (vcl).
+PLAYORDER=

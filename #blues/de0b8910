@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14215
+#	25730
+#	40232
+#	56117
+#	71187
+#	84425
+#	100207
+#	114885
+#	128542
+#	143647
+#	157300
+#	170877
+#	181687
+#	195000
+#	208200
+#
+# Disc length: 2955 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=de0b8910
+DTITLE=Various Artist - Blue Blue Ladies
+DYEAR=1900
+DGENRE=
+TTITLE0=That Old Feeling - Adelaide Hall
+TTITLE1=It Must Be Love - Sally Gooding
+TTITLE2=Sweet Georgia Brown - Ethel Waters
+TTITLE3=Downhearted Blues - Mildred Bailey
+TTITLE4=Stormy Weather - Ivie Anderson
+TTITLE5=You Bring Out The Savage In Me - Valaida Snow
+TTITLE6=Out Of Nowhere - Lena Horne
+TTITLE7=He May Be Your Man - Edith Wilson
+TTITLE8=Say It With A Kiss - Maxine Sullivan
+TTITLE9=Black Eye Blues - Ma Rainey
+TTITLE10=My Mellancholly Baby - Ella Fitzgerald
+TTITLE11=What A Little Moonlight Can Do - Billie Holliday
+TTITLE12=(untitled)
+TTITLE13=(untitled)
+TTITLE14=(untitled)
+TTITLE15=(untitled)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

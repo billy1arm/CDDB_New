@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18920
+#	40191
+#	56641
+#	71251
+#	89546
+#	106535
+#	119100
+#	140810
+#	155916
+#	164353
+#	183307
+#	197821
+#	216812
+#	236538
+#
+# Disc length: 3259 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=d60cb90f
+DTITLE=De-phazz - Godsdog
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=The mambo craze
+TTITLE1=Cafe coca
+TTITLE2=Jazz music
+TTITLE3=Steps ahead
+TTITLE4=Zero zero
+TTITLE5=Happiness
+TTITLE6=Squeeze the trigger
+TTITLE7=April shower
+TTITLE8=Godsdog
+TTITLE9=Low budget hotel
+TTITLE10=Time slips
+TTITLE11=Havana moon
+TTITLE12=Information
+TTITLE13=Next message!
+TTITLE14=Radio sol
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

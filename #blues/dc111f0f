@@ -1,0 +1,63 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  18360
+#  40167
+#  59957
+#  85700
+#  107225
+#  128840
+#  148685
+#  168092
+#  198020
+#  219947
+#  237900
+#  258702
+#  278417
+#  299027
+#
+# Disc length: 4385 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=dc111f0f
+DTITLE=R&B's Greatest Hits 1985 - 1995 - The Gold Seal Collection - Disc 
+DTITLE=1
+DYEAR=1900
+DGENRE=
+TTITLE0=Oh Sheila!
+TTITLE1=My Prerogative
+TTITLE2=Poison
+TTITLE3=Giving You The Benefit
+TTITLE4=Sensitivity
+TTITLE5=Wanna Get With You
+TTITLE6=Do Me Right
+TTITLE7=Now That We've Found Love
+TTITLE8=Word To The Mutha
+TTITLE9=Is It Good To You
+TTITLE10=Cherish
+TTITLE11=Come and Talk To Me
+TTITLE12=Don't Sweat The Technique
+TTITLE13=Real Love
+TTITLE14=Love's Taken Over
+EXTD=
+EXTT0=Ready For The World
+EXTT1=Bobby Brown
+EXTT2=Bell Biv Devoe
+EXTT3=Pebbles
+EXTT4=Ralph Tresvant
+EXTT5=Guy
+EXTT6=Guy
+EXTT7=Heavy D and The Boyz
+EXTT8=Bell Biv Devoe
+EXTT9=Heavy D and The Boyz
+EXTT10=Jodeci
+EXTT11=Jodeci
+EXTT12=Eric B and Rakim
+EXTT13=Mary J Blige
+EXTT14=Chante Moore
+PLAYORDER=

@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23025
+#	44345
+#	62930
+#	79055
+#	100735
+#	122330
+#	141992
+#	161685
+#	186352
+#	215977
+#	237660
+#	261127
+#	282585
+#	303060
+#
+# Disc length: 4352 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=de10fe0f
+DTITLE=因幡晃 - 人生それは終わりのない旅
+DYEAR=2005
+DGENRE=JPop
+TTITLE0=01_蜜月夜
+TTITLE1=02_わかって下さい
+TTITLE2=03_別涙
+TTITLE3=04_思いで・・・
+TTITLE4=05_きみはどこまで美しくなるのか
+TTITLE5=06_紅さしゆび
+TTITLE6=07_忍冬
+TTITLE7=08_夕映えを待ちながら
+TTITLE8=09_新しい朝
+TTITLE9=10_そのままミッドナイト
+TTITLE10=11_夕日が君を追い越す前に
+TTITLE11=12_痩せ地の薔薇
+TTITLE12=13_めぐみ（MEGUMI）
+TTITLE13=14_雪が降る〜TombeLaNeige〜
+TTITLE14=15_人生それは終わりのない旅
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

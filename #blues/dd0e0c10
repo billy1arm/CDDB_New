@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24090
+#	34095
+#	54050
+#	74390
+#	83152
+#	102695
+#	120445
+#	142715
+#	164990
+#	183810
+#	197600
+#	216690
+#	228120
+#	238840
+#	254045
+#
+# Disc length: 3598 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=dd0e0c10
+DTITLE=Various Artist - Gospel,  A Celebração da Vida - Audio News Collection
+DYEAR=1996
+DGENRE=Gospel
+TTITLE0=Sing Out - Ron Kenoly
+TTITLE1=He Gave Water - Acapella
+TTITLE2=Sure Feels Good - Al Green
+TTITLE3=The Call - Anointed
+TTITLE4=I Was Glad when they Said unto Me - Brooklyn Tabernacle Singers
+TTITLE5=Unity - Babbie Mason
+TTITLE6=God is with Us - Point of Grace
+TTITLE7=Reaching with His Love - Cindy Morgan
+TTITLE8=Agnus Dei - Michael W. Smith
+TTITLE9=Love - Petra
+TTITLE10=A Unção - Genésio de Sousa
+TTITLE11=Sempre Orando - Priscila Maciel
+TTITLE12=O Céu em meu Coração - Silas Furtado 
+TTITLE13=Canto Forte - Cristina Mel
+TTITLE14=Vou Seguindo pela Estrada - Sandra Simões
+TTITLE15=O Mover do Espírito - Armando Filho
+EXTD=YEAR: 1996
+EXTT0=Ron Kenoly
+EXTT1=Acappella
+EXTT2=Al Green
+EXTT3=Anointed
+EXTT4=Brooklin Tabernacles Singers
+EXTT5=Babbie Mason
+EXTT6=Point Of Grace
+EXTT7=Cindy Morgan
+EXTT8=Michael W. Smith
+EXTT9=Petra
+EXTT10=Gen sio de Souza
+EXTT11=Priscila Maciel
+EXTT12=Silas Furtado
+EXTT13=Cristina Mel
+EXTT14=Sandra Sim es
+EXTT15=Aramando Filho
+PLAYORDER=

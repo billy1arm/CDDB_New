@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11430
+#	33487
+#	49842
+#	60102
+#	72700
+#	76280
+#	90367
+#	106932
+#	119400
+#	142155
+#	155809
+#	169017
+#	180042
+#	191330
+#	205355
+#
+# Disc length: 2888 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.82
+#
+DISCID=d00b4610
+DTITLE=George Lewis - "JAM SESSION"
+DYEAR=1950
+DGENRE=Jazz
+TTITLE0=Track01 Willie The Weeper
+TTITLE1=Track02 219 Blues
+TTITLE2=Track03 Maisie
+TTITLE3=Track04 Ole Miss #1
+TTITLE4=Track05 Ole Miss #2
+TTITLE5=Track06 Ole Miss (false start)
+TTITLE6=Track07 Stompin' At The El Morocco
+TTITLE7=Track08 Bugle Boy March #1
+TTITLE8=Track09 Bugle Boy March #2
+TTITLE9=Track10 Jerusalem Blues
+TTITLE10=Track11 Pallet On The Floor #1
+TTITLE11=Track12 Pallet On The Floor #2
+TTITLE12=Track13 Shiek Of Araby #1
+TTITLE13=Track14 Shiek Of Araby #2
+TTITLE14=Track15 Chicken
+TTITLE15=Track16 Shiek Of Araby #2 sic
+EXTD=YEAR: 1950
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

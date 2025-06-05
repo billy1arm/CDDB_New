@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     32353
+#     50423
+#     64888
+#     83240
+#     94915
+#     111788
+#     126393
+#     137915
+#     150148
+#     175735
+#     206460
+#     225670
+#     240623
+#     256308
+#     269275
+# 
+# Disc length: 3789 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=d20ecb10
+DTITLE=Con Amore (Aalsmeers Mannenkoor) - Con Amore Zingt Europa
+DYEAR=1900
+DGENRE=
+TTITLE0=Triomfkoor uit Aida
+TTITLE1=O sole mio
+TTITLE2=Zigeunerkoor uit il trovatore
+TTITLE3=Ode aan Vicky Brown
+TTITLE4=Yesterday
+TTITLE5=Memory
+TTITLE6=Jagerskoor uit de Freischutz
+TTITLE7=Wiegelied (gut Abend gut Nacht)
+TTITLE8=Die Lorelei
+TTITLE9=Psaume Cl
+TTITLE10=Les matyrs
+TTITLE11=Cent mille chanson
+TTITLE12=Aan de Amsterdamse grachten
+TTITLE13=Zomer in Zeeland
+TTITLE14=Mooi Aalsmeer
+TTITLE15=An die Freude
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

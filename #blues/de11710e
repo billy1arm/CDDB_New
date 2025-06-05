@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31352
+#	46870
+#	74165
+#	94482
+#	151250
+#	164717
+#	176147
+#	189642
+#	208242
+#	221882
+#	238615
+#	254315
+#	272727
+#
+# Disc length: 4467 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=de11710e
+DTITLE=Ausbildungsmusikkorps der Bundeswehr - Concert Edition Vol. 1
+DYEAR=1997
+DGENRE=Blasmusik
+TTITLE0=Marsch zur Shakespeare Feier (Bedrich Smetana)
+TTITLE1=The Year of the Dragon (Philip Sparke) 1. Toccata
+TTITLE2=The Year of the Dragon (Philip Sparke) 2. Interlude
+TTITLE3=The Year of the Dragon (Philip Sparke) 3. Finale
+TTITLE4=Die Druiden (Rolf Rudin)
+TTITLE5=Jazz Suite Nr. 2 (Dimitri Schostakowitsch) 1. March
+TTITLE6=Jazz Suite Nr. 2 (Dimitri Schostakowitsch) 2. Lyric Waltz
+TTITLE7=Jazz Suite Nr. 2 (Dimitri Schostakowitsch) 3. Dance 1
+TTITLE8=Suite of Old American Dances (R.R. Bennett) 1. Cakewalk
+TTITLE9=Suite of Old American Dances (R.R. Bennett) 2. Schottische
+TTITLE10=Suite of Old American Dances (R.R. Bennett) 3. Western One-Step
+TTITLE11=Suite of Old American Dances (R.R. Bennett) 4. Wallflower Waltz
+TTITLE12=Suite of Old American Dances (R.R. Bennett) 5. Rag
+TTITLE13=Film ab, Doldinger (Klaus Doldinger, Bearb. Walter Ratzek)
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

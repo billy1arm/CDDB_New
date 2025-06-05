@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     16328
+#     33453
+#     60718
+#     79058
+#     91928
+#     106988
+#     117830
+#     132573
+#     152463
+#     171728
+#     189928
+#     204128
+#     214838
+#     229808
+#     248173
+# 
+# Disc length: 3504 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=d20dae10
+DTITLE=Lex Vandyke - Still Got the Blues Vol. 2
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm in the Mood
+TTITLE1=Money for Nothing
+TTITLE2=Layla
+TTITLE3=Right Next Door
+TTITLE4=Man of the World
+TTITLE5=Black Magic Woman
+TTITLE6=Strange Brew
+TTITLE7=A Salty Dog
+TTITLE8=Sultans of Swing
+TTITLE9=Oh Pretty Woman
+TTITLE10=Oye Come Va (Listen How it Goes)
+TTITLE11=Cocaine
+TTITLE12=Badge
+TTITLE13=Evil Ways
+TTITLE14=After Midnight
+TTITLE15=Albatross
+EXTD=
+EXTT0=John Lee Hooker\n
+EXTT1=Mark Knopfler\n
+EXTT2=Eric Clapton - Jim Gordon\n
+EXTT3=R. Gray\n
+EXTT4=Peter Green\n
+EXTT5=Peter Green\n
+EXTT6=Eric Clapton - Felix Pappalardi - Gail \nCollins\n
+EXTT7=Keith Reid - Garry Brooker\n
+EXTT8=Mark Knopfler\n
+EXTT9=Roy Orbison - B. Dees\n
+EXTT10=Tito Puente\n
+EXTT11=J. J. Cale\n
+EXTT12=Eric Clapton - George Harrison\n
+EXTT13=S. Henry\n
+EXTT14=J. J. Cale\n
+EXTT15=Peter Green\n
+PLAYORDER=

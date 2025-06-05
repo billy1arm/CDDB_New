@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12313
+#     21543
+#     36980
+#     51323
+#     63040
+#     77038
+#     92870
+#     109965
+#     123993
+#     138085
+#     153548
+#     165020
+#     179275
+#     193895
+#     204395
+# 
+# Disc length: 2932 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=d50b7210
+DTITLE=John Lee Hooker - Blues For Big Town
+DYEAR=1900
+DGENRE=
+TTITLE0=Mad Man Blues
+TTITLE1=Hey Boogie
+TTITLE2=Just Me And My Telephone
+TTITLE3=Dreamin' Blues
+TTITLE4=Walkin' The Boogie
+TTITLE5=I Don't Want Your Money
+TTITLE6=Hey Baby
+TTITLE7=The Journey
+TTITLE8=Bluebird
+TTITLE9=Apologize
+TTITLE10=Lonely Boy Boogie
+TTITLE11=Please Don't Go
+TTITLE12=Worried Life Blues
+TTITLE13=Blues For Big Town
+TTITLE14=Big Fine Woman
+TTITLE15=Blues For Christmas
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

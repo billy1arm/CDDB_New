@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12656
+#	47481
+#	69306
+#	91031
+#	109421
+#	125556
+#	139811
+#	162156
+#	184141
+#	204401
+#	229001
+#	244531
+#	272566
+#	290461
+#	307621
+#
+# Disc length: 4501 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=d5119310
+DTITLE=Various Artist - Bar Jazz Cafe
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Charlie Byrd - The Girl From Ipanema
+TTITLE1=George Benson - Take Five
+TTITLE2=Peter White - Venice Beach
+TTITLE3=George Duke - Summer Breezin'
+TTITLE4=Greg Adams - Metro
+TTITLE5=Dave Grusin - Comes Once In A Lifetime
+TTITLE6=Pete Jolly - Favela
+TTITLE7=Gerry Mulligan - Here I'll Stay
+TTITLE8=Dexter Gordon - How Insensitive
+TTITLE9=James Carter - Out Of Nowhere
+TTITLE10=Chet Baker - Tangerine
+TTITLE11=Count Basie - Moon Nocturne
+TTITLE12=Bill Evans - The Two Lonely People
+TTITLE13=The Art Blakey Percussion Ensemble - Cubano Chant
+TTITLE14=Thelonious Monk - Tea For Two
+TTITLE15=David Sanchez - Bomba Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

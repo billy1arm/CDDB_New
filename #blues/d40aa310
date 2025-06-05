@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13167
+#	29512
+#	42387
+#	55075
+#	68532
+#	82660
+#	97057
+#	109550
+#	120710
+#	133297
+#	143662
+#	160525
+#	170317
+#	185870
+#	191515
+#
+# Disc length: 2725 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=d40aa310
+DTITLE=Judy Garland - Over the Rainbow and Other Great Songs
+DYEAR=1900
+DGENRE=
+TTITLE0=Over The Rainbow
+TTITLE1=The Man That Got Away
+TTITLE2=The Trolley Song
+TTITLE3=Get Happy
+TTITLE4=I'm Always Chasing Rainbows
+TTITLE5=On The Achison, Topeka And The Santa Fe
+TTITLE6=Dear Mr. Gable/You Made Me Love You
+TTITLE7=Put Your Arms Around Me Honey
+TTITLE8=Meet Me Tonight In Dreamland
+TTITLE9=Who
+TTITLE10=Jonny One Note
+TTITLE11=Fly Me To The Moon
+TTITLE12=That's Entertainment
+TTITLE13=Smile
+TTITLE14=Alexanders Ragtime Band
+TTITLE15=Chicago
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

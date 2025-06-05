@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14892
+#	31516
+#	52959
+#	70768
+#	85817
+#	102562
+#	111958
+#	127551
+#	142916
+#	161724
+#	179150
+#	194404
+#	212106
+#	237809
+#	264415
+#
+# Disc length: 3543 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=dc0dd510
+DTITLE=varios - Ibiza Mix 2000 CD4
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Marcos Llunas - La Reina de las Diosas
+TTITLE1=Los Sobraos - Ya no quiero tu querer
+TTITLE2=Armando - Sueño tu boca
+TTITLE3=Apache - Boom Boom
+TTITLE4=Grupo Caribe - El baile del 8
+TTITLE5=Rodríguez - Borriquito
+TTITLE6=La Bomba - Bomba
+TTITLE7=Laura Moran - No me Dejes de querer
+TTITLE8=Chaito Mendes - El calamar
+TTITLE9=Los Rompecaderas - Come baby come
+TTITLE10=El cielo - La nueva Guarachería
+TTITLE11=Marco da Silva - La Bamba
+TTITLE12=Tito Vilches - La fruta fresca
+TTITLE13=Azuquita - El Gorilón Rmx
+TTITLE14=Top kuatro - Viva el Merengue
+TTITLE15=data - data
+EXTD=\n\nYEAR: 2000  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

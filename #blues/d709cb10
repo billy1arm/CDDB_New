@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12762
+#	23432
+#	35737
+#	47805
+#	59295
+#	72035
+#	82037
+#	94672
+#	107687
+#	117357
+#	127057
+#	140522
+#	152065
+#	164952
+#	175002
+#
+# Disc length: 2509 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=d709cb10
+DTITLE=Nat King Cole - Best hits
+DYEAR=1990
+DGENRE=Blues
+TTITLE0=Quizas, quizas, quizas
+TTITLE1=Perfidia
+TTITLE2=Maria Elena
+TTITLE3=Te quiero, dijiste
+TTITLE4=Vaya con dios
+TTITLE5=Acercate mas
+TTITLE6=El Choclo
+TTITLE7=Solamente una vez
+TTITLE8=Adios Mariquita Linda
+TTITLE9=Tre palabras
+TTITLE10=Adelita
+TTITLE11=Las Mananitas
+TTITLE12=Noche de ronda
+TTITLE13=cachito
+TTITLE14=Aquellos ojos verdes
+TTITLE15=La golondrina
+EXTD=YEAR: 1990 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

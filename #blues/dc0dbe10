@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18482
+#     34260
+#     52827
+#     69172
+#     81647
+#     101262
+#     113450
+#     131857
+#     145462
+#     166055
+#     177240
+#     193957
+#     211082
+#     229157
+#     247015
+# 
+# Disc length: 3520 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=dc0dbe10
+DTITLE=Agep  - Grandes Sucessos de Agep 
+DYEAR=1900
+DGENRE=
+TTITLE0=Deixa Eu Te Amar
+TTITLE1=Vai Acontecer
+TTITLE2=De Todas As Formas
+TTITLE3=Atalhos
+TTITLE4=Fogo No Forr 
+TTITLE5=Lindo   Voc  Ser A Minha Mulher
+TTITLE6=Tempo De Amar
+TTITLE7=Clara Claridade
+TTITLE8=Frevo Na Multid o
+TTITLE9=Mama
+TTITLE10=O Samba   A Minha Cacha a
+TTITLE11=Estrada Do Cora  o
+TTITLE12=No Calor Do Teu Amor
+TTITLE13=Proezas Do Cora  o
+TTITLE14=Errado Fui Eu
+TTITLE15=Bandeira Da F 
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

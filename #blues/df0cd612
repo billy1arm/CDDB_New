@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11713
+#     26638
+#     36800
+#     50338
+#     60275
+#     70963
+#     83300
+#     93200
+#     105388
+#     116263
+#     128863
+#     141463
+#     160575
+#     179013
+#     191288
+#     209663
+#     225138
+# 
+# Disc length: 3288 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=df0cd612
+DTITLE=Roy Hamilton - Anthology [Disc 1]
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Let Go
+TTITLE1=You'll Never Walk Alone (from Carousel)
+TTITLE2=Hurt
+TTITLE3=Unchained Melody
+TTITLE4=I Believe
+TTITLE5=Forgive This Fool
+TTITLE6=Since I Fell For You
+TTITLE7=A Great Romance
+TTITLE8=Ebb Tide
+TTITLE9=I'll Walk Alone
+TTITLE10=You're Gonna Need Magic
+TTITLE11=You Can Have Her
+TTITLE12=Mood Indigo
+TTITLE13=I Could Have Told You
+TTITLE14=I Get The Blues When It Rains
+TTITLE15=Sophisticated Lady
+TTITLE16=My Story
+TTITLE17=Cottage For Sale
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

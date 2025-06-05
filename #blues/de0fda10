@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12472
+#     36475
+#     58577
+#     68177
+#     86250
+#     108152
+#     121200
+#     136807
+#     153640
+#     177302
+#     204392
+#     221665
+#     237600
+#     249862
+#     272400
+# 
+# Disc length: 4060 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=de0fda10,de0fdb10
+DTITLE=Ella Fitzgerald - For the love of Ella Fitzgeeralg disque 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Misty
+TTITLE1=Sophisticated lady
+TTITLE2=Midnight sun
+TTITLE3=Solitude
+TTITLE4=How long, how long blues
+TTITLE5=I loves you porgy
+TTITLE6=Summertime
+TTITLE7=Mood indigo
+TTITLE8=Laura
+TTITLE9=Stormy weather
+TTITLE10=Autumn in new york
+TTITLE11=These foolsih things
+TTITLE12=I can't get started
+TTITLE13=See see rider
+TTITLE14=I love Paris
+TTITLE15=Blues in the night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

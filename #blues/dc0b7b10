@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	13970
+# 	28090
+# 	42065
+# 	56005
+# 	69112
+# 	83215
+# 	97637
+# 	111652
+# 	125517
+# 	139175
+# 	152480
+# 	164455
+# 	178870
+# 	192655
+# 	206425
+#
+# Disc length: 2941 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=dc0b7b10
+DTITLE=Leadbelly - Alabama Bound
+DYEAR=1900
+DGENRE=
+TTITLE0=Pick A Bale Of Cotton
+TTITLE1=Whoa, Back Buck
+TTITLE2=Midnight Special
+TTITLE3=Alabama Bound
+TTITLE4=Good Morning Blues
+TTITLE5=The Red Cross Store Blues
+TTITLE6=Alberta
+TTITLE7=You Can't Lose-A Me Cholly
+TTITLE8=Gray Goose
+TTITLE9=Stewball
+TTITLE10=Can't You Line 'Em
+TTITLE11=Rock Island Line
+TTITLE12=Easy Rider
+TTITLE13=New York City
+TTITLE14=Roberta
+TTITLE15=I'm On My Last Go-Round
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

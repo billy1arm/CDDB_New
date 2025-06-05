@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13752
+#	29755
+#	40294
+#	62015
+#	84105
+#	104439
+#	123571
+#	135983
+#	155655
+#	166139
+#	181825
+#	195072
+#	205935
+#	223769
+#	239525
+#
+# Disc length: 3375 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.07.15)
+#
+DISCID=d60d2d10
+DTITLE=Various Artist - Lady Sings the blues
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Peggy Lee - Fever
+TTITLE1=Dusty Springfield - The look of love
+TTITLE2=Ella Fitzgerald - Summertime
+TTITLE3=Brenda Lee - I'm sorry
+TTITLE4=Gladys Knight and the Pips - Midnight train to Georgia
+TTITLE5=Luba - When a man loves a woman
+TTITLE6=Carole King - (you make me feel) a natural woman
+TTITLE7=Irma Thomas - I've been loving you too long
+TTITLE8=Milly Jackson - (if loving you is wrong) I don't want to be right
+TTITLE9=Ruby Turner - I'd rather go blind
+TTITLE10=Nina Simone - Gin House Blues
+TTITLE11=Julie London - Cry me a river
+TTITLE12=Nancy Wilson - Can't take my eyes off you
+TTITLE13=Cassandra Wilson - Tupelo Honey - Angel
+TTITLE14=Norah Jones - Cold cold heart
+TTITLE15=Patricia O'Callaghan - Take this waltz
+EXTD=ID3G:   0 YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=\n
+EXTT14=
+EXTT15=
+PLAYORDER=

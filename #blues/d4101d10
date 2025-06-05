@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     24160
+#     34210
+#     53410
+#     74260
+#     99985
+#     116110
+#     135685
+#     152410
+#     175135
+#     181735
+#     200485
+#     232960
+#     250210
+#     271735
+#     291535
+# 
+# Disc length: 4127 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=d4101d10
+DTITLE=Santana - Super Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Black magic woman/ Gypsy queen
+TTITLE1=Just in time to see the sun
+TTITLE2=Oye como va
+TTITLE3=Samba pa ti
+TTITLE4=When I look into your eyes
+TTITLE5=Let the music set you free
+TTITLE6=Life is new
+TTITLE7=Let the children play
+TTITLE8=Europa (Earth s cry heaven s smile)
+TTITLE9=Marathon
+TTITLE10=Well all right
+TTITLE11=One chain (Don t make no prison)
+TTITLE12=Lightning in the sky
+TTITLE13=Open invitation
+TTITLE14=You know that I love you
+TTITLE15=All I ever wanted
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

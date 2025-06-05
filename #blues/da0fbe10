@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	22995
+# 	48610
+# 	64680
+# 	80772
+# 	95525
+# 	130112
+# 	150280
+# 	161937
+# 	178035
+# 	194662
+# 	216382
+# 	232700
+# 	239245
+# 	247615
+# 	259777
+#
+# Disc length: 4032 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=da0fbe10
+DTITLE=Duke Ellington - Hot Summer Dance
+DYEAR=1900
+DGENRE=
+TTITLE0=Take the A Train
+TTITLE1=Paris Blues
+TTITLE2=The Nutcracker Suite Overture
+TTITLE3=Tenderly
+TTITLE4=Such Sweet Thunder
+TTITLE5=Medley:  Black and Tan Fantasy, Creole Love Call, The Mooche
+TTITLE6=Satin Doll
+TTITLE7=All of Me
+TTITLE8=Jeep's Blues
+TTITLE9=Laura
+TTITLE10=Dance of the Floreadores
+TTITLE11=I Got It Bad and that Ain't Good
+TTITLE12=Just Squeeze Me
+TTITLE13=It Don't Mean a Thing If It Ain't Got That Swing
+TTITLE14=Pretty and the Wolf
+TTITLE15=Diminuendo and Crescendo in Blue
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

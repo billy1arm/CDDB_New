@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	32560
+# 	49755
+# 	95465
+# 	112837
+# 	134987
+# 	149555
+# 	178237
+# 	197352
+# 	218517
+# 	234725
+# 	250307
+# 	288497
+# 	305205
+#
+# Disc length: 4448 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=d7115e0e
+DTITLE=Boise Blues - Blues From The City of Trees
+DYEAR=1900
+DGENRE=
+TTITLE0=Dire Straits
+TTITLE1=Yeah, Baby!
+TTITLE2=How Blue Can You Get?
+TTITLE3=Face To Face
+TTITLE4=Hoochie Coochie Man
+TTITLE5=When I Left My Baby
+TTITLE6=Full Time Lover
+TTITLE7=Corporate Blues
+TTITLE8=Velvet Elvis
+TTITLE9=Turtle Blues
+TTITLE10=Main Street
+TTITLE11=Telephone Blues
+TTITLE12=Land Of Plenty
+TTITLE13=Rock Me Baby
+EXTD=
+EXTT0=Cindy Lee and Streetwise
+EXTT1=Fat John and The Three Slims
+EXTT2=Hoochie Coochie Men
+EXTT3=Labor Of Love
+EXTT4=Bobby Ray Watson and The Hoochie Coochie Men
+EXTT5=Jud Davidson
+EXTT6=Richard Soliz and The Blue Rayz
+EXTT7=Ramblers Blues Band
+EXTT8=Cheap Dates (Go Dutch)
+EXTT9=Bluetail Twisters
+EXTT10=Souldier
+EXTT11=Night Train Express
+EXTT12=Red and Gray
+EXTT13=Chicken Cordon Blues w/ Kathy Miller
+PLAYORDER=

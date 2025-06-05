@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	34261
+#	58894
+#	82339
+#	102032
+#	114928
+#	134861
+#	149507
+#	170921
+#	186412
+#	193984
+#	217494
+#	250707
+#
+# Disc length: 4173 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=dd104b0d
+DTITLE=The Howard Fishman Quartet - I Like You A Lot
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Night After Night
+TTITLE1=Dirty
+TTITLE2=Another Night
+TTITLE3=Hey, Little Girl
+TTITLE4=Time Will Tell
+TTITLE5=Dreams of You
+TTITLE6=Tango
+TTITLE7=Molly's Pies
+TTITLE8=It Won't Be Long
+TTITLE9=Your Guess Waltz
+TTITLE10=I Surrender, Dear
+TTITLE11=Your Guess
+TTITLE12=Oh, Death
+EXTD=\nYEAR: 2001  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

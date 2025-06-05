@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15426
+#	29381
+#	36194
+#	55135
+#	81130
+#	97363
+#	115674
+#	132834
+#	146567
+#	158535
+#	171286
+#	184846
+#	220294
+#	238947
+#	255540
+#
+# Disc length: 3528 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=da0dc610
+DTITLE=Blues Brothers - Everybody Needs
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Everybody Needs Somebody To Love
+TTITLE1=Gimme Some Lovin'
+TTITLE2=I Can't Turn You Loose
+TTITLE3=She Caught The Katy
+TTITLE4=Green Onion
+TTITLE5=Who's Making Love
+TTITLE6="B" Movie Box Car Blues
+TTITLE7=Peter Gunn Theme
+TTITLE8=Soul Man
+TTITLE9=Theme From Rawhide
+TTITLE10=Shake Your Tailfeather
+TTITLE11=Do You Love Me Mother Popcorn
+TTITLE12=Sweet Home Chicago
+TTITLE13=Going Back To Miami
+TTITLE14=Flip Flop and Fly
+TTITLE15=Soul Finger Funky Broadway
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

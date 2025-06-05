@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12763
+#	36750
+#	53518
+#	66145
+#	80670
+#	90593
+#	107430
+#	120848
+#	139310
+#	154143
+#	175085
+#	191848
+#	208485
+#	228760
+#	252460
+#
+# Disc length: 3540 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta5_freedb
+#
+DISCID=d00dd210
+DTITLE=Stevie Ray Vaughan - The First Thunder
+DYEAR=1900
+DGENRE=
+TTITLE0=Rude Mood
+TTITLE1=Dirty Pool
+TTITLE2=I'm Crying
+TTITLE3=You're Gonna Miss Me Baby
+TTITLE4=Pride And Joy
+TTITLE5=Love Struck Baby
+TTITLE6=Natural Born Lover
+TTITLE7=Tina Nina Nu
+TTITLE8=Scratch My Back
+TTITLE9=I'll Change
+TTITLE10=Shake A Hand, Shake A Hand
+TTITLE11=Oh Baby
+TTITLE12=Sugar Coated Love
+TTITLE13=Love In Vain
+TTITLE14=You Can Have My Husban But Please Don't Mess With My Man
+TTITLE15=My Baby's Gone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=with Lou Ann Barton
+EXTT7=with Lou Ann Barton
+EXTT8=with Lou Ann Barton
+EXTT9=with Lou Ann Barton
+EXTT10=with Lou Ann Barton
+EXTT11=with Lou Ann Barton
+EXTT12=with Lou Ann Barton
+EXTT13=
+EXTT14=with Lou Ann Barton
+EXTT15=with Lou Ann Barton
+PLAYORDER=

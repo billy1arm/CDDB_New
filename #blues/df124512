@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18775
+#	47522
+#	70810
+#	97632
+#	114050
+#	137992
+#	153780
+#	171520
+#	194142
+#	210452
+#	225070
+#	248590
+#	263365
+#	280735
+#	306520
+#	320602
+#	337665
+#
+# Disc length: 4679 seconds
+#
+# Revision: 17
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=df124512
+DTITLE=Aerosmith - O, Yeah! Ultimate Aerosmith Hits [Disc 2]
+DYEAR=2002
+DGENRE=ロック
+TTITLE0=The Other Side
+TTITLE1=Livin' On The Edge
+TTITLE2=Cryin'
+TTITLE3=Amazing
+TTITLE4=Deuces Are Wild
+TTITLE5=Crazy
+TTITLE6=Falling In Love (Is Hard On The Knees)
+TTITLE7=Pink (The South Beach Mix)
+TTITLE8=I Don't Want To Miss A Thing
+TTITLE9=Jaded
+TTITLE10=Just Push Play (Radio Remix)
+TTITLE11=Walk This Way
+TTITLE12=Girls Of Summer
+TTITLE13=Lay It Down
+TTITLE14=Train Kept A Rollin'
+TTITLE15=Toys In The Attic
+TTITLE16=Come Together
+TTITLE17=Theme From Spider Man
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

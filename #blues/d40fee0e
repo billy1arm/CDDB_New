@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2057
+#	26315
+#	49809
+#	62989
+#	96129
+#	129741
+#	148859
+#	177499
+#	205160
+#	225523
+#	250782
+#	283150
+#	296991
+#
+# Disc length: 4080 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=d40fee0e
+DTITLE=Harry Allen - 007 Songs
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=The James Bond Theme
+TTITLE1=Surrender
+TTITLE2=On Her Majesty's Secret Service
+TTITLE3=You Only Live Twice
+TTITLE4=From Russia With Love
+TTITLE5=Nobody Does It Better
+TTITLE6=Goldeneye
+TTITLE7=Whe Have All The Time In The World
+TTITLE8=Goldfinger
+TTITLE9=All Time High
+TTITLE10=For Your Eyes Only
+TTITLE11=Thunderball
+TTITLE12=Moonraker
+TTITLE13=The James Bond Theme
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

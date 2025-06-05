@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14915
+#     27650
+#     45015
+#     59975
+#     83625
+#     95655
+#     114985
+#     136263
+#     150318
+#     165393
+#     181623
+#     200023
+#     215765
+#     233945
+#     255373
+# 
+# Disc length: 3616 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=d30e1e10
+DTITLE=Lee Towers - The story of Lee Towers
+DYEAR=1900
+DGENRE=
+TTITLE0=The story of Adam and Eve
+TTITLE1=I can see clearly now
+TTITLE2=Love is all
+TTITLE3=I believe in music
+TTITLE4=Fly too high
+TTITLE5=Love potion number nine
+TTITLE6=Winter in America
+TTITLE7=Run to me (duet met Anita Meyer)
+TTITLE8=Golden lady
+TTITLE9=In the ghetto
+TTITLE10=If you know what I mean
+TTITLE11=New York, New York
+TTITLE12=Maybe this time
+TTITLE13=It's raining in my heart
+TTITLE14=An American trilogy
+TTITLE15=You'll never walk alone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

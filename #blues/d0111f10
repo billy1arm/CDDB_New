@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15750
+#	36150
+#	55575
+#	78600
+#	96375
+#	120900
+#	144675
+#	166500
+#	180000
+#	201750
+#	223500
+#	245400
+#	268575
+#	290025
+#	309525
+#
+# Disc length: 4385 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=d0111f10
+DTITLE=Eric Clapton - Reptile
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Eric Clapton - Reptile - 01 - Reptile
+TTITLE1=Eric Clapton - Reptile - 02 - Got You On My Mind
+TTITLE2=Eric Clapton - Reptile - 03 - Travelin' Light
+TTITLE3=Eric Clapton - Reptile - 04 - Believe In Life
+TTITLE4=Eric Clapton - Reptile - 05 - Come Back Baby
+TTITLE5=Eric Clapton - Reptile - 06 - Broken Down
+TTITLE6=Eric Clapton - Reptile - 07 - Find Myself
+TTITLE7=Eric Clapton - Reptile - 08 - I Aint Gonna Stand For It
+TTITLE8=Eric Clapton - Reptile - 09 - I want a little girl
+TTITLE9=Eric Clapton - Reptile - 10 - Seconde Nature
+TTITLE10=Eric Clapton - Reptile - 11 - Don't Let Me Be Lonely Tonight
+TTITLE11=Eric Clapton - Reptile - 12 - Modern Girl
+TTITLE12=Eric Clapton - Reptile - 13 - Superman Inside
+TTITLE13=Eric Clapton - Reptile - 14 - Son And Sylvia
+TTITLE14=Eric Clapton - Reptile - 15 - Losing Hand
+TTITLE15=Eric Clapton - Reptile [Japan Bonus Track] - 15 - Losing Hand
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

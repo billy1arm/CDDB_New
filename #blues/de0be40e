@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12180
+#	32355
+#	43862
+#	55835
+#	73920
+#	91460
+#	115877
+#	133847
+#	147312
+#	169200
+#	186887
+#	193427
+#	216682
+#
+# Disc length: 3046 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=de0be40e
+DTITLE=Lightnin' Hopkins - The Revue Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Lonesome Dog Blues
+TTITLE1=Glory Be
+TTITLE2=Sometimes She Will
+TTITLE3=Have You Ever Loved A Woman
+TTITLE4=Shake That Thing
+TTITLE5=I'm Leaving You Now
+TTITLE6=Walk A Long Time
+TTITLE7=Bring Me My Shotgun
+TTITLE8=Mojo Hand
+TTITLE9=Awful Dreams
+TTITLE10=Black Mare Trot
+TTITLE11=Just Pickin'
+TTITLE12=Last Night
+TTITLE13=Just Sittin' Down Thinkin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

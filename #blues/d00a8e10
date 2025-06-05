@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12801
+#	27050
+#	39443
+#	50146
+#	63940
+#	78466
+#	88841
+#	100965
+#	114673
+#	127109
+#	139266
+#	151458
+#	164581
+#	180038
+#	192004
+#
+# Disc length: 2704 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=d00a8e10
+DTITLE=Washington Brasileiro - Vocês São Show
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Vocês são show
+TTITLE1=O amor
+TTITLE2=Te conquistar
+TTITLE3=Tô carente
+TTITLE4=Só nós
+TTITLE5=Entre nós
+TTITLE6=Cabra da roça
+TTITLE7=Instalação trocada
+TTITLE8=Férias no nordeste
+TTITLE9=Renego
+TTITLE10=Fique mais
+TTITLE11=Encontro de nós dois
+TTITLE12=Eu te amo tanto
+TTITLE13=Eu, você e a praça
+TTITLE14=Minha chefe
+TTITLE15=Menino cantador
+EXTD=YEAR: 2003 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

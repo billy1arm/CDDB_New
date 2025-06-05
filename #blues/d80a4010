@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12133
+#	23235
+#	34993
+#	48988
+#	62310
+#	73898
+#	85443
+#	98610
+#	111863
+#	126493
+#	139685
+#	150605
+#	162513
+#	174313
+#	186445
+#
+# Disc length: 2626 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=d80a4010
+DTITLE=La Sonora Matancera y Sus Cantantes - 65 Aniversario
+DYEAR=1900
+DGENRE=
+TTITLE0=Burundanga
+TTITLE1=Asombro
+TTITLE2=Ay! Cosita Linda
+TTITLE3=El Muñeco De La Ciudad
+TTITLE4=Intruso Corazón
+TTITLE5=El Negrito Del Batey
+TTITLE6=El Bobo De La Yuca
+TTITLE7=Las Muchachas
+TTITLE8=El Yerbero Moderno
+TTITLE9=Óyeme Mamá
+TTITLE10=Luces De New York
+TTITLE11=Fichas Negras
+TTITLE12=Todo Me Gusta De Ti
+TTITLE13=De Ti Enamorado
+TTITLE14=Quémame Los Ojos
+TTITLE15=Linstead Market
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

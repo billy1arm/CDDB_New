@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19312
+#	54805
+#	77575
+#	95060
+#	116505
+#	137692
+#	153262
+#	167447
+#	193075
+#	208160
+#	227065
+#	242437
+#	257880
+#	276775
+#	306125
+#
+# Disc length: 4303 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=d110cd10
+DTITLE=Francis Lalanne - Hits
+DYEAR=1999
+DGENRE=Chanson
+TTITLE0=La maison du bonheur
+TTITLE1=Rentre chez toi
+TTITLE2=J'ai de la boue au fond du coeur
+TTITLE3=V'la huit heures
+TTITLE4=La plus belle fois qu'on m'a dit je t'aime
+TTITLE5=J'veux pas qu'on prenne mon fils
+TTITLE6=T'es marron
+TTITLE7=Celle qui m'a fait si mal
+TTITLE8=Si tu te moques d'un mec qui pleure
+TTITLE9=Des mains de chômeur
+TTITLE10=Toi mon vieux copain
+TTITLE11=Le champignon nucléaire
+TTITLE12=Pleure un bon coup ma p'tite véro
+TTITLE13=Fais-moi l'amour pas la guerre
+TTITLE14=J'ai pas trouvé la fille qui me fermera les yeux
+TTITLE15=Chanson sépia
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

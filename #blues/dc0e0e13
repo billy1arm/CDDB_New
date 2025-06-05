@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	15370
+#	26382
+#	45495
+#	68212
+#	79615
+#	92752
+#	117020
+#	127822
+#	143372
+#	158715
+#	168177
+#	183355
+#	200075
+#	204815
+#	211180
+#	226022
+#	246480
+#	255755
+#
+# Disc length: 3600 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=dc0e0e13
+DTITLE=ヴィヴァルディ(Antonio Vivaldi) - ヴァイオリン協奏曲集「四季」
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=春_1
+TTITLE1=春_2
+TTITLE2=春_3
+TTITLE3=夏_1
+TTITLE4=夏_2
+TTITLE5=夏_3
+TTITLE6=秋_1
+TTITLE7=秋_2
+TTITLE8=秋_3
+TTITLE9=冬_1
+TTITLE10=冬_2
+TTITLE11=冬_3
+TTITLE12=4つのヴァイオリンのための協奏曲 ロ短調 RV580_1
+TTITLE13=4つのヴァイオリンのための協奏曲 ロ短調 RV580_2
+TTITLE14=4つのヴァイオリンのための協奏曲 ロ短調 RV580_3
+TTITLE15=4つのヴァイオリンのための協奏曲 ロ短調 RV580_4
+TTITLE16=3つのヴァイオリンのための協奏曲 ヘ長調 RV551_1
+TTITLE17=3つのヴァイオリンのための協奏曲 ヘ長調 RV551_2
+TTITLE18=3つのヴァイオリンのための協奏曲 ヘ長調 RV551_3
+EXTD=
+EXTT0=Allegro
+EXTT1=Largo
+EXTT2=Allegro (Danza pastorale)
+EXTT3=Allegro non molto - Allegro
+EXTT4=Adagio - Presto - Adagio
+EXTT5=Presto (Tempo impetuoso d'estate)
+EXTT6=Allegro (Ballo, e canto de' villanelli)
+EXTT7=Adagio molto (Umbriachi dormienti)
+EXTT8=Allegro (La caccia)
+EXTT9=Allegro non molto
+EXTT10=Largo
+EXTT11=Allegro
+EXTT12=Allegro
+EXTT13=Largo
+EXTT14=Larghetto
+EXTT15=Allegro
+EXTT16=Allegro
+EXTT17=Andante
+EXTT18=Allegro
+PLAYORDER=

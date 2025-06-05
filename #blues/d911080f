@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23407
+#	44220
+#	62967
+#	79302
+#	93800
+#	104512
+#	123600
+#	164525
+#	194662
+#	214522
+#	229012
+#	248377
+#	266040
+#	287147
+#
+# Disc length: 4362 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=d911080f
+DTITLE=Various Artist - The Power Of Rock [CD 3/4) - Rock Heroes
+DYEAR=2000
+DGENRE=Rock
+TTITLE0=Aerosmith - Crying
+TTITLE1=Genesis - Hold On My Heart
+TTITLE2=Crowded House - Not The Girl You Think You Are
+TTITLE3=Status Quo - Are You Growing Tired Of My Love
+TTITLE4=The Pretty Things - S. F. Sorrow Is Born
+TTITLE5=J. J. Cale - After Midnight
+TTITLE6=Deep Purple - Perfect Strangers
+TTITLE7=Lynyrd Skynyrd - Free Bird
+TTITLE8=Simple Minds - Belfast Child
+TTITLE9=Rainbow - Street Of Dreams
+TTITLE10=Robert Palmer - Bad Case Of Loving You (Doctor, Doctor)
+TTITLE11=Boston - Amanda
+TTITLE12=Fleetwood Mac - Need Your Love So Bad
+TTITLE13=Mick Ronson - Love Me Tender
+TTITLE14=Guns N' Roses - November Rain
+EXTD=(c) 2000 Verlag Das Beste GmbH, Stuttgart (Reader's Digest)
+EXTT0=(P) 1993
+EXTT1=(P) 1991
+EXTT2=(P) 1996
+EXTT3=(P) 1969
+EXTT4=(P) 1968
+EXTT5=(P) 1972
+EXTT6=(P) 1984
+EXTT7=(P) 1976
+EXTT8=(P) 1989
+EXTT9=(P) 1983
+EXTT10=(P) 1979
+EXTT11=(P) 1986
+EXTT12=(P) 1968
+EXTT13=(P) 1974
+EXTT14=(P) 1991
+PLAYORDER=

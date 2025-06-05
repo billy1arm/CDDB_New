@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18325
+#	33552
+#	49587
+#	65375
+#	83705
+#	99647
+#	115690
+#	134072
+#	160572
+#	179187
+#	201787
+#	216467
+#	232100
+#	243287
+#
+# Disc length: 3477 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=d40d930f
+DTITLE=Various Artist - The Power Of Rock [CD 2/4) - Rock Classics
+DYEAR=2000
+DGENRE=Rock
+TTITLE0=Whitesnake - Is This Love
+TTITLE1=Boston - More Than A Feeling
+TTITLE2=Marillion - Kayleigh
+TTITLE3=Moody Blues - Voices In The Sky
+TTITLE4=Santana - She's Not There
+TTITLE5=Bachman-Turner-Overdrive - You Ain't Seen Nothing Yet
+TTITLE6=Big Country - Fields Of Fire (400 Miles)
+TTITLE7=Rod Stewart - Angel
+TTITLE8=John Miles - Music
+TTITLE9=Gerry Rafferty - Baker Street
+TTITLE10=Derek And The Dominoes - Bell Bottom Blues
+TTITLE11=Velvet Underground - Sweet Jane
+TTITLE12=Mott The Hoople - All The Young Dudes
+TTITLE13=John Cougar Mellenkamp - The Man Who Sold The World
+TTITLE14=Glenn Frey - Desperado (live)
+EXTD=(c) 2000 Verlag Das Beste GmbH, Stuttgart (Reader's Digest)
+EXTT0=(P) 1987
+EXTT1=(P) 1976
+EXTT2=(P) 1985
+EXTT3=(P) 1968
+EXTT4=(P) 1977
+EXTT5=(P) 1974
+EXTT6=(P) 1983
+EXTT7=(P) 1972
+EXTT8=(P) 1976
+EXTT9=(P) 1978
+EXTT10=(P) 1970
+EXTT11=(P) 1993
+EXTT12=(P) 1972
+EXTT13=(P) 1998
+EXTT14=(P) 1993
+PLAYORDER=
