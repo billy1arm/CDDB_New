@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28326
+#	65056
+#	87124
+#	117781
+#	130404
+#	154735
+#	177337
+#	208857
+#	221096
+#	252818
+#	269444
+#
+# Disc length: 4020 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b60fb20c
+DTITLE=Eoin Colfer - Meg Finn und die Liste der vier Wünsche CD2
+DYEAR=1900
+DGENRE=Kind
+TTITLE0=CD2_01
+TTITLE1=CD2_02
+TTITLE2=CD2_03
+TTITLE3=CD2_04
+TTITLE4=CD2_05
+TTITLE5=CD2_06
+TTITLE6=CD2_07
+TTITLE7=CD2_08
+TTITLE8=CD2_09
+TTITLE9=CD2_10
+TTITLE10=CD2_11
+TTITLE11=CD2_12
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

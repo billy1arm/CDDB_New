@@ -1,0 +1,60 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	3
+#	13045
+#	23775
+#	32448
+#	44180
+#	56183
+#	65070
+#	75300
+#	85255
+#	98380
+#	111300
+#	124545
+#	134218
+#	144625
+#
+# Disc length: 2064 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=bf08100e
+DTITLE=Various Artist - Street Corner Singing: The Best of the Doo-Wop
+DTITLE=Era
+DYEAR=1900
+DGENRE=
+TTITLE0=Earth Angel
+TTITLE1=Come Softly To Me
+TTITLE2=Heart and Soul
+TTITLE3=Turn around and look at me
+TTITLE4=Since I don't have you
+TTITLE5=Love Potion number nine
+TTITLE6=Bristol Stomp
+TTITLE7=Blue Moon
+TTITLE8=You Belong to Me
+TTITLE9=SH-Boom
+TTITLE10=Sixteen Candles
+TTITLE11=Little Darlin'
+TTITLE12=Mr. Lee
+TTITLE13=Barbara Ann
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

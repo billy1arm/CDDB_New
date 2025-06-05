@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     17245
+#     28810
+#     45243
+#     70388
+#     79465
+#     119578
+#     131445
+#     146583
+#     159775
+#     172535
+#     184475
+#     193850
+#     204155
+# 
+# Disc length: 2883 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=be0b410e
+DTITLE=Various Artist - De beste soul and reggae collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Stand by me
+TTITLE1=(Sitting on) the dock of the bay
+TTITLE2=My baby just cares for me
+TTITLE3=Stir it up
+TTITLE4=Ain't no sunshine
+TTITLE5=It's a man's, man's world
+TTITLE6=The Israelites
+TTITLE7=Rock your baby
+TTITLE8=Soul man
+TTITLE9=Red, red wine
+TTITLE10=Peace breaker
+TTITLE11=Cocain in my brain
+TTITLE12=Think
+TTITLE13=We need understanding
+EXTD=
+EXTT0=Ben E. King % The Drifters\n
+EXTT1=Percy Sledge\n
+EXTT2=Nian Simone\n
+EXTT3=The Reggae masters\n
+EXTT4=Al Jarreau\n
+EXTT5=James Brown\n
+EXTT6=Desmond Dekker and the Aces\n
+EXTT7=George McCrae\n
+EXTT8=Sam and Dave\n
+EXTT9=The Gino Marinello Orchestra\n
+EXTT10=Wilson Pickett\n
+EXTT11=Dillinger\n
+EXTT12=Aretha Franklin\n
+EXTT13=Ike and Tina Turner\n
+PLAYORDER=

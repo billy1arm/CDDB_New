@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6505
+#	32880
+#	39033
+#	54627
+#	71180
+#	88602
+#	104166
+#	120035
+#	138165
+#	155505
+#	194387
+#	211934
+#	227803
+#
+# Disc length: 3277 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=bd0ccb0e
+DTITLE=love solfege - q.q.g.
+DYEAR=2004
+DGENRE=Vocal
+TTITLE0=Красная　стрелка（クラスニャ ストレルカ） scene 1
+TTITLE1=Красная　стрелка（クラスニャ ストレルカ） scene 2
+TTITLE2=Красная　стрелка（クラスニャ ストレルカ） scene 3
+TTITLE3=Praeludium II c-moll
+TTITLE4=White Lolita
+TTITLE5=presto agitato
+TTITLE6=凍える雫
+TTITLE7=詩日記
+TTITLE8=Agagio espressivo
+TTITLE9=粛然たる明日へ
+TTITLE10=Красная　стрелка（クラスニャ ストレルカ） (off vocal)
+TTITLE11=presto agitato (off vocal)
+TTITLE12=詩日記 (off vocal)
+TTITLE13=Adagio espressivo (off vocal)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

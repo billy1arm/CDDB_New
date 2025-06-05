@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13040
+#	27432
+#	50892
+#	67000
+#	81510
+#	96740
+#	110235
+#	127367
+#	141645
+#	157975
+#	172675
+#
+# Disc length: 2491 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=bc09b90c
+DTITLE=Sampler - Jazz
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Catalina
+TTITLE1=Cool As Always
+TTITLE2=Paradise
+TTITLE3=Free Form
+TTITLE4=Breakin' Away
+TTITLE5=Chase The Rain
+TTITLE6=One More Reason
+TTITLE7=Count On It
+TTITLE8=Jasmine
+TTITLE9=Traces of You
+TTITLE10=Picture Perfect
+TTITLE11=No Doubts
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

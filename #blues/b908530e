@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13507
+#	27603
+#	39934
+#	52550
+#	60825
+#	68088
+#	76834
+#	92862
+#	108617
+#	124203
+#	130650
+#	141262
+#	148296
+#
+# Disc length: 2133 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b908530e
+DTITLE=Various Artist - Moonglow
+DYEAR=2002
+DGENRE=New Age
+TTITLE0=Irving Berlin - Cheek to Cheek
+TTITLE1=Atkins, Rich, Jones and Boswell - Heebie Jeebies
+TTITLE2=Joe Sanders - Take Me
+TTITLE3=JJPhillips and Tommie Connor - Lillie Marlene
+TTITLE4=E DeLange, I Mills and W Hudson - Moonglow
+TTITLE5=Gershwin, Stothart, Harbach and Hammerstein - Vodka
+TTITLE6=Jerome Kern and Ane Caldwell - Ka-Lu-A
+TTITLE7=Harold Arlen - Push De Button
+TTITLE8=Harry Warren - 42nd Street
+TTITLE9=Cook, Robinson and Harty - Stop the Sun, Stop the Moon
+TTITLE10=Jack Murray and Al Dubin - Shadow Waltz
+TTITLE11=Jerome Kern and Oscar Hammerstein - Ol' Man River
+TTITLE12=Jerome Kern and Oscar Hammerstein - Ol' Man River
+TTITLE13=Victor Miller and Edwina Coolidge - Autumn Showers
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

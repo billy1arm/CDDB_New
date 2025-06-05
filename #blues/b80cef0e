@@ -1,0 +1,59 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24712
+#	51070
+#	72310
+#	87367
+#	102800
+#	119265
+#	125845
+#	138187
+#	153345
+#	171250
+#	195787
+#	218497
+#	237877
+#
+# Disc length: 3313 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=b80cef0e
+DTITLE=カプコン - ストライダー飛竜  -G.S.M. カプコン 2-
+DYEAR=1989
+DGENRE=ゲーム音楽
+TTITLE0=Snow in Savanna  -ストライダー飛竜 ARRANGE VERSION-
+TTITLE1=「ストライダー飛竜」  Credit～防衛圏 (1 Stage Demo)～踏み込め！(1 Stage BGM 1)～一撃 (中敵)～非情の大伽藍 (1 Stage BGM 2)～野獣 (1 Stage BGM 3)～銃弾回廊 (1 Stage BGM 4)～ウロボロス -銃の統治- (
+TTITLE1=大敵)
+TTITLE2=「ストライダー飛竜」  2 Stage Demo～シベリア坑道 (大敵 -コング-)～動輪 (2 Stage BGM 1)～大走破 (2 Stage BGM 2)～雲塊 (2 Stage BGM 3)～風陣 (大敵 -空-)～Stage Clear
+TTITLE3=「ストライダー飛竜」  3 Stage Demo～ひびき (Start 1)～包囲 (Start 2)～谷と河 (3 Stage BGM 1)～吠える (3 Stage BGM 2)～アフリカの魔王 (大敵)
+TTITLE4=「ストライダー飛竜」  4 Stage Demo～ショート・スピン (4 Stage BGM 1)～逆転マイナーG (4 Stage BGM 2)～奪取！(大敵)
+TTITLE5=「ストライダー飛竜」  5 Stage Demo～飛竜 (5 Stage BGM 1)～逆襲の速力 (5 Stage BGM 2)～冥王 (大敵)～最終クリア
+TTITLE6=「ストライダー飛竜」  さらに… (Ending)～Ranking～Game Over～Continue
+TTITLE7=ペテルブルグの月  -ストライダー飛竜 ARRANGE VERSION-
+TTITLE8=「天地を喰らう」  Credit～Start Demo～キャラ選択～大興山 (1 Round BGM)～Boss～Round Clear
+TTITLE9=「天地を喰らう」  汜水関 (2 Round BGM)～鉄門峡 (3 Round BGM)～シナリオ1 Clear
+TTITLE10=「天地を喰らう」  シナリオ2 Start～竜門谷 (4 Round BGM)～虎牢関 (5 Round BGM)～呂布のテーマ
+TTITLE11=「天地を喰らう」  洛陽 (6 Round BGM)～榮陽城 (7 Round BGM)～眉塢城 (8 Round BGM)
+TTITLE12=「天地を喰らう」  影武者董旻のテーマ～董卓のテーマ～シナリオ2 Clear～End Demo
+TTITLE13=「天地を喰らう」  Staff Roll～Top Ranking～Top Ranking Display～Ranking～Ranking Display～Continue～Game Over
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	29448
+#	73628
+#	95610
+#	133355
+#	150493
+#	175498
+#	186625
+#	219615
+#	251058
+#	276255
+#
+# Disc length: 4036 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=b00fc20b
+DTITLE=SWF Blues Festival 1992 - Blue Ladies
+DYEAR=1992
+DGENRE=Blues
+TTITLE0=Trudy Lynn and The Kala Studio Band: Down Home Blues
+TTITLE1=Trudy Lynn and The Kala Studio Band: Dr. Feelgood
+TTITLE2=Faye Robinson and The McNeely-Rannenberg Duo: Somebody Else Is Steppin
+TTITLE2=' In
+TTITLE3=Faye Robinson and The McNeely-Rannenberg Duo: Part Time Love
+TTITLE4=Laura Fedele's Singing Sound: Long Gone Blues
+TTITLE5=The Match Box Blues Band with Jessica Born: The Blues Never Die
+TTITLE6=Sally Barker - Frank Kilkelly Duo: Sugar Daddy
+TTITLE7=Sally Barker - Frank Kilkelly Duo: Alexis Korner Still Sings The Blu
+TTITLE7=es In Heaven
+TTITLE8=Kanika Kress with Toscho Todorovic&Blues Co.: He Moves Me - Baby Ple
+TTITLE8=ase Don't Go
+TTITLE9=Little Nicky and the Slicks: Make it Easy
+TTITLE10=Little Nicky and the Slicks: Carress Me Baby
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20784
+#	43871
+#	72330
+#	91056
+#	109579
+#	126885
+#	149164
+#	167913
+#	186947
+#	209096
+#	236842
+#
+# Disc length: 3508 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=bd0db20c
+DTITLE=Cassandra Wilson - Coming Forth by Day
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=Don't Explain
+TTITLE1=Billie's Blues
+TTITLE2=Crazy He Calls Me
+TTITLE3=You Go to My Head
+TTITLE4=All of Me
+TTITLE5=The Way You Look Tonight
+TTITLE6=Good Morning Heartache
+TTITLE7=What a Little Moonlight Can Do
+TTITLE8=These Foolish Things
+TTITLE9=Strange Fruit
+TTITLE10=I'll Be Seeing You
+TTITLE11=Last Song (For Lester)
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

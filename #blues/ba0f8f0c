@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32707
+#	56856
+#	77940
+#	104130
+#	127830
+#	163387
+#	193253
+#	202224
+#	207010
+#	242745
+#	278648
+#
+# Disc length: 3985 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ba0f8f0c
+DTITLE=Miles Davis - Vol.9 - Out of the Blue - Dear Old Stockholm 1955-1956
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Changes (Ray Byrant) Miles Davis Sextet
+TTITLE1=Stablemates (Benny Gilson) Miles Davis Quintet
+TTITLE2=How Am I To Know ¿ (D.Parker - J.King) Miles Davis Quintet
+TTITLE3=Bye Bye [theme] (Miles Davis) Miles Davis Quintet
+TTITLE4=S'posin' (Andy Razaf - Paul Denniker) Miles Davis Quintet
+TTITLE5=Diane (Erno Rapee - Lew Pollack) Miles Davis Quintet
+TTITLE6=It Could Happen To You (Burke - Van Heusen) Miles Davis Quintet
+TTITLE7=The Theme [Take 1] (Miles Davis) Miles Davis Quintet
+TTITLE8=The Theme [Take 2] (Miles Davis) Miles Davis Quintet
+TTITLE9=Dear Old Stockholm (Dean Andres Fryxell) Miles Davis Quintet
+TTITLE10=Bye Bye Blackbird (Mort Dixon - Ray Henderson) Miles Davis Quintet
+TTITLE11=Tadd's Delight (Tadd Dameron) Miles Davis Quintet
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

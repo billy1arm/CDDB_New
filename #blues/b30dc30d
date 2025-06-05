@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	26175
+# 	42648
+# 	64335
+# 	78953
+# 	93930
+# 	108338
+# 	139845
+# 	168230
+# 	190355
+# 	211380
+# 	229503
+# 	244843
+#
+# Disc length: 3525 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4
+#
+DISCID=b30dc30d
+DTITLE=Southside Blades of Eden - Spirit, Love and Fire
+DYEAR=1900
+DGENRE=
+TTITLE0=Medicine Show
+TTITLE1=Spirit, Love and Fire
+TTITLE2=Twilight Kingdom
+TTITLE3=Lord Of Dreams
+TTITLE4=Across The River
+TTITLE5=Wounds Of A Son
+TTITLE6=I Will Wait
+TTITLE7=Crown Of Thorns
+TTITLE8=Amazing Grace
+TTITLE9=King's Highway
+TTITLE10=He's Watching Over Me
+TTITLE11=MLK Tribute
+TTITLE12=Let Love Be Your Rocket
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

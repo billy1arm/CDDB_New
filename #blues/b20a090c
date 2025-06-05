@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14885
+#	41311
+#	58328
+#	73392
+#	85402
+#	97243
+#	115236
+#	128058
+#	143814
+#	157064
+#	173476
+#
+# Disc length: 2571 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b20a090c
+DTITLE=Nieminen and Litmanen - Sävyjä
+DYEAR=2018
+DGENRE=Jazz
+TTITLE0=Tehtävä Nevajoella
+TTITLE1=Ranskalainen Pariisi
+TTITLE2=Ostarin valot
+TTITLE3=Terveiset kaikkialta
+TTITLE4=Tuosta saat!
+TTITLE5=Viikko Köpiksessä
+TTITLE6=Öinen kotimatka
+TTITLE7=L. J. Shuffle
+TTITLE8=Kevyet kesävaatteet
+TTITLE9=Tilipäivä
+TTITLE10=Linna Espanjassa
+TTITLE11=Vesimiehen aika
+EXTD=YEAR: 2018
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

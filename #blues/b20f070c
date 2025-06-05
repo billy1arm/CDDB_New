@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    182
+#    23750
+#    48290
+#    78570
+#    101115
+#    124422
+#    138502
+#    154352
+#    177817
+#    201745
+#    223860
+#    262752
+#
+# Disc length: 3849 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.3.9a  (wjohn@fix.net)
+#
+DISCID=b20f070c
+DTITLE=Robben Ford - 
+DTITLE=Tiger Walk (European version)
+DYEAR=1900
+DGENRE=
+TTITLE0=In the Beginning
+TTITLE1=Ghosts
+TTITLE2=Freedom
+TTITLE3=Red lady w/ cello
+TTITLE4=Oasis
+TTITLE5=Just like it is
+TTITLE6=I can't stand the rain
+TTITLE7=The champ
+TTITLE8=Tiger Walk
+TTITLE9=Comin' up
+TTITLE10=Don't let the sun catch you crying
+TTITLE11=Chevrolet
+EXTD=With 2 bonus tracks (11 and 12)
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

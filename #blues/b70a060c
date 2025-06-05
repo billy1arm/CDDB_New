@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	39302
+#	51537
+#	64952
+#	74975
+#	88925
+#	104762
+#	123760
+#	135537
+#	146250
+#	158047
+#	177980
+#
+# Disc length: 2568 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=b70a060c
+DTITLE=Various Artist - Feel The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=All The Blues All The Time
+TTITLE1=Blues Before Sunrise
+TTITLE2=Rock Me Baby
+TTITLE3=Me and My Mule
+TTITLE4=Moaning Blues
+TTITLE5=No Rolling Blues
+TTITLE6=House Rocking Boogie
+TTITLE7=Sittin´ And Thinkin´
+TTITLE8=Little School Girl
+TTITLE9=Disssatisfied
+TTITLE10=Leave Jike Mary Alone
+TTITLE11=Out On A Limb
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

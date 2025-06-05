@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20880
+#	43432
+#	62587
+#	80345
+#	103920
+#	121660
+#	145467
+#	173250
+#	197715
+#	213637
+#	230812
+#	255120
+#
+# Disc length: 3699 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b80e710d
+DTITLE=Kenny G - Heart and Soul - UCCO-1102
+DYEAR=2010
+DGENRE=Classical
+TTITLE0=Heart and Soul
+TTITLE1=Déjà Vu
+TTITLE2=Fall Again (feat. Robin Thicke)
+TTITLE3=Letters from Home
+TTITLE4=The Promise
+TTITLE5=No Place Like Home (feat. Kenny "Babyface" Edmonds)
+TTITLE6=My Devotion
+TTITLE7=G-walkin'
+TTITLE8=Sunrise
+TTITLE9=One Breath
+TTITLE10=Encore
+TTITLE11=After Hours
+TTITLE12=Slow Motion
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

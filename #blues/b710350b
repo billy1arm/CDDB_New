@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26808
+#	53581
+#	65233
+#	94433
+#	126545
+#	158491
+#	191229
+#	218158
+#	268328
+#	290719
+#
+# Disc length: 4151 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=b710350b
+DTITLE=Dieter Koehnlein p - Uwe Kropinski g - Stringed Together
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Running Children - Kropinski
+TTITLE1=Alfreds Office - Koehnlein
+TTITLE2=Unreleased Soundtrack - Koehnlein
+TTITLE3=Addis Ababa Blues - Kropinski
+TTITLE4=Fleurs de Sahara - Koehnlein
+TTITLE5=A lot of bpm - Koehnlein
+TTITLE6=Ohne Titel - Koehnlein
+TTITLE7=Nightmare Blues - Kropinski
+TTITLE8=In a Spanish Way - Kropinski
+TTITLE9=No - Koehnlein
+TTITLE10=Overtone Tune - Kropinski
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

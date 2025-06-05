@@ -1,0 +1,60 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	11900
+#	22325
+#	33510
+#	46200
+#	61337
+#	74067
+#	90407
+#	105045
+#	118790
+#	130517
+#	148040
+#	159067
+#	169990
+#
+# Disc length: 2442 seconds
+#
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=b809880e
+DTITLE=Various Artist - 60's Volume 1
+DYEAR=1900
+DGENRE=Pop
+TTITLE0=Diana Ross and The Supremes - Baby Love
+TTITLE1=Lesley Gore - It's My Party
+TTITLE2=The Marvelettes - Please Mr. Postman
+TTITLE3=Mary Wells - My Guy
+TTITLE4=The Fortunes - You've Got Your Troubles
+TTITLE5=James Brown - Sex Machine
+TTITLE6=The Righteous Brothers - Unchained Melody
+TTITLE7=Aphrodite's Child - Rain and Tears
+TTITLE8=Jimmy Ruffin - What Becomes Of The Brokenhearted
+TTITLE9=Amen Corner - Bend Me, Shape Me
+TTITLE10=Ferre Grignard - Ring, Ring, I've Got To Sing
+TTITLE11=Roger Miller - King Of The Road
+TTITLE12=Dusty Springfield - Son Of A Preacher Man
+TTITLE13=Bobby Bloom - Montego Bay
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

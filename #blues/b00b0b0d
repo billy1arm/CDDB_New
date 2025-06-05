@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16155
+#	32580
+#	48872
+#	61879
+#	79873
+#	96472
+#	112348
+#	125573
+#	142868
+#	163893
+#	176220
+#	192012
+#
+# Disc length: 2829 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b00b0b0d
+DTITLE=ZAZ - Love Letter From Montmartre
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Les passants
+TTITLE1=Je veux
+TTITLE2=Le long de la route
+TTITLE3=La fee
+TTITLE4=Trop sensible
+TTITLE5=Prends garde a ta langue
+TTITLE6=Ni oui Ni non
+TTITLE7=Port Coton
+TTITLE8=J'aime a nouveau
+TTITLE9=Dans ma rue
+TTITLE10=Eblouie par la nuit
+TTITLE11=Le long de la route(New Version)
+TTITLE12=La fee(Live Version)
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

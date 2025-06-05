@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15445
+#	30625
+#	51610
+#	69295
+#	88425
+#	104437
+#	124235
+#	137325
+#	159120
+#	177302
+#	195497
+#	211680
+#	231370
+#
+# Disc length: 3355 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b90d190e
+DTITLE=Echoes of Swing - Harlem Reflections
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Hold my hand
+TTITLE1=April in my heart
+TTITLE2=The mooche
+TTITLE3=Love Nest
+TTITLE4=If dreams come true
+TTITLE5=Russian lullaby
+TTITLE6=Swinga-Dilla street
+TTITLE7=Flamingo
+TTITLE8=Love for sale
+TTITLE9=How high the moon
+TTITLE10=I repent
+TTITLE11=When lights are low
+TTITLE12=Gone with the wind
+TTITLE13=Just one of those things
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

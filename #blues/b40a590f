@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12600
+#	24315
+#	37690
+#	53263
+#	68128
+#	80385
+#	94240
+#	108955
+#	122455
+#	132360
+#	145663
+#	158118
+#	171778
+#	185623
+#
+# Disc length: 2651 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=b40a590f
+DTITLE=Various Artist - Chicago Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Go Away/John Brim
+TTITLE1=You're the One/Jimmy Rogers
+TTITLE2=Eisenhower Blues/J B Lenoir
+TTITLE3=Matchbox Blues/Henry Gray
+TTITLE4=Rock Me/Muddy Waters
+TTITLE5=Five Spot/Otis Spann
+TTITLE6=Some Day/Robert Nighthawk
+TTITLE7=Sad Story/Blue Smitty
+TTITLE8=I'm Leaving You/Howlin' Wolf
+TTITLE9=It Ain't Me/Jimmy Rogers
+TTITLE10=Big Time Playboy/Johnny Jones
+TTITLE11=It Must've Been The Devil/Otis Spann
+TTITLE12=Let Me Love You Baby/Buddy Guy
+TTITLE13=It Was A Dream/John Brim
+TTITLE14=Sitting Down Thinking/J B Lenoir
+EXTD=Input by Bill (whall@netcomuk.co.uk)
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

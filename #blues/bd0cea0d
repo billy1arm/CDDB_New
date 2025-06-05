@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8150
+#	28000
+#	50675
+#	80400
+#	100195
+#	133665
+#	148100
+#	163317
+#	181225
+#	199337
+#	216242
+#	232022
+#
+# Disc length: 3308 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bd0cea0d
+DTITLE=Joe Jackson - Summer in the City
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Summer in the City
+TTITLE1=Obvious Song
+TTITLE2=Another World
+TTITLE3=Medley - Fools in Love - For Your Love
+TTITLE4=Mood Indigo
+TTITLE5=Medley - The In Crowd - Down to London
+TTITLE6=Eleanor Rigby
+TTITLE7=Be My Number Two
+TTITLE8=Home Town
+TTITLE9=It's Different for Girls
+TTITLE10=King of the World
+TTITLE11=You Can't Get What You want
+TTITLE12=One More Time
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14070
+#	26945
+#	52175
+#	70592
+#	84677
+#	105082
+#	119262
+#	135157
+#	155557
+#	169182
+#	189135
+#	204865
+#	218515
+#
+# Disc length: 3263 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=b30cbd0e
+DTITLE=J.J. Cale - Live
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=After Midnight
+TTITLE1=Old Man
+TTITLE2=Call Me The Breeze
+TTITLE3=Sensitive Kind
+TTITLE4=Cocaine
+TTITLE5=Money Talks
+TTITLE6=River Boat Song
+TTITLE7=Living Here Too
+TTITLE8=Mama Don't
+TTITLE9=People Lie
+TTITLE10=Humdinger
+TTITLE11=Thirteen Days
+TTITLE12=Magnolia
+TTITLE13=Ride Me High
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

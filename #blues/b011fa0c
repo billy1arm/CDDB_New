@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18550
+#	47617
+#	64836
+#	123315
+#	136392
+#	153593
+#	190835
+#	215429
+#	244479
+#	264898
+#	297765
+#
+# Disc length: 4604 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b011fa0c
+DTITLE=Gary Moore - Live At Montreux - Essential Montreux - CD1 - 1990
+DYEAR=1990
+DGENRE=Blues
+TTITLE0=All Your Love (Live)
+TTITLE1=Midnight Blues (Live)
+TTITLE2=You Don't Love Me (Live)
+TTITLE3=Texas Strut (Live)
+TTITLE4=Moving On (Live)
+TTITLE5=Too Tired (Live)
+TTITLE6=Cold Cold Feeling (Live)
+TTITLE7=Further On Up The Road (Live)
+TTITLE8=King Of The Blues (Live)
+TTITLE9=Stop Messing Around (Live)
+TTITLE10=The Blues Is Alright (Live)
+TTITLE11=The Messiah Will Come Again (Live)
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

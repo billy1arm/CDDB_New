@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15370
+#     23900
+#     37725
+#     47917
+#     63057
+#     75012
+#     91827
+#     101717
+#     119760
+#     139542
+#     147750
+#     178845
+#     202282
+#     234462
+# 
+# Disc length: 3479 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=bc0d950f
+DTITLE=Michael Bloomfield - Gospel truth
+DYEAR=1900
+DGENRE=
+TTITLE0=Cruisin' for a bruisin'
+TTITLE1=Linda Lu
+TTITLE2=Papa mama rompha stompin'
+TTITLE3=Junker's blues
+TTITLE4=Midnight
+TTITLE5=It'll be me
+TTITLE6=Motorized blues
+TTITLE7=Mathilda
+TTITLE8=Winter moon
+TTITLE9=Snow blind
+TTITLE10=Lights out
+TTITLE11=Your friends
+TTITLE12=Orphan blues
+TTITLE13=Juke joint
+TTITLE14=Knockin' myself out
+EXTD=
+EXTT0=
+EXTT1=Composed by Sharpe\n
+EXTT2=
+EXTT3=Composed by C.J.Dupree\n
+EXTT4=
+EXTT5=
+EXTT6=Composed by N.Gravenites\n
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=Composed by W.Jacobs\n
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=Composed by Green\n
+PLAYORDER=

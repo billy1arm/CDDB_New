@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	20335
+#	47568
+#	67863
+#	87348
+#	105838
+#	125518
+#	148560
+#	169688
+#	192115
+#	206260
+#	223755
+#	242695
+#	262373
+#
+# Disc length: 3692 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=bf0e6a0e
+DTITLE=Otis Spann - This Is The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Country Boy
+TTITLE1=Beat-up Team
+TTITLE2=May Daily Wish
+TTITLE3=Great Northern Stomp
+TTITLE4=I Got Rambling On My Mind
+TTITLE5=Worried Life Blues
+TTITLE6=The Hard Way
+TTITLE7=Half Ain't Been Told
+TTITLE8=Monkey Woman
+TTITLE9=This Is The Blues
+TTITLE10=Evil Ways
+TTITLE11=Come Day Come Go
+TTITLE12=Bad Condition
+TTITLE13=My Home Is In The Delta
+EXTD=
+EXTT0=Spann\n
+EXTT1=Spann\n
+EXTT2=Lookwood Jr.\n
+EXTT3=Spann\n
+EXTT4=Lokwood Jr.\n
+EXTT5=Spann\n
+EXTT6=Spann\n
+EXTT7=Spann\n
+EXTT8=Spann\n
+EXTT9=Spann\n
+EXTT10=Spann\n
+EXTT11=Spann\n
+EXTT12=Oden\n
+EXTT13=Morganfield\n
+PLAYORDER=

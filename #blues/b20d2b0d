@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1994 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17432
+#	32050
+#	51605
+#	71777
+#	90070
+#	105082
+#	122372
+#	134190
+#	153450
+#	194962
+#	210510
+#	243455
+#
+# Disc length: 3373 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 1.3
+#
+DISCID=b20d2b0d
+DTITLE=Roots of Blues - "Don't be foolish..."
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Be Foolish
+TTITLE1=Keep Moving
+TTITLE2=Glory Halleluja
+TTITLE3=I'm just a singer
+TTITLE4=Winter
+TTITLE5=I Will
+TTITLE6=Fool For You
+TTITLE7=Roots Boogie
+TTITLE8=I Feel The Blues
+TTITLE9=Join The Army
+TTITLE10=Mama
+TTITLE11=Every Day
+TTITLE12=I Call It The Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

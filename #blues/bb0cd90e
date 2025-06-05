@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14161
+#	34876
+#	48322
+#	64578
+#	80726
+#	92644
+#	108510
+#	137975
+#	153032
+#	178249
+#	192830
+#	211684
+#	225591
+#
+# Disc length: 3291 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bb0cd90e
+DTITLE=Solaris - Solaris
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Trilha 01
+TTITLE1=Trilha 02
+TTITLE2=Trilha 03
+TTITLE3=Trilha 04
+TTITLE4=Trilha 05
+TTITLE5=Trilha 06
+TTITLE6=Trilha 07
+TTITLE7=Trilha 08
+TTITLE8=Trilha 09
+TTITLE9=Trilha 10
+TTITLE10=Trilha 11
+TTITLE11=Trilha 12
+TTITLE12=Trilha 13
+TTITLE13=Trilha 14
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

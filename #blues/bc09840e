@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     8953
+#     22075
+#     35818
+#     49593
+#     61273
+#     73320
+#     91305
+#     102413
+#     115303
+#     128015
+#     140865
+#     151548
+#     167303
+# 
+# Disc length: 2438 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=bc09840e
+DTITLE=Gladys Knight and The Pips - You've Lost That Lovin' Feelin'
+DYEAR=1900
+DGENRE=
+TTITLE0=Every Beat Of My Heart
+TTITLE1=Groovin'
+TTITLE2=Every Little Bit Hurts
+TTITLE3=The Nitty Gritty
+TTITLE4=Your Old Stand-By
+TTITLE5=Theme From 'Valley Of The Dolls'
+TTITLE6=The Look Of Love
+TTITLE7=Just Walk In My Shoes
+TTITLE8=Don't Let Her Take Your Love From Me
+TTITLE9=I Wish It Would Rain
+TTITLE10=The Tracks Of My Tears
+TTITLE11=It's Summer
+TTITLE12=You've Lost That Loving' Feellin'
+TTITLE13=Yesterday
+EXTD=
+EXTT0=J. Otis
+EXTT1=F. Cavaliere - E. Brigati Jr
+EXTT2=E. Cobb
+EXTT3=L. Chase
+EXTT4=W. Robinson - J. Bradford
+EXTT5=D. Previn - A. Previn
+EXTT6=B. Bacharch - H. David
+EXTT7=H. Mastor - K. Miller
+EXTT8=N. Whitfield - B. Strong
+EXTT9=N. Whitfield - B. Stong - R .Penzabene
+EXTT10=W. Robinson /M. Tarplin - W. Moore
+EXTT11=N. Whitfield - B. Strong
+EXTT12=B. Mann - C. Weil - P. Spector
+EXTT13=J. Lennon - P. McCartney
+PLAYORDER=

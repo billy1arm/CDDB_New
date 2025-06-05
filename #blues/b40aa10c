@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17512
+#	42562
+#	57837
+#	72724
+#	93605
+#	108446
+#	127350
+#	141058
+#	158071
+#	172465
+#	188523
+#
+# Disc length: 2723 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b40aa10c
+DTITLE=Miles Davis Sextet - The Complete Recordings 1945 - 1960 - CD 13 - Blue Note Recordings Vol. 1 - WAV
+DYEAR=1953
+DGENRE=Jazz
+TTITLE0=Tempus Fugit
+TTITLE1=Kelo
+TTITLE2=Enigma
+TTITLE3=Ray's Idea
+TTITLE4=How Deep Is The Ocean
+TTITLE5=C.T.A. (alt. take)
+TTITLE6=Dear Old Stockholm
+TTITLE7=Chance It
+TTITLE8=Yesterdays
+TTITLE9=Donna (alt. take)
+TTITLE10=C.T.A.
+TTITLE11=Woody'n You (alt. take)
+EXTD=YEAR: 1953
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

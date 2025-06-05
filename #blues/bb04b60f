@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7092
+#	13180
+#	19307
+#	26445
+#	34032
+#	40177
+#	47345
+#	54555
+#	62840
+#	72307
+#	78905
+#	86377
+#	87515
+#	89097
+#
+# Disc length: 1208 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=bb04b60f
+DTITLE=効果音ライブラリー - 効果音 風・雨・雷
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=笹をゆらす静かな風
+TTITLE1=葦原の風
+TTITLE2=強い風
+TTITLE3=ブリザード
+TTITLE4=台風
+TTITLE5=吹雪
+TTITLE6=さみだれ
+TTITLE7=夕立
+TTITLE8=屋根に当たる雨
+TTITLE9=住宅街に降る雨
+TTITLE10=表通りの雨
+TTITLE11=雷1
+TTITLE12=雷2
+TTITLE13=雷3
+TTITLE14=雷4
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

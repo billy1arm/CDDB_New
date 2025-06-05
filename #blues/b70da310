@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	23555
+#	54266
+#	69792
+#	80898
+#	97574
+#	127561
+#	144727
+#	157953
+#	165842
+#	187942
+#	201072
+#	204257
+#	217698
+#	227604
+#	246565
+#
+# Disc length: 3493 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=b70da310
+DTITLE=Eddie "Son" House - Delta Blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Delta Blues
+TTITLE1=Government Fleet Blues
+TTITLE2=Shetland Pony Blues
+TTITLE3=Camp Hollers
+TTITLE4=Levee Camp Blues
+TTITLE5=Walking Blues
+TTITLE6=Fo' Clock Blues
+TTITLE7=Depot Blues
+TTITLE8=Am I Right or Wrong
+TTITLE9=Low Down Dirty Dog Blues
+TTITLE10=American Defense
+TTITLE11=Special Rider Blues
+TTITLE12=Walking Blues
+TTITLE13=County Farm Blues
+TTITLE14=The Pony Blues
+TTITLE15=The Jinx Blues
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

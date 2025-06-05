@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37618
+#	64351
+#	82032
+#	99551
+#	141290
+#	157226
+#	172041
+#	198421
+#	245671
+#	287185
+#	302100
+#
+# Disc length: 4402 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b211300c
+DTITLE=Joseph Haydn - String Quartets Op.54  N°1, 2, 3  (Auryn Quartet)
+DYEAR=2009
+DGENRE=Classique
+TTITLE0=String Quartet Op.54  N°1 Hoboken III-58  in G major - I. Vivace assai
+TTITLE1=String Quartet Op.54  N°1 Hoboken III-58  in G major - II. Allegretto
+TTITLE2=String Quartet Op.54  N°1 Hoboken III-58  in G major - III. Menuet
+TTITLE3=String Quartet Op.54  N°1 Hoboken III-58  in G major - IV. Finale. Vivace
+TTITLE4=String Quartet Op.54  N°2 Hoboken III-57  in C major - I. Vivace
+TTITLE5=String Quartet Op.54  N°2 Hoboken III-57  in C major - II. Adagio
+TTITLE6=String Quartet Op.54  N°2 Hoboken III-57  in C major - III. Menuetto. Allegretto
+TTITLE7=String Quartet Op.54  N°2 Hoboken III-57  in C major - IV. Finale. Adagio - Presto
+TTITLE8=String Quartet Op.54  N°3 Hoboken III-59  in E major - I. Allegro
+TTITLE9=String Quartet Op.54  N°3 Hoboken III-59  in E major - II. Largo
+TTITLE10=String Quartet Op.54  N°3 Hoboken III-59  in E major - III. Menuetto. Allegretto
+TTITLE11=String Quartet Op.54  N°3 Hoboken III-59  in E major - IV. Finale. Presto
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15725
+#     44595
+#     63922
+#     80287
+#     97020
+#     114017
+#     132877
+#     151010
+#     166345
+#     188635
+#     206925
+#     220640
+#     244497
+# 
+# Disc length: 3515 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=b60db90e
+DTITLE=Commodores - All The Great Love Songs
+DYEAR=1900
+DGENRE=
+TTITLE0=Sweet Love
+TTITLE1=Just To Be Close To You
+TTITLE2=Easy
+TTITLE3=Three Times A Lady
+TTITLE4=Say Yeah
+TTITLE5=Still
+TTITLE6=Lovin' You
+TTITLE7=Sail On
+TTITLE8=Old-fashion Love
+TTITLE9=Jesus Is Love
+TTITLE10=Lady (You Bring Me Up)
+TTITLE11=Oh No
+TTITLE12=This Love
+TTITLE13=Lucy
+EXTD=
+EXTT0=Commodores
+EXTT1=Commodores
+EXTT2=Commodores
+EXTT3=Commodores
+EXTT4=Commodores
+EXTT5=Commodores
+EXTT6=Commodores
+EXTT7=Commodores
+EXTT8=Commodores
+EXTT9=Commodores
+EXTT10=Commodores
+EXTT11=Commodores
+EXTT12=Commodores
+EXTT13=Commodores
+PLAYORDER=

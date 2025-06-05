@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15226
+#	26958
+#	41936
+#	55698
+#	69404
+#	82569
+#	102638
+#	116168
+#	137419
+#	150701
+#	170581
+#	181012
+#	197117
+#
+# Disc length: 2818 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b20b000e
+DTITLE=Mika Huusari Quartet - Jazz Partout l'Assortiment
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Mika Huusari - Stop (Folie a Amphion)
+TTITLE1=Mika Huusari - Just One for Babik
+TTITLE2=Mika Huusari - Fleur d'ennui
+TTITLE3=Mika Huusari - Undecided
+TTITLE4=Mika Huusari - Brise napolitaine
+TTITLE5=Mika Huusari - Hungaria
+TTITLE6=Mika Huusari - Lisa-Marie
+TTITLE7=Mika Huusari - Micro
+TTITLE8=Mika Huusari - August Nocturne
+TTITLE9=Mika Huusari - Swing 39
+TTITLE10=Mika Huusari - La Mer
+TTITLE11=Mika Huusari - Liza
+TTITLE12=Mika Huusari - September Game
+TTITLE13=Mika Huusari - La valse des niglots
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

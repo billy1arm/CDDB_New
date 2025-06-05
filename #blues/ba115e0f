@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7170
+#	15777
+#	24742
+#	56480
+#	79167
+#	114172
+#	141492
+#	170377
+#	195927
+#	204220
+#	214880
+#	242440
+#	273205
+#	306017
+#
+# Disc length: 4448 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=ba115e0f
+DTITLE=Paul Meader and Robin Nolan - The Gypsy Jazz Play Along CD - Volume 3 - Disk 2
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Tune Up
+TTITLE1=Bossa Intro. Amajor
+TTITLE2=Bossa Intro. D-
+TTITLE3=Bossa Dorado (slow)
+TTITLE4=Bossa Dorado (fast)
+TTITLE5=Number 1 (slow)
+TTITLE6=Number 1 (fast)
+TTITLE7=For Sephora (slow)
+TTITLE8=For Sephora (fast)
+TTITLE9=Samba Intro. Amajor
+TTITLE10=Samba Intro. B-7
+TTITLE11=Mediterranean Blues (slow)
+TTITLE12=Mediterranean Blues (fast)
+TTITLE13=Summertime (slow)
+TTITLE14=Summertime (fast)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

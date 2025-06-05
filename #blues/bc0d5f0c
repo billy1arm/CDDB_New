@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5536
+#	44654
+#	55741
+#	87247
+#	95165
+#	137201
+#	142494
+#	181731
+#	185011
+#	215910
+#	219808
+#
+# Disc length: 3425 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=bc0d5f0c
+DTITLE=Monty Waters and Titus Waldenfels - Favourite Things
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Moonlight in Vermont (Words)
+TTITLE1=Moonlight in Vermont
+TTITLE2=Straighten up and Fly Right (Words)
+TTITLE3=Straighten up and Fly Right
+TTITLE4=My Favourite Things (Words)
+TTITLE5=My Favourite Things
+TTITLE6=The Money Blues (Words)
+TTITLE7=The Money Blues
+TTITLE8=I Love Paris (Words)
+TTITLE9=I Love Paris
+TTITLE10=Run Joe (Words)
+TTITLE11=Run Joe
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19938
+#	41663
+#	58703
+#	86605
+#	105895
+#	123990
+#	142775
+#	164340
+#	177680
+#	200185
+#	209865
+#	226293
+#
+# Disc length: 3330 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=ba0d000d
+DTITLE=Luther Johnson - On the Road Again
+DYEAR=1900
+DGENRE=
+TTITLE0=On the Road Again
+TTITLE1=Back Door Man
+TTITLE2=Things I Used To Do
+TTITLE3=Catfish Blues
+TTITLE4=Aces Blues
+TTITLE5=You Move Me
+TTITLE6=Rock Me Baby
+TTITLE7=She Moves Me
+TTITLE8=You've Got Me Runnin'
+TTITLE9=Hoochie Coochie Man
+TTITLE10=Impressions from France
+TTITLE11=Mellow Down Easy
+TTITLE12=Little Red Rooster
+EXTD=(c) 1994 Evidence Music Inc\nECD 26047-2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

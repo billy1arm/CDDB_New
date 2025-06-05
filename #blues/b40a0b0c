@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	15557
+#	27280
+#	41860
+#	58210
+#	78090
+#	96320
+#	110045
+#	127337
+#	147367
+#	163210
+#	178480
+#
+# Disc length: 2573 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b40a0b0c
+DTITLE=Enrico Caruso - Una voce leggendaria
+DYEAR=1995
+DGENRE=Musicale
+TTITLE0='O sole mio
+TTITLE1=Tu ca nun chiagne
+TTITLE2=La danza
+TTITLE3=Mamma mia che vò sapé 
+TTITLE4=Pecché
+TTITLE5=Canta Lucia
+TTITLE6='A vucchella
+TTITLE7=Tiempo antico
+TTITLE8=Manella mia
+TTITLE9=Guardanno 'a luna
+TTITLE10=Canta pe' me
+TTITLE11=Addio a Napoli
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

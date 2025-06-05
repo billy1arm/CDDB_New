@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20827
+#	39744
+#	56806
+#	76613
+#	93510
+#	119416
+#	142030
+#	157025
+#	172189
+#	184921
+#	206344
+#	249193
+#
+# Disc length: 3647 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta0
+#
+DISCID=b60e3d0d
+DTITLE=Wu Bai's Live - Wu Bai and China Blue
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Place of Silence
+TTITLE1=Autumn Wind, Midnight Rain
+TTITLE2=Go to the Graveyard
+TTITLE3=Kiss me
+TTITLE4=Express Love Letter
+TTITLE5=Lighting a Cigarette
+TTITLE6=Flying
+TTITLE7=Don't be Afraid Miss
+TTITLE8=I Hate you, Lovely Ones
+TTITLE9=Wasting Youth
+TTITLE10=This Continuos Sinking
+TTITLE11=Love you Ten Thousand Years
+TTITLE12=Wander's Love Song
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

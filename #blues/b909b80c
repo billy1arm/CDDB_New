@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26947
+#	37696
+#	52175
+#	65891
+#	83599
+#	97095
+#	112403
+#	127316
+#	140243
+#	153196
+#	168624
+#
+# Disc length: 2490 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b909b80c
+DTITLE=Louis Armstrong - 12 Original Recordings Vol. 1
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Hello Dolly
+TTITLE1=Mame
+TTITLE2=When the saints go marchin'in
+TTITLE3=Ain't misbehavin'
+TTITLE4=Cabaret
+TTITLE5=A kiss to build a dream on
+TTITLE6=Please don't talk about me when I'm gone
+TTITLE7=Bluberry Hill
+TTITLE8=St. Louis Blues
+TTITLE9=That's my desire
+TTITLE10=Mack the knife
+TTITLE11=Back o'town blues
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

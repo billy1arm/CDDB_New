@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31805
+#	51462
+#	71327
+#	111690
+#	131482
+#	149997
+#	168110
+#	185455
+#	204397
+#	230677
+#	247037
+#
+# Disc length: 3531 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b90dc90c
+DTITLE=Jacques Loussier Trio - The Four Seasons
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=SPRING. Concerto #1 In E Major. Allegro
+TTITLE1=Largo
+TTITLE2=Allegro/Danza Pastoralle
+TTITLE3=SUMMER. Concerto #2 In G Minor. Allegro non Molto
+TTITLE4=Adagio
+TTITLE5=Presto
+TTITLE6=AUTUMN. Concerto #3 In F Major. Allegro
+TTITLE7=Adagio Molto
+TTITLE8=Allegro
+TTITLE9=WINTER. Concerto #4 In F Minor. Allegro Non Molto
+TTITLE10=Largo
+TTITLE11=Allegro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

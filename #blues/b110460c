@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23013
+#	48489
+#	67060
+#	82303
+#	107704
+#	133753
+#	161095
+#	205843
+#	230811
+#	250313
+#	278558
+#
+# Disc length: 4168 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b110460c
+DTITLE=Valerio - Spiagge della mente
+DYEAR=2005
+DGENRE=New Age
+TTITLE0=La pregevole eloquenza dei piccioni di piazza del comune 01
+TTITLE1=Un fuoco sulla spiaggia 02
+TTITLE2=La leggenda di Maya 03
+TTITLE3=Come la luna 04
+TTITLE4=Luna sciocchina 05
+TTITLE5=Autostop 06
+TTITLE6=Dormi mio piccolo amore 07
+TTITLE7=Crypto Zoe 08
+TTITLE8=Pace selvaggia 09
+TTITLE9=Ossian e la principessa del mare 10
+TTITLE10=Chi sei 11
+TTITLE11=Vai tranquillo 12
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

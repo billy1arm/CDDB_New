@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9210
+#	24300
+#	42648
+#	59596
+#	74530
+#	88331
+#	100996
+#	116944
+#	132288
+#	148104
+#	161122
+#
+# Disc length: 2411 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b309690c
+DTITLE=Pedrito Camacho y El Clan - No Tengo La Culpa
+DYEAR=2008
+DGENRE=Salsa
+TTITLE0=SoyElQueSoy
+TTITLE1=NoTengoLaCulpa
+TTITLE2=Pa'LaCalle
+TTITLE3=TuEresMala
+TTITLE4=ElReyDeTuCama
+TTITLE5=EstoyTanSolo
+TTITLE6=Deja
+TTITLE7=Ay,PeroQueLindoEstoy
+TTITLE8=ElDesafina'O
+TTITLE9=EllaMeQuiereMatar
+TTITLE10=HoyVoyAHacerUnaFiesta
+TTITLE11=YoNoSe'PorQue'
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

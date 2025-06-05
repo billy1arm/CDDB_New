@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12493
+#	37767
+#	71059
+#	90311
+#	104088
+#	117034
+#	141067
+#	149950
+#	161304
+#	176795
+#	200623
+#	213894
+#
+# Disc length: 3083 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ba0c090d
+DTITLE=Various Artist - KulturSPIEGEL World Tour - Tango Passion  CD2  Tangomania
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Astor Piazzolla And His Quintet - Calambre
+TTITLE1=Athos Bassissi - Milonga Del Angel
+TTITLE2=Pablo Ziegler - Milongueta
+TTITLE3=La Camorra - La Sanata
+TTITLE4=Tango Crash - La Yumba
+TTITLE5=Tango Siempre - Diablo Fast
+TTITLE6=Fernando Samalea - Patronato de Menores
+TTITLE7=Tito Reyes and Anibal Troilo Y Su Orchesta Típica - Milonga De La Parda
+TTITLE8=Adriana Varela - Toda Mi Vida
+TTITLE9=Dúo Fain-Mantega - Tal Vez Será Su Voz
+TTITLE10=Stefan Grasse Trio - Verano Poreteno
+TTITLE11=La Chicana - Canción Llorada
+TTITLE12=Tango Crash - El Choclo
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

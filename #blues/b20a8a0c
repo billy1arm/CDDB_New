@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14135
+#	33755
+#	47815
+#	74183
+#	90680
+#	108993
+#	124260
+#	138690
+#	154578
+#	171193
+#	185165
+#
+# Disc length: 2700 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=b20a8a0c
+DTITLE=Louis Armstrong - Dolcemente Louis
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Georgia on my mind
+TTITLE1=I can't give you anythinng but love
+TTITLE2=C'est si bon
+TTITLE3=On the sunny side of the street
+TTITLE4=When the Saints go marching in
+TTITLE5=When you're smiling
+TTITLE6=Body and soul
+TTITLE7=Down by the riverside
+TTITLE8=Tenderly
+TTITLE9=Everybody love my baby
+TTITLE10=You rascal you
+TTITLE11=Basin street blues
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

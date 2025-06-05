@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11927
+#     29775
+#     48395
+#     63827
+#     89190
+#     116040
+#     127437
+#     152132
+#     175060
+#     195090
+#     230852
+# 
+# Disc length: 3420 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=b10d5a0c
+DTITLE=Dave Hole - The Plumber
+DYEAR=1900
+DGENRE=
+TTITLE0=The Plumber
+TTITLE1=You Don't Have To Be Pretty To Sing The Blues
+TTITLE2=Do What You Do
+TTITLE3=Is It True? (Part 1)
+TTITLE4=Three Days Out
+TTITLE5=Sign Me Up
+TTITLE6=Me And My Guitar
+TTITLE7=New Way To Live
+TTITLE8=Is It True? ( Part 2)
+TTITLE9=Wrecking Yard
+TTITLE10=North West Blues
+TTITLE11=Boogaloo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

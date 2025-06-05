@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28150
+#	56825
+#	78162
+#	101242
+#	133907
+#	157955
+#	187185
+#	215975
+#	238387
+#	270475
+#	305790
+#
+# Disc length: 4273 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bc10af0c
+DTITLE=Compilation Album - kageki
+DYEAR=1900
+DGENRE=Rock
+TTITLE0=Journey - JACKAL
+TTITLE1=Face the World - EVERON
+TTITLE2=We Cannot Move - KINGSTON WALL
+TTITLE3=Cask of Amontillado - MICHAEL ROMEO
+TTITLE4=Paradox - THRESHOLD
+TTITLE5=Shadowplay - ABSTRAKT ALGEBRA
+TTITLE6=Untouchable - GALLEON
+TTITLE7=Into the Void - GLENN HUGHES
+TTITLE8=Mercy Me - MASQUERADE
+TTITLE9=Taste of Sin - WITHOUT WARNING
+TTITLE10=Chance - SAVATAGE
+TTITLE11=Crystal Dreams - ZENO
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

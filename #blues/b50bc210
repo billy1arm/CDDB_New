@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11276
+#	20511
+#	35603
+#	50026
+#	60977
+#	72681
+#	81305
+#	90632
+#	99739
+#	109193
+#	120057
+#	128284
+#	138000
+#	150127
+#	157679
+#
+# Disc length: 3012 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta5_freedb
+#
+DISCID=b50bc210
+DTITLE=Various Artist - pop tics
+DYEAR=1900
+DGENRE=
+TTITLE0=Olaf Hund (fr)/Gôute cerise (pop tics edit)
+TTITLE1=Txarly brown and business class (esp)/Novosound phonicsystem
+TTITLE2=Erobique and Superschool (ger)/Superschool
+TTITLE3=Chichs on Speed (ger/us)/Mind your own business
+TTITLE4=Vanguard (esp)/Topsy-turvy-world
+TTITLE5=Yoshinori Sunahara and Mars Art Lab (jab)/Preview
+TTITLE6=Discordia (uk)/Borussia Discordia
+TTITLE7=Dauerfisch (ger)/2000
+TTITLE8=Dob (jap)/Marilou
+TTITLE9=Pop Tarts (ger)/Girlie pop
+TTITLE10=Helen Love (uk)/King of Kung Fu
+TTITLE11=Doktor Kosmos and Sweden (swe)/Noone ate home
+TTITLE12=Jim Avignon (ger)/Evolution is easy with your shoes on
+TTITLE13=Jeans Team (ger)/Hi fans, breakdance!
+TTITLE14=Yukari Fresh and Pat Detective (jap)/Yippee to Kate 99
+TTITLE15=Andreas Dorau and Moritz R (ger)/Der letzte Popsong
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

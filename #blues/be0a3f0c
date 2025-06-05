@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18677
+#     37132
+#     53115
+#     71185
+#     82417
+#     100122
+#     118202
+#     131755
+#     149635
+#     169240
+#     183165
+# 
+# Disc length: 2625 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=be0a3f0c
+DTITLE=Darrell Nulisch And Texas Heat - Business As Usual
+DYEAR=1900
+DGENRE=
+TTITLE0=Count On Me
+TTITLE1=Just Around The Corner
+TTITLE2=Love and War
+TTITLE3=Beggin' You To Leave
+TTITLE4=Teach Me How To Love
+TTITLE5=Love Attack
+TTITLE6=Orange Soda
+TTITLE7=Pouring Water On A Drowning Man
+TTITLE8=Inside Out
+TTITLE9=Business As Usual
+TTITLE10=I Can't Be Satisfied
+TTITLE11=Won't Throw It All Away
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

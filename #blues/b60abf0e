@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13307
+#     33665
+#     46840
+#     59250
+#     75800
+#     86632
+#     109275
+#     121902
+#     135492
+#     145225
+#     153452
+#     184472
+#     195175
+# 
+# Disc length: 2753 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b60abf0e
+DTITLE=Various Artist - A rhytm and blues christmas
+DYEAR=1900
+DGENRE=
+TTITLE0=Please come home for christams
+TTITLE1=Let's keep the Christ in christmas
+TTITLE2=The bells
+TTITLE3=I wanna spend christmas with you (part 1)
+TTITLE4=Merry christmas baby
+TTITLE5=Winter wonderland
+TTITLE6=The silent night story
+TTITLE7=Bing bong
+TTITLE8=Lonesome christmas (part 1)
+TTITLE9=Christmas in heaven
+TTITLE10=Silent night
+TTITLE11=A christmas prayer
+TTITLE12=I wanna spend christmas with you (part 2)
+TTITLE13=Please come home for christmas
+EXTD=
+EXTT0=Charles Brown\n
+EXTT1=Solomon Burke\n
+EXTT2=Bobby Powell\n
+EXTT3=Lowell Fulson\n
+EXTT4=Charles Brown\n
+EXTT5=Ronnie Kole trio\n
+EXTT6=Solomon Burke\n
+EXTT7=Bobby Powell\n
+EXTT8=Lowell Fulson\n
+EXTT9=Charles Brown\n
+EXTT10=Ronnie Kole trio\n
+EXTT11=Solomon Burke\n
+EXTT12=Lowell Fulson\n
+EXTT13=Bobby Powell\n
+PLAYORDER=

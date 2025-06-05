@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13025
+#	28672
+#	44170
+#	56830
+#	73645
+#	88420
+#	100955
+#	113170
+#	134077
+#	146560
+#	158105
+#
+# Disc length: 2267 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=b608d90c
+DTITLE=Nat King Cole - Champion Selection Series
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Ramblin' Rose
+TTITLE1=Mona Lisa
+TTITLE2=Too Young
+TTITLE3=Pretend
+TTITLE4=Route 66!
+TTITLE5=Stardust
+TTITLE6=Quizas, Quizas, Quizas
+TTITLE7=Love Is A Many Splendored Thing
+TTITLE8=Sweet Lorraine
+TTITLE9=Love Letters
+TTITLE10=Lover Come Back To Me
+TTITLE11=Autumn Leaves
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

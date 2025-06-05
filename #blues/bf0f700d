@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18871
+#     43635
+#     72231
+#     93917
+#     116319
+#     140844
+#     153970
+#     171025
+#     194973
+#     216490
+#     239885
+#     258973
+# 
+# Disc length: 3954 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=bf0f700d
+DTITLE=Willy Michl - Ois Is Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Sonnenuntergang
+TTITLE1=Ois is Blues
+TTITLE2=Der Falk
+TTITLE3=Isarflimmern
+TTITLE4=Fr hling
+TTITLE5=Herbstlied
+TTITLE6=Wakantanka
+TTITLE7=Teufelstanz
+TTITLE8=Der tausendj hrige Eskimo
+TTITLE9=Die 5 Dimesionen
+TTITLE10=Katmandu
+TTITLE11=Das Land Nepal
+TTITLE12=Epilog
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20228
+#	40555
+#	58633
+#	77663
+#	92373
+#	112355
+#	132928
+#	149905
+#	170063
+#	189340
+#	209923
+#
+# Disc length: 3115 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=b60c290c
+DTITLE=Az Yet - Az Yet
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Last Night
+TTITLE1=Saved For Someone Else
+TTITLE2=Care For Me
+TTITLE3=Every Little Bit Of My Heart
+TTITLE4=Hard To Say I'm Sorry
+TTITLE5=That's All I Want
+TTITLE6=Secrets
+TTITLE7=Through My Heart (The Arrow)
+TTITLE8=I Don't Want To Be Lonely
+TTITLE9=Sadder Than Blue
+TTITLE10=Inseparable Lovers
+TTITLE11=Time To End The Story
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=(The Arrow)
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

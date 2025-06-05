@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42502
+#	74753
+#	106416
+#	143909
+#	177687
+#	201963
+#	213709
+#	244907
+#	275603
+#	287437
+#
+# Disc length: 4376 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=be11160b
+DTITLE=Lars Lystedt Sextet - Jazz Under The Midnight Sun
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Bothnia
+TTITLE1=Woodoo
+TTITLE2=The Hammock
+TTITLE3=Cook It
+TTITLE4=Sarek
+TTITLE5=The Runner
+TTITLE6=Fanfar Take1
+TTITLE7=Krypto
+TTITLE8=One For Joan
+TTITLE9=Fanfar Take2
+TTITLE10=The Runner Take2
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

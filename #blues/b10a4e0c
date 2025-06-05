@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     12997
+#     31917
+#     56760
+#     67150
+#     78695
+#     111015
+#     119960
+#     135670
+#     146097
+#     174042
+#     183560
+# 
+# Disc length: 2640 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b10a4e0c
+DTITLE=Brooklyn Tabernacle Singers - Jesus Be Praised
+DYEAR=1900
+DGENRE=
+TTITLE0=Everlasting Hope
+TTITLE1=You Are Emmanuel
+TTITLE2=Jesus My Jesus
+TTITLE3=Nothing As Precious
+TTITLE4=Cast All Your Cares
+TTITLE5=Jesus Be Praised
+TTITLE6=I Was Glad
+TTITLE7=Make Us One
+TTITLE8=We Give Thanks To You
+TTITLE9=I Love You Lord...
+TTITLE10=Sitting At His Feet
+TTITLE11=Where He Leads Me I Will Follow
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

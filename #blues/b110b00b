@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26212
+#	44950
+#	75525
+#	97287
+#	115790
+#	184355
+#	193737
+#	215785
+#	242550
+#	294680
+#
+# Disc length: 4274 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b110b00b
+DTITLE=Silky Night Jazz - Various
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=MileStones/MilesDavis
+TTITLE1=Stardust/WyntonMarsalis
+TTITLE2=BlueRondoALATurk/DaveBrubeck
+TTITLE3=GoodByePorkPieHat/CharlesMingus
+TTITLE4=Misty/RayBryant
+TTITLE5=MyFunnyValentine/MilesDavis
+TTITLE6=UnsquareDance/DaveBrubeck
+TTITLE7=Djange/WyntonMarsalis
+TTITLE8=Lament/BranfordMarsalis
+TTITLE9=AllBlues/MilesDavis
+TTITLE10=AllAlone/MalWaldron
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

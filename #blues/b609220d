@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17400
+#	28650
+#	41250
+#	51600
+#	65850
+#	79800
+#	92550
+#	105900
+#	121950
+#	133200
+#	146700
+#	164100
+#
+# Disc length: 2340 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b609220d
+DTITLE=Various Artist - Summer Songbirds
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Malibu Beach
+TTITLE1=Beverly Hills
+TTITLE2=Hollywood Bowl
+TTITLE3=California Freeway
+TTITLE4=Sunset Strip
+TTITLE5=San Francisco
+TTITLE6=Beachcomber
+TTITLE7=The Sombrero
+TTITLE8=Summer Songbird
+TTITLE9=Bikini Beach
+TTITLE10=Pampas
+TTITLE11=Cabasa Samba
+TTITLE12=Bon Voyage
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

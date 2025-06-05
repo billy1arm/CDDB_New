@@ -1,0 +1,106 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24980
+#	43135
+#	70257
+#	103880
+#	125682
+#	141890
+#	168707
+#	184745
+#	203517
+#	210222
+#	222100
+#	227837
+#	228462
+#	230337
+#	230745
+#	232632
+#	233282
+#	237525
+#	237922
+#	241492
+#	241870
+#	246042
+#	246535
+#	250880
+#	258517
+#	265957
+#	269312
+#	271875
+#	274450
+#
+# Disc length: 3683 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=b30e611e
+DTITLE=Chesky Records - Jazz Sampler and audiophile Test Disc Vol.1
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Paquito D' Rivera - Tico Tico
+TTITLE1=Johnny Frigo - Stomping at the Savoy
+TTITLE2=Ana Caram  - Viola Fora de Moda
+TTITLE3=David Chesky - Club de Sol
+TTITLE4=Phil Woods - Charles Christopher
+TTITLE5=Ana Caram - Meditation
+TTITLE6=Clark Terry - Pennies From Heaven
+TTITLE7=Luiz Bonfa - Samba de Orfeo
+TTITLE8=Johnny Frigo  - The Song is You
+TTITLE9=test - Introduction and Left-Right Imaging Test
+TTITLE10=test - Ledr Test
+TTITLE11=test - Acoustic Soundstate Depth Test
+TTITLE12=test - Polarity Test #1 Announcement
+TTITLE13=test - Solo Trumpet (Normal Polarity)
+TTITLE14=test - Announcement
+TTITLE15=test - Solo Trumpet (Inverted Polarity)
+TTITLE16=test - Polarity Test #2 Announcement
+TTITLE17=test - Marina (Normal Polarity)
+TTITLE18=test - Announcement (2)
+TTITLE19=test - Marina (Inverted Polarity)
+TTITLE20=test - Multiple Generation Test Announcement
+TTITLE21=test - Waltz for Libby (Master Generation)
+TTITLE22=test - Announcement (3)
+TTITLE23=test - Waltz for Libby (100th Generation)
+TTITLE24=test - Bonger Test #1 (128x Oversampling A to D)
+TTITLE25=test - Bonger Test #2 (Standard A to D)
+TTITLE26=test - Warning Announcement
+TTITLE27=test - Hz Squarewave (Digitally Generated)
+TTITLE28=test - Hz Squarewave (128x Oversampled A to D)
+TTITLE29=test - Hz Squarewave (Standard A to D)
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13277
+#	28197
+#	38952
+#	59932
+#	74920
+#	89842
+#	101027
+#	115725
+#	129912
+#	143705
+#	155520
+# Disc length: 2242 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=ba08c00c
+DTITLE=Mike Sanchez - Just A Game
+DYEAR=1900
+DGENRE=
+TTITLE0=M.S. Boogie
+TTITLE1=Found What I'm Looking For
+TTITLE2=3 Months, 3 Weeks, 3 Days
+TTITLE3=Forever True
+TTITLE4=El Boogie Con Carnie
+TTITLE5=Just A Game
+TTITLE6=I Don't Stand A Chance
+TTITLE7=I Need A Woman
+TTITLE8=Let This Lovin' Begin
+TTITLE9=Undecided Fool
+TTITLE10=Bugg-Bugg Boogie
+TTITLE11=I Can't Stop
+EXTD=Mike Sanchez
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

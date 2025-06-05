@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36637
+#	63921
+#	100168
+#	122612
+#	140222
+#	163128
+#	196537
+#	220204
+#	247068
+#	275940
+#	302272
+#
+# Disc length: 4309 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b610d30c
+DTITLE=Johann Sebastian Bach (1685-1750) - Harpsichord Concertos (Complete)
+DYEAR=1995
+DGENRE=Baroque
+TTITLE0=Concerto for Harpsichord in D minor, BWV 1052  Allegro
+TTITLE1=Concerto for Harpsichord in D minor, BWV1052  Adagio
+TTITLE2=Concerto for Harpsichord in D minor, BWV1052  Allegro
+TTITLE3=Concerto for Harpsichord in D minor, BWV 1063  Allegro
+TTITLE4=Concerto for Harpsichord in D minor, BWV 1063  Alla Siciliana
+TTITLE5=Concerto for Harpsichord in D minor, BWV 1063  Allegro
+TTITLE6=Concerto for Harpsichord in C major, BWV 1061  Allegro
+TTITLE7=Concerto for Harpsichord in D minor, BWV 1061  Adagio ovvero largo
+TTITLE8=Concerto for Harpsichord in D minor, BWV 1061  Fuga vivace
+TTITLE9=Concerto for Harpsichord in D minor, BWV 1064  Allegro
+TTITLE10=Concerto for Harpsichord in D minor, BWV 1064  Adagio
+TTITLE11=Concerto for Harpsichord in D minor, BWV 1064  Allegro
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

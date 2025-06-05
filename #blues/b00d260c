@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19025
+#	35518
+#	54690
+#	77908
+#	95340
+#	112880
+#	134940
+#	157180
+#	180168
+#	202333
+#	223918
+#
+# Disc length: 3368 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=b00d260c
+DTITLE=Eric Clapton - August
+DYEAR=2000
+DGENRE=Blues Rock
+TTITLE0=It's In The Way That You Use It
+TTITLE1=Run
+TTITLE2=Tearing Us Apart
+TTITLE3=Bad Influence
+TTITLE4=Walk Away
+TTITLE5=Hung Up On Your Love
+TTITLE6=Take A Chance
+TTITLE7=Hold On
+TTITLE8=Miss You
+TTITLE9=Holy Mother
+TTITLE10=Behind The Mask
+TTITLE11=Grand Illusion
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

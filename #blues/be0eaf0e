@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14954
+#	31488
+#	47092
+#	67981
+#	92932
+#	110416
+#	131730
+#	161687
+#	178291
+#	195257
+#	210811
+#	227345
+#	263101
+#
+# Disc length: 3761 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=be0eaf0e
+DTITLE=Eric Clapton - Unplugged
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Signe
+TTITLE1=Before You Accuse Me
+TTITLE2=Hey Hey
+TTITLE3=Tears In Heaven
+TTITLE4=Lonely Stranger
+TTITLE5=Nobody Knows You When You're Down and Out
+TTITLE6=Layla
+TTITLE7=Running On Faith
+TTITLE8=Walkin' Blues
+TTITLE9=Alberta
+TTITLE10=San Francisco Bay Blues
+TTITLE11=Malted Milk
+TTITLE12=Old Love
+TTITLE13=rollin' and tumblin'
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

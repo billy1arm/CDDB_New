@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14895
+#	26503
+#	40073
+#	56138
+#	69810
+#	83008
+#	95193
+#	108035
+#	120235
+#	133330
+#	146583
+#	160600
+#	172048
+#
+# Disc length: 2503 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=b809c50e
+DTITLE=Various Artist - Grandes Musicas Sertanejas
+DYEAR=1900
+DGENRE=
+TTITLE0=Cabocla Terezza
+TTITLE1=Romaria
+TTITLE2=Bom Jesus De Pirapora
+TTITLE3=O Menino Da Porteira
+TTITLE4=Berrante De Madalena
+TTITLE5=Luar Do Sertao/ Tristezas Do Jeca
+TTITLE6=Lampiao De Gas
+TTITLE7=Saudades Do Matao
+TTITLE8=Parana Do Norte
+TTITLE9=Pagode Em Brasilia
+TTITLE10=Marvada Pinga
+TTITLE11=Meu Cavalo Zaino
+TTITLE12=Flor Do Cafezal
+TTITLE13=Beijinho Doce
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

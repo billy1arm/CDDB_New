@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	17385
+#	34378
+#	49773
+#	65793
+#	80488
+#	90460
+#	113000
+#	127593
+#	145015
+#	156615
+#	171395
+#	195065
+#	212528
+#
+# Disc length: 3088 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b20c0e0e
+DTITLE=Artisti Vari - DCI-25-Le regine
+DYEAR=1990
+DGENRE=Oldies
+TTITLE0=Nilla Pizzi - Malasierra
+TTITLE1=Milly - Capriccio
+TTITLE2=Carla Boni - Acque Amare
+TTITLE3=Flo Sandon's - T'ho voluto bene (non dimenticar)
+TTITLE4=Jula de Palma - Tua
+TTITLE5=Marina Pagano - 'E piscature
+TTITLE6=Mirna Doris - Serenata napulitane
+TTITLE7=Nilla Pizzi - Eternamente
+TTITLE8=Milly - Ninnolo
+TTITLE9=Carla Boni - Jezebel
+TTITLE10=Flo Sandon's - Verde luna
+TTITLE11=Jula De Palma - Notte mia
+TTITLE12=Marina Pagano - Bammenella 'e coppa 'o quartiere
+TTITLE13=Mirna Doris - Scetate
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

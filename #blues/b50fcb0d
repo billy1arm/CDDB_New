@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35684
+#	55178
+#	72350
+#	91781
+#	114426
+#	128235
+#	148125
+#	162809
+#	205248
+#	217629
+#	255582
+#	279260
+#
+# Disc length: 4045 seconds
+#
+# Revision: 14
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b50fcb0d
+DTITLE=Beethoven - Sonates pour Piano - Vol.6-9  { Friedrich Gulda }
+DYEAR=1967
+DGENRE=Piano
+TTITLE0=Sonate N° 18  en Mi bémol majeur, Op.31  n°3 ''La Chasse''  [1802] - I. Allegro
+TTITLE1=Sonate N° 18  en Mi bémol majeur, Op.31  n°3 ''La Chasse''  [1802] - II. Scherzo, allegretto vivace 
+TTITLE2=Sonate N° 18  en Mi bémol majeur, Op.31  n°3 ''La Chasse''  [1802] - III. Menuetto, moderato e grazioso
+TTITLE3=Sonate N° 18  en Mi bémol majeur, Op.31  n°3 ''La Chasse''  [1802] - IV. Presto con fuoco 
+TTITLE4=Sonate N° 19  en Sol majeur, Op.49  n°1  [1798] - I. Andante 
+TTITLE5=Sonate N° 19  en Sol majeur, Op.49  n°1  [1798] - II. Rondo, allegro 
+TTITLE6=Sonate N° 20  en Sol majeur, Op.49  n°2  [1796] - I. Allegro ma non troppo
+TTITLE7=Sonate N° 20  en Sol majeur, Op.49  n°2  [1796] - II. Tempo di menuetto 
+TTITLE8=Sonate N° 21  en Ut majeur, Op.53 ''Waldstein''  [1803] - I. Allegro con brio
+TTITLE9=Sonate N° 21  en Ut majeur, Op.53 ''Waldstein''  [1803] - II. Introduzione, adagio molto
+TTITLE10=Sonate N° 21  en Ut majeur, Op.53 ''Waldstein''  [1803] - III. Rondo, allegro moderato - prestissimo
+TTITLE11=Sonate N° 22  en Fa majeur, Op.54  [1804] - I. In tempo d'un menuetto 
+TTITLE12=Sonate N° 22  en Fa majeur, Op.54  [1804] - II. Allegretto 
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

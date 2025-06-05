@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12691
+#	28758
+#	42445
+#	65766
+#	78787
+#	98744
+#	115107
+#	130865
+#	139686
+#	150417
+#	166525
+#	176070
+#	198634
+#
+# Disc length: 2778 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b50ad80e
+DTITLE=George Andrix - The Complete Blues Viola
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Blue Monk
+TTITLE1=Viola Playin' Blues
+TTITLE2=Skip It
+TTITLE3=Harlem Mocturne
+TTITLE4=Ska Blue
+TTITLE5=Bela's Got Da Blues
+TTITLE6=Wired
+TTITLE7=Spider March
+TTITLE8=Fiddlin' Blue
+TTITLE9=Hound Dog
+TTITLE10=Feeling Around
+TTITLE11=Electric Landlady
+TTITLE12=Too Slow Blues
+TTITLE13=Straight No Chaser
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17014
+#	32175
+#	52846
+#	73386
+#	97359
+#	119603
+#	145585
+#	173527
+#	191733
+#	213084
+#	290665
+#
+# Disc length: 4361 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b511070c
+DTITLE=国立音楽院 - Anniversary Concert 1999
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Jumpn' at The Woodside
+TTITLE1=Stompin' at The Savoy
+TTITLE2=Imagination
+TTITLE3=Broadway
+TTITLE4=It's All Right With Me
+TTITLE5=Mira, Mira,
+TTITLE6=Good News
+TTITLE7=Manteca
+TTITLE8=Bonus Truck(Unknown)
+TTITLE9=Overture to "Candide"
+TTITLE10=Rhapsody in Blue
+TTITLE11=Orient Express
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

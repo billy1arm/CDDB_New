@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20625
+#	28443
+#	47220
+#	60813
+#	71905
+#	84633
+#	103038
+#	118293
+#	141458
+#	153395
+#	173893
+#
+# Disc length: 2691 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b10a810c
+DTITLE=John Huling - Blue Canyons
+DYEAR=1990
+DGENRE=New Age
+TTITLE0=BlueCanyons(1990,JohnHuling,BigSur,CA)
+TTITLE1=PeacefulJourney(1990,JohnHuling,BigSur,CA)
+TTITLE2=CountryDrive(1990,JohnHuling,BigSur,CA)
+TTITLE3=OnOurWay(1990,JohnHuling,BigSur,CA)
+TTITLE4=TrailsEnd(1990,JohnHuling,BigSur,CA)
+TTITLE5=MistyWaters(1990,JohnHuling,BigSur,CA)
+TTITLE6=BestFriends(1990,JohnHuling,BigSur,CA)
+TTITLE7=BackHome(1990,JohnHuling,BigSur,CA)
+TTITLE8=CoastalRainforest(1990,JohnHuling,BigSur,CA)
+TTITLE9=Sunrise(1990,JohnHuling,BigSur,CA)
+TTITLE10=LastRainmaker(1990,JohnHuling,BigSur,CA)
+TTITLE11=FishesDance(1990,JohnHuling,BigSur,CA)
+EXTD=more info\nMillenniumMusicProjectFormat, syntax as follows:\nTitle{Subtitle}[info](Lyricist;Composer;Date,Artist,Location)[info]\ncorrections to: windking3@yahoo.com YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

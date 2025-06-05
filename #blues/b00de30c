@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     225
+#     20526
+#     47523
+#     65925
+#     84641
+#     99670
+#     121268
+#     146638
+#     165711
+#     194214
+#     220955
+#     240207
+# 
+# Disc length: 3558 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b00de30c
+DTITLE=Sandy Lomax - Songs from the Jazz Age
+DYEAR=1900
+DGENRE=
+TTITLE0=Sandy s Blues
+TTITLE1=Afro Blue
+TTITLE2=In Walked Bud
+TTITLE3=Goodbye Porkpie Hat
+TTITLE4=Con Man
+TTITLE5=Oh, what a beautiful Mornin 
+TTITLE6=Secret Love
+TTITLE7=Peel me a Grape
+TTITLE8=Lover Man
+TTITLE9=Take Five
+TTITLE10=Mr. Paganini
+TTITLE11=Blue o Clock
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

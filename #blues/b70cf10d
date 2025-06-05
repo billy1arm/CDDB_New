@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     22835
+#     37090
+#     51712
+#     70637
+#     102002
+#     128875
+#     148600
+#     164680
+#     181172
+#     193847
+#     213777
+#     225620
+# 
+# Disc length: 3315 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b70cf10d
+DTITLE=Dave Green - The Chicago Piano Man Plays
+DYEAR=1900
+DGENRE=
+TTITLE0=Memories of You
+TTITLE1=Exactly Like You
+TTITLE2=Rush Hour Rag
+TTITLE3=As Time Goes By
+TTITLE4=Georgia on My Mind
+TTITLE5=Miss Otis Regrets
+TTITLE6=Summertime
+TTITLE7=Someone To Wach Over Me
+TTITLE8=Somebody Loves Me
+TTITLE9=Liza
+TTITLE10=I'll Catch The Sun
+TTITLE11=I Love You Porgy
+TTITLE12=Rivers Invitation
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

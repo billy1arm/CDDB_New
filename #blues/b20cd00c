@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15375
+#	40379
+#	58896
+#	80639
+#	104059
+#	127393
+#	148515
+#	172658
+#	193982
+#	215856
+#	233378
+#
+# Disc length: 3282 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b20cd00c
+DTITLE=Michael Köhlmeier - Märchenwelt - Der Tod (3)
+DYEAR=2012
+DGENRE=Hörbuch
+TTITLE0=Der kluge Arzt oder die Todesfurcht als Heilmittel (Von den Swahili aus Ostafrika)
+TTITLE1=Elend währt bis an den Jüngsten Tag (Heinrich Pröhle)
+TTITLE2=Der Gevatter Tod (Brüder Grimm)
+TTITLE3=Der Gevatter Tod (Brüder Grimm)
+TTITLE4=Der Schatten (Hans Christian Andersen)
+TTITLE5=Der Schatten (Hans Christian Andersen)
+TTITLE6=Der Schatten (Hans Christian Andersen)
+TTITLE7=Der Schatten (Hans Christian Andersen)
+TTITLE8=Der Schatten (Hans Christian Andersen)
+TTITLE9=Der Schatten (Hans Christian Andersen)
+TTITLE10=Der Schatten (Hans Christian Andersen)
+TTITLE11=Der Schatten (Hans Christian Andersen)
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

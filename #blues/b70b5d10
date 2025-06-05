@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16095
+#     25172
+#     36147
+#     47925
+#     61115
+#     72337
+#     83492
+#     97517
+#     109965
+#     127010
+#     139725
+#     152332
+#     166830
+#     181110
+#     195107
+# 
+# Disc length: 2911 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b70b5d10
+DTITLE=The Rolling Stones - Rough, Dirty and Irresistible
+DYEAR=1900
+DGENRE=
+TTITLE0=It's All Over Now
+TTITLE1=If You Need Me
+TTITLE2=Confession The Blues
+TTITLE3=Carol
+TTITLE4=Mona
+TTITLE5=Around And Around
+TTITLE6=Off The Hook
+TTITLE7=Time Is On My Side
+TTITLE8=Carol
+TTITLE9=It's All Over Now
+TTITLE10=Little Red Rooster
+TTITLE11=Route 66
+TTITLE12=Everybody Needs Somebody To Love
+TTITLE13=The Last Time
+TTITLE14=I'm Alright
+TTITLE15=Hey Crawdaddy
+EXTD=
+EXTT0=\n
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

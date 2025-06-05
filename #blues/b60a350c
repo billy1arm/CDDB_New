@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13367
+#     32137
+#     47355
+#     61267
+#     73482
+#     89850
+#     112235
+#     123712
+#     137395
+#     154720
+#     171465
+# 
+# Disc length: 2615 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b60a350c
+DTITLE=Rocket 88s w/Big Jay McNeely - AZ Bootin'
+DYEAR=1900
+DGENRE=
+TTITLE0=Gila Moon
+TTITLE1=Zydeco Stroll
+TTITLE2=Summertime
+TTITLE3=Phoenix Hambone
+TTITLE4=All That Wine is Gone
+TTITLE5=Short on Bread
+TTITLE6=Young Girl Blues
+TTITLE7=Mercury Falling
+TTITLE8=Mean Man Blues
+TTITLE9=Camelback Drive
+TTITLE10=Beg Jay's Shuffle
+TTITLE11=Scooby-Doo Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

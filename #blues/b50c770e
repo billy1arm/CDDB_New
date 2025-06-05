@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14666
+#	31322
+#	42176
+#	63614
+#	86241
+#	101296
+#	122860
+#	149098
+#	158298
+#	176522
+#	190645
+#	206398
+#	226774
+#
+# Disc length: 3193 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b50c770e
+DTITLE=Jan Burian - Zrcadlo
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Na dovolene
+TTITLE1=Mravenci
+TTITLE2=Marie
+TTITLE3=Kompromisy
+TTITLE4=Jake to je?
+TTITLE5=Kamasutra
+TTITLE6=Poezie
+TTITLE7=Ziju
+TTITLE8=Strasidla
+TTITLE9=Fantazie
+TTITLE10=Soukroma zalezitost
+TTITLE11=Prestavka
+TTITLE12=Zrcadlo
+TTITLE13=Nanecisto
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

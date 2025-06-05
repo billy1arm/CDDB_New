@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19162
+#	34340
+#	50586
+#	67414
+#	86665
+#	96643
+#	117348
+#	130831
+#	144446
+#	163462
+#	177572
+#
+# Disc length: 2523 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=bd09d90c
+DTITLE=Nazca - Music from Bolivia
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Waritay
+TTITLE1=Bossa Andina
+TTITLE2=Anchata Munacuyqui
+TTITLE3=Nina Rosa
+TTITLE4=La Estrella Azul
+TTITLE5=Virhenes Del Sol
+TTITLE6=Pituco
+TTITLE7=El Guajojo
+TTITLE8=Puesta Del Sol
+TTITLE9=Yuraj Tikita
+TTITLE10=Nazca
+TTITLE11=La Vikina
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

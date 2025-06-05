@@ -1,0 +1,59 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32382
+#	46962
+#	65852
+#	83147
+#	105460
+#	126870
+#	146440
+#	165442
+#	184922
+#	204837
+#	227960
+#	249282
+#	272707
+#
+# Disc length: 3862 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b90f140e
+DTITLE=UFO - In Session And Live In Concert
+DYEAR=1999
+DGENRE=Hard Rock
+TTITLE0=Rock Bottom (In Session with Bob Harris 28/10/74)
+TTITLE1=Time On My Hands (In Session with Bob Harris 28/10/74)
+TTITLE2=Give Her The Gun (In Session with Bob Harris 28/10/74)
+TTITLE3=Too Hot To Handle (In Session with John Peel 17/6/77)
+TTITLE4=Lights Out (In Session with John Peel 17/6/77)
+TTITLE5=Try Me (In Session with John Peel 17/6/77)
+TTITLE6=Oh My (Live At The Hippodrome Recorded 6/6/74)
+TTITLE7=Built For Comfort (Live At The Hippodrome Recorded 6/6/74)
+TTITLE8=Space Child (Live At The Hippodrome Recorded 6/6/74)
+TTITLE9=Doctor Doctor (Live At The Hippodrome Recorded 6/6/74)
+TTITLE10=Let It Roll (Live At The Paris Theatre Recorded 11/12/75)
+TTITLE11=Mother Mary (Live At The Paris Theatre Recorded 11/12/75)
+TTITLE12=Out In The Street (Live At The Paris Theatre Recorded 11/12/75)
+TTITLE13=Shoot Shoot (Live At The Paris Theatre Recorded 11/12/75)
+EXTD=Track 1-3\nRecorded in Session with Bob Harris/28.10.1974\nTrack 4-6\nRecorded in Session with John Peel/27.6.1977\nTrack 7-10\nRecorded live at The Hippodrome/6.6.1974\nTrack 11-14\nRecorded live at The Paris Theatre/11.12.1975\n\nAll Tracks Digita
+EXTD=lly Remastered\n YEAR: 1999
+EXTT0=Bob Harris recorded 1974/01/10 transmitted 1974/10/28
+EXTT1=Bob Harris recorded 1974/01/10 transmitted 1974/10/28
+EXTT2=Bob Harris recorded 1974/01/10 transmitted 1974/10/28
+EXTT3=John Peel recorded 1977/06/01 transmitted 1977/06/17
+EXTT4=John Peel recorded 1977/06/01 transmitted 1977/06/17
+EXTT5=John Peel recorded 1977/06/01 transmitted 1977/06/17
+EXTT6=Live at the Hippodrome, Golders Green recorded 1974/06/06 transmitted 1974/06/15
+EXTT7=Live at the Hippodrome, Golders Green recorded 1974/06/06 transmitted 1974/06/15
+EXTT8=Live at the Hippodrome, Golders Green recorded 1974/06/06 transmitted 1974/06/15
+EXTT9=Live at the Hippodrome, Golders Green recorded 1974/06/06 transmitted 1974/06/15
+EXTT10=Live at The Paris Theatre, London recorded 1975/12/11
+EXTT11=Live at The Paris Theatre, London recorded 1975/12/11
+EXTT12=Live at The Paris Theatre, London recorded 1975/12/11
+EXTT13=Live at The Paris Theatre, London recorded 1975/12/11
+PLAYORDER=

@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	13806
+#	22818
+#	34457
+#	47640
+#	60276
+#	76707
+#	86202
+#	110560
+#	126573
+#	140204
+#	152673
+#	163924
+#	181857
+#
+# Disc length: 2677 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=b90a730e
+DTITLE=Various Artist - 0223 Soul Music
+DYEAR=1900
+DGENRE=
+TTITLE0=Sam e Dave - Soul Man
+TTITLE1=Ray Charles - Hit The Road Jack
+TTITLE2=Brook Benton - Kiddio
+TTITLE3=Bem E King - Stand By Me
+TTITLE4=Percy Sledge - When A Man Loves A Woman
+TTITLE5=Ray Charles - Georgia On My Mind
+TTITLE6=Sam Cooke - Wonderful World
+TTITLE7=Marvin Gaye - Let'S Get It On
+TTITLE8=James Brown - Sex Mchine
+TTITLE9=Sam e Dave - Gimme Some Lovin'
+TTITLE10=The Shirelles - Will You Love Me Tomorrow
+TTITLE11=Sam Cooke - Cupid
+TTITLE12=Otis Redding - Try A Little Tenderness
+TTITLE13=Ray Charles - I Can'T Stop Loving You
+EXTD=
+EXTT0=Played By Sam and Dave\nMusic by  Hayes-Porter
+EXTT1=Played by Ray Charles\nMusic by Mayfield
+EXTT2=Played by Brook Benton\nMusic by Benton/ Otis
+EXTT3=Played by Ben E. King\nMusic by King
+EXTT4=Played by Percy Sledge\nMusic by Lewis/ Wright
+EXTT5=Played by Ray Charles\nMusic by Gorell/ Carmichael
+EXTT6=Played by Sam Cooke\nMusic by Cooke/ Allpert/ Campbell
+EXTT7=Played by Marvin Gaye\nMusic by Towshend/  Gaye
+EXTT8=By James Brown
+EXTT9=Played by Sam and Dave\nBy Winwood/ Winwood/ Davis
+EXTT10=Played by The Shirelles\nMusic by Goffin/ King
+EXTT11=By Sam Cooke
+EXTT12=Played by Otis Redding\nMusic by Woods/ Capbell/ Connelly
+EXTT13=Played by  Ray Charles\nMusic by Gibson
+PLAYORDER=

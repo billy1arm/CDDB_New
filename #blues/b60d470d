@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21730
+#	39160
+#	55030
+#	79592
+#	97392
+#	114804
+#	135817
+#	156960
+#	177967
+#	200147
+#	220955
+#	239962
+#
+# Disc length: 3401 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,32,406
+#
+DISCID=b60d470d
+DTITLE=Strigy Bark McDowell - Sweet and Swampy
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Thank You Mr Burnside, have a nice day
+TTITLE1=Diddley Bits
+TTITLE2=Strange Fruit
+TTITLE3=No More Doggin'
+TTITLE4=Goin' Out West
+TTITLE5=Mississippi John Made Me Cry
+TTITLE6=Corrina
+TTITLE7=Visions
+TTITLE8=Hacksaw Baconfat
+TTITLE9=Canned Heat Blues
+TTITLE10=Minds in a Tangle
+TTITLE11=Special Little Friend
+TTITLE12=Amazing Grace
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

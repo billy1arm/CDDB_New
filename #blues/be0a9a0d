@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11412
+#	27337
+#	65191
+#	78173
+#	82368
+#	97137
+#	117560
+#	128097
+#	140278
+#	167991
+#	176869
+#	189698
+#
+# Disc length: 2716 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=be0a9a0d
+DTITLE=Terry Oldfield  - In Search Of Troian War
+DYEAR=1982
+DGENRE=New Age
+TTITLE0=01.trojan theme
+TTITLE1=02.mycenae
+TTITLE2=03.journey to war jump
+TTITLE3=04.troy
+TTITLE4=05.trojan theme
+TTITLE5=06.epitaph
+TTITLE6=07.helen's song
+TTITLE7=08.sea people 
+TTITLE8=09.nesas waspas
+TTITLE9=10.the hittites
+TTITLE10=11.boy on a bicycle
+TTITLE11=12.maji mengi 
+TTITLE12=13.leaving kinshasa
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

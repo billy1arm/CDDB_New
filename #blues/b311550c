@@ -1,0 +1,52 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	35724
+#	46447
+#	110082
+#	176310
+#	203172
+#	235388
+#	250293
+#	264347
+#	279611
+#	297322
+#	308744
+# Disc length: 4439 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=b311550c
+DTITLE=Arktis - More Arktis Tapes
+DYEAR=1900
+DGENRE=
+TTITLE0=Picture
+TTITLE1=Rare girl (slight return)
+TTITLE2=Stepping Ahead
+TTITLE3=Guitar emotion
+TTITLE4=Organ Growler
+TTITLE5=Highlands
+TTITLE6=Rollin' and Grumblin'
+TTITLE7=Proud and loud
+TTITLE8=Arktis Boogie
+TTITLE9=Space Walk
+TTITLE10=Let the music play
+TTITLE11=New Rock (live)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

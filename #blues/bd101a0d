@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24677
+#	51095
+#	86650
+#	113485
+#	132500
+#	156625
+#	174040
+#	195325
+#	221252
+#	238335
+#	259900
+#	284917
+#
+# Disc length: 4124 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bd101a0d
+DTITLE=Eric Clapton - Pilgrim
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=My Fathers's Eyes
+TTITLE1=Pilgrim
+TTITLE2=Broken Hearted
+TTITLE3=One Chance
+TTITLE4=Circus
+TTITLE5=Going Down Slow
+TTITLE6=Fall Like Rain
+TTITLE7=Borne In Time
+TTITLE8=Sick And Tired
+TTITLE9=Needs His Woman
+TTITLE10=She's Gone
+TTITLE11=You Were There
+TTITLE12=Inside Of Me
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

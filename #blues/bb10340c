@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25445
+#	48150
+#	68225
+#	94546
+#	115309
+#	145813
+#	159650
+#	199570
+#	224827
+#	253000
+#	284909
+#
+# Disc length: 4150 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=bb10340c
+DTITLE=Gary Moore - Blues Alive
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Cold Day In Hell
+TTITLE1=Walkin By Myself
+TTITLE2=Oh Pretty Woman
+TTITLE3=Separate Ways
+TTITLE4=Too Tired
+TTITLE5=Still Got The Blues
+TTITLE6=Since I Met You Baby
+TTITLE7=The Sky Is Crying
+TTITLE8=Further On Up The Road
+TTITLE9=King Of The Blues
+TTITLE10=Parisienne Walkaways
+TTITLE11=Jumpin' At Shadows
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

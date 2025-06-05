@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13347
+#     27542
+#     41637
+#     55002
+#     67950
+#     84200
+#     99637
+#     123050
+#     141250
+#     153917
+#     167357
+#     181117
+#     194922
+# 
+# Disc length: 2802 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b30af00e
+DTITLE=Muddy Waters - The Best Muddy Waters
+DYEAR=1900
+DGENRE=
+TTITLE0=Mannish Boy
+TTITLE1=Rollin' Stone
+TTITLE2=Screamin' And Cryin'
+TTITLE3=Walking Blues
+TTITLE4=I'm Your Hoochie Coochie Man
+TTITLE5=I'm Ready
+TTITLE6=Got My Mojo Working, part 1
+TTITLE7=Got My Mojo Working, part 2
+TTITLE8=Honey Bee
+TTITLE9=All Aboard
+TTITLE10=I Feel So Good
+TTITLE11=I Want You To Love Me
+TTITLE12=Baby, Please Don't Go
+TTITLE13=The Call Me Muddy Waters
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

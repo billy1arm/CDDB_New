@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11440
+#     28400
+#     39270
+#     52895
+#     62092
+#     76195
+#     85970
+#     104895
+#     116452
+#     129022
+#     140812
+#     154192
+#     162280
+# 
+# Disc length: 2336 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b1091e0e
+DTITLE=Diversos - 30 Anos Da Jovem Guarda-Vol.3
+DYEAR=1900
+DGENRE=
+TTITLE0=O Calhambeque
+TTITLE1=A Pra a
+TTITLE2=Diana
+TTITLE3=Pensando Nela
+TTITLE4=Baby Rock
+TTITLE5=Apache
+TTITLE6=Tijolinho
+TTITLE7=Eu Daria A Minha Vida
+TTITLE8=Vem Quente Que Eu Estou Querendo
+TTITLE9=Se Voc  Pensa
+TTITLE10=Prova De Fogo
+TTITLE11=Banho De Lua
+TTITLE12=Gasparzinho
+TTITLE13=Doce, Doce Amor
+EXTD=
+EXTT0=( Road Hog]\nCaetano Veloso ( Convidado Especial)
+EXTT1=Ronnie Von
+EXTT2=(Diana]\nCarlos Gonzaga
+EXTT3=(Bus Stop]\nGolden Boys
+EXTT4=(Baby Rock]\nTony Campello
+EXTT5=The Jet Blacks
+EXTT6=Bobby De Carlo
+EXTT7=Martinha
+EXTT8=Erasmo Carlos
+EXTT9=Renato E Seus Blue Caps
+EXTT10=Wanderl a
+EXTT11=(Tintarella Di Luna]\nSilvinha
+EXTT12=Trio Esperan a
+EXTT13=Jerry Adriani
+PLAYORDER=

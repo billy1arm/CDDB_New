@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12968
+#	28320
+#	49058
+#	64765
+#	75672
+#	106970
+#	123657
+#	146545
+#	154966
+#	173717
+#	186208
+#	195455
+#
+# Disc length: 2895 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=b00b4d0d
+DTITLE=Bob Dylan - The Freewheelin
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Blowin in the wind
+TTITLE1=Girl from the North Country
+TTITLE2=Masters of War
+TTITLE3=Down the Highway
+TTITLE4=Bob Dilan's Blues
+TTITLE5=A Hard rain's A-Gonna Fall
+TTITLE6=Don't think twice, It's all Right
+TTITLE7=Bob Dilan's Dream
+TTITLE8=Oxford Town
+TTITLE9=Talking world war III Blues
+TTITLE10=Corrine,Corrina
+TTITLE11=Honey, Just Allow me one more chance
+TTITLE12=I Shall Be Free
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

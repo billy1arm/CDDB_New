@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	200
+#	20000
+#	36442
+#	49870
+#	71157
+#	87515
+#	104170
+#	120742
+#	134767
+#	162370
+#	188750
+#	208867
+#
+# Disc length: 3026 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=bf0bd00c
+DTITLE=Shahbrack - 2 nd session
+DYEAR=1900
+DGENRE=
+TTITLE0=red house
+TTITLE1=f
+TTITLE2=talk to me baby
+TTITLE3=stardust
+TTITLE4=pay day street
+TTITLE5=cruel people
+TTITLE6=crossroad blues
+TTITLE7=talking woman blues
+TTITLE8=shut up and go
+TTITLE9=have you ever loved a woman
+TTITLE10=bad misery
+TTITLE11=2 nd session
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

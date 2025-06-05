@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40408
+#	56727
+#	75961
+#	103815
+#	118502
+#	143868
+#	168031
+#	187412
+#	207008
+#	241759
+#	261543
+#	293374
+#
+# Disc length: 4663 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b512350d
+DTITLE=Eumir Deodato - Best Of
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Also Sprach Zarathustra
+TTITLE1=Adam's Hotel
+TTITLE2=Yahiti Hut
+TTITLE3=Groovitation
+TTITLE4=O Morro Nao Tem Vez (The Hill)
+TTITLE5=Poupurri
+TTITLE6=Baubles, Bangles And Beads
+TTITLE7=Black Dog
+TTITLE8=Latin Flute
+TTITLE9=Whistle Bump
+TTITLE10=Speak Low
+TTITLE11=Bus Stop
+TTITLE12=Skyscrapers
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

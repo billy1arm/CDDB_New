@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15004
+#	27030
+#	45789
+#	64044
+#	90184
+#	107736
+#	124479
+#	138037
+#	153655
+#	166914
+#	176183
+#	194228
+#	212175
+#
+# Disc length: 3003 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b10bb90e
+DTITLE=Steely Dan - Beginnings
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Barrytown
+TTITLE1=Parker's Band
+TTITLE2=Don't Let Me In
+TTITLE3=Come Back Baby
+TTITLE4=Brooklyn (Owes The Charmer Under Me)
+TTITLE5=Any World (That I'm Welcome To)
+TTITLE6=Ida Lee
+TTITLE7=Let George Do It
+TTITLE8=The Mock Turtle Song
+TTITLE9=Brain Tap Shuffle
+TTITLE10=Soul Ram
+TTITLE11=Can't Function
+TTITLE12=Yellow Peril
+TTITLE13=Stone Piano
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

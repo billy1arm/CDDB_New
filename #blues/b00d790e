@@ -1,0 +1,60 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17315
+#	34192
+#	45475
+#	65585
+#	90220
+#	106937
+#	127922
+#	150495
+#	170380
+#	186340
+#	199170
+#	215862
+#	233907
+#
+# Disc length: 3451 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=b00d790e
+DTITLE=Famous Dave's Blues All-Stars - Butt Rockin' Blues Vol. 
+DTITLE=1
+DYEAR=1900
+DGENRE=
+TTITLE0=Mother-In-Law Blues
+TTITLE1=Red Beans
+TTITLE2=Okie Dokie Stomp
+TTITLE3=Homework
+TTITLE4=Blues In D Natural
+TTITLE5=Shakin' The Shack
+TTITLE6=Thrill Is Gone
+TTITLE7=You've Been An Angel
+TTITLE8=Last Night
+TTITLE9=Something You Got
+TTITLE10=Time I Go
+TTITLE11=Sick and Tired
+TTITLE12=One More Song
+TTITLE13=Oh Pretty Woman
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

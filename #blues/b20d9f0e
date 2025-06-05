@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	18303
+#	33895
+#	54608
+#	70345
+#	84318
+#	128985
+#	145195
+#	158628
+#	175078
+#	194375
+#	212108
+#	225755
+#	237373
+#
+# Disc length: 3489 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b20d9f0e
+DTITLE=Jimi Hendrix Experience - Rockstars In Concert
+DYEAR=1900
+DGENRE=Rock
+TTITLE0=Hey Joe
+TTITLE1=Foxy Lady
+TTITLE2=Purple Haze
+TTITLE3=Little Wing
+TTITLE4=Killing Floor
+TTITLE5=Voodoo Chile
+TTITLE6=Wild Thing
+TTITLE7=Fire
+TTITLE8=The Wind Cries Mary
+TTITLE9=Red House
+TTITLE10=Burning Of The Midnight Lamp
+TTITLE11=Star Spangled Banner
+TTITLE12=Can You See Mee
+TTITLE13=Spanish Castle Magic
+EXTD=
+EXTT0=Stockholm, September 5, 1967
+EXTT1=Stockholm, September 5, 1967
+EXTT2=Stockholm, September 5, 1967
+EXTT3=Paris, January 29, 1968
+EXTT4=Monterey Pop Festival, '67
+EXTT5=(Slight Return]\nStockholm, January 19, '69
+EXTT6=Monterey Pop Festival, '67
+EXTT7=Stockholm, September 5, 1967
+EXTT8=Stockholm, September 5, 1967
+EXTT9=Paris, January 29, 1968
+EXTT10=Stockholm, September 5, 1967
+EXTT11=Stockholm, January 19, '69
+EXTT12=Monterey Pop Festival, '67
+EXTT13=Stockholm, January 19, '69
+PLAYORDER=

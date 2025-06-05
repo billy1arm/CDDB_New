@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     190
+#     14082
+#     29987
+#     58015
+#     74597
+#     104935
+#     118957
+#     138167
+#     156665
+#     170885
+#     193682
+# 
+# Disc length: 2994 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=bd0bb00b
+DTITLE=Johnny Otis and His Orchestra - Spirit Of The Black Territory Bands
+DYEAR=1900
+DGENRE=
+TTITLE0=Swinging The Blues
+TTITLE1=Margie
+TTITLE2=You're Drivin' Me Crazy/Moten Swing
+TTITLE3=The Mooche
+TTITLE4=Flying Home
+TTITLE5=Harlem Nocturne
+TTITLE6=Jumpin' At The Woodside
+TTITLE7=Sophisticated Lady
+TTITLE8=Jumpin' The Blues
+TTITLE9=Creole Love Call
+TTITLE10=Rock-A-Bye Basie
+EXTD=
+EXTT0=(Count Basie]\n
+EXTT1=(Davis/Conrad/Robinson]\n
+EXTT2=(Walter Donaldson/Bernnie \nMoten/Buster Moten]\n
+EXTT3=(Duke Ellington/Ivring Mills]\n
+EXTT4=(Loinel Hampton/Benny Goodman/Sid \nRobin]\n
+EXTT5=(Earl Hagen]\n
+EXTT6=(Count Basie]\n
+EXTT7=(Duke Ellington/Mitchell Parish/Ivring \nMills]\n
+EXTT8=(McShann/Parker/Brown]\n
+EXTT9=(Duke Ellington]\n
+EXTT10=(Collins/Young/Basie]\n
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14092
+#     28395
+#     41720
+#     55282
+#     69737
+#     84102
+#     98860
+#     112325
+#     127490
+#     144487
+#     160060
+# 
+# Disc length: 2306 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b509000c
+DTITLE=Ray Conniff - I Love Movies
+DYEAR=1900
+DGENRE=
+TTITLE0=La Bamba
+TTITLE1=Streets of Philadelphia
+TTITLE2=Beauty And the Beast
+TTITLE3=Oh , Pretty Woman
+TTITLE4=Dream a Little Dream of Me
+TTITLE5=Star Wars
+TTITLE6=Colors of the Wind
+TTITLE7=Chariots of Fire
+TTITLE8=Can you read my mind?
+TTITLE9=Don't  Cry for me Argentina
+TTITLE10=Unchained Melody
+TTITLE11=Somewhere my Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

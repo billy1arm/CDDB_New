@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16969
+#	33843
+#	49905
+#	67230
+#	92450
+#	110866
+#	132089
+#	144336
+#	164863
+#	188133
+#	190345
+#	210593
+#
+# Disc length: 3088 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=be0c0e0d
+DTITLE=Paul Jarret - Songs from the Serious
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Sufferin' Sam
+TTITLE1=Clouds from Hell
+TTITLE2=Detox no. 9
+TTITLE3=Hate
+TTITLE4=Jack
+TTITLE5=Ty jsi mujsen (Czech for ' you are my dream')
+TTITLE6=Turkish Moon
+TTITLE7=Organ Grinder
+TTITLE8=Near Sited Angel
+TTITLE9=Leather Hearts
+TTITLE10=Under the Porch
+TTITLE11=Untitled1
+TTITLE12=Untitled2
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

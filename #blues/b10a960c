@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15723
+#	30528
+#	44499
+#	65562
+#	81858
+#	102634
+#	116590
+#	134330
+#	146594
+#	167242
+#	185903
+#
+# Disc length: 2712 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b10a960c
+DTITLE=MARCHAND GUY - A guy in blue
+DYEAR=2008
+DGENRE=Blues
+TTITLE0=Pauvre blanc
+TTITLE1=Maudit blues
+TTITLE2=Facile à s'en rappeler
+TTITLE3=Rideau de larmes
+TTITLE4=Dolorès
+TTITLE5=Finalement l'automne est arrivé
+TTITLE6=Si tu m'abandonnes
+TTITLE7=Fermé pour cause
+TTITLE8=Victime des circonstances
+TTITLE9=En flanant dans Paris
+TTITLE10=Musique
+TTITLE11=Mon héritage
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32942
+#	56823
+#	81086
+#	103315
+#	121764
+#	143327
+#	160844
+#	175745
+#	201368
+#	231479
+#	258929
+#	281486
+#
+# Disc length: 4096 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=b50ffe0d
+DTITLE=Sebastian Fitzek - Das Paket
+DYEAR=2016
+DGENRE=Blues
+TTITLE0=101
+TTITLE1=102
+TTITLE2=103
+TTITLE3=104
+TTITLE4=105
+TTITLE5=106
+TTITLE6=107
+TTITLE7=108
+TTITLE8=109
+TTITLE9=110
+TTITLE10=111
+TTITLE11=112
+TTITLE12=113
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

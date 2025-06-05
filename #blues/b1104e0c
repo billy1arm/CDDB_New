@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28140
+#	52501
+#	74272
+#	97027
+#	131273
+#	147525
+#	158975
+#	208086
+#	230884
+#	251678
+#	280082
+#
+# Disc length: 4176 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b1104e0c
+DTITLE=The Modern Jazz Quartet - 8 Classic Albums - CD4
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=Skating in Central Park
+TTITLE1=No Happiness for Slater
+TTITLE2=A Social Call
+TTITLE3=Cue No.9
+TTITLE4=A Cold Wind Is Blowing
+TTITLE5=Odds Against Tomorrow
+TTITLE6=Vendome
+TTITLE7=Pyramid
+TTITLE8=It Don't Mean a Thing
+TTITLE9=Django
+TTITLE10=How High the Moon
+TTITLE11=Romaine
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

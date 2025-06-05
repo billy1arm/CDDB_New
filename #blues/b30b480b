@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19395
+#	35800
+#	59132
+#	74827
+#	88147
+#	107985
+#	126267
+#	146930
+#	176595
+#	195085
+#
+# Disc length: 2890 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=b30b480b
+DTITLE=Rhythm Lords - Happy Hour
+DYEAR=1900
+DGENRE=
+TTITLE0=Voodoo Queen
+TTITLE1=Pay His Way
+TTITLE2=Happy Hour
+TTITLE3=The Bell Has Tolled
+TTITLE4=Down, Down, Down
+TTITLE5=You Got Me Wrong
+TTITLE6=Can't Deny the Past
+TTITLE7=Wait On Time
+TTITLE8=24 Hours
+TTITLE9=Made Up My Mind
+TTITLE10=Everything Is Broken
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

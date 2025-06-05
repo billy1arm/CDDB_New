@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14960
+#	24802
+#	35120
+#	51002
+#	63042
+#	78314
+#	91087
+#	103456
+#	119671
+#	129136
+#	146464
+#	157842
+#	171524
+#
+# Disc length: 2535 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=b509e50e
+DTITLE=Lagwagon - Blaze
+DYEAR=1900
+DGENRE=Punk
+TTITLE0=Burn
+TTITLE1=E Dagger
+TTITLE2=Dancing The Collapse
+TTITLE3=I Must Be Hateful
+TTITLE4=Falling Apart
+TTITLE5=Max Says
+TTITLE6=Billy Club
+TTITLE7=Dividers
+TTITLE8=Never Stops
+TTITLE9=Dinner and a Movie
+TTITLE10=Lullaby
+TTITLE11=Billionaire
+TTITLE12=Heartbreak
+TTITLE13=Baggage
+EXTD=\n\n
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

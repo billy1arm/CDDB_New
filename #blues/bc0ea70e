@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14615
+#	28712
+#	56848
+#	72816
+#	101421
+#	128366
+#	144809
+#	173832
+#	184354
+#	200332
+#	228549
+#	249969
+#	261887
+#
+# Disc length: 3753 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=bc0ea70e
+DTITLE=Cesaria Evora - Cabo Verde
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Tchintchirote
+TTITLE1=Sabine Larga'm
+TTITLE2=Partida
+TTITLE3=Sangre de Beirona
+TTITLE4=Apocalipse
+TTITLE5=Mar e Morada De Sodage
+TTITLE6=Bo e di meu Cretcheu
+TTITLE7=Coragem irmon
+TTITLE8=Quem bo e
+TTITLE9=Regresso
+TTITLE10=Zebra
+TTITLE11=Mae Velha
+TTITLE12=Pe di boi
+TTITLE13=Ess pais
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

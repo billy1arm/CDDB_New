@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51905
+#	83980
+#	108525
+#	123575
+#	146370
+#	167140
+#	189480
+#	200870
+#	221705
+#	252145
+#	270580
+#
+# Disc length: 4110 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b8100c0c
+DTITLE=Cannonball Adderley - Vol. 121,This Here Cannonball Adderley 1955 - 1959
+DYEAR=1955
+DGENRE=Jazz
+TTITLE0=This Here
+TTITLE1=Minority
+TTITLE2=St. Louis Blues
+TTITLE3=King Porter Stomp
+TTITLE4=What's New
+TTITLE5=Stay On It
+TTITLE6=A Little Taste
+TTITLE7=I'm Glad There Is You
+TTITLE8=Our Delight
+TTITLE9=Just One Of Those Things
+TTITLE10=Dancing In The Dark
+TTITLE11=One For Daddy-O
+EXTD=YEAR: 1955
+EXTT0=B. Timmons\n
+EXTT1=G. Gryce\n
+EXTT2=W.C. Handy\n
+EXTT3=J.R. Morton\n
+EXTT4=B.Haggart\n
+EXTT5=D. Gillespie, T. Dameron\n
+EXTT6=J&N Adderley\n
+EXTT7=Tommy Dorsey, Madeifa\n
+EXTT8=T. Dameron\n
+EXTT9=Cole Porter\n
+EXTT10=Schwartz - Dietz\n
+EXTT11=N. Adderley\n
+PLAYORDER=

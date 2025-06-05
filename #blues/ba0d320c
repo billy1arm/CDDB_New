@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23657
+#	43222
+#	65685
+#	85165
+#	109232
+#	122665
+#	143222
+#	163190
+#	187032
+#	215040
+#	239232
+#
+# Disc length: 3380 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=ba0d320c
+DTITLE=Andre Gagnon - The Very Best of Andre Gagnon CD2
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=Soirs D'ete
+TTITLE1=Chanson du Matin
+TTITLE2=Rumeurs
+TTITLE3=Les Faux Adieux
+TTITLE4=Love Theme
+TTITLE5=Flame
+TTITLE6=Premier Regard
+TTITLE7=Petite Tristesse
+TTITLE8=Un Beau Reve
+TTITLE9=Une Longue Absence
+TTITLE10=Retour En Arriere
+TTITLE11=La Vie Douce
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

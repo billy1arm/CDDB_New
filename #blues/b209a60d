@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14517
+#	30702
+#	42615
+#	55165
+#	67485
+#	79725
+#	93315
+#	112100
+#	122560
+#	127695
+#	152125
+#	169257
+#
+# Disc length: 2472 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30PlusFR
+#
+DISCID=b209a60d
+DTITLE=The Blues at NEWPORT - 1964 - Complete Edition - Disk 1
+DYEAR=1965
+DGENRE=Blues
+TTITLE0=Fred McDowell - Lord, i'm going down south
+TTITLE1=Fred McDowell - Highway 61
+TTITLE2=Fred McDowell - If the river was wiskey
+TTITLE3=Sleepy John Estes - Sleepy John's twist
+TTITLE4=Sleepy John Estes - Mailman Blues
+TTITLE5=Sleepy John Estes - Drop down mama
+TTITLE6=Sleepy John Estes - Clean up at home
+TTITLE7=Doc Reese - Old Hannah
+TTITLE8=Doc Reese - Hey rattler
+TTITLE9=Doc Reese - Oh my lord
+TTITLE10=Robert Pete Williams - Leeve Camp Blues
+TTITLE11=Robert Pete Williams - Oh my way from Texas
+TTITLE12=Robert Pete Williams - Midnight boogie
+EXTD=YEAR: 1965 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

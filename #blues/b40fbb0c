@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24095
+#	57270
+#	74960
+#	97759
+#	123052
+#	144086
+#	174398
+#	193499
+#	224751
+#	258116
+#	283408
+#
+# Disc length: 4029 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b40fbb0c
+DTITLE=Paul Lawler and Paul Speer - Wonders
+DYEAR=2009
+DGENRE=New Age
+TTITLE0=Krakatoa
+TTITLE1=Gobi
+TTITLE2=Denali
+TTITLE3=Ganges
+TTITLE4=Tahoma
+TTITLE5=Petra
+TTITLE6=Angkor Wat
+TTITLE7=Chaco
+TTITLE8=Zenobia Ruins
+TTITLE9=Amazonia
+TTITLE10=Tahoma Vox
+TTITLE11=Chaco Vox
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

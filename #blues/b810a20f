@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     22880
+#     41865
+#     63865
+#     84008
+#     106043
+#     125000
+#     144098
+#     165243
+#     191390
+#     210045
+#     231220
+#     253563
+#     274690
+#     296098
+# 
+# Disc length: 4260 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b810a20f
+DTITLE=Celine Dion - Let's talk about Love
+DYEAR=1900
+DGENRE=
+TTITLE0=The Reason
+TTITLE1=Immortality
+TTITLE2=Why oh why
+TTITLE3=Love is on the way
+TTITLE4=Tell him
+TTITLE5=Amar haciendoel amor
+TTITLE6=When I need you
+TTITLE7=Miles to go (before I sleep)
+TTITLE8=Us
+TTITLE9=Just a little bit of love
+TTITLE10=My heart will go on
+TTITLE11=Where is the love
+TTITLE12=Be the man
+TTITLE13=I hate you when I love you
+TTITLE14=Let's talk about love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=Duet with Barbara Streisand
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=love theme from 'Titanic'
+EXTT11=
+EXTT12=
+EXTT13=duet with Luciano Pavarotti
+EXTT14=
+PLAYORDER=

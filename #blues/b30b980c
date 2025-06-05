@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18642
+#     40077
+#     54795
+#     72930
+#     96447
+#     119385
+#     134787
+#     148165
+#     169892
+#     187655
+#     209482
+# 
+# Disc length: 2970 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b30b980c
+DTITLE=Royal Philharmonic - Broadway Extravaganza
+DYEAR=1900
+DGENRE=
+TTITLE0=The Race ( Starlight Express)
+TTITLE1=All I Ask Of You
+TTITLE2=Nothing Like You've Ever Known
+TTITLE3=Memnory
+TTITLE4=Come Rain or Come Shine/Ridin' On the Moon/Right asRain
+TTITLE5=A Sleepin' Bee/Paper mOON
+TTITLE6=lOVER
+TTITLE7=tHE bUTTERCUP wILLOW aFFAIR
+TTITLE8=Got a Right To Sing the Blues/Mood Indigo
+TTITLE9=Another Hundred People/Fidgety Feet
+TTITLE10=Anyone Can Whistle/Our Love Is Here To Stay
+TTITLE11=A Parade in Town/Strile Up The Band
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

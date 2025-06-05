@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20378
+#	44768
+#	69866
+#	97144
+#	119854
+#	140951
+#	190767
+#	201879
+#	219002
+#	241072
+#	272803
+#
+# Disc length: 3937 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b80f5f0c
+DTITLE=Christian Escoudé - Swing bohémien
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Nadine
+TTITLE1=Nina
+TTITLE2=La source de la vie
+TTITLE3=Bolero
+TTITLE4=Pretexte
+TTITLE5=Dialectique
+TTITLE6=Medley Django
+TTITLE7=Bal à Jo
+TTITLE8=Milou en Mai
+TTITLE9=Swing bohémien
+TTITLE10=Ou es-tu mon amour
+TTITLE11=Dorado swing
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

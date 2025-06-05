@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5716
+#	19973
+#	36210
+#	48652
+#	59282
+#	69357
+#	81320
+#	94571
+#	110922
+#	123115
+#	134341
+#	144441
+#
+# Disc length: 2162 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=b508700d
+DTITLE=Romana Kranjcan, Mojca in Kalicopko, Melita Osojnik, Carovnik Grega, Damjan Perne, PG Kranj - Uspavanke
+DYEAR=1999
+DGENRE=children
+TTITLE0=Uspavanka . Presernovo gledalisce Kranj
+TTITLE1=Zaspi - Romana Kranjcan
+TTITLE2=Vesolje - Melita Osojnik
+TTITLE3=Nina nana - Mojca in Kalicopko
+TTITLE4=Princeskina uspavanka - Damjan Perne
+TTITLE5=V macji dezeli - Melita Osojnik
+TTITLE6=Vsak ma rad - Presernovo gledalisce Kranj
+TTITLE7=Nina nana - Carovnik Grega
+TTITLE8=Spancek - Romana Kranjcan
+TTITLE9=Uspavanka za malcke - Melita Osojnik
+TTITLE10=Mirne sanje - Mojca in Kalicopko
+TTITLE11=Praznicna - Romana Kranjcan
+TTITLE12=Uspavanka - Carovnik Grega
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

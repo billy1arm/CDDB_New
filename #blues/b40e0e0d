@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8887
+#	29327
+#	50360
+#	69455
+#	101217
+#	128127
+#	153045
+#	167940
+#	197790
+#	212845
+#	236532
+#	251222
+#
+# Disc length: 3600 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b40e0e0d
+DTITLE=IndigoSpirit - Higher Octave Music
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Intro
+TTITLE1=Culture Clash
+TTITLE2=Lay Down
+TTITLE3=On the Road
+TTITLE4=Legends
+TTITLE5=NoMoreCotton~Interlude,To be a Slave
+TTITLE6=The Sun Won't Talk no More
+TTITLE7=Black Progress
+TTITLE8=Roots
+TTITLE9=Babes in the Juke House
+TTITLE10=Brownsville,Tennessee ~ To be aSlave#2
+TTITLE11=Slow and Easy
+TTITLE12=SonnetXVIII
+EXTD=more info\nMillenniumMusicProjectFormat, syntax as follows:\nTitle{Subtitle}[info](Lyricist;Composer;Date,Artist,Location)[info]\ncorrections to: windking3@yahoo.com YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

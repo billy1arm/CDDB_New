@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13764
+#	41910
+#	65184
+#	84321
+#	111021
+#	116232
+#	137666
+#	167438
+#	181575
+#	201573
+#	222581
+#
+# Disc length: 3085 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b10c0b0c
+DTITLE=Stephane Kerecki and John Taylor - Patience
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Prologue
+TTITLE1=Manarola
+TTITLE2=Patience
+TTITLE3=Kung Fu
+TTITLE4=Gary
+TTITLE5=Interlude
+TTITLE6=La Source
+TTITLE7=Valse Pour John
+TTITLE8=Bad Drummer
+TTITLE9=Jade Visions
+TTITLE10=Luminescence
+TTITLE11=Epilogue
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

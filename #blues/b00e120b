@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16435
+#	29765
+#	49482
+#	85152
+#	104540
+#	143375
+#	168605
+#	209790
+#	223972
+#	253952
+#
+# Disc length: 3604 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b00e120b
+DTITLE=Patrick Cohen - Antonio Soler  - Sonatas Completas II
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Sonata No.13 Allegro soffribile (Sol Mayor)
+TTITLE1=Sonata No.14 Allegro (Sol Mayor)
+TTITLE2=Sonata No.15 Allegretto (modo dorico)
+TTITLE3=Sonata No.16 Largo andante (Mib Mayor)
+TTITLE4=Sonata No.17 Allegro (Mib Mayor)
+TTITLE5=Sonata No.18 Cantabile (modo dorico)
+TTITLE6=Sonata No.19 Allegro moderato (modo dorico)
+TTITLE7=Sonata No.20 Andantino (do# menor)
+TTITLE8=Sonata No.21 Allegro (do# menor)
+TTITLE9=Sonata No.22 Cantabile (Reb Mayor)
+TTITLE10=Sonata No.23 Allegro (Reb Mayor)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

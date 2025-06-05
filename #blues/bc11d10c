@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49445
+#	71810
+#	97845
+#	127823
+#	156492
+#	178761
+#	218085
+#	239167
+#	263734
+#	292312
+#	312859
+#
+# Disc length: 4563 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bc11d10c
+DTITLE=Oliver Nelson - 8 Classic Albums CD3
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Screamin' the Blues
+TTITLE1=March On, March On
+TTITLE2=The Drive
+TTITLE3=The Meetin'
+TTITLE4=Three Seconds
+TTITLE5=Alto-itis
+TTITLE6=Stolen Moments
+TTITLE7=Hoe-Down
+TTITLE8=Cascades
+TTITLE9=Yearnin'
+TTITLE10=Butch and Butch
+TTITLE11=Teenie's Blues
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

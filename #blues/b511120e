@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20205
+#	52615
+#	77045
+#	100310
+#	127595
+#	155515
+#	171797
+#	192047
+#	218902
+#	234185
+#	267937
+#	281567
+#	305202
+#
+# Disc length: 4372 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=b511120e
+DTITLE=Stan Getz - Jazz At Storyville
+DYEAR=11951
+DGENRE=Jazz
+TTITLE0=Thou Swll
+TTITLE1=The Song Is You
+TTITLE2=Mosquito Knees
+TTITLE3=Pennies From Heaven
+TTITLE4=Move
+TTITLE5=Parker 51
+TTITLE6=Hershey Bar
+TTITLE7=Rubberneck
+TTITLE8=Signal
+TTITLE9=Everything Happens To Me
+TTITLE10=Jumping With Symphony Sid
+TTITLE11=Yesterdays
+TTITLE12=Badu
+TTITLE13=Wildwood
+EXTD=YEAR: 11951
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

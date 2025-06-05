@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15820
+#	35830
+#	50987
+#	64970
+#	84805
+#	103857
+#	116090
+#	130347
+#	149180
+#	163202
+#	181572
+#	193655
+#
+# Disc length: 2773 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=bd0ad30d
+DTITLE=Rond and Petits Patapons - Voyages Calins
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=Pérou
+TTITLE1=Antilles
+TTITLE2=Celtes
+TTITLE3=India
+TTITLE4=Dauphin
+TTITLE5=Brésil
+TTITLE6=France
+TTITLE7=Espace
+TTITLE8=Sioux
+TTITLE9=Chinois
+TTITLE10=Africa
+TTITLE11=Méditéranée
+TTITLE12=Music Box
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

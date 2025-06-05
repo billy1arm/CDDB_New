@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+#
+# Track frame offsets:
+#	150
+#	14112
+#	29030
+#	42866
+#	57457
+#	69632
+#	81458
+#	93223
+#	104444
+#	121613
+#	134166
+#	147763
+#
+# Disc length: 2144
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CoolCD_Studio 1.4
+#
+DISCID=b2085e0c
+DTITLE=Unknown Artist - Unknown Title
+DYEAR=1900
+DGENRE=
+TTITLE0=Title 01
+TTITLE1=Title 02
+TTITLE2=Title 03
+TTITLE3=Title 04
+TTITLE4=Title 05
+TTITLE5=Title 06
+TTITLE6=Title 07
+TTITLE7=Title 08
+TTITLE8=Title 09
+TTITLE9=Title 10
+TTITLE10=Title 11
+TTITLE11=Title 12
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

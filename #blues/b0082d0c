@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 13502
+# 27627
+# 42412
+# 54737
+# 68132
+# 80522
+# 92760
+# 104477
+# 118112
+# 131205
+# 143957
+#
+# Disc length: 2095 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1d1
+#
+DISCID=b0082d0c
+DTITLE=Muddy Waters - The Real Folk Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Mannish Boy
+TTITLE1=Screamin' And Cryin'
+TTITLE2=Just To Be With You
+TTITLE3=Walking In The park
+TTITLE4=Walking Blues
+TTITLE5=Canary Bird
+TTITLE6=Same Thing
+TTITLE7=Gypsy Woman
+TTITLE8=Rollin' and Tumblin'
+TTITLE9=40 Days And Forty Nights
+TTITLE10=Little Geneva
+TTITLE11=You Can't Lose What You Never Had
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19992
+#	35005
+#	46980
+#	80290
+#	114460
+#	131672
+#	153122
+#	160887
+#	197245
+#	215100
+#	232215
+#	259987
+#
+# Disc length: 3675 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b90e590d
+DTITLE=ローランド・バティック - ハイドン：ピアノ・ソナタ全集(?)
+DYEAR=1998
+DGENRE=Classical
+TTITLE0=ピアノ・ソナタ ホ短調 Hob.XVI：47 I..Larghetto
+TTITLE1=ピアノ・ソナタ ホ短調 Hob.XVI：47 ?.Allegro
+TTITLE2=ピアノ・ソナタ ホ短調 Hob.XVI：47 ?.FINALE
+TTITLE3=ピアノ・ソナタ 変ホ長調 Hob.XVI：45 ?.Moderato
+TTITLE4=ピアノ・ソナタ 変ホ長調 Hob.XVI：45 ?.Andante
+TTITLE5=ピアノ・ソナタ 変ホ長調 Hob.XVI：45 ?.FINALE:Allegro di molto
+TTITLE6=ピアノ・ソナタ ニ長調 Hob.XVI：51 ?.Andante
+TTITLE7=ピアノ・ソナタ ニ長調 Hob.XVI：51 ?.FINALE: Presto
+TTITLE8=ピアノ・ソナタ ハ長調 Hob.XVI：48 ?.Andante
+TTITLE9=ピアノ・ソナタ ハ長調 Hob.XVI：48 ?.RONDO: Presto
+TTITLE10=ピアノ・ソナタ ホ短調 Hob.XVI：34 I..Presto
+TTITLE11=ピアノ・ソナタ ホ短調 Hob.XVI：34 ?.Adagio
+TTITLE12=ピアノ・ソナタ ホ短調 Hob.XVI：34 ?.Vivace molto
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

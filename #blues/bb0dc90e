@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17550
+#	32025
+#	48300
+#	69450
+#	82275
+#	98100
+#	113400
+#	129750
+#	145200
+#	155625
+#	172200
+#	198375
+#	245400
+#
+# Disc length: 3531 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: freeDBTagger 0.8.2.1
+#
+DISCID=bb0dc90e
+DTITLE=Paul McCartney - McCartney II
+DYEAR=1980
+DGENRE=rock
+TTITLE0=Coming Up
+TTITLE1=Temporary Secretary
+TTITLE2=On the Way
+TTITLE3=Waterfalls
+TTITLE4=Nobody Knows
+TTITLE5=Front Parlour
+TTITLE6=Summer`s Day Song
+TTITLE7=Frozen Jap
+TTITLE8=Bogey Music
+TTITLE9=Darkroom
+TTITLE10=One Of These Days
+TTITLE11=Check My Machine
+TTITLE12=Secret Friend
+TTITLE13=Goodnight Tonight
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

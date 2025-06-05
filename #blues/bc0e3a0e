@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14127
+#	27962
+#	40637
+#	64162
+#	89700
+#	109000
+#	146312
+#	164795
+#	188000
+#	202550
+#	219112
+#	235300
+#	248887
+#
+# Disc length: 3644 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bc0e3a0e
+DTITLE=Various Artist - Blue Note Tokyo We love jazz disc2
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Day tripper
+TTITLE1=Garota de ipanema
+TTITLE2=Bossa na Praia
+TTITLE3=Soul Sauce
+TTITLE4=Caymmis
+TTITLE5=Somos Todos iguais nesta noite
+TTITLE6=Chicken
+TTITLE7=Dance the night away with you
+TTITLE8=I'm still waiting
+TTITLE9=Each and everyone
+TTITLE10=Mystic voyage
+TTITLE11=I just wanna stop
+TTITLE12=Bang, Bang
+TTITLE13=Boozer
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

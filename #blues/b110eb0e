@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3941
+#	28987
+#	50541
+#	83061
+#	105309
+#	135876
+#	158942
+#	186320
+#	210285
+#	232933
+#	251245
+#	277951
+#	304440
+#
+# Disc length: 4333 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=b110eb0e
+DTITLE=Indochine - Black City Parade
+DYEAR=2013
+DGENRE=Pop Rock
+TTITLE0=Black Ouverture
+TTITLE1=Black City Parade
+TTITLE2=College Boy
+TTITLE3=Memoria
+TTITLE4=Le Fond De L'Air Est Rouge
+TTITLE5=Wuppertal
+TTITLE6=Le Messie
+TTITLE7=Belfast
+TTITLE8=Traffic Girl
+TTITLE9=Thea Sonata
+TTITLE10=Anyway
+TTITLE11=Nous Demain
+TTITLE12=Kill Nico
+TTITLE13=Europane Ou Le Dernier Bal
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=
