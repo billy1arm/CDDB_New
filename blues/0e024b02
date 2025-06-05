@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19132
+#
+# Disc length: 589 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0e024b02
+DTITLE=Depeche Mode - A Pain That I'm Used To [CD Bong 36]
+DYEAR=2005
+DGENRE=Synthpop
+TTITLE0=A Pain That I'm Used To
+TTITLE1=Newborn
+EXTD=YEAR: 2005
+EXTT0=CDBong 36,0094634918121
+EXTT1=
+PLAYORDER=

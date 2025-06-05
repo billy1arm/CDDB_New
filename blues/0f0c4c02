@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	121187
+#
+# Disc length: 3150 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0f0c4c02
+DTITLE=Miles Davis - A Tribute to Jack Johnson
+DYEAR=1971
+DGENRE=Jazz
+TTITLE0=Right Off
+TTITLE1=Yesternow
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+PLAYORDER=

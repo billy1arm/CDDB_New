@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#     150
+#     23625
+#
+# Disc length: 575 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Clarion 0.9.2
+#
+DISCID=0b023d02
+DTITLE=Janet Jackson - Got 'TIL IT'S GONE
+DYEAR=1900
+DGENRE=
+TTITLE0=Mellow Mix
+TTITLE1=Nelle Hooper Master Mix
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

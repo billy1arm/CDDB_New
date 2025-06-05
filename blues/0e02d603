@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15901
+#	39041
+#
+# Disc length: 728 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0e02d603
+DTITLE=Janet and Nelly - Call On Me Single
+DYEAR=2006
+DGENRE=R&B
+TTITLE0=Call On Me (Album Mix)
+TTITLE1=Call On Me (Extended Album Mix)
+TTITLE2=Call On Me (Album Instrumental)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

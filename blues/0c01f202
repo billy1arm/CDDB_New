@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16975
+#
+# Disc length: 500 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0c01f202
+DTITLE=Zazie - Un petit peu amoureux [CD single]
+DYEAR=1992
+DGENRE=Chanson
+TTITLE0=Un petit peu amoureux (edit radio)
+TTITLE1=Toi le cow boy, moi l'indien
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+PLAYORDER=

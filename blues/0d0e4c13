@@ -1,0 +1,74 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  1045
+#  19647
+#  33535
+#  43877
+#  58047
+#  66872
+#  82037
+#  101550
+#  120657
+#  141280
+#  152865
+#  163620
+#  175360
+#  193295
+#  210280
+#  221292
+#  240582
+#  252675
+#
+# Disc length: 3662 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=0d0e4c13
+DTITLE=Various Artist - 93's Dee Jay's Choice
+DYEAR=1900
+DGENRE=
+TTITLE0=Intro
+TTITLE1=Stealing the night
+TTITLE2=Wonderful
+TTITLE3=Superstar
+TTITLE4=Show me love
+TTITLE5=It's alright
+TTITLE6=Shake your body
+TTITLE7=Be my lover
+TTITLE8=Don't leave me this way
+TTITLE9=You make me feel good
+TTITLE10=Get away
+TTITLE11=Sweet love baby
+TTITLE12=You
+TTITLE13=Feel the magic
+TTITLE14=Save me
+TTITLE15=Come to me now
+TTITLE16=Before the night
+TTITLE17=It's start time
+TTITLE18=Heaven
+EXTD=Musicor\nFT-CD-2-1334
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

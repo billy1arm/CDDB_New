@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21135
+#
+# Disc length: 558 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=0d022c02
+DTITLE=郵政省簡易保険局・ＮＨＫ制定 - みんなの体操（ラジオ体操 第３）
+DYEAR=1999
+DGENRE=Dance
+TTITLE0=みんなの体操（号令あり）
+TTITLE1=みんなの体操（号令なし）
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+PLAYORDER=

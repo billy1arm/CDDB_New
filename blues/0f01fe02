@@ -1,0 +1,23 @@
+# xmcd
+# Copyright (c) 1998 CDDB Inc.
+#
+# Track frame offsets:
+#	182
+#	19920
+#
+# Disc length: 512 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.70
+#
+DISCID=0f01fe02
+DTITLE=Whitney Houston - Heartbreak Hotel
+DYEAR=1900
+DGENRE=
+TTITLE0=Heartbreak Hotel
+TTITLE1=Heartbreak Hotel
+EXTD=2 titres (Feat. Faith Evans and Kelly Price)
+EXTT0=Dance Mix\n\n
+EXTT1=Original Radio Mix
+PLAYORDER=

@@ -1,0 +1,229 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	3761
+#	8440
+#	13561
+#	18184
+#	22915
+#	27744
+#	33065
+#	37695
+#	42017
+#	46933
+#	51748
+#	55419
+#	60065
+#	65663
+#	70707
+#	75008
+#	78461
+#	82972
+#	87393
+#	92129
+#	95797
+#	100158
+#	104909
+#	111715
+#	116330
+#	120954
+#	125811
+#	130213
+#	134484
+#	141074
+#	145693
+#	152025
+#	156555
+#	161122
+#	165570
+#	171691
+#	174357
+#	178396
+#	182373
+#	186872
+#	191534
+#	195065
+#	199297
+#	204850
+#	209909
+#	214072
+#	218732
+#	224352
+#	230590
+#	234936
+#	240524
+#	249586
+#	254449
+#	260281
+#	263485
+#	267159
+#	272094
+#	276583
+#	281249
+#	285989
+#	290722
+#	294767
+#	301382
+#	306171
+#	310431
+#	313986
+#	317878
+#	322898
+#	328342
+#	332452
+#
+# Disc length: 4509 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: EZCDAudioConverter 3.1.7.1
+#
+DISCID=0d119b47
+DTITLE=Zdzisław Pałczyński - Głosy Ptaków Polski
+DYEAR=2003
+DGENRE=Vocal
+TTITLE0=Jemiołuszka (Bombycilla garrulus)
+TTITLE1=Strzyżyk (Troglodytes troglodytes)
+TTITLE2=Pokrzywnica (Orunella modularis)
+TTITLE3=Rudzik (Erithacus rubecula)
+TTITLE4=Słowik szary (Luscinia luscinia)
+TTITLE5=Słowik rdzawy (Luscinia magarhynchos)
+TTITLE6=Podróżniczek (Luscinia svecica)
+TTITLE7=Kopciuszek (Phoenicurus ochruros)
+TTITLE8=Pleszka (Phoenicurus phoenicurus)
+TTITLE9=Pokląskwa (Saxicola rubetra)
+TTITLE10=Kos (Turdus merula)
+TTITLE11=Kwiczoł (Turdus pilaris)
+TTITLE12=Spiewak (Turdus philomelos) 
+TTITLE13=Drozdzik (Turdus iliacus)
+TTITLE14=Paszkot (Turdus viscivorus)
+TTITLE15=Swierszczak (Locustella naevia)
+TTITLE16=Strumieniówka (Locustella fluviatilis)
+TTITLE17=Brzêczka (Locustella luscinioides)
+TTITLE18=Wodniczka (Acrocephalus paludicola)
+TTITLE19=Rokitniczka (Acrocephalus schoenobaenus) 
+TTITLE20=Łozówka (Acrocephalus palustris)
+TTITLE21=Trzcinniczek (Acrocephalus scipaceus)
+TTITLE22=Trzciniak (Acrocephalus arundinaceus)
+TTITLE23=Zaganiacz (Hippolais icterina)
+TTITLE24=Jarzębatka (Sylvia nisoria)
+TTITLE25=Piegża (Sylvia curruca)
+TTITLE26=Cierniówka (Sylvia communis)
+TTITLE27=Gajówka (Sylvia borin)
+TTITLE28=Kapturka (Sylvia atricapilla)
+TTITLE29=Swistunka (Phylloscopus sibilatrix)
+TTITLE30=Pierwiosnek (Phylloscopus collybita)
+TTITLE31=Piecuszek (Phylloscopus trochilus)
+TTITLE32=Mysikrólik (Regulus regulus)
+TTITLE33=Muchołówka mała (Fidecula parva)
+TTITLE34=Muchołówka białoszyja (Fidecula albicollis)
+TTITLE35=Muchołówka żałobna (Fidecula hypoleuca)
+TTITLE36=Wąsatka (Panurus biarmicus)
+TTITLE37=Raniuszek (Aegithalos caudatus)
+TTITLE38=Sikora uboga (Parus palustris)
+TTITLE39=Czarnogłówka (Parus montanus)
+TTITLE40=Czubatka (Parus cristatus)
+TTITLE41=Sosnówka (Parus ater)
+TTITLE42=Modraszka (Parus caeruleus)
+TTITLE43=Bogatka (Parus major)
+TTITLE44=Kowalik (Sitta europaea)
+TTITLE45=Pełzacz lesny (certhia familiaris)
+TTITLE46=Pełzacz ogrodowy (Certhia brachydactyla)
+TTITLE47=Remiz (Remiz pendulinus)
+TTITLE48=Wilga (Oriolus oriolus)
+TTITLE49=Gąsiorek (Lanius collurio)
+TTITLE50=Srokosz (Lanius excubitor)
+TTITLE51=Sójka (Garrulus glandarius)
+TTITLE52=Sroka (Pica pica)
+TTITLE53=Gawron (Corvus frugileus)
+TTITLE54=Wrona siwa (Corvus corone cornix)
+TTITLE55=Kruk (Corvus corax)
+TTITLE56=Szpak (Sturnus vulgaris)
+TTITLE57=Wróbel (Passer domesticus)
+TTITLE58=Zięba (Fringilla coelebs)
+TTITLE59=Kulczyk (Serinus serinus)
+TTITLE60=Dzwoniec (Carduelis chloris)
+TTITLE61=Szczygieł (Carduelis carduelis)
+TTITLE62=Czyż (Carduelis spinus)
+TTITLE63=Makolągwa (Carduelis cannabina)
+TTITLE64=Dziwonia (Carpodacus erythrinus)
+TTITLE65=Gil (Pyrrhula pyrhulla)
+TTITLE66=Grubodziób (Coccothraustes coccothraustes
+TTITLE67=Trznadel (Emberiza citrinella)
+TTITLE68=Ortolan (Emberiza hortulana)
+TTITLE69=Potrzos (Emberiza schoeniclus)
+TTITLE70=Potrzeszcz (Miliaria calandra)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+PLAYORDER=

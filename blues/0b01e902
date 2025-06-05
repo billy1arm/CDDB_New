@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	17580
+#
+# Disc length: 491 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40PlusFr
+#
+DISCID=0b01e902
+DTITLE=Claude Naga - Bilimbi
+DYEAR=1900
+DGENRE=Latin
+TTITLE0=Claude Naga - Thoumalaka 
+TTITLE1=Claude Naga - Défoulé
+EXTD=ID3G: 86
+EXTT0=
+EXTT1=
+PLAYORDER=

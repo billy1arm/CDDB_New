@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9261
+#	22343
+#	38189
+#	55617
+#	66697
+#	80914
+#	88152
+#	103116
+#	110182
+#	132382
+#	145980
+#	155840
+#	174537
+#	199602
+#	206393
+#	224860
+#
+# Disc length: 3183 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0e0c6d11
+DTITLE=François Couturier, François Méchali and François Laizeau - Musica Callada (inspirée de Federico Mompou)
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Musica Callada 1
+TTITLE1=Variation 1
+TTITLE2=Impresiones intimas 1
+TTITLE3=Musica Callada X
+TTITLE4=Variation 2
+TTITLE5=Variation 3
+TTITLE6=Variation 4
+TTITLE7=Cancion y danza III
+TTITLE8=Palmier d'étoiles
+TTITLE9=Cancion y danza VII
+TTITLE10=Lamentation
+TTITLE11=Jardin secret
+TTITLE12=Musica Callada XXV
+TTITLE13=Cancion y danza IX
+TTITLE14=Jeux
+TTITLE15=Septième prélude
+TTITLE16=Musica Callada XXVIII
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

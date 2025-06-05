@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20459
+#	35532
+#	50060
+#	64415
+#	76604
+#	94359
+#	111079
+#	118705
+#	127156
+#	139927
+#	164817
+#	188411
+#	194181
+#	208710
+#	225853
+#	235881
+#	260094
+#
+# Disc length: 4268 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0d10aa12
+DTITLE=S.D.K.Special - 対決!!Falcom80X
+DYEAR=2001
+DGENRE=Game
+TTITLE0=Kings-Tower. - MOON SPACE (惑星面)
+TTITLE1=Kings-Tower. - PROMINENCE (プロミネンス)
+TTITLE2=Kings-Tower. - INTO THE FORTRESS (要塞突入)
+TTITLE3=高瀬 裕司 - 予感 =スティクス=
+TTITLE4=高瀬 裕司 - 運命の塔
+TTITLE5=高瀬 裕司 - 最強の敵
+TTITLE6=Teko - ロマンシアオープニング
+TTITLE7=Teko - ロマンシア王国
+TTITLE8=Teko - アルゾバ王国
+TTITLE9=H.K - フォルナ
+TTITLE10=H.K - 精霊の塔
+TTITLE11=H.K - 風の紋章
+TTITLE12=mobius - アジタカーハ
+TTITLE13=mobius - ガドビスタル
+TTITLE14=mobius - ステージクリア
+TTITLE15=Teko - ノルティアの氷壁 メインBGM
+TTITLE16=H.K - レアの詩
+TTITLE17=DATA TRACK
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

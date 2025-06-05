@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19820
+#	36027
+#	52892
+#	69345
+#	85815
+#	103195
+#	119427
+#	140410
+#	152922
+#	164092
+#	179012
+#	195322
+#	210692
+#	230672
+#	245940
+#	260340
+#	272885
+#
+# Disc length: 3879 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=0b0f2512
+DTITLE=Al Cook - The Country Blues
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Big Fat Mama
+TTITLE1=Crap Game Blues
+TTITLE2=Have You Ecver Loved A Woman
+TTITLE3=Lonesome Frisco Blues
+TTITLE4=My Baby Gone Dead On Me
+TTITLE5=Shake That Boogie
+TTITLE6=Teddy Bear Blues
+TTITLE7=Taxman On My Trail
+TTITLE8=Myrtle Beach Rag
+TTITLE9=Blue River Blues
+TTITLE10=Lemon Tree Blues
+TTITLE11=Good Morning Blues
+TTITLE12=The Blues Singer's Lament
+TTITLE13=House Rent Blues
+TTITLE14=God Can Help You
+TTITLE15=Blowtop Blues
+TTITLE16=Slavin' Mama Blues
+TTITLE17=Bobo's Boogie
+EXTD=YEAR: 2001 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25237
+#	36472
+#	62860
+#	73597
+#	83472
+#	102780
+#	116640
+#	131702
+#	144562
+#	162517
+#	171487
+#	180700
+#	192445
+#	212985
+#	216312
+#	237452
+#
+# Disc length: 3555 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0a0de111
+DTITLE=Mary Lou Willimas - My Mama Pinned a Rose on Me
+DYEAR=1977
+DGENRE=Blues
+TTITLE0=01 The Blues
+TTITLE1=02 N.G. Blues
+TTITLE2=03 Dirge Blues
+TTITLE3=04 Baby Bear Boogie
+TTITLE4=05 Turtle Speed Blues
+TTITLE5=06 Blues for Peter
+TTITLE6=07 My Mama Pinned a Rose on Me
+TTITLE7=08 Prelude to Prism
+TTITLE8=09 Prism
+TTITLE9=10 What's Your Story Morning Glory
+TTITLE10=11 Prelude to Love Roots
+TTITLE11=12 Love Roots
+TTITLE12=13 Rhythmic Pattern
+TTITLE13=14 J.B.'s Waltz
+TTITLE14=15 The Blues
+TTITLE15=16 No Title Blues
+TTITLE16=17 SLO-O-GISM
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

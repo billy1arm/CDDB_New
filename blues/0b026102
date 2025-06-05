@@ -1,0 +1,24 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# Generated: Sun Jul 19 12:30:55 1998 by KSCD
+# 
+# Track frame offsets:
+#       150
+#       23002
+#
+# Disc length: 611 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Kscd 0.8.0
+#
+DISCID=0b026102
+DTITLE=Boyz II Men - A Song For Mama
+DYEAR=1900
+DGENRE=
+TTITLE0=LP Version
+TTITLE1=Instrumental
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16257
+#	20503
+#	40455
+#	57582
+#	73684
+#	85271
+#	101462
+#	115658
+#	131113
+#	146049
+#	155097
+#	170327
+#	182716
+#	197381
+#	206641
+#	213022
+#	227844
+#	249310
+#
+# Disc length: 3502 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0b0dac13
+DTITLE=John Balke - Book of velocities
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Chapter 1: Giada
+TTITLE1=Scintilla
+TTITLE2=Spread
+TTITLE3=Castello
+TTITLE4=Reslilence
+TTITLE5=Chapter 2: Single Line
+TTITLE6=Nyl
+TTITLE7=Double Line
+TTITLE8=Chapter 3: Obsidian
+TTITLE9=Sunday Shapes
+TTITLE10=Gum Bounce
+TTITLE11=Finger Bass
+TTITLE12=Contrivance
+TTITLE13=Chapter 4: Drape Hangar
+TTITLE14=Septima Llegada
+TTITLE15=Reel Set
+TTITLE16=Scrim Stand
+TTITLE17=Chapter 5: Sonance
+TTITLE18=Nefruit
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

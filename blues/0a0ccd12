@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	12957
+#	25150
+#	38640
+#	50657
+#	61145
+#	74215
+#	85475
+#	105865
+#	116020
+#	127370
+#	141745
+#	159680
+#	170515
+#	190210
+#	202552
+#	221522
+#	236005
+#
+# Disc length: 3279 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=0a0ccd12
+DTITLE=Artistes divers - Original Blues
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Muddy Waters - I'm your hoochie coochie man
+TTITLE1=Little Walter - My babe
+TTITLE2=Koko Taylor - Wang dang doodle
+TTITLE3=Howlin'Wolf - Built for comfort
+TTITLE4=Menphis Slim - Having fun
+TTITLE5=Muddy Waters - Mannish boy
+TTITLE6=BB King - Tickle britches
+TTITLE7=Champion Jack Dupree - In the evening
+TTITLE8=Chuck Berry - Menphis Tennessee
+TTITLE9=Sonny Boy Williamson - Your funeral my trial
+TTITLE10=Otis Rush - So many roads, so many trains
+TTITLE11=John Lee Hooker - Wednesday evening blues
+TTITLE12=Lightnin'Hopkins - What did i say
+TTITLE13=Little Milton - Stormy monday
+TTITLE14=Chuck Berry - No particular place to go
+TTITLE15=Etta James - Baby what you want me to do
+TTITLE16=Big Bill Broonzy - Romance without finance
+TTITLE17=Buddy Guy - First time i met the blues
+EXTD=YEAR: 2001  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

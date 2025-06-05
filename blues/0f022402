@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20606
+#
+# Disc length: 550 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=0f022402
+DTITLE=Limp Bizkit - My Way US CD Single
+DYEAR=2001
+DGENRE=Alternative
+TTITLE0=My Way (William Orbit Remix)
+TTITLE1=My Way (DJ Premier Remix)
+EXTD=YEAR: 2001 ID3G: 20
+EXTT0=
+EXTT1=
+PLAYORDER=

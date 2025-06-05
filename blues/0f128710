@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21188
+#	73938
+#	93150
+#	112188
+#	127413
+#	147575
+#	201225
+#	216138
+#	231688
+#	253138
+#	264838
+#	281113
+#	311838
+#	326538
+#	340863
+#
+# Disc length: 4745 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0f128710
+DTITLE=BBC Concert Orchestra - Gamba - Gordon Langford's Orchestral Classics
+DYEAR=2003
+DGENRE=Orchestral
+TTITLE0=Fanfare and Ceremonial Prelude - Allegretto con spirito - Maestoso - Più mosso
+TTITLE1=Concertino for Trumpet and Orchestra - Risoluto - Poco meno mosso - Tempo I - Andante - Allegro vivo
+TTITLE2=Four Movements for String Orchestra -I- Allegretto con moto - [Sempre con moto] - A tempo I
+TTITLE3=Four Movements for String Orchestra -II- Andante
+TTITLE4=Four Movements for String Orchestra -III- Tempo di minuetto - Trio
+TTITLE5=Four Movements for String Orchestra -IV- Allegro moderato
+TTITLE6=A song for all seasons - A fantasie for piano and orchestra: Non troppo - Meno mosso - Tempo I - Meno mosso - Tempo I
+TTITLE7=First suite of dances -I- Rectangular Dance. Allegro vivo
+TTITLE8=First suite of dances -II- Waltz. Moderato con moto - Tempo di valse
+TTITLE9=First suite of dances -III- Tango. Andante con moto - Poco agitato - Meno mosso - Tempo I - Meno mosso
+TTITLE10=First suite of dances -IV- Gigue. Allegro vivace
+TTITLE11=Greenways. Andante grazioso - Più agitato - Tempo I
+TTITLE12=Spirit of London Overture - Allegro vivo - Moderato con moto - Poco agitato - A tempo (Moderato) - Tempo I
+TTITLE13=The Hippodrome Waltz - Tempo di valse - Poco più mosso
+TTITLE14=Pastorale from 'Colour Suite' - Slowly and gently - poco agitato - A tempo (tranquillo) - Con moto - A tempo
+TTITLE15=March from 'Colour Suite' - Moderato
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

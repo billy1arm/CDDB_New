@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16280
+#
+# Disc length: 226 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=0c00e002
+DTITLE=Shannon Curfman - True Friends
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=True Friends (Radio Mix)
+TTITLE1=Call Out Research Hook
+EXTD=YEAR: 1999 ID3G:   0
+EXTT0=
+EXTT1=
+PLAYORDER=

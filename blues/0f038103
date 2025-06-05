@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22725
+#	45075
+#
+# Disc length: 899 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0f038103
+DTITLE=Chieri - TSUBASA
+DYEAR=1998
+DGENRE=J-Pop
+TTITLE0=TSUBASA
+TTITLE1=Sign
+TTITLE2=TSUBASA(without vox)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

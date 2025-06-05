@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14507
+#	32621
+#	56681
+#	70513
+#	82715
+#	106117
+#	120094
+#	131558
+#	146823
+#	160100
+#	170852
+#	183241
+#	197731
+#	212158
+#	230610
+#	245212
+#	259289
+#	271991
+#
+# Disc length: 3801 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0b0ed713
+DTITLE=Charlie Parker - Bir's Nest
+DYEAR=1950
+DGENRE=Blues
+TTITLE0=A night in Tunisia
+TTITLE1=Dizzy atmosphere
+TTITLE2=Groovin' high
+TTITLE3=Ornithology
+TTITLE4=Yardbird suite
+TTITLE5=Moose the mooche - Lullaby of birdland
+TTITLE6=The gypsy
+TTITLE7=Max making wax
+TTITLE8=Loverman
+TTITLE9=Bebop
+TTITLE10=Cool blues
+TTITLE11=Bird's nest
+TTITLE12=Dark shadows
+TTITLE13=This is always
+TTITLE14=Out of nowhere
+TTITLE15=My old flame
+TTITLE16=Klact-oveededs-teine
+TTITLE17=Don't blame me
+TTITLE18=Bird feathers
+EXTD=YEAR: 1950
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

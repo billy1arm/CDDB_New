@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18456
+#	40530
+#	58954
+#	76075
+#	93279
+#	109807
+#	132715
+#	150635
+#	167984
+#	189726
+#	211498
+#	232593
+#	249583
+#	264204
+#	279281
+#	298816
+#	314040
+#	331814
+#
+# Disc length: 4665 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0c123713
+DTITLE=Peter Ind e.a - 9 Classic Albums
+DYEAR=2013
+DGENRE=Jazz
+TTITLE0=Take Me in Your Arms
+TTITLE1=Dear Old Stockholm
+TTITLE2=Billie's Bounce
+TTITLE3=I'll Remember April
+TTITLE4=Lady Bird
+TTITLE5=Mad About the Boy
+TTITLE6=Ain't Misbehavin'
+TTITLE7=These Foolish Things
+TTITLE8=Jeepers Creepers
+TTITLE9=The Moon Was Yellow
+TTITLE10=Gone With the Wind
+TTITLE11=After Hours
+TTITLE12=The Squirrel
+TTITLE13=We'll Be Together Again
+TTITLE14=Horacio
+TTITLE15=I Married an Angel
+TTITLE16=Moonlight in Vermont
+TTITLE17=Star Eyes
+TTITLE18=If I Had You
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

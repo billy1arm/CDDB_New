@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17480
+#
+# Disc length: 460 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0a01ca02
+DTITLE=KIA - 't sniejewt in den diepvries
+DYEAR=1997
+DGENRE=Nederlands
+TTITLE0='t sniejewt
+TTITLE1='t sniejewt - karaoke versie
+EXTD=YEAR: 1997
+EXTT0=Rock versie\n
+EXTT1=House versie\n
+PLAYORDER=

@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     22815
+#     44520
+#     59222
+#     74912
+#     89362
+#     104142
+#     125652
+#     139565
+#     157195
+#     170075
+#     183530
+#     197337
+#     209200
+#     222490
+#     236890
+# 
+# Disc length: 3303 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=0f0ce510
+DTITLE=Josh White and Big Bill Broonzy - The Roots of the Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Ridin' On Down
+TTITLE1=Feelin' Lowdown
+TTITLE2=Baby, Please Don't Go
+TTITLE3=In the Evenin'
+TTITLE4=All I Got Belongs To You
+TTITLE5=Treat Everybody Right
+TTITLE6=I Got Up One Mornin' Blues
+TTITLE7=See See Rider
+TTITLE8=Bon Bon's
+TTITLE9=What I want From You
+TTITLE10=Git Along Home Cindy
+TTITLE11=So Soon
+TTITLE12=Green Corn
+TTITLE13=Bury Me High
+TTITLE14=Evil Hearted Me
+TTITLE15=Go Away From My Window
+EXTD=
+EXTT0=Big Bill Broonzy\n
+EXTT1=Big Bill Broonzy\n
+EXTT2=Big Bill Broonzy\n
+EXTT3=Big Bill Broonzy\n
+EXTT4=Big Bill Broonzy\n
+EXTT5=Big Bill Broonzy\n
+EXTT6=Big Bill Broonzy\n
+EXTT7=Big Bill Broonzy\n\n\n
+EXTT8=Josh White\n
+EXTT9=Josh White\n
+EXTT10=Josh White\n
+EXTT11=Josh White\n
+EXTT12=Josh White\n
+EXTT13=Josh White\n
+EXTT14=Josh White\n
+EXTT15=Josh White\n
+PLAYORDER=

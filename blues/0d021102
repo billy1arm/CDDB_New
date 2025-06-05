@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18430
+# 
+# Disc length: 531 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=0d021102
+DTITLE=John Lee Hooker - Chill Out (Things Gonna Change)
+DYEAR=1900
+DGENRE=
+TTITLE0=Chill Out
+TTITLE1=Chill Out (Edit)
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

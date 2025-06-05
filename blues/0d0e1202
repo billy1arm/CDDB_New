@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	135220
+#
+# Disc length: 3604 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0d0e1202
+DTITLE=Kelly Howell - Deep Meditation
+DYEAR=1997
+DGENRE=Meditative
+TTITLE0=Meditation 1
+TTITLE1=Meditation 2
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+PLAYORDER=

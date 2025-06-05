@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10750
+#
+# Disc length: 267 seconds
+#
+# Revision: 15
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=0a010902
+DTITLE=Simon and Garfunkel - A HAZY SHADE OF WINTER/冬の散歩道
+DYEAR=1963
+DGENRE=Classic Rock
+TTITLE0=A HAZY SHADE OF WINTER/冬の散歩道
+TTITLE1=FOR EMILY,WHENEVER I MAY FIND HER
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+PLAYORDER=
