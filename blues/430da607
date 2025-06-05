@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38288
+#	79249
+#	121345
+#	150230
+#	180552
+#	217796
+#
+# Disc length: 3496 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=430da607
+DTITLE=Wolfgang Hohlbein - Dunkel CD 2
+DYEAR=1999
+DGENRE=Hörbuch
+TTITLE0=Dunkel 2-08
+TTITLE1=Dunkel 2-09
+TTITLE2=Dunkel 2-10
+TTITLE3=Dunkel 2-11
+TTITLE4=Dunkel 2-12
+TTITLE5=Dunkel 2-13
+TTITLE6=Dunkel 2-14
+EXTD=gelesen von Monty Arnold YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

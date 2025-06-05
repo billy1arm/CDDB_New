@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	71012
+#	97962
+#	141350
+#	177450
+#
+# Disc length: 2609 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=450a2f05
+DTITLE=Hossam Ramzy - Best of Baladi and Saaidi CD II
+DYEAR=1997
+DGENRE=Ethnic
+TTITLE0=Elmalek...Farouq
+TTITLE1=Wahda Wahda
+TTITLE2=Bamba Kash-Shar
+TTITLE3=Gid-Aan Haretna
+TTITLE4=Eshta
+EXTD=YEAR: 1997 ID3G: 48
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

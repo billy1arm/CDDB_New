@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4384
+#	71859
+#	143375
+#	209561
+#
+# Disc length: 3456 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=470d7e05
+DTITLE=KVHW - 99-07-31 Disc2
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=tuning-
+TTITLE1=Spring Water
+TTITLE2=Point Of No Return
+TTITLE3=Youre The One
+TTITLE4=My Favorite Things
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

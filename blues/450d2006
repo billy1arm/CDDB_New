@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	77296
+#	86008
+#	110961
+#	199510
+#	251024
+#
+# Disc length: 3362 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=450d2006
+DTITLE=Jean-Luc Ponty - Waving Memories - Live in Chicago
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Waving Memories
+TTITLE1=Band Intros
+TTITLE2=Question With No Answer
+TTITLE3=Bowing Bowing
+TTITLE4=Fight For Life
+TTITLE5=Announcer Outro
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

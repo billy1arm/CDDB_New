@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41858
+#	89522
+#	213274
+#	244680
+#
+# Disc length: 3655 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=400e4505
+DTITLE=Mick Taylor - The All Star Blues Band [CD2)
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=Little wing
+TTITLE1=Blind willie mc tell
+TTITLE2=Can't you hear me knocking
+TTITLE3=Laundromat blues
+TTITLE4=Little red rroster
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

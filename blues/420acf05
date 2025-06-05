@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33355
+#	66444
+#	118175
+#	169077
+#
+# Disc length: 2769 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=420acf05
+DTITLE=Rouse, Charlie - Two is one
+DYEAR=1974
+DGENRE=Jazz
+TTITLE0=Bitchin'
+TTITLE1=Hopscotch
+TTITLE2=In a funky way
+TTITLE3=Two is one
+TTITLE4=In his presence searching
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

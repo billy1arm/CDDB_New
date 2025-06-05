@@ -1,0 +1,82 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11303
+#	23844
+#	36659
+#	47567
+#	58234
+#	68921
+#	80805
+#	89298
+#	98144
+#	108310
+#	119752
+#	131045
+#	143709
+#	156583
+#	167616
+#	178517
+#	189398
+#	201277
+#	209923
+#	219005
+#	240578
+#
+# Disc length: 3565 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=440deb16
+DTITLE=Romane - Impair and Valse
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Soir de Dispute
+TTITLE1=La Valse des Niglos
+TTITLE2=La Gitane
+TTITLE3=Mintch Valse
+TTITLE4=Swing Valse
+TTITLE5=Passion
+TTITLE6=Mystérieuse
+TTITLE7=Dolores
+TTITLE8=Montagne Sainte Geneviève
+TTITLE9=La Camarde
+TTITLE10=La Folle
+TTITLE11=Soir de Dispute (playback)
+TTITLE12=La Valse des Niglos (playback)
+TTITLE13=La Gitane (playback)
+TTITLE14=Mintch Valse (playback)
+TTITLE15=Swing Valse (playback)
+TTITLE16=Passion (playback)
+TTITLE17=Mystérieuse (playback)
+TTITLE18=Dolores (playback)
+TTITLE19=Montagne Saint Geneviève (playback)
+TTITLE20=La Camarde (playback)
+TTITLE21=PisteDonnées 22
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

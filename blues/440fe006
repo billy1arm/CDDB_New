@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28265
+#	118110
+#	188108
+#	249187
+#	300336
+#
+# Disc length: 4066 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.99.1
+#
+DISCID=440fe006
+DTITLE=Gillespie, Dizzy (1917-1993) - Dizzy Gillespie 1973 - Live at Ronnie Scott's, Vol. 4
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=I Told You So
+TTITLE1=Kush
+TTITLE2=Summertime
+TTITLE3=Alligator
+TTITLE4=Mike's Samba
+TTITLE5=Bye
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

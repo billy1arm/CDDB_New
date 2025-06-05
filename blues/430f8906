@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	38377
+#	89627
+#	159895
+#	206260
+#	253360
+#
+# Disc length: 3979 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=430f8906
+DTITLE=Wess/Coltrane/Quinichette - Wheelin' And Dealin'
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Things Ain't What They Used To Be
+TTITLE1=Wheelin' (Take 2)
+TTITLE2=Robbins' Nest
+TTITLE3=Dealin' (Take 2)
+TTITLE4=Wheelin' (Take 1)
+TTITLE5=Dealin' (Take 1)
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

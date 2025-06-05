@@ -1,0 +1,82 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	13630
+#	26475
+#	41202
+#	55690
+#	69847
+#	84972
+#	98920
+#	109167
+#	124400
+#	140545
+#	155390
+#	169657
+#	181625
+#	196492
+#	209632
+#	224025
+#	234175
+#	248430
+#	262222
+#	275720
+#	290927
+#
+# Disc length: 4082 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=480ff016
+DTITLE=Various Artist - The Big Band Era [Charly #15, 1995] [CD3] [Jumpin' for Joy]
+DYEAR=1938
+DGENRE=Jazz
+TTITLE0=Jump Steady
+TTITLE1=Second Balcony Jump
+TTITLE2=John Silver
+TTITLE3=All of Me
+TTITLE4=Jumpin' at the Woodside
+TTITLE5=Harvard Blues
+TTITLE6=Aunt Hagar's Blues
+TTITLE7=Jeepers Creepers
+TTITLE8=Moonlight Serenade
+TTITLE9=In the Mood
+TTITLE10=At the Woodchopper's Ball
+TTITLE11=Who Dat Up Dere?
+TTITLE12=No Soap (A Jitterbug Jamboree)
+TTITLE13=Tuxedo Junction
+TTITLE14=Ain't I Good to You
+TTITLE15=Chant of the Weed
+TTITLE16=Traffic Jam
+TTITLE17=Oh! Lady Be Good
+TTITLE18=Jumpin' for Joy
+TTITLE19=Wham (Re-Bop-Boom-Bam)
+TTITLE20=Cherokee
+TTITLE21=Strollin'
+EXTD=YEAR: 1938
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

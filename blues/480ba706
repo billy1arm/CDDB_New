@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33555
+#	88475
+#	113645
+#	142575
+#	182000
+#
+# Disc length: 2985 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=480ba706
+DTITLE=Stan Getz - The Jazz Masters - 100 ans de Jazz
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Autumn Leaves
+TTITLE1=Billie's Bounce
+TTITLE2=Lady Day
+TTITLE3=Heart Place
+TTITLE4=Kali-au
+TTITLE5=Chappaqua
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

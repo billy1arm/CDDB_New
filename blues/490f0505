@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	73200
+#	115350
+#	173250
+#	222675
+#
+# Disc length: 3847 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=490f0505
+DTITLE=Jürgen Wuchner - Juergen Wuchner Quintet
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Overture
+TTITLE1=Agga
+TTITLE2=Dhakar Dance
+TTITLE3=Jitterbug Walz
+TTITLE4=145
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

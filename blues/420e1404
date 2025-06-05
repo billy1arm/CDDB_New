@@ -1,0 +1,29 @@
+# xmcd
+#
+# Track frame offsets:
+# 150
+# 171951
+# 217478
+# 259485
+#
+# Disc length: 3606 seconds
+#
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.945 
+#
+DISCID=420e1404
+DTITLE=eufrasio - aula
+DYEAR=2006
+DGENRE=historia
+TTITLE0=historia1
+TTITLE1=historia2
+TTITLE2=historia3
+TTITLE3=historia4
+EXTD=revisoes para o vestibular
+EXTT0=
+EXTT1=historia2
+EXTT2=historia3
+EXTT3=historia4
+PLAYORDER=

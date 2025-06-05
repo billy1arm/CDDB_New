@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8680
+#	56002
+#	114348
+#	168378
+#	211489
+#
+# Disc length: 3321 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=470cf706
+DTITLE=Egberto Gismonti - Live at Berlin Jazzbühne
+DYEAR=1984
+DGENRE=Jazz
+TTITLE0=Gismonti, Vasconcelos - Em Familia
+TTITLE1=Gismonti, Vasconcelos - Danca das Cabecas
+TTITLE2=Gismonti, Vasconcelos - O Berimbao
+TTITLE3=Gismonti, Vasconcelos - Selva Amazonica
+TTITLE4=Gismonti, Vasconcelos - Corpo/Salvador
+TTITLE5=Gismonti, Vasconcelos - Danca Solitarie No1
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

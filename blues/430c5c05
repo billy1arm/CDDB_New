@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47747
+#	104561
+#	145561
+#	191831
+#
+# Disc length: 3166 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=430c5c05
+DTITLE=Johann Strauss - Valses célèbres  [CD 2-2]
+DYEAR=1900
+DGENRE=Valses
+TTITLE0=Vie d'artiste  [Alfred Scholz, Vienna Opera Orchestra]
+TTITLE1=Légendes de la forêt viennoise
+TTITLE2=Là ou fleurissent les citronniers
+TTITLE3=Journaux du matin
+TTITLE4=Tournoyez par millions
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

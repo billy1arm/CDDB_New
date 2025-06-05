@@ -1,0 +1,36 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  187
+#  38035
+#  73930
+#  109137
+#  168067
+#  204960
+#
+# Disc length: 3128 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.24
+#
+DISCID=490c3606
+DTITLE=Sandor - Joo - Budapest Philharmonic Orchestra - Mendelssohn/Bruch
+DTITLE=Violin Concertos
+DYEAR=1900
+DGENRE=
+TTITLE0=Violin Concerto No. 1 in G minor - Vorspiel
+TTITLE1=Adagio
+TTITLE2=Finale: Allegro Energico
+TTITLE3=Violin Concerto in E minor - Allegro Molto Appassionato
+TTITLE4=Andante
+TTITLE5=Allegro non Troppo - Allegro Molto Vivace
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

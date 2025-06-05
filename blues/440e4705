@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49179
+#	106232
+#	149538
+#	213158
+#
+# Disc length: 3657 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=440e4705
+DTITLE=Chick Corea - The New Crystal Silence
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Duende
+TTITLE1=Love Castle
+TTITLE2=Brasilia
+TTITLE3=Crystal Silence
+TTITLE4=La Fiesta
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

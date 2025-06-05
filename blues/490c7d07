@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	26624
+#	66074
+#	79952
+#	98472
+#	160502
+#	214574
+#
+# Disc length: 3199 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=490c7d07
+DTITLE=Mozart - Symphony No.35 in D major K 385
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=01-Allegro con spirito
+TTITLE1=02-Andante
+TTITLE2=03-Menuetto
+TTITLE3=04-Finale - Presto
+TTITLE4=01-Adagio-Allegro
+TTITLE5=02-Andante
+TTITLE6=03-Finale - Presto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

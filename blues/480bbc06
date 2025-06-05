@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50765
+#	82610
+#	103902
+#	146362
+#	184057
+#
+# Disc length: 3006 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=480bbc06
+DTITLE=Michel Petrucciani - Pianism
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=The Prayer
+TTITLE1=Our Tune
+TTITLE2=Face's Face
+TTITLE3=Night And Day
+TTITLE4=Here's That Rainy Day
+TTITLE5=Regina
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

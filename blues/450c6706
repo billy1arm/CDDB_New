@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	77935
+#	108087
+#	166200
+#	180492
+#	224342
+#
+# Disc length: 3177 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=450c6706
+DTITLE=Dave Brubeck Quartet - Aufgenommen am 17.11.2004 im Limelight, Köln(2|2)
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Dave Brubeck Quartet - Yesterdays
+TTITLE1=Dave Brubeck Quartet - Elegy
+TTITLE2=Dave Brubeck Quartet - Take Five
+TTITLE3=Dave Brubeck Quartet - The Basie Band Is Back In Town
+TTITLE4=Dave Brubeck Quartet - St.Louis Blues
+TTITLE5=Dave Brubeck Quartet - I'm In A Dancing Mood
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

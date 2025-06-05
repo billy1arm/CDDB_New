@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	66347
+#	86447
+#	112797
+#	154770
+#	219137
+#
+# Disc length: 3607 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=410e1506
+DTITLE=Detroit SO - Dorati - Fibich Symphonies
+DYEAR=1993
+DGENRE=Orchestral
+TTITLE0=Symphony No.1 in F Op.17 -I- Allegro moderato
+TTITLE1=Symphony No.1 in F Op.17 -II- Scherzo
+TTITLE2=Symphony No.1 in F Op.17 -III- Adagio non troppo
+TTITLE3=Symphony No.1 in F Op.17 -IV- Finale
+TTITLE4=Ma Vlast - Vysehrad: Allegro vivo ma non agitato - Lento ma non troppo
+TTITLE5=Ma Vlast - Vltava: Allegro commodo non agitato
+EXTD=Chandos YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

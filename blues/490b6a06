@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	61400
+#	86568
+#	111771
+#	157203
+#	183839
+#
+# Disc length: 2924 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=490b6a06
+DTITLE=Jan Garbarek - Dis
+DYEAR=1977
+DGENRE=Jazz
+TTITLE0=Vandere
+TTITLE1=Krusning
+TTITLE2=Viddene
+TTITLE3=Skygger
+TTITLE4=Yr
+TTITLE5=Dis
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

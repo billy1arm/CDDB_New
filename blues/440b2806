@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5421
+#	70775
+#	114761
+#	186003
+#	209305
+#
+# Disc length: 2858 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=440b2806
+DTITLE=Simon Goubert - Désormais Disc 2
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=intro
+TTITLE1=65bis
+TTITLE2=Rêve de singe
+TTITLE3=After the wind has gone
+TTITLE4=Cinq minutes plus tard
+TTITLE5=conclusion
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

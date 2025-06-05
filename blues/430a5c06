@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31908
+#	64013
+#	99548
+#	132821
+#	166180
+#
+# Disc length: 2654 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=430a5c06
+DTITLE=Peter White - Music For Starlux Airlines
+DYEAR=2019
+DGENRE=Jazz
+TTITLE0=Flying High
+TTITLE1=Island Getaway
+TTITLE2=Peaceful
+TTITLE3=Fun In The Sun
+TTITLE4=Adventure
+TTITLE5=Homeward Bound
+EXTD=YEAR: 2019
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

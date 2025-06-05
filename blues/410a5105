@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42230
+#	99451
+#	137879
+#	175442
+#
+# Disc length: 2643 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=410a5105
+DTITLE=Peter King - Hi Fly
+DYEAR=1984
+DGENRE=Jazz
+TTITLE0=Blues for S.J.
+TTITLE1=Hi Fly
+TTITLE2=Star Eyes
+TTITLE3=Old Folks
+TTITLE4=Seven Steps to Heaven
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

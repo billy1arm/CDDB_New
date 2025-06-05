@@ -1,0 +1,35 @@
+# xmcd
+#
+# Track frame offsets:
+# 150
+# 38480
+# 64141
+# 89508
+# 131452
+# 165940
+#
+# Disc length: 2724 seconds
+#
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.53 
+#
+DISCID=410aa206
+DTITLE=Bob Dylan - The never ending tour 2
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=I and I
+TTITLE1=The times they are a changing
+TTITLE2=Highway 61 Revisited
+TTITLE3=Ballad of a thin man
+TTITLE4=Everything is broken
+TTITLE5=It ain't me babe
+EXTD=live
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

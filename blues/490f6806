@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	52988
+#	95813
+#	184688
+#	226613
+#	268913
+#
+# Disc length: 3946 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=490f6806
+DTITLE=ZEK3 - ZEK ! – A Piano Trio only plays the music of Led Zeppelin - Disc1
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=Friends
+TTITLE1=The Song Remains the Same
+TTITLE2=Moby Dick
+TTITLE3=The Rain Song
+TTITLE4=Four Sticks
+TTITLE5=Immigrant Song
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

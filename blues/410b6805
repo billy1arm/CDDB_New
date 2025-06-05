@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50244
+#	104392
+#	142985
+#	196717
+#
+# Disc length: 2922 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=410b6805
+DTITLE=Thelonious Monk - Live in Paris Volume 1
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Thelonious Monk - Four In One
+TTITLE1=Thelonious Monk - I'm Getting Sentimental Over You
+TTITLE2=Thelonious Monk - Straight No Chaser
+TTITLE3=Thelonious Monk - Well You Needn't
+TTITLE4=Thelonious Monk - Epistrophy
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43961
+#	91234
+#	163232
+#	215397
+#
+# Disc length: 3596 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=410e0a05
+DTITLE=Chick Corea - Blue Note, New York City, Dec 2001 [2|2]
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Chick Corea - Crystal Silence
+TTITLE1=Chick Corea - Matrix
+TTITLE2=Chick Corea - Glass Encounter - Tempus Fugit
+TTITLE3=Chick Corea - Quartet No.2, Part I
+TTITLE4=Chick Corea - Armando's Tango
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

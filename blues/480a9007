@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9327
+#	61937
+#	98026
+#	129665
+#	161544
+#	188267
+#
+# Disc length: 2706 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=480a9007
+DTITLE=Cannonball Adderley - In New York
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Introduction - By Cannonball
+TTITLE1=Gemini
+TTITLE2=Planet Earth
+TTITLE3=Dizzy's Business
+TTITLE4=Syn-athesia
+TTITLE5=Scotch and Water
+TTITLE6=Cannon's Theme
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

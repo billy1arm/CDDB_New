@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	30360
+#	57863
+#	88918
+#	125568
+#	159373
+#
+# Disc length: 2663 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=430a6506
+DTITLE=Herbie Hancock - Hancock!
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=Bird House
+TTITLE1=Mr. Lucky
+TTITLE2=Day Dreams
+TTITLE3=Curro`s
+TTITLE4=It`s A Beautifull Evening
+TTITLE5=Out Of This World
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

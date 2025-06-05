@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48550
+#	86799
+#	143051
+#	222923
+#
+# Disc length: 3927 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 7
+#
+DISCID=460f5505
+DTITLE=Thomas Eje - MusiCure 6 - Waves
+DYEAR=2006
+DGENRE=New Age
+TTITLE0=The Coral Reef
+TTITLE1=Ocean Echoes
+TTITLE2=Upstream
+TTITLE3=The Cave
+TTITLE4=Forest Brook
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

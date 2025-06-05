@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23351
+#	52321
+#	88277
+#	125515
+#	158271
+#
+# Disc length: 2632 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=420a4606
+DTITLE=Tony O Connor - Zodiac Collection Leo
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=Leo 1
+TTITLE1=Leo  2
+TTITLE2=Leo  3
+TTITLE3=Leo 4
+TTITLE4=Leo 5
+TTITLE5=Leo 6
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

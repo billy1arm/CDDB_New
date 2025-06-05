@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	79132
+#	118568
+#	171920
+#	208321
+#
+# Disc length: 3366 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=410d2405
+DTITLE=JOHN FOXX - The Quiet Man
+DYEAR=2009
+DGENRE=New Age
+TTITLE0=The Quiet Man
+TTITLE1=A Man Made Of Shadows
+TTITLE2=Cathedral Oceans
+TTITLE3=The Grey Suit
+TTITLE4=Shifting City
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

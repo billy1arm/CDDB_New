@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33000
+#	54835
+#	92501
+#	135924
+#	161042
+#	195607
+#
+# Disc length: 3008 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=480bbe07
+DTITLE=Wayne Shorter - The Soothsayer
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Lost
+TTITLE1=Angola
+TTITLE2=The Big Push
+TTITLE3=The Soothsayer
+TTITLE4=Lady Day
+TTITLE5=Valse Triste
+TTITLE6=Angola (Alternate Take)
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

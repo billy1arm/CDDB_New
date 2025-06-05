@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	74162
+#	97405
+#	143773
+#
+# Disc length: 2708 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=400a9204
+DTITLE=Amalgam - Over The Rainbow
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Wimbleton Music I
+TTITLE1=Wimbleton Music II
+TTITLE2=Wimbleton Music III
+TTITLE3=Wimbleton Music IV
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

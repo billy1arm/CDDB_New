@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	53325
+#	80100
+#	127950
+#	219675
+#	256575
+#
+# Disc length: 3800 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=480ed606
+DTITLE=Hu Zhihou - Music Of The Guanzi
+DYEAR=1995
+DGENRE=Folk (Etnic)
+TTITLE0=Yan Luo Sha Tan
+TTITLE1=San Bao Fe (
+TTITLE2=Hu Jia Shi Ba Puo
+TTITLE3=Da Cheng Jing (
+TTITLE4=Wu Ye Ti 
+TTITLE5=Yang Guan San Die 
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

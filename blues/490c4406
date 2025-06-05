@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49085
+#	84428
+#	126381
+#	143719
+#	180992
+#
+# Disc length: 3142 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=490c4406
+DTITLE=Jean Pierre Como - L'âme soeur
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Arabesque
+TTITLE1=Noces de papillon
+TTITLE2=Riccordo
+TTITLE3=L'Ame soeur - Dialogue
+TTITLE4=L'Ame soeur - Espoir
+TTITLE5=L'Ame soeur - L'adieu
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22892
+#	46600
+#	78395
+#	101305
+#	129997
+#	184040
+#
+# Disc length: 2771 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=420ad107
+DTITLE=Earl Hines - One For My Baby
+DYEAR=1974
+DGENRE=Jazz
+TTITLE0=It's Only A Paper Moon
+TTITLE1=One For My Baby
+TTITLE2=Ill Wind
+TTITLE3=Blues In The Night
+TTITLE4=Stormy Weather
+TTITLE5=I've Got A Right To Sing The Blues
+TTITLE6=As Long As I Live
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

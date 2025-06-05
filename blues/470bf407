@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31587
+#	69155
+#	88955
+#	128375
+#	169025
+#	195237
+#
+# Disc length: 3062 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=470bf407
+DTITLE=ホルスト - #46 ホルスト：組曲「惑星」
+DYEAR=1988
+DGENRE=Classical
+TTITLE0=ホルスト 組曲 「惑星」 - 火星：戦闘の神
+TTITLE1=ホルスト 組曲 「惑星」 - 金星：平和の神
+TTITLE2=ホルスト 組曲 「惑星」 - 水星：翼のある使いの神
+TTITLE3=ホルスト 組曲 「惑星」 - 木星：快楽の神
+TTITLE4=ホルスト 組曲 「惑星」 - 土星：老年の神
+TTITLE5=ホルスト 組曲 「惑星」 - 天王星：魔術の神
+TTITLE6=ホルスト 組曲 「惑星」 - 海王星：神秘の神
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

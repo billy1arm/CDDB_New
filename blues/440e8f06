@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	83958
+#	107658
+#	142758
+#	216033
+#	241083
+#
+# Disc length: 3729 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=440e8f06
+DTITLE=Nicolò Paganini - Violin Concertos N°1 and 4 (Alexander Gibson, London Symphony Orch - Henryk Szeryng, violin)
+DYEAR=1976
+DGENRE=Classique
+TTITLE0=Violin Concerto N°1 in D major, Op.3 - I. Allegro maestro
+TTITLE1=Violin Concerto N°1 in D major, Op.3 - II. Adagio
+TTITLE2=Violin Concerto N°1 in D major, Op.3 - III. Rondo - Allegro spirituoso
+TTITLE3=Violin Concerto N°4 in D minor - I. Allegro maestoso
+TTITLE4=Violin Concerto N°4 in D minor - II. Adagio flebile con sentimento
+TTITLE5=Violin Concerto N°4 in D minor - III. Rondo galante - Andantino gaio
+EXTD=Performed by: \nHenry Szeryng, violin\nLondon Symphony Orcestra\nSir Alexander Gibson YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

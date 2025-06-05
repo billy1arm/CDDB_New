@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22575
+#	67820
+#	95005
+#	123214
+#	160573
+#	189227
+#
+# Disc length: 2858 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=420b2807
+DTITLE=The Awakening - Mirage
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=Mode For D.D.
+TTITLE1=The Ultimate Frontier
+TTITLE2=Just A Little Peace
+TTITLE3=Slinky
+TTITLE4=Mirage
+TTITLE5=Glory To The Sun
+TTITLE6=March On
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

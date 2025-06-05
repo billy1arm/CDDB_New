@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42089
+#	81678
+#	153292
+#	181902
+#	221319
+#
+# Disc length: 3455 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=460d7d06
+DTITLE=Hendrix, Jimi  - 03.17 Blues At Midnight (Cafe au Go-Go - NYC, NY)
+DYEAR=1968
+DGENRE=Rock
+TTITLE0=Jimi Hendrix - Little Wing
+TTITLE1=Jimi Hendrix - Everything's Gonna Be Alright
+TTITLE2=Jimi Hendrix - Three Little Bears Part 1
+TTITLE3=Jimi Hendrix - Three Little Bears Part 2
+TTITLE4=Jimi Hendrix - Instrumental Jam
+TTITLE5=Jimi Hendrix - Stormy Monday
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

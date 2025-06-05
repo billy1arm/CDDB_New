@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47745
+#	104425
+#	143427
+#	192525
+#
+# Disc length: 3614 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=410e1c05
+DTITLE=Cecil Taylor - The Complete Candid Recordings Of Cecil Taylor And Buell Neidlinger, Disc 1
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Air
+TTITLE1=Number One (Take 1)
+TTITLE2=Number One (Take 3)
+TTITLE3=This Nearly Was Mine
+TTITLE4=Air (Take 9)
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

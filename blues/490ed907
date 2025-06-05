@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33248
+#	71591
+#	109569
+#	150531
+#	196667
+#	227622
+#
+# Disc length: 3803 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=490ed907
+DTITLE=Wolfgang Hohlbein - Dunkel CD 3
+DYEAR=1999
+DGENRE=Hörbuch
+TTITLE0=Dunkel 3-15
+TTITLE1=Dunkel 3-16
+TTITLE2=Dunkel 3-17
+TTITLE3=Dunkel 3-18
+TTITLE4=Dunkel 3-19
+TTITLE5=Dunkel 3-20
+TTITLE6=Dunkel 3-21
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

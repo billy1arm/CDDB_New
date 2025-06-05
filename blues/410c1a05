@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	52376
+#	97188
+#	132004
+#	166769
+#
+# Disc length: 3100 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=410c1a05
+DTITLE=Joe Morris and Luther Gray - Creatures
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Creature emotion
+TTITLE1=Creature adventure
+TTITLE2=Creature proportion
+TTITLE3=Creature influence
+TTITLE4=Creature outlook
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

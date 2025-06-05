@@ -1,0 +1,82 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15605
+#	27255
+#	42729
+#	55970
+#	68727
+#	79076
+#	91480
+#	106902
+#	121590
+#	134822
+#	146251
+#	161978
+#	173628
+#	189102
+#	202343
+#	215100
+#	225449
+#	237853
+#	253275
+#	267963
+#	281445
+#
+# Disc length: 3906 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=420f4016
+DTITLE=Steve Backer - The third kind
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=01_Back to the farm
+TTITLE1=02_Let's get it straight
+TTITLE2=03_The third kind
+TTITLE3=04_Rockin Ragga
+TTITLE4=05_Boogie time
+TTITLE5=06_Rockabilly shake
+TTITLE6=07_Feelgood trash
+TTITLE7=08_Have mercy on me
+TTITLE8=09_Afroinspiration
+TTITLE9=10_Black and Blues
+TTITLE10=11_Loose and Lazy
+TTITLE11=12_Back to the farm PB
+TTITLE12=13_Let's get it straight PB
+TTITLE13=14_The third kind PB
+TTITLE14=15_Rockin Ragga PB
+TTITLE15=16_Boogie time PB
+TTITLE16=17_Rockabilly shake PB
+TTITLE17=18_Feelgood trash PB
+TTITLE18=19_Have mercy on me PB
+TTITLE19=20_Afroinspiration PB
+TTITLE20=21_Black and Blues PB
+TTITLE21=22_Loose and Lazy PB
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

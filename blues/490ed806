@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	123271
+#	149281
+#	189981
+#	214723
+#	233421
+#
+# Disc length: 3802 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=490ed806
+DTITLE=Bill Evans - Waltz For Debby [Box Set] [CD 2)
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Roots (with The Prestige All Star Workshop)
+TTITLE1=Down By The Riverside (traditional) (with The Prestige All Star Workshop)
+TTITLE2=Sometimes I Feel Like A Motherless Child (traditional) (with The Prestige All Star Workshop)
+TTITLE3=Straight Life (with Cannonball Adderley)
+TTITLE4=My Man's Gone Now (with Bill Potts)
+TTITLE5=All Blue (with Miles Davis)
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

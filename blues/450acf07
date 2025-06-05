@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32290
+#	75006
+#	92219
+#	130687
+#	154986
+#	176840
+#
+# Disc length: 2769 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=450acf07
+DTITLE=Atomic - Retrograde
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Invisible Cities II
+TTITLE1=Papa
+TTITLE2=Don Don
+TTITLE3=Folkton
+TTITLE4=Hola Calamares
+TTITLE5=Swedish Oklahoma
+TTITLE6=Kolonienstrase
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

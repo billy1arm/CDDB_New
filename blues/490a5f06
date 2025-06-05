@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34429
+#	70586
+#	101294
+#	136976
+#	169078
+#
+# Disc length: 2657 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=490a5f06
+DTITLE=Philippe Chrétien - Le Chat Noir
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Chat Noir
+TTITLE1=Cubanito
+TTITLE2=Close Up
+TTITLE3=We Agree
+TTITLE4=Pour Nadine
+TTITLE5=Pour Juliette
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

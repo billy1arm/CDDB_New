@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30927
+#	56765
+#	82625
+#	109190
+#	160551
+#	207490
+#
+# Disc length: 3100 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=490c1a07
+DTITLE=Schiller - Die Einlassmusik 11
+DYEAR=2016
+DGENRE=New Age
+TTITLE0=Teil I
+TTITLE1=Teil II
+TTITLE2=Teil III
+TTITLE3=Teil IV
+TTITLE4=Teil V
+TTITLE5=Teil VI
+TTITLE6=Teil VII
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=
