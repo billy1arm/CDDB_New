@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24555
+#	46955
+#
+# Disc length: 926 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=1c039c03
+DTITLE=?????? - ??
+DYEAR=2005
+DGENRE=Blues
+TTITLE0=track01
+TTITLE1=track02
+TTITLE2=track03
+EXTD=YEAR: 2005 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

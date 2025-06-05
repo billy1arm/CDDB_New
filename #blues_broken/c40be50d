@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	182
+#	22292
+#	32142
+#	52250
+#	72492
+#	92097
+#	104120
+#	115660
+#	125807
+#	135972
+#	152707
+#	173150
+#	203942
+#
+# Disc length: 3047 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=c40be50d
+DTITLE=Screamin' Jay Hawkins - At Last
+DYEAR=1900
+DGENRE=
+TTITLE0=??Listen
+TTITLE1=Because Of You
+TTITLE2=Coulda', Woulda', Shoulda'
+TTITLE3=Potluck
+TTITLE4=You Took Me
+TTITLE5=Deceived
+TTITLE6=I'll Be There
+TTITLE7=I Played The Fool
+TTITLE8=Shut Your Mouth When You Sneeze
+TTITLE9=Life Goes On
+TTITLE10=You Want Love
+TTITLE11=Make Me Happy
+TTITLE12=I Shot The Sheriff
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=
