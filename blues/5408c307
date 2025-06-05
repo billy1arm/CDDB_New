@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19600
+#	42562
+#	58600
+#	88125
+#	113812
+#	135850
+#
+# Disc length: 2245 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=5408c307
+DTITLE=The Modern Jazz Quartet And Swingle Singers - Place Vendome
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=Little David's Fugue
+TTITLE1=Dido's Lament
+TTITLE2=Place Vendome
+TTITLE3=Ricercare A 6
+TTITLE4=Air For G String
+TTITLE5=Alexander's Fugue
+TTITLE6=Three Windows
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

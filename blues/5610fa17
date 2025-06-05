@@ -1,0 +1,85 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	14453
+#	28945
+#	42760
+#	57155
+#	69458
+#	81335
+#	94633
+#	109743
+#	125640
+#	137643
+#	150538
+#	164803
+#	179090
+#	190360
+#	204495
+#	220235
+#	234128
+#	250715
+#	267218
+#	281768
+#	296765
+#	311400
+#
+# Disc length: 4348 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5610fa17
+DTITLE=Artie Shaw And His Orchestra - Vol. 093 - Big Band Bash
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Lady Be Good
+TTITLE1=The Man I Love
+TTITLE2=Temptation
+TTITLE3=Begin The Beguine
+TTITLE4=Rosalie
+TTITLE5=Serenade To A Savage
+TTITLE6=I Didn't Konow What Time It Was
+TTITLE7=Yesterdays
+TTITLE8=Moonglow
+TTITLE9=Diga Diga Doo
+TTITLE10=Nightmare
+TTITLE11=Carioca
+TTITLE12=The Donkey serenade
+TTITLE13=Mister Meadowlark
+TTITLE14=Indian Love Call
+TTITLE15=Jungle Drums
+TTITLE16=Frenesi
+TTITLE17=Gloomy Sunday
+TTITLE18=Surrender Dear
+TTITLE19=Deep Purple
+TTITLE20=Blues From "Lenox Avenue Street" part 1
+TTITLE21=Blues From "Lenox Avenue Street" part 2
+TTITLE22=All The Things You Are
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+PLAYORDER=

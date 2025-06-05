@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	26995
+#	53830
+#	73227
+#	87410
+#	135572
+#
+# Disc length: 2038 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=5507f406
+DTITLE=Pappo's Blues - Volumen 5
+DYEAR=1974
+DGENRE=Blues
+TTITLE0=Malas compañias
+TTITLE1=Nervioso visitante
+TTITLE2=Mirese adentro
+TTITLE3=Hubo distancias en un curioso baile matinal (parte I)
+TTITLE4=Hubo distancias en un curioso baile matinal (parte II)
+TTITLE5=El buzo
+EXTD=YEAR: 1974 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

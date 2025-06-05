@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20615
+#	39385
+#	67582
+#	90060
+#	113822
+#	136247
+#	157402
+#
+# Disc length: 2305 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=5908ff08
+DTITLE=Roberta Flack - Chapter Two
+DYEAR=1970
+DGENRE=Blues
+TTITLE0=Reverend Lee
+TTITLE1=Do What You Gotta Do
+TTITLE2=Just Like A Woman
+TTITLE3=Let It Be Me
+TTITLE4=Gone Away
+TTITLE5=Until It's Time For You To Go
+TTITLE6=The Impossible Dream
+TTITLE7=Business Goes On As Usual
+EXTD=YEAR: 1970 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

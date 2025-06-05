@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	22590
+#	43570
+#	66080
+#	90570
+#	114185
+#	136925
+#	160898
+#
+# Disc length: 2474 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=5409a808
+DTITLE=Youssou N'Dour - Nelson Mandela
+DYEAR=1985
+DGENRE=Ethnic
+TTITLE0=N'Dobine
+TTITLE1=Donkaasi Gi
+TTITLE2=Wareff
+TTITLE3=Magninde
+TTITLE4=The Rubberband Man
+TTITLE5=Moule Moule
+TTITLE6=Samayaye
+TTITLE7=Nelson Mandela
+EXTD=YEAR: 1985 ID3G: 48
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38901
+#	63989
+#	85229
+#	108605
+#	126580
+#
+# Disc length: 2236 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=5208ba06
+DTITLE=Shadow - Love Lite
+DYEAR=1979
+DGENRE=Soul
+TTITLE0=I Need Love (Williams-Beck-Willis)
+TTITLE1=No Better Love (Williams-Beck-Willis)
+TTITLE2=I Enjoy Ya (Williams-Beck-Willis)
+TTITLE3=Love Lite (Williams-Beck-Willis)
+TTITLE4=Say It Again (Williams-Beck-Willis)
+TTITLE5=Get It
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

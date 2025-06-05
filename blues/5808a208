@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13710
+#	25840
+#	43620
+#	77342
+#	105200
+#	122145
+#	144717
+#
+# Disc length: 2212 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5808a208
+DTITLE=Willie Colon - Asalto Navideño Vol. II
+DYEAR=1973
+DGENRE=Salsa
+TTITLE0=Pescao (Potpourri Sambao)
+TTITLE1=Recomendacion
+TTITLE2=La Banda
+TTITLE3=Doña Santos
+TTITLE4=Cantemos
+TTITLE5=Pa' los Pueblos
+TTITLE6=Arbolito
+TTITLE7=Tranquilidad
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

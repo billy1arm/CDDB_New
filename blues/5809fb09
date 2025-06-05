@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15945
+#	44362
+#	64900
+#	82560
+#	106250
+#	125590
+#	150282
+#	174922
+#
+# Disc length: 2557 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5809fb09
+DTITLE=Dale Barlow - Horn
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Synapse
+TTITLE1=Roundhead
+TTITLE2=Lush Life
+TTITLE3=The
+TTITLE4=Wiz Biz
+TTITLE5=Secret Love
+TTITLE6=Lady Fantasia
+TTITLE7=Summer Indoors
+TTITLE8=Veni Vidi Vici
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22390
+#	39000
+#	65325
+#	101430
+#	122362
+#	143670
+#	159862
+#
+# Disc length: 2559 seconds
+#
+# Revision: 11
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5909fd08
+DTITLE=Led Zeppelin - Led ZeppelinⅣ
+DYEAR=1971
+DGENRE=Heavy Metal
+TTITLE0=Black Dog
+TTITLE1=Rock And Roll
+TTITLE2=The Battle Of Evermore
+TTITLE3=Stairway To Heaven
+TTITLE4=Misty Mountain Hop
+TTITLE5=Four Sticks
+TTITLE6=Going To California
+TTITLE7=When The Levee Breaks
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

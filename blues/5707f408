@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17130
+#	39240
+#	62502
+#	76640
+#	93630
+#	115730
+#	138992
+#
+# Disc length: 2038 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5707f408
+DTITLE=Doc Lew Childre - Heart Zones
+DYEAR=1992
+DGENRE=New Age
+TTITLE0=Song1
+TTITLE1=Song2
+TTITLE2=Song3
+TTITLE3=Song4
+TTITLE4=Song1
+TTITLE5=Song2
+TTITLE6=Song3
+TTITLE7=Song4
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

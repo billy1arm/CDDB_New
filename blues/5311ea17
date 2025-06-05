@@ -1,0 +1,88 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 7637
+# 20987
+# 34342
+# 40712
+# 63622
+# 77630
+# 98835
+# 136045
+# 155900
+# 158292
+# 177697
+# 184385
+# 200745
+# 219865
+# 229920
+# 244325
+# 254380
+# 259057
+# 281837
+# 293965
+# 310667
+# 327670
+#
+# Disc length: 4588 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b8
+#
+DISCID=5311ea17
+DTITLE=Various Artist - A Tribute to Leadbelly
+DYEAR=1900
+DGENRE=
+TTITLE0=Intro - Leadbelly
+TTITLE1=You Must Have That True Religion
+TTITLE2=I Know It Was The Blood
+TTITLE3=Intro - Leadbelly On The Blues
+TTITLE4=The Best of Friends
+TTITLE5=Rock Island Line
+TTITLE6=Poor Howard
+TTITLE7=Baby Please Don't Go
+TTITLE8=John Henry
+TTITLE9=Intro - Alan Lomax and Leadbelly On Meter
+TTITLE10=The Bourgeois Blues
+TTITLE11=Redbird
+TTITLE12=In the Pines
+TTITLE13=Kisses Sweeter Than Wine
+TTITLE14=Pigmeat
+TTITLE15=De Grey Goose
+TTITLE16=Ain't Goin' Down To De Well No Mo'
+TTITLE17=Intro - Pete Seeger
+TTITLE18=Bring Me Lil' Water Silvy
+TTITLE19=On A Monday
+TTITLE20=Midnight Special
+TTITLE21=Meeting At The Building
+TTITLE22=Good Night Irene
+EXTD=
+EXTT0=
+EXTT1=Lunenberg Travelers
+EXTT2=Lunenberg Travelers
+EXTT3=
+EXTT4=Sonny Terry and Brownie McGhee
+EXTT5=Sonny Terry and Brownie McGhee
+EXTT6=Sonny Terry and Brownie McGhee
+EXTT7=Sonny Terry and Brownie McGhee
+EXTT8=Sonny Terry and Brownie McGhee
+EXTT9=
+EXTT10=Arlo Guthrie, Pete Seeger
+EXTT11=Arlo Guthrie, Pete Seeger
+EXTT12=Pete Seeger
+EXTT13=Pete Seeger
+EXTT14=Arlo Guthrie
+EXTT15=Arlo Guthrie
+EXTT16=Pete Seeger
+EXTT17=Pete Seeger
+EXTT18=Pete Seeger
+EXTT19=Arlo Guthrie
+EXTT20=Arlo Guthrie, Pete Seeger, Sonny Terry and Brownie McGhee
+EXTT21=Arlo Guthrie, Lunenberg Travelers, Pete Seeger, Sonny Terry and Brownie M
+EXTT21=cGhee
+EXTT22=Arlo Guthrie, Lunenberg Travelers, Pete Seeger, Sonny Terry and Brownie M
+EXTT22=cGhee
+PLAYORDER=

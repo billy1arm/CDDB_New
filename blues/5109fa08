@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17712
+#	30315
+#	54766
+#	83934
+#	125564
+#	150915
+#	175973
+#
+# Disc length: 2556 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5109fa08
+DTITLE=Gerald Preinfalk - Tan Go Go
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Tan Go Go Prologue
+TTITLE1=Fracanapa
+TTITLE2=Unsquare Clockwork
+TTITLE3=The "0" I Know
+TTITLE4=Ovit
+TTITLE5=Melo Mobile
+TTITLE6=Pittoreske
+TTITLE7=Tan Go Go Epilogue
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

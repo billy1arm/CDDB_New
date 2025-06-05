@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36850
+#	65097
+#	89787
+#	105835
+#	148647
+#
+# Disc length: 2303 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5108fd06
+DTITLE=King Curtis and Champion Jack Dupree - Blues At Montreux
+DYEAR=1971
+DGENRE=Soul Jazz
+TTITLE0=king curtis and champion jack dupree - junker's blues
+TTITLE1=king curtis and champion jack dupree - sneaky pete
+TTITLE2=king curtis and champion jack dupree - everything's gonna be alright
+TTITLE3=king curtis and champion jack dupree - get with it
+TTITLE4=king curtis and champion jack dupree - poor boy blues
+TTITLE5=king curtis and champion jack dupree - i'm having fun
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

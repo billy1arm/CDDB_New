@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34720
+#	67485
+#	88732
+#	107112
+#	136522
+#	153265
+#
+# Disc length: 2302 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5808fc07
+DTITLE=Paul Chambers - Whims Of Chambers
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Omicron
+TTITLE1=Whims Of Chambers
+TTITLE2=Nita
+TTITLE3=We Six
+TTITLE4=Dear Ann
+TTITLE5=Tale Of The Fingers
+TTITLE6=Just For Love
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

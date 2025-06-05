@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29457
+#	48254
+#	68903
+#	97929
+#	128624
+#	145942
+#
+# Disc length: 2271 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5808dd07
+DTITLE=charles mingus - dizzy moods II
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=laura
+TTITLE1=yesterdays
+TTITLE2=summertime
+TTITLE3=i can't get started
+TTITLE4=dizzy moods
+TTITLE5=hamp's new blues
+TTITLE6=back home blues
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

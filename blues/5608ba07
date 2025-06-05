@@ -1,0 +1,38 @@
+# xmcd
+#
+# Track frame offsets:
+#	182
+#	12645
+#	34655
+#	49670
+#	79030
+#	111925
+#	145820
+#
+# Disc length: 2236
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+# Normalized: r0:DSETVAR1,TDELIM( - );r1:TSWAP
+#
+DISCID=5608ba07
+DTITLE=Various Artist - Jazz Piano Vol2
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Oscar Peterson - The Days Of Wine And Roses
+TTITLE1=Ray Bryant - Golden Earrings
+TTITLE2=Tommy Franagan - Relaxin' At Camarillo
+TTITLE3=Walter Bishop Jr - Sometimes I'm Happy
+TTITLE4=Horace Silver - Song For My Father
+TTITLE5=Elmo Hope - Like Someone In Love
+TTITLE6=Kenny Drew - Caravan
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

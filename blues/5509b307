@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25535
+#	55526
+#	90671
+#	119165
+#	145184
+#	159689
+#
+# Disc length: 2485 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5509b307
+DTITLE=Sam Most - Flute Flight
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Humming Blues
+TTITLE1=It Might As Well Be Spring
+TTITLE2=Flying Down To Rio
+TTITLE3=Sagittarian Samba
+TTITLE4=Last Night When We Were Young
+TTITLE5=It Happened in Monterey
+TTITLE6=Am I Blue
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

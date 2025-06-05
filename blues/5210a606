@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	75895
+#	126642
+#	190457
+#	251432
+#	284545
+#
+# Disc length: 4264 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5210a606
+DTITLE=The Cleveland Orchestra - Ashkenazy - Thibaudet - Rachmaninov Piano Concertos
+DYEAR=1994
+DGENRE=Concerto
+TTITLE0=Piano Concerto No.3 in D minor Op.30 -I- Allegro ma non tanto
+TTITLE1=Piano Concerto No.3 in D minor Op.30 -II- Intermezzo: Adagio
+TTITLE2=Piano Concerto No.3 in D minor Op.30 -III- Finale: Alla breve
+TTITLE3=Piano Concerto No.1 in F# minor -I- Vivace
+TTITLE4=Piano Concerto No.1 in F# minor -II- Andante 
+TTITLE5=Piano Concerto No.1 in F# minor -III- Allegro vivace
+EXTD=At piano: Jean-Yves Thibaudet\nThe Cleveland Orchestra\nVladimir Ashkenazy YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

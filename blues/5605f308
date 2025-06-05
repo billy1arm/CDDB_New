@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	12097
+#	21887
+#	39055
+#	55791
+#	69152
+#	88948
+#	104347
+#
+# Disc length: 1526 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5605f308
+DTITLE=Ulf and Peter Nordwall - God bless the child
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Nordnorsk julesalm
+TTITLE1=Bered din väg för Herren
+TTITLE2=A childis born
+TTITLE3=Lo
+TTITLE4=Mitt hjerte alltid vanker
+TTITLE5=God bless the child
+TTITLE6=Vinterblomman
+TTITLE7=Stilla natt
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

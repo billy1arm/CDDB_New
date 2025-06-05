@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18177
+#	36460
+#	61522
+#	77052
+#	97085
+#	121087
+#	135160
+#
+# Disc length: 2016 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5707de08
+DTITLE=Sarah Vaughan - Crazy And Mixed Up
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=I Didn't Know What Time It Was
+TTITLE1=That's All
+TTITLE2=Autumn Leaves
+TTITLE3=Love Dance
+TTITLE4=The Island
+TTITLE5=Seasons
+TTITLE6=In Love In Vain
+TTITLE7=You Are Too Beautiful
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16534
+#	31728
+#	42390
+#	61810
+#	81898
+#	92927
+#	114213
+#
+# Disc length: 1705 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5106a708
+DTITLE=Tomasz Pisarek - 26
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Blues 26
+TTITLE1=Take Five
+TTITLE2=Cantaloupe Island
+TTITLE3=Someday My Prince Will Come
+TTITLE4=Cold Duck Time
+TTITLE5=Summertime
+TTITLE6=Blue Monk
+TTITLE7=Flowin'
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

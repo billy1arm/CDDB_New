@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6565
+#	26392
+#	46435
+#	66825
+#	91172
+#	108354
+#
+# Disc length: 1477 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=5205c307
+DTITLE=SONS OF NICE YOUNG （クボタタケシ＋かわなべひろし） - SONS OF NICE YOUNG
+DYEAR=1996
+DGENRE=Disco
+TTITLE0=INTRO.
+TTITLE1=すみれ September Love
+TTITLE2=JOE DASH
+TTITLE3=HI-L-TONE (WALL OF SOUNDS)
+TTITLE4=SONG FOR YEAH, YEAH!
+TTITLE5=BIG CHIFF
+TTITLE6=OUTRO.
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

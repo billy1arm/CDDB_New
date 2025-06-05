@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     22612
+#     38147
+#     57390
+#     90082
+#     117790
+#     135427
+#     156612
+# 
+# Disc length: 2537 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=5609e708
+DTITLE=Jeannie and Jimmy Cheatham - Sweet Baby Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Brand New Blues Blues
+TTITLE1=Roll 'em Pete
+TTITLE2=Sweet Baby Blues
+TTITLE3=I Got a Mine To Ramble
+TTITLE4=Ain't Nobody's Business
+TTITLE5=Muddy Water Blues
+TTITLE6=Cherry Red
+TTITLE7=Meet Me With Your Black Drawers On
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

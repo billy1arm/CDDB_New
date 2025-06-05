@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13460
+#	33722
+#	49085
+#	65960
+#	83787
+#
+# Disc length: 1452 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=5505aa06
+DTITLE=STOMY Performanced By Ryo Tachihara and MAKI - STOMY
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=DON'T PUT YOUR HANDS ON ME
+TTITLE1=TWO STEPS FROM THE BLUES
+TTITLE2=I'M READY
+TTITLE3=ROCK STEADY
+TTITLE4=STAGGER LEE
+TTITLE5=I CAN'T MAKE YOU LOVE ME
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,85 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14455
+#	26475
+#	38645
+#	53342
+#	66695
+#	81095
+#	96362
+#	108865
+#	122390
+#	135695
+#	148432
+#	163580
+#	178665
+#	191520
+#	206402
+#	221715
+#	235030
+#	247682
+#	261915
+#	276840
+#	290932
+#	305332
+#
+# Disc length: 4268 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5010aa17
+DTITLE=The Original Dixieland Jazz Band - Timeless Historical presents: The Original Dixieland Jazz Band - The First Jazz Recordings 1917-1921
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Livery Stable Blues
+TTITLE1=Dixie Jass Band One-Step [(Introducing: That Teasin' Rag)]
+TTITLE2=At The Jazzband Ball
+TTITLE3=Ostrich Walk
+TTITLE4=Skeleton Jangle
+TTITLE5=Tiger Rag
+TTITLE6=Bluin' The Blues
+TTITLE7=Fidgety Feet
+TTITLE8=Sensation Rag
+TTITLE9=Mournin' Blues
+TTITLE10=Clarinet Marmalade Blues
+TTITLE11=Lazy Daddy
+TTITLE12=Margie [(Introducing: Singin' The Blues)]
+TTITLE13=Palesteena
+TTITLE14=Broadway Rose [(Introducin: Dolly, I Love You)]
+TTITLE15=Sweet Mama (Papa's Getting Mad) [(Introducing: Strut, Miss Lizzie)]
+TTITLE16=Home Again Blues [(Introducing: Lindy)]
+TTITLE17=Crazy Blues [(Introducing: It's Right Here For You, If You Don't Get It - 'Tain't No Fault Of Mine)]
+TTITLE18=Jazz Me Blues
+TTITLE19=St. Louis Blues
+TTITLE20=Royal Garden Blues
+TTITLE21=Dangerous Blues
+TTITLE22=Bow Wow Blues (My Mama Treats Me Like A Dog)
+EXTD=Restored by John R.T. Davies from original 78 RPM vinyl YEAR: 1998
+EXTT0=Alcide Nunez/Ray Lopez/Marvin Lee 1917
+EXTT1=(Introducing That Teasin' Rag) Nick LaRoca/J. Russel Robinson/George Crandall/Joe Jordan
+EXTT2=Nick LaRoca/Larry Shields/Johnny Mercer 1917
+EXTT3=Nick LaRocca/Larry Shields 1917
+EXTT4=Nick LaRocca 1917
+EXTT5=Nick LaRocca/Harry De Costa 1917
+EXTT6=Henry Ragas 1918
+EXTT7=Nick LaRocca/Larry Shields 1918
+EXTT8=Eddie Edwards 1918
+EXTT9=Tony Sharbaro 1918
+EXTT10=Larry Shields/Henry Ragas 1918
+EXTT11=Nick LaRocca/Larry Shields/Henry Ragas 1918
+EXTT12=(Introducing: Singin' The Blues) Con Conrad/J. Russel Robinson/Benny Davis 1920
+EXTT13=J. Russel Robinson/Con Conrad 1920
+EXTT14=(Introducing Dolly, I Love You) Martin Fried/Otis Spencer/Eugine West 1920
+EXTT15=Introducing: Strut, Miss Lizzie) Fred Rose/George Little/Peter Frost 1920
+EXTT16=(Introducing Lindy) Harry Akst/Irving Berlin 1921
+EXTT17=(Introducing: It's Right Here For You If You Don't Get It - ain't No Fault of Mine) Perry Bradford/Alex Belledna 1921
+EXTT18=Tom Delaney 1921
+EXTT19=W.C. Handy 1921
+EXTT20=Clarence Williams/Spencer Williams 1921
+EXTT21=Billie Brown 1921
+EXTT22=Cliff Friend/Nat Osborne 1921
+PLAYORDER=

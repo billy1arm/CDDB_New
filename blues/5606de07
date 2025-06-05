@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19455
+#	35700
+#	55697
+#	75255
+#	95027
+#	112102
+#
+# Disc length: 1760 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=5606de07
+DTITLE=Owl - Untitled
+DYEAR=1900
+DGENRE=
+TTITLE0=Ending
+TTITLE1=Girl Plastic
+TTITLE2=No More May
+TTITLE3=Robin Son
+TTITLE4=Still Awake
+TTITLE5=thru you
+TTITLE6=removal
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

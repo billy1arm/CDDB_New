@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21127
+#	42027
+#	61889
+#	84884
+#	126499
+#	155678
+#
+# Disc length: 2272 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5008de07
+DTITLE=Various Artist - Ballin' Fontana
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=I See Your Face Before Me - Miles Davis
+TTITLE1=While My Lady Sleeps - Coltrane
+TTITLE2=All of Me - MJQ
+TTITLE3=When Your Lover Has Gone - Art Farmer
+TTITLE4=There Are Such Things - Rollins
+TTITLE5=Round Midnight - Donald Byrd
+TTITLE6=Imagination_Stitt
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

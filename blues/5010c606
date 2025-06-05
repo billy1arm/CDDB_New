@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49732
+#	106890
+#	168643
+#	229438
+#	272055
+#
+# Disc length: 4296 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5010c606
+DTITLE=Wes Montgomery - Paris 1965 [CD1]
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Full House* (Montgomery)
+TTITLE1=Jingles (Montgomery - fade)
+TTITLE2=Twisted Blues (Montgomery)
+TTITLE3=Blue and Boogie* > West Coast Blues (Gillespie, Montgomery - fade)
+TTITLE4='Round Midnight (Hanighen/Monk/Williams)
+TTITLE5=To When (Mabern - fade)
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

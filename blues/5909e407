@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29932
+#	65145
+#	88015
+#	116435
+#	135145
+#	165397
+#
+# Disc length: 2534 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5909e407
+DTITLE=Masaru Imada - Blue Eyes
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Stella By Starlight
+TTITLE1=Blue Eyes
+TTITLE2=Misty
+TTITLE3=Samba Domingo
+TTITLE4='Round Midnight
+TTITLE5=You'd Be So Nice To Come Home To
+TTITLE6=Poppy
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=
