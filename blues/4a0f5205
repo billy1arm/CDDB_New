@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57317
+#	111639
+#	166849
+#	221214
+#
+# Disc length: 3924 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=4a0f5205
+DTITLE=Bob Brookmeyer Quartet - Old Friends
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=I hear a rhapsody
+TTITLE1=Stella by starlight
+TTITLE2=Polka dots and moonbeams
+TTITLE3=Who Cares
+TTITLE4=All blues
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

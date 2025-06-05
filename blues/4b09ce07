@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36703
+#	60402
+#	84559
+#	97659
+#	122233
+#	151543
+#
+# Disc length: 2512 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=4b09ce07
+DTITLE=Yakir Ben-Hur - A Sonny Day
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Cool Struttin'
+TTITLE1=Blue Minor
+TTITLE2=Melody For C
+TTITLE3=Zelmar's Delight
+TTITLE4=Smothing Special
+TTITLE5=News For Lulu
+TTITLE6=My Conception
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

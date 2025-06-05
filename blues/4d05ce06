@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15251
+#	50044
+#	65944
+#	81094
+#	96491
+#
+# Disc length: 1488 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d05ce06
+DTITLE=Terry Oldfield - Theme From The Telford Time Machine
+DYEAR=1996
+DGENRE=New Age
+TTITLE0=Theme From The Telford Time Machine 1
+TTITLE1=Theme From The Telford Time Machine 2
+TTITLE2=Theme From The Telford Time Machine 3
+TTITLE3=Theme From The Telford Time Machine 4
+TTITLE4=Theme From The Telford Time Machine 5
+TTITLE5=Theme From The Telford Time Machine 6
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

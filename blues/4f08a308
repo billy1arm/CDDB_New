@@ -1,0 +1,40 @@
+# xmcd database file
+#
+# Track frame offsets:
+# 150
+# 6656
+# 16281
+# 35285
+# 60801
+# 76154
+# 92818
+# 109512
+#
+# Disc length: 2213 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CD-Runner 2007.01
+#
+DISCID=4f08a308
+DTITLE=Paul Butterfield - 1966 Unicorn Coffee House
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Instrumental
+TTITLE1=Look Over Yonders Wall
+TTITLE2=Born In Chicago
+TTITLE3=Love Her With A Feeling
+TTITLE4=Get Out Of My Life, Woman
+TTITLE5=Never Say No
+TTITLE6=One More Heartache
+TTITLE7=Work Song
+EXTD=
+EXTT0=01
+EXTT1=02
+EXTT2=03
+EXTT3=04
+EXTT4=05
+EXTT5=06
+EXTT6=07
+EXTT7=08
+PLAYORDER=

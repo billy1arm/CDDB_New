@@ -1,0 +1,88 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17375
+#	37895
+#	49062
+#	61002
+#	72990
+#	88242
+#	100347
+#	115630
+#	129797
+#	142570
+#	155765
+#	168605
+#	181200
+#	191567
+#	206750
+#	220610
+#	232995
+#	246000
+#	259590
+#	271985
+#	284057
+#	295952
+#	308520
+#
+# Disc length: 4248 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=4c109618
+DTITLE=Var - Gold Disc 411
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Righteous Brothers-Just Once In My Life
+TTITLE1=Frank Sinatra-It Was A Very Good Year
+TTITLE2=Paul Anka-It's Time To Cry
+TTITLE3=Cathy Carr-Ivory Tower
+TTITLE4=Brook Benton-Kiddio
+TTITLE5=Association-Everything That Touches You
+TTITLE6=Dion-Where or When
+TTITLE7=Engelbert Humperdinck-Release Me (And Let Me Love Again)
+TTITLE8=Bing Crosby and Grace Kelly-True Love
+TTITLE9=Nat King Cole-Ramblin' Rose
+TTITLE10=Beach Boys-Warmth Of The Sun
+TTITLE11=Elvis Presley-Don't
+TTITLE12=Andy Williams-Days of Wine And Roses
+TTITLE13=Connie Francis-Who's Sorry Now
+TTITLE14=Ray Charles-You Don't Know Me
+TTITLE15=Brothers Four-Greenfields
+TTITLE16=Bobby Vinton-My Heart Belongs To Only You
+TTITLE17=Tony Bennett-I Left My Heart In San Francisco
+TTITLE18=Miracles-You've Really Got A Hold On Me
+TTITLE19=Charlie Rich-The Most Beautiful Girl
+TTITLE20=Everly Brothers-Let It Be Me
+TTITLE21=Bobby Goldsboro-See The Funny Little Clown
+TTITLE22=Ed Ames-My Cup Runneth Over
+TTITLE23=Pat Boone-Love Letters In The Sand
+EXTD=ID3G: 0
+EXTT0=Righteous Brothers
+EXTT1=Frank Sinatra
+EXTT2=Paul Anka
+EXTT3=Cathy Carr
+EXTT4=Brook Benton
+EXTT5=Association
+EXTT6=Dion and The Belmonts
+EXTT7=Engelbert Humperdinck
+EXTT8=Bing Crosby and Grace Kelly
+EXTT9=Nat King Cole
+EXTT10=Beach Boys
+EXTT11=Elvis Presley
+EXTT12=Andy Williams
+EXTT13=Connie Francis
+EXTT14=Ray Charles
+EXTT15=Brothers Four
+EXTT16=Bobby Vinton
+EXTT17=Tony Bennett
+EXTT18=Smokey Robinson and The Miracles
+EXTT19=Charlie Rich
+EXTT20=Everly Brothers
+EXTT21=Bobby Goldsboro
+EXTT22=Ed Ames
+EXTT23=Pat Boone
+PLAYORDER=

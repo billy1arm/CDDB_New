@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20325
+#	37125
+#	57275
+#	77423
+#	108853
+#	332550
+#
+# Disc length: 4440 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e115607
+DTITLE=SEIKO and Crazy.T - Smile on me
+DYEAR=2004
+DGENRE=Pop
+TTITLE0=Smile on me
+TTITLE1=制服のぼたん
+TTITLE2=Smile on me(Backing Track)
+TTITLE3=Smile on me(Backing Track with SEIKO)
+TTITLE4=Smile on me(Backing Track with Crazy.T)
+TTITLE5=Data
+TTITLE6=Data
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

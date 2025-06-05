@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	88800
+#	139881
+#	181030
+#	189537
+#	238001
+#
+# Disc length: 4084 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=4c0ff206
+DTITLE=Michael Brecker - Montreux 1987
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=01 B Funk
+TTITLE1=02 Saving All My Love For You
+TTITLE2=03 Upside Downside
+TTITLE3=04 Announcement by Micheal Brecker
+TTITLE4=05 Suite
+TTITLE5=06 The Emperor
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

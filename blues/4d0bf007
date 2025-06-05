@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32600
+#	62320
+#	99500
+#	135387
+#	172737
+#	212725
+#
+# Disc length: 3058 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4d0bf007
+DTITLE=Native Son - Daybreak
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=They're Just Bad
+TTITLE1=Impact Factor
+TTITLE2=Toward Summer
+TTITLE3=You, Our Love
+TTITLE4=Not So Damn Easy
+TTITLE5=Daybreak
+TTITLE6=Send One Your Love
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

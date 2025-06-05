@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	36015
+#	73022
+#	99405
+#	137030
+#	161740
+#
+# Disc length: 2566 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4c0a0406
+DTITLE=Hank Mobley - Dippin'
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=The Dip
+TTITLE1=Recado Bossa Nova
+TTITLE2=The Break Through
+TTITLE3=The Vamp
+TTITLE4=I See Your Face Before Me
+TTITLE5=Ballin'
+EXTD=Lee Morgan, trumpet\nHank Mobley, tenor sax\nHarold Mabern Jr., piano\nLarry Ridley, bass\nBilly Higgins, drums YEAR: 1965
+EXTT0=Hank Mobley
+EXTT1=D. Ferreira
+EXTT2=Mobley
+EXTT3=Mobley
+EXTT4=Schwartz-Dietz
+EXTT5=Mobley
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24225
+#	42525
+#	61313
+#	78713
+#	108526
+#
+# Disc length: 1804 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4a070a06
+DTITLE=NativeSense - レプリカの心音
+DYEAR=2004
+DGENRE=Vocal
+TTITLE0=beginnende wereld "Prologue"
+TTITLE1=The theory of relativity
+TTITLE2=僕のカタチ "Image of M-1"
+TTITLE3=go to･･･？ "Image of Akari"
+TTITLE4=primal scream
+TTITLE5=レプリカの心音 "Image of Toya×M-1"
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12547
+#	24470
+#	38899
+#	51432
+#	93570
+#
+# Disc length: 1479 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4a05c506
+DTITLE=Various Artist - Tenor Sax 47 n°586
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Illinois Jacquet Sextet - Jumpin' At The Woodside
+TTITLE1=Arnett Cobb and his Orchestra - Go, Red, Go
+TTITLE2=Lucky Thompson and his Lucky Seven - Just One More Chance
+TTITLE3=Dexter Gordon Quartet - Sweet and Lovely
+TTITLE4=Wardell Grey with Errol Gardner - Blue Lou
+TTITLE5=Lester Young Sextet, Sarah Vaughan - I Cried For You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

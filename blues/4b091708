@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15145
+#	30345
+#	61847
+#	88480
+#	108522
+#	128447
+#	157602
+#
+# Disc length: 2329 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.4
+#
+DISCID=4b091708
+DTITLE=Eddie "Cleanhead Vinson - Roomful of Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=House Of Joy
+TTITLE1=He Was A Friend of Mine
+TTITLE2=Movin' With Lester
+TTITLE3=No Bones
+TTITLE4=That's The Groovy Thing
+TTITLE5=Past Sixty Blues
+TTITLE6=Street Lights
+TTITLE7=Farmer's Daughter Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

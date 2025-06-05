@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24062
+#	58917
+#	83060
+#	100650
+#	114382
+#	137550
+#
+# Disc length: 2054 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4b080407
+DTITLE=Claude Bolling - Suite for Flute and Jazz Piano
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Baroque and blue                  
+TTITLE1=Sentimentale                      
+TTITLE2=Javanaise                         
+TTITLE3=Fugace                            
+TTITLE4=Irlandaise                        
+TTITLE5=Versatile (with Bass Flute)       
+TTITLE6=Vloce                            
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

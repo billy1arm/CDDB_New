@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	73687
+#	96610
+#	155437
+#	210987
+#	248830
+#
+# Disc length: 4189 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=4f105b06
+DTITLE=V.S.O.P. The Quintet - Tempest In The Colosseum
+DYEAR=1977
+DGENRE=Jazz
+TTITLE0=Eye Of The Hurricane
+TTITLE1=Diana
+TTITLE2=Eighty-One
+TTITLE3=Maiden Voyage
+TTITLE4=Lawra
+TTITLE5=Red Clay
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

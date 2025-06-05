@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53618
+#	127885
+#	168248
+#	212873
+#	241963
+#	247540
+#
+# Disc length: 3707 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e0e7907
+DTITLE=ITZHAK PERLMAN・VLADIMIR ASHKENAZY - ベートーベン：ヴァイオリン・ソナタ「クロイツェル」「春」
+DYEAR=1977
+DGENRE=Classical
+TTITLE0=ヴァイオリン・ダナタ 第9番 イ長調、Op.47 「クロイツェル」 第1楽章
+TTITLE1=ヴァイオリン・ダナタ 第9番 イ長調、Op.47 「クロイツェル」 第2楽章
+TTITLE2=ヴァイオリン・ダナタ 第9番 イ長調、Op.47 「クロイツェル」 第3楽章
+TTITLE3=ヴァイオリン・ダナタ 第5番 ヘ長調、Op.24 「春」 第1楽章
+TTITLE4=ヴァイオリン・ダナタ 第5番 ヘ長調、Op.24 「春」 第2楽章
+TTITLE5=ヴァイオリン・ダナタ 第5番 ヘ長調、Op.24 「春」 第3楽章
+TTITLE6=ヴァイオリン・ダナタ 第5番 ヘ長調、Op.24 「春」 第4楽章
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

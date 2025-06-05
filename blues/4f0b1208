@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27580
+#	47260
+#	75922
+#	90605
+#	132007
+#	157732
+#	188992
+#
+# Disc length: 2836 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4f0b1208
+DTITLE=Cannonball Adderley - Bohemia After Dark
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Bohemia After Dark
+TTITLE1=Chasm
+TTITLE2=Willow Weep For Me
+TTITLE3=Late Entry
+TTITLE4=Hear Me Talkin' to Ya
+TTITLE5=With Apologies To Oscar
+TTITLE6=We'll Be Together Again
+TTITLE7=Caribbean Cutie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	97872
+#	133300
+#	166897
+#	250835
+#	281535
+#
+# Disc length: 4387 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4b112106
+DTITLE=チャイコフスキー - 協奏曲
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=ピアノ協奏曲第1番 変ロ短調 ?
+TTITLE1=ピアノ協奏曲第1番 変ロ短調 ?
+TTITLE2=ピアノ協奏曲第1番 変ロ短調 ?
+TTITLE3=ヴァイオリン協奏曲 ニ長調 ?
+TTITLE4=ヴァイオリン協奏曲 ニ長調 ?
+TTITLE5=ヴァイオリン協奏曲 ニ長調 ?
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

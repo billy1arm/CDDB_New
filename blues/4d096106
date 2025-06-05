@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25202
+#	61840
+#	98305
+#	136480
+#	149740
+#
+# Disc length: 2403 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=4d096106
+DTITLE=Kenny Dorham - Jazz Contemporary
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=A Waltz
+TTITLE1=Monk's Mood
+TTITLE2=In Your Own Sweet Way
+TTITLE3=Horn Salute
+TTITLE4=Tonica
+TTITLE5=This Love of Mine
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

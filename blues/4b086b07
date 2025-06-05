@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15379
+#	46043
+#	69812
+#	89015
+#	123871
+#	136126
+#
+# Disc length: 2157 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=4b086b07
+DTITLE=George Winston - Autumn
+DYEAR=1980
+DGENRE=New Age
+TTITLE0=Colors Dance
+TTITLE1=Woods 
+TTITLE2=Longing Love
+TTITLE3=Road
+TTITLE4=Moon
+TTITLE5=Sea
+TTITLE6=Stars
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

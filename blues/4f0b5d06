@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44909
+#	85803
+#	116513
+#	151921
+#	179924
+#
+# Disc length: 2911 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4f0b5d06
+DTITLE=Dexter Gordon - The Complete Trio and Quartet Studio Recordings Disc 4
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Stablemates - Take 1
+TTITLE1=Stablemates - Take 2
+TTITLE2=In A Sentimental Mood
+TTITLE3=Red Cross - Take 1
+TTITLE4=Red Cross - Take 3
+TTITLE5=Red Cross - Take 4
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

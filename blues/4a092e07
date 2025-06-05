@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28592
+#	53466
+#	76198
+#	96324
+#	128228
+#	153391
+#
+# Disc length: 2352 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=4a092e07
+DTITLE=Ludwig and Friends - HIBS Music
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Footprints
+TTITLE1=Someday My Prince Will Come
+TTITLE2=Autumn Leaves
+TTITLE3=Summertime
+TTITLE4=Blue Bossa
+TTITLE5=Cantaloupe Island
+TTITLE6=Well You Needn't
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

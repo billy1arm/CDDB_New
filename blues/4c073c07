@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22142
+#	38390
+#	55467
+#	70172
+#	84277
+#	105970
+#
+# Disc length: 1854 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4c073c07
+DTITLE=Jeff Beck - Beck-Ola
+DYEAR=1969
+DGENRE=Rock
+TTITLE0=All Shook Up
+TTITLE1=Spanish Boots
+TTITLE2=Girl From Mill Valley
+TTITLE3=Jailhouse Rock
+TTITLE4=Plynth (Water Down The Drain)
+TTITLE5=The Hangman's Knee
+TTITLE6=Rice Pudding
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

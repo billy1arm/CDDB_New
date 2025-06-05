@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	24527
+#	60822
+#	90487
+#	125822
+#	171747
+#
+# Disc length: 2591 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=4a0a1d06
+DTITLE=Luther Allison - Power Wire Blues
+DYEAR=1990
+DGENRE=Blues
+TTITLE0=Dust My Broom
+TTITLE1=I Got Worries
+TTITLE2=You Don't Love Me
+TTITLE3=Going Down
+TTITLE4=I'm Gonna Leave You Alone
+TTITLE5=Sweet Home Chicago
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

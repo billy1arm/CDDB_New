@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	52350
+#	116247
+#	172000
+#	212635
+#
+# Disc length: 3247 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e0cad05
+DTITLE=Benoit berge et Philippe Jogwell - Le voyage de la mer
+DYEAR=1990
+DGENRE=New Age
+TTITLE0=latitude
+TTITLE1=Méridien
+TTITLE2=Sextan
+TTITLE3=Marine
+TTITLE4=Voyage de la mer
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

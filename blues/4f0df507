@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40980
+#	95485
+#	109450
+#	160500
+#	210062
+#	237260
+#
+# Disc length: 3575 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=4f0df507
+DTITLE=Peter Epstein - The Invisible
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Good Fever
+TTITLE1=The Leaf's Impression
+TTITLE2=The Invisible
+TTITLE3=Centrifugal Force
+TTITLE4=Shut up, Peaceful
+TTITLE5=Creamy Center
+TTITLE6=Ornette's Advice
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

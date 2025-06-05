@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30912
+#	67575
+#	98830
+#	147230
+#	180015
+#	214417
+#
+# Disc length: 3376 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4f0d2e07
+DTITLE=Aaron Parks Quintet - The Wizard
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Greasy Little Cookies
+TTITLE1=The Enchantress
+TTITLE2=Child's Eyes
+TTITLE3=Haunt
+TTITLE4=Planting Flowers
+TTITLE5=Winter Poem
+TTITLE6=The Wizard
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

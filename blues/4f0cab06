@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38077
+#	92977
+#	142732
+#	168717
+#	208084
+#
+# Disc length: 3245 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=4f0cab06
+DTITLE=Blue Note - Swinging @ the Blue Note
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Bebop - Irvin Mayfield Sextet
+TTITLE1=All Blues - Roland Guerin Sextet
+TTITLE2=Sticks - Mac Gollehon's Smokin' Section
+TTITLE3=Mogadishu - Yoron Israel Connection
+TTITLE4=Just in Time - Bill Watrous Quartet
+TTITLE5=Humbug - Jon Regen Trio
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

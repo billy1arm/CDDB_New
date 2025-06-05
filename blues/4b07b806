@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26685
+#	52177
+#	79430
+#	105260
+#	125540
+#
+# Disc length: 1978 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4b07b806
+DTITLE=コナミ - コナミ･オールスターズ ～千両箱 平成四年版～  disc 2. ARRANGE
+DYEAR=1991
+DGENRE=ゲーム音楽
+TTITLE0=Beyond the Universe (『グラディウス2 (MSX)』 エンディング)
+TTITLE1=For The Brave Heart (『クライシスフォース (FC)』 エンディング～ステージ2BGM)
+TTITLE2=Memoire (『スペースマンボウ (MSX)』 エンディング)
+TTITLE3=Overture～The Seventh Dimention (『ネメシスII (GB)』 セレクト～ステージBGM)
+TTITLE4=Zanziber Breeze (『ソリッドスネーク (MSX)』 オープニングBGM2)
+TTITLE5=Seaside Memory (『エキサイティングサッカー (FC)』エンディング)
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

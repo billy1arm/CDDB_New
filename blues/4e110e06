@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	56127
+#	116257
+#	167015
+#	209420
+#	279202
+#
+# Disc length: 4368 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e110e06
+DTITLE=Dexter Gordon - Montmartre Collection Disc 2
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=01There Will Never Be Another You
+TTITLE1=02Blues Walk
+TTITLE2=03Come Rain or Come Shine
+TTITLE3=04Misty
+TTITLE4=05But not For Me
+TTITLE5=06Take The A Train
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

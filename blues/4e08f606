@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36666
+#	64739
+#	89308
+#	105184
+#	148054
+#
+# Disc length: 2296 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.68 - http://www.feurio.com
+#
+DISCID=4e08f606
+DTITLE=King Curtis and Champion Jack Dupree - Blues At Montreux
+DYEAR=1971
+DGENRE=Blues
+TTITLE0=Junker's Blues
+TTITLE1=Sneaky Pete
+TTITLE2=Everything's Gonna Be Alright
+TTITLE3=Get With It
+TTITLE4=Poor Boy Blues
+TTITLE5=I'm Having Fun
+EXTD=Champion Jack Dupree piano and vocals,\r\nKing Curtis tenor and alto 
+EXTD=saxes,\r\nCornell Dupree guitar,\r\nJerry Jemmott bass,\r\nOliver Jackson 
+EXTD=drums\r\nrecorded live at the Montreux Jazz Festival, Montreux, 
+EXTD=Switzerland, on June 17, 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

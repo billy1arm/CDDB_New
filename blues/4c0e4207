@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  45987
+#  91387
+#  122115
+#  151525
+#  186950
+#  230557
+#
+# Disc length: 3652 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.12
+#
+DISCID=4c0e4207
+DTITLE=Grateful Dead - Dozin' At the Knick - Disk 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Playing In the Band
+TTITLE1=Uncle John's Band
+TTITLE2=Lady With a Fan
+TTITLE3=Terrapin Station
+TTITLE4=Mud Love Buddy Jam
+TTITLE5=Drums
+TTITLE6=Space
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

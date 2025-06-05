@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36846
+#	71846
+#	119256
+#	136320
+#	175525
+#
+# Disc length: 3064 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e0bf606
+DTITLE=Ian Hendrickson-Smith - Blues In the Basement
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Side A - Big Weeds
+TTITLE1=Side A - Hello Stranger
+TTITLE2=Side A - Jacob's New Club
+TTITLE3=Side B - Hey, Baby
+TTITLE4=Side B - Chatterbox
+TTITLE5=Side B - Blues in the Basement
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

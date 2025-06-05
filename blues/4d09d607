@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30947
+#	58560
+#	99447
+#	120250
+#	141992
+#	166227
+#
+# Disc length: 2520 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=4d09d607
+DTITLE=Bill Barron - Hot Line
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Bill's Booogie
+TTITLE1=Groovin'
+TTITLE2=Now's Time
+TTITLE3=A Cool One
+TTITLE4=Jelly Roll
+TTITLE5=Playhouse March
+TTITLE6=Work Song
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

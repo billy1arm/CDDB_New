@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	72542
+#	131422
+#	185672
+#	216135
+#
+# Disc length: 3938 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=4c0f6005
+DTITLE=George Gershwin - Gershwin
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Rhapsody in Blue
+TTITLE1=Piano Concerto in F  I. Allegro
+TTITLE2=Piano Concerto in F  II. Adagio
+TTITLE3=Piano Concerto in F  III. Allegro agitato
+TTITLE4=An American in Paris
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

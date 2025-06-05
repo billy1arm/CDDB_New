@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19462
+#	37272
+#	55988
+#	112406
+#
+# Disc length: 2980 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.74
+#
+DISCID=4c0ba205
+DTITLE=Olaf Henning - Das Party-Album
+DYEAR=1999
+DGENRE=Popschlager
+TTITLE0=Echt Kacke! (Album-Mix)
+TTITLE1=Labyrinth
+TTITLE2=Lass' mich endlich los
+TTITLE3=Yoooo Henning (Der Henning Rap-Mix)
+TTITLE4=Olaf Henning-Megamix
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12528
+#	33826
+#	47210
+#	65134
+#	83867
+#
+# Disc length: 1425 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4c058f06
+DTITLE=Various Artist - Cannes 1958 Jazz Sur La Croisette
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Ella Fitzgerald - Just Squeeze Me (But Don't Tease Me)
+TTITLE1=Donald Byrd Quartet - When Your Lover Has Gone
+TTITLE2=Sacha Distel Quartet - All Of You
+TTITLE3=Christian Chevallier Tentet - Dream Time
+TTITLE4=Martial Solal Trio - Special Club
+TTITLE5=Stan Getz Quartet - East Of The Sun
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

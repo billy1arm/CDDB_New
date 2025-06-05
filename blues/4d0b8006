@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	36540
+#	61852
+#	90680
+#	119415
+#	176515
+#
+# Disc length: 2946 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d0b8006
+DTITLE=Spontaneous Music Ensemble - Karyobin
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=Karyobin Pt. 1
+TTITLE1=Karyobin Pt. 2
+TTITLE2=Karyobin Pt. 3
+TTITLE3=Karyobin Pt. 4
+TTITLE4=Karyobin Pt. 5
+TTITLE5=Karyobin Pt. 6
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

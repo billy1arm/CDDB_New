@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	25055
+#	48795
+#	100112
+#	110107
+#	151097
+#	179532
+# Disc length: 2483 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=4d09b107
+DTITLE=Pentagon - Die Vertreibung der bösen Geister aus dem Pentagon
+DYEAR=1900
+DGENRE=
+TTITLE0=Lazy blues
+TTITLE1=A sad song
+TTITLE2=Bavarian theme
+TTITLE3=Old folk blues
+TTITLE4=Osiris
+TTITLE5=Bohrer
+TTITLE6=Dawn
+EXTD=Bill Harris, Trombone\nBen Webster, Tenor Sax\nJimmy Rowles, Piano\nRed
+EXTD=Mitchell, Bass\nStan Levy, Drums
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

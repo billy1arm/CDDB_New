@@ -1,0 +1,85 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13682
+#	28002
+#	41462
+#	55762
+#	72097
+#	83212
+#	93085
+#	105952
+#	117910
+#	131777
+#	143130
+#	152512
+#	167602
+#	179292
+#	197775
+#	208022
+#	221790
+#	234712
+#	246560
+#	260400
+#	272627
+#	283230
+#
+# Disc length: 3939 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d0f6117
+DTITLE=Various Artist - SUPER HERO CHRONICLE 特撮ヒーロー 主題歌・挿入歌 大全集? (DISC1)
+DYEAR=2004
+DGENRE=Soundtrack
+TTITLE0=スペクトルマン・ゴーゴー
+TTITLE1=宇宙猿人ゴリなのだ
+TTITLE2=スペクトルマン・マーチ
+TTITLE3=ネビュラの星
+TTITLE4=かぐや姫先生のうた
+TTITLE5=月光の子守歌
+TTITLE6=ミラーマンの唄
+TTITLE7=戦え!ミラーマン
+TTITLE8=SGMの唄
+TTITLE9=朝日に向かってジャンボフェニックス
+TTITLE10=風よ光よ
+TTITLE11=天馬ひかり丸は飛ぶ
+TTITLE12=ライオン丸のバラード・ロック
+TTITLE13=わたしは沙織と申します
+TTITLE14=ぼくは小助だ
+TTITLE15=ライオン丸がやってくる
+TTITLE16=ぼくらのバロム1
+TTITLE17=超人バロム1のクリスマス
+TTITLE18=友情のバロム・クロス
+TTITLE19=レッドマン
+TTITLE20=夕日のレッドマン
+TTITLE21=嵐よ叫べ
+TTITLE22=われらは忍者
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+PLAYORDER=

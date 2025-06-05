@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12492
+#	25687
+#	50325
+#	65652
+#	82265
+#
+# Disc length: 1269 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=4a04f306
+DTITLE=The Fabulous Thunderbirds - Wrap It Up
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Wrap It Up
+TTITLE1=Stagger Lee
+TTITLE2=Feelin' Good
+TTITLE3=Tuff Enuff
+TTITLE4=Twist it Off
+TTITLE5=It Comes To Me Naturally
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

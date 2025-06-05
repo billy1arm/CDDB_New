@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	56715
+#	83199
+#	123439
+#	154030
+#	188570
+#	225457
+#
+# Disc length: 3371 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e0d2907
+DTITLE=Various Artist - Yehudi Menuhin - Vol.07
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Schumann - Violin Concerto in D minor - I. In kräftigem nicht zu schnellem Tempo [New York Philh, S.O, Sir John Barbirolli - 1938]
+TTITLE1=Schumann - Violin Concerto in D minor - II. Langsam
+TTITLE2=Schumann - Violin Concerto in D minor - III. Lebhaft doch nicht zu schnell
+TTITLE3=César Franck - Sonata for Piano and Violin in A major - I. Allegretto ben moderato  [Hephzibah Menuhin, piano - 1936]
+TTITLE4=César Franck - Sonata for Piano and Violin in A major - II. Allegro
+TTITLE5=César Franck - Sonata for Piano and Violin in A major - III. Recitativo. Fantasia
+TTITLE6=César Franck - Sonata for Piano and Violin in A major - IV. Allegretto poco mosso
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

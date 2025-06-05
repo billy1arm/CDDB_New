@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37365
+#	65942
+#	86204
+#	117429
+#
+# Disc length: 2038 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=4f07f405
+DTITLE=Miles Davis - Original Jazz Classics Collection
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=If I Were A Bell
+TTITLE1=Well, You Needn't
+TTITLE2=Miles Ahead
+TTITLE3=Love Me Or Leave Me
+TTITLE4=I'll Remember April
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

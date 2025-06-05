@@ -1,0 +1,89 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	13745
+#	23365
+#	35705
+#	44815
+#	54470
+#	71280
+#	82445
+#	93920
+#	106570
+#	119795
+#	134370
+#	148035
+#	161340
+#	168140
+#	180845
+#	201060
+#	219170
+#	228250
+#	237220
+#	247805
+#	257850
+#	265980
+#	276710
+#
+# Disc length: 3850 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=4e0f0818
+DTITLE=The Mysterians - Surf Rendezvous
+DYEAR=1900
+DGENRE=
+TTITLE0=Daedly Curl
+TTITLE1=Lullaby of the Leaves
+TTITLE2=Secret Agent Man
+TTITLE3=Walk, don't run
+TTITLE4=Pipeline
+TTITLE5=Ghost Riders
+TTITLE6=The Savage
+TTITLE7=Bossalou, Miserlou
+TTITLE8=Surf Rider
+TTITLE9=Summer of '96
+TTITLE10=The Lonely Bull
+TTITLE11=Caravan
+TTITLE12=Paint it Black
+TTITLE13=Sleepwalk
+TTITLE14=Bond Revisited
+TTITLE15=Rumble
+TTITLE16=On the Move
+TTITLE17=Out of Limits
+TTITLE18=Penetration
+TTITLE19=Mr. Moto
+TTITLE20=Wipe Out
+TTITLE21=Banzai Washout
+TTITLE22=Surf Song
+TTITLE23=Surf Song 2
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	55198
+#	92274
+#	177285
+#	200105
+#	237377
+#
+# Disc length: 4090 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4a0ff806
+DTITLE=steuart liebig, vinny golia, billy mintz - antipodes
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=improvisation #1
+TTITLE1=trioism #2
+TTITLE2=improvisation #3 - trioism #13
+TTITLE3=improvisation #4
+TTITLE4=trioism #1
+TTITLE5=improvisation #5
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

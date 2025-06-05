@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21227
+#	54785
+#	96170
+#	110705
+#	127517
+#	152017
+#
+# Disc length: 2563 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4a0a0107
+DTITLE=Pegasus - "Montreux Jazz Festival"
+DYEAR=1984
+DGENRE=Jazz
+TTITLE0=01 En busca del Müll
+TTITLE1=02 Carnestoltes
+TTITLE2=03 L'enanito trist
+TTITLE3=04 Fura de les fustes
+TTITLE4=05 Ball de gegants
+TTITLE5=06 Conga con ganas
+TTITLE6=07 Trasmediterrani
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

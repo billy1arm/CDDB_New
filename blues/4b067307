@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19500
+#	33600
+#	50550
+#	66150
+#	85613
+#	105863
+#
+# Disc length: 1653 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4b067307
+DTITLE=Bram Stadhouders - Lyra
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Puro
+TTITLE1=Chute d' eau
+TTITLE2=Careivis
+TTITLE3=Ajri
+TTITLE4=Serene
+TTITLE5=Armbanduhr
+TTITLE6=Uni
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

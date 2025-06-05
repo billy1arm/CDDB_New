@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	16295
+#	35582
+#	52505
+#	72082
+#	99717
+#	122480
+#
+# Disc length: 2051 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e080107
+DTITLE=Fleetwood Mac - Live In Boston
+DYEAR=1985
+DGENRE=Blues
+TTITLE0=On Well
+TTITLE1=Like It This Way
+TTITLE2=World In Harmony
+TTITLE3=Only You
+TTITLE4=Black Magic Woman
+TTITLE5=Jumping At Shadows
+TTITLE6=Can't Hold On
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

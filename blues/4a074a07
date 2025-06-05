@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21230
+#	36255
+#	52512
+#	76045
+#	97185
+#	113190
+#
+# Disc length: 1868 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4a074a07
+DTITLE=Paul Speer - Collection 991
+DYEAR=1992
+DGENRE=New Age
+TTITLE0=Allegro Con Brio
+TTITLE1=Adagio Dolente
+TTITLE2=Moderato Indigo
+TTITLE3=Larghetto Con Forza
+TTITLE4=Allegretto In E
+TTITLE5=Acoustic Reprise /Allegretto
+TTITLE6=Andantino
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

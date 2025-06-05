@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18020
+#	49765
+#	67572
+#	89265
+#	107965
+#	138085
+#
+# Disc length: 2048 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4a07fe07
+DTITLE=The Nat Janoff Group - Looking Through
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Looking Through
+TTITLE1=Room With A View
+TTITLE2=Horizon
+TTITLE3=Home
+TTITLE4=Three Sunsets
+TTITLE5=Orange
+TTITLE6=Spiral
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

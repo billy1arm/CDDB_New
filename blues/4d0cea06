@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42085
+#	89302
+#	135845
+#	179115
+#	213505
+#
+# Disc length: 3308 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d0cea06
+DTITLE=バルトーク - バルトーク弦楽四重奏曲全集 Disc 1
+DYEAR=2000
+DGENRE=Classical
+TTITLE0=第1楽章-弦楽四重奏曲第1番op.7,Sz.40
+TTITLE1=第2楽章-弦楽四重奏曲第1番op.7,Sz.40
+TTITLE2=第3楽章-弦楽四重奏曲第1番op.7,Sz.40
+TTITLE3=第1楽章-弦楽四重奏曲第2番op.17,Sz.67
+TTITLE4=第2楽章-弦楽四重奏曲第2番op.17,Sz.67
+TTITLE5=第3楽章-弦楽四重奏曲第2番op.17,Sz.67
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

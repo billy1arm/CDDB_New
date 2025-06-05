@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20950
+#	40503
+#	64638
+#	88403
+#	122738
+#
+# Disc length: 1825 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d071f06
+DTITLE=HIGH and MIGHTY COLOR - PRIDE Remix
+DYEAR=2005
+DGENRE=Anime
+TTITLE0=PRIDE 〜Nu school of mixture mix〜
+TTITLE1=PRIDE 〜R&B norishiromix〜
+TTITLE2=PRIDE 〜HΛL's MIX 2005〜
+TTITLE3=PRIDE 〜D.D.INOReMIX〜
+TTITLE4=PRIDE 〜Real Latin Players mix〜
+TTITLE5=PRIDE 〜"Phantom pain"norishirobreakmegamix〜
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

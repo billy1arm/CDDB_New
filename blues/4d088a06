@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35335
+#	65792
+#	88717
+#	115135
+#	138182
+#
+# Disc length: 2188 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d088a06
+DTITLE=Phil Woods and Donald Byrd - The Young Bloods
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Dewey Square
+TTITLE1=Dupeltook
+TTITLE2=Once More
+TTITLE3=House Of Chan
+TTITLE4=In Walked George
+TTITLE5=Lover Man
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

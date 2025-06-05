@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50290
+#	82511
+#	124553
+#	174387
+#	207332
+#	238956
+#
+# Disc length: 3624 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4f0e2607
+DTITLE=Jazz Bigband Graz - Here and There
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Here and there
+TTITLE1=E.S.P.
+TTITLE2=Alice in Wonderland
+TTITLE3=Longing
+TTITLE4=The right tree
+TTITLE5=My shining hour
+TTITLE6=Locomotion
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

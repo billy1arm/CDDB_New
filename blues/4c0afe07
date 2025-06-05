@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20359
+#	37064
+#	83481
+#	102565
+#	166409
+#	197265
+#
+# Disc length: 2816 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4c0afe07
+DTITLE=Wind Project of Schärding - Herbstkonzert 2005 CD II
+DYEAR=2005
+DGENRE=Wind Band
+TTITLE0=Franz Lehar - Wolgalied aus 'Der Zarewitsch'
+TTITLE1=Franz Lehar - Dein ist mein ganzes Herz aus 'Land des Lächelns'
+TTITLE2=Jan van der Roost - Volcano
+TTITLE3=Augustin Lara - Granada
+TTITLE4=Andrew Lloyd Webber - Phantom of the Opera
+TTITLE5=Percy Grainger - Children´s March
+TTITLE6=Giacomo Puccini - Nessun dorma
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

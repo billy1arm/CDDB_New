@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51877
+#	91347
+#	152060
+#	207332
+#	259997
+#
+# Disc length: 4027 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e0fb906
+DTITLE=Kenny Drew - THE FIRST
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Autumn Leaves
+TTITLE1=Stella by Starlight
+TTITLE2=All Blues
+TTITLE3=Django
+TTITLE4=In Your Own Sweet Way 
+TTITLE5=Blues
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

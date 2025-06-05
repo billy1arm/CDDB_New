@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21535
+#	46478
+#	68507
+#	92600
+#	116713
+#
+# Disc length: 1798 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4b070406
+DTITLE=Dynamita Salsa - La Primera Vez
+DYEAR=1995
+DGENRE=Salsa
+TTITLE0=Yo No Quiero Mas
+TTITLE1=Caresse
+TTITLE2=Que Si Y Que No
+TTITLE3=Soleil Chaud
+TTITLE4=La Primera Vez
+TTITLE5=Caribeno
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

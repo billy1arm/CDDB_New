@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     48888
+#     174893
+#     241343
+#     287895
+#     294503
+# 
+# Disc length: 4533 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=4e11b306
+DTITLE=The Doors - Opening The Doors Of Perception
+DYEAR=1900
+DGENRE=
+TTITLE0=Jim Morrison
+TTITLE1=Ray Manzarek
+TTITLE2=Robby Krieger
+TTITLE3=John Densmore
+TTITLE4=1968 Press Conference Extracts
+TTITLE5=Random Utterances
+EXTD=
+EXTT0=Interviewed at 1970 Isle Of Wight Festival \nby John Tobler\n
+EXTT1=Interviewed in London 1979 by John \nTobler\n
+EXTT2=Interviewed in London, 1979 by John \nTobler\n
+EXTT3=Interviewed in London, 1979 by John \nTobler\n
+EXTT4=
+EXTT5=Jim, John, Ray, Robby\n
+PLAYORDER=

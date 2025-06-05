@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31275
+#	70179
+#	102992
+#	150957
+#	167633
+#	191266
+#
+# Disc length: 3143 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4a0c4507
+DTITLE=Schumann - Symphonies N°2 and 4 (Neville Marriner, Academy St Martin in the Fields)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Sym. N°2 en ut majeur, Op.61 (extraits) - 2ème mouvement - Scherzo. Allegro vivace
+TTITLE1=Sym. N°2 en ut majeur, Op.61 (extraits) - 3ème mouvement - Adagio espressivo
+TTITLE2=Sym. N°2 en ut majeur, Op.61 (extraits) - 4ème mouvement - Allegro molto vivace
+TTITLE3=Sym - N°4 en ré mineur, Op.120 - I. Ziemlich langsam - Lebhalft
+TTITLE4=Sym - N°4 en ré mineur, Op.120 - II. Romanze - Ziemlich langsam
+TTITLE5=Sym - N°4 en ré mineur, Op.120 - III. Scherzo - Lebhaft
+TTITLE6=Sym - N°4 en ré mineur, Op.120 - IV. Langsam - Lebhaft - Schneller - Presto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

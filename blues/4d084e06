@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36510
+#	50532
+#	81660
+#	106585
+#	139592
+#
+# Disc length: 2128 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d084e06
+DTITLE=Sonny Stitt and Zoot Sims - Inter-Action
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=My Blue Heaven
+TTITLE1=The Saber
+TTITLE2=Katea
+TTITLE3=Fools Rush In
+TTITLE4=Look Down That Lonesome Road
+TTITLE5=I Want To Go Home
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

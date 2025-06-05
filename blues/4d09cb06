@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36537
+#	64395
+#	92290
+#	122220
+#	154727
+#
+# Disc length: 2509 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=4d09cb06
+DTITLE=Reuben Wilson - Blue Mode
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Bambu
+TTITLE1=Knock On Wood
+TTITLE2=Bus Ride
+TTITLE3=Orange Peel
+TTITLE4=Twenty-Five Miles
+TTITLE5=Blue Mode
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

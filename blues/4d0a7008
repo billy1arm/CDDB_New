@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	17785
+#	37625
+#	79740
+#	98232
+#	112895
+#	143127
+#	165112
+#
+# Disc length: 2674 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=4d0a7008
+DTITLE=Thelonious Monk - Thelonious Himself
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=April in Paris
+TTITLE1=Ghost of a Chance
+TTITLE2=Functional
+TTITLE3=I'm Getting Sentimental Over You
+TTITLE4=I Should Care
+TTITLE5='Round Midnight
+TTITLE6=All Alone
+TTITLE7=Monk's Mood
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

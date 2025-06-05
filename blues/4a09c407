@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26742
+#	53517
+#	90972
+#	122127
+#	153037
+#	171482
+#
+# Disc length: 2502 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4a09c407
+DTITLE=Chick Corea - Tap Step
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Samba L.A.
+TTITLE1=The Embrace
+TTITLE2=Tap Step
+TTITLE3=Magic Carpet
+TTITLE4=The Slide
+TTITLE5=Granpa Blues
+TTITLE6=Flamenco
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

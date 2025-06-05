@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29770
+#	60977
+#	90085
+#	113937
+#	140795
+#
+# Disc length: 2284 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=4b08ea06
+DTITLE=Jan Fryderyk - Landschaft-Varianten - Autobahn Musik
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Geradeaus im Flachland
+TTITLE1=Geradeaus in Hügel-Landschaft
+TTITLE2=Geradeaus im Gebirge
+TTITLE3=Kurven im Flachland
+TTITLE4=Kurven in Hügel-Landschaft
+TTITLE5=Kurven im Gebirge
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

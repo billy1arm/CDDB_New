@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30769
+#	82659
+#	145030
+#	175746
+#	211263
+#	226770
+#	241326
+#
+# Disc length: 3387 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d0d3908
+DTITLE=Dexter Gordon - Kind of Gordon - Disk 02 Chase
+DYEAR=1953
+DGENRE=Jazz
+TTITLE0=The Chase (Studio)
+TTITLE1=The Chase
+TTITLE2=The Steeplechase
+TTITLE3=Milt to the Hilt
+TTITLE4=Homecoming
+TTITLE5=Swootie Patoonie
+TTITLE6=Sweet Lorraine
+TTITLE7=Goodbye
+EXTD=YEAR: 1953
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

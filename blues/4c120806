@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	58430
+#	113035
+#	203385
+#	271345
+#	323462
+#
+# Disc length: 4618 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4c120806
+DTITLE=Miles Davis - More Cookin' At The Plugged Nickel
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=On Green Dolphin Street
+TTITLE1=I Fall In Love Too Easily
+TTITLE2=No Blues
+TTITLE3=Four
+TTITLE4=Milestones
+TTITLE5=The Theme
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32144
+#	60994
+#	79647
+#	98250
+#	125696
+#	160712
+#	195059
+#
+# Disc length: 3035 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d0bd908
+DTITLE=Diego Stocco - Artù - Il Signore Di Avalon 
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Il regno di Camelot
+TTITLE1=La regina Ginevra 
+TTITLE2=Lancilotto 
+TTITLE3=Merlino il mago 
+TTITLE4=Camlann, l'ultima battaglia 
+TTITLE5=Morgana, la fata di Avalon 
+TTITLE6=La morte di Artù 
+TTITLE7=Il santo Graal 
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

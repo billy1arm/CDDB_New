@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	56000
+#	91550
+#	124857
+#	179545
+#	205517
+#	234877
+#
+# Disc length: 3983 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4f0f8d07
+DTITLE=Orchestre de Paris - Serge Baudo - Saint-Saens - The 5 piano con certos Disc 1
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=Concerto n. 1 in D major - Andante - Allegro assai
+TTITLE1=Concerto n. 1 in D major - Andante sostenuto quasi adagio
+TTITLE2=Concerto n. 1 in D major - Allegro con fuoco
+TTITLE3=Concerto n. 2 in G minor - Andante sostenuto
+TTITLE4=Concerto n. 2 in G minor - Allegro scherzando
+TTITLE5=Concerto n. 2 in G minor - Presto
+TTITLE6=Concerto n. 3 in E flat major - Moderato assai
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

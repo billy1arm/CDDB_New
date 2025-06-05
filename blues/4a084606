@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	49022
+#	65409
+#	91829
+#	107062
+#	124219
+#
+# Disc length: 2120 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4a084606
+DTITLE=X-Tempo - X-Tempo
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Intro - Encore
+TTITLE1=Don't Jump
+TTITLE2=X-Tempo (op. 1)
+TTITLE3=Jazz
+TTITLE4=Dance with the devil
+TTITLE5=Ashes (Karnival)
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

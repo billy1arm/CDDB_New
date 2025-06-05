@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	52688
+#	92008
+#	127403
+#	166398
+#	203937
+#
+# Disc length: 3123 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4e0c3106
+DTITLE=Seamus Blake - Way Out Willy
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Seamus Blake - 01 - Fear Of Roaming
+TTITLE1=Seamus Blake - 02 - Badlands 
+TTITLE2=Seamus Blake - 03 - Trust In You
+TTITLE3=Seamus Blake - 04 - Way Out Willy
+TTITLE4=Seamus Blake - 05 - Hoi Polloi
+TTITLE5=Seamus Blake - 06 - The Jupiter Line
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

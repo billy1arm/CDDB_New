@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32251
+#	61516
+#	98309
+#	130826
+#	170804
+#	211467
+#
+# Disc length: 3139 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=4e0c4107
+DTITLE=Llewellyn - FairieLore
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=The Fairie Queen
+TTITLE1=Sparkling Spider's Web
+TTITLE2=The Elven Tree
+TTITLE3=Enchantment of the Elves
+TTITLE4=Singer in the Stream
+TTITLE5=The Fairie Ring
+TTITLE6=The Fairie Mound
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

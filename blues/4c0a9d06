@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     25078
+#     54735
+#     73970
+#     109585
+#     151410
+# 
+# Disc length: 2719 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=4c0a9d06
+DTITLE=Freddie King - Live in Nancy 1975  vol 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Messin' with the kid
+TTITLE1=That's allright
+TTITLE2=Goin' down
+TTITLE3=Stormy monday blues
+TTITLE4=Sen-sa-shun - Lookin' good - Boogie Chillun
+TTITLE5=Sweet little angel
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

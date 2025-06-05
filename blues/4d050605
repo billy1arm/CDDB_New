@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18907
+#	44870
+#	67308
+#	89991
+#
+# Disc length: 1288 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=4d050605
+DTITLE=PLANETARIUM - PLANETARIUM
+DYEAR=1999
+DGENRE=New Age
+TTITLE0=Dusky
+TTITLE1=Lapis Lazuli
+TTITLE2=Midsummer Barbecue
+TTITLE3=Gnossienne
+TTITLE4=F
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

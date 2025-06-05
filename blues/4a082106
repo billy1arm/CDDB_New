@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26352
+#	53488
+#	80877
+#	110564
+#	141272
+#
+# Disc length: 2083 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4a082106
+DTITLE=Sonny Rollins - Newk's Time
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=TUNE UP
+TTITLE1=ASIATIC RAES
+TTITLE2=WONDERFUL! WONDERFUL!
+TTITLE3=THE SURREY WITH THE FRINGE ON TOP
+TTITLE4=BLUES FOR PHILLY JOE
+TTITLE5=NAMELY YOU
+EXTD=Newk's Time\n\n YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

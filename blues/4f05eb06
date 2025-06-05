@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16967
+#	36419
+#	60405
+#	74096
+#	94184
+#
+# Disc length: 1517 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4f05eb06
+DTITLE=Queen - The Works (deluxe edition)(2)(2011 remaster)
+DYEAR=1984
+DGENRE=Rock
+TTITLE0=I Go Crazy (B-side)
+TTITLE1=I Want To Break Free (single remix)
+TTITLE2=Hammer To Fall (headbanger's mix)
+TTITLE3=Is This the World We Created...? (live in Rio, January 1985)
+TTITLE4=It's a Hard Life (live in Rio, January 1985)
+TTITLE5=Thank God It's Christmas (non-album single)
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

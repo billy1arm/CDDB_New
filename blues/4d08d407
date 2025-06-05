@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     26667
+#     47837
+#     78525
+#     101847
+#     121097
+#     151687
+# 
+# Disc length: 2262 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=4d08d407
+DTITLE=Jimmy Witherspoon - Midnight Lady Called the Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=New York City Blues
+TTITLE1=The Barber
+TTITLE2=Blinded by Love
+TTITLE3=Happy Hard Times
+TTITLE4=Something Rotten in East St. Louis
+TTITLE5=Midnight Lady Called the Blues
+TTITLE6=Blues Hall of Fame
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

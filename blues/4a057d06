@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13448
+#	28339
+#	66586
+#	79584
+#	93005
+#
+# Disc length: 1407 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4a057d06
+DTITLE=Divers - Jazzmag n°614 - 05-2010 - Le Bop aime Stravinsky
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Boyd Raeburn - Boyd meets Stravinsky
+TTITLE1=Stan Kenton - Artistry in percussion
+TTITLE2=Woody Herman - Ebony concerto
+TTITLE3=Dizzy Gillespie - Things to come
+TTITLE4=Buddy Defranco - A bird in Igor's yard
+TTITLE5=Gil Fuller - The scene changes
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

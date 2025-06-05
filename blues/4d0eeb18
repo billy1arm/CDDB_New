@@ -1,0 +1,88 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	9552
+#	22535
+#	40487
+#	51845
+#	65950
+#	78700
+#	89910
+#	101982
+#	113920
+#	125797
+#	137447
+#	150775
+#	160862
+#	172520
+#	182182
+#	193627
+#	204022
+#	214600
+#	226930
+#	238900
+#	248155
+#	260777
+#	274600
+#
+# Disc length: 3822 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d0eeb18
+DTITLE=Ted Heath - Strike up the band - Fats Waller album
+DYEAR=1953
+DGENRE=Jazz
+TTITLE0=Strike up the band
+TTITLE1=Obsession
+TTITLE2=Clair de lune
+TTITLE3=The piper's patrol
+TTITLE4=Vanessa
+TTITLE5=Hot toddy
+TTITLE6=On the bridge
+TTITLE7=Twilight-Alpine boogie
+TTITLE8=You are my heart's dilight
+TTITLE9=Alouette
+TTITLE10=La mer
+TTITLE11=Hawaiian war chant
+TTITLE12=Honeysuckle rose
+TTITLE13=Ain't misbehavin'
+TTITLE14=Blue, turning grey over you
+TTITLE15=Jitterbug waltz
+TTITLE16=I've got a feeling I'm falling
+TTITLE17=Alligatercrawl
+TTITLE18=Soho
+TTITLE19=Limehouse
+TTITLE20=Piccadilly
+TTITLE21=Chelsea
+TTITLE22=Bond street
+TTITLE23=Whitechapel
+EXTD=YEAR: 1953
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	61354
+#	102693
+#	123791
+#	124241
+#	127515
+#
+# Disc length: 2046 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4c07fc06
+DTITLE=Lee Morgan - The Rajah
+DYEAR=1966
+DGENRE=Jazz
+TTITLE0=A Pilgrim's Funny Farm
+TTITLE1=The Rajah
+TTITLE2=Is That So
+TTITLE3=Davisamba
+TTITLE4=What Now My Love
+TTITLE5=Once In A Lifetime
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

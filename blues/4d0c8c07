@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	83515
+#	143325
+#	152925
+#	177975
+#	198763
+#	211063
+#
+# Disc length: 3214 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=4d0c8c07
+DTITLE=The Philarmonia Slavonica - Gershwin and Janacek
+DYEAR=1994
+DGENRE=Classical
+TTITLE0=Gershwin - An American In Paris
+TTITLE1=Gershwin - Rhapsody In Blue
+TTITLE2=Leos Janacek - Sinfonietta per Orchestra
+TTITLE3=Leos Janacek - Sinfonietta per Orchestra
+TTITLE4=Leos Janacek - Sinfonietta per Orchestra
+TTITLE5=Leos Janacek - Sinfonietta per Orchestra
+TTITLE6=Leos Janacek - Sinfonietta per Orchestra
+EXTD=YEAR: 1994
+EXTT0=George Gershwin
+EXTT1=George Gershwin
+EXTT2=Leos Janacek
+EXTT3=Leos Janacek
+EXTT4=Leos Janacek
+EXTT5=Leos Janacek
+EXTT6=Leos Janacek
+PLAYORDER=

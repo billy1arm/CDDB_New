@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18351
+#	34624
+#	50355
+#	68420
+#	90660
+#	111870
+#
+# Disc length: 1688 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=4b069607
+DTITLE=PARADOX - Closed Session
+DYEAR=2009
+DGENRE=touhou
+TTITLE0=フラワリングナイト
+TTITLE1=シンデレラケージ ～ kagome-kagome
+TTITLE2=神々が恋した幻想郷
+TTITLE3=夜が降りてくる ～ Evening Star
+TTITLE4=廃獄ララバイ
+TTITLE5=紅楼 ～ Eastern Dream...
+TTITLE6=稲田姫様に叱られるから ～ Piano Solo
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

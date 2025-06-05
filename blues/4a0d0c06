@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41637
+#	63268
+#	92550
+#	146671
+#	183188
+#
+# Disc length: 3342 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=4a0d0c06
+DTITLE=A Personal Statement - Iron Man
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Iron Man
+TTITLE1=Mandrake
+TTITLE2=Come Sunday
+TTITLE3=Burning Spear
+TTITLE4=Ode to Charlie Parker
+TTITLE5=A Personal Statement
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

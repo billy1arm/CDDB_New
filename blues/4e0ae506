@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32318
+#	74039
+#	102136
+#	132935
+#	175465
+#
+# Disc length: 2791 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=4e0ae506
+DTITLE=Charles Mingus - Chair In The Sky [1979]
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=Boogie Stop Shuffle
+TTITLE1=A Chair In The Sky
+TTITLE2=My Jelly Roll Soul
+TTITLE3=Sweet Sucker Dance
+TTITLE4=The Dry Cleaner From Des Moines
+TTITLE5=Goodbye Porkpie Hat
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

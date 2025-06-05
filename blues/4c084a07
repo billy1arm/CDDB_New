@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	21027
+#	37510
+#	57515
+#	87952
+#	107072
+#	131410
+#
+# Disc length: 2124 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.30 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=4c084a07
+DTITLE=Digital Orgasm - "Running Out Of Time"
+DYEAR=1900
+DGENRE=
+TTITLE0=Running Out Of Time
+TTITLE1=Running Out Of Time (lords of acid edit)
+TTITLE2=Running Out Of Time (warwick)
+TTITLE3=Running Out Of Time (winking groove)
+TTITLE4=Running Out Of Time (todd's freeze)
+TTITLE5=Running Out Of Time (tee's dub)
+TTITLE6=Running Out Of Time (tee's freeze)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

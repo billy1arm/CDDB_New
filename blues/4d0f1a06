@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47150
+#	88806
+#	132232
+#	177112
+#	253035
+#
+# Disc length: 3868 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4d0f1a06
+DTITLE=Chet Baker - Strollin' [2018 Limited Edition]
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Sad Walk
+TTITLE1=Strollin'
+TTITLE2=Love For Sale
+TTITLE3=Funk In Deep Freeze
+TTITLE4=Leaving
+TTITLE5=But Not For Me
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

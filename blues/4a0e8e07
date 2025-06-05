@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30319
+#	78017
+#	127707
+#	163989
+#	196734
+#	239773
+#
+# Disc length: 3728 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4a0e8e07
+DTITLE=Oregon - Live 2005 
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Oregon - If
+TTITLE1=Oregon - June Bug
+TTITLE2=Oregon - An Open Door
+TTITLE3=Oregon - Pepe Linque
+TTITLE4=Oregon - Distant Hills
+TTITLE5=Oregon - Dorff
+TTITLE6=Oregon - The Glide
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=
