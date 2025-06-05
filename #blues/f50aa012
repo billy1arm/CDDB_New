@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10935
+#	22442
+#	33337
+#	40785
+#	52077
+#	64625
+#	75220
+#	87810
+#	99800
+#	111240
+#	122185
+#	133585
+#	145940
+#	156585
+#	169347
+#	181177
+#	193320
+#
+# Disc length: 2722 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=f50aa012
+DTITLE=Sheppards - Golden Classics
+DYEAR=1900
+DGENRE=
+TTITLE0=Island Of Love
+TTITLE1=Never Felt This Way Before
+TTITLE2=Loving You
+TTITLE3=Elevator Operator
+TTITLE4=Ment To Be
+TTITLE5=I'm Not Wanted
+TTITLE6=Feel Like Lovin'
+TTITLE7=Glitter In Your Eyes
+TTITLE8=Queen Of Hearts
+TTITLE9=Forgotten
+TTITLE10=Tragic
+TTITLE11=Come To Me
+TTITLE12=It's Crazy
+TTITLE13=So In Need For Love
+TTITLE14=Every Now And Then
+TTITLE15=Just When I needed You Most
+TTITLE16=Just Like You
+TTITLE17=Pretend You're Still Mine
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

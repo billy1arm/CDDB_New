@@ -1,0 +1,69 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13277
+#	25985
+#	34355
+#	47485
+#	61655
+#	72722
+#	86615
+#	98005
+#	111652
+#	124340
+#	136945
+#	148542
+#	164450
+#	176225
+#	187735
+#	201255
+#
+# Disc length: 2821 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=fb0b0311
+DTITLE=Roosevelt Sykes - Hard Drivin' Blues
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Kickin' Motor Scooter
+TTITLE1=Red-Eye Jesse Bell
+TTITLE2=I Like What You Do (When You Do What You Did Last Night
+TTITLE2=)
+TTITLE3=New Fire Detective Blues
+TTITLE4=North Gulfport Boogie
+TTITLE5=Watch Your Step (If You Just Can't Be Good)
+TTITLE6=Ho! Ho! Ho!
+TTITLE7=Key To Your Heart
+TTITLE8=We Gotta Move
+TTITLE9=Dresser Drawers
+TTITLE10=Living The Right Life
+TTITLE11=Run This Boogie
+TTITLE12=Slidell Blues
+TTITLE13=Mistake In Life
+TTITLE14=You So Small
+TTITLE15=Concentration Blues
+TTITLE16=She's Got Me Straddle A Log
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43300
+#	65487
+#	85425
+#	102425
+#	129350
+#	147625
+#	174337
+#	201737
+#	215537
+#	245225
+#	259450
+#	291237
+#	315750
+#	330387
+#
+# Disc length: 4711 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=f512650f
+DTITLE=Various Artist - Jazz Time Blue
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Art Blakey and The Jazz Messengers - Moanin'
+TTITLE1=John Coltrane and Johnny Hartman - My One And Only Love
+TTITLE2=Bud Powell - Cleopatra's Dream
+TTITLE3=Sonny Rollins - Alfie's Theme Differently
+TTITLE4=Miles Davis - My Funny Valentine
+TTITLE5=Sarah Vaughan - Lullaby Of Birdland
+TTITLE6=Bill Evans - Autumn Leaves
+TTITLE7=Mal Waldron - Left Alone
+TTITLE8=Chet Baker - But Not For Me
+TTITLE9=Sonny Clark - Softly As In A Morning Sunrise
+TTITLE10=Wes Montgomery - California Dreaming
+TTITLE11=M.J.Q. - Django
+TTITLE12=Art Pepper - You'd Be So Nice To Come Home To
+TTITLE13=Nat King Cole - Stardust
+TTITLE14=Cannonball Adderley - Work Song
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18368
+#	29130
+#	40153
+#	57323
+#	68710
+#	90738
+#	100810
+#	117640
+#	130693
+#	146058
+#	160583
+#	178683
+#	194318
+#	211525
+#	228150
+#	240680
+#	254295
+#
+# Disc length: 3570 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=f50df012
+DTITLE=Little Willie Littlefield - Singalong with Little Willie Littlefield
+DYEAR=1900
+DGENRE=
+TTITLE0=Love Letters in the Sand
+TTITLE1=Sentimental Journey
+TTITLE2=On the sunny side of the Street
+TTITLE3=Frankie and Johnny
+TTITLE4=Don't fence me in
+TTITLE5=Misty
+TTITLE6=Pretty Brown Eyes
+TTITLE7=What a wonderful World
+TTITLE8=Houston
+TTITLE9=Looking Back
+TTITLE10=Bad Bad Leroy Brown
+TTITLE11=Mona Lisa
+TTITLE12=Take these chains from my Heart
+TTITLE13=Moon over Naples - Spanish Eyes
+TTITLE14=When I fall in Love
+TTITLE15=Brahms Lullaby
+TTITLE16=Tennessee Waltz
+TTITLE17=Blueberry Hill
+EXTD=AAD\nOLCD 7001\nMartin van Olderen Production\n(C) and (P) 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

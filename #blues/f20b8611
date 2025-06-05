@@ -1,0 +1,69 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#    150
+#    13608
+#    27530
+#    39660
+#    51495
+#    66205
+#    78483
+#    92833
+#    106135
+#    120473
+#    130605
+#    144983
+#    157473
+#    170830
+#    185063
+#    195878
+#    208558
+#
+# Disc length: 2952 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 5.0.0b  (wjohn@fix.net)
+#
+DISCID=f20b8611
+DTITLE=Jimmy Forrest - 
+DTITLE=Night Train
+DYEAR=1900
+DGENRE=
+TTITLE0=Night Train
+TTITLE1=Calling Dr. Jazz
+TTITLE2=Sophisticated Lady
+TTITLE3=Swingin' and Rockin'
+TTITLE4=Bolo Blues
+TTITLE5=Mister Goodbeat
+TTITLE6=Flight 3-D
+TTITLE7=Hey Mrs. Jones
+TTITLE8=My Buddy
+TTITLE9=Song of the Wanderer
+TTITLE10=Blue Groove
+TTITLE11=Big Dip
+TTITLE12=Begin the Beguine
+TTITLE13=There Will Never Be Another You
+TTITLE14=Coach 13
+TTITLE15=Dig Those Feet
+TTITLE16=Mrs. Jones' Daughter
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=`
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

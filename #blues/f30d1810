@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19440
+#	35622
+#	51922
+#	67465
+#	87037
+#	101117
+#	112417
+#	130990
+#	145512
+#	156375
+#	175245
+#	189500
+#	205845
+#	220552
+#	239267
+#
+# Disc length: 3354 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=f30d1810
+DTITLE=David Ballantine - Paint
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=Paint
+TTITLE1=Second heart blues
+TTITLE2=The cornerstone
+TTITLE3=Bridges to your heart
+TTITLE4=A tale from history
+TTITLE5=The light
+TTITLE6=Ready for this
+TTITLE7=Rainbows
+TTITLE8=Rythm of your soul
+TTITLE9=Don't dig too deep
+TTITLE10=Keep sunny
+TTITLE11=Sleep walking
+TTITLE12=Telephone
+TTITLE13=Beach of stone
+TTITLE14=Sweet scenario
+TTITLE15=Like a song
+EXTD=YEAR: 1994 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

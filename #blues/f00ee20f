@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35740
+#	64600
+#	81535
+#	89305
+#	102330
+#	140935
+#	155420
+#	163880
+#	178750
+#	191155
+#	224110
+#	236015
+#	249390
+#	269795
+#
+# Disc length: 3812 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=f00ee20f
+DTITLE=ヨハン・セバスティアン・バッハ - 管弦楽組曲　?
+DYEAR=1995
+DGENRE=Classical
+TTITLE0=管弦楽組曲　第3番　ニ長調　Ouvertuere
+TTITLE1=　Air
+TTITLE2=　Gavotte 1 and 2
+TTITLE3=　Bourree
+TTITLE4=　Gigue
+TTITLE5=管弦楽組曲　第4番　ニ長調　Ouvertuere
+TTITLE6=　Bourree 1 and 2
+TTITLE7=　Gavotte
+TTITLE8=　Menuet 1 and 2
+TTITLE9=　Rejouissance
+TTITLE10=管弦楽組曲　第5番　ト短調　Larghetto
+TTITLE11=　Torneo
+TTITLE12=　Aria
+TTITLE13=　Menuetto
+TTITLE14=　Capriccio
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

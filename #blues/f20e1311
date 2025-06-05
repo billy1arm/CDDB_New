@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15680
+#	28295
+#	40200
+#	57900
+#	87470
+#	105305
+#	115650
+#	131785
+#	146850
+#	162075
+#	175525
+#	189550
+#	206202
+#	220225
+#	236650
+#	248745
+#
+# Disc length: 3605 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=f20e1311
+DTITLE=Various Artist - Hot Jazz Vol. 1 - The Classic Songs Of George and Ira Gershwin
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Billie Holiday - Let's Call The Hole Thing Off
+TTITLE1=Charlie Parker with Strings - Summertime
+TTITLE2=Count Basie - Joe Williams - S' Wonderful
+TTITLE3=Benny Goodman and Lionel Hampton - Oh, Lady Be Good
+TTITLE4=Lous Armstrong and Ella Fitzgerald - It Ain't Nessessarily So
+TTITLE5=Coleman Hawkings - How Long Has This Been Going On
+TTITLE6=Ernestine Anderson - There's A Boat Dat's Leavin' Soon For New York
+TTITLE7=Jimmy Cleveland - Our Love Is Here To Stay
+TTITLE8=Louis Armstrong - I Was Doing All Right
+TTITLE9=Oscar Peterson - I Got Rhythm
+TTITLE10=Fred Astaire - They All Laughed
+TTITLE11=Dinah Washington - I've Got A Crush On You
+TTITLE12=Benny Carter - A Foggy Day
+TTITLE13=Ella Fitzgerald - Things Are Looking Up
+TTITLE14=Roland Kirk - Someone To Watch Over Me
+TTITLE15=Errol Garner - Strike Up The Band
+TTITLE16=Sarah Vaughan - Embraceable You
+EXTD=YEAR: 1997
+EXTT0=1957
+EXTT1=1949
+EXTT2=1957
+EXTT3=1978
+EXTT4=1958
+EXTT5=1957
+EXTT6=1992
+EXTT7=1956
+EXTT8=1957
+EXTT9=1957
+EXTT10=1953
+EXTT11=1956
+EXTT12=1994
+EXTT13=1959
+EXTT14=1962
+EXTT15=1976
+EXTT16=1955
+PLAYORDER=

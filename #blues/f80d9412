@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10650
+#     22987
+#     37537
+#     55835
+#     66785
+#     82425
+#     94875
+#     107110
+#     132525
+#     144887
+#     159580
+#     173247
+#     193885
+#     205797
+#     222300
+#     235275
+#     246034
+# 
+# Disc length: 3478 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=f80d9412
+DTITLE=Various Artist - Feelin The Blues CD2
+DYEAR=1900
+DGENRE=
+TTITLE0=Tell Mama
+TTITLE1=My Baby's Gone
+TTITLE2=Ain't Mad At You Pretty Baby
+TTITLE3=Driftin Blues
+TTITLE4=Bo Diddley
+TTITLE5=Come Here Mama
+TTITLE6=Mean Mistreater
+TTITLE7=Chicken Shack Boogie
+TTITLE8=Two Years Of Torture
+TTITLE9=Honest I Do
+TTITLE10=Texas Hop
+TTITLE11=R.M. Blues
+TTITLE12=Hide and Go Seek
+TTITLE13=My Babe
+TTITLE14=Cherry Red
+TTITLE15=Bad Boy
+TTITLE16=Bye Bye Baby Blues
+TTITLE17=Doin' It
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

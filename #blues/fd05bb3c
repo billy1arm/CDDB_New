@@ -1,0 +1,196 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2451
+#	3911
+#	5486
+#	6740
+#	8040
+#	9786
+#	11271
+#	12530
+#	14015
+#	15513
+#	16767
+#	17494
+#	19894
+#	20756
+#	22268
+#	23758
+#	24681
+#	27015
+#	28089
+#	29197
+#	30315
+#	32657
+#	34906
+#	36381
+#	38751
+#	40647
+#	42132
+#	44456
+#	45941
+#	47028
+#	48488
+#	50809
+#	53129
+#	55436
+#	57742
+#	60050
+#	63181
+#	66364
+#	69517
+#	70434
+#	71936
+#	73423
+#	74401
+#	75426
+#	76518
+#	77794
+#	78892
+#	79992
+#	81890
+#	82989
+#	84477
+#	85956
+#	87442
+#	88924
+#	92068
+#	95981
+#	99970
+#	104008
+#	107280
+#
+# Disc length: 1469 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=fd05bb3c
+DTITLE=Hal Leonard Keyboard Style Series - Salsa Piano
+DYEAR=2007
+DGENRE=Salsa
+TTITLE0=Typical Piano Figure
+TTITLE1=Rhythm - Son Clave
+TTITLE2=Rhythm - 6/8 Clave
+TTITLE3=Rhythm - Rumba Clave
+TTITLE4=Rhythm - 6/8 and Rumba Clave
+TTITLE5=Rhythm - Conga Pattern
+TTITLE6=Rhythm - Typical Timbales Figure
+TTITLE7=Rhythm - Martillo
+TTITLE8=Rhythm - Cowbell Pattern I
+TTITLE9=Bass - Tumbao
+TTITLE10=Bass - 2-3 Clave
+TTITLE11=Bass - Rumba Clave
+TTITLE12=3-2 Clave Patterns in Single Harmony Descarga
+TTITLE13=3-2 Clave - Typical non-Latin Figure
+TTITLE14=3-2 Clave - Gm7-C9 Sequence
+TTITLE15=3-2 Clave - Csus9-C9 Sequence
+TTITLE16=3-2 Clave - Cowbell Pattern II - Bongocero Variation A
+TTITLE17=3-2 Clave - Cowbell Pattern II - Bongocero Variation B
+TTITLE18=3-2 Clave - Cowbell Pattern III
+TTITLE19=2-3 Clave - Percussion in a 2-3 Environment
+TTITLE20=2-3 Clave - Timbales Figure
+TTITLE21=2-3 Clave - Piano with Son Clave
+TTITLE22=2-3 Clave - Outlining the Clave: Tumbao
+TTITLE23=2-3 Clave - Piano Imitation of the Tres
+TTITLE24=Montuno #1
+TTITLE25=Montuno #2
+TTITLE26=Percussive Piano: Repeating the Sixth Scale Degree
+TTITLE27=Minor II-V-I
+TTITLE28=Minor II-V-I Variation
+TTITLE29=Repetition of the 11th (Bb)
+TTITLE30=Extended II-V-I 8-bar Sequence A
+TTITLE31=Extended II-V-I 8-bar Sequence B
+TTITLE32=Parallel 10ths
+TTITLE33=Tres-like II-V-I
+TTITLE34=Extended II-V-I 8-bar Sequence in Minor Mode
+TTITLE35=Percussion Solo Section Sequence
+TTITLE36=Percussion Solo Section in 3-2 Clave Montuno
+TTITLE37=Example Variation A on 8-bar II-V-I Sequence in Major Mode
+TTITLE38=Example Variation B on 8-bar II-V-I Sequence in Major Mode
+TTITLE39=Fo and Fi
+TTITLE40=Fo and Fi with Full Band: 2-3 Clave
+TTITLE41=Fo and Fi with Full Band: 3-2 Clave
+TTITLE42=Bars 3 and 4
+TTITLE43=Bars 5 and 6
+TTITLE44=Bars 7 and 8
+TTITLE45=Fo and Fi Montuno: Entire Phrase
+TTITLE46=F Major I-IV-V in 2-3 Clave: New York City-style
+TTITLE47=F Major I-IV-V in 2-3 Clave: Busier Variation
+TTITLE48=Four-Bar Pattern in 2-3 Clave
+TTITLE49=Tres-style Playing During a Percussion Solo
+TTITLE50=Arpeggio and Chord Combination
+TTITLE51=Four-Bar Pattern in 3-2 Clave
+TTITLE52=Arpeggio and Chord Combination: Minor Mode
+TTITLE53=Tres-style Playing During a Percussion Solo: Minor Mode
+TTITLE54=Single-Harmony Descargas in Minor Mode
+TTITLE55=Putting It All Together: Full Chart
+TTITLE56=Four Variations
+TTITLE57=Guajira in 3-2 Clave
+TTITLE58=Simple Cha-Cha
+TTITLE59=Complex Cha-Cha Variation
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+PLAYORDER=

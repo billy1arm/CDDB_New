@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13161
+#	28406
+#	41781
+#	55304
+#	69016
+#	81310
+#	94215
+#	107709
+#	120254
+#	134763
+#	150097
+#	165881
+#	177190
+#	188374
+#	207508
+#	222192
+#	251426
+#	264835
+#
+# Disc length: 3870 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=f80f1c13
+DTITLE=Charlie Parker - Quasimodo
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Quasimodo
+TTITLE1=How Deep is the Ocean
+TTITLE2=Bongo Beep
+TTITLE3=Relacin' at the Camarillo
+TTITLE4=Cheers
+TTITLE5=Carvin the Bird
+TTITLE6=Stupendous
+TTITLE7=Dexterity
+TTITLE8=Bongo Bop
+TTITLE9=Bird of Paradise
+TTITLE10=Embraceable You
+TTITLE11=Dewey Square
+TTITLE12=The Hymn
+TTITLE13=Home Cooking
+TTITLE14=Ko-Ko
+TTITLE15=April in Paris
+TTITLE16=Round About Midnight
+TTITLE17=Happy Bird Blues
+TTITLE18=Little Willie Leaps - 52nd Street Theme
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

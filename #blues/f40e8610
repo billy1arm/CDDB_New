@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16492
+#	32870
+#	49345
+#	63640
+#	78704
+#	97113
+#	119640
+#	142820
+#	161967
+#	172283
+#	189267
+#	210449
+#	219472
+#	230751
+#	246812
+#
+# Disc length: 3720 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=f40e8610
+DTITLE=Wolfram Huschke - Entdeckungen
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Verspielt
+TTITLE1=Einfach
+TTITLE2=Erinnern
+TTITLE3=Unschuldig
+TTITLE4=Entspannen
+TTITLE5=Aufbrechen
+TTITLE6=Zeitlos
+TTITLE7=Kess (Silberregen)
+TTITLE8=Übermütig
+TTITLE9=Hektisch
+TTITLE10=Sehnsüchtig
+TTITLE11=Traurig (Elegie für einen Clown)
+TTITLE12=Einsam (Musik)
+TTITLE13=Einsam (Text)
+TTITLE14=Träumen (Musik+Text)
+TTITLE15=Fliegen
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

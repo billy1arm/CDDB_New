@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17292
+#	52312
+#	73055
+#	86860
+#	101232
+#	117350
+#	140047
+#	157630
+#	189610
+#	204997
+#	218420
+#	235935
+#	256510
+#	272560
+#	290392
+#	306800
+#	323352
+#
+# Disc length: 4531 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=f811b112
+DTITLE=Peter Green - A Rock Legend
+DYEAR=1900
+DGENRE=blues
+TTITLE0=In the Skies
+TTITLE1=Fool No More
+TTITLE2=Just For You
+TTITLE3=Born On The Wild Side 
+TTITLE4=Shining Star
+TTITLE5=Indian Lover
+TTITLE6=Carry My Love
+TTITLE7=Corner of My Mind
+TTITLE8=Little Dreamer
+TTITLE9=Momma Don'tcha Cry
+TTITLE10=Born Under A Bad Sign
+TTITLE11=Walkin' the Road
+TTITLE12=Loser Two Times
+TTITLE13=What Am I Doing Here
+TTITLE14=Time For Me To Go
+TTITLE15=It's Gonna Be Me
+TTITLE16=You Won't See Me Anymore
+TTITLE17=Bad Bad Feeling
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

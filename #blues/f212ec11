@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13539
+#	37652
+#	58566
+#	78582
+#	92196
+#	111247
+#	134145
+#	154720
+#	178349
+#	204711
+#	223520
+#	248864
+#	269420
+#	308907
+#	322591
+#	342985
+#
+# Disc length: 4846 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=f212ec11
+DTITLE=Passport - Sky Blue and Iguacu
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Passport - Ataraxia, Part 1
+TTITLE1=Passport - Ataraxia, Part 2
+TTITLE2=Passport - Sky Blue
+TTITLE3=Passport - Mandrake
+TTITLE4=Passport - Reng Ding Dang Dong
+TTITLE5=Passport - Loco-Motive
+TTITLE6=Passport - The Secret
+TTITLE7=Passport - Louisiana
+TTITLE8=Passport - Algeria
+TTITLE9=Passport - Bahia Do Sol
+TTITLE10=Passport - Aquamarinha
+TTITLE11=Passport - Bird Of Paradise
+TTITLE12=Passport - Sambukada
+TTITLE13=Passport - Iguacu
+TTITLE14=Passport - Praia Leme
+TTITLE15=Passport - Heavy Weight
+TTITLE16=Passport - Guna Guna
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14840
+#	27707
+#	40920
+#	54520
+#	68442
+#	83005
+#	99440
+#	109007
+#	120935
+#	135757
+#	147822
+#	165365
+#	177895
+#	194830
+#	209687
+#	230027
+#	239372
+#
+# Disc length: 3312 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=f40cee12
+DTITLE=Various Artist - The Orchard Sessions 93
+DYEAR=1900
+DGENRE=
+TTITLE0=Talking To The Moon
+TTITLE1=Normans Ride
+TTITLE2=Nobody Loves You Like Me
+TTITLE3=Fallin Again
+TTITLE4=Lily Hoskins
+TTITLE5=New Mexico
+TTITLE6=High Run
+TTITLE7=Steel Rail Companion
+TTITLE8=Running Wild
+TTITLE9=The Devil's In Her Heart
+TTITLE10=Long Time Gone
+TTITLE11=I Haven't Seen Mary In Years
+TTITLE12=Blue In The Blue Ridge
+TTITLE13=Pale Rider
+TTITLE14=Just One Memory
+TTITLE15=Candle In The Window
+TTITLE16=Don't Let Smokey Mtn. Smoke Get In Your Eyes
+TTITLE17=To Be With You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

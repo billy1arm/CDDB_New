@@ -1,0 +1,77 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	15315
+#	27285
+#	42112
+#	53397
+#	65612
+#	77940
+#	91680
+#	106965
+#	117937
+#	130677
+#	143130
+#	153935
+#	169082
+#	185010
+#	195815
+#	210620
+#	221447
+#	233057
+#	244335
+#
+# Disc length: 3431 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=fd0d6514
+DTITLE=Los Mejores Mariachis - 20 Exitos
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Las Mañanitas
+TTITLE1=Guadalajara
+TTITLE2=Las Golondrinas
+TTITLE3=El Jarabe Tapatio
+TTITLE4=Las Isabeles
+TTITLE5=Amanecer Ranchero
+TTITLE6=La Embarcacion
+TTITLE7=Alla En El Rancho Grande
+TTITLE8=El Gato Montes
+TTITLE9=Armillita
+TTITLE10=Piedras Negras
+TTITLE11=Por Tapatias
+TTITLE12=Silverio
+TTITLE13=Alevantate
+TTITLE14=Las Copetonas
+TTITLE15=El Muchacho Alegre
+TTITLE16=Los Barandales Del Puente
+TTITLE17=El Sauce Y La Palma
+TTITLE18=Seran Los Dos
+TTITLE19=El Son De La Negra
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5048
+#	23384
+#	39724
+#	56605
+#	73802
+#	92036
+#	110353
+#	129229
+#	145587
+#	162818
+#	183492
+#	201415
+#	219620
+#	240674
+#	262176
+#	280913
+#
+# Disc length: 3986 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=f70f9011
+DTITLE=Let's Jam - Blues/Rock Jam
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=tuning
+TTITLE1=F blues
+TTITLE2=G shuffle
+TTITLE3=Am blues
+TTITLE4=slow blues in G
+TTITLE5=Bb blues
+TTITLE6=E blues
+TTITLE7=jazz blues
+TTITLE8=C blues
+TTITLE9=funk in E
+TTITLE10=Bm jam
+TTITLE11=Am, G, F, E rock
+TTITLE12=D Cadd 9 tune
+TTITLE13=old rock in A 
+TTITLE14=rock song in E
+TTITLE15=rock song in A
+TTITLE16=grunge in D
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

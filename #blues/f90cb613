@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13565
+#	26330
+#	38996
+#	52333
+#	65588
+#	76177
+#	89047
+#	102170
+#	114938
+#	127753
+#	139195
+#	153039
+#	164521
+#	176165
+#	188315
+#	198194
+#	215820
+#	233152
+#
+# Disc length: 3256 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=f90cb613
+DTITLE=Leon Berry - Jazz Roads CD101 - Swing - Vol.1 (1937-38)
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Chu Berry And His Stompy Stevedores - Now You're Talking My Language
+TTITLE1=Chu Berry And His Stompy Stevedores - Indiana (1)
+TTITLE2=Chu Berry And His Stompy Stevedores - Indiana (2)
+TTITLE3=Chu Berry And His Stompy Stevedores - Too Marvelous For Words
+TTITLE4=Chu Berry And His Stompy Stevedores - Limehouse Blues
+TTITLE5=Chu Berry And His Stompy Stevedores - Chuberry Jam
+TTITLE6=Chu Berry And His Stompy Stevedores - Maelstrom
+TTITLE7=Chu Berry And His Stompy Stevedores - My Secret Love Affair
+TTITLE8=Chu Berry And His Stompy Stevedores - Ebb Tide
+TTITLE9=Wingy Manone And His Orchestra - Annie Laurie
+TTITLE10=Wingy Manone And His Orchestra - Loch Lomond
+TTITLE11=Wingy Manone And His Orchestra - Down Stream
+TTITLE12=Wingy Manone And His Orchestra - Where's The Waiter
+TTITLE13=Wingy Manone And His Orchestra - My Mariuccia Take A Steamboat
+TTITLE14=Wingy Manone And His Orchestra - In The Land Of Yamo Yamo
+TTITLE15=Chu Berry And His 'Little Jazz' Ensemble - Sittin' In
+TTITLE16=Chu Berry And His 'Little Jazz' Ensemble - Star Dust
+TTITLE17=Chu Berry And His 'Little Jazz' Ensemble - Body And Soul
+TTITLE18=Chu Berry And His 'Little Jazz' Ensemble - Forty Six West Fifty Two
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

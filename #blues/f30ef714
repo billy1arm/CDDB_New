@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15145
+#	26898
+#	40593
+#	55103
+#	67905
+#	84221
+#	95991
+#	108383
+#	121707
+#	136514
+#	150183
+#	163451
+#	175551
+#	197139
+#	211113
+#	226625
+#	241189
+#	254875
+#	274072
+#
+# Disc length: 3833 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=f30ef714
+DTITLE=Various Artist - Jazz Legends  [CD 2-3]
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=George Shearing Quintet - September In The Rain
+TTITLE1=Lionel Hampton - Don't Be That Way
+TTITLE2=Lester Young and The Kansas City Six - Way Down Yonder In New Orleans
+TTITLE3=Coleman Hawkins and His Quartet - I Only Have Eyes For You
+TTITLE4=Bud Powell Trio - I'll Remember April
+TTITLE5=Artie Shaw - Stardust
+TTITLE6=Fletcher Henderson - Queer Notions
+TTITLE7=Johnny Hodges With Duke Ellington - Finesse
+TTITLE8=Ella Fitzgerald With Louis Armstrong - You Won't Be Satisfied
+TTITLE9=Lester Young and The Kansas City Five - Lester Leaps In
+TTITLE10=Billy Eckstine and His Orchestra - Tell Me Pretty Baby
+TTITLE11=Benny Carter - When Lights Are Low
+TTITLE12=Django Reinhardt, Stephane Grappelli and The Quintet Of The Hot Club Of France - Dinah
+TTITLE13=Bunny Berigan and His Orchestra - I Can't Get Started
+TTITLE14=Charlie Barnett - Skyliner
+TTITLE15=Billie Holiday - Yesterdays
+TTITLE16=Duke Ellington and His Famous Orchestra - Perdido
+TTITLE17=Slim Gaillard and His Orchestra Featuring Dizzy Gillespie and Charlie Parker - Popity Pop
+TTITLE18=Errol Garner (Solo Piano) - Overture To Dawn
+TTITLE19=Louis Armstrong and His Orchestra - On The Sunny Side Of The Street
+EXTD=YEAR: 2002
+EXTT0=1949
+EXTT1=1938
+EXTT2=1938
+EXTT3=1944
+EXTT4=1947
+EXTT5=1940
+EXTT6=1933
+EXTT7=1939
+EXTT8=1946
+EXTT9=1939
+EXTT10=1946
+EXTT11=1939
+EXTT12=1934
+EXTT13=1937
+EXTT14=1944
+EXTT15=1939
+EXTT16=1942
+EXTT17=1945
+EXTT18=1944
+EXTT19=1937
+PLAYORDER=

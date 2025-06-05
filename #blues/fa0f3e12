@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11567
+#	28391
+#	43894
+#	52798
+#	66889
+#	107258
+#	124906
+#	143303
+#	156241
+#	171414
+#	188140
+#	212537
+#	225961
+#	243712
+#	255960
+#	271937
+#	284818
+#
+# Disc length: 3904 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=fa0f3e12
+DTITLE=Ella Fitzgerald - Classic Album Collection 1 - In Hollywood
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=This Could Be The Start Of Something Big
+TTITLE1=I've Got The World On A String
+TTITLE2=You're Driving Me Crazy
+TTITLE3=Just In Time
+TTITLE4=It Might As Well Be Spring
+TTITLE5=Take The "A" Train
+TTITLE6=Stairway To The Stars
+TTITLE7=Mr. Paganini
+TTITLE8=Satin Doll
+TTITLE9=Blue Moon
+TTITLE10=Baby, Won't You Please Come Home
+TTITLE11=Air Mail Special
+TTITLE12=Love For Sale
+TTITLE13=Just One Of Those Things
+TTITLE14=The Lady Is A Tramp
+TTITLE15=Perdido
+TTITLE16=Just For My Love
+TTITLE17=Too Close For Comfort
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

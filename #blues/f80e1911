@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15927
+#	35075
+#	50300
+#	68020
+#	82892
+#	97155
+#	117650
+#	135700
+#	145265
+#	164950
+#	183565
+#	198617
+#	214552
+#	231610
+#	243180
+#	255330
+#
+# Disc length: 3611 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=f80e1911
+DTITLE=Various Artist - Bolivian Folklore of Luz del Ande
+DYEAR=1996
+DGENRE=World
+TTITLE0=La Mariposa
+TTITLE1=Awki Awki
+TTITLE2=Diablada
+TTITLE3=Mi Desventura
+TTITLE4=Tres Bailecitos: Bajo los Cielos de Potosi/En el Prado/Un Lagrima
+TTITLE5=Nina Naira
+TTITLE6=Grecos Criollos
+TTITLE7=Coplas Para la Pascua
+TTITLE8=Flor de Ca将ミa
+TTITLE9=El Condor Pasa
+TTITLE10=De la Espera
+TTITLE11=Desde la Trinidad
+TTITLE12=El Arriero
+TTITLE13=Tu Orgullo
+TTITLE14=Achacachenita
+TTITLE15=LLe将ミo Verde
+TTITLE16=Bichito del Flor
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14074
+#	32518
+#	47801
+#	70185
+#	83495
+#	95892
+#	110416
+#	124958
+#	140476
+#	155265
+#	180430
+#	191683
+#	206741
+#	218753
+#	230540
+#	243255
+#	265781
+#
+# Disc length: 3849 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=fc0f0712
+DTITLE=Various Artist - It's All About the Blues
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=40 Days and 40 Nights (Muddy Waters)
+TTITLE1=Commit A Crime (Howlin' Wolf)
+TTITLE2=Stormy Blues (Billie Holiday)
+TTITLE3=Something Inside of Me (Elmore James)
+TTITLE4=Walking Blues (Champion Jack Dupree)
+TTITLE5=Overhead Blues (Smokey Hogg)
+TTITLE6=Baby Please Don't Go (Big Bill Broonzy)
+TTITLE7=Wandering Blues (John Lee Hooker)
+TTITLE8=Trouble In Mind [Live] (Jimmy Weatherspoon featuring Gerry Mulligan and Ben Webster)
+TTITLE9=Out On A Limb (Roosevelt Sykes)
+TTITLE10=Little Red Rooster (Howlin' Wolf)
+TTITLE11=Jinx Blues (Big Bill Broonzy)
+TTITLE12=T'Ain't Nobody's Bizness If I Do (Billie Holiday)
+TTITLE13=Trouble Blues (Charles Brown)
+TTITLE14=Old Saw Mill Blues (Big Joe Williams)
+TTITLE15=I'm Wild About That Thing (Bessie Smith)
+TTITLE16=Ridin' On Down (Big Bill Broonzy)
+TTITLE17=I'm Gonna Meet My Baby Somewhere [Live] (Sam Lightnin' Hopkins)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=
