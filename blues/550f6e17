@@ -1,0 +1,86 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11837
+#	23445
+#	36222
+#	51977
+#	65110
+#	78632
+#	92460
+#	105237
+#	116772
+#	129902
+#	140555
+#	151592
+#	164555
+#	179825
+#	191805
+#	203367
+#	221885
+#	235420
+#	246820
+#	259590
+#	273635
+#	284127
+#
+# Disc length: 3952 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=550f6e17
+DTITLE=Sonny Boy Williamson - The Essential (Disk One)
+DYEAR=1900
+DGENRE=
+TTITLE0=Good Evening Everybody
+TTITLE1=Don't Start Me To Talkin'
+TTITLE2=All My Love In Vain
+TTITLE3=You Killing Me
+TTITLE4=Let Me Explain
+TTITLE5=Your Imagination
+TTITLE6=Don't Lose Your Eye
+TTITLE7=Keep It To Yourself
+TTITLE8=The Key (To Your Door)
+TTITLE9=Have You Ever Been In Love
+TTITLE10=Fattening Frogs For Snakes
+TTITLE11=I Don't Know
+TTITLE12=Like Wolf
+TTITLE13=Cross My Heart
+TTITLE14=Ninety Nine
+TTITLE15=Born Blind
+TTITLE16=Little Village
+TTITLE17=Unseen Eye
+TTITLE18=Your Funeral And My Trial
+TTITLE19=Keep Your Hands Out Of My Pocket
+TTITLE20=Unseeing Eye
+TTITLE21=Let Your Conscience Be Your Guide
+TTITLE22=The Goat
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+PLAYORDER=

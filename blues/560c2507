@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	33053
+#	67618
+#	94093
+#	116138
+#	163225
+#	198620
+#
+# Disc length: 3111 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=560c2507
+DTITLE=Henris Dès - Les belles histoires de pomme d'api n°2
+DYEAR=1991
+DGENRE=Enfants
+TTITLE0=La princesse parfaite (Fanny Joly)
+TTITLE1=Poulou et Sébastien (René Escudié)
+TTITLE2=Le vilain crapaud (Chantal de Marolles)
+TTITLE3=La rentrée des mamans Joe Hoestlandt)
+TTITLE4=Un petit loup de plus (Marie-Hélène Delval)
+TTITLE5=Dame grenouille (Bénédicte La Ferté)
+TTITLE6=Le géant sans parole (Chantal de Marolles)
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

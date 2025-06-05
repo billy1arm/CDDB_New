@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30515
+#	146315
+#	177212
+#	229711
+#	258085
+#	292139
+#
+# Disc length: 4759 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.68 - http://www.feurio.com
+#
+DISCID=58129507
+DTITLE=Buddy Guy - Blues mit Stevie Ray
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Slow Blues (Instrumental)
+TTITLE1=Champagne And Reefer (mit Stevie Ray )
+TTITLE2=Rememberin Stevie
+TTITLE3=Tin Pan Alley ( mit Stevie Ray )
+TTITLE4=Born Under A Bad Sign ( Koko Taylor )
+TTITLE5=Black Night
+TTITLE6=Sweet Home Chicago ( mit Stevie Ray )
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

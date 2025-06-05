@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31936
+#	74080
+#	129555
+#	175427
+#	246024
+#
+# Disc length: 3433 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=540d6706
+DTITLE=Joe McPhee - Nation Time Preview
+DYEAR=1969
+DGENRE=Jazz
+TTITLE0=Nation Time
+TTITLE1=Untitled
+TTITLE2=Milestones
+TTITLE3=My Funny Valentine
+TTITLE4=Bag's Groove
+TTITLE5=Breakaway Theme
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

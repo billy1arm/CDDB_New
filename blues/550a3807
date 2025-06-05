@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28800
+#	60048
+#	89203
+#	118575
+#	138160
+#	163538
+#
+# Disc length: 2618 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=550a3807
+DTITLE=John Rae - Opus De Jazz Vol.2
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Potlikker Blues
+TTITLE1=Ah-Leu-Cha
+TTITLE2=Roll On Down
+TTITLE3=Back Yard Blues
+TTITLE4=By My Side
+TTITLE5=Parker's Mood
+TTITLE6=Beat and Blue
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

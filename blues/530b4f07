@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	65220
+#	80440
+#	109547
+#	158662
+#	172995
+#	203785
+#
+# Disc length: 2897 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=530b4f07
+DTITLE=Lighthawk - Journey of the Crystal Planet
+DYEAR=1996
+DGENRE=New Age
+TTITLE0=01 Sojourn
+TTITLE1=02 Transition
+TTITLE2=03 The Crystal Heart
+TTITLE3=04 Crystal Rain Part 1
+TTITLE4=05 The Clearing
+TTITLE5=06 Crystal Rain II
+TTITLE6=07 The Awakening
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

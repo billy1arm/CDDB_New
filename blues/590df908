@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33033
+#	73833
+#	101973
+#	142805
+#	166575
+#	202615
+#	236253
+#
+# Disc length: 3579 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=590df908
+DTITLE=Mark Shilansky - First Look
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=K.W.
+TTITLE1=Love for Sale
+TTITLE2=How Deep is the Ocean
+TTITLE3=The Café No
+TTITLE4=On the Rave
+TTITLE5=Here's that Rainy Day
+TTITLE6=Humpty Dumpty
+TTITLE7=I Remember You
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

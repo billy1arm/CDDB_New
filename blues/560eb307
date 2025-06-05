@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20517
+#	74920
+#	107265
+#	147227
+#	170255
+#	255767
+#
+# Disc length: 3765 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=560eb307
+DTITLE=Lee Konitz - Rhapsody
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=I Hear a Rhapsody
+TTITLE1=Lo Ko Mo And Frizz
+TTITLE2=The Aerie
+TTITLE3=Trio No 1
+TTITLE4=All The Things You Are
+TTITLE5=Exposition
+TTITLE6=Flyin' - Mumbles and Jumbles
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

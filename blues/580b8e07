@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37801
+#	67285
+#	95727
+#	128017
+#	152259
+#	184277
+#
+# Disc length: 2960 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=580b8e07
+DTITLE=Dizzy Gillespie - Giants
+DYEAR=1971
+DGENRE=Jazz
+TTITLE0=Love for sale
+TTITLE1=Autumn leaves
+TTITLE2=Caravan
+TTITLE3=Jitterbug waltz
+TTITLE4=Willow weep for me
+TTITLE5=Birks works
+TTITLE6=My man
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

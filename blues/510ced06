@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41075
+#	85297
+#	110611
+#	163061
+#	205484
+#
+# Disc length: 3311 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=510ced06
+DTITLE=Miles Davis - Kind of Blue
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=So What
+TTITLE1=Freddie Freeloader
+TTITLE2=Blue in Green
+TTITLE3=All Blues
+TTITLE4=Flamenco Sketches
+TTITLE5=Flamenco Sketches (alt take)
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

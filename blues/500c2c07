@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33098
+#	72000
+#	91115
+#	125308
+#	167488
+#	194735
+#
+# Disc length: 3118 seconds
+#
+# Revision: 11
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=500c2c07
+DTITLE=指揮_ヘルベルト・フォン・カラヤン　BP - ホルスト：組曲「惑星」作品32
+DYEAR=1981
+DGENRE=Classical
+TTITLE0=火星 戦争をもたらすもの
+TTITLE1=金星 平和をもたらすもの
+TTITLE2=水星 翼のある使者
+TTITLE3=木星 快楽をもたらすもの
+TTITLE4=土星 老年をもたらすもの
+TTITLE5=天王星 魔術師
+TTITLE6=海王星 神秘をもたらすもの
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

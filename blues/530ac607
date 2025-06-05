@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30337
+#	61911
+#	103837
+#	145912
+#	168075
+#	199500
+#
+# Disc length: 2760 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=530ac607
+DTITLE=Massimo Sammi - First Day
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=First Day
+TTITLE1=Encryption
+TTITLE2=Prisoner's Dilemma #1 - Be Quiet
+TTITLE3=Prisoner's Dilemma #2 - Rat Out
+TTITLE4=Icecream and Tears, Please
+TTITLE5=Hallways
+TTITLE6=Disappeared Friends
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

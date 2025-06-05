@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19350
+#	44767
+#	93637
+#	111950
+#	137342
+#
+# Disc length: 2345 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=51092706
+DTITLE=Led Zeppelin - Physical Graffiti CD-1
+DYEAR=1975
+DGENRE=Hard Rock
+TTITLE0=Custard Pie
+TTITLE1=The Rover
+TTITLE2=In My Time Of Dying
+TTITLE3=Houses Of The Holy
+TTITLE4=Trampled Under Foot
+TTITLE5=Kashmir
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

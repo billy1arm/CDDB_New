@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26200
+#	51695
+#	78015
+#	102950
+#	129772
+#	156712
+#
+# Disc length: 2440 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=59098607
+DTITLE=王森地 - 神秘紫水晶 Crystal Mystery
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=星舞 Catching Clouds
+TTITLE1=神秘國度 Going to the Farthest
+TTITLE2=夜 Deepest Night
+TTITLE3=漂浮 Something Like a Dream
+TTITLE4=彩霞 Web of Stars
+TTITLE5=紫晶 Nations under the Sea
+TTITLE6=迷 Purple Puzzle
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

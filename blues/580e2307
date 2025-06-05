@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37446
+#	77483
+#	93126
+#	128536
+#	183484
+#	239873
+#
+# Disc length: 3621 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=580e2307
+DTITLE=José Serebrier - Symphony N°2, Fantasia, Sonata for Violin Solo, Winterreise  (José Serebrier, LSO)
+DYEAR=1999
+DGENRE=Musique Contemporaine
+TTITLE0=Symphony N°2 (Partita)  [1958] - I. Prelude
+TTITLE1=Symphony N°2 (Partita)  [1958] - II. Funeral March (Poema Elegiaco)
+TTITLE2=Symphony N°2 (Partita)  [1958] - III. Interlude
+TTITLE3=Symphony N°2 (Partita)  [1958] - IV. Fugue
+TTITLE4=Fantasia (for strings)  [1960]
+TTITLE5=Sonata for Violin Solo  [1948]
+TTITLE6=Winterreise  [1999]
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

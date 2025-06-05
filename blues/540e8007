@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41300
+#	67940
+#	113376
+#	147650
+#	196792
+#	227794
+#
+# Disc length: 3714 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=540e8007
+DTITLE=Miles Davis - The Complete Miles Davis at Montreux 1973-1991 CD11
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Theme From Jack Johnson
+TTITLE1=New Blues
+TTITLE2=maze
+TTITLE3=Human Nature
+TTITLE4=Wrinkle
+TTITLE5=Tutu
+TTITLE6=Splatch
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

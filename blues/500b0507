@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28702
+#	64669
+#	98695
+#	129677
+#	155544
+#	187613
+#
+# Disc length: 2823 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=500b0507
+DTITLE=Duke ELLINGTON /Johnny HODGES - Back to Back
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=Wabash Blues
+TTITLE1=Basin Street Blues
+TTITLE2=Beale Street Blues
+TTITLE3=Weary Blues
+TTITLE4=St. Louis Blues
+TTITLE5=Loveless Love
+TTITLE6=Royal Garden Blues
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

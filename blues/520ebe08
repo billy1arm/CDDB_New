@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46537
+#	75853
+#	114854
+#	165755
+#	202163
+#	226416
+#	258745
+#
+# Disc length: 3776 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=520ebe08
+DTITLE=Herbie Hancock - Watermelon Man, The Ultimate Hancock! - CD 2
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Herbie Hancock - Sly
+TTITLE1=Herbie Hancock - Watermelon Man
+TTITLE2=Herbie Hancock - Steppin' In It
+TTITLE3=Herbie Hancock - Butterfly
+TTITLE4=Herbie Hancock - Doin' It
+TTITLE5=Herbie Hancock - 4 A.M.
+TTITLE6=Herbie Hancock - Everybody's Broke
+TTITLE7=Herbie Hancock - Rock It
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

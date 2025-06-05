@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28140
+#	61870
+#	97829
+#	143010
+#	166981
+#	211842
+#
+# Disc length: 3091 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=530c1107
+DTITLE=Alejandro Aranda - Vuelta
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Pica Son
+TTITLE1=Para Mi
+TTITLE2=La Sureña
+TTITLE3=DIM
+TTITLE4=Embalado
+TTITLE5=Blues al Pepe
+TTITLE6=Pa'l Encuentro
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

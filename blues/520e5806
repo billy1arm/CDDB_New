@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	74351
+#	89769
+#	119439
+#	167350
+#	207977
+#
+# Disc length: 3674 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=520e5806
+DTITLE=The Byard Lancaster Unit - Live at Macalester College
+DYEAR=1971
+DGENRE=Jazz
+TTITLE0=1324
+TTITLE1=Last Summer
+TTITLE2=War World
+TTITLE3=Live at Macalester
+TTITLE4=World in Me
+TTITLE5=Thought
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

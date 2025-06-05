@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25595
+#	46632
+#	76437
+#	139587
+#	172872
+#	193835
+#	233352
+#	255005
+#
+# Disc length: 3585 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=570dff09
+DTITLE=Pour ceux qui aiment le Jazz - Live CD1
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Duke Ellington - Carolina shout/Rockin in rythm
+TTITLE1=Jimmy Smith - I got a woman
+TTITLE2=Jimmy Giuffre - My funny Valentine
+TTITLE3=Miles Davis and John Coltrane - Bye bye blackbird
+TTITLE4=Gerry Mulligan and The Concert Jazz Band - I'm gonna go fishin
+TTITLE5=Stéphane Grappelli and Sven Asmussen - Honeysuckle rose
+TTITLE6=Dizzy Gillepsie - One note Samba
+TTITLE7=Count Basie - Every day
+TTITLE8=Eddie Vinson - All right OK you win
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

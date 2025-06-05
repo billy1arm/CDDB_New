@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50105
+#	106244
+#	149682
+#	187296
+#
+# Disc length: 3199 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=500c7d05
+DTITLE=Pablo Gil - Suka Jazz en Directo CD1
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Wishing Well (M. Stern)
+TTITLE1=Yesterdays (J. Kern)
+TTITLE2=Wing and a Prayer (M. Stern)
+TTITLE3=Mayor Delights (P. Gil)
+TTITLE4=Slow Change (M. Stern)
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

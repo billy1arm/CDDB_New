@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46017
+#	88325
+#	126420
+#	178415
+#	219592
+#
+# Disc length: 3117 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=580c2b06
+DTITLE=Sights - El Sur
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Tarara ～ Matsuri
+TTITLE1=Days
+TTITLE2=Choto
+TTITLE3=One Morning ～ Cafe Naniwa
+TTITLE4=Sur
+TTITLE5=Insect House
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

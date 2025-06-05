@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38090
+#	59547
+#	82597
+#	135197
+#	163632
+#	216950
+#	247570
+#
+# Disc length: 3581 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=560dfb08
+DTITLE=Groben/Hager/Orch. Symph. RTL - Cellokonzerte Elgar op.95/Shostakovich op.107
+DYEAR=1994
+DGENRE=Classical
+TTITLE0=Adagio-Moderato-Elgar
+TTITLE1=Lento-Allegro Molto-Elgar
+TTITLE2=Adagio-Elgar
+TTITLE3=Allegro-Elgar
+TTITLE4=Allegretto-Shostakovich
+TTITLE5=Moderato-Shostakovich
+TTITLE6=Cadenza-Shostakovich
+TTITLE7=Allegro non troppo-Shostakovich
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

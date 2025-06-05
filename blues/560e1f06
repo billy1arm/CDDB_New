@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51554
+#	117794
+#	160159
+#	193973
+#	222122
+#
+# Disc length: 3617 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=560e1f06
+DTITLE=Rainer Falk and Peter Guschelbauer - Wassermusik - ganz für mich #U
+DYEAR=1997
+DGENRE=Relaxation
+TTITLE0=Der Regen
+TTITLE1=Die Erde
+TTITLE2=Die Quelle
+TTITLE3=Der Fluß
+TTITLE4=Das Meer
+TTITLE5=Die Wolke
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

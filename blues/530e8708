@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	27840
+#	61732
+#	87345
+#	143877
+#	174107
+#	210080
+#	240152
+#
+# Disc length: 3721 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=530e8708
+DTITLE=Kenn Lending Blues Band - Game Of Life (Live At Djurs Blues Festival '95)
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Chess
+TTITLE1=Ain't It Hard
+TTITLE2=No Reason
+TTITLE3=Going To Build Me A Playhouse
+TTITLE4=Sidewalk Strut
+TTITLE5=Night Watchman Blues
+TTITLE6=Times
+TTITLE7=I'm Coming Home
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

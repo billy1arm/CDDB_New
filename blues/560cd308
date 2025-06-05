@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34645
+#	79540
+#	107319
+#	130879
+#	165071
+#	197639
+#	221002
+#
+# Disc length: 3285 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=560cd308
+DTITLE=Dave Brubeck - Take Five - Jazz Piano Mastes
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Tritonis
+TTITLE1=Koto song
+TTITLE2=Improvisation
+TTITLE3=Big bad Basie
+TTITLE4=(What did I do to be so) black and blue
+TTITLE5=Take five
+TTITLE6=Benjamin Christopher David Brubeck
+TTITLE7=Blue rondo a la Turk
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

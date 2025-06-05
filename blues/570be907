@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40755
+#	79840
+#	109317
+#	140627
+#	168942
+#	198800
+#
+# Disc length: 3051 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=570be907
+DTITLE=Manhattan Jazz Quintet - Caravan
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Caravan
+TTITLE1=Cloudy
+TTITLE2=Five Spot After Dark
+TTITLE3=A Night In Tunisia
+TTITLE4=Broadway Stroll
+TTITLE5=You And The Night And The Music
+TTITLE6=For Duke
+EXTD=caravan YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

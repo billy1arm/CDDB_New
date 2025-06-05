@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	191640
+#	208588
+#	230624
+#	252897
+#	288066
+#
+# Disc length: 4248 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=50109606
+DTITLE=Leo Brouwer and Irakere - Leo Brouwer and Irakere
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=a-The entertainer  b-???  c-Concierto de Aranjuez  d-Romance (juegos prohibidos)  e-Preludio #3
+TTITLE1=Bacalao con pan
+TTITLE2=Valle de Picadura
+TTITLE3=Danza de los ñañingos
+TTITLE4=Las margaritas
+TTITLE5=A Chano Pozo
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

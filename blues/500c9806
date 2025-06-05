@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38830
+#	89630
+#	116682
+#	160352
+#	210717
+#
+# Disc length: 3226 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=500c9806
+DTITLE=FURTWANGLER - BEETHOVEN SYMPHONY NO.5
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=FURTWANGLER/交響曲第5番
+TTITLE1=FURTWANGLER/運命 2
+TTITLE2=FURTWANGLER/運命 3
+TTITLE3=FURTWANGLER/運命 4
+TTITLE4=ベルリンフィルハーモニー管弦楽団/トリスタンとイゾルデ   前奏曲
+TTITLE5=WAGNER トリスタンとイゾルデ 2
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

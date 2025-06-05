@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2234
+#	63948
+#	110476
+#	143778
+#	178363
+#
+# Disc length: 2983 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=510ba506
+DTITLE=Billy Taylor Trio - Live At IAJE
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Introduction
+TTITLE1=Impromptu
+TTITLE2=Body and Soul
+TTITLE3=Conversion
+TTITLE4=Titoro
+TTITLE5=Cote d'Ivoire
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

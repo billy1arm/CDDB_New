@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32503
+#	66388
+#	96870
+#	140533
+#	193001
+#	227385
+#
+# Disc length: 3520 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=590dbe07
+DTITLE=Tete Montoliu - I Wanna Talk About You
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Nexus, Plexus, Sexus
+TTITLE1=Blues For Wim And Maxine
+TTITLE2=Scandia Skies
+TTITLE3=Jo Vull Que M'Acariciis (Caress Me)
+TTITLE4=I Wanna Talk About You
+TTITLE5=Confirmation
+TTITLE6=Autumn Leaves
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

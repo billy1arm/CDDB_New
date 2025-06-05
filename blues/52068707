@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  17875
+#  35622
+#  53802
+#  72190
+#  90335
+#  107695
+#
+# Disc length: 1673 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=52068707
+DTITLE=Mad Cobra - Flex
+DYEAR=1900
+DGENRE=
+TTITLE0=Flex (Radio Edit)
+TTITLE1=Flex (Sex Mix)
+TTITLE2=Flex (Straight Mix)
+TTITLE3=Flex (Ruggamental Mix)
+TTITLE4=Yes Or No (Dancehall Mix)
+TTITLE5=Yes Or No (House Mix)
+TTITLE6=Yes Or No (Rub-A-Dub Mix)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

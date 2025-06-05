@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  73087
+#  103162
+#  128849
+#  143949
+#  160537
+#
+# Disc length: 3037 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=510bdb06
+DTITLE=Santa Esmeralda - Best Of Santa Esmeralda
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Let Me Be Misunderstood and Esmeralda Suite
+TTITLE1=Generation
+TTITLE2=You're My Everithing
+TTITLE3=Hey Gyp
+TTITLE4=Gloria
+TTITLE5=The House Of The Rising Sun and Quasimodo Suite
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

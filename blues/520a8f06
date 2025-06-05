@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44431
+#	70659
+#	92169
+#	145371
+#	171915
+#
+# Disc length: 2705 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=520a8f06
+DTITLE=Miles Davies - Kind of bue cd 2
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=On green dolphin street
+TTITLE1=Fran-dance
+TTITLE2=Stella by starlight
+TTITLE3=Love for sale
+TTITLE4=Fran-dance (alternate take)
+TTITLE5=So what
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

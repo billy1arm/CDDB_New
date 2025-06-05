@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30025
+#	51325
+#	65050
+#	96550
+#	120750
+#	158762
+#
+# Disc length: 2387 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=51095107
+DTITLE=What's Love got to with It - Tina Turner
+DYEAR=1985
+DGENRE=Blues
+TTITLE0=What's Love got to with It
+TTITLE1=Let's stay together
+TTITLE2=Show some respect
+TTITLE3=Private Dancer
+TTITLE4=Help
+TTITLE5=Proud Mary
+TTITLE6=Dancing in the Dark
+EXTD=YEAR: 1985 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	23538
+#	61857
+#	88791
+#	110234
+#	128419
+#	153646
+#
+# Disc length: 2355 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=51093107
+DTITLE=Salsa Mania - Salsa Mania
+DYEAR=1966
+DGENRE=Salsa
+TTITLE0=La Bola
+TTITLE1=Soy todo
+TTITLE2=El baile Chino
+TTITLE3=Baby, Ilove yoy way
+TTITLE4=El ritmo del corazon
+TTITLE5=Fin de semana, es la cita
+TTITLE6=A que me mantengo
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

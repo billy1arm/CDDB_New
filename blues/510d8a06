@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47109
+#	117142
+#	163504
+#	214722
+#	239206
+#
+# Disc length: 3468 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=510d8a06
+DTITLE=John Coltrane - Blue Train  [CD 08-10]
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Wheelin'  (Take 1)
+TTITLE1=Robbin's Nest
+TTITLE2=Dealin'  (Take 2)
+TTITLE3=Wheelin'  (Take 2)
+TTITLE4=Slow Dance
+TTITLE5=Soft Lights And Sweet Music
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36055
+#	46817
+#	63465
+#	118752
+#	161126
+#	191332
+#
+# Disc length: 3184 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=590c6e07
+DTITLE=Eric Dolphy - Previously Unissued Official Studio Recordings
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Music Matador (Alternate Take)
+TTITLE1=Love Me (Alternate Take 1)
+TTITLE2=Love Me (Alternate Take 2)
+TTITLE3=Alone Together (Alternate Take)
+TTITLE4=Jitterbug Waltz (Alternate Take)
+TTITLE5=Mandrake (Alternate Take)
+TTITLE6=Burning Spear (Alternate Take)
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

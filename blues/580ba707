@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30500
+#	50745
+#	79865
+#	109810
+#	159720
+#	192355
+#
+# Disc length: 2985 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=580ba707
+DTITLE=Mal Waldron and Takeo Moriyama - Maturity 3 Dual
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Bou
+TTITLE1=Kyou-Kyou
+TTITLE2=San
+TTITLE3=Bou-Bou
+TTITLE4=Ten
+TTITLE5=Yawa
+TTITLE6=Rai-Rai
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

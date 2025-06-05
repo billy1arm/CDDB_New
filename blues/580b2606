@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36750
+#	65720
+#	96708
+#	139553
+#	184210
+#
+# Disc length: 2856 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=580b2606
+DTITLE=W.A.Mozart - 自信回復のモーツァルト
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=第1楽章 Allegro
+TTITLE1=第2楽章 Andante cantabile
+TTITLE2=第3楽章 Rondeau-Andante grazioso-Allegro ma non troppo
+TTITLE3=第1楽章 Allegro aperto
+TTITLE4=第2楽章 Adagio
+TTITLE5=第3楽章 Rondeau-Tempo di menuetto-Allegro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

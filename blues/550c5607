@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     28995
+#     87590
+#     128895
+#     158770
+#     175667
+#     204892
+# 
+# Disc length: 3160 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=550c5607
+DTITLE=Eric Clapton - 24 Nights [CD2]
+DYEAR=1900
+DGENRE=
+TTITLE0=Pretending
+TTITLE1=Bad Love
+TTITLE2=Old Love
+TTITLE3=Wonderful Tonight
+TTITLE4=Bell Bottom Blues
+TTITLE5=Hard Times
+TTITLE6=Edge Of Darkness
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21109
+#	47484
+#	69116
+#	98018
+#	118700
+#	186335
+#
+# Disc length: 3008 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=510bbe07
+DTITLE=Trio Joubran - Asfâr
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Nawwâr
+TTITLE1=Zawâj El Yamâm
+TTITLE2=Dawwâr El Shams
+TTITLE3=Douja
+TTITLE4=Sama Cordoba
+TTITLE5=Asfâr
+TTITLE6=Masâna
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

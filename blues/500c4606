@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44697
+#	95325
+#	121267
+#	158040
+#	187430
+#
+# Disc length: 3144 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=500c4606
+DTITLE=Miles Davis - The Man With The Horn
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=Fat Time
+TTITLE1=Back Seat Betty
+TTITLE2=Shout
+TTITLE3=Aida
+TTITLE4=The Man With The Horn
+TTITLE5=Ursula
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

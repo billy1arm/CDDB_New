@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23415
+#	38447
+#	60785
+#	81977
+#	101187
+#	122952
+#	143532
+#
+# Disc length: 2153 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=58086708
+DTITLE=J-BLUES - J-BLUES BATTLE Vol.3
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=All Your Love
+TTITLE1=Get Back
+TTITLE2=Ain't Nobody's Business If I Do
+TTITLE3=Bitch
+TTITLE4=Bayou Blood
+TTITLE5=Black Velvet
+TTITLE6=Stone Free
+TTITLE7=Stormy Monday
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

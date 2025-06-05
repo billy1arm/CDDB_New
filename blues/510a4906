@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43595
+#	71180
+#	98797
+#	138525
+#	167597
+#
+# Disc length: 2635 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=510a4906
+DTITLE=Art Blakey and THE JAZZ MESSENGERS - The Big Beat
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=The Chess Players
+TTITLE1=Sakeena's Vision
+TTITLE2=Politely
+TTITLE3=Dat Dere
+TTITLE4=Lester Left Town
+TTITLE5=It's Only Paper Moon
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

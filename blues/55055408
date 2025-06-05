@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12213
+#	26966
+#	41257
+#	53694
+#	66282
+#	80259
+#	92350
+#
+# Disc length: 1366 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=55055408
+DTITLE=Divers - Jazzmag n°113 - 04-2010 (Accordéons Swing d'Europe)
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=George Shearing - Squeezin' the blues
+TTITLE1=Gorni Kramer - Polvere di Stelle (Stardust)
+TTITLE2=Albert Vossen - Amazonas
+TTITLE3=Alfred Siegrist - Avalon
+TTITLE4=Hubert Simplisse - Vous avez un beau chapeau (Idaho)
+TTITLE5=Johnny Meyer - Ain't she sweet
+TTITLE6=Vera Auer - Apple Honey
+TTITLE7=Tito Burns - East of Suez
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

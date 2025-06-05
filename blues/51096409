@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17927
+#	40600
+#	61692
+#	82735
+#	105807
+#	130720
+#	151635
+#	173837
+#
+# Disc length: 2406 seconds
+#
+# Revision: 25
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=51096409
+DTITLE=Davis, Miles - Doo-Bop
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Mystery
+TTITLE1=The Doo Bop Song
+TTITLE2=Chocolate Chip
+TTITLE3=High Speed Chase
+TTITLE4=Blow
+TTITLE5=Sonya
+TTITLE6=Fantasy
+TTITLE7=Duke Booty
+TTITLE8=Mystery (Reprise)
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

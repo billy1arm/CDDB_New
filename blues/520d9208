@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	30204
+#	50823
+#	81108
+#	113138
+#	162801
+#	192179
+#	225173
+#
+# Disc length: 3476 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=520d9208
+DTITLE=Musselwhite - Live 1986 Up and down the Highway
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Hey Miss Bessie
+TTITLE1=Key to the Highway
+TTITLE2=Big Leg Womaen (Short Mini Skirt)
+TTITLE3=Everybody needs Somebody
+TTITLE4=Candy Kitchen
+TTITLE5=Up and Down the Avenue
+TTITLE6=Need my Baby
+TTITLE7=Skinny Woman
+EXTD=YEAR: 2000 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

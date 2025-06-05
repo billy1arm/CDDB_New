@@ -1,0 +1,37 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     78460
+#     100855
+#     143572
+#     214365
+#     265262
+# 
+# Disc length: 4041 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=500fc706
+DTITLE=Ludvig van Beethoven - Piano Concertos No. 3 and 4
+DYEAR=1900
+DGENRE=
+TTITLE0=1. Allegro moderato
+TTITLE1=2. Andante con moto
+TTITLE2=3.  Rondo (vivace)
+TTITLE3=1. Allegro con brio
+TTITLE4=2. Largo
+TTITLE5=3. Rondo (Allegro)
+EXTD=Artur Schnabel, piano\nPhilharmonia Orchestra\nconducted by Issay Dobro
+EXTD=wen\n\nBeethoven\nPiano Concerto No. 4 in G Major, Op. 58\nrecorded 194
+EXTD=6\nPiano Concerto No. 3 in c minor, Op. 37\nrecorded 1957\n
+EXTT0=Cnto. no. 4
+EXTT1=Cnto. no. 4
+EXTT2=Cnto. no. 4
+EXTT3=Cnto. no. 3
+EXTT4=Cnto. no. 3
+EXTT5=Cnto. no. 3
+PLAYORDER=

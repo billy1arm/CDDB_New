@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20510
+#	60825
+#	86900
+#	119948
+#	144438
+#
+# Disc length: 2379 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=50094906
+DTITLE=Moore, Gary - Back To The Blues (Live Montreux Blues Festival July 7th 1990) Disc 2
+DYEAR=1990
+DGENRE=Blues
+TTITLE0=Too Tired (With Albert Collins)
+TTITLE1=Cold Cold Feeling (With Albert Collins)
+TTITLE2=Further On Up The Road (With Albert Collins)
+TTITLE3=King Of The Blues (With Albert Collins)
+TTITLE4=Stop Messin' Around (With Albert Collins)
+TTITLE5=The Blues Is Alright (With Albert Collins)
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

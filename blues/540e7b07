@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40456
+#	71366
+#	106410
+#	150665
+#	196384
+#	229548
+#
+# Disc length: 3709 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=540e7b07
+DTITLE=Adam Lane - Absolute Horizon
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Absolute Horizon
+TTITLE1=Stars
+TTITLE2=The Great Glass Elevator
+TTITLE3=Run To Infinity
+TTITLE4=Apparent Horizon
+TTITLE5=Bioluminescence
+TTITLE6=Light
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

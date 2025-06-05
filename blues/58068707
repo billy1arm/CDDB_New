@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17767
+#	36897
+#	55912
+#	77205
+#	97287
+#	111107
+#
+# Disc length: 1673 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=58068707
+DTITLE=Various Artist - Swing Hi - Swing Lo.
+DYEAR=1946
+DGENRE=Jazz
+TTITLE0=I've Found A New Baby
+TTITLE1=Limehouse Blues
+TTITLE2=Slapstick
+TTITLE3=Conversing In Blue
+TTITLE4=Blues For Clarinets
+TTITLE5=Basically Blue
+TTITLE6=Blues In My Music Room
+EXTD=YEAR: 1946
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

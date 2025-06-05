@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40588
+#	86625
+#	155111
+#	188781
+#	215999
+#
+# Disc length: 3302 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=510ce406
+DTITLE=Christophe Joneau Quartet - Ici Et Maintenant
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Ici Et Maintenant
+TTITLE1=Indécision
+TTITLE2=Urban Bling-Blang
+TTITLE3=Zyva
+TTITLE4=Déambulation
+TTITLE5=Un Songe En Hiver
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

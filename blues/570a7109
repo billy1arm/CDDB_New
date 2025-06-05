@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25572
+#	46547
+#	69960
+#	93557
+#	113287
+#	136680
+#	154125
+#	175617
+#
+# Disc length: 2675 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.07
+#
+DISCID=570a7109
+DTITLE=Lee Ritenour - Earth Run
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Soaring
+TTITLE1=Earth Run
+TTITLE2=If I'm Dreamin' (Don't Wake Me)
+TTITLE3=Watercolors
+TTITLE4=*The Sauce
+TTITLE5=Butterfly
+TTITLE6=Hero
+TTITLE7=Sanctuary
+TTITLE8=Water From The Moon
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31717
+#	94277
+#	106885
+#	145617
+#	169155
+#	188105
+#	233255
+#
+# Disc length: 3399 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=560d4508
+DTITLE=明田川荘之 - Wappe
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Strange Melo
+TTITLE1=Wappe
+TTITLE2=St. Thomas
+TTITLE3=Airegin Rhapsody
+TTITLE4=I Like Ume-San
+TTITLE5=Urgency
+TTITLE6=Oyo-Hyakuzawa
+TTITLE7=On The Sunny Side Of The Street
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

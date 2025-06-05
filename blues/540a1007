@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25992
+#	48325
+#	85378
+#	104266
+#	134378
+#	162853
+#
+# Disc length: 2578 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=540a1007
+DTITLE=Suzanne Langille and Loren Mazzacane Connors - 1987-1989
+DYEAR=1900
+DGENRE=
+TTITLE0=Wee Wee Hours
+TTITLE1=Horses Blues
+TTITLE2=TB Blues
+TTITLE3=Kumbaya
+TTITLE4=Motherless Child
+TTITLE5=Haunted House
+TTITLE6=Amazing Grace
+EXTD=Secretly Canadian\nSC34\n(c)2000
+EXTT0=(Chuck Berry)
+EXTT1=(trad./arr. S. Langille)
+EXTT2=(Jimmy Rodgers)
+EXTT3=(trad./arr. S. Langille)
+EXTT4=(trad./arr. S. Langille)
+EXTT5=(Lonnie Johnson)
+EXTT6=(trad./arr. S. Langille)
+PLAYORDER=

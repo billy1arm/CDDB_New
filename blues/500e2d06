@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	75552
+#	127310
+#	171072
+#	244385
+#	259190
+#
+# Disc length: 3631 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.76
+#
+DISCID=500e2d06
+DTITLE=Gidon Kremer - Edition Lockenhaus, Vol.1
+DYEAR=1984
+DGENRE=Classic
+TTITLE0=Cesar Franck - Quintet in F minor for Piano and Strings - Molto moderato quasi lento, Allegro
+TTITLE1=Cesar Franck - Quintet in F minor for Piano and Strings - Lento, con molto sentimento
+TTITLE2=Cesar Franck - Quintet in F minor for Piano and Strings - Allegro non troppo, ma con fuoco
+TTITLE3=Andre Caplet - Conte fantastique d'apres une des...
+TTITLE4=Francis Poulenc - Zewi Lieder aus...
+TTITLE5=Francis Poulenc - Zewi Lieder aus...
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

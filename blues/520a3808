@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19542
+#	45866
+#	68333
+#	95700
+#	109550
+#	131387
+#	159588
+#
+# Disc length: 2618 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=520a3808
+DTITLE=Yonathan Avishai - Bertrand Noel (featuring Avishai Cohen) - The Lost Boys
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=A song for dying country
+TTITLE1=Chaque chose
+TTITLE2=Le léopard endormi
+TTITLE3=The lost boys
+TTITLE4=April in Paris
+TTITLE5=La désirade
+TTITLE6=La lettre
+TTITLE7=Sandrine
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

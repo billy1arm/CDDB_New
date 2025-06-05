@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11578
+#	25087
+#	32868
+#	47955
+#	63921
+#	90585
+#
+# Disc length: 1578 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=50062807
+DTITLE=Moondog - and his Friends
+DYEAR=1953
+DGENRE=Jazz
+TTITLE0=Dragon's Teeth - Voices of Spring
+TTITLE1=Oasis
+TTITLE2=Tree Frog - Be a Hobo
+TTITLE3=Instrumental Round - Double Bass Duo - Why Spend the Dark Night with You?
+TTITLE4=Theme and Variations - Rim Shot
+TTITLE5=Suite 1: First, Second, Third Movement
+TTITLE6=Suite 2: First, Second, Third Movement
+EXTD=YEAR: 1953
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22502
+#	44038
+#	75329
+#	92240
+#	135818
+#	158874
+#	201281
+#
+# Disc length: 3090 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=550c1008
+DTITLE=Marcus Shelby Jazz Orchestra - The Lights Suite
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Moten Swing
+TTITLE1=Maia
+TTITLE2=The Lights
+TTITLE3=Afro Mission
+TTITLE4=Portrait
+TTITLE5=Dance of the Mission Babies
+TTITLE6=Anai Petit
+TTITLE7=Dinah
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

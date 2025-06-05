@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15519
+#	30819
+#	48633
+#	63465
+#	77153
+#	90806
+#	108495
+#
+# Disc length: 1639 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=51066508
+DTITLE=The SHINDIG - The SHINDIG
+DYEAR=2002
+DGENRE=Blues
+TTITLE0=Excuses
+TTITLE1=You're The One
+TTITLE2=A New Pair Of Shoes
+TTITLE3=Stay With Me
+TTITLE4=Places
+TTITLE5=Keep It Together
+TTITLE6=Head Over Heels
+TTITLE7=Don't Tread On Me
+EXTD=YEAR: 2002 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

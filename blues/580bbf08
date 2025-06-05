@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24157
+#	60787
+#	89502
+#	126925
+#	159002
+#	178407
+#	204875
+#
+# Disc length: 3009 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=580bbf08
+DTITLE=Wes Montgomery - Portrait of Wes
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Freddie Freeloader
+TTITLE1=Lolita
+TTITLE2=Blues Riff (Album Version)
+TTITLE3=Blues Riff (Take 8)
+TTITLE4=Dangerous
+TTITLE5=Yesterday's Child
+TTITLE6=Moanin' (Album Version)
+TTITLE7=Moanin' (Take 7)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23335
+#	47970
+#	74627
+#	101335
+#	130175
+#	164412
+#
+# Disc length: 2687 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=580a7d07
+DTITLE=ジョージ川口 - Plays Herbie Hancock
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=Cantalope Island
+TTITLE1=Dolphin Dance
+TTITLE2=Watermelon Man
+TTITLE3=Speak Like A Child
+TTITLE4=The Eye Of The Hurricane
+TTITLE5=Funky H.H.
+TTITLE6=Maiden Voyage
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

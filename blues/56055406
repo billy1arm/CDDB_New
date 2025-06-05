@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21942
+#	35060
+#	48290
+#	66680
+#	89638
+#
+# Disc length: 1366 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=56055406
+DTITLE=compilation - Jazz magazine 1943
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Sidney Bechet and his new orleans feetwarmers - disc blues
+TTITLE1=Dinah Washington - Evil Gal vblues
+TTITLE2=Nat king Cole trio - Gee, baby, Ain't I good for you?
+TTITLE3=Count Basie and his orchestra - Dance of the gremlins
+TTITLE4=Dexter Gordon quintet - Rosetta
+TTITLE5=Aime Barelli et son orchestre - Idee d'Aimee Barelli
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

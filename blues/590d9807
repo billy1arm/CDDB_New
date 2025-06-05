@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22360
+#	55795
+#	85237
+#	115535
+#	156632
+#	188152
+#
+# Disc length: 3482 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=590d9807
+DTITLE=Hilton Ruiz Ensemble - Something Grand
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Home Cookin'
+TTITLE1=Puerto Rican Children
+TTITLE2=Four West
+TTITLE3=Something Grand
+TTITLE4=Sunrise over Madarao
+TTITLE5=One Step Ahead
+TTITLE6=Infinity
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

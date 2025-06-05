@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50504
+#	88615
+#	112574
+#	211293
+#	265767
+#	306014
+#
+# Disc length: 4411 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=50113907
+DTITLE=Keith Jarrett - Concerts - Munich - Bregenz 1981
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=Munich - Part IV
+TTITLE1=Munich - Mon Coeur Est Rouge
+TTITLE2=Munich - Heartland
+TTITLE3=Bregenz - Part I
+TTITLE4=Bregenz - Part II
+TTITLE5=Bregenz - Untitled Part
+TTITLE6=Bregenz - Heartland
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

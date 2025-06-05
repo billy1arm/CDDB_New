@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19075
+#	45972
+#	62950
+#	75437
+#	98710
+#	121105
+#	154157
+#
+# Disc length: 2563 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=530a0108
+DTITLE=Gerry Mulligan - Mulligan Desmond Belleto
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Line for Lyons
+TTITLE1=Polka Dots and Moonbeams
+TTITLE2=Prelude to a Kiss
+TTITLE3=Take Five
+TTITLE4=All the Things You Are
+TTITLE5=The Thrill is Gone
+TTITLE6=Sister Sadie
+TTITLE7=What's New
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

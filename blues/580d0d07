@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24798
+#	56213
+#	88956
+#	134411
+#	157954
+#	204442
+#
+# Disc length: 3343 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=580d0d07
+DTITLE=Grover Washington Jr. - Live From Atlantic City
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Winelight
+TTITLE1=Nice 'n easy 
+TTITLE2=Take me there
+TTITLE3=Blues for D. P. 
+TTITLE4=Time out of mind 
+TTITLE5=Medley: Inner city blues - Mercy mercy me - Where is the love - Knucklehead - Black frost 
+TTITLE6=Let it flow 
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     17627
+#     34107
+#     54320
+#     68935
+#     90612
+#     104652
+# 
+# Disc length: 1545 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=56060707
+DTITLE=Lightnin' Hopkins - The Lost Texas Tapes Volume 1
+DYEAR=1900
+DGENRE=
+TTITLE0=From Man To Man
+TTITLE1=I Wish I Was A Baby
+TTITLE2=Little Boy Blue
+TTITLE3=The Crazy Song
+TTITLE4=Lightnin's Love
+TTITLE5=That Man From New York City
+TTITLE6=Take It If You Want It
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

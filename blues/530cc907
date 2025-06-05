@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23912
+#	56462
+#	103562
+#	144512
+#	190787
+#	226337
+#
+# Disc length: 3275 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=530cc907
+DTITLE=The Markus Plattner Trio with Adrian Mears - The Song Man
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=islands on the fly
+TTITLE1=the song man
+TTITLE2=blue sky
+TTITLE3=pebble in the pond
+TTITLE4=harbour bridge
+TTITLE5=dolphines
+TTITLE6=chasin the dingo
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

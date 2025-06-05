@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32470
+#	66954
+#	96873
+#	132952
+#	173535
+#	204779
+#
+# Disc length: 3415 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=510d5507
+DTITLE=Blue Note - Late Night at the Blue Note
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Grace of Twilight
+TTITLE1=Autumn Leaves
+TTITLE2=You Don't Know What Love Is
+TTITLE3=Eeverywhere I Look
+TTITLE4=say It Isn't So
+TTITLE5=Amaylah's song
+TTITLE6=Boulevard
+EXTD=
+EXTT0=David Morgan Trio
+EXTT1=Roland Guerin Sextet
+EXTT2=Irvin Mayfield Sextet
+EXTT3=Roberta Picket Trio
+EXTT4=Bill Waltrous Quartet
+EXTT5=Yoron Israel Connection
+EXTT6=Max Gollehon's Smokin' Section
+PLAYORDER=

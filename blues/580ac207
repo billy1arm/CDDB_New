@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44824
+#	81223
+#	108549
+#	134550
+#	159396
+#	160559
+#
+# Disc length: 2756 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=580ac207
+DTITLE=The Paul Butterfield Blues Band - Live New York 1970 CD2
+DYEAR=1970
+DGENRE=Blues
+TTITLE0=the boxer
+TTITLE1=everything's gonna be alright
+TTITLE2=stuck in the countryside
+TTITLE3=love march
+TTITLE4=back together again
+TTITLE5=stage announcer
+TTITLE6=so far so good
+EXTD=ID3G:   0 YEAR: 1970
+EXTT0=9:56
+EXTT1=8:05
+EXTT2=6:04
+EXTT3=5:47
+EXTT4=5:31
+EXTT5=0:16
+EXTT6=10:16
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13042
+#	29252
+#	40027
+#	53355
+#	66127
+#	80205
+#	92465
+#
+# Disc length: 1560 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=56061608
+DTITLE=HOT SAXY - SMOKIN' MARTINI
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Smokin' Martini
+TTITLE1=Rock Candy
+TTITLE2=Ornithology
+TTITLE3=Somebody Take Me
+TTITLE4=Umbrella man
+TTITLE5=Nobody Loves You
+TTITLE6=Birth of The Blues
+TTITLE7=Stomp
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

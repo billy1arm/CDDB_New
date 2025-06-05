@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25090
+#	48139
+#	105840
+#	119902
+#	137627
+#	167165
+#
+# Disc length: 2707 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=540a9107
+DTITLE=René Lussier - Fin Du Travail (version 1)
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Fete Fatale
+TTITLE1=Clockville
+TTITLE2=Manifeste
+TTITLE3=La Valse Du Parking
+TTITLE4=Worksong
+TTITLE5=Bardas D'amour
+TTITLE6=Pour Toujours Tant Que Ca Dure...
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

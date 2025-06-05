@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	122914
+#	173689
+#	198805
+#	258226
+#	285914
+#	304932
+#
+# Disc length: 4505 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=57119707
+DTITLE=Takayanagi Masayuki - Meta Improvisation
+DYEAR=1984
+DGENRE=Jazz
+TTITLE0=Kushiro - 1
+TTITLE1=Kitami - Mass Projection
+TTITLE2=Kushiro - 3
+TTITLE3=Obihiro - 2
+TTITLE4=Hakodate - 2
+TTITLE5=Hakodate - 4
+TTITLE6=Obihiro - 3
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

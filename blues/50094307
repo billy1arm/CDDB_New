@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	30415
+#	54452
+#	76240
+#	82365
+#	113630
+#	138290
+#
+# Disc length: 2373 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=50094307
+DTITLE=Freddie King - Live at the Texas Opry House
+DYEAR=1976
+DGENRE=Blues
+TTITLE0=Your move
+TTITLE1=Ain't gonna worry anymore
+TTITLE2=Hideaway
+TTITLE3=Guitar blues
+TTITLE4=Meet me in the morning
+TTITLE5=Sweet home Chicago
+TTITLE6=Boogie on down
+EXTD=YEAR: 1976 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

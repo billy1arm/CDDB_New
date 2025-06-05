@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27000
+#	60212
+#	95472
+#	123395
+#	174454
+#	196666
+#	226597
+#
+# Disc length: 3557 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=500de308
+DTITLE=The Bad Plus - Covering Massey Hall
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Mint
+TTITLE1=Big Eater
+TTITLE2=Anthem for the Earnest
+TTITLE3=Thrift Store Jewelery
+TTITLE4=Giant
+TTITLE5=Song X
+TTITLE6=Tom Sawyer
+TTITLE7=Physical Cities
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

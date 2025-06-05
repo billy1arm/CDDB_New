@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36768
+#	60439
+#	88108
+#	112550
+#	150153
+#	175061
+#	198461
+#
+# Disc length: 3011 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=510bc108
+DTITLE=Tobias Rupp - Eight Songs Of November
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Dolphin Race
+TTITLE1=Time Remembered
+TTITLE2=Wild Flower
+TTITLE3=Inner Urge
+TTITLE4=Body and Soul
+TTITLE5=Recorda Me
+TTITLE6=Central Park West
+TTITLE7=Nefertiti
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

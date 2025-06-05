@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31270
+#	60210
+#	86520
+#	120562
+#	152620
+#	181192
+#	202997
+#
+# Disc length: 3018 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=530bc808
+DTITLE=Davern-Wellstood-Riggs - LIVE HOT JAZZ
+DYEAR=1983
+DGENRE=Jazz
+TTITLE0=Who's Sorry Now?
+TTITLE1=Rosetta
+TTITLE2=Wrap Your Troubles In Dreams
+TTITLE3=Beale Street Blues
+TTITLE4=Rose Room
+TTITLE5=Trav'lin, All Alone
+TTITLE6=Then You've Never Been Blue
+TTITLE7=Oh Lady,  Be Good
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

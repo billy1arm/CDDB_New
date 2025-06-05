@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50200
+#	103855
+#	154447
+#	193042
+#	244655
+#
+# Disc length: 3716 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=550e8206
+DTITLE=Art Blakey and Jazz Messengers - Heat Wave
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Moanin'
+TTITLE1=Jody
+TTITLE2=Along Came Betty
+TTITLE3=Autumn Leaves
+TTITLE4=Blues March
+TTITLE5=Round About Midnight
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	73848
+#	91143
+#	109167
+#	131633
+#	186540
+#
+# Disc length: 3467 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: jack 3.1.1
+#
+DISCID=560d8906
+DTITLE=Miles Davis - Sketches of Spain
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=Concierto De Arajuez
+TTITLE1=Will O'The Wisp
+TTITLE2=The Pan Piper
+TTITLE3=Saeta
+TTITLE4=Solea
+TTITLE5=Concierto De Aranjuez
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

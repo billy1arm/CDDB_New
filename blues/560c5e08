@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24794
+#	53805
+#	91367
+#	121976
+#	150317
+#	172364
+#	195078
+#
+# Disc length: 3168 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=560c5e08
+DTITLE=Dave Brubeck - Les Indispensables de Dave Brubeck -Versions Originales
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Take Five (1959)
+TTITLE1=Gone With The Wind (1959)
+TTITLE2=Someday My Prince Will Come (1957)
+TTITLE3=Blue Rhondo  A La Turk (1959)
+TTITLE4=Pennies From Heaven (1954)
+TTITLE5=When You Wish Upon A Star (1957)
+TTITLE6=Jeepers Creepers (1954)
+TTITLE7=For All We Know (1963)
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	41922
+#	76930
+#	112147
+#	136137
+#	202165
+#
+# Disc length: 3129 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=540c3706
+DTITLE=Simon Goubert - L'Encierro
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=01 L'Encierro
+TTITLE1=02 Fly
+TTITLE2=03 Jacqueline
+TTITLE3=04 Ultime appel
+TTITLE4=05 Sunrise
+TTITLE5=06 Wayne's way
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

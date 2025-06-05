@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34382
+#	79230
+#	122815
+#	132820
+#	197055
+#	255840
+#
+# Disc length: 3843 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=590f0107
+DTITLE=Andy Emler - Sombritude
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Strangitude
+TTITLE1=Chemin de Fossard
+TTITLE2=Harderie (Mega Octet part I)
+TTITLE3=Impromptude
+TTITLE4=Natural prise
+TTITLE5=Improfessionnel
+TTITLE6=Sombritude I
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

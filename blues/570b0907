@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	17407
+#	71370
+#	82142
+#	96680
+#	108257
+#	162582
+#
+# Disc length: 2827 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=570b0907
+DTITLE=Stefan Signer - More Music from the Gas Station
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=Trust me - 3.40 am
+TTITLE1=Meyer Lansky
+TTITLE2=Nan's Lucheonette, part 1
+TTITLE3=Trust me - in the Name of Reverend Kamm
+TTITLE4=Nan's Lucheonette, part 2
+TTITLE5=Theme for the Blue Moon Motor Court and Lodge
+TTITLE6=Trust me - The Reader's Digest Version of the Truth?
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47370
+#	77120
+#	118760
+#	139472
+#	171530
+#
+# Disc length: 2682 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=520a7806
+DTITLE=Oregon - Live 2001
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Oregon - Raven's Wood
+TTITLE1=Oregon - Crocodile Romancing
+TTITLE2=Oregon - What River Is This ?
+TTITLE3=Oregon - Short 'n Stout
+TTITLE4=Oregon - Green And Golden
+TTITLE5=Oregon - I'll Remember August
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

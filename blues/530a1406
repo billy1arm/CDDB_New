@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	23785
+#	73210
+#	95465
+#	136657
+#	149605
+#
+# Disc length: 2582 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=530a1406
+DTITLE=Chick Corea And RETURN TO FOREVER - Light As A Feather [CD1]
+DYEAR=1972
+DGENRE=Fusion
+TTITLE0=You're Everything
+TTITLE1=Light As A Feather
+TTITLE2=Captain Marvel
+TTITLE3=500 Miles High
+TTITLE4=Children's Song
+TTITLE5=Spain
+EXTD=YEAR: 1972
+EXTT0=Music: Chick Corea\nLyrics: Neville Potter
+EXTT1=Music: Stanley Clarke\nLyrics: Flora Purim
+EXTT2=Music: Chick Corea
+EXTT3=Music: Chick Corea\nLyrics: Neville Potter
+EXTT4=Music: Chick Corea
+EXTT5=Music: Chick Corea
+PLAYORDER=

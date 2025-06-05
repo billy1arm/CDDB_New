@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32287
+#	63957
+#	97522
+#	139906
+#	164005
+#	207791
+#
+# Disc length: 3706 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=510e7807
+DTITLE=Richard Sussman Quintet - Live at Sweet Rhythm
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Waiting
+TTITLE1=Mary's song
+TTITLE2=Soultrane
+TTITLE3=Tiahuanaco
+TTITLE4=What's new
+TTITLE5=Lady of the lake
+TTITLE6=Free fall
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

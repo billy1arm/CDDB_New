@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	80883
+#	124683
+#	166983
+#	214533
+#	238683
+#	252218
+#
+# Disc length: 3837 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=590efb07
+DTITLE=Franck, C sar  and Mendelssohn Bartholdy, Felix - Franck "Symphony in D" and Mendelssohn "Symphony No. 5"
+DYEAR=1961
+DGENRE=Classical
+TTITLE0=(Franck) I. Lento -- Allegro non troppo
+TTITLE1=(Franck) II. Allegretto
+TTITLE2=(Franck) III. Allegro non troppo
+TTITLE3=(Mendelssohn) I. Andante -- Allegro con fuoco
+TTITLE4=(Mendelssohn) II. Allegro vivace
+TTITLE5=(Mendelssohn) III.  Andante
+TTITLE6=(Mendelssohn) IV. Choral -- Andante con moto -- Allegro maestoso
+EXTD=Radio-Symphonie-Orchester Berlin (Franck]\nBerliner Philharmoniker (Mendelssohn]\nLorin Maazel conducting (both) YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=Choral on  Ein' feste Burg ist unser Gott
+PLAYORDER=

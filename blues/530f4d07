@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50088
+#	78179
+#	100068
+#	147853
+#	196552
+#	230763
+#
+# Disc length: 3919 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=530f4d07
+DTITLE=Max Johnson - The Prisoner
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=No.6 Arrival/No.58 Orange Alert
+TTITLE1=X04
+TTITLE2=No.12 Schitzold Man (Gemini)
+TTITLE3=No.24 Hammer Into Anvil
+TTITLE4=No.48 Living in Harmony
+TTITLE5=The New Number 2
+TTITLE6=No.2 Once Upon a Time/No.1 Fallout
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

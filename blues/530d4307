@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	82000
+#	99230
+#	166782
+#	179987
+#	195852
+#	207212
+#
+# Disc length: 3397 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=530d4307
+DTITLE=George Gershwin - Manhattan Rhapsody
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Un américain à Paris
+TTITLE1=Bess is my woman
+TTITLE2=Manhattan 2nd Rhapsody
+TTITLE3=By Strauss (from "the show is on")
+TTITLE4=The man I love (from "Lady, Be Good")
+TTITLE5=A foggy day (from "A Damsel In Distress")
+TTITLE6=Variation on "I got rhythm"
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

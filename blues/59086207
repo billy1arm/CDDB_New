@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18134
+#	31845
+#	53779
+#	82488
+#	109390
+#	136378
+#
+# Disc length: 2148 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=59086207
+DTITLE=Charlie Rouse - Bossa Nova Bacchanal
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Charlie Rouse - back to the tropics
+TTITLE1=Charlie Rouse - aconteceu
+TTITLE2=Charlie Rouse - velhos tempos
+TTITLE3=Charlie Rouse - samba de orfeu
+TTITLE4=Charlie Rouse - un dia
+TTITLE5=Charlie Rouse - meci bon dieu
+TTITLE6=Charlie Rouse - in martinique
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

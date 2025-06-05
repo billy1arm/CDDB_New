@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14027
+#	32402
+#	137632
+#	194762
+#	227865
+#
+# Disc length: 3658 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=500e4806
+DTITLE=Franz Schubert - Quartet No. 15, Op. 61
+DYEAR=1985
+DGENRE=Classical
+TTITLE0=Mozart: Adagio and Fugue, K. 546, I Adagio
+TTITLE1=Mozart: II Fugue
+TTITLE2=Schubert: Quartet No. 15: I Allegro molto moderato
+TTITLE3=II Andante un poco moto
+TTITLE4=III Scherzo: Allegro vivace
+TTITLE5=IV Allegro assai
+EXTD=Gidon Kremer, Violin\nDaniel Phillips, Violin\nKim Kashkashian, Viola\nYo-Yo Ma, Cello YEAR: 1985 ID3G: 32
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

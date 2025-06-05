@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34606
+#	64612
+#	97667
+#	135776
+#	163591
+#	199552
+#	210688
+#
+# Disc length: 3352 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=590d1608
+DTITLE=Heiko Fischer Quartett - Lucid
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=The Base Case
+TTITLE1=The Other Way Round
+TTITLE2=Woodlake Ave
+TTITLE3=Lucid
+TTITLE4=Estelle
+TTITLE5=Good Night
+TTITLE6=Good Night Epilogue
+TTITLE7=Snatch Up
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

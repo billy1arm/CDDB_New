@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	70222
+#	123537
+#	141732
+#	152077
+#	167682
+#
+# Disc length: 2609 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=570a2f06
+DTITLE=ラヴェル - ボレロ
+DYEAR=1987
+DGENRE=Classical
+TTITLE0=ボレロ
+TTITLE1=ラ・ヴァルス
+TTITLE2=スペイン狂詩曲：夜への前奏曲
+TTITLE3=スペイン狂詩曲：マラゲーニャ
+TTITLE4=スペイン狂詩曲：ハバネラ
+TTITLE5=スペイン狂詩曲：祭り
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  20000
+#  33027
+#  52350
+#  68477
+#  103702
+#  117960
+#
+# Disc length: 2459 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=59099907
+DTITLE=Ralph Lundsten - Nordic Nature Symphony No 3 "A Midwinter Saga"
+DYEAR=1900
+DGENRE=
+TTITLE0=Anticipating winter
+TTITLE1=Advent
+TTITLE2=Christmastide
+TTITLE3=Song of the stars
+TTITLE4=New years virgil
+TTITLE5=Midwinter night
+TTITLE6=Winter symphony
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

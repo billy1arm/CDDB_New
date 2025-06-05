@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37874
+#	79454
+#	95388
+#	132063
+#	158688
+#	180588
+#	232038
+#
+# Disc length: 3242 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=580ca808
+DTITLE=Kiyoshi Sugimoto - Circulation
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Seven Bells
+TTITLE1=No.1 Green Street
+TTITLE2=Round About Midnight
+TTITLE3=Circulation
+TTITLE4=Musty
+TTITLE5=Stormy Monday
+TTITLE6=Summer Time
+TTITLE7=To My Friends
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

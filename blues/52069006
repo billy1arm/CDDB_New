@@ -1,0 +1,36 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19485
+#     43467
+#     59830
+#     75395
+#     101685
+# 
+# Disc length: 1682 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=52069006
+DTITLE=Maxwell - Ascension (Don't Ever Wonder) - The Tribute
+DYEAR=1900
+DGENRE=
+TTITLE0=Ascension (No One's Gonna Love You, So Don't Ever Wonder) - The Trib
+TTITLE0=ute Cut
+TTITLE1=Uncut
+TTITLE2=Unsung
+TTITLE3=Dub Ever Wonder (Ascension)
+TTITLE4=Ascension (Don't Ever Wonder)- Uncut
+TTITLE5=Lock You Up N' Love Fa Days
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

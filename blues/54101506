@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57000
+#	104590
+#	155050
+#	221400
+#	276825
+#
+# Disc length: 4119 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=54101506
+DTITLE=Eric Van Der Westen's Quadrant - Me, Myself And I
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Min(g)us One
+TTITLE1=Fables
+TTITLE2=Red, Black And Blue
+TTITLE3=Changin' The Sun
+TTITLE4=Rebirding
+TTITLE5=The Underdog
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

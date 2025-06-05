@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23945
+#	51325
+#	71928
+#	98116
+#	131911
+#
+# Disc length: 2058 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=59080806
+DTITLE=Changes - 1983
+DYEAR=1983
+DGENRE=Jazz
+TTITLE0=September Song
+TTITLE1=Waltz
+TTITLE2=Calypso
+TTITLE3=Back to Back
+TTITLE4=Colico
+TTITLE5=Blues with a Laughing Face
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

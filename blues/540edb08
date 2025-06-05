@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15355
+#	58593
+#	86210
+#	121568
+#	158758
+#	196598
+#	239433
+#
+# Disc length: 3805 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=540edb08
+DTITLE=Various Artist - Golden Box of Blues CD 1
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Feel So Fine
+TTITLE1=Too Late, Too Late
+TTITLE2=Empty Bed Blues
+TTITLE3=Red Top
+TTITLE4=Blues For Misha
+TTITLE5=Seòor Blues
+TTITLE6=Just a Dream
+TTITLE7=All Blues
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

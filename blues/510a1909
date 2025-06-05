@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17510
+#	34542
+#	55342
+#	67640
+#	105282
+#	121707
+#	151577
+#	176277
+#
+# Disc length: 2587 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=510a1909
+DTITLE=Johnny Griffin Orchestra - The Big Soul Band
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Wade in the Water [Alternate Take]
+TTITLE1=Wade in the Water
+TTITLE2=Panic Room Blues
+TTITLE3=Nobody Knows the Trouble I've Seen
+TTITLE4=Meditation
+TTITLE5=Holla
+TTITLE6=So Tired
+TTITLE7=Deep River
+TTITLE8=Jubilation
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

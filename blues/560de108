@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30012
+#	72945
+#	100054
+#	138052
+#	164345
+#	212259
+#	236528
+#
+# Disc length: 3555 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=560de108
+DTITLE=Johnny Griffin and Horace Parlan - Close Your Eyes
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=I'll Close My Eyes
+TTITLE1=Pannonica
+TTITLE2=I Hear A Rhapsody
+TTITLE3=My One And Only Love
+TTITLE4=Someone To Watch Over Me
+TTITLE5=My Little Brown Book
+TTITLE6=The Jamfs Are Coming
+TTITLE7=You're My Everything
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

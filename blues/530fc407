@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32325
+#	68625
+#	100838
+#	142873
+#	203034
+#	238125
+#
+# Disc length: 4038 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=530fc407
+DTITLE=Chet Baker Sextet - At The Salt Peanuts Club 1981- CD1
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=Prayer For The Newborn
+TTITLE1=My Ideal
+TTITLE2=Lady Bird
+TTITLE3=Resonant Emotions
+TTITLE4=Ray's Idea
+TTITLE5=My Funny Valentine
+TTITLE6=If I Should Lose You
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

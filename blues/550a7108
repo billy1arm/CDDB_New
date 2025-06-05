@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26929
+#	53625
+#	79623
+#	103592
+#	125372
+#	151209
+#	174760
+#
+# Disc length: 2675 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=550a7108
+DTITLE=Rippingtons - RIPPINGTONS
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=RIPP8
+TTITLE1=RIPP2
+TTITLE2=RIPP7
+TTITLE3=RIPP1
+TTITLE4=RIPP3
+TTITLE5=RIPP4
+TTITLE6=RIPP5
+TTITLE7=RIPP6
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

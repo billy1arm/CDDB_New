@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31450
+#	57534
+#	83688
+#	106683
+#	150862
+#	177792
+#	214075
+#
+# Disc length: 3333 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=580d0308
+DTITLE=One For All - Blueslike
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Five Outs To Go
+TTITLE1=We'll Be Together Again
+TTITLE2=Till There Was You
+TTITLE3=In Between The Heartaches
+TTITLE4=Blueslike
+TTITLE5=Yasahiku
+TTITLE6=Naima
+TTITLE7=Giant Steps
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=
