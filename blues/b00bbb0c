@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14313
+#	29087
+#	52780
+#	74447
+#	86783
+#	113092
+#	134930
+#	150520
+#	163962
+#	186285
+#	207500
+#
+# Disc length: 3005 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b00bbb0c
+DTITLE=Massimo Farao Trio - Cinematic 2
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Theme From The Godfather
+TTITLE1=East Of Eden
+TTITLE2=Love Story 
+TTITLE3=The Way We Were
+TTITLE4=Tempo D'Estate
+TTITLE5=Over The Rainbow
+TTITLE6=Raindrops Keep Fallin' On My Head
+TTITLE7=Sunrise Sunset
+TTITLE8=The Big Country
+TTITLE9=Hight Noon
+TTITLE10=The Sound Of Music
+TTITLE11=Tara's Theme
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

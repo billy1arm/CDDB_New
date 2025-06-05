@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18755
+#	36062
+#	52700
+#	69440
+#	90300
+#	107805
+#	118770
+#	132067
+#	146537
+#	164362
+#	179992
+#	193137
+#	208500
+#
+# Disc length: 2916 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=bd0b620e
+DTITLE=ALLSTAR - FAMICOM MUSIC BEST SELECTION
+DYEAR=1992
+DGENRE=Game
+TTITLE0=「スーパーマリオブラザーズ」より水中BGM〜地上BGM
+TTITLE1=「MOTHER」よりエイトメロディーズ
+TTITLE2=「ゼルダの伝説」より地上テーマ
+TTITLE3=「ファイナルファンタジーII」よりチョコボのテーマ
+TTITLE4=「三國志II」より呉のテーマ
+TTITLE5=「桃太郎伝説」より愛と勇気のテーマ
+TTITLE6=「ファイナルファンタジーIII」よりトーザス
+TTITLE7=「MOTHER」よりポリアンナ
+TTITLE8=「ドラゴンクエストII」よりこの道わが旅
+TTITLE9=「ファイナルファンタジーIII」よりプレリュード〜バトル1
+TTITLE10=「桃太郎伝説」より天の声
+TTITLE11=「キャプテン翼II」よりザ スーパーストライカー
+TTITLE12=「ドラゴンクエストIII」より村
+TTITLE13=「ファイナルファンタジーIII」よりエンディングテーマ
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

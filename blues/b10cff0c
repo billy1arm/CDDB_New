@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12430
+#	38749
+#	52132
+#	69849
+#	93043
+#	119992
+#	138088
+#	157000
+#	170676
+#	187029
+#	208425
+#
+# Disc length: 3329 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=b10cff0c
+DTITLE=Various Artist - It's Alive (Bebop Boogie and Blues Revue, Vol 1)
+DYEAR=1900
+DGENRE=
+TTITLE0=Steve Bassett/Sing Loud and Leave the Listening to Somebody Else
+TTITLE1=Goos Guys/Is Your Head on Straight?
+TTITLE2=Scott Morese and Plain Talk/Just Talkin'
+TTITLE3=Janet Martin/Just Waking Up
+TTITLE4=Big City/One Man's Trash
+TTITLE5=Bio Ritmo/Le Canto
+TTITLE6=Useless Playboys/I'm Useless
+TTITLE7=Car Bomb, Inc./Clean to the Bone
+TTITLE8=Janet Travers and Mike Desrouches/Sweet Rain
+TTITLE9=Randy Perkins Acoustic Project/Pink Roses
+TTITLE10=Terry Garland/Trouble on the Way
+TTITLE11=Mutiny featuring Jerome "Big Foot" Brailey/Semi First Class Seat
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

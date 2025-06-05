@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17095
+#	39453
+#	64132
+#	83338
+#	99908
+#	119647
+#	140860
+#	156493
+#	178066
+#	194980
+#	206649
+#
+# Disc length: 3046 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1.0.7
+#
+DISCID=b10be40c
+DTITLE=Bourbon Street - Handful of Blues
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=Movin' On (down the line)
+TTITLE1=Bourbon Street Stomp
+TTITLE2=Bluebird blues
+TTITLE3=Dark is the night
+TTITLE4=Keep you lamp trimmed and burning
+TTITLE5=Standing at the crossroads
+TTITLE6=All of your love
+TTITLE7=I've got papers on you, baby
+TTITLE8=No love in my heart for you
+TTITLE9=The way you treat me
+TTITLE10=Seminole blues
+TTITLE11=Blues for Flo
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

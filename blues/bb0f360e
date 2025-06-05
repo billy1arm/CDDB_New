@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20073
+#	41072
+#	65255
+#	84858
+#	107173
+#	123216
+#	148519
+#	164809
+#	184249
+#	203943
+#	226782
+#	250519
+#	271773
+#
+# Disc length: 3896 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=bb0f360e
+DTITLE=Minh Tuyet and Johnny Dung  - Kiep Ca Sau
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Minh Tuyet and Huy Vu--Kiep Ca Sau
+TTITLE1=Diem Lien--Doi Da Vang
+TTITLE2=Johnny Dung--Tinh Phai
+TTITLE3=Ha Vy--Co Be Vo Tu
+TTITLE4=Huy Tam--Di Ve Noi Xa
+TTITLE5=Tu Quyen--Mong Mo Xa Roi
+TTITLE6=Huy Vu--Tinh Da Xa
+TTITLE7=Johnny dung and Vina Uyen My--Candy Man
+TTITLE8=Minh Tuyet--Ta Chang Con Ai
+TTITLE9=Henry Chuc--I Need To Know
+TTITLE10=Y Lan--Ban Tinh Cuoi
+TTITLE11=Elvis Phuong--Nay Em Co Nho
+TTITLE12=Dalena--Believe
+TTITLE13=Karaoke--Ta Chang Con Ai
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

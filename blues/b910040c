@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     28910
+#     42695
+#     64158
+#     81693
+#     94813
+#     130368
+#     149483
+#     168928
+#     182135
+#     212995
+#     234878
+# 
+# Disc length: 4102 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b910040c
+DTITLE=Fleetwood Mac - The Early Years
+DYEAR=1900
+DGENRE=
+TTITLE0=Black Magic Woman
+TTITLE1=Oh Well
+TTITLE2=Madison Blues
+TTITLE3=Stranger Blues
+TTITLE4=Great Balls Of Fire
+TTITLE5=Jenny Jenny
+TTITLE6=Like It This Way
+TTITLE7=Oh Baby
+TTITLE8=Loving Kind
+TTITLE9=Tutti Frutti
+TTITLE10=Keep A Knocking
+TTITLE11=Green Manalishi
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

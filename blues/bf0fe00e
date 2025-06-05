@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16873
+#	30220
+#	46978
+#	63980
+#	78295
+#	100477
+#	114442
+#	129441
+#	149621
+#	196116
+#	227923
+#	262333
+#	280293
+#
+# Disc length: 4066 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bf0fe00e
+DTITLE=Suoni Dalla Teca 5 - A Blues Corner
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Dust My Broom (Roberto Menabò)
+TTITLE1=Georgia Rag (Roberto Menabò)
+TTITLE2=Corn Flakes For Breakfast (Roberto Menabò)
+TTITLE3=Coffe Ground Blues (Paolo Ganz)
+TTITLE4=Rhymes (Paolo Ganz)
+TTITLE5=Walkin' Blues (Paolo Ganz)
+TTITLE6=Never Drive A Stranger From Your Door (Dave Peabody and Rob Mason)
+TTITLE7=Baby Please Don't Go (Rob Mason)
+TTITLE8=Mississippi Blues (Dave Peabody)
+TTITLE9=Fine And Mellow (Carmelo Tartamella Blues Band and Kay Foeter Jackson) 
+TTITLE10=Kansas City (Vince Vallicelli Band and James Thompson)
+TTITLE11=Are Are (Vince Vallicelli Band and James Thompson)
+TTITLE12=Cold Shot (John Henry Blues Band)
+TTITLE13=I'll Play The Blues For You (John Henry Blues Band)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

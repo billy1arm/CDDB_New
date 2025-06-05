@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 11290
+# 40452
+# 65477
+# 95862
+# 128715
+# 161197
+# 183322
+# 202450
+# 228930
+# 256220
+# 283460
+#
+# Disc length: 4011 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1d1
+#
+DISCID=b60fa90c
+DTITLE=Jimmy Rogers with Ronnie Earl and the Broadcasters - Jimmy Rogers with R
+DTITLE=onnie Earl and the Broadcasters
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Okie Dokie Stomp
+TTITLE1=Blues in D-Natural
+TTITLE2=Same Old Blues
+TTITLE3=Rock This House
+TTITLE4=Gold Tailed Bird
+TTITLE5=Why Did You Do It?
+TTITLE6=Can't Sleep For Worrying
+TTITLE7=Walking By Myself
+TTITLE8=Left Me With A Broken Heart
+TTITLE9=Got My Mojo Working
+TTITLE10=Shake Your Money Maker
+TTITLE11=You're Sweet
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

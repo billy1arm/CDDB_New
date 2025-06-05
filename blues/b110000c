@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33705
+#	61432
+#	75715
+#	92227
+#	125685
+#	156965
+#	175932
+#	195625
+#	230507
+#	260907
+#	280942
+#
+# Disc length: 4098 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=b110000c
+DTITLE=Wolfgang Amadeus Mozart - Sinfonie
+DYEAR=1900
+DGENRE=
+TTITLE0=Sinfonia n. 39 op. K. 543 - Adagio - Allegro
+TTITLE1=Sinfonia n. 39 op. K. 543 - Andante con moto
+TTITLE2=Sinfonia n. 39 op. K. 543 - Menuetto: Allegretto, Trio
+TTITLE3=Sinfonia n. 39 op. K. 543 - Finale: Allegro
+TTITLE4=Sinfonia n. 40 op. K. 550 - Allegro molto
+TTITLE5=Sinfonia n. 40 op. K. 550 - Andante
+TTITLE6=Sinfonia n. 40 op. K. 550 - Menuetto: Allegretto, Trio
+TTITLE7=Sinfonia n. 40 op. K. 550 - Finale: Allegro assai
+TTITLE8=Sinfonia n. 41 op. K. 551 - Allegro vivace
+TTITLE9=Sinfonia n. 41 op. K. 551 - Andante cantabile
+TTITLE10=Sinfonia n. 41 op. K. 551 - Menuetto: Allegretto, Trio
+TTITLE11=Sinfonia n. 41 op. K. 551 - Molto allegro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

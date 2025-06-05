@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22240
+#	35405
+#	56120
+#	66802
+#	78362
+#	95760
+#	111442
+#	128715
+#	150495
+#	164072
+#	187532
+#	202722
+#	224262
+#
+# Disc length: 3317 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=be0cf30e
+DTITLE=Various Artist - American Blues
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Arthur Adams and B.B. King - Get Next To Me
+TTITLE1=Keb' Mo' - Hand It Over
+TTITLE2=Ruth Brown - Good Day For The Blues
+TTITLE3=Henry Gray - How Could You Do It ?
+TTITLE4=Taj Mahal - Cakewalk Into Town
+TTITLE5=Robert Cray and Albert Collins - She's Into Something
+TTITLE6=Sugar Pie DeSanto - Hello, San Francisco (Part I)
+TTITLE7=Raful Neal - Call Me Baby
+TTITLE8=Otis Rush - I Got The Blues
+TTITLE9=Sunpie Barnes - Sunpie's Romp and Stomp
+TTITLE10=Eric Bibb - Needed Time
+TTITLE11=Chris Thomas King - Why Blues ?
+TTITLE12=Susan Tedeschi - Just Won't Burn
+TTITLE13=Solomon Burke - None Of Us Are Free
+EXTD=YEAR: 2003 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

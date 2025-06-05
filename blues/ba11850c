@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	23790
+# 	46457
+# 	71615
+# 	110935
+# 	140060
+# 	155540
+# 	193867
+# 	211565
+# 	237685
+# 	285740
+# 	312272
+#
+# Disc length: 4487 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=ba11850c
+DTITLE=The Guy Forsyth Band - High Temperature
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=Don't Turn Me In
+TTITLE1=305
+TTITLE2=Taxi
+TTITLE3=For the Last Time
+TTITLE4=Hard Pushin' Papa
+TTITLE5=Done Somebody Wrong
+TTITLE6=Evil Man
+TTITLE7=Night Train
+TTITLE8=Serves Me Right
+TTITLE9=19 Years
+TTITLE10=Answering Machine
+TTITLE11=Mr. Luck
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

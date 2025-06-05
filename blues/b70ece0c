@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24783
+#	59810
+#	80404
+#	103921
+#	120639
+#	142494
+#	170067
+#	194276
+#	214159
+#	242490
+#	267380
+#
+# Disc length: 3792 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b70ece0c
+DTITLE=M.Gatti, G.Togni, G.Barbati - Bach J.C.F. - Sonate per flauto traverso e fortepiano
+DYEAR=2004
+DGENRE=Baroque
+TTITLE0=I Allegretto - Sonata I re min. 1777
+TTITLE1=II Andante - Sonata I re min. 1777
+TTITLE2=III Allegro - Sonata I re min. 1777
+TTITLE3=I Allegro - Sonata III Re magg.1777
+TTITLE4=II Andante alla polacca - Sonata III Re magg.1777
+TTITLE5=III Tempo di minuetto - Sonata III Re magg.1777
+TTITLE6=I Allegretto - Sonata V La magg.1777
+TTITLE7=II Andante - Sonata V La magg.1777
+TTITLE8=III Tempo di minuetto - Sonata V La magg.1777
+TTITLE9=I Allegro - Sonata I Re magg.1785
+TTITLE10=II Andante - Sonata I Re magg.1785
+TTITLE11=III Rondò-Scherzo - Sonata I Re magg.1785
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

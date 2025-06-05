@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42646
+#	83993
+#	115564
+#	134364
+#	152441
+#	180287
+#	204487
+#	224853
+#	249029
+#	272522
+#	304492
+#	321034
+#
+# Disc length: 4381 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b1111b0d
+DTITLE=Michel Petrucciani - Best Of 1CD
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Night And Day
+TTITLE1=Regina
+TTITLE2=Our Tune
+TTITLE3=Sahara
+TTITLE4=She Did It Again
+TTITLE5=La Champagne
+TTITLE6=Home
+TTITLE7=P'tit Louis
+TTITLE8=Memories Of Paris
+TTITLE9=Play Me
+TTITLE10=Satin Doll
+TTITLE11=Lush Life
+TTITLE12=Like That
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,313 @@
+# xmcd
+#
+# Track frame offsets:
+#	187
+#	1405
+#	2710
+#	4045
+#	4800
+#	6557
+#	7882
+#	11195
+#	14130
+#	19125
+#	22737
+#	23550
+#	25182
+#	28407
+#	30332
+#	34975
+#	38517
+#	41515
+#	44482
+#	46552
+#	48650
+#	53042
+#	54510
+#	57722
+#	58872
+#	60007
+#	62372
+#	64750
+#	66720
+#	68502
+#	69037
+#	70012
+#	70987
+#	73655
+#	77107
+#	79945
+#	82795
+#	87647
+#	90905
+#	95972
+#	100680
+#	105400
+#	109530
+#	115597
+#	120112
+#	124927
+#	126805
+#	130005
+#	134622
+#	139457
+#	143072
+#	147540
+#	152460
+#	157360
+#	163880
+#	167345
+#	173047
+#	179585
+#	185340
+#	188857
+#	195402
+#	198160
+#	201445
+#	206150
+#	211055
+#	217277
+#	221995
+#	228602
+#	233067
+#	238970
+#	241597
+#	247537
+#	250895
+#	254055
+#	257627
+#	263867
+#	270885
+#	273835
+#	278622
+#	284392
+#	288595
+#	293070
+#	296295
+#	299520
+#	302707
+#	305672
+#	307472
+#	312655
+#	315130
+#	317605
+#	320080
+#	323000
+#	325720
+#	329945
+#	332730
+#	336535
+#	342830
+#	346995
+#	349312
+#
+# Disc length: 4700 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=be125a63
+DTITLE=和田 誠 - 蝉:ひぐらし
+DYEAR=1900
+DGENRE=
+TTITLE0=和田 誠/犬:小型犬1
+TTITLE1=和田 誠/小型犬2
+TTITLE2=和田 誠/小型犬3
+TTITLE3=和田 誠/中型犬1
+TTITLE4=和田 誠/中型犬2
+TTITLE5=和田 誠/中型犬3
+TTITLE6=和田 誠/大型犬1
+TTITLE7=和田 誠/大型犬2
+TTITLE8=和田 誠/エサを食べる
+TTITLE9=和田 誠/水を飲む
+TTITLE10=和田 誠/ケンカ
+TTITLE11=和田 誠/遠吠え
+TTITLE12=和田 誠/猫:小猫1
+TTITLE13=和田 誠/小猫2(数匹)
+TTITLE14=和田 誠/猫1
+TTITLE15=和田 誠/猫2(数匹)
+TTITLE16=和田 誠/エサを食べる
+TTITLE17=和田 誠/水を飲む
+TTITLE18=和田 誠/ケンカ
+TTITLE19=和田 誠/馬:歩き1一頭
+TTITLE20=和田 誠/歩き2二頭
+TTITLE21=和田 誠/早足1一頭
+TTITLE22=和田 誠/早足2二頭
+TTITLE23=和田 誠/走り1接近〜停止A
+TTITLE24=和田 誠/走り2接近〜停止B
+TTITLE25=和田 誠/走り3通過A
+TTITLE26=和田 誠/走り4通過B
+TTITLE27=和田 誠/走り5数頭の走り
+TTITLE28=和田 誠/いななき1
+TTITLE29=和田 誠/いななき2
+TTITLE30=和田 誠/ひづめ音1
+TTITLE31=和田 誠/ひづめ音2
+TTITLE32=和田 誠/牛:放牧の牛
+TTITLE33=和田 誠/空腹の牛
+TTITLE34=和田 誠/牛舎内
+TTITLE35=和田 誠/群れの移動
+TTITLE36=和田 誠/鳥:アオジ
+TTITLE37=和田 誠/インコ
+TTITLE38=和田 誠/ウグイス
+TTITLE39=和田 誠/ウミガラス
+TTITLE40=和田 誠/ウミネコ
+TTITLE41=和田 誠/オウム
+TTITLE42=和田 誠/オオハクチョウ
+TTITLE43=和田 誠/オナガ
+TTITLE44=和田 誠/カッコウ
+TTITLE45=和田 誠/カラス
+TTITLE46=和田 誠/カルガモ
+TTITLE47=和田 誠/カワラヒワ
+TTITLE48=和田 誠/キジ
+TTITLE49=和田 誠/キジバト
+TTITLE50=和田 誠/キョウジョシギ
+TTITLE51=和田 誠/ゴイサギ
+TTITLE52=和田 誠/コウノトリ
+TTITLE53=和田誠/シジュウカラ
+TTITLE54=和田 誠/シマアオジ
+TTITLE55=和田 誠/スズメ
+TTITLE56=和田 誠/ツグミ
+TTITLE57=和田 誠/ツバメ
+TTITLE58=和田 誠/ツル
+TTITLE59=和田 誠/トキ
+TTITLE60=和田 誠/トビ
+TTITLE61=和田 誠/ニワトリ
+TTITLE62=和田 誠/ノゴマ
+TTITLE63=和田 誠/ヒクイナ
+TTITLE64=和田 誠/ヒバリ
+TTITLE65=和田 誠/ヒヨドリ
+TTITLE66=和田 誠/フクロウ
+TTITLE67=和田 誠/ペンギン
+TTITLE68=和田 誠/ホオジロ
+TTITLE69=和田 誠/ホトトギス
+TTITLE70=和田 誠/ユリカモメ
+TTITLE71=和田 誠/鳥のコーラス1
+TTITLE72=和田 誠/鳥のコーラス2
+TTITLE73=和田 誠/鳥のコーラス3
+TTITLE74=和田 誠/虫:アブラゼミ
+TTITLE75=和田 誠/ヒグラシ
+TTITLE76=和田 誠/ミンミンゼミ
+TTITLE77=和田 誠/蝉しぐれ
+TTITLE78=和田 誠/エンマコオロギ
+TTITLE79=和田 誠/キリギリス
+TTITLE80=和田 誠/スズムシ
+TTITLE81=和田 誠/虫しぐれ1
+TTITLE82=和田 誠/虫しぐれ2
+TTITLE83=和田 誠/虫しぐれ3
+TTITLE84=和田 誠/蜜蜂の大群
+TTITLE85=和田 誠/その他:オオカミ
+TTITLE86=和田 誠/オランウータン
+TTITLE87=和田 誠/カエル1
+TTITLE88=和田 誠/カエル2
+TTITLE89=和田 誠/カジカ
+TTITLE90=和田 誠/クマ
+TTITLE91=和田 誠/ゾウ
+TTITLE92=和田 誠/チンパンジー
+TTITLE93=和田 誠/トラ
+TTITLE94=和田 誠/ネズミ
+TTITLE95=和田 誠/パンダ
+TTITLE96=和田 誠/ブタ
+TTITLE97=和田 誠/ヤギ
+TTITLE98=和田 誠/ライオン
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=

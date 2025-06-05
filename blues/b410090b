@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26159
+#	57559
+#	85882
+#	119277
+#	147425
+#	177701
+#	200616
+#	230200
+#	253719
+#	281215
+#
+# Disc length: 4107 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b410090b
+DTITLE=Hones Talk - Summer Mood
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=01 Watermelon Man
+TTITLE1=02 Summertime
+TTITLE2=03 Moanin'
+TTITLE3=04 Chameleon
+TTITLE4=05 Take Five
+TTITLE5=06 In a sentimental mood
+TTITLE6=07 Blue Bossa
+TTITLE7=08 Cantaloupe Island
+TTITLE8=09 Autumn Leaves
+TTITLE9=10 Sunny
+TTITLE10=11 Killing me softly with his song
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

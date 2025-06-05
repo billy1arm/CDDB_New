@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25999
+#	53684
+#	64376
+#	95562
+#	108870
+#	122043
+#	139824
+#	170082
+#	189996
+#	215229
+#	229156
+#
+# Disc length: 3468 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b10d8a0c
+DTITLE=Oregon - Troika
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Charlotte's Tangle
+TTITLE1=Gekko
+TTITLE2=Prelude (Improv 2)
+TTITLE3=Mariella
+TTITLE4=Spanish Stairs (Squanto)
+TTITLE5=Arctic Turn/Land Rover (Free Piece)
+TTITLE6=Mexico For Sure
+TTITLE7=Pale Sun
+TTITLE8=I Said OK
+TTITLE9=Tower
+TTITLE10=Minaret
+TTITLE11=Celeste
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

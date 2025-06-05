@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15482
+#	36315
+#	56352
+#	75795
+#	97740
+#	120295
+#	142637
+#	161117
+#	182752
+#	203142
+#	223572
+#	243175
+#	258415
+#	285400
+#	308627
+#
+# Disc length: 4380 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=bd111a10
+DTITLE=Various Artist - Waiting To Exhale
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Exhale (Shoop Shoop) - Whitney Houston
+TTITLE1=Why Does It Hurt So Bad - Whitney Houston
+TTITLE2=Let It Flow - Toni Braxton
+TTITLE3=It Hurts Like Hell - Aretha Franklin
+TTITLE4=Sittin' Up In My Room - Brandy
+TTITLE5=This Is How It Works
+TTITLE6=Not Gon' Cry - Mary J. Blige
+TTITLE7=My Funny Valentine Chaka Khan
+TTITLE8=And I Gave My Love To You Sonja Marie
+TTITLE9=All Night Long - SWV
+TTITLE10=Wey U - Chante Moore
+TTITLE11=My Love, Sweet Love - Patti LaBelle
+TTITLE12=Kissing You - Faith Evans
+TTITLE13=Love Will Be Waiting At Home - For Real
+TTITLE14=How Could You Call Her Baby - Shanna
+TTITLE15=Count On Me - Whitney Houston and Cece Winans
+EXTD=
+EXTT0=Whitney Houston
+EXTT1=Whitney Houston
+EXTT2=Toni Braxton
+EXTT3=Aretha Franklin
+EXTT4=Brandy
+EXTT5=TLC
+EXTT6=Mary J. Blige
+EXTT7=Chaka Khan
+EXTT8=Sonja Marie
+EXTT9=SWV
+EXTT10=Chant  Moore
+EXTT11=Patti Labelle
+EXTT12=Faith Evans
+EXTT13=For Real
+EXTT14=Shanna
+EXTT15=Whitney Houston and Cece Winans
+PLAYORDER=

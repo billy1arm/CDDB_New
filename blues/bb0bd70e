@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	255
+#	15777
+#	28154
+#	39128
+#	57235
+#	70134
+#	86860
+#	117937
+#	141611
+#	158313
+#	170882
+#	187132
+#	197381
+#	212458
+#
+# Disc length: 3034 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bb0bd70e
+DTITLE=Jimi Hendrix - Legendary rockstars. Greates hits
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Hey Joe
+TTITLE1=Fire
+TTITLE2=Little wing
+TTITLE3=All along the watchtower
+TTITLE4=Purple haze
+TTITLE5=Red house
+TTITLE6=Wild thing
+TTITLE7=Voodoo chile
+TTITLE8=Manic depression
+TTITLE9=Remember
+TTITLE10=Stone free
+TTITLE11=Crosstown traffic
+TTITLE12=Foxy lady
+TTITLE13=The wind cries Mary
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

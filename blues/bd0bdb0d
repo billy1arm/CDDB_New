@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10545
+#     21702
+#     35280
+#     50392
+#     67005
+#     86022
+#     102617
+#     122757
+#     140495
+#     169127
+#     184020
+#     208450
+# 
+# Disc length: 3037 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=bd0bdb0d
+DTITLE=Nasi and Os Irmaos do Blues - Os Brutos Tambem Amam
+DYEAR=1900
+DGENRE=
+TTITLE0=Abertura
+TTITLE1=Gangster do Amor
+TTITLE2=Eu tenho Quase Tudo
+TTITLE3=Se Deus Quiser (E o Diabo Deixar)
+TTITLE4=Blues do Assobio
+TTITLE5=Nao Quero Ajuda
+TTITLE6=Amigo da Onca
+TTITLE7=Poeira nos Olhos
+TTITLE8=Os Brutos Tambem Amam
+TTITLE9=Meu Patua'
+TTITLE10=Quero Ser o Seu Cachorro
+TTITLE11=Problemas
+TTITLE12=Sou um Cantor
+EXTD=
+EXTT0=Nasi\n
+EXTT1=Johnny G. Watson\nVersao Nasi\n
+EXTT2=Don Walsh\nVersao Nasi\n
+EXTT3=Nasi e Johnny Boy\n
+EXTT4=Prof. Longhair\nVersao Nasi\n
+EXTT5=Sonny Boy Willians\nVersao Nasi\n
+EXTT6=Nasi\n
+EXTT7=John Coltrane e Nasi\n
+EXTT8=Nasi   Kim Kehl\n
+EXTT9=Muddy Waters\nVersao Nasi\n
+EXTT10=Nasi\n
+EXTT11=Nasi   Kim Kehl\n
+EXTT12=Nasi\n
+PLAYORDER=

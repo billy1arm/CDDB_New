@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4250
+#	27312
+#	38907
+#	51142
+#	65267
+#	82587
+#	96810
+#	102932
+#	113257
+#	132705
+#	145600
+#	154892
+#	173360
+#	176062
+#
+# Disc length: 2367 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b3093d0f
+DTITLE=DATA WEST - RAYXANBER
+DYEAR=1990
+DGENRE=Game
+TTITLE0=[Data Track]
+TTITLE1=Opening
+TTITLE2=RAYXANBER - Stage 1
+TTITLE3=Last Party - Stage 2
+TTITLE4=Shut Up - Stage 3
+TTITLE5=Shake Off - Stage 4
+TTITLE6=Be Mad - Boss
+TTITLE7=Cross Walk - Stage 5
+TTITLE8=Space War - Stage 6
+TTITLE9=Swear - Stage 7
+TTITLE10=Excursion - Stage 8
+TTITLE11=Follow - Final Stage
+TTITLE12=She Had A Smile On Her Face - Ending
+TTITLE13=The Theme of Data West
+TTITLE14=[Blank Track]
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

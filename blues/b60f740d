@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19499
+#     46577
+#     74054
+#     92129
+#     109407
+#     138026
+#     153027
+#     179389
+#     205152
+#     229169
+#     251562
+#     268926
+# 
+# Disc length: 3958 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=b60f740d
+DTITLE=Various Artist - WeeBee Jammin'  Vol. 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Russians-Americans
+TTITLE1=Get Off
+TTITLE2=Beat Box
+TTITLE3=Don't You Want Me - Remix
+TTITLE4=Tom's Diner
+TTITLE5=Give The D.J. A Break
+TTITLE6=Spin Me Round
+TTITLE7=Whip It
+TTITLE8=I'm Too Sexy
+TTITLE9=Our House - Dance Mix
+TTITLE10=Sadness
+TTITLE11=Unknown
+TTITLE12=Bring Me Down
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=\n
+EXTT12=
+PLAYORDER=

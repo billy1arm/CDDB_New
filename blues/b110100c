@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26563
+#	75752
+#	76272
+#	106170
+#	133065
+#	180536
+#	282248
+#	283494
+#	284306
+#	284919
+#	285622
+#
+# Disc length: 4114 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b110100c
+DTITLE=Rico et John - Live At Belle Isle En Mer
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=01-Track 01
+TTITLE1=02-Track 02
+TTITLE2=03-Track 03
+TTITLE3=04-Track 04
+TTITLE4=05-Track 05
+TTITLE5=06-Track 06
+TTITLE6=07-Track 07
+TTITLE7=08-Track 08
+TTITLE8=09-Track 09
+TTITLE9=10-Track 10
+TTITLE10=11-Track 11
+TTITLE11=12-Track 12
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

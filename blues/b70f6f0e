@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19935
+#	25350
+#	65635
+#	92738
+#	121650
+#	137253
+#	167418
+#	180715
+#	208618
+#	233160
+#	245518
+#	250845
+#	271228
+#
+# Disc length: 3953 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b70f6f0e
+DTITLE=Urgent Feel - Urgent Feel
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Urgent
+TTITLE1=What time is it ?
+TTITLE2=S.O.S.
+TTITLE3=A Zoe
+TTITLE4=L.V.
+TTITLE5=Acid style
+TTITLE6=Mécanique
+TTITLE7=Urban V
+TTITLE8=Midi moins le quart
+TTITLE9=Le chat qui marchait sur le piano
+TTITLE10=Run till you die
+TTITLE11=320
+TTITLE12=Rencontre du 3e type
+TTITLE13=Lundi
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

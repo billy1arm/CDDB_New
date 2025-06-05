@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14375
+#	44675
+#	65412
+#	89187
+#	108500
+#	127025
+#	145775
+#	158375
+#	178625
+#	207725
+#	230225
+#
+# Disc length: 3472 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b40d8e0c
+DTITLE=Stan Webb's Chicken Shack - Plucking Good
+DYEAR=1993
+DGENRE=Blues-Rock
+TTITLE0=chicken shack - reflections
+TTITLE1=chicken shack - broken hearted melody
+TTITLE2=chicken shack - look out
+TTITLE3=chicken shack - talk about love
+TTITLE4=chicken shack - i'm not sorry
+TTITLE5=chicken shack - crying again
+TTITLE6=chicken shack - for all your love
+TTITLE7=chicken shack - if only
+TTITLE8=chicken shack - nothing i can do
+TTITLE9=chicken shack - dr. brown
+TTITLE10=chicken shack - let me love you babe
+TTITLE11=chicken shack - the thrill has gone
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

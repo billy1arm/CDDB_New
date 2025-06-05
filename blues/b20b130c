@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	25318
+#	51365
+#	56962
+#	74756
+#	85407
+#	105218
+#	129406
+#	148034
+#	167205
+#	174962
+#	204685
+#
+# Disc length: 2837 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=b20b130c
+DTITLE=Editus - Dibujando Memorias...
+DYEAR=1900
+DGENRE=
+TTITLE0=Regreso A Casa
+TTITLE1=Alborada
+TTITLE2=Viento y Madera (Preludio)
+TTITLE3=Viento y Madera
+TTITLE4=Recibiendo Al Sol
+TTITLE5=Cuando Todo Esta Bien
+TTITLE6=Hermana Luna
+TTITLE7=Morphos...
+TTITLE8=Desde Aquí
+TTITLE9=Retrospección
+TTITLE10=Memorias
+TTITLE11=Sueños y Semillas...
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

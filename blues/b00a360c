@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     23000
+#     34395
+#     45872
+#     64432
+#     74640
+#     90432
+#     110182
+#     133597
+#     145347
+#     157460
+#     172917
+# 
+# Disc length: 2616 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b00a360c
+DTITLE=Kritick  situace - Kritick  Situace
+DYEAR=1900
+DGENRE=
+TTITLE0=Never Again
+TTITLE1=The Knights Of Blank
+TTITLE2=Blood Sport
+TTITLE3=Don't Wait
+TTITLE4=Green - Hooded Executioner
+TTITLE5=Eternal Deserters
+TTITLE6=Damn The Murderers
+TTITLE7=One Of Those ...
+TTITLE8=Hunters
+TTITLE9=Perharps Somewhere Beyond Piava
+TTITLE10=Majority
+TTITLE11=Being In Mourning
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

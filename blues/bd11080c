@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36650
+#	63325
+#	97075
+#	127725
+#	148258
+#	183325
+#	207303
+#	227125
+#	269733
+#	279188
+#	305825
+#
+# Disc length: 4362 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Steven.Parker 1
+#
+DISCID=bd11080c
+DTITLE=Led Zeppelin - Golden Ballads
+DYEAR=1900
+DGENRE=Blues-Rock
+TTITLE0=Stairway To Heaven
+TTITLE1=All My Love
+TTITLE2=Since I've Been Loving You
+TTITLE3=Babe I'm Gonna Leave You
+TTITLE4=Thank You
+TTITLE5=Rain Song
+TTITLE6=Down By The Seaside
+TTITLE7=I Can't Quit You Baby
+TTITLE8=Tea For One
+TTITLE9=Bron-Yr-Aur
+TTITLE10=The Battle Of Evermore
+TTITLE11=What Is And What Should Never Be
+EXTD=ID3G:  17
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

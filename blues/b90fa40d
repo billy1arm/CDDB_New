@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22220
+#	44892
+#	66522
+#	92695
+#	122300
+#	137450
+#	158980
+#	189082
+#	208062
+#	230365
+#	253820
+#	277882
+#
+# Disc length: 4006 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b90fa40d
+DTITLE=Alan Barnes - And Brian Lemon play Harold Arlen
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=My Shining Hour
+TTITLE1=Come Rain Or Come Shine
+TTITLE2=Last Night When We Were Young
+TTITLE3=I've Got The World On A String
+TTITLE4=If I Only Had A Brain
+TTITLE5=This Time The Dream's On Me
+TTITLE6=When The Sun Comes Out
+TTITLE7=A Sleepin' Bee
+TTITLE8=As Long As I Live
+TTITLE9=Ill Wind
+TTITLE10=Don't Like Goodbeyes
+TTITLE11=Down With Love
+TTITLE12=Between The Devil And The Deep Blue Sea
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

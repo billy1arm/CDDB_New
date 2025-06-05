@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	16180
+#	35378
+#	53008
+#	67770
+#	97313
+#	121998
+#	139193
+#	153888
+#	177148
+#	193143
+#	210140
+#	232530
+#	264043
+#	285083
+#	307925
+#
+# Disc length: 4434 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ba115010
+DTITLE=Various Artist - The Verve Story - 1944-1994 - CD2
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Art Tatum: Tea for Two [1953]
+TTITLE1=Dizzy Gillespie and His Orchestra: Manteca (Theme) [1954]
+TTITLE2=Benny Carter: My One and Only Love [1954]
+TTITLE3=Lionel Hampton: Flying Home [1954]
+TTITLE4=Flip Phillips: Lemonaid 21 [1954]
+TTITLE5=Count Basie and His Orchestra featuring Joe Williams: Every Day I Have the Blues [1955]
+TTITLE6=Count Basie and His Orchestra: April in Paris [1955]
+TTITLE7=Anita O'Day: Honeysuckle Rose [1955]
+TTITLE8=Lester Young and Teddy Wilson: All of Me [1956]
+TTITLE9=Ella Fitzgerald: Just One of Those Things [1956]
+TTITLE10=Billie Holiday: Lady Sings the Blues [1956]
+TTITLE11=Oscar Peterson Trio: Swinging on a Star [1956]
+TTITLE12=Buddy DeFranco: Cooking the Blues [1955]
+TTITLE13=Ella Fitzgerald and Louis Armstrong: They Can't Take That Away from Me [1956]
+TTITLE14=Coleman Hawkins and Ben Webster: La Rosita [1957]
+TTITLE15=Dizzy Gillespie-Sonny Rollins-Sonny Stitt: I Know that You Know [1957]
+EXTD=YEAR: 1994
+EXTT0=Composers:\tVincent Youmans\n\t\tIrving Caesar\n\nFeaturing:\n\tArt Tatum\t(unaccompanied p]\n\nRecorded:\n\tDecember 29, 1953 in Los Angeles
+EXTT1=Composers:\tChano Pozo\n\t\tJohn Birks "Dizzy" Gillespie\n\t\tWalter Gilbert Fuller\n\nFeaturing:\n\tDizzy Gillespie and His Orchestra\nwith:\n\tDizzy Gillespie\n\tQuincy Jones\n\tJimmy Nottingham\n\tErnie Royal\t(t]\n\tLeon Comegys\n\tJ.J. Johnson
+EXTT1=\n\tGeorge Mathews\t(tb]\n\tGeorge Dorsey\n\tHilton Jefferson\t(as]\n\tHank Mobley\n\tLucky Thompson\t(ts]\n\tDanny Bank\t(bs]\n\tWade Legge\t(p]\n\tLou Hackney and/or\n\tRoberto Rodriguez\t(b]\n\tJose Mangual\t(bgo]\n\tCandido Camero\n\tMongo Sant
+EXTT1=amaria\t(cga]\n\tUbalo Nieto\t(timb]\n\tCharli Persip\t(d]\n\tChico O'Farrill\t(arr, cond]\n\nRecorded:\n\tMay 24, 1954 in New York City
+EXTT2=Composers:\tGuy Wood\n\t\tRobert Mellin\n\nFeaturing:\n\tBenny Carter\t(as]\nwith:\n\tDon Abney\t(p]\n\tGeorge Duvivier\t(b]\n\tLouis Bellson\t(d]\n\nRecorded:\n\tJune 23, 1954 in Los Angeles
+EXTT3=Composers:\tBenjamin David Goodman\n\t\tLionel Hampton\n\t\tSid Robin\n\nFeaturing:\n\tLionel Hampton\t(vb]\nwith:\n\tOscar Peterson\t(p]\n\tRay Brown\t(b]\n\tBuddy Rich\t(d]\n\nRecorded:\n\tSeptember 13, 1954 at Fine Sound Studios, New York City
+EXTT4=Composer:\tJoseph Edward Filipelli (aka Flip Phillips]\n\nFeaturing:\n\tFlip Phillips\t(ts]\nwith:\n\tOscar Peterson\t(p]\n\tHerb Ellis\t\t(g]\n\tRay Brown\t(b]\n\tBuddy Rich\t(d]\n\nRecorded:\n\tSeptember 13, 1954 in New York City
+EXTT5=Composer:\tPeter Chatman (aka Memphis Slim]\n\nFeaturing:\n\tCount Basie and His Orchestra\n\tJoe Williams\t(vcl]\nwith:\n\tWendell Culley\n\tReunald Jones\n\tThad Jones\n\tJoe Newman\t(t]\n\tHenry Coker\n\tBill Hughes\n\tBenny Powell\t(tb]\n\tMars
+EXTT5=hall Royal\t(as, cl]\n\tBill Graham\t(as]\n\tFrank Wess\t(ts, fl]\n\tFrank Foster\t(ts]\n\tCharlie Fowlkes\t(bs]\n\tBasie\t\t(p]\n\tFreddie Green\t(g]\n\tEddie Jones\t(b]\n\tSonny Payne\t(d]\n\tErnie Wilkins\t(arr]\n\nRecorded:\n\tMay 17, 1955 in N
+EXTT5=ew York City
+EXTT6=Composers:\tVernon Duke\n\t\tE.Y. "Yip" Harburg\nFeaturing:\n\tCount Basie and His Orchestra\nwith:\n\tWendell Culley\n\tReunald Jones\n\tThad Jones\n\tJoe Newman\t(t]\n\tHenry Coker\n\tBill Hughes\n\tBenny Powell\t(tb]\n\tFrank Wess\t(fl, ts]\n\tM
+EXTT6=arshall Royal\t(as, cl]\n\tBill Graham\t(as]\n\tFrank Foster\t(ts]\n\tCharlie Fowlkes\t(bs]\n\tBasie\t\t(p]\n\tFreddie Green\t(g]\n\tEddie Jones\t(b]\n\tSonny Payne\t(d]\n\tWild Bill Davis\t(arr]\n\nRecorded:\n\tJuly 26, 1955 in New York City
+EXTT7=Composers:\tThomas Wright "Fats" Waller\n\t\tAndy Razaf\n\nFeaturing:\n\tAnita O'Day\t(vcl]\nwith Buddy Bregman's orchestra:\n\tMilt Bernhardt\n\tLloyd Elliott\n\tJoe Howard\t(t]\n\tSi Zentner\t(tb]\n\tunknown strings\n\tCorky Hale\t(harp]\n\tPaul 
+EXTT7=Smith\t(p]\n\tBarney Kessel\t(g]\n\tJoe Mondragon\t(b]\n\tAlvin Stoller\t(d]\n\nRecorded:\n\tDecember 8, 1955 in Los Angeles
+EXTT8=Composers:\tSeymour Simons\n\t\tGerald Marks\n\nFeaturing:\n\tLester Young\t(ts]\n\tTeddy Wilson\t(p]\nwith:\n\tGene Ramey\t(b]\n\tJo Jones\t\t(d]\n\nRecorded:\n\tJanuary 13, 1956 in New York City
+EXTT9=Composer:\tCole Albert Porter\n\nFeaturing:\n\tElla Fitzgerald\t(vcl]\n\nwith Buddy Bregman's orchestra:\n\tPete Candoli\n\tHarry "Sweets" Edison\n\tMaynard Ferguson\n\tConrad Gozzo\t(t]\n\tMilt Bernhart\n\tJoe Howard\n\tLloyd Ulyate\t(tb]\n\tGeorg
+EXTT9=e Roberts\t(btb]\n\tHerb Geller\n\tBud Shank\t(as]\n\tBob Cooper\n\tTed Nash\t\t(as]\n\tChuck Gentry\t(bs]\n\tPaul Smith\t(p]\n\tBarney Kessel\t(g]\n\tJoe Mondragon\t(b]\n\tAlvin Stoller\t(d]\n\tBregman\t\t(arr, cond]\n\nRecorded:\n\tFebruary 7, 19
+EXTT9=56 at Capitol Records studio, Los Angeles
+EXTT10=Composers:\tHerbert Horatio "Herbie" Nichols\n\t\tBillie Holiday\n\nFeaturing:\n\tBillie Holiday\t(vcl]\nwith:\n\tCharlie Shavers\t(t]\n\tTony Scott\t(cl]\n\tPaul Quinichette\t(ts]\n\tWynton Kelly\t(p]\n\tKenny Burrell\t(g]\n\tAaron Bell\t(b]\n\tL
+EXTT10=ennie McBrowne\t(d]\n\nRecorded:\n\tJune 6, 1956 at Fine Sound Studios, New York City
+EXTT11=Composers:\tJimmy Van Heusen\n\t\tJohnny Burke\n\nFeaturing:\n\tOscar Peterson Trio\nwith:\n\tPeterson\t\t(p]\n\tHerb Ellis\t\t(g]\n\tRay Brown\t(b]\n\nRecorded:\n\tAugust 8, 1956 at the Stratford Shakespearean Festival, Stratford, Ontario
+EXTT12=Composer:\tEugene Wright\n\nFeaturing:\n\tBuddy DeFranco\t(cl]\nwith:\n\tSonny Clark\t(p, org]\n\tTal Farlow\t(g]\n\tGene Wright\t(b]\n\tBobby White\t(d]\n\nRecorded:\n\tAugust 26, 1955 at Radio Recorders, Los Angeles
+EXTT13=Composers:\tGeorge and Ira Gershwin\n\nFeaturing:\n\tElla Fitzgerald\t(vcl]\n\tLouis Armstrong\t(t, vcl]\nwith:\n\tOscar Peterson\t(p]\n\tHerb Ellis\t\t(g]\n\tRay Brown\t(b]\n\tBuddy Rich\t(d]\n\nRecorded:\n\tAugust 18, 1956 in Los Angeles
+EXTT14=Composers:\tPaul Dupont\n\t\tAllan Stuart\n\nFeaturing:\n\tColeman Hawkins\n\tBen Webster\t(ts]\nwith:\n\tOscar Peterson\t(p]\n\tHerb Ellis\t\t(g]\n\tRay Brown\t(b]\n\tAlvin Stoller\t(d]\n\nRecorded:\n\tOctober 16, 1957 in Los Angeles
+EXTT15=Composers:\tVincent Youmans\n\t\tAnne Caldwell\n\nFeaturing:\n\tDizzy Gillespie\t(t]\n\tSonny Rollins\n\tSonny Stitt\t(ts]\nwith:\n\tRay Bryant\t(p]\n\tTommy Bryant\t(b]\n\tCharli Persip\t(d]\n\nRecorded:\n\tDecember 19, 1957 in New York City
+PLAYORDER=

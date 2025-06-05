@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32948
+#	45983
+#	99993
+#	128723
+#	141023
+#	156040
+#	186448
+#	198999
+#	211839
+#	238681
+#	245676
+#	261814
+#
+# Disc length: 3645 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b20e3b0d
+DTITLE=Requiem - Requiem 02 - Luigi Cherubini
+DYEAR=2003
+DGENRE=Classic
+TTITLE0=1. Introitus and Kyrie
+TTITLE1=2. Groduale
+TTITLE2=3. Dies irae
+TTITLE3=4. Offertorium
+TTITLE4=5. Sanctus
+TTITLE5=6. Pie Jesu
+TTITLE6=7. Agnus Dei
+TTITLE7=1. Kyrie
+TTITLE8=2. Gloria
+TTITLE9=3. Credo
+TTITLE10=4. Sanctus
+TTITLE11=5. O Salutraris
+TTITLE12=6. Agnus Dei
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

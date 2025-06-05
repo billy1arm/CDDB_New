@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35181
+#	111213
+#	124857
+#	136440
+#	153062
+#	166957
+#	196008
+#	206243
+#	224119
+#	248790
+#	269041
+#
+# Disc length: 4006 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=bc0fa40c
+DTITLE=Benny Goodman - Collector's Edition
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Unknown Artist - (01) [Benny Goodman] Leonard Bernstein - Prelude, Fugue and Riffs
+TTITLE1=Unknown Artist - (02) [Benny Goodman] Aaron Copland - Concerto for clarinet and string orchestra
+TTITLE2=Unknown Artist - (03) [Benny Goodman] Igor Stravinsky - Ebony Concerto I - Allegro moderato
+TTITLE3=Unknown Artist - (04) [Benny Goodman] Igor Stravinsky - Ebony Concerto II - Andante
+TTITLE4=Unknown Artist - (05) [Benny Goodman] Igor Stravinsky - Ebony Concerto III - Moderato - Con moto
+TTITLE5=Unknown Artist - (06) [Benny Goodman] Morton Gould - Derivations for clarinet and band I - Warm-Up
+TTITLE6=Unknown Artist - (07) [Benny Goodman] Morton Gould - Derivations for clarinet and band II - Contrapuntal Blues
+TTITLE7=Unknown Artist - (08) [Benny Goodman] Morton Gould - Derivations for clarinet and band III - Rag
+TTITLE8=Unknown Artist - (09) [Benny Goodman] Morton Gould - Derivations for clarinet and band IV - Ride-Out
+TTITLE9=Unknown Artist - (10) [Benny Goodman] Bela Bartok - Contrasts I - Verbunkos
+TTITLE10=Unknown Artist - (11) [Benny Goodman] Bela Bartok - Contrasts II - Piheno
+TTITLE11=Unknown Artist - (12) [Benny Goodman] Bela Bartok - Contrasts III - Sebes
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

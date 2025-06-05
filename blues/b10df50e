@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	8663
+#	27235
+#	30390
+#	43448
+#	73168
+#	91523
+#	108928
+#	133108
+#	177353
+#	180363
+#	213535
+#	234043
+#	264543
+#
+# Disc length: 3575 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b10df50e
+DTITLE=Johann Sebastian Bach - Die Bachkantate Vol 29
+DYEAR=1990
+DGENRE=Classical
+TTITLE0=BWV 182 - 1 [Sonata]
+TTITLE1=BWV 182 - 2 [Coro] Himmelskönig, sei willkommen
+TTITLE2=BWV 182 - 3 [Recitativo Basso] Siehe, ich komme
+TTITLE3=BWV 182 - 4 [Aria Basso] Starkes Lieben, das dich
+TTITLE4=BWV 182 - 5 [Aria Alto] Leget euch dem Heiland unter
+TTITLE5=BWV 182 - 6 [Aria Tenore] Jesu, laß durch Wohl und Weh
+TTITLE6=BWV 182 - 7 [Choral] Jesu, deine Passion
+TTITLE7=BWV 182 - 8 [Coro] So lasset uns gehen in Salem der Freuden
+TTITLE8=BWV 66 - 1 [Coro] Erfreuet euch, ihr Herzen
+TTITLE9=BWV 66 - 2 [Recitativo Basso] Es bricht das Grab
+TTITLE10=BWV 66 - 3 [Aria Basso] Lasset dem Höchsten ein Danklied erschallen
+TTITLE11=BWV 66 - 4 [Dialogo Tenore e Alto] Bei Jesu Leben freudig sein
+TTITLE12=BWV 66 - 5 [Duetto Alto e Tenore] Ich furchte zwar des Grabes
+TTITLE13=BWV 66 - 6 [Choral] Alleluja, Alleluja, Alleluja
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

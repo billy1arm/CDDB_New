@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13922
+#     28687
+#     44437
+#     57575
+#     70272
+#     84027
+#     98755
+#     112295
+#     127602
+#     141950
+#     156762
+#     170250
+#     185497
+# 
+# Disc length: 2683 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=ba0a790e
+DTITLE=Bessie Smith - The Bessie Smith Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Alexander's Ragtime Band
+TTITLE1=Gin House Blues
+TTITLE2=Careless Love Blues
+TTITLE3=Nobody's Blues But Mine
+TTITLE4=What's The Matter Now?
+TTITLE5=Baby Doll
+TTITLE6=Hard Time Blues
+TTITLE7=After You've Gone
+TTITLE8=At The Christmas Ball
+TTITLE9=Young Woman's Blues
+TTITLE10=Florida Bound Blues
+TTITLE11=I've Been Mistreated
+TTITLE12=Jazzbo Brown From Memphis Town
+TTITLE13=My Man Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

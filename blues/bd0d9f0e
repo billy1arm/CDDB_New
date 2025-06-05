@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19573
+#	43015
+#	68520
+#	85495
+#	97516
+#	112051
+#	130609
+#	144590
+#	166696
+#	186542
+#	205827
+#	216979
+#	238738
+#
+# Disc length: 3489 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=bd0d9f0e
+DTITLE=Charlie Parker - The Charlie Parker Collection
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Koko
+TTITLE1=A night in Tunisia
+TTITLE2=Confirmation
+TTITLE3=Embraceable you
+TTITLE4=Scrapple from the Apple
+TTITLE5=My Old Flame
+TTITLE6=Out of Nowhere
+TTITLE7=Crazeology
+TTITLE8=I'll walk alone
+TTITLE9=Ornithology
+TTITLE10=Now's the time
+TTITLE11=Dancing on the Ceiling
+TTITLE12=Cool Blues
+TTITLE13=Groovin' high
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

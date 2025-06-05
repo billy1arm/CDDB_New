@@ -1,0 +1,61 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 25130
+# 36520
+# 47852
+# 59405
+# 75225
+# 88277
+# 103182
+# 130280
+# 142647
+# 160540
+# 172732
+# 190665
+# 210517
+# 238505
+#
+# Disc length: 3364 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.2.327
+#
+DISCID=bb0d220f
+DTITLE=Renaud - The meilleur of Renaud ... 1975-85
+DYEAR=1900
+DGENRE=
+TTITLE0=Hexagone
+TTITLE1=Société tu m'auras pas
+TTITLE2=Laisse béton
+TTITLE3=La chanson du loubard
+TTITLE4=Ma gonzesse
+TTITLE5=Chanson pour Pierrot
+TTITLE6=Marche à l'ombre
+TTITLE7=Dans mon HLM
+TTITLE8=Viens chez moi j'habite chez une copine
+TTITLE9=Banlieue rouge
+TTITLE10=Manu
+TTITLE11=Mon beauf'
+TTITLE12=Dès que le vent soufflera
+TTITLE13=Morgane de toi
+TTITLE14=En cloque
+EXTD=Compilation
+EXTT0=Renaud SECHAN.
+EXTT1=Renaud SECHAN.
+EXTT2=Renaud SECHAN.
+EXTT3=Muriel HUSTER-Renaud SECHAN.
+EXTT4=Renaud SECHAN-Alain BRICE.
+EXTT5=Renaud SECHAN.
+EXTT6=Renaud SECHAN.
+EXTT7=Renaud SECHAN.
+EXTT8=Renaud SECHAN.
+EXTT9=Renaud SECHAN.
+EXTT10=Renaud SECHAN.
+EXTT11=Renaud SECHAN-Alain RANVAL.
+EXTT12=Renaud SECHAN.
+EXTT13=Renaud SECHAN-Franck LANGOLFF.
+EXTT14=Renaud SECHAN.
+PLAYORDER=

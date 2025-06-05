@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13232
+#	34481
+#	53666
+#	84325
+#	100359
+#	114506
+#	127398
+#	143590
+#	164555
+#	181565
+#	195925
+#	222482
+#
+# Disc length: 3333 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b50d030d
+DTITLE=Django 100 - Django 100
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Appel Indirect
+TTITLE1=La Marseillaise
+TTITLE2=Artillerie Lourde
+TTITLE3=Anouman
+TTITLE4=Place de Brouckere
+TTITLE5=Nuages
+TTITLE6=Babik
+TTITLE7=Douce Ambiance
+TTITLE8=Manoir de mes Reves
+TTITLE9=Djangology
+TTITLE10=Nuits de St-Germain des Pres
+TTITLE11=Minor Swing
+TTITLE12=Minor Swing mpg
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

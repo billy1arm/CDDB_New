@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14028
+#	30823
+#	51049
+#	68230
+#	85165
+#	101737
+#	120911
+#	142115
+#	154682
+#	167478
+#	180174
+#	197226
+#	209253
+#
+# Disc length: 2951 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b10b850e
+DTITLE=John Coltrane - Ballads Disk 2
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=They Say It's Wonderful
+TTITLE1=All Or Nothing At All
+TTITLE2=Greensleeves
+TTITLE3=Greensleeves
+TTITLE4=Greensleeves
+TTITLE5=Greensleeves
+TTITLE6=Greensleeves
+TTITLE7=It's Easy To Remember
+TTITLE8=It's Easy To Remember
+TTITLE9=It's Easy To Remember
+TTITLE10=It's Easy To Remember
+TTITLE11=It's Easy To Remember
+TTITLE12=It's Easy To Remember
+TTITLE13=It's Easy To Remember
+EXTD=John Coltrane (ts]\nMcCoy Tyner (p]\nJimmy Garrison (b]\nElvin Jones (ds]\nRecorded Dec. 21 1961 and Nov. 13 1962,\nRudy Van GelderStudio, Englewood Cliffs, New Jersey\nUCCI-1004, 2002.3.21 YEAR: 1961
+EXTT0=11164-1\nNov. 13 1962
+EXTT1=11162-2
+EXTT2=10669-2\nDec. 21 1961
+EXTT3=10669-4
+EXTT4=10669-5
+EXTT5=10669-?
+EXTT6=10669-11
+EXTT7=10670-2
+EXTT8=10670-4
+EXTT9=10670-6
+EXTT10=10670-7
+EXTT11=10670-9
+EXTT12=10670-11
+EXTT13=10670-13
+PLAYORDER=

@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11767
+#     28090
+#     41675
+#     57480
+#     77627
+#     90805
+#     102377
+#     118225
+#     126927
+#     140345
+#     153242
+#     161442
+#     173822
+# 
+# Disc length: 2512 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b009ce0e
+DTITLE=Diversos - Tributo A Vin cius - 10 Anos Sem Vin cius
+DYEAR=1900
+DGENRE=
+TTITLE0=Se Todos Fossem Iguais a Voc 
+TTITLE1=Bom Dia Tristeza
+TTITLE2=Berimbau
+TTITLE3=Samba Em Prel dio
+TTITLE4=Insensatez
+TTITLE5=A Felicidade
+TTITLE6=Maria Vai Com As Outras
+TTITLE7=Arrast o
+TTITLE8=O Que Tinha De Ser
+TTITLE9=Eur dice
+TTITLE10=Sonho De Amor A Paz
+TTITLE11=Chega De Saudade
+TTITLE12=gua De Beber
+TTITLE13=Se O Amor Pudesse
+EXTD=
+EXTT0=Maria Creusa\n
+EXTT1=Maysa\n
+EXTT2=Baden Powell\n
+EXTT3=Geraldo Vandr /Ana L cia\n
+EXTT4=Ala de Costa\n
+EXTT5=Agostinho Dos Santos\n
+EXTT6=Mar lia Medalha\n
+EXTT7=Zimbo Trio\n
+EXTT8=Maria Beth nia\n
+EXTT9=Baden Powell\n
+EXTT10=Geraldo Vandr \n
+EXTT11=Maria Creusa\n
+EXTT12=Maysa\n
+EXTT13=Mar lia Medalha\n
+PLAYORDER=

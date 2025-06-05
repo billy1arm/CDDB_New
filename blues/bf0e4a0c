@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	24350
+#	43685
+#	65682
+#	94450
+#	115372
+#	134717
+#	157392
+#	197342
+#	215160
+#	238137
+#	257795
+#
+# Disc length: 3660 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=bf0e4a0c
+DTITLE=Omar Sosa - Free Roots (Raices Libres)
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Travieso (Wild Boy)
+TTITLE1=Fue Mentira (It Was A Lie)
+TTITLE2=Buscando La Clave (Finding The Clave)
+TTITLE3=Raya (The Line)
+TTITLE4=Cha Cha Du Nord
+TTITLE5=Pero No Lo Leí (But I Didn't Read It)
+TTITLE6=Mis Tres Notas (My Three Notes)
+TTITLE7=AfroCuEs A Dada
+TTITLE8=Shirma
+TTITLE9=Guajira de Capital (Country Girl In The Big City)
+TTITLE10=Ponlo Debajo Mierda (Put it Down, Man, Shit)
+TTITLE11=Para Dos (For Two)
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

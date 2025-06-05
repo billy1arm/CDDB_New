@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19910
+#	37068
+#	54451
+#	66496
+#	77562
+#	91799
+#	110756
+#	133281
+#	147385
+#	163394
+#	179738
+#
+# Disc length: 2608 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=b80a2e0c
+DTITLE=H.P. Lange - Ain't Jivin'
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Preachin' The Blues
+TTITLE1=Travellin' Riverside Blues
+TTITLE2=Comin' Down Like Rain
+TTITLE3=Hard Times On My Trail
+TTITLE4=Stumblin' Rag
+TTITLE5=Something That I Ate
+TTITLE6=Leavin' Here
+TTITLE7=God Don't Never Change
+TTITLE8=Too Tight
+TTITLE9=All I Crave
+TTITLE10=Terraplane Blues
+TTITLE11=Can't Bear This Burden By Myself
+EXTD=YEAR: 2000  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

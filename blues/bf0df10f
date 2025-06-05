@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18412
+#	40972
+#	60525
+#	75757
+#	97230
+#	114325
+#	127995
+#	144780
+#	164827
+#	181075
+#	200730
+#	218635
+#	234077
+#	253505
+#
+# Disc length: 3571 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bf0df10f
+DTITLE=Secret Garden - White Stones
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Steps
+TTITLE1=Poeme
+TTITLE2=Hymn To Hope
+TTITLE3=Moving
+TTITLE4=First Day of Spring
+TTITLE5=Passacaglia
+TTITLE6=Reflection
+TTITLE7=Windancer
+TTITLE8=Appassionata
+TTITLE9=Escape
+TTITLE10=Sanctuary
+TTITLE11=Celebration
+TTITLE12=Home
+TTITLE13=Illumination
+TTITLE14=Nocturne
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

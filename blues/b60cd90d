@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15242
+#	33468
+#	54305
+#	71177
+#	93735
+#	113915
+#	132102
+#	152090
+#	168306
+#	184628
+#	200792
+#	221758
+#
+# Disc length: 3291 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.07.15)
+#
+DISCID=b60cd90d
+DTITLE=Anastacia - Not That Kind
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Not That Kind
+TTITLE1=I'm Outta Love
+TTITLE2=Cowboys and Kisses
+TTITLE3=Why'd You Lie To Me
+TTITLE4=Who's Gonna Stop The Rain
+TTITLE5=I Ask Of You
+TTITLE6=Don'tcha Wanna
+TTITLE7=Late Last Night
+TTITLE8=Made For Lovin' You
+TTITLE9=Black Roses
+TTITLE10=Yo Trippin'
+TTITLE11=One More Chance
+TTITLE12=Same Old Story
+EXTD=ID3G:   0 YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

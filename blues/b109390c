@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#     150
+#     20400
+#     34950
+#     51750
+#     66450
+#     82275
+#     105675
+#     111900
+#     129750
+#     135600
+#     139875
+#     155775
+#
+# Disc length: 2363 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Clarion 0.9.2
+#
+DISCID=b109390c
+DTITLE=Reverend Billy C. Wirtz - A Turn for the Wirtz: Confessions of a Hillbil
+DTITLE=ly Love-God
+DYEAR=1900
+DGENRE=
+TTITLE0=Room 309
+TTITLE1=Last Date
+TTITLE2=Food Chain of Fools
+TTITLE3=Hold the Mayo
+TTITLE4=Can't Put My Finger on It
+TTITLE5=Just Can't Seem to Get the Blues
+TTITLE6=Billy's New Piano
+TTITLE7=Brenda
+TTITLE8=Miracle Blessed Prayer Cloth
+TTITLE9=Secrets of Country Music
+TTITLE10=Folks Call Him Jim
+TTITLE11=Mr. Wiggly
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

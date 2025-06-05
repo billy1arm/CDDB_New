@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14165
+#	31632
+#	44442
+#	60955
+#	78865
+#	99037
+#	117332
+#	135872
+#	148620
+#	167305
+#	183342
+#	201945
+#	217460
+#	243852
+#
+# Disc length: 3533 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.30 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=bf0dcb0f
+DTITLE=Various Artist - The Love Collection - Vol. 2
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Run To Me
+TTITLE1=Lost In Love
+TTITLE2=I Can´t Ask For Any More Than You
+TTITLE3=Almost Over You
+TTITLE4=Lilac Wine
+TTITLE5=Forever Autumn
+TTITLE6=It Only Takes A Minute
+TTITLE7=All I Think About Is You
+TTITLE8=You Don´t Have To Say You Love Me
+TTITLE9=Amoureuse
+TTITLE10=I Can´t Stop Loving You (Though I Try)
+TTITLE11=Every Day Hurts
+TTITLE12=When I Dream
+TTITLE13=Music
+TTITLE14=I Have A Dream
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

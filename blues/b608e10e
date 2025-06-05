@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12345
+#     22742
+#     43267
+#     52100
+#     67295
+#     78962
+#     89032
+#     102157
+#     112542
+#     123152
+#     136620
+#     146570
+#     160482
+# 
+# Disc length: 2275 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=b608e10e
+DTITLE=Big MAybelle - Blues, Candy and Big Maybelle
+DYEAR=1900
+DGENRE=
+TTITLE0=Candy
+TTITLE1=Ring Dang Dilly
+TTITLE2=Blues Early, Early
+TTITLE3=A Little Bird Told Me
+TTITLE4=So Long
+TTITLE5=That's A Pretty Good Love
+TTITLE6=Tell Me Who
+TTITLE7=Ramblin' Blues
+TTITLE8=Rockhouse
+TTITLE9=I Don't Want To Cry
+TTITLE10=Pitiful
+TTITLE11=A Good Man Is Hard To Find
+TTITLE12=How It Lies
+TTITLE13=Goin' Home Baby
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

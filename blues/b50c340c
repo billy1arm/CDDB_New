@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17830
+#	30973
+#	52281
+#	69983
+#	89519
+#	106801
+#	133915
+#	148913
+#	157191
+#	168699
+#	199400
+#
+# Disc length: 3126 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b50c340c
+DTITLE=Jerry Goldsmith - Film Music By
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Star Trek End Titles
+TTITLE1=The Mummy The Sand Volcano - Love Theme
+TTITLE2=L.A. Confidential Main Theme
+TTITLE3=The Omen Ave Satani
+TTITLE4=Poltergeist Main Theme
+TTITLE5=Alien Main Theme
+TTITLE6=Rambo - First Blood 2
+TTITLE7=Capricorn One Main Theme
+TTITLE8=Airforce One Main Title
+TTITLE9=Basic Instinct Main Theme
+TTITLE10=Planet Of The Apes The Search And The Hunt
+TTITLE11=Gremlins Suite
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

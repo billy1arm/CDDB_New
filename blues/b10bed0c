@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20500
+#	40900
+#	59350
+#	81550
+#	96625
+#	115975
+#	133900
+#	155050
+#	172750
+#	186325
+#	197200
+#
+# Disc length: 3055 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=b10bed0c
+DTITLE=DDT-Jazzband - 30th Anniversary concert
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Clarinet marmelade
+TTITLE1=Aunt Hagar's blues
+TTITLE2=Jumpin' at the woodside
+TTITLE3=Black and tan fantasy
+TTITLE4=Potato head blues
+TTITLE5=Cakewalking babies
+TTITLE6=Black beauty
+TTITLE7=Runnin' wild
+TTITLE8=St James' Infirmary
+TTITLE9=Dippermouth blues
+TTITLE10=Hard hearted Hannah
+TTITLE11=Panama rag
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

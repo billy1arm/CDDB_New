@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24413
+#	51138
+#	82588
+#	104713
+#	128875
+#	145188
+#	167200
+#	192488
+#	219838
+#	247338
+#	273488
+#	303425
+#
+# Disc length: 4242 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=ba10900d
+DTITLE=SIXUN - Lunatic Taxi
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=What's Up?
+TTITLE1=State Street
+TTITLE2=Les Tambours De Noel
+TTITLE3=Niger
+TTITLE4=Les Enfants Du Monde
+TTITLE5=Emergency
+TTITLE6=Santorin
+TTITLE7=Raggalibo
+TTITLE8=Cantabile
+TTITLE9=L'Amour Bolero
+TTITLE10=Fainakiki
+TTITLE11=Payanak
+TTITLE12=Arnaud Birthday
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

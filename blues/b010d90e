@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23671
+#	56636
+#	83906
+#	107117
+#	128263
+#	152483
+#	176044
+#	195929
+#	198003
+#	230352
+#	261395
+#	293997
+#	301364
+#
+# Disc length: 4315 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=b010d90e
+DTITLE=Zagreb Jazz Portret - Tri suite iz Hrvatske
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Suita Egzotika-Nenad Jura Vrandeèiæ - 1
+TTITLE1=Suita Egzotika-Nenad Jura Vrandeèiæ - 2
+TTITLE2=Suita Egzotika-Nenad Jura Vrandeèiæ - 3
+TTITLE3=Suita Egzotika-Nenad Jura Vrandeèiæ - 4
+TTITLE4=Èetiri Reminiscencije za Jazz Kvartet -Nestoroviæ - 1
+TTITLE5=Èetiri Reminiscencije za Jazz Kvartet -Nestoroviæ - 2
+TTITLE6=Èetiri Reminiscencije za Jazz Kvartet -Nestoroviæ - 3
+TTITLE7=Èetiri Reminiscencije za Jazz Kvartet -Nestoroviæ - 4
+TTITLE8=Vanova Suita - Mario Igrec - 0 Prolog 
+TTITLE9=Vanova Suita - Mario Igrec - 1 12->8
+TTITLE10=Vanova Suita - Mario Igrec - 2 Vanova
+TTITLE11=Vanova Suita - Mario Igrec - 3 Funk
+TTITLE12=Vanova Suita - Mario Igrec - 4 3->4
+TTITLE13=Vanova Suita - Mario Igrec - 5 Fast
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

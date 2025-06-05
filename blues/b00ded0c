@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	13737
+# 	32140
+# 	50122
+# 	71865
+# 	96152
+# 	119005
+# 	137152
+# 	154047
+# 	191640
+# 	217817
+# 	240572
+#
+# Disc length: 3567 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=b00ded0c
+DTITLE=Hippos - Creatures from the Back Saloon
+DYEAR=1900
+DGENRE=
+TTITLE0=Crazy Mixed Up World
+TTITLE1=Why Didn't You Tell Me?
+TTITLE2=Full Bag
+TTITLE3=Flesh and Blood
+TTITLE4=No Fine Line
+TTITLE5=Walking Blues
+TTITLE6=Stop This World
+TTITLE7=Fanny Mae
+TTITLE8=Trouble Blues
+TTITLE9=Same Town
+TTITLE10=My Time (Is Not My Own)
+TTITLE11=Don't Give Me That
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

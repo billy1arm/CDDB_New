@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     33302
+#     57297
+#     74777
+#     99267
+#     132112
+#     161367
+#     188212
+#     204330
+#     219462
+#     243287
+#     271782
+#     294847
+# 
+# Disc length: 4417 seconds
+# 
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b4113f0d
+DTITLE=Various Artist - Woodstock 94-disc 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Metallica - For Whom The Bell Tolls
+TTITLE1=Paul Rodgers - The Hunter
+TTITLE2=The Neville Brothers - Come Together
+TTITLE3=Sheryl Crow - Run, Baby, Run
+TTITLE4=Crosby, Stills and Nash - Deja Vu
+TTITLE5=Violent Femmes - Dance, M.F., Dance! - Kiss Off
+TTITLE6=Collective Soul - Shine
+TTITLE7=Candlebox - Arrow
+TTITLE8=Cypress Hill - How I Could Just Kill A Man
+TTITLE9=Rollins Band - Right Here Too Much
+TTITLE10=Bob Dylan - Highway 61
+TTITLE11=Traffic - Pearly Queen
+TTITLE12=Peter Gabriel - Biko
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

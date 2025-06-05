@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	39865
+#	59732
+#	94527
+#	109650
+#	129565
+#	146265
+#	200080
+#	206345
+#	219257
+#	230835
+#	268882
+#
+# Disc length: 3898 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b10f380c
+DTITLE=Le Réveil des Oiseaux en Bresse - Un matin à Béreyziat
+DYEAR=1993
+DGENRE=Ambiances sonores
+TTITLE0=Jeune hibou moyen-duc au Vorget
+TTITLE1=Coucou gris à l'étang de Saint-Aubain
+TTITLE2=Merle noir aux Cours basse
+TTITLE3=Grenouilles vertes au Vorget
+TTITLE4=Pouillot véloce au Moulin de Béreyziat
+TTITLE5=Hypolaïs polyglotte au Vorget
+TTITLE6=Rossignol philomèle au moulin de Béreyziat
+TTITLE7=Merle noir au Pont de Fontanay
+TTITLE8=Grenouilles vertes au pont de Fontanay
+TTITLE9=Fauvette babillardes au Vorget
+TTITLE10=Rousserolle effarvate à l'étang de la Raymonde
+TTITLE11=Loriot du Moulin de Béreyziat
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,208 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2975
+#	5059
+#	8615
+#	12807
+#	16149
+#	19302
+#	23466
+#	27971
+#	33865
+#	38616
+#	42125
+#	47687
+#	50711
+#	55524
+#	60454
+#	65580
+#	70791
+#	75164
+#	80005
+#	82965
+#	87695
+#	92251
+#	96265
+#	102989
+#	105448
+#	108891
+#	112108
+#	115013
+#	118464
+#	121757
+#	125056
+#	129284
+#	133482
+#	140775
+#	151888
+#	162904
+#	174446
+#	185909
+#	196254
+#	206584
+#	209128
+#	213642
+#	218138
+#	222619
+#	234128
+#	245589
+#	256715
+#	267749
+#	278832
+#	289807
+#	300736
+#	311627
+#	314898
+#	318231
+#	320242
+#	323278
+#	326390
+#	329761
+#	333312
+#	335729
+#	338187
+#	340653
+#	344242
+#
+# Disc length: 4621 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b2120b40
+DTITLE=Dieter Kropp - Blues Harp Schule
+DYEAR=2009
+DGENRE=Blues
+TTITLE0=Der erste Kontakt mit der Harp
+TTITLE1=Kanal 4, die Töne C und D
+TTITLE2=C-Dur Tonleiter
+TTITLE3=Beethovens Neunte - Ode an die Freude
+TTITLE4=Mary had a little lamb
+TTITLE5=Frèrè Jacques
+TTITLE6=Michael Row The Boat Ashore
+TTITLE7=Kumbaya
+TTITLE8=When the Saints go marching in
+TTITLE9=Banks of the Ohio
+TTITLE10=Rock my soul
+TTITLE11=You are my sunshine
+TTITLE12=Oh, Susanna (Einzeltonversion)
+TTITLE13=Brahm's Lullaby - Guten Abend, gut' Nacht
+TTITLE14=Muss i denn ... (Einzeltonversion)
+TTITLE15=De Hamborger Veermaster
+TTITLE16=Morning has broken
+TTITLE17=Happy Birthday
+TTITLE18=Clementine
+TTITLE19=Sur le pont d'Avignon
+TTITLE20=Pippi Langstrumpf
+TTITLE21=Skip to my Lou
+TTITLE22=Shortnin' Bread
+TTITLE23=Corinna, Corinna
+TTITLE24=Einspiel-Uebung 1, C-Dur Pentatonik
+TTITLE25=Einspiel-Uebung 2, C-Dur langsam
+TTITLE26=Einspiel-Uebung 3, C-Dur schnell
+TTITLE27=Einspiel-Uebung 4, C-Dur
+TTITLE28=Einspiel-Uebung 5, C-Dur
+TTITLE29=Einspiel-Uebung 6, C6-Arpeggio
+TTITLE30=Einspiel-Uebung 7, C-Dur-Triolen
+TTITLE31=Spieltechnik "Tongue Blocking"
+TTITLE32=Wooden Heart - Muss i denn ... mit Tongue Blocking
+TTITLE33=Starter's Blues
+TTITLE34=Strictly Straight Blues, komplette Version
+TTITLE35=Strictly Straight Blues, Playalong
+TTITLE36=Rockin' the Harp, komplette Version
+TTITLE37=Rockin' the Harp, Playalong
+TTITLE38=Cool Blues Walk, komplette Version
+TTITLE39=Cool Blues Walk, Playalong
+TTITLE40=kurze Bending-Demonstration
+TTITLE41=Cross Checked, No.1, komplette Version
+TTITLE42=Cross Checked, No.2, komplette Version
+TTITLE43=Cross Checked, No.3, komplette Version
+TTITLE44=Along comes the Blues, komplette Version
+TTITLE45=Along comes the Blues, Playalong
+TTITLE46=Relaxin', komplette Version
+TTITLE47=Relaxin', Playalong
+TTITLE48=Lonesome mood, komplette Version
+TTITLE49=Lonesome mood, Playalong
+TTITLE50=Take your time, komplette Version
+TTITLE51=Take your time, Playalong
+TTITLE52=Einspiel-Uebung 8, G-Dur
+TTITLE53=Einspiel-Uebung 9, G-Dur
+TTITLE54=Einspiel-Uebung 10, G-Dur
+TTITLE55=Einspiel-Uebung 11, G-Dur
+TTITLE56=Einspiel-Uebung 12, G6-Arpeggio
+TTITLE57=Einspiel-Uebung 13, G6-Arpeggio
+TTITLE58=Einspiel-Uebung 14, G7-Arpeggio
+TTITLE59=Bending-Uebung (1), Kanal 1 ziehen
+TTITLE60=Bending-Uebung (2), Kanal 4 ziehen
+TTITLE61=Bending-Uebung (3), Kanal 3 ziehen
+TTITLE62=Boogie On! Ein kleines rhythmisches Schmankerl!
+TTITLE63=Blues Feeling
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+PLAYORDER=

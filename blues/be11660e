@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23933
+#	47331
+#	69423
+#	95319
+#	119304
+#	142742
+#	164890
+#	188284
+#	211461
+#	233163
+#	260720
+#	280832
+#	308824
+#
+# Disc length: 4456 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=be11660e
+DTITLE=Various Artist - The Greatest Salsa Ever Vol. 32
+DYEAR=2007
+DGENRE=Salsa
+TTITLE0=Willie Colon and Hector Lavoe - Pinaña
+TTITLE1=Pete "Conde" Rodrigues - Catalina La O
+TTITLE2=Orquesta La Solución - La Cabra y La Soga
+TTITLE3=Willie Rosario - El Antifaz
+TTITLE4=Marvin Santiago - Auditorio Azul
+TTITLE5=Frankie Ruiz - Lo Dudo
+TTITLE6=Tommy Olivencia - No Me Tires La Primera Piedra
+TTITLE7=Andy Montñnez - Genio y Figura
+TTITLE8=Paquito Guzman - Cinco Noches
+TTITLE9=Jose Albertp "El Canario" =Con Sandra En La Cama
+TTITLE10=India featuring Marc Anthony
+TTITLE11=Yuri Buenaventura - Salsa
+TTITLE12=Ruben Blades - Juan Pachanga
+TTITLE13=Celiz Cruz and Johnny Pacheco - Toro Mata
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

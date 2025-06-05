@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3932
+#	21518
+#	44772
+#	69266
+#	89472
+#	105583
+#	133845
+#	152236
+#	169828
+#	183743
+#	194639
+#	204641
+#
+# Disc length: 3715 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=be0e810d
+DTITLE=Limp Bizkit - Three Dollar Bill, Y'all+
+DYEAR=1997
+DGENRE=Hard Rock
+TTITLE0=Intro
+TTITLE1=Pollution
+TTITLE2=Counterfeit
+TTITLE3=Stuck
+TTITLE4=Nobody Loves Me
+TTITLE5=Sour
+TTITLE6=Stalemate
+TTITLE7=Clunk
+TTITLE8=Faith
+TTITLE9=Stink Finger
+TTITLE10=Indigo Flow
+TTITLE11=Leech (Demo Version)
+TTITLE12=Everything
+EXTD=\n YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	35085
+#	54505
+#	84623
+#	102945
+#	136058
+#	157335
+#	175680
+#	206520
+#	232865
+#	250835
+#	271060
+#	288580
+#	315045
+#
+# Disc length: 4555 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b711c90e
+DTITLE=Various Artist - The Verve Story - 1944-1994 - CD3
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Stan Getz and J. J. Johnson: Crazy Rhythm [1957]
+TTITLE1=Blossom Dearie: Surrey with the Fringe on Top [1958]
+TTITLE2=Duke Ellington-Johnny Hodges Sextet: Stompy Jones [1959]
+TTITLE3=Sonny Stitt: I Can't Give You Anything but Love [1959]
+TTITLE4=Gerry Mulligan and Ben Webster: Chelsea Bridge [1959]
+TTITLE5=Ella Fitzgerald: Mack the Knife [1960]
+TTITLE6=Mel Tormé with the Marty Paich Dek-tette: Too Close for Comfort [1960]
+TTITLE7=The Jimmy Giuffre 3: In the Mornings Out There [1961]
+TTITLE8=Gerry Mulligan and the Concert Jazz Band: I'm Gonna Go Fishin' [1960]
+TTITLE9=Stan Getz: Night Rider [1961]
+TTITLE10=Lee Konitz: I Remember You [1961]
+TTITLE11=Oscar Peterson Trio: Something's Coming [1962]
+TTITLE12=Stan Getz and Charlie Byrd: Desafinado (Off Key) [1962]
+TTITLE13=Jimmy Smith: Walk on the Wild Side [1962]
+EXTD=YEAR: 1994
+EXTT0=Composers:\tJoseph Meyer\n\t\tRoger Wolfe Kahn\n\t\tIrving Caesar\n\nFeaturing:\n\tStan Getz\t\t(ts]\n\tJ.J. Johnson\t(tb]\nwith:\n\tOscar Peterson\t(p]\n\tHerb Ellis\t\t(g]\n\tRay Brown\t(b]\n\tConnie Kay\t(d]\n\nRecorded:\n\tOctober 7, 1957 at Sh
+EXTT0=rine Auditorium in Los Angeles
+EXTT1=Composers:\tRichard Rodgers\n\t\tOscar Hammerstein II\n\nFeaturing:\n\tBlossom Dearie\t(vcl]\nwith:\n\tMundell Lowe\t(g]\n\tRay Brown\t(b]\n\tEd Thigpen\t(d]\n\nRecorded:\n\tSeptember 12 or 13, 1958 in New York City
+EXTT2=Composer:\tEdward Kennedy "Duke" Ellington\n\nFeaturing:\n\tDuke Ellington - Johnny Hodges Sextet\nwith:\n\tHarry "Sweets" Edison\t(t]\n\tHodges\t\t(as]\n\tEllington\t\t(p]\n\tLes Spann\t(g]\n\tAl Hall\t\t(b]\n\tJo Jones\t\t(d]\n\nRecorded:\n\tFebr
+EXTT2=uary 20, 1959 in New York City\n
+EXTT3=Composers:\tJimmy McHugh\n\t\tDorothy Fields\n\nFeaturing:\n\tSonny Stitt\t(as]\nwith the Oscar Peterson Trio:\n\tPeterson\t\t(p]\n\tRay Brown\t(b]\n\tEd Thigpen\t(d]\n\nRecorded:\n\tMay 18, 1959 in Paris
+EXTT4=Composer:\tWilliam Thomas "Billy" Strayhorn\n\nFeaturing:\n\tGerry Mulligan\t(bs]\n\tBen Webster\t(ts]\nwith:\n\tJimmy Rowles\t(p]\n\tLeroy Vinnegar\t(b]\n\tMel Lewis\t(d]\n\nRecorded:\n\tNovember 3, 1959 at Radio Recorders, Los Angeles
+EXTT5=Mack the Knife (aka "Morit'at"]\n\nComposers:\tKurt Weill\n\t\tBertolt Brecht\n\t\tMarc Blitzstein\n\nFeaturing:\n\tElla Fitzgerald\t(vcl]\nwith:\n\tPaul Smith\t(p]\n\tJim Hall\t\t(g]\n\tWilfred Middlebrooks\t(b]\n\tGus Johnson\t(d]\n\nRecorded:\n\
+EXTT5=tFebruary 13, 1960 in West Berlin
+EXTT6=Composers:\tJerry Bock\n\t\tLarry Holofcener\n\t\tGeorge Weiss\n\nFeaturing:\n\tMel Torme\t(vcl]\nwith the Marty Paich Dek-tette:\n\tVince DeRosa\t(frh]\n\tAl Porcino\n\tStu Williamson\t(t]\n\tFrank Rosolino\t(tb]\n\tRed Callender\t(tu]\n\tArt Pepp
+EXTT6=er\t(as]\n\tBill Perkins\t(ts]\n\tBill Hood\t\t(bs]\n\tMarty Paich\t(p, arr]\n\tJoe Mondragon\t(b]\n\tMel Lewis\t(d]\n\nRecorded:\n\tJanuary 21, 1960 in Los Angeles\n
+EXTT7=Composer:\tCarla Bley\n\nFeaturing:\n\tThe Jimmy Giuffre 3\nwith:\n\tGiuffre\t\t(cl]\n\tPaul Bley\t\t(p]\n\tSteve Swallow\t(b]\n\nRecorded:\n\tMarch 3, 1961 in New York City
+EXTT8=Composers:\tEdward Kennedy "Duke" Ellington\n\t\tPeggy Lee\n\nFeaturing:\n\tGerry Mulligan and the Concert Jazz Band\nwith:\n\tDon Ferrera\n\tDanny Stiles\n\tPhil Sunkel\t(t]\n\tWayne Andre\n\tAlan Raph\t(tb]\n\tBob Brookmeyer\t(vtb, p]\n\tGene Qui
+EXTT8=ll\t(as, cl]\n\tDick Meldonian\t(as]\n\tJim Reider\t(ts]\n\tGene Allen\t(bs, bcl]\n\tMulligan\t\t(bs, p]\n\tBill Tackus\t(b]\n\tDave Bailey\t(d]\n\nRecorded:\n\tJuly 25 or 27, 1960 in Los Angeles
+EXTT9=Composer:\tEdward Ernest "Eddie" Sauter\n\nFeaturing:\n\tStan Getz\t\t(ts]\nwith Hershy Kay's orchestra:\n\tunknown\t\t(wdwd]\n\tAlan Martin\n\tGerald Tarack\n\tunknown\t\t(v]\n\tJacob Glick\t(vla]\n\tBruce Rogers\n\tunknown\t\t(cello]\n\tJohn Neve
+EXTT9=s\t(b]\n\tSauter\t\t(arr, cond]\n\nRecorded:\n\tJuly 28, 1961 in New York City
+EXTT10=Composers:\tVictor Schertzinger\n\t\tJohnny Mercer\n\nFeaturing:\n\tLee Konitz\t(as]\nwith:\n\tSonny Dallas\t(b]\n\tElvin Jones\t(d]\n\nRecorded:\n\tAugust 24, 1961 in New York City
+EXTT11=Composers:\tLeonard Bernstein\n\t\tStephen Sondheim\n\nFeaturing:\n\tOscar Peterson Trio\nwith:\n\tPeterson\t\t(p]\n\tRay Brown\t(b]\n\tEd Thigpen\t(d]\n\nRecorded:\n\tJanuary 24 or 25, 1962 in New York City
+EXTT12=Desafinado (Off Key]\n\nComposers:\tAntonio Carlos Jobim\n\t\tNewton Mendonca\n\nFeaturing:\n\tStan Getz\t\t(ts]\n\tCharlie Byrd\t(g]\nwith:\n\tGene Byrd\t(g, b]\n\tKeter Betts\t(b]\n\tBill Reichenbach\t(perc, d]\n\tBuddy Deppenschmidt\t(d]\n\nRec
+EXTT12=orded:\n\tFebruary 13, 1962 at Pierce Hall, All Souls Unitarian Church, Washington, D.C.
+EXTT13=Composers:\tElmer Bernstein\n\t\tMack David\n\nFeaturing:\n\tJimmy Smith\t(org]\nwith Oliver Nelson's orchestra:\n\tJoe Newman\n\tErnie Royal\n\tDoc Severinsen\n\tJoe Wilder\t(t]\n\tJimmy Cleveland\n\tUrbie Green\n\tBritt Woodman\t(tb]\n\tTom Mitc
+EXTT13=hell\t(btb]\n\tJerry Dodgion\n\tPhil Woods\t(as]\n\tBob Ashton\n\tBabe Clark\t(ts]\n\tGeorge Barrow\t(bs]\n\tBarry Galbraith\t(g]\n\tGeorge Duvivier\t(b]\n\tEd Shaughnessy\t(d]\n\tNelson\t\t(arr, cond]\n\nRecorded:\n\tMarch 28, 1962 in New York Ci
+EXTT13=ty
+PLAYORDER=

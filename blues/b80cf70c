@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20927
+#     40642
+#     61072
+#     81670
+#     103029
+#     124425
+#     143850
+#     166842
+#     187467
+#     208977
+#     228492
+# 
+# Disc length: 3321 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=b80cf70c
+DTITLE=Gary Nicholson - The Sky Is Not The Limit
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Be Careful What You Dream
+TTITLE1=The Sky Is Not The Limit
+TTITLE2=The Trouble With The Truth
+TTITLE3=Good Days Bad Days
+TTITLE4=Somebody To Love You
+TTITLE5=Chain Reaction
+TTITLE6=The 90s Is The 60s Turned Upside Down
+TTITLE7=Shadow of Doubt
+TTITLE8=I Wish I Could Be That Strong
+TTITLE9=The Itch
+TTITLE10=Faith In A Feeling
+TTITLE11=Fearless
+EXTD=
+EXTT0=
+EXTT1=\n
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

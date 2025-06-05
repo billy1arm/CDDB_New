@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5694
+#	52000
+#	70958
+#	98671
+#	123456
+#	144711
+#	194825
+#	211484
+#	229808
+#	249295
+#	262624
+#	285344
+#
+# Disc length: 3975 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=be0f850d
+DTITLE=Choraphon - es war einmal...
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Ouvertüre
+TTITLE1=Es war einmal...
+TTITLE2=Dazwischen der Traum
+TTITLE3=Die Wüste
+TTITLE4=Herbst
+TTITLE5=Berlin
+TTITLE6=Maria
+TTITLE7=Die Blume
+TTITLE8=Der Kleine Prinz
+TTITLE9=Flug mit der Sonne
+TTITLE10=Unsichtbar
+TTITLE11=Abschied
+TTITLE12=Allein
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

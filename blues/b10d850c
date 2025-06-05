@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	13078
+#	32525
+#	58345
+#	85498
+#	105468
+#	123538
+#	146483
+#	170100
+#	186413
+#	207688
+#	233650
+#
+# Disc length: 3463 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta5
+#
+DISCID=b10d850c
+DTITLE=Jimmy Johnson - The twelve bar blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=I've the same old blues
+TTITLE1=Heap see
+TTITLE2=Cold cold feeling
+TTITLE3=Missing link
+TTITLE4=Little by little
+TTITLE5=Chicken head
+TTITLE6=When my first wife quit me
+TTITLE7=You don't know what love is
+TTITLE8=Happy home
+TTITLE9=Here I am
+TTITLE10=Gangster of love
+TTITLE11=Call the plumber
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

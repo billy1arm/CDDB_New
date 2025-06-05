@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5782
+#	25927
+#	47242
+#	63517
+#	87632
+#	97735
+#	126917
+#	147332
+#	166042
+#	187777
+#	211187
+#	228197
+#	254167
+#
+# Disc length: 3464 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bd0d860e
+DTITLE=Daniel Stelter - Homebrew Songs
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Intro
+TTITLE1=Menime
+TTITLE2=Amor Macio
+TTITLE3=Flutter
+TTITLE4=Monolith
+TTITLE5=Monsterfee
+TTITLE6=Simple Plan
+TTITLE7=Slick
+TTITLE8=Paperboat
+TTITLE9=Wonderboy
+TTITLE10=Strom
+TTITLE11=River Rhine
+TTITLE12=Indigo
+TTITLE13=Outro
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

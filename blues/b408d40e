@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13970
+#	28470
+#	44032
+#	56640
+#	69132
+#	80975
+#	92375
+#	103775
+#	116322
+#	129377
+#	140390
+#	150945
+#	161305
+#
+# Disc length: 2262 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b408d40e
+DTITLE=中村八大 - 中村八大
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=To Love Again
+TTITLE1=Some Enchanted Evening
+TTITLE2=Autum Leaves
+TTITLE3=Moonlight Serenade
+TTITLE4=Besame Mucho
+TTITLE5=Over The Rainbow
+TTITLE6=Somebody Loves Me
+TTITLE7=Brazil
+TTITLE8=Indian Love Call
+TTITLE9=Manhattan
+TTITLE10=Te Quiero Dijiste
+TTITLE11=Stranger In Paradise
+TTITLE12=Blue Moon
+TTITLE13=Delicado
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

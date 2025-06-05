@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13108
+#	24680
+#	38405
+#	60935
+#	75755
+#	88595
+#	99835
+#	114885
+#	135265
+#	146360
+#	157910
+#	170553
+#	191068
+#	202170
+#	218120
+#
+# Disc length: 3139 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: ACXtractor (MTCDDB.DLL V2003.07.15)
+#
+DISCID=bc0c4110
+DTITLE=Toots Thielemans - Midnight cowboy
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=01 Midnight cowboy
+TTITLE1=02 Et Maintenant
+TTITLE2=03 La Mamma
+TTITLE3=Midnights blues
+TTITLE4=05 Where are they now?
+TTITLE5=06 Light my fire
+TTITLE6=07 The jazz Waltz
+TTITLE7=08 Sunny Goodge street
+TTITLE8=09 My cherie amour
+TTITLE9=10 Theme from Peyton place
+TTITLE10=11 Up, up and away
+TTITLE11=12 The swan
+TTITLE12=13 Bluesette (live)
+TTITLE13=14 Glimmie's theme
+TTITLE14=15 Bey, bey blackbird (live)
+TTITLE15=16 The first time ever I saw her face
+EXTD=ID3G:   0 YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

@@ -1,0 +1,61 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 182
+# 16540
+# 33612
+# 51957
+# 66185
+# 93935
+# 109722
+# 130770
+# 144115
+# 167357
+# 188992
+# 204892
+# 221175
+# 229262
+#
+# Disc length: 3077 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=b80c030e
+DTITLE=Le Grand Blues Band - Le Grand Blues Band
+DYEAR=1900
+DGENRE=
+TTITLE0=Walking by myself
+TTITLE1=Stanley's hop
+TTITLE2=Le Grand Blues Band
+TTITLE3=Caledonia
+TTITLE4=Fallin' back in love with you
+TTITLE5=The duck
+TTITLE6=Witch queen of New Orleans
+TTITLE7=Tobacco road
+TTITLE8=Everybody get up
+TTITLE9=Mystery train
+TTITLE10=Brett's stuff
+TTITLE11=Satisfy Suzy
+TTITLE12=Odd rush
+TTITLE13=Le Grand Blues Band (encore)
+EXTD=Invités:\nJean-jacques Milteau - harmonica sur tous les titres\nJean-mich
+EXTD=el Kajdan - guitare sur 5 and 7\nSlim Batteux - Hammond B3 sur 7, choeurs s
+EXTD=ur  3, 7, 9, 10 and 12\nLuc Bertin - choeurs sur 3, 9, 10 and 12
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

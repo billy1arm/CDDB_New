@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24315
+#	47432
+#	74975
+#	91400
+#	115247
+#	140732
+#	162102
+#	179470
+#	206430
+#	235747
+#	265200
+#	297200
+#
+# Disc length: 4173 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bc104b0d
+DTITLE=Brad Mehldau - Places
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Los Angeles
+TTITLE1=29 Palms
+TTITLE2=Madrid
+TTITLE3=Amsterdam
+TTITLE4=Los Angeles II
+TTITLE5=West Hartford
+TTITLE6=Airport Sadness
+TTITLE7=Perugia
+TTITLE8=A Walk In The Park
+TTITLE9=Paris
+TTITLE10=Schloss Elmau
+TTITLE11=Am Zauberberg
+TTITLE12=Los Angeles (Reprise)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

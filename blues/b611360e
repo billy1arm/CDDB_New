@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18025
+#	36568
+#	55661
+#	86751
+#	107191
+#	150860
+#	164394
+#	190680
+#	215486
+#	237335
+#	260100
+#	279465
+#	310610
+#
+# Disc length: 4408 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b611360e
+DTITLE=John Lewis - JazzBach
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=01_PreludeNo.5
+TTITLE1=02_FugueNo.5
+TTITLE2=03_PreludeNo.16
+TTITLE3=04_FugueNo.16
+TTITLE4=05_PreludeNo.8
+TTITLE5=05_FugueNo.8
+TTITLE6=07_PreludeNo.3
+TTITLE7=08_FugueNo.3
+TTITLE8=09_PreludeNo.10
+TTITLE9=10_FugueNo.10
+TTITLE10=11_PreludeNo.11
+TTITLE11=12_FugueNo.11
+TTITLE12=13_PreludeNo.13
+TTITLE13=14_FugueNo.13
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

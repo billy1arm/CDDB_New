@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21527
+#	53312
+#	86235
+#	105720
+#	147630
+#	178435
+#	206970
+#	229595
+#	245320
+#	267385
+#	290880
+#
+# Disc length: 4336 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=bf10ee0c
+DTITLE=Horace Silver - The Blue Note Years  (Japan)
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Blowin' The Blues Away
+TTITLE1=Senor Blues
+TTITLE2=Song For My Father
+TTITLE3=The Preacher
+TTITLE4=Filthy Mcnasty
+TTITLE5=Nica's Dream
+TTITLE6=Sister Sadie
+TTITLE7=The Cape Verdean Blues
+TTITLE8=Opus De Funk
+TTITLE9=Cookin' At The Continental
+TTITLE10=Safari
+TTITLE11=The Tokyo Blues
+EXTD=\n YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

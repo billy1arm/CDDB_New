@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32915
+#	61923
+#	96068
+#	121288
+#	148588
+#	179479
+#	209952
+#	236175
+#	264356
+#	290599
+#	325743
+#
+# Disc length: 4764 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=bc129a0c
+DTITLE=Freddie Hubbard - Classic Recordings 1960-1962 - Disc1
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Open Sesame
+TTITLE1=But Beautiful
+TTITLE2=Gypsy Blue
+TTITLE3=All or Nothing at All
+TTITLE4=One Mint Julep
+TTITLE5=Hub's Nub
+TTITLE6=Asiatic Raes
+TTITLE7=The Changing Scene
+TTITLE8=Karioka
+TTITLE9=A Peck A Sec
+TTITLE10=I Wished I Knew
+TTITLE11=Blues for Brenda
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

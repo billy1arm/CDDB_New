@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13725
+#	27750
+#	48375
+#	65100
+#	94875
+#	109800
+#	128475
+#	150075
+#	169425
+#	184500
+#	198000
+#	213637
+#	228225
+#
+# Disc length: 3177 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=b30c670e
+DTITLE=Kokomo Blues - When in Rome, do Rome
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=In the evening
+TTITLE1=Hey hey
+TTITLE2=Mississippi blues
+TTITLE3=Diddie wa diddie
+TTITLE4=Call it stormy monday
+TTITLE5=Fishing blues
+TTITLE6=San Francisco Bay Blues
+TTITLE7=Big boss man
+TTITLE8=How long blues
+TTITLE9=Saturday blues
+TTITLE10=Sally where d'you get your liquor from
+TTITLE11=Twenty nine ways
+TTITLE12=Freight train
+TTITLE13=Crawling to the border
+EXTD=\nYEAR: 1994  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

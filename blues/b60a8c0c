@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17951
+#	33725
+#	48224
+#	68280
+#	80987
+#	101123
+#	119790
+#	134919
+#	151766
+#	162616
+#	179991
+#
+# Disc length: 2702 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=b60a8c0c
+DTITLE=J.J. Malone and the Backroads Blues Band - The Band Played On
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=The Band Played On
+TTITLE1=Crawdad Hole
+TTITLE2=Blues Is Coming Down
+TTITLE3=Bring It On Home w/ Frankie Lee
+TTITLE4=Morgan County Jail
+TTITLE5=Down That Lonesome Road
+TTITLE6=Come Boogie With Me
+TTITLE7=Late In The Evening
+TTITLE8=Love Song For You
+TTITLE9=You Call My Number
+TTITLE10=Honest I Do
+TTITLE11=Let's Make It Sh----
+EXTD=YEAR: 2001 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

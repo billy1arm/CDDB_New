@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22575
+#	46566
+#	73147
+#	98154
+#	125387
+#	146322
+#	172568
+#	201663
+#	221643
+#	245490
+#	273868
+#	299697
+#
+# Disc length: 4346 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b710f80d
+DTITLE=Beatle Jazz - Meet The Best
+DYEAR=2014
+DGENRE=Jazz
+TTITLE0=Strawberry Fields Forever
+TTITLE1=All You Need Is Love
+TTITLE2=A Hard Day’s Night
+TTITLE3=Here There And Everywhere
+TTITLE4=I Am The Walrus
+TTITLE5=Lady Madonna
+TTITLE6=Let It Be
+TTITLE7=Eleanor Rigby
+TTITLE8=The Fool On The Hill
+TTITLE9=Lovely Rita
+TTITLE10=If I Fell
+TTITLE11=Come Together
+TTITLE12=And I Love Her
+EXTD=YEAR: 2014
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     20695
+#     58793
+#     76623
+#     95390
+#     115293
+#     129415
+#     147865
+#     166343
+#     183610
+#     200983
+#     216620
+# 
+# Disc length: 3105 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b20c1f0c
+DTITLE=Diversos - Remix Samba
+DYEAR=1900
+DGENRE=
+TTITLE0=Vergonha Na Cara
+TTITLE1=Que Se Chama Amor
+TTITLE2=Quem   Voc 
+TTITLE3=Por Causa De Voc  Menina
+TTITLE4=Menina Linda
+TTITLE5=Menina Da Colina
+TTITLE6=Quando Te Encontrei
+TTITLE7=Desejo De Amar
+TTITLE8=Reuni o de Bacana
+TTITLE9=Mordomia
+TTITLE10=Ana
+TTITLE11=Linda Hist ria de Amor
+EXTD=
+EXTT0=Ser \nO Teu Chamego\nEu Ment \nA Barata\n
+EXTT1=Me Leva No Seu Cora  o\nVolta Pr  Mim\nCigana\nJeito de Seduzir\n
+EXTT2=Caidinho\nCi me de Voc \n
+EXTT3=Chove Chuva\nMas Que Nada\n
+EXTT4=Desejo Louco\nAcho que Te Amo\n
+EXTT5=Cad  Tereza\nCaxamb \n
+EXTT6=Um Lindo Sonho\nNos Bra os, Nos Olhos e No Cora  o\n
+EXTT7=Del rios De Amor\nCicatriz do Amor\n
+EXTT8=Pega Eu (O Supra Sumo Da \nHonestidade]\nSamba Do Trabalhador\n
+EXTT9=Pagode Do Gago\nBatida de Lim o\n
+EXTT10=Cheia de Manias\nPerd  Voc \n
+EXTT11=Enredo Do Meu Samba\nVazio (Est  Faltando Uma Coisa Em Mim]\n
+PLAYORDER=

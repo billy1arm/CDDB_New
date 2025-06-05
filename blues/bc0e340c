@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22250
+#	63466
+#	97860
+#	105634
+#	127638
+#	146237
+#	155812
+#	179996
+#	201855
+#	224397
+#	251925
+#
+# Disc length: 3638 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=bc0e340c
+DTITLE=Dhafer Youssef - Abu Nawas Rhapsody
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Dhafer Youssef - Sacré "The wine Ode Suite"
+TTITLE1=Dhafer Youssef - Les Ondes Orientales
+TTITLE2=Dhafer Youssef - Khamsa "The Khamriyyat of Abu Nuwas"
+TTITLE3=Dhafer Youssef - Interl'Oud
+TTITLE4=Dhafer Youssef - Odd Elegy
+TTITLE5=Dhafer Youssef - Ya Hobb "In The Name Of Love"
+TTITLE6=Dhafer Youssef - Shaouk
+TTITLE7=Dhafer Youssef - Shatha
+TTITLE8=Dhafer Youssef - Mudamatan "The wine Ode Suite"
+TTITLE9=Dhafer Youssef - Sabaa (Hayastan Dance)
+TTITLE10=Dhafer Youssef - Sura
+TTITLE11=Dhafer Youssef - Profane "The Wine Ode Suite"
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19180
+#	42139
+#	64006
+#	86395
+#	107184
+#	124922
+#	146786
+#	167930
+#	185945
+#	213723
+#	233840
+#
+# Disc length: 3471 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=b30d8d0c
+DTITLE=Hiroko Williams - a time for Ballads
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Mona Lisa
+TTITLE1=The Ballad of The Sad Young Man
+TTITLE2=For All We Know
+TTITLE3=I'll Remember April
+TTITLE4=Smaile
+TTITLE5=Just In Time
+TTITLE6=I Loves Porgy
+TTITLE7=Fly Me To The Moon
+TTITLE8=Lush Life
+TTITLE9=A Time For Love
+TTITLE10=I'll Be Seeing You
+TTITLE11=A Nightingale Sang In Berkeley Square
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17948
+#	32503
+#	54910
+#	72685
+#	86128
+#	105545
+#	126543
+#	149890
+#	168350
+#	185600
+#	207813
+#
+# Disc length: 2974 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=b60b9c0c
+DTITLE=Mark Nomad - Nomad's Land
+DYEAR=1900
+DGENRE=
+TTITLE0=Green Eyes
+TTITLE1=Heavenly Bound
+TTITLE2=Hannah Lee
+TTITLE3=Baby Please
+TTITLE4=Angel Boy
+TTITLE5=My Trouble Blues
+TTITLE6=Rocking Horse
+TTITLE7=Easy Baby
+TTITLE8=Love Your Ways
+TTITLE9=Don't Waste Yourself
+TTITLE10=My Mind Gets To Wonderin'
+TTITLE11=Come On Little Cutie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

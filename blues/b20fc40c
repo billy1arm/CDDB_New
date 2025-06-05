@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34938
+#	62638
+#	78501
+#	101489
+#	121204
+#	157338
+#	176638
+#	193233
+#	217131
+#	241422
+#	275325
+#
+# Disc length: 4038 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.99.1
+#
+DISCID=b20fc40c
+DTITLE=Leonard Cohen - Songs from the road (Live Songs)
+DYEAR=2010
+DGENRE=Chanson
+TTITLE0=Lover, Lover, Lover
+TTITLE1=Bird on the wire
+TTITLE2=Chelsea Hotel
+TTITLE3=Heart with no companion
+TTITLE4=That don't make it junk
+TTITLE5=Waiting for the miracle
+TTITLE6=Avalanche
+TTITLE7=Suzanne
+TTITLE8=The Partisan
+TTITLE9=Famous blue raincoat
+TTITLE10=Hallelujah
+TTITLE11=Closing time
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

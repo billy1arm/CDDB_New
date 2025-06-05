@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	17295
+#	35930
+#	51480
+#	67590
+#	82425
+#	101325
+#	119217
+#	131660
+#	145365
+#	165795
+#	185572
+#	203877
+#
+# Disc length: 2906 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=bc0b580d
+DTITLE=Gera Samba - É O Tchan
+DYEAR=1900
+DGENRE=
+TTITLE0=Beco Do Siri
+TTITLE1=O Bicho Solto
+TTITLE2=Paquerei
+TTITLE3=Da Clara E Da Gema
+TTITLE4=Machucado Da Morena
+TTITLE5=Razão Do Meu Viver
+TTITLE6=É  O Tchan (Pot-Pourri)
+TTITLE7=Tá  Com Raiva De Mim
+TTITLE8=Cadê Se Me Dão
+TTITLE9=Então Mãe
+TTITLE10=Caia Pra Dentro
+TTITLE11=Gererê
+TTITLE12=O Trenzinho
+EXTD=
+EXTT0=
+EXTT1=Qui Qui Cá Cá Cá
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=Pau Que Nasce Torto\nMelô Do Tchan\n
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=(Chove Chuva]\n
+EXTT11=Cesta De Ovos\nTô Melado\n
+EXTT12=(B nus Track)
+PLAYORDER=

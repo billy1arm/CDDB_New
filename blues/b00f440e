@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17939
+#	33967
+#	61321
+#	80709
+#	106456
+#	126063
+#	143507
+#	157950
+#	183401
+#	210782
+#	231821
+#	256520
+#	276215
+#
+# Disc length: 3910 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=b00f440e
+DTITLE=Joeve - Perfume Of Flowers
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=Chevrefeuille
+TTITLE1=Lilas
+TTITLE2=Nymphea
+TTITLE3=Violette
+TTITLE4=Jasmin
+TTITLE5=Rose
+TTITLE6=Narcisse
+TTITLE7=Lavande
+TTITLE8=Giroflee
+TTITLE9=Gardenia
+TTITLE10=Muguet
+TTITLE11=Magnolia
+TTITLE12=Heliotrope
+TTITLE13=Jardin Parfume
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

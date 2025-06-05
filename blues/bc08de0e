@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11245
+#     23380
+#     29945
+#     38222
+#     52245
+#     66325
+#     78485
+#     89370
+#     103517
+#     111287
+#     122502
+#     134435
+#     151197
+# 
+# Disc length: 2272 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=bc08de0e
+DTITLE=Leadbelly - The Leadbelly Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Good Morning Blues
+TTITLE1=Good Night Irene
+TTITLE2=There Is A Man Going Around
+TTITLE3=On A Monday
+TTITLE4=The Gallis Pole
+TTITLE5=Poor Howard/Green Corn
+TTITLE6=Outskirts Of Town
+TTITLE7=The Blood Done Sign My Name
+TTITLE8=The Boll Weevil
+TTITLE9=Jean Harlow
+TTITLE10=Srewball
+TTITLE11=We Shall Be Free
+TTITLE12=T.B. Blues
+TTITLE13=John Hardy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

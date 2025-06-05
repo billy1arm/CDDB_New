@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9117
+#	28243
+#	38628
+#	45507
+#	65687
+#	85677
+#	99650
+#	107438
+#	115744
+#	129486
+#	139484
+#	150217
+#	165243
+#	170945
+#
+# Disc length: 2469 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=b409a30f
+DTITLE=Tom Waits - Swordfishtrombone
+DYEAR=1983
+DGENRE=Blues
+TTITLE0=Underground
+TTITLE1=Shore Leave
+TTITLE2=Dave The Butcher (Instrumental)
+TTITLE3=Johnsburg, Illionis
+TTITLE4=16 Shells From a Thirty-Ought Six
+TTITLE5=Town Wiith No Cheer
+TTITLE6=In The Neighborhood
+TTITLE7=Just Another Sucker On The Vine
+TTITLE8=Frank's Wild Years
+TTITLE9=Swordfishtrombone
+TTITLE10=Down, Down, Down
+TTITLE11=Soldier's Things
+TTITLE12=Gin Soaked Boy
+TTITLE13=Trouble's Braids
+TTITLE14=Rainbirds (Instrumental)
+EXTD=\nYEAR: 1983  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

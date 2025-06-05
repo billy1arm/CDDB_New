@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	24852
+#	46520
+#	62327
+#	80322
+#	96347
+#	113910
+#	129385
+#	148452
+#	165275
+#	179012
+#	199890
+#	215525
+#	233185
+#
+# Disc length: 3178 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=ba0c680e
+DTITLE=Rymes With Orange - Crash
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Crash
+TTITLE1=Circus
+TTITLE2=Loving Enemy
+TTITLE3=Why
+TTITLE4=Standing In The Rain
+TTITLE5=Zero
+TTITLE6=Talk to Me
+TTITLE7=Inside Out
+TTITLE8=She's The One
+TTITLE9=Get It
+TTITLE10=Spaceman
+TTITLE11=Heal
+TTITLE12=Zodiac
+TTITLE13=Bonus Track
+EXTD=YEAR: 1999 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

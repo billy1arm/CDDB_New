@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22777
+#	35527
+#	48744
+#	68868
+#	85307
+#	101025
+#	115017
+#	126668
+#	145392
+#	163169
+#	177325
+#	190975
+#
+# Disc length: 2589 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bd0a1b0d
+DTITLE=Geneviève Laloy - Hirondelles
+DYEAR=2008
+DGENRE=Enfants
+TTITLE0=Un jour
+TTITLE1=En l'air
+TTITLE2=La fève
+TTITLE3=Les rêves de Leonor
+TTITLE4=L'été
+TTITLE5=Mille
+TTITLE6=Château de cartes
+TTITLE7=L'île des oubliés
+TTITLE8=La campagne était belle
+TTITLE9=Petit roi
+TTITLE10=Poisson doré
+TTITLE11=Cachez-vous !
+TTITLE12=Contine
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

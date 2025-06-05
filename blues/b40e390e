@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	8662
+#	33842
+#	54632
+#	78412
+#	100390
+#	121717
+#	136727
+#	153577
+#	174175
+#	194540
+#	208242
+#	234192
+#	254850
+#
+# Disc length: 3643 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=b40e390e
+DTITLE=Patricia kaas - Tour de charme
+DYEAR=1993
+DGENRE=Chanson
+TTITLE0=Y'avait tant d'etoiles
+TTITLE1=Hotel Normandy
+TTITLE2=Je retiens mon souffle
+TTITLE3=Ceux qui n'ont rien
+TTITLE4=Space in my heart
+TTITLE5=Il me dit que je suis belle
+TTITLE6=La vie en rose
+TTITLE7=Je te dis vous
+TTITLE8=Out of the rain
+TTITLE9=Fatiguée d'attendre
+TTITLE10=A Saint-lunaire
+TTITLE11=It's a man's world
+TTITLE12=Reste sur moi
+TTITLE13=Entrer dans la lumière
+EXTD=YEAR: 1993
+EXTT0=There Were So Many Stars
+EXTT1=
+EXTT2=Holding My Breath
+EXTT3=For Those Who Have Nothing
+EXTT4=
+EXTT5=He Tells Me I'm Beautiful
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=Weary Of Waiting
+EXTT10=In Saint-Lunaire
+EXTT11=
+EXTT12=Rest On Me
+EXTT13=Coming Into The Light
+PLAYORDER=

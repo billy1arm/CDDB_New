@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15259
+#     38337
+#     58370
+#     75595
+#     96635
+#     116932
+#     136242
+#     162960
+#     180297
+#     196232
+#     224542
+#     243142
+#     263297
+# 
+# Disc length: 3792 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b10ece0e
+DTITLE=Varios artistas - Discos de platino Ripley
+DYEAR=1900
+DGENRE=
+TTITLE0=Dust in the wind
+TTITLE1=Need her love
+TTITLE2=After the love is gone
+TTITLE3=I'll be over you
+TTITLE4=Copperline
+TTITLE5=Samba pa'ti
+TTITLE6=Midnight Blue
+TTITLE7=Through the barricades
+TTITLE8=Eternal flame
+TTITLE9=Handy man
+TTITLE10=Devotion
+TTITLE11=Georgy Porgy
+TTITLE12=You
+TTITLE13=Treat
+EXTD=
+EXTT0=Kansas\n
+EXTT1=Electric Light Orchestra\n
+EXTT2=Earth, Wind and Fire\n
+EXTT3=Toto\n
+EXTT4=James Taylor\n
+EXTT5=Santana\n
+EXTT6=Electric Light Orchestra\n
+EXTT7=Spandau Ballet\n
+EXTT8=Bangles\n
+EXTT9=James Taylor\n
+EXTT10=Heart, Wind and Fire\n
+EXTT11=Toto\n
+EXTT12=Ten Sharp\n
+EXTT13=Santana\n
+PLAYORDER=

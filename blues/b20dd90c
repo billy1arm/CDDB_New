@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16700
+#     44475
+#     60940
+#     86187
+#     113677
+#     132952
+#     155887
+#     187190
+#     207610
+#     222282
+#     243695
+# 
+# Disc length: 3547 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b20dd90c
+DTITLE=Texas Johnny Brown - Nothin' But the Truth
+DYEAR=1900
+DGENRE=
+TTITLE0=Cheatin' and Stealin'
+TTITLE1=There Goes the Blues
+TTITLE2=Your House, Your Home
+TTITLE3=Tender Age, Gentle Woman
+TTITLE4=Strange Situation
+TTITLE5=Two Steps From the Blues
+TTITLE6=Once Was
+TTITLE7=Ain't No Way
+TTITLE8=No Part-Time Lover
+TTITLE9=Stand The Pain
+TTITLE10=Blue And Lonesome
+TTITLE11=Nothin' But The Truth, So Help Me John
+EXTD=
+EXTT0=John R. Brown, BMI
+EXTT1=John R. Brown, BMI
+EXTT2=John R. Brown, BMI
+EXTT3=John R. Brown, BMI
+EXTT4=John R. Brown, BMI
+EXTT5=John R. Brown,/D. Malone, MCA Dutchess Music
+EXTT6=John R. Brown, BMI
+EXTT7=Carolyn Franklin
+EXTT8=John R. Brown, BMI
+EXTT9=John R. Brown, BMI
+EXTT10=John R. Brown, BMI
+EXTT11=John R. Brown, BMI
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24604
+#	46104
+#	75693
+#	117558
+#	139482
+#	170190
+#	207703
+#	236904
+#	269511
+#	285038
+#	311111
+#
+# Disc length: 4541 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ba11bb0c
+DTITLE=Barney Kessel - Seven Classic Albums CD 3
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Li'l Darling
+TTITLE1=The Blessing
+TTITLE2=This Here
+TTITLE3=Bluesology
+TTITLE4=Lover Man
+TTITLE5=Joy Spring
+TTITLE6=Now's The Time
+TTITLE7=Miss Memphis
+TTITLE8=New Rhumba
+TTITLE9=Good Li'l Man
+TTITLE10=Summertime
+TTITLE11=Spanish Scenery
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

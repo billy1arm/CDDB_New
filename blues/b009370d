@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	13810
+#	26485
+#	40220
+#	53935
+#	68095
+#	83135
+#	97305
+#	109712
+#	121775
+#	135797
+#	149802
+#	163672
+#
+# Disc length: 2361 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=b009370d
+DTITLE=Charlie Parker - Now's The Time
+DYEAR=1952
+DGENRE=Jazz
+TTITLE0=The Song Is You
+TTITLE1=Laird Baird
+TTITLE2=Kim
+TTITLE3=Kim (Alternate Take)
+TTITLE4=Cosmic Rays
+TTITLE5=Cosmic Rays (Alternate Take)
+TTITLE6=Chi-Chi
+TTITLE7=Chi-Chi (Alternate Take)
+TTITLE8=Chi-Chi (Alternate Take)
+TTITLE9=Chi-Chi (Alternate Take)
+TTITLE10=I Remember You
+TTITLE11=Now's The Time
+TTITLE12=Confirmation
+EXTD=Recorded:NYC,August 4,1953\n YEAR: 1952
+EXTT0=\t\t\t
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

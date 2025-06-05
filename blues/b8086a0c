@@ -1,0 +1,55 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     15467
+#     29487
+#     40852
+#     58707
+#     70305
+#     81667
+#     101970
+#     112265
+#     122732
+#     135250
+#     149207
+# 
+# Disc length: 2156 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b8086a0c
+DTITLE=Sandy and J nior - Sandy and J nior - S bado   Noite
+DYEAR=1900
+DGENRE=
+TTITLE0=S bado   Noite
+TTITLE1=A Resposta Da Mariquinha
+TTITLE2=O Vira
+TTITLE3=Guardi o Dos Animais
+TTITLE4=O S tio Da Vov 
+TTITLE5=O Sabe Tudo
+TTITLE6=Vamos Construir
+TTITLE7=Como N s Somos Unidos
+TTITLE8=Inf ncia Careta
+TTITLE9=P  Pra Tapar Taio
+TTITLE10=Medo De Crescer
+TTITLE11=Crian a, Vida E Luz
+EXTD=
+EXTT0=Down At The Twist And Shout\n(Mary Chapin Carpenter - Vers o: Chit ozi
+EXTT0=nho - Xoror  - Joel Marques)
+EXTT1=(Z  Batuta - Quintino Elizeu - Z  Do Rancho)
+EXTT2=(Jo o Ricardo - Luli]\nParticipa  o Especial: Ney Matogrosso
+EXTT3=(Xoror  - Joel Marques)
+EXTT4=(Gilson - Carlos Cola)
+EXTT5=(Marcos Valle - Noely - Carlos Cola)
+EXTT6=Love Can Build A Bridge\n(John Barlow - Paul Overstreet -  Naomi judd 
+EXTT6=Vers o\nS rgio (Feio) e Dena)
+EXTT7=(Xoror  - Noely - Rita Adams)
+EXTT8=(Xoror  - Joel Marques - F tima Le o)
+EXTT9=(Z  Da Praia - Duduca - Xoror )
+EXTT10=(Xoror  - Joel Marques)
+EXTT11=(Papai Do C u]\n(F tima Le o - Zez  Di Camargo)
+PLAYORDER=

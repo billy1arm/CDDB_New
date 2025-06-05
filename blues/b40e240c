@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26050
+#	43937
+#	59127
+#	91412
+#	122767
+#	151467
+#	181430
+#	199937
+#	217937
+#	231755
+#	245865
+#
+# Disc length: 3622 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=b40e240c
+DTITLE=Manu Dibango - Seventies
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Big Blow
+TTITLE1=Qui est fou de qui? (Chouchou)
+TTITLE2=Diboki
+TTITLE3=Mouvement ewondo
+TTITLE4=Baobab Sunset
+TTITLE5=Wana di lambo
+TTITLE6=Super Koumba
+TTITLE7=Soma Loba
+TTITLE8=Ngolowake
+TTITLE9=Senga
+TTITLE10=Munenge na ndutu
+TTITLE11=Bayam Sellam
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

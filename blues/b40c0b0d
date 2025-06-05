@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	16685
+#	34693
+#	49565
+#	82988
+#	106115
+#	114603
+#	132845
+#	152233
+#	167965
+#	179878
+#	199253
+#	217483
+#
+# Disc length: 3085 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=b40c0b0d
+DTITLE=Jimi Hendrix - Purple Haze
+DYEAR=1991
+DGENRE=Rock
+TTITLE0=The Wind Cries Mary
+TTITLE1=Burning of the Midnight Lamp
+TTITLE2=Foxy Lady
+TTITLE3=Voodoo Chile (Slight Return)
+TTITLE4=Killing Floor
+TTITLE5=Sgt. Pepper's Lonely Hearts Club Band
+TTITLE6=Hey Joe
+TTITLE7=Sunshine of Your Love
+TTITLE8=Little Wing
+TTITLE9=Fire
+TTITLE10=Red House
+TTITLE11=Purple Haze
+TTITLE12=Star Spangled Banner
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

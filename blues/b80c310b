@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	30235
+#	53227
+#	73472
+#	89930
+#	117572
+#	137165
+#	155655
+#	183465
+#	201307
+#	215975
+#
+# Disc length: 3123 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=b80c310b
+DTITLE=Low Commotion Blues Band - Ask me no questions
+DYEAR=1900
+DGENRE=
+TTITLE0=You are still my woman
+TTITLE1=I feel so low
+TTITLE2=People get ready
+TTITLE3=Precious Lord
+TTITLE4=Hummingbird
+TTITLE5=She caught the Katy
+TTITLE6=Neighbour, neighbour
+TTITLE7=Something on my mind
+TTITLE8=Ask me no questions
+TTITLE9=That's what you're doin' to me
+TTITLE10=Hound dog
+EXTD=Martin Scheer\tvocals, e-piano, organ\nWitold Grohs\tsaxophone\nUli 
+EXTD=Steinert\tguitar\nUwe Decke\tbass\nDirk Rummel\tdrums\n\nBooking agency
+EXTD=:\nConcertbüro Rolf Schubert\nPostfach 25 01 44\nD-5000 Köln 1 \nGer
+EXTD=many\n\nphone\t+49 221 322729\nfax\t+49 221 322916
+EXTT0=B.B. King - Dave Clark
+EXTT1=Katie Webster - J. Miller
+EXTT2=Curtis Mayfield
+EXTT3=trad.
+EXTT4=Leon Russel
+EXTT5=Taj Mahal - Yank Rachel
+EXTT6=Valier
+EXTT7=Cecil Mc Neely
+EXTT8=B.B. King
+EXTT9=R.Gordon
+EXTT10=Big Mama Thornton
+PLAYORDER=

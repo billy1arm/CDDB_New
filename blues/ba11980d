@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34962
+#	58475
+#	89725
+#	114112
+#	153562
+#	177525
+#	201425
+#	227475
+#	256350
+#	300762
+#	317212
+#	333625
+#
+# Disc length: 4506 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ba11980d
+DTITLE=WILD BILL DAVIS QUARTET - The Zurich Concert
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Meridian
+TTITLE1=Honeysuckle Rose
+TTITLE2=Azure-Te
+TTITLE3=Stolen Sweets
+TTITLE4=Pompton Turnpike
+TTITLE5=This is all I Ask
+TTITLE6=Atlantic City
+TTITLE7=Some More
+TTITLE8=Caravan
+TTITLE9=Jive Samba
+TTITLE10=Route 66
+TTITLE11=Lester Leaps
+TTITLE12=April in Paris
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

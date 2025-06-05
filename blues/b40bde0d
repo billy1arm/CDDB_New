@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15297
+#	37891
+#	66635
+#	76488
+#	94958
+#	106314
+#	122780
+#	134969
+#	158757
+#	182948
+#	195911
+#	211978
+#
+# Disc length: 3040 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b40bde0d
+DTITLE=John Sinclair - 14 - Die Knochensaat
+DYEAR=2002
+DGENRE=Hörspiel
+TTITLE0=Freitag 17.38h
+TTITLE1=Also gut
+TTITLE2=Freitag 19.44h
+TTITLE3=Auf dem Rückweg
+TTITLE4=Es ist nicht mehr
+TTITLE5=Samstag 8.13h
+TTITLE6=Samstag 16.05h
+TTITLE7=Ich betrat
+TTITLE8=Hallo
+TTITLE9=Na gehts wieder
+TTITLE10=Sinclair
+TTITLE11=Die Skelette
+TTITLE12=Aus
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

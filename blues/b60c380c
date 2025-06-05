@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27974
+#	44621
+#	74780
+#	83894
+#	110016
+#	123403
+#	144534
+#	157921
+#	176640
+#	198936
+#	214475
+#
+# Disc length: 3130 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b60c380c
+DTITLE=Stan Getz - Stan Getz Vol. 2 - Seven Classic Albums disc 4
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Samba de uma nota
+TTITLE1=E Luxo So
+TTITLE2=Baia
+TTITLE3=Desafinado
+TTITLE4=Manha de Carnival
+TTITLE5=Balanco no Samba
+TTITLE6=Melancolico
+TTITLE7=Entre Amigos
+TTITLE8=Chega De Saudade
+TTITLE9=Noite Triste
+TTITLE10=Samba de Uma Nota
+TTITLE11=Bim Bom
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

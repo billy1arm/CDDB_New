@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13925
+#	33037
+#	52755
+#	73062
+#	97187
+#	110925
+#	138787
+#	152050
+#	176950
+#	194212
+#	217462
+#
+# Disc length: 3115 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=bc0c290c
+DTITLE=Louis Armstrong - All Star Jazz
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=When It's Sleepy Time Down South
+TTITLE1=Indiana
+TTITLE2=Someday You'll Be Sorry
+TTITLE3=Tin Roof
+TTITLE4=Way Down In New Orleans
+TTITLE5=You Can Depend On Me
+TTITLE6=My Monday Date
+TTITLE7=That;s A Plenty
+TTITLE8=Basin Street Blues
+TTITLE9=Royal Garden Blues
+TTITLE10=Muskrat Ramble
+TTITLE11=When The Saints Go Marchin' in
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

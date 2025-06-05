@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11888
+#	20389
+#	34422
+#	41445
+#	50601
+#	65745
+#	68677
+#	91475
+#	137105
+#	161748
+#	180380
+#	219356
+#	243056
+#
+# Disc length: 3597 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bf0e0b0e
+DTITLE=Francis Poulenc - L' Oeuvre pour Piano - Vol.1  ( Gabriel Tacchino )
+DYEAR=1966
+DGENRE=Piano
+TTITLE0=Aubade - I. Toccata  { Concerto chorégraphique pour piano and 18 instruments FP.51 }
+TTITLE1=Aubade - II. Récitatif - Les compagnons de Diane
+TTITLE2=Aubade - III. Rondeau - Diane et ses compagnes
+TTITLE3=Aubade - IV. Presto - Toilette de Diane  (L'Aurore)
+TTITLE4=Aubade - V. Récitatif - Introduction à la Variation de Diane
+TTITLE5=Aubade - VI. Andante - Variation de Diane
+TTITLE6=Aubade - VII. Allegro féroce - Désespoir de Diane
+TTITLE7=Aubade - VIII. Conclusion - Adieux et départ de Diane
+TTITLE8=Concerto pour piano and orchestre en ut dièse mineur FP.146 - I. Allegretto
+TTITLE9=Concerto pour piano and orchestre en ut dièse mineur FP.146 - II. Andante con moto
+TTITLE10=Concerto pour piano and orchestre en ut dièse mineur FP.146 - III. Rondo à la française
+TTITLE11=Concerto pour 2 pianos and orchestre en ré mineur FP.61 - I. Allegro ma non troppo  {Bernard Ringeissen, 2è piano}
+TTITLE12=Concerto pour 2 pianos and orchestre en ré mineur FP.61 - II. Larghetto
+TTITLE13=Concerto pour 2 pianos and orchestre en ré mineur FP.61 - III. Finale - Allegro molto
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19862
+#	34028
+#	48007
+#	72653
+#	102583
+#	133651
+#	149999
+#	164280
+#	196214
+#	222765
+#	236918
+#
+# Disc length: 4041 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b80fc70c
+DTITLE=Various Artist - クラシック・コレクション2　オペラ曲集
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=モーツァルト/「フィガロの結婚」序曲
+TTITLE1=モーツァルト/「フィガロの結婚」より　カンツォーナ（ケルビーノ）''恋とはどんなものかしら''
+TTITLE2=モーツァルト/「ドン・ジョバンニ」より　2重唱（ドン・ジョバンニ&ツェルニーナ）''手を取り合って…''
+TTITLE3=モーツァルト/「ドン・ジョバンニ」より　アリア（レポレロ）「カタログの歌」
+TTITLE4=ロッシーニ/「絹のはしご」序曲
+TTITLE5=ロッシーニ/「セビリアの理髪師」序曲
+TTITLE6=ヴェルディ/「椿姫」より''第1幕への前奏曲''
+TTITLE7=ヴェルディ/「椿姫」より「乾杯の歌」
+TTITLE8=ヴェルディ/「運命の力」序曲
+TTITLE9=ワーグナー/「ワルキューレ」より''ワルキューレの騎行''
+TTITLE10=ワーグナー/ローエングリン　第3幕への前奏曲
+TTITLE11=ワーグナー/「タンホイザー」序曲
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

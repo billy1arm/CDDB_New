@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23054
+#	48417
+#	68803
+#	93362
+#	117404
+#	138922
+#	162563
+#	184489
+#	207730
+#	229782
+#	253877
+#
+# Disc length: 3719 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b30e850c
+DTITLE=trondheym - <beta>
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=olvido
+TTITLE1=omega
+TTITLE2=buttercup
+TTITLE3=snow
+TTITLE4=taiga
+TTITLE5=moon
+TTITLE6=pluto
+TTITLE7=memores
+TTITLE8=synapsis
+TTITLE9=sand
+TTITLE10=lazy
+TTITLE11=whale
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	13465
+#	23725
+#	36810
+#	41850
+#	60570
+#	84515
+#	97230
+#	104560
+#	112847
+#	131052
+#	138852
+#	156287
+#
+# Disc length: 2377 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=b109470d
+DTITLE=De Nieuwe Snaar - De Vierde Maat
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=De eerste woorden
+TTITLE1=Illusies
+TTITLE2=Geen illusies meer
+TTITLE3=De ouwe zanger
+TTITLE4=Dweil
+TTITLE5=Gedachten
+TTITLE6=Het ritme van het paard
+TTITLE7=Parkeren
+TTITLE8=Houten man
+TTITLE9=Donker
+TTITLE10=Bandboy
+TTITLE11=De duivelse dans
+TTITLE12=De heilige Miss België
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=
