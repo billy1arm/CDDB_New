@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25898
+#	130053
+#	158325
+#
+# Disc length: 3465 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=220d8704
+DTITLE=Room - Hall of Mirrors
+DYEAR=1991
+DGENRE=New Age
+TTITLE0=Three to Two
+TTITLE1=Still Dance
+TTITLE2=Wavelength
+TTITLE3=Hall of Mirrors
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

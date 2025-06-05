@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	94152
+#	180960
+#	243465
+#
+# Disc length: 3923 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=270f5104
+DTITLE=Schiano, Mario - Social security
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Social security, part i
+TTITLE1=Social security, part ii
+TTITLE2=Social security, part iii
+TTITLE3=Social security, part iv
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

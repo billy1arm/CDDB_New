@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	62747
+#	135164
+#	159297
+#
+# Disc length: 3005 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=260bbb04
+DTITLE=The New Dave Pike Set - MPS Revisited - JazzFest Berlin 2005
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=The New Dave Pike Set - Casa Grande
+TTITLE1=The New Dave Pike Set - Suspicious Child
+TTITLE2=The New Dave Pike Set - Body And Soul
+TTITLE3=The New Dave Pike Set - Soul Eggs
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

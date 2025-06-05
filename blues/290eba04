@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	63201
+#	126168
+#	180199
+#
+# Disc length: 3772 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=290eba04
+DTITLE=Beethoven - Symphonie N°9  en ré mineur Op.125, pour grand orchestre, 4 solistes et choeur mixte
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Symphonie N°9 - I. Allegro ma non troppo, un poco maestoso ... { dir. Roger Norrington }
+TTITLE1=Symphonie N°9 - II. Molto vivace .......... { Radio-Sinfonieorchester Stuttgart des SWR }
+TTITLE2=Symphonie N°9 - III. Adagio molto e cantabile
+TTITLE3=Symphonie N°9 - IV. Presto - Allegro assai    '' Ode à la Joie ''
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53477
+#	117820
+#	173217
+#
+# Disc length: 3033 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=280bd704
+DTITLE=Christian Maier - In The Beginning
+DYEAR=1991
+DGENRE=New Age
+TTITLE0=In The Beginning
+TTITLE1=Deep Silence
+TTITLE2=Floating
+TTITLE3=Good Feelings
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

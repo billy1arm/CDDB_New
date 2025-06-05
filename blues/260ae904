@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	83295
+#	131862
+#	165670
+#
+# Disc length: 2795 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=260ae904
+DTITLE=Olivier Messiaen - Catalogue d'oiseaux  (Håkon Austbø, piano)  [suite and fin]
+DYEAR=1996
+DGENRE=Musique Contemporaine
+TTITLE0=Catalogue d'oiseaux [1956-1958] - 6ème Livre - X. Le merle de roche
+TTITLE1=Catalogue d'oiseaux [1956-1958] - 7ème Livre - XI. La buse variable
+TTITLE2=Catalogue d'oiseaux [1956-1958] - 7ème Livre - XII. Le traquet rieur
+TTITLE3=Catalogue d'oiseaux [1956-1958] - 7ème Livre - XIII. Le courlis cendré
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

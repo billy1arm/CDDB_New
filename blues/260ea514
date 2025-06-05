@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	14050
+#	29495
+#	40195
+#	55232
+#	68950
+#	82507
+#	95937
+#	111465
+#	126960
+#	141432
+#	152285
+#	166020
+#	178380
+#	190305
+#	204385
+#	222395
+#	236050
+#	249310
+#	263220
+#
+# Disc length: 3751 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=260ea514
+DTITLE={George Gershwin} - 100 ans de Jazz  [CD 1-2]
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Glenn Miller - Rhapsody in Blue  [1942]
+TTITLE1=Benny Goodman - Liza  [1937]
+TTITLE2=Tommy Dorsey - Nice Work If You Can Get It  [1937]
+TTITLE3=Lena Horne - The Man I Love  [1941]
+TTITLE4=Oscar Peterson - I Got Rythm  [1945]
+TTITLE5=Artie Shaw - Soon ¿  [1945]
+TTITLE6=Glenn Miller - Oh, Lady Be Good  [1944]
+TTITLE7=Benny Goodman - 'S Wonderful  [1938]
+TTITLE8=Lena Horne - How Long Has This Been Going On ¿  [1945]
+TTITLE9=Artie Shaw - A Foggy Day In London Town  [1945]
+TTITLE10=Glenn Miller - Summertime  [1944]
+TTITLE11=Benny Goodman - Oh, Lady Be Good  [1936]
+TTITLE12=Django Reinhardt - I Got Rythm  [1949]
+TTITLE13=Oscar Peterson - Somebody Loves Me  [1949]
+TTITLE14=Artie Shaw - 'S Wonderful  [1945]
+TTITLE15=Art Farmer - Lucky Thomson - Strike Up The Band  [1953]
+TTITLE16=Mary Lou Williams - The Man I Love  [1954]
+TTITLE17=Bobby Jasper - A Foggy Day In London Town  [1954]
+TTITLE18=Martial Solal - Love Walked In  [1956]
+TTITLE19=Jimmy Raney - Someone To Watch Over Me  [1954]
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

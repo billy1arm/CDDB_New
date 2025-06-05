@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53737
+#	105299
+#	154154
+#
+# Disc length: 2833 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=240b0f04
+DTITLE=Woody Shaw - Night Music
+DYEAR=1982
+DGENRE=Jazz
+TTITLE0=Orange Crescent
+TTITLE1=To Kill a Brick
+TTITLE2=Apex
+TTITLE3=All the Things You Are
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

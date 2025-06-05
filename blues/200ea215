@@ -1,0 +1,80 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     3067
+#     7877
+#     26672
+#     43262
+#     57895
+#     76125
+#     92110
+#     112602
+#     128562
+#     146902
+#     147605
+#     162080
+#     165725
+#     179312
+#     193237
+#     215620
+#     216475
+#     232895
+#     264752
+#     266810
+# 
+# Disc length: 3748 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=200ea215
+DTITLE=Naughty by Nature - Poverty's Paradise
+DYEAR=1900
+DGENRE=
+TTITLE0=Intro Skit
+TTITLE1=Poverty's Paradise
+TTITLE2=Clap yo hands
+TTITLE3=City of Ci-Lo
+TTITLE4=Hang out and hustle
+TTITLE5=It's workin'
+TTITLE6=Holdin' Fort
+TTITLE7=Chain Remains
+TTITLE8=Feel me flow
+TTITLE9=Craziest
+TTITLE10=Radio Skit
+TTITLE11=Sunshine
+TTITLE12=Webber Skit
+TTITLE13=Respect due
+TTITLE14=World go round
+TTITLE15=Klickow klickow
+TTITLE16=Double I skit
+TTITLE17=Slang bang
+TTITLE18=Shout Out
+TTITLE19=Outro
+TTITLE20=Connections
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=feat Road Dawgz and Cruddy Click\n
+EXTT5=featuring Rottin Razkals\n
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=featuring Chris Webber\n
+EXTT13=
+EXTT14=
+EXTT15=featurin Rottin Razkals and Cruddy Click \nand Road Dawgz\n
+EXTT16=
+EXTT17=
+EXTT18=featuring Gordon Chambers\n
+EXTT19=
+EXTT20=
+PLAYORDER=

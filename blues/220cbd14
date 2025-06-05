@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12276
+#	24141
+#	36940
+#	50321
+#	63272
+#	74670
+#	85428
+#	97866
+#	110575
+#	122096
+#	134614
+#	145164
+#	156855
+#	170361
+#	182417
+#	194010
+#	207706
+#	218868
+#	233120
+#
+# Disc length: 3263 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.68 - http://www.feurio.com
+#
+DISCID=220cbd14
+DTITLE=Various Artist - Rhythm and Blues - Original Masters - CD1
+DYEAR=1963
+DGENRE=R&B
+TTITLE0=Roy Milton - Milton's Boogie
+TTITLE1=Jesse Thomas - It's You I'm Thining Of
+TTITLE2=Wynonie Harris - Teardrops from My Eyes
+TTITLE3=Eddie Boyd - Kilroy Won't Be Back
+TTITLE4=Lowell Fulson - Cold Hearted Woman
+TTITLE5=Joe Turner - Wine-O-Baby
+TTITLE6=Eddie Vinson - Gonna Send You Back
+TTITLE7=Lil Amstrong - Joogie Boogie
+TTITLE8=Joe Morris - Beans and Corn Bread
+TTITLE9=Lowell Fulson - Baby Won't You Jump with Me
+TTITLE10=Joe Turner - Rocket Boogie 88
+TTITLE11=Lowell Fulson - Juke Box Shuffle
+TTITLE12=Rockets - Big Leg Mama
+TTITLE13=Lee Barnes - Blues for What I Never Had
+TTITLE14=Mary Deloatch - Straighten Him Out
+TTITLE15=Ivory Joe Hunter - I Like It
+TTITLE16=Joe Turner - Long Down Dog
+TTITLE17=Annie Laurie - My Rough and Ready Man
+TTITLE18=Joe Turner - My Gal's a Jockey
+TTITLE19=Stick McGhee - One Monkey Don't Stop the Show
+EXTD=
+EXTT0=(Milton)
+EXTT1=(Glenn/Thomas)
+EXTT2=(Toombs)
+EXTT3=(Brown)
+EXTT4=(Lauderdale)
+EXTT5=(Turner)
+EXTT6=(Vinson/Blackman)
+EXTT7=(Armstrong)
+EXTT8=(Morris)
+EXTT9=(Fulson/Glenn)
+EXTT10=(Turner)
+EXTT11=(Fulson)
+EXTT12=(Van Walls)
+EXTT13=(Barnes)
+EXTT14=(Scott)
+EXTT15=(Hunter)
+EXTT16=
+EXTT17=(Theard/Brannon)
+EXTT18=(Turner)
+EXTT19=(McGhee)
+PLAYORDER=

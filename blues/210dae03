@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	123751
+#	247144
+#
+# Disc length: 3504 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=210dae03
+DTITLE=Benny Goodman and The Rhythm Makers - Let's Dance Orchestra
+DYEAR=1935
+DGENRE=Jazz
+TTITLE0=Side 1
+TTITLE1=Side 2
+TTITLE2=Bonus
+EXTD=YEAR: 1935
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

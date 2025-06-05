@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	60191
+#	117160
+#	175945
+#
+# Disc length: 3057 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=280bef04
+DTITLE=Musik und Natur - Das Meer
+DYEAR=1900
+DGENRE=Noise
+TTITLE0=Die Flutzeit im Watt
+TTITLE1=Auf der Längsbuhne
+TTITLE2=Am Deich entlang
+TTITLE3=Zu den Seehunden
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

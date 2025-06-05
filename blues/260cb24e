@@ -1,0 +1,250 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	1636
+#	3122
+#	4608
+#	6094
+#	7580
+#	8999
+#	10485
+#	11904
+#	13390
+#	14876
+#	16362
+#	17848
+#	19334
+#	20820
+#	22306
+#	23792
+#	25278
+#	26764
+#	28250
+#	29736
+#	31222
+#	32708
+#	34194
+#	35680
+#	37166
+#	38652
+#	40138
+#	41624
+#	43110
+#	44596
+#	46082
+#	47568
+#	49054
+#	50540
+#	52026
+#	53512
+#	54998
+#	56484
+#	57970
+#	59456
+#	60942
+#	62428
+#	63914
+#	65400
+#	66886
+#	68372
+#	69858
+#	71344
+#	72830
+#	74316
+#	75802
+#	77288
+#	78774
+#	80260
+#	81746
+#	83232
+#	84718
+#	86204
+#	87690
+#	89176
+#	90662
+#	92148
+#	93634
+#	95120
+#	96606
+#	98092
+#	99578
+#	101064
+#	102550
+#	104036
+#	108855
+#	113674
+#	135493
+#	157312
+#	178857
+#	200676
+#	222328
+#
+# Disc length: 3252 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.99.1
+#
+DISCID=260cb24e
+DTITLE=Chris Hunt - Blues by the Bar
+DYEAR=2002
+DGENRE=Instructional
+TTITLE0=Ex 01 Bars 1 and 2
+TTITLE1=Ex 02 Bars 1 and 2
+TTITLE2=Ex 03 Bars 1 and 2
+TTITLE3=Ex 04 Bars 1 and 2
+TTITLE4=Ex 05 Bars 1 and 2
+TTITLE5=Ex 06 Bars 1 and 2
+TTITLE6=Ex 07 Bars 1 and 2
+TTITLE7=Ex 08 Bars 1 and 2
+TTITLE8=Ex 09 Bars 1 and 2
+TTITLE9=Ex 10 Bars 1 and 2
+TTITLE10=Ex 11 Bars 1 and 2 (Riffs that work w the Fast IV)
+TTITLE11=Ex 12 Bars 1 and 2 (Riffs that work w the Fast IV)
+TTITLE12=Ex 13 Bars 1 and 2 (Riffs that work w the Fast IV)
+TTITLE13=Ex 14 Bars 1 and 2 (Riffs that work w the Fast IV)
+TTITLE14=Ex 15 Bars 1 and 2 (Riffs that work w the Fast IV)
+TTITLE15=Ex 16 Bars 3 and 4
+TTITLE16=Ex 17 Bars 3 and 4
+TTITLE17=Ex 18 Bars 3 and 4
+TTITLE18=Ex 19 Bars 3 and 4
+TTITLE19=Ex 20 Bars 3 and 4
+TTITLE20=Ex 21 Bars 3 and 4
+TTITLE21=Ex 22 Bars 3 and 4
+TTITLE22=Ex 23 Bars 3 and 4
+TTITLE23=Ex 24 Bars 3 and 4
+TTITLE24=Ex 25 Bars 3 and 4
+TTITLE25=Ex 26 Bars 5 and 6
+TTITLE26=Ex 27 Bars 5 and 6
+TTITLE27=Ex 28 Bars 5 and 6
+TTITLE28=Ex 29 Bars 5 and 6
+TTITLE29=Ex 30 Bars 5 and 6
+TTITLE30=Ex 31 Bars 5 and 6
+TTITLE31=Ex 32 Bars 5 and 6
+TTITLE32=Ex 33 Bars 5 and 6
+TTITLE33=Ex 34 Bars 5 and 6
+TTITLE34=Ex 35 Bars 5 and 6
+TTITLE35=Ex 36 Bars 7 and 8
+TTITLE36=Ex 37 Bars 7 and 8
+TTITLE37=Ex 38 Bars 7 and 8
+TTITLE38=Ex 39 Bars 7 and 8
+TTITLE39=Ex 40 Bars 7 and 8
+TTITLE40=Ex 41 Bars 7 and 8
+TTITLE41=Ex 42 Bars 7 and 8
+TTITLE42=Ex 43 Bars 7 and 8
+TTITLE43=Ex 44 Bars 7 and 8
+TTITLE44=Ex 45 Bars 7 and 8
+TTITLE45=Ex 46 Bars 9 and 10
+TTITLE46=Ex 47 Bars 9 and 10
+TTITLE47=Ex 48 Bars 9 and 10
+TTITLE48=Ex 49 Bars 9 and 10
+TTITLE49=Ex 50 Bars 9 and 10
+TTITLE50=Ex 51 Bars 9 and 10
+TTITLE51=Ex 52 Bars 9 and 10
+TTITLE52=Ex 53 Bars 9 and 10
+TTITLE53=Ex 54 Bars 9 and 10
+TTITLE54=Ex 55 Bars 9 and 10
+TTITLE55=Ex 56 Bars 11 and 12
+TTITLE56=Ex 57 Bars 11 and 12
+TTITLE57=Ex 58 Bars 11 and 12
+TTITLE58=Ex 59 Bars 11 and 12
+TTITLE59=Ex 60 Bars 11 and 12
+TTITLE60=Ex 61 Bars 11 and 12
+TTITLE61=Ex 62 Bars 11 and 12
+TTITLE62=Ex 63 Bars 11 and 12
+TTITLE63=Ex 64 Bars 11 and 12
+TTITLE64=Ex 65 Bars 11 and 12
+TTITLE65=Ex 66 Bars 11 and 12
+TTITLE66=Ex 67 Bars 11 and 12
+TTITLE67=Ex 68 Bars 11 and 12
+TTITLE68=Ex 69 Bars 11 and 12
+TTITLE69=Ex 70 Bars 11 and 12 (Works solely with I-IV-I-V turnaround)
+TTITLE70=Ex 71: Solo 1
+TTITLE71=Ex 72: Solo 2
+TTITLE72=Ex 73: Music Minus Me 1 (Key of G)
+TTITLE73=Ex 74: Music Minus Me 2 (Key of G)
+TTITLE74=Ex 75: Music Minus Me 3 (Key of A)
+TTITLE75=Ex 76: Music Minus Me 4 (Key of A)
+TTITLE76=Ex 77: Music Minus Me 5 (Key of E)
+TTITLE77=Ex 78: Music Minus Me 6 (Key of E)
+EXTD=Cool Riffs That Sound Great over Each Portion of the Blues Progression YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+PLAYORDER=

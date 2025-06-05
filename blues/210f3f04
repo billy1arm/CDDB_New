@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22791
+#	91885
+#	206354
+#
+# Disc length: 3905 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=210f3f04
+DTITLE=Abraham - La loi de l'attraction - CD2
+DYEAR=2008
+DGENRE=New Age
+TTITLE0=01-La volonté et la foi
+TTITLE1=02-L'application de la création
+TTITLE2=03-La loi de la permission
+TTITLE3=04-L'intention par segments
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

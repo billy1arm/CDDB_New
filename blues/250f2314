@@ -1,0 +1,77 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	15850
+#	29452
+#	42996
+#	55269
+#	68855
+#	83176
+#	98699
+#	113095
+#	133493
+#	145650
+#	158026
+#	170109
+#	181423
+#	195956
+#	208374
+#	222473
+#	240694
+#	256171
+#	277002
+#
+# Disc length: 3877
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 2.0
+# Normalized: r1:DSETVAR1,TDELIM( - )
+#
+DISCID=250f2314
+DTITLE=Various Artist - The Best of Boogie Woogie - CD 8
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Meade Lux Special - Artie Shaw
+TTITLE1=Boogie Woogie Blues - Larry Clinton
+TTITLE2=Brass Boogie (part One) - Bob Crosby
+TTITLE3=Brass Boogie (part Two) - Bob Crosby
+TTITLE4=Small Batch O' Nod - Freddie Slack
+TTITLE5=Gabriel Meets The Duke - Erskine Hawkins
+TTITLE6=Bernie's Boogie - Sammy Price
+TTITLE7=Thanks For The Boogie Ride - Gene Krupa
+TTITLE8=Twos And Fews - Albert Ammons and Meade Lux Lewis
+TTITLE9=Foot Pete - Freddie Slack
+TTITLE10=Straight Eight Boogie - Teddy Powell
+TTITLE11=Trouble In Mind - Sammy Price
+TTITLE12=Rockin' The Boogie - Freddie Slack
+TTITLE13=Five O'clock Whistle - Will Bradley
+TTITLE14=In The Morning - Clarence Lofton
+TTITLE15=Jim Jackson's Hamboree - Speckled Red
+TTITLE16=White Sox Stomp - Jimmy Yancey
+TTITLE17=Dearborn Street Breakdown - Charles Avery
+TTITLE18=Goin' Back Home - Sammy Price
+TTITLE19=South Side Stuff - Jimmy Yancey
+EXTD=
+EXTT0=(Shaw)
+EXTT1=(Clinton)
+EXTT2=(Crosby)
+EXTT3=(Crosby)
+EXTT4=(Slack)
+EXTT5=(Hawkins)
+EXTT6=(Price)
+EXTT7=(Krupa)
+EXTT8=(Ammons)
+EXTT9=(Slack)
+EXTT10=(Powell)
+EXTT11=(Jones)
+EXTT12=(Slack)
+EXTT13=(Myrow/Gannon)
+EXTT14=(Lofton)
+EXTT15=(Dorsey)
+EXTT16=(Yancey)
+EXTT17=(Avery)
+EXTT18=(Price)
+EXTT19=(Yancey)
+PLAYORDER=

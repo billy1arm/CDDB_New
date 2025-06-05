@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47472
+#	108080
+#	157226
+#
+# Disc length: 2932 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=280b7204
+DTITLE=Al Haig - Clef Jam Session
+DYEAR=1953
+DGENRE=Jazz
+TTITLE0=The Way You Look Tonight
+TTITLE1=Billi's Bounce
+TTITLE2=I Can't Get Started
+TTITLE3=Half Nelson
+EXTD=YEAR: 1953
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

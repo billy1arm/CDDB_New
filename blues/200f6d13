@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	24477
+#	42457
+#	56547
+#	73545
+#	93657
+#	119735
+#	142352
+#	151560
+#	163117
+#	171262
+#	183652
+#	196812
+#	216187
+#	239002
+#	252262
+#	259962
+#	271530
+#	285355
+#
+# Disc length: 3951 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=200f6d13
+DTITLE=Charlie Parker - Bop City [CD1]
+DYEAR=1952
+DGENRE=Jazz
+TTITLE0=Sly Mongoose
+TTITLE1=Suede Shoes
+TTITLE2=Cool Blues
+TTITLE3=Lester Leaps In
+TTITLE4=Moose the Mooche
+TTITLE5=This Time the Dream's On Me
+TTITLE6=The Rocker (1)
+TTITLE7=The Rocker (2)
+TTITLE8=Just Friends
+TTITLE9=I'll Remember April
+TTITLE10=Repetition
+TTITLE11=East Of the Sun
+TTITLE12=Star Eyes
+TTITLE13=What Is This Thing Called Love
+TTITLE14=I Didn't Know What Time It Was
+TTITLE15=Easy To Love
+TTITLE16=April In Paris
+TTITLE17=Laura
+TTITLE18=The Rocker (3)
+EXTD=YEAR: 1952
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

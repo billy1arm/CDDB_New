@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25805
+#	99160
+#	109223
+#
+# Disc length: 3056 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=250bee04
+DTITLE=Carla Kihlstedt - Satoko Fujii - Minamo
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Remembering Backwards
+TTITLE1=One Hundred and Sixty Billion Spray
+TTITLE2=Lychnis
+TTITLE3=Remainder of One, Reminder of Two
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

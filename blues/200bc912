@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12400
+#     24613
+#     37088
+#     51638
+#     74575
+#     87588
+#     97925
+#     108588
+#     122113
+#     132600
+#     144800
+#     156713
+#     168513
+#     179125
+#     192275
+#     204788
+#     215225
+# 
+# Disc length: 3019 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=200bc912
+DTITLE=Roy Hamilton - Anthology [Disc 2]
+DYEAR=1900
+DGENRE=
+TTITLE0=Solitude
+TTITLE1=Please Send Me Someone To Love
+TTITLE2=I Let A Song Go Out Of My Heart
+TTITLE3=I Got It Bad (And That Ain't Good)
+TTITLE4=Stormy Weather
+TTITLE5=I Surrender Dear
+TTITLE6=Nature Boy
+TTITLE7=(Get Your Kicks On) Route 66
+TTITLE8=Stardust
+TTITLE9=Only You
+TTITLE10=My Reverie
+TTITLE11=Till then
+TTITLE12=Mona Lisa
+TTITLE13=Too Young
+TTITLE14=My Prayer
+TTITLE15=The Gypsy
+TTITLE16=True Love
+TTITLE17=(At) The End (Of A Rainbow)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

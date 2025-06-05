@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	55615
+#	105285
+#	143845
+#
+# Disc length: 2650 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=280a5804
+DTITLE=Mike Rowland - The Fairy Ring
+DYEAR=1982
+DGENRE=New Age
+TTITLE0=Part One
+TTITLE1=Part Two
+TTITLE2=Part Three
+TTITLE3=Part Four
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

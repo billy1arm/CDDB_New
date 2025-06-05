@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	95128
+#	186843
+#
+# Disc length: 2760 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=230ac603
+DTITLE=David S. Ware and Matthew Shipp Duo - Live in San'tAnna Arresi, 2004
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Tao Flow Part1
+TTITLE1=Tao Flow Part2
+TTITLE2=Encore
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

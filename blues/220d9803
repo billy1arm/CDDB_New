@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44465
+#	138974
+#
+# Disc length: 3482 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=220d9803
+DTITLE=Lurk Lab - Live at Shelter Sounds
+DYEAR=2013
+DGENRE=Jazz
+TTITLE0=Nosebleed Hop
+TTITLE1=The Trouble with Honey Pumps
+TTITLE2=Abbreviated E.G.H.
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

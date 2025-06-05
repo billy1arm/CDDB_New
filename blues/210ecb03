@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3672
+#	118930
+#
+# Disc length: 3789 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=210ecb03
+DTITLE=Charles Mingus - Odd Fellow (late show)
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=intro
+TTITLE1=Ow!
+TTITLE2=Fables of Faubus
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

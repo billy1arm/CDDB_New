@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	117937
+#	214646
+#
+# Disc length: 3752 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=220ea603
+DTITLE=Sigmund FREUD - Cinq leçons sur la psychanalyse - CD 2
+DYEAR=2010
+DGENRE=AudioBook
+TTITLE0=TROISIEME LECON
+TTITLE1=QUATRIEME LECON
+TTITLE2=CINQUIEME LECON
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

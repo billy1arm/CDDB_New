@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32127
+#	112692
+#	169147
+#
+# Disc length: 2878 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=260b3c04
+DTITLE=Charles Lloyd - In The Soviet Union
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=Days And Nights Waiting
+TTITLE1=Sweet Georgia Bright
+TTITLE2=Love Song To A Baby
+TTITLE3=Tribal Dance
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

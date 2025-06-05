@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	55800
+#	114000
+#	181500
+#
+# Disc length: 2858 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=210b2804
+DTITLE=Dizzy Gillespie and Arturo Sandoval - Live at the Jazz Placa Festival 1985 1#2
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=Swing low, sweet Cadillac
+TTITLE1=The Blues
+TTITLE2=A night in Tunisia
+TTITLE3=Gee Baby, ain't i good to you
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

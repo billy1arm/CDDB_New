@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	81900
+#	207900
+#
+# Disc length: 3852 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=200f0a03
+DTITLE=Yosuke Yamashita and Mal Waldron - Piano Duo
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Duo Inprovisation Part 1
+TTITLE1=Duo Inprovisation Part 2
+TTITLE2=My Old Flame
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

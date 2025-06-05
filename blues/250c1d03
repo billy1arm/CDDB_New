@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	69259
+#	148102
+#
+# Disc length: 3103 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=250c1d03
+DTITLE=The Living Room and Barry Guy - Live at the Literaturhaus
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Part #1
+TTITLE1=Part #2
+TTITLE2=Part #3
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=
