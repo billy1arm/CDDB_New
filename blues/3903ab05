@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13213
+#	26099
+#	40522
+#	56706
+#
+# Disc length: 941 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3903ab05
+DTITLE=The Evan Powis Quartet - Personal Collection
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Fever
+TTITLE1=My Romance
+TTITLE2=Some Day My Prince Will Come
+TTITLE3=Summertime
+TTITLE4=Cold Duck Time
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

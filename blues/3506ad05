@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	18788
+#	56348
+#	68055
+#	106475
+#
+# Disc length: 1711 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3506ad05
+DTITLE=Santana - Best of the Early Years cd1
+DYEAR=1969
+DGENRE=Blues
+TTITLE0=With A Little Help From My Friends
+TTITLE1=Jammin' Home
+TTITLE2=Acapulco Sunrise
+TTITLE3=Jam In E
+TTITLE4=Travelin' Blues
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

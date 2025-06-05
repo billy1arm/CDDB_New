@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31950
+#	48825
+#	88500
+#	126000
+#
+# Disc length: 2275 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3308e105
+DTITLE=Art Blakey - A Night At Birdland Vol.2
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Wee-Dot
+TTITLE1=If I Had You
+TTITLE2=Quicksilber(Alternate Master)
+TTITLE3=Now's The Time
+TTITLE4=Confirmation
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

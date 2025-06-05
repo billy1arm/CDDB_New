@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33150
+#	66200
+#	82800
+#	103420
+#
+# Disc length: 1762 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3706e005
+DTITLE=OUTRAGE - It's Packed
+DYEAR=1997
+DGENRE=J-Metal
+TTITLE0=Donkey Ride
+TTITLE1=Undertow
+TTITLE2=Broken Man
+TTITLE3=Madness
+TTITLE4=Megalomania
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

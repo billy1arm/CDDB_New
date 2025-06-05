@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30500
+#	64668
+#	94090
+#	113515
+#	150043
+#
+# Disc length: 2266 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=3408d806
+DTITLE=Cedar Walton - Soul Cycle
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Sundown Express
+TTITLE1=Quiet Dawn
+TTITLE2=Pensativa
+TTITLE3=My Cherie Amour
+TTITLE4=Easy Walker
+TTITLE5=I  Should Care
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

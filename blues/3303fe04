@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	21375
+#	39975
+#	58455
+#
+# Disc length: 1024 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.64 - http://www.feurio.com
+#
+DISCID=3303fe04
+DTITLE=LL Cool J - doin' it (maxi)
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Doin' it (LP Version)
+TTITLE1=Doin' it (Unarmed Mix)
+TTITLE2=Hey Lover (Street Version)
+TTITLE3=Hey Lover (Street Instrumental)
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

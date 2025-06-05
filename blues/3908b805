@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40777
+#	82722
+#	115340
+#	139472
+#
+# Disc length: 2234 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=3908b805
+DTITLE=Ornette Coleman - An Evening With Ornette Coleman Vol 2
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Falling Stars
+TTITLE1=Silence
+TTITLE2=Happy Fool
+TTITLE3=Ballad
+TTITLE4=Dough Nuts
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

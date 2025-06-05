@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16574
+#	34326
+#	50352
+#	64301
+#
+# Disc length: 1016 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL0
+#
+DISCID=3803f605
+DTITLE=Rhythm Oil -  April 1995 Demo
+DYEAR=1900
+DGENRE=
+TTITLE0=Runnin' Blues
+TTITLE1=Come On Home
+TTITLE2=Phone Booth
+TTITLE3=Caldonia
+TTITLE4=Back To Louisianna
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

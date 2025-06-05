@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	20650
+#	41987
+#	56475
+#
+# Disc length: 987 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=3203d904
+DTITLE=Buddy Guy - Damn Right I've Got The Blues
+DYEAR=1991
+DGENRE=Blues
+TTITLE0=Damn Right I've Got The Blues
+TTITLE1=Mustang Sally
+TTITLE2=Early In The Morning
+TTITLE3=Let Me Love You Baby
+EXTD=YEAR: 1991 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49854
+#	85861
+#	111943
+#	151855
+#
+# Disc length: 2466 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3409a005
+DTITLE=Don Li - 15 Squared 
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Zone 1 
+TTITLE1=Zone 2 
+TTITLE2=Zone 3
+TTITLE3=Zone 4
+TTITLE4=Zone 5
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

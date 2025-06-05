@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33635
+#	60860
+#	98061
+#	128025
+#
+# Disc length: 2218 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3608a805
+DTITLE=Medwyn Goodall - Origins
+DYEAR=2008
+DGENRE=Data
+TTITLE0=01 - always faithful
+TTITLE1=02 - the long mountains
+TTITLE2=03 - when love whispers
+TTITLE3=04 - the stipperstones
+TTITLE4=05 - alice
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

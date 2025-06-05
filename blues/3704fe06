@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15328
+#	33151
+#	47785
+#	63988
+#	83451
+#
+# Disc length: 1280 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3704fe06
+DTITLE=Amy Winehouse - Live from Amsterdam
+DYEAR=2007
+DGENRE=Blues
+TTITLE0=Just Friends
+TTITLE1=Back To Black
+TTITLE2=I Heard Love Is Blind
+TTITLE3=Rehab
+TTITLE4=You Know I'm No Good
+TTITLE5=Love Is A Losing Game
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

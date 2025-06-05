@@ -1,0 +1,79 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15707
+#	40212
+#	53217
+#	68350
+#	84007
+#	113312
+#	125385
+#	137740
+#	151752
+#	171742
+#	187727
+#	200810
+#	211170
+#	222192
+#	240460
+#	250995
+#	262085
+#	275955
+#	287792
+#	313330
+#
+# Disc length: 4282 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.99.1
+#
+DISCID=3210b815
+DTITLE=Various Artist - Great Bluesmen - Newport
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Robert Pete Williams - Midnight Boogie
+TTITLE1=Robert Pete Williams - Levee Camp Blues
+TTITLE2=Sonny Terry and Brownie McGhee - My Baby Done Changed The Lock On The Door
+TTITLE3=John Lee Hooker - Tupelo
+TTITLE4=John Lee Hooker - Bus Station Blues
+TTITLE5=Son House - Son Blues
+TTITLE6=Son House - Pony Blues
+TTITLE7=Sleepy John Estes - Mailman Blues
+TTITLE8=Sleepy John Estes - Clean Up At Home
+TTITLE9=Doc Reese - Hey Rattler/Oh My Lord
+TTITLE10=Mississippi John Hurt - Sliding Delta
+TTITLE11=Mississippi John Hurt - Trouble, I've Had It All My Days
+TTITLE12=Skip James - Hard Times Killing Floor Blues
+TTITLE13=Skip James - Illinois Blues
+TTITLE14=Rev, Gary Davis - Death Don't Have No Mercy
+TTITLE15=Willie Doss - Catfish Blues
+TTITLE16=Willie Doss - I Had A Woman
+TTITLE17=Mississippi Fred McDowel - Lord, I'm Going Down South
+TTITLE18=Mississippi Fred McDowel - If The River Was Whiskey
+TTITLE19=Lightnin' Hopkins w/ Samuel Lay - Cotten Fields Blues
+TTITLE20=Lightnin' Hopkins w/ Samuel Lay - Shake That Thing
+EXTD=
+EXTT0=Robert Pete Williams\n
+EXTT1=Robert Pete Williams\n
+EXTT2=Sonny Terry and Brownie McGhee\n
+EXTT3=John Lee Hooker\n
+EXTT4=John Lee Hooker\n
+EXTT5=Son House\n
+EXTT6=Son House\n
+EXTT7=Sleepy John Estes\n
+EXTT8=Sleepy John Estes\n
+EXTT9=Doc Reese\n
+EXTT10=Mississippi John Hurt\n
+EXTT11=Mississippi John Hurt\n
+EXTT12=Skip James\n
+EXTT13=Skip James\n
+EXTT14=Reverend Gary Davis\n
+EXTT15=Willie Doss\n
+EXTT16=Willie Doss\n
+EXTT17=Mississippi Fred McDowell\n
+EXTT18=Mississippi Fred McDowell\n
+EXTT19=Lightnin' Hopkins and Samuel Lay\n
+EXTT20=Lightnin' Hopkins and Samuel Lay\n
+PLAYORDER=

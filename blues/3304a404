@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	22425
+# 	38787
+# 	70075
+#
+# Disc length: 1190 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=3304a404
+DTITLE=Moody Blues - I know you`re out there somewhere
+DYEAR=1900
+DGENRE=
+TTITLE0=Miracle
+TTITLE1=Vintage wine
+TTITLE2=Deep
+TTITLE3=I know you`re out there somewhere
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

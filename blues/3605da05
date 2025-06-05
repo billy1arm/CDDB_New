@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32050
+#	38202
+#	64394
+#	90137
+#
+# Disc length: 1500 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=3605da05
+DTITLE=Torngat - La Rouge
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Nouvelle France
+TTITLE1=Bell Duet
+TTITLE2=Alberta Song
+TTITLE3=La Rouge
+TTITLE4=Bye Bye Sly
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

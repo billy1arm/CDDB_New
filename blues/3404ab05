@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	30133
+#	54225
+#	71720
+#	85407
+#
+# Disc length: 1197 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3404ab05
+DTITLE=Mazzoll - One [single 3]
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Ojczyzną naszą dobroć, dobroć, dobroć
+TTITLE1=Pieśń o smutnym Rumunie
+TTITLE2=Ojczyzną naszą dobroć, dobroć, dobroć (bim-bom mix hymn festiwalu FETA)
+TTITLE3=Pieśń o smutnym Rumunie (Romanian bim-bom FETA mix)
+TTITLE4=Nieznośna lekkość (mix)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

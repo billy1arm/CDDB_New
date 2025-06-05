@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34320
+#	58385
+#	73947
+#	95033
+#	113187
+#	125901
+#	152621
+#	188099
+#	201439
+#	220372
+#	237920
+#	259744
+#	277200
+#	279444
+#	294000
+#	314141
+#	336502
+#
+# Disc length: 4817 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3512cf12
+DTITLE=Michel Jonasz - En concert
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Y'a rien qui dure toujours
+TTITLE1=Super Nana
+TTITLE2=Mini cassette
+TTITLE3=25 piges dont 5 au cachot
+TTITLE4=Del'amour qui s'évapore
+TTITLE5=Les lignes téléphoniques
+TTITLE6=Lucille
+TTITLE7=J'veux pas que tu t'en ailles
+TTITLE8=Intro 1
+TTITLE9=Les fourmis rouges
+TTITLE10=La terre et le père
+TTITLE11=Unis vers l'uni
+TTITLE12=C'est la nuit
+TTITLE13=Intro 2
+TTITLE14=La boite de Jazz
+TTITLE15=La FM s'est spécialisée Funky
+TTITLE16=Guigui
+TTITLE17=Joueurs de blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

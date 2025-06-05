@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31087
+#	36025
+#	65697
+#	88127
+#
+# Disc length: 1249 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3904df05
+DTITLE=Five Secrets - Reale and virtuelle Filmmusik
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Tanz des Bergkönigs
+TTITLE1=Secret #1
+TTITLE2=Ballade
+TTITLE3=Das dritte Element
+TTITLE4=Epilogue #7
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

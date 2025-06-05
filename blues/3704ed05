@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	300
+#	23275
+#	36609
+#	62066
+#	77757
+#
+# Disc length: 1265 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3704ed05
+DTITLE=Various Artist - ZM-006
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Roxy Music - Oh Yeah (on the radio)STTW
+TTITLE1=Michel Telo - Ai Se Eu Te Pego
+TTITLE2=John Holt - Mr Bojangles ZM
+TTITLE3=Madness - Night Boat To Cairo ZM
+TTITLE4=Frank Sinatra and Bing Crosby - Well Did You Evah (swell party)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

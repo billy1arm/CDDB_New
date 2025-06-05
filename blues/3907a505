@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28247
+#	52559
+#	70555
+#	110821
+#
+# Disc length: 1959 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3907a505
+DTITLE=Richard "Groove" Holmes - Groove
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Them That Got
+TTITLE1=Thet Healin' Feeling
+TTITLE2=Seven Come Eleven
+TTITLE3=Deep Purple
+TTITLE4=Good Groove
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

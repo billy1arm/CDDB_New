@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24258
+#	56824
+#	92474
+#	163228
+#
+# Disc length: 2516 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=3509d205
+DTITLE=Erling Kroner - Music Book
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Ships ASnd People - Footloose
+TTITLE1=And Now Goodbye
+TTITLE2=Ettem Enna
+TTITLE3=The Tortured Heavyweight
+TTITLE4=I´ve Grown Accustomed To The Race
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

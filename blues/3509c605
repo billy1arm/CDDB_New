@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31658
+#	80438
+#	100328
+#	132420
+#
+# Disc length: 2504 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3509c605
+DTITLE=Cecil Payne - Zodiac
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=Martin Luther King, Jr.
+TTITLE1=Girl, You Got A Home
+TTITLE2=Slide Hampton
+TTITLE3=Follow Me
+TTITLE4=Flying Fish
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

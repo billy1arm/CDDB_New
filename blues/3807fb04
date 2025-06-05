@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27455
+#	74201
+#	94199
+#
+# Disc length: 2045 seconds
+#
+# Revision: 40
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3807fb04
+DTITLE=Miles Davis Quintet - Cookin' with the Miles Davis Quintet
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=My funny Valentine
+TTITLE1=Blues by five
+TTITLE2=Airegin
+TTITLE3=Tune-up - When lights are low
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

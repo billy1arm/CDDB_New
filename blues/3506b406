@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21060
+#	37502
+#	69577
+#	93945
+#	105930
+#
+# Disc length: 1718 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=3506b406
+DTITLE=Ben Harper - Burn To Shine - Bonus tour Disc
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Alone (Live)
+TTITLE1=Burn To Shine (Live)
+TTITLE2=The Woman In You (Live)
+TTITLE3=Steal My Kisses (Live)
+TTITLE4=Nobody's Fault But Mine (Live)
+TTITLE5=Please Bleed (Live)
+EXTD=YEAR: 2000 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

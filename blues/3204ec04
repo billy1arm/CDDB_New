@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24553
+#	47559
+#	71959
+#
+# Disc length: 1262 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3204ec04
+DTITLE=KOTOKO - SCREW
+DYEAR=2009
+DGENRE=I've
+TTITLE0=SCREW
+TTITLE1=BUCCANEER
+TTITLE2=SCREW -Instrumental-
+TTITLE3=BUCCANEER -Instrumental-
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

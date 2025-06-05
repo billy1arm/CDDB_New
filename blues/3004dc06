@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	15315
+#	30095
+#	46610
+#	62058
+#	77688
+#
+# Disc length: 1246 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=3004dc06
+DTITLE=Glenn Miller - Coframi
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Moonlight Serenade
+TTITLE1=Pennsylvania
+TTITLE2=Get Happy
+TTITLE3=American Patrol
+TTITLE4=Sunrise Serenade
+TTITLE5=In The Mood
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

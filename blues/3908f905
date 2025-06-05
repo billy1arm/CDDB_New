@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15542
+#	30134
+#	50842
+#	97456
+#
+# Disc length: 2299 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3908f905
+DTITLE=The Tuba Trio - Essence - The Heat And Warmth Of Free Jazz Vol. 1
+DYEAR=1977
+DGENRE=Jazz
+TTITLE0=Part I - Instrumental Solo Of The Tenor Sax
+TTITLE1=Part II - Instrumental Solo Of The Tuba
+TTITLE2=Part III - Instrumental Solo Of The Drums
+TTITLE3=Part IV - Group With The Tenor Sax - Dramatic Intrusion Of A Second Tenor Sax Player
+TTITLE4=Part V - Group With The Flute
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20578
+#	42313
+#	66088
+#	83113
+#
+# Disc length: 1456 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=3905ae05
+DTITLE=Dave Brubeck - Late Night Brubeck (Radio Promo CD)
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=These Foolish Things
+TTITLE1=Rainy Day
+TTITLE2=Koto Song
+TTITLE3=Mean To Me
+TTITLE4=So Wistfully Sad
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

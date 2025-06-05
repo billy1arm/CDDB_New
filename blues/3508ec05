@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24337
+#	70355
+#	92350
+#	135482
+#
+# Disc length: 2286 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=3508ec05
+DTITLE=Rouse, Charlie - The upper Manhattan Jazz Society
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=Mr McGee
+TTITLE1=After the morning
+TTITLE2=Lil' Sherry
+TTITLE3=Spellunke
+TTITLE4=Naima's love song
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

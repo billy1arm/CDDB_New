@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21450
+#	36458
+#	53815
+#
+# Disc length: 998 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3303e404
+DTITLE=メモリーキャッツ - TOMORROW
+DYEAR=2001
+DGENRE=Pop
+TTITLE0=TOMORROW
+TTITLE1=TOMORROW (unplugged version)
+TTITLE2=TOMORROW (ac g version)
+TTITLE3=TOMORROW (instrumental)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

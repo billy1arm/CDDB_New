@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12054
+#	35524
+#	48147
+#	74569
+#
+# Disc length: 1268 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta6
+#
+DISCID=3804f205
+DTITLE=B.B. King - Grandes Mitos
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Everday I Have The Blues
+TTITLE1=How Blue Can You Get?
+TTITLE2=Caldonia
+TTITLE3=The Thrill Is Gone
+TTITLE4=Hummingbird
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

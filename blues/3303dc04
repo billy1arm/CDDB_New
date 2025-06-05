@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19595
+#	40997
+#	73487
+#
+# Disc length: 990 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3303dc04
+DTITLE=Southern All Stars - 君こそスターだ
+DYEAR=2004
+DGENRE=Rock
+TTITLE0=君こそスターだ
+TTITLE1=夢に消えたジュリア
+TTITLE2=Doll
+TTITLE3=(Data Track)
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

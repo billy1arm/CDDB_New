@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43705
+#	87185
+#	117337
+#	156360
+#
+# Disc length: 2489 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=3909b705
+DTITLE=Larry Young - Into Somethin'
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Tyrone
+TTITLE1=Plaza De Toros
+TTITLE2=Paris Eyes
+TTITLE3=Backup
+TTITLE4=Ritha
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

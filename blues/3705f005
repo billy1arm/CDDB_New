@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14202
+#	45805
+#	72411
+#	97829
+#
+# Disc length: 1522 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=3705f005
+DTITLE=Kontakt - n/a
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Show Me A Sign (Radio Edit)
+TTITLE1=Show Me A Sign (Original Club)
+TTITLE2=Show Me A Sign (Vinyl Groover and Redhed Mix)
+TTITLE3=Show Me A Sign (Instrumental)
+TTITLE4=Show Me A Sign (Chillout Mix)
+EXTD=ID3G:   0 YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14700
+#	32100
+#	62880
+#	98276
+#
+# Disc length: 1718 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=3806b405
+DTITLE=Heiko and Maik(o) - Glücklich
+DYEAR=2005
+DGENRE=House
+TTITLE0=Glücklich (Original Radio Edit)
+TTITLE1=Glücklich (Endless Summer Cut)
+TTITLE2=Glücklich (Original Mix)
+TTITLE3=Glücklich (Endless Summer Mix)
+TTITLE4=Glücklich (English Mix)
+EXTD=ID3G:  35 YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

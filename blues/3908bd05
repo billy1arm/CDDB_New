@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43020
+#	72112
+#	91305
+#	123215
+#
+# Disc length: 2239 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3908bd05
+DTITLE=Freddie Hubbard - Outpost
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=Santa Anna Winds
+TTITLE1=You Don't Know What Love Is
+TTITLE2=The Outpost Blues
+TTITLE3=Dual Force
+TTITLE4=Loss
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=
