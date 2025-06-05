@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     200
+#     18200
+#     45282
+# 
+# Disc length: 830 seconds
+# 
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.1
+# 
+DISCID=13033c03
+DTITLE=Simply Red - Your Mirror - Disc 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Your Mirror (Live)
+TTITLE1=Sad Old Red (Live)
+TTITLE2=She's Got It Bad (Live)
+EXTD=
+EXTT0=Recorded Live In Hamburg, 23/02/92.
+EXTT1=Recorded Live In Hamburg, 23/02/92.
+EXTT2=Recorded Live In Hamburg, 23/02/92.
+PLAYORDER=

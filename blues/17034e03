@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16135
+#	38150
+#
+# Disc length: 848 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=17034e03
+DTITLE=TECHNICIAN2 - PLAYING WITH THE BOY
+DYEAR=1992
+DGENRE=Techno
+TTITLE0=PLAYING WITH THE BOY (LEVEL 1) - 142 BPM
+TTITLE1=PLAYING WITH THE BOY (LEVEL 2) (WARP ZONE MIX) - 145 BPM
+TTITLE2=PLAYING WITH THE BOY (LEVEL 3) (MUSHROOM MIX) - 144 BPM
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

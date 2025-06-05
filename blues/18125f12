@@ -1,0 +1,72 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# Generated: Tue Mar 31 19:54:20 1998 by KSCD
+# 
+# Track frame offsets:
+#       150
+#       20480
+#       43932
+#       60882
+#       73917
+#       107525
+#       129395
+#       151215
+#       170492
+#       183375
+#       204907
+#       224387
+#       237687
+#       257207
+#       275815
+#       299122
+#       316782
+#       336110
+#
+# Disc length: 4705 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Kscd 0.8.0
+#
+DISCID=18125f12
+DTITLE=Fleetwood Mac - Black Magic Woman
+DYEAR=1900
+DGENRE=
+TTITLE0=Black Magic Woman
+TTITLE1=Can't Hold On
+TTITLE2=Got To Move
+TTITLE3=Great Balls Of Fire
+TTITLE4=Green Manalishi
+TTITLE5=Jumpin' At Shadows
+TTITLE6=Keep A Knocking
+TTITLE7=Like It This Way
+TTITLE8=Loving Kind
+TTITLE9=Madison Blues
+TTITLE10=Oh Baby
+TTITLE11=Oh Well
+TTITLE12=Only You
+TTITLE13=Red Hot Mama
+TTITLE14=Sandy Mary
+TTITLE15=Stranger Blues
+TTITLE16=Teenage Darling
+TTITLE17=World In Harmony
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

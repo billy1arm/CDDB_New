@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17535
+#	40837
+#
+# Disc length: 854 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=17035403
+DTITLE=Black - Just Like Love
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Just like love
+TTITLE1=surrender
+TTITLE2=paper crown
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

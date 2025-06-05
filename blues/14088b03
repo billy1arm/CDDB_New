@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54979
+#	97645
+#
+# Disc length: 2189 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=14088b03
+DTITLE=The Paul Butterfield Blues Band - Live New York 1970 CD1
+DYEAR=1970
+DGENRE=Blues
+TTITLE0=born under a bad sign
+TTITLE1=play on
+TTITLE2=driftin' blues
+EXTD=ID3G:   0 YEAR: 1970
+EXTT0=12:12
+EXTT1=9:29
+EXTT2=14:51
+PLAYORDER=

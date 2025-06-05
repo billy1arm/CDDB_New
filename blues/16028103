@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 2005 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16106
+#     31365
+# 
+# Disc length: 643 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=16028103
+DTITLE=Feeder - Pushing The Senses
+DYEAR=1900
+DGENRE=
+TTITLE0=Pushing The Senses
+TTITLE1=I For You
+TTITLE2=Crowd Of Stars
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

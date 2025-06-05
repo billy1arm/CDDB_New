@@ -1,0 +1,73 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16225
+#	31300
+#	45225
+#	61175
+#	78462
+#	93000
+#	108725
+#	133912
+#	152637
+#	170737
+#	186287
+#	202337
+#	221175
+#	239537
+#	257812
+#	274612
+#	291537
+#	307787
+# Disc length: 4330 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.735
+#
+DISCID=1710e813
+DTITLE=DREAM DANCE - Vol. 11 CD 2
+DYEAR=1900
+DGENRE=
+TTITLE0=PAFFENDORF - Terminator 2
+TTITLE1=UNITED DEE JAYS FOR CENTRAL AMERICA - Too Much Rain
+TTITLE2=KAY CEE - Love Stimulation
+TTITLE3=WATERGATE - Mull Of Kintyre
+TTITLE4=PHIL FULDNER - S-Express
+TTITLE5=AYLA - Liebe
+TTITLE6=MOSQUITO HEADZ - El Ritmo
+TTITLE7=DOLPHIN'S MIND - La Luna (extended vocal club mix)
+TTITLE8=MARC ET CLAUDE - How Much Can You Take?
+TTITLE9=KEE MO- Spectrum
+TTITLE10=DOWNLOAD - Millenium 2000
+TTITLE11=FAITHLESS - God Is A DJ
+TTITLE12=PIET BLANK and JASPA JONES - Flying To The Moon
+TTITLE13=ARRAKIS - The Spice
+TTITLE14=DJ TOMCRAFT - The Mission
+TTITLE15=LADY TOM - It's A Dream (part 1 radio edit)
+TTITLE16=TONY H - Zoo Future (Dumonde mix)
+TTITLE17=DJ WANG - Man On The Moon
+TTITLE18=THE HIGHLANDER - Dignified
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	75045
+#	105380
+#	129002
+#
+# Disc length: 2268 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=1708da04
+DTITLE=Albert Ayler - Something Different!!!!!
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=I'll Remember April
+TTITLE1=Rollins' Tune
+TTITLE2=Tune Up
+TTITLE3=Free
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18785
+#     40387
+# 
+# Disc length: 549 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=19022303
+DTITLE=Boz Skaggs - It All Went Down the Drain
+DYEAR=1900
+DGENRE=
+TTITLE0=Edit
+TTITLE1=Full Length Version
+TTITLE2=Call Out Research Hook
+EXTD=
+EXTT0=The Radio Edit for this Single\n
+EXTT1=The Full Length Version\n
+EXTT2=Also known as the teaser\n
+PLAYORDER=

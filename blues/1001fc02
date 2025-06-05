@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19285
+#
+# Disc length: 510 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=1001fc02
+DTITLE=ウルフルズ - そら
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=そら
+TTITLE1=ガメラ2
+EXTD=YEAR: 1996 ID3G: 8
+EXTT0=LP Version
+EXTT1=LP Version (no intro)
+PLAYORDER=

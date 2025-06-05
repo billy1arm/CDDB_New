@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20365
+#	38375
+#
+# Disc length: 667 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=13029903
+DTITLE=Gitane - Monologue
+DYEAR=2002
+DGENRE=Rock
+TTITLE0=Monologue
+TTITLE1=Accepting
+TTITLE2=AHazyShadeWinter
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

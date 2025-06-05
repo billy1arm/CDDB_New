@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16005
+#	49015
+#
+# Disc length: 1060 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=16042203
+DTITLE=Dance 2 Trance - Hello San Francisco incl. Remix
+DYEAR=1992
+DGENRE=Trance
+TTITLE0=Hello San Francisco (Radio Edit)
+TTITLE1=Hello San Francisco
+TTITLE2=Hello San Francisco (Remix)
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

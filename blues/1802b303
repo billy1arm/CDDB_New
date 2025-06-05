@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19645
+#	38172
+#
+# Disc length: 693 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=1802b303
+DTITLE=Alanis Morissette - Thank You
+DYEAR=1998
+DGENRE=Alt Rock
+TTITLE0=Thank U
+TTITLE1=Pollyanna Flower
+TTITLE2=Uninvited (demo)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

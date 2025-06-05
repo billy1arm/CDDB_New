@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23550
+#	44362
+#
+# Disc length: 856 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=19035603
+DTITLE=Mac Gollehon - Mac's Smokin' Section (EP)
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Park Avenue
+TTITLE1=One Secret Night
+TTITLE2=Smokin' Section
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

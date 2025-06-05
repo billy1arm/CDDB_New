@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13202
+#	26332
+#
+# Disc length: 575 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=19023d03
+DTITLE=Char - Piano
+DYEAR=2005
+DGENRE=Rock
+TTITLE0=Piano (Japanese version)
+TTITLE1=Piano (English version)
+TTITLE2=Moonlight Serenade
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

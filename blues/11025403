@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18790
+#	31700
+#
+# Disc length: 598 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=11025403
+DTITLE=Nelories - Popstars
+DYEAR=1994
+DGENRE=Rock
+TTITLE0=Popstars
+TTITLE1=For A Friend
+TTITLE2=La Cerveza
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22775
+#	39982
+#
+# Disc length: 829 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta5
+#
+DISCID=13033b03
+DTITLE=Pizzicato 5 - Happy Sad
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Happy Sad (invictus mix)
+TTITLE1=face B
+TTITLE2=Happy Sad (instrumental)
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

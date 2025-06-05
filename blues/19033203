@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21310
+#	40572
+#
+# Disc length: 820 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=19033203
+DTITLE=中澤裕子 - 二人暮し
+DYEAR=2001
+DGENRE=Pop
+TTITLE0=二人暮し
+TTITLE1=公園通りの喫茶店
+TTITLE2=二人暮し(Instrumental)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

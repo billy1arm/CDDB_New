@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	20997
+#
+# Disc length: 536 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=14021602
+DTITLE=John Lee Hooker - Edition limitée 75ème anniversaire
+DYEAR=1995
+DGENRE=Blues
+TTITLE0=Up and down
+TTITLE1=Boom Boom
+EXTD=YEAR: 1995  ID3G:   0
+EXTT0=
+EXTT1=
+PLAYORDER=

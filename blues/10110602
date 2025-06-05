@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	175223
+#
+# Disc length: 4360 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=10110602
+DTITLE=Tom Waits - Live in Austin TX 930320 Disc 2
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Second Set track 1
+TTITLE1=Second Set track 2
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+PLAYORDER=

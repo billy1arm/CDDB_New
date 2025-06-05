@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	142625
+#	173427
+#
+# Disc length: 4645 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=15122303
+DTITLE=Various Artist - Disco Prezioso Part 1+2
+DYEAR=1996
+DGENRE=Mix
+TTITLE0=Disco Prezioso 2
+TTITLE1=Subwoofer Test Mix
+TTITLE2=Disco Prezioso 1
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

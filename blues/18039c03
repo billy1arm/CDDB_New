@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33000
+#	46298
+#
+# Disc length: 926 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=18039c03
+DTITLE=島宮えい子 - TAKAMI - PCゲーム「真・瑠璃色の雪 〜ふりむけば隣に〜」おまけシングル
+DYEAR=2000
+DGENRE=Game
+TTITLE0=島宮えい子 - 氷結の夜(「真・瑠璃色の雪」オープニング)
+TTITLE1=島宮えい子 - 子守唄(「真・瑠璃色の雪」劇中挿入歌)
+TTITLE2=TAKAMI - 瑠璃色の雪〜ふりむけば隣に〜(「真・瑠璃色の雪」エンディング)
+EXTD=I've sound YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

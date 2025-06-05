@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     13370
+# 
+# Disc length: 333 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=12014b02
+DTITLE=Dion And The Belmonts - Collectables 45's On CD
+DYEAR=1900
+DGENRE=
+TTITLE0=The Wanderer
+TTITLE1=No One Knows
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

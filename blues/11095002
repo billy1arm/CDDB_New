@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	95671
+#
+# Disc length: 2386 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=11095002
+DTITLE=Krzysztof Komeda - Muzyka Komedy 4
+DYEAR=1967
+DGENRE=Jazz
+TTITLE0=NÃ³Å¼ w wodzie - Ballada, Moja ballada
+TTITLE1=Klatki, Wiklinowy kosz, Laterna magica - Walc
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+PLAYORDER=

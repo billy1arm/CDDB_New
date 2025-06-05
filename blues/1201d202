@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19450
+#
+# Disc length: 468 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=1201d202
+DTITLE=G. Love and Special Sause - Blues Music
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=Blues Music (slow)
+TTITLE1=Lila
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+PLAYORDER=
