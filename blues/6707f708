@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17800
+#	40865
+#	52577
+#	65755
+#	88729
+#	109113
+#	133867
+#
+# Disc length: 2041 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6707f708
+DTITLE=Various Artist - Christmas JAZZ
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=White Christmas
+TTITLE1=All Come, All Ye Faithful
+TTITLE2=Silent Night
+TTITLE3=Jingle Bells
+TTITLE4=Auld Lang Syne
+TTITLE5=Tu Scendi Dalle Stelle
+TTITLE6=Imagine
+TTITLE7=My Sweet Lord
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

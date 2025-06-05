@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45870
+#	84315
+#	115792
+#	149585
+#	182697
+#	222575
+#	264070
+#
+# Disc length: 4296 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6610c608
+DTITLE=Corn Brothers Trio - The Corn Brothers Trio
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Jazz Etude #7
+TTITLE1=Corcovado
+TTITLE2=Land of the Misty Giants
+TTITLE3=Hobbie Days
+TTITLE4=Poinciana
+TTITLE5=Whisper Not
+TTITLE6=St. Thomas
+TTITLE7=So What
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

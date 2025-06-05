@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48982
+#	76365
+#	94325
+#	112242
+#	137347
+#	154247
+#	164567
+#
+# Disc length: 2526 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=6709dc08
+DTITLE=J.M. Jarre - Chronologie
+DYEAR=1993
+DGENRE=Electronic
+TTITLE0=Chronologie Part 1
+TTITLE1=Chronologie Part 2
+TTITLE2=Chronologie Part 3
+TTITLE3=Chronologie Part 4
+TTITLE4=Chronologie Part 5
+TTITLE5=Chronologie Part 6
+TTITLE6=Chronologie Part 7
+TTITLE7=Chronologie Part 8
+EXTD=YEAR: 1993 ID3G: 52
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

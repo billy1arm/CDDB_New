@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11800
+#	16854
+#	30045
+#	112314
+#	122358
+#	200609
+#	254822
+#
+# Disc length: 4518 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6411a408
+DTITLE=Thelonious Monk - Masters of Jazz
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Crepuscule with Nelly
+TTITLE1=Epistrophy
+TTITLE2=I love you
+TTITLE3=I'm getting sentimental over you
+TTITLE4=Just a gigolo
+TTITLE5=Lulu's back in town
+TTITLE6=Off minor
+TTITLE7=Sweet and lovely
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	99577
+#	155565
+#	172570
+#	207200
+#	235385
+#	242930
+#	255922
+#	272360
+#
+# Disc length: 4344 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6910f609
+DTITLE=Evgeny Kissin - メフィスト・ワルツ〜キーシン・プレイズ・シューベルト&リスト
+DYEAR=2004
+DGENRE=classic
+TTITLE0=シューベルト/ピアノソナタ第21番 D.960:  1. Molto moderato
+TTITLE1=シューベルト/ピアノソナタ第21番 D.960:  2. Andante sostenuto
+TTITLE2=シューベルト/ピアノソナタ第21番 D.960:  3. Scherzo: Allegro vivace con delicatezza
+TTITLE3=シューベルト/ピアノソナタ第21番 - Sonata D.960:  4. Allegro, ma non troppo
+TTITLE4=シューベルト_リスト編曲/セレナーデ S560 No.7
+TTITLE5=シューベルト_リスト編曲/さすらい D565 No.1
+TTITLE6=シューベルト_リスト編曲/何処へ？ S565 No.5
+TTITLE7=シューベルト_リスト編曲/すみか S560 No.3
+TTITLE8=リスト/メフィスト・ワルツ第1番, S514
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24525
+#	48406
+#	70711
+#	93798
+#	116179
+#	139225
+#	163706
+#
+# Disc length: 2493 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=6809bb08
+DTITLE=THUNDER - Live At The 100 Club
+DYEAR=2017
+DGENRE=Hard Rock
+TTITLE0=Wonder Days
+TTITLE1=Black Water
+TTITLE2=River Of Pain
+TTITLE3=Chasing Shadows
+TTITLE4=Broken
+TTITLE5=The Devil Made Me Do It
+TTITLE6=Backstreet Symphony
+TTITLE7=I'll Be Waiting
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

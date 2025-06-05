@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	59200
+#	96495
+#	125862
+#	167585
+#	241827
+#	287487
+#
+# Disc length: 4345 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6810f707
+DTITLE=BBC SSO - Maksymiuk - Lane - Padarewski Piano Concerto in A minor Op.7
+DYEAR=1991
+DGENRE=Concerto
+TTITLE0=Piano Concerto in E Op.59 -I- Moderato
+TTITLE1=Piano Concerto in E Op.59 -II- Andante
+TTITLE2=Piano Concerto in E Op.59 -III- Scherzo: Vivace
+TTITLE3=Piano Concerto in E Op.59 -IV- Allegro deciso
+TTITLE4=Piano Concerto in A minor -I- Allegro
+TTITLE5=Piano Concerto in A minor -II- Romanza: Andante
+TTITLE6=Piano Concerto in A minor -III- Allegro molto vivace
+EXTD=The Romantic Piano Concerto Vol. 1 - Piers Lane (piano), BBCSSO, Jerzy Maksymiuk (conductor) YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

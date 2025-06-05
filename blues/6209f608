@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22940
+#	46180
+#	67697
+#	88177
+#	118360
+#	137665
+#	161630
+#
+# Disc length: 2552 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6209f608
+DTITLE=KONAMI - The Millennium of BEETHOVEN -CLASSIC★REMIX-
+DYEAR=1900
+DGENRE=Classical
+TTITLE0=No9 Nu R&B MIX-交響曲第9番-
+TTITLE1=運命
+TTITLE2=皇帝の黄昏-ピアノ協奏曲「運命」-
+TTITLE3=エリーゼのために
+TTITLE4=「ロマンス」
+TTITLE5=ピアノ・ソナタ「月光」
+TTITLE6=ピアノ・ソナタ「熱情」
+TTITLE7=Slowly Pains-ソナタ「悲愴」-
+EXTD=KMCA48<LC456>
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

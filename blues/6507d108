@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22789
+#	52130
+#	64941
+#	81848
+#	100185
+#	120865
+#	132613
+#
+# Disc length: 2003 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6507d108
+DTITLE=Ricardo Rey y Bobby Cruz - En Fiesta Navidena LE
+DYEAR=1965
+DGENRE=Salsa
+TTITLE0=Bella es la Navidad
+TTITLE1=Mirame
+TTITLE2=Seis chorreao
+TTITLE3=Esta Navidad
+TTITLE4=Mosaico a lo Richie
+TTITLE5=Colorin Colorado
+TTITLE6=Monte Adentro
+TTITLE7=El Ciimarron
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

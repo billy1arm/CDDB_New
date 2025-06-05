@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23074
+#	43073
+#	65158
+#	82283
+#	98018
+#	116669
+#	129036
+#
+# Disc length: 2030 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6707ec08
+DTITLE=Souad Massi - Paris
+DYEAR=2005
+DGENRE=Blues
+TTITLE0=Paris (avec Marc Lavoine)
+TTITLE1=Awham
+TTITLE2=Lamen
+TTITLE3=Enta Dari
+TTITLE4=Matebkiche
+TTITLE5=Tant pis pour moi (nouvelle version)
+TTITLE6=Passe le temps
+TTITLE7=Beb el Madhi
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21735
+#	47032
+#	70702
+#	92904
+#	115202
+#	142945
+#	165162
+#
+# Disc length: 2495 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6509bd08
+DTITLE=Grupo Niche - Señales de Humo
+DYEAR=1998
+DGENRE=Salsa
+TTITLE0=Batalla de Flores
+TTITLE1=No muero mañana
+TTITLE2=Mujer de Novela
+TTITLE3=Me siento mal
+TTITLE4=Que ironía
+TTITLE5=Rezo a María
+TTITLE6=Busco
+TTITLE7=Señales de Humo
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

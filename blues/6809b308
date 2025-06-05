@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35571
+#	40204
+#	74013
+#	79610
+#	94211
+#	111227
+#	121738
+#
+# Disc length: 2485 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.94
+#
+DISCID=6809b308
+DTITLE=Chick Corea - Return To Forever - Where Have I Known You Before
+DYEAR=1974
+DGENRE=Jazz
+TTITLE0=Vulcan Worlds
+TTITLE1=Where Have I Loved You Before
+TTITLE2=The Shadow Of Lo
+TTITLE3=Where Have I Danced With You Before
+TTITLE4=Beyond The Seventh Galaxy
+TTITLE5=Earth Juice
+TTITLE6=Where Have I Known You Before
+TTITLE7=Song To The Pharaoh Kings
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

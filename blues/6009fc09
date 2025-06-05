@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	20377
+#	43075
+#	64000
+#	84705
+#	99175
+#	129297
+#	150577
+#	167472
+#
+# Disc length: 2558 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Kat CD Ripper 
+#
+DISCID=6009fc09
+DTITLE=Mayumi - Garden In The Sky
+DYEAR=1991
+DGENRE=New Age
+TTITLE0=Dancing Doll
+TTITLE1=Elysian Fields
+TTITLE2=My Sky
+TTITLE3=Butterfly
+TTITLE4=Sea Breeze
+TTITLE5=Tahoe
+TTITLE6=Water Nymph
+TTITLE7=Garden In The Sky
+TTITLE8=To Heaven
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22553
+#	41804
+#	58631
+#	78179
+#	105567
+#	126114
+#	146185
+#	166649
+#
+# Disc length: 2469 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6709a309
+DTITLE=David T.Walker - On Love
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=On Love
+TTITLE1=I Wish You Love
+TTITLE2=Lovin' You
+TTITLE3=Our Lives
+TTITLE4=Windows Of The World
+TTITLE5=Feeling Feeling
+TTITLE6=Kinda Sorta
+TTITLE7=Let Me In Your Life
+TTITLE8=I Get High On You
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

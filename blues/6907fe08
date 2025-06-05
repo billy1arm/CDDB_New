@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19642
+#	35872
+#	52561
+#	67829
+#	87724
+#	110370
+#	127444
+#
+# Disc length: 2048 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6907fe08
+DTITLE=Helen Schneider - Like A Woman
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=01-Born In Time
+TTITLE1=02-I Caught The Blues
+TTITLE2=03-Natural Woman
+TTITLE3=04-Such A Night
+TTITLE4=05-If Loving You Is Wrong
+TTITLE5=06-Bang The Drum Slowly
+TTITLE6=07-House Where Nobody Lives
+TTITLE7=08-Just Like A Woman
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

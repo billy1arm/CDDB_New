@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23597
+#	39217
+#	65217
+#	82880
+#	100500
+#	120802
+#	139480
+#	154900
+#
+# Disc length: 2301 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6508fb09
+DTITLE=Alain Chamfort - Amour Année Zéro
+DYEAR=1981
+DGENRE=Chanson française
+TTITLE0=Bambou
+TTITLE1=Poupée, poupée
+TTITLE2=Chasseur d'ivoire
+TTITLE3=Amour année zéro
+TTITLE4=Jet society
+TTITLE5=Paradis
+TTITLE6=Malaise en Malaisie
+TTITLE7=Laide, jolie laide
+TTITLE8=Baby boum
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

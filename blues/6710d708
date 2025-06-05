@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42507
+#	82795
+#	129638
+#	167163
+#	207132
+#	244258
+#	294751
+#
+# Disc length: 4313 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6710d708
+DTITLE=Paul Desmond Quartet - Live at Bourbon Street
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Emily
+TTITLE1=I Wish I Knew
+TTITLE2=I've Got You Under My Skin
+TTITLE3=Audrey
+TTITLE4=Just Squeeze me
+TTITLE5=Line For Lyons
+TTITLE6=Wendy
+TTITLE7=Take Five
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

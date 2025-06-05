@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18937
+#	34711
+#	43183
+#	59468
+#	73217
+#	92484
+#	105974
+#
+# Disc length: 1736 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6106c608
+DTITLE=The Blues Brothers - Briefcase Full of Blues
+DYEAR=1978
+DGENRE=Blues
+TTITLE0="B" Movie Box Car Blues
+TTITLE1=Soul Man
+TTITLE2=Opening: I Can't Turn You Loose
+TTITLE3=Messin' With the Kid
+TTITLE4=Hey Bartender
+TTITLE5=I Don't Know
+TTITLE6=Rubber Biscuit
+TTITLE7=Shot Gun Blues
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

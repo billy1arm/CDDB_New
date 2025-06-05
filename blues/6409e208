@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16050
+#	37200
+#	59550
+#	78225
+#	104325
+#	124500
+#	155850
+#
+# Disc length: 2532 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6409e208
+DTITLE=Maynard Ferguson - M.F. Horn Two
+DYEAR=1972
+DGENRE=Jazz
+TTITLE0=Give It One
+TTITLE1=Country Road
+TTITLE2=Theme From "Shaft"
+TTITLE3=Theme From "Summer of '42"
+TTITLE4=Mother
+TTITLE5=Spinning Wheel
+TTITLE6=Free Wheeler
+TTITLE7=Hey Jude
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

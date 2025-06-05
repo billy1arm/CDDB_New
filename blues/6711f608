@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	70676
+#	120978
+#	171685
+#	207232
+#	249825
+#	270406
+#	301280
+#
+# Disc length: 4600 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6711f608
+DTITLE=Beethoven - Transcriptions de Liszt des Symphonies N°7 and 8  (Idil Biret, piano)
+DYEAR=1986
+DGENRE=Piano
+TTITLE0=Symphony N°7 in A major, Op.92 - I. Poco sostenuto - Vivace
+TTITLE1=Symphony N°7 in A major, Op.92 - II. Allegretto
+TTITLE2=Symphony N°7 in A major, Op.92 - III. Presto
+TTITLE3=Symphony N°7 in A major, Op.92 - IV. Allegro con brio
+TTITLE4=Symphony N°8 in F major, Op.93 - I. Allegro vivace e con brio
+TTITLE5=Symphony N°8 in F major, Op.93 - II. Alegretto scherzanto
+TTITLE6=Symphony N°8 in F major, Op.93 - III. Tempo di menuetto
+TTITLE7=Symphony N°8 in F major, Op.93 - IV. Allegro vivace
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

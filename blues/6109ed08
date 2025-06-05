@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32577
+#	64039
+#	89807
+#	113614
+#	135707
+#	154500
+#	173802
+#
+# Disc length: 2543 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6109ed08
+DTITLE=La Solucion - Los Homenajes
+DYEAR=2004
+DGENRE=Salsa
+TTITLE0=Homenaje al Gran Combo
+TTITLE1=Homenaje a Oscar de Leon
+TTITLE2=Homenaje al Grupo Niche
+TTITLE3=Homenaje Gilberto Santa Rosa
+TTITLE4=La Salsa del Pueblo
+TTITLE5=Tributo a Otto Vargas
+TTITLE6=Tributo a Paco Navarrete
+TTITLE7=Tributo a la Sonora Dinamita
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

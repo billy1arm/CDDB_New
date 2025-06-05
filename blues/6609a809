@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23374
+#	32785
+#	64596
+#	92045
+#	122315
+#	141718
+#	162282
+#	180036
+#
+# Disc length: 2474 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6609a809
+DTITLE=Stan Webb's Chicken Shack - Roadies Concert
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Tell Me
+TTITLE1=Why I Sing The Blues
+TTITLE2=Back Door Man
+TTITLE3=Black Night
+TTITLE4=So Far Back
+TTITLE5=The End (Prisioner)
+TTITLE6=Poor Boy
+TTITLE7=Shake Your Money Maker
+TTITLE8=Hideaway
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

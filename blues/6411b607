@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	67341
+#	91711
+#	155546
+#	208538
+#	289916
+#	313772
+#
+# Disc length: 4536 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6411b607
+DTITLE=Colette Portelance - La guérison intérieure - CD1
+DYEAR=2007
+DGENRE=New Age
+TTITLE0=Avant-propos
+TTITLE1=Introduction
+TTITLE2=La souffrance physique
+TTITLE3=La souffrance psychique
+TTITLE4=La souffrance psychique en lien avec le corps
+TTITLE5=La souffrance psychique en lien avec le coeur
+TTITLE6=La souffrance psychique en lien avec l'âme
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53799
+#	105609
+#	155441
+#	157431
+#	233337
+#	262958
+#	294541
+#
+# Disc length: 4345 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=6610f708
+DTITLE=Jimmy Smith - Cool Blues
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Groovin' At Small's
+TTITLE1=Dark Eyes
+TTITLE2=Cool Blues
+TTITLE3=Announcement By Babs Gonzales
+TTITLE4=A Night In Tunisia
+TTITLE5=What's New
+TTITLE6=Small's Minor
+TTITLE7=Once In A While
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

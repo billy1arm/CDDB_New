@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9677
+#	23335
+#	48662
+#	82447
+#	117636
+#	135759
+#	163637
+#
+# Disc length: 2543 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6209ed08
+DTITLE=Florian Weber - Lucent Waters
+DYEAR=2018
+DGENRE=Jazz
+TTITLE0=Brilliant Waters
+TTITLE1=Melody of a Waterfall
+TTITLE2=From Cousteau's Point of View
+TTITLE3=Honestlee
+TTITLE4=Butterfly Effect
+TTITLE5=Time Horizon
+TTITLE6=Fragile Cocoon
+TTITLE7=Schimmelreiter
+EXTD=YEAR: 2018
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19360
+#	37340
+#	47415
+#	62545
+#	72220
+#	79165
+#	91892
+#
+# Disc length: 1524 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6405f208
+DTITLE=アニメ店長 - わくわくドラマCD 兄沢命斗編
+DYEAR=1900
+DGENRE=Anime
+TTITLE0=イメージキャラ候補
+TTITLE1=トレカファイター・メイト
+TTITLE2=同人誌
+TTITLE3=エクソメイト
+TTITLE4=検索エンジン
+TTITLE5=ラミカード
+TTITLE6=カップル
+TTITLE7=最後のアニメ店長
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

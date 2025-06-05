@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25340
+#	46444
+#	69479
+#	91234
+#	110623
+#	136222
+#	160475
+#
+# Disc length: 2473 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6909a708
+DTITLE=Grupo Niche - Sutil y Contundente
+DYEAR=1990
+DGENRE=Salsa
+TTITLE0=Mi Hijo y Yo
+TTITLE1=Atrevida
+TTITLE2=El Movimiento de la Salsa
+TTITLE3=Amor Amor
+TTITLE4=Bar y Copas
+TTITLE5=Entrega
+TTITLE6=Miserable
+TTITLE7=Te Enseñaré a Olvidar
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

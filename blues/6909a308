@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24352
+#	50610
+#	77715
+#	105122
+#	125942
+#	149470
+#	168725
+#
+# Disc length: 2469 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6909a308
+DTITLE=UA - Breathe
+DYEAR=2005
+DGENRE=Rock
+TTITLE0=The color of empty sky
+TTITLE1=Michi
+TTITLE2=Niji
+TTITLE3=Moss stares
+TTITLE4=Beacon
+TTITLE5=Tasogare
+TTITLE6=Like a soldier ant
+TTITLE7=Mori
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19008
+#	35248
+#	45856
+#	67100
+#	79763
+#	92292
+#	105686
+#	114891
+#
+# Disc length: 1762 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6406e009
+DTITLE=Harry James and His Big Band - The King James Version
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Corner Pocket
+TTITLE1=Lara's Theme
+TTITLE2=Cherokee
+TTITLE3=More Splutie, Please
+TTITLE4=Traces
+TTITLE5=Don't Be That Way
+TTITLE6=Sweet Georgia Brown
+TTITLE7=Shiny Silk Stockings
+TTITLE8=Blues Stay Away From Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

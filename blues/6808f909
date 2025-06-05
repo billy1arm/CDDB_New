@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20494
+#	36420
+#	56409
+#	78277
+#	98909
+#	115107
+#	133014
+#	153111
+#
+# Disc length: 2299 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6808f909
+DTITLE=Elvis Crespo - Suavemente
+DYEAR=1900
+DGENRE=Salsa
+TTITLE0=Suavemente
+TTITLE1=Nuestra Cancion
+TTITLE2=Luna Llena
+TTITLE3=Princesita
+TTITLE4=Tu Sonrisa
+TTITLE5=Yo Me Morire
+TTITLE6=Lllorando
+TTITLE7=Porque
+TTITLE8=Te Vas
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

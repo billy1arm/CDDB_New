@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26875
+#	46492
+#	77596
+#	105342
+#	130583
+#	162713
+#	195784
+#	225835
+#
+# Disc length: 4352 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=6010fe09
+DTITLE=Chick Corea - Song of Singing
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Toy Room
+TTITLE1=Ballad I
+TTITLE2=Rhymes
+TTITLE3=Flesh
+TTITLE4=Ballad III
+TTITLE5=Nefertiti
+TTITLE6=Blues Connotation
+TTITLE7=Ballad II
+TTITLE8=Drone
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23886
+#	38714
+#	53988
+#	73886
+#	91583
+#	123106
+#	138721
+#
+# Disc length: 2032 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6907ee08
+DTITLE=Stan Getz - Standards
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Pennies From Heaven
+TTITLE1=Body And Soul
+TTITLE2=These Foolish Things (Remind Me Of You)
+TTITLE3=It Might As Well Be Spring
+TTITLE4=It Never Entered My Mind
+TTITLE5=Summertime
+TTITLE6=I Didn't Know What Time It Was
+TTITLE7=The Way You Look Tonight
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

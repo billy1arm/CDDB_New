@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15285
+#	37077
+#	74899
+#	99750
+#	148265
+#	170109
+#
+# Disc length: 2501 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6209c307
+DTITLE=UMO Jazz Orchestra - Concert projects
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Umori (Kuumotus - Fever) 
+TTITLE1=Bussi
+TTITLE2=Olavi-valssi
+TTITLE3=En mä tullut niin kuin ennen
+TTITLE4=Sinfonia Concertante (part IV)
+TTITLE5=Simeoni (short version)
+TTITLE6=Tunnelmassa
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

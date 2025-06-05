@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51275
+#	105170
+#	135075
+#	161450
+#	198930
+#	262440
+#	293297
+#
+# Disc length: 4586 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6311e808
+DTITLE=Beethoven - Transcriptions de Liszt des Symphonies N°4 and 5  (Idil Biret, piano)
+DYEAR=1985
+DGENRE=Piano
+TTITLE0=Symphony N°4 in B flat major, Op.60 - I. Adagio - Allegro vivace
+TTITLE1=Symphony N°4 in B flat major, Op.60 - II. Adagio
+TTITLE2=Symphony N°4 in B flat major, Op.60 - III. Allegro vivace
+TTITLE3=Symphony N°4 in B flat major, Op.60 - IV. Allegro, ma non troppo
+TTITLE4=Symphony N°5 in C minor, Op.67 - I. Allegro con brio
+TTITLE5=Symphony N°5 in C minor, Op.67 - II. Andante con moto
+TTITLE6=Symphony N°5 in C minor, Op.67 - III. Allegro - 
+TTITLE7=Symphony N°5 in C minor, Op.67 - IV. Allegro
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

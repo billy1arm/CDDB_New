@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19745
+#	36525
+#	47540
+#	63625
+#	83162
+#	87302
+#	107422
+#
+# Disc length: 1698 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6006a008
+DTITLE=Melting Holidays - pop gp the happy tune
+DYEAR=2005
+DGENRE=J-Pop
+TTITLE0=Pavement
+TTITLE1=Kiss your shadow
+TTITLE2=Butterfly dance
+TTITLE3=Memories of my love
+TTITLE4=Northern express
+TTITLE5=The first step in new party
+TTITLE6=Ladybug
+TTITLE7=A can fly
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

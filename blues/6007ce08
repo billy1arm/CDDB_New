@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19069
+#	32950
+#	49396
+#	69203
+#	81658
+#	105193
+#	123055
+#
+# Disc length: 2000 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6007ce08
+DTITLE=The Incredible Jimmy Smith - Christmas '64 - (rip from original vinyl)
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=God Rest Ye Merry Gentlemen
+TTITLE1=Jingle Bells
+TTITLE2=We Three Kings
+TTITLE3=The Christmas Song
+TTITLE4=White Christmas
+TTITLE5=Santa Claus Is Comin' To Town
+TTITLE6=Silent Night
+TTITLE7=God Rest Ye Marry Gentlemen
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

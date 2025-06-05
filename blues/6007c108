@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18118
+#	36066
+#	53333
+#	73655
+#	101223
+#	114686
+#	131268
+#
+# Disc length: 1987 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6007c108
+DTITLE=Baby Lopez Furst Trio - Jazz en la Universidad
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Hombre amaestrado
+TTITLE1=En tu dulce modo
+TTITLE2=Stella a la luz de las estrellas
+TTITLE3=Un poco alegre
+TTITLE4=No es necesariamente así
+TTITLE5=Necesitaré alguien más
+TTITLE6=Hermoso amor
+TTITLE7=Podría sucederte a ti
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

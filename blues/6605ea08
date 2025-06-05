@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14287
+#	27065
+#	41207
+#	55888
+#	72918
+#	88297
+#	102902
+#
+# Disc length: 1516 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6605ea08
+DTITLE=Peggy Lee - DAISO Female Singers Collection 5
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=At The Cafe Rendezvous
+TTITLE1=Caranba It's The Sanba
+TTITLE2=Everything I Love
+TTITLE3=Keep Me In Mind
+TTITLE4=My Little Cousin
+TTITLE5=Not A Care in The World
+TTITLE6=On The Sunny Side Of The Street
+TTITLE7=Once Around The Moon
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

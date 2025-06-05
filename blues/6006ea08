@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34672
+#	41532
+#	67507
+#	70912
+#	95512
+#	103687
+#	107835
+#
+# Disc length: 1772 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6006ea08
+DTITLE=Los Jaritz - Viva Cuba
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Cuba Roja
+TTITLE1=Guaguanoo de cuba roja
+TTITLE2=Cancion de la solaridad
+TTITLE3=Me fevor revolucinonaro
+TTITLE4=Homenaje a Fidel
+TTITLE5=Ca ca de la isla roja
+TTITLE6=Congas rojas
+TTITLE7=Tema del Che
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=
