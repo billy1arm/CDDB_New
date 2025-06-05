@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17071
+#	33745
+#	48956
+#	79654
+#	101657
+#	118021
+#	134509
+#
+# Disc length: 2108 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=66083a08
+DTITLE=Le sac à notes - Just for fun
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=C'est si bon
+TTITLE1=That Warm Feeling
+TTITLE2=Jumpin' at The Woodside
+TTITLE3=Saint Louis Blues
+TTITLE4=Watermelon Man
+TTITLE5=Just a Gigolo
+TTITLE6=The Pink Panther
+TTITLE7=Tuxedo Junction
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

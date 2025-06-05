@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17425
+#     34385
+#     47989
+#     68420
+#     85242
+#     104710
+#     121070
+# 
+# Disc length: 1857 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=62073f08
+DTITLE=Jamestown - Handful of Sand
+DYEAR=1900
+DGENRE=
+TTITLE0=fall down
+TTITLE1=sad story
+TTITLE2=in tongues
+TTITLE3=who do you run to
+TTITLE4=easier to jump
+TTITLE5=roanoke
+TTITLE6=make me laugh
+TTITLE7=wishing
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

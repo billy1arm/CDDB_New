@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	109342
+#	151025
+#	166374
+#	197401
+#	232801
+#	259999
+#	289922
+#
+# Disc length: 4112 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=64100e08
+DTITLE=Schubert - Sviatoslav Richter  [Vol.4-5]  Sonatas D.960, D.575
+DYEAR=1900
+DGENRE=Piano
+TTITLE0=Piano Sonata in B flat major, N°21 D.960 - 1. Molto moderato  {1961}
+TTITLE1=Piano Sonata in B flat major, N°21 D.960 - 2. Andante sostenuto
+TTITLE2=Piano Sonata in B flat major, N°21 D.960 - 3. Scherzo, allegro vivace con delicatezza
+TTITLE3=Piano Sonata in B flat major, N°21 D.960 - 4. Allegro ma non troppo
+TTITLE4=Piano Sonata in B major, N°9 D.575  (Op.147) - 1. Allegro ma non troppo  {1965}
+TTITLE5=Piano Sonata in B major, N°9 D.575  (Op.147) - 2. Andante
+TTITLE6=Piano Sonata in B major, N°9 D.575  (Op.147) - 3. Scherzo, allegretto
+TTITLE7=Piano Sonata in B major, N°9 D.575  (Op.147) - 4. Allegro giusto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19375
+#	33801
+#	46772
+#	62443
+#	78315
+#	97244
+#	111581
+#
+# Disc length: 1679 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=61068d08
+DTITLE=Joe Puma - East Coast Jazz Series No.3
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Loris
+TTITLE1=A Little Rainy
+TTITLE2=What Is There To Say
+TTITLE3=Hallelujah
+TTITLE4=How About You?
+TTITLE5=Pumatic
+TTITLE6=Liza
+TTITLE7=Moon Song (That Wasn't For Me)
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

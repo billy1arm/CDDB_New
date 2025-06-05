@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20290
+#	38090
+#	50908
+#	66234
+#	86179
+#	106020
+#	122345
+#
+# Disc length: 1870 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta5
+#
+DISCID=62074c08
+DTITLE=The Amoreys - Tasty Frieze
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=The Wilder
+TTITLE1=Hot Sauce
+TTITLE2=Puffed Away
+TTITLE3=Ticky-Tockin'
+TTITLE4=Chemical Valley
+TTITLE5=Okay Day
+TTITLE6=Take it From Me
+TTITLE7=Shaka Lives
+EXTD=YEAR: 2000 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24284
+#	49357
+#	69853
+#	81742
+#	101677
+#	127213
+#
+# Disc length: 1934 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=60078c07
+DTITLE=Billy Likitsakos - Urban Travelers
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=Billy Likitsakos - Ralos
+TTITLE1=Billy Likitsakos - The Salton Sea
+TTITLE2=Billy Likitsakos - Highway Robbery
+TTITLE3=Billy Likitsakos - Radiant One
+TTITLE4=Billy Likitsakos - Carmen and Lola
+TTITLE5=Billy Likitsakos - As of Yet
+TTITLE6=Billy Likitsakos - Text
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19392
+#	35892
+#	52295
+#	77275
+#	91817
+#	113717
+#	133600
+#
+# Disc length: 2080 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=65081e08
+DTITLE=富樫雅彦 - The Ballad My Favorite
+DYEAR=1981
+DGENRE=Jazz
+TTITLE0=Memories Of You
+TTITLE1=It Never Entered My Mind
+TTITLE2=Shenandoah
+TTITLE3=Nightingale Sang In Berkeley Square
+TTITLE4=Nature Boy
+TTITLE5=Too Young
+TTITLE6=My Ship
+TTITLE7=What Kind Of Fool Am I
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

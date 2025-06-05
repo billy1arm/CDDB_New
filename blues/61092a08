@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	18693
+#	38053
+#	72500
+#	83580
+#	102955
+#	136873
+#	154810
+#
+# Disc length: 2348 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=61092a08
+DTITLE=Ten Years After - Cricklewood Green
+DYEAR=1970
+DGENRE=Rock
+TTITLE0=Sugar The Road
+TTITLE1=Working On The Road
+TTITLE2=50,000 Miles Beneath My Brain
+TTITLE3=Year 3,000 Blues
+TTITLE4=Me And My Baby
+TTITLE5=Love Like A Man
+TTITLE6=Circles
+TTITLE7=As The Sun Still Burns Away
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

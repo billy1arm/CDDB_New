@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16275
+#	29925
+#	46875
+#	76050
+#	92775
+#	113987
+#	145225
+#
+# Disc length: 2160 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=64086e08
+DTITLE=Alexis Korner and Peter Thorup - Snape - Accidentally Born In New Orleans
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Gospel Ship
+TTITLE1=One Scotch, One Bourbon, One Beer
+TTITLE2=Sweet Sympathy
+TTITLE3=Rock Me
+TTITLE4=Don't Change On Me
+TTITLE5=You Got The Power To Turn Me On
+TTITLE6=Lo And Behold
+TTITLE7=Country Shoes
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

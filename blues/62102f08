@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54173
+#	99902
+#	134329
+#	155257
+#	198614
+#	237899
+#	270629
+#
+# Disc length: 4145 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=62102f08
+DTITLE=Johnny Griffin - Live at Minton's CD1
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Light and Lovely
+TTITLE1=Straight No Chaser
+TTITLE2=Woody'n You
+TTITLE3=Bingo Domingo
+TTITLE4=I'll Remember April
+TTITLE5=Billie's Bounce
+TTITLE6=Epistrophy
+TTITLE7=Well You Needn't
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

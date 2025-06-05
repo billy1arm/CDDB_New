@@ -1,0 +1,51 @@
+# xmcd
+# Copyright (c) 1998 CDDB Inc.
+#
+# Track frame offsets:
+#	183
+#	23883
+#	38733
+#	53995
+#	84183
+#	95308
+#	117333
+#	134608
+#	158595
+#
+# Disc length: 2352 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.70
+#
+DISCID=68092e09
+DTITLE=Peps Blodsband - Hög standard
+DYEAR=1900
+DGENRE=
+TTITLE0=Hög Standard
+TTITLE1=Persson Ifrån Stan
+TTITLE2=Upp Eller Ner
+TTITLE3=Styr Den Opp
+TTITLE4=Djupt I Mitt Hjärta
+TTITLE5=Den Grundlurade Generationen
+TTITLE6=En Och Tjugofem
+TTITLE7=Snackelåt
+TTITLE8=Kommunikationskollaps
+EXTD=Peps Persson: sång, gitarr, munspel, perkussion, bakgrundssång\nBrynn Sett
+EXTD=els: orgel, piano, elpiano, clavinet, marimba, stråkmaskin, perkussion,bak
+EXTD=grundssång\nRolf Alm: elbas, dragspel, sång på "En Och Tjugofem", perkussi
+EXTD=on, 	bakgrundssång\n\nGästande vänner:\nBosse Skoglund: trummor, sandpappe
+EXTD=r, perkussion, bakgrundssång\nRoland Keijser: tenorsax, klarinett,perkussi
+EXTD=on\nTorsten Eckerman: trumpet, perkussion\nGöran Weihs: perkussion, bakgru
+EXTD=ndssång\n\nPå "Upp Och Ner" är alla tre stämmorna av Peps\n\nProducerad av
+EXTD=Sam Charters
+EXTT0=(Per-Åke Persson)
+EXTT1=(Anton Persson)
+EXTT2=(Per-Åke Persson)
+EXTT3=(Bob Marley/Per-Åke Persson)
+EXTT4=(Per-Åke Persson)
+EXTT5=(Per-Åke Persson)
+EXTT6=(Rolf Alm)
+EXTT7=(C. Barrett/L. Coghill/Per-Åke Persson)
+EXTT8=(Per-Åke Persson)
+PLAYORDER=

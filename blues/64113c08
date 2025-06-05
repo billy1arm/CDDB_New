@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41512
+#	100517
+#	130482
+#	166267
+#	213955
+#	247972
+#	288207
+#
+# Disc length: 4414 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=64113c08
+DTITLE=Chris Cheek - Vine
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=So It Seems
+TTITLE1=The Wing Key
+TTITLE2=Vine
+TTITLE3=Ice Fall
+TTITLE4=Granada
+TTITLE5=Reno
+TTITLE6=What's Left
+TTITLE7=Not A Samba
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

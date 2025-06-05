@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14274
+#	38762
+#	67008
+#	89429
+#	104493
+#	122485
+#	144227
+#
+# Disc length: 2368 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=65093e08
+DTITLE=Coleman Hawkins  [1904-1969] - The Essential Coleman Hawkins  [Verve - 1959]
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0='There's a small Hotel'  (Richard Rodgers - Lorentz Hart)
+TTITLE1='Sunday'  (Conn - Miller - Krueger - Styne)
+TTITLE2='Body and Soul'  (Green - Sour - Heyman - Eyton)
+TTITLE3='Hanid'  (Hawkins)
+TTITLE4='Picasso'  (Hawkins)
+TTITLE5='How long has this been going on?'  (Ira and George Gershwin)
+TTITLE6='In a mellow tone'  (Ellington)
+TTITLE7='The Walker'  (Hawkins - Eldridge)
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

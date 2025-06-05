@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20150
+#	35432
+#	61915
+#	78027
+#	104162
+#	125347
+#	140452
+#
+# Disc length: 2111 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=68083d08
+DTITLE=Lightnin' Hopkins - Goin' Away
+DYEAR=1963
+DGENRE=Blues
+TTITLE0=Wake Up Old Lady
+TTITLE1=Don't Embarrass Me, Baby
+TTITLE2=Stranger Here
+TTITLE3=Little Sister's Boogie
+TTITLE4=Goin' Away
+TTITLE5=You Better Stop Her
+TTITLE6=Business You're Doin'
+TTITLE7=I'm Wit' It
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

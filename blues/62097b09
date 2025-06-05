@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17220
+#	39996
+#	57394
+#	78772
+#	93337
+#	113383
+#	132348
+#	153414
+#
+# Disc length: 2429 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=62097b09
+DTITLE=Depeche Mode - Some Great Reward
+DYEAR=1984
+DGENRE=Alternative
+TTITLE0=Something To Do
+TTITLE1=Lie To Me
+TTITLE2=People Are People
+TTITLE3=It Doesn't Matter
+TTITLE4=Stories Of Old
+TTITLE5=Somebody
+TTITLE6=Master And Servant
+TTITLE7=If You Want
+TTITLE8=Blasphemous Rumours
+EXTD=YEAR: 1984
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

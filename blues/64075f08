@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20125
+#	40232
+#	54255
+#	69480
+#	91540
+#	106295
+#	125117
+#
+# Disc length: 1889 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=64075f08
+DTITLE=Candido - Candido Y Las Super Estrellas
+DYEAR=1900
+DGENRE=Salsa
+TTITLE0=La Yuca De Catalina
+TTITLE1=Rincon Caliente
+TTITLE2=Falsedad
+TTITLE3=Por Delante No
+TTITLE4=Me Dijo Que Si
+TTITLE5=Acuerdate De Mi
+TTITLE6=La Vida Es Un Sueño
+TTITLE7=Mulence
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

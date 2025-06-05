@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16080
+#	29922
+#	56004
+#	90407
+#	105853
+#	130637
+#	142280
+#
+# Disc length: 2192 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=63088e08
+DTITLE=The Nightporters - Feelin' Good
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Mellow down easy
+TTITLE1=Let'er Roll
+TTITLE2=Feelin' Good
+TTITLE3=Hip Shake
+TTITLE4=Blue and Lonesome
+TTITLE5=Rollin' and Tumblin'
+TTITLE6=Certainly all
+TTITLE7=Love in vain
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

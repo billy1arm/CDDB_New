@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21200
+#	42745
+#	57403
+#	77459
+#	89134
+#	106174
+#	121354
+#
+# Disc length: 1839 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=67072d08
+DTITLE=Helene Fischer - Herzbeben
+DYEAR=2017
+DGENRE=Schlager
+TTITLE0=Herzbeben - Extended Mix
+TTITLE1=Herzbeben - Afrojack Remix
+TTITLE2=Herzbeben - Arash Extensive Remix
+TTITLE3=Herzbeben - Scotty Remix
+TTITLE4=Herzbeben - Anstandslos and Durchgeknallt Remix
+TTITLE5=Herzbeben - Swanky Tunes and Going Deeper Remix
+TTITLE6=Herzbeben - Vitalize Remix
+TTITLE7=Herzbeben - Rico Bernasconi Remix
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	173072
+#	210057
+#	219997
+#	235822
+#	269272
+#	292717
+#	306592
+#
+# Disc length: 4220 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=67107a08
+DTITLE=Jarrett, Keith - Paris Concert
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Paris Concert 17. Oktober 1988
+TTITLE1=Schostakowitsch - Präludien und Fugen op 87 - Nr. 1 C-Dur
+TTITLE2=Schostakowitsch ... - Nr. 2 a-moll
+TTITLE3=Schostakowitsch ... - Nr 3 G-Dur
+TTITLE4=Schostakowitsch ... - Nr. 4 e-moll
+TTITLE5=J.S. Bach - Das wohltemp. Klavier - Nr. 7 Es-Dur BWV 852
+TTITLE6=J.S. Bach - Das wohltemp. Klavier - Nr. 5 D-Dur BWV 850
+TTITLE7=J.S. Bach - Das wohltemp. Klavier - Nr. 9 E-Dur BWV 854
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=
