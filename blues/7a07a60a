@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14407
+#     26540
+#     40527
+#     53282
+#     73865
+#     86397
+#     97140
+#     112012
+#     129577
+# 
+# Disc length: 1960 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7a07a60a
+DTITLE=Roger Whittaker - All About Love
+DYEAR=1900
+DGENRE=
+TTITLE0=Good Old Love
+TTITLE1=But She Loves Me
+TTITLE2=I'd Fall In Love Tonight
+TTITLE3=Have I Told You Lately That I Love You
+TTITLE4=For I Loved You
+TTITLE5=Somewhere My Love
+TTITLE6=I Can't Help It
+TTITLE7=True Love
+TTITLE8=A Little Love
+TTITLE9=Love Still Means You To Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

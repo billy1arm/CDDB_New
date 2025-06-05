@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31018
+#	80022
+#	123959
+#	186934
+#	215123
+#	266660
+#	276958
+#
+# Disc length: 3963 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=740f7908
+DTITLE=NDR Big Band - Coburger
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Auf Loch
+TTITLE1=Ballada Boss
+TTITLE2=Kluft
+TTITLE3=Taste Of A Peach
+TTITLE4=Keimzelle
+TTITLE5=On The Dark Side
+TTITLE6=Auf Loch (Radio Edit)
+TTITLE7=Kluft (Radio Edit)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

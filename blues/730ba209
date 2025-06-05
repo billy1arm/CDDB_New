@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	12499
+#	37336
+#	62815
+#	86406
+#	107626
+#	132821
+#	157778
+#	183722
+#
+# Disc length: 2980 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.00
+#
+DISCID=730ba209
+DTITLE=Martin Speake - In Our Time
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Understatement
+TTITLE1=Hidden Vision
+TTITLE2=Twisted Tungo
+TTITLE3=Sugarloaf
+TTITLE4=Benjamin
+TTITLE5=Blackwell
+TTITLE6=Trust
+TTITLE7=Spring Dance
+TTITLE8=Intention
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

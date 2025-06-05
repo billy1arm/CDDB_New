@@ -1,0 +1,46 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 16800
+# 31075
+# 51537
+# 72537
+# 93225
+# 108525
+# 128125
+# 151012
+# 169137
+#
+# Disc length: 2466 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.3.331
+#
+DISCID=7c09a00a
+DTITLE=Bauer, Garn and Dyke - Sturmfrei
+DYEAR=1900
+DGENRE=
+TTITLE0=Laubfrosch Blues
+TTITLE1=Sturmfrei
+TTITLE2=Lock n Loll
+TTITLE3=Ich hau ab
+TTITLE4=Sibirien Bär
+TTITLE5=Guitar Man
+TTITLE6=Da ha ick Bock druff
+TTITLE7=Haltestellen Blues
+TTITLE8=Billie
+TTITLE9=Ich hab Lust, Baby
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

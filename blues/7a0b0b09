@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27090
+#	40163
+#	64656
+#	96811
+#	109974
+#	129574
+#	148700
+#	174637
+#
+# Disc length: 2829 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7a0b0b09
+DTITLE=Tomo Fujita - Pure
+DYEAR=2010
+DGENRE=Blues
+TTITLE0=Kyoto
+TTITLE1=Boy Back Home
+TTITLE2=That Girl
+TTITLE3=Crossing
+TTITLE4=Tiny Tapper
+TTITLE5=Midnight Walk
+TTITLE6=The Good Life
+TTITLE7=Driving in Texas
+TTITLE8=Through the Pain
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

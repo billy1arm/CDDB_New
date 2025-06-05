@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25555
+#	58992
+#	91006
+#	113923
+#	140680
+#	177357
+#	214885
+#	251511
+#
+# Disc length: 3682 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7b0e6009
+DTITLE=Ben Wendel - Frame
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Chorale
+TTITLE1=Clayland
+TTITLE2=Con Alma
+TTITLE3=Backbou
+TTITLE4=Jean and Renata
+TTITLE5=Blocks
+TTITLE6=Frame
+TTITLE7=Leaving
+TTITLE8=Julia
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

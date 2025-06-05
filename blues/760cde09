@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25850
+#	41087
+#	60087
+#	109025
+#	131575
+#	162437
+#	195737
+#	230950
+#
+# Disc length: 3296 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760cde09
+DTITLE=Alice Day - Cojazz
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Sometimes I'm Happy
+TTITLE1=Mr. Ugly
+TTITLE2=Never Make Your Move Too Soon
+TTITLE3=The Mascarade Is Over
+TTITLE4=The Man I Love
+TTITLE5=Harbor Bridges
+TTITLE6=What A Wonderful World
+TTITLE7=Black Coffee
+TTITLE8=Milestones
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16167
+#     37045
+#     53975
+#     84620
+#     99900
+#     125657
+#     141977
+#     163672
+#     187737
+# 
+# Disc length: 2696 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7f0a860a
+DTITLE=The Fundamentals - Cadillac Boots
+DYEAR=1900
+DGENRE=
+TTITLE0=Cadillac Boots
+TTITLE1=Black Cat Bone
+TTITLE2=She Caught the Katy and Left Me a Mule to Ride
+TTITLE3=Hiding in Shadows
+TTITLE4=Groove Test
+TTITLE5=The Master (of the Telecaster)
+TTITLE6=Leave Me Alone
+TTITLE7=Opposite Attraction
+TTITLE8=Hush-Hush
+TTITLE9=Farther On Down the Road
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

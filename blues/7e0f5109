@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28087
+#	54478
+#	85787
+#	117451
+#	167037
+#	199257
+#	237723
+#	263889
+#
+# Disc length: 3923 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7e0f5109
+DTITLE=ernstblau - round'n'round
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=round'n'round
+TTITLE1=calypso
+TTITLE2=what if?
+TTITLE3=disturbed
+TTITLE4=der fünfer
+TTITLE5=leaving
+TTITLE6=who chi coo
+TTITLE7=c in s
+TTITLE8=wayne's world
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

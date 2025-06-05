@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37005
+#	61522
+#	101168
+#	145748
+#	179844
+#	211285
+#	224447
+#
+# Disc length: 3246 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a0cac08
+DTITLE=Grachan Moncur III - Exploration
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=exploration
+TTITLE1=monk in wonderland
+TTITLE2=love and hate
+TTITLE3=new africa
+TTITLE4=when?
+TTITLE5=frankenstein
+TTITLE6=excursion
+TTITLE7=sonny's back!
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

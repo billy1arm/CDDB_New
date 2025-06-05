@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41406
+#	66246
+#	93709
+#	133872
+#	163369
+#	179603
+#	229115
+#
+# Disc length: 3425 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=750d5f08
+DTITLE=Mads Vindings Trio - Daddio Don
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Blue In Green
+TTITLE1=Days of Wine and Roses
+TTITLE2=How Deep is The Ocean
+TTITLE3=A Child is Born
+TTITLE4=Daddio Don
+TTITLE5=Seven
+TTITLE6=Squeeze Me
+TTITLE7=You Must Belive in Spring
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

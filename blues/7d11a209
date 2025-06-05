@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     27852
+#     57017
+#     93660
+#     116352
+#     178052
+#     201195
+#     231355
+#     289972
+# 
+# Disc length: 4516 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=7d11a209
+DTITLE=Otis Clay - Soul Man Live In Japan
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Hard Working Woman
+TTITLE1=Here I Am (Come And Take Me)
+TTITLE2=Love Don't Love Nobody
+TTITLE3=A Nickel And A Nail
+TTITLE4=Precious Precious
+TTITLE5=Holding On To A Dying Love
+TTITLE6=His Precious Love
+TTITLE7=Love And Happiness - Soul Man
+TTITLE8=Trying To Live My Life Without You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

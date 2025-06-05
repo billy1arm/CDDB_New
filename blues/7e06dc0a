@@ -1,0 +1,47 @@
+# xmcd
+#
+# Track frame offsets:
+#	182
+#	10245
+#	28695
+#	43402
+#	53660
+#	71647
+#	84555
+#	96300
+#	108000
+#	121222
+#
+# Disc length: 1758
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+# Normalized: r0:DSETVAR1,TDELIM( - ),TSWAP
+#
+DISCID=7e06dc0a
+DTITLE=Various Artist - Best Of The Blues Bolume 3
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Jimmy Reed - Ain't That Lovin' You Baby
+TTITLE1=Lightin' Hopkins - Shining Moon
+TTITLE2=Sonny Terry and Browinie McGhee - Down By The Riverside
+TTITLE3=Muddy Waters - Mean Red Spider
+TTITLE4=John Lee Hooker - House Rent Boogie
+TTITLE5=Memphis Slim - Next Time You See Me
+TTITLE6=Howlin' Wolf - Cause Of It All
+TTITLE7=John Lee Hooker - Whiskey And Women
+TTITLE8=Muddy Waters - I Can't Call Her Sugar
+TTITLE9=Memphis Slim - Misery
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

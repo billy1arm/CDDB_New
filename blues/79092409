@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15114
+#	35218
+#	48890
+#	67792
+#	81464
+#	107905
+#	132694
+#	145921
+#
+# Disc length: 2342 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=79092409
+DTITLE=Eddie Harris - Silver Cycles
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=Free at Last
+TTITLE1=1974 Blues
+TTITLE2=Smoke Signals
+TTITLE3=Coltrane's View
+TTITLE4=I'm Gonna Leave You by Yourself
+TTITLE5=Silver Cycles
+TTITLE6=Little Bit
+TTITLE7=Electric Ballad
+TTITLE8=Infrapolations
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

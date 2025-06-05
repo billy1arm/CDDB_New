@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32261
+#	84904
+#	103405
+#	130572
+#	172486
+#	206114
+#	232033
+#	287668
+#
+# Disc length: 4208 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.78
+#
+DISCID=7c106e09
+DTITLE=Horace Parlan - Seven Classic Albums CD4
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Fugee
+TTITLE1=The other part of town
+TTITLE2=Lonely one
+TTITLE3=Light blue
+TTITLE4=I was doing all right
+TTITLE5=You've changed
+TTITLE6=For regulars only
+TTITLE7=Society red
+TTITLE8=It's you or no one
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

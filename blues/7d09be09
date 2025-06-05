@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20685
+#	40965
+#	63609
+#	86637
+#	106654
+#	127029
+#	148334
+#	175640
+#
+# Disc length: 2496 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7d09be09
+DTITLE=Heinrich Böll - Ansichten eines Clowns
+DYEAR=1982
+DGENRE=Lesung
+TTITLE0=501
+TTITLE1=502
+TTITLE2=503
+TTITLE3=504
+TTITLE4=505
+TTITLE5=506
+TTITLE6=507
+TTITLE7=508
+TTITLE8=509
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

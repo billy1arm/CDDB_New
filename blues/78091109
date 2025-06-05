@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	24295
+# 	44482
+# 	57675
+# 	72840
+# 	93797
+# 	116122
+# 	132940
+# 	156092
+#
+# Disc length: 2323 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=78091109
+DTITLE=Lou Rawls - All Things In Time
+DYEAR=1900
+DGENRE=
+TTITLE0=You're the One
+TTITLE1=You'll Never Find Another Love Like Mine
+TTITLE2=Time
+TTITLE3=Groovy People
+TTITLE4=Need You Forever
+TTITLE5=From Now On
+TTITLE6=Pure Imagination
+TTITLE7=This Song Will Last Forever
+TTITLE8=Let's Fall In Love Again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

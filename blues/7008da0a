@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16935
+#	30865
+#	45677
+#	63155
+#	88865
+#	101585
+#	120120
+#	138605
+#	152015
+#
+# Disc length: 2268 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=7008da0a
+DTITLE=Little Jimmy Reed - School's Out
+DYEAR=1900
+DGENRE=
+TTITLE0=Big Boss Man
+TTITLE1=Alabama's The Place To Be
+TTITLE2=I'm A Fool For You, Baby
+TTITLE3=School Is Out
+TTITLE4=My Little Dog
+TTITLE5=Mumblin' Word
+TTITLE6=I Had A Dream
+TTITLE7=I've Got Love On My Mind
+TTITLE8=Help Me To Spend This Dough
+TTITLE9=Honest I Do
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

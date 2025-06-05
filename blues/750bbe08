@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	34255
+#	66552
+#	93370
+#	117145
+#	134630
+#	153667
+#	191605
+#
+# Disc length: 3009 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=750bbe08
+DTITLE=Various Artist - The Other Side Of Polonia Records vol.1 Chopin
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Nokturn fis-moll op. 48 nr2
+TTITLE1=Polonez Fantazja As-dur op. 6
+TTITLE2=Ballada F-dur
+TTITLE3=Mazurek G op. 24 nr1
+TTITLE4=Preludium e-moll largo nr 4
+TTITLE5=Nokturn
+TTITLE6=Etiuda E-dur op. 10 nr 3
+TTITLE7=Nokturn cis-moll
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

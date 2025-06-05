@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19921
+#	52643
+#	96082
+#	146731
+#	177855
+#	220300
+#	276294
+#	310977
+#
+# Disc length: 4381 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=7d111b09
+DTITLE=Big Al Carson and The Blues Masters - Live At The Funky Pirate Vol 2
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Further On Up The Road
+TTITLE1=Champagne And Reefer
+TTITLE2=Members Only
+TTITLE3=What A Wonderful World
+TTITLE4=Still Call It The Blues
+TTITLE5=Jesus Just Left Chicago
+TTITLE6=For The Good Times
+TTITLE7=Soul Man
+TTITLE8=Mustang Sally
+EXTD=YEAR: 1999 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

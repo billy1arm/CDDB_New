@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25415
+#	41918
+#	66665
+#	93393
+#	110910
+#	132530
+#	142860
+#
+# Disc length: 2365 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7d093b08
+DTITLE=Wes Montgomery - So Much Guitar
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Twisted Blues
+TTITLE1=Cotton Tail
+TTITLE2=I wish I knew
+TTITLE3=I'm just a lucky so and so
+TTITLE4=Repetition
+TTITLE5=Something like Bags
+TTITLE6=While we're young
+TTITLE7=One for my Baby (and more for the road)
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

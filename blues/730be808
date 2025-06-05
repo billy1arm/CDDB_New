@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37668
+#	71983
+#	94439
+#	121280
+#	164054
+#	189167
+#	206919
+#
+# Disc length: 3050 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=730be808
+DTITLE=Dave Brubeck - Teh Magic Kingdom
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Some Day My Prince Will Come
+TTITLE1=Give A Little Whistle
+TTITLE2=One Song 
+TTITLE3=So This is Love
+TTITLE4=Alice In Wonderland
+TTITLE5=Very Good Advice
+TTITLE6=Heigh Ho
+TTITLE7=When You Wish Upon A Star
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20777
+#	35920
+#	52282
+#	65313
+#	86260
+#	104064
+#	126878
+#
+# Disc length: 1904 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=75076e08
+DTITLE=Scuola di Ballo - SALSA e RUMBA
+DYEAR=2005
+DGENRE=Salsa
+TTITLE0=Brano 01
+TTITLE1=Brano 02
+TTITLE2=Brano 03
+TTITLE3=Brano 04
+TTITLE4=Brano 05
+TTITLE5=Brano 06
+TTITLE6=Brano 07
+TTITLE7=Brano 08
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

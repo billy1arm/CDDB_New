@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13347
+#	26547
+#	39145
+#	54030
+#	67410
+#	79990
+#	92855
+#	106332
+#	120022
+#
+# Disc length: 1752 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.2
+#
+DISCID=7506d60a
+DTITLE=Muddy Waters - Rollin' and Tumblin' and other classics
+DYEAR=1900
+DGENRE=
+TTITLE0=She moves me
+TTITLE1=Can't lose what you ain't never had
+TTITLE2=All aboard
+TTITLE3=Baby please don't go
+TTITLE4=I got a rich man's woman
+TTITLE5=Mean mistreater
+TTITLE6=Forty days and forty nights
+TTITLE7=Rollin' and tumblin'
+TTITLE8=I'm ready
+TTITLE9=Goin' home
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

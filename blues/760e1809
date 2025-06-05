@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 34235
+# 62445
+# 99492
+# 122157
+# 157037
+# 174730
+# 210327
+# 254295
+#
+# Disc length: 3610 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=760e1809
+DTITLE=Miquel Brown - Close To Perfection
+DYEAR=1900
+DGENRE=
+TTITLE0=One Hundred Percent
+TTITLE1=Learn The Lines Of Love
+TTITLE2=Close To Perfection
+TTITLE3=White Lace
+TTITLE4=The Easy Way Out
+TTITLE5=Love Reputation
+TTITLE6=Black Leather
+TTITLE7=One Way Street
+TTITLE8=Blind Date
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

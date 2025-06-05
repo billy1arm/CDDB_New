@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12387
+#	26272
+#	38772
+#	52647
+#	62922
+#	74247
+#	85085
+#	100087
+#	113872
+#
+# Disc length: 1674 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7a06880a
+DTITLE=Sonny Terry and Brownie McGhee - Sing The Blues
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=Mean Old Frisco
+TTITLE1=Going Down Slow
+TTITLE2=Sittin' On Top Of The World
+TTITLE3=Crying The Blues
+TTITLE4=Key To The Highway
+TTITLE5=Bulldog Blues
+TTITLE6=Stranger Blues
+TTITLE7=Bad Blood
+TTITLE8=Lightnin's Blues
+TTITLE9=Pawn Shop Blues
+EXTD=YEAR: 1996 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

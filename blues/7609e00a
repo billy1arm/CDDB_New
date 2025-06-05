@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	16482
+#	34850
+#	52795
+#	70080
+#	95495
+#	111310
+#	132262
+#	151197
+#	166765
+#
+# Disc length: 2530 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7609e00a
+DTITLE=Various Artist - huH CD 4
+DYEAR=1900
+DGENRE=
+TTITLE0=Chief Boot Knocka (Sir Mix-A-Lot)
+TTITLE1=Twisting Dank (Duce Duce)
+TTITLE2=To The Death (Dirty Remix) (M.O.P.)
+TTITLE3=Black Coffee (Heavy D and The Boyz)
+TTITLE4=It's Always You (George Lamond)
+TTITLE5=Mix Tapes (The Nonce)
+TTITLE6=No Flow on the Radio (King Just)
+TTITLE7=Dance 4 Me (Christopher Williams)
+TTITLE8=Spam (Milk)
+TTITLE9=How I Love Him (Cynthia)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

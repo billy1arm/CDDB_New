@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29705
+#	55655
+#	74322
+#	91452
+#	120135
+#	144292
+#	186078
+#	242638
+#
+# Disc length: 4097 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=730fff09
+DTITLE=Max Roach - Too Clean
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Gunga Din
+TTITLE1=Webb City
+TTITLE2=Time's up
+TTITLE3=Long as you're living
+TTITLE4=Too Clean
+TTITLE5=Two, Three, One, Oh!
+TTITLE6=Blues for J.P.
+TTITLE7=Kardouba
+TTITLE8=Stop Motion
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

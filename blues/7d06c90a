@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13861
+#	28412
+#	39425
+#	54304
+#	69047
+#	85280
+#	97128
+#	112987
+#	120625
+#
+# Disc length: 1739 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=7d06c90a
+DTITLE=Glenn Miller Orchestra - Kings Of Swing
+DYEAR=2000
+DGENRE=Swing
+TTITLE0=Little Brown Jug
+TTITLE1=Pennsylvania 6-5000
+TTITLE2=Chattanooga Choo Choo
+TTITLE3=In The Mood
+TTITLE4=Sunrise Serenade
+TTITLE5=American Patrol
+TTITLE6=Bugle Call Rag
+TTITLE7=Tuxedo Junction
+TTITLE8=Moonlight Serenade
+TTITLE9=Serenade In Blue
+EXTD=YEAR: 2000 ID3G: 83
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

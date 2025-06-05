@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14161
+#	30266
+#	50740
+#	74521
+#	103090
+#	122410
+#	142186
+#	160631
+#
+# Disc length: 3088 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=7c0c0e09
+DTITLE=Various Artist - Best Of The Blues
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Brown Sugar
+TTITLE1=Directly From My Heart
+TTITLE2=Hello Josephine
+TTITLE3=More Soul
+TTITLE4=Long Hard Journey
+TTITLE5=Night Train
+TTITLE6=Woke Up This Morning
+TTITLE7=Get The Spirit
+TTITLE8=Cherry Jam
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

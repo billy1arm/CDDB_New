@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33791
+#	64234
+#	89730
+#	116959
+#	137374
+#	158763
+#	174557
+#	216814
+#
+# Disc length: 3442 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=7b0d7009
+DTITLE=Nat Janoff and Jake Schwartz - Live
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Spain
+TTITLE1=Spiral
+TTITLE2=Jacob's Latter
+TTITLE3=Source
+TTITLE4=Even If
+TTITLE5=Horizon
+TTITLE6=Jazzgrass
+TTITLE7=Mediterranean Sundance
+TTITLE8=Mercy, Mercy, Mercy
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

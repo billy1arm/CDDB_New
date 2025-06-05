@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12290
+#     24975
+#     37385
+#     48262
+#     59490
+#     71560
+#     87902
+#     97977
+#     107730
+# 
+# Disc length: 1578 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7f06280a
+DTITLE=John Lee Hooker - I'm In The Mood
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm In The Mood
+TTITLE1=Hobo Blues
+TTITLE2=Crawling King Snake
+TTITLE3=No Shoes
+TTITLE4=Boom Boom
+TTITLE5=Whiskey And Wimmen
+TTITLE6=Process
+TTITLE7=Dimples
+TTITLE8=Onions
+TTITLE9=Let's Make It
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

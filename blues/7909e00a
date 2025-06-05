@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	21037
+#	35400
+#	60605
+#	82145
+#	101232
+#	117822
+#	136080
+#	153007
+#	178015
+#
+# Disc length: 2530 seconds
+#
+# Revision: 15
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7909e00a
+DTITLE=U2 - War
+DYEAR=1983
+DGENRE=Rock
+TTITLE0=Sunday Bloody Sunday
+TTITLE1=Seconds
+TTITLE2=New Year's Day
+TTITLE3=Like A Song...
+TTITLE4=Drowning Man
+TTITLE5=The Refugee
+TTITLE6=Two Hearts Beat As One
+TTITLE7=Red Light
+TTITLE8=Surrender
+TTITLE9="40"
+EXTD=\n YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

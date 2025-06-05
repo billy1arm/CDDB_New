@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27492
+#	37317
+#	69150
+#	163507
+#	200852
+#	249300
+#	266857
+#
+# Disc length: 4058 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=750fd808
+DTITLE=Beethoven - Collection
+DYEAR=1996
+DGENRE=Clasica
+TTITLE0=Moonlight Sonata -- Adagio sostenuto
+TTITLE1=Moonlight Sonata -- Allegretto
+TTITLE2=Moonlight Sonata -- Presto Agitatio
+TTITLE3=The Emperor -- Allegro
+TTITLE4=The Emperor -- Adagio un poco mosso
+TTITLE5=The Emperor -- Rondo: Allegro
+TTITLE6=Fur Elise
+TTITLE7=Overture from "Egmont"
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12877
+#     34965
+#     51272
+#     64892
+#     94010
+#     129040
+#     146307
+#     173085
+#     196725
+# 
+# Disc length: 2802 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7c0af00a
+DTITLE=Muddy Waters - I'm ready Live!
+DYEAR=1900
+DGENRE=
+TTITLE0=Baby Please Don't Go
+TTITLE1=Soon Forgotten
+TTITLE2=Corrina, Corrina
+TTITLE3=Hoochie Coochie Man
+TTITLE4=Howlin' Wolf
+TTITLE5=Floyd's Guitar Blues
+TTITLE6=Blow Wind Blow
+TTITLE7=Caldonia
+TTITLE8=Screamin' and Cryin'
+TTITLE9=I Got My Mojo Working
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

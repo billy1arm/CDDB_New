@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6987
+#	27870
+#	51705
+#	70267
+#	89652
+#	110995
+#	130532
+#	151320
+#
+# Disc length: 2269 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7d08db09
+DTITLE=Solar Wind featuring Sean Mason - Grand Tour Alignment
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Grand Tour Alignment
+TTITLE1=Paradise
+TTITLE2=Pacific Strut
+TTITLE3=Summer Day
+TTITLE4=Sun Coast
+TTITLE5=Tropical Wave
+TTITLE6=No Look Pass
+TTITLE7=Gliding Through Passageways
+TTITLE8=Light Speed
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17075
+#	34315
+#	50252
+#	62987
+#	81292
+#	93897
+#	106480
+#	120247
+#	138117
+#	150222
+#
+# Disc length: 2196 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.72
+#
+DISCID=7e08920b
+DTITLE=Muldaur, Maria (USA-73-Maria Muldur-bls) - Maria Muldaur
+DYEAR=1973
+DGENRE=New Age
+TTITLE0=AnyOldTime(JimmieRodgers;1973,MariaMuldaur,AKAMariaD'Amato,NYC)
+TTITLE1=MidnightAtTheOasis(DavidNichtern;1973,MariaMuldaur,AKAMariaD'Amato,NYC)
+TTITLE2=MyTennesseeMountainHome(DollyParton;1973,MariaMuldaur,AKAMariaD'Amato,NYC)
+TTITLE3=INeverDidSingYouALoveSong(DavidNichtern;1973,MariaMuldaur,AKAMariaD'Amato,NYC)
+TTITLE4=WorkSong,The(KatieMcGarrigle;1973,MariaMuldaur,AKAMariaD'Amato,NYC)
+TTITLE5=Don'tYouMakeMeHigh{Don'tYouFeelMyLeg}(LouBarker,JMWilliams,DannyBarker;1973,MariaMuldaur,NYC)
+TTITLE6=Walkin'OneAndOnly(DanHicks;1973,MariaMuldaur,AKAMariaD'Amato,NYC)
+TTITLE7=LongHardClimb(RonDavies;1973,MariaMuldaur,AKAMariaD'Amato,NYC)
+TTITLE8=ThreeDollarBill(MacRebennack,NewOrleans,LA;1973,MariaMuldaur,AKAMariaD'Amato,NYC)
+TTITLE9=VaudevilleMan(WendyWaldman;1973,MariaMuldaur,AKAMariaD'Amato,NYC)
+TTITLE10=Mad,MadMe(WendyWaldman;1973,MariaMuldaur,AKAMariaD'Amato,NYC)
+EXTD=corrected - more info YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

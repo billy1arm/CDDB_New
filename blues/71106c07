@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	36250
+#	83802
+#	119415
+#	172295
+#	209100
+#	282662
+#
+# Disc length: 4206 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=71106c07
+DTITLE=Various Artist - 12 Jazzvisits - 12 Jazzvisits in Copenhagen 1996 [CD1)
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Carmen Lundy with Jorgen Emborg Group - Night and Day
+TTITLE1=Andy Sheppard with Maj-Britt Kramer Group - Ulandsvisen/Third World Song
+TTITLE2=Palle Danielson with Jacob Fischer - Ballad for Lajla
+TTITLE3=Django Bate with Frederik Lundin/Lisbeth Diers - Handful
+TTITLE4=John Abercrombie with Lars Moller Group - Blue Skies in Kamchatka
+TTITLE5=Audun Keive with T.S. Hoeg - Ambience
+TTITLE6=Art Farmer with The Danish Radio Big Bang - Was It You?
+EXTD=YEAR: 1996
+EXTT0=Carmen Lundy with J rgen Emborg Group
+EXTT1=Andy Sheppard with Maj-Britt Kramer Group
+EXTT2=Palle Danielsson with Jacob Fischer
+EXTT3=Django Bates with Frederik Lundin/Lisbeth Diers
+EXTT4=John Abercrombie with Lars M ller Group
+EXTT5=Audun Kleive with T. S. H eg
+EXTT6=Art Farmer with The Danish Radio Big Band
+PLAYORDER=

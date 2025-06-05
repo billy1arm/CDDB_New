@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     31342
+#     48845
+#     62685
+#     86642
+#     99197
+#     116690
+#     131967
+#     145837
+# 
+# Disc length: 2264 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7608d609
+DTITLE=John Lee Hooker - The Real Folk Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Let's Go Out Tonight
+TTITLE1=Peace Lovin Man
+TTITLE2=Stella Mae
+TTITLE3=I Put My Trust In You
+TTITLE4=I'm In The Mood
+TTITLE5=You Know, I Know
+TTITLE6=I'll Never Trust Your Love Again
+TTITLE7=One Bourbon, One Scotch, One Beer
+TTITLE8=The Waterfront
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

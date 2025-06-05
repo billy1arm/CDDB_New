@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20236
+#	48501
+#	65502
+#	89085
+#	103269
+#	125146
+#	152639
+#	180218
+#
+# Disc length: 2644 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7e0a5209
+DTITLE=Frankfurt Jazz Trio - No1
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Johnny Come Lately
+TTITLE1=Mona Lisa
+TTITLE2=While We're Young
+TTITLE3=Where or When
+TTITLE4=I Know That You know
+TTITLE5=C-Jam Blues
+TTITLE6=Moonlight in Vermont
+TTITLE7=A Foggy Day
+TTITLE8=T-Time
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

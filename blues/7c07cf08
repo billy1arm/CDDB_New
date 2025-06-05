@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	28145
+#	43615
+#	57627
+#	74295
+#	95210
+#	111115
+#	133317
+#
+# Disc length: 2001 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7c07cf08
+DTITLE=Fania - Salsa for the Season
+DYEAR=1999
+DGENRE=Salsa
+TTITLE0=Cantemos
+TTITLE1=Bomba en Navidad
+TTITLE2=La noche del 24
+TTITLE3=Tan bueno que era
+TTITLE4=A Dios y los Santos
+TTITLE5=Ya viene la Navidad
+TTITLE6=Abre la puerta
+TTITLE7=Llegó la Navidad
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

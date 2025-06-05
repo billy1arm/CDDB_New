@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23945
+#	43933
+#	64850
+#	84457
+#	104089
+#	119100
+#	138667
+#
+# Disc length: 2120 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7b084608
+DTITLE=Kenny Burrell - A Night At The Vanguard
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=All Night Long
+TTITLE1=Will You Still Be Mine
+TTITLE2=I'm A Fool To Want You
+TTITLE3=Trio
+TTITLE4=Broadway
+TTITLE5=Soft Winds
+TTITLE6=Just A-Sittin' And A-Rockin'
+TTITLE7=Well, You Needn't
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

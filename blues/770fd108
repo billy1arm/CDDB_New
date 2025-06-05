@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43605
+#	73745
+#	133410
+#	163355
+#	210525
+#	250540
+#	267120
+#
+# Disc length: 4051 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=770fd108
+DTITLE=Various Artist - Beethoven and Schubert - Piano Trios  (A.Cortot, piano - J.Thibaud, violin -  P.Casals, cello)
+DYEAR=1926
+DGENRE=Classique
+TTITLE0=Beethoven - Piano Trio in B flat major Op.97 ''Archduke'' - I. Allegro moderato  [rec.1926]
+TTITLE1=Beethoven - Piano Trio in B flat major Op.97 ''Archduke'' - II. Scherzo, allegro
+TTITLE2=Beethoven - Piano Trio in B flat major Op.97 ''Archduke'' - III. Andante cantabile ma pero moto
+TTITLE3=Beethoven - Piano Trio in B flat major Op.97 ''Archduke'' - IV. Allegro moderato
+TTITLE4=Schubert - Piano Trio N°1 in B flat major D898 - I. Allegro moderato
+TTITLE5=Schubert - Piano Trio N°1 in B flat major D898 - II. Andante un poco mosso
+TTITLE6=Schubert - Piano Trio N°1 in B flat major D898 - III. Scherzo, allegro
+TTITLE7=Schubert - Piano Trio N°1 in B flat major D898 - IV. Rondo, allegro vivace 
+EXTD=YEAR: 1926
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

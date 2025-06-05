@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22485
+#	42125
+#	63760
+#	94268
+#	115235
+#	138023
+#	163440
+#	182265
+#
+# Disc length: 2814 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,43,1226
+#
+DISCID=750afc09
+DTITLE=Paul Scherer - Between The Lines
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Program 1 - Mananita
+TTITLE1=Program 2 - Serengeti
+TTITLE2=Program 3 - Reflections
+TTITLE3=Program 4 - Between The Lines
+TTITLE4=Program 5 - What You Didn't Say
+TTITLE5=Program 6 - Silver Lining
+TTITLE6=Program 7 - First Snow
+TTITLE7=Program 8 - The Sorcerer
+TTITLE8=Program 9 - A New Page
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

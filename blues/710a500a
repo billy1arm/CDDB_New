@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20722
+#	38775
+#	56897
+#	76140
+#	99995
+#	120770
+#	138865
+#	156907
+#	176310
+#
+# Disc length: 2642 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta5
+#
+DISCID=710a500a
+DTITLE=陳曉東 - 心有獨鍾
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=心有獨鍾 (國)
+TTITLE1=妳懂就好 (國)
+TTITLE2=一秒鐘都太久 (國)
+TTITLE3=心理遊戲 (國)
+TTITLE4=愛妳‧躲妳 (國)
+TTITLE5=猜猜猜 (國)
+TTITLE6=意亂情迷 (國)
+TTITLE7=深情的眼睛 (國)
+TTITLE8=實在 (國)
+TTITLE9=白襯衫‧藍色憂傷 (國)
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17667
+#     32557
+#     47614
+#     61917
+#     78297
+#     97179
+#     113967
+#     131730
+#     144095
+# 
+# Disc length: 2180 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7c08820a
+DTITLE=Bobby Bland - Dreamer
+DYEAR=1900
+DGENRE=
+TTITLE0=Ain't No Love in The Heart of The City
+TTITLE1=I Wouldn't Treat A Dog (The Way You Treated Me)
+TTITLE2=Lovin' on Borrowed Time
+TTITLE3=When You Come to The End of Your Road
+TTITLE4=I Ain't Gonna Be The First to Cry
+TTITLE5=Dreamer
+TTITLE6=Yolanda
+TTITLE7=Twenty-Four Hour Blues
+TTITLE8=Cold Day in Hell
+TTITLE9=Who's Foolin' Who
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

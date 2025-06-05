@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36518
+#	80640
+#	107552
+#	142812
+#	166283
+#	207479
+#	229506
+#	254956
+#
+# Disc length: 3650 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7d0e4009
+DTITLE=Various Artist - Soundscapes
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=Orion Glow - Orion Glow
+TTITLE1=Virtual Connection - Nebula
+TTITLE2=Direct 2 Brain - Universe
+TTITLE3=U.P.I. - The Space Mountain
+TTITLE4=Soundsphere II - Galactica
+TTITLE5=Eclipse - A New Star
+TTITLE6=Neve - Space Rock
+TTITLE7=Lens Flare - Earth Rise
+TTITLE8=Liquid Glue - Sidereal Light
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25007
+#	48360
+#	56142
+#	70674
+#	83886
+#	100990
+#	115084
+#	127258
+#
+# Disc length: 2108 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=77083a09
+DTITLE=27th and Grand - 27th and Grand
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Planet 70
+TTITLE1=Buyani-Bo
+TTITLE2=Armandos
+TTITLE3=27th and Grand
+TTITLE4=Some Stuff
+TTITLE5=Brusquement
+TTITLE6=Diminuendo
+TTITLE7=Carvana
+TTITLE8=Selva
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

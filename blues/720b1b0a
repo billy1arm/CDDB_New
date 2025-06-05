@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27107
+#	56077
+#	85550
+#	92280
+#	120457
+#	155560
+#	183385
+#	194537
+#	203400
+#
+# Disc length: 2845 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=720b1b0a
+DTITLE=Ivo Pogorelich - Chopin Recital
+DYEAR=1981
+DGENRE=Classical
+TTITLE0=Piano Sonata No. 2 in B flat minor op. 35  1. Grave
+TTITLE1=Piano Sonata No. 2 in B flat minor op. 35  2. Scherzo
+TTITLE2=Piano Sonata No. 2 in B flat minor op. 35  3. Marche funebre
+TTITLE3=Piano Sonata No. 2 in B flat minor op. 35  4. Finale
+TTITLE4=Prelude C sharp minor op. 45
+TTITLE5=Scherzo in C sharp minor op. 39
+TTITLE6=Nocturne E flat major op. 55 No.2
+TTITLE7=Etude in F major op. 10 No. 8
+TTITLE8=Etude in A flat major op. 10 No. 10
+TTITLE9=Etude in G sharp minor op. 25 No. 6
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

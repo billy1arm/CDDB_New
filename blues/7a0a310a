@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18562
+#	36977
+#	55105
+#	73590
+#	94737
+#	113502
+#	135507
+#	152317
+#	170700
+#
+# Disc length: 2611 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a0a310a
+DTITLE=Michael Bolton - This Is The Time - The Christmas Album
+DYEAR=1996
+DGENRE=Pop-Folk
+TTITLE0=Silent Night
+TTITLE1=Santa Claus Is Coming To Town
+TTITLE2=Have Yourself A Merry Little Christmas
+TTITLE3=Joy To The World
+TTITLE4=Ave Maria (Duet with Placido Domingo)
+TTITLE5=The Christmas Song
+TTITLE6=O Holy Night
+TTITLE7=White Christmas
+TTITLE8=This Is The Time (Duet with Wynonna)
+TTITLE9=Love Is The Power
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

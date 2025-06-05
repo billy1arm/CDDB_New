@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42522
+#	70382
+#	88187
+#	120204
+#	144500
+#	171587
+#	197107
+#
+# Disc length: 2868 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=750b3208
+DTITLE=Vitali Imereli and Marian Petrescu - Impression
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Fly Me to the Moon
+TTITLE1=Tournesol
+TTITLE2=Fine and Dandy
+TTITLE3=All the Things You Are
+TTITLE4=Sambalana
+TTITLE5=I've Got the World on a String
+TTITLE6=La Chanson des Rues
+TTITLE7=Swing Guitar
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

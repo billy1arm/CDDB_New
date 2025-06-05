@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14125
+#	48570
+#	71097
+#	88507
+#	112107
+#	161832
+#	176552
+#
+# Disc length: 3080 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=710c0608
+DTITLE=City 6 tett - The story over the draw to the music
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Jopo's Feeling
+TTITLE1=Poem
+TTITLE2=Treck part one
+TTITLE3=Rosi's Highlife Disco Stomp
+TTITLE4=Treck part two
+TTITLE5=Romances
+TTITLE6=Berimbao Melody
+TTITLE7=Let's Go Downtown
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

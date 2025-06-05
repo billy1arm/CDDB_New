@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21903
+#	43439
+#	66629
+#	82646
+#	97796
+#	127955
+#	148360
+#	168234
+#
+# Disc length: 2563 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=780a0109
+DTITLE=Blue Soul Groove - Turn Back Time
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Turn Back Time
+TTITLE1=Zazoui
+TTITLE2=Sausalito Funk
+TTITLE3=3AM
+TTITLE4=Out On The Groove
+TTITLE5=The Blue Glide
+TTITLE6=Soul Town
+TTITLE7=Put It Where You Want It
+TTITLE8=Baga River
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

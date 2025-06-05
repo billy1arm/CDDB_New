@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53859
+#	91897
+#	132197
+#	162459
+#	205891
+#	250834
+#	284708
+#
+# Disc length: 4190 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=74105c08
+DTITLE=Manhattan Jazz Quintet - Funky Strut
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Swing Street 
+TTITLE1=Hot Grits 
+TTITLE2=Mercy Mercy Mercy 
+TTITLE3=Sister Sadie 
+TTITLE4=Song For My Father
+TTITLE5=Funky Strut 
+TTITLE6=Foxy Little Thang
+TTITLE7=The Cat
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

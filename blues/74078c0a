@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  175
+#  13312
+#  30495
+#  48225
+#  66977
+#  76755
+#  91242
+#  101512
+#  114060
+#  125765
+#
+# Disc length: 1934 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=74078c0a
+DTITLE=Lightnin' Hopkins - Lightnin' Hopkins
+DYEAR=1900
+DGENRE=
+TTITLE0=Penitentiary Blues
+TTITLE1=Bad Luck and Trouble
+TTITLE2=Come Go Home With Me
+TTITLE3=Trouble Stay 'Way From My Door
+TTITLE4=See That My Grave Is Kept Clean
+TTITLE5=Goin' Back To Florida
+TTITLE6=Reminiscenses of Blind Lemon
+TTITLE7=Fan It
+TTITLE8=Tell Me, Baby
+TTITLE9=She's Mine
+EXTD=
+EXTT0=Lightnin' Hopkins
+EXTT1=Lightnin' Hopkins
+EXTT2=Lightnin' Hopkins
+EXTT3=Lightnin' Hopkins
+EXTT4=Lightnin' Hopkins
+EXTT5=Lightnin' Hopkins
+EXTT6=Lightnin' Hopkins
+EXTT7=Lightnin' Hopkins
+EXTT8=Lightnin' Hopkins
+EXTT9=Lightnin' Hopkins
+PLAYORDER=

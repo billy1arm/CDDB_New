@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28675
+#	61705
+#	99911
+#	135310
+#	163670
+#	198566
+#	236752
+#	261561
+#
+# Disc length: 3785 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=760ec709
+DTITLE=Tony Grey - Chasing Shadows
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Chasing Shadows
+TTITLE1=Walking In Walking Out
+TTITLE2=Guiding Light 
+TTITLE3=No Man's Land
+TTITLE4=Don't Look For Love
+TTITLE5=Peace Of Mind
+TTITLE6=Dark Within
+TTITLE7=One Of Those Lives
+TTITLE8=Where Does It End
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

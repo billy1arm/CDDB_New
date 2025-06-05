@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     19615
+#     36765
+#     55777
+#     75362
+#     93307
+#     108957
+#     116725
+#     143477
+#     163967
+# 
+# Disc length: 2414 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=72096c0a
+DTITLE=Big Shoulders - Nickel History
+DYEAR=1900
+DGENRE=
+TTITLE0=At The Tracks
+TTITLE1=I Must Be Nuts (Pinapple Face)
+TTITLE2=Out Of My Hands
+TTITLE3=America, Meet Me Tonight
+TTITLE4=Heal Yourself
+TTITLE5=Last Girl On Earth
+TTITLE6=Big Jig
+TTITLE7=Please Send Me Someone To Love
+TTITLE8=I'm Bad
+TTITLE9=The Sout'west Side Polka
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

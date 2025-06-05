@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	35510
+#	105723
+#	128970
+#	172705
+#	222685
+#	271113
+#	296728
+#
+# Disc length: 4631 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=76121508
+DTITLE=James Levine - Wiener Philharmoniker - Mozart Symphonies Nos.40&41
+DYEAR=1990
+DGENRE=Classical
+TTITLE0=Symphony No.40 in G minor, K 550 - 1. Molto Allegro
+TTITLE1=Symphony No.40 in G minor, K 550 - 2. Andante
+TTITLE2=Symphony No.40 in G minor, K 550 - 3. Menuetto: Allegretto
+TTITLE3=Symphony No.40 in G minor, K 550 - 4. Finale: Allegro assai
+TTITLE4=Symphony No.41 in C major, K 551 "Jupiter" - 1. Allegro vivace
+TTITLE5=Symphony No.41 in C major, K 551 "Jupiter" - 2. Andante cantabile
+TTITLE6=Symphony No.41 in C major, K 551 "Jupiter" - 3. Menuetto: Allegretto
+TTITLE7=Symphony No.41 in C major, K 551 "Jupiter" - 4. Finale: Molto allegro
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

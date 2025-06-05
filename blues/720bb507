@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44095
+#	74705
+#	114465
+#	142155
+#	168545
+#	199672
+#
+# Disc length: 2999 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=720bb507
+DTITLE=Zoot Sims - Live At The Half Note
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Doodle Oodle
+TTITLE1=Red Door
+TTITLE2=Saratoga Hutch
+TTITLE3=Jazzline Blues
+TTITLE4=LJ's Dream
+TTITLE5=Expense Account
+TTITLE6=It's Noteworthy
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

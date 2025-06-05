@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  15013
+#  44720
+#  68923
+#  85363
+#  106500
+#  125263
+#  148210
+#  168008
+#  195388
+#
+# Disc length: 2830 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=780b0c0a
+DTITLE=Denise Lasalle - Still Trapped
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Wet Match
+TTITLE1=Trapped...1990
+TTITLE2=Paper Thin
+TTITLE3=Chain Letter
+TTITLE4=A Real Sad Story
+TTITLE5=Drop That Zero
+TTITLE6=I'm Loved
+TTITLE7=* Kiss It
+TTITLE8=Love and Happiness
+TTITLE9=Wild Thang (All Nite Long)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=Lasalle, Denise
+EXTT9=
+PLAYORDER=

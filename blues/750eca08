@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	49413
+#	71460
+#	108905
+#	145086
+#	177028
+#	220090
+#	252705
+#
+# Disc length: 3789 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=750eca08
+DTITLE=Jean-Benoît Culot Quintet - Live à Puzzle
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Mutant
+TTITLE1=L'air du chien blanc
+TTITLE2=Ode
+TTITLE3=Triste ! Mais pas trop
+TTITLE4=Automn in NY
+TTITLE5=Quinté +
+TTITLE6=Le bonheur
+TTITLE7=Odela (à Aldo)
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

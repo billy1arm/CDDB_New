@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28177
+#	61257
+#	99919
+#	142858
+#	163228
+#	185217
+#	206897
+#	255376
+#
+# Disc length: 3656 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7e0e4609
+DTITLE=Peterson, Ralph - presents the Fo'tet
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=urban omen
+TTITLE1=thabo
+TTITLE2=homegoing
+TTITLE3=axis mundi
+TTITLE4=ballad for queen tiye
+TTITLE5=miss lady
+TTITLE6=i can dream, can't i
+TTITLE7=confrontation
+TTITLE8=johnny came lately
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

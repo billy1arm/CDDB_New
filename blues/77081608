@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23575
+#	43495
+#	59190
+#	82637
+#	104275
+#	117705
+#	149892
+#
+# Disc length: 2072 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=77081608
+DTITLE=Danny Adler - Night Shift
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Night Shift
+TTITLE1=Zebra Skin Shop Assistant
+TTITLE2=Too Lazy To Work
+TTITLE3=Harriet Can Carry It
+TTITLE4=Women In Power
+TTITLE5=Waitress!!
+TTITLE6=Late Freight
+TTITLE7=English Tart
+EXTD=line records LICD 9.00912 O
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

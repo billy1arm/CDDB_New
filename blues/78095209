@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22332
+#	38635
+#	50887
+#	66042
+#	82287
+#	107430
+#	132772
+#	156030
+#
+# Disc length: 2388 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=78095209
+DTITLE=Charlie Parker - Charlie Parker plays Cole Porter
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=I GET A KICK OUT OF YOU
+TTITLE1=I GET A KICK OUT OF YOU (another take)
+TTITLE2=JUST ONE OF THOSE THINGS
+TTITLE3=MY HEART BELONGS TO DADDY
+TTITLE4=I'VE GOT YOU UNDER MY SKIN
+TTITLE5=LOVE FOR SALE
+TTITLE6=LOVE FOR SALE (another take) 
+TTITLE7=I LOVE PARIS
+TTITLE8=I LOVE PARIS (another take) 
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

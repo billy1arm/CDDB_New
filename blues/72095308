@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21323
+#	44940
+#	64710
+#	93310
+#	111323
+#	129633
+#	155613
+#
+# Disc length: 2389 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=72095308
+DTITLE=Pupy Santiago y Luis Enrique - Brillantes
+DYEAR=1994
+DGENRE=Salsa
+TTITLE0=Un Hombre Afortunado
+TTITLE1=Muerto De Amor
+TTITLE2=Tu Cuerpo
+TTITLE3=Amiga
+TTITLE4=Acaramelaito
+TTITLE5=Amor Por Ti
+TTITLE6=Alguien Como Tu
+TTITLE7=La Noche
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

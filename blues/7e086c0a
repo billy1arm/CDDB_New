@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19464
+#	30915
+#	48890
+#	61850
+#	85464
+#	112694
+#	124489
+#	137377
+#	147938
+#
+# Disc length: 2158 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7e086c0a
+DTITLE=Various Artist - Classic Blues
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=1-Sweet Sixteen- B.B. King
+TTITLE1=2-Bo Diddley- Bo Diddley
+TTITLE2=3-Bring Me My Shotgun- Lightnin' Hopkins
+TTITLE3=4-Baby Won't You Please Come Home- Ray Charles
+TTITLE4=5-You've Done Lost Your Good Thing- B.B. King
+TTITLE5=6-Blues In B Flat- Mike Bloomfield
+TTITLE6=7-Let The Good Times Roll- Memphis Slim
+TTITLE7=8-Big Legged Woman- Charles Brown
+TTITLE8=9-Aint Got No Home- Clarence Frogman Henry
+TTITLE9=10-The Bourgeois Blue- Leadbelly
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

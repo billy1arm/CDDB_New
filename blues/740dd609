@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18832
+#	36940
+#	52114
+#	64724
+#	78347
+#	93209
+#	113215
+#	133373
+#
+# Disc length: 3544 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=740dd609
+DTITLE=Stewart, Andrew - Nature Meditations
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Mountain Bird
+TTITLE1=Sun Shower
+TTITLE2=Morning Meadow
+TTITLE3=Autumn Clouds
+TTITLE4=Sequoia Winds
+TTITLE5=River Rocks
+TTITLE6=Ocean Storm
+TTITLE7=Indian Summer
+TTITLE8=Timeless Sunrise
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

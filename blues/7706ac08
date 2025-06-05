@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20800
+#	41122
+#	52260
+#	64419
+#	78677
+#	95279
+#	111449
+#
+# Disc length: 1710 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=7706ac08
+DTITLE=Rouge - Rouge
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=L'amour
+TTITLE1=Decide Toi
+TTITLE2=Tricoter
+TTITLE3=Attention
+TTITLE4=Vino Tinto
+TTITLE5=Verde Cuica
+TTITLE6=Encarnada Temptation
+TTITLE7=Bonde Affair
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

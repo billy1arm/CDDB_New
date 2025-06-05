@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     22310
+#     39062
+#     55825
+#     75867
+#     98142
+#     114515
+#     135577
+#     150030
+#     172827
+#     199300
+# 
+# Disc length: 2920 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=760b660b
+DTITLE=Louisiana Red - Sittin Here Wonderin
+DYEAR=1900
+DGENRE=
+TTITLE0=E Street Bridge
+TTITLE1=Stella Blues
+TTITLE2=Sadie Lee
+TTITLE3=I'm Lonesome
+TTITLE4=Back Door Friend
+TTITLE5=Sittin Here Wonderin
+TTITLE6=Bumble Bee
+TTITLE7=Parole Blues
+TTITLE8=Pittsburgh Blues
+TTITLE9=Nothin But Trouble
+TTITLE10=Prison Blues #1
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

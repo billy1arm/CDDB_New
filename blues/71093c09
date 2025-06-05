@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18855
+#     42460
+#     60480
+#     79680
+#     95160
+#     116610
+#     132960
+#     156335
+# 
+# Disc length: 2366 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=71093c09
+DTITLE=Arnis and ExPatriots - Shake Before Use
+DYEAR=1900
+DGENRE=
+TTITLE0=Words escape me
+TTITLE1=Radio rock
+TTITLE2=Shake before use
+TTITLE3=You know what you don't know
+TTITLE4=Happy birthday, Mr. Bhumibol
+TTITLE5=Short-term memories
+TTITLE6=Four walls
+TTITLE7=Sunday driver
+TTITLE8=Shadows and rain
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

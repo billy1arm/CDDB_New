@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36218
+#	52353
+#	67470
+#	78488
+#	99035
+#	112435
+#	135700
+#
+# Disc length: 1957 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7b07a308
+DTITLE=Lightnin' Hopkins - Hootin' The Blues
+DYEAR=1962
+DGENRE=Blues
+TTITLE0=Blues Is A Feeling
+TTITLE1=Me And Ray Charles
+TTITLE2=In The Evenin'
+TTITLE3=Ain't It Crazy
+TTITLE4=Last Night I Lost The Best Friend I Ever Had
+TTITLE5=Everything
+TTITLE6=I Work Down At The Chain Gang
+TTITLE7=Meet Me In The Bottom
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

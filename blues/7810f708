@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	43262
+#	82212
+#	124005
+#	174037
+#	208225
+#	266445
+#	276655
+#
+# Disc length: 4345 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7810f708
+DTITLE=Charlie Parker - Bird: The Complete Charlie Parker On Verve [CD1]
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Sweet Georgia Brown
+TTITLE1=Blues For Norman
+TTITLE2=I Can't Get Started
+TTITLE3=Lady Be Good
+TTITLE4=After You've Gone
+TTITLE5=I Got Rythm
+TTITLE6=Introductions by Norman Granz
+TTITLE7=JATP Blues
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

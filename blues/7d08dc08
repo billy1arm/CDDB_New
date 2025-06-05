@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	154
+#	19738
+#	40417
+#	56703
+#	70654
+#	93747
+#	119919
+#	148958
+#
+# Disc length: 2270 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7d08dc08
+DTITLE=Orquesta Zodiac - Pura Salsa
+DYEAR=2003
+DGENRE=Salsa
+TTITLE0=America Latina
+TTITLE1=El Sepulturero
+TTITLE2=Los Corderitos
+TTITLE3=La Tarde
+TTITLE4=Cantare
+TTITLE5=El Monte
+TTITLE6=Olvida
+TTITLE7=Loiza Es Rumba
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

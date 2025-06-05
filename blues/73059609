@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14407
+#	29068
+#	41519
+#	50372
+#	63305
+#	73244
+#	82974
+#	93933
+#
+# Disc length: 1432 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=73059609
+DTITLE=Jimmy Smith - Midnight Blues
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Stranger In Paradise
+TTITLE1=It's A Sin To Tell A lie
+TTITLE2=Lost In Loveliness
+TTITLE3=Nightwing
+TTITLE4=Mosin' Along
+TTITLE5=Whistling Organ
+TTITLE6=Dave's Special
+TTITLE7=Midnight Blues
+TTITLE8=Catnip
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

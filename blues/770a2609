@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	26421
+#	49354
+#	72436
+#	90425
+#	110257
+#	130112
+#	148041
+#	177182
+#
+# Disc length: 2600 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=770a2609
+DTITLE=Act One - Act One
+DYEAR=1995
+DGENRE=New Age
+TTITLE0=redemption - part 1
+TTITLE1=true believer
+TTITLE2=unforgiven
+TTITLE3=free fall
+TTITLE4=redemption - part 2
+TTITLE5=bring the apocalypse
+TTITLE6=sunday again
+TTITLE7=salvation
+TTITLE8=redemption - part 3
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

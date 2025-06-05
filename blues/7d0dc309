@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26512
+#	59030
+#	95752
+#	130502
+#	153835
+#	178855
+#	205890
+#	247165
+#
+# Disc length: 3525 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7d0dc309
+DTITLE=Hal McKusick - Triple Exposure
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Interim
+TTITLE1=Saturday Night
+TTITLE2=Don't Worry 'Bout Me
+TTITLE3=Con Alma
+TTITLE4=Something New
+TTITLE5=Blues Half-Smiling
+TTITLE6=A Touch Of Spring
+TTITLE7=The Settlers And The Indians
+TTITLE8=I'm Glad There Is You
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

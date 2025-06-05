@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17872
+#	33057
+#	46412
+#	64592
+#	81000
+#	97145
+#	118662
+#	135655
+#	154967
+#
+# Disc length: 2271 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7e08dd0a
+DTITLE=Hasbro - トランスフォーマー・ザ・ムービー　オリジナル・サウンドトラック
+DYEAR=1900
+DGENRE=アニメ
+TTITLE0=Stan Bush/The Touch
+TTITLE1=N.R.G./Instruments Of Destruction
+TTITLE2=Vince DiCola/Death Of Optimus Prime
+TTITLE3=Stan Bush/Dare
+TTITLE4=Spectre General/Nothin's Gonna Stand In Out Way
+TTITLE5=Lion/The Transformers (Theme)
+TTITLE6=Vince DiCola/Escape
+TTITLE7=Spectre General/Hunger
+TTITLE8=Vince DiCola/Autobot／Decepticon Battle
+TTITLE9=Dare To Be Stupid - "Weird Al" Yankovic
+EXTD=
+EXTT0=Performed by STAN BUSH\nProduced by Richie Wise\n
+EXTT1=Performed by N.R.G.\nProduced by Ernie Burns\n
+EXTT2=Performed by Vince DiCola\nProduced by Vince Dicola and Ed Fruge'\n
+EXTT3=Performed by STAN BUSH\nProduced by Vince DiCola and Richie \nWise\n
+EXTT4=Performed by SPECTRE GENERAL\nProduced by Randy Bishop with Spencer \nProffer for Pasha\n
+EXTT5=Performed by LION\nProduced by Richie Wise\n
+EXTT6=Performed by Vince DiCola\nProduced by Vince DiCola and Ed Fruge'\n
+EXTT7=Performed by SPECTRE GENERAL\nProduced by Spencer Proffer for Pasha\n
+EXTT8=Performed by Vince DiCola\nProduced by Vince DiCola and Ed Fruge'\n
+EXTT9=Performed by Weird Al Yankovic\nProduced by Rick Derringer\n
+PLAYORDER=

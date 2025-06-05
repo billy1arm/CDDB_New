@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19221
+#	42906
+#	66895
+#	91350
+#	113052
+#	135846
+#	157594
+#	178168
+#	202139
+#
+# Disc length: 3011 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta2
+#
+DISCID=7e0bc10a
+DTITLE=李翊君 - 重生
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=重生
+TTITLE1=太陽
+TTITLE2=Remember
+TTITLE3=一千零一夜
+TTITLE4=完美的女人
+TTITLE5=隨時可能會流淚
+TTITLE6=容易受傷的女人
+TTITLE7=天涯
+TTITLE8=兩個人的月亮
+TTITLE9=男人緣
+EXTD=YEAR: 2001 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

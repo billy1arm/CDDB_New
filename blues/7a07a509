@@ -1,0 +1,43 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21003
+#	32788
+#	48689
+#	65495
+#	81519
+#	99598
+#	117153
+#	133617
+# Disc length: 1959 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=7a07a509
+DTITLE=Sinners and Saints - The Sky Is Falling
+DYEAR=1900
+DGENRE=
+TTITLE0=Dead So Soon
+TTITLE1=Nothing At All
+TTITLE2=The Sky Is Falling
+TTITLE3=Like A Suicide
+TTITLE4=Never Too Young To Die
+TTITLE5=The Times We Had
+TTITLE6=Marquee Lights
+TTITLE7=No Tomorrow
+TTITLE8=Its All Coming Down
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

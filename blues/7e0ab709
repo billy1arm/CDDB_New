@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21525
+#	46100
+#	67912
+#	94225
+#	116887
+#	141662
+#	162000
+#	186812
+#
+# Disc length: 2745 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7e0ab709
+DTITLE=Duke Pearson - Bags Groove
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=I'm An Old Cowhand (take 2)
+TTITLE1=Say You're Mine (take 4)
+TTITLE2=Le Carrousel (take 3)
+TTITLE3=Exodus (take 1)
+TTITLE4=Bags Groove (take 1)
+TTITLE5=Jeannine (take 1)
+TTITLE6=I'm An Old Cowhand (take 3)
+TTITLE7=Say You're Mine (take 3)
+TTITLE8=Le Carrousel (take 2)
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

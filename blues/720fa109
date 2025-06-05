@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34734
+#	58566
+#	105874
+#	143365
+#	177938
+#	200232
+#	232161
+#	264783
+#
+# Disc length: 4003 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=720fa109
+DTITLE=Various Artist - Scenes
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=New Beginnings
+TTITLE1=Scene
+TTITLE2=Blues On The Corner
+TTITLE3=Psalm
+TTITLE4=The Beatles
+TTITLE5=Rainy States
+TTITLE6=Nefertiti
+TTITLE7=Persona
+TTITLE8=Yesterdays
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

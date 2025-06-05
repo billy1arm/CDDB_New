@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     13580
+#     25135
+#     37970
+#     53840
+#     75772
+#     88917
+#     106082
+#     124587
+#     141615
+# 
+# Disc length: 2304 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7308fe0a
+DTITLE=The Temptations - All Million Sellers
+DYEAR=1900
+DGENRE=
+TTITLE0=My Girl
+TTITLE1=Ain't Too Proud To Beg
+TTITLE2=I Wish It Would Rain
+TTITLE3=Cloud Nine
+TTITLE4=Runaway Child, Running Wild
+TTITLE5=I Can't Get Next To You
+TTITLE6=Psychedelic Shock
+TTITLE7=Ball Of Confusion
+TTITLE8=Just My Imagination
+TTITLE9=Papa Was A Rollin' Stone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

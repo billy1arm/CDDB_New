@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41941
+#	66182
+#	77588
+#	91703
+#	102295
+#	115546
+#	130853
+#	142045
+#	161657
+#
+# Disc length: 2527 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7f09dd0a
+DTITLE=Mark Twain - Tom Sawyer und Huckleberry Finn 1
+DYEAR=2006
+DGENRE=Hörspiel
+TTITLE0=Geöffnetes Grab
+TTITLE1=Blutschwur
+TTITLE2=Schlechtes Gewissen
+TTITLE3=Wer ist der Mörder?
+TTITLE4=An der Stätte des Todes
+TTITLE5=Gemeine Verleumdung
+TTITLE6=Der erste Kuss
+TTITLE7=Qualvolle Gedanken
+TTITLE8=Geheimnisvolles Buch
+TTITLE9=Teuflische Lügen
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

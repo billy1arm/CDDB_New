@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35791
+#	70864
+#	96962
+#	124395
+#	147080
+#	172860
+#	196351
+#
+# Disc length: 2913 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,15,908
+#
+DISCID=720b5f08
+DTITLE=Jay Tyer Quartet - Metacomet
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Tilt
+TTITLE1=Railroad Turtle
+TTITLE2=Metacomet
+TTITLE3=Progressive Exposure
+TTITLE4=The Modular Flow
+TTITLE5=Here and Gone
+TTITLE6=The Odder Side of the Coin
+TTITLE7=Teddy's Tune
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	165
+#	21722
+#	43268
+#	59439
+#	93347
+#	125029
+#	153581
+#	201374
+#
+# Disc length: 3102 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=790c1c08
+DTITLE=Eckhard Weigt - Standard Moods
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Ars Vivendi
+TTITLE1=Rollinissimo
+TTITLE2=Mitternachtswalzer
+TTITLE3=Siena
+TTITLE4=Stille Stunden
+TTITLE5=Monky Tonky
+TTITLE6=Paul's Abschied
+TTITLE7=Standard Moods
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

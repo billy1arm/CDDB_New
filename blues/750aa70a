@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     19242
+#     38992
+#     60525
+#     81852
+#     108065
+#     129180
+#     148500
+#     172862
+#     188645
+# 
+# Disc length: 2729 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=750aa70a
+DTITLE=Colin England - Out of Control
+DYEAR=1900
+DGENRE=
+TTITLE0=No 1/2 Steppin'
+TTITLE1=Come Over, Baby
+TTITLE2=Out of Control
+TTITLE3=You Took My Love Away
+TTITLE4=Bring Me Love
+TTITLE5=Sorry Seems to be the Hardest Word to Say
+TTITLE6=24/7
+TTITLE7=Can I Touch You
+TTITLE8=I'll Do Anything
+TTITLE9=What's on Your Mind
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

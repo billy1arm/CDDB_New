@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18520
+#	35595
+#	37587
+#	60797
+#	86030
+#	104140
+#	129255
+#	144120
+#	156192
+#	169717
+#
+# Disc length: 2509 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7f09cb0b
+DTITLE=QUEEN - World Tour 1985
+DYEAR=1985
+DGENRE=Rock
+TTITLE0=Love Of My Life
+TTITLE1=Another One Bites The Dust
+TTITLE2=Mustapha
+TTITLE3=Hammer To Fall
+TTITLE4=Crazy Little Thing Called Love
+TTITLE5=Bohemian Rhapsody
+TTITLE6=Radio Ga Ga
+TTITLE7=I Want To Break Free
+TTITLE8=Jailhouse Rock
+TTITLE9=We Will Rock You
+TTITLE10=We Are The Champions
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

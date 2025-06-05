@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15208
+#	43612
+#	63173
+#	91351
+#	94258
+#	130296
+#	133786
+#	178236
+#
+# Disc length: 2414 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=73096c09
+DTITLE=Char - Mustang
+DYEAR=1994
+DGENRE=J-Rock
+TTITLE0=Mustang
+TTITLE1=Yellow Cap
+TTITLE2=Kinda Blue
+TTITLE3=Oh Baby
+TTITLE4=Silver Mane
+TTITLE5=Wanna Be An Idol
+TTITLE6=Black Mane
+TTITLE7=Arrow Head
+TTITLE8=Pony Tail
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

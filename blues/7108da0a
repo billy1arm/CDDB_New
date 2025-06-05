@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11162
+#	29087
+#	47762
+#	60662
+#	75512
+#	95312
+#	115037
+#	130712
+#	151037
+#
+# Disc length: 2268 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7108da0a
+DTITLE=Various Artist - Unknown CD for MusicBrainz and FreeDB
+DYEAR=1900
+DGENRE=
+TTITLE0=Buddy Guy - I Go Crazy
+TTITLE1=Taj Mahal - Mockingbird
+TTITLE2=Koko Taylor - Spellbound
+TTITLE3=B.B. King - Caldonia
+TTITLE4=Etta James - I Can Give You Everything
+TTITLE5=Albert Collins - Hooked On You
+TTITLE6=Paul Cebar - Didn't Leave Me No Ladder
+TTITLE7=Z.Z. Hill - Bump And Grind
+TTITLE8=Buckwheat Zydeco - What You Gonna Do?
+TTITLE9=Milton Campbell - The Blues Is Alright
+EXTD=
+EXTT0=I Go Crazy - Buddy Guy
+EXTT1=Mockingbird - Taj Mahal
+EXTT2=Spellbound - Koko Taylor
+EXTT3=Caldonia - B.B. King
+EXTT4=I Can Give You Everything - Etta James
+EXTT5=Hooked On You - Albert Collins
+EXTT6=Didn't Leave Me No Ladder - Paul Cebar
+EXTT7=Bump And Grind - Z.Z. Hill
+EXTT8=What You Gonna Do? - Buckwheat Zydeco
+EXTT9=The Blues Is Alright - Milton Campbell
+PLAYORDER=

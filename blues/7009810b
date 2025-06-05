@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20480
+#	42405
+#	56457
+#	75215
+#	91190
+#	105540
+#	123077
+#	137602
+#	151515
+#	166335
+#
+# Disc length: 2435 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7009810b
+DTITLE=Earl King and Roomful Of Blues - Glazed
+DYEAR=1987
+DGENRE=Blues
+TTITLE0=It All Went Down The Drain
+TTITLE1=Your Love Was Never There
+TTITLE2=Everybody's Got To Cry Sometime
+TTITLE3=Love Rent
+TTITLE4=Three Can Play The Game
+TTITLE5=Iron Cupid
+TTITLE6=Somebody's Got A Tail
+TTITLE7=I Met A Stranger
+TTITLE8=Mardi Gras In New Orleans
+TTITLE9=There's Been Some Lonely, Lonely Nights
+TTITLE10=One Step Beyond Love
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

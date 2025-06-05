@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	151
+#	25786
+#	45267
+#	72831
+#	90396
+#	111114
+#	135018
+#	151907
+#	173531
+#	193230
+#	212583
+#
+# Disc length: 3167 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30PlusFR
+#
+DISCID=7c0c5d0b
+DTITLE=Peter Nathanson - Houdoo Guru
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Swanp Kind
+TTITLE1=Tell Me Why
+TTITLE2=Cashmere Baby
+TTITLE3=Don't Throw Your Love Away
+TTITLE4=Wrong To Right
+TTITLE5=I'm to Blame
+TTITLE6=Tryin' to Find Someone
+TTITLE7=Singing and Playing The Blues
+TTITLE8=Landslide
+TTITLE9=Since You Left Me
+TTITLE10=Houdoo Guru
+EXTD=YEAR: 2001 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

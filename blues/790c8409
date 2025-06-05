@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24663
+#	46802
+#	74037
+#	105385
+#	142238
+#	154060
+#	188509
+#	213049
+#
+# Disc length: 3206 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=790c8409
+DTITLE=Tribal Dialects - Home
+DYEAR=2013
+DGENRE=Jazz
+TTITLE0=Momo II
+TTITLE1=Arezoo
+TTITLE2=Home
+TTITLE3=Dienda
+TTITLE4=Birjandi
+TTITLE5=Prolog - Epilog
+TTITLE6=Reunion
+TTITLE7=Sehnsucht
+TTITLE8=Tribal Dialects
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

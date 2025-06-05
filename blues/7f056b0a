@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9398
+#	19715
+#	29975
+#	40193
+#	50688
+#	61968
+#	73170
+#	84363
+#	94623
+#
+# Disc length: 1389 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7f056b0a
+DTITLE=The Beach Boys/Jan and Dean - The Beach Boys/Jan and Dean
+DYEAR=1900
+DGENRE=
+TTITLE0=Surfin' Safari
+TTITLE1=Surfer Girl
+TTITLE2=Surfin'
+TTITLE3=Beach Boy Stomp (aka Karate)
+TTITLE4=Barbie
+TTITLE5=Surf City
+TTITLE6=Deadman's Curve
+TTITLE7=The Little Old Lady (From Pasadena)
+TTITLE8=Drag City
+TTITLE9=Sidewalk Surfin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

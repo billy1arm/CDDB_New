@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	7668
+#	17745
+#	32323
+#	45255
+#	57583
+#	70100
+#	78558
+#	90015
+#	100523
+#	113535
+#	129318
+#
+# Disc length: 1870 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=73074c0c
+DTITLE=Luis Bordon - Classicos Do Sertao
+DYEAR=1900
+DGENRE=
+TTITLE0=Asa Branca
+TTITLE1=O Menino Da Porteira
+TTITLE2=Luar Do Sertao/ Chico Mulato/ Baiao Da Serra Grande
+TTITLE3=Beijinho Doce
+TTITLE4=Joao De Barro/ Piracicaba 
+TTITLE5=Tristeza Do Jeca
+TTITLE6=Parana Do Norte/ Decisao Cruel
+TTITLE7=Chalana
+TTITLE8=Saudade De Minha Terra
+TTITLE9=Lembran a
+TTITLE10=Cabocla Tereza
+TTITLE11=Orgulhoso/ Ciriema
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

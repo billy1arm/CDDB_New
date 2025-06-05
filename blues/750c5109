@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22805
+#	55325
+#	76930
+#	101082
+#	132702
+#	161717
+#	192275
+#	213112
+#
+# Disc length: 3155 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=750c5109
+DTITLE=Cannonball Adderley With Milt Jackson - Things Are Getting Better
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Blues Oriental
+TTITLE1=Things Are Getting Better
+TTITLE2=Serves Me Right (Take 5)
+TTITLE3=Groovin' High
+TTITLE4=The Sidewalks Of New York (Take 5)
+TTITLE5=Sound For Sid
+TTITLE6=Just One Of Those Things
+TTITLE7=Serves Me Right (Take 4)
+TTITLE8=The Sidewalks Of New York (Take4)
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

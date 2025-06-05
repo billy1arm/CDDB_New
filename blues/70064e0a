@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14975
+#	30392
+#	38352
+#	52585
+#	64262
+#	75597
+#	86472
+#	96860
+#	109407
+#
+# Disc length: 1616 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=70064e0a
+DTITLE=Paul Buskirk - Nacogdoches Waltz
+DYEAR=1900
+DGENRE=
+TTITLE0=Nacogdoches Waltz
+TTITLE1=Sophisticated Lady
+TTITLE2=Little Rock Get-A-Way
+TTITLE3=Intermezzo
+TTITLE4=Dardanella
+TTITLE5=Under Paris Ski
+TTITLE6=Joy (Jesu Joy of Man's Desiring)
+TTITLE7=Nola
+TTITLE8=I will Wait for You
+TTITLE9=Greensleeves
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

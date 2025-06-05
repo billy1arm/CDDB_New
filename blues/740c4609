@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17287
+#	45950
+#	64959
+#	101475
+#	123555
+#	149690
+#	172928
+#	203041
+#
+# Disc length: 3144 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=740c4609
+DTITLE=TANN - Koniferen
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Novemberlied
+TTITLE1=Circus Dots
+TTITLE2=Round 'n' Round
+TTITLE3=You
+TTITLE4=Julia auf dem Ponyhof
+TTITLE5=Bernstein
+TTITLE6=Jardim
+TTITLE7=Zeitgeist
+TTITLE8=Schlafen
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

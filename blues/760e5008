@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31430
+#	72287
+#	113185
+#	140675
+#	172377
+#	194380
+#	226257
+#
+# Disc length: 3666 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=760e5008
+DTITLE=David Matthews and The Manhattan Jazz Orch. - Hey Duke
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=It Don't Mean a Think If You Ain't Got That Swing
+TTITLE1=Prelude to a Kiss
+TTITLE2=Mood Indigo
+TTITLE3=Come Sunday
+TTITLE4=Satin Doll
+TTITLE5=Song For Edward
+TTITLE6=Cotton Tail
+TTITLE7=In A Sentimental Mood
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

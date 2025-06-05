@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28005
+#	41100
+#	67165
+#	101440
+#	110772
+#	142177
+#	175430
+#
+# Disc length: 3122 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7b0c3008
+DTITLE=Hawkwind - A Space Ritual (Disc-2)
+DYEAR=1973
+DGENRE=Psychedelic Rock
+TTITLE0=7 By 7
+TTITLE1=Sonic Attack
+TTITLE2=Time We Left This World Today
+TTITLE3=Master Of The Universe
+TTITLE4=Welcome To The Future
+TTITLE5=You Shouldn't Do That
+TTITLE6=Master Of The Universe
+TTITLE7=Born To Go
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

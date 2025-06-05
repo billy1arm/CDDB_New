@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24371
+#	37435
+#	47711
+#	63762
+#	77375
+#	86121
+#	97372
+#	113918
+#	123141
+#
+# Disc length: 1834 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7f07280a
+DTITLE=梅本竜 (elf) - この世界の果てで恋を唄う少女 YU-NO PC98 CD-ROM版
+DYEAR=1996
+DGENRE=Game
+TTITLE0=DATA: ゲームデータ
+TTITLE1=プロローグ (イントロダクション)
+TTITLE2=回想 (夢)
+TTITLE3=思い出 (寝起き)
+TTITLE4=少女 (異世界?)
+TTITLE5=結城
+TTITLE6=予兆 (気配)
+TTITLE7=運命 (因果律)
+TTITLE8=剣の岬
+TTITLE9=自宅 (安堵)
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

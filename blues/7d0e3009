@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26563
+#	50621
+#	72969
+#	99521
+#	129282
+#	161943
+#	199668
+#	230853
+#
+# Disc length: 3634 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7d0e3009
+DTITLE=Midori - A Promise Of Serenity
+DYEAR=2008
+DGENRE=New Age
+TTITLE0=Pure
+TTITLE1=Grace
+TTITLE2=Fairness
+TTITLE3=Calm
+TTITLE4=Peace
+TTITLE5=Stillness
+TTITLE6=Clarity
+TTITLE7=Quietness
+TTITLE8=Serenity
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

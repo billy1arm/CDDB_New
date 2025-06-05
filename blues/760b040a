@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20392
+#	42297
+#	68047
+#	90395
+#	114847
+#	133945
+#	154622
+#	175037
+#	194397
+#
+# Disc length: 2822 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=760b040a
+DTITLE=Bobby Rush - Undercover Lover
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Undercover Lover
+TTITLE1=That Thang
+TTITLE2=Tough Titty
+TTITLE3=Party Down
+TTITLE4=Love Jones
+TTITLE5=Play With Your Poodle
+TTITLE6=Love is a Gamble
+TTITLE7=Dirty dog
+TTITLE8=You Ain't Gonna Worry Me
+TTITLE9=Blowin in the Wind
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

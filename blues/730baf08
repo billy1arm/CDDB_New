@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27243
+#	64396
+#	84701
+#	104520
+#	128230
+#	155517
+#	200803
+#
+# Disc length: 2993 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=730baf08
+DTITLE=Howard Rumsey - Modern Jazz West Coast Jazz CD 030
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Four Others
+TTITLE1=Viva Zapata No. 2
+TTITLE2=Creme De Menthe
+TTITLE3=Solitaire
+TTITLE4=Bernie's Tune
+TTITLE5=Morgan Davis
+TTITLE6=La Soncailli
+TTITLE7=All The Things You Are
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

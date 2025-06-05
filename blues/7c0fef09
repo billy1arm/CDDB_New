@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36079
+#	74516
+#	114996
+#	150803
+#	193769
+#	222636
+#	265811
+#	301447
+#
+# Disc length: 4081 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7c0fef09
+DTITLE=Brad Turner Trio - Question the Answer
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Lucie from Prague
+TTITLE1=Me, Myself and I
+TTITLE2=Iris
+TTITLE3=Ideas
+TTITLE4=There's No Telling Why
+TTITLE5=Question the Answer
+TTITLE6=The Star Crossed Lovers
+TTITLE7=Crazy
+TTITLE8=Penguins
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

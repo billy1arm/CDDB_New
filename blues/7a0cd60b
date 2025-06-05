@@ -1,0 +1,49 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21205
+#	44525
+#	67770
+#	91685
+#	114560
+#	137020
+#	156945
+#	182300
+#	202615
+#	226100
+# Disc length: 3288 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=7a0cd60b
+DTITLE=Antonella Bucci - Antonella Bucci
+DYEAR=1900
+DGENRE=
+TTITLE0=Pioggia su di noi
+TTITLE1=L'angelo nero
+TTITLE2=Principessa
+TTITLE3=Dal centro dell'anima
+TTITLE4=I tuoi I love you
+TTITLE5=Seguimi
+TTITLE6=Un amore +
+TTITLE7=Certe volte
+TTITLE8=Cercherò
+TTITLE9=Due al mare
+TTITLE10=Il mio amore per te (Pour que tu m'aime encore)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26105
+#	50364
+#	89984
+#	111806
+#	165543
+#	188484
+#	221045
+#	250148
+#
+# Disc length: 3678 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=7b0e5c09
+DTITLE=Joey Alexander - Countdown
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=City Lights
+TTITLE1=Sunday Waltz
+TTITLE2=Countdown
+TTITLE3=Smile
+TTITLE4=Maiden Voyage
+TTITLE5=Criss Cross
+TTITLE6=Chelsea Bridge
+TTITLE7=For Wee Folks
+TTITLE8=Soul Dreamer
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	175
+#	28712
+#	47062
+#	67425
+#	94075
+#	112225
+#	131787
+#	155812
+#
+# Disc length: 2562 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=7c0a0008
+DTITLE=Walter "Wolfman" Washington - Out Of The Dark
+DYEAR=1988
+DGENRE=Blues
+TTITLE0=You Can Stay But the Noise Must Go
+TTITLE1=On The Prowl
+TTITLE2=Steal Away
+TTITLE3=Out Of The Dark
+TTITLE4=Ain't That Loving You
+TTITLE5=Feel So Bad
+TTITLE6=Nobody's Fault But Mine
+TTITLE7=Save Your Love For Me
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

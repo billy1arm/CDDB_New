@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9338
+#	25088
+#	37913
+#	54323
+#	63939
+#	79014
+#	104402
+#	116477
+#	131702
+#
+# Disc length: 1993 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=7207c70a
+DTITLE=Blues Brothers - Made in America
+DYEAR=1900
+DGENRE=
+TTITLE0=Soul Finger
+TTITLE1=Who's Making Love
+TTITLE2=Do You Love Me
+TTITLE3=Guilty
+TTITLE4=Perry Mason Theme
+TTITLE5=Riot in Cell Block Number Nine
+TTITLE6=Green Onions
+TTITLE7=I Ain't Got You
+TTITLE8=From the Bottom
+TTITLE9=Going Back to Miami
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

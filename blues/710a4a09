@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18762
+#	42855
+#	66612
+#	82250
+#	101485
+#	135050
+#	154210
+#	178187
+#
+# Disc length: 2636 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=710a4a09
+DTITLE=Mississippi Fred McDowell - Shake ´Em On Down
+DYEAR=1900
+DGENRE=
+TTITLE0=Shake ´Em On Down
+TTITLE1=I´m Crazy About You Baby
+TTITLE2=John Henry
+TTITLE3=You Got To Move
+TTITLE4=Someday
+TTITLE5=Mercy
+TTITLE6=The Lovin´ Blues
+TTITLE7=White Lightnin´
+TTITLE8=Baby, Please Don´t Go
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

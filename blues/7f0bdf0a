@@ -1,0 +1,46 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16146
+#	40698
+#	62781
+#	90342
+#	122613
+#	140852
+#	155425
+#	181316
+#	203197
+# Disc length: 3041 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.743
+#
+DISCID=7f0bdf0a
+DTITLE=Peg Loughran - La Belle Dame sans Merci
+DYEAR=1900
+DGENRE=
+TTITLE0=Fishing in Harvard Square
+TTITLE1=It's Over
+TTITLE2=The Iceman
+TTITLE3=He Came in for the Music
+TTITLE4=La Belle Dame sans Merci
+TTITLE5=Traveler
+TTITLE6=Sugar Blues
+TTITLE7=Pines and Birches
+TTITLE8=The Grey Fox
+TTITLE9=Harvest Equinox
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33347
+#	53060
+#	71420
+#	108467
+#	127477
+#	140460
+#	175327
+#
+# Disc length: 2691 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=750a8108
+DTITLE=Mowery, Swoboda - Rilke d Amore
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Narthex 01
+TTITLE1=Prelude aus der Suite in E-Dur BWV 106a 02
+TTITLE2=Intermezzo 03
+TTITLE3=Rilke d Amore 04
+TTITLE4=Vers la Source dans la Bois 05
+TTITLE5=Theme from Symphonia Harmoniae Celestum revelatorium 06
+TTITLE6=from Serenade Nr 10, opus 79 07
+TTITLE7=Deux Impressions 08
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

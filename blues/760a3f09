@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12825
+#	34935
+#	51230
+#	64885
+#	93990
+#	129025
+#	146215
+#	173080
+#
+# Disc length: 2625 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=760a3f09
+DTITLE=Muddy Waters - Im Ready (live)
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=I'm Ready
+TTITLE1=33 Years
+TTITLE2=Who Do You Trust
+TTITLE3=Copper Brown
+TTITLE4=I'm Your Hoochie Coochie Man
+TTITLE5=Mamie
+TTITLE6=Rock Me
+TTITLE7=Screamin' And Cryin'
+TTITLE8=Good Morning Little School Girl
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

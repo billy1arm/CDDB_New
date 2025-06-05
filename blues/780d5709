@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33291
+#	57287
+#	91249
+#	133356
+#	165202
+#	191230
+#	217057
+#	241018
+#
+# Disc length: 3417 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=780d5709
+DTITLE=Brian Patneaude - Variations
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Jolo
+TTITLE1=Variation on a Variation
+TTITLE2=The Strega
+TTITLE3=The Longing
+TTITLE4=O.F.F.
+TTITLE5=Hide the Fat Guy
+TTITLE6=Erodiade
+TTITLE7=Freedom Trane
+TTITLE8=Tons of Fun
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19255
+#	38602
+#	55992
+#	75467
+#	95857
+#	113262
+#	133905
+#	152465
+#	170510
+#	188380
+#
+# Disc length: 2818 seconds
+#
+# Revision: 12
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7d0b000b
+DTITLE=Juliane Werding - Zeit Nach Avalon Zu Geh'n
+DYEAR=1991
+DGENRE=Deutscher Rock Pop
+TTITLE0=Avalon
+TTITLE1=Rote Schuh'
+TTITLE2=Schöne Frau'n
+TTITLE3=Einmal Nur
+TTITLE4=Zeit Der Banden
+TTITLE5=Aus Den Tiefen Der Zeit
+TTITLE6=Schön Wie Die Nacht
+TTITLE7=Nur Noch Der Mond
+TTITLE8=Wieder Zuhaus
+TTITLE9=Wölfe In Der Nacht
+TTITLE10=Der Schatten Malt Den Teufel An Die Wand
+EXTD=YEAR - 1991 YEAR: 1991
+EXTT0=\n
+EXTT1=\n
+EXTT2=\n
+EXTT3=\n
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

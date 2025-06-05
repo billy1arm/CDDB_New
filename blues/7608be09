@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20008
+#	37357
+#	57102
+#	77412
+#	92856
+#	110550
+#	134800
+#	153088
+#
+# Disc length: 2240 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7608be09
+DTITLE=Ada Morghe - Pictures
+DYEAR=2019
+DGENRE=Jazz
+TTITLE0=Pictures
+TTITLE1=Dying Flame
+TTITLE2=Silver Dust
+TTITLE3=Unspoken
+TTITLE4=Paperlove
+TTITLE5=Seabirds
+TTITLE6=Soar up High
+TTITLE7=Everything I Have
+TTITLE8=Unspoken (film version)
+EXTD=YEAR: 2019
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

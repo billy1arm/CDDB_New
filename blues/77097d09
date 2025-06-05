@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	20457
+#	34625
+#	57132
+#	73490
+#	91612
+#	107520
+#	132507
+#	156712
+#
+# Disc length: 2431 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=77097d09
+DTITLE=Lockwwood Didier - The Kid
+DYEAR=1982
+DGENRE=Jazz
+TTITLE0=Sunny Sonny
+TTITLE1=Sleight of Hands
+TTITLE2=Something sweet
+TTITLE3=Bloody Mary
+TTITLE4=A Time to Touch
+TTITLE5=The Kid
+TTITLE6=La ballade de Francis
+TTITLE7=Impressions
+TTITLE8=My Favorite Dream
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

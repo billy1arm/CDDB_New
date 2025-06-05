@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24150
+#	45605
+#	70355
+#	90382
+#	111760
+#	126661
+#	157191
+#	179885
+#
+# Disc length: 2729 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7e0aa709
+DTITLE=Cats Park - A Taste of Heaven
+DYEAR=2013
+DGENRE=
+TTITLE0=In Between
+TTITLE1=In My Room
+TTITLE2=Back  To Heaven
+TTITLE3=When Someone Loves You
+TTITLE4=Precious Days
+TTITLE5=Prisoners of Heartbeat
+TTITLE6=Thin Skinned
+TTITLE7=Plastic World
+TTITLE8=I Can't Wait
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

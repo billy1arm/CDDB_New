@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41175
+#	82162
+#	114525
+#	147225
+#	178537
+#	204000
+#	249975
+#	293100
+#
+# Disc length: 4475 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7d117909
+DTITLE=Various Artist - Jean-Pierre Rampal ~ L'art de la flûte  [CD 2-3] 
+DYEAR=2010
+DGENRE=Classique
+TTITLE0=Mozart - Concerto  pour flûte et orchestre en sol majeur KV.313 (285c) - I. Allegro maestoso    [1989]
+TTITLE1=Mozart - Concerto  pour flûte et orchestre en sol majeur KV.313 (285c) - II. Adagio ma non troppo
+TTITLE2=Mozart - Concerto  pour flûte et orchestre en sol majeur KV.313 (285c) - III. Rondeau - Tempo di Menurtto
+TTITLE3=Mozart - Concerto  pour flûte et orchestre en ré  majeur KV.314 (285d) - I. Allegro aperto    [1989]
+TTITLE4=Mozart - Concerto  pour flûte et orchestre en ré  majeur KV.314 (285d) - II. Andante ma non troppo
+TTITLE5=Mozart - Concerto  pour flûte et orchestre en ré  majeur KV.314 (285d) - III. Allegro
+TTITLE6=Mozart - Concerto  pour flûte, harpe et orchestre en ut majeur KV.299 (297c) - I. Allegro    [1988]
+TTITLE7=Mozart - Concerto  pour flûte, harpe et orchestre en ut majeur KV.299 (297c) - II. Andantino
+TTITLE8=Mozart - Concerto  pour flûte, harpe et orchestre en ut majeur KV.299 (297c) - III. Rondeau
+EXTD=YEAR: 2010
+EXTT0=Israel Philharmonic Orchestra\nZubin Mehta\n
+EXTT1=Israel Philharmonic Orchestra\nZubin Mehta\n
+EXTT2=Israel Philharmonic Orchestra\nZubin Mehta\n
+EXTT3=Israel Philharmonic Orchestra\nZubin Mehta\n
+EXTT4=Israel Philharmonic Orchestra\nZubin Mehta\n
+EXTT5=Israel Philharmonic Orchestra\nZubin Mehta\n
+EXTT6=Franz Liszt Chamber Orchestra\nJanos Rolla\n
+EXTT7=Franz Liszt Chamber Orchestra\nJanos Rolla\n
+EXTT8=Franz Liszt Chamber Orchestra\nJanos Rolla\n
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	45625
+#	77130
+#	104285
+#	120020
+#	164232
+#	193830
+#	220667
+#	244830
+#
+# Disc length: 3492 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=760da209
+DTITLE=Barbara Dennerlein - Hot Stuff
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Hot Stuff
+TTITLE1=Wow
+TTITLE2=Top Secret
+TTITLE3=Birthday Blues
+TTITLE4=Polar Lights
+TTITLE5=Killer Joe
+TTITLE6=My Invitation
+TTITLE7=Seven Steps To Heaven
+TTITLE8=Toscanian Sunset
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

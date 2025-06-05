@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22432
+#	43257
+#	77320
+#	105635
+#	143707
+#	167850
+#	183632
+#	206402
+#
+# Disc length: 3224 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=7b0c9609
+DTITLE=Sister Sledge - Greatest Hits - Live!
+DYEAR=1997
+DGENRE=Pop
+TTITLE0=Everybody Dance
+TTITLE1=Frankie
+TTITLE2=Lost In Music
+TTITLE3=Thinking Of You
+TTITLE4=We Are Family
+TTITLE5=True Love
+TTITLE6=He's The Greatest Dancer
+TTITLE7=Love Of The Lord
+TTITLE8=Brother, Brother Stop
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19330
+#	37282
+#	73277
+#	91430
+#	120462
+#	137155
+#	155935
+#
+# Disc length: 2390 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a095408
+DTITLE=Yosuke Yamashita - Banslikana
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=A Night in Tunesia
+TTITLE1=Stella
+TTITLE2=Banslikana
+TTITLE3=Chiasma
+TTITLE4=Autumn Leaves
+TTITLE5=Ko's Daydream
+TTITLE6=Lullaby
+TTITLE7=Bird
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28543
+#	61657
+#	87502
+#	108759
+#	127164
+#	154109
+#	183821
+#	210414
+#	260258
+#
+# Disc length: 3676 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=790e5a0a
+DTITLE=Ull Moeck Trio - ARSIS
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Nocturne - F.Chopin
+TTITLE1=Elise - L.v.Beethoven
+TTITLE2=Maria - traditional
+TTITLE3=T.T.T - B.Evans
+TTITLE4=Der Kreisel - traditional
+TTITLE5=Die Bruecke - F.Kuckuck
+TTITLE6=Waltz for Dave - C.Corea
+TTITLE7=ELM - R.Beirach
+TTITLE8=Infant Eyes - W.Shorter
+TTITLE9=Silence - C.Haden
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

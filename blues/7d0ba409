@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16380
+#	35628
+#	53344
+#	101280
+#	125124
+#	148218
+#	170865
+#	203625
+#
+# Disc length: 2982 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=7d0ba409
+DTITLE=Nougaro [Claude] - NougaYork
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=NougaYork
+TTITLE1=Rythm'flouze
+TTITLE2=Harlem
+TTITLE3=Un écureuil à Central Park
+TTITLE4=Lady Liberty
+TTITLE5=Le petit oiseau de Marrakech
+TTITLE6=Le gardien de phare
+TTITLE7=Nougarock (Un écureuil à Central Park)
+TTITLE8=Il faut tourner la page
+EXTD=ID3G:   8 YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29493
+#	67398
+#	98317
+#	139115
+#	166628
+#	191623
+#	224698
+#
+# Disc length: 3384 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=710d3608
+DTITLE=Volume 5 - (Volume 5)
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Mango
+TTITLE1=Love project
+TTITLE2=Sans détour
+TTITLE3=Sortie 42
+TTITLE4=Vertigo
+TTITLE5=Vecindario
+TTITLE6=Jaubernie
+TTITLE7=Sunday Waltz
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30645
+#	65182
+#	96692
+#	123640
+#	146330
+#	180958
+#	210774
+#
+# Disc length: 3102 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=700c1c08
+DTITLE=Various Artist - Jazz For A Summer Night Disc 2
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=One's Own Room - Mulgrew Miller
+TTITLE1=Episode From A Village Dance - Ralph Moore
+TTITLE2=Samba Du Bois - Phil Woods
+TTITLE3=Golden Lotus - Kenny Barron
+TTITLE4=Cheeka's Dance - Richard "Groove" Holmes
+TTITLE5=Jean Marie - Woody Shaw
+TTITLE6=Goin' Home - Sonny Phillips
+TTITLE7=Dreams - James Moody
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

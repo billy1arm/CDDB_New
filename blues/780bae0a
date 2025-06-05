@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	14582
+#	26600
+#	42000
+#	55075
+#	69567
+#	80197
+#	92680
+#	108932
+#	153990
+#
+# Disc length: 2992 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=780bae0a
+DTITLE=Grandes Valses - Grandes Valses
+DYEAR=1991
+DGENRE=Valses
+TTITLE0=Le beau danube bleu
+TTITLE1=La vie d'artiste
+TTITLE2=Valse de l'empereur
+TTITLE3=Sang viennois
+TTITLE4=Les feuilles du matin
+TTITLE5=Acceleration
+TTITLE6=La chauve-souris
+TTITLE7=Rêves de printemps
+TTITLE8=Invitation à la valse OP.65
+TTITLE9=Valses nobles et sentimentales
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

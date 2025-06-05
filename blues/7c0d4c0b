@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24115
+#	44960
+#	67657
+#	88047
+#	106095
+#	135235
+#	154772
+#	170312
+#	191422
+#	225745
+#
+# Disc length: 3406 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=7c0d4c0b
+DTITLE=pure soul - no text
+DYEAR=1900
+DGENRE=
+TTITLE0=no text
+TTITLE1=no text
+TTITLE2=no text
+TTITLE3=no text
+TTITLE4=no text
+TTITLE5=no text
+TTITLE6=no text
+TTITLE7=no text
+TTITLE8=no text
+TTITLE9=no text
+TTITLE10=no text
+EXTD=\t
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=\n
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

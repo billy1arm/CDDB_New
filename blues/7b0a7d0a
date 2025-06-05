@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22980
+#	42877
+#	62122
+#	77873
+#	98481
+#	127535
+#	145199
+#	168656
+#	184400
+#
+# Disc length: 2687 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7b0a7d0a
+DTITLE=The Moody Blues - Classic
+DYEAR=0000
+DGENRE=Blues
+TTITLE0=Your Wildest Dreams
+TTITLE1=Question
+TTITLE2=No More Lies
+TTITLE3=Sitting at the Wheel
+TTITLE4=Driftwood
+TTITLE5=Nights in White Satin
+TTITLE6=Say It with Love
+TTITLE7=The Voice
+TTITLE8=Steppin in a Slide Zone
+TTITLE9=Gemini Dream
+EXTD=YEAR: 0000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

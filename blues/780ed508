@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34643
+#	70643
+#	104200
+#	147666
+#	181404
+#	216976
+#	251279
+#
+# Disc length: 3799 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=780ed508
+DTITLE=Max von Mosch Orchestra - Black Perigord
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Black Perigord
+TTITLE1=Dreams Remembered
+TTITLE2=Fox Paws
+TTITLE3=Everytime we say Goodbye
+TTITLE4=Letter from Amsterdam
+TTITLE5=Shades of red
+TTITLE6=Home in the Sky
+TTITLE7=Winter Song
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

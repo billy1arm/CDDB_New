@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19167
+#	40542
+#	63860
+#	79062
+#	95957
+#	119512
+#	137547
+#	152747
+#	174720
+#
+# Disc length: 2638 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7e0a4c0a
+DTITLE=Milt Jackson and Strings - Feelings
+DYEAR=1900
+DGENRE=
+TTITLE0=Feelings
+TTITLE1=Should Be Come To ME
+TTITLE2=Trouble Is A Man
+TTITLE3=Moody Blue
+TTITLE4=The Day It Rained
+TTITLE5=My Kind Of Trouble Is You
+TTITLE6=If You Went Away
+TTITLE7=Tears
+TTITLE8=Blues For Edith
+TTITLE9=Yoy Don't Know What Love Is
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

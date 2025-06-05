@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51335
+#	84692
+#	125927
+#	156142
+#	190972
+#	236102
+#	263005
+#
+# Disc length: 3638 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=720e3408
+DTITLE=Chizhik, Leonid - Days of Wine and Roses
+DYEAR=1987
+DGENRE=Jazz
+TTITLE0=Band Möbius
+TTITLE1=Days of Wine and Roses
+TTITLE2=Exprormpt
+TTITLE3=All The Things You Are
+TTITLE4=To My Mother
+TTITLE5=Wege nach Ostern (Ferner Osten)
+TTITLE6=Nostalgische Elegie
+TTITLE7=Love Is Here To Stay
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

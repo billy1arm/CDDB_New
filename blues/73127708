@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     165
+#     21110
+#     145832
+#     162642
+#     247077
+#     251920
+#     292922
+#     324327
+# 
+# Disc length: 4729 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=73127708
+DTITLE=Solomon Burke - Soul Alive!
+DYEAR=1900
+DGENRE=
+TTITLE0=Everybody Needs Sombody To Love
+TTITLE1=Medley
+TTITLE2=Down In The Valley
+TTITLE3=Medley
+TTITLE4=Gotta Get You Off My Mind
+TTITLE5=Medley
+TTITLE6=Medley
+TTITLE7=Medley
+EXTD=
+EXTT0=
+EXTT1=If You Need Me /Tonight's The Night - \nYou're Good For Me /I Almost L
+EXTT1=ost My Mind /\nWhat Am I Living For? - Just Out Of Reach - Monologue \
+EXTT1=nTake Me (Just As I Am)  - I Can't Stop Loving You
+EXTT2=
+EXTT3=Tonight's The Night - Beautiful Brown Eyes\nJust A Matter Of Time - Mo
+EXTT3=nologue /\nHold What You've Got - \nHe'll Have To Go - Cry To Me
+EXTT4=
+EXTT5=Meet Me In The Church /\nThe Price /\nWords
+EXTT6=You're Good To Me /\nSend Me Some Lovin'
+EXTT7=Gotta Get Yoou Off My Mind /\nHaving A Party - Amen
+PLAYORDER=

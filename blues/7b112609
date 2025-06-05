@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42342
+#	82765
+#	116865
+#	153997
+#	176695
+#	223955
+#	255917
+#	297330
+#
+# Disc length: 4392 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7b112609
+DTITLE=Andy Martin Quartet - live at capozzoli's
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=East Of The Sun
+TTITLE1=Alone Together
+TTITLE2='S Wonderful
+TTITLE3=Someday My Prince Will Come
+TTITLE4=These Foolish Things
+TTITLE5=A Day In The Life Of A Fool
+TTITLE6=Line For Lewis
+TTITLE7=Angel Eyes
+TTITLE8=But Beautiful
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

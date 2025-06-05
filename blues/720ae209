@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	22075
+#	44407
+#	69075
+#	82897
+#	113052
+#	129405
+#	178280
+#	195537
+#
+# Disc length: 2788 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40PlusFr
+#
+DISCID=720ae209
+DTITLE=Jacques Loussier - Play Bach 93
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Prélude n°1 en Do majeur
+TTITLE1=Concerto italien - Allegro
+TTITLE2=Concerto italien - Andante
+TTITLE3=Concerto italien - Presto
+TTITLE4=Prélude n°2 en Do mineur
+TTITLE5=Aria (extrait de la suite en Ré)
+TTITLE6=Toccata et fugue en Ré mineur
+TTITLE7=Gavotte en Si mineur
+TTITLE8=Choral n°1 en Mi bémol
+EXTD=YEAR: 1993 ID3G: 8
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

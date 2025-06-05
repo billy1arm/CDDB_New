@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12817
+#	30770
+#	41392
+#	56835
+#	69562
+#	84080
+#	95577
+#	107585
+#	118492
+#
+# Disc length: 1744 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=7406ce0a
+DTITLE=Howlin' Wolf - 
+DYEAR=1900
+DGENRE=
+TTITLE0=Ain't Superstitious
+TTITLE1=Goin' Down Slow
+TTITLE2=Somebody Walkin' In My House
+TTITLE3=Commit A Crime
+TTITLE4=My Mind Is Ramblin'
+TTITLE5=I Walked From Dallas
+TTITLE6=My Country Sugar Mama
+TTITLE7=Louise
+TTITLE8=Hold On To Your Money
+TTITLE9=Streamline Woman
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

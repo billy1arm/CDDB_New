@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14075
+#	32817
+#	49842
+#	72270
+#	91400
+#	111197
+#	137862
+#	158035
+#
+# Disc length: 2380 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7b094a09
+DTITLE=平賀マリカ - My shining hour
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=It's all right with me
+TTITLE1=Over the rainbow
+TTITLE2=My shining hour
+TTITLE3=This will make you laugh
+TTITLE4=Beautiful love
+TTITLE5=Summer time
+TTITLE6=Little girl blue
+TTITLE7=Broadway
+TTITLE8=Misty
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

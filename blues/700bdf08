@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19167
+#	46437
+#	68665
+#	89730
+#	117815
+#	145080
+#	164850
+#
+# Disc length: 3041 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=700bdf08
+DTITLE=Stan Getz - Broadway
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=All God's Children got Rhythm
+TTITLE1=Broadway
+TTITLE2=East of the sun and west of the moon
+TTITLE3=They all fall in Love
+TTITLE4=Dear old Stockholm
+TTITLE5=Ladybird
+TTITLE6=Theme from Manuel
+TTITLE7=Our kind of Sabi
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

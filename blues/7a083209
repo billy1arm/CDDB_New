@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18541
+#	49103
+#	59176
+#	94695
+#	107998
+#	114605
+#	120275
+#	143539
+#
+# Disc length: 2100 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7a083209
+DTITLE=Gebrüder Grimm - Aschenputtel (Ernst Deutsch Theater)
+DYEAR=2002
+DGENRE=Hörbuch
+TTITLE0=Einleitung
+TTITLE1=Spiellied
+TTITLE2=Taubenlied
+TTITLE3=Aschenputtels Lied
+TTITLE4=Duett Prinz und Narr
+TTITLE5=Hip Hopp Lied
+TTITLE6=Verfolgungslied
+TTITLE7=Lied der Schwestern
+TTITLE8=Liebeswalzer
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

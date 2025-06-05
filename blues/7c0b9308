@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49402
+#	110530
+#	142260
+#	169630
+#	188717
+#	206140
+#	221452
+#
+# Disc length: 2965 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=7c0b9308
+DTITLE=Various Artist - Columbia Jazz Masterpieces Radio Show, Vol. 1
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=St. Louis Blues/Louis Armstrong
+TTITLE1=Stella By Starlight/Miles Davis
+TTITLE2=Blue Rondo A La Turk/Dave Brubeck
+TTITLE3=Embraceable You/Ben Webster
+TTITLE4=Lazy Rhapsody/Duke Ellington
+TTITLE5=Air Mail Special/Charlie Christian
+TTITLE6=I'll Be Around/Billie Holiday
+TTITLE7=Conclusion
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7045
+#	20682
+#	32817
+#	49337
+#	64395
+#	75265
+#	92540
+#	119050
+#	167697
+#
+# Disc length: 2508 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=7f09ca0a
+DTITLE=Eric Clapton - Rush - soundtrack
+DYEAR=1992
+DGENRE=Other
+TTITLE0=Eric Clapton - New Recruit
+TTITLE1=Eric Clapton - Tracks And Lines
+TTITLE2=Eric Clapton - Realization
+TTITLE3=Eric Clapton - Kristen And Jim
+TTITLE4=Eric Clapton - Preludin Fugue
+TTITLE5=Eric Clapton - Cold Turkey
+TTITLE6=Eric Clapton - Will Gaines
+TTITLE7=Eric Clapton - Help Me Up
+TTITLE8=Eric Clapton - Don't Know Which Way To Go
+TTITLE9=Tears In Heaven
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

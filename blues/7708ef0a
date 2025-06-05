@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16100
+#	33225
+#	44875
+#	60875
+#	77025
+#	88125
+#	108750
+#	130700
+#	149250
+#
+# Disc length: 2289 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.3 PL0
+#
+DISCID=7708ef0a
+DTITLE=Blue sister
+DYEAR=1900
+DGENRE=
+TTITLE0=Cold house blues
+TTITLE1=Little by little
+TTITLE2=My man
+TTITLE3=To do it
+TTITLE4=Sugar coated love
+TTITLE5=Do you ever get lonely
+TTITLE6=I'm a queen bee
+TTITLE7=Close to you
+TTITLE8=Zydeco boogaloo
+TTITLE9=Love me like a man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35447
+#	76532
+#	110065
+#	135407
+#	178922
+#	209762
+#	266117
+#
+# Disc length: 4040 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=700fc608
+DTITLE=Earl Hines - At The Party
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=It's Only A Paper Moon
+TTITLE1=Coquette
+TTITLE2=Poor Butterfly
+TTITLE3=Indiana
+TTITLE4=Along The Santa Fe Trail
+TTITLE5=Lazy River
+TTITLE6=Chicago/I Left My Heart In San Francisco
+TTITLE7=I Want A Little Girl
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

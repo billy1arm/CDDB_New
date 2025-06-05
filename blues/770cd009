@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23557
+#	41422
+#	65437
+#	93544
+#	115976
+#	134794
+#	155481
+#	188046
+#
+# Disc length: 3282 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=770cd009
+DTITLE=Mirabai - Flores
+DYEAR=2005
+DGENRE=New Age
+TTITLE0=Corazón
+TTITLE1=Hon Hon Hon
+TTITLE2=Flores De Colores
+TTITLE3=Aportua
+TTITLE4=El Mar
+TTITLE5=Ojos
+TTITLE6=Ayum Mapu
+TTITLE7=El Viento
+TTITLE8=Guru Ram Das
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12790
+#	40172
+#	59175
+#	87187
+#	108680
+#	132592
+#	153775
+#	177410
+#
+# Disc length: 2822 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=770b0409
+DTITLE=Alex Street Band - Presentation of Alex Street Band
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Wake Up (intro)
+TTITLE1=Dawn
+TTITLE2=Brighter and Brighter
+TTITLE3=June
+TTITLE4=Glory
+TTITLE5=Kajo
+TTITLE6=Perfect Day
+TTITLE7=Nobody Knows
+TTITLE8=Home
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

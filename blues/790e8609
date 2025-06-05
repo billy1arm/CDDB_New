@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30859
+#	55077
+#	88027
+#	118677
+#	157722
+#	186529
+#	223460
+#	257242
+#
+# Disc length: 3720 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=790e8609
+DTITLE=Riki Newell - La Ventana
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Dimensional Shift
+TTITLE1=La Ventana
+TTITLE2=Mystic Blues
+TTITLE3=Wing Span
+TTITLE4=Dos Suenos
+TTITLE5=Luna Nueva
+TTITLE6=Hearts Desire
+TTITLE7=Journey of the Soul
+TTITLE8=Flames of Passion
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

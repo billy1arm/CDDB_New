@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57615
+#	100291
+#	123640
+#	152124
+#	181144
+#	220164
+#	278507
+#
+# Disc length: 4244 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=71109208
+DTITLE=Kidd Jordan - Trio and Duo in New Orleans disc 1
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Trio I
+TTITLE1=Trio II
+TTITLE2=Trio III (High Altitude)
+TTITLE3=Drum Solo
+TTITLE4=Bass Solo
+TTITLE5=Trio IV
+TTITLE6=Trio V
+TTITLE7=Trio VI (Concluding)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

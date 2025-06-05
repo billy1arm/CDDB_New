@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15772
+#     31090
+#     47940
+#     68547
+#     92227
+#     114572
+#     135700
+#     159507
+#     179977
+# 
+# Disc length: 2653 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7e0a5b0a
+DTITLE=Angie White, Greg Reese, Barry Beane, Bobby Whipple - A Simple Truth
+DYEAR=1900
+DGENRE=
+TTITLE0=Feel Good Band
+TTITLE1=Sometimes I Run
+TTITLE2=Underkill
+TTITLE3=Temples
+TTITLE4=All the Love
+TTITLE5=Future Vision
+TTITLE6=Happily
+TTITLE7=Out of Love
+TTITLE8=New World Man
+TTITLE9=Again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

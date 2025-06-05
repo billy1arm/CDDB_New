@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16630
+#	38649
+#	60437
+#	82628
+#	102166
+#	139676
+#	159855
+#	179895
+#	207625
+#
+# Disc length: 3069 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=730bfb0a
+DTITLE=TONY IOMMI - Iommi
+DYEAR=2000
+DGENRE=Heavy Metal
+TTITLE0=Laughing Man(In The Devil Mask)(Feat. Henry Rollins)
+TTITLE1=Meat(Feat. Skin)
+TTITLE2=Goodbye Lament(Feat. Dave Grohl)
+TTITLE3=Time Is Mine(Feat. Philip Anselmo)
+TTITLE4=Patterns(Feat. Serj Tankian)
+TTITLE5=Black Oblivion(Feat. Billy Corgan)
+TTITLE6=Flame On(Feat. Ian Astbury)
+TTITLE7=Just Say No To Love(Feat. Peter Steele)
+TTITLE8=Who's Fooling Who(Feat. Ozzy)
+TTITLE9=Into The Night(Feat. Billy Idol)
+EXTD=YEAR: 2000
+EXTT0=Feat. Henry Rollins
+EXTT1=Feat. Skin
+EXTT2=Feat. Dave Grohl
+EXTT3=Feat. Phil Anselmo\n
+EXTT4=Feat. Serj Tankian
+EXTT5=Feat. Billy Corgan
+EXTT6=Feat. Ian Astbury
+EXTT7=Feat. Peter Steele
+EXTT8=Feat. Ozzy
+EXTT9=Feat Billy Idol
+PLAYORDER=

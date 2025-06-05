@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38016
+#	69696
+#	104693
+#	138029
+#	164945
+#	197720
+#	229862
+#
+# Disc length: 3474 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=730d9008
+DTITLE=gen;lon - Dong Dong Gaaf
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=tic tac
+TTITLE1=badadah
+TTITLE2=see
+TTITLE3=awake
+TTITLE4=noskapin
+TTITLE5=le
+TTITLE6=sunday
+TTITLE7=boil
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

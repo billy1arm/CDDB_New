@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31402
+#	60510
+#	105577
+#	143350
+#	167715
+#	193415
+#	223690
+#	251020
+#
+# Disc length: 3655 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7d0e4509
+DTITLE=DePaul University Jazz Band - woodlands
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Soleberry 01
+TTITLE1=Una Mas 02
+TTITLE2=Goodbye, Mr. Evans 03
+TTITLE3=Three and One 04
+TTITLE4=Lauren's song 05
+TTITLE5=A Subtle Smile 06
+TTITLE6=Who Can I Turn To? 07
+TTITLE7=Souvenir 08
+TTITLE8=Backwoods 09
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22125
+#	41400
+#	65250
+#	84600
+#	108300
+#	116700
+#	125325
+#	133725
+#
+# Disc length: 1895 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=79076509
+DTITLE=Petit-Pit - Season Cycle
+DYEAR=2006
+DGENRE=JPop
+TTITLE0=秋空の疾走
+TTITLE1=yuki no kaze
+TTITLE2=SAKURAKAZE
+TTITLE3=ナツカゼ
+TTITLE4=Lasting Season Story
+TTITLE5=CM1
+TTITLE6=CM2
+TTITLE7=CM3
+TTITLE8=CM4
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

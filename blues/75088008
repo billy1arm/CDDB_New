@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14951
+#	37619
+#	54367
+#	74814
+#	107992
+#	124365
+#	144270
+#
+# Disc length: 2178 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=75088008
+DTITLE=Gerry Mulligan - Butterfly with Hiccups
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Butterfly with Hiccups
+TTITLE1=You'd Be So Nice To Come Home To
+TTITLE2=Theme for Jobim
+TTITLE3=Old Devil Moon
+TTITLE4=The Ant Hill
+TTITLE5=Blues for Lynda
+TTITLE6=Line for Lyons
+TTITLE7=Crazy Day
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

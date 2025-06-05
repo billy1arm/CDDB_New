@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	68746
+#	92952
+#	139279
+#	180248
+#	216023
+#	293470
+#	326843
+#
+# Disc length: 4618 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=73120808
+DTITLE=Miles Davis - Tutu
+DYEAR=1986
+DGENRE=Jazz
+TTITLE0=Opening Medley
+TTITLE1=New Blues
+TTITLE2=Maze
+TTITLE3=Human Nature
+TTITLE4=Portia
+TTITLE5=Splatch
+TTITLE6=Time After Time
+TTITLE7=Carnival
+EXTD=YEAR: 1986
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

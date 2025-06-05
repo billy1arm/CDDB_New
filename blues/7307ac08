@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19816
+#	38691
+#	56227
+#	74498
+#	93250
+#	111612
+#	128971
+#
+# Disc length: 1966 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7307ac08
+DTITLE=Bechet-Spanier - Bechet-Spanier Big Four
+DYEAR=1940
+DGENRE=Jazz
+TTITLE0=Sweet Lorraine
+TTITLE1=Up A Lazy river
+TTITLE2=China Boy
+TTITLE3=For or Five Times
+TTITLE4=That's a Plenty
+TTITLE5=If I Could Be With You
+TTITLE6=Squeeze Me
+TTITLE7=Sweet Sue
+EXTD=YEAR: 1940
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

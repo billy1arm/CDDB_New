@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19087
+#	64828
+#	94658
+#	124704
+#	166101
+#	215758
+#	262110
+#	279889
+#
+# Disc length: 4016 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7b0fae09
+DTITLE=Cinematic Orchestra - Every Day
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=All That You Give
+TTITLE1=Burn Out
+TTITLE2=Flite
+TTITLE3=Evolution
+TTITLE4=Man With The Movie Camera
+TTITLE5=All Things To All Men
+TTITLE6=Everyday
+TTITLE7=Oregon
+TTITLE8=Horizon
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

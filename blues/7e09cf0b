@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15442
+#	32017
+#	45280
+#	64360
+#	75090
+#	89822
+#	102260
+#	121047
+#	146135
+#	166115
+#
+# Disc length: 2513 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.50
+#
+DISCID=7e09cf0b
+DTITLE=T-Model Ford - Pee-Wee Get My Gun
+DYEAR=1900
+DGENRE=
+TTITLE0=Cut You Loose
+TTITLE1=T-Model Theme Song
+TTITLE2=Been a Long Time
+TTITLE3=Turkey and the Rabbit
+TTITLE4=Can't Be Touched
+TTITLE5=Nobody Gets Me Down
+TTITLE6=I'm Insane
+TTITLE7=Where You Been
+TTITLE8=Feels So Bad
+TTITLE9=Sugar Farm
+TTITLE10=Let Me In
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15315
+#     31833
+#     43130
+#     61165
+#     77175
+#     90565
+#     103623
+#     126578
+#     139795
+# 
+# Disc length: 2035 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7c07f10a
+DTITLE=Victoria Spivey - Woman Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Christmas without Santa Claus
+TTITLE1=A Big One
+TTITLE2=Let's Ride Tonight
+TTITLE3=What Is This Thing They're Talking About
+TTITLE4=I'm A Red Hot Mama
+TTITLE5=Grow Old Together
+TTITLE6=Beautiful World
+TTITLE7=I Got Men All Over This Town
+TTITLE8=That Man
+TTITLE9=Thursday Girl
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

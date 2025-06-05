@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34850
+#	67487
+#	105425
+#	131395
+#	169137
+#	202300
+#	260070
+#
+# Disc length: 4051 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7c0fd108
+DTITLE=Par Example - But Everything ... seems to be fading away
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Even a Storm
+TTITLE1=Olympus mons
+TTITLE2=Escape from the eruption
+TTITLE3=The dive
+TTITLE4=Gently emerging from the surface
+TTITLE5=Exeat from parcae
+TTITLE6=How life began
+TTITLE7=But everything seems to be fading away
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

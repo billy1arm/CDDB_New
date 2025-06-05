@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35243
+#	45242
+#	52985
+#	65821
+#	76631
+#	94069
+#	115951
+#	131990
+#
+# Disc length: 2389 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=77095309
+DTITLE=Wind Project of Schärding - Herbstkonzert 2005 CD I
+DYEAR=2005
+DGENRE=Wind Band
+TTITLE0=Giuseppe Verdi - La forza del destino Sinfonia
+TTITLE1=Georges Bizet - Carmen Suite I
+TTITLE2=Georges Bizet - Carmen Suite II
+TTITLE3=Georges Bizet - Carmen Suite III
+TTITLE4=Georges Bizet - Carmen Suite IV
+TTITLE5=Georges Bizet - Flower Song from Carmen
+TTITLE6=Richard Wagner - Walkürenritt
+TTITLE7=Richard Wagner - Winterstürme wichen dem Wonnemond aus 'Die Walküre'
+TTITLE8=James Barnes - Symphonic Overture
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

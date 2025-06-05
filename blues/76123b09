@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31435
+#	66037
+#	111878
+#	155331
+#	199270
+#	233323
+#	266244
+#	305005
+#
+# Disc length: 4669 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=76123b09
+DTITLE=Michael Brecker - Pilgrimage
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=The Mean Time
+TTITLE1=Five Months From Midnight
+TTITLE2=Anagram
+TTITLE3=Tumbleweed
+TTITLE4=When Can I Kiss You Again
+TTITLE5=Cardinal Rule
+TTITLE6=Half Moon Lane
+TTITLE7=Loose Threads
+TTITLE8=Pilgrimage
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

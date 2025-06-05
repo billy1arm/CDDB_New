@@ -1,0 +1,45 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     41490
+#     77720
+#     95900
+#     122890
+#     157040
+#     193930
+#     228050
+#     262960
+# 
+# Disc length: 4116 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=74101209
+DTITLE=ae - CD-R compilation 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Vliezwei ()Vliegenbos morning reproduced by Autechre)
+TTITLE1=inhake 2
+TTITLE2=medrey
+TTITLE3=milk dx
+TTITLE4=SKF 10047
+TTITLE5=IBelm: Autechre mix
+TTITLE6=Ibelm: Autechre mx2
+TTITLE7=Refractions in the Plastic Pulse (febate mix)
+TTITLE8=Drain
+EXTD=
+EXTT0=From comp. Sub Machine/The Umheard/Vliezwei on the Gift label, cat. no
+EXTT0=Gif12CD\n
+EXTT1=From Peel Sessions 13/10/95
+EXTT2=Bonus track from japanese version of Tri Repetae
+EXTT3=From Peel Sessions 13/10/95
+EXTT4=From Switchblade by schaft
+EXTT5=From Delay Tambor by Silvania
+EXTT6=From Delay Tambor by Silvania
+EXTT7=From Miss Modular by Steriolab
+EXTT8=From Peel Sessions 13/10/95
+PLAYORDER=

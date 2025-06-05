@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25255
+#	58242
+#	79906
+#	101443
+#	121195
+#	139850
+#	173478
+#	215259
+#
+# Disc length: 3175 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=730c6509
+DTITLE=Mozart - Sonates N°14, N°17, N°18  (Zoltàn Kocsis, piano)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Sonate N°14 en do mineur - I. Allegro
+TTITLE1=Sonate N°14 en do mineur - II. Adagio
+TTITLE2=Sonate N°14 en do mineur - III. Molto allegro
+TTITLE3=Sonate N°17 en ré majeur - I. Allegro
+TTITLE4=Sonate N°17 en ré majeur - II. Adagio
+TTITLE5=Sonate N°17 en ré majeur - III. Allegretto
+TTITLE6=Sonate N°18 en fa majeur - I. Allegro
+TTITLE7=Sonate N°18 en fa majeur - II. Andante
+TTITLE8=Sonate N°18 en fa majeur - III. Rondeau
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

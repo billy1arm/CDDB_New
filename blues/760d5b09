@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20632
+#	53170
+#	96337
+#	110475
+#	135467
+#	165665
+#	213875
+#	235967
+#
+# Disc length: 3421 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=760d5b09
+DTITLE=Mahattan Jazz Story - 4 I Can't Get Started
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=I Can't Get Started - Sonny Rollins
+TTITLE1=Watermelon Man - Herbie Hancock
+TTITLE2=Moanin' - Art Blakey
+TTITLE3=It's Only A Paper Moon - Nat King Cole
+TTITLE4=Flight To Jordan - Duke Jordan
+TTITLE5=Fuego - Donald Byrd
+TTITLE6=Blue Train - John Coltrane
+TTITLE7=Five Spot After Dark - Art Farmer
+TTITLE8=Autumn In New York - Kenny Dorham
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

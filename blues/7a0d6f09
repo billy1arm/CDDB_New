@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24033
+#	51847
+#	81796
+#	111577
+#	148044
+#	182345
+#	194734
+#	237543
+#
+# Disc length: 3441 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a0d6f09
+DTITLE=Big Muddy - Spill
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=River Song
+TTITLE1=Or So I Thought
+TTITLE2=Hide
+TTITLE3=Wishful
+TTITLE4=Turn
+TTITLE5=Ugly Shade
+TTITLE6=District
+TTITLE7=Waiting Song
+TTITLE8=Yosemite Stomp
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

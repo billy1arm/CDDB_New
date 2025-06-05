@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25767
+#	65811
+#	118547
+#	158053
+#	194927
+#	239041
+#	277646
+#
+# Disc length: 4140 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.16
+#
+DISCID=71102a08
+DTITLE=Clark Terry - Carnegie blues the music of Duke Ellington Disc 1
+DYEAR=2015
+DGENRE=Blues
+TTITLE0=Take the A train
+TTITLE1=In a Mellotone
+TTITLE2=Lush life
+TTITLE3=I let a song go out of my heart
+TTITLE4=Spacemen
+TTITLE5=Mood indigo
+TTITLE6=Satin doll
+TTITLE7=It don't mean a thing
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

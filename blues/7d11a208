@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49659
+#	84570
+#	126694
+#	170101
+#	214173
+#	249523
+#	287181
+#
+# Disc length: 4516 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7d11a208
+DTITLE=Peter King - Janus
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=01 Mr Silver
+TTITLE1=02 Le Sunset
+TTITLE2=03 Janus (Movement 1)
+TTITLE3=04 Janus (Movement 2)
+TTITLE4=05 Janus (Movement 3)
+TTITLE5=06 Janus (Movement 4)
+TTITLE6=07 Janus (Movement 5)
+TTITLE7=08 Ronnie's Sorrow
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9080
+#	49725
+#	72842
+#	82827
+#	102935
+#	110405
+#	141585
+#	157562
+#	162600
+#
+# Disc length: 2352 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=73092e0a
+DTITLE=笠原弘子 - 五つのビーズ
+DYEAR=1999
+DGENRE=JPop
+TTITLE0=プロローグ
+TTITLE1=オーガの森
+TTITLE2=ノーラを尋ねて
+TTITLE3=セフィーの川(1)
+TTITLE4=想いの行方
+TTITLE5=セフィーの川(2)
+TTITLE6=パスカルの丘(1)
+TTITLE7=Melody
+TTITLE8=パスカルの丘(2)
+TTITLE9=ターミア
+EXTD=YEAR: 1999.6/30
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

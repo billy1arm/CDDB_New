@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	56887
+#	104218
+#	135899
+#	195927
+#	222187
+#	264279
+#	299936
+#
+# Disc length: 4731 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7f127908
+DTITLE=Freddie Hubbard - The soul-jazz and fusion years: 66-82 (2-cd)
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Povo
+TTITLE1=Baraka Sasa
+TTITLE2=Ebony Moonbeams
+TTITLE3=Kuntu
+TTITLE4=Liquid Love
+TTITLE5=Little Sunflower (with Al Jarreau)
+TTITLE6=Happines Is Now
+TTITLE7=Gibraltar
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

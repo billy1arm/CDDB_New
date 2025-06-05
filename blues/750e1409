@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35250
+#	65775
+#	97725
+#	136050
+#	161775
+#	184275
+#	210975
+#	239325
+#
+# Disc length: 3606 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=750e1409
+DTITLE=Don Sickler - Nightwatch
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Hill's Edge
+TTITLE1=Ronnie's a Dynamite Lady
+TTITLE2=Night Watch
+TTITLE3=Scenes in the City
+TTITLE4=On the Real Side
+TTITLE5=Something for Kenny
+TTITLE6=Barfly
+TTITLE7=One Down
+TTITLE8=Uranus
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

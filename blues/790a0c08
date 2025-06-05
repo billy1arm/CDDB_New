@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29135
+#	46924
+#	65259
+#	96790
+#	123601
+#	142443
+#	173177
+#
+# Disc length: 2574 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.20
+#
+DISCID=790a0c08
+DTITLE=Various Artist - The Complete Cuban Jam Sessions V
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Juaniquita
+TTITLE1=Pa' Coco Solo
+TTITLE2=Busco Una Chinita
+TTITLE3=Guajirando
+TTITLE4=Goza El Montuno
+TTITLE5=Vamos A Gozar
+TTITLE6=La Flauta De Jose
+TTITLE7=La Charanga
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14447
+#	42542
+#	57192
+#	77110
+#	103742
+#	116392
+#	144357
+#	164525
+#
+# Disc length: 2271 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7408dd09
+DTITLE=The High Spirits - Spirituals dei neri d'America
+DYEAR=1900
+DGENRE=
+TTITLE0=Old Time Religion
+TTITLE1=Wade in the water
+TTITLE2=This Train
+TTITLE3=Free at last
+TTITLE4=When the Saints go marching in
+TTITLE5=Home in that Rock
+TTITLE6=Swing Low sweet Chariot
+TTITLE7=I came to praise the Lord
+TTITLE8=Old Time Religion
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

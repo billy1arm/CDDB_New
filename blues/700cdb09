@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25771
+#	60398
+#	87282
+#	114371
+#	133040
+#	157297
+#	187944
+#	219904
+#
+# Disc length: 3293 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=700cdb09
+DTITLE=Walter Lang - Vol.1
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Im Wunderschönen monat mai
+TTITLE1=springbirds
+TTITLE2=sing this song
+TTITLE3=gute nacht
+TTITLE4=father and son
+TTITLE5=michas moods
+TTITLE6=simon
+TTITLE7=no outono da noite
+TTITLE8=der wegweiser
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

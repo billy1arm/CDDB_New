@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33903
+#	70031
+#	90537
+#	122833
+#	148522
+#	175537
+#	201078
+#	224186
+#
+# Disc length: 3339 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7f0d0909
+DTITLE=Bernhardt, Warren - So Real
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Autumn Leaves
+TTITLE1=Never Let Me Go
+TTITLE2=Brigas Nunca Mais
+TTITLE3=Somewhere
+TTITLE4=I Mean You
+TTITLE5=On The Lake
+TTITLE6=Don´t Explain
+TTITLE7=I Should care
+TTITLE8=So Real
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

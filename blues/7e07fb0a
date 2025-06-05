@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	215
+#	22112
+#	38507
+#	50565
+#	61947
+#	80787
+#	92477
+#	104507
+#	120505
+#	139570
+#
+# Disc length: 2045 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7e07fb0a
+DTITLE=John Lee Hooker - In Person
+DYEAR=1974
+DGENRE=Blues
+TTITLE0=You're Gonna Need Another Favor
+TTITLE1=New Sally Mae
+TTITLE2=Your Baby Ain't Sweet Like Mine
+TTITLE3=She's Long, She's Tall
+TTITLE4=You're Mellow
+TTITLE5=Will the Circle Be Unbroken
+TTITLE6=Flowers on the Hour
+TTITLE7=It Serves Me Right to Suffer
+TTITLE8=Ain't No Big Thing Baby
+TTITLE9=You Can Run Baby
+EXTD=YEAR: 1974 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42207
+#	83855
+#	108585
+#	125705
+#	153577
+#	179662
+#	200790
+#
+# Disc length: 3263 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=740cbd08
+DTITLE=Benson , George - Beyond The Blue Horizon
+DYEAR=1971
+DGENRE=Jazz
+TTITLE0=So What
+TTITLE1=The Gentle Rain
+TTITLE2=All Clear
+TTITLE3=Ode To A Kudu
+TTITLE4=Somewhere In The East
+TTITLE5=All Clear (Alt. Take)
+TTITLE6=Ode To A Kudu (Alt. Take)
+TTITLE7=Somewhere In The East (Alt. Take)
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

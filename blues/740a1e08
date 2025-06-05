@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22200
+#	48675
+#	68925
+#	100350
+#	119400
+#	142575
+#	170625
+#
+# Disc length: 2592 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=740a1e08
+DTITLE=Uli Gutscher Quartett - Trombone Groove
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Trombone Groove
+TTITLE1=My One And Only Love
+TTITLE2=Split The Eleven
+TTITLE3=Samba Lisa
+TTITLE4=Lament
+TTITLE5=Triple Trouble
+TTITLE6=Abendrot
+TTITLE7=Alice In Wonderland
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20924
+#	36925
+#	58243
+#	82403
+#	103027
+#	124117
+#	146853
+#
+# Disc length: 2233 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=7d08b708
+DTITLE=Amedeo Minghi - 1950
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=01-1950
+TTITLE1=02-Sottomarino
+TTITLE2=03-La casa lungo il tevere
+TTITLE3=04-Rapidi movimenti degli occhi (R.E.M.)
+TTITLE4=05-St Michel
+TTITLE5=06-Ladri di sole
+TTITLE6=07-Ciaccona
+TTITLE7=08-Flash Back
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

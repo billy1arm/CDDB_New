@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	30815
+#	51367
+#	84965
+#	98920
+#	115640
+#	136875
+#	163220
+#	181270
+#	208342
+#
+# Disc length: 3093 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: QuintessentialCD v1.0 (c) 1998 Paul Quinn
+#
+DISCID=7c0c130a
+DTITLE=Oscar Pettiford - Montmartre Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Montmartre Blues
+TTITLE1=Back In Paradise
+TTITLE2=Why Not? That's What!
+TTITLE3=Willow Weep For Me
+TTITLE4=My Little Cello
+TTITLE5=Straight Ahead
+TTITLE6=Two Little Pearls
+TTITLE7=Blue Brothers
+TTITLE8=There Will Never Be Another You
+TTITLE9=Laverne Walk
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

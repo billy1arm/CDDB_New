@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21892
+#	36573
+#	56089
+#	82913
+#	96070
+#	128779
+#	139414
+#	168021
+#	195885
+#
+# Disc length: 3177 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta5_freedb
+#
+DISCID=7d0c670a
+DTITLE=Gary moore - Back to the blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Enough of the blues
+TTITLE1=You upset me baby
+TTITLE2=Cold black night
+TTITLE3=Stormy monday
+TTITLE4=Ain't got you
+TTITLE5=Picture of the moon
+TTITLE6=Looking back
+TTITLE7=The prophel
+TTITLE8=How many lies
+TTITLE9=Drowning in tears
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

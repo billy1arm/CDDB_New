@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41500
+#	65648
+#	104524
+#	126672
+#	170256
+#	192796
+#	223915
+#
+# Disc length: 3328 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=7b0cfe08
+DTITLE=Miles Davis - 'Someday My Prince Will Come' [1961]
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Someday my Prince will come (Churchill/Morey)
+TTITLE1=Old folks (Hill/Robison)
+TTITLE2=Pfrancing (M. Davis)
+TTITLE3=Drad Dog (M. Davis)
+TTITLE4=Teo (M. Davis)
+TTITLE5=I thought about you (Mercer/VanHeusen)
+TTITLE6=Blues No. 2 (M. Davis)
+TTITLE7=Someday my Prince will come (Churchill/Morey) (alternate take)
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

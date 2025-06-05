@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23155
+#	41257
+#	73675
+#	95965
+#	118317
+#	135642
+#	152927
+#	168387
+#
+# Disc length: 2515 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7d09d109
+DTITLE=Albert King - Albert
+DYEAR=1900
+DGENRE=
+TTITLE0=Guitar Man
+TTITLE1=I'm Ready
+TTITLE2=Ain't Nothing You Can Do
+TTITLE3=I Don't Care What My Baby Do
+TTITLE4=Change Of Pace
+TTITLE5=My Babe
+TTITLE6=Running Out Of Steam
+TTITLE7=Rub My Back
+TTITLE8=(Ain't It) A Real Good Sign
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

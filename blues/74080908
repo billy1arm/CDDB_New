@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18482
+#	33017
+#	50925
+#	72630
+#	98575
+#	118580
+#	134197
+#
+# Disc length: 2059 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=74080908
+DTITLE=Bennie Green - Swing The Blues
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=Been Walkin
+TTITLE1=Blue Mambo
+TTITLE2=Love At Last
+TTITLE3=Penthouse Blues
+TTITLE4=Hop, Skip And Jump
+TTITLE5=A Bun Dance
+TTITLE6=Pennies From Heaven
+TTITLE7=Change Up Blues
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

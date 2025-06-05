@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14707
+#	32442
+#	53182
+#	75137
+#	90075
+#	97897
+#	128187
+#	160330
+#	182102
+#	208062
+#
+# Disc length: 3122 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 7
+#
+DISCID=7c0c300b
+DTITLE=Helloween - {1999} Metal Jukebox
+DYEAR=1999
+DGENRE=Rock
+TTITLE0=He's A Woman, She's A Man {Scorpions}
+TTITLE1=Locomotive Breath {Jethro Tull}
+TTITLE2=Lay All Your Love On Me {Abba}
+TTITLE3=Space Oddity {David Bowie}
+TTITLE4=From Out Of Nowhere {Faith No More}
+TTITLE5=All My Loving {The Beatles}
+TTITLE6=Hocus Pocus {Focus}
+TTITLE7=Faith Healer {Alex Harvey}
+TTITLE8=Juggernaut {Frank Marino}
+TTITLE9=White Room {Cream}
+TTITLE10=Mexican {Babe Ruth}
+EXTD=YEAR: 1999 ID3G: 17
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

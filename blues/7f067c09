@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 182
+# 25460
+# 36997
+# 50985
+# 62012
+# 71545
+# 88190
+# 105960
+# 116700
+#
+# Disc length: 1662 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b3
+#
+DISCID=7f067c09
+DTITLE=James Cotton - 3 Harp Boogie
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Jelly Jelly
+TTITLE1=South Side Boogie
+TTITLE2=So Glad You're Mine
+TTITLE3=Good Time Charly
+TTITLE4=Diggin' My Potatoes
+TTITLE5=There's Something On Your Mind
+TTITLE6=V-Ford Blues
+TTITLE7=Turn On Your Love Light
+TTITLE8=Dolly Put The Kettle On
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

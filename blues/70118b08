@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45640
+#	100238
+#	152730
+#	201216
+#	222897
+#	293903
+#	316322
+#
+# Disc length: 4493 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=70118b08
+DTITLE=Sonny Stitt - only the blues
+DYEAR=1952
+DGENRE=Jazz
+TTITLE0=the string
+TTITLE1=cleveland blues
+TTITLE2=b.w.blues
+TTITLE3=blues for bags
+TTITLE4=i know that you know
+TTITLE5=little david
+TTITLE6=i got rythm
+TTITLE7=lester leaps in
+EXTD=YEAR: 1952
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

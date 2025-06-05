@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24490
+#	50435
+#	86186
+#	119721
+#	140409
+#	167321
+#	194890
+#
+# Disc length: 2980 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=710ba208
+DTITLE=Momentum Jazz Quartet - Daysail
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Daahoud
+TTITLE1=In Memory Of Elizabeth Reed
+TTITLE2=Daysail
+TTITLE3=Corcovado
+TTITLE4=Skylark
+TTITLE5=Dear Old Stockholm
+TTITLE6=While The Master Slept
+TTITLE7=Cold Duck Time
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	28770
+#	43649
+#	60163
+#	75830
+#	102413
+#	127862
+#	149096
+#	158119
+#	175084
+# Disc length: 2697 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=760a870a
+DTITLE=Boneglove - Boneglove
+DYEAR=1900
+DGENRE=
+TTITLE0=Shut my eyes
+TTITLE1=Touch the sky
+TTITLE2=Blind man
+TTITLE3=Mourning boots
+TTITLE4=The unknown
+TTITLE5=Fortress
+TTITLE6=Soul droids
+TTITLE7=Beethoven
+TTITLE8=Freaky Freddie
+TTITLE9=Felines
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

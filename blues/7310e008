@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41537
+#	79395
+#	121944
+#	163703
+#	201594
+#	232224
+#	263999
+#
+# Disc length: 4322 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7310e008
+DTITLE=Carine Bonnefoy - Outre-terres
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=With their heads upside down (opening)
+TTITLE1=Victoria (Magellan 1519)
+TTITLE2=Boudeuse (Bougainville 1766)
+TTITLE3=Endeavour (Cook 1778)
+TTITLE4=Sailing the ocean blue
+TTITLE5=Astrolable (Dumont d'Urville 1826)
+TTITLE6=Venus (Dupetit-Thouars 1836)
+TTITLE7=Saint-Marc
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

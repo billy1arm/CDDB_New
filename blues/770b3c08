@@ -1,0 +1,40 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	21430
+#	65985
+#	70450
+#	100813
+#	126663
+#	167020
+#	195870
+# Disc length: 2878 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=770b3c08
+DTITLE=Bebo Ferra - Once upon a time
+DYEAR=1900
+DGENRE=
+TTITLE0=Canzone
+TTITLE1=Gipy
+TTITLE2=Intro per Ivan
+TTITLE3=Ivan
+TTITLE4=Waltz (dedicated to Bill Evans)
+TTITLE5=Pinknite
+TTITLE6=Inatteso
+TTITLE7=By chance
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

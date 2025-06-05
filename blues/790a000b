@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18007
+#	33520
+#	46617
+#	60932
+#	75030
+#	90915
+#	120640
+#	131900
+#	155995
+#	179572
+#
+# Disc length: 2562 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=790a000b
+DTITLE=Digby Fairweather and Chris Barber - British Jazz 2
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Goin' Out Steppin'  (DF)
+TTITLE1=Georgia On My Mind (DF)
+TTITLE2=Indiana (DF)
+TTITLE3=The Very Thought of You (DF)
+TTITLE4=You Turned the Tables On Me (DF)
+TTITLE5=Cherokee (DF)
+TTITLE6=Sweet as Bear Meat (CB)
+TTITLE7=Harlem Bound (CB)
+TTITLE8=Royal Garden Blues (CB)
+TTITLE9=Lazy River (CB)
+TTITLE10=Wild Cat Blues (CB)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

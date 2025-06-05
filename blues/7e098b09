@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24949
+#	37381
+#	62112
+#	82308
+#	106273
+#	128740
+#	147065
+#	170714
+#
+# Disc length: 2445 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7e098b09
+DTITLE=Dakota Station - a packet of love letters
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=More Than You Know
+TTITLE1=Remember
+TTITLE2=Too Late Now
+TTITLE3=What Now My Love?
+TTITLE4=Trav'lin' Light
+TTITLE5=Night Life
+TTITLE6=The Way You Look Tonight
+TTITLE7=Guess Who
+TTITLE8=You'd Better Love Me
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

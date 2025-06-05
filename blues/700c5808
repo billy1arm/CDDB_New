@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	18553
+#	36863
+#	91795
+#	118553
+#	134645
+#	184615
+#	215960
+#
+# Disc length: 3162 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=700c5808
+DTITLE=Fawzi Al-Aeidy - 1990-Paris Bagdad
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Scheherazade
+TTITLE1=Adrien
+TTITLE2=Djamilla
+TTITLE3=Une Nuit à Bassorah
+TTITLE4=Les Yeux
+TTITLE5=Nostalgie
+TTITLE6=Tarab
+TTITLE7=Une Femme
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

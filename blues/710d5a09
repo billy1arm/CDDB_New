@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13171
+#	62737
+#	73937
+#	92818
+#	154741
+#	180226
+#	210953
+#	242635
+#
+# Disc length: 3420 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=710d5a09
+DTITLE=Todd Neufeld - Mu’U
+DYEAR=2016
+DGENRE=Jazz
+TTITLE0=Dynamics
+TTITLE1=Echo's Bones
+TTITLE2=Entrance
+TTITLE3=C.G.F.
+TTITLE4=Contraction
+TTITLE5=Taunti
+TTITLE6=Novo Voce
+TTITLE7=Kira
+TTITLE8=Nor
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

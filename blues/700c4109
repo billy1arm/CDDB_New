@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15927
+#	44403
+#	83768
+#	101234
+#	134741
+#	160309
+#	170276
+#	196348
+#
+# Disc length: 3139 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=700c4109
+DTITLE=Dave Ballou - Rothko
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=The Nearness of You
+TTITLE1=#5
+TTITLE2=Stella by Starlight
+TTITLE3=Rothko
+TTITLE4=I Should Care
+TTITLE5=Ivan Illych
+TTITLE6=Herb
+TTITLE7=Art Deco
+TTITLE8=Solar
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

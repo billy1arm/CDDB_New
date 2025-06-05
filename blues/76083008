@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	3460
+#	21273
+#	43295
+#	72494
+#	86862
+#	110590
+#	132624
+#
+# Disc length: 2098 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=76083008
+DTITLE=3 Elementos - 3 Elementos
+DYEAR=2017
+DGENRE=Jazz
+TTITLE0=Obertura
+TTITLE1=Anniversary Blues
+TTITLE2=Hechizo
+TTITLE3=What have you dreamed today?
+TTITLE4=Lo peor ha pasado
+TTITLE5=Grandma
+TTITLE6=Blues nº 2
+TTITLE7=1936
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

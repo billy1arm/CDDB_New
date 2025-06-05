@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40021
+#	64167
+#	93365
+#	115873
+#	157720
+#	182384
+#	208360
+#	257878
+#
+# Disc length: 3907 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=710f4109
+DTITLE=Wallace Roney - Jazz
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Vater Time
+TTITLE1=Children of the Light
+TTITLE2=Inflorescent
+TTITLE3=Fela's Shrine
+TTITLE4=Nia
+TTITLE5=Revolution: Resolution
+TTITLE6=Her Story
+TTITLE7=Stand
+TTITLE8=Un Poco Loco
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

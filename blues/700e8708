@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  180
+#  39216
+#  88572
+#  110629
+#  171544
+#  200067
+#  224311
+#  257586
+#
+# Disc length: 3721 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=700e8708
+DTITLE=Mike Allen - One Step Closer
+DYEAR=1900
+DGENRE=
+TTITLE0=One Step Closer
+TTITLE1=I Hear a Rhapsody
+TTITLE2=Switchback
+TTITLE3=Invitation
+TTITLE4=Morning on Carmine Street
+TTITLE5=Milestones
+TTITLE6=Body and Soul
+TTITLE7=Down the Line
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42000
+#	72075
+#	102450
+#	143550
+#	202275
+#	252375
+#	274050
+#
+# Disc length: 4185 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=77105708
+DTITLE=David Shifrin and Emerson String Quartet - Mozart  and Brahms Clarinet Quintets
+DYEAR=1995
+DGENRE=Classical
+TTITLE0=Allegro - Mozart K.581
+TTITLE1=Larghetto - Mozart K.581
+TTITLE2=Menuetto Trio I/II - Mozart K.581
+TTITLE3=Allegretto con Variazioni I-IV - Adagio - Allegro - Mozart K.581
+TTITLE4=Allegro (2) - Brahms op. 115
+TTITLE5=Adagio - Brahms op. 115
+TTITLE6=Andatino - Presto non assai, ma con sentimento - Brahms op. 115
+TTITLE7=Con moto - un poco meno mosso - Brahms op. 115
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4635
+#	21207
+#	34975
+#	50642
+#	62375
+#	75367
+#	87820
+#	98855
+#	112965
+#	124487
+#
+# Disc length: 1856 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7f073e0b
+DTITLE=Ralph Agresta - Jazz Jam Trax For Guitar
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Tuning
+TTITLE1=Be Bop Blues
+TTITLE2=Minor Blues
+TTITLE3=Rhythm Changes
+TTITLE4=Latin Groove
+TTITLE5=Bossa/Samba
+TTITLE6=32-Bar-Swing
+TTITLE7=TV Funk
+TTITLE8=Half Time Shuffle
+TTITLE9=Pop Funk
+TTITLE10=Slow Ballad
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

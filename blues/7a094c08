@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30425
+#	52203
+#	73687
+#	89820
+#	108586
+#	129629
+#	148591
+#
+# Disc length: 2382 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7a094c08
+DTITLE=Alain Chamfort - Poses
+DYEAR=1979
+DGENRE=Other
+TTITLE0=Manureva
+TTITLE1=D modé
+TTITLE2=Palais royal
+TTITLE3=Toute la ville en parle
+TTITLE4=Let me try it again
+TTITLE5=Béguine
+TTITLE6=Géant
+TTITLE7=Bébé polaroïd
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6818
+#	63964
+#	128042
+#	209185
+#	245742
+#	257347
+#	264534
+#
+# Disc length: 4376 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=71111608
+DTITLE=Ron Carter Quartet - 2001-09-20  Regatta Bar  Cambridge, MA  disc 2
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=intro
+TTITLE1=Bam Dia
+TTITLE2=Blues For DP
+TTITLE3=Camminado
+TTITLE4="Ballad"
+TTITLE5=Bam Dia
+TTITLE6=band intros
+TTITLE7=You and The Night
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

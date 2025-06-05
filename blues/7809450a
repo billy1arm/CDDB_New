@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17367
+#     37205
+#     55627
+#     76622
+#     92535
+#     111190
+#     122950
+#     139492
+#     156087
+# 
+# Disc length: 2375 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7809450a
+DTITLE=Savage Brothers - Population 6
+DYEAR=1900
+DGENRE=
+TTITLE0=Can't Stop Myself
+TTITLE1=It's Too Late
+TTITLE2=Make Her Mine
+TTITLE3=Take It Home
+TTITLE4=Hartfordtown
+TTITLE5=All I Wanted
+TTITLE6=Let Me Be Your Only Man
+TTITLE7=Moonlight On The Bay
+TTITLE8=Rock Around The Block
+TTITLE9=Life Must Go On
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

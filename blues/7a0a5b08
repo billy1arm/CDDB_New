@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25020
+#	52360
+#	72747
+#	104010
+#	114325
+#	133865
+#	159680
+#
+# Disc length: 2653 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=7a0a5b08
+DTITLE=Blinddog Smokin' - Live at Slocum's Underground
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Born Under a Bad Sign
+TTITLE1=Too Many Drivers
+TTITLE2=Standin' on Shakey Ground
+TTITLE3=Hoochie Coochie Man
+TTITLE4=Chicago Chuck's Chops
+TTITLE5=Goin' Down
+TTITLE6=Black Cat Bone
+TTITLE7=What a Woman
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

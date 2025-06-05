@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     16358
+#     34283
+#     45533
+#     60833
+#     79433
+#     92708
+#     114008
+#     126758
+#     145133
+# 
+# Disc length: 2103 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7908350a
+DTITLE=Townes Van Zandt - Delta Momma Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=FFV
+TTITLE1=Delta Momma Blues
+TTITLE2=Only Him or Me
+TTITLE3=Turnstyled, Junkpiled
+TTITLE4=Tower Song
+TTITLE5=Come Tomorrow
+TTITLE6=Brand New Companion
+TTITLE7=Where I Lead Me
+TTITLE8=Rake
+TTITLE9=Nothin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

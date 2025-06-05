@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16967
+#	44248
+#	103703
+#	138356
+#	150947
+#	212093
+#	292299
+#
+# Disc length: 4431 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=74114d08
+DTITLE=Soft Machine - Live In Paris 1970
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Plain Tiffs
+TTITLE1=All White
+TTITLE2=Slightly All The Time
+TTITLE3=Drop
+TTITLE4=M.C.
+TTITLE5=Out-Bloody-Rageous
+TTITLE6=Facelift
+TTITLE7=And Sevens
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

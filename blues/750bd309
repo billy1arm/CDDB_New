@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32474
+#	60624
+#	82631
+#	115180
+#	148190
+#	171699
+#	184831
+#	219088
+#
+# Disc length: 3029 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=750bd309
+DTITLE=Peterson, Ralph - Ornettology
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=ornettology
+TTITLE1=the substance of things hoped for
+TTITLE2=nemesis
+TTITLE3=iris
+TTITLE4=status flux
+TTITLE5=i mean you
+TTITLE6=sneakattack
+TTITLE7=congeniality
+TTITLE8=there is no greater love
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

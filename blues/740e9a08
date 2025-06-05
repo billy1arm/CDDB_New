@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28450
+#	58427
+#	90984
+#	113593
+#	160860
+#	200107
+#	232462
+#
+# Disc length: 3740 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=740e9a08
+DTITLE=Mark Turner - I
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Mr. Brown
+TTITLE1=Lost ocean
+TTITLE2=317 east 32nd street
+TTITLE3=Kathleen Gray
+TTITLE4=Hey it's me you're talking to
+TTITLE5=autumn in New York
+TTITLE6=Magnolia triangle
+TTITLE7=26-2
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

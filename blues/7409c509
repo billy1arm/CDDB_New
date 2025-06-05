@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12510
+#	30942
+#	50632
+#	69582
+#	90870
+#	103720
+#	123675
+#	145930
+#
+# Disc length: 2503 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7409c509
+DTITLE=Sins of omission - The creation
+DYEAR=1999
+DGENRE=Melodic Death Metal
+TTITLE0=Eager for the fray
+TTITLE1=Reap the storm
+TTITLE2=The creation
+TTITLE3=Burn the night
+TTITLE4=The experiment
+TTITLE5=Let them march
+TTITLE6=The serpentine route
+TTITLE7=To the grind
+TTITLE8=Exhibition of sins
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

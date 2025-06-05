@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23440
+#	45726
+#	65536
+#	87443
+#	106559
+#	124574
+#	142885
+#	160221
+#	176505
+#
+# Disc length: 2611 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=720a310a
+DTITLE=Various Artist - JustTracks-390
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Josh Groban - February Song
+TTITLE1=Josh Groban - In Her Eyes
+TTITLE2=Josh Groban - L' Ultima Notte
+TTITLE3=Josh Groban - You Are Loved (dont give up)
+TTITLE4=Josh Groban - Believed
+TTITLE5=IL Divo - All By Myself (solo otra vez)
+TTITLE6=IL Divo - I Believe In You (je crois en toi)
+TTITLE7=IL Divo - Without You (desde el dia que te fuiste)
+TTITLE8=IL Divo - Somewhere
+TTITLE9=IL Divo - Nights In White Satin
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

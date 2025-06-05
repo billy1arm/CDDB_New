@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23025
+#	48975
+#	76300
+#	100200
+#	125775
+#	148500
+#	171225
+#	196275
+#
+# Disc length: 2883 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760b4109
+DTITLE=Anaw - I ritmi di Giada
+DYEAR=2004
+DGENRE=New Age
+TTITLE0=Ritmo 1
+TTITLE1=Ritmo 2
+TTITLE2=Ritmo 3
+TTITLE3=Ritmo 4
+TTITLE4=Ritmo 5
+TTITLE5=Ritmo 6
+TTITLE6=Ritmo 7
+TTITLE7=Ritmo 8
+TTITLE8=Ritmo 9
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

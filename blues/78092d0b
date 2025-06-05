@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	12450
+# 	29400
+# 	44475
+# 	62850
+# 	75750
+# 	85950
+# 	105750
+# 	121500
+# 	133575
+# 	151200
+#
+# Disc length: 2351 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=78092d0b
+DTITLE=Denny Freeman - Blues Cruise
+DYEAR=1900
+DGENRE=
+TTITLE0=Led Sled
+TTITLE1=Tired Of Television
+TTITLE2=283
+TTITLE3=Blues Cruise
+TTITLE4=Louisiana Luau
+TTITLE5=Rockin' With B.B.
+TTITLE6=Tom Cat
+TTITLE7=Steelin' Berry's
+TTITLE8=Denny's Blues
+TTITLE9=Time For A Change
+TTITLE10=Soul Dream
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

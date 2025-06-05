@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15490
+#     38513
+#     60543
+#     80578
+#     97078
+#     114578
+#     134218
+#     153308
+#     174338
+# 
+# Disc length: 2598 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7b0a240a
+DTITLE=Billy Always - Watch Out
+DYEAR=1900
+DGENRE=
+TTITLE0=Back On Track
+TTITLE1=Where You Touch Me
+TTITLE2=A Little Misunderstanding
+TTITLE3=Send Ya To Me
+TTITLE4=Tell Me You Love Me
+TTITLE5=Emergency Love
+TTITLE6=Watch Out
+TTITLE7=Juvenile Delinquent
+TTITLE8=Take 2
+TTITLE9=I'm Not Gonna Cry
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

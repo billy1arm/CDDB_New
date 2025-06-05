@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16985
+#	34820
+#	60825
+#	78105
+#	98202
+#	110505
+#	127405
+#	145217
+#
+# Disc length: 2118 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta0
+#
+DISCID=71084409
+DTITLE=Lori Davidson - 96 Slow Traffic Keep Right
+DYEAR=1996
+DGENRE=Blues
+TTITLE0=Baby Talk
+TTITLE1=Mystery Train
+TTITLE2=Hollow Mood
+TTITLE3=Busy On You
+TTITLE4=Hoot Owl
+TTITLE5=Slow Traffic Keep Right
+TTITLE6=Fire Engine Red
+TTITLE7=Mojo
+TTITLE8=It's Over Now
+EXTD=YEAR: 1996 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

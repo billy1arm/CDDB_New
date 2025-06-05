@@ -1,0 +1,47 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	13500
+#	48420
+#	62300
+#	77780
+#	91057
+#	104850
+#	118162
+#	132950
+#	154070
+#
+# Disc length: 2254
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+# Normalized: r0:DSETVAR1,TDELIM( - ),TSWAP
+#
+DISCID=7b08cc0a
+DTITLE=Various Artist - Women In Blues - Trust In Me
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Big Maybelle - I Won't Cry Anymore
+TTITLE1=Big Mama Thornton - Ball And Chain
+TTITLE2=Etta James - Trust In Me
+TTITLE3=Dinah Washington - Trouble Trouble
+TTITLE4=Billie Holiday - Billie's Blues
+TTITLE5=Lena Horna - Nobody Knows The Trouble I've Seen
+TTITLE6=Dinah Washington - Chewin' Mama Blues
+TTITLE7=Billie Holiday - Lover Man
+TTITLE8=Carmen McRae - The Masquerade Is Over
+TTITLE9=Lena Horne - Stormy Weather
+EXTD=YEAR: 2000 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

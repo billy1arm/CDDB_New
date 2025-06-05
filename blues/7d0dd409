@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38694
+#	58467
+#	86004
+#	116006
+#	126493
+#	163532
+#	200288
+#	234635
+#
+# Disc length: 3542 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7d0dd409
+DTITLE=Innerstring - Winter Song
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Forever I Hope
+TTITLE1=Kalarama Rex
+TTITLE2=The Peacock
+TTITLE3=Election 92
+TTITLE4=Tragedy at Dunblaine
+TTITLE5=Im Old Fashioned
+TTITLE6=New Year
+TTITLE7=Hawaiian Nights
+TTITLE8=Winter Song
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     22365
+#     44250
+#     63613
+#     83958
+#     106688
+#     131865
+#     157718
+#     174020
+#     190513
+# 
+# Disc length: 2806 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=780af40a
+DTITLE=Eric Gable - Process of Elimination
+DYEAR=1900
+DGENRE=
+TTITLE0=Process of Elimination
+TTITLE1=Don't Wanna Hurt Nobody
+TTITLE2=Driving Me Crazy
+TTITLE3=Call Me
+TTITLE4=I;ll Be Around
+TTITLE5=I'm Not the One
+TTITLE6=Try Again
+TTITLE7=Let Me Rock
+TTITLE8=Don't Stop
+TTITLE9=This Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

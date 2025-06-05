@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20519
+#	44978
+#	66093
+#	87077
+#	110323
+#	137012
+#	149657
+#	172959
+#
+# Disc length: 2527 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=7f09dd09
+DTITLE=COUCH - 今日風、
+DYEAR=2003
+DGENRE=Rock
+TTITLE0=風船
+TTITLE1=フォトフレーム
+TTITLE2=放課後
+TTITLE3=今日風、
+TTITLE4=恋人
+TTITLE5=長距離バス
+TTITLE6=bird
+TTITLE7=時計
+TTITLE8=生まれた街で
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

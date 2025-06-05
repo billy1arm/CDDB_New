@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	20158
+#	40008
+#	60133
+#	78183
+#	96258
+#	119133
+#	137158
+#	153558
+#	187855
+#
+# Disc length: 2637 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=7c0a4b0a
+DTITLE=Andy J.Forest Band - Live
+DYEAR=1989
+DGENRE=Blues
+TTITLE0=Who stole my monkey?
+TTITLE1=Rollin' up
+TTITLE2=Baby I'm alone
+TTITLE3=I'm not free
+TTITLE4=Long ago
+TTITLE5=Lazy
+TTITLE6=Halleluja
+TTITLE7=Gotta get out
+TTITLE8=PG's thing
+TTITLE9=Rock with me
+EXTD=\nYEAR: 1989  ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

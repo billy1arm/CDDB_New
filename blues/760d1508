@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10695
+#     41463
+#     73875
+#     107958
+#     138670
+#     187488
+#     210288
+# 
+# Disc length: 3351 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=760d1508
+DTITLE=Freddie King - Live in Hamburg
+DYEAR=1900
+DGENRE=
+TTITLE0=Intorduction
+TTITLE1=Big leg woman
+TTITLE2=The moon is rising
+TTITLE3=Woman across the river
+TTITLE4=Boogie funk
+TTITLE5=56th And Wichita
+TTITLE6=Feelin' allright
+TTITLE7=Mojo blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

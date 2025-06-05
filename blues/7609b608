@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     28388
+#     50788
+#     72540
+#     91778
+#     117323
+#     137065
+#     161078
+# 
+# Disc length: 2488 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7609b608
+DTITLE=The Three Degrees - ...And Holding
+DYEAR=1900
+DGENRE=
+TTITLE0=TIE U UP
+TTITLE1=WIN, PLACE OR SHOW
+TTITLE2=MAKE IT EASY ON YOURSELF
+TTITLE3=LOCK IT UP
+TTITLE4=VITAL SIGNS
+TTITLE5=A TENDER LIE
+TTITLE6=AFTER THE NIGHT IS OVER
+TTITLE7=ARE YOU THAT KIND OF GUY
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

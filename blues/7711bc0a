@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24803
+#	68644
+#	107263
+#	159084
+#	181857
+#	205733
+#	221255
+#	237293
+#	284049
+#
+# Disc length: 4542 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7711bc0a
+DTITLE=Liszt - L'Oeuvre pour Piano - France Clidat  [CD 05-14]
+DYEAR=1969
+DGENRE=Piano
+TTITLE0=Rhapsodie hongroise, S.244 - N°11, en la mineur
+TTITLE1=Rhapsodie hongroise, S.244 - N°12, en ut dièse mineur
+TTITLE2=Rhapsodie hongroise, S.244 - N°13, en la mineur
+TTITLE3=Rhapsodie hongroise, S.244 - N°14, en fa mineur
+TTITLE4=Rhapsodie hongroise, S.244 - N°15, en la mineur ''Rákóczi Marsch''
+TTITLE5=Rhapsodie hongroise, S.244 - N°16, en la majeur
+TTITLE6=Rhapsodie hongroise, S.244 - N°17, en ré mineur
+TTITLE7=Rhapsodie hongroise, S.244 - N°18, en fa dièse mineur
+TTITLE8=Rhapsodie hongroise, S.244 - N°19, en ré mineur, d'après les ''Czárdás Nobles'' de C. Abranyi
+TTITLE9=Rhapsodie espagnole, S.254  (Folies d'Espagne - Jota aragonesa)
+EXTD=YEAR: 1969
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

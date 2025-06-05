@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14850
+#	32400
+#	49500
+#	63825
+#	85800
+#	93750
+#	112650
+#	127500
+#	144825
+#	159525
+#
+# Disc length: 2503 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7309c50b
+DTITLE=Boulevard Django - Soline
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Soline
+TTITLE1=Out Of Nowhere
+TTITLE2=It Had To Be You
+TTITLE3=Billets Doux
+TTITLE4=I Surrender Dear
+TTITLE5=Badenerie
+TTITLE6=Johnny and Mary
+TTITLE7=Sombre Dimanche
+TTITLE8=What A Difference A Day Made
+TTITLE9=Gypsy Fire
+TTITLE10=Every Time We Say Goodbye
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

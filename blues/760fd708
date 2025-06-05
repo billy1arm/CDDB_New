@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38145
+#	65245
+#	96932
+#	132392
+#	172340
+#	202782
+#	260375
+#
+# Disc length: 4057 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=760fd708
+DTITLE=Zawadzki, Pospieszalski, Jakubek - Absolutely Live in Poland
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Magritte
+TTITLE1=Felicidad
+TTITLE2=Passages
+TTITLE3=Gaudi
+TTITLE4=No Neck Louie
+TTITLE5=Free Spirit
+TTITLE6=Little Charmer
+TTITLE7=Stella By Starlight
+EXTD=YEAR: 1997 ID3G: 8
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

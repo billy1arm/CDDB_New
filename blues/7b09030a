@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	23455
+#	37945
+#	62950
+#	77075
+#	100937
+#	113079
+#	127977
+#	140935
+#	158057
+#
+# Disc length: 2309 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7b09030a
+DTITLE=Various Artist - Basic Blues Volume 1
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Don't Answer The Door (B.B. King)
+TTITLE1=Say Man (Bo Diddley)
+TTITLE2=Let The Good Times Roll (Bobby Bland and B.B. King)
+TTITLE3=Smokestack Lightning (Howlin' Wolf)
+TTITLE4=I Put My Trust In You (John Lee Hooker)
+TTITLE5=We're Gonna Make It (Little Milton)
+TTITLE6=She's Nineteen Years Old (Muddy Waters)
+TTITLE7=Confusion Blues (T-Bone Walker)
+TTITLE8=Hole In The Wall (Brownie McGhee and Sonny Terry)
+TTITLE9=Little Bittie Gal's Blues (Joe Turner)
+EXTD=YEAR: 1998 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

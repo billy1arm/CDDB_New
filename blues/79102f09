@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18570
+#	54042
+#	132640
+#	138117
+#	185552
+#	212417
+#	277660
+#	293590
+#
+# Disc length: 4145 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=79102f09
+DTITLE=J.W.Goethe - Iphigenie auf Tauris
+DYEAR=1956
+DGENRE=Salsa
+TTITLE0=1.Aufzug,1.Auftritt:Iphigenie
+TTITLE1=1.Aufzug,2.Auftritt:Iphigenie.Arkas
+TTITLE2=1.Aufzug,3.Auftritt:Thoas
+TTITLE3=1.Aufzug,4.Auftritt:Iphigenie
+TTITLE4=2.Aufzug,1.Auftritt:Orest. Pylades
+TTITLE5=2.Aufzug,2.Auftritt:Iphigenie. Pylades
+TTITLE6=3.Aufzug,1.Auftritt:Iphigenie.Orest
+TTITLE7=3.Aufzug,2.Auftritt:Orest
+TTITLE8=3.Aufzug,3.Auftritt:Orest.Iphigenie.Pylades
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

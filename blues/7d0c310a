@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30942
+#	75409
+#	100735
+#	128629
+#	139446
+#	152021
+#	156636
+#	171379
+#	179549
+#
+# Disc length: 3123 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7d0c310a
+DTITLE=Georges Bizet - Symphonie Op.88 - Jeux d'enfants - Patrie
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Symphonie en ut majeur, Op.88 - I. Allegro vivo  (Alfred Scholz, Philharmonia Slavonica)
+TTITLE1=Symphonie en ut majeur, Op.88 - II. Adagio
+TTITLE2=Symphonie en ut majeur, Op.88 - III. Scherzo - Allegro vivace
+TTITLE3=Symphonie en ut majeur, Op.88 - IV. Finale - Allegro vivace
+TTITLE4=Jeux d'enfants, Op.22 - I. Marche - Trompette et tambour  (O.Màga, Nuremberg Sym. Orch.)
+TTITLE5=Jeux d'enfants, Op.22 - II. Berceuse - La Poupée
+TTITLE6=Jeux d'enfants, Op.22 - III. Impromptu - La Toupie
+TTITLE7=Jeux d'enfants, Op.22 - IV. Duo - Petit mari, Petite femme
+TTITLE8=Jeux d'enfants, Op.22 - V. Galop - Le Bal
+TTITLE9=Patrie - Ouverture  (Ernest Ansermet, Orchestre Symphonique de la Suisse Romande)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

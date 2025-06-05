@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35840
+#	71964
+#	110621
+#	150352
+#	202009
+#	246850
+#	280578
+#
+# Disc length: 4249 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=73109708
+DTITLE=Dexter Gordon - The Complete Trio and Quartet Studio Recordings Disc 8
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Skylark - Take 1
+TTITLE1=Skylark - Take 2
+TTITLE2=Skylark - Take 3
+TTITLE3=Blue Bossa
+TTITLE4=Apple Jump
+TTITLE5=Georgia On My Mind
+TTITLE6=I'll Remember April - Take 1
+TTITLE7=I'll Remember April - Take 2
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

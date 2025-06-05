@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19888
+#	36230
+#	62584
+#	82745
+#	104962
+#	131112
+#	154762
+#	177950
+#
+# Disc length: 2633 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=750a4709
+DTITLE=indigo jam unit - REALism
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=AdrenaLine
+TTITLE1=Switch
+TTITLE2=Hyo-Ten
+TTITLE3=Matador
+TTITLE4=Buffalo
+TTITLE5=REN
+TTITLE6=Tsui so
+TTITLE7=Sphinx
+TTITLE8=LEON
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

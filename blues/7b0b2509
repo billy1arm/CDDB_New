@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41702
+#	57730
+#	77735
+#	110347
+#	144352
+#	162220
+#	184502
+#	212880
+#
+# Disc length: 2855 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=7b0b2509
+DTITLE=Various Artist - Columbia Jazz Masterpieces Radio Show, Vol. 2
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Straight No Chaser/Miles Davis
+TTITLE1=Oh Lady Be Good/Count Basie
+TTITLE2=My Heart Stood Still/Erroll Garner
+TTITLE3=Better Git It In Your Soul/Charles Mingus
+TTITLE4=The Moochie/Duke Ellington
+TTITLE5=I Wished On The Moon/Billie Holiday
+TTITLE6=Beale St. Blues/Louis Armstrong
+TTITLE7=Monk's Dream/Thelonious Monk
+TTITLE8=Conclusion
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

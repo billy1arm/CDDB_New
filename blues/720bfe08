@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34340
+#	65194
+#	80701
+#	118476
+#	143368
+#	180067
+#	206627
+#
+# Disc length: 3072 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CD2WAV32(JP) R3.22
+#
+DISCID=720bfe08
+DTITLE=UA - 泥棒
+DYEAR=2002
+DGENRE=R&B
+TTITLE0=01_記憶喪失
+TTITLE1=02_閃光 (Album Ver.)
+TTITLE2=03_泥棒
+TTITLE3=04_瞬間
+TTITLE4=05_世界
+TTITLE5=06_ブエノスアイレス
+TTITLE6=07_ドア
+TTITLE7=08_彼方
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

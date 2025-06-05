@@ -1,0 +1,40 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	29808
+#	61958
+#	94683
+#	119608
+#	140908
+#	162933
+#	190058
+# Disc length: 2923 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=750b6908
+DTITLE=Dario Faiella Quintet - Via Venini
+DYEAR=1900
+DGENRE=
+TTITLE0=A kind of blues
+TTITLE1=Un giorno di marzo
+TTITLE2=Oggi, la luna
+TTITLE3=Opossum walk
+TTITLE4=Il grande anatema
+TTITLE5=Babette
+TTITLE6=La dama bianca
+TTITLE7=Beautiful love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

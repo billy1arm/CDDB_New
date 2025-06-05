@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21557
+#	42725
+#	64850
+#	85150
+#	102585
+#	121477
+#	153540
+#
+# Disc length: 2369 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=72093f08
+DTITLE=Mike Cuozo - Mike Cuozo with the Costa-Burke Trio
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Fools rush in
+TTITLE1=Lover man
+TTITLE2=Ten a.m.
+TTITLE3=That old feeling
+TTITLE4=I cover the waterfront
+TTITLE5=Easy to love
+TTITLE6=Blue Jeans
+TTITLE7=Bounce for Mike
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     34182
+#     55962
+#     74742
+#     97185
+#     113947
+#     136287
+#     156627
+# 
+# Disc length: 2388 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7d095208
+DTITLE=Curtis Mayfield - take it to the street
+DYEAR=1900
+DGENRE=
+TTITLE0=Homeless
+TTITLE1=Got to be real
+TTITLE2=Do be down
+TTITLE3=Who was that lady
+TTITLE4=On and on
+TTITLE5=He's a fly guy
+TTITLE6=Don't push
+TTITLE7=I  mo git u sucka
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

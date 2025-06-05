@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21595
+#	57031
+#	112991
+#	137511
+#	160678
+#	180372
+#	201666
+#	225956
+#	287688
+#
+# Disc length: 4304 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=7f10ce0a
+DTITLE=Davis and Coltrane - Davis and Coltrane
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Giant Steps (Coltrane)
+TTITLE1=Nefertiti (Davis)
+TTITLE2=All Blues (Davis, Live)
+TTITLE3=Welcome (Coltrane)
+TTITLE4=Pinocchio (Davis)
+TTITLE5=Naima (Coltrane)
+TTITLE6=Stella by starlight (Davis)
+TTITLE7=It Never Entered my mind (Davis)
+TTITLE8=My favourite things (Coltrane)
+TTITLE9=A Love Supreme (Coltrane, I part: Acknowledgnement)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

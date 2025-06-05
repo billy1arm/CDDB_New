@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  18050
+#  33830
+#  54077
+#  73152
+#  92547
+#  102670
+#  127837
+#  146355
+#  161392
+#
+# Disc length: 2443 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=7109890a
+DTITLE=Linda McKechnie - Hymnworks II
+DYEAR=1900
+DGENRE=blues
+TTITLE0=To God Be the Glory
+TTITLE1=How Great Thou Art
+TTITLE2=My Jesus I Love Thee
+TTITLE3=O The Deep, Deep Love of Jesus
+TTITLE4=Holy, Holy, Holy
+TTITLE5=Leaning on the Everlasting Arms
+TTITLE6=Be Still My Soul
+TTITLE7=O Love that Will Not Let Me Go
+TTITLE8=Joyful. Joyful, We Adore Thee
+TTITLE9=My Faith Looks Up to Thee
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

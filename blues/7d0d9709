@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4276
+#	39933
+#	71548
+#	105950
+#	119721
+#	141570
+#	192521
+#	230456
+#
+# Disc length: 3481 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7d0d9709
+DTITLE=Stan Laferrière and the Vintage Orchestra - Weatherman
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=What season?
+TTITLE1=We are
+TTITLE2=I will
+TTITLE3=MT 2001
+TTITLE4=Over clouds
+TTITLE5=Weatherman
+TTITLE6=Here comes april
+TTITLE7=She came with the wind
+TTITLE8=What a sun!
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

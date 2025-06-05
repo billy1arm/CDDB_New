@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	12997
+#	25147
+#	48400
+#	64332
+#	83477
+#	105120
+#	122687
+#	146175
+#	167117
+#
+# Disc length: 2402 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7b09600a
+DTITLE=Oscar Peterson - Unknown CD for MusicBrainz and FreeDB
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=1: Quiet Nights of Quiet Stars (Corcovado
+TTITLE1=2: Days of Wine and Roses
+TTITLE2=3: My one and only love
+TTITLE3=4: People
+TTITLE4=5: Have you met miss Jones
+TTITLE5=6: You look good to me
+TTITLE6=7: The Girl from Ipanema
+TTITLE7=8: D&E
+TTITLE8=9: Time and again
+TTITLE9=10: Goodbye J.D.
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32567
+#	62695
+#	87385
+#	112587
+#	140570
+#	169817
+#	200602
+#	232212
+#
+# Disc length: 3483 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=780d9909
+DTITLE=Herbie Hancock - Takin' Off plus 3
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Watermelon man
+TTITLE1=Watermelon man(alternate take)[*]
+TTITLE2=Three Bags Full
+TTITLE3=Three Bags Full(alternate take)[*]
+TTITLE4=Empty Pockets
+TTITLE5=Empty Pockets(alternate take)[*]
+TTITLE6=The Maze
+TTITLE7=Driftin'
+TTITLE8=Alone and I
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

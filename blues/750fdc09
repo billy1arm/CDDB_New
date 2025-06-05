@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	60271
+#	96206
+#	115490
+#	138279
+#	186208
+#	211597
+#	240093
+#	269688
+#
+# Disc length: 4062 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=750fdc09
+DTITLE=Dave Douglas Quintet - Live From 92Y Tribeca [2|2]
+DYEAR=2012
+DGENRE=Jazz
+TTITLE0=Dave Douglas Quintet - Bridge To Nowhere (Douglas)
+TTITLE1=Dave Douglas Quintet - My Cares Are Down Below (Douglas)
+TTITLE2=Dave Douglas Quintet - One Morning (Gillian Welch)
+TTITLE3=Dave Douglas Quintet - God Be With You 'Til We Meet Again (William G. Tomer)
+TTITLE4=Dave Douglas Quintet - The Pigeon And The Pie (Douglas)
+TTITLE5=Dave Douglas Quintet - Whither Must I Wander? (Vaughan-Williams)
+TTITLE6=Dave Douglas Quintet - Living Streams (Douglas)
+TTITLE7=Dave Douglas Quintet - Pearls (O'Donovan)
+TTITLE8=Dave Douglas Quintet - Troubled All About My Soul (Traditional)
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

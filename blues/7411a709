@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32795
+#	73187
+#	106921
+#	148566
+#	180850
+#	217545
+#	247541
+#	284661
+#
+# Disc length: 4521 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7411a709
+DTITLE=Don Rader - Odyssey
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Eagle has landed
+TTITLE1=3 of 9
+TTITLE2=Bernie's Tune
+TTITLE3=Alone Together
+TTITLE4=If you could see me now
+TTITLE5=Untapped resource
+TTITLE6=Wilmas
+TTITLE7=Voyage
+TTITLE8=Ramblin
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

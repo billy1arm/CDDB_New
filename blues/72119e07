@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	56345
+#	132652
+#	185080
+#	233867
+#	296125
+#	337105
+#
+# Disc length: 4512 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=72119e07
+DTITLE=Mal Waldron Quartet - Mal, Verve, Black and Blue
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Judy Full Grown
+TTITLE1=Transylvanian Dance
+TTITLE2=Here Comes Mikey
+TTITLE3=Soul Eyes
+TTITLE4=I See You Now
+TTITLE5=The Last Go Pepper Blues
+TTITLE6=Conclusion
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

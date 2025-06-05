@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20550
+#	49645
+#	81554
+#	109327
+#	158767
+#	198079
+#	255685
+#	263962
+#
+# Disc length: 3781 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760ec309
+DTITLE=Rachmaninoff - Works For Piano Duet II  (Ingryd Thorson and Julian Thurber)
+DYEAR=2008
+DGENRE=Classique
+TTITLE0=Suite N°2 for two pianos Op.17 - I. Introduction
+TTITLE1=Suite N°2 for two pianos Op.17 - II. Valse
+TTITLE2=Suite N°2 for two pianos Op.17 - III. Romance
+TTITLE3=Suite N°2 for two pianos Op.17 - IV. Tarantelle
+TTITLE4=Symphonic Dances for two pianos Op.45 - I. Non allegro
+TTITLE5=Symphonic Dances for two pianos Op.45 - II. Andante co moto, tempo di valse
+TTITLE6=Symphonic Dances for two pianos Op.45 - III. Lento assai - Allegro vivace
+TTITLE7=Romance in G major for piano duet
+TTITLE8=Prelude in C sharp minor for two pianos
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11535
+#	29297
+#	52332
+#	70794
+#	89659
+#	108744
+#	130405
+#
+# Disc length: 1998 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7207cc08
+DTITLE=Los Nuevos Sabrosos - Tembleque
+DYEAR=2006
+DGENRE=Merengue
+TTITLE0=Temblequeo
+TTITLE1=Sigo Pensando En Ti
+TTITLE2=Devuélveme Todo
+TTITLE3=Estremecer
+TTITLE4=Frente A Frente
+TTITLE5=Remix
+TTITLE6=No Entiendo
+TTITLE7=La Yuca and El Bacalao
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

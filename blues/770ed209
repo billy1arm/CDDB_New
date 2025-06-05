@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5580
+#	52363
+#	90158
+#	144048
+#	160470
+#	209575
+#	218208
+#	262618
+#
+# Disc length: 3796 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=770ed209
+DTITLE=Thomas Chapin trio - Anima
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Lift off
+TTITLE1=Anima
+TTITLE2=Native green
+TTITLE3=Little machines
+TTITLE4=Seeds
+TTITLE5=Hat and shoes
+TTITLE6=Oo
+TTITLE7=Fez
+TTITLE8=Lift off
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

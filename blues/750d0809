@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25636
+#	57761
+#	81986
+#	112805
+#	139230
+#	153138
+#	183426
+#	217471
+#
+# Disc length: 3338 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=750d0809
+DTITLE=Edgar Wallace - Der Joker CD01
+DYEAR=1988
+DGENRE=Hörspiel
+TTITLE0=01 Guten Morgen, Engel ...
+TTITLE1=02 Sie sind Superintendent ...
+TTITLE2=03 Reynolds ist tot ...
+TTITLE3=04 Verzeihen Sie die Stoerung ...
+TTITLE4=05 Sagen Sie, Chefinspektor ...
+TTITLE5=06 Das darf doch nicht ...
+TTITLE6=07 Eine Jolly-Joker Karte
+TTITLE7=08 Hallo, Sir John ...
+TTITLE8=09 Sie sind gestern ...
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

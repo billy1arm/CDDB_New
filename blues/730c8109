@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32803
+#	54523
+#	95524
+#	121807
+#	151440
+#	187963
+#	207876
+#	218564
+#
+# Disc length: 3203 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=730c8109
+DTITLE=Alex Oriental Experience - Live II
+DYEAR=1988
+DGENRE=Blues
+TTITLE0=Red Dress
+TTITLE1=Turquas
+TTITLE2=Easy Come
+TTITLE3=Message to You All
+TTITLE4=Fairytales and Promises
+TTITLE5=Show Me
+TTITLE6=Into the Sun (Part1)
+TTITLE7=Into the Sun (Part2)
+TTITLE8=Kismet
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

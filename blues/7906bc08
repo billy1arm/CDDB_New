@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14004
+#	28973
+#	44931
+#	57588
+#	71924
+#	85494
+#	113375
+#
+# Disc length: 1726 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7906bc08
+DTITLE=No Mercy Jugband - Good Morning Blues
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Take This Hammer
+TTITLE1=Going Back To London
+TTITLE2=Good Morning Blues
+TTITLE3=Limehouse Blues (Banjo Solo)
+TTITLE4=France Blues (Mobile Line)
+TTITLE5=Ella Speed
+TTITLE6=Long Gone Lost John
+TTITLE7=(Data)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

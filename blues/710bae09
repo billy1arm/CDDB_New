@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17482
+#	32552
+#	54872
+#	83927
+#	108550
+#	123417
+#	139940
+#	196390
+#
+# Disc length: 2992 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=710bae09
+DTITLE=Jesse Colin Young - On the Road
+DYEAR=1900
+DGENRE=
+TTITLE0=Sunlight
+TTITLE1=Walkin' Off The Blues
+TTITLE2=Peace Song
+TTITLE3=Miss Hesitation
+TTITLE4=What's Going On - Mercy Mercy Me (The Ecology)
+TTITLE5=Corinna
+TTITLE6=Have You Seen My Baby
+TTITLE7=Ridgetop
+TTITLE8=T-Bone Shuffle
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

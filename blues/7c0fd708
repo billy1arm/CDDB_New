@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27455
+#	37277
+#	69110
+#	163477
+#	200825
+#	249517
+#	266815
+#
+# Disc length: 4057 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7c0fd708
+DTITLE=ベートーヴェン - The Classic Collection
+DYEAR=1995
+DGENRE=Classical
+TTITLE0=Moonlight Sonata -- Adagio sostenuto
+TTITLE1=Moonlight Sonata -- Allegretto
+TTITLE2=Moonlight Sonata -- Presto Agitatio
+TTITLE3=The Emperor -- Allegro
+TTITLE4=The Emperor -- Adagio un poco mosso
+TTITLE5=The Emperor -- Rondo: Allegro
+TTITLE6=Fur Elise
+TTITLE7=Overture from "Egmont"
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

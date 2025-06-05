@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	129305
+#	215965
+#	231581
+#	254842
+#	282277
+#	297045
+#
+# Disc length: 4256 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=77109e07
+DTITLE=Mike Oldfield - Impressions
+DYEAR=1980
+DGENRE=New Age
+TTITLE0=01 - Tubular Bells (part1-live)
+TTITLE1=02 - Ommadawn (part1)
+TTITLE2=03 - On Horseback
+TTITLE3=04 - Airborn
+TTITLE4=05 - Platinium
+TTITLE5=06 - Charleston
+TTITLE6=07 - Punkadiddle
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

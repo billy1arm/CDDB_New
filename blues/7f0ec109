@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21604
+#	66108
+#	93008
+#	120364
+#	142446
+#	184887
+#	207295
+#	227568
+#
+# Disc length: 3779 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7f0ec109
+DTITLE=Bill Banfield Band - Spring Forward
+DYEAR=2009
+DGENRE=Blues
+TTITLE0=Spring Forward
+TTITLE1=Losing Absalom
+TTITLE2=She Made It Crystal Clear
+TTITLE3=Free Me
+TTITLE4=The Thumb
+TTITLE5=Equinox
+TTITLE6=Follow the Melody of Your Soul
+TTITLE7=Free You
+TTITLE8=Free Us
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

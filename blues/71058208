@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15505
+#	28795
+#	44175
+#	56995
+#	70760
+#	81205
+#	89855
+#
+# Disc length: 1412 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=71058208
+DTITLE=Billie Holiday - Billie Holiday At Jazz At The Philharmonic
+DYEAR=1946
+DGENRE=Jazz
+TTITLE0=Body And Soul
+TTITLE1=Strange Fruit
+TTITLE2=Trav'lin Light
+TTITLE3=He's Funny That Way
+TTITLE4=The Man I Love
+TTITLE5=Gee Baby, Ain't I Good To You
+TTITLE6=All Of Me
+TTITLE7=Billie's Blues
+EXTD=YEAR: 1946
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

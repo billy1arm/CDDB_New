@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Generated: Tue Jul 23 16:45:37 2002 by KSCD
+# 
+# Track frame offsets:
+#       150
+#       41355
+#       94102
+#       128597
+#       181282
+#       204530
+#       218497
+#       236602
+#       267767
+#
+# Disc length: 3784 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Kscd 1.3.2
+#
+DISCID=710ec609
+DTITLE=Shostakovich - String Quartets No. 2 and 8
+DYEAR=1900
+DGENRE=
+TTITLE0=No. 2 - Overture
+TTITLE1=No. 2 - Recitative and Romance
+TTITLE2=No. 2 - Valse
+TTITLE3=No. 2 - Thema with Variations
+TTITLE4=No. 8 - Largo
+TTITLE5=No. 8 - Allegro Molto
+TTITLE6=No. 8 - Allegretto
+TTITLE7=No. 8 - Largo
+TTITLE8=No. 8 - Largo
+EXTD=The Zapolski Quartet
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

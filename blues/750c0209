@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19625
+#	42912
+#	71620
+#	97287
+#	117900
+#	143777
+#	166790
+#	203487
+#
+# Disc length: 3076 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=750c0209
+DTITLE=Neera - Travelling Light
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=Earth Dance
+TTITLE1=Adarsha's Melody
+TTITLE2=Dreams
+TTITLE3=In the Darkness
+TTITLE4=Open Secret
+TTITLE5=Travelling Man
+TTITLE6=Travelling Light
+TTITLE7=Dolphin Song
+TTITLE8=Haleakala
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

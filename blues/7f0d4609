@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25002
+#	61485
+#	88479
+#	119158
+#	139909
+#	170782
+#	197666
+#	225122
+#
+# Disc length: 3400 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7f0d4609
+DTITLE=Ben Sidran - Live at FIP
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Minority
+TTITLE1=If You Live
+TTITLE2=Lover Man
+TTITLE3=I Don't Worry About A Thing
+TTITLE4=Language of The Blues
+TTITLE5=Lady Sings The Blues
+TTITLE6=I Like It Here
+TTITLE7=Everybody's Boppin
+TTITLE8=Huerto
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

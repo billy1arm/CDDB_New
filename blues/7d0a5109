@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23630
+#	50930
+#	71180
+#	94600
+#	117072
+#	133937
+#	153347
+#	177512
+#
+# Disc length: 2643 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7d0a5109
+DTITLE=Special EFX - Just Like Magic
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=Ballerina
+TTITLE1=Jazz Lambada
+TTITLE2=Lovely Michelle
+TTITLE3=One Day
+TTITLE4=Pastoral
+TTITLE5=Greenpeace
+TTITLE6=On-Screen Romance
+TTITLE7=Looking for Seventh Heaven
+TTITLE8=Free the Forest
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

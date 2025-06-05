@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15527
+#	32297
+#	58395
+#	80617
+#	97067
+#	113502
+#	142115
+#	157632
+#	174847
+#
+# Disc length: 2614 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=710a340a
+DTITLE=U.P. Wilson - Whirlwind
+DYEAR=1900
+DGENRE=
+TTITLE0=Roll over
+TTITLE1=Walk that walk
+TTITLE2=Your last chance
+TTITLE3=Juicin'
+TTITLE4=Going round in a daze
+TTITLE5=Who will your next fool be?
+TTITLE6=Deep down inside
+TTITLE7=Bluesola
+TTITLE8=Come on baby, go home with me
+TTITLE9=If you don't know how to act (Your place is at home)
+EXTD=JSP Records 1996\n\nU.P. Wilson - Guitars and Vocals\nShawn Kellerman - G
+EXTD=uitar (Tracks 1, 8]\nBig Joe Turner - Bass Guitar (Tracks 2, 5, 9, 10) 
+EXTD=& Hammond Organ (Tracks 3, 4, 5, 7, 10]\nAnthony Gonzales - Bass Guitar
+EXTD=(Tracks 1, 3, 4, 7, 8]\nJordan Patterson - Harmonica (Tracks 2, 6]\nEl
+EXTD=Torro Gamble - Drums (Tracks 3, 4, 7]\nSteve Meek - Drums (Tracks 1, 2
+EXTD=, 5, 6, 8, 9, 10]\n\nProduced by John Stedman\nRecorded at Falconer Stu
+EXTD=dio, London\n\nMany thanks to STEVE BEEGS for the album title!
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

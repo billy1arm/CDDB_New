@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18167
+#	41015
+#	60591
+#	73438
+#	93652
+#	119533
+#	143390
+#	159929
+#
+# Disc length: 2494 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.13
+#
+DISCID=7609bc09
+DTITLE=Jimmy Johnson - Heap See
+DYEAR=1983
+DGENRE=Blues
+TTITLE0=chicken head
+TTITLE1=when my first wife quit me
+TTITLE2=heap see
+TTITLE3=i've the same old blues
+TTITLE4=little by little
+TTITLE5=cold cold feeling
+TTITLE6=you don't know what love is
+TTITLE7=happy home
+TTITLE8=misssing link
+EXTD=YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

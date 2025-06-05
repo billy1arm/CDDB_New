@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14265
+#	61769
+#	97763
+#	145255
+#	168734
+#	180824
+#	211572
+#	224070
+#
+# Disc length: 3339 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta4
+#
+DISCID=710d0909
+DTITLE=Jimi Hendrix - Midnite Jazz And Blues Collection
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Little Wing
+TTITLE1=Bleeding Heart (Feat. Jim Morrison)
+TTITLE2=Wake Up This Morning And Found Yourself Dead
+TTITLE3=Red House
+TTITLE4=Voices
+TTITLE5=Let Me Go
+TTITLE6=Outside Woman Blues
+TTITLE7=Voice Of The Wind
+TTITLE8=Blues Blues
+EXTD=YEAR: 2001 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

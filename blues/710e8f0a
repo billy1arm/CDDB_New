@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22512
+#	46302
+#	67970
+#	90152
+#	132020
+#	183572
+#	214885
+#	236530
+#	256602
+#
+# Disc length: 3729 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,39,0213
+#
+DISCID=710e8f0a
+DTITLE=Alex D'Castro - Live 2000
+DYEAR=2000
+DGENRE=Salsa
+TTITLE0=Corre Amigo Mio
+TTITLE1=Jesus Pasando
+TTITLE2=Se Me Olvido
+TTITLE3=Un Tenor Para El Cielo
+TTITLE4=Si No Fuera Por Ti
+TTITLE5=El Todopoderoso
+TTITLE6=Juan En La Ciudad
+TTITLE7=Tu Como Estas?
+TTITLE8=Eso Duele
+TTITLE9=No Olvides Que Sin Jesus
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

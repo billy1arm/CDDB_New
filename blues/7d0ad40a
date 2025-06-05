@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	22733
+# 	48323
+# 	66525
+# 	86370
+# 	104400
+# 	121390
+# 	144028
+# 	165953
+# 	186620
+#
+# Disc length: 2774 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7d0ad40a
+DTITLE=Paul "Wine" Jones - Mule
+DYEAR=1900
+DGENRE=
+TTITLE0=Diggin' Momma's Tatters
+TTITLE1=Bad Times in Mississippi
+TTITLE2=Rob and Steal
+TTITLE3=My Baby Got Drunk
+TTITLE4=Mad Dog on my Trail
+TTITLE5=Gotta Go Home
+TTITLE6=Bib Bell Ringing
+TTITLE7=Kitty Kat
+TTITLE8=Coal Black Mare
+TTITLE9=Nobody But You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

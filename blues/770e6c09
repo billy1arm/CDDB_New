@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18160
+#	61542
+#	103175
+#	133675
+#	182970
+#	192337
+#	244882
+#	270430
+#
+# Disc length: 3694 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=770e6c09
+DTITLE=Tomonao Hara - Evidence for My Music
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Plain
+TTITLE1=Kids
+TTITLE2=Weird
+TTITLE3=Coral
+TTITLE4=Moon
+TTITLE5=Parrot
+TTITLE6=Sea
+TTITLE7=Wag
+TTITLE8=Sun
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

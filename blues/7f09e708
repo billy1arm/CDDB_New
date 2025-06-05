@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20925
+#	44147
+#	78747
+#	110880
+#	128487
+#	140372
+#	149602
+#
+# Disc length: 2537 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=7f09e708
+DTITLE=The Album Leaf - a lifetime or more
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=the album leaf - another day
+TTITLE1=the album leaf - essex
+TTITLE2=the album leaf - lamplight
+TTITLE3=on!air!library! - ex's and ho's oh's
+TTITLE4=on!air!library! - pass the mic (p)
+TTITLE5=on!air!library! - pass the mic (a)
+TTITLE6=on!air!library! - pass the mic (c)
+TTITLE7=on!air!library! - faux fromm
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

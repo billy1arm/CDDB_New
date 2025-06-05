@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24150
+#	47925
+#	101875
+#	127300
+#	154875
+#	176875
+#	208775
+#
+# Disc length: 3000 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760bb608
+DTITLE=Johnny Winter - Live In Houston 1969
+DYEAR=1991
+DGENRE=Blues
+TTITLE0=E.Z. Rider
+TTITLE1=Walking By Myself
+TTITLE2=Mother Earth
+TTITLE3=Bony Moronie
+TTITLE4=Busted In Austin
+TTITLE5=Messing With The Kid
+TTITLE6=I Can't Make It By Myself
+TTITLE7=Go Johnny Go
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	55102
+#	87267
+#	130217
+#	155497
+#	182340
+#	218098
+#	251192
+#	282229
+#
+# Disc length: 4457 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a116709
+DTITLE=Schubert - Symphonies N°5 and N°6  (Herbert von Karajan, Orchestre Philharmonique de Berlin)
+DYEAR=1978
+DGENRE=Classique
+TTITLE0=Rosamunde, Princesse de Chypre, D.797 - Ouverture
+TTITLE1=Symphonie N°5 en si bémol majeur, D.485 - I. Allegro
+TTITLE2=Symphonie N°5 en si bémol majeur, D.485 - II. Andante con moto
+TTITLE3=Symphonie N°5 en si bémol majeur, D.485 - III. Menuet  (Allegro molto)
+TTITLE4=Symphonie N°5 en si bémol majeur, D.485 - IV. Allegro vivace
+TTITLE5=Symphonie N°6 en ut majeur, D.589 - I. Adagio - Allegretto
+TTITLE6=Symphonie N°6 en ut majeur, D.589 - II. Andante
+TTITLE7=Symphonie N°6 en ut majeur, D.589 - III. Scherzo  (Presto)
+TTITLE8=Symphonie N°6 en ut majeur, D.589 - IV. Allegro moderato
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

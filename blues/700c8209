@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22032
+#	48923
+#	75021
+#	104992
+#	128871
+#	154809
+#	184009
+#	212621
+#
+# Disc length: 3204 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=700c8209
+DTITLE=Nature Scapes - Forest Jazz
+DYEAR=1997
+DGENRE=New Age
+TTITLE0=Forest Jazz
+TTITLE1=Lake Memories
+TTITLE2=Laguna Samba
+TTITLE3=Nature Spirits
+TTITLE4=River Dance
+TTITLE5=Summer Dream
+TTITLE6=Night Flight
+TTITLE7=Sprng Magic
+TTITLE8=Lunar Eclipse
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

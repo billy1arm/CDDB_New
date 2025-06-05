@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24432
+#	52222
+#	78742
+#	105787
+#	145907
+#	181770
+#	212992
+#	263725
+#
+# Disc length: 3689 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=780e6709
+DTITLE=Miles Davis - Warner Jazz Les Incontournables
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Round midnight
+TTITLE1=Salt peanuts
+TTITLE2=Oleo
+TTITLE3=My funny valentine
+TTITLE4=Dr Jackle
+TTITLE5=The man I love
+TTITLE6=Love me or leave me
+TTITLE7=Bag's groove
+TTITLE8=Ezz-thetics
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

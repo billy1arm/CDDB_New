@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19247
+#	36017
+#	51287
+#	66470
+#	80587
+#	99060
+#	123945
+#	133960
+#
+# Disc length: 2008 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7807d609
+DTITLE=Al Copley - Automatic Overdrive
+DYEAR=1989
+DGENRE=Blues
+TTITLE0=Goshen By The Ocean
+TTITLE1=Ooh Wow!
+TTITLE2=I Didn't Want To Do It
+TTITLE3=Git Gone Bluesy
+TTITLE4=Blue Monday
+TTITLE5=Friday Night Strut
+TTITLE6=The Bad Guy In The Blues
+TTITLE7=Big Ten-Inch Record
+TTITLE8=Boogie At Midnight
+EXTD=YEAR: 1989 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

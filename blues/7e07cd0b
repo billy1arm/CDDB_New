@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15841
+#	24342
+#	38272
+#	41356
+#	62750
+#	66611
+#	86473
+#	87379
+#	123092
+#	126358
+#
+# Disc length: 1999 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7e07cd0b
+DTITLE=Fachgruppe Hilfsmittel des ÖBSV - Sicher unterwegs Hilfsmittelausstellung Wien 2009 CD 2
+DYEAR=2010
+DGENRE=Information
+TTITLE0=01 03_29 Franz Kirnbauer - Intro CD 2
+TTITLE1=02 01_53 Franz Kirnbauer - Inhalt CD 2
+TTITLE2=03 03_05 Ernest Tschutschek - Neues vom Hilfsmittelshop des OEBSV
+TTITLE3=04 00_41 Franz Kirnbauer - Kontakt Hilfsmittelshop des OEBSV
+TTITLE4=05 04_45 Ernest Tschutschek - Neues von Handshake
+TTITLE5=06 00_51 Franz Kirnbauer - Kontakt Firma Handshake
+TTITLE6=07 04_24 Ernest Tschutschek - Neues von TSB Transdanubia
+TTITLE7=08 00_12 Ernest Tschutschek - Kontakt Firma TSB Transdanubia
+TTITLE8=09 07_56 Ernest Tschutschek - Neues von Baum Audiodata
+TTITLE9=10 00_43 Franz Kirnbauer - Kontakt Firma Baum Audiodata
+TTITLE10=11 05_14 Franz Kirnbauer - Schluss
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  10470
+#  27425
+#  41335
+#  64472
+#  83892
+#  100760
+#  132400
+#  162215
+#
+# Disc length: 2577 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.24
+#
+DISCID=720a0f09
+DTITLE=Various Artist - The Blues... "A real summit meeting" 2/2
+DYEAR=1900
+DGENRE=
+TTITLE0=Honky Tonk Train BLues
+TTITLE1=After Hours
+TTITLE2=Fine Tops Boogie Woogie
+TTITLE3=Long Distance
+TTITLE4=Where's my Woman Been
+TTITLE5=Got My Mojo Workin'
+TTITLE6=The Drifter
+TTITLE7=Please Mr. Nixon
+TTITLE8=Outside Help
+EXTD=
+EXTT0=Lloyd Glen
+EXTT1=Lloyd Glen
+EXTT2=Lloyd Glen
+EXTT3=Muddy Waters
+EXTT4=Muddy Waters
+EXTT5=Muddy Waters
+EXTT6=Clarende "Galemouth" Brown
+EXTT7=Clarende "Galemouth" Brown
+EXTT8=B.B. King
+PLAYORDER=

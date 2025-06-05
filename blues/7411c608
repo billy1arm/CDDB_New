@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	70018
+#	108472
+#	171151
+#	210605
+#	232789
+#	281962
+#	296551
+#
+# Disc length: 4552 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7411c608
+DTITLE=John Coltrane - Ballads - CD2
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=John Coltrane - Soul junction
+TTITLE1=John Coltrane - Solitude
+TTITLE2=John Coltrane - Lush life
+TTITLE3=John Coltrane - Come rain or come shine
+TTITLE4=John Coltrane - Theme for Ernie
+TTITLE5=John Coltrane - I want to talk about you
+TTITLE6=John Coltrane - Why was I born?
+TTITLE7=John Coltrane - I see your face before
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

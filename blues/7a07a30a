@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15470
+#	29560
+#	41242
+#	54417
+#	71470
+#	84822
+#	99450
+#	119490
+#	136692
+#
+# Disc length: 1957 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7a07a30a
+DTITLE=Joe Pass - For Django
+DYEAR=1964
+DGENRE=Jazz
+TTITLE0=Django 
+TTITLE1=Rosetta 
+TTITLE2=Nuages 
+TTITLE3=For Django
+TTITLE4=Night and Day
+TTITLE5=Fleur d'Ennui
+TTITLE6=Insensiblement 
+TTITLE7=Cavalerie
+TTITLE8=Django's Castle
+TTITLE9=Limehouse Blues
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

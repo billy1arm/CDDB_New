@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     22687
+#     41867
+#     64095
+#     90937
+#     114365
+#     130897
+#     161332
+#     198257
+#     222752
+# 
+# Disc length: 3258 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=770cb80a
+DTITLE=Various Artist - Da Sh*!!t
+DYEAR=1900
+DGENRE=
+TTITLE0=Diamond Girl--Nice N' Wild
+TTITLE1=Ain't No Future In Yo Frontin'--MC Breed
+TTITLE2=I'll House You--The Jungle Brothers
+TTITLE3=Batterram--Toddy Tee
+TTITLE4=Rockberry Jam--LA Dream Team
+TTITLE5=Everlasting Bass--Rodney O
+TTITLE6=Egypt, Egypt--Egyptian Lover
+TTITLE7=Spin It--Sunbelt
+TTITLE8=West Coast Pop Lock--Ronnie Hudson
+TTITLE9=Let's Jam (Radioactive)--MC Fostee
+EXTD=
+EXTT0=\n
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

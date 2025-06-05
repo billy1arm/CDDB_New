@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23752
+#	46190
+#	83000
+#	109972
+#	137712
+#	152546
+#	177609
+#	200521
+#
+# Disc length: 3149 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=700c4b09
+DTITLE=Daniel Barry - The Jazz Police
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=To and Fro
+TTITLE1=Ancestors
+TTITLE2=Two To Tango
+TTITLE3=Miss. Leisure
+TTITLE4=The Hiding Place
+TTITLE5=Sleep Baby Sleep
+TTITLE6=Black Bean Boss
+TTITLE7=The Phoenix
+TTITLE8=In The Beginning
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

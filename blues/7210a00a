@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     23362
+#     42545
+#     91325
+#     126910
+#     151360
+#     173532
+#     201327
+#     233335
+#     266397
+# 
+# Disc length: 4258 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7210a00a
+DTITLE=Ed Volker - Lost Radio Hour
+DYEAR=1900
+DGENRE=
+TTITLE0=Back to Loveland
+TTITLE1=Dancing Leaves
+TTITLE2=Grief SNAFU
+TTITLE3=You're Gonna Need Somebody On Your Bond
+TTITLE4=Rainbow Road
+TTITLE5=Harmony
+TTITLE6=Memories of My Father
+TTITLE7=Payday
+TTITLE8=Connection
+TTITLE9=Girl With the Golden Eyes
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 2004 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19412
+#     38612
+#     67410
+#     93972
+#     122795
+#     150400
+#     169640
+#     187130
+# 
+# Disc length: 3131 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=750c3909
+DTITLE=Craig David - Fill Me In (Single)
+DYEAR=1900
+DGENRE=
+TTITLE0=Fill Me In - Album Version
+TTITLE1=Fill Me In - Full Crew Mix
+TTITLE2=Fill Me In - Blacksmith Mix
+TTITLE3=Fill Me In - Sunship Remix
+TTITLE4=Fill Me In - Artful Dodger Remix
+TTITLE5=Fill Me In - Artful Dodger Bootleg Remix
+TTITLE6=Fill Me In - Album Instrumental
+TTITLE7=Fill Me In - Radio Edit
+TTITLE8=Fill Me In - Live
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=Recorded at Wembley Arena, London, England on March 2, 2001
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23164
+#	43336
+#	62052
+#	81889
+#	103279
+#	125819
+#	154993
+#
+# Disc length: 2369 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=71093f08
+DTITLE=George Blondheim - A Little Christmas Jazz
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Have Yourself A Merry Little Chistmas
+TTITLE1=I'll Be Home For Chirstmas
+TTITLE2=What Child Is This
+TTITLE3=Frosty The Snowman
+TTITLE4=Walking In A Winter Wonderland
+TTITLE5=Silver Bells
+TTITLE6=Charlie Brown Chirstmas
+TTITLE7=The Christmas Song
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

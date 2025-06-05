@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51693
+#	72575
+#	96463
+#	123458
+#	149168
+#	161803
+#
+# Disc length: 2567 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=7a0a0507
+DTITLE=The woodland consort - Woodland winds 1990
+DYEAR=1990
+DGENRE=New Age
+TTITLE0=Earth anthem (Gaia, Gaia)
+TTITLE1=Woodland winds, part 1
+TTITLE2=Woodland winds, part 2
+TTITLE3=Feather song, part 1
+TTITLE4=Feather song, part 2
+TTITLE5=Feather song, part 3
+TTITLE6=Homesteader's waltz
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

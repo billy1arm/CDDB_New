@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	153
+#	11986
+#	25505
+#	42130
+#	58504
+#	75983
+#	89623
+#	100605
+#	115639
+#	128286
+#	145806
+#	161385
+#
+# Disc length: 2330 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7f09180c
+DTITLE=The Original Entertainers - Dixieland
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Chinatown
+TTITLE1=Hallo kleines Fräulein
+TTITLE2=Schlafe, mein Prinzchen schlaf ein
+TTITLE3=Auf der Lüneburger Heide
+TTITLE4=Black Lair
+TTITLE5=My Margie
+TTITLE6=Ice cream
+TTITLE7=Alexander's Ragtime Band
+TTITLE8=You are my sunshine
+TTITLE9=St. Louis Blues
+TTITLE10=When the Saints go marchin' in
+TTITLE11=Stormy sky
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

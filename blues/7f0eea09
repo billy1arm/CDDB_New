@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	31970
+#	61935
+#	99665
+#	136405
+#	178288
+#	210213
+#	235888
+#	261595
+#
+# Disc length: 3820 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=7f0eea09
+DTITLE=André Jaume Five - Something
+DYEAR=1990
+DGENRE=Jazz
+TTITLE0=872
+TTITLE1=Devotion
+TTITLE2=The Coaster
+TTITLE3=Love and hate
+TTITLE4=Melody for melonae
+TTITLE5=Gin fizz
+TTITLE6=Mode pour Mi
+TTITLE7=Beguin
+TTITLE8=God bless the child
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

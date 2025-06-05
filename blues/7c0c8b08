@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49350
+#	85427
+#	141320
+#	164875
+#	180476
+#	194498
+#	230848
+#
+# Disc length: 3213 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7c0c8b08
+DTITLE=JIMI HENDRIX - Wake Up This Morning And Found Myself Dead
+DYEAR=1968
+DGENRE=Hard Rock
+TTITLE0=Red House
+TTITLE1=Wake Up This Morning And Found Myself Dead
+TTITLE2=Bleeding Heart
+TTITLE3=Morrison's Lament
+TTITLE4=Tomorrow Never Knows
+TTITLE5=Uranus Rock
+TTITLE6=Outside Woman Blues
+TTITLE7=Sunshine Of Your Love
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     16730
+#     37720
+#     57180
+#     80282
+#     95580
+#     110035
+#     128207
+#     155410
+#     161475
+#     179282
+# 
+# Disc length: 2572 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7c0a0a0b
+DTITLE=Bill Wharton And The Ingredients - Cookin'
+DYEAR=1900
+DGENRE=
+TTITLE0=Swamp Boogie
+TTITLE1=The Love Doctor
+TTITLE2=Layin' In The Cut
+TTITLE3=Open Up
+TTITLE4=Jones And A Half
+TTITLE5=Let Me Play With Your Poodle
+TTITLE6=Walkin' Blues
+TTITLE7=Rattlesnake Man
+TTITLE8=Rosie
+TTITLE9=Tallahassee Blues
+TTITLE10=Cathead Biscuit Gospel
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31168
+#	55745
+#	82330
+#	118704
+#	155489
+#	182951
+#	215175
+#
+# Disc length: 3278 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=720ccc08
+DTITLE=Mobley, Hank - Hank Mobley - Peckin' Time
+DYEAR=1959
+DGENRE=Jazz
+TTITLE0=Mighty Moe And Joe
+TTITLE1=Falling In Love With Love
+TTITLE2=Bag's Groove
+TTITLE3=Double Exposure
+TTITLE4=News
+TTITLE5=High And Flighty
+TTITLE6=Speak Low
+TTITLE7=Peckin' Time
+EXTD=YEAR: 1959
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

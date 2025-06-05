@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29340
+#	62007
+#	101426
+#	131165
+#	169054
+#	205481
+#	236235
+#
+# Disc length: 3674 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=710e5808
+DTITLE=Danny Grissett - Stride
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Stride
+TTITLE1=Viennese Summer
+TTITLE2=Etude Opus 10: No. 6 In E-Flat Minor
+TTITLE3=Two Sleepy People
+TTITLE4=Close Quarters
+TTITLE5=Scene
+TTITLE6=It Takes Two To Know One
+TTITLE7=Some Other Time
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

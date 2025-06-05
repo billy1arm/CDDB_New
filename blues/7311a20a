@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34537
+#	45927
+#	65622
+#	88790
+#	152310
+#	166510
+#	191765
+#	223545
+#	273075
+#
+# Disc length: 4516 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7311a20a
+DTITLE=Olivier Messiaen - Vingt regards sur l'enfant Jésus  { XI à XX }  (Håkon Austbø, piano)
+DYEAR=1993
+DGENRE=Musique Contemporaine
+TTITLE0=Vingt regards sur l'enfant Jésus - XI. Première communion de la Vierge
+TTITLE1=Vingt regards sur l'enfant Jésus - XII. La Parole toute-puissante
+TTITLE2=Vingt regards sur l'enfant Jésus - XIII. Noël
+TTITLE3=Vingt regards sur l'enfant Jésus - XIV. Regard des Anges
+TTITLE4=Vingt regards sur l'enfant Jésus - XV. Le Baiser de l'enfant Jésus
+TTITLE5=Vingt regards sur l'enfant Jésus - XVI. Regard des Prophètes, des Bergers et des Mages
+TTITLE6=Vingt regards sur l'enfant Jésus - XVII. Regard du Silence
+TTITLE7=Vingt regards sur l'enfant Jésus - XVIII. Regard de l' Onction terrible
+TTITLE8=Vingt regards sur l'enfant Jésus - XIX. Je dors,mais mon coeur veille
+TTITLE9=Vingt regards sur l'enfant Jésus - XX. Regard de l' Église d' Amour
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

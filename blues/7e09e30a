@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17182
+#	31207
+#	52907
+#	64130
+#	97137
+#	107645
+#	121177
+#	135707
+#	154592
+#
+# Disc length: 2533 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=7e09e30a
+DTITLE=Various Artist - pocket JAZZ - Blues and Boogie
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Liomnel Hampton \ Beulah's boogie
+TTITLE1=Gene Haupa\Bop Boogie
+TTITLE2=Red Allen With All-Stars\Wild Man Blues
+TTITLE3=Menphis Slim\Sonophone Boogie
+TTITLE4=Joe Turner and Pete Johnson\Roll'em Pete
+TTITLE5=Sir Charles Thompson \ Mister Boogie
+TTITLE6=Benny Goodman \ St. Louis Blues
+TTITLE7=Harry James \ Woo-Woo
+TTITLE8=Earl Hines\St. James Infirmary
+TTITLE9=The Cafe Society Band \ Swingin' the Blues
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

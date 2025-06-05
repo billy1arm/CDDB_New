@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36150
+#	66750
+#	97500
+#	132825
+#	160725
+#	191175
+#	214200
+#	246600
+#
+# Disc length: 3645 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7d0e3b09
+DTITLE=Rob Schneiderman - Keepin' in the Groove
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Keepin' in the Groove
+TTITLE1=Four
+TTITLE2=On a Misty Night
+TTITLE3=Tugboat
+TTITLE4=Daahoud
+TTITLE5=This Is for Albert
+TTITLE6=Caravan
+TTITLE7=Bebop
+TTITLE8=Deacceleration
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30700
+#	52213
+#	99955
+#	143103
+#	177838
+#	202518
+#	222560
+#	255018
+#
+# Disc length: 3774 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=740ebc09
+DTITLE=Peter Giger Trio - jazzz...
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Jones Bones
+TTITLE1=Sweet and Short
+TTITLE2=Rue de la Tour
+TTITLE3=Frankfurt - Maputo
+TTITLE4=Zbigi
+TTITLE5=Henrik's Choice
+TTITLE6=Gaba
+TTITLE7=Sweet Maya
+TTITLE8=Some Drum Samba
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

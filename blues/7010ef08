@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37147
+#	65545
+#	107957
+#	139890
+#	175042
+#	210247
+#	237275
+#
+# Disc length: 4337 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7010ef08
+DTITLE=Sonny Rollins - Vol. 062, The Freedom Suite (1956-1958)
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Sonny Boy
+TTITLE1=How Are Things in Glocca Morra
+TTITLE2=Misterioso
+TTITLE3=Reflections
+TTITLE4=Come, Gone
+TTITLE5=Solitude
+TTITLE6=Funky Hotel Blues
+TTITLE7=The Freedom Suite
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24256
+#	50963
+#	75293
+#	100211
+#	128315
+#	156839
+#	177841
+#	195036
+#	210533
+#	244921
+#
+# Disc length: 3346 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7c0d100b
+DTITLE=Lemony Snicket - Der schreckliche Anfang [CD3)
+DYEAR=2000
+DGENRE=Hörbuch
+TTITLE0=Der schreckliche Anfang 24
+TTITLE1=Der schreckliche Anfang 25
+TTITLE2=Der schreckliche Anfang 26
+TTITLE3=Der schreckliche Anfang 27
+TTITLE4=Der schreckliche Anfang 28
+TTITLE5=Der schreckliche Anfang 29
+TTITLE6=Der schreckliche Anfang 30
+TTITLE7=Der schreckliche Anfang 31
+TTITLE8=Der schreckliche Anfang 32
+TTITLE9=Der schreckliche Anfang 33
+TTITLE10=Der schreckliche Anfang 34
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

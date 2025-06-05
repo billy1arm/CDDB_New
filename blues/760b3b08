@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12435
+#	37110
+#	63845
+#	108336
+#	130423
+#	148348
+#	170061
+#
+# Disc length: 2877 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1-cs1
+#
+DISCID=760b3b08
+DTITLE=RAVI SHANKAR - (George Harrison, producer) - RAVI SHANKAR'S - Music Festival from India (1976)
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0='VANDANA'
+TTITLE1='DHAMAR'
+TTITLE2='TARANA - CHATURANG'
+TTITLE3='RAGA JAIT'
+TTITLE4='KAJRI'
+TTITLE5='BHAJAN'
+TTITLE6='NADERDANI'
+TTITLE7='DEHATI'
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

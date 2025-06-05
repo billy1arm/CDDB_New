@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15425
+#	33890
+#	47612
+#	73405
+#	90860
+#	105160
+#	115765
+#	131092
+#	152130
+#	165915
+#
+# Disc length: 2382 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=77094c0b
+DTITLE=The Rockin' Highliners - What Were You Thinking?
+DYEAR=1900
+DGENRE=
+TTITLE0=Swing Party
+TTITLE1=Who's Been Sleepin'
+TTITLE2=That's My Life
+TTITLE3=Speak
+TTITLE4=Old Man
+TTITLE5=Easy On The Eyes
+TTITLE6=Spank
+TTITLE7=Midnight Swing
+TTITLE8=If I Could Be That
+TTITLE9=What's The Matter With Your Head?
+TTITLE10=Be Good or Be Gone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

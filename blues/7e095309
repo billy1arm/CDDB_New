@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20394
+#	45109
+#	65994
+#	96269
+#	113852
+#	129735
+#	143974
+#	161849
+#
+# Disc length: 2389 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7e095309
+DTITLE=The Ursula Ricks Project - Let The Blues In
+DYEAR=2008
+DGENRE=Blues
+TTITLE0=Early One Morning
+TTITLE1=Something on your Mind
+TTITLE2=Make Love
+TTITLE3=Nitetime
+TTITLE4=Love's Game
+TTITLE5=My Street
+TTITLE6=Early One Morning
+TTITLE7=Houses on the Wall
+TTITLE8=That's Life
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

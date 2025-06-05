@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31232
+#	49057
+#	70787
+#	116379
+#	143040
+#	166920
+#	197097
+#	220020
+#
+# Disc length: 3290 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760cd809
+DTITLE=Gustav Leonhardt - J.S. Bach Brandenburg Concertos 4, 5, 6
+DYEAR=1976
+DGENRE=Classical
+TTITLE0=Brandenburg Concertos No.4 G major, BWV 1049: I. Allegro
+TTITLE1=Brandenburg Concertos No.4 G major, BWV 1049: II. Andante
+TTITLE2=Brandenburg Concertos No.4 G major, BWV 1049: III. Presto
+TTITLE3=Brandenburg Concertos No.5 D major, BWV 1050: I. Allegro
+TTITLE4=Brandenburg Concertos No.5 D major, BWV 1050: II. Affettuoso
+TTITLE5=Brandenburg Concertos No.5 D major, BWV 1050: III. Allegro
+TTITLE6=Brandenburg Concertos No.6 B flat major, BWV 1051: I. Allegro
+TTITLE7=Brandenburg Concertos No.6 B flat major, BWV 1051: II. Adagio ma non tanto
+TTITLE8=Brandenburg Concertos No.6 B flat major, BWV 1051: III. Allegro
+EXTD=Disc 2 of 2 - Concertos 4,5 6 (BWV 1049-1051]\n YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

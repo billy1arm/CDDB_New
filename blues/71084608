@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     24167
+#     37462
+#     62487
+#     82295
+#     95580
+#     119372
+#     145382
+# 
+# Disc length: 2120 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=71084608
+DTITLE=Real de Catorce - Real de Catorce
+DYEAR=1900
+DGENRE=
+TTITLE0=Azul
+TTITLE1=Me miraba a los ojos
+TTITLE2=Flores en la ventana
+TTITLE3=Soledad y sol
+TTITLE4=El halc n
+TTITLE5=Paria's Blues
+TTITLE6=Mujer sucia
+TTITLE7=El lobo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

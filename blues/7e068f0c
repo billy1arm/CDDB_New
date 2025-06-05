@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	13525
+# 	21973
+# 	38598
+# 	47305
+# 	54465
+# 	62415
+# 	76900
+# 	85850
+# 	99730
+# 	105138
+# 	115285
+#
+# Disc length: 1681 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7e068f0c
+DTITLE=Billie Holiday - All Of Me
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=My Man
+TTITLE1=Theme There Eyes
+TTITLE2=I Cover The Waterfront
+TTITLE3=Lover Come Back To Me
+TTITLE4=You're Driving Me Crazy
+TTITLE5=All Of Me
+TTITLE6=Porgy
+TTITLE7=Miss Brown To You
+TTITLE8=The Can't Take That Away From Me
+TTITLE9=Storeyville
+TTITLE10=Blues Are Bluer
+TTITLE11=Road To Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

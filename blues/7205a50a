@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13360
+#	23100
+#	33802
+#	44637
+#	56455
+#	68497
+#	78955
+#	87095
+#	98210
+#
+# Disc length: 1447 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7205a50a
+DTITLE=Dalida - Le Disque D'Or De Dalida
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Ciao Ciao Bambina
+TTITLE1=Ce Serait Dommage
+TTITLE2=Si Je Pouvais Revivre Un Jour Ma Vie
+TTITLE3=Du Moment Qu'On S'Aime
+TTITLE4=Tu M'Etais Destinee
+TTITLE5=Come Prima
+TTITLE6=Hava Naguila
+TTITLE7=Tout L'Amour
+TTITLE8=Guitare Et Tambourin
+TTITLE9=Amstramgram
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=
