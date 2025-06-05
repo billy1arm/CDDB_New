@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	48575
+#	81733
+#	117090
+#	154835
+#	185840
+#	220033
+#
+# Disc length: 3423 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=630d5d07
+DTITLE=Tobifudoh - Tobifudoh
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Kage
+TTITLE1=Osake
+TTITLE2=Yansado-Bushi
+TTITLE3=Karura
+TTITLE4=Utage
+TTITLE5=Omi no Hito
+TTITLE6=Tobifudoh
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

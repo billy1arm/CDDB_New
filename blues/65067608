@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  18745
+#  36245
+#  53795
+#  69750
+#  88420
+#  93820
+#  109310
+#
+# Disc length: 1656 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=65067608
+DTITLE=Salt 'N' Pepa - Shoop
+DYEAR=1900
+DGENRE=
+TTITLE0=Shoop (Album Version)
+TTITLE1=Shoop (Guru's Mix)
+TTITLE2=Shoop (Danny D's RnB Mix)
+TTITLE3=Let's Talk About Aids
+TTITLE4=Shoop (Instrumental)
+TTITLE5=Shoop (Acapella)
+TTITLE6=Emphatically No
+TTITLE7=I've Got Aids (PSA)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

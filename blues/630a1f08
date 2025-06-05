@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23352
+#	48550
+#	64974
+#	94595
+#	114152
+#	144839
+#	164948
+#
+# Disc length: 2593 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=630a1f08
+DTITLE=Pierre-Louis Garcia - Pierre-Louis Garcia
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Oldlegum
+TTITLE1=Pologne
+TTITLE2=Tube Gay
+TTITLE3=Nicolas de Marseille
+TTITLE4=Nem Um Talvez
+TTITLE5=Tat's
+TTITLE6=Phrygien
+TTITLE7=Capitaine
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

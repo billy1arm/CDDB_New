@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49762
+#	71012
+#	111229
+#	133824
+#	165646
+#	197778
+#
+# Disc length: 3239 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=660ca507
+DTITLE=Tobias Delius 4 tet - The Heron
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Socks -Lamps -Beauja 
+TTITLE1=P Chase 
+TTITLE2=Plonk -Couples -Kintopp Continued 
+TTITLE3=The Heron 
+TTITLE4=F's and T's -New 1
+TTITLE5=Kafka 1 -Kintopp 
+TTITLE6=Kitchen Sink -Fusspot 
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

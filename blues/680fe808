@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	60354
+#	116124
+#	149485
+#	187605
+#	221429
+#	256623
+#	285282
+#
+# Disc length: 4074 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=680fe808
+DTITLE=Steve and Mal Sedergreen - Mistaken Identity - Live CD1
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Elenor Rigby
+TTITLE1=Fragile
+TTITLE2=Tone Poem/Song of Loving Kindness
+TTITLE3=It's Up to You
+TTITLE4=Chan's Song (Never Said)
+TTITLE5=Toenails
+TTITLE6=Slow Recovery
+TTITLE7=One For Barry
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

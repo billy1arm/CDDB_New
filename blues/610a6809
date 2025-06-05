@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28312
+#	56129
+#	83679
+#	103199
+#	128285
+#	153420
+#	172661
+#	195024
+#
+# Disc length: 2666 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=610a6809
+DTITLE=David Matthews - Digital Love
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Media
+TTITLE1=Digital Love
+TTITLE2=Electric Flight
+TTITLE3=I Don't Care Much For Love
+TTITLE4=99 Parsecs
+TTITLE5=Some Trunk Funk
+TTITLE6=Funky Apple
+TTITLE7=Song Of The Setting Sun
+TTITLE8=Media (Reprise)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

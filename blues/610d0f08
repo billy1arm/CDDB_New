@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30600
+#	57600
+#	90975
+#	116174
+#	153674
+#	190573
+#	210898
+#
+# Disc length: 3345 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=610d0f08
+DTITLE=Sri Hari - One But Different
+DYEAR=1997
+DGENRE=New Age
+TTITLE0=The Path Of Yoga
+TTITLE1=Damodarastaka
+TTITLE2=Paramatma
+TTITLE3=Jazz Maharaja
+TTITLE4=Mata Bhumi
+TTITLE5=Spread The Chanting
+TTITLE6=Radhe Govinda
+TTITLE7=Shivranjani Raga
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

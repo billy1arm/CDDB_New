@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22634
+#	50232
+#	72853
+#	93188
+#	111491
+#	133134
+#	166702
+#
+# Disc length: 2451 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=64099108
+DTITLE=Dave Brubeck Quartet - Jazz Impressions of the U.S.A. (vinyl - mono)
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Ode to a Cowboy
+TTITLE1=Summer Song
+TTITLE2=Yonder for Two
+TTITLE3=History of a Boy Scout
+TTITLE4=Plain Song
+TTITLE5=Curtain Time
+TTITLE6=Sounds of the Loop
+TTITLE7=Home at Last
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

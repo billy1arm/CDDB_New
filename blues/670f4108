@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34715
+#	77924
+#	111084
+#	144822
+#	190471
+#	227920
+#	257154
+#
+# Disc length: 3907 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670f4108
+DTITLE=Martial Solal and DRJO - Contrastes-The Jazzpar Price
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Drjo N°1
+TTITLE1=Ritournelle N°1
+TTITLE2=Monster Piece
+TTITLE3=Summertime
+TTITLE4=Mythe Décisif
+TTITLE5=Rtournell N° 2
+TTITLE6=Contrastes
+TTITLE7=En Coulisse
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26700
+#	52200
+#	77775
+#	104625
+#	129825
+#	158400
+#	183300
+#
+# Disc length: 2775 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=620ad508
+DTITLE=Ping Yuan - Waves Of Pine
+DYEAR=1999
+DGENRE=New Age
+TTITLE0=Tea Under A Pine
+TTITLE1=Waves Of Pine
+TTITLE2=In Deep Clouds
+TTITLE3=Friends Of Winter
+TTITLE4=The Dance Between Wind And Pines
+TTITLE5=In And Out Of A Dream
+TTITLE6=Ghostly Shadows
+TTITLE7=A Pine Upon A Mirror
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

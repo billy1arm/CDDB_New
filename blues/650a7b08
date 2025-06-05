@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29530
+#	50045
+#	81062
+#	113710
+#	148665
+#	177175
+#	189117
+#
+# Disc length: 2685 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=650a7b08
+DTITLE=Oleg 'Maestro' Plotnikov - My Little Rolly
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=My Little Rolly
+TTITLE1=Octave Boogie
+TTITLE2=Blueberry Hill
+TTITLE3=Watermelon Man
+TTITLE4=St.Louis Blues
+TTITLE5=China Girl
+TTITLE6=Singer M. Boogie
+TTITLE7=Cat On The Strings
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

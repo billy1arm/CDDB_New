@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	188
+#	17628
+#	30938
+#	57750
+#	84750
+#	108275
+#	128888
+#	147138
+#	173213
+#
+# Disc length: 2609 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=620a2f09
+DTITLE=Aga Kaan - Bon Voyage
+DYEAR=1990
+DGENRE=New Age
+TTITLE0=Orient Express
+TTITLE1=Keltic Dance
+TTITLE2=Electric Sioux
+TTITLE3=Echo Rain
+TTITLE4=Drama
+TTITLE5=In Another World
+TTITLE6=Cordoba
+TTITLE7=Horizons
+TTITLE8=Farewell
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

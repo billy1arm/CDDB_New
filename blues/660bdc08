@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32508
+#	56802
+#	75247
+#	111108
+#	143136
+#	171071
+#	200919
+#
+# Disc length: 3038 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=660bdc08
+DTITLE=Geoffrey Keezer - Aurea
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Cayendo Para Arriba
+TTITLE1=Una Bruja Buena
+TTITLE2=La Flor Azul
+TTITLE3=Arana Amarilla
+TTITLE4=Leucadia
+TTITLE5=La Nostalgiosa
+TTITLE6=Miraflores
+TTITLE7=Vidala De Lucho
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

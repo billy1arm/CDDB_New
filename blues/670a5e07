@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43255
+#	88413
+#	119360
+#	147747
+#	172705
+#	191747
+#
+# Disc length: 2656 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=670a5e07
+DTITLE=David Link - Atmospheric Snorkeling
+DYEAR=2000
+DGENRE=New Age
+TTITLE0=Awakening
+TTITLE1=Jungle Storm
+TTITLE2=Foggy Sea
+TTITLE3=Underwater Conversations
+TTITLE4=Topside
+TTITLE5=Wolf Party
+TTITLE6=Away
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

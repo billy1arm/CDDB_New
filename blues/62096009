@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16694
+#	34106
+#	61340
+#	81380
+#	98579
+#	121069
+#	146327
+#	166842
+#
+# Disc length: 2402 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=62096009
+DTITLE=Nublues - Dreams of a Blues Man
+DYEAR=2004
+DGENRE=Blues
+TTITLE0=Swamp Thang
+TTITLE1=Mississippi Rising
+TTITLE2=Blues Man on the Run
+TTITLE3=Dreams of a Blues Man
+TTITLE4=Conversation Breakdown
+TTITLE5=Contradiction
+TTITLE6=Memories of a Good Time
+TTITLE7=Missy Dee
+TTITLE8=Hold Over Me
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

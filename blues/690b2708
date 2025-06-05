@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13953
+#	48049
+#	72411
+#	97930
+#	142724
+#	170921
+#	197108
+#
+# Disc length: 2857 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=690b2708
+DTITLE=Miles Davis - Bluing
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Whispering (Schönberger-Coburn-Rose)
+TTITLE1=Dig (Davis)
+TTITLE2=It's Only A Papermoon (Arien-Harburg-Rose)
+TTITLE3=Denial
+TTITLE4=Bluing (Davis)
+TTITLE5=Out Of The Blue (Davis)
+TTITLE6=Compulsion (Davis)
+TTITLE7=Tune Up (Davis)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

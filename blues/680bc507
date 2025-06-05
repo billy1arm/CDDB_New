@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29393
+#	56924
+#	85500
+#	117666
+#	143977
+#	186745
+#
+# Disc length: 3015 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=680bc507
+DTITLE=Gato Libre - Kuro
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Sunny Spot
+TTITLE1=Patrol
+TTITLE2=Battle
+TTITLE3=Reconcile
+TTITLE4=Together
+TTITLE5=Beyond
+TTITLE6=Kuro
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

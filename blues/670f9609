@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30249
+#	72353
+#	98350
+#	150927
+#	160939
+#	176903
+#	237060
+#	298147
+#
+# Disc length: 3992 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670f9609
+DTITLE=Miles Davis - More Black Beauty 19700409
+DYEAR=1970
+DGENRE=Jazz
+TTITLE0=Directions
+TTITLE1=Miles Runs the Voodoo Down
+TTITLE2=This
+TTITLE3=It's About That Time
+TTITLE4=I Fall in Love Too Easily
+TTITLE5=Sanctuary
+TTITLE6=Spanish Key
+TTITLE7=Bitches Brew
+TTITLE8=The Theme
+EXTD=YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

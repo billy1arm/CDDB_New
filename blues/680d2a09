@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26233
+#	51001
+#	79267
+#	107014
+#	133026
+#	172711
+#	195914
+#	225631
+#
+# Disc length: 3372 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=680d2a09
+DTITLE=Various Artist - Tropical Jazz
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Island Welcome
+TTITLE1=Serenity Sear
+TTITLE2=Drifting
+TTITLE3=Island Excursion
+TTITLE4=Tropical Jazz
+TTITLE5=Afternoon Shower
+TTITLE6=In the Rain Forest
+TTITLE7=Back to Dickerson Bay
+TTITLE8=Island Dreams
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

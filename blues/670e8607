@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	118250
+#	147402
+#	190178
+#	215850
+#	230250
+#	244546
+#
+# Disc length: 3720 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=670e8607
+DTITLE=Hano Shoji - Honda Tamaya - Drums Duo
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=The earth breath 1
+TTITLE1=The earth breath 2
+TTITLE2=Cosmos signal 1 (wind)
+TTITLE3=Cosmos signal 2 (voice)
+TTITLE4=Cosmos signal 3 (dream)
+TTITLE5=Language
+TTITLE6=The core
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

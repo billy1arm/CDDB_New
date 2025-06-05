@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24257
+#	47986
+#	60568
+#	79611
+#	98850
+#	137957
+#	178116
+#
+# Disc length: 2730 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=650aa808
+DTITLE=Mike Selesia - Flavor
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Mr. P.C.
+TTITLE1=Brute Strength
+TTITLE2=Yusefs Way
+TTITLE3=Silvers Serenade
+TTITLE4=Castle Spook (Part I)
+TTITLE5=Eastern Raga
+TTITLE6=Flavor
+TTITLE7=Castle Spook (Part II)
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

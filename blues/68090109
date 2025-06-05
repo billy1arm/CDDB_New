@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20077
+#	47390
+#	64007
+#	83600
+#	102797
+#	122660
+#	144407
+#	160157
+#
+# Disc length: 2307 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=68090109
+DTITLE=Milt Jackson - For someone I love
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Days of wine and roses
+TTITLE1=For someone I love
+TTITLE2=(What's your story) Morning glory
+TTITLE3=Save your love for me
+TTITLE4=Extraordinary blues
+TTITLE5=Flamingo
+TTITLE6=Chelsea bridge
+TTITLE7=Just waiting
+TTITLE8=Bossa bags
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

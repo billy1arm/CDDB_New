@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19999
+#	45934
+#	72856
+#	93196
+#	114796
+#	137061
+#	147639
+#
+# Disc length: 2324 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=66091208
+DTITLE=Jacob Garchik - Abstracts
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=abstract/01
+TTITLE1=abstract/02
+TTITLE2=abstract/03
+TTITLE3=abstract/04
+TTITLE4=abstract/05
+TTITLE5=abstract/06
+TTITLE6=abstract/07
+TTITLE7=abstract/08
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

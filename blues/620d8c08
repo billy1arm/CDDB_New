@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54833
+#	113619
+#	127955
+#	136791
+#	149562
+#	177051
+#	247981
+#
+# Disc length: 3470 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=620d8c08
+DTITLE=Johannes Brahms - Oeuvres pour Choeur et Orchestre (Helmuth Rilling, Bach-Collegium Stuttgart)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Chant de Parques - Gesang der Parzan
+TTITLE1=Nénie - Nänie
+TTITLE2=4 Chants pour choeur féminin - Es tönt ein voller Harfenklang
+TTITLE3=4 Chants pour choeur féminin - Lied von Shakespeare
+TTITLE4=4 Chants pour choeur féminin - Der Gärtner
+TTITLE5=4 Chants pour choeur féminin - Gesang aus Fingal
+TTITLE6=Chant du destin - Schicksalslied
+TTITLE7=Chant du destin - Autre version avec orchestre
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

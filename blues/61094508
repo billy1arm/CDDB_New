@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18695
+#	31980
+#	53993
+#	77029
+#	99777
+#	123612
+#	146275
+#
+# Disc length: 2375 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=61094508
+DTITLE=Melody Gardot - World Café Live in Philadelphia 2008
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Melody Gardot - No More My Lord
+TTITLE1=Melody Gardot - Sweet Memory
+TTITLE2=Melody Gardot - Ain't No Sunshine
+TTITLE3=Melody Gardot - Worrisome Heart
+TTITLE4=Melody Gardot - Quiet Fire
+TTITLE5=Melody Gardot - Happiness At Last
+TTITLE6=Melody Gardot - Love Me Like A River Does
+TTITLE7=Melody Gardot - Goodnight
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

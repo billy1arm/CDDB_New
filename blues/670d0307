@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34140
+#	69358
+#	106715
+#	141637
+#	183745
+#	205333
+#
+# Disc length: 3333 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=670d0307
+DTITLE=Danny Gottlieb and the Nairobi Trio - Jazz Classics
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=On Green Dolphin Street
+TTITLE1=Maiden Voyage
+TTITLE2=All the Things You Are
+TTITLE3=I Loves You, Porgy
+TTITLE4=How Deep Is The Ocean
+TTITLE5=Nairobi Trio
+TTITLE6=Beautiful Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

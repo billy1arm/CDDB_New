@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	39995
+#	76572
+#	108957
+#	142352
+#	173924
+#	213162
+#	246124
+#
+# Disc length: 3328 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=620cfe08
+DTITLE=Barry Elmes Quintet - The Five Minute Warning
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=The New Shim Sham Shimmy
+TTITLE1=Isabel
+TTITLE2=Mouse House
+TTITLE3=The Five Minute Warning
+TTITLE4=Remember When
+TTITLE5=The Prosopagnosia Blues
+TTITLE6=The Jinx
+TTITLE7=Dizzy's Lesson
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

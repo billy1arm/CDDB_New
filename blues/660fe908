@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	51205
+#	92980
+#	122415
+#	168105
+#	214052
+#	252577
+#	301152
+#
+# Disc length: 4075 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=660fe908
+DTITLE=Thelonious Monk - Live at the IT Club (Disk 1 of 2)
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Blue Monk
+TTITLE1=Well, You Needn't
+TTITLE2=Round Midnight
+TTITLE3=Rhythm-A-Ning
+TTITLE4=Blues Five Spot
+TTITLE5=Bemsha Swing
+TTITLE6=Nutty
+TTITLE7=Epistrophy (Theme)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42162
+#	91747
+#	126345
+#	145296
+#	198677
+#	222269
+#
+# Disc length: 3100 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670c1a07
+DTITLE=Dorota Ziablo, Wiktor Wilk - JEJ SERCE
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=MATKO NAJSWIETSZA
+TTITLE1=USLYSZ BOZEJ M
+TTITLE2=B³ogos³awiona jestes Matyjo
+TTITLE3=Ave Maria
+TTITLE4=Bogurodzica
+TTITLE5=Jezus, Maryja, Jozef i Anna
+TTITLE6=Tajemnica Maryji
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

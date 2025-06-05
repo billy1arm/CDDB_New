@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29925
+#	57625
+#	82575
+#	112975
+#	149275
+#	175162
+#	204037
+#
+# Disc length: 3179 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=660c6908
+DTITLE=Visibelli, Giulio - Il grande cerchio
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Sleeping Mice
+TTITLE1=Little inversions
+TTITLE2=Poliubime
+TTITLE3=Bobik
+TTITLE4=Il grande cerchio
+TTITLE5=Lidiae
+TTITLE6=Ohis
+TTITLE7=Nefertari
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

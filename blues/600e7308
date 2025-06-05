@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	33740
+#	62255
+#	94545
+#	136982
+#	167772
+#	207427
+#	240865
+#
+# Disc length: 3701 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=600e7308
+DTITLE=Esovision - Secret societies of the past
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=The templars
+TTITLE1=Gnostic circle
+TTITLE2=Community of mani
+TTITLE3=Rosicricians
+TTITLE4=Assassins
+TTITLE5=Knight of the grail
+TTITLE6=Wiedertaufer
+TTITLE7=Company of the round table
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

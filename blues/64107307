@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40875
+#	94868
+#	126924
+#	174555
+#	207981
+#	260059
+#
+# Disc length: 4213 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=64107307
+DTITLE=John Coltrane - Anthology
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Blue Trane
+TTITLE1=Spiritual
+TTITLE2=Naima
+TTITLE3=My favorite Things
+TTITLE4=Impressions
+TTITLE5=Traneing in
+TTITLE6=The Inch Worm
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

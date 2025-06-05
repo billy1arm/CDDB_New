@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33695
+#	55335
+#	85335
+#	124785
+#	152550
+#	174450
+#	190110
+#
+# Disc length: 2720 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=640a9e08
+DTITLE=Schiller - Die Einlassmusik 4
+DYEAR=2008
+DGENRE=New Age
+TTITLE0=Teil I
+TTITLE1=Teil II
+TTITLE2=Teil III
+TTITLE3=Teil IV
+TTITLE4=Teil V
+TTITLE5=Teil VI
+TTITLE6=Teil VII
+TTITLE7=Teil VIII
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

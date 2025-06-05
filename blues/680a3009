@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19100
+#	42440
+#	61210
+#	79035
+#	99337
+#	128055
+#	153580
+#	171777
+#
+# Disc length: 2610 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=680a3009
+DTITLE=Prague Big Band - Poste Restante
+DYEAR=1982
+DGENRE=Jazz
+TTITLE0=01-Poste Restante
+TTITLE1=02-Pockej na mne
+TTITLE2=03-Janko
+TTITLE3=04-Andromeda
+TTITLE4=05-Do rocku a do dna
+TTITLE5=06-Hromovka
+TTITLE6=07-Pohar horkosti
+TTITLE7=08-Tisina
+TTITLE8=09-Dej vic
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

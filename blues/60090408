@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8676
+#	29742
+#	51879
+#	87957
+#	106043
+#	147382
+#	159587
+#
+# Disc length: 2310 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=60090408
+DTITLE=Stevie Ray Vaughan and Double Trouble - Couldn't Stand The Weather
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Scuttle Buttin'
+TTITLE1=Couldn't Stand The Weather
+TTITLE2=The Things (That) I Used to Do
+TTITLE3=Voodoo Chile (Slight Return)
+TTITLE4=Cold Shot
+TTITLE5=Tin Pan Alley
+TTITLE6=Honey Bee
+TTITLE7=Stang's Swang
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

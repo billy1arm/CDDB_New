@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25040
+#	62202
+#	102260
+#	155610
+#	174020
+#	198075
+#	245207
+#
+# Disc length: 3452 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=600d7a08
+DTITLE=Conrad and Johannes Bauer - The Concert at Voelkerschlachtdenkmal Leipzig
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Dialog 1
+TTITLE1=Dialog 2
+TTITLE2=Dialog 3
+TTITLE3=Dialog 4
+TTITLE4=Monolog C
+TTITLE5=Monolog J
+TTITLE6=Dialog 5
+TTITLE7=Dialog 6
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

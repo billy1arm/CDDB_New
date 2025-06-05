@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	14890
+#	45248
+#	88953
+#	111660
+#	143643
+#	164795
+#
+# Disc length: 2570 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=650a0807
+DTITLE=Steve Lacy Solo - In Situ
+DYEAR=1985
+DGENRE=Jazz
+TTITLE0=work
+TTITLE1=morning joy
+TTITLE2=coastline/ dead line
+TTITLE3=clichés
+TTITLE4=retreat
+TTITLE5=the gleam
+TTITLE6=rimane poco
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

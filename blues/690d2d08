@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33498
+#	56611
+#	99361
+#	127956
+#	169213
+#	193139
+#	229311
+#
+# Disc length: 3375 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=690d2d08
+DTITLE=James Maddock - Live at the Queens
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Jersey Bounce
+TTITLE1=Big Charlie
+TTITLE2=How Insensitive
+TTITLE3=Beautiful Love
+TTITLE4=In A Sentimental Mood
+TTITLE5=I Should Care
+TTITLE6=The Way You Look Tonight
+TTITLE7=Bye Bye Blackbird
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

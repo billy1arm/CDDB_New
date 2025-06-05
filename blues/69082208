@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19669
+#	40984
+#	59807
+#	73556
+#	93798
+#	113085
+#	130251
+#
+# Disc length: 2084 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=69082208
+DTITLE=The Leonard Brothers - A Simpler Christmas Time
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Have Yourself a Merry Little Christmas
+TTITLE1=Baby It's Cold Outside
+TTITLE2=I'll Be Home for Christmas
+TTITLE3=Santa Claus is Coming to Town
+TTITLE4=The Christmas Song
+TTITLE5=Walkin' in a Winter Wonderland
+TTITLE6=White Christmas
+TTITLE7=Christmas Time is Here
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

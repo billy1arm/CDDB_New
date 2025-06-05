@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	55220
+#	95947
+#	124372
+#	164497
+#	198397
+#	227047
+#
+# Disc length: 3373 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=650d2b07
+DTITLE=Beethoven - Forever by the Ocean
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=01-Symphony Nº 9 - Movements 3 and 4
+TTITLE1=02-Piano Concerto Nº 1 - Largo
+TTITLE2=03-Symphony Nº 7 - 2º Movement
+TTITLE3=04-Symphony Nº 6 - Pastoral - Movements 1, 2 and 5
+TTITLE4=05-Moonlight Sonata
+TTITLE5=06-Sonata Pathetique - 2º Movement
+TTITLE6=07- Violin Sonata Nº 7
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

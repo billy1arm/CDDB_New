@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35185
+#	58059
+#	84833
+#	115482
+#	148681
+#	173107
+#
+# Disc length: 2658 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=600a6007
+DTITLE=Oscar Pterson trio - On the Town (1958)
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=Sweet Georgia Brown
+TTITLE1=Should I ?
+TTITLE2=When lights are low
+TTITLE3=Easy listenin' bvlues
+TTITLE4=Pennies from heaven
+TTITLE5=The champ
+TTITLE6=Moonlight in Vermont
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

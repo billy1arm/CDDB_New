@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30005
+#	53120
+#	89348
+#	127512
+#	157216
+#	178675
+#	223376
+#
+# Disc length: 3502 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=630dac08
+DTITLE=Marcus Printup - Ballads All Night
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Miles Away
+TTITLE1=Emily
+TTITLE2=Memory Box
+TTITLE3=Lullaby For Nanay
+TTITLE4=Love As Is
+TTITLE5=Corcovado
+TTITLE6=The Nearness Of You
+TTITLE7=Blues All Night
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

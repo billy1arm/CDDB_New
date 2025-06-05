@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19688
+#	49367
+#	67830
+#	87988
+#	125053
+#	136316
+#	159226
+#
+# Disc length: 2405 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=65096308
+DTITLE=The Tab Two - Live (Zeltspektakel Waiblingen) - 1997 CD1
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Intro
+TTITLE1=Sad News
+TTITLE2=Let it flow
+TTITLE3=Unknown Title 2
+TTITLE4=Labertrack 1
+TTITLE5=Dinner for Two
+TTITLE6=Flagman ahead
+TTITLE7=What you gonna do
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

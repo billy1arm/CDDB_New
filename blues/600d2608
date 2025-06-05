@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43541
+#	72224
+#	101669
+#	151315
+#	167289
+#	181999
+#	216795
+#
+# Disc length: 3368 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=600d2608
+DTITLE=artisti vari - Jazz 1
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=John Coltrane - I talk to the trees
+TTITLE1=Gerry Mulligan - Apple Core
+TTITLE2=Johnny Griffin - Take My Hand
+TTITLE3=John Coltrane - Man made miles
+TTITLE4=Miles Davis - Embraceable You
+TTITLE5=Charlie Parker  - Begin the Beguine
+TTITLE6=Gerry Mulligan - Gerry Meets Hamp
+TTITLE7=Chick Corea - I Ain't Mad at You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

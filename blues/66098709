@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17157
+#     36782
+#     59080
+#     90332
+#     104700
+#     121537
+#     136805
+#     157557
+# 
+# Disc length: 2441 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=66098709
+DTITLE=Various Artist - Black Top Blues-A-Rama, Volume 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Pawnbroker
+TTITLE1=That's Alright
+TTITLE2=Suggestion Blues
+TTITLE3=Changin' Neighborhoods
+TTITLE4=I'm Your Professor
+TTITLE5=It's Hot in Here
+TTITLE6=Big Mamou
+TTITLE7=Hard Time Blues
+TTITLE8=Something On Your Mind
+EXTD=
+EXTT0=Anson Funderburgh and the Rockets \nwith Sam Myers\n
+EXTT1=Anson Funderburgh and the Rockets \nwith Sam Myers\n
+EXTT2=Anson Funderburgh and the Rockets \nwith Sam Myers\n
+EXTT3=Anson Funderburgh and the Rockets \nwith Sam Myers\n
+EXTT4=Ron Levy\n
+EXTT5=Ron Levy\n
+EXTT6=Ron Levy\n
+EXTT7=Grady Gaines\n
+EXTT8=Grady Gaines\n
+PLAYORDER=

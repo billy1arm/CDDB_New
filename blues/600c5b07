@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	49480
+#	65145
+#	83453
+#	98815
+#	115393
+#	170158
+#
+# Disc length: 3165 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=600c5b07
+DTITLE=The Doors - Live In Stockholm 1968
+DYEAR=1900
+DGENRE=R&B
+TTITLE0=Light My Fire
+TTITLE1=Mack The Knife - Alabama Song
+TTITLE2=Backdoor Man
+TTITLE3=You're Lost Little Girl
+TTITLE4=Love Me Two Times
+TTITLE5=When The Music Over
+TTITLE6=The End
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

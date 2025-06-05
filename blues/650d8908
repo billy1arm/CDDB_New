@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26525
+#	46316
+#	64527
+#	93829
+#	128245
+#	211199
+#	239693
+#
+# Disc length: 3467 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.00
+#
+DISCID=650d8908
+DTITLE=The Daryl Runswick Quartet - The Jazz Years CD1
+DYEAR=1973
+DGENRE=Jazz
+TTITLE0=Wyntones
+TTITLE1=Calouste
+TTITLE2=Lainey's Tune
+TTITLE3=Starkers
+TTITLE4=There Is No Greater Love
+TTITLE5=MacArthur Park
+TTITLE6=Without Her
+TTITLE7=Song Of The Double Bass Player
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30764
+#	56811
+#	90757
+#	119196
+#	152214
+#	188121
+#	218212
+#
+# Disc length: 3355 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=650d1908
+DTITLE=Hiroko Takada Trio - For A New Day
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Kaori (H. Takada)
+TTITLE1=青紫陽花[Ajisai] (H. Takada)
+TTITLE2=All The Things You Are (Jerome Kern)
+TTITLE3=Blue Or Red (H. Takada)
+TTITLE4=Last Snow (H. Takada)
+TTITLE5=The Nearness Of You (Hoagy Carmichael)
+TTITLE6=All Of You (Cole Porter)
+TTITLE7=For A New Day (H. Takada)
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44930
+#	80663
+#	110147
+#	138916
+#	167180
+#	189624
+#
+# Disc length: 2955 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=690b8907
+DTITLE=Dische, Irene - Der Doktor braucht ein Heim
+DYEAR=2208
+DGENRE=Hoerbuch
+TTITLE0=01 Der Doktor braucht ein Heim
+TTITLE1=02 Der Doktor braucht ein Heim
+TTITLE2=03 Der Doktor braucht ein Heim
+TTITLE3=04 Der Doktor braucht ein Heim
+TTITLE4=05 Der Doktor braucht ein Heim
+TTITLE5=06 Der Doktor braucht ein Heim
+TTITLE6=07 Der Doktor braucht ein Heim
+EXTD=YEAR: 2208
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

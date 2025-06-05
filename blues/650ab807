@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29065
+#	52180
+#	91675
+#	104730
+#	131170
+#	175322
+#
+# Disc length: 2746 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=650ab807
+DTITLE=Rory Gallagher - LIVE! IN EUROPE
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Messin' with The Kid
+TTITLE1=Laundromat
+TTITLE2=I Could've Had Religion
+TTITLE3=Pistol Slapper Blues
+TTITLE4=Going To My Home Town
+TTITLE5=In Your Town
+TTITLE6=Bullfrog Blues
+EXTD=ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42188
+#	98531
+#	127539
+#	138999
+#	158380
+#	181299
+#	195849
+#	213349
+#	227424
+#
+# Disc length: 3333 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670d030a
+DTITLE=Various Artist - Sberbank Jazz Collection
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=01-Lyleland-Doo Bop Sound
+TTITLE1=02-November 19-Doo Bop Sound
+TTITLE2=03-Yesterdays-Yana Radion &Tirami Su
+TTITLE3=04-Como Capim-Yana Radion and Tirami Su
+TTITLE4=05-Meu Nome E Gal-Yana Radion and Tirami Su
+TTITLE5=06-Dream A Little Dream-Volskiy and Vasilev's Octet
+TTITLE6=07-Lullaby Of Leaves-Volskiy and Vasilev's Octet
+TTITLE7=08-You And Night And The Music-Volskiy and Vasilev's Octet
+TTITLE8=09-Flamingo-Volskiy and Vasilev's Octet
+TTITLE9=10-Harlem Nocturne-Volskiy and Vasilev's Octet
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

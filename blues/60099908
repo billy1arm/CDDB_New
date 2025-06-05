@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24150
+#	47510
+#	65197
+#	79085
+#	89280
+#	115895
+#	161232
+#
+# Disc length: 2459 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=60099908
+DTITLE=Jean-Jacques Milteau - Blues Live - CD2
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Rock Me Baby (Live)
+TTITLE1=I Woke Up This Morning (Live)
+TTITLE2=Cajun Shuffle (Live)
+TTITLE3=Soweto (Live)
+TTITLE4=Tin Biscuit Boy (Live)
+TTITLE5=Freddy (Live)
+TTITLE6=Skies Are Crying (Live)
+TTITLE7=Mystery Train (Live)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

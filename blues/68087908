@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21513
+#	37696
+#	65844
+#	82184
+#	106191
+#	129465
+#	143591
+#
+# Disc length: 2171 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=68087908
+DTITLE=Paolo Bonfanti - Canzoni di schiena
+DYEAR=2008
+DGENRE=Blues
+TTITLE0=O gh'e 'n piaxei
+TTITLE1=Bob sull'Appennino
+TTITLE2=Jimmy e Maria
+TTITLE3=Jack gets up
+TTITLE4=Qui non ci voglio piu stare
+TTITLE5=Bei tempi andati
+TTITLE6=Cosa danno
+TTITLE7=Dove a l'e
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43621
+#	61710
+#	102308
+#	144613
+#	194210
+#	243483
+#
+# Disc length: 3627 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=650e2907
+DTITLE=Various Artist - Prokofiev [Violin Concertos N°1 and 2] - Tchaikovsky [Sérénade]  (C.Dutoit, Orch. Sym. Montréal - Leila Josefowicz)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Sergey Prokofiev - Violin Concerto N°1 in D major, Op.19 - I. Andantino
+TTITLE1=Sergey Prokofiev - Violin Concerto N°1 in D major, Op.19 - II. Scherzo - Vivacissimo
+TTITLE2=Sergey Prokofiev - Violin Concerto N°1 in D major, Op.19 - III. Finale - Moderato
+TTITLE3=Tchaikovsky - Sérénade mélancolique in B flat minor, Op.26
+TTITLE4=Sergey Prokofiev - Violin Concerto N°2 in G minor, Op.63 - I. Allegro moderato
+TTITLE5=Sergey Prokofiev - Violin Concerto N°2 in G minor, Op.63 - II. Andante assai
+TTITLE6=Sergey Prokofiev - Violin Concerto N°2 in G minor, Op.63 - III. Allegro ben marcato
+EXTD=Orchestra symponique de Montreal\nCharels Dutoit
+EXTT0=Sergei Prokofiev (1891 - 1953)
+EXTT1=Sergei Prokofiev
+EXTT2=Sergei Prokofiev
+EXTT3=Pyotr Ilyich Tchaikovsky (1840 - 1893)
+EXTT4=Sergei Prokofiev (1891 - 1953)
+EXTT5=Sergei Prokofiev
+EXTT6=Sergei Prokofiev
+PLAYORDER=

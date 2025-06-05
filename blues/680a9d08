@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27225
+#	41592
+#	71217
+#	93533
+#	116183
+#	150683
+#	172875
+#
+# Disc length: 2719 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=680a9d08
+DTITLE=Piatigorsky Trio - The Happenin'
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Close Your Eyes
+TTITLE1=Fungii Mama
+TTITLE2=You and the Night and the Music
+TTITLE3=My Romance
+TTITLE4=The Frog
+TTITLE5=Turnaround
+TTITLE6=The Happenin'
+TTITLE7=All the Things You Are
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	38010
+#	57728
+#	79118
+#	89626
+#	129526
+#	153976
+#	172869
+#
+# Disc length: 2659 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=610a6108
+DTITLE=Stanley Jordan - Touch Sensitive
+DYEAR=1900
+DGENRE=
+TTITLE0=Renaissance Man
+TTITLE1=Touch of Blue
+TTITLE2=All the Children
+TTITLE3=Jumpin' Jack
+TTITLE4=I Have a Dream
+TTITLE5=Havah Nagilah
+TTITLE6=Orb
+TTITLE7=A-Flat Purple
+EXTD=Year: 1978.  Recorded from vinyl.
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

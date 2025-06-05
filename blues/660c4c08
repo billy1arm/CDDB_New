@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25275
+#	61162
+#	87975
+#	119100
+#	158987
+#	174325
+#	203000
+#
+# Disc length: 3150 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=660c4c08
+DTITLE=Hassam Ramzy - Best of Baladi and Saaidi CD I
+DYEAR=1997
+DGENRE=Ethnic
+TTITLE0=Ala Hesb Wedad Galbi
+TTITLE1=Ala Nur El-Ain
+TTITLE2=Ya Nakhletin
+TTITLE3=Eddalla Ya Gamal
+TTITLE4=Mahla Layali El-Amar
+TTITLE5=Faris El-Foursan
+TTITLE6=El-Ourban
+TTITLE7=Raqset El-Assaya
+EXTD=YEAR: 1997 ID3G: 48
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

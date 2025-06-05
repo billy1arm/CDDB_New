@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20797
+#	44399
+#	59192
+#	90898
+#	106999
+#	145502
+#	168826
+#
+# Disc length: 2377 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=63094708
+DTITLE=B.B. KING - The Best Of B.B. King
+DYEAR=1973
+DGENRE=Blues
+TTITLE0=Hummingbird
+TTITLE1=How Blue Can You Get
+TTITLE2=Caldonia
+TTITLE3=Sweet Sixteen
+TTITLE4=Ain't Nobody Home
+TTITLE5=Why I Sing The Blues
+TTITLE6=The Thrill Is Gone
+TTITLE7=Nobody Loves Me But My Mother
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

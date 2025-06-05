@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10917
+#	53087
+#	64295
+#	94087
+#	118577
+#	164260
+#	220507
+#
+# Disc length: 3273 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=640cc708
+DTITLE=bergman borgmann brötzmann - blue zoo
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=clear visions 1
+TTITLE1=clear visions 2
+TTITLE2=clear visions 3
+TTITLE3=blue zoo 1
+TTITLE4=blue zoo 2
+TTITLE5=right now is as good a time as any
+TTITLE6=stride ahead
+TTITLE7=one block west
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

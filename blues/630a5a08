@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26052
+#	46710
+#	82787
+#	97847
+#	127190
+#	138717
+#	163347
+#
+# Disc length: 2652 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=630a5a08
+DTITLE=Thelonious Monk - Monk's Dream
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Monk's Dream
+TTITLE1=Body And Soul
+TTITLE2=Bright Misssippi
+TTITLE3=Five S[ot Blues
+TTITLE4=Bolivar Blues
+TTITLE5=Just A Gigolo
+TTITLE6=Bye-Ya
+TTITLE7=Sweet And Lovely
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

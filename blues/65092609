@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34930
+#	61022
+#	79677
+#	105552
+#	125360
+#	138827
+#	151200
+#	163640
+#
+# Disc length: 2344 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=65092609
+DTITLE=Lennie Tristano - Live at Birdland 1949
+DYEAR=1949
+DGENRE=Jazz
+TTITLE0=Remember
+TTITLE1=Pennies
+TTITLE2=Foolish Things
+TTITLE3=Indiana
+TTITLE4=I'm No Good Without You
+TTITLE5=Glad Am I
+TTITLE6=This is Called Love
+TTITLE7=Blame Me
+TTITLE8=I Found My Baby
+EXTD=YEAR: 1949
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30170
+#	57590
+#	96245
+#	103250
+#	152335
+#	162655
+#	202102
+#
+# Disc length: 2955 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=670b8908
+DTITLE=Martha Argerich - The Great Collection of Piano Music [CD27) - Chopin: Piano Sonatas #2+3/ DCI-81227
+DYEAR=1989
+DGENRE=Piano Sonata
+TTITLE0=Chopin: Piano Sonata #2 in B flat minor, op.35 - I. Grave-Doppio movimento
+TTITLE1=Chopin: Piano Sonata #2 in B flat minor, op.35 - II. Scherzo
+TTITLE2=Chopin: Piano Sonata #2 in B flat minor, op.35 - III. Marche funèbre. Lento-attacca;
+TTITLE3=Chopin: Piano Sonata #2 in B flat minor, op.35 - IV. Finale. Presto
+TTITLE4=Chopin: Piano Sonata #3 in B minor, op.58 - I. Allegro maestoso
+TTITLE5=Chopin: Piano Sonata #3 in B minor, op.58 - II. Scherzo
+TTITLE6=Chopin: Piano Sonata #3 in B minor, op.58 - III. Largo
+TTITLE7=Chopin: Piano Sonata #3 in B minor, op.58 - IV. Finale. Presto, ma non tanto
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

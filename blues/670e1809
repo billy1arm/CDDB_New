@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33175
+#	49785
+#	83970
+#	113610
+#	136572
+#	170610
+#	205522
+#	244117
+#
+# Disc length: 3610 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=670e1809
+DTITLE=Bruce Sklar Dave Grippo Sextet - Passing Through
+DYEAR=1993
+DGENRE=Jazz
+TTITLE0=Whatever
+TTITLE1=Almost There
+TTITLE2=Red Shift
+TTITLE3=Violet
+TTITLE4=In Ruins
+TTITLE5=Passing Through
+TTITLE6=Deep Valley Blue
+TTITLE7=Cave Verdean Blues
+TTITLE8=Song for Alice
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

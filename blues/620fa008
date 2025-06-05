@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40237
+#	70670
+#	107872
+#	152296
+#	180907
+#	207985
+#	251838
+#
+# Disc length: 4002 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=620fa008
+DTITLE=Various Artist - 22nd Jazz-Contest 'Jazz Hoeilaart' 2000 Belgium
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Magnus Lindgren Quartet - Jerusalem Blues - Sweden
+TTITLE1=Magnus Lindgren Quartet - Moonlight Lemonade - Sweden
+TTITLE2=Magnus Lindgren Quartet - Eaux Dormantes - Sweden
+TTITLE3=Sebastian Gamperts's Contrasts Sextet - Way Black Home - Germany
+TTITLE4=Sebastian Gamperts's Contrasts Sextet - Changes - Germany
+TTITLE5=Triot - Dark Clouds Go Away - Finland
+TTITLE6=Triot - Some Happines - Finland
+TTITLE7=Spice Bones - Loosers - France
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

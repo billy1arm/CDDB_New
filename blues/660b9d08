@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36454
+#	68296
+#	81981
+#	105575
+#	114557
+#	137630
+#	205039
+#
+# Disc length: 2975 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=660b9d08
+DTITLE=Jukka Tolonen - Mountain Stream
+DYEAR=1979
+DGENRE=Jazz
+TTITLE0=East Meets West
+TTITLE1=After The Masquerade
+TTITLE2=A Little Love Song
+TTITLE3=Life On Pluto?
+TTITLE4=Dimitri's Lullaby
+TTITLE5=Mountain Stream
+TTITLE6=Spring Is Coming
+TTITLE7=Sunrise Samba
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

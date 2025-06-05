@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	47108
+#	77042
+#	117700
+#	164208
+#	186568
+#	211590
+#
+# Disc length: 3093 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670c1307
+DTITLE=Sun Electric Dopperman - demo
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=A Go Go (J. Scofield)
+TTITLE1=Antimind
+TTITLE2=Salzburg
+TTITLE3=X Mars
+TTITLE4=Cissy Strut (Meters)
+TTITLE5=Steppin' (Soulive)
+TTITLE6=Like Lonnie
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

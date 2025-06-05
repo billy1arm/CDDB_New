@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 183
+# 27440
+# 47723
+# 87258
+# 112920
+# 128020
+# 145863
+# 171145
+#
+# Disc length: 2635 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.3.331
+#
+DISCID=620a4908
+DTITLE=Van Morrison - Wild Night in California CD1
+DYEAR=1900
+DGENRE=
+TTITLE0=I've Been Working
+TTITLE1=Wild Night
+TTITLE2=Ballerina
+TTITLE3=Into The Mystic
+TTITLE4=These Dreams Of You
+TTITLE5=Blue Money
+TTITLE6=Friday's Child
+TTITLE7=Domino
+EXTD=2 CD Set - Disk 1\nSemi-bootleg recorded live at Pacific High Studios, Ma
+EXTD=rin County, California. \nNovember 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

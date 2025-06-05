@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43710
+#	79282
+#	108919
+#	137609
+#	163598
+#	187940
+#	215461
+#
+# Disc length: 3093 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=650c1308
+DTITLE=Don Friedman Trio - Love Music
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=Where Are You
+TTITLE1=Smoke Gets in Your Eyes
+TTITLE2=The Way We Are
+TTITLE3=The Song Is You
+TTITLE4=Easy Living
+TTITLE5=My Secret Love
+TTITLE6=The Shadow of Your Smile
+TTITLE7=Fine and Dandy
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

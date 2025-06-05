@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25189
+#	45754
+#	66685
+#	84126
+#	108239
+#	126107
+#	144248
+#	163616
+#
+# Disc length: 2564 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=690a0209
+DTITLE=Olli Ahvenlahti - Thinking, Whistling
+DYEAR=2017
+DGENRE=Jazz
+TTITLE0=Thinking, Whistling
+TTITLE1=Minor Minor
+TTITLE2=Miles Away
+TTITLE3=Say It Again
+TTITLE4=Black Forest Air
+TTITLE5=Late Night
+TTITLE6=A Piano Song
+TTITLE7=Saturday
+TTITLE8=Little White
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27838
+#	55818
+#	79729
+#	101353
+#	133186
+#	177980
+#	192770
+#
+# Disc length: 2980 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=610ba208
+DTITLE=Thomas Carbou Duo - Viagem
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Danças
+TTITLE1=Arabesque
+TTITLE2=Gilliam le Terryble
+TTITLE3=Daruma
+TTITLE4=Celte
+TTITLE5=New song
+TTITLE6=Cassandra's song
+TTITLE7=Plein Sud
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

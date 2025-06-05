@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49950
+#	70260
+#	132400
+#	164912
+#	204067
+#	238222
+#
+# Disc length: 3445 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=690d7307
+DTITLE=James Carter Quartet - Jurassic Classics
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Take the "A" train
+TTITLE1=Out of nowhere
+TTITLE2=Epistrophy
+TTITLE3=Ask me now
+TTITLE4=Equinox
+TTITLE5=Sandu
+TTITLE6=Oleo
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

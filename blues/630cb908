@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28194
+#	68581
+#	99065
+#	132218
+#	164063
+#	195173
+#	218744
+#
+# Disc length: 3259 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=630cb908
+DTITLE=Volker Engelberth - Jigsaw Puzzles
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=Volker Engelberth - Unsolved Mystery
+TTITLE1=Volker Engelberth - Hovering Flight
+TTITLE2=Volker Engelberth - Organic Detour
+TTITLE3=Volker Engelberth - Crystal Moonbeams
+TTITLE4=Volker Engelberth - Parallelism
+TTITLE5=Volker Engelberth - Jigsaw Puzzles
+TTITLE6=Volker Engelberth - Nocturne
+TTITLE7=Volker Engelberth - Fairground Of The Gnomes
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

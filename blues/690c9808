@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49412
+#	85930
+#	142200
+#	165750
+#	181400
+#	195600
+#	231880
+#
+# Disc length: 3226 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=690c9808
+DTITLE=Jimi Hendrix - Live at the "Scene" Club N.Y.C.
+DYEAR=1968
+DGENRE=Rock
+TTITLE0=Red House
+TTITLE1=Wake Up This Morning And Found Myself Dead
+TTITLE2=Bleeding Heart
+TTITLE3=Morrisons Lament
+TTITLE4=Tomorrow Never Knows
+TTITLE5=Uranus Rock
+TTITLE6=Outside Woman Blues
+TTITLE7=Sunshine Of Your Love
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

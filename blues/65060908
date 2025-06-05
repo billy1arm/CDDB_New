@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	13762
+#	26512
+#	41150
+#	56450
+#	70762
+#	85937
+#	102612
+#
+# Disc length: 1547 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=65060908
+DTITLE=Zoot Sims - Zoot Sims Goes To Town
+DYEAR=1950
+DGENRE=Jazz
+TTITLE0=Night And Day
+TTITLE1=Tenorly
+TTITLE2=Crystal
+TTITLE3=Zoot and Zoot
+TTITLE4=Don't Worry About Me
+TTITLE5=Slingin' Hasch
+TTITLE6=I Understand
+TTITLE7=The Big Shot (Night And Day Take 3)
+EXTD=YEAR: 1950
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

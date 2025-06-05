@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	41695
+#	63207
+#	81722
+#	106920
+#	125585
+#	158750
+#	181935
+#
+# Disc length: 2790 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=660ae408
+DTITLE=Super Super Blues Band (BoDiddley, Muddy Waters, Howlin' Wolf, Little Walter, Buddy Guy) - Charley Blues Masterworks Vol. 26
+DYEAR=1967
+DGENRE=Blues
+TTITLE0=Long Distance Call (MW, BD, HW)
+TTITLE1=Goin' Down Slow (MW, BD, HW)
+TTITLE2=You Don't Love Me (MW, BD, HW)
+TTITLE3=I'm a Man (MW, BD)
+TTITLE4=Who Do You Love (MW, BD, LW)
+TTITLE5=The Red Rooster (MW, BD, HW)
+TTITLE6=Diddley Daddy (MW, BD, HW)
+TTITLE7=I Just Want to Make Love to You (MW, BD, LW)
+EXTD=YEAR: 1967
+EXTT0=(M. Morganfield)
+EXTT1=(J. Oden)
+EXTT2=(E. McDaniel)
+EXTT3=(E. McDaniel)
+EXTT4=(E. McDaniel)
+EXTT5=(W. Dixon)
+EXTT6=(E. McDaniel)
+EXTT7=(W. Dixon)
+PLAYORDER=

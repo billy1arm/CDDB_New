@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32405
+#	55960
+#	103582
+#	136687
+#	159892
+#	191744
+#	223081
+#
+# Disc length: 3528 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=650dc608
+DTITLE=Simon Guiducci Gramelot Ensemble - Chorale
+DYEAR=2002
+DGENRE=Jazz
+TTITLE0=Gramelot in 6/8
+TTITLE1=Voccuccia de no piérzeco
+TTITLE2=La sigagna
+TTITLE3=Chorale
+TTITLE4=The after hours
+TTITLE5=Kompa
+TTITLE6=Last Corale and Dance
+TTITLE7=Filastrocca per Martina
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23715
+#	40785
+#	59415
+#	78280
+#	93785
+#	113032
+#	129112
+#	151040
+#	168752
+#
+# Disc length: 2355 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6109310a
+DTITLE=Jean-Pierre Bucolo - Paradiso
+DYEAR=1995
+DGENRE=Chanson
+TTITLE0=Trop tard
+TTITLE1=Blonde ou brune
+TTITLE2=Si demain me pardonne
+TTITLE3=Donne moi une heure
+TTITLE4=En haut des toits
+TTITLE5=D'un coup d'elle
+TTITLE6=L'air qu'elle respire
+TTITLE7=La vie devant toi
+TTITLE8=Bohémienne
+TTITLE9=Paradiso
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37190
+#	62398
+#	98553
+#	145930
+#	180953
+#	220205
+#	249918
+#
+# Disc length: 3719 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.00
+#
+DISCID=640e8508
+DTITLE=The Daryl Runswick Quartet - The Jazz Years CD2
+DYEAR=1978
+DGENRE=Jazz
+TTITLE0=Sails
+TTITLE1=Gazeuse
+TTITLE2=Anagram
+TTITLE3=Monsieur Tristesse
+TTITLE4=Skreepin'
+TTITLE5=Hamrun
+TTITLE6=Lainey My Dear
+TTITLE7=Wyntones
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

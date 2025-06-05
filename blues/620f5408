@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34787
+#	51212
+#	68462
+#	96587
+#	154712
+#	198362
+#	228362
+#
+# Disc length: 3926 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=620f5408
+DTITLE=Arthur Rubinstein - The Rubinstein Collection Volume 73, Brahms and Schubert
+DYEAR=1900
+DGENRE=
+TTITLE0=Brahms Piano Trio No. 3, Op. 101: Allegro energico
+TTITLE1=Brahms Piano Trio No. 3, Op. 101 Presto non assia
+TTITLE2=Brahms Piano Trio No. 3, Op. 101: Andante grazioso
+TTITLE3=Brahms Piano Trio No. 3, Op. 101: Allegro molto
+TTITLE4=Schubert Piano Trio No. 2, Op. 100: Allegro
+TTITLE5=Schubert Piano Trio No. 2, Op. 100: Andante con moto
+TTITLE6=Schubert Piano Trio No. 2, Op. 100: Scherzando: Allegro moderato
+TTITLE7=Schubert Piano Trio No. 2, Op. 100: Allegro moderato
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

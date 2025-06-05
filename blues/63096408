@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11640
+#	27190
+#	51387
+#	90695
+#	110655
+#	139180
+#	154567
+#
+# Disc length: 2406 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=63096408
+DTITLE=Weather Report - Weather Report
+DYEAR=1971
+DGENRE=Jazz
+TTITLE0=Milk Way
+TTITLE1=Umbrellas
+TTITLE2=Seventh Arrow
+TTITLE3=Orange Lady
+TTITLE4=Morning Lake
+TTITLE5=Waterfall
+TTITLE6=Tears
+TTITLE7=Eutydice
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

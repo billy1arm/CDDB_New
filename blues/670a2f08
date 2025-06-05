@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12295
+#	34177
+#	58110
+#	87507
+#	112100
+#	130050
+#	159575
+#
+# Disc length: 2609 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.00
+#
+DISCID=670a2f08
+DTITLE=Ry Cooder - Showtime
+DYEAR=2013
+DGENRE=Blues
+TTITLE0=School Is Out
+TTITLE1=Alimony
+TTITLE2=Jesus On The Mainline
+TTITLE3=The Dark End Of The Street
+TTITLE4=Do Re Mi
+TTITLE5=Volver, Volver
+TTITLE6=How Can A Poor Man Stand Such Times And Live
+TTITLE7=Smack Dab In The Middle
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

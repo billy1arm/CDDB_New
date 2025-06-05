@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	50827
+#	86028
+#	108556
+#	132053
+#	157927
+#	179994
+#
+# Disc length: 2676 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=600a7207
+DTITLE=Miles Davis - Bags' Groove
+DYEAR=1954
+DGENRE=Jazz
+TTITLE0=Bags' Groove (Take 1)
+TTITLE1=Bags' Groove (Take 2)
+TTITLE2=Airegin
+TTITLE3=Oleo
+TTITLE4=But Not for Me (Take 1)
+TTITLE5=Doxy
+TTITLE6=But Not for Me (Take 2)
+EXTD=YEAR: 1954
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35091
+#	62858
+#	97197
+#	139526
+#	179267
+#	202544
+#	242620
+#
+# Disc length: 3532 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=690dca08
+DTITLE=Les McCann LTD. - In New York
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=01-Chip.Monck
+TTITLE1=02-Fayth,You´re...
+TTITLE2=03-Cha-Cha.Twist
+TTITLE3=04-A.Little.3/4.For.God&Co.
+TTITLE4=05-Maxie´s.Changes
+TTITLE5=06-Someone.Stole.My.Chitlins
+TTITLE6=07-One.More.Hamhock.Please
+TTITLE7=08-Oatmeal
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

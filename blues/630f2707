@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43049
+#	93457
+#	114714
+#	170058
+#	208006
+#	251010
+#
+# Disc length: 3881 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=630f2707
+DTITLE=Kamal - Indian Songbook
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Prabhu Misham
+TTITLE1=Varde Mata
+TTITLE2=Oru Mandiram
+TTITLE3=Kaisa Sandesha
+TTITLE4=Nocturne
+TTITLE5=De Darshan Ma
+TTITLE6=Ja Jai Durge
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

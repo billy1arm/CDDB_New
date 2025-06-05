@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25562
+#	56452
+#	86007
+#	111362
+#	141162
+#	165257
+#	187412
+#
+# Disc length: 2951 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=650b8508
+DTITLE=Kuba Stankiewicz Inga Lewandowska - Chopin SongBook op.74
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Smutna Rzeka
+TTITLE1=Melodia nr 9
+TTITLE2=Wiosna nr 2
+TTITLE3=Piosenka litewska
+TTITLE4=Precz z moich oczu
+TTITLE5=Zyczenie
+TTITLE6=Nie ma czego trzeba
+TTITLE7=Dwojaki koniec
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

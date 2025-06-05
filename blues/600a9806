@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53962
+#	73450
+#	116787
+#	141207
+#	171962
+#
+# Disc length: 2714 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=600a9806
+DTITLE=Jazz Artists Guild - Jazz Life
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=R and R
+TTITLE1=Black Cat
+TTITLE2=Father and Son
+TTITLE3=Lord, Lord, Am I Ever Gonna Know?
+TTITLE4=Vassarlean
+TTITLE5=Oh Yeah, Oh Yeah
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

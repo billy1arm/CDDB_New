@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  12629
+#  38615
+#  57134
+#  82326
+#  98724
+#  114511
+#  132948
+#
+# Disc length: 2197 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Advanced CD Ripper Pro 2.0
+#
+DISCID=64089308
+DTITLE=Astor Piazzolla - Libertango
+DYEAR=1988
+DGENRE=blues
+TTITLE0=Track01
+TTITLE1=Track02
+TTITLE2=Track03
+TTITLE3=Track04
+TTITLE4=Track05
+TTITLE5=Track06
+TTITLE6=Track07
+TTITLE7=Track08
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

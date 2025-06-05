@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43635
+#	93393
+#	114688
+#	187622
+#	225290
+#	284154
+#	309534
+#
+# Disc length: 4378 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=63111808
+DTITLE=Miles Davis - Time After Time
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Intruders
+TTITLE1=One Phone Call/Street Scene
+TTITLE2=Perfect Way
+TTITLE3=The Senate - Me and You
+TTITLE4=Time After Time
+TTITLE5=Tutu
+TTITLE6=Movie Star
+TTITLE7=Full Nelson
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

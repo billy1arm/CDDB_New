@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42270
+#	69402
+#	97570
+#	141967
+#	191267
+#	238582
+#	272500
+#
+# Disc length: 4246 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=60109408
+DTITLE=Oscar Peterson - The London House Sessions (Disk 5)
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Soon
+TTITLE1=As Long As There's Music
+TTITLE2=Close Your Eyes
+TTITLE3=Cubano Chant
+TTITLE4=Sometimes I'm Happy
+TTITLE5=Sophisticated Lady
+TTITLE6=Better Luck Next Time
+TTITLE7=Confirmation
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

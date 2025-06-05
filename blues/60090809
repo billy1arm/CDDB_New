@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16352
+#	33004
+#	50406
+#	68333
+#	79435
+#	118587
+#	132014
+#	152266
+#
+# Disc length: 2314 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=60090809
+DTITLE=Eric Clapton - Slowhand
+DYEAR=1977
+DGENRE=Rock
+TTITLE0=Cocaine
+TTITLE1=Wonderful tonight
+TTITLE2=Lay down Sally
+TTITLE3=Next time you see her
+TTITLE4=We're all the way
+TTITLE5=Core
+TTITLE6=May you never
+TTITLE7=Mean Old Frisco
+TTITLE8=Peaches and Diesel
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

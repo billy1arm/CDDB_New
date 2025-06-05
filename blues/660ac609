@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8393
+#	41034
+#	70409
+#	81080
+#	119956
+#	152265
+#	158297
+#	185682
+#
+# Disc length: 2760 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=660ac609
+DTITLE=Jukka Eskola - Jukka Eskola
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Introduction
+TTITLE1=1974
+TTITLE2=Kulo
+TTITLE3=Go Time
+TTITLE4=Buttercup
+TTITLE5=Timber Up
+TTITLE6=Selim
+TTITLE7=Duudamdej
+TTITLE8=Last Breath
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24970
+#	60360
+#	85864
+#	111949
+#	132671
+#	162729
+#	210231
+#
+# Disc length: 3150 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=650c4c08
+DTITLE=Terry Pratchett - Rollende Steine
+DYEAR=2007
+DGENRE=Hörbuch
+TTITLE0=29
+TTITLE1=30
+TTITLE2=31
+TTITLE3=32
+TTITLE4=33
+TTITLE5=34
+TTITLE6=35
+TTITLE7=36
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

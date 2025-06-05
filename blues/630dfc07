@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	46194
+#	80336
+#	118047
+#	177872
+#	222613
+#	247375
+#
+# Disc length: 3582 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=630dfc07
+DTITLE=Stefan Keller - Albido
+DYEAR=2001
+DGENRE=New Age
+TTITLE0=Albido - Filigran - Heartbeat
+TTITLE1=Illuminations
+TTITLE2=Fireworlds
+TTITLE3=Choral and Dance
+TTITLE4=A Kind Of Water Music
+TTITLE5=Space Odyssee
+TTITLE6=Echo
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

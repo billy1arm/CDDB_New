@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15537
+#	46062
+#	93912
+#	137630
+#	141562
+#	203625
+#	256325
+#
+# Disc length: 3486 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670d9c08
+DTITLE=Charles Mingus - In Concert
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Eat That Chicken
+TTITLE1=Reets And I
+TTITLE2=Monk, Bunk and Vice Versa
+TTITLE3=Devil Woman
+TTITLE4=Eat That Chicken - Theme 1
+TTITLE5=Peggy's Blue Skylight
+TTITLE6=Ysabel's Table Dance
+TTITLE7=Eat That Chicken - Theme 2
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

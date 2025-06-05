@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	24160
+#	46230
+#	74497
+#	102000
+#	125392
+#	150865
+#	180795
+#	232395
+#
+# Disc length: 3514 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=630db809
+DTITLE=Taj Mahal - The Rising Sun Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Good Mornin' Miss Brown
+TTITLE1=I'm Going to the Country and Paint My Mailbox Blue
+TTITLE2=Freight Train
+TTITLE3=Baby, You are My Destiny
+TTITLE4=You are Going to Need Someboody on Your Bond
+TTITLE5=Corrina, Corrina
+TTITLE6=Queen Bee
+TTITLE7=Sugar Mama Blues
+TTITLE8=Good Morning Little Schoolgirl
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

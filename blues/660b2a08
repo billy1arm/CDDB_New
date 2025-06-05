@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26446
+#	56970
+#	79504
+#	100890
+#	128767
+#	161193
+#	194444
+#
+# Disc length: 2860 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: freeDB plugin v1.0
+#
+DISCID=660b2a08
+DTITLE=Jo Hisaishi - Mononoke Hime
+DYEAR=1900
+DGENRE=Misc
+TTITLE0=Ashitaka Kouki
+TTITLE1=Tatarigami
+TTITLE2=Tabidachi - Nishi e
+TTITLE3=Mononoke Hime
+TTITLE4=Sishigami
+TTITLE5=Requiem - Norowareta chikara
+TTITLE6=Yomi no Sekai - Shi to sei no Adagin
+TTITLE7=Ashitaka to San
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     15408
+#     42603
+#     69433
+#     76915
+#     92908
+#     112988
+#     137370
+#     152733
+# 
+# Disc length: 2392 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=66095609
+DTITLE=John Lee Hooker - Free Beer and Chicken
+DYEAR=1900
+DGENRE=
+TTITLE0=Make it Funky
+TTITLE1=Five Long Years
+TTITLE2=713 Blues
+TTITLE3=714 Blues
+TTITLE4=One Bourbon, One Scotch, One Beer
+TTITLE5=Homework
+TTITLE6=Bluebird
+TTITLE7=Settin' On Top of the World
+TTITLE8=(You'll Never Amount to Anything If You Don't Go To) Collage
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=a) I kow How to Rock\nb} Nothin' But the Best\nc} The Scratch\n
+PLAYORDER=

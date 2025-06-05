@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20015
+#	37410
+#	58487
+#	81395
+#	101717
+#	128255
+#	152392
+#
+# Disc length: 2329 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=68091708
+DTITLE=Ben Webster - There Is No Greater Love
+DYEAR=1965
+DGENRE=Jazz
+TTITLE0=Easy to Love
+TTITLE1=Stardust
+TTITLE2=There Is No Greater Love
+TTITLE3=Close Your Eyes
+TTITLE4=What's New?
+TTITLE5=Yesterdays
+TTITLE6=Autumn Leaves
+TTITLE7=I Got It Bad (and That Ain't Good)
+EXTD=YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

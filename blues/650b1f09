@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16945
+#	36310
+#	56439
+#	82769
+#	120717
+#	144343
+#	171271
+#	188291
+#
+# Disc length: 2849 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=650b1f09
+DTITLE=Gato Barbieri - unknown
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Cuba
+TTITLE1=Auld Lang Syne
+TTITLE2=Europa
+TTITLE3=Granada
+TTITLE4=Latin Lady
+TTITLE5=Guadeloup
+TTITLE6=I Want You
+TTITLE7=Last Tango in Paris
+TTITLE8=Behind the Rain
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

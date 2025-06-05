@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	19777
+#	38637
+#	58522
+#	84395
+#	96427
+#	116795
+#	146340
+#
+# Disc length: 2187 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=62088908
+DTITLE=Don Randi - Where do we go from here?
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=T.J.'s Blues
+TTITLE1=Waltzing Matilda
+TTITLE2=I love Paris
+TTITLE3=That's all
+TTITLE4=Take Six
+TTITLE5=Interlude
+TTITLE6=Autumn Leaves
+TTITLE7=Gypsy in my soul
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

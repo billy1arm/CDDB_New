@@ -1,0 +1,89 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11045
+#	26178
+#	38920
+#	50303
+#	64293
+#	78005
+#	93170
+#	106370
+#	121145
+#	133478
+#	146845
+#	159388
+#	173325
+#	185698
+#	198195
+#	211748
+#	222838
+#	235848
+#	248880
+#	260093
+#	270855
+#	282588
+#	295390
+#
+# Disc length: 4102 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=60100418
+DTITLE=Stan Getz  - Vol. 137 -  Quartet and Quintet 1950-1952
+DYEAR=1955
+DGENRE=Jazz
+TTITLE0=Lullaby Of Birdland
+TTITLE1=Those Foolish Things
+TTITLE2=How Deep Is The Ocean
+TTITLE3=Fools Rush In
+TTITLE4=Autumn Leaves
+TTITLE5=The Way You Look Tonight
+TTITLE6=Stars Fell On Alabama
+TTITLE7=Lover Come Back To Me
+TTITLE8=Body And Soul
+TTITLE9=Stella By Starlight
+TTITLE10=Time On My Hands
+TTITLE11=Melody Express
+TTITLE12=Wildwood
+TTITLE13=On The Alamo
+TTITLE14=Yesterdays
+TTITLE15=You Got My Head
+TTITLE16=Out Of Nowhere
+TTITLE17=It Might As Well Be Spring
+TTITLE18='S Wonderful
+TTITLE19=Strike Up The Band
+TTITLE20=Imagination
+TTITLE21=Hershey Bar
+TTITLE22=Penny
+TTITLE23=The Best Thing For You
+EXTD=1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11:\n  Stan Getz (ts]\n  Jimmy Raney (g]\n  Duke Jordan (p]\n  Bill Crow (b]\n  Frank Isola (d]\n\n12, 13:\n  Stan Getz (ts]\n  Jimmy Raney (g]\n  Horace Silver (p]\n  Tommy Potter or Leonard Gaskin (b]\n  Roy Haynes (
+EXTD=d]\n\n14, 15, 16, 22: \n  Stan Getz (ts]\n  Al Haig (p]\n  Tommy potter (b]\n  Roy Haynes (d]\n\n17, 18, 19, 20, 21, 23, 24:\n  Stan Getz (ts]\n  Horace Silver (p]\n  Joe Calloway (b]\n  Walter Bolden (d]\n\n YEAR: 1955
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+PLAYORDER=

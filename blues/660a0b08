@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41535
+#	58847
+#	72150
+#	99462
+#	119847
+#	150145
+#	176585
+#
+# Disc length: 2573 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=660a0b08
+DTITLE=Wes Montgomery - Guitar On The Go
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=The Way You Look Tonight (Take 1)
+TTITLE1=Dreamsville
+TTITLE2=Geno
+TTITLE3=Missile Blues (Take 6)
+TTITLE4=For All We Know
+TTITLE5=Fried Pies (Take 2)
+TTITLE6=The Way You Look Tonight (Take 2)
+TTITLE7=Mi Cosa
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

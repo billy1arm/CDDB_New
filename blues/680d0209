@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22639
+#	53622
+#	81075
+#	101601
+#	122019
+#	164419
+#	189250
+#	221082
+#
+# Disc length: 3332 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=680d0209
+DTITLE=Wolfgang Muthspiel Trio - Bright Side
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Etude #2
+TTITLE1=Mehldau
+TTITLE2=Shanghai
+TTITLE3=Etude #1
+TTITLE4=Eastcoasting
+TTITLE5=Dhafer
+TTITLE6=Homebody
+TTITLE7=Sleep
+TTITLE8=More Igor
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

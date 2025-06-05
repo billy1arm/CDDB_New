@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22890
+#	43787
+#	69518
+#	92413
+#	109968
+#	129600
+#	155930
+#
+# Disc length: 2358 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=68093408
+DTITLE=Rio - TAXI
+DYEAR=2007
+DGENRE=Blues
+TTITLE0=街路の灯り
+TTITLE1=シトロエンに乗って
+TTITLE2=ALONE ROAD
+TTITLE3=マリオネット
+TTITLE4=Rio e' un Maestro
+TTITLE5=凛 Ring リン
+TTITLE6=TAXI
+TTITLE7=終焉幕 ～エンドロール～
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	45080
+#	59655
+#	113360
+#	135047
+#	154625
+#	206192
+#	223157
+#
+# Disc length: 3286 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=650cd408
+DTITLE=Roosevelt Jazz - Gettin' After It - Disk 2
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Such Sweet Thunder
+TTITLE1=Walk, Don't Run
+TTITLE2=Basically Blues
+TTITLE3=Perdido
+TTITLE4=Sleepwalker's Serenade
+TTITLE5=Coming About
+TTITLE6=We'll Be Together Again
+TTITLE7=Corner Pocket
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

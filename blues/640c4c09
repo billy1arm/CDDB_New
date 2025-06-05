@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25620
+#	55044
+#	83473
+#	96058
+#	140299
+#	168062
+#	197317
+#	222675
+#
+# Disc length: 3150 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=640c4c09
+DTITLE=Guilhem Flouzat - On Way...or Another
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Stompin
+TTITLE1=One Way... or Another
+TTITLE2=Clap
+TTITLE3=Black Magic
+TTITLE4=Sometimes, at Night
+TTITLE5=Agin
+TTITLE6=Avant l'Orage
+TTITLE7=Meet
+TTITLE8=Black Magic
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

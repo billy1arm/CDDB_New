@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	30161
+#	55891
+#	84860
+#	111503
+#	138033
+#	175509
+#	194838
+#	227533
+#
+# Disc length: 3372 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=670d2a09
+DTITLE=Wolfgang Fuhr - Song Of India
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=E A S Ypsilon
+TTITLE1=Exceptions
+TTITLE2=Song Of India
+TTITLE3=Moon Neptune
+TTITLE4=Mysterious Visitor
+TTITLE5=Fields
+TTITLE6=Morpheus
+TTITLE7=Phoenix
+TTITLE8=The Summer Waits
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

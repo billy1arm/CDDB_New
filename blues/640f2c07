@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33792
+#	57565
+#	105342
+#	146225
+#	164827
+#	257890
+#
+# Disc length: 3886 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=640f2c07
+DTITLE=John Coltrane - European Impressions
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Impressions
+TTITLE1=Everytime We Say Goodbye
+TTITLE2=My Favorite Things
+TTITLE3=Blue Train
+TTITLE4=Naima
+TTITLE5=My Favorite Things
+TTITLE6=Impressions
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	34823
+#	63248
+#	101543
+#	126040
+#	153083
+#	185848
+#	212360
+#
+# Disc length: 3134 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=630c3c08
+DTITLE=Charles Loos-Arnould Massart - Harmonie du soir
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Nonchalance
+TTITLE1=M41
+TTITLE2=Undine
+TTITLE3=SomeWaltz
+TTITLE4=L'air du glacis
+TTITLE5=Ballade sans nom
+TTITLE6=September sun
+TTITLE7=Snameleiht (a Toots)
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

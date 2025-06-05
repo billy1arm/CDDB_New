@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32916
+#	60501
+#	118330
+#	169380
+#	209850
+#	237124
+#
+# Disc length: 3789 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=690ecb07
+DTITLE=Soulive - Live At Blue Note Tokyo Disc 2
+DYEAR=2009
+DGENRE=Juzz+Funk
+TTITLE0=CANNONBALL
+TTITLE1=LIQUID
+TTITLE2=EL RON
+TTITLE3=TUESDAY NIGHT SQUAD
+TTITLE4=VAPOR
+TTITLE5=FLURRIES
+TTITLE6=AUDIO07
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

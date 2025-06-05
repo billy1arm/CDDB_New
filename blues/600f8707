@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	54657
+#	82182
+#	153571
+#	185424
+#	222660
+#	255878
+#
+# Disc length: 3977 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=600f8707
+DTITLE=Saint-Saëns - Concertos - La Muse et le Poète - Romance pour violoncelle and orchestre
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Concerto pour violoncelle N°2 Op.119 - I. Allegro moderato e maestoso  [Christoph Eschenbach]
+TTITLE1=Concerto pour violoncelle N°2 Op.119 - II. Allegro non troppo - Cadenza  [ NDR Sinfonieorchester)
+TTITLE2=La Muse et le Poète, Op.132  [Christoph Eschenbach, NDR Sinfonieorchester]
+TTITLE3=Romance pour violoncelle and orchestre, Op.67  [Christoph Eschenbach, NDR Sinfonieorchester]
+TTITLE4=Concerto pour violon and orchestre N°3 - I. Allegro non troppo  [Dimitri Mitropoulos;Francescatti, violon]
+TTITLE5=Concerto pour violon and orchestre N°3 - II. Andantino quasi allegretto  [New York Philharmonic]
+TTITLE6=Concerto pour violon and orchestre N°3 - III. Molto moderato e maestoso - Allegro non troppo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

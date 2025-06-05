@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37264
+#	48436
+#	137014
+#	172558
+#	185129
+#	223289
+#
+# Disc length: 3476 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=670d9207
+DTITLE=JIMI HENDRIX - The Capricorn Tape
+DYEAR=1968
+DGENRE=Blues Rock
+TTITLE0=Hear My Train A-Comin'
+TTITLE1=Belly Button Window
+TTITLE2=Villanova Junction Jam
+TTITLE3=Mother
+TTITLE4=Lover Man
+TTITLE5=New Rising Sun
+TTITLE6=Midnight
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

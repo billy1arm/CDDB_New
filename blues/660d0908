@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28938
+#	59513
+#	94834
+#	120447
+#	154912
+#	187635
+#	213402
+#
+# Disc length: 3339 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=660d0908
+DTITLE=Sonny Clark - Leapin' and Lopin'
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=Somethin' Special
+TTITLE1=Deep in a Dream
+TTITLE2=Melody for C
+TTITLE3=Eric Walks
+TTITLE4=Voodoo
+TTITLE5=Midnight Mambo
+TTITLE6=Zellmar's Delight
+TTITLE7=Melody for C (alternate take)
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

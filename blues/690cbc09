@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24897
+#	50543
+#	77253
+#	104530
+#	133572
+#	158774
+#	183879
+#	213667
+#
+# Disc length: 3262 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=690cbc09
+DTITLE=Dave Weckl Band - Multiplicity
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Watch your step
+TTITLE1=Elements of surprise
+TTITLE2=Vuelo
+TTITLE3=Inner vision
+TTITLE4=What it is
+TTITLE5=Chain reaction
+TTITLE6=Cascade
+TTITLE7=Mixed bag
+TTITLE8=Down on the corner
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

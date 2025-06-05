@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30775
+#	49615
+#	78765
+#	145457
+#	167405
+#	222617
+#	251712
+#
+# Disc length: 3805 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=630edb08
+DTITLE=Gary Sill - Beethoven With Nature's Ocean Sounds
+DYEAR=1997
+DGENRE=New Age
+TTITLE0=Moonlight Sonata
+TTITLE1=Temple Voices
+TTITLE2=Moonlight Sonata Solo Piano
+TTITLE3=Floating Winter Night Moonlight Sonata
+TTITLE4=Oriental
+TTITLE5=Moon Pavillion Devas
+TTITLE6=Moonlight Sonata piano and strings
+TTITLE7=Lost Lagoon
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

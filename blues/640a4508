@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	17480
+#	48420
+#	76800
+#	102520
+#	134017
+#	155692
+#	177417
+#
+# Disc length: 2631 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=640a4508
+DTITLE=Bert van der Veen - Sabores y tintas
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Burties Theme
+TTITLE1=Nozze
+TTITLE2=Why and When
+TTITLE3=La Niña
+TTITLE4=Nuevo Mundo
+TTITLE5=Dee Dee
+TTITLE6=Sin Título
+TTITLE7=Oyster BAr Blues
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

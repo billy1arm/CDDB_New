@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26019
+#	54000
+#	81372
+#	109875
+#	162680
+#	195240
+#	222420
+#
+# Disc length: 3365 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=680d2308
+DTITLE=Jean-François Groulx Trio - Groove
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Go For It
+TTITLE1=Miroirs
+TTITLE2=Passé Imparfait
+TTITLE3=Aller -  Retour
+TTITLE4=Invitation
+TTITLE5=Jours de Pluie
+TTITLE6=Shoo Bee Doo
+TTITLE7=Impressionnisme
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22095
+#	36610
+#	60385
+#	86357
+#	105129
+#	125282
+#	152512
+#	173884
+#
+# Disc length: 2569 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=640a0709
+DTITLE=Robert Johnson - Richard The Third
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Ou Ah Ou A Ah
+TTITLE1=The Way You Do The Things You Do
+TTITLE2=Ghost Of A Chance
+TTITLE3=No One Ever New
+TTITLE4=The Beating of My Heart
+TTITLE5=Brother John
+TTITLE6=Save Me
+TTITLE7=Where Do We Go From Here
+TTITLE8=I Aint't Got Nobody
+EXTD=YEAR: 1997 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

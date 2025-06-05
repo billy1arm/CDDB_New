@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21610
+#	42520
+#	62870
+#	80255
+#	105320
+#	124280
+#	142545
+#
+# Disc length: 2170 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=66087808
+DTITLE=Mick Maldonado Y Su Orquesta Majestad - Salsa En El Barrio
+DYEAR=1900
+DGENRE=Salsa
+TTITLE0=Dulce Amor
+TTITLE1=Tu Te Niegas
+TTITLE2=Quedate
+TTITLE3=Ella Es
+TTITLE4=Vuelve Pronto
+TTITLE5=Un Nuevo Amor
+TTITLE6=Ultima Esperanza
+TTITLE7=Rosas
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

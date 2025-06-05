@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16932
+#	35168
+#	68033
+#	89564
+#	118734
+#	142520
+#	192227
+#
+# Disc length: 3073 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670bff08
+DTITLE=Max Collie - Live at die Glocke
+DYEAR=1971
+DGENRE=Jazz
+TTITLE0=Flatfoot
+TTITLE1=Granpa`s spells
+TTITLE2=Bourbon Street Parade
+TTITLE3=Perdio St Blues
+TTITLE4=Shine
+TTITLE5=Stevedore Stomp
+TTITLE6=Trouble in mind
+TTITLE7=Ice Crean
+EXTD=YEAR: 1971
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

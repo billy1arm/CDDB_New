@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10459
+#	29817
+#	48467
+#	67660
+#	85225
+#	112605
+#	131982
+#	151505
+#
+# Disc length: 2148 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=69086209
+DTITLE=Seven Seas - Dreams
+DYEAR=2006
+DGENRE=Heavy Metal
+TTITLE0=Space Time Pirates
+TTITLE1=Endless Journey
+TTITLE2=Find Our A Fire
+TTITLE3=Phantom
+TTITLE4=Nightmare
+TTITLE5=Chasing Light
+TTITLE6=Rain Of Memories
+TTITLE7=Fly To The Heaven
+TTITLE8=Space Time Pirates -Reprise-
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

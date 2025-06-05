@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24562
+#	48906
+#	69359
+#	106769
+#	134574
+#	163018
+#	188170
+#
+# Disc length: 2894 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=650b4c08
+DTITLE=Bruno E. - Lovely Arthur
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Dado
+TTITLE1=London, Thames
+TTITLE2=Lovely Arthur, part 1
+TTITLE3=Esperanca (for Silvia)
+TTITLE4=Free Tibet, part 1
+TTITLE5=Carino (for Patricia)
+TTITLE6=Lovely Arthur, part 2
+TTITLE7=Free Tibet, part 2
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

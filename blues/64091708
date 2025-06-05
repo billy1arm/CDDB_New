@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25900
+#	47555
+#	64282
+#	82050
+#	98975
+#	121955
+#	158717
+#
+# Disc length: 2329 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=64091708
+DTITLE=Brooklyn Sounds - Brooklyn Sounds
+DYEAR=2001
+DGENRE=Salsa
+TTITLE0=Sueltame Ya
+TTITLE1=Mirame San Miguel
+TTITLE2=La-Va-Eh
+TTITLE3=Rain
+TTITLE4=Guanguanco De Puerto Rico
+TTITLE5=Perdicion
+TTITLE6=Tolon
+TTITLE7=En Las Tumbas
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

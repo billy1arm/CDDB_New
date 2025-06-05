@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	200
+#	27437
+#	60962
+#	87700
+#	100262
+#	131237
+#	146612
+#
+# Disc length: 2198 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=61089407
+DTITLE=Big Mama Thornton - Jail
+DYEAR=1975
+DGENRE=Blues
+TTITLE0=Little Red Rooster
+TTITLE1=Ball 'N' Chain
+TTITLE2=Jail
+TTITLE3=Hound Dog
+TTITLE4=Rock Me Baby
+TTITLE5=Sheriff O. E. and Me
+TTITLE6=Oh Happy Day
+EXTD=YEAR: 1975 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

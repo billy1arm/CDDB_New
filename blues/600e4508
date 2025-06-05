@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49517
+#	81335
+#	110800
+#	133360
+#	168112
+#	204850
+#	232615
+#
+# Disc length: 3655 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=600e4508
+DTITLE=Jacques Schwarz-Bart - Immersion
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=The price to pay
+TTITLE1=Slow down Baby
+TTITLE2=A kick in the bone
+TTITLE3=Lament
+TTITLE4=Invitation
+TTITLE5=Impressions
+TTITLE6=Blue in green
+TTITLE7=The price I thought I'd pay
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

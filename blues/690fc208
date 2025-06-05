@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	46950
+#	88645
+#	115747
+#	164790
+#	200317
+#	239652
+#	248087
+#
+# Disc length: 4036 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=690fc208
+DTITLE=Opeth - Blackwater Park
+DYEAR=2001
+DGENRE=Death Metal
+TTITLE0=The Leper Affinity
+TTITLE1=Bleak
+TTITLE2=Harvest
+TTITLE3=The Drapery Falls
+TTITLE4=Dirge For November
+TTITLE5=The Funeral Portrait
+TTITLE6=Patterns In The Ivy
+TTITLE7=Blackwater Park
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21000
+#	56100
+#	78600
+#	106500
+#	131850
+#	149400
+#	180300
+#
+# Disc length: 2826 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=670b0808
+DTITLE=Francien van Tuinen and Tripod - Daytrippers
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Walking in the field
+TTITLE1=Stardust
+TTITLE2=Nothing like you
+TTITLE3=My father gave me an acre of ground
+TTITLE4=The sounds around the house
+TTITLE5=The surrey with the fridge on top
+TTITLE6=Sherwood forest
+TTITLE7=The deep
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30425
+#	47095
+#	108615
+#	125378
+#	145163
+#	163153
+#	183266
+#
+# Disc length: 2795 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=680ae908
+DTITLE=Jimi Hendrix - Live at Woodstock
+DYEAR=1900
+DGENRE=Psychedelic Rock
+TTITLE0=Izabella
+TTITLE1=Fire
+TTITLE2=Voodoo Child - Slight Return
+TTITLE3=Star Spangled Banner
+TTITLE4=Purple Haze
+TTITLE5=Woodstock Imrpovisation
+TTITLE6=Villanova Junction
+TTITLE7=Hey Joe
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

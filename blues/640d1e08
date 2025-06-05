@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28195
+#	59230
+#	91605
+#	123029
+#	150589
+#	190324
+#	218577
+#
+# Disc length: 3360 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=640d1e08
+DTITLE=Gary Matsumoto Trio feat. Henry Franklin - Days Ahead
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Four in One
+TTITLE1=Lucy in the Sky with Diamonds 
+TTITLE2=Skipper's Mission
+TTITLE3=Sophisticated Lady
+TTITLE4=Sachi's Waltz
+TTITLE5=Generations
+TTITLE6=Days Ahead
+TTITLE7=But Not for Me
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

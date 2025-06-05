@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17128
+#	45403
+#	72875
+#	107350
+#	123103
+#	147113
+#	179930
+#
+# Disc length: 2825 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=670b0708
+DTITLE=Various Artist - Corea, Hancock, Jarrett, Tyner
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Keith Jarrett - Margot
+TTITLE1=Keith Jarret - Love No. 1
+TTITLE2=Chick Corea - Tones For Joan's Bones
+TTITLE3=Chick Corea - This Is New
+TTITLE4=McCoy Tyner - Lazy Bird
+TTITLE5=McCoy Tyner - In Your Own Sweet Way
+TTITLE6=Herbie Hancock - Einbahnstrasse
+TTITLE7=Herbie Hancock - Doom
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

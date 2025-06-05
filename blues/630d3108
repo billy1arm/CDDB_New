@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38620
+#	67882
+#	105382
+#	132487
+#	165177
+#	194032
+#	227987
+#
+# Disc length: 3379 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=630d3108
+DTITLE=The Merlin Factor - Choose
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Future Samba
+TTITLE1=Nothing To Declare
+TTITLE2=Baker's Annex
+TTITLE3=Prayer for Humankind(ness)
+TTITLE4=Time In Place
+TTITLE5=Intentions
+TTITLE6=Snow Place
+TTITLE7=As Long As You're Livin'
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16825
+#	44325
+#	66962
+#	93650
+#	115562
+#	146575
+#	168650
+#
+# Disc length: 2407 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=68096508
+DTITLE=Jiggs Wigham - Hope
+DYEAR=1976
+DGENRE=Jazz
+TTITLE0=Bodge
+TTITLE1=The Healer
+TTITLE2=Hope
+TTITLE3=Absolutely Knot
+TTITLE4=Owa Tagu Siam
+TTITLE5=Sunflower Chant
+TTITLE6=Chant
+TTITLE7=Giong Home
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	49400
+#	71707
+#	126442
+#	171350
+#	213475
+#
+# Disc length: 3636 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=610e3206
+DTITLE=John Coltrane - Ballads And More
+DYEAR=1958
+DGENRE=Jazz
+TTITLE0=I want To Talk About You
+TTITLE1=Theme For Ernie
+TTITLE2=Good Bait
+TTITLE3=I see Your Face Before Me
+TTITLE4=If There Is Someone Lovelier Than You
+TTITLE5=Black Pearls
+EXTD=YEAR: 1958
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

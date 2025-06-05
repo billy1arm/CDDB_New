@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19564
+#	34306
+#	52639
+#	68102
+#	87409
+#	123715
+#	140442
+#
+# Disc length: 2151 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=66086508
+DTITLE=Marty Paich - The Jazz City Workshop
+DYEAR=1955
+DGENRE=Jazz
+TTITLE0=Zing Went The Strings Of My Heart
+TTITLE1=Autumn Leaves
+TTITLE2=Blues In The Closet
+TTITLE3=That Old Black Magic
+TTITLE4=The Natives Are Restless Tonight
+TTITLE5=Serenade In Blue
+TTITLE6=Laura
+TTITLE7=Them There Eyes
+EXTD=YEAR: 1955
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27987
+#	56487
+#	87587
+#	124502
+#	153190
+#	192312
+#	209370
+#
+# Disc length: 3304 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=660ce608
+DTITLE=Frederic Alarie - Vision
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Interplay
+TTITLE1=Le Don
+TTITLE2=Flexion
+TTITLE3=Bout en Bout
+TTITLE4=Ludo
+TTITLE5=Langue Bien Pendue
+TTITLE6=Gloria's Step
+TTITLE7=Le Bien, le Mal
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

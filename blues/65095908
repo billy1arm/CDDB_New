@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23835
+#	44401
+#	69366
+#	97054
+#	117842
+#	145773
+#	159423
+#
+# Disc length: 2395 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=65095908
+DTITLE=Mark Knopfler - One Take Radio Sessions
+DYEAR=2005
+DGENRE=Blues
+TTITLE0=The Trawlerman's Song
+TTITLE1=Back To Tupelo
+TTITLE2=Song For Sonny Liston
+TTITLE3=Rudiger
+TTITLE4=Boom, Like That
+TTITLE5=Everybody Pays
+TTITLE6=Donegan's Gone
+TTITLE7=Stand Up Guy
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

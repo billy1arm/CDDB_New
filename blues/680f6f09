@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32626
+#	62799
+#	106407
+#	135752
+#	161467
+#	195460
+#	227281
+#	258561
+#
+# Disc length: 3953 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.78
+#
+DISCID=680f6f09
+DTITLE=Rich Perry - Harold Danko - Rhapsody
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=I hear a rhapsody
+TTITLE1=Soul trane
+TTITLE2=Come rain or come shine
+TTITLE3=Beautiful love
+TTITLE4=Yesterdays
+TTITLE5=Autumn leaves
+TTITLE6=Star eyes
+TTITLE7=Like someone in love
+TTITLE8=Central Park West
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

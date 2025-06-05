@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  187
+#  42900
+#  68812
+#  100937
+#  148837
+#  199725
+#  239062
+#
+# Disc length: 3945 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.30
+#
+DISCID=680f6707
+DTITLE=Strauss, Johann Sabastan - Great Vienna Waltzes, The [CDII)
+DYEAR=1900
+DGENRE=
+TTITLE0=Vienna Blood (Waltz op 354)
+TTITLE1=Wine, Women, Song (Waltz op 333)
+TTITLE2="Guntswalzer (Waltz)
+TTITLE3=Artist's Life (Waltz op 316)
+TTITLE4=Morning Papers (Waltz op 279
+TTITLE5=Ice Scaters (Waltz)
+TTITLE6=Tales From The Vienna Wood (Waltz op 325)
+EXTD=
+EXTT0=Strauss, Johann Sabastan
+EXTT1=Strauss, Johann Sabastan
+EXTT2=Strauss, Johann Sabastan
+EXTT3=Strauss, Johann Sabastan
+EXTT4=Strauss, Johann Sabastan
+EXTT5=Waldteufel, Emil
+EXTT6=Strauss, Johann Sabastan
+PLAYORDER=

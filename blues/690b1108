@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18632
+#	42729
+#	62385
+#	97019
+#	130101
+#	155639
+#	188629
+#
+# Disc length: 2835 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=690b1108
+DTITLE=Manhattan Jazz Quintet - Best Of Best And More [Disc 2]
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=No More Blues
+TTITLE1=So What
+TTITLE2=Donna Lee
+TTITLE3=Blue Minor
+TTITLE4=Road Song
+TTITLE5=Smoke Gets In Your Eyes
+TTITLE6=A Day In The Life
+TTITLE7=Route 66
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

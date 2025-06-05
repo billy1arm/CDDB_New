@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22782
+#	46864
+#	69770
+#	92707
+#	121827
+#	142440
+#	169240
+#
+# Disc length: 2597 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=630a2308
+DTITLE=Orquesta Xariz - Alabanzas de Amor
+DYEAR=1997
+DGENRE=Salsa
+TTITLE0=Fue Por Amor
+TTITLE1=Su Misericordia
+TTITLE2=Amar nuestros Enemigos
+TTITLE3=Como Ovejas
+TTITLE4=Gracias Por Tu Amor
+TTITLE5=Alabanzas de Amor
+TTITLE6=Nadie Te Amara Como Cristo
+TTITLE7=Sonrisas
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

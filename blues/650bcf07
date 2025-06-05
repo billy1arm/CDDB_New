@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37306
+#	65638
+#	94189
+#	131978
+#	167396
+#	203724
+#
+# Disc length: 3025 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=650bcf07
+DTITLE=Llewellyn - Journey To The Faeries
+DYEAR=2003
+DGENRE=New Age
+TTITLE0=Faerie Cottage
+TTITLE1=The Winged Slylphs
+TTITLE2=Dancing Salamanders
+TTITLE3=Alluring Undines and Mermaids
+TTITLE4=The Crystal Caves
+TTITLE5=Gnome Woods
+TTITLE6=The Fairie Gift-Farewell
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

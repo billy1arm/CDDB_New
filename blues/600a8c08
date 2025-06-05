@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17757
+#	55802
+#	68765
+#	93842
+#	147750
+#	167155
+#	177082
+#
+# Disc length: 2702 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=600a8c08
+DTITLE=Bill Evans - Living Time
+DYEAR=1972
+DGENRE=Jazz
+TTITLE0=Living Time-Event I
+TTITLE1=Living Time-Event II
+TTITLE2=Living TIme-Event III
+TTITLE3=Living Time-Event IV
+TTITLE4=Living Time-Event V
+TTITLE5=Living Time-Event VI
+TTITLE6=Living TIme-Event-VII
+TTITLE7=Living Time-Event VIII
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

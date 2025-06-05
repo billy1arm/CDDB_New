@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26939
+#	50916
+#	70568
+#	97952
+#	116519
+#	139841
+#	174880
+#
+# Disc length: 2573 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=690a0b08
+DTITLE=Orquesta Inmensidad - La Salsa De Hoy
+DYEAR=2006
+DGENRE=Salsa
+TTITLE0=El Artista Famoso
+TTITLE1=Detalles
+TTITLE2=El Toro Y La Luna
+TTITLE3=La Distancia
+TTITLE4=Rosalba
+TTITLE5=Cariño
+TTITLE6=Diana
+TTITLE7=Heroes
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

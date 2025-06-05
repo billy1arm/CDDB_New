@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20600
+#	69853
+#	122806
+#	154648
+#	175639
+#	207678
+#	233769
+#
+# Disc length: 3723 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=630e8908
+DTITLE=Lars Danielsson - Far North
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Far North
+TTITLE1=Eden
+TTITLE2=Fuschia
+TTITLE3=Climbing
+TTITLE4=Einstein
+TTITLE5=Ormen
+TTITLE6=Twelve Tones Old
+TTITLE7=Pacem
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

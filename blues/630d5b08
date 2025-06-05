@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34875
+#	64386
+#	102851
+#	128494
+#	160901
+#	189328
+#	218285
+#
+# Disc length: 3421 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=630d5b08
+DTITLE=DePaul University Jazz Ensemble - Shade Street
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Eleventh Hour
+TTITLE1=Shade Street
+TTITLE2=From One Who Cares
+TTITLE3=Song For My Mother
+TTITLE4=First Steps
+TTITLE5=One For Monterey
+TTITLE6=Grey Matter
+TTITLE7=I Thought About You
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

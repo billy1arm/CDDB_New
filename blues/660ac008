@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29633
+#	52337
+#	77289
+#	99905
+#	118544
+#	135749
+#	161916
+#
+# Disc length: 2754 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=660ac008
+DTITLE=Audard-Bressat Quintet - Gollum
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Gollum
+TTITLE1=Happy Blues
+TTITLE2=Juillet
+TTITLE3=Trank Fiel
+TTITLE4=Hop là !
+TTITLE5=Chixculub
+TTITLE6=24 Messidor
+TTITLE7=Clelia's Song
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17256
+#	33711
+#	49611
+#	68641
+#	88777
+#	110215
+#	130635
+#
+# Disc length: 2101 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=62083308
+DTITLE=En Bondi Band Project - Ale Ponti
+DYEAR=2009
+DGENRE=Blues
+TTITLE0=01 Hijo de la Guerra
+TTITLE1=02  Tebea
+TTITLE2=03 Piedras
+TTITLE3=04 Vade Retro
+TTITLE4=05 2012
+TTITLE5=06 Enfermando Algo
+TTITLE6=07 Hey vos
+TTITLE7=08 Como el diamante
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	175
+#	20161
+#	60383
+#	77060
+#	108018
+#	144306
+#	170350
+#	205976
+#
+# Disc length: 3145 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta1
+#
+DISCID=610c4708
+DTITLE=Frank Kimbrough - Chant
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Feet Music
+TTITLE1=Chant
+TTITLE2=Phoenix
+TTITLE3=Broadside
+TTITLE4=Clara's Room
+TTITLE5=Quickening
+TTITLE6=Ancestors
+TTITLE7=Motility
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

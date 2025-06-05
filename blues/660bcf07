@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11746
+#	29750
+#	61054
+#	118891
+#	145393
+#	198419
+#
+# Disc length: 3025 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=660bcf07
+DTITLE=Bergendy - Jazz
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Végül
+TTITLE1=Bevett szokás
+TTITLE2=Kék fény
+TTITLE3=Motetták
+TTITLE4=A helyes irány
+TTITLE5=Reciprok akkordok
+TTITLE6=Függőleges motívumok 5 tételben
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

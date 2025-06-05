@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40108
+#	78359
+#	119857
+#	153040
+#	180293
+#	228249
+#	257617
+#	292900
+#
+# Disc length: 4425 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=66114709
+DTITLE=Elin Larsson group - Live andalive
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Waiting in vain
+TTITLE1=The secret
+TTITLE2=Magknip
+TTITLE3=Lothlorien
+TTITLE4=In the rear-view morror
+TTITLE5=Mornington
+TTITLE6=För sent
+TTITLE7=Denial
+TTITLE8=Go home
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

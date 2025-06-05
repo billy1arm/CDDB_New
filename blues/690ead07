@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	33890
+#	127430
+#	143677
+#	177292
+#	192567
+#	210642
+#
+# Disc length: 3759 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=690ead07
+DTITLE=Jimi Hendrix - 51st Anniversary (the Story of Life) CD 3
+DYEAR=1968
+DGENRE=Blues
+TTITLE0=#7 Man
+TTITLE1=Voodoo Chile (studio jam)
+TTITLE2=Somewhere over the Rainbow
+TTITLE3=Red house (unr jam)
+TTITLE4=Angel (vocal)
+TTITLE5=1983 (ftg John McLaughlin)
+TTITLE6=First Jam (ftg John McLaughlin)
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

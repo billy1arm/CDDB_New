@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21010
+#	55671
+#	81937
+#	104518
+#	129096
+#	156942
+#	180780
+#	208507
+#
+# Disc length: 3031 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=650bd509
+DTITLE=Various Artist - Jazz for a Tropical Vacation Disc 2
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Samba de Caribe
+TTITLE1=Wave
+TTITLE2=Black Orpheus
+TTITLE3=Fiesta Español
+TTITLE4=Island Breeze
+TTITLE5=Bahia
+TTITLE6=You Can Go
+TTITLE7=Nascimento
+TTITLE8=Coração Leviano
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

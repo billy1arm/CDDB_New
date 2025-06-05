@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27152
+#	59594
+#	85017
+#	98529
+#	119937
+#	141788
+#	168911
+#
+# Disc length: 2678 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=660a7408
+DTITLE=Herb Ellis - Modern Jazz Modern Mainstream CD 088
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=Patti Cake
+TTITLE1=Blues For Janet
+TTITLE2=Big Red's Boogie Woogie
+TTITLE3=Tin Roof Blues
+TTITLE4=Royal Garden Blues
+TTITLE5=Blues For Junior
+TTITLE6=Soft Winds
+TTITLE7=Pap's Blues
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

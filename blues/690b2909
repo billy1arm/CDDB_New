@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24075
+#	52090
+#	80510
+#	103545
+#	124135
+#	151070
+#	176140
+#	202900
+#
+# Disc length: 2859 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=690b2909
+DTITLE=Charles Mingus - Jazz Masters
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Peggy's Blue Skylight
+TTITLE1=Fables of Faubus
+TTITLE2=Caoline Keikki Mingus
+TTITLE3=Slop
+TTITLE4=So Long Eric
+TTITLE5=Farewell Farwell
+TTITLE6=It Might As Well Be Spring
+TTITLE7=Duke Ellington's Sound Of Love
+TTITLE8=Just For Laughs
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

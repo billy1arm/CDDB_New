@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7788
+#	63324
+#	117612
+#	159849
+#	207791
+#	242851
+#	295293
+#
+# Disc length: 4388 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=67112208
+DTITLE=John Scofield - Live Fasching Stockholm Sweden
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Intro
+TTITLE1=Drop And Roll
+TTITLE2=Chichon
+TTITLE3=Groan Man
+TTITLE4=Black Out
+TTITLE5=Fez
+TTITLE6=Fox Hot And Tott
+TTITLE7=Untitled
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

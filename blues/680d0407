@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18757
+#	65931
+#	118982
+#	146911
+#	165618
+#	219286
+#
+# Disc length: 3334 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=680d0407
+DTITLE=Olli Hirvonen - New Helsinki
+DYEAR=2017
+DGENRE=Jazz
+TTITLE0=Arps
+TTITLE1=Gravity
+TTITLE2=Invisble
+TTITLE3=Fundamental
+TTITLE4=N.E.B
+TTITLE5=Absolute
+TTITLE6=Lavola
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

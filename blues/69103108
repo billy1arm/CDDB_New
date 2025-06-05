@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	38375
+#	74375
+#	126400
+#	150850
+#	178200
+#	220350
+#	248050
+#
+# Disc length: 4147 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=69103108
+DTITLE=David Murray - Dave Burrell - Winward passages
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Sorrow song
+TTITLE1=It hurts so much to see
+TTITLE2=Naima
+TTITLE3=Cela me va
+TTITLE4=The crave
+TTITLE5=Zanzibar blue
+TTITLE6=Conversation with our mothers
+TTITLE7=Naima (take1)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

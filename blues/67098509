@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18860
+#	43865
+#	61530
+#	78815
+#	97217
+#	116140
+#	138157
+#	162050
+#
+# Disc length: 2439 seconds
+#
+# Revision: 12
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=67098509
+DTITLE=Dr. John - In A Sentimental Mood
+DYEAR=1989
+DGENRE=R&B
+TTITLE0=Makin' Whoopee!
+TTITLE1=Candy
+TTITLE2=Accentuate The Positive
+TTITLE3=My Buddy
+TTITLE4=In A Sentimental Mood
+TTITLE5=Black Night
+TTITLE6=Don't Let The Sun Catch You Cryin'
+TTITLE7=Love For Sale
+TTITLE8=More Than You Know
+EXTD=LABEL =Warner Bros. Records Inc.\nID =925889-2\nUPC =none\nCOPYRIGHT =1989 YEAR: 1989
+EXTT0=Featuring Rickie Lee Jones\\r\nG. Kahn - W. Donaldson
+EXTT1=M. David - J. Whitney - A. Kramer
+EXTT2=J. Mercer
+EXTT3=G. Kahn - W. Donaldson
+EXTT4=D. Ellington - I. Mills
+EXTT5=J. Robinson
+EXTT6=J. Greene
+EXTT7=C. Porter
+EXTT8=W. Rose - E. eliscu - V. Youmans
+PLAYORDER=

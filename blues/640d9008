@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23530
+#	37897
+#	57660
+#	106290
+#	166750
+#	205342
+#	231637
+#
+# Disc length: 3474 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=640d9008
+DTITLE=ダイソー - クラシック　ピアノ名演集 vol9
+DYEAR=2003
+DGENRE=Classical
+TTITLE0=４つのマズルカ　ロ短調 - ショパン
+TTITLE1=４つのマズルカ　イ短調 - ショパン
+TTITLE2=４つのワルツ　変イ長調 - ショパン
+TTITLE3=スケルツィオ第２番　変ロ短調 - ショパン
+TTITLE4=幻想曲　へ短調 - ショパン
+TTITLE5=前奏曲・アリアと終曲　第一楽章 - フランク
+TTITLE6=前奏曲・アリアと終曲　第二楽章 - フランク
+TTITLE7=前奏曲・アリアと終曲　第三楽章 - フランク
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

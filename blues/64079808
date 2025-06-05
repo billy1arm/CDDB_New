@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19627
+#	43343
+#	63187
+#	79606
+#	101717
+#	118805
+#	131408
+#
+# Disc length: 1946 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=64079808
+DTITLE=John Coltrane Quartet - Ballads
+DYEAR=1995
+DGENRE=Bebob
+TTITLE0=Say It (Over and Over Again)
+TTITLE1=You Don't Know What Love Is
+TTITLE2=Too Young to Go Steady
+TTITLE3=All or Nothing at All
+TTITLE4=I Wish I Knew
+TTITLE5=What's New
+TTITLE6=It's Easy to Remember
+TTITLE7=Nancy (with the Laughing Face)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

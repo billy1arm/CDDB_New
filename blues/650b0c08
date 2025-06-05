@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	23902
+#	41302
+#	69122
+#	107187
+#	137892
+#	173550
+#	192512
+#
+# Disc length: 2830 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=650b0c08
+DTITLE=Dick Morgan - At The Showboat
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=For Pete's Sake
+TTITLE1=I Ain't Got Nobody
+TTITLE2=Misty
+TTITLE3=The Gipsy In My Soul
+TTITLE4=Will You Still Be Mine?
+TTITLE5=Big Fat Mama
+TTITLE6=Like Lois
+TTITLE7=It's All Right With Me
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44431
+#	70659
+#	92169
+#	145371
+#	171915
+#	262156
+#
+# Disc length: 3893 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=670f3307
+DTITLE=Miles Davis - Kind Of Blue [Legacy Edition] [Disc 2]
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=On Green Dolphin Street
+TTITLE1=Fran-Dance
+TTITLE2=Stella by Starlight
+TTITLE3=Love for Sale
+TTITLE4=Fran-Dance (alternate take)
+TTITLE5=So What
+TTITLE6=Data Track
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

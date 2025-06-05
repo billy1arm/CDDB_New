@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29425
+#	69692
+#	118594
+#	165699
+#	204624
+#	248499
+#	277690
+#
+# Disc length: 4049 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=690fcf08
+DTITLE=Klammer and Gründler Duo - Berlin
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Berlin_01
+TTITLE1=Berlin_02
+TTITLE2=Berlin_03
+TTITLE3=Berlin_04
+TTITLE4=Berlin_05
+TTITLE5=Berlin_06
+TTITLE6=Blu Ex
+TTITLE7=14. Mai
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

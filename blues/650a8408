@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24221
+#	61350
+#	88478
+#	110962
+#	129910
+#	160626
+#	179340
+#
+# Disc length: 2694 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=650a8408
+DTITLE=Vittorio Sicbaldi Four More Quintet - The Way
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Melody For C
+TTITLE1=Bijou The Poodle
+TTITLE2=Arrivin' Soon
+TTITLE3=Candy
+TTITLE4=Speak Low
+TTITLE5=Sorino
+TTITLE6=Sad Eyes
+TTITLE7=Blue Daniel
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

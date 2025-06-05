@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	175
+#	28150
+#	61000
+#	93925
+#	127675
+#	155350
+#	187225
+#	214600
+#
+# Disc length: 3430 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=610d6408
+DTITLE=David Antony Clark - Terra Inhabitata
+DYEAR=1993
+DGENRE=New Age
+TTITLE0=Gondwana's Ark
+TTITLE1=Primordial Tide
+TTITLE2=Flight Of The Giant Eagle
+TTITLE3=Moa Swamp
+TTITLE4=Boiling Earth
+TTITLE5=Glacial Retreat
+TTITLE6=Avalanche Of Snow
+TTITLE7=Regeneration
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

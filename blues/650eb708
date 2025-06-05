@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	31310
+#	56269
+#	99609
+#	148063
+#	173413
+#	217050
+#	255199
+#
+# Disc length: 3769 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=650eb708
+DTITLE=Zabriskie Point - Go For It!
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Zabriskie Point
+TTITLE1=Kitchie Tchinga
+TTITLE2=Syrupy Sysop
+TTITLE3=Joe Cool
+TTITLE4=Zip your Lip
+TTITLE5=Go for It
+TTITLE6=Mogodet
+TTITLE7=Baba Yaga
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

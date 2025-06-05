@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25504
+#	67201
+#	91430
+#	106729
+#	142867
+#	179402
+#	193805
+#
+# Disc length: 3004 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=680bba08
+DTITLE=Maman Zen - Le Coffret - CD1 - Sweet Voices
+DYEAR=2008
+DGENRE=New Age
+TTITLE0=Immermatern 1
+TTITLE1=Ventdes 1
+TTITLE2=Immermater 2
+TTITLE3=Templun
+TTITLE4=Ventdes 4
+TTITLE5=Fonds Marins
+TTITLE6=Ocascade
+TTITLE7=Niunom
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=
