@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14055
+#	28345
+#	43318
+#	57580
+#	73750
+#
+# Disc length: 1082 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5e043806
+DTITLE=Mary Karlzen - Hide
+DYEAR=1993
+DGENRE=Country
+TTITLE0=I'd Be Lying
+TTITLE1=I Hope You Don't Forget
+TTITLE2=I See You Again
+TTITLE3=A Long Time Ago
+TTITLE4=St. James Hotel
+TTITLE5=Hide
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

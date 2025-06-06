@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17332
+#	32912
+#	48018
+#	63859
+#	77394
+#	94426
+#	109656
+#
+# Disc length: 1675 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=52068908
+DTITLE=Cody Widner - Sumthin' Country
+DYEAR=2001
+DGENRE=Country
+TTITLE0=San Antone
+TTITLE1=Angel In My Arms
+TTITLE2=Cowboys Don't Cry
+TTITLE3=Look What A Fool
+TTITLE4=The Love In Your Eyes
+TTITLE5=Still On My Mind
+TTITLE6=Rainbow Chasin'
+TTITLE7=Naomi
+EXTD=YEAR: 2001 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

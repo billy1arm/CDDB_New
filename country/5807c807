@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20343
+#	42007
+#	64580
+#	80405
+#	111263
+#	146964
+#
+# Disc length: 1994 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5807c807
+DTITLE=CARAS - Andes
+DYEAR=2005
+DGENRE=Ethnic
+TTITLE0=Gallo - Viracocha
+TTITLE1=Corciolli - Eldorado
+TTITLE2=Gallo - Sarataupuy
+TTITLE3=Carlos Carty - Escalando el Aconcagua
+TTITLE4=Gallo - Equinócio
+TTITLE5=Cantaro - Ojitos de Agua (nahual)
+TTITLE6=Desconhecido
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

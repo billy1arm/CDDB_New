@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	187
+# 	36040
+# 	105307
+# 	133745
+# 	152047
+# 	180225
+# 	196440
+# 	225660
+#
+# Disc length: 3295 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=5b0cdd08
+DTITLE=Reba Mcentire - Oklahoma Girl Box Set - Disc 1
+DYEAR=1900
+DGENRE=
+TTITLE0=I Don't Want To Be A One Night Stand
+TTITLE1=A Cowboy Like You
+TTITLE2=(There's Nothing Like The Love) Between A Woman And A Man
+TTITLE3=Right Time Of The Night
+TTITLE4=Invitation To The Blues
+TTITLE5=Last Night, Ev'ry Night
+TTITLE6=Runaway Heart
+TTITLE7=(I Still Long To Hold You) Now And Then
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

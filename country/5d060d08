@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13212
+#	28870
+#	43660
+#	56280
+#	70534
+#	84843
+#	102467
+#
+# Disc length: 1551 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=5d060d08
+DTITLE=Troy Lee Combs  -  Country As They Come
+DYEAR=1900
+DGENRE=
+TTITLE0=Country As They Come
+TTITLE1=Dancin' Shoes
+TTITLE2=Something Old Fashioned
+TTITLE3=Writin' Bad Checks
+TTITLE4=I Don't Want To Say No
+TTITLE5=Just Like We Owned The Place
+TTITLE6=Happy Hour
+TTITLE7=I'm Gonna Dance
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

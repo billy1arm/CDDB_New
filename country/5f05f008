@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16007
+#	28346
+#	40191
+#	59346
+#	72450
+#	82711
+#	103120
+#
+# Disc length: 1522 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=5f05f008
+DTITLE=Those Gals - Those Gals
+DYEAR=2003
+DGENRE=Country
+TTITLE0=Southern Stream Line
+TTITLE1=I Fall To Pieces
+TTITLE2=Nice To Be With You
+TTITLE3=I Am So Over You
+TTITLE4=Lovin' On The Side
+TTITLE5=Honky Tonk Merry Go Round
+TTITLE6=Scondhand Emotion
+TTITLE7=Boogie Woogie Bugle Boy
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	14272
+#	30757
+#	50657
+#	69837
+#	84830
+#	100525
+#	118382
+#
+# Disc length: 1780 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5306f208
+DTITLE=Kelli Kemper - One of the Boys
+DYEAR=1993
+DGENRE=Country
+TTITLE0=Your Lips Are Like A Smokin' Gun
+TTITLE1=Don't Let It Hit You
+TTITLE2=As Plain As The Tears On My Face
+TTITLE3=Woman In The Moon
+TTITLE4=One Of The Boys
+TTITLE5=It's Dawning On Me
+TTITLE6=At The Corner Of Walk And Don't Walk
+TTITLE7=The Price Of Love
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

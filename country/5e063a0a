@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12100
+#     25562
+#     35250
+#     47337
+#     60325
+#     72262
+#     84775
+#     95375
+#     106087
+# 
+# Disc length: 1596 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=5e063a0a
+DTITLE=Hank Snow - Lassoes 'N Spurs
+DYEAR=1900
+DGENRE=
+TTITLE0=Green, Green Grass Of Home
+TTITLE1=There Goes My Everything
+TTITLE2=From A Jack To A King
+TTITLE3=White Silver Sands
+TTITLE4=I Love You Because
+TTITLE5=Send Me The Pillow You Dream on
+TTITLE6=Return To Me
+TTITLE7=A Legend In My Time
+TTITLE8=She Wears My Ring
+TTITLE9=Blue Side Of Lonesome
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

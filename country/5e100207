@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	53797
+#	97279
+#	128081
+#	182516
+#	230459
+#	264688
+#
+# Disc length: 4100 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=5e100207
+DTITLE=David Baldacci - Die Wahrheit CD01
+DYEAR=1999
+DGENRE=Hörbuch
+TTITLE0=Die Wahrheit CD01-01
+TTITLE1=Die Wahrheit CD01-02
+TTITLE2=Die Wahrheit CD01-03
+TTITLE3=Die Wahrheit CD01-04
+TTITLE4=Die Wahrheit CD01-05
+TTITLE5=Die Wahrheit CD01-06
+TTITLE6=Die Wahrheit CD01-07
+EXTD=gelesen von Gunter Schoß YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

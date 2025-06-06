@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     13177
+#     25747
+#     37685
+#     48777
+#     59860
+#     70065
+#     82857
+# 
+# Disc length: 1251 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=5904e108
+DTITLE=Jim Reeves - Jim Reeves Collector's Series
+DYEAR=1900
+DGENRE=
+TTITLE0=Have I Told You Lately That I Love You
+TTITLE1=I Can't Stop Loving You
+TTITLE2=In The Misty MoonLight
+TTITLE3=Just Walking in the Rain
+TTITLE4=Make The World Go Away
+TTITLE5=Making Believe
+TTITLE6=Roses Are Red (My Love)
+TTITLE7=Some Day (You'll Want Me To Want You)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

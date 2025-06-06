@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    187
+#    10840
+#    21092
+#    36410
+#    46542
+#    59435
+#    68837
+#    79222
+#
+# Disc length: 1232 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.1.9  (wjohn@fix.net)
+#
+DISCID=5e04ce08
+DTITLE=Jim Reeves - The Best of Jim Reeves
+DYEAR=1900
+DGENRE=
+TTITLE0=He'll Have To Go
+TTITLE1=I'm Getting Better
+TTITLE2=The Blizzard
+TTITLE3=Stand At Your Window
+TTITLE4=Four Walls
+TTITLE5=Billy Bayou
+TTITLE6=Am I Losing You
+TTITLE7=Danny Boy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

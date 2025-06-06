@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19356
+#	44186
+#	58918
+#	78149
+#	90478
+#	106614
+#
+# Disc length: 1640 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=52066607
+DTITLE=Kaye, Sandra - Can't Let THat Bother Me
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Grandma's Song
+TTITLE1=Edge of Seventeen
+TTITLE2=Can't Let THat Bother Me
+TTITLE3=Truly, Madly, Deeply
+TTITLE4=Hard Drinkin' Good Timin' Woman
+TTITLE5=Love Sneakin' Up on You
+TTITLE6=Loving Arms
+EXTD=YEAR: 2002 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

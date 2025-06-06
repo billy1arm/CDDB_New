@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14675
+#	35602
+#	50710
+#	63832
+#	76757
+#	95312
+#	108165
+#
+# Disc length: 1610 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=5c064808
+DTITLE=Jed Allen Freels - The Spirit Will Ride On
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Ride On
+TTITLE1=Jenny
+TTITLE2=Like A Ship
+TTITLE3=You're The One That I Love
+TTITLE4=These Times
+TTITLE5=Circle Of Love
+TTITLE6=Always Believe
+TTITLE7=Edge Of Love
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

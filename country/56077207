@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15382
+#     43342
+#     61522
+#     84385
+#     109340
+#     126585
+# 
+# Disc length: 1908 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=56077207
+DTITLE=Mary Chapin Carpenter - Collection
+DYEAR=1995
+DGENRE=Country
+TTITLE0=Down at the Twist and Shout
+TTITLE1=This is Love
+TTITLE2=He Thinks He'll Keep Her
+TTITLE3=When She's Gone
+TTITLE4=Only a Dream
+TTITLE5=This Shirt
+TTITLE6=Shut Up and Kiss me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

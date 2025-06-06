@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12031
+#	61726
+#	77915
+#	90650
+#	112323
+#	140130
+#
+# Disc length: 2205 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=59089b07
+DTITLE=Charlie Daniels Band - Saddle Tramp
+DYEAR=1976
+DGENRE=Country
+TTITLE0=Charlie Daniels Band - Dixie on My Mind
+TTITLE1=Charlie Daniels Band - Saddle Tramp
+TTITLE2=Charlie Daniels Band - Sweet Louisiana
+TTITLE3=Charlie Daniels Band - Wichita Jail
+TTITLE4=Charlie Daniels Band - Cumberland Mountain Number Nine
+TTITLE5=Charlie Daniels Band - It's My Life
+TTITLE6=Charlie Daniels Band - Sweetwater Texas
+EXTD=YEAR: 1976
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

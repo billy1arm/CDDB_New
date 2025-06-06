@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18572
+#	37855
+#	55397
+#	77135
+#	96800
+#	114105
+#	135165
+#	154045
+#
+# Disc length: 2301 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=5f08fb09
+DTITLE=Jack Tempchin and The Seclusions - After The Rain
+DYEAR=1900
+DGENRE=
+TTITLE0=Blue Flame
+TTITLE1=After The Rain
+TTITLE2=Streets Of L.A.
+TTITLE3=The Road I'm On
+TTITLE4=Slow Dancing
+TTITLE5=On The Loose
+TTITLE6=I'm Daddy Now
+TTITLE7=Just Got To Believe
+TTITLE8=Big Sky Country
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

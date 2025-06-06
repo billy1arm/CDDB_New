@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16551
+#	30077
+#	48286
+#	70717
+#	84027
+#	103174
+#	120004
+#	145096
+#
+# Disc length: 2162 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=53087009
+DTITLE=Randy McClane - Peanut Butter Bump
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Peanut Butter Bump
+TTITLE1=Humbug Booger
+TTITLE2=Snowman
+TTITLE3=Hippopotamus
+TTITLE4=Crawdad
+TTITLE5=Big Fun
+TTITLE6=Winterland
+TTITLE7=The Moon
+TTITLE8=Give Them Hope
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

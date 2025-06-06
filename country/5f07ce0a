@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16498
+#	31741
+#	45806
+#	62681
+#	77311
+#	92502
+#	106258
+#	121653
+#	135346
+#
+# Disc length: 2000 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=5f07ce0a
+DTITLE=Lee Greenwood - God Bless the U. S. A.
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Somebod's Gonna Love You
+TTITLE1=Going Going Gone
+TTITLE2=I.O.U.
+TTITLE3=Fools Gold
+TTITLE4=God Bless the U. S. A. 
+TTITLE5=Dixie Road
+TTITLE6=Don't Underestimate My Love for You
+TTITLE7=I Don't Mind the Thorns (If You're the Rose)
+TTITLE8=Hearts Aren't Made to Break (They're Made to Love)
+TTITLE9=Mornin' Ride
+EXTD=YEAR: 2001 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

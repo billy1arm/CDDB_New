@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14685
+#     27960
+#     42722
+#     52922
+#     70675
+#     85522
+# 
+# Disc length: 1310 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=52051c07
+DTITLE=Laura Tyler - Honky Tonk Heaven
+DYEAR=1900
+DGENRE=country
+TTITLE0=The Devil Didn't Make Me Do It
+TTITLE1=Just Like You
+TTITLE2=Fallen Angel
+TTITLE3=Love Bound Train
+TTITLE4=By My Side
+TTITLE5=On The Chin
+TTITLE6=Bad, Bad Baby
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

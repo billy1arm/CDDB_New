@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16848
+#	39389
+#	57231
+#	76852
+#	89645
+#	110321
+#	125232
+#
+# Disc length: 2080 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=5f081e08
+DTITLE=Kane - Kane
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Sweet Carolina Rain
+TTITLE1=Rattlesnake Smile
+TTITLE2=Crazy In Love
+TTITLE3=Don't Come Home
+TTITLE4=The Chase
+TTITLE5=Spirit Boy
+TTITLE6=One More Shot
+TTITLE7=Oklahoma State of Mind
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

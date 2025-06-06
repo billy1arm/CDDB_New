@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12487
+#	22500
+#	33012
+#	42887
+#	53350
+#	64050
+#	75750
+#	86362
+#	95775
+#
+# Disc length: 1415 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=5c05850a
+DTITLE=Various Artist - Country Classics - disc 1
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Bobby Bare/500 Miles Away From Home
+TTITLE1=George Hamilton IV/Abilene
+TTITLE2=Jim Reeves/He'll Have To Go
+TTITLE3=Eddy Arnold/What's He Doin' In My World
+TTITLE4=Connie Smith/Once A Day
+TTITLE5=Hank Locklin/Please Help Me, I'm Falling
+TTITLE6=Porter Wagoner/Misery Loves Company
+TTITLE7=Don Gibson/Lonesome Number One
+TTITLE8=Dottie West/Country Sunshine
+TTITLE9=Jerry Reed/When You're Hot, You're Hot
+EXTD=YEAR: 2001 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

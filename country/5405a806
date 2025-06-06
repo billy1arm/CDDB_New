@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13700
+#	29990
+#	52785
+#	66672
+#	93742
+#
+# Disc length: 1450 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=5405a806
+DTITLE=Anna Fermin's Trigger Gospel - Anna Fermin's Trigger Gospel E.P.
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Blame Me
+TTITLE1=nowhere
+TTITLE2=Blue Sky
+TTITLE3=not your world
+TTITLE4=i'll forget you
+TTITLE5=Untitled
+EXTD=\n\nYEAR: 1997  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

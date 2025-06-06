@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15545
+#	35455
+#	50355
+#	68385
+#	80187
+#	98765
+#	117235
+#
+# Disc length: 1834 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=5b072808
+DTITLE=Irmaos Levitas - O Caroneiro
+DYEAR=1999
+DGENRE=Country
+TTITLE0=O Caroneiro
+TTITLE1=Soldado Machucado
+TTITLE2=Deixa esta Vida Triste
+TTITLE3=Jesus está aqui
+TTITLE4=O fogo vai Queimar
+TTITLE5=Nosso chão
+TTITLE6=Tremendamente Santo
+TTITLE7=O Homem das maos furadas
+EXTD=YEAR: 1999 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,85 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21042
+#	32987
+#	45142
+#	58255
+#	73585
+#	89930
+#	102182
+#	122560
+#	136060
+#	145650
+#	158505
+#	173475
+#	185797
+#	197682
+#	216470
+#	227872
+#	240540
+#	253065
+#	267167
+#	281500
+#	296177
+#	309425
+#
+# Disc length: 4327 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=5410e517
+DTITLE=Elvis Presley - The Memphis Record
+DYEAR=1969
+DGENRE=Classic Rock
+TTITLE0=Stranger in My Own Home Town
+TTITLE1=Power of My Love
+TTITLE2=Only the Strong Survive
+TTITLE3=Any Day Now
+TTITLE4=Suspicious Minds
+TTITLE5=Long Black Limousine
+TTITLE6=Wearin' That Loved On Look
+TTITLE7=I'll Hold You in My Heart
+TTITLE8=After Loving You
+TTITLE9=Rubberneckin'
+TTITLE10=I'm Movin' On
+TTITLE11=Gentle on My Mind
+TTITLE12=True Love Travels on a Gravel Road
+TTITLE13=It Keeps Right On A-Hurtin'
+TTITLE14=You'll Think of Me
+TTITLE15=Mama Liked the Roses
+TTITLE16=Don't Cry Daddy
+TTITLE17=In the Ghetto
+TTITLE18=The Fair Is Moving On
+TTITLE19=Inherit the Wind
+TTITLE20=Kentucky Rain
+TTITLE21=Without Love
+TTITLE22=Who Am I?
+EXTD=YEAR: 1969 ID3G: 1
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+PLAYORDER=

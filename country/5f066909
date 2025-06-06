@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13635
+#	27922
+#	39307
+#	52592
+#	70712
+#	84202
+#	98797
+#	109480
+#
+# Disc length: 1643 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid 2001.05.15.01
+#
+DISCID=5f066909
+DTITLE=Buttercup - Buttercup
+DYEAR=1900
+DGENRE=
+TTITLE0=I Just Saw Your Side
+TTITLE1=Back Of Your Hand
+TTITLE2=Don't Talk
+TTITLE3=Take Me To Heaven
+TTITLE4=Thanks For The Visit
+TTITLE5=The News
+TTITLE6=Planes In The sky
+TTITLE7=No Cancellations
+TTITLE8=Hanging With The Cup
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

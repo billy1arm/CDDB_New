@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34115
+#	62640
+#	89210
+#	110265
+#	140467
+#	174235
+#
+# Disc length: 2976 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=5a0b9e07
+DTITLE=Medwyn Goodall - Tintagel, Castle of Arthur
+DYEAR=1900
+DGENRE=Native American
+TTITLE0=Merlin's Cave
+TTITLE1=The Castle on the Cliff
+TTITLE2=The Round Table
+TTITLE3=The Joust
+TTITLE4=Betrothal
+TTITLE5=My Lady´s Garden
+TTITLE6=The Age of Chivalry
+EXTD=ID3G: 64
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

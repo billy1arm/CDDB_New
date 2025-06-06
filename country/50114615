@@ -1,0 +1,81 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	13882
+#	33900
+#	48232
+#	63407
+#	80300
+#	97467
+#	114457
+#	133390
+#	149760
+#	166282
+#	184065
+#	200880
+#	212737
+#	229175
+#	243457
+#	259365
+#	272772
+#	291267
+#	305275
+#	318742
+#
+# Disc length: 4424 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=50114615
+DTITLE=John Denver  - His Greatest Hits and Finest Performances
+DTITLE=[CD1]
+DYEAR=1900
+DGENRE=
+TTITLE0=Annie's Song 
+TTITLE1=My Sweet Lady 
+TTITLE2=Take Me Home, Country Roads
+TTITLE3=Sunshine on My Shoulders 
+TTITLE4=What's on Your Mind
+TTITLE5=I Want to Live
+TTITLE6=Along for the Ride ('56 T-Bird) 
+TTITLE7=Fly Away (with Olivia Newton-John)
+TTITLE8=Calypso
+TTITLE9=Goodbye Again
+TTITLE10=Some Days Are Diamonds (Some Days Are Stone)
+TTITLE11=Like a Sad Song
+TTITLE12=It Amazes Me
+TTITLE13=Autograph
+TTITLE14=Shanghai Breezes
+TTITLE15=I'm Sorry
+TTITLE16=Perhaps Love (with Placido Domingo)
+TTITLE17=Dreamland Express
+TTITLE18=It Makes Me Giggle
+TTITLE19=For Baby (For Bobbie)
+TTITLE20=Please, Daddy (Don't Get Drunk This Christmas)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+PLAYORDER=

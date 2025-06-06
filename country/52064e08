@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18080
+#	39150
+#	52950
+#	68890
+#	82015
+#	91815
+#	109500
+#
+# Disc length: 1616 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=52064e08
+DTITLE=Jolly Roger - Jolly Roger
+DYEAR=2007
+DGENRE=Country
+TTITLE0=Mom Loves Jolly - Stand Up
+TTITLE1=Feelings
+TTITLE2=Rain
+TTITLE3=Road Is My Home
+TTITLE4=Ready To Love
+TTITLE5=Hot Lover
+TTITLE6=Rolling In The Sky
+TTITLE7=Typewritter Blues
+EXTD=ID3G:   2 YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

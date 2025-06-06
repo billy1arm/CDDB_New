@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27030
+#	51882
+#	69038
+#	88586
+#	115778
+#	131582
+#	165846
+#
+# Disc length: 2544 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=5509ee08
+DTITLE=Lynyrd Skynyrd - Gold and Platinum
+DYEAR=1979
+DGENRE=Country
+TTITLE0=That Smell 
+TTITLE1=On the Hunt 
+TTITLE2=I Ain't the One 
+TTITLE3=Whiskey Rock-A-Roller 
+TTITLE4=Simple Man 
+TTITLE5=I Know a Little 
+TTITLE6=Tuesday's Gone 
+TTITLE7=Comin' Home 
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

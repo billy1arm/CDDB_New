@@ -1,0 +1,40 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 17995
+# 34467
+# 45130
+# 61672
+# 77127
+# 90217
+# 102512
+#
+# Disc length: 1529 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.2.328
+#
+DISCID=5505f708
+DTITLE=Various Artist - Untamed and True, Crown Royal Country Music Tour
+DYEAR=1900
+DGENRE=
+TTITLE0=David Lee Murphy - Dust on the Bottle
+TTITLE1=Mark Chesnutt - Too Cold at Home
+TTITLE2=Gary Allan - Living in a House Full of Love
+TTITLE3=David Lee Murphy - Gettin' Out the Good Stuff
+TTITLE4=Mark Chesnutt - Thank God for Believers
+TTITLE5=David Lee Murphy - All Lit Up in Love
+TTITLE6=Gary Allan - Her Man
+TTITLE7=Mark Chesnutt - It's a Little too Late
+EXTD=Mark Chesnutt, David Lee Murphy, and Gary Allen
+EXTT0=album "Out With A Bang"
+EXTT1=album "Too Cold At Home"
+EXTT2=album "Used Heart For Sale"
+EXTT3=album "Gettin' Out The Good Stuff"
+EXTT4=album "Thank God For Believers"
+EXTT5=album "We Can't All Be Angels"
+EXTT6=album "Used Heart For Sale"
+EXTT7=album "Greatest Hits"
+PLAYORDER=

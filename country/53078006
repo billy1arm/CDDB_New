@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     18765
+#     36582
+#     56872
+#     73997
+#     123752
+# 
+# Disc length: 1922 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=53078006
+DTITLE=Renato Borghetti - Borghetti
+DYEAR=1900
+DGENRE=
+TTITLE0=Barra Do Ribeiro
+TTITLE1=S o Jorge
+TTITLE2=Ter a-Feira
+TTITLE3=Ferr o De Marimbondo
+TTITLE4=Fantasia Para Gaita Ponto E Orquestra de C mara
+TTITLE5=Negrinho Do Pastoreio - Vinheta Do Galp o - Gritedo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=a) Milonga Para As Miss es\nb) Segura Essa\nc)Cap o Da Erva
+EXTT5=
+PLAYORDER=

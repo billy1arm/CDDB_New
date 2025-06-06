@@ -1,0 +1,35 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	14945
+#	27342
+#	40252
+#	52247
+#	68237
+#
+# Disc length: 1058
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+# Normalized: r0:DSETVAR1,TDELIM( - ),TSWAP
+#
+DISCID=57042006
+DTITLE=Various Artist - 80's Country - Six Great Hits
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Rodney Crowell - She's Crazy For Leavin
+TTITLE1=Merle Haggard - If You Want To Be My Woman
+TTITLE2=Vern Gosdin - Who You Gonna Blame It On This Time
+TTITLE3=Sweethearts Of The Rodeo - I Feel Fine
+TTITLE4=Ricky Scaggs - Old Kind Of Love
+TTITLE5=Shelby Lynne - The Hurtin' Side
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,39 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15318
+#	36511
+#	53987
+#	70613
+#	92146
+#	110694
+#
+# Disc length: 1686 seconds
+#
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: wm2xmcd 2.3 PL0
+#
+DISCID=57069407
+DTITLE=Lucky Dog Wilson - Moving Folk
+DYEAR=1900
+DGENRE=
+TTITLE0=Ballad of Lucky Dog
+TTITLE1=Our Allison
+TTITLE2=Unsung Heroes (Erin's Song)
+TTITLE3=Everyday Love Song
+TTITLE4=Arran Jig
+TTITLE5=No. 73
+TTITLE6=New Year, Port Logan
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

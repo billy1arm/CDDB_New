@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14897
+#	24400
+#	34097
+#	48502
+#	56667
+#	69040
+#
+# Disc length: 1094 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=57044407
+DTITLE=Willie Jones - When Christmas Rolls Around
+DYEAR=1900
+DGENRE=Country
+TTITLE0=White Christmas
+TTITLE1=When Christmas Rolls Around
+TTITLE2=Rudolf the Red Nosed Reindeer
+TTITLE3=The Christmas Season
+TTITLE4=Jingle Bells
+TTITLE5=The Little Drummer Boy
+TTITLE6=The Christmas Song
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	18457
+#	35282
+#	70407
+#	103907
+#	132457
+#
+# Disc length: 2228 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=5208b206
+DTITLE=Fatima Rainey - Hey
+DYEAR=1998
+DGENRE=Country
+TTITLE0=Hey [Original Edit]
+TTITLE1=Hey [JJ International Edit]
+TTITLE2=Hey [Mount Rushmore's Deep Vocal Mix]
+TTITLE3=Hey [Mount Rushmore's Deep Dub]
+TTITLE4=Hey [Full Motion Remix]
+TTITLE5=Hey [JJ International Club Remix]
+EXTD=ID3G:   2 YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

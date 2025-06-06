@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17850
+#	35675
+#	81472
+#	96115
+#	111987
+#	136732
+#
+# Disc length: 2071 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=59081507
+DTITLE=Faith Hill - Breathe EP
+DYEAR=1999
+DGENRE=Pop
+TTITLE0=Breathe (Hex Hector Remix-Radio Edit #1)
+TTITLE1=Breathe (Hex Hector Remix-Radio Edit #2)
+TTITLE2=Breathe (Hex Hector Main Club Mix)
+TTITLE3=This Kiss
+TTITLE4=The Way You Love Me (Remix Version)
+TTITLE5=Never Gonna Be Your Lady
+TTITLE6=Breathe (Pop Version)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

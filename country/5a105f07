@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	68587
+#	112597
+#	149060
+#	188305
+#	239092
+#	271167
+#
+# Disc length: 4193 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5a105f07
+DTITLE=Antonin Dvorak - Piano Quartets [Ames Piano Quartet]
+DYEAR=1992
+DGENRE=Classical
+TTITLE0=Piano Quartet in D major,Op.23 Allegro moderato
+TTITLE1=Piano Quartet in D major,Op.23 Andantino
+TTITLE2=Piano Quartet in D major,Op.23 Finale
+TTITLE3=Piano Quartet in E Flat major,Op.87 Allegro con fuoco
+TTITLE4=Piano Quartet in E Flat major,Op.87 Lento
+TTITLE5=Piano Quartet in E Flat major,Op.87 Allegro moderato,grazioso
+TTITLE6=Piano Quartet in E Flat major,Op.87 Finale
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

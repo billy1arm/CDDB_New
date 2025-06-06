@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13503
+#	26285
+#	44197
+#	56334
+#	68715
+#	85029
+#	98950
+#
+# Disc length: 1546 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.85
+#
+DISCID=5c060808
+DTITLE=Cody Sorenson - Cody Sorenson
+DYEAR=2003
+DGENRE=Country
+TTITLE0=Are There Any Americans in the Crowd
+TTITLE1=Everybody Wants One
+TTITLE2=Ode to Mama
+TTITLE3=The Boogie Woogie Boogie
+TTITLE4=My Hillbilly Beauty Queen
+TTITLE5=Music of a Cajun Band
+TTITLE6=Spastic
+TTITLE7=Say a Prayer
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

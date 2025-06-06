@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  15782
+#  26995
+#  37510
+#  51265
+#  61065
+#  72287
+#  92765
+#  105927
+#
+# Disc length: 1658 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.24
+#
+DISCID=5d05a808
+DTITLE=Whiskeytown - Rural Free Delivery
+DYEAR=1900
+DGENRE=
+TTITLE0=Take Your Gun to Town
+TTITLE1=Nervous Breakdown
+TTITLE2=Tennessee Square
+TTITLE3=Captain Smith
+TTITLE4=Macon, Georgia County Line
+TTITLE5=Pawn Shop Ain't No Place for a Wedding Ring
+TTITLE6=Oklahoma
+TTITLE7=Angels Are Messengers From God
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,41 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	15060
+#	29605
+#	42162
+#	56617
+#	69927
+#	84210
+#	102107
+#
+# Disc length: 1510
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.70 
+# Normalized: r2:TDELIM( - )
+#
+DISCID=5005e408
+DTITLE=Team Valvoline Country Club
+DYEAR=1900
+DGENRE=
+TTITLE0=Brooks and Dunn - Boot Scootin' Boggie
+TTITLE1=Sawyer Brown - Some Girls Do
+TTITLE2=Joe Diffie - If The Devil Danced In Empty Pockets
+TTITLE3=Diamond Rio - Mirror Mirror
+TTITLE4=Hal Ketchum - Small Town Saturday Night
+TTITLE5=Alan Jackson - I'd Love You All Over Again
+TTITLE6=Michelle Wright - Take It Like a Man
+TTITLE7=Sammy Kershaw - Anywhere But Here
+EXTD=
+EXTT0=1991 Arista Records, Inc.
+EXTT1=1992 Club Records
+EXTT2=1990 Sony Music Entertainment, Inc.
+EXTT3=1991 Arista Records
+EXTT4=1991 Club Records
+EXTT5=1992 Arista Records, Inc.
+EXTT6=1992 Arista Records, Inc.
+EXTT7=1991 PolyGram Records, Inc.
+PLAYORDER=

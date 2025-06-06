@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13402
+#	23459
+#	34142
+#	45963
+#	56583
+#	71046
+#	88540
+#
+# Disc length: 1468 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=5d05ba08
+DTITLE=Sally Timms and Jon Langford - Songs of False Hope and High Values
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Horses
+TTITLE1=Watching the Horizon
+TTITLE2=Anything Can Happen
+TTITLE3=Blue Eyes Crying in the Rain
+TTITLE4=I Picked Up the Pieces
+TTITLE5=Dark Sun
+TTITLE6=Down From Dover
+TTITLE7=Joshua Gone Barbados
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

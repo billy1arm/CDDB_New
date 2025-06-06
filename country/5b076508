@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15058
+#	33613
+#	51563
+#	68005
+#	90330
+#	108325
+#	126063
+#
+# Disc length: 1895 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=5b076508
+DTITLE=Mercury - New Music Sampler
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Steve Azar - I Don't Have To Be Me ('Till Monday)
+TTITLE1=Steve Azar - How Long Is This Time Gonna Be
+TTITLE2=James Otto - The Bell
+TTITLE3=James Otto - Gone!
+TTITLE4=David Nail - Seattle
+TTITLE5=David Nail - Why
+TTITLE6=Anthony Smith - If That Ain't Country
+TTITLE7=Anthony Smith - The Wheel
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

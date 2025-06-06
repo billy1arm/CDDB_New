@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     16928
+#     31785
+#     48073
+#     65355
+#     81858
+#     97178
+#     118005
+# 
+# Disc length: 1823 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=5a071d08
+DTITLE=Dave Turnbull - Dave Turnbull
+DYEAR=1900
+DGENRE=
+TTITLE0=Shape I'm In
+TTITLE1=Fool To Believe
+TTITLE2=Long Matter Of Time
+TTITLE3=Point In Time
+TTITLE4=It's All Gonna End
+TTITLE5=It Isn't Hard To Be Poetic
+TTITLE6=Almost Blue
+TTITLE7=Cause I Ain't Blind
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

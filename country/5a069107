@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13087
+#  31875
+#  48580
+#  74550
+#  93395
+#  110440
+#
+# Disc length: 1683 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: Advanced CD Ripper Pro 2.0
+#
+DISCID=5a069107
+DTITLE=Unknown Artist - Unknown Album
+DYEAR=2003
+DGENRE=
+TTITLE0=Track01
+TTITLE1=Track02
+TTITLE2=Track03
+TTITLE3=Track4
+TTITLE4=Track05
+TTITLE5=Track06
+TTITLE6=Track07
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

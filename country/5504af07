@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12895
+#	23756
+#	44249
+#	54781
+#	66557
+#	76329
+#
+# Disc length: 1201 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=5504af07
+DTITLE=Cow - Die Erste
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Move it on home
+TTITLE1=The truth, the whole truth and nothing but the truth 
+TTITLE2=Dolphin Street
+TTITLE3=Cattle call
+TTITLE4=Silvery moon
+TTITLE5=Ecki's breakdown
+TTITLE6=Nothing strange about goodbye
+EXTD=YEAR: 2000 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

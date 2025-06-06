@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  18498
+#  29068
+#  51056
+#  63913
+#  81718
+#  97658
+#
+# Disc length: 1469 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: KiC 2.1 - (C) 1996-1998 Alwin Hoogerdijk
+#
+DISCID=5505bb07
+DTITLE=Kevin Gordon - Illinois 5am
+DYEAR=1900
+DGENRE=
+TTITLE0=Company Car
+TTITLE1=Blue-Collar Dollar
+TTITLE2=Dissatisfied
+TTITLE3=Junior's Guitar
+TTITLE4=Evan Pick up The Line
+TTITLE5=City Of Refuge
+TTITLE6=Illisnois 5am
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

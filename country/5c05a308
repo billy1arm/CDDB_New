@@ -1,0 +1,40 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 187
+# 16805
+# 30482
+# 40997
+# 54935
+# 68597
+# 86040
+# 97220
+#
+# Disc length: 1445 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.3.331
+#
+DISCID=5c05a308
+DTITLE=Various Artist - The Best of Christmas
+DYEAR=1900
+DGENRE=
+TTITLE0=Alabama - Christmas in Dixie
+TTITLE1=The Judds ( Wynonna and Naomi) - Light Of The Stable
+TTITLE2=Waylon Jennings with Jessi Colter - Silent Night, Holy Night
+TTITLE3=Earl Thomas Conley - Blue Christmas
+TTITLE4=Ronnie Milsap - It's Christmas
+TTITLE5=Dolly Parton - Hard Candy Christmas
+TTITLE6=Elvis Presley (Vocal Accompaniment by The Imperials) - Silver Bells
+TTITLE7=Willie Nelson - Pretty Paper
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

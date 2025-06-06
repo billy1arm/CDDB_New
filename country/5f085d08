@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16725
+#	41472
+#	62172
+#	80315
+#	99890
+#	122502
+#	142475
+#
+# Disc length: 2143 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=5f085d08
+DTITLE=Waylon Jennings - Waylon Forever
+DYEAR=2008
+DGENRE=Country
+TTITLE0=Jack Of Diamonds
+TTITLE1=Outlaw Shit
+TTITLE2=Ain't Livin' Long Like This
+TTITLE3=Are You Ready For The Country?
+TTITLE4=Lonesome, On'ry And Mean
+TTITLE5=Waymore's Blues
+TTITLE6=White Room
+TTITLE7=I Found The Body
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16816
+#	32577
+#	50110
+#	67871
+#	84598
+#	100328
+#	117875
+#
+# Disc length: 1812 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=5d071208
+DTITLE=Karaoke - Sing The Best Of Garth Brooks
+DYEAR=0000
+DGENRE=Country
+TTITLE0=American Honky-Tonk Bar Association
+TTITLE1=The Dance
+TTITLE2=If Tommorow Never Comes
+TTITLE3=Friends In Low Places
+TTITLE4=American Honky-Tonk Bar Association with Vocals
+TTITLE5=The Dance with Vocals
+TTITLE6=If Tommorow Never Comes with Vocals
+TTITLE7=Friends In Low Places with Vocals
+EXTD=YEAR: 0000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

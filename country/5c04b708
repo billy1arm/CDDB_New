@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	12257
+#	25452
+#	39907
+#	48315
+#	57752
+#	68172
+#	80430
+#
+# Disc length: 1209 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=5c04b708
+DTITLE=Dolly Parton - Jolene
+DYEAR=1900
+DGENRE=
+TTITLE0=Jolene
+TTITLE1=I Will Always Love You
+TTITLE2=Lonely Comin' Down
+TTITLE3=It Must Be You
+TTITLE4=When Someone Wants To Leave
+TTITLE5=River of Happiness
+TTITLE6=Early Morning Breeze
+TTITLE7=Highlight of My Life
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

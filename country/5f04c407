@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14042
+#	23879
+#	37934
+#	51404
+#	62330
+#	74037
+#
+# Disc length: 1222 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta5
+#
+DISCID=5f04c407
+DTITLE=Jana and Linda - Country mit Jana and Linda
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Way down Texas
+TTITLE1=America to me
+TTITLE2=Too late
+TTITLE3=Countryman
+TTITLE4=The real America
+TTITLE5=Texas
+TTITLE6=Good morning America
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

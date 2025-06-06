@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20835
+#	42750
+#	65400
+#	82575
+#	99300
+#	119025
+#
+# Disc length: 1858 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,39,0213
+#
+DISCID=51074007
+DTITLE=Lance Bedard - Restless
+DYEAR=2009
+DGENRE=Country
+TTITLE0=One More Day
+TTITLE1=At Least I Tried
+TTITLE2=Focus
+TTITLE3=Thinkin' About It
+TTITLE4=Move Along
+TTITLE5=Over And Over
+TTITLE6=12.02.06 This Life
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

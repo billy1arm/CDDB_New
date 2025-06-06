@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16145
+#	31690
+#	44892
+#	61215
+#	75630
+#	90625
+#	106345
+#
+# Disc length: 1608 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=58064608
+DTITLE=Ken Maynard - The Lone Star Trail
+DYEAR=2009
+DGENRE=Country
+TTITLE0=Fannie Moore
+TTITLE1=The Cowboy`s Lament
+TTITLE2=The Lone Star Trail
+TTITLE3=Sweat Betsy From Pike
+TTITLE4=A Prisoner Of Life
+TTITLE5=When The Roundup`s Done This Fall
+TTITLE6=Jesse James
+TTITLE7=Home On The Range
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

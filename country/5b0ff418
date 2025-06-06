@@ -1,0 +1,89 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9338
+#	22300
+#	36150
+#	41588
+#	53663
+#	64763
+#	87413
+#	100388
+#	109838
+#	128213
+#	138788
+#	147263
+#	160613
+#	170775
+#	181238
+#	194888
+#	207900
+#	218400
+#	230250
+#	249075
+#	265763
+#	279675
+#	297038
+#
+# Disc length: 4086 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=5b0ff418
+DTITLE=Various Artist - Son Of Rounder Banjo
+DYEAR=1900
+DGENRE=
+TTITLE0=Adams County Breakdown
+TTITLE1=No Hiding Place
+TTITLE2=Wired
+TTITLE3=Careless Love
+TTITLE4=Blackberry Blossom
+TTITLE5=Will You Be Leaving?
+TTITLE6=Pea Patch Jig
+TTITLE7=Dixie Breakdown
+TTITLE8=Cold Wind
+TTITLE9=See Rock City
+TTITLE10=I'm Walkin'
+TTITLE11=Kickin' Mule
+TTITLE12=Syncopatin' Shuffle
+TTITLE13=Armadillo Breakdown
+TTITLE14=Blue Eyed Darlin'
+TTITLE15=Nola
+TTITLE16=Don't Think Twice
+TTITLE17=My Aching Heart
+TTITLE18=Chicken Reel
+TTITLE19=12 O'Clock, Eh Sonny?
+TTITLE20=John Hardy
+TTITLE21=Georgia Rose
+TTITLE22=Stoli's Best Friend
+TTITLE23=Lost And I'll Never Find The Way
+EXTD=
+EXTT0=Artist: Tom Adams
+EXTT1=Artist: Alan O'Bryant\n
+EXTT2=Artist: Scott Vestal\n
+EXTT3=Artist: Snuffy Jenkins\n
+EXTT4=Artist: Alan Munde\n
+EXTT5=Artist: John Hartford\n
+EXTT6=Artist: Dixie Breakdown\n
+EXTT7=Artist: John Hickman\n
+EXTT8=Artist: Karl Lauber\n
+EXTT9=Artist: Bela Fleck\n
+EXTT10=Artist: J.D. Crowe\n
+EXTT11=Artist: Billy Ray Latham\n
+EXTT12=Artist: William J. Ball\n
+EXTT13=Artist: Peter Wernick and Tony Trischka\n
+EXTT14=Artist: Frank Necessary\n
+EXTT15=Artist: Bill Keith\n
+EXTT16=Artist: Bill Emerson\n
+EXTT17=Artist: Porter Church\n
+EXTT18=Artist: Alan Shelton\n
+EXTT19=Artist: Butch Robins
+EXTT20=Artist: Tommy Neal\n
+EXTT21=Artist: Herb Pedersen\n
+EXTT22=Artist: Tony Trischka\n
+EXTT23=Artist: Marc Pruett\n
+PLAYORDER=

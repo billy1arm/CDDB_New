@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23372
+#	45881
+#	63164
+#	83727
+#	105060
+#	124905
+#	144787
+#	159682
+#
+# Disc length: 2418 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=58097009
+DTITLE=Takin' Back Texas - Unexpected
+DYEAR=2007
+DGENRE=Country
+TTITLE0=Here With Me
+TTITLE1=Wishful Thinkin'
+TTITLE2=You Can't Two-Step
+TTITLE3=Kosciusko
+TTITLE4=It'll All Be Fine
+TTITLE5=I'm Coming Home
+TTITLE6=Sorry
+TTITLE7=Nothing
+TTITLE8=Last Prayer
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

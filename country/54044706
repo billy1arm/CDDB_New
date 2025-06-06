@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11220
+#     26019
+#     36215
+#     57382
+#     74020
+# 
+# Disc length: 1097 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=54044706
+DTITLE=Long Tom and the Dusty Danglers - Country Girl
+DYEAR=1900
+DGENRE=
+TTITLE0=My Country Girl (Extended Versin)
+TTITLE1=How Can I Miss Her, If She Won't Go Away
+TTITLE2=Giddy Up
+TTITLE3=Dead Flowers
+TTITLE4=Rosslyn
+TTITLE5=My Country Girl
+EXTD=
+EXTT0=\n\n
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

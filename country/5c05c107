@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19450
+#     39185
+#     52282
+#     73760
+#     88102
+#     95265
+# 
+# Disc length: 1475 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=5c05c107
+DTITLE=Various Artist - Canowindra Means Home
+DYEAR=1900
+DGENRE=
+TTITLE0=Canowindra Means Home
+TTITLE1=Into the Pale Blue Yonder
+TTITLE2=He Found Her in Canowindra
+TTITLE3=Gilbert, O'Meally and Hall
+TTITLE4=It's Canowindra
+TTITLE5=Faraway Dreaming
+TTITLE6=Balloons on Canowindra
+EXTD=
+EXTT0=Colin Buchanan\n
+EXTT1=Pat Drummond\n
+EXTT2=Alan Caswell\n
+EXTT3=Norma O'Hara Murphy\n
+EXTT4=Jim Haynes\n
+EXTT5=Frank Daniel\n
+EXTT6=Pat Drummond\n
+PLAYORDER=

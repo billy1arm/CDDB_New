@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18758
+#	30018
+#	47015
+#	56660
+#	67638
+#	103568
+#	116770
+#
+# Disc length: 1694 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=53069c08
+DTITLE=Elvis Presley - Memories of Christmas
+DYEAR=1971
+DGENRE=Christmas
+TTITLE0=O Come, All Ye Faithful
+TTITLE1=Silver Bells
+TTITLE2=I'll Be Home On Christmas Day
+TTITLE3=Blue Christmas
+TTITLE4=Santa Claus Is Back in Town
+TTITLE5=Merry Christmas Baby
+TTITLE6=If Every Day Was Like Christmas
+TTITLE7=Christmas Message From Elvis/Silent Night
+EXTD=YEAR: 1971 ID3G: 40
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

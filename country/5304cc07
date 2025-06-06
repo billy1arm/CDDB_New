@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14475
+#	25455
+#	38500
+#	48640
+#	61265
+#	77140
+#
+# Disc length: 1230 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=5304cc07
+DTITLE=Floyd Cramer - Great Country Hits
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Sleepy Shores
+TTITLE1=Missin' You
+TTITLE2=Back On My Mind Again
+TTITLE3=Help Me Make It Through The Night
+TTITLE4=Sweet Dreams
+TTITLE5=Years
+TTITLE6=Sweet Memories
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

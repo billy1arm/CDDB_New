@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16335
+#     28550
+#     45032
+#     56095
+#     76462
+#     86917
+#     99740
+# 
+# Disc length: 1521 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=5805ef08
+DTITLE=Johnny Bond - Truckstop Comedy
+DYEAR=1900
+DGENRE=
+TTITLE0=Ten Little Bottles
+TTITLE1=You Get Mean When You Drink
+TTITLE2=A Letter From Home
+TTITLE3=Of Horseradish and Cactus
+TTITLE4=The Hi-Jacker
+TTITLE5=Sick, Sober, and Sorry
+TTITLE6=Side-Car Cycle
+TTITLE7=The Pig Got Up and Slowly Walked Away
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

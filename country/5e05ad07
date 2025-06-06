@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13819
+#	27678
+#	43191
+#	58133
+#	76736
+#	89208
+#
+# Disc length: 1455 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=5e05ad07
+DTITLE=Pete Benz - Hang on Cowboy
+DYEAR=2000
+DGENRE=Country
+TTITLE0=I Don't Want to Dance This Song Again
+TTITLE1=You're Losing Me
+TTITLE2=I've Been Blessed
+TTITLE3=Good Luck
+TTITLE4=Halfway There
+TTITLE5=Down Near Mexico
+TTITLE6=Hang on Cowboy
+EXTD=YEAR: 2000 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

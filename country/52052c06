@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	14822
+# 	29495
+# 	44167
+# 	62682
+# 	81197
+#
+# Disc length: 1326 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=52052c06
+DTITLE=Gary Allan - From Where I'm Sitting
+DYEAR=1900
+DGENRE=
+TTITLE0=From Where I'm Sitting (Edited Version)
+TTITLE1=From Where I'm Sitting (Edited Version)
+TTITLE2=From Where I'm Sitting (Edited Version)
+TTITLE3=From Where I'm Sitting (Album Version)
+TTITLE4=From Where I'm Sitting (Album Version)
+TTITLE5=From Where I'm Sitting (Album Version)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

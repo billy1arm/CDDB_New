@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	8400
+#	20110
+#	30077
+#	43840
+#	55065
+#	69272
+#	81290
+#	92360
+#
+# Disc length: 1375 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=5b055d09
+DTITLE=Various Artist - #1 Country Hits of the 60'S
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Roger Miller   Dang Me
+TTITLE1=George Jones   The Window Up Above
+TTITLE2=Dave Dudley   Truck Drivin' Son-of-a-gun
+TTITLE3=Tom T. Hall   A week In A Country Jail
+TTITLE4=Faron Young   The Yellow Bandana
+TTITLE5=Hank Williams Jr.   Standing In The Shadows
+TTITLE6=Jerry Lee Lewis   She Even Woke Me Up To Say Goodbye
+TTITLE7=Sheb Wooley   That's My Pa
+TTITLE8=Roy Drusky   (From Now On All My Friends Are Gonna Be) Strangers
+EXTD=\n\nYEAR: 1997  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

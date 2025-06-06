@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10307
+#	46182
+#	48917
+#	82647
+#	92715
+#	127332
+#	154920
+#
+# Disc length: 2155 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=59086908
+DTITLE=Blackfox - Peyote Healing
+DYEAR=1900
+DGENRE=Native American
+TTITLE0=Peyote Healing
+TTITLE1=Peyote Blessings
+TTITLE2=Peyote Way
+TTITLE3=Peyote Prayers
+TTITLE4=Peyote Healing
+TTITLE5=Peyote Prayers
+TTITLE6=Peyote Blessings
+TTITLE7=Eagle Power
+EXTD=ID3G:  64
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

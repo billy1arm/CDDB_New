@@ -1,0 +1,41 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	22787
+#	35305
+#	46677
+#	57905
+#	70595
+#	84447
+#	96537
+#
+# Disc length: 1477
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.35 
+# Normalized: r0:TDELIM( - );r1:TSWAP
+#
+DISCID=5605c308
+DTITLE=Various Artist - The Best Of Texas Country
+DYEAR=1988
+DGENRE=Country
+TTITLE0=Billy Walker - El Paso
+TTITLE1=Johnny Bond - Carry Me Back To The Lone Prairie
+TTITLE2=George Jones - Texas Playboy
+TTITLE3=Cowboy Copas - Cowtown
+TTITLE4=Tex Ritter - High Noon
+TTITLE5=Johnny Bush - When Daddy Lived In Houston
+TTITLE6=Jeannie C Riley - The Back Side Of Dallas
+TTITLE7=Tex Ritter - Conversation With A Gun
+EXTD=Highland Music\nNCD-2273\n
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

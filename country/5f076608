@@ -1,0 +1,41 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	14080
+#	31480
+#	50017
+#	72112
+#	90547
+#	105782
+#	121827
+#
+# Disc length: 1896
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.70 
+# Normalized: r4:TDELIM( - ),TSWAP
+#
+DISCID=5f076608
+DTITLE=Music City, USA (Volume 1)
+DYEAR=1998
+DGENRE=County
+TTITLE0=The Lynns - Cry Cry Baby
+TTITLE1=Chad Brock - Evangeline
+TTITLE2=Bill Anderson - Tips Of My Fingers
+TTITLE3=Randy Scruggs - City Of New Orleans
+TTITLE4=Karen Staley - Somebody's Child
+TTITLE5=Connie Smith - Lonesome
+TTITLE6=Brady Seals - I Fell
+TTITLE7=The Groovegrass Boyz - Howdy
+EXTD=Entered By Itaot...
+EXTT0=The Lynns
+EXTT1=Chad Brock
+EXTT2=Bill Anderson
+EXTT3=Randy Scruggs
+EXTT4=Karen Staley
+EXTT5=Connie Smith
+EXTT6=Brady Seals
+EXTT7=The Groovegrass Boyz
+PLAYORDER=
