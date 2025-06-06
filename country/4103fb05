@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	200
+#	14015
+#	34152
+#	48967
+#	59675
+#
+# Disc length: 1021 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=4103fb05
+DTITLE=Leon Russell - Country Sampler
+DYEAR=1900
+DGENRE=
+TTITLE0=Heartbreak Hotel
+TTITLE1=Roll In My Sweet Baby's Arms
+TTITLE2=I'm So Lonesome I Could Cry
+TTITLE3=A Six Pack To Go
+TTITLE4=Faces of the Children
+EXTD=
+EXTT0=3:01
+EXTT1=4:24
+EXTT2=3:14
+EXTT3=2:19
+EXTT4=3:46
+PLAYORDER=

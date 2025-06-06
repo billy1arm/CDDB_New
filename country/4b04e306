@@ -1,0 +1,36 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     18210
+#     31445
+#     43412
+#     61425
+#     80692
+# 
+# Disc length: 1253 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=4b04e306
+DTITLE=Hank Williams Jr. - The Bocephus Box Sampler
+DYEAR=1900
+DGENRE=
+TTITLE0=Family Tradition
+TTITLE1=All My Rowdy Friends Are Coming Over Tonight
+TTITLE2=Waitin' On The Tables To Turn (previously unreleased outtake)
+TTITLE3=All My Rowdy Friends (Have Settled Down) (PPreviously Unreleased Alt
+TTITLE3=ernate Version)
+TTITLE4=A Country Boy Can Survive
+TTITLE5=Stoned At The Jukebox
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

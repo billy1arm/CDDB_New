@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13187
+#	30612
+#	49163
+#	61099
+#	81478
+#	99127
+#
+# Disc length: 1506 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=4e05e007
+DTITLE=Margo Rochelle - What You're Wishin' For
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Lolta
+TTITLE1=Where A Cheatin' Heart Lies
+TTITLE2=Tropical Depression
+TTITLE3=Workin' It
+TTITLE4=In Each Others Heart
+TTITLE5=What You're Wishin' For
+TTITLE6=Free Girl
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

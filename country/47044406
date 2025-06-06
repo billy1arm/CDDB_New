@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11884
+#	23675
+#	42455
+#	56312
+#	68150
+#
+# Disc length: 1094 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=47044406
+DTITLE=Johnny Cash - Giant Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=I Walk The Line
+TTITLE1=I Still Miss Someone
+TTITLE2=Sunday Morning Coming Down
+TTITLE3=Don't Take Your Gun To Town
+TTITLE4=Ring Of Fire
+TTITLE5=Orange Blossom Special
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

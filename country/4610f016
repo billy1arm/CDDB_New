@@ -1,0 +1,83 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14225
+#     27287
+#     39562
+#     54175
+#     72537
+#     89687
+#     101075
+#     113225
+#     124800
+#     139612
+#     153750
+#     168175
+#     186750
+#     199837
+#     232325
+#     242037
+#     256000
+#     272187
+#     283700
+#     294587
+#     308750
+# 
+# Disc length: 4338 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=4610f016
+DTITLE=The Wayfarers - An Hour of Aussie Country Favourites
+DYEAR=1900
+DGENRE=
+TTITLE0=Australia's On The Wallaby
+TTITLE1=Little Boy Lost
+TTITLE2=The Little Kangaroo
+TTITLE3=Why Do I Gamble
+TTITLE4=Duncan
+TTITLE5=Santa Never Made It Into Darwin
+TTITLE6=One Small Photograph
+TTITLE7=Indian Pacific
+TTITLE8=Down Under
+TTITLE9=Shakedown On The Floor
+TTITLE10=Airmail To Heaven
+TTITLE11=Put A Light In Every Country Window
+TTITLE12=The Australia's Cup
+TTITLE13=The Man From The Never Never Land
+TTITLE14=And The Band Played Waltzing Matilda
+TTITLE15=I've Been Everywhere
+TTITLE16=When The  Rain Tumbles Down In July
+TTITLE17=A Pub With No Beer
+TTITLE18=Bushland Boogie
+TTITLE19=The Australian Country Music Hall Of Fame
+TTITLE20=Call Of The Bellbird
+TTITLE21=Lights On The Hill
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

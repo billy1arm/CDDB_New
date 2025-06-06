@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	140225
+#	217104
+#	279682
+#
+# Disc length: 4535 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 7
+#
+DISCID=4611b504
+DTITLE=음악가 없음 - 앨범 없음
+DYEAR=1900
+DGENRE=장르 없음
+TTITLE0=트랙 1
+TTITLE1=트랙 2
+TTITLE2=트랙 3
+TTITLE3=트랙 4
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,36 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	32462
+#	63160
+#	94162
+#	121335
+#	158225
+#
+# Disc length: 2625 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=410a3f06
+DTITLE=Various Artist - Les Quadrilles - Sets Carrés - Musique traditi
+DTITLE=onnelle du Québec
+DYEAR=1900
+DGENRE=
+TTITLE0=Set carré and Brandy des Vallancourt
+TTITLE1=L'ange à droite, le diable à gauche (callé)
+TTITLE2=Reel à Adélard (instrumental)
+TTITLE3=La grande gigue simple and Reel à neuf
+TTITLE4=Ladies Do-Ci-Do (callé)
+TTITLE5=Red Wing (instrumental)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

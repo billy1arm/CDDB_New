@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12040
+#	31877
+#	44487
+#	54155
+#	61222
+#	76347
+#
+# Disc length: 1206 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=4804b407
+DTITLE=日本のうた こころの歌 - 日本のうた こころの歌 1 「故郷」
+DYEAR=2009
+DGENRE=Country
+TTITLE0=故郷
+TTITLE1=故郷の廃家
+TTITLE2=この道
+TTITLE3=故郷の空
+TTITLE4=朧月夜
+TTITLE5=旅愁
+TTITLE6=埴生の宿
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

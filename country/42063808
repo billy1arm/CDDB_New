@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	187
+# 	19087
+# 	32352
+# 	45382
+# 	62425
+# 	76505
+# 	91602
+# 	106877
+#
+# Disc length: 1594 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=42063808
+DTITLE=Waylon Jennings - Are You Sure Hank Done It This Way
+DYEAR=1900
+DGENRE=
+TTITLE0=I've Always Been Crazy
+TTITLE1=Don't You Think This Outlaw Bit's Done Got Out Of Hand
+TTITLE2=Are You Sure Hank Done It This Way
+TTITLE3=House Of The Rising Sun
+TTITLE4=I'll Go Back To Her
+TTITLE5=Old Freind
+TTITLE6=Belle Of The Ball
+TTITLE7=Shine
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

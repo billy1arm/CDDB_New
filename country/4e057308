@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     18073
+#     26635
+#     39075
+#     54273
+#     69403
+#     81978
+#     91788
+# 
+# Disc length: 1397 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=4e057308
+DTITLE=Red Sovine - Famous Duets With Minnie Pearl, Johnny Bond, And Others!
+DYEAR=1900
+DGENRE=
+TTITLE0=The Gear Jammer And The Hobo
+TTITLE1=Alabam
+TTITLE2=Dear John
+TTITLE3=It'll Come Back
+TTITLE4=Day Drinkin'
+TTITLE5=Castle Of Shame
+TTITLE6=Nobody's Business
+TTITLE7=Jackson
+EXTD=
+EXTT0=Red Sovine With Johnny Bond\n
+EXTT1=Red Sovine With Minnie Pearl\n
+EXTT2=Red Sovine With Jean Shepard\n
+EXTT3=Red Sovine With Two Little Girls\n
+EXTT4=Red Sovine With Johnny Bond\n
+EXTT5=Red Sovine With Lois Williams\n
+EXTT6=Red Sovine With Minnie Pearl\n
+EXTT7=Red Sovine With Jean Shepard\n
+PLAYORDER=

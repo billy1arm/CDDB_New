@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15077
+#	15910
+#	16770
+#	17620
+#	18484
+#	19320
+#	20233
+#
+# Disc length: 277 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=45011308
+DTITLE=Highway 101 and Paulette Carlson - Reunited
+DYEAR=1900
+DGENRE=
+TTITLE0=Where'd You Get Your Cheatin' From
+TTITLE1=Radio Liners
+TTITLE2=Radio Liners
+TTITLE3=Radio Liners
+TTITLE4=Radio Liners
+TTITLE5=Radio Liners
+TTITLE6=Radio Liners
+TTITLE7=Radio Liners
+EXTD=Radio Station Promo CD
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12777
+#	22955
+#	35390
+#	51171
+#	62958
+#
+# Disc length: 1027 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=43040106
+DTITLE=Martin Zak - Blues pracujiciho muze
+DYEAR=2012
+DGENRE=Country
+TTITLE0=Legenda o Bonnie a Clydeovi
+TTITLE1=Mamo, nevim sam
+TTITLE2=Pokud v prosinci to zvladnem
+TTITLE3=Hladove oci
+TTITLE4=Blues pracujiciho muze
+TTITLE5=Tatik Frank (Kytarista)
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

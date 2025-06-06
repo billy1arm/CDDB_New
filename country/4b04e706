@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12677
+#	36857
+#	53667
+#	66498
+#	80279
+#
+# Disc length: 1257 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=4b04e706
+DTITLE=Johnny Cash - Man in Black Limited Edition 70th bithday sampler
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Folsom Prison Blues (album version) 1964
+TTITLE1=Highway Patrolman (album vesion) 1983
+TTITLE2=Girl From The North Country (with Bob Dylan) (album version)1963
+TTITLE3=Wanted Man (album version) 1970
+TTITLE4=It Ain't Me, Babe 1965
+TTITLE5=Me And Bobby McGee 1972
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,82 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17752
+#	29387
+#	39030
+#	48232
+#	66857
+#	77984
+#	92071
+#	103059
+#	117642
+#	125357
+#	140281
+#	150696
+#	166569
+#	179827
+#	192237
+#	202633
+#	217416
+#	254854
+#	263980
+#	272924
+#	288360
+#
+# Disc length: 3985 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=470f8f16
+DTITLE=Cacka Israelsson - Country med Cacka
+DYEAR=1973
+DGENRE=Country
+TTITLE0=En solig söndagsmorgon
+TTITLE1=Långt borta i Minnesota
+TTITLE2=Jag hade tur som mötte dej
+TTITLE3=Ännu har jag lite stolthet kvar
+TTITLE4=Frihet
+TTITLE5=Försök att vara lite vänlig
+TTITLE6=Den tiden är nu förbi
+TTITLE7=Nu sitter jag på kåken
+TTITLE8=Store John
+TTITLE9=Cigarren
+TTITLE10=Knegar Svensson
+TTITLE11=Ensam kvar på nattkaféet
+TTITLE12=En sliten grimma
+TTITLE13=Cigaretter, whiskey och vilda kvinnor
+TTITLE14=Han måste gå
+TTITLE15=Love, love, love
+TTITLE16=Röda präriens vind
+TTITLE17=Cowboypotpurri
+TTITLE18=Kom, kom lilla vän
+TTITLE19=San Antonios ros
+TTITLE20=Gamle Svarten
+TTITLE21=Amerikabrevet
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     8305
+#     19200
+#     46295
+#     68095
+#     84390
+#     103200
+# 
+# Disc length: 1623 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=49065507
+DTITLE=Y'All - Big Apple Pie
+DYEAR=1900
+DGENRE=
+TTITLE0=You Ain't Woman Enough To Take My Man
+TTITLE1=God Bless New York City (My Big Apple Pie)
+TTITLE2=Gotta Be A Big Man
+TTITLE3=Paradise
+TTITLE4=The Map of the U. S. of A.
+TTITLE5=Graham
+TTITLE6=My Man, Our Horses, And Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15203
+#	25212
+#	38920
+#	51535
+#	67674
+#
+# Disc length: 1180 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=40049a06
+DTITLE=George Day - The Message
+DYEAR=2003
+DGENRE=Country
+TTITLE0=The Message
+TTITLE1=1241
+TTITLE2=Walter
+TTITLE3=Telephone
+TTITLE4=Only A Dream
+TTITLE5=Regrets
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

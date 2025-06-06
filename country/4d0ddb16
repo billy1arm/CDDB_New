@@ -1,0 +1,83 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13592
+#	29582
+#	39592
+#	51250
+#	61182
+#	73917
+#	91595
+#	103910
+#	113910
+#	124545
+#	137610
+#	149707
+#	162947
+#	172807
+#	185907
+#	199220
+#	209972
+#	221402
+#	232515
+#	244335
+#	257890
+#
+# Disc length: 3549 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=4d0ddb16
+DTITLE=Lynn Anderson - Rose Garden/You're My Man
+DYEAR=1999
+DGENRE=country
+TTITLE0=Rose Garden
+TTITLE1=For The Good Times
+TTITLE2=Another Lonely Night
+TTITLE3=I Don't Want To Play House
+TTITLE4=Snowbird
+TTITLE5=Your Sweet Love Lifted Me
+TTITLE6=Sunday Morning Coming Down
+TTITLE7=I Still Belong To You
+TTITLE8=I Wish I Was A Little Boy Again
+TTITLE9=It's Only Make Believe
+TTITLE10=Nothing Between Us
+TTITLE11=You're My Man
+TTITLE12=I Can Spot A Cheater
+TTITLE13=I'm Gonna Write A Song
+TTITLE14=Cry Cry Again
+TTITLE15=Knock Three Times
+TTITLE16=Flying Machine
+TTITLE17=Proud Mary
+TTITLE18=Help Me Make It Through The Night
+TTITLE19=Put Your Hand In The Hand
+TTITLE20=Joy To The World
+TTITLE21=I Might As Well Be Here Alone
+EXTD=\n\n YEAR: 1999 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

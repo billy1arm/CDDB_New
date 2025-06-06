@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15217
+#	29012
+#	44640
+#	59392
+#	76082
+#	90155
+#	105775
+#
+# Disc length: 1572 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=4c062208
+DTITLE=Eddy Raven - Love And Other Hard Times
+DYEAR=1985
+DGENRE=Country
+TTITLE0=I Wanna Hear It From You
+TTITLE1=Room To Run
+TTITLE2=You Should Have Been Gone By Now
+TTITLE3=Easy Time
+TTITLE4=Changes
+TTITLE5=Operator, Operator
+TTITLE6=The Art Of Getting By
+TTITLE7=I'm Just Someone You Run From
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

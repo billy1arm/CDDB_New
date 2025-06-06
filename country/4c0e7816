@@ -1,0 +1,83 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	13278
+# 	23628
+# 	37353
+# 	50098
+# 	63080
+# 	71625
+# 	82800
+# 	98700
+# 	115048
+# 	123380
+# 	135605
+# 	148355
+# 	163280
+# 	174450
+# 	190878
+# 	204970
+# 	215093
+# 	228378
+# 	241650
+# 	254775
+# 	266775
+#
+# Disc length: 3706 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=4c0e7816
+DTITLE=Slim Whitman - Best Loved Favorites
+DYEAR=1900
+DGENRE=
+TTITLE0=Red Sails In The Sunset
+TTITLE1=Anytime You're Feeling Lonely
+TTITLE2=You Are My Sunshine
+TTITLE3=Half As Much
+TTITLE4=Please Release Me
+TTITLE5=I'll Get By
+TTITLE6=The Wayward Wind
+TTITLE7=Down In The Valley
+TTITLE8=I Wish I Was Eighteen Again
+TTITLE9=Have You Ever Been Lonely
+TTITLE10=Before The Next Teardrop Falls
+TTITLE11=Tennessee Waltz
+TTITLE12=Mockin' Bird Hill
+TTITLE13=Singing The Blues
+TTITLE14=The Three Bells
+TTITLE15=What A Fool I Was
+TTITLE16=Cara Mia
+TTITLE17='Till I Waltz Again With You
+TTITLE18=A Cowboy's Heaven
+TTITLE19=Wabash Waltz
+TTITLE20=Now Is The Hour
+TTITLE21=It Is No Secret
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

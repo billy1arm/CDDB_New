@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  1700
+#  19060
+#  31860
+#  47522
+#  63857
+#  148062
+#
+# Disc length: 2167 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=4a087507
+DTITLE=Various Artist - The Redneck Night Before Christmas
+DYEAR=1900
+DGENRE=
+TTITLE0=Introduction
+TTITLE1=The Redneck Night Before Christmas
+TTITLE2=Winter Wonderland
+TTITLE3=Grandma Got Run Over By A Reindeer
+TTITLE4=Christmastime In Dixie
+TTITLE5=A Redneck Christmas Carol
+TTITLE6=Christmas To Christmas
+EXTD=
+EXTT0=
+EXTT1=Travis Tritt
+EXTT2=Travis Tritt
+EXTT3=Elmo and Patsy
+EXTT4=Charlie Daniels
+EXTT5=Travis Tritt
+EXTT6=Tanya Tucker
+PLAYORDER=

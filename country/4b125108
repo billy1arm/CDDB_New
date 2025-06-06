@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	1191
+#	7611
+#	56187
+#	76117
+#	166081
+#	235569
+#	281795
+#
+# Disc length: 4691 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4b125108
+DTITLE=Tess Gerritsen - Abendruh CD01
+DYEAR=2013
+DGENRE=Hörbuch
+TTITLE0=Abendruh CD01-01
+TTITLE1=Abendruh CD01-02
+TTITLE2=Abendruh CD01-03
+TTITLE3=Abendruh CD01-04
+TTITLE4=Abendruh CD01-05
+TTITLE5=Abendruh CD01-06
+TTITLE6=Abendruh CD01-07
+TTITLE7=Abendruh CD01-08
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

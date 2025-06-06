@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18140
+#	36847
+#	50740
+#	74570
+#	86829
+#
+# Disc length: 1311 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4e051d06
+DTITLE=Various Artist - Country Pop Hits Of The 70's
+DYEAR=1900
+DGENRE=Country
+TTITLE0=One Piece At A Time - Johnny Cash
+TTITLE1=El Paso City - Marty Robbins
+TTITLE2=Since I Fell For You - Charlie Rich
+TTITLE3=You Never Even Called Me By My Name - David Allan Coe
+TTITLE4=The Door - George Jones
+TTITLE5=Roll On Big Mama - Joe Stampley
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

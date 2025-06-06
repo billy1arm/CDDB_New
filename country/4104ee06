@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13623
+#	28658
+#	44364
+#	62058
+#	80284
+#
+# Disc length: 1264 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4104ee06
+DTITLE=Nashville Country Band - Feeling At Home
+DYEAR=1995
+DGENRE=Country
+TTITLE0=Cowgirl Get To Blues
+TTITLE1=Lay Down Sally
+TTITLE2=Lights On Denver
+TTITLE3=Hickory Wind
+TTITLE4=Jukebox In My Mind
+TTITLE5=Folsom Prison Blues
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

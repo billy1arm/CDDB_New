@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	11472
+#	26917
+#	42655
+#	59737
+#
+# Disc length: 954 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL1
+#
+DISCID=4303b805
+DTITLE=Lucinda Williams - I Just Wanted to See You So Bad (EP)
+DYEAR=1900
+DGENRE=
+TTITLE0=I Just Wanted to See You So Bad
+TTITLE1=Something about what happens when we talk
+TTITLE2=Sundays
+TTITLE3=Changed the Locks
+TTITLE4=Like A Rose
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

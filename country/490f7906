@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42375
+#	101625
+#	138818
+#	188708
+#	240653
+#
+# Disc length: 3963 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=490f7906
+DTITLE=ヘルベルト・フォン・カラヤン（ベルリン・フィル） - ドヴォルザーク：交響曲第９番〈新世界〉／シューベルト：交響曲第８番〈未完成〉
+DYEAR=1964
+DGENRE=Classic
+TTITLE0=ドヴォルザーク 交響曲第９番 ホ短調 作品95 〈新世界より〉 第１楽章 Adagio - Allegro molto
+TTITLE1=ドヴォルザーク 交響曲第９番 ホ短調 作品95 〈新世界より〉 第２楽章 Largo
+TTITLE2=ドヴォルザーク 交響曲第９番 ホ短調 作品95 〈新世界より〉 第３楽章 Molto vivace
+TTITLE3=ドヴォルザーク 交響曲第９番 ホ短調 作品95 〈新世界より〉 第４楽章 Allegro con fuoco
+TTITLE4=シューベルト 交響曲第８番 ロ短調 D759 〈未完成〉 第１楽章 Allegro moderato
+TTITLE5=シューベルト 交響曲第８番 ロ短調 D759 〈未完成〉 第２楽章 Andante con moto
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

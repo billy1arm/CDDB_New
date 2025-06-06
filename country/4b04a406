@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13310
+#	24980
+#	43500
+#	57285
+#	73080
+#
+# Disc length: 1190 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=4b04a406
+DTITLE=Various Artist - Country You Can Count On
+DYEAR=2000
+DGENRE=Country
+TTITLE0=She Don't Know She's Beautiful [Sammy Kershaw]
+TTITLE1=Sweet Dreams Of You [Patsy Cline]
+TTITLE2=Back At One [Mark Willis]
+TTITLE3=If My Heart Had Windows [Patty Loveless]
+TTITLE4=Should've Been A Cowboy [Toby Keith]
+TTITLE5=Now That I've Found Love [Terri Clark]
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

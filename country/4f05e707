@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19544
+#	39879
+#	55365
+#	72634
+#	86424
+#	100037
+#
+# Disc length: 1513 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=4f05e707
+DTITLE=Westwood - Cross that Line
+DYEAR=2003
+DGENRE=Country
+TTITLE0=Don't send me flowers
+TTITLE1=We just dance
+TTITLE2=The only one
+TTITLE3=Cross that line
+TTITLE4=Slow turnin'
+TTITLE5=Dance in the boat
+TTITLE6=Come with me
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

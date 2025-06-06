@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16494
+#	36527
+#	49292
+#	68801
+#
+# Disc length: 1122 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=44046005
+DTITLE=Rowland Stebbins - Hook, Line and Sinker EP
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Died and Went to Nashville
+TTITLE1=Get Me Some
+TTITLE2=No End in Sight
+TTITLE3=So Blue
+TTITLE4=Tennesee Way
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

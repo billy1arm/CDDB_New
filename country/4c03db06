@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13855
+#	24360
+#	37462
+#	50585
+#	62420
+#
+# Disc length: 989 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=4c03db06
+DTITLE=Various Artist - The Best Of Country Music
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Johnny Duncan/It Couldn't Have Been Any Better
+TTITLE1=Willie Nelson/Blue Eyes Crying In The Rain
+TTITLE2=Lynn Anderson/Rose Garden
+TTITLE3=Tanya Tucker/Delta Dawn
+TTITLE4=Johnny Paycheck/Take This Job And Shove It
+TTITLE5=Tammy Wynette/Stand By Your Man
+EXTD=YEAR: 1997 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18360
+#     35452
+#     52735
+#     68490
+#     88472
+# 
+# Disc length: 1364 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=42055206
+DTITLE=The Hangdogs - Same Old Story
+DYEAR=1900
+DGENRE=
+TTITLE0=Fools Rush In
+TTITLE1=Same Old Story
+TTITLE2=Don't Mind
+TTITLE3=The TV Too
+TTITLE4=Monopoly On The Blues
+TTITLE5=We Gon Rock
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

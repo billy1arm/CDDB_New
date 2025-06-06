@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14197
+#     29094
+#     43827
+#     62585
+# 
+# Disc length: 1020 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=4603fa05
+DTITLE=Rick Trevi o - Learning As You Go (Special CD)
+DYEAR=1900
+DGENRE=
+TTITLE0=Doctor Time
+TTITLE1=She Can't Say I Didn't Try
+TTITLE2=Bobbie Ann Mason
+TTITLE3=Looking for the Light
+TTITLE4=Se Escapan Mis Razones
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

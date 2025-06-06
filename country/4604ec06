@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17582
+#     31840
+#     49605
+#     65737
+#     80167
+# 
+# Disc length: 1262 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=4604ec06
+DTITLE=Various Artist - Annabelles Wish - Annabelles Wish - Advance Sampler
+DYEAR=1900
+DGENRE=
+TTITLE0=Friends Like Us (Randy Travis/Beth Neilson Chapman)
+TTITLE1=The World From Way Up Here (Alison Krauss)
+TTITLE2=Something Bigger Than me (Dolly Parton)
+TTITLE3=If You Believe (Kevin Sharp)
+TTITLE4=Tiny Dreamer (Music Box Theme) (Nanci Griffith)
+TTITLE5=Silent Night (Dolly Parton)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

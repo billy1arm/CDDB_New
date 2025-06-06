@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13712
+#	28957
+#	54332
+#	65932
+#	82607
+#
+# Disc length: 1307 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=46051906
+DTITLE=David Allan Coe - Headed for the Country
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Tennessee Whiskey
+TTITLE1=Now I Lay Me Down To Cheat
+TTITLE2=Desperados Wiating For A Train
+TTITLE3=Face to Face
+TTITLE4=Mona Lisa Lost Her Smile
+TTITLE5=Willie, Waylon and Me
+EXTD=YEAR: 1997 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

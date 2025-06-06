@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	151
+#	17152
+#	27830
+#	41098
+#	56655
+#	68107
+#
+# Disc length: 1182 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=4b049c06
+DTITLE=Charisse Pipes - Red Pickup Truck
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Friends
+TTITLE1=Red Pickup Truck
+TTITLE2=Country Girl
+TTITLE3=John the Revelator
+TTITLE4=It's A Little Too Late
+TTITLE5=He'll Be Holdin' His Own
+EXTD=YEAR: 1999 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

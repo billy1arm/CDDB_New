@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15680
+#	34380
+#	50012
+#	68757
+#
+# Disc length: 1140 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=40047205
+DTITLE=Dixie Flyer - Immer dann
+DYEAR=1993
+DGENRE=Country
+TTITLE0=Dixie Flyer
+TTITLE1=Good Whiskey
+TTITLE2=Immer dann
+TTITLE3=You and Me
+TTITLE4=Jack and Jill
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

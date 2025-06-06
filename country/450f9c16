@@ -1,0 +1,83 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	14338
+# 	26038
+# 	40125
+# 	52688
+# 	64425
+# 	78150
+# 	91425
+# 	104813
+# 	117063
+# 	128650
+# 	140085
+# 	159738
+# 	173063
+# 	183675
+# 	195763
+# 	208188
+# 	220650
+# 	239113
+# 	249663
+# 	266025
+# 	280863
+#
+# Disc length: 3998 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=450f9c16
+DTITLE=Various Artist - Country
+DYEAR=1900
+DGENRE=
+TTITLE0=Can the Circle Be Unbroken
+TTITLE1=Wabash Cannonball
+TTITLE2=I Wanna Be A Cowboy's Sweetheart
+TTITLE3=Back in the Saddle Again
+TTITLE4=New San Antonio Rose
+TTITLE5=Blue Moon of Kentucky
+TTITLE6=Country Boy
+TTITLE7=If You've Got the Money I've Got the Time
+TTITLE8=Release Me
+TTITLE9=Walkin' After Midnight
+TTITLE10=The Battle of New Orleans
+TTITLE11=El Paso
+TTITLE12='Tis Sweet to Be Remembered
+TTITLE13=Flowers on the Wall
+TTITLE14=Stand by Your Man
+TTITLE15=Folsom Prison Blues
+TTITLE16=Restless
+TTITLE17=Me and Bobby McGee
+TTITLE18=Blue Eyes Crying in the Rain
+TTITLE19=The Devil Went Down to Georgia
+TTITLE20=He Stopped Lovin' Her Today
+TTITLE21=Are the Good Times Really Over
+EXTD=
+EXTT0=Carter Family
+EXTT1=Acuff, Roy
+EXTT2=Patsy Montana
+EXTT3=Autry, Gene
+EXTT4=Willis, Bob
+EXTT5=Monroe, Bill
+EXTT6=
+EXTT7=Frizzell, Lefty
+EXTT8=Price, Ray
+EXTT9=Cline, Patsy
+EXTT10=Horton, Johnny
+EXTT11=Robbins, Marty
+EXTT12=Flatt, Lester and Scruggs, Earl
+EXTT13=Statler Brothers
+EXTT14=Wynette, Tammy
+EXTT15=Cash, Johnny
+EXTT16=Perkins, Carl
+EXTT17=Kristofferson, Kris
+EXTT18=Nelson, Willie
+EXTT19=Daniels, Charlie
+EXTT20=Jones, George
+EXTT21=Haggard, Merle
+PLAYORDER=

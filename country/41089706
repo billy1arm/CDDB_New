@@ -1,0 +1,34 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33806
+#	62904
+#	83349
+#	114329
+#	139823
+#
+# Disc length: 2201 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=41089706
+DTITLE=Timber Timbre - Live KCRW Session
+DYEAR=2010
+DGENRE=Folk
+TTITLE0=Trouble Comes Knocking (Live)
+TTITLE1=Magic Arrow (Live)
+TTITLE2=Demon Host (Live)
+TTITLE3=It's Only Dark (Live)
+TTITLE4=Until The Night Is Over (Live)
+TTITLE5=Lay Down In The Tall Grass (Live)
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=
