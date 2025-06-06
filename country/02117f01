@@ -1,0 +1,19 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#
+# Disc length: 4481 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=02117f01
+DTITLE=Various Artist - Country Music Hall Of Fame NO.2
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Take This Job And Shove It
+EXTD=TRACK_ID	TRACK_TITLE	TRACK_ARTIST	\n1	Introduction		\n2	Distracted (Hex Hector Dezrock Mix)	I5	egro Remix)	Raven Maize	\n7	When The Heartache Is Over (Metro Mix)	Tina Turner	\n8	Don't Stop M Mix)	Christina Aguilera	\n YEAR: 1999
+EXTT0=Johnny Paycheck	\n
+PLAYORDER=

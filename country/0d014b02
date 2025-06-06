@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     17767
+# 
+# Disc length: 333 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=0d014b02
+DTITLE=John Michael Montgomery - Friends
+DYEAR=1900
+DGENRE=
+TTITLE0=Friends
+TTITLE1=Various
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

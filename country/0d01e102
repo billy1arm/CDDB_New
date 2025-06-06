@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23159
+#
+# Disc length: 483 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=0d01e102
+DTITLE=ラグーンエンジンアインザッツ - original symphony
+DYEAR=1900
+DGENRE=Other
+TTITLE0=Main Theme
+TTITLE1=Prologue (maiden flight)
+EXTD=ID3G: 12
+EXTT0=
+EXTT1=
+PLAYORDER=

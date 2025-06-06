@@ -1,0 +1,72 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12725
+#	26525
+#	38062
+#	51200
+#	62685
+#	72915
+#	85125
+#	95572
+#	105825
+#	118392
+#	128965
+#	142197
+#	156060
+#	167012
+#	181085
+#	193275
+#	213515
+#
+# Disc length: 3030 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.30 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=030bd412
+DTITLE=Mixed Artists - Country and Western Classics volume four
+DYEAR=1900
+DGENRE=
+TTITLE0=Johnny Tillotson - I can't stop loving you
+TTITLE1=Patsy Cline - A church, a courtroom and then goodbye
+TTITLE2=Bobby Bare - Music city USA
+TTITLE3=Loretta Lynn - Let your love flow (live)
+TTITLE4=Nina Martin - Silver threads and golden needles
+TTITLE5=Waylon Jennings - White Lightning
+TTITLE6=Johnny Cash - I walk the line
+TTITLE7=Floyd Cramer - San Antonio rose
+TTITLE8=Billie Jo Spears - I'm gonna be a country girl again
+TTITLE9=Willie Nelson - Shelter of your arms
+TTITLE10=Waylon Jennings - Dream baby
+TTITLE11=Ray Peterson - Tell Laura I love her
+TTITLE12=B J Thomas - Raindrops keep falling on my head
+TTITLE13=Karl Denver - Love me with all of your heart
+TTITLE14=Kenny Rogers and The First Edition - Today I started lov
+TTITLE14=ing you again
+TTITLE15=Hank Williams - Your cheatin' heart
+TTITLE16=Gram Parsons and Emmylou Harris - Love hurts
+TTITLE17=Willie Nelson - Home is where you're happy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

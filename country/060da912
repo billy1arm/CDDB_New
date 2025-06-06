@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15919
+#	31472
+#	43372
+#	55769
+#	69690
+#	85063
+#	97210
+#	113398
+#	130341
+#	148896
+#	168328
+#	180250
+#	194441
+#	205277
+#	216916
+#	234170
+#	247455
+#
+# Disc length: 3499 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=060da912
+DTITLE=Kenny Rogers - Through The Years - Disc Two
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Through The Years
+TTITLE1=When I Fall In Love
+TTITLE2=Love Is A Many Splendoured Thing
+TTITLE3=Somewhere My Love
+TTITLE4=You Send Me
+TTITLE5=For The Good Times
+TTITLE6=It Had To Be You
+TTITLE7=Evergreen
+TTITLE8=Stardust
+TTITLE9=My Funny Valentine
+TTITLE10=I Only Have Eyes For You
+TTITLE11=Always
+TTITLE12=Sunshine
+TTITLE13=She Even Woke Me Up To Say Goodbye
+TTITLE14=Poem For A Little Lady
+TTITLE15=Something's Burning
+TTITLE16=Ruby, Don't Take Your Love To Town
+TTITLE17=Crazy
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

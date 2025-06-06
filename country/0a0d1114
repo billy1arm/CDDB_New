@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12473
+#	23190
+#	34404
+#	46617
+#	62347
+#	72058
+#	81286
+#	97580
+#	111762
+#	123054
+#	135456
+#	146405
+#	156954
+#	175518
+#	187981
+#	202425
+#	212836
+#	226449
+#	239591
+#
+# Disc length: 3347 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=0a0d1114
+DTITLE=Diverse - Country Love Songs CD 3
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Bobby Bare - Roses Are Red My Love1
+TTITLE1=Dave Dudley - You Don't Have To Be A Baby To Cry
+TTITLE2=Freddy Quinn - Some Broken Hearts Never Mend
+TTITLE3=Bobby Bare - Just The Other Side Of Nowhere
+TTITLE4=Jonny Hill - Lucille
+TTITLE5=Ferlin Husky - Gone
+TTITLE6=Buddy Meredith - Coming Back In Style
+TTITLE7=Bobby Bare - The Waitress At Mainstreet Cafe
+TTITLE8=Dave Dudley - Morning Sun
+TTITLE9=Bobby Bare - Love Forever
+TTITLE10=David Price - I Need A Friend
+TTITLE11=Buddy Meredith - Lonely In Person
+TTITLE12=Bobby Bare - Crazy Arms
+TTITLE13=Dave Dudley - He Doesn't Live There Anymore
+TTITLE14=Bobby Bare - When Love Is Gone
+TTITLE15=Freddy Quinn - Two Places At Once
+TTITLE16=Jonny Hill - Kinf Of The Road
+TTITLE17=Dave Dudley - Thirty Eight And Lonely
+TTITLE18=Bobby Bare - High And Dry
+TTITLE19=Dave Dudley - Blue Bedroom Eye
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11328
+#	25772
+#	37190
+#	50404
+#	62124
+#	73769
+#	84699
+#	100232
+#	111220
+#	123831
+#	135869
+#	148271
+#	158667
+#	172250
+#	184774
+#	194517
+#	209070
+#
+# Disc length: 2957 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=090b8b12
+DTITLE=TOR - Outlaw Country Vol. 2
+DYEAR=2003
+DGENRE=Country
+TTITLE0=Lovesick blues
+TTITLE1=Calling you
+TTITLE2=Nobody´s lonesome for me
+TTITLE3=I can´t help it (if i´m still in love with you)
+TTITLE4=Settin the woods on fire
+TTITLE5=Six more miles (To the graveyard)
+TTITLE6=Lost highway (Acoustic)
+TTITLE7=Move it on over
+TTITLE8=You win again
+TTITLE9=My bucket´s got a hole in it
+TTITLE10=Long gone lonesome blues
+TTITLE11=I saw the light
+TTITLE12=A mansion on the hill
+TTITLE13=Half as much
+TTITLE14=Wedding bells
+TTITLE15=I´ll never get out of this world alive
+TTITLE16=Ramblin man
+TTITLE17=Los highway
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

@@ -1,0 +1,24 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	18555
+#
+# Disc length: 348 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=0f015a02
+DTITLE=Matt King - A woman's tears
+DYEAR=1900
+DGENRE=
+TTITLE0=A woman's tears
+TTITLE1=Various Excerpts
+EXTD=
+EXTT0=
+EXTT1=Excerpts form the following:\nFive 0' clock hero\nDestiny\nBack to the
+EXTT1=river
+PLAYORDER=

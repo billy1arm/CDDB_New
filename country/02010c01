@@ -1,0 +1,20 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	151
+#
+# Disc length: 270 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=02010c01
+DTITLE=Insane Clown Posse - The Pendulum 05
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Toxic Love
+EXTD=ID3G:   2
+EXTT0=
+PLAYORDER=

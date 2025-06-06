@@ -1,0 +1,313 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	2105
+#	6348
+#	10495
+#	13028
+#	17888
+#	20158
+#	23385
+#	27275
+#	36583
+#	38318
+#	40753
+#	46565
+#	49473
+#	55438
+#	59270
+#	63880
+#	65475
+#	67275
+#	68753
+#	71655
+#	74653
+#	77948
+#	81705
+#	82928
+#	85120
+#	87485
+#	90798
+#	94340
+#	96340
+#	100013
+#	103263
+#	106703
+#	108698
+#	110615
+#	114110
+#	117385
+#	120670
+#	123685
+#	127203
+#	130663
+#	135443
+#	139003
+#	142805
+#	145935
+#	149668
+#	152143
+#	154970
+#	158303
+#	162735
+#	165978
+#	169928
+#	172983
+#	175975
+#	179083
+#	181430
+#	184435
+#	186163
+#	189653
+#	192793
+#	196260
+#	199065
+#	202363
+#	206045
+#	209503
+#	214598
+#	218420
+#	222608
+#	224893
+#	227815
+#	230508
+#	233738
+#	236788
+#	239253
+#	242593
+#	245863
+#	250155
+#	254520
+#	258480
+#	264873
+#	267633
+#	271643
+#	277098
+#	281665
+#	284238
+#	286683
+#	288663
+#	290725
+#	293498
+#	296645
+#	299783
+#	303403
+#	307558
+#	311628
+#	314760
+#	317498
+#	321025
+#	323588
+#	328663
+#
+# Disc length: 4440 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=08115663
+DTITLE=Jean-Claude Roché - Tous les oiseaux d'Europe vol. 3 - des Coucous aux Hypolaïs
+DYEAR=2007
+DGENRE=Sound Clip
+TTITLE0=Coucou-geai - Clamator glandarius
+TTITLE1=Coucou gris - Cuculus canorus
+TTITLE2=Chouette effraie - Tyto alba
+TTITLE3=Hibou petit-duc - Otus scops
+TTITLE4=Hibou grand-duc - Bubo bubo
+TTITLE5=Chouette épervière - Surnia ulula
+TTITLE6=Harfang des neiges - Nyctea scandiaca
+TTITLE7=Chouette chevêchette - Glaucidium passerinum
+TTITLE8=Chouette hulotte - Strix aluco
+TTITLE9=Chouette de l'Oural - Strix uralensis
+TTITLE10=Chouette lapone - Strix nebulosa
+TTITLE11=Hibou moyen-duc - Asio otus
+TTITLE12=Hibou des marais - Asio flammeus
+TTITLE13=Chouette chevêche - Athene noctua
+TTITLE14=Chouette de Tengmalm - Aegolius funereus
+TTITLE15=Engoulevent d'Europe - Caprimulgus europaeus
+TTITLE16=Engoulevent à collier roux - Caprimulgus ruficollis
+TTITLE17=Martinet noir - Apus apus
+TTITLE18=Martinet pâle - Apus pallidus
+TTITLE19=Martinet à ventre blanc - Apus melba
+TTITLE20=Guêpier d'Europe - Merops apiaster
+TTITLE21=Rollier d'Europe - Coracias garrulus
+TTITLE22=Huppe fasciée - Upupa epops
+TTITLE23=Martin-pêcheur - Alcedo atthis
+TTITLE24=Torcol fourmilier - Jynx torquilla
+TTITLE25=Pic cendré - Picus canus
+TTITLE26=Pic vert - Picus viridis
+TTITLE27=Pic noir - Dryocopus martius
+TTITLE28=Pic tridactyle - Picoides tridactylus
+TTITLE29=Pic épeiche - Picoides (Dendrocopos) major
+TTITLE30=Pic syriaque - Picoides (Dendrocopos) syriacus
+TTITLE31=Pic mar - Picoides (Dendrocopos) medius
+TTITLE32=Pic à dos blanc - Picoides (Dendrocopos) leucatos
+TTITLE33=Pic épeichette - Picoides (Dendrocopos) minor
+TTITLE34=Alouette calandre - Melanocorypha calandra
+TTITLE35=Alouette calandrelle - Calandrella brachydactyla
+TTITLE36=Alouette pispolette - Calandrella rufescens
+TTITLE37=Sirli de Dupont - Chersophilus duponti
+TTITLE38=Cochevis huppé - Galerida cristata
+TTITLE39=Cochevis de Thékla - Galerida theklae
+TTITLE40=Alouette lulu - Lullula arborea
+TTITLE41=Alouette des champs - Alauda arvensis
+TTITLE42=Alouette hausse-col - Eremophila alpestris
+TTITLE43=Hirondelle de rivage - Riparia riparia
+TTITLE44=Hirondelle de cheminée - Hirundo rustica
+TTITLE45=Hirondelle rousseline - Hirundo daurica
+TTITLE46=Hirondelle de rochers - Ptyonoprogne rupestris
+TTITLE47=Hirondelle de fenêtre - Delichon urbica
+TTITLE48=Pipit maritime et Pipit spioncelle - Anthus spinoletta (ssp petrosus et spinoletta)
+TTITLE49=Pipit des arbres - Anthus trivialis
+TTITLE50=Pipit des prés - Anthus pratensis
+TTITLE51=Pipit rousseline - Anthus campestris
+TTITLE52=Pipit à gorge rousse - Anthus cervinus
+TTITLE53=Bergeronnette printanière - Motacilla flava
+TTITLE54=Bergeronnette des ruisseaux - Motacilla cinerea
+TTITLE55=Bergeronnette grise - Motacilla alba
+TTITLE56=Jaseur boréal - Bombycilla garrulus
+TTITLE57=Cincle plongeur - Cinclus cinclus
+TTITLE58=Troglodyte - Troglodytes troglodytes
+TTITLE59=Accenteur mouchet - Prunella modularis
+TTITLE60=Acenteur alpin - Prunella collaris
+TTITLE61=Agrobate roux - Cercotrichas galactotes
+TTITLE62=Rougegorge familier - Erithacus rubecula
+TTITLE63=Rossignol progné - Luscinia luscinia
+TTITLE64=Rossignol philomèle - Luscinia megarhynchos
+TTITLE65=Gorgebleue - Luscinia svecica
+TTITLE66=Rougequeue noir - Phoenicurus ochruros
+TTITLE67=Rougequeue à front blanc - Phoenicurus phoenicurus
+TTITLE68=Traquet tarier - Saxicola rubetra
+TTITLE69=Traquet pâtre - Saxicola torquata
+TTITLE70=Traquet isabelle - Oenanthe isabellina
+TTITLE71=Traquet motteux - Oenanthe oenanthe
+TTITLE72=Traquet rieur - Oenanthe leucura
+TTITLE73=Traquet pie - Oenanthe pleschanka
+TTITLE74=Traquet oreillard - Oenanthe hispanica
+TTITLE75=Merle de roche - Mintocola saxatilis
+TTITLE76=Merle bleu - Monticola solitarius
+TTITLE77=Merle à plastron - Turdus torquatus
+TTITLE78=Merle noir - Turdus merula
+TTITLE79=Grive litorne - Turdus pilaris
+TTITLE80=Grive musienne - Turdus philomelos
+TTITLE81=Grive mauvis - Turdus iliacus
+TTITLE82=Grive draine - Turdus viscivorus
+TTITLE83=Bouscarle de Cetti - Cettia cetti
+TTITLE84=Cisticole des joncs - Cisticola juncidis
+TTITLE85=Locustelle tachetée - Locustella naevia
+TTITLE86=Locustelle fluviatile - Locustella fluviatilis
+TTITLE87=Locustelle luscinioïde - Locustella luscinioides
+TTITLE88=Lusciniole à moustaches - Acrocephalus melanopogon
+TTITLE89=Phragmite aquatique - Acrocephalus paludicola
+TTITLE90=Phragmite des joncs - Acrocephalus scoenobaenus
+TTITLE91=Rousserolle des buissons - Acrocephalus dumetorum
+TTITLE92=Rousserolle verderolle - Acrocephalus palustris
+TTITLE93=Rousserolle effarvatte - Acrocephalis scirpaceus
+TTITLE94=Rousserole turdoïde - Acrocephalus arundinaceus
+TTITLE95=Hypolaïs pâle - Hippolais pallida
+TTITLE96=Hypolaïs des oliviers - Hippolais olivetorum
+TTITLE97=Hypolaïs ictérine - Hippolais icterina
+TTITLE98=Hypolaïs polyglotte - Hippolais polyglotta
+EXTD=Français - Latin YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=

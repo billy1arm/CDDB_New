@@ -1,0 +1,22 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19225
+# Disc length: 426 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=0f01a802
+DTITLE=Bo Bice - Bo Bice
+DYEAR=1900
+DGENRE=
+TTITLE0=Inside Your Heaven
+TTITLE1=Vehicle
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

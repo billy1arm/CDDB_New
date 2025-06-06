@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14455
+#	27125
+#	44802
+#	62200
+#	76025
+#	94397
+#	111579
+#	138617
+#	155140
+#	166667
+#	185200
+#	201777
+#	224862
+#	243580
+#	272667
+#	288810
+#
+# Disc length: 4040 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=0a0fc611
+DTITLE=Tom Russell - The Long Way Around
+DYEAR=1997
+DGENRE=Country
+TTITLE0=St. Olav's Gate (featuring Nanci Griffith)
+TTITLE1=Outbound Plane (featuring Nanci Griffith)
+TTITLE2=Big Water (featuring Iris DeMent)
+TTITLE3=Beyond The Blues (featuring Jimmie Dale Gilmore)
+TTITLE4=Spanish Burgundy
+TTITLE5=U.S. Steel
+TTITLE6=Walkin' On The Moon (featuring Katy Moffatt)
+TTITLE7=The Angel Of Lyon (live)
+TTITLE8=Veteran's Day (live)
+TTITLE9=The Eyes Of Roberto Duran (live)
+TTITLE10=Blue Wing (live) (featuring Dave Alvin)
+TTITLE11=Haley's Comet (live) (featuring Dave Alvin and Katy Moffatt)
+TTITLE12=Manzanar (live) (featuring Katy Moffatt)
+TTITLE13=Mineral Wells (live) (featuring Katy Moffatt)
+TTITLE14=Gallo del Cielo (live) (featuring Katy Moffatt)
+TTITLE15=The Road To Bayamon (live) (featuring Katy Moffatt)
+TTITLE16=Box Of Visions (featuring Iris DeMent)
+EXTD=YEAR: 1997
+EXTT0=with Nanci Griffith
+EXTT1=with Nanci Griffith
+EXTT2=with Iris DeMent
+EXTT3=with Jimmie Dale Gilmore
+EXTT4=
+EXTT5=
+EXTT6=with Katy Moffatt
+EXTT7=live in St. Louis
+EXTT8=live
+EXTT9=live
+EXTT10=live with Dave Alvin
+EXTT11=live with Dave Alvin, Katy Moffatt
+EXTT12=live with Katy Moffatt
+EXTT13=live with Katy Moffatt
+EXTT14=live with Katy Moffatt
+EXTT15=live with Katy Moffatt
+EXTT16=duet with Iris DeMent
+PLAYORDER=

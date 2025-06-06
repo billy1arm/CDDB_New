@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	12139
+#	24027
+#
+# Disc length: 477 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0f01db03
+DTITLE=Kenny Chesney - Fall In Love
+DYEAR=1995
+DGENRE=Country
+TTITLE0=Intro
+TTITLE1=Song
+TTITLE2=End
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

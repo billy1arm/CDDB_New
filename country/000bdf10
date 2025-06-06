@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14737
+#	30381
+#	44243
+#	57113
+#	73701
+#	88175
+#	103132
+#	117198
+#	133205
+#	146953
+#	159275
+#	172100
+#	186240
+#	200521
+#	215170
+#
+# Disc length: 3041 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=000bdf10
+DTITLE=Dr. Hook - The Complete Collection (2 of 4)
+DYEAR=2000
+DGENRE=Country
+TTITLE0=A Little Bit More
+TTITLE1=The Radio
+TTITLE2=Levitate
+TTITLE3=What About You
+TTITLE4=More Like The Movies
+TTITLE5=If Not You
+TTITLE6=Jungle To The Zoo
+TTITLE7=A Couple More Years
+TTITLE8=I Need The High
+TTITLE9=Walk Right In
+TTITLE10=Makin' Love And Music
+TTITLE11=Let The Loose End Drag
+TTITLE12=I'm A Lamp
+TTITLE13=Sleeping Late
+TTITLE14=Lay Too Low Too Long
+TTITLE15=Sharing The Night Together
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21022
+#	37337
+#	55095
+#	74530
+#	91127
+#	114825
+#	134197
+#	147820
+#	169182
+#	186050
+#	204420
+#	227092
+#	240337
+#	252907
+#	273135
+#	289830
+#	304260
+#
+# Disc length: 4272 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0310ae12
+DTITLE=McDavid, Buddy and Zenith - Impressions
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Oregon Melody
+TTITLE1=The Boss
+TTITLE2=Fireland, See it Burn
+TTITLE3=Walkin' and Whistlin' Blues
+TTITLE4=Yukon Train (White Pass and Yukon Train)
+TTITLE5=Andalusia Night
+TTITLE6=Cheyenne Road
+TTITLE7=Andromeda
+TTITLE8=Girl From Usedom (Baltic Sea)
+TTITLE9=Moonlight Beach
+TTITLE10=No Sorrow Tomorrow
+TTITLE11=San Francisco Bay
+TTITLE12=Pretty Memories
+TTITLE13=Sundown on the Sea
+TTITLE14=Jet Lag Blues
+TTITLE15=Night Prowler
+TTITLE16=Longing for Manhattan
+TTITLE17=Yukon Train (Instrumental)
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

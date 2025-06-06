@@ -1,0 +1,20 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#
+# Disc length: 235 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=0200e901
+DTITLE=Chris O'Brien - Fly Our Flag High
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Fly Our Flag High
+EXTD=YEAR: 2001 ID3G:   2
+EXTT0=
+PLAYORDER=

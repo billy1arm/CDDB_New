@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16432
+#
+# Disc length: 427 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=0e01a902
+DTITLE=Gerda - Demo cd
+DYEAR=2006
+DGENRE=Country
+TTITLE0=Why not me
+TTITLE1=Right here right now
+EXTD=YEAR: 2006 ID3G: 2
+EXTT0=
+EXTT1=
+PLAYORDER=

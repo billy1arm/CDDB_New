@@ -1,0 +1,20 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#
+# Disc length: 2442 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=02098801
+DTITLE=Spirit of Meditation - Aboriginal - CD Three
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Aboriginal
+EXTD=ID3G:   2
+EXTT0=
+PLAYORDER=

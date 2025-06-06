@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32000
+#
+# Disc length: 713 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=0e02c702
+DTITLE=Garth Brooks - Promotional Disc (This is Garth Brooks)
+DYEAR=1992
+DGENRE=Country
+TTITLE0=Friends in Low Places (Original Live Version for Radio)
+TTITLE1=The Thunder Rolls (Original Live Version for Radio)
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+PLAYORDER=

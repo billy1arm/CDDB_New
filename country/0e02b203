@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16550
+#	30367
+#
+# Disc length: 692 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=0e02b203
+DTITLE=Alvin and The Chipmunks - Achy Breaky Heart (single)
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Achy Breaky Heart
+TTITLE1=Sleigh Ride
+TTITLE2=Stand By Your Man
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

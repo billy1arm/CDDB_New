@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15957
+#     34782
+#     52330
+#     63557
+#     79577
+#     96552
+#     114582
+#     132977
+#     150492
+#     167907
+#     183560
+#     196597
+#     212482
+#     232320
+#     247217
+#     266567
+#     285680
+# 
+# Disc length: 3971 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=080f8112
+DTITLE=Various Artist - Country For Life
+DYEAR=1900
+DGENRE=
+TTITLE0=My Maria
+TTITLE1=I Am That Man
+TTITLE2=I'll Try
+TTITLE3=Tall, Tall Trees
+TTITLE4=Phones Are Ringin' All Over Town
+TTITLE5=Wild Angels
+TTITLE6=It's Lonley I Can't Stand
+TTITLE7=This Crazy Heart Of Mine
+TTITLE8=Little Drops Of My Heart
+TTITLE9=Walkin' Away
+TTITLE10=Ten Thousand Angels
+TTITLE11=No News
+TTITLE12=Runnin' away With My Heart
+TTITLE13=The Riiver And The Highway
+TTITLE14=Almost A Memory Now
+TTITLE15=I'm Not Strong Enough To Say No
+TTITLE16=Heart's Desire
+TTITLE17=Nowhere Road
+EXTD=
+EXTT0=Brooks and Dunn\n
+EXTT1=Brooks and Dunn\n
+EXTT2=Alan Jackson\n
+EXTT3=Alan Jackson\n
+EXTT4=Martina McBride\n
+EXTT5=Martina McBride\n
+EXTT6=Charlie Major\n
+EXTT7=Charlie Major\n
+EXTT8=Keith Gattis\n
+EXTT9=Diamond Rio\n
+EXTT10=Mindy McCready\n
+EXTT11=Lonestar\n
+EXTT12=Lonestar\n
+EXTT13=Pam Tillis\n
+EXTT14=Blackhawk\n
+EXTT15=Blackhawk\n
+EXTT16=Lee Roy Parnell\n
+EXTT17=Willie Nelson and Waylon Jennings\n
+PLAYORDER=

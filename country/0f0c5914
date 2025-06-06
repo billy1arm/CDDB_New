@@ -1,0 +1,77 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12642
+#	25535
+#	34590
+#	45697
+#	57457
+#	74450
+#	91052
+#	100402
+#	113380
+#	121262
+#	131252
+#	144247
+#	158077
+#	168695
+#	180302
+#	191550
+#	199907
+#	211952
+#	222775
+#
+# Disc length: 3163 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.30 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=0f0c5914
+DTITLE=Various Artist - Super Party Country and Western CD1
+DYEAR=1900
+DGENRE=
+TTITLE0=The magnificent Seven
+TTITLE1=Ruby, Dont Take your love to Town
+TTITLE2=The Race is On
+TTITLE3=How many tears will it take
+TTITLE4=Look what they have done to my song
+TTITLE5=Billy Jack Washburn
+TTITLE6=I let my mind wonder
+TTITLE7=From a Jack to a King
+TTITLE8=Sleep comes easy
+TTITLE9=Dear Heart
+TTITLE10=Hello Walls
+TTITLE11=The Good, The Bad and The Ugly
+TTITLE12=A good year for the roses
+TTITLE13=Wishful Thinking
+TTITLE14=Is there something on your mind
+TTITLE15=Me and Bobby McGee
+TTITLE16=Blue is the Way I Feel
+TTITLE17=Ol' Blue
+TTITLE18=Go Away
+TTITLE19=Once upon a Time in the West
+EXTD=
+EXTT0=Nashville Country
+EXTT1=Kenny Rogers
+EXTT2=George Jones
+EXTT3=B.J.Thomas
+EXTT4=Billy Jo Spears\n
+EXTT5=Johny Paychecks
+EXTT6=Wllie Nelson
+EXTT7=Ned Miller
+EXTT8=Kenny Rogers
+EXTT9=Roger Miller\n
+EXTT10=Faron Young
+EXTT11=Nashville Country
+EXTT12=George Jones
+EXTT13=Donna Fargo
+EXTT14=Willie Nelson
+EXTT15=Kenny Rogers
+EXTT16=Conway Twitty
+EXTT17=Stonewall Jackson
+EXTT18=Willie Nelson
+EXTT19=Nashville Country\n
+PLAYORDER=

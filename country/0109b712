@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 2002 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     12498
+#     21680
+#     31233
+#     41483
+#     51780
+#     61610
+#     72260
+#     84508
+#     94525
+#     107103
+#     117873
+#     128050
+#     139445
+#     149530
+#     158845
+#     170925
+#     178663
+# 
+# Disc length: 2489 seconds
+# 
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=0109b712
+DTITLE=Johnny Cash - The Best Of
+DYEAR=1900
+DGENRE=
+TTITLE0=I Walk The Line
+TTITLE1=Blues Train
+TTITLE2=Down The Street To 301
+TTITLE3=Goodbye Little Darlin'
+TTITLE4=The Ways Of A Woman In Love
+TTITLE5=Rock Island Line
+TTITLE6=Train Of Love
+TTITLE7=Folsom Prison Blues
+TTITLE8=Hey Porter
+TTITLE9=Give My Love To Rose
+TTITLE10=Cry Cry Cry
+TTITLE11=I Could Never Be Ashamed Of You
+TTITLE12=Big River
+TTITLE13=Get Rhythm
+TTITLE14=Luther's Boogie
+TTITLE15=You Are The Nearest Thing To Heaven
+TTITLE16=Hey Goodlookin'
+TTITLE17=Sugar Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

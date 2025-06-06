@@ -1,0 +1,71 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	11680
+#	24682
+#	32997
+#	46337
+#	61290
+#	74770
+#	85290
+#	96322
+#	110552
+#	122172
+#	134327
+#	148497
+#	160800
+#	170697
+#	181827
+#	195484
+#	212265
+#
+# Disc length: 2999
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+# Normalized: r2:DSETVAR1,TDELIM( - ),TSWAP
+#
+DISCID=0c0bb512
+DTITLE=Various Artist - Classic Country [CD1 - Four in the morning)
+DYEAR=1996
+DGENRE=Country
+TTITLE0=Kitty Wells - It Wasn't God Who Made Honky Tonk Angels
+TTITLE1=Kenny Rogers - Ruby, Don't Take Your Love To Town
+TTITLE2=Billie Jo Spears - Baby On My Mind
+TTITLE3=Lynn Anderson - Rose Garden
+TTITLE4=Jeanie C. Riley - Harper Valley PTA
+TTITLE5=Willie Nelson - No Tomorrow In Sight
+TTITLE6=Jerry Lee Lewis and Linda Gail Lewis - Jackson
+TTITLE7=Conway Twitty - Big Town
+TTITLE8=Bob Luman - Lonely Women Make Good Lovers
+TTITLE9=Bobby Bare - Music City USA
+TTITLE10=Hank Thompson - The Wild Side Of Life
+TTITLE11=Glen Campbell - Rhinestone Cowboy
+TTITLE12=Porter Wagoner - Satisfied Mind
+TTITLE13=Johnny Cash - Rock Island Line
+TTITLE14=Roger Miller - King Of The Road
+TTITLE15=Jimmy Dean - Big Bad John
+TTITLE16=Boxcar Willie - Take Me Home
+TTITLE17=Faron Young - It's Four In The Morning
+EXTD=YEAR: 1996
+EXTT0=Kitty Wells
+EXTT1=Kenny Rogers
+EXTT2=Billie Jo Spears\n
+EXTT3=Lynn Anderson\n
+EXTT4=Jeanie C. Riley\n
+EXTT5=Willie Nelson\n
+EXTT6=Jerry Lee Lewis and Linda Gail Lewis\n
+EXTT7=Conway Twitty\n
+EXTT8=Bob Luman\n
+EXTT9=Bobby Bare\n
+EXTT10=Hank Thompson\n
+EXTT11=Glen Campbell\n
+EXTT12=Porter Wagonner\n
+EXTT13=Johnny Cash\n
+EXTT14=Roger Miller\n
+EXTT15=Jimmy Dean\n
+EXTT16=Boxcar Willie\n
+EXTT17=Faron Young\n
+PLAYORDER=

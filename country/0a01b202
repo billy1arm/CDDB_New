@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	18857
+#
+# Disc length: 436 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=0a01b202
+DTITLE=alabama - angels among us
+DYEAR=1900
+DGENRE=
+TTITLE0=angels among us
+TTITLE1=tennessee river
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

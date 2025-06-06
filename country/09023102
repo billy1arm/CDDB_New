@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	18770
+#
+# Disc length: 563 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=09023102
+DTITLE=Iris DeMent - Wasteland of the Free
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Wasteland of the Free (edit)
+TTITLE1=Wasteland of the Free (album version)
+EXTD=\nURL: http://www.he.net/~jarmode/DeMent.html "Iris DeMent"
+EXTT0=
+EXTT1=
+PLAYORDER=

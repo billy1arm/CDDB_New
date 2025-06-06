@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17720
+#
+# Disc length: 420 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=0d01a202
+DTITLE=Mystic - Ritmo de la noche
+DYEAR=1990
+DGENRE=Pop
+TTITLE0=Ritmo de la noche (Radio Mix)
+TTITLE1=Ritmo de la noche (Club Edit)
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+PLAYORDER=

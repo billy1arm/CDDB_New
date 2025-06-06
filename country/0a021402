@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16815
+#
+# Disc length: 534 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=0a021402
+DTITLE=John Berry - She's Taken A Shine (Single)
+DYEAR=1900
+DGENRE=
+TTITLE0=She's Taken A Shine
+TTITLE1=Time To Be A Man
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

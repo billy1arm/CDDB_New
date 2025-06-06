@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16202
+#
+# Disc length: 415 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=0b019d02
+DTITLE=Josh Arnold - The Make-A-Wish Christmas CD
+DYEAR=1900
+DGENRE=Country
+TTITLE0=One Moment
+TTITLE1=The Flavour
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+PLAYORDER=

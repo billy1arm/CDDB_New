@@ -1,0 +1,22 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	23015
+#
+# Disc length: 594 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: dBpowerAMP V4.0
+#
+DISCID=0b025002
+DTITLE=RickieLeeJones,Chicago,IL - GeffenPromoEP4113
+DYEAR=1989
+DGENRE=Country
+TTITLE0=FlyingCowboys[LPVersion](1989,RickieLeeJones,Chicago,IL)
+TTITLE1=Horses,The[LPVersion](1989,RickieLeeJones,Chicago,IL)
+EXTD=corrected\nmore info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Composer;Date,Artist,Location,State,Country)
+EXTT0=
+EXTT1=
+PLAYORDER=

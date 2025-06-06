@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	15260
+#	31627
+#
+# Disc length: 638 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=0e027c03
+DTITLE=Twain, Shania - You're Still The One
+DYEAR=1997
+DGENRE=Crossover
+TTITLE0=radio edit
+TTITLE1=radio edit with intro
+TTITLE2=lp version
+EXTD=YEAR: 1997
+EXTT0=radio edit\n
+EXTT1=radio edit w/intro\n
+EXTT2=lp version\n
+PLAYORDER=

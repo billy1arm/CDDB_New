@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15819
+#
+# Disc length: 425 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=0501a702
+DTITLE=Mis-Teeq - One Night Stand
+DYEAR=2001
+DGENRE=Pop
+TTITLE0=StarGate (Radio Edit)
+TTITLE1=Sunship (Radio Edit)
+EXTD=YEAR: 2001
+EXTT0=radio edit without intro\n
+EXTT1=radio edit with intro
+PLAYORDER=

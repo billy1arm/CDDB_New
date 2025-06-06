@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12407
+#	24048
+#	37253
+#	48720
+#	65770
+#	80318
+#	90312
+#	104335
+#	118150
+#	128298
+#	137899
+#	151875
+#	166375
+#	179124
+#	196512
+#	210568
+#	229977
+#	242655
+#	251011
+#
+# Disc length: 3603 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=0d0e1114
+DTITLE=Various Artist - Country Greats Vol 2
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Johnny Paycheck - Take This Job And Shove It
+TTITLE1=Ned Miller - Do What You Do Do Well
+TTITLE2=Lynn Anderson - Rose Garden
+TTITLE3=Sammi Smith - Help Me make It through The Night
+TTITLE4=Ray Price - For The Good Times
+TTITLE5=Loretta Lynn - Coal Miner`s Daughter
+TTITLE6=Margaret Whitting and Jimmy Wakely - Slipping Around
+TTITLE7=Don Fardon - Indian Reservation
+TTITLE8=Frankie Laine - Cool Water
+TTITLE9=Porter Wagoner - The Green Green Grass Of Home
+TTITLE10=Sandy Posey - Born A Woman
+TTITLE11=Matt Flinders - By The Time I Get To Phoenix
+TTITLE12=Johnny Darrell - With Pen In Hand
+TTITLE13=Kitty Wells - Making Believe
+TTITLE14=Lee Conway - The Door Is Always Open
+TTITLE15=Lynn Anderson - Cry
+TTITLE16=The Bushwackers - Rain Tumbles Down In July
+TTITLE17=Roy Drusky - Three Hearts in A Tangle
+TTITLE18=Willie Nelson - Slow Down Old World
+TTITLE19=Bill and Boyd - Santa Never Made It Into Darwin
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18270
+#
+# Disc length: 404 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: QuintessentialCD v1.0 (c) 1998 Paul Quinn
+#
+DISCID=0b019202
+DTITLE=Mindy McCready - Maybe He'll Notice Her Now/A Girl's Gotta Do
+DYEAR=1900
+DGENRE=
+TTITLE0=May Be He'll Notice Her Now
+TTITLE1=A Girl's Gotta Do
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

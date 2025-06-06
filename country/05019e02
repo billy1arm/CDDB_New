@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15107
+# 
+# Disc length: 416 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=05019e02
+DTITLE=Shania Twain - You're Still The One
+DYEAR=1900
+DGENRE=
+TTITLE0=You're Still The One
+TTITLE1=You're Still The One
+EXTD=
+EXTT0=radio edit without intro\n
+EXTT1=radio edit with intro
+PLAYORDER=

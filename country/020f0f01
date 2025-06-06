@@ -1,0 +1,19 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#
+# Disc length: 3857 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=020f0f01
+DTITLE=Martin Benrath spricht Thomas Mann - Fülle des Wohllauts
+DYEAR=1987
+DGENRE=Speech
+TTITLE0=Data
+EXTD=YEAR: 1987
+EXTT0=
+PLAYORDER=

@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23338
+#	43209
+#	57687
+#	75467
+#	90184
+#	106009
+#	118933
+#	131474
+#	139364
+#	162152
+#	175829
+#	196211
+#	211166
+#	223188
+#	243828
+#	259663
+#	273986
+#	294695
+#
+# Disc length: 4256 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=0d109e13
+DTITLE=Various Artist - The Furious Swampriders Ride Again
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Victor Krummenacher - The Expanse
+TTITLE1=Joe Pernice - Bum Leg
+TTITLE2=Harvester - Weather
+TTITLE3=Nadine - Out On A Limb
+TTITLE4=Wagon - Keeping Guard
+TTITLE5=The Handsome Family - In The Air
+TTITLE6=Hermann LammersMeyer+Willie Nelson - The Part Where I Cry
+TTITLE7=Peter Caulton - Who Drove The Mystery Train
+TTITLE8=Robert Mitchum - Whta Is This Thing Called Love
+TTITLE9=Iain Matthews - I Don't Wanna Talk About It
+TTITLE10=Barbara Gosza - Pilots Song
+TTITLE11=Greg Lisher - Reflection
+TTITLE12=Horsepower - Praying Arm Lane
+TTITLE13=The Perc - Cuppa Mocha
+TTITLE14=The Pachinko Fake - Sugarless Candy
+TTITLE15=Rich Hopkins and Luminarios - Poker Face
+TTITLE16=Brute+Vic Chesnutt - Let's Go Down To Business
+TTITLE17=Ramsey Midwood - Esther
+TTITLE18=Steven Earle and The Del McCoury Band - Pilgrim
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=
