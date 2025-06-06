@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20455
+#	32710
+#	38065
+#	56625
+#	87208
+#	121285
+#	144795
+#	166430
+#	188875
+#	224665
+#	268610
+#
+# Disc length: 4235 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a510890c
+DTITLE=Jimi Hendrix - Broadcasts
+DYEAR=1968
+DGENRE=Blues
+TTITLE0=Voodoo Chile
+TTITLE1=Hey Joe
+TTITLE2=Sunshine Of Your Love
+TTITLE3=Purple Haze
+TTITLE4=Wild Thing
+TTITLE5=Like A Rolling Stone
+TTITLE6=Hoochie Koochie Man
+TTITLE7=Hey Joe
+TTITLE8=Foxy Lady
+TTITLE9=Red House
+TTITLE10=Hear My Train Comming
+TTITLE11=Red House
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

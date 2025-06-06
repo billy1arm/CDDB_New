@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	180
+# 	38495
+# 	61868
+# 	80956
+# 	106437
+# 	126459
+# 	190868
+# 	227170
+# 	238145
+# 	261612
+# 	295319
+#
+# Disc length: 4362 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: freedbtool 1.11
+#
+DISCID=a711080b
+DTITLE=Stevie Ray Vaughan - Stevie Played A Little Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Ain't Gone 'N" Give Up On Love
+TTITLE1=Pride And Joy
+TTITLE2=Mary Had A Little Lamb
+TTITLE3=Cold Shot
+TTITLE4=Don't Stop By The Creek, Son
+TTITLE5=Tin Pan Alley
+TTITLE6=Look At Little Sister
+TTITLE7=Testify
+TTITLE8=Say What!
+TTITLE9=Voodoo Chile (Slight Return)
+TTITLE10=Come On
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

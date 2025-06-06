@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22067
+#	41012
+#	62472
+#	79425
+#	97305
+#	112854
+#	128965
+#	146547
+#	162957
+#	178027
+#	201457
+#
+# Disc length: 2936 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=ae0b760c
+DTITLE=Sisai - Music of the Andes
+DYEAR=1900
+DGENRE=
+TTITLE0=Despedida
+TTITLE1=Alpamayo
+TTITLE2=Condor Pas
+TTITLE3=Amor Mio
+TTITLE4=Llakilla
+TTITLE5=Santo Santo
+TTITLE6=La Banda
+TTITLE7=Encuentros
+TTITLE8=Juanito
+TTITLE9=Florecer
+TTITLE10=Huagra
+TTITLE11=Llorando Se Fue (Lambada)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

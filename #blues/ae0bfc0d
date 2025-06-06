@@ -1,0 +1,55 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18177
+#	37877
+#	55773
+#	73598
+#	94147
+#	112143
+#	134043
+#	152918
+#	168882
+#	186701
+#	208545
+#	225148
+# Disc length: 3070 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=ae0bfc0d
+DTITLE=Vaness Carlton - Be not nobody
+DYEAR=1900
+DGENRE=
+TTITLE0=Ordinary Day
+TTITLE1=Unsung
+TTITLE2=A Thousand Miles
+TTITLE3=Pretty Baby
+TTITLE4=Rinse
+TTITLE5=Sway
+TTITLE6=Paradise
+TTITLE7=Prince
+TTITLE8=Paint It Black
+TTITLE9=Wanted
+TTITLE10=Twilight
+TTITLE11=Sway
+TTITLE12=Sway
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

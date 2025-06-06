@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13325
+#	29307
+#	47422
+#	61416
+#	73843
+#	96015
+#	111454
+#	131492
+#	154819
+#	172645
+#	188686
+#	211767
+#
+# Disc length: 3105 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.90
+#
+DISCID=aa0c1f0d
+DTITLE=Pete Gavin - Berlin Swamp Music
+DYEAR=2018
+DGENRE=Blues
+TTITLE0=Welcome
+TTITLE1=Going Down (Nix)
+TTITLE2=Stop The Rain
+TTITLE3=The News Moves On
+TTITLE4=Nine Below Zero (Williamson)
+TTITLE5=Pater Noster Boogie
+TTITLE6=About Love
+TTITLE7=Further On Up The Road (Robey, Veasey)
+TTITLE8=Real Life
+TTITLE9=It's Allright - Relatively Speaking
+TTITLE10=Where Are You?
+TTITLE11=Hound Dog Dream Oz
+TTITLE12=Berlin Swamp Music
+EXTD=YEAR: 2018
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

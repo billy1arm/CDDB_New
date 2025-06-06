@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22013
+#	41686
+#	57000
+#	71321
+#	83263
+#	98075
+#	111190
+#	124260
+#	140084
+#	151208
+#	160011
+#	175184
+#	186154
+#
+# Disc length: 2658 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ae0a600e
+DTITLE=GYPSY TRIO - ESPRIT MANOUCHE
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Artillerie Lourde (Django Reinhardt)
+TTITLE1=Mire Pral (Madino Reinhardt-Tchavolo Schmitt)
+TTITLE2=If I Had You (Shapiro)
+TTITLE3=Menilmontant (Charles Trenet)
+TTITLE4=La Foule (Angel Cabral-Michel Rivegauche)
+TTITLE5=Dance Norvegienne (Eduard Grieg-arr. Django Reinhardt)
+TTITLE6=Echoes of Spain (Django Reinhardt)
+TTITLE7=Lulu Swing (Lulu Reinhardt)
+TTITLE8=Place du Tertre (Bireli Lagrene)
+TTITLE9=Les Deux Guitares (Traditional)
+TTITLE10=Double Jeux (Romane-Stochelo Rosenberg)
+TTITLE11=Belleville (Django Reinhardt)
+TTITLE12=Passion (Tony Murena)
+TTITLE13=Swing for Ninine (Romane)
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

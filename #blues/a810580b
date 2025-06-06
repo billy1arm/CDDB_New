@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35180
+#	54633
+#	87503
+#	115990
+#	143985
+#	177073
+#	210230
+#	231655
+#	256313
+#	282490
+#
+# Disc length: 4186 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a810580b
+DTITLE=John Scofield and Pat Metheny - I Can See Your House From Here
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=01-I.Can.See.Your.House.From.Here
+TTITLE1=02-The.Red.One
+TTITLE2=03-No.Matter.What
+TTITLE3=04-Everybody´s.Party
+TTITLE4=05-Massage.To.My.Friend
+TTITLE5=06-No.Way.Jose
+TTITLE6=07-Say.The.Brother´s.Name
+TTITLE7=08-S.C.O.
+TTITLE8=09-Quit.Rising
+TTITLE9=10-One.Way.To.Be
+TTITLE10=11-You.Speak.My.Language
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

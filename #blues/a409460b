@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	12963
+#	34763
+#	55350
+#	72385
+#	88520
+#	99815
+#	110895
+#	131188
+#	148198
+#	164973
+#
+# Disc length: 2376 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a409460b
+DTITLE=Freddie King - Woman Across The River
+DYEAR=1973
+DGENRE=Blues
+TTITLE0=Woman Across The River
+TTITLE1=I'm Your Hoochie Coochie Man
+TTITLE2=The Danger Zone
+TTITLE3=Boogie Man
+TTITLE4=Leave My Woman Alone
+TTITLE5=Just A Little Bit
+TTITLE6=Look On Yonder Wall
+TTITLE7=Help Me Through The Day
+TTITLE8=I'm Ready
+TTITLE9=Trouble In Mind
+TTITLE10=You Don't Have To Go
+EXTD=YEAR: 1973 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

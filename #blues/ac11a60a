@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35498
+#	74219
+#	101999
+#	143694
+#	188586
+#	225732
+#	261618
+#	298032
+#	299730
+#
+# Disc length: 4520 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ac11a60a
+DTITLE=Dexter Gordon - The Complete Trio and Quartet Studio Recordings Disc 5
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Freddie Freeloader - Take 3
+TTITLE1=Freddie Freeloader - Take 4
+TTITLE2=When Sunny Gets Blue
+TTITLE3=Invitation
+TTITLE4=Winther's Calling
+TTITLE5=Yesterday's Mood - Take 1
+TTITLE6=Yesterday's Mood - Take 3
+TTITLE7=Yesterday's Mood - Take 4
+TTITLE8=Spoken Introduction
+TTITLE9=Polkadots And Moonbeams
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

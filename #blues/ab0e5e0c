@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	23153
+#	41070
+#	67440
+#	85443
+#	118613
+#	137038
+#	157738
+#	182958
+#	204728
+#	230308
+#	250250
+#
+# Disc length: 3680 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=ab0e5e0c
+DTITLE=The Jim Cullum Jazz Band - Super Satch
+DYEAR=1900
+DGENRE=
+TTITLE0=Potato Head Blues
+TTITLE1=Yes! I'm In The Barrell
+TTITLE2=Fireworks
+TTITLE3=Hustlin' And Bustlin' For Baby
+TTITLE4=S.O.L. Blues
+TTITLE5=Beau Koo Jack
+TTITLE6=He's A Son Of The South
+TTITLE7=West End Blues
+TTITLE8=Chicago Breakdown
+TTITLE9=Weather Bird Rag
+TTITLE10=Tight Like This
+TTITLE11=Put Em' Down Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	200
+#	11512
+#	25805
+#	36905
+#	50575
+#	62842
+#	87812
+#	98185
+#	109890
+#	122957
+#	134170
+#	146395
+#
+# Disc length: 2162 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a908700c
+DTITLE=Flamingos - Requestfully Yours
+DYEAR=1900
+DGENRE=
+TTITLE0=In The Still Of The Night
+TTITLE1=Beside You
+TTITLE2=Never In This world
+TTITLE3=When I Fall In Love
+TTITLE4=You, Me And The Sea
+TTITLE5=Everybody's Got A Home (But Me)
+TTITLE6=Nobody Loves Me Like You
+TTITLE7=Tenderly
+TTITLE8=I Was such A fool (To Fall In Love With You)
+TTITLE9=Every Time I Think Of You
+TTITLE10=At Night
+TTITLE11=You'll Never Walk Alone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22103
+#	35530
+#	50851
+#	67526
+#	86090
+#	103394
+#	116298
+#	134903
+#	152156
+#	167379
+#	187463
+#
+# Disc length: 2751 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ad0abd0c
+DTITLE=Amr Diab - Wayah
+DYEAR=2009
+DGENRE=Arabic
+TTITLE0=01. Wayah
+TTITLE1=02. Ba'adem Alby
+TTITLE2=03. Illa Habibi
+TTITLE3=04. Allah Ala Hobak
+TTITLE4=05. Yehemak Fe Eh
+TTITLE5=06. Helwa El Ayami
+TTITLE6=07. Tameny
+TTITLE7=08. Malak
+TTITLE8=09. Wehyati Khaliki
+TTITLE9=10. Einy Wana Shayfo
+TTITLE10=11. Ah Min El Foraa
+TTITLE11=12. Ba'et Leh
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11458
+#	36673
+#	58130
+#	80314
+#	93649
+#	114736
+#	136504
+#	152067
+#	172025
+#	182944
+#	212307
+#	232079
+#
+# Disc length: 3262 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ae0cbc0d
+DTITLE=tingvall Trio - Vattensaga
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Vag In
+TTITLE1=Vattensaga
+TTITLE2=Valsang
+TTITLE3=Suite Kuhla
+TTITLE4=Tveklöst
+TTITLE5=Hajskraj
+TTITLE6=Rödbla
+TTITLE7=Under Ytan
+TTITLE8=Pinocchio
+TTITLE9=Makuschla
+TTITLE10=Vagor
+TTITLE11=Flaskpost
+TTITLE12=Vag Ut
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15007
+#	37132
+#	56950
+#	85817
+#	104000
+#	127155
+#	145612
+#	156907
+#	180450
+#	196925
+#	215175
+#
+# Disc length: 3022 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=ac0bcc0c
+DTITLE=Paul DeLay - DeLay Does Chicago
+DYEAR=2001
+DGENRE=Blues
+TTITLE0=Beautiful Bones
+TTITLE1=Brave Woman
+TTITLE2=All Cried Out
+TTITLE3=Leave Me Alone
+TTITLE4=Come On Home
+TTITLE5=El Train
+TTITLE6=Wait
+TTITLE7=Ain't Foolin' Round
+TTITLE8=What's Coming Next
+TTITLE9=Only Me
+TTITLE10=Graet Big Kid
+TTITLE11=Oak Street Beach
+EXTD=YEAR: 2001 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

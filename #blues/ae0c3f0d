@@ -1,0 +1,55 @@
+# xmcd
+# 
+# Track frame offsets:
+#     187
+#     2532
+#     26667
+#     49105
+#     72125
+#     94607
+#     114477
+#     118137
+#     135415
+#     154120
+#     174540
+#     197557
+#     224067
+# 
+# Disc length: 3137
+# 
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: BonkEnc v1.0.15
+# 
+DISCID=ae0c3f0d
+DTITLE=Audrey Wheeler - I'm yours tonight
+DYEAR=1991
+DGENRE=R&B
+TTITLE0=If you need someone (prelude)
+TTITLE1=If you need someone
+TTITLE2=Try a little harder
+TTITLE3=I'm yours tonight (f. Najee)
+TTITLE4=All about me
+TTITLE5=Let's talk it back
+TTITLE6=Somewhere in time
+TTITLE7=As time goes by
+TTITLE8=Speechless
+TTITLE9=All by myself
+TTITLE10=It's you
+TTITLE11=Can you stop the rain
+TTITLE12=If you need someone (reprise)
+EXTD=more info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Composer;Date,Artist,Location,State,Country)
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

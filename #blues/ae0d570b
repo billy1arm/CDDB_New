@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12692
+#	39727
+#	53992
+#	72875
+#	103387
+#	127632
+#	164822
+#	193492
+#	213667
+#	238677
+#
+# Disc length: 3417 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=ae0d570b
+DTITLE=Patricia Kaas - Rendez-Vous (Disque 2/2)
+DYEAR=1998
+DGENRE=Blues
+TTITLE0=Gentleman Cambrioleur
+TTITLE1=Fais-moi l'amitié
+TTITLE2=Regarde les riches
+TTITLE3=Kennedy Rose
+TTITLE4=Ceux qui n'ont rien
+TTITLE5=Mademoiselle chante le blues
+TTITLE6=Les lignes de nos mains
+TTITLE7=Dans ma chair
+TTITLE8=Je voudrais la connaître
+TTITLE9=L'aigle noir
+TTITLE10=Chanson simple
+EXTD=YEAR: 1998 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

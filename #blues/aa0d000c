@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	23998
+# 	42617
+# 	68075
+# 	85730
+# 	108592
+# 	126894
+# 	142003
+# 	160186
+# 	190190
+# 	209441
+# 	228339
+#
+# Disc length: 3330 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=aa0d000c
+DTITLE=Incognito - Bittersweet
+DYEAR=1900
+DGENRE=
+TTITLE0=Pull That Love
+TTITLE1=Honey Bee
+TTITLE2=Si Senorita
+TTITLE3=Cotton To Chicago
+TTITLE4=Time To Heal
+TTITLE5=Funky Thing
+TTITLE6=Love Will Shine
+TTITLE7=Bittersweet
+TTITLE8=Where Are You
+TTITLE9=Baby That's The Way Love Goes
+TTITLE10=Snowblind
+TTITLE11=Boogie Man's Brew
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

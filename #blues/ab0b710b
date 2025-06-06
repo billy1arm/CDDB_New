@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16065
+#	33502
+#	41212
+#	82085
+#	104650
+#	119922
+#	147962
+#	171422
+#	191812
+#	209407
+#
+# Disc length: 2931 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ab0b710b
+DTITLE=diverse - rituals of transformation cd 2
+DYEAR=1996
+DGENRE=New Age
+TTITLE0=mozart requiem - offertium_domine jesu
+TTITLE1=mozart requiem - hostias
+TTITLE2=mozart requiem - sanctus
+TTITLE3=mahakala rutual - kangwa II
+TTITLE4=mozart requiem - benedictus
+TTITLE5=mozart requiem - agnus dei
+TTITLE6=yamantaka ritual - topa-shijoe
+TTITLE7=mozart requiem - communio-lux aeterna
+TTITLE8=gregorian requiem - libera me
+TTITLE9=gregorian requiem - in paradisum
+TTITLE10=gregorian requiem - salve regina_requiem aeternam
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

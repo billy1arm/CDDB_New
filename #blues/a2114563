@@ -1,0 +1,313 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2775
+#	9825
+#	11325
+#	13875
+#	15075
+#	16200
+#	17175
+#	23475
+#	25093
+#	25993
+#	27343
+#	28093
+#	29143
+#	29743
+#	31093
+#	35293
+#	38893
+#	43618
+#	47143
+#	61243
+#	64393
+#	66118
+#	69343
+#	71518
+#	78643
+#	84793
+#	86743
+#	93493
+#	96568
+#	105947
+#	115622
+#	131447
+#	151097
+#	158677
+#	164677
+#	171352
+#	175177
+#	178983
+#	181308
+#	182433
+#	183933
+#	184983
+#	187533
+#	188808
+#	189333
+#	191883
+#	193008
+#	193608
+#	195033
+#	195933
+#	196983
+#	197883
+#	198333
+#	200583
+#	201483
+#	202383
+#	203583
+#	210483
+#	214233
+#	217608
+#	219183
+#	220233
+#	222033
+#	223083
+#	225183
+#	226083
+#	228408
+#	233883
+#	235908
+#	237033
+#	240858
+#	245208
+#	247458
+#	249708
+#	250908
+#	253458
+#	258033
+#	260283
+#	261933
+#	262758
+#	267858
+#	270183
+#	274083
+#	277833
+#	280008
+#	281283
+#	284508
+#	286308
+#	289233
+#	292083
+#	293508
+#	294708
+#	296583
+#	298158
+#	298908
+#	300033
+#	305058
+#	310008
+#
+# Disc length: 4423 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a2114563
+DTITLE=Mark C. Gridley - Concise Guide to JAZZ fifth edition Demonstration
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Bass Drum
+TTITLE1=High-Hat
+TTITLE2=Ride Cymbal
+TTITLE3=Crash Cymbal
+TTITLE4=Snare Drum
+TTITLE5=Small Tom-Tom
+TTITLE6=Large Tom-Tom
+TTITLE7=Complete Drum Set
+TTITLE8=Early-Style Snare Drum Pattern
+TTITLE9=Wood Block
+TTITLE10=Stirring Soup on Snare Drum Pattern
+TTITLE11=Wire Brushes on Cymbal
+TTITLE12=Stick on Cymbal
+TTITLE13=Mallets on Drums
+TTITLE14=Mallets on Cymbals
+TTITLE15=Chord Progressions
+TTITLE16=The I Chord to the VII Chord
+TTITLE17=Chord Changes
+TTITLE18=12-bar Blues Progression
+TTITLE19=Piano Comping
+TTITLE20=Arco Bass
+TTITLE21=Pizzicato Bass
+TTITLE22=Walking Bass
+TTITLE23=Embellished Walking
+TTITLE24=Walking the 12-bar Blues
+TTITLE25=Bass with Piano without Chords
+TTITLE26=Horn-Like Pizzicato Bass
+TTITLE27=Non-Repetetive Bass Style
+TTITLE28=Walking Bass with Comping
+TTITLE29=Two Chrouses of Walking Bass
+TTITLE30=Piano, Bass and Drums Accompaniment
+TTITLE31=Tenor Sax Accompanied by Different Combinations of Piano, Bass and Drums
+TTITLE32=A-A-B-A form via "Flinstones"
+TTITLE33=Stop-Time
+TTITLE34=Double-time
+TTITLE35=Half-Time
+TTITLE36=Left-Hand Comping, Right-Hand Lines
+TTITLE37=Stride Piano Style and Boogie-Woogie
+TTITLE38=Walking Tenths
+TTITLE39=Horn-Like Piano Lines
+TTITLE40=Octave-Voiced Piano Lines
+TTITLE41=Tremolo
+TTITLE42=Swing Eighth-Note Pattern
+TTITLE43=Legato
+TTITLE44=Staccato
+TTITLE45=No Vibrato
+TTITLE46=Slow Vibrato
+TTITLE47=Fast Vibrato
+TTITLE48=Terminal Vibrato
+TTITLE49=Drop of Fall-Off
+TTITLE50=Scoop
+TTITLE51=Smear
+TTITLE52=Doit
+TTITLE53=C Scale without Blues Notes
+TTITLE54=C Scale with Flat Third
+TTITLE55=Trombone C Scale
+TTITLE56=Trombone C Scale with Flat Third
+TTITLE57=Trombone Playing Neutral Third
+TTITLE58=Trumpet
+TTITLE59=Fluegelhorn
+TTITLE60=Trumpet Vs. Fluegelhorn
+TTITLE61=Quiz
+TTITLE62=Cup-Muted Trumpet
+TTITLE63=Harmon-Muted With Stem
+TTITLE64=Harmon-Muted Without Stem
+TTITLE65=Straight Mute
+TTITLE66=Plumber's Plunger Muted Trumpet
+TTITLE67=Mutes Review
+TTITLE68=Clarinet
+TTITLE69=Soprano Sax
+TTITLE70=Compare Clarinet and Soprano Sax
+TTITLE71=Alto Sax
+TTITLE72=Tenor Sax
+TTITLE73=Baritone Sax
+TTITLE74=Flute
+TTITLE75=Compare Flute and Clarinet
+TTITLE76=Compare Tenor Sax and Soprano Sax
+TTITLE77=Trombone
+TTITLE78=Straight-Muted Trombone
+TTITLE79=Cup-Muted Trombone
+TTITLE80=Plunger-Muted Trombone
+TTITLE81=Brass Instruments Review
+TTITLE82=Woodwind Instruments Review
+TTITLE83=Unamplified Guitar
+TTITLE84=Amplified Guitar
+TTITLE85=Guitar Plucked with Fingers
+TTITLE86=Guitar Plucked in Octaves
+TTITLE87=Rhythm Guitar
+TTITLE88=Guitar Comping
+TTITLE89=Electronically Reverberated Guitar
+TTITLE90=Banjo
+TTITLE91=Rhythm on Banjo
+TTITLE92=Guitar and Banjo Review
+TTITLE93=Amplified Guitar Review
+TTITLE94=Guitar in Octaves
+TTITLE95=Electronically Altered Guitar
+TTITLE96=Vibraphone
+TTITLE97=Electric Piano
+TTITLE98=Jam Session Instrument Quiz
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     19908
+#     44583
+#     67950
+#     96033
+#     118433
+#     143883
+#     187908
+#     212758
+#     234258
+#     251658
+#     267933
+# 
+# Disc length: 3938 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=ad0f600c
+DTITLE=Kevin Mahogany - Songs And Moments
+DYEAR=1900
+DGENRE=
+TTITLE0=The Coaster
+TTITLE1=West Coast Blues
+TTITLE2=The City Lights
+TTITLE3=Night Flight
+TTITLE4=Next Time You See Me
+TTITLE5=Songs And Moments
+TTITLE6=Caravan
+TTITLE7=My Foolish Heart
+TTITLE8=Red Top
+TTITLE9=Jim's Ballad
+TTITLE10=Take The A-Train
+TTITLE11=When I Fall In Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

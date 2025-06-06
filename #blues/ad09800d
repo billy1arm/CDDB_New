@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10828
+#	23007
+#	38043
+#	51269
+#	66445
+#	75733
+#	91125
+#	109574
+#	127459
+#	143570
+#	168538
+#	169467
+#
+# Disc length: 2434 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=ad09800d
+DTITLE=Johnny Moeller - Johnny's Blues Aggregation
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Oh baby oh
+TTITLE1=Mistreated
+TTITLE2=Mama, the way you look tonight
+TTITLE3=Thinking
+TTITLE4=Bak 'n' forf
+TTITLE5=Let's get high
+TTITLE6=Your turn to cry
+TTITLE7=Stagger Lee
+TTITLE8=You got me crying
+TTITLE9=Slingin' hash
+TTITLE10=Worried life blues
+TTITLE11=J's scratcher
+TTITLE12=Unknown
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

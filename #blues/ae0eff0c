@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	22040
+#	45813
+#	64463
+#	78408
+#	100355
+#	130413
+#	164833
+#	194753
+#	225648
+#	242638
+#	262113
+#
+# Disc length: 3841 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ae0eff0c
+DTITLE=The Moody Blues - Greatest Hits
+DYEAR=1989
+DGENRE=Blues
+TTITLE0=Your Wildest Dreams
+TTITLE1=The Voice
+TTITLE2=Gemini Dream
+TTITLE3=The Story In Your Eyes
+TTITLE4=Tuesday Afternoon
+TTITLE5=Isn't Life Strange
+TTITLE6=Nights In White Satin
+TTITLE7=I Know You're Out There Somewhere
+TTITLE8=The Other Side Of Life
+TTITLE9=Ride My See-Saw
+TTITLE10=I'm Just A Singer (In A Rock And Roll Band)
+TTITLE11=Question
+EXTD=Greatest Hits YEAR: 1989
+EXTT0=1986
+EXTT1=1981
+EXTT2=1981
+EXTT3=1971
+EXTT4=1967
+EXTT5=1989
+EXTT6=1967
+EXTT7=1988
+EXTT8=1986
+EXTT9=1968
+EXTT10=1973
+EXTT11=1989
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	44868
+#	82582
+#	97573
+#	122987
+#	149182
+#	185834
+#	205689
+#	244856
+#	267706
+#	289721
+#
+# Disc length: 4146 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a910300b
+DTITLE=Beethoven - Piano Sonatas N°3, 5, 18 - Vol.2  { Idil Biret, piano }
+DYEAR=2001
+DGENRE=Piano
+TTITLE0=Piano Sonata N°3  in C major, Op.2 n°3 - I. Allegro con brio
+TTITLE1=Piano Sonata N°3  in C major, Op.2 n°3 - II. Adagio
+TTITLE2=Piano Sonata N°3  in C major, Op.2 n°3 - III. Scherzo and Trio - Allegro
+TTITLE3=Piano Sonata N°3  in C major, Op.2 n°3 - IV. Allegro assai
+TTITLE4=Piano Sonata N°5  in C minor, Op.10 n°1 - I. Allegro molto e con brio
+TTITLE5=Piano Sonata N°5  in C minor, Op.10 n°1 - II. Adagio molto
+TTITLE6=Piano Sonata N°5  in C minor, Op.10 n°1 - III. Finale - Prestissimo
+TTITLE7=Piano Sonata N°18  in E flat major, Op.31 n°3 - I. Allegro
+TTITLE8=Piano Sonata N°18  in E flat major, Op.31 n°3 - II. Scherzo - Allegretto vivace
+TTITLE9=Piano Sonata N°18  in E flat major, Op.31 n°3 - III. Menuetto é Trio - Moderato e grazioso
+TTITLE10=Piano Sonata N°18  in E flat major, Op.31 n°3 - IV. Presto con fuoco
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

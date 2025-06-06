@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24010
+#	41960
+#	61350
+#	81120
+#	95050
+#	108525
+#	125675
+#	142380
+#	163152
+#	177810
+#	193505
+#
+# Disc length: 2834 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=ac0b100c
+DTITLE=Louis Armstrong and his Orchestra - Town Hall Concert Plus
+DYEAR=1957
+DGENRE=Jazz
+TTITLE0=Rockin' Chair
+TTITLE1=Ain't Misbehavin'
+TTITLE2=Back O'Town Blues
+TTITLE3=Long Long Journey
+TTITLE4=I Want A Little Girl
+TTITLE5=Mahogany
+TTITLE6=Pennies From Heaven
+TTITLE7=St. James Infirmary
+TTITLE8=Save It Pretty Mama
+TTITLE9=Someday (You'll Be Sorry)
+TTITLE10=Sugar
+TTITLE11=Snafu
+EXTD=YEAR: 1957
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

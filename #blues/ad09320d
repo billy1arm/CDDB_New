@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15225
+#	28912
+#	41125
+#	53925
+#	67725
+#	81862
+#	91450
+#	105450
+#	117900
+#	129587
+#	141475
+#	153612
+#
+# Disc length: 2356 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ad09320d
+DTITLE=Various Artist - Blending The Blues Volume 2
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Sonny Terry and Brownie McGhee - Walk On
+TTITLE1=Leadbelly - Where Did You Sleep Last Night
+TTITLE2=Muddy Waters - I Can't Be Satisfied
+TTITLE3=Big Mama Thornton - Hound Dog
+TTITLE4=Willie Dixon - Walkin' The Blues
+TTITLE5=Howlin' Wolf - Smokestack Lightnin'
+TTITLE6=Eddie Burns - Jinglin' Baby
+TTITLE7=Koko Taylor - What Kind Of Man Is That?
+TTITLE8=Bo Didley - Bo Diddley
+TTITLE9=Etta James - I'd Rather Go Blind
+TTITLE10=Bobby 'Blue' Bland - Turn On Your Love Light
+TTITLE11=Little Milton - We're Gonna Make It
+TTITLE12=John Lee Hooker - It Serves You Right To Suffer
+EXTD=YEAR: 1997
+EXTT0=Sonny Terry and Brownie McGee
+EXTT1=Leadbelly
+EXTT2=Muddy Waters
+EXTT3=Big Mama Thornton
+EXTT4=Willie Dixon
+EXTT5=Howlin' Wolf
+EXTT6=Eddie Burns
+EXTT7=Koko Taylor
+EXTT8=Bo Diddley
+EXTT9=Etta James
+EXTT10=Bobby Blue Bland
+EXTT11=Little Milton
+EXTT12=John Lee Hooker
+PLAYORDER=

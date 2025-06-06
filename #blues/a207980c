@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13952
+#	26602
+#	38510
+#	51595
+#	62975
+#	78537
+#	95022
+#	107582
+#	118805
+#	128282
+#	137685
+#
+# Disc length: 1946 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a207980c
+DTITLE=The Rolling Stones - 12×5
+DYEAR=1964
+DGENRE=Rock
+TTITLE0=Around And Around
+TTITLE1=Confessin' The Blues
+TTITLE2=Empty Heart
+TTITLE3=Time Is On My Side
+TTITLE4=Good Times, Bad Times
+TTITLE5=It's All Over Now
+TTITLE6=2021 South Michigan Avenue
+TTITLE7=Under The Boardwalk
+TTITLE8=Congratulations
+TTITLE9=Grown Up Wrong
+TTITLE10=If You Need Me
+TTITLE11=Susie Q
+EXTD=YEAR: 1964
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

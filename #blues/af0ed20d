@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32000
+#	64980
+#	91360
+#	111937
+#	145747
+#	172740
+#	180212
+#	199370
+#	212330
+#	226387
+#	242920
+#	263187
+#
+# Disc length: 3796 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=af0ed20d
+DTITLE=Benny Golson - Free
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Sock Cha
+TTITLE1=Mad About The Boy
+TTITLE2=Just By Myself
+TTITLE3=Shades Of Stein
+TTITLE4=My Romance
+TTITLE5=Just In Time
+TTITLE6=You're My Thrill
+TTITLE7=My Heart Belongs To Daddy
+TTITLE8=The Best Thing For You Is Me
+TTITLE9=Impromptune
+TTITLE10=Little Karin
+TTITLE11=Swing It
+TTITLE12=I Fall In Love Too Easily
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

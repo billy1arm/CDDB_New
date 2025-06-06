@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14943
+#	26023
+#	40762
+#	57176
+#	72382
+#	86529
+#	98356
+#	111275
+#	122898
+#	136319
+#	149656
+#
+# Disc length: 2200 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ac08960c
+DTITLE=Django Reinhardt - The Electric Session
+DYEAR=1953
+DGENRE=Jazz
+TTITLE0=Nuages
+TTITLE1=Brazil
+TTITLE2=Deccaphonie
+TTITLE3=Confessin'
+TTITLE4=Blues For Ike
+TTITLE5=Insensiblement
+TTITLE6=Manoir De Mes Reves
+TTITLE7=Night And Day
+TTITLE8=September Song
+TTITLE9=Chez Moi
+TTITLE10=Le Soir
+TTITLE11=I Cover The Waterfront
+EXTD=YEAR: 1953
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

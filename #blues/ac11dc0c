@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57578
+#	89910
+#	124685
+#	139008
+#	160338
+#	197706
+#	225563
+#	245439
+#	263394
+#	289146
+#	309570
+#
+# Disc length: 4574 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ac11dc0c
+DTITLE=Various Artist - Africa 50 Years of Music - West Africa 2
+DYEAR=2010
+DGENRE=West African
+TTITLE0=Salif Keita - Mandjou
+TTITLE1=Gnonnas Pedro - La Musica en Vérité
+TTITLE2=Amadou Balake - Taximen
+TTITLE3=Touré Kunda - Emma
+TTITLE4=Alpha Blondy - Brigadier Sabari
+TTITLE5=Poly Rythmo - Sémassa Zéro and Zéro
+TTITLE6=Youssou N'Dour - Immigrés
+TTITLE7=Ismaël Lô - Tadieu Bone
+TTITLE8=Mory Kanté - Yeke Yeke
+TTITLE9=Baaba Maal - Yiiri Yalo
+TTITLE10=Oumou Sangaré - Ah Ndiya
+TTITLE11=Ali Farke Touré - Dofana
+EXTD=YEAR: 2010
+EXTT0=Mali 1978
+EXTT1=Bénin 1979
+EXTT2=Burkina Faso 1980
+EXTT3=Sénégal 1981
+EXTT4=Ivory Coast 1982
+EXTT5=Bénin 1983
+EXTT6=Sénégal 1984
+EXTT7=Sénégal 1985
+EXTT8=Guinea 1987
+EXTT9=Sénégal 1988
+EXTT10=Mali 1990
+EXTT11=Mali 1992
+PLAYORDER=

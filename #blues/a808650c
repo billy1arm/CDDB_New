@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12502
+#     26142
+#     39520
+#     52985
+#     65610
+#     80675
+#     95442
+#     108647
+#     122600
+#     136005
+#     148340
+# 
+# Disc length: 2151 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a808650c
+DTITLE=John Lee Hooker - House Of The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Walkin' The Boogie
+TTITLE1=Love Blues
+TTITLE2=Union Station Blues
+TTITLE3=It's My Own Fault
+TTITLE4=Leave My Wife Alone
+TTITLE5=Ramblin' By Myself
+TTITLE6=Sugar Mama
+TTITLE7=Down At The Landing
+TTITLE8=Louise
+TTITLE9=Ground Hog Blues
+TTITLE10=High Priced Woman
+TTITLE11=Women And Money
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

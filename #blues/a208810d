@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12257
+#     24558
+#     37267
+#     52237
+#     67524
+#     79870
+#     91985
+#     105630
+#     116850
+#     130234
+#     142561
+#     154523
+# 
+# Disc length: 2179 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a208810d
+DTITLE=The Platters - Teh New Golden Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=With This Ring
+TTITLE1=I Love You 1000 Times
+TTITLE2=Washed Ashore
+TTITLE3=The Great Pretender
+TTITLE4=My Prayer
+TTITLE5=Only You
+TTITLE6=You've Got The Magic Touch
+TTITLE7=Harbor Lights
+TTITLE8=Smokie Gets In Your Eyes
+TTITLE9=I'm Sorry
+TTITLE10=Twilight Time
+TTITLE11=Heaven On Earth
+TTITLE12=Devri
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

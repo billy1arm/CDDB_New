@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20916
+#	33652
+#	43965
+#	57333
+#	72274
+#	86911
+#	104607
+#	119282
+#	137473
+#	150091
+#	164454
+#
+# Disc length: 2374 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a709440c
+DTITLE=Eric Burdon - House Of The Rising Sun
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=House Of The Rising Sun
+TTITLE1=I'm Crying
+TTITLE2=Don't Let Me Be Misunderstood
+TTITLE3=Bring It On Home To Me
+TTITLE4=We Gotta Get Out Of This Place
+TTITLE5=It's My Life
+TTITLE6=Inside Looking Out
+TTITLE7=Don't Bring Me Down
+TTITLE8=See See Rider
+TTITLE9=Help Me Girl
+TTITLE10=Boom Boom
+TTITLE11=When I Was Young
+EXTD=YEAR: 1999 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

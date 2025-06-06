@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19763
+#	43950
+#	63600
+#	85525
+#	111525
+#	127350
+#	148553
+#	174385
+#	190778
+#	210600
+#	234925
+#
+# Disc length: 3408 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ad0d4e0c
+DTITLE=Arturo Sandoval - AMERICANA
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=just_the_way_you_are
+TTITLE1=come_back_to_me
+TTITLE2=englishman_in_new_york
+TTITLE3=let's_stay_together
+TTITLE4=all_neght_long
+TTITLE5=baby_come_to_me
+TTITLE6=killing_me_softly_with_his_song
+TTITLE7=if_you_leave_me_now
+TTITLE8=she's_out_of_my_life
+TTITLE9=we've_only_just_begun
+TTITLE10=isn't_she_lovely
+TTITLE11=i_just_wanna_stop
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

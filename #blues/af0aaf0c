@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7355
+#	23337
+#	40092
+#	54990
+#	80310
+#	97360
+#	123307
+#	140735
+#	161910
+#	179790
+#	201647
+#
+# Disc length: 2737 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=af0aaf0c
+DTITLE=The Blues Brothers - Live on New Year's Eve (live)
+DYEAR=1989
+DGENRE=Blues
+TTITLE0=Intro (live)
+TTITLE1=Hey bartender (live)
+TTITLE2=Almost (live)
+TTITLE3=Rubber biscuit (live)
+TTITLE4=Shotgun blues (live)
+TTITLE5=Groove me (live)
+TTITLE6=I don't know (live)
+TTITLE7=Soul man (live)
+TTITLE8=B'' movie box car blues (live)
+TTITLE9=Flip, flop and fly (live)
+TTITLE10=Jailhouse rock (live)
+TTITLE11=Final (live)
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

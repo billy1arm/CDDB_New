@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13965
+#	29545
+#	42235
+#	56675
+#	74748
+#	92583
+#	107643
+#	119350
+#	133803
+#	147913
+#	169558
+#
+# Disc length: 2466 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=af09a00c
+DTITLE=The BBC Big Band - Memories
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Snowfall
+TTITLE1=A String of Pearls
+TTITLE2=Harlem Nocturne
+TTITLE3=Don't Sit Under The Apple Tree
+TTITLE4=Artistry in Rhythm
+TTITLE5=Chloe
+TTITLE6=Pennsylvania 6-5000
+TTITLE7=Caravan
+TTITLE8=Begin the Beguine
+TTITLE9=Song of India
+TTITLE10=I've Got a Gal in Kalamazoo
+TTITLE11=American Patrol
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13801
+#	42196
+#	52248
+#	92469
+#	129571
+#	141174
+#	154890
+#	164690
+#	179626
+#	191188
+#	203329
+#
+# Disc length: 3152 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ad0c4e0c
+DTITLE=Christof May - Maygus 
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Biosphere Part 1 
+TTITLE1=Biosphere Part 2
+TTITLE2=Biosphere Part 3
+TTITLE3=Biosphere Part 4
+TTITLE4=Biosphere Part 5
+TTITLE5=Evidence
+TTITLE6=Nebula Part 1
+TTITLE7=Nebula Part 2
+TTITLE8=Timequake
+TTITLE9=Mandelbrot Part 1
+TTITLE10=Mandelbrot Part 2
+TTITLE11=Gingerbread Boy
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

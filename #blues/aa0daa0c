@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	42202
+#	63000
+#	82790
+#	110380
+#	129442
+#	148372
+#	162772
+#	192412
+#	211512
+#	224795
+#	238275
+#
+# Disc length: 3500 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=aa0daa0c
+DTITLE=Katia and Marielle Labèque - Love Of Colours
+DYEAR=1991
+DGENRE=Jazz
+TTITLE0=Caribe (Michel Camilo)
+TTITLE1=Florianapolis (John McLaughlin)
+TTITLE2=Three Willows (John McLaughlin)
+TTITLE3=Girls With Red Shoes (John McLaughlin)
+TTITLE4=Blue In Green (Miles Davis)
+TTITLE5=Spain (Chick Corea)
+TTITLE6=Quiet Place (R. Carmichael)
+TTITLE7=Ballade (Martial Solal)
+TTITLE8=Gold Mine (M. Warren and C. McKnight)
+TTITLE9=Rhythm-A-Ning (Theolonius Monk)
+TTITLE10=When Love Is Far Away (John McLaughlin)
+TTITLE11=Savanna Valse (François Jeanneau)
+EXTD=more info\nMillenniumMusicProjectFormat, syntax as follows:\nTitle{Subtitle}[info](Lyricist;Composer;Date,Artist,Location)[info]\ncorrections to: windking3@yahoo.com YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

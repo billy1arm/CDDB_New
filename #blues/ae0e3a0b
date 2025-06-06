@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6335
+#	35000
+#	64100
+#	94692
+#	123430
+#	141635
+#	187175
+#	204602
+#	232247
+#	257215
+#
+# Disc length: 3644 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ae0e3a0b
+DTITLE=Andreas Wildenhain - Terra Incognita
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=Baraka
+TTITLE1=Zardala
+TTITLE2=Djanet
+TTITLE3=Ghostdog
+TTITLE4=Palais Daouis
+TTITLE5=Discours Fantomatique
+TTITLE6=Senoubal
+TTITLE7=Route des Sables
+TTITLE8=The Ballad Of The Hypochondrical Gunman
+TTITLE9=Mides
+TTITLE10=Sleeplessnessmess
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

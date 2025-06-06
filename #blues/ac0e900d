@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15147
+#	40267
+#	66575
+#	89575
+#	119175
+#	150182
+#	167562
+#	182375
+#	204457
+#	232935
+#	253072
+#	269167
+#
+# Disc length: 3730 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ac0e900d
+DTITLE=Alte Wache - Dixieland aus Potsdam - Volume 1
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Sanssouci
+TTITLE1=The World Is Waiting For The Sunrise
+TTITLE2=Careless Love
+TTITLE3=Bourbonstreet-Parade
+TTITLE4=Savoy-Blues
+TTITLE5=All Of Me
+TTITLE6=Dinah
+TTITLE7=Beale-Steet-Blues
+TTITLE8=Just A Little While
+TTITLE9=Alexanders Ragtime Band
+TTITLE10=Whispering
+TTITLE11=White Cliffs Of Dover
+TTITLE12=Alte Wache
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

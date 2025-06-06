@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26167
+#	70367
+#	126720
+#	143951
+#	160618
+#	183430
+#	201130
+#	223559
+#	240059
+#	256597
+#	274768
+#
+# Disc length: 3994 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ad0f980c
+DTITLE=Steve Beresford, Pat Thomas, Veryan Weston - 3 Pianos
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=ACOrn
+TTITLE1=ATLas
+TTITLE2=HOGarth
+TTITLE3=FLAxman
+TTITLE4=FREmantle
+TTITLE5=VIGilant
+TTITLE6=RIPpleway
+TTITLE7=ELGar
+TTITLE8=WEStern
+TTITLE9=BERmondsey
+TTITLE10=THOrnton heath
+TTITLE11=SPEedwell
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

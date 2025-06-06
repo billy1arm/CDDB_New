@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13804
+#	27032
+#	50151
+#	72583
+#	107274
+#	129641
+#	143748
+#	165124
+#	185304
+#	199436
+#	224383
+#
+# Disc length: 3260 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=aa0cba0c
+DTITLE=Danilo Rea - Flavio Boltro - Opera - at Schloss Elmau
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Lasciatemi morire (Monteverdi)
+TTITLE1=Toccata from Orfeo (Monteverdi)
+TTITLE2=Dal Tuo stellato soglio (Rossini)
+TTITLE3=Vaga luna che inargenti (Bellini)
+TTITLE4=Sinfonia dal Barbiere di Siviglia (Rossini)
+TTITLE5=Caro mio ben (Giordani)
+TTITLE6=Piango, gemo, sospiro e peno (Vivaldi)
+TTITLE7=E lucevan le stelle (Pucchini)
+TTITLE8=O mio babbino caro (Pucchini)
+TTITLE9=Casta Diva (Bellini)
+TTITLE10=Sinfonia dal Gugliemo Tell (Rossini)
+TTITLE11=Io son l'umile ancella (Cilea)
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

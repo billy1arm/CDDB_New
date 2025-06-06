@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  15390
+#  28655
+#  42325
+#  56580
+#  68875
+#  82215
+#  95150
+#  110512
+#  124742
+#  138742
+#  152540
+#
+# Disc length: 2203 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.20
+#
+DISCID=a508990c
+DTITLE=Dionne Warwick - Love Songs
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Make Me Over
+TTITLE1=Walk On By
+TTITLE2=Do Right Woman, Do Right Man
+TTITLE3=What The World Needs Now Is Love
+TTITLE4=Make It Easy on Yourself
+TTITLE5=Promises, Promises
+TTITLE6=Reach Out for Me
+TTITLE7=People
+TTITLE8=Anyone Who Had A Heart
+TTITLE9=I Say A Little Prayer
+TTITLE10=I'll Never Fall In Love Again
+TTITLE11=The Look of Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

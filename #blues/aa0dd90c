@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22342
+#	40927
+#	63550
+#	86483
+#	107472
+#	130248
+#	149813
+#	172528
+#	194548
+#	211786
+#	235393
+#
+# Disc length: 3547 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=aa0dd90c
+DTITLE=Tony O'Connor - Zodiac Music Sampler
+DYEAR=1900
+DGENRE=New Age
+TTITLE0=Fire - Aries
+TTITLE1=Fire - Leo
+TTITLE2=Fire - Sagitarius
+TTITLE3=Earth - Taurus
+TTITLE4=Earth - Virgo
+TTITLE5=Earth - Capricorn
+TTITLE6=Air - Gemini
+TTITLE7=Air - Libra
+TTITLE8=Air - Acquarius
+TTITLE9=Water - Cancer
+TTITLE10=Water - Scorpio
+TTITLE11=Water - Pisces
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

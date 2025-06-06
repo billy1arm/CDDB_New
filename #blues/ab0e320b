@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	26900
+#	47947
+#	72042
+#	103972
+#	127100
+#	161322
+#	200155
+#	217157
+#	238617
+#	254252
+#
+# Disc length: 3636 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=ab0e320b
+DTITLE=Bryan Lee - Braille Blues Daddy
+DYEAR=1994
+DGENRE=Blues
+TTITLE0=Braille blues daddy
+TTITLE1=You the one
+TTITLE2=Who will be next
+TTITLE3=I wanna live in Memphis
+TTITLE4=Gotta Rock
+TTITLE5=(Tribute to the) Boogie Men
+TTITLE6=It hurts me too
+TTITLE7=Jump sister Bessie
+TTITLE8=Naples, FLA
+TTITLE9=Grinning in your face
+TTITLE10=Brand new day
+EXTD=YEAR: 1994 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

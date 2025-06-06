@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12332
+#	28119
+#	40371
+#	54980
+#	70730
+#	88153
+#	101008
+#	117901
+#	132998
+#	148820
+#	167233
+#
+# Disc length: 2493 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=aa09bb0c
+DTITLE=The Blues Band - Itchy feet
+DYEAR=1981
+DGENRE=Blues
+TTITLE0=Talkin' woman blues
+TTITLE1=Who's right, who's wrong
+TTITLE2=Rock 'n' roll radio
+TTITLE3=Itchy feet
+TTITLE4=Ultimatum time
+TTITLE5=So lonely
+TTITLE6=Come on
+TTITLE7=Turn around
+TTITLE8=I can't be satisfied
+TTITLE9=Got to love you baby
+TTITLE10=Nothin' but the blues
+TTITLE11=Let your bucket down
+EXTD=YEAR: 1981
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

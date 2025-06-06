@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9740
+#	28654
+#	43782
+#	58123
+#	76880
+#	95875
+#	118897
+#	140939
+#	160420
+#	177407
+#	189827
+#
+# Disc length: 2832 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ac0b0e0c
+DTITLE=임형주 - The Lotus
+DYEAR=2005
+DGENRE=New Age
+TTITLE0=Overture
+TTITLE1=戀人(연인)
+TTITLE2=The Mad Scene
+TTITLE3=Un bel di vedremo
+TTITLE4=Jupiter
+TTITLE5=백지로 온 편지
+TTITLE6=I Will Wait For You
+TTITLE7=The Saddest Thing
+TTITLE8=기억의 숲
+TTITLE9=한계령
+TTITLE10=새야새야
+TTITLE11=Smile again
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

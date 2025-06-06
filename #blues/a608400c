@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14475
+#	26610
+#	40473
+#	54187
+#	66308
+#	78868
+#	92787
+#	106894
+#	119007
+#	131014
+#	146745
+#
+# Disc length: 2114 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a608400c
+DTITLE=Django Reinhardt - Nothing But Django - Le Chant du Monde
+DYEAR=2007
+DGENRE=Jazz Manouche
+TTITLE0=Blues en Mineur
+TTITLE1=Django's Tiger
+TTITLE2=My Serenade
+TTITLE3=Appel Indirect
+TTITLE4=Oriental Shuffle
+TTITLE5=Sweet Chorus
+TTITLE6=Blues Clair
+TTITLE7=Django's Blues
+TTITLE8=Rhythme Futur
+TTITLE9=Vamp
+TTITLE10=Boogie-Woogie
+TTITLE11=Manoir de Mes Rêves
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

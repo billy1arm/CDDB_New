@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20677
+#	36740
+#	52383
+#	76495
+#	98050
+#	117914
+#	136239
+#	152423
+#	169208
+#	189647
+#	207436
+#
+# Disc length: 3023 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=ac0bcd0c
+DTITLE=Ray Kennedy Trio - Bach in Jazz
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Little Fugue
+TTITLE1=Gavotte
+TTITLE2=Air on G String
+TTITLE3=Toccata and Fugue
+TTITLE4=Rodeau
+TTITLE5=Chorale "Wachet auf, ruft uns die Stimme"
+TTITLE6=Invention
+TTITLE7=Sinfonia from Cantata No.156
+TTITLE8=Badinerie
+TTITLE9=Menuet
+TTITLE10=Chorale "Jesu Bliebet Meine Freude"
+TTITLE11=Aria "Schafe Konnen Sicher Weiden"
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

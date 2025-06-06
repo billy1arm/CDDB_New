@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21540
+#	40357
+#	63930
+#	88972
+#	103530
+#	114600
+#	140005
+#	158582
+#	187420
+#	212390
+#	238792
+#
+# Disc length: 3422 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=af0d5c0c
+DTITLE=PINK FLOYD - 原子心母
+DYEAR=1988
+DGENRE=Rock
+TTITLE0=心の叫び
+TTITLE1=ミルクたっぷりの乳房
+TTITLE2=マザー・フォア
+TTITLE3=むかつくばかりのこやし
+TTITLE4=喉に気をつけて
+TTITLE5=再現
+TTITLE6=もしも
+TTITLE7=サマー '68
+TTITLE8=デブでよろよろの太陽
+TTITLE9=ライズ・アンド・シャイン
+TTITLE10=サニー・サイド・アップ
+TTITLE11=モーニング・グローリー
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     29012
+#     53752
+#     64017
+#     91582
+#     111032
+#     133525
+#     154862
+#     186217
+#     202940
+#     237575
+#     253772
+#     277877
+# 
+# Disc length: 4012 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=af0faa0d
+DTITLE=John Mayall - Archives to Eighties
+DYEAR=1900
+DGENRE=
+TTITLE0=Accidental Suicide
+TTITLE1=Force of Nature
+TTITLE2=Boogie Albert
+TTITLE3=Television Eye
+TTITLE4=Prisons on the Road
+TTITLE5=Home Again
+TTITLE6=Mr. Censor Man
+TTITLE7=Looking at Tomorrow
+TTITLE8=Blue Fox
+TTITLE9=Devil's Tricks
+TTITLE10=Marriage Madness
+TTITLE11=Dream With Me
+TTITLE12=My Children
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

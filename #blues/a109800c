@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  14285
+#  29648
+#  48188
+#  63493
+#  74988
+#  86778
+#  101165
+#  114015
+#  132105
+#  145773
+#  158380
+#
+# Disc length: 2434 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=a109800c
+DTITLE=Christy Lane - Christy Lane Greates Hits Vol I
+DYEAR=1900
+DGENRE=
+TTITLE0=One Day at a Time 
+TTITLE1=Simple Little Words
+TTITLE2=Rainsong
+TTITLE3=Fragile, Handle With Care
+TTITLE4=Let Me Down Easy
+TTITLE5=Penny Arcade
+TTITLE6=Footprints in the Sand
+TTITLE7=He's Got the Whole World In His Hands
+TTITLE8=I Have a Dream
+TTITLE9=Shake Me I Rattle
+TTITLE10=It's Down to You and Me
+TTITLE11=Danny Boy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

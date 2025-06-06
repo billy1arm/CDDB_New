@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20026
+#	38817
+#	56746
+#	74843
+#	92913
+#	108906
+#	132472
+#	147552
+#	160013
+#	191834
+#
+# Disc length: 2901 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta5
+#
+DISCID=aa0b530b
+DTITLE=The Jack Falk Project - Blues Guitar Tributes
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Tribute to Eric
+TTITLE1=Tribute to Hendrix
+TTITLE2=Tribute to Stevie
+TTITLE3=Tribute to Page
+TTITLE4=Tribute to Jorma
+TTITLE5=Tribute to Alvin Lee
+TTITLE6=Broke Lonely and Downhearted
+TTITLE7=Tribute to Trower
+TTITLE8=Tribute to Beck
+TTITLE9=Blues Guitar Tributes
+TTITLE10=MP3 Data
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

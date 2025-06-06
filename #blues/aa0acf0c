@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16432
+#	34200
+#	50672
+#	68892
+#	82377
+#	99327
+#	117822
+#	137212
+#	153510
+#	172240
+#	191377
+#
+# Disc length: 2769 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=aa0acf0c
+DTITLE=The latin dance album - Fiesta Latina
+DYEAR=2000
+DGENRE=Salsa
+TTITLE0=Fiesta latina
+TTITLE1=oye como va
+TTITLE2=Guapa
+TTITLE3=Ayubaye
+TTITLE4=Bailamos!
+TTITLE5=Tabarca
+TTITLE6=Let's be free
+TTITLE7=Variacion de 'Oye como va'
+TTITLE8=Varision de Tabaca
+TTITLE9=Guapisimo
+TTITLE10=Samba de ayuabaye
+TTITLE11=Fiesta latina
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	14528
+#	28875
+#	42348
+#	55960
+#	67915
+#	80558
+#	94378
+#	108393
+#	121580
+#	135143
+#	149805
+#
+# Disc length: 2149 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=a508630c
+DTITLE=Louis Armstrong - Just Louis
+DYEAR=1900
+DGENRE=
+TTITLE0=Once in a while
+TTITLE1=Nobody knows de trouble I've seen
+TTITLE2=On the sunny side of the street
+TTITLE3=Solitude
+TTITLE4=Thanks a million
+TTITLE5=Jonah and the whale
+TTITLE6=Red sales in the sunset
+TTITLE7=On treasure island
+TTITLE8=Mahogany hall stomp
+TTITLE9=I come from a musical family
+TTITLE10=I hope gabriel likes my music
+TTITLE11=Shadrack
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

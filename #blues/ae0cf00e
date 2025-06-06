@@ -1,0 +1,60 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18872
+#     41570
+#     59715
+#     77770
+#     91757
+#     109404
+#     124120
+#     142885
+#     164310
+#     180890
+#     194932
+#     210180
+#     225812
+# 
+# Disc length: 3314 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=ae0cf00e
+DTITLE=Diversos - Ax  Bahia 96
+DYEAR=1900
+DGENRE=
+TTITLE0=Pega No Balan o
+TTITLE1=Preciso De Voc 
+TTITLE2=Al  Paix o
+TTITLE3=Mimar Voc 
+TTITLE4=Disk 900
+TTITLE5=o Tchan (Pot-Pourri)
+TTITLE6=Na Boquinha Da Garrafa
+TTITLE7=Me Abra a
+TTITLE8=Jeito Diferente
+TTITLE9=Samba Bom
+TTITLE10=Toneladas De Desejo
+TTITLE11=Tara
+TTITLE12=Vem Comigo
+TTITLE13=Beija-Flor
+EXTD=
+EXTT0=Cheiro De Amor\n
+EXTT1=Netinho\n
+EXTT2=Banda Eva\n
+EXTT3=Timbalada\n
+EXTT4=Pimenta N'Ativa\n
+EXTT5=Gera Samba\nPau Que Nasce Torto\nBicho Da Cara Preta\nMel  Do Tchan\n
+EXTT5=Bicho Da Cara Preta\n
+EXTT6=Companhia do Pagode\n
+EXTT7=Banda Eva\n
+EXTT8=Netinho\n
+EXTT9=Pike\n
+EXTT10=Timbalada\n
+EXTT11=Cheiro De Amor\n
+EXTT12=Curta Metragem\n
+EXTT13=Timbalada\n
+PLAYORDER=

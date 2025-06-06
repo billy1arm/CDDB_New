@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18275
+#	36557
+#	66606
+#	85612
+#	101975
+#	127471
+#	143639
+#	161542
+#	184817
+#	201610
+#
+# Disc length: 2829 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ab0b0b0b
+DTITLE=Jelly Roll Trio - Tributo Marplatense a Jelly Roll Morton
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Buddy's habbits
+TTITLE1=Sidewalk blues
+TTITLE2=King Porter Stomp
+TTITLE3=Smoke house blues
+TTITLE4=Georgia swing
+TTITLE5=Jungle Blues
+TTITLE6=Black Bottom Stomp
+TTITLE7=The chant
+TTITLE8=Riverside blues
+TTITLE9=Clarinet Marmalade
+TTITLE10=I´ll be seeing you
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

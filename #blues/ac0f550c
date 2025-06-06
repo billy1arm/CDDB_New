@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	28003
+#	56062
+#	70963
+#	88058
+#	110743
+#	129290
+#	153886
+#	176313
+#	211210
+#	238395
+#	269010
+#
+# Disc length: 3927 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=ac0f550c
+DTITLE=Betty Blue - 10 Live Years
+DYEAR=1900
+DGENRE=
+TTITLE0=With a little help from my friends
+TTITLE1=Milky way
+TTITLE2=Allison
+TTITLE3=Nighttrain
+TTITLE4=Mustang Sally
+TTITLE5=All the young dudes
+TTITLE6=Landslide
+TTITLE7=I shot the sheriff
+TTITLE8=I want you
+TTITLE9=Wild horses
+TTITLE10=Heroes
+TTITLE11=Party lovers
+EXTD=
+EXTT0=Lennon, Mc Cartney
+EXTT1=The Church
+EXTT2=E. Costello
+EXTT3=J. Brown
+EXTT4=Sir Mac Rice
+EXTT5=D. Bowie
+EXTT6=Stevie Nicks
+EXTT7=Bob Marley
+EXTT8=E. Costello
+EXTT9=voor Pierre
+EXTT10=D. Bowie, B. Eno
+EXTT11=B. Brouwer, G. Boers
+PLAYORDER=

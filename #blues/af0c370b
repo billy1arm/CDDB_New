@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	200
+#	15585
+#	35560
+#	74635
+#	94035
+#	116765
+#	133517
+#	147970
+#	187185
+#	213322
+#	222635
+#
+# Disc length: 3129 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=af0c370b
+DTITLE=Angela Brown and Christian Christl - Wild Turkey
+DYEAR=1900
+DGENRE=
+TTITLE0=Flaming Mamie
+TTITLE1=Wild Turkey
+TTITLE2=Million Dollar Secret
+TTITLE3=Miss Cellies Blues
+TTITLE4=I'm a Fool
+TTITLE5=Am I Blue
+TTITLE6=Youn didn't want what you had
+TTITLE7=St. Lois Blues
+TTITLE8=Time to say Goodbye
+TTITLE9=Can we do that ?
+TTITLE10=Lift Every Voice
+EXTD=Acoustic Music Records\nAMC 1017
+EXTT0=(Willie Dixon)
+EXTT1=(Moffat/Sebert)
+EXTT2=(H. Humes)
+EXTT3=(Qunicey Jones)
+EXTT4=(Angela Brown)
+EXTT5=(Clarke/Alst)
+EXTT6=(Angela Brown)
+EXTT7=W.C. Handy)
+EXTT8=(Christl/Brown)
+EXTT9=(Angela Brown)
+EXTT10=(trad. arr. Christl/Brown)
+PLAYORDER=

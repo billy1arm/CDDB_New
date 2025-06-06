@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23185
+#	42655
+#	70225
+#	96660
+#	125005
+#	145467
+#	163065
+#	177805
+#	195295
+#	217617
+#	231820
+#
+# Disc length: 3267 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ac0cc10c
+DTITLE=Louis Armstrong - Les triomphes des stars
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Rockin' Chair
+TTITLE1=Where did you stay last night
+TTITLE2=Baby, it's cold outside
+TTITLE3=C.Jam blues
+TTITLE4=Stomping at the savoy
+TTITLE5=I used to love you
+TTITLE6=La vie en rose
+TTITLE7=Lover
+TTITLE8=I love the guy
+TTITLE9=That's my desire
+TTITLE10=Royal garden blues
+TTITLE11=Ain't lisbehavin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

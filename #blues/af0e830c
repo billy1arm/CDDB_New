@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	12500
+#	31875
+#	68112
+#	96500
+#	110100
+#	124387
+#	139975
+#	170650
+#	189837
+#	233762
+#	260512
+#
+# Disc length: 3717 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=af0e830c
+DTITLE=Various Artist - Verve Super Best 50
+DYEAR=1998
+DGENRE=Jazz
+TTITLE0=Days Of Wine And Roses
+TTITLE1=Corcovad
+TTITLE2=Nardis
+TTITLE3=Autumn Leaves
+TTITLE4=The Song Is You
+TTITLE5=California Dreaming
+TTITLE6=The Cat
+TTITLE7=Unit 7
+TTITLE8=Greensleeves
+TTITLE9=Billie's Bounce
+TTITLE10=Yesterdays
+TTITLE11=Too Close For Comfort
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

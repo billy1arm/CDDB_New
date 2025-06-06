@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	11993
+#	24150
+#	37628
+#	51970
+#	64163
+#	75290
+#	87120
+#	101213
+#	112588
+#	123468
+#	136210
+#	148433
+#	160223
+#
+# Disc length: 2304 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=ad08fe0e
+DTITLE=Howlin' Wolf - Back Door Man
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Howlin' For my Baby
+TTITLE1=Chocolate Drop
+TTITLE2=Everbody's in the Mood
+TTITLE3=Decoration day
+TTITLE4=Dorothy Mae
+TTITLE5=Highway man
+TTITLE6=Oh Red
+TTITLE7=Smokestack Lightning
+TTITLE8=Sitting on top of the world
+TTITLE9=Wang Dang Doodle
+TTITLE10=Back Door Man
+TTITLE11=Spoonful
+TTITLE12=Built for Comfort
+TTITLE13=Killing Floor
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,61 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 18130
+# 36942
+# 55745
+# 73572
+# 91120
+# 113595
+# 133492
+# 157650
+# 182337
+# 204835
+# 223250
+# 240100
+# 263960
+#
+# Disc length: 3821 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=ae0eeb0e
+DTITLE=Shuddup and Drive - Live Drive
+DYEAR=1900
+DGENRE=
+TTITLE0=Certain Kinda Woman
+TTITLE1=Crossover
+TTITLE2=No Win Situation
+TTITLE3=Born Under a Bad Sign
+TTITLE4=Not For Me to Say
+TTITLE5=Superstition
+TTITLE6=Thin Ice
+TTITLE7=Rock Me Baby
+TTITLE8=Mustang Sally
+TTITLE9=One Way Out
+TTITLE10=Something You Got
+TTITLE11=Harley Mama
+TTITLE12=Empty Arms
+TTITLE13=Can't Change the World
+EXTD=Recorded at Leroy's Hot Stuff\nMixed at Blue Star Productions\nProduced b
+EXTD=y Shuddup and Drive\nEngineered by Tommy Ward and Shuddup and Drive\nMastered
+EXTD=by Jeff Abbott at Abbott Prodigital
+EXTT0=Ward\n
+EXTT1=Clearwater
+EXTT2=Ward
+EXTT3=Jones, Bell
+EXTT4=Ward
+EXTT5=Wonder
+EXTT6=Carr, Edmaiston, Burdett
+EXTT7=King, Josea
+EXTT8=Rice
+EXTT9=Sehorn, Williams, James
+EXTT10=Kenner, Domino
+EXTT11=Ward
+EXTT12=Vaughn
+EXTT13=Ward
+PLAYORDER=

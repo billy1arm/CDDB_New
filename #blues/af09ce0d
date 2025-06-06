@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	183
+# 	12825
+# 	27763
+# 	41490
+# 	62983
+# 	76185
+# 	89675
+# 	102628
+# 	117313
+# 	136258
+# 	145128
+# 	161625
+# 	176135
+#
+# Disc length: 2512 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=af09ce0d
+DTITLE=Give Buzze - 
+DYEAR=1900
+DGENRE=
+TTITLE0=What Do You Want Me To Say
+TTITLE1=I'm Riding
+TTITLE2=A Long Way To The Top
+TTITLE3=I Think I Got The Blues
+TTITLE4=Maureen
+TTITLE5=Begging For A Light
+TTITLE6=Sorry I Forgot Your Name
+TTITLE7=Try Me
+TTITLE8=Bad Times and Trouble
+TTITLE9=No Meat
+TTITLE10=Take Me With You
+TTITLE11=It's All Right With Me
+TTITLE12=Pie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

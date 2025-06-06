@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34547
+#	71850
+#	110897
+#	142315
+#	163717
+#	182012
+#	200290
+#	226265
+#	249385
+#	286137
+#	316960
+#
+# Disc length: 4586 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=af11e80c
+DTITLE=Various Artist - Music for dreams [CD 2)
+DYEAR=1997
+DGENRE=New Age
+TTITLE0=Peter Gabriel_Passion
+TTITLE1=Jam and Spoon_Hispanus in Space
+TTITLE2=Stina Nordenstam_Little Star (Steve B. Zet rmx)
+TTITLE3=Pushkar_Manamalei (remix)
+TTITLE4=Constance Demby_Waltz of Joy
+TTITLE5=Michael Nyman_All imperfect Things (The Piano)
+TTITLE6=Korgis_Everybody's Got to Learn Sometime
+TTITLE7=Megabyte_Market Wife
+TTITLE8=The Map_Ebuso
+TTITLE9=Orbital_Belfast
+TTITLE10=Tranquility Bass_Cantamilla
+TTITLE11=Zenith_Piper of Illusion (idros mix)
+EXTD=YEAR: 1997
+EXTT0=Peter Gabriel\n
+EXTT1=Jam and Spoon\n
+EXTT2=Stina Nordenstam\n
+EXTT3=Pushkar\n
+EXTT4=Constance Demby\n
+EXTT5=Michael Nyman\n
+EXTT6=Korgis\n
+EXTT7=Megabyte\n
+EXTT8=The Map\n
+EXTT9=Orbital\n
+EXTT10=Tranquility Bass\n
+EXTT11=Zenith\n
+PLAYORDER=

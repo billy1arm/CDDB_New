@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13495
+#	29678
+#	45015
+#	57340
+#	70698
+#	83980
+#	100053
+#	117375
+#	134520
+#	148750
+#	163903
+#
+# Disc length: 2324 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=ab09120c
+DTITLE=Johnny Hartman - All of Me
+DYEAR=1960
+DGENRE=Jazz
+TTITLE0=Blue Skies
+TTITLE1=I Could Make You Care
+TTITLE2=Tenderly
+TTITLE3=The Lamp is Low
+TTITLE4=While We're Young
+TTITLE5=Birth of the Blues
+TTITLE6=I'll Follow You
+TTITLE7=I Concentrate on You
+TTITLE8=Stella by Starlight
+TTITLE9=I Get a Kick out of You
+TTITLE10=The End of a Love Affair
+TTITLE11=All of Me
+EXTD=YEAR: 1960
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

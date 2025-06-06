@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14940
+#	63465
+#	95097
+#	121937
+#	157372
+#	216752
+#	247495
+#	281925
+#	307107
+#
+# Disc length: 4285 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ab10bb0a
+DTITLE=Thelonious Monk - Underground
+DYEAR=1968
+DGENRE=Jazz
+TTITLE0=Thelonious (Take 1)
+TTITLE1=Ugly Beauty (Take 5)
+TTITLE2=Raise Four
+TTITLE3=Boo Boo's Birthday (Take 11)
+TTITLE4=Easy Street
+TTITLE5=Green Chimneys
+TTITLE6=In Walked Bud
+TTITLE7=Ugly Beauty (Take 4)
+TTITLE8=Boo Boo's Birthday (Take 2)
+TTITLE9=Thelonious (Take 3)
+EXTD=YEAR: 1968
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

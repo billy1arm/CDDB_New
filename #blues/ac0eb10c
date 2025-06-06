@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23813
+#	57325
+#	73200
+#	93590
+#	114543
+#	137668
+#	152328
+#	159210
+#	179895
+#	206058
+#	220150
+#
+# Disc length: 3763 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ac0eb10c
+DTITLE=The Sixteen - Church Music by John Sheppard 4
+DYEAR=1992
+DGENRE=Choral
+TTITLE0=Hostis Herodes impie
+TTITLE1=Dum transisset Sabbatum II
+TTITLE2=In manus tuas III
+TTITLE3=Aeterne rex altissime
+TTITLE4=Western Wynde Mass -I- Gloria
+TTITLE5=Western Wynde Mass -II- Credo
+TTITLE6=Western Wynde Mass -III- Sanctus
+TTITLE7=Western Wynde Mass -IV- Benedictus
+TTITLE8=Western Wynde Mass -V- Agnus Dei
+TTITLE9=The Second Service -I- Magnificat
+TTITLE10=The Second Service -II- Nunc Dimittis
+TTITLE11=Te Deum Laudamus
+EXTD=Harry Christophers, director YEAR: 1992
+EXTT0=for six voices
+EXTT1=for six voices
+EXTT2=for three voices
+EXTT3=for five voices
+EXTT4=for four voices
+EXTT5=for four voices
+EXTT6=for four voices
+EXTT7=for four voices
+EXTT8=for four voices
+EXTT9=for five voices
+EXTT10=for eight voices
+EXTT11=for six voices
+PLAYORDER=

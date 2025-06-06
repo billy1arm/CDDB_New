@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13082
+#	28045
+#	37427
+#	54845
+#	66305
+#	90905
+#	107630
+#	121870
+#	130332
+#	142417
+#	158432
+#
+# Disc length: 2313 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL2
+#
+DISCID=a209070c
+DTITLE=Bill Stuve - Big Noise
+DYEAR=1900
+DGENRE=
+TTITLE0=Just Got Lucky
+TTITLE1=Big Noise
+TTITLE2=Centipdede Crawl
+TTITLE3=Must Have Been The Devil
+TTITLE4=Sherry Twist
+TTITLE5=Big Money Blues
+TTITLE6=She Walked Right In/Honey Hush
+TTITLE7=Cuttin In
+TTITLE8=Was It Something I Said
+TTITLE9=Black Diamond
+TTITLE10=I Got To Find My Baby
+TTITLE11=Feel So Good
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

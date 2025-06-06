@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	13930
+#	33266
+#	48333
+#	65672
+#	85302
+#	101281
+#	125487
+#	145893
+#	175488
+#	191691
+#	199809
+#
+# Disc length: 2880 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=aa0b3e0c
+DTITLE=Double Jeu Trio - Mobiles
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Le Gateau De La Voisine
+TTITLE1=Cobra
+TTITLE2=332
+TTITLE3=Sourire Carré
+TTITLE4=Perpetuum Mobile
+TTITLE5=Valse Libre
+TTITLE6=Sonars
+TTITLE7=Suivez La Piste
+TTITLE8=La Fatalité De L'Adieu (Dédié à Francois Jacquet)
+TTITLE9=Bloomy Day
+TTITLE10=Actual Stories 2
+TTITLE11=Purple Flower
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

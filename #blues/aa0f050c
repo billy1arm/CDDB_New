@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15604
+#	42753
+#	63877
+#	82995
+#	113459
+#	133601
+#	165708
+#	202220
+#	223944
+#	236923
+#	262197
+#
+# Disc length: 3847 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=aa0f050c
+DTITLE=Various Artist - The Beatles Canciones prestadas-Jazz
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=A Hard Day's Night
+TTITLE1=Junk  
+TTITLE2=Eleanor Rigby
+TTITLE3=Things we said today 
+TTITLE4=I'll follow the sun 
+TTITLE5=Fool on the hill 
+TTITLE6=And I love her 
+TTITLE7=Norwegian wood 
+TTITLE8=Michelle 
+TTITLE9=You never give me your money 
+TTITLE10=Tomorrow never knows 
+TTITLE11=Blackbird
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

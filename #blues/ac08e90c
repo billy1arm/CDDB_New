@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13283
+#	27985
+#	42713
+#	58925
+#	71158
+#	86650
+#	101725
+#	120215
+#	133790
+#	143310
+#	156448
+#
+# Disc length: 2283 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.07
+#
+DISCID=ac08e90c
+DTITLE=Tom Ball and Kenny Sultan - Too Much Fun
+DYEAR=1900
+DGENRE=
+TTITLE0=Too Much Fun
+TTITLE1=My Gal
+TTITLE2=Chicken Ala Blues
+TTITLE3=American Medley
+TTITLE4=Long Legged Woman
+TTITLE5=It Should've Been Me
+TTITLE6=How Can I Miss You When You Won't Go Away
+TTITLE7=Your Mind Is In The Gutter
+TTITLE8=Fly Hen Blues
+TTITLE9=Rake And Ramplin'/Table In Heaven
+TTITLE10=Days Like This
+TTITLE11=A Dollar Down
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

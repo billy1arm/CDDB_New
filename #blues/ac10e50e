@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27477
+#	56054
+#	80469
+#	97520
+#	123048
+#	145676
+#	166333
+#	193173
+#	212287
+#	242315
+#	264892
+#	287682
+#	303384
+#
+# Disc length: 4327 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ac10e50e
+DTITLE=John Zorn - More News for Lulu
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Blue Minor I
+TTITLE1=Hank's Other Tune
+TTITLE2=News For Lulu
+TTITLE3=Gare Guillemins
+TTITLE4=Minor Swing
+TTITLE5=KD's Motion
+TTITLE6=Funk in Deep Freeze
+TTITLE7=Eastern Incident
+TTITLE8=Lotus Blossom
+TTITLE9=Melanie
+TTITLE10=Ole
+TTITLE11=Blues Minor II
+TTITLE12=Peckin' time
+TTITLE13=Blues, Blues, Blues
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

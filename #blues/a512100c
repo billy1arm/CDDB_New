@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25029
+#	50634
+#	74305
+#	100216
+#	144762
+#	166224
+#	195972
+#	223824
+#	255235
+#	291173
+#	313798
+#
+# Disc length: 4626 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a512100c
+DTITLE=Uwe Timm - Halbschatten CD 1
+DYEAR=2008
+DGENRE=Hörbuch
+TTITLE0=Halbschatten CD 1-01
+TTITLE1=Halbschatten CD 1-02
+TTITLE2=Halbschatten CD 1-03
+TTITLE3=Halbschatten CD 1-04
+TTITLE4=Halbschatten CD 1-05
+TTITLE5=Halbschatten CD 1-06
+TTITLE6=Halbschatten CD 1-07
+TTITLE7=Halbschatten CD 1-08
+TTITLE8=Halbschatten CD 1-09
+TTITLE9=Halbschatten CD 1-10
+TTITLE10=Halbschatten CD 1-11
+TTITLE11=Halbschatten CD 1-12
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11870
+#	23840
+#	44152
+#	60282
+#	72790
+#	92935
+#	107800
+#	123325
+#	140997
+#	150692
+#	163370
+#
+# Disc length: 2366 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=ae093c0c
+DTITLE=Deanna Bogart - Out to Get You
+DYEAR=1900
+DGENRE=
+TTITLE0=Over Thirty
+TTITLE1=Thrash Boogie
+TTITLE2=Three Long Days
+TTITLE3=All Night Long
+TTITLE4=Cold Outside
+TTITLE5=Lay Me Down Slowly
+TTITLE6=Morning Glory
+TTITLE7=Good Times
+TTITLE8=Ethel's Place
+TTITLE9=Move Me Baby
+TTITLE10=Beat Me Daddy (Eight to the Bar)
+TTITLE11=Honeybee
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14802
+#	29569
+#	44760
+#	56951
+#	73972
+#	85135
+#	101207
+#	121124
+#	144399
+#	162728
+#
+# Disc length: 2412 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta4
+#
+DISCID=ad096a0b
+DTITLE=The Don Kelley Band - Everybody's Talking
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Roly Poly
+TTITLE1=Tennessee Stud
+TTITLE2=That's Alright Mama
+TTITLE3=Hey Baby
+TTITLE4=Big River
+TTITLE5=Truck Drivin' Man
+TTITLE6=Sittin' And Thinkin'
+TTITLE7=Everybody's Talkin'
+TTITLE8=Sixteen Tons
+TTITLE9=Makeup And Faded Blue Jeans
+TTITLE10=Orange Blossom Special
+EXTD=YEAR: 2000 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

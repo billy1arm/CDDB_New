@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  23220
+#  43867
+#  55695
+#  72035
+#  87770
+#  112902
+#  125685
+#  144665
+#  164322
+#  196420
+#  217360
+#
+# Disc length: 3097 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.12
+#
+DISCID=ae0c170c
+DTITLE=James Harman - Do Not Disturb
+DYEAR=1900
+DGENRE=
+TTITLE0=Do Not Disturb
+TTITLE1=I Declare
+TTITLE2=Wake-up Call
+TTITLE3=Rags To Riches
+TTITLE4=Stranger Blues
+TTITLE5=Icepick's Advice
+TTITLE6=Motel King
+TTITLE7=Swampnight
+TTITLE8=Icepick's Confession
+TTITLE9=Phonebill Blues
+TTITLE10=Mad 'Bout Something
+TTITLE11=I'm Gone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

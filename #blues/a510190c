@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35174
+#	59157
+#	83223
+#	106342
+#	127685
+#	150009
+#	172884
+#	194799
+#	222755
+#	257595
+#	280398
+#
+# Disc length: 4123 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a510190c
+DTITLE=Kitaro - Sacred Journey of Ku-Kai, Volume 1
+DYEAR=2003
+DGENRE=New Age
+TTITLE0=01. Michi
+TTITLE1=02. Kageroh
+TTITLE2=03. Shizuku
+TTITLE3=04. Flow
+TTITLE4=05. Nen
+TTITLE5=06. The Wind
+TTITLE6=07. Gi
+TTITLE7=08. Evening Sun
+TTITLE8=09. Silence
+TTITLE9=10. Earth in Bloom
+TTITLE10=11. Kuu
+TTITLE11=12. Cocoro
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

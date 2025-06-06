@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	160
+#	14785
+#	30449
+#	45270
+#	64702
+#	81890
+#	102261
+#	116884
+#	132596
+#	149881
+#	162758
+#	179588
+#
+# Disc length: 2561 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=ac09ff0c
+DTITLE=Слава Медяник - Се-ля-ви
+DYEAR=2001
+DGENRE=Chanson
+TTITLE0=Темница
+TTITLE1=Шоколадное тело
+TTITLE2=Алико
+TTITLE3=Стучат колёса
+TTITLE4=Последняя песня
+TTITLE5=Судьба-судьбинушка
+TTITLE6=Се-ля-ви
+TTITLE7=Ангел снов
+TTITLE8=Мадам
+TTITLE9=Судьба картёжника
+TTITLE10=Пьяный водитель
+TTITLE11=Барабанщик
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

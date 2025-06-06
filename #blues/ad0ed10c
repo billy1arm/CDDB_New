@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18110
+#	40244
+#	68856
+#	117616
+#	142768
+#	157372
+#	183145
+#	199926
+#	223008
+#	245548
+#	266352
+#
+# Disc length: 3795 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=ad0ed10c
+DTITLE=the coffee lounge - cappucino (music to watch the days go by)
+DYEAR=2003
+DGENRE=Jazz
+TTITLE0=The Bird
+TTITLE1=The Business End
+TTITLE2=Wandering Song
+TTITLE3=When I Fall In Love
+TTITLE4=Gross Rexman
+TTITLE5=Jive On Marko
+TTITLE6=Meaning In Sights Unseen
+TTITLE7=Mingus For Now
+TTITLE8=National Geographic
+TTITLE9=Mystic Ollie
+TTITLE10=Raga
+TTITLE11=Four Square
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

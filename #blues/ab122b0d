@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15489
+#	33987
+#	52146
+#	67798
+#	89173
+#	108918
+#	141320
+#	168888
+#	193348
+#	233361
+#	269574
+#	315218
+#
+# Disc length: 4653 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ab122b0d
+DTITLE=Sonny Stitt - Four Classic Albums CD 2
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Blues Greasy
+TTITLE1=I Can't Give You Anything But Love
+TTITLE2=Au Privave
+TTITLE3=The Gypsy
+TTITLE4=I'll Remember April
+TTITLE5=Scrapple From The Apple
+TTITLE6=Moten Swing
+TTITLE7=Blues For Pres, Sweets, Ben And All The Other Funky Ones
+TTITLE8=Easy Does It
+TTITLE9=Marchin'
+TTITLE10=S.O.S.
+TTITLE11=Jaws
+TTITLE12=I Can't Get Started
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

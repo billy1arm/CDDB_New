@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26984
+#	41492
+#	62408
+#	88073
+#	124527
+#	132341
+#	143098
+#	153029
+#	174834
+#	185086
+#	194690
+#	227877
+#
+# Disc length: 3042 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=af0be00d
+DTITLE=SpeedUpPlusOne! - タロット 「逆位置」 Disc 1
+DYEAR=2003
+DGENRE=未分類 (日本)
+TTITLE0=愚者
+TTITLE1=魔術師
+TTITLE2=女司祭
+TTITLE3=女帝
+TTITLE4=皇帝
+TTITLE5=司祭
+TTITLE6=恋人
+TTITLE7=戦車
+TTITLE8=力
+TTITLE9=隠者
+TTITLE10=運命の輪
+TTITLE11=正義
+TTITLE12=データトラック
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=
