@@ -1,0 +1,74 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13405
+#  27370
+#  41647
+#  61322
+#  73337
+#  86690
+#  108840
+#  124635
+#  136520
+#  149970
+#  167305
+#  182060
+#  206920
+#  226852
+#  251177
+#  268985
+#  278782
+#  297295
+#
+# Disc length: 4100 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.24
+#
+DISCID=27100213
+DTITLE=Doug Sahm and Friends - The Best of (Atlantic Sessions)
+DYEAR=1900
+DGENRE=
+TTITLE0=Texas Tornado
+TTITLE1=Nitty Gritty
+TTITLE2=(Is Anybody Going to) San Antone
+TTITLE3=Poison Love
+TTITLE4=Wallflower
+TTITLE5=Dealer's Blues
+TTITLE6=Ain't That Loving You
+TTITLE7=San Francisco FM Blues
+TTITLE8=I Get Off
+TTITLE9=Juan Mendoza
+TTITLE10=Box Car Hobo
+TTITLE11=The Image of Me
+TTITLE12=Tennessee Blues
+TTITLE13=Blue Horizon
+TTITLE14=Your Friends
+TTITLE15=A Song About Myself
+TTITLE16=Hard Way
+TTITLE17=Betty Jo
+TTITLE18=Chicano
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

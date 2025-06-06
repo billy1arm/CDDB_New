@@ -1,0 +1,84 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9172
+#	25080
+#	45542
+#	64572
+#	68592
+#	82360
+#	97329
+#	112329
+#	120752
+#	135057
+#	150395
+#	164745
+#	177945
+#	203337
+#	225422
+#	237380
+#	252542
+#	263180
+#	285105
+#	293187
+#	305540
+#
+# Disc length: 4158 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=22103c16
+DTITLE=Leon McAuliffe and Members Of The Original Texas Playboys 
+DTITLE=/ Live From The Longhorn Ballroom, Dallas, Texas
+DYEAR=1900
+DGENRE=
+TTITLE0=Theme...Show Introduction
+TTITLE1=New San Antonio Rose
+TTITLE2=Time Changes Everything
+TTITLE3=Steel Guitar Rag
+TTITLE4=Tribute Dialog
+TTITLE5=Dusty Skies
+TTITLE6=Miss Molly
+TTITLE7=Lilly Dale
+TTITLE8=Dialog
+TTITLE9=Corrine Corrina
+TTITLE10=Osage Stomp
+TTITLE11=Marie
+TTITLE12=Stardust
+TTITLE13=Introduction Of Band Members And Their Ages
+TTITLE14=Milk Cow Blues
+TTITLE15=Ida Red
+TTITLE16=Four Or Five Times
+TTITLE17=Violin Hoedown
+TTITLE18=Faded Love
+TTITLE19=Dialog
+TTITLE20=Stay All Night, Stay A Little Longer
+TTITLE21=Closing Of Broadcast
+EXTD=Collector's Choice Music  CCM-038
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

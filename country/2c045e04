@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17260
+#	42162
+#	59240
+#
+# Disc length: 1120 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=2c045e04
+DTITLE=Tomohiko Kikuta - Hutuu no nitiyoubi ni
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Futsuu no Nichiyoubi ni
+TTITLE1=Kenka no Ato de...
+TTITLE2=Futsuu no Nichiyoubi ni (karaoke)
+TTITLE3=Kenka no Ato de... (karaoke)
+EXTD=YEAR: 2001  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

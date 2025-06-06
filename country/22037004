@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16118
+#	32053
+#	48191
+#
+# Disc length: 882 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=22037004
+DTITLE=april kelloms - album demo
+DYEAR=2002
+DGENRE=Country
+TTITLE0=with you
+TTITLE1=how could I ask for more
+TTITLE2=somewhere over the rainbow
+TTITLE3=any man of mine
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     24667
+#     41524
+#     55658
+# 
+# Disc length: 1015 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=2903f504
+DTITLE=Kimber Clayton - Addicted to Love
+DYEAR=1900
+DGENRE=
+TTITLE0=Addicted To Love (Dance Mix)
+TTITLE1=Drink The Ocean
+TTITLE2=Deep In The Heart
+TTITLE3=Addicted To Love (Radio Mix)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

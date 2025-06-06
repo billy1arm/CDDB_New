@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21095
+#	43417
+#
+# Disc length: 854 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=21035403
+DTITLE=ZARD - 明日を夢見て
+DYEAR=2003
+DGENRE=JPop
+TTITLE0=明日を夢見て
+TTITLE1=探しに行こうよ
+TTITLE2=明日を夢見て (Instrumental)
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

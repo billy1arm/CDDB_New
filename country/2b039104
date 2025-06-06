@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20347
+#	37466
+#	54049
+#
+# Disc length: 915 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2b039104
+DTITLE=Supersonic - Rock 'n' Roll
+DYEAR=2004
+DGENRE=Rock
+TTITLE0=Rock 'n' Roll
+TTITLE1=Sucker Punch
+TTITLE2=Not My Kind
+TTITLE3=Unco
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

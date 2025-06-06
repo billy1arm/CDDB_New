@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	13452
+#	29050
+#
+# Disc length: 661 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.07.15)
+#
+DISCID=25029303
+DTITLE=Sherrié Austin - Tenderly
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Tenderly
+TTITLE1=Lucky In Love
+TTITLE2=You Keep On Lovin Me
+EXTD=ID3G:   2 YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

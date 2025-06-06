@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15186
+#	29743
+#	47963
+#
+# Disc length: 867 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=2a036104
+DTITLE=Amanda Guzmán - Tú serás
+DYEAR=2002
+DGENRE=Pop
+TTITLE0=Soñé
+TTITLE1=Tú serás
+TTITLE2=Oye escúchame
+TTITLE3=Fue un error
+EXTD=YEAR: 2002 ID3G: 13
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=with Mary Chapin Carpenter
+PLAYORDER=

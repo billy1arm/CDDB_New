@@ -1,0 +1,77 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12620
+#	23477
+#	36982
+#	49927
+#	60420
+#	71502
+#	82767
+#	91942
+#	101807
+#	112490
+#	125447
+#	137187
+#	146950
+#	158887
+#	168682
+#	178105
+#	190035
+#	202582
+#	215350
+#
+# Disc length: 3023 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta0
+#
+DISCID=200bcd14
+DTITLE=Jim Reeves - The Ultimate Collection Disc 1
+DYEAR=1900
+DGENRE=Country
+TTITLE0=I Love You Because
+TTITLE1=Welcome to my World
+TTITLE2=Have You Ever Been Lonely (Have You Ever Been Blue)
+TTITLE3=Have I Told You Lately That I Love You?
+TTITLE4=He'll Have To Go
+TTITLE5=Make The World Go Away
+TTITLE6=Moon River
+TTITLE7=I Won't Forget You
+TTITLE8=When Two Worlds Collide
+TTITLE9=Memories Are Made Of This
+TTITLE10=You'll Never Know
+TTITLE11=Mona Lisa
+TTITLE12=Oh, How I Miss You Tonight
+TTITLE13=Mexican Joe
+TTITLE14=It Hurts Me So Much To See You Go
+TTITLE15=There's A Heartache Following Me
+TTITLE16=Am I Losing You
+TTITLE17=Blue Side Of Lonliness
+TTITLE18=Four Walls
+TTITLE19=Adios Amigo
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

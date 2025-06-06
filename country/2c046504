@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19125
+#	45085
+#	65850
+#
+# Disc length: 1127 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2c046504
+DTITLE=トリニティブラッド製作委員会 - Trinity Blood シークレットボイスCd　01
+DYEAR=2005
+DGENRE=Anime
+TTITLE0=アベル編「報告書まとめ」
+TTITLE1=カテーリナ編「両親の墓参り」
+TTITLE2=トレス編「特殊任務」
+TTITLE3=フリートーク
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

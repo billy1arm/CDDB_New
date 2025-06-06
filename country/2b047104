@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	19955
+#	42920
+#	62440
+#
+# Disc length: 1139 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2b047104
+DTITLE=G.S.P - The Banana Song
+DYEAR=1992
+DGENRE=Rave
+TTITLE0=The Banana Song (Splits Mix)
+TTITLE1=The Banana Song (Garage Tec Mix)
+TTITLE2=Feel It (Garage Mix)
+TTITLE3=The Banana Song (Tec Mix)
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

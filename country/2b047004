@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21350
+#	39742
+#	68355
+#
+# Disc length: 1138 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2b047004
+DTITLE=Shania Twain - That Don't Impress Me Much
+DYEAR=1998
+DGENRE=Dance
+TTITLE0=That Don't Impress Me Much (Dance Mix)
+TTITLE1=From This Moment On (Tempo Mix)
+TTITLE2=From This Moment On (Dance Mix)
+TTITLE3=Honey, I'm Home (Live/Direct TV Mix)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

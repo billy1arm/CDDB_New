@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20725
+#	40187
+#	51950
+#	71952
+#	85315
+#	102110
+#	118080
+#	134597
+#	149995
+#	167410
+#	184927
+#	200390
+#	217452
+#	230310
+#	249727
+#	261160
+#	282747
+#
+# Disc length: 3990 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=2b0f9412
+DTITLE=Garth Brooks - The Hits
+DYEAR=1994
+DGENRE=Rock
+TTITLE0=Ain't Going Down (Til The Sun Comes Up)
+TTITLE1=Friends In Low Places
+TTITLE2=Callin' Baton Rouge
+TTITLE3=The River
+TTITLE4=Much Too Young (To Feel This Damn Old)
+TTITLE5=The Thunder Rolls
+TTITLE6=American Honky-Tonk Bar Association
+TTITLE7=If Tomorrow Never Comes
+TTITLE8=Unanswered Prayers
+TTITLE9=Standing Outside The Fire
+TTITLE10=Rodeo
+TTITLE11=What She's Doing Now
+TTITLE12=We Shall Be Free
+TTITLE13=Papa Loved Mama
+TTITLE14=Shameless
+TTITLE15=Two Of A Kind, Workin' On A Full House
+TTITLE16=That Summer
+TTITLE17=The Dance
+EXTD=\n YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

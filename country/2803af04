@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18235
+#	38140
+#	55232
+#
+# Disc length: 945 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2803af04
+DTITLE=The Breakers - Number One
+DYEAR=1998
+DGENRE=Country
+TTITLE0=This is the last time
+TTITLE1=Where are you now?
+TTITLE2=I think it's love
+TTITLE3=Cross my heart
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

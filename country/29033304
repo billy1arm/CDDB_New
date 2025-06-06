@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16786
+#	29688
+#	45707
+#
+# Disc length: 821 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=29033304
+DTITLE=The Pines - In Time For Christmas Day
+DYEAR=2000
+DGENRE=Indie
+TTITLE0=Chalet
+TTITLE1=Miracles
+TTITLE2=High Street
+TTITLE3=Silver Bells
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

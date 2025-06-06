@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15650
+#	39280
+#	57877
+#
+# Disc length: 1064 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=25042604
+DTITLE=Sheryl Crow - Soak Up The Sun
+DYEAR=2002
+DGENRE=Pop
+TTITLE0=Soak Up The Sun (Radio Edit)
+TTITLE1=Chances Are
+TTITLE2=You´re Not The One
+TTITLE3=Soak Up The Sun (Album Version)
+EXTD=YEAR: 2002 ID3G: 13
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

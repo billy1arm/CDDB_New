@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18364
+#	36772
+#	68844
+#
+# Disc length: 1200 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2a04ae04
+DTITLE=Kasey Chambers - Saturated - single
+DYEAR=2005
+DGENRE=Country
+TTITLE0=Saturated
+TTITLE1=Bluebird
+TTITLE2=Pony (live)
+TTITLE3=Data
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

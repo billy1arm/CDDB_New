@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25096
+#	46426
+#	72113
+#
+# Disc length: 1229 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2c04cb04
+DTITLE=Various Artist - 023 - Synthom - Der Weg
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Der Weg
+TTITLE1=Komm zurück
+TTITLE2=Wenn du willst
+TTITLE3=Tu es !
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

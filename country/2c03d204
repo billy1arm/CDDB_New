@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16044
+#	36827
+#	51618
+#
+# Disc length: 980 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2c03d204
+DTITLE=Ragtop - Life According to Berklee Pre-release
+DYEAR=2005
+DGENRE=Country
+TTITLE0=Leave Again
+TTITLE1=Still With You Tonight
+TTITLE2=Playing Cool
+TTITLE3=This Ol' Town
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

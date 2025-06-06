@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21892
+#     40117
+#     56957
+# 
+# Disc length: 1033 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=2f040704
+DTITLE=Mary Chapin Carpenter - Live At  'Her Majesty's Theatre' [CD-Single)
+DYEAR=1900
+DGENRE=
+TTITLE0=Shut Up And Kiss Me
+TTITLE1=This Shirt
+TTITLE2=The Last Word
+TTITLE3=Stones In The Road
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

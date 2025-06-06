@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15840
+#	37124
+#	58461
+#
+# Disc length: 1076 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2e043204
+DTITLE=David Bowie - Everyone Says 'Hi' (Single)
+DYEAR=2002
+DGENRE=Rock
+TTITLE0=Everyone Says 'Hi' (radio edit)
+TTITLE1=Safe
+TTITLE2=Baby Loves That Way
+TTITLE3=Sunday (Tony Visconti Mix)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

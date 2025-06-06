@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17040
+#	41022
+#	55745
+#
+# Disc length: 957 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.07
+#
+DISCID=2a03bb04
+DTITLE=Dwight Yoakam - Things We Said Today
+DYEAR=1900
+DGENRE=
+TTITLE0=Things We Said Today
+TTITLE1=Long White Cadillac
+TTITLE2=Here Comes The Night
+TTITLE3=Please, Please Baby
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

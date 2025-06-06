@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18105
+#	33920
+#	48269
+#
+# Disc length: 854 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=21035404
+DTITLE=Kelly Black - Pilgrim
+DYEAR=2004
+DGENRE=Country
+TTITLE0=pilgrim in the rain
+TTITLE1=take me back
+TTITLE2=going home
+TTITLE3=mistake
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11636
+#	23373
+#	40197
+#	46354
+#
+# Disc length: 740 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=2e02e205
+DTITLE=Patrick Stewart - Cowboy Classics Sampler
+DYEAR=2016
+DGENRE=Country
+TTITLE0=Buttons and Bows
+TTITLE1=Don't Fence Me In
+TTITLE2=Ringo
+TTITLE3=I'm An Old Cowhand Feat. Sunny Ozell
+TTITLE4=Here Comes Santa Claus
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

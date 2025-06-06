@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20277
+#	39865
+#	59965
+#
+# Disc length: 1058 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2d042004
+DTITLE=ZMAP - Forever Love
+DYEAR=1998
+DGENRE=J-Pop
+TTITLE0=Forever Love
+TTITLE1=Together
+TTITLE2=Forever Love (OFF VOCAL VERSION)
+TTITLE3=Together (OFF VOCAL VERSION)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

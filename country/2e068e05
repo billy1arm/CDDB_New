@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17488
+#	46573
+#	72824
+#	102165
+#
+# Disc length: 1680 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e068e05
+DTITLE=Gigi D'Agostino - Gin lemon CDM
+DYEAR=1998
+DGENRE=Dance
+TTITLE0=Gin lemon [radio edit]
+TTITLE1=Gin lemon [more gin lemon]
+TTITLE2=Gin lemon [gin lemon]
+TTITLE3=Gin lemon [dub gin lemon]
+TTITLE4=Gin lemon [picotto mix]
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

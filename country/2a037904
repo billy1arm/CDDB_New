@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     14477
+#     31837
+#     51930
+# 
+# Disc length: 891 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=2a037904
+DTITLE=Old 97's - The Nothing To Attract You EP
+DYEAR=1900
+DGENRE=
+TTITLE0=Time Bomb
+TTITLE1=Barrier Reef
+TTITLE2=Northern Line
+TTITLE3=Four Leaf Clover
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

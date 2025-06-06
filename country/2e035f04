@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18552
+#	35800
+#	48900
+#
+# Disc length: 865 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=2e035f04
+DTITLE=LeAnn Rimes - Looking Through Your Eyes
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Looking Though Your Eyes
+TTITLE1=On the Side Of Angels
+TTITLE2=Hurt Me
+TTITLE3=The Rose
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14207
+#	25351
+#
+# Disc length: 500 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2201f203
+DTITLE=Andrea - Country - Folk - Balladen
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Blanked on the ground
+TTITLE1=Streets of London
+TTITLE2=Tarry trousers
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

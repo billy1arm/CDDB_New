@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21604
+#	39237
+#	54969
+#	71187
+#	92546
+#	115900
+#	124800
+#	140490
+#	167622
+#	184112
+#	209185
+#	232276
+#	248923
+#	265752
+#	285138
+#	297827
+#	304091
+#	321071
+#	338810
+#
+# Disc length: 4712 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e126614
+DTITLE=Brathanki - The Best
+DYEAR=2001
+DGENRE=Country
+TTITLE0=A on tak calowal, tak calowal mnie
+TTITLE1=Gdzie ten, ktory powie mi
+TTITLE2=W kinie, w Lublinie - kochaj mnie
+TTITLE3=Czerwone korale
+TTITLE4=Dzyn, dzyn, dzyn - kolysanka dla Jacusia
+TTITLE5=Heniek
+TTITLE6=Let's Make the Water Turn Black
+TTITLE7=Ballada o milosci, Staszku i jego bracie Marianie
+TTITLE8=Hej gory, hej gory
+TTITLE9=Siebie dam po slubie
+TTITLE10=W lesie co jest blisko sadu
+TTITLE11=Jestem, jestem Nowak Rysiek
+TTITLE12=Widac tak byc z nami mialo
+TTITLE13=Wianek Hanki
+TTITLE14=Zycie to nie miec lecz byc
+TTITLE15=Steffano
+TTITLE16=Baltover Hadova
+TTITLE17=Poszlabym za toba gora
+TTITLE18=To sa rece, to dziewczece biodra
+TTITLE19=Czyjes cialo noca
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

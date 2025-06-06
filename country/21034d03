@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21980
+#	41800
+#
+# Disc length: 847 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=21034d03
+DTITLE=hitomi - there is...
+DYEAR=1999
+DGENRE=JPop
+TTITLE0=there is...
+TTITLE1=re-make
+TTITLE2=there is... (instrumental)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

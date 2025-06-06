@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	13900
+#	25732
+#	42680
+#
+# Disc length: 714 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=2e02c804
+DTITLE=Patsy Cline - CD3
+DYEAR=1900
+DGENRE=
+TTITLE0=She's Got You
+TTITLE1=When I Get Through With You
+TTITLE2=Faded Love
+TTITLE3=Leavin' On Your Mind
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

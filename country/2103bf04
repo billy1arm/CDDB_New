@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17365
+#	36281
+#	53445
+#
+# Disc length: 961 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2103bf04
+DTITLE=坂本真綾 - Unknown CD for MusicBrainz and FreeDB
+DYEAR=2006
+DGENRE=Anime
+TTITLE0=風待ちジェット
+TTITLE1=スピカ
+TTITLE2=風待ちジェット (without maaya)
+TTITLE3=スピカ (without maaya)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

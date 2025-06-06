@@ -1,0 +1,82 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17350
+#	36257
+#	48300
+#	60017
+#	75785
+#	90057
+#	106662
+#	122370
+#	137480
+#	148982
+#	172040
+#	188892
+#	205237
+#	219857
+#	234395
+#	249707
+#	269052
+#	283567
+#	296242
+#	311910
+#	324297
+#
+# Disc length: 4579 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2b11e116
+DTITLE=Various Artist - Classic Country Music Smithsonian Volume 4
+DYEAR=1990
+DGENRE=Country
+TTITLE0=Ray Price - For the Good Times
+TTITLE1=Flying Burrito Brothers - Sin City
+TTITLE2=Loretta Lynn and Conway Twitty - After the Fire is Gone
+TTITLE3=Lefty Frizzell - I Never Go Around Mirrors
+TTITLE4=Kris Kristofferson - Why Me, Lord
+TTITLE5=George Jones - The Grand Tour
+TTITLE6=Gram Parsons and Emmylou Harris - Love Hurts
+TTITLE7=Waylon Jennings - Bob Wills is Still the King
+TTITLE8=Ronnie Milsap - Who'll Turn Out the Lights
+TTITLE9=Willie Nelson and Waylon Jennings - Mamas, Don't Let Your Babies Grow Up to Be Cowboys
+TTITLE10=Rodney Crowell - 'Til I Gain Control Again
+TTITLE11=Emmylou Harris - Beneath Still Waters
+TTITLE12=Charlie Daniels - The Devil Went Down to Georgia
+TTITLE13=George Jones - He Stopped Loving Her Today
+TTITLE14=Alabama - Old Flame
+TTITLE15=Alabama - Forty Hour Week
+TTITLE16=Hank Williams, Jr. - A Country Boy Can Survive
+TTITLE17=Ricky Skaggs - Don't Get Above Your Raising
+TTITLE18=Dwight Yoakam - Honky Tonk Man
+TTITLE19=Bellamy Brothers - Kids of the Baby Boom
+TTITLE20=Dolly Parton - 9 to 5
+TTITLE21=The Judds - Grandpa (Tell Me 'Bout the Good Old Days)
+EXTD=YEAR: 1990
+EXTT0=Ray Price
+EXTT1=Flying Burrito Brothers
+EXTT2=Loretta Lynn and Conway Twitty
+EXTT3=Lefty Frizzell
+EXTT4=Kris Kristofferson
+EXTT5=George Jones
+EXTT6=Gram Parson and Emmylou Harris
+EXTT7=Waylon Jennings
+EXTT8=Ronnie Milsap
+EXTT9=Willie Nelson and Waylon Jennings
+EXTT10=Rodney Crowell
+EXTT11=Emmylou Harris
+EXTT12=Charlie Daniels
+EXTT13=George Jones
+EXTT14=Alabama
+EXTT15=Alabama
+EXTT16=Hank Williams, Jr.
+EXTT17=Ricky Skaggs
+EXTT18=Dwight Yoakam
+EXTT19=Bellamy Brothers
+EXTT20=Dolly Parton
+EXTT21=The Judds
+PLAYORDER=

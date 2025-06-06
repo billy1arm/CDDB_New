@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18525
+#	36825
+#	55185
+#
+# Disc length: 978 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2c03d004
+DTITLE=我孫子　舞 - マンモスが来た！！
+DYEAR=1996
+DGENRE=Pop
+TTITLE0=マンモスが来た！！
+TTITLE1=ベシッ！！
+TTITLE2=マンモスが来た！！（カラオケ）
+TTITLE3=ベシッ！！（カラオケ）
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

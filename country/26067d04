@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17785
+#	34762
+#	61647
+#
+# Disc length: 1663 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=26067d04
+DTITLE=Lene Marlin - Sitting Down Here
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Sitting Down Here (Original Version)
+TTITLE1=Sitting Down Here (Tin Tin Out Mix)
+TTITLE2=Playing My Game (Acoustic Version)
+TTITLE3=Sitting Down Here (Video)
+EXTD=\nYEAR: 2000  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

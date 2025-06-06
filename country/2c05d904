@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19344
+#	34643
+#	64755
+#
+# Disc length: 1499 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2c05d904
+DTITLE=Hard-Fi - Hard to Beat
+DYEAR=2005
+DGENRE=Rock
+TTITLE0=Hard to Beat
+TTITLE1=Stronger
+TTITLE2=Seven Nation Army
+TTITLE3=Hard to Beat Video
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

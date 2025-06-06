@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16480
+#	32842
+#	51325
+#
+# Disc length: 931 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2e03a104
+DTITLE=Peter Cox - If You Walk Away [CDs)
+DYEAR=1997
+DGENRE=Vocal
+TTITLE0=If You Walk Away (Cutfather and Joe Mix Edit)
+TTITLE1=If You Walk Away (Album Edit)
+TTITLE2=Closer
+TTITLE3=Aint Gonna Cry Again (Album Version)
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

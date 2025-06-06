@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	34235
+#	71627
+#	107532
+#
+# Disc length: 1834 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=2f072804
+DTITLE=Les grands #1 du Country - Volume 1
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Saloon Lucky Luke
+TTITLE1=Saloon Texas
+TTITLE2=Saloon Nashville
+TTITLE3=Saloon Dalton
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

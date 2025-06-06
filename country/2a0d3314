@@ -1,0 +1,76 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15322
+#	25412
+#	36654
+#	48256
+#	63570
+#	74316
+#	86695
+#	99239
+#	110650
+#	120263
+#	135650
+#	147384
+#	164155
+#	183528
+#	195599
+#	207179
+#	220101
+#	232391
+#	245341
+#
+# Disc length: 3381 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.95
+#
+DISCID=2a0d3314
+DTITLE=Various Artist - Golden Country Hits Vol25 Cd1
+DYEAR=1999
+DGENRE=Oldies
+TTITLE0=Carl Perkins - The hurt put on us by you
+TTITLE1=Danny Davis and The Nashville Brass - Orange blossom special
+TTITLE2=Faron Young - Is it really Over
+TTITLE3=Willie Nelson - I don't feel anything
+TTITLE4=Terri Gibbs - Dreaming
+TTITLE5=Glen Yarborough - Johnny Hardy
+TTITLE6=Ferlin Husky - Freight thiner fever
+TTITLE7=Tanya Tucker - San Antonio stroll
+TTITLE8=George Jones - She's my rock
+TTITLE9=Terri Gibbs - Same old mop
+TTITLE10=Razzy Bailey - Your cheating heart
+TTITLE11=Ronnie McDowell - New York minute
+TTITLE12=T G Sheppard - Finally
+TTITLE13=Osmond Brothers - He ain't heacy he's my brother
+TTITLE14=Merle Haggard - The fightin' side of me
+TTITLE15=Willie Nelson - Pages
+TTITLE16=Tina Turner - Freedom to stay
+TTITLE17=Johnny Lee - Ruby Louise
+TTITLE18=Don Williams ft Emelou Harris - Ruby tuesday
+TTITLE19=Hoyt Axton - Big red
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

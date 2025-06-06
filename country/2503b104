@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23453
+#	42994
+#	55102
+#
+# Disc length: 947 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=2503b104
+DTITLE=The Flatlanders - Selections from the upcoming album Now Again
+DYEAR=2002
+DGENRE=Country
+TTITLE0=She's Gone Now
+TTITLE1=Julia
+TTITLE2=Wavin' My Heart Goodbye
+TTITLE3=Now It's Now Again
+EXTD=YEAR: 2002 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

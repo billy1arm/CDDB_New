@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14577
+#	29810
+#
+# Disc length: 755 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=2302f103
+DTITLE=Dixie Chicks - There's Your Trouble [CD Single 1)
+DYEAR=1900
+DGENRE=Country
+TTITLE0=There's Your Trouble
+TTITLE1=Stand By Your Man
+TTITLE2=There's Your Trouble (Jay Joyce Extended Remix)
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

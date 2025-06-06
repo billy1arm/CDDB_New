@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35455
+#	47668
+#	60127
+#
+# Disc length: 975 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=2603cd04
+DTITLE=アールグレイ - 早苗と天子のダブルDOKIDOKIディスク
+DYEAR=2009
+DGENRE=東方Project
+TTITLE0=『人肌が恋しくて……by早苗&天子』(Voice)
+TTITLE1=『ちょっぴりだけでしたら……by早苗』(Voice)
+TTITLE2=『うん、気持ちいいわよ……by天子』(Voice)
+TTITLE3=『それではおやすみなさい。by早苗&天子』(Voice)
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

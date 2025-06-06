@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	182
+# 	13345
+# 	27292
+# 	43580
+#
+# Disc length: 784 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=2b030e04
+DTITLE=Louisa Manuel - I Don't Think I Love You
+DYEAR=1900
+DGENRE=
+TTITLE0=I Don't Think I Love You
+TTITLE1=Only Memories
+TTITLE2=Boy O'Boy Girl
+TTITLE3=Good Thing Going
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17447
+#	30156
+#	41817
+#
+# Disc length: 668 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=20029a04
+DTITLE=Erkki ja Tähti - Krokotiilibuutsit
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Krokotiilibuutsit
+TTITLE1=SikaNauta-Blues
+TTITLE2=Kauppaopiston naiset
+TTITLE3=High Chapparal
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

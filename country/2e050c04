@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24549
+#	45647
+#	68920
+#
+# Disc length: 1294 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=2e050c04
+DTITLE=Truck Stop - 1000 Meilen Staub [CD2)
+DYEAR=1993
+DGENRE=Country
+TTITLE0=Arizona-Hit-Medley
+TTITLE1=Cash-Medley
+TTITLE2=Schmuse-Medley
+TTITLE3=Hilly Billy Medley
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

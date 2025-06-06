@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19643
+#	34334
+#	51771
+#
+# Disc length: 916 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=2a039204
+DTITLE=Little Folk - Little Folk
+DYEAR=2015
+DGENRE=Country
+TTITLE0=Music City
+TTITLE1=Working On Me
+TTITLE2=Eleanor
+TTITLE3=Night Like This
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

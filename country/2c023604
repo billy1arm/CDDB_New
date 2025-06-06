@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17657
+#	32877
+#	41157
+#
+# Disc length: 568 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=2c023604
+DTITLE=Charlie Daniels - In America
+DYEAR=2000
+DGENRE=Country
+TTITLE0=My Beautiful America
+TTITLE1=In America
+TTITLE2=Star Spangled Banner
+TTITLE3=Pledge of Alleniance
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

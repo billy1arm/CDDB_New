@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	16960
+# 	39810
+# 	59447
+#
+# Disc length: 1098 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.2
+#
+DISCID=26044804
+DTITLE=Mary-Chapin Carpenter - Shut up and kiss me
+DYEAR=1900
+DGENRE=
+TTITLE0=Shut up and kiss me
+TTITLE1=End of my pirate days
+TTITLE2=The moon and St. Christopher
+TTITLE3=I am in town
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

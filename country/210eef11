@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13940
+#     33135
+#     49837
+#     65762
+#     84195
+#     103852
+#     123215
+#     140682
+#     155710
+#     171632
+#     187310
+#     209427
+#     224980
+#     237742
+#     254800
+#     269750
+# 
+# Disc length: 3825 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=210eef11
+DTITLE=Various Artist - Spend Some Time In Our Country
+DYEAR=1900
+DGENRE=
+TTITLE0=Country Till I Die
+TTITLE1=Mississippi Moon
+TTITLE2=One Good Man
+TTITLE3=The Wall
+TTITLE4=You Never Even Call Me By My Name
+TTITLE5=Waymore's Blues Part II
+TTITLE6=Don't Close Your Eyes
+TTITLE7=A Voice Still Rings True
+TTITLE8=Give Me One More Shot
+TTITLE9=We Can't Love Like This Anymore
+TTITLE10=She's Not The Cheatin' Kind
+TTITLE11=You're Gonna Miss Me When I'm Gone
+TTITLE12=Untanglin' My Mind
+TTITLE13=Summer's Comin'
+TTITLE14=I Got It Honest
+TTITLE15=Finish What We Started
+TTITLE16=Livin' On Love
+EXTD=
+EXTT0=John Anderson\n
+EXTT1=John Anderson\n
+EXTT2=Michelle Wright\n
+EXTT3=Michelle Wright\n
+EXTT4=Doug Supernaw\n
+EXTT5=Waylon Jennings\n
+EXTT6=Alan Jackson\n
+EXTT7=Various Artists\n
+EXTT8=Alabama\n
+EXTT9=Alabama\n
+EXTT10=Brooks and Dunn\n
+EXTT11=Brooks and Dunn\n
+EXTT12=Clint Black\n
+EXTT13=Clint Black\n
+EXTT14=Aaron Tippin\n
+EXTT15=Diamond Rio\n
+EXTT16=Alan Jackson\n
+PLAYORDER=

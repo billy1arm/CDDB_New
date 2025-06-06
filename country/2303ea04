@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19518
+#	38021
+#	57079
+#
+# Disc length: 1004 seconds
+#
+# Revision: 25
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=2303ea04
+DTITLE=泉こなた (平野綾), 柊かがみ (加藤絵美里), 柊つかさ (福原香織), 高良みゆき (遠藤綾) - もってけ! セーラーふく
+DYEAR=2007
+DGENRE=アニメ
+TTITLE0=もってけ! セーラーふく
+TTITLE1=かえして! ニーソックス
+TTITLE2=もってけ! セーラーふく (off Vocal)
+TTITLE3=かえして! ニーソックス (off Vocal)
+EXTD=YEAR: 2007
+EXTT0=曲:神前暁 詞:畑亜貴
+EXTT1=曲:nishi-ken 詞:畑亜貴
+EXTT2=曲:神前暁
+EXTT3=曲:nishi-ken
+PLAYORDER=

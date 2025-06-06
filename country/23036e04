@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#     150
+#     10425
+#     30825
+#     49650
+#
+# Disc length: 880 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Clarion 0.9.2
+#
+DISCID=23036e04
+DTITLE=Marilyn Jaye Lewis - Marilyn Jaye Lewis
+DYEAR=1900
+DGENRE=
+TTITLE0=One Step Closer
+TTITLE1=Something Like the Railroad
+TTITLE2=Boy, if you want
+TTITLE3=Crossin' by the levee
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

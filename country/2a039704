@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	16412
+#	36350
+#	47575
+#
+# Disc length: 921 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=2a039704
+DTITLE=Nanci Griffith - Late Night Grande Hotel
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Late Night Grande Hotel
+TTITLE1=It's Just Another Morning Here
+TTITLE2=Wooden Heart
+TTITLE3=From A Distance (live)
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=
