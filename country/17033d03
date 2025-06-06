@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19145
+#	38485
+#
+# Disc length: 831 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=17033d03
+DTITLE=Loreena McKennitt - Loreena McKennitt Sampler CD 9
+DYEAR=2000
+DGENRE=Alternative
+TTITLE0=The Book Of Secrets
+TTITLE1=The Mask And The Mirror
+TTITLE2=Parallel Dreams
+EXTD=YEAR: 2000 ID3G: 20
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

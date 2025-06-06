@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12627
+#	23452
+#	35150
+#	45675
+#	58937
+#	80097
+#	89512
+#	101372
+#	113697
+#	124185
+#	134017
+#	147672
+#	160447
+#	171985
+#	184627
+#	194990
+#	205867
+#
+# Disc length: 2919 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=140b6512
+DTITLE=Various Artist - Totally Classic Country Volume 1
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Johnny Cash - I Walk The Line
+TTITLE1=Dave Dudley - Six Days On The Road
+TTITLE2=Patsy Cline - Walkin' After Midnight
+TTITLE3=Jim Reeves - He'll Have To Go
+TTITLE4=Jerry Llee Lewis - You Win Again
+TTITLE5=Marty Robbins - El Paso
+TTITLE6=Bob Luman - Let's Think About Living
+TTITLE7=Bobby Edwards - You're The Reason
+TTITLE8=Wynn Stewart - Wishful Thinking
+TTITLE9=Cowboy Copas - Alabam
+TTITLE10=Ned Miller - From A Jack To A King
+TTITLE11=Jimmy Dean - Big Bad John
+TTITLE12=Bobby Bare - Detroit City
+TTITLE13=Sammi Smith - Help Me Make It Through The Night
+TTITLE14=Nat Stuckey - Sweet Thang
+TTITLE15=George Jones - Walk Through This World With Me
+TTITLE16=Hank Thompson - On Tap, In The Can, Or In The Bottle
+TTITLE17=Lynn Anderson - Rose Garden
+EXTD=YEAR: 2002
+EXTT0=Johnny Cash
+EXTT1=Dave Dudley
+EXTT2=Patsy Cline
+EXTT3=Jim Reeves
+EXTT4=Jerry Lee Lewis
+EXTT5=Marty Robbins
+EXTT6=Bob Luman
+EXTT7=Bobby Edwards
+EXTT8=Wynn Stewart
+EXTT9=Cowboy Copas
+EXTT10=Ned Miller
+EXTT11=Jimmy Dean
+EXTT12=Bobby Bare
+EXTT13=Sammi Smith
+EXTT14=Nat Stuckey
+EXTT15=George Jones
+EXTT16=Hank Thompson
+EXTT17=Lynn Anderson
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19822
+#	39170
+#
+# Disc length: 776 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=17030603
+DTITLE=Spice Girls - Goodbye
+DYEAR=2003
+DGENRE=JPop
+TTITLE0=Goodbye
+TTITLE1=Christmas wrapping
+TTITLE2=Goodbye
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

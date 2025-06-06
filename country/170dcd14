@@ -1,0 +1,81 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16565
+#	30365
+#	41280
+#	53335
+#	66712
+#	77535
+#	89662
+#	102425
+#	113397
+#	132172
+#	142125
+#	155025
+#	168637
+#	181775
+#	193747
+#	205650
+#	219712
+#	235400
+#	247497
+#
+# Disc length: 3535 seconds
+#
+# Revision: 69
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=170dcd14
+DTITLE=Brenda Lee - The Legendary Brenda Lee [Disc 2]
+DYEAR=1900
+DGENRE=
+TTITLE0=Georgia On My Mind
+TTITLE1=All The Way
+TTITLE2=Pennies From Heaven
+TTITLE3=Kansas City
+TTITLE4=Only You (And You Alone)
+TTITLE5=Bill Bailey, Won't You Please Come Home
+TTITLE6=Someday You'll Want Me To Want You
+TTITLE7=Cry
+TTITLE8=Rock-A-Bye Your Baby With A Dixie Melody
+TTITLE9=For The Good Times
+TTITLE10=Side By Side
+TTITLE11=I'm In The Mood For Love
+TTITLE12=When I Fall In Love
+TTITLE13=Will You Still Love Me Tomorrow
+TTITLE14=Fools Rush In (Where Angels Fear To Tread)
+TTITLE15=I'll Be Seeing You
+TTITLE16=The End Of The World
+TTITLE17=Sweet Memories
+TTITLE18=Take Me Home, Country Roads
+TTITLE19=Loving Arms (Live)
+EXTD=Disc 1 - Emotions/Brenda's Greatest Hits, As Usual/More Great Hi
+EXTD=ts\nDisc 2 - Pennies from Heaven/The Great Pop Standards, Side By
+EXTD=Side/Brenda In Love, Sweet Memories\nDisc 3 - Too Many Rivers/Ea
+EXTD=rly Country Favorites, Nobody Wins/Top 10 Country Hits, Tell Me 
+EXTD=What It's Like/More Great Country Hits
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

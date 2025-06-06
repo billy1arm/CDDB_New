@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  12362
+#  33897
+#
+# Disc length: 622 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=17026c03
+DTITLE=Sheri Trasher - Trasher, Sheri
+DYEAR=1900
+DGENRE=country
+TTITLE0=I Want to Forget You (Just the way you are)
+TTITLE1=I'm Not Her
+TTITLE2=Honey You're the Break
+EXTD=Band Actually known as TZ, Sheri and John Trasher.  
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

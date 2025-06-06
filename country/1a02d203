@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20582
+#	37982
+#
+# Disc length: 724 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1a02d203
+DTITLE=Shania Twain - I'm Gonna Getcha Good(Single)
+DYEAR=2002
+DGENRE=Country
+TTITLE0=I'm Gonna Getcha Good!(Green)
+TTITLE1=C'est La Vie(Red)
+TTITLE2=C'est La Vie(Blue)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

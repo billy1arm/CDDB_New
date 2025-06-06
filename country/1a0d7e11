@@ -1,0 +1,69 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14545
+#	34945
+#	49347
+#	65860
+#	84592
+#	97172
+#	118920
+#	131082
+#	146587
+#	164215
+#	183960
+#	196762
+#	209755
+#	222475
+#	233885
+#	246460
+#
+# Disc length: 3456 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1a0d7e11
+DTITLE=The Nitty Gritty Dirt Band - Will The Circle Be Unbroken - Disc 1
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Grand Ole Opry Song
+TTITLE1=Keep On The Sunny Side
+TTITLE2=Nashville Blues
+TTITLE3=You Are My Flower
+TTITLE4=The Precious Jewel
+TTITLE5=Dark As A Dungeon
+TTITLE6=Tennessee Stud
+TTITLE7=Black Mountain Rag
+TTITLE8=The Wreck On The Highway
+TTITLE9=The End Of The World
+TTITLE10=I Saw The Light
+TTITLE11=Suuny Side Of The Mountain
+TTITLE12=Nine Pound Hammer
+TTITLE13=Losin' You (Might Be The Best Thing Yet)
+TTITLE14=Honky Tonkin'
+TTITLE15=You Don't Know My Mind
+TTITLE16=My Walkin' Shoes
+EXTD=
+EXTT0=Jimmy Martin, guitar\nJohn McEuen, banjo\nVassar Clements, fiddle\nLes Thompson, mandolin\nJunior Huskey, bass\nbacking vocals:\nJeff Hanna\nGary Scruggs\nJim Ibbotson\nLes Thompson\nRay Martin\n
+EXTT1=Mother Maybelle Carter, guitar\nDoc Watson, guitar\nPete "Oswald" Kirby, dobro\nJunior Huskey, bass\nEarl Scruggs, banjo\nRandy Scruggs, autoharp\nJohn McEuen, mandolin\nBacking vocals:\nJeff Hanna\nLes Thompson\nMerle Travis\nJim Ibbotson\nDoc Wat
+EXTT1=son\nGary Scruggs\n
+EXTT2=Earl Scruggs, banjo\nJohn McEuen, banjo\nJeff Hanna, washboard\nJimmie Fadden, harp\nVassar Clements, fiddle\nRandy Scruggs, guitar\nNorman Blake, dobro\nJunior Huskey, bass
+EXTT3=John McEuen, banjo\nEarl Scruggs, guitar\nNorman Blake, dobro\nJimmie Fadden, autoharp\nJim Ibbitson, snare\nJunior Huskey, bass\nRandy Scruggs, guitar\nBacking vocals:\nJeff Hanna\nLes Thompson\nGary Scruggs
+EXTT4=Roy Acuff, vocal\nJohn McEuen, banjo\nJimmie Fadden, harp\nLes Thompson, mandolin\nEarl Scruggs, guitar\nRandy Scruggs, autoharp\nVassar Clements, fiddle\nJunior Huskey, bass\nPete "Oswald" Kirby, dobro
+EXTT5=Merle Travis, guitar\nJohn McEuen, mandolin\nJimmie Fadden, harp\nJunior Huskey, bass\nBacking vocals:\nJeff Hanna\nLes Thompson\nJim Ibbotson\n
+EXTT6=Doc Watson, guitar\nJohn McEuen, banjo\nJimmie Fadden, harp\nJim Ibbotson, guitar\nJunior Huskey, bass\nVassar Clements, fiddle\nBacking vocal:\nJeff Hanna
+EXTT7=Doc Watson, guitar\nJohn McEuen, banjo\nJim Ibbotson, guitar\nLes Thompson, mandolin\nJimmie Fadden, harp\nVassar Clements, fiddle\nJunior Huskey, bass\n
+EXTT8=Roy Acuff, vocal\nJimmie Fadden, harp\nLes Thompson, mandolin\nPete "Oswald" Kirby, dobro\nEarl Scruggs, guitar\nVassar Clements, fiddle\nJunior Huskey, bass
+EXTT9=Pete "Oswald" Kirby, dobro\nDoc Watson, guitar\nEarl Scruggs, guitar\nJunior Huskey, bass
+EXTT10=Roy Acuff, vocal\nEarl Scruggs, banjo\nJimmie Fadden, harp\nJohn McEuen, mandolin\nDoc Watson, guitar\nPete "Oswald" Kirby, dobro\nVassar Clements, fiddle\nRandy Scruggs, autoharp\nJunior Huskey, bass\nBacking vocals:\nJeff Hanna\nLes Thompson\nJi
+EXTT10=m Ibbotson\nJimmy Martin
+EXTT11=Jimmy Martin, guitar\nJohn McEuen, banjo\nLes Thompson, mandolin\nJimmie Fadden, harp\nJim Ibbotson, snare\nVassar Clements, fiddle\nJunior Huskey, bass\nBacking vocals:\nJeff Hanna\nLes Thompson\nGary Scruggs\nRay Martin\n
+EXTT12=Merle Travis, guitar\nJohn McEuen, banjo\nJimmie Fadden, harp\nJim Ibbotson, snare\nJunior Huskey, bass\nBacking vocals:\nJeff Hanna\nJim Ibbotson\nLes Thompson
+EXTT13=Jimmy Martin, guitar\nJohn McEuen, banjo\nJimmie Fadden, harp\nLes Thompson, mandolin\nJim Ibbotson, snare\nVassar Clements, fiddle\nEllis Padgett, bass
+EXTT14=Jimmie Fadden, vocal\nJeff Hanna, guitar\nNorman Blake, dobro\nVassar Clements, lead guitar and fiddle\nLes Thompson, mandolin\nJunior Huskey, bass\nJim Ibbotson, drums
+EXTT15=Jimmy Martin, guitar\nJohn McEuen, banjo\nLes Thompson, mandolin\nJimmie Fadden, harp\nJim Ibbotson, drums\nJunior Huskey, bass\nVassar Clements, fiddle\nBacking vocals:\nJeff Hanna\nLes Thompson\nGary Scruggs\nRay Martin
+EXTT16=Jimmy Martin, guitar\nJohn McEuen, banjo\nJimmie Fadden, harp\nLes Thompson, mandolin\nJim Ibbotson, snare\nVassar Clements, fiddle\nJunior Huskey, bass\nBacking vocals:\nJeff Hanna\nLes Thompson\nGary Scruggs\nRay Martin
+PLAYORDER=

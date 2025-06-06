@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	21867
+# 	39000
+#
+# Disc length: 722 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=1502d003
+DTITLE=Billy Dean - That Girl's Been Spyin' On Me (SINGLE)
+DYEAR=1900
+DGENRE=
+TTITLE0=That Girl's Been Spyin' On Me (Dance Mix)
+TTITLE1=That Girl's Been Spyin' On Me (Album Version)
+TTITLE2=It's What I Do
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

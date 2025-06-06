@@ -1,0 +1,25 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15680
+#	28500
+# Disc length: 540 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=18021a03
+DTITLE=Cosmic Rough Riders - Because You
+DYEAR=1900
+DGENRE=
+TTITLE0=Because You
+TTITLE1=The Carpenter Song
+TTITLE2=Helplessly Hoping
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

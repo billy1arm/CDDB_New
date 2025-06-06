@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16858
+#	33575
+#
+# Disc length: 627 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=19027103
+DTITLE=Tom Astor - Freundschaft
+DYEAR=1993
+DGENRE=Pop
+TTITLE0=Freundschaft
+TTITLE1=Ich Bin Kein Mann Für's Paradies
+TTITLE2=Nur Wer Die Hölle Kennt
+EXTD=ID3G:  13 YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

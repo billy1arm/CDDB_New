@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21365
+#	35437
+#
+# Disc length: 667 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1d029903
+DTITLE=Various Artist - The Horse Whisperer Promotional CD
+DYEAR=1998
+DGENRE=Country
+TTITLE0=South Wind Of Summer (The Flatlanders)
+TTITLE1=Big Balls In Cowtown (Don Walser)
+TTITLE2=Cowboy Love Song (Don Edwards)
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

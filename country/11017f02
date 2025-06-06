@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11925
+#
+# Disc length: 385 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=11017f02
+DTITLE=Garth Brooks - Christmas Music
+DYEAR=1900
+DGENRE=Country
+TTITLE0=God Rest Ye Merry Gentlemen
+TTITLE1=Silent Night
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+PLAYORDER=

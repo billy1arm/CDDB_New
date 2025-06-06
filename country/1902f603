@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17597
+#     32120
+# 
+# Disc length: 760 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1902f603
+DTITLE=Deana Carter - Are You Coming Home Today?
+DYEAR=1900
+DGENRE=
+TTITLE0=Are You Coming Home Today?
+TTITLE1=Turn Those Wheels Around
+TTITLE2=Learning How To Crawl
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=acoustic version\n
+PLAYORDER=

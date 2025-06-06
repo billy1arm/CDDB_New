@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18095
+#	36640
+#
+# Disc length: 725 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=1d02d303
+DTITLE=ecosystem - ジレンマ
+DYEAR=2011
+DGENRE=J-POP
+TTITLE0=ジレンマ
+TTITLE1=夜の街
+TTITLE2=妄想キセイ
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

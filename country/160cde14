@@ -1,0 +1,77 @@
+# xmcd
+#
+# Track frame offsets:
+#	183
+#	13223
+#	25883
+#	38320
+#	48538
+#	59418
+#	72493
+#	85753
+#	99283
+#	111170
+#	123743
+#	136978
+#	152433
+#	164713
+#	176560
+#	188098
+#	199983
+#	212698
+#	222870
+#	234760
+#
+# Disc length: 3296
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+# Normalized: r3:DSWAP,DSETVAR1
+#
+DISCID=160cde14
+DTITLE=Various Artist - Country Love Songs
+DYEAR=1900
+DGENRE=Country
+TTITLE0=FERLIN HUSKY - Behind closed doors
+TTITLE1=WANDA JACKSON - Crazy
+TTITLE2=LYNN ANDERSON - Stand by your man
+TTITLE3=DON WILLIAMS - Take my hand for a while
+TTITLE4=JOHNNY RUSSEL - Today I started loving you again
+TTITLE5=GEORGE JONES - Hello darlin'
+TTITLE6=DOTTIE WEST - D.I.V.O.R.C.E.
+TTITLE7=BILLIE JO SPEARS - Fever
+TTITLE8=PATSY CLINE - Today Tomorrow Forever
+TTITLE9=ANNE MURRAY - All the time - For baby
+TTITLE10=FERLIN HUSKY - A room full of roses
+TTITLE11=KENNY ROGERS - For the good times
+TTITLE12=STONEWALL JACKSON - I love you because
+TTITLE13=WANDA JACKSON - Sweet dreams
+TTITLE14=SAMMI SMTH - Help me make it through the night
+TTITLE15=DON GIBSON - I can't stop loving you
+TTITLE16=LYNN ANDERSON - Top of the world
+TTITLE17=JIM REEVES - Anna Marie
+TTITLE18=BILLIE JO SPEARS - Ease the want in me
+TTITLE19=GEORGE JONES - Don't be angry
+EXTD=ID3G: 2
+EXTT0=Ferlin HUSKY
+EXTT1=Wanda JACKSON
+EXTT2=Lznn ANDERSON
+EXTT3=Don WILLIAMS
+EXTT4=Johnny RUSSELL
+EXTT5=George JONES
+EXTT6=Dottie WEST
+EXTT7=Billie Jo SPEARS
+EXTT8=Patsy CLINE
+EXTT9=Anne MURRAY
+EXTT10=Ferlin HUSKY
+EXTT11=Kenny ROGERS
+EXTT12=Stonewall JACKSON
+EXTT13=Wanda JACKSON
+EXTT14=Sammi SMITH
+EXTT15=Don GIBSON
+EXTT16=Lynn ANDERSON
+EXTT17=Jim REEVES
+EXTT18=Billie Jo SPEARS
+EXTT19=George JONES
+PLAYORDER=

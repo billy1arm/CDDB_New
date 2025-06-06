@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12617
+#	25800
+#	38487
+#	51675
+#	67980
+#	103772
+#	121390
+#	132550
+#	170915
+#	181527
+#	202212
+#	216350
+#	245410
+#	260382
+#	283255
+#	294537
+#
+# Disc length: 4361 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=11110711
+DTITLE=Country Tonite Sho - ranson Missour - Country Tonite Live-1998
+DYEAR=1998
+DGENRE=Country
+TTITLE0=Country Tonite
+TTITLE1=That's How Your Love Makes Me Feel
+TTITLE2=On the Side of Angles
+TTITLE3=I Wanna Fall in Love
+TTITLE4=How Do I Live Without You?
+TTITLE5=Western Medley
+TTITLE6=The Devil Went Down to Gorgia
+TTITLE7=Sold
+TTITLE8=Gospel Medley
+TTITLE9=Country Boy
+TTITLE10=Boogie Medley
+TTITLE11=What if I Said
+TTITLE12=Classics Medley
+TTITLE13=The Thunder Rolls
+TTITLE14=Orange Blossom Special
+TTITLE15=Sweet Country Music
+TTITLE16=Patriotic Medley
+EXTD=\n\nYEAR: 1998  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

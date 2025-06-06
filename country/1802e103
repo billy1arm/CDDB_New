@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17925
+#	37772
+#
+# Disc length: 739 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=1802e103
+DTITLE=Hana Hana - Namida no Chikara
+DYEAR=1900
+DGENRE=Other
+TTITLE0=Namida no Chikara
+TTITLE1=Hareta Yoru Ameno Gogo
+TTITLE2=Namida no Chikara (instrumental)
+EXTD=ID3G: 12
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

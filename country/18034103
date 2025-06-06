@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23148
+#	46122
+#
+# Disc length: 835 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=18034103
+DTITLE=Haute Tension - Univers de pourris
+DYEAR=2005
+DGENRE=Country
+TTITLE0=Démocratie
+TTITLE1=Etat de droit
+TTITLE2=Univers de pourris
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

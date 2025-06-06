@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16040
+#	32532
+#	46227
+#
+# Disc length: 854 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=1f035404
+DTITLE=Lorrie Morgan - Lorrie Morgan
+DYEAR=1900
+DGENRE=Country
+TTITLE0='Til a Tear Becomes a Rose
+TTITLE1=If you Came Back From Heaven
+TTITLE2=Tell Lorrie I Love Her
+TTITLE3=Faithfully
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

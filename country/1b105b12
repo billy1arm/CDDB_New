@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     7120
+#     28090
+#     41985
+#     56947
+#     71930
+#     92260
+#     112887
+#     129450
+#     148790
+#     165805
+#     185707
+#     203727
+#     223010
+#     239505
+#     265605
+#     276965
+#     296995
+# 
+# Disc length: 4189 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1b105b12
+DTITLE=Various Artist - Fun Dance
+DYEAR=1900
+DGENRE=
+TTITLE0=Intro
+TTITLE1=Tighten Up Your Pants
+TTITLE2=Oh Suzanna
+TTITLE3=Old Pop In The Oak
+TTITLE4=Cotton Eye Joe
+TTITLE5=Whiskey In A Jar
+TTITLE6=Thank God I'm A Country Boy
+TTITLE7=Skip To My Lou
+TTITLE8=Musika
+TTITLE9=Square Dance Song
+TTITLE10=Cousin Willie
+TTITLE11=Pipe Dreamz
+TTITLE12=Me And Daisy
+TTITLE13=Pick Up That Fiddle (Plug That Banjo)
+TTITLE14=Talk About
+TTITLE15=Roll Out The Barrel - Beer Barrel Polka
+TTITLE16=Everybody Gonfi-Gon
+TTITLE17=Rollin' In America
+EXTD=
+EXTT0=
+EXTT1=Audio Murphy\n
+EXTT2=Fortnox\n
+EXTT3=Cajun Couns\n
+EXTT4=Dave H\n
+EXTT5=Dave H\n
+EXTT6=The Hillbillies\n
+EXTT7=Hurdle\n
+EXTT8=Lost Tribe Of Lost Minds\n
+EXTT9=BKS Featuring Ashley MacIsaac\n
+EXTT10=The Hillbillies\n
+EXTT11=Yakoo Boyz\n
+EXTT12=Billy Bob\n
+EXTT13=Razzle Dazzle\n
+EXTT14=D.J. Creator\n
+EXTT15=Polka Monster Featuring Walter Ostanek\n
+EXTT16=Two Cowboys\n
+EXTT17=Dom's Kindergarten\n
+PLAYORDER=

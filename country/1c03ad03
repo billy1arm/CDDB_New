@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22853
+#	49373
+#
+# Disc length: 943 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1c03ad03
+DTITLE=真心ブラザーズ - FLY
+DYEAR=2001
+DGENRE=Rock
+TTITLE0=FLY
+TTITLE1=FLY #2
+TTITLE2=FLY (instrumental)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

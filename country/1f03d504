@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17250
+#	35511
+#	52725
+#
+# Disc length: 983 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1f03d504
+DTITLE=Carrie Underwood - Sessions@AOL - EP
+DYEAR=2006
+DGENRE=Country
+TTITLE0=Jesus, Take the Wheel (Live)
+TTITLE1=Some Hearts (Live)
+TTITLE2=Inside Your Heaven (Live)
+TTITLE3=Wasted (Live)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

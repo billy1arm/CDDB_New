@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16965
+#	32958
+#
+# Disc length: 625 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=1c026f03
+DTITLE=Buffalo Grill - La Nouvelle Année en Chansons
+DYEAR=2001
+DGENRE=Country
+TTITLE0=La chanson de Bill et Plume
+TTITLE1=Le réveillon de Bill et Plume
+TTITLE2=Bonne année au Far West
+EXTD=\n\nYEAR: 2001  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

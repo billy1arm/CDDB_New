@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16956
+#	33666
+#
+# Disc length: 656 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=1c028e03
+DTITLE=Scotch - Urlaub Dahoam
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Urlaub Dahoam
+TTITLE1=Graz
+TTITLE2=Mischmaschin
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18975
+#	35475
+#
+# Disc length: 711 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=1a02c503
+DTITLE=Gunter Gabriel - Roy (Du bist nicht allein)
+DYEAR=1993
+DGENRE=Country
+TTITLE0=Roy (Du bist nicht allein)
+TTITLE1=Hallelujah (wir woll' n alle glücklich sein)
+TTITLE2=Das bringst nur Du
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

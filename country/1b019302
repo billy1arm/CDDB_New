@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	82962
+#	96669
+#
+# Disc length: 1509 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=1b019302
+DTITLE=Junior Brown - My Wife Thinks You're Dead-enhanced CD
+DYEAR=1900
+DGENRE=
+TTITLE0=My Wife Thinks You're Dead
+TTITLE1=Sugarfoot Rag
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

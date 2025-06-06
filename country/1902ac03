@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15587
+#	31442
+#
+# Disc length: 686 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=1902ac03
+DTITLE=Lonestar - What About Now [CD Single)
+DYEAR=2001
+DGENRE=Country
+TTITLE0=What About Now (Remix)
+TTITLE1=What About Now (Original Mix)
+TTITLE2=Amazed (Captain Mix)
+EXTD=YEAR: 2001 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

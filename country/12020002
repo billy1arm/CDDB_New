@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	19442
+#
+# Disc length: 514 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=12020002
+DTITLE=EMI CALLINA(エイミー・カリーナ) - Unknown CD for MusicBrainz and FreeDB
+DYEAR=1990
+DGENRE=Pop
+TTITLE0=彼女〜MARIO〜ITALIAN VERSION
+TTITLE1=彼女〜MARIO〜JAPANESE VERSION
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+PLAYORDER=

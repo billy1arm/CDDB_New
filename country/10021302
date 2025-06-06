@@ -1,0 +1,22 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19282
+#
+# Disc length: 533 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=10021302
+DTITLE=Linkin Park - Burning In The Skies
+DYEAR=2011
+DGENRE=AlternRock
+TTITLE0=Burning In The Skies
+TTITLE1=Blackout (Live)
+EXTD=YEAR: 2011 ID3G: 40
+EXTT0=
+EXTT1=
+PLAYORDER=

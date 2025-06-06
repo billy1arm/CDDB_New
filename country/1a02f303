@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17699
+#	32173
+#
+# Disc length: 757 seconds
+#
+# Revision: 13
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=1a02f303
+DTITLE=Owlet - 独
+DYEAR=2005
+DGENRE=Acoustic
+TTITLE0=Owlet - ひとり
+TTITLE1=Owlet - 雨音
+TTITLE2=Owlet - はだし
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=acoustic version\n
+PLAYORDER=

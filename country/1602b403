@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  17272
+#  40335
+#
+# Disc length: 694 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=1602b403
+DTITLE=Bonnie Raitt - Something to Talk About
+DYEAR=1900
+DGENRE=country
+TTITLE0=Something to Talk About
+TTITLE1=One Part Be  My Lover
+TTITLE2=I Aint Gonna Let You Break My Heart Again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

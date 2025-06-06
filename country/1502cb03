@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18787
+#	35348
+#
+# Disc length: 717 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=1502cb03
+DTITLE=Jan Hayston - Country Time
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Ich wünsche mir Bescheidenheit
+TTITLE1=Ich wünsche mir Bescheidenheit (radio-edit)
+TTITLE2=Ich wünsche mir Bescheidenheit (karaoke-edit)
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

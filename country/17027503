@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15276
+#	29562
+#
+# Disc length: 631 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=17027503
+DTITLE=Joe Brozio - Just the way I am
+DYEAR=2003
+DGENRE=Country
+TTITLE0=Just the way I am (RadioEdit)
+TTITLE1=Everything and nothing at all
+TTITLE2=Just the way I am (LongVersion)
+EXTD=YEAR: 2003 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

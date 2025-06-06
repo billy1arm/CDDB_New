@@ -1,0 +1,80 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12242
+#	24975
+#	36920
+#	48352
+#	59832
+#	71992
+#	84337
+#	93662
+#	104642
+#	115107
+#	124485
+#	137820
+#	151827
+#	165562
+#	176700
+#	191397
+#	203565
+#	216432
+#	226915
+#
+# Disc length: 3156 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=1e0c5214
+DTITLE=The Osborne Brothers - From Rocky Top To Muddy Bottom, S
+DTITLE=ing The Songs Of Boudleaux and Felice Bryant
+DYEAR=1900
+DGENRE=
+TTITLE0=Rocky Top
+TTITLE1=We Could
+TTITLE2=Georgia Mules And Country Boys
+TTITLE3=Don't Ever Tell Me You Love Me (Unless You Mean It With
+TTITLE3=All Your Heart)
+TTITLE4=Hey Joe
+TTITLE5=All I Have To Do Is Dream
+TTITLE6=Packing Up Your Heart (To Say Goodbye)
+TTITLE7=Tell It To Your Old Grandma
+TTITLE8=Little Boy
+TTITLE9=Banjo's Goin' Home
+TTITLE10=Georgia Piney Woods
+TTITLE11=Just Another Dream (I'll Have To Learn To Live Without
+TTITLE11=)
+TTITLE12=I Can't See The Rainbow
+TTITLE13=Take Me As I Am (Or Let Me Go)
+TTITLE14=Tennessee Hound Dog
+TTITLE15=Where Did The Sunshine Go
+TTITLE16=Country Boy
+TTITLE17=Love Hurts
+TTITLE18=Fortune, Fortune
+TTITLE19=Muddy Bottom
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+PLAYORDER=

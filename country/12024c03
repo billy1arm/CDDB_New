@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	5325
+#	24954
+#
+# Disc length: 590 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=12024c03
+DTITLE=Gary Sinise - A Letter Home
+DYEAR=2004
+DGENRE=Country
+TTITLE0=Introduction by Gary Sinese
+TTITLE1=A Letter Home recorded LIVE at Camp Casey, South Korea
+TTITLE2=A letter Home recorded at Studio Chicago
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

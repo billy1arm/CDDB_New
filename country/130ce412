@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	13592
+#	27455
+#	44695
+#	58650
+#	74225
+#	86090
+#	99965
+#	115227
+#	128990
+#	141722
+#	153832
+#	166460
+#	181157
+#	194982
+#	206280
+#	221177
+#	234075
+#
+# Disc length: 3302 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=130ce412
+DTITLE=Old Time Mountain Ballads - Various
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Dark Hollow Blues(Clarence Ashley)
+TTITLE1=Pearl Bryan(Burnett and Rutherford)
+TTITLE2=Darling Cora(B.F.Shelton)
+TTITLE3=Charles Guiteau(Kelly Harrell)
+TTITLE4=Rose Conley(Grayson and Whitter)
+TTITLE5=Wreck On The Mountain Road(Red Fox Chasers)
+TTITLE6=The Wagoner's Lad(Buell Kazee)
+TTITLE7=The Fate Of Chris Lively And Wive(Blind Alfred Reed)
+TTITLE8=Six Months Ain't Long(Rutherford and Foster)
+TTITLE9=Louisville Burglar(Hickory Nuts)
+TTITLE10=The Fate Of Ellen Smith(Green Bailey)
+TTITLE11=Dixie Cowboy(Aulton Ray)
+TTITLE12=Willie Moore(Burnett and Rutherford)
+TTITLE13=I'll Never Be Yours(Grayson and Whitter)
+TTITLE14=My Mama Always Talked To Me(John Hammond)
+TTITLE15=Frankie Silvers(Byrd Moore)
+TTITLE16=The Burial Of Wild Bill(Frak Jenkins' Pilot Mountaineers)
+TTITLE17=Death Of John Henry(Uncle Dave Macon)
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15335
+#	42310
+#
+# Disc length: 1225 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=1704c703
+DTITLE=Shania Twain - Ka-Ching!
+DYEAR=2003
+DGENRE=Country
+TTITLE0=Ka-Ching! (Red Version)
+TTITLE1=You're Still The One (Live)
+TTITLE2=I'm Gonna Getcha Good! (Video)
+EXTD=YEAR: 2003 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

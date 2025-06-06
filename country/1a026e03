@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18382
+#	36785
+#
+# Disc length: 624 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=1a026e03
+DTITLE=James Blundell and James Reyne - Way Out West
+DYEAR=1992
+DGENRE=Country
+TTITLE0=Way Out West
+TTITLE1=She Won't Let You Dance
+TTITLE2=Long Yard Rider
+EXTD=YEAR: 1992 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

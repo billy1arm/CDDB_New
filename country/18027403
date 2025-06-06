@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16325
+#	31284
+#
+# Disc length: 630 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=18027403
+DTITLE=Traveling Wilburys - Inside Out
+DYEAR=1990
+DGENRE=Rock
+TTITLE0=Inside Out
+TTITLE1=New Blue Moon (Instrumental)
+TTITLE2=Cold Dry Place
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

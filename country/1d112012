@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21680
+#	39745
+#	57797
+#	72432
+#	97775
+#	117212
+#	133292
+#	154497
+#	181040
+#	193015
+#	207282
+#	227795
+#	246710
+#	272157
+#	291245
+#	304165
+#	320717
+#
+# Disc length: 4386 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL1
+#
+DISCID=1d112012
+DTITLE=Esteban - Spirits of the West
+DYEAR=1900
+DGENRE=
+TTITLE0=El Paso
+TTITLE1=Red River
+TTITLE2=Muel Train
+TTITLE3=The Good, The Bad and The Ugly
+TTITLE4=Magnificient 7
+TTITLE5=Sugerfoot
+TTITLE6=How The West Was Won
+TTITLE7=The Rifleman
+TTITLE8=Maverick
+TTITLE9=Tombstone Territory
+TTITLE10=Hang'em High
+TTITLE11=Have Gun Will Travel
+TTITLE12=Bronco
+TTITLE13=Big COuntry
+TTITLE14=Cheyenne
+TTITLE15=Bonanza
+TTITLE16=Rawhide
+TTITLE17=Happy Trails
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

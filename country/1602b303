@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17439
+#     34728
+# 
+# Disc length: 693 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=1602b303
+DTITLE=Chely Wright - Let Me In
+DYEAR=1900
+DGENRE=
+TTITLE0=Shut Up and Drive
+TTITLE1=Shut Up and Drive
+TTITLE2=Shut Up and Drive
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

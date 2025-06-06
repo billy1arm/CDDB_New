@@ -1,0 +1,30 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12955
+#	30862
+#	48153
+#
+# Disc length: 809 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=1e032704
+DTITLE=Nils Lofgren - I'll Arise (with Lou Gramm)
+DYEAR=1900
+DGENRE=country
+TTITLE0=I'll Arise (w/Lou Gramm)
+TTITLE1=Dance of Life (w/Lou Gramm)
+TTITLE2=Will There's A Way
+TTITLE3=Where I Wanna Be
+EXTD=Crisis 599 989-2\n(C) and (P) 1994 Hilmer Music Publishing I
+EXTD=nc.\nBonus CD with "everybreath".
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

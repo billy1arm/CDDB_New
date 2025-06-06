@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18140
+#	35930
+#
+# Disc length: 706 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.18
+#
+DISCID=1d02c003
+DTITLE=Kate Bush - The Sensual World (Single)
+DYEAR=1989
+DGENRE=Jpop
+TTITLE0=The Sensual World
+TTITLE1=The Sensual World (Instrumental Version)
+TTITLE2=Walk Straight Down The Middle
+EXTD=CDP 552\nMaxi-Single 060-20 3494 6\nEMI Electrola YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

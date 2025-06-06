@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 2003 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13252
+#     31861
+# 
+# Disc length: 647 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1a028503
+DTITLE=Shania Twain - Up!
+DYEAR=1900
+DGENRE=
+TTITLE0=Up!
+TTITLE1=When You Kiss Me
+TTITLE2=Ka-Ching! (Live)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17250
+#	31657
+#	51190
+#
+# Disc length: 948 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=1f03b204
+DTITLE=The Judds - Big Bang Boogie
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Stuck In Love
+TTITLE1=Big Bang Boogie
+TTITLE2=That's What Makes You Strong
+TTITLE3=The 90's Was The 60's Turned Upside Down
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

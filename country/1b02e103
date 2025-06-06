@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18033
+#	35897
+#
+# Disc length: 739 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=1b02e103
+DTITLE=Toby Kieth - We Were In Love Single
+DYEAR=1997
+DGENRE=Country
+TTITLE0=We Were In Love Radio Edit 1
+TTITLE1=We Were In Love Radio Edit 2
+TTITLE2=We Were In Love LP Version
+EXTD=YEAR: 1997 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

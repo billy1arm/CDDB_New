@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 2003 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18890
+#     31853
+# 
+# Disc length: 711 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1402c503
+DTITLE=Shania Twain - When You Kiss Me
+DYEAR=1900
+DGENRE=
+TTITLE0=When You Kiss Me
+TTITLE1=Up!
+TTITLE2=I'm Gonna Getcha Good (Live)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

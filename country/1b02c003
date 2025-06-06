@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17800
+#	35437
+#
+# Disc length: 706 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=1b02c003
+DTITLE=UN AB DEMIT - Just A Little
+DYEAR=1994
+DGENRE=Other
+TTITLE0=FFM 1200 (Radio-Version)
+TTITLE1=FFM 1200 (Rodgau Meets Frankfurt-Mix)
+TTITLE2=FFM 1200 (Karaoke-Version)
+EXTD=YEAR: 1994 ID3G: 12
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

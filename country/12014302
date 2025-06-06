@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12702
+# 
+# Disc length: 325 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=12014302
+DTITLE=Randy Travis - Out Of My Bones (single)
+DYEAR=1900
+DGENRE=
+TTITLE0=Out Of My Bones
+TTITLE1=Brinks Truck
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

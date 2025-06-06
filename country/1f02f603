@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	183
+# 	24583
+# 	42505
+#
+# Disc length: 760 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=1f02f603
+DTITLE=SUSAN McCANN - STRING OF DIAMONDS
+DYEAR=1900
+DGENRE=
+TTITLE0=STRING OF DIAMONDS
+TTITLE1=NEVER TO OLD TO LOVE
+TTITLE2=STRING OF DIAMONDS
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

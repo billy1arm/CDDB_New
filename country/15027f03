@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14570
+#	30120
+#
+# Disc length: 641 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=15027f03
+DTITLE=Dixie Cjicks - There's Your Trouble [CD Single 2)
+DYEAR=1999
+DGENRE=Country
+TTITLE0=There's Your Trouble
+TTITLE1=Am I The Only One (Who's Ever Felt This Way)
+TTITLE2=There's Your Trouble (Jay Joyce Full Length Country Remix)
+EXTD=YEAR: 1999 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

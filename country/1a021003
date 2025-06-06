@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14575
+#	26400
+#
+# Disc length: 530 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1a021003
+DTITLE=Johnny Cash - The Mystery Of Life
+DYEAR=1991
+DGENRE=Country
+TTITLE0=The Mystery Of Life
+TTITLE1=I'm An Easy Rider
+TTITLE2=Veteran's Day
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

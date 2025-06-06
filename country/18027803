@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	14430
+#	33830
+#
+# Disc length: 634 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=18027803
+DTITLE=Noir Désir - Versions
+DYEAR=1992
+DGENRE=Rock
+TTITLE0=Drunken Sailors
+TTITLE1=I Want You
+TTITLE2=Marlène (Ted Nicely)
+EXTD=YEAR: 1992 ID3G: 17
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

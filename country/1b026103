@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11865
+#     27163
+# 
+# Disc length: 611 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1b026103
+DTITLE=Sherrie Austin - Put Your Heart Into It
+DYEAR=1900
+DGENRE=
+TTITLE0=Put Your Heart Into It
+TTITLE1=That's No Way to Break a Heart
+TTITLE2=Put Your Heart Into It (extended Remix)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

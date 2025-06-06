@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16010
+#	33355
+#
+# Disc length: 778 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=14030803
+DTITLE=bice - An apple a day
+DYEAR=2001
+DGENRE=JPop
+TTITLE0=An apple a day
+TTITLE1=光の中へ
+TTITLE2=I Wanna Take You Home(SUGIURUMN HOUSE MISSION MIX)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

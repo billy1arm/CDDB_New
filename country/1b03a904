@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18800
+#     37600
+#     56317
+# 
+# Disc length: 939 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1b03a904
+DTITLE=K.D. Lang - Hush Sweet Lover [CD Single)
+DYEAR=1900
+DGENRE=
+TTITLE0=Hush Sweet Lover
+TTITLE1=Just Keep On Moving (Smooth Movin Mix)
+TTITLE2=Myth
+TTITLE3=In Perfect Dreams
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

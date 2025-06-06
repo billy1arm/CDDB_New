@@ -1,0 +1,23 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  11932
+#
+# Disc length: 583 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=11024502
+DTITLE=Junior Brown - Junior Brown
+DYEAR=1900
+DGENRE=country
+TTITLE0=Venom Wearin' Denim
+TTITLE1=Surf Medley (Pipeline/Walk Don't Run/Secret Agent Man)
+EXTD=
+EXTT0=
+EXTT1=
+PLAYORDER=

@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13145
+#	27197
+#
+# Disc length: 546 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1a022003
+DTITLE=太陽族 - ロミオとジュリエット
+DYEAR=2004
+DGENRE=Pop
+TTITLE0=ロミオとジュリエット
+TTITLE1=君のまま
+TTITLE2=雨の音
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

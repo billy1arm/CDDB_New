@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 2003 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18914
+#     35929
+# 
+# Disc length: 661 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1f029303
+DTITLE=Shania Twain - Forever And For Always [CDTwo)
+DYEAR=1900
+DGENRE=
+TTITLE0=Forever And For Always (Edit)
+TTITLE1=That Don't Impress Me Much (Live)
+TTITLE2=Come On Over (Live)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

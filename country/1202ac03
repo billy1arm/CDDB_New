@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15922
+#	32570
+#
+# Disc length: 686 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1202ac03
+DTITLE=Toby Keith - How Do You Like Me Now?! [CDs)
+DYEAR=2000
+DGENRE=Country
+TTITLE0=How Do You Like Me Now?! (Rock Version)
+TTITLE1=How Do You Like Me Now?! (Live Version)
+TTITLE2=How Do You Like Me Now?! (Club Version)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

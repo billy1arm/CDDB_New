@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17554
+#	34908
+#
+# Disc length: 733 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=1a02db03
+DTITLE=Shania Twain - You Win My Love
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Edit
+TTITLE1=Edit
+TTITLE2=Album Version
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

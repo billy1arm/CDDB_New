@@ -1,0 +1,26 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18051
+#     33591
+# 
+# Disc length: 738 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1702e003
+DTITLE=Neal McCoy - Be Good At It (Mixes)
+DYEAR=1900
+DGENRE=
+TTITLE0=Be Good At It (Dance Mix 1)
+TTITLE1=Be Good At It (Radio Mix)
+TTITLE2=Be Good At It (Dance Mix 2)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

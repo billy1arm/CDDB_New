@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15072
+#     29510
+#     47272
+# 
+# Disc length: 856 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=1c035604
+DTITLE=Shawn Colvin - One Cool Remove
+DYEAR=1900
+DGENRE=
+TTITLE0=One Cool Remove (Lp Version)
+TTITLE1=One Cool Remove (Live Version)
+TTITLE2=Someday (Live Version)
+TTITLE3=Another Long One (Live Version)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=with Mary Chapin Carpenter
+PLAYORDER=

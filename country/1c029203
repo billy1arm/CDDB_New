@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15545
+#	33700
+#
+# Disc length: 660 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.97
+#
+DISCID=1c029203
+DTITLE=Billy Ray Cyrus - Achy Breaky Heart CD Single
+DYEAR=1992
+DGENRE=Country
+TTITLE0=Achy Breaky Heart
+TTITLE1=I'm So Miserable
+TTITLE2=Wher'm I gonna live?
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=
