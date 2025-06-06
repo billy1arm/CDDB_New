@@ -1,0 +1,83 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18865
+#	35009
+#	46564
+#	59562
+#	69359
+#	87667
+#	99976
+#	113385
+#	121519
+#	137496
+#	151982
+#	164830
+#	176764
+#	189297
+#	195064
+#	207939
+#	224475
+#	236081
+#	249483
+#	261152
+#	277340
+#
+# Disc length: 3851 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=310f0916
+DTITLE=Cornell Hurd Band - Stage Coach Named Desire
+DYEAR=1900
+DGENRE=Country
+TTITLE0=I've Still Got My Mind
+TTITLE1=Morning Noon and Night
+TTITLE2=157 Linmore Drive
+TTITLE3=Texas Me
+TTITLE4=Rawhide
+TTITLE5=Ain't it Funny How Time Slips Away
+TTITLE6=What Would Ernest Tubb Have Done
+TTITLE7=I'm the Man
+TTITLE8=Tell Your Shrink I Said "Thanks for Nothing"
+TTITLE9=A Death in the Family
+TTITLE10=The Gypsy
+TTITLE11=My Love Is Your Weapon
+TTITLE12=Take Your Hat Off My Rack
+TTITLE13=Girls Girls Girls
+TTITLE14=Angel's Serenade
+TTITLE15=Heartbreak, Tennessee
+TTITLE16=Cowboy Peyton Place
+TTITLE17=Our Way of Life
+TTITLE18=Moonshine Lullaby
+TTITLE19=Slowpoke
+TTITLE20=The Genitalia of a Fool
+TTITLE21=People are Asleep, Dreaming of Cheese
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

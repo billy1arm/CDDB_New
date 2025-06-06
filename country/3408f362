@@ -1,0 +1,311 @@
+# xmcd CD database file
+# Generated: Sun Apr 21 06:54:24 2002 by KSCD
+# 
+# Track frame offsets:
+#       150
+#       6932
+#       7935
+#       9497
+#       11357
+#       12317
+#       13877
+#       14937
+#       16137
+#       17577
+#       18950
+#       20120
+#       21315
+#       22317
+#       23280
+#       29542
+#       30930
+#       32290
+#       32890
+#       34500
+#       36592
+#       38495
+#       40057
+#       40612
+#       41945
+#       43522
+#       44137
+#       45725
+#       46510
+#       47327
+#       48135
+#       48957
+#       49795
+#       50612
+#       51432
+#       52210
+#       52965
+#       53757
+#       54565
+#       57130
+#       58877
+#       62400
+#       63910
+#       65455
+#       66787
+#       68142
+#       69482
+#       70590
+#       76807
+#       79010
+#       80222
+#       81802
+#       84830
+#       86290
+#       88585
+#       92177
+#       94092
+#       96032
+#       97200
+#       98365
+#       99790
+#       101142
+#       103982
+#       105545
+#       107460
+#       109365
+#       112805
+#       114230
+#       115677
+#       116712
+#       118145
+#       119590
+#       122795
+#       124312
+#       126415
+#       127222
+#       128007
+#       129645
+#       130635
+#       131622
+#       133160
+#       135247
+#       138472
+#       139825
+#       141900
+#       144265
+#       147612
+#       151005
+#       154437
+#       156167
+#       157320
+#       159060
+#       160770
+#       161925
+#       165275
+#       167067
+#       168347
+#       170045
+#
+# Disc length: 2293 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Kscd 1.3.3
+#
+DISCID=3408f362
+DTITLE=David Hamburger - The Dobro Workbook
+DYEAR=1900
+DGENRE=
+TTITLE0=Tuning notes
+TTITLE1=G Scale hammer-on, pull-off
+TTITLE2=Hammer/Pull exercise
+TTITLE3=Another H/P exercise
+TTITLE4=Pulloff exercise
+TTITLE5=Right hand practice with pulloffs 
+TTITLE6=String crossing pulloffs
+TTITLE7=String skipping
+TTITLE8=Combining major and blues sounds, hammerons
+TTITLE9=Blues and Major, with pulloffs 
+TTITLE10=Combining hammerons and pulloffs
+TTITLE11=Ascending syncopated major scale
+TTITLE12=Combining slides with hammerons and pulloffs
+TTITLE13=Same as 13, descending 
+TTITLE14=Combinining units to create licks
+TTITLE15=Unison slides (drones)
+TTITLE16=Working drones into licks 
+TTITLE17=Doublestops with unison slides
+TTITLE18=Doublestops without unison slides
+TTITLE19=Call and Response
+TTITLE20="New River Train" 
+TTITLE21=A la "Nine Pound Hammer"
+TTITLE22=Syncopated roll in G
+TTITLE23=Another syncopated roll
+TTITLE24=Another one
+TTITLE25=Short syncopated roll
+TTITLE26=Six note syncopated phrase
+TTITLE27=Another 6+6+4 lick
+TTITLE28=Sync roll with slides
+TTITLE29=Sync roll with 1/4 notes and 6+6+4
+TTITLE30=Syncopated roll over C
+TTITLE31=Roll with open and fretted strings
+TTITLE32=Alternating string roll 
+TTITLE33=Simpler forward roll
+TTITLE34=Forward and reverse rolls combined
+TTITLE35=Closed position syncopated lick
+TTITLE36=Same, with bar tilt
+TTITLE37=Closed roll with slide
+TTITLE38="Gowanus Valley Blues #2"
+TTITLE39=Rolls over C in open position 
+TTITLE40="Bill Cheatham" 
+TTITLE41=Break for "Bill Cheatham" 
+TTITLE42=Another break for "Bill Cheatham"
+TTITLE43=Open position to melodic style and back
+TTITLE44=another one
+TTITLE45=another one
+TTITLE46=another one
+TTITLE47=Creating licks in the melodic style
+TTITLE48="Sally Goodin"
+TTITLE49="Sally Goodin'" - variation
+TTITLE50="Sally Goodin" - another variation
+TTITLE51=melodic syncopations
+TTITLE52="Sally Goodin" - kickoff for B section
+TTITLE53="Sally Goodin" - another approach to the B section
+TTITLE54=Rolls over C and F
+TTITLE55=more C and F rolls
+TTITLE56=Out of G into a one measure run in C and back to G
+TTITLE57=Bluesy to melodic move
+TTITLE58=Switching chords every two beats
+TTITLE59="Bill Cheatham" - variation
+TTITLE60="Bill Cheatham" - variation 
+TTITLE61=F scale rolls
+TTITLE62=F scale rolls with slides
+TTITLE63=Switching back and forth between F and G
+TTITLE64=Switching back and forth between F and C
+TTITLE65="Red Haired Boy"
+TTITLE66="RHB" - break on the A section
+TTITLE67="RHB" - break on the B section
+TTITLE68=Key of D warmups
+TTITLE69=More D warmups
+TTITLE70=Descending D warmup
+TTITLE71=Combining units to create licks
+TTITLE72=Licking out in D
+TTITLE73="New River Train"
+TTITLE74=Syncopated rolls in D
+TTITLE75=Another one
+TTITLE76=Another one
+TTITLE77=Doublestops in D
+TTITLE78=Adding high D to a blues lick
+TTITLE79=Another one
+TTITLE80="Reuben" 
+TTITLE81=D scales melodic style
+TTITLE82="Reuben" revisited
+TTITLE83="Little Maggie"
+TTITLE84=Switching from D to A and back
+TTITLE85="Soldier's Joy"
+TTITLE86="Soldier's Joy" melodically embellished 
+TTITLE87="Whiskey Before Breakfast"
+TTITLE88=Licks in A Minor 
+TTITLE89=In and out of A Minor
+TTITLE90=Major licks in A
+TTITLE91=Mixolydian licks in A
+TTITLE92=Playing over A7th
+TTITLE93="Old Joe Clark"
+TTITLE94=Root-centered licks in G Major
+TTITLE95=In and out of E Minor
+TTITLE96=E Major pentatonic licks
+TTITLE97="Salty Dog"
+EXTD=This CD accompanies the instructional book "The Dobro Workbook"\n
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+PLAYORDER=

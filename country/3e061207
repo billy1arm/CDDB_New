@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13806
+#	33278
+#	45052
+#	57132
+#	75802
+#	92204
+#
+# Disc length: 1556 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5.4
+#
+DISCID=3e061207
+DTITLE=Hellfighters - A Texas Blowout!  (Thanks to: Boots and Coots !)
+DYEAR=1900
+DGENRE=
+TTITLE0=Texas Blowout!
+TTITLE1=Playing with Fire
+TTITLE2=Firestorm
+TTITLE3=Richard and Raymond
+TTITLE4=In the Heat of the Moment
+TTITLE5=Hellfighters
+TTITLE6=Texas Blowout (Long)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15695
+#	33357
+#	51247
+#	68797
+#
+# Disc length: 1171 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=3b049105
+DTITLE=The Juleps - Kickbutt City USA
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Poison Love
+TTITLE1=Wrong Again
+TTITLE2=Another Riversong
+TTITLE3=Marie's Riptide Lounge
+TTITLE4=No Problem
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12625
+#	29790
+#	41800
+#
+# Disc length: 740 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=3502e204
+DTITLE=Dolly Parton - Solid Gold
+DYEAR=1900
+DGENRE=Country
+TTITLE0=9 to 5
+TTITLE1=Sing for the common man
+TTITLE2=Jolene
+TTITLE3=My Tennesee Mountain Home
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

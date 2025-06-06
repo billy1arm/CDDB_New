@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19147
+#     35870
+#     52750
+#     104060
+# 
+# Disc length: 1634 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=3e066005
+DTITLE=Bonepony - Stomp Revival
+DYEAR=1900
+DGENRE=
+TTITLE0=Poor Boy Blues
+TTITLE1=Bleeker Street (Live)
+TTITLE2=Where The Water's Deep (Live)
+TTITLE3=Poor Boy Blues (Live)
+TTITLE4=Right Time To Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

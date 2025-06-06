@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13043
+#	27820
+#	42710
+#	60112
+#
+# Disc length: 1033 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: ACXtractor (MTCDDB.DLL V2003.07.15)
+#
+DISCID=34040705
+DTITLE=Country Express - Best of
+DYEAR=1980
+DGENRE=Rock
+TTITLE0=Title 01 Country Music made in Schwaben
+TTITLE1=Title 02 Wieder einmal ohne dich
+TTITLE2=Title 03 Seit es dich gibt
+TTITLE3=Title 04 The Door is always open
+TTITLE4=Title 05 Samstagmittag kurz nach vier
+EXTD=ID3G:  17 YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

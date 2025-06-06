@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22250
+#	42805
+#	64905
+#
+# Disc length: 1135 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=32046d04
+DTITLE=FictionJunction YUUKA - 荒野流転
+DYEAR=2006
+DGENRE=Anime
+TTITLE0=荒野流転
+TTITLE1=blessing
+TTITLE2=荒野流転(without vocal)
+TTITLE3=blessing(without vocal)
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

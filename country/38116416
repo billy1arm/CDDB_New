@@ -1,0 +1,83 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	15365
+#	31120
+#	42635
+#	59357
+#	70840
+#	87310
+#	108390
+#	117545
+#	135902
+#	148860
+#	168965
+#	183175
+#	198512
+#	209495
+#	225615
+#	248752
+#	263050
+#	279070
+#	294592
+#	311345
+#	321937
+#
+# Disc length: 4454
+#
+# Revision: 6
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 1.21
+# Normalized: r4:DSETVAR1,TDELIM( - ),TSWAP
+#
+DISCID=38116416
+DTITLE=Various Artist - All Time Country
+DYEAR=1992
+DGENRE=country
+TTITLE0=Mark Knopfler and Chet Atkins - The Next Time I'm In Town
+TTITLE1=Tamra Rosanes - Hopeless Romantic
+TTITLE2=Willie Nelson - On The Road Again
+TTITLE3=The Charlie Daniels Band - A Few More Rednecks
+TTITLE4=The O´ Kanes - That's All Right Mama
+TTITLE5=Søs Fenger - Even Cowgirls Get The Blues
+TTITLE6=Vern Gosdin - Alone
+TTITLE7=Calamity Jane - Walkin' After Midnight
+TTITLE8=Paul Krebs - Miles And Miles
+TTITLE9=Dolly Parton - Time For Me To Fly
+TTITLE10=Rodney Crowell - The Faith Is Mine
+TTITLE11=Darleens - Sleeping Beauty
+TTITLE12=K. D. Lang - Trail Of Broken Hearts
+TTITLE13=Henning Stærk - Lonely Weekends
+TTITLE14=Ricky Skaggs - Lovin' Only Me
+TTITLE15=Bruce Cockburn - Great Big Love
+TTITLE16=Tammy Wynette - Crying In The Rain
+TTITLE17=Randy Travis - Foreever And Ever, Amen
+TTITLE18=Janie Frickie - Give 'em My Number
+TTITLE19=Johnny Cash - (Ghost) Riders In The Sky
+TTITLE20=Ricky van Shelton - From A Jack To A King
+TTITLE21=Tanya Tucker - You Are So Beautiful
+EXTD=www.timmie.dk
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=Tanya Tucker
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     6957
+#     84367
+#     150345
+#     194215
+#     234195
+# 
+# Disc length: 3153 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=3b0c4f06
+DTITLE=Statler Brothers and Others - The Statler Brothers 30th Anniversary Rad
+DTITLE=io Special
+DYEAR=1900
+DGENRE=
+TTITLE0=Segment I:  Program Introduction
+TTITLE1=Segment II:  Phil Balsley discusses the annual 4th of July Celebrati
+TTITLE1=on
+TTITLE2=Segment III:  Interview: Johnny Cash
+TTITLE3=Segment IV:  WEAK Radio - Lester Roadhog Moran and The Cadillac Cowboy
+TTITLE4=Segment V:  Interviews/ Naomi Judd/ Suzy Bogguss
+TTITLE5=30 Second Promo For The 30th Radio Show Special
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

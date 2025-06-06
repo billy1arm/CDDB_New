@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10825
+#	20585
+#	34085
+#	43547
+#	54995
+#
+# Disc length: 893 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=3f037b06
+DTITLE=The Statler Brothers - Oh Happy Day
+DYEAR=1900
+DGENRE=
+TTITLE0=Flowers On The Wall
+TTITLE1=King Of The Road
+TTITLE2=Green Green Grass Of Home
+TTITLE3=That'll Be The Day
+TTITLE4=Daddy Sang Bass
+TTITLE5=Oh Happy Day
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

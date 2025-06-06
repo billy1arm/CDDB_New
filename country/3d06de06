@@ -1,0 +1,35 @@
+# xmcd CD database file
+# Copyright (C) 2012 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16591
+#     32654
+#     50762
+#     79129
+#     110304
+# 
+# Disc length: 1760 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=3d06de06
+DTITLE=Honey Ryder - Rising Up
+DYEAR=1900
+DGENRE=
+TTITLE0=Rising Up (Radio Edit)
+TTITLE1=Rising Up (Album Radio Edit)
+TTITLE2=Rising Up (Bimbo Jones Remix)
+TTITLE3=Rising Up (Fat Buddha Remix)
+TTITLE4=Rising Up (Absolewt Hiya Remix)
+TTITLE5=Rising Up (Howlin' Wolf Stabilo Boss Remix)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

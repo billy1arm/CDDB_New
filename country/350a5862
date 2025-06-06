@@ -1,0 +1,310 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	2653
+#	5375
+#	7664
+#	11424
+#	12220
+#	12968
+#	13665
+#	14392
+#	15142
+#	15882
+#	17038
+#	17819
+#	18467
+#	22763
+#	26854
+#	32669
+#	35955
+#	39233
+#	42675
+#	44357
+#	45814
+#	47726
+#	49284
+#	51065
+#	52018
+#	53463
+#	54848
+#	57553
+#	60909
+#	64219
+#	67621
+#	68187
+#	68695
+#	69194
+#	75040
+#	80910
+#	83273
+#	85763
+#	88240
+#	90867
+#	92314
+#	93482
+#	94787
+#	95313
+#	95855
+#	96362
+#	97077
+#	97785
+#	98329
+#	99992
+#	101867
+#	107307
+#	110453
+#	113128
+#	117649
+#	122720
+#	123325
+#	123831
+#	124351
+#	124981
+#	125503
+#	126031
+#	131231
+#	137321
+#	137932
+#	138600
+#	139196
+#	139734
+#	140234
+#	140773
+#	141291
+#	141763
+#	142300
+#	144924
+#	147896
+#	151268
+#	154997
+#	159059
+#	163150
+#	166804
+#	167365
+#	167956
+#	168540
+#	169109
+#	169807
+#	170616
+#	171306
+#	176957
+#	182742
+#	186760
+#	187302
+#	187904
+#	188878
+#	189528
+#	191072
+#	192708
+#	195758
+#
+# Disc length: 2650 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=350a5862
+DTITLE=Christian SEGURET - La Méthode de Guitare Country
+DYEAR=2006
+DGENRE=Country
+TTITLE0=Frère Jack
+TTITLE1=Wildwood Flower - Version simple
+TTITLE2=Wildwood Flower - Version avancée
+TTITLE3=Late Last Night
+TTITLE4=Cross Picking - Exercice 1
+TTITLE5=Cross Picking - Exercice 2
+TTITLE6=Cross Picking - Exercice 3a
+TTITLE7=Cross Picking - Exercice 3b
+TTITLE8=Cross Picking - Exercice 4a
+TTITLE9=Cross Picking - Exercice 4b
+TTITLE10=Cross Picking - Exercice 5
+TTITLE11=Cross Picking - Exercice 6
+TTITLE12=Cross Picking - Exercice 7
+TTITLE13=Home Sweet Home - Thème
+TTITLE14=Home Sweet Home - Version simple
+TTITLE15=Home Sweet Home - Version avancée
+TTITLE16=Salt River
+TTITLE17=Cherokee Shuffle
+TTITLE18=Cherokee Shuffle - Playback
+TTITLE19=Flat Picking - Exercice 1
+TTITLE20=Flat Picking - Exercice 2
+TTITLE21=Flat Picking - Exercice 3
+TTITLE22=Flat Picking - Exercice 4
+TTITLE23=Flat Picking - Exercice 5
+TTITLE24=Flat Picking - Exercice 6
+TTITLE25=Flat Picking - Exercice 7
+TTITLE26=Flat Picking - Exercice 8
+TTITLE27=Flat Picking - Exercice 9
+TTITLE28=Slidin' Home - Version simple
+TTITLE29=Slidin' Home - Version avancée
+TTITLE30=Slidin' Home - Version avancée - Playback
+TTITLE31=Flat Picking Avancée - Exercice 1
+TTITLE32=Flat Picking Avancée - Exercice 2
+TTITLE33=Flat Picking Avancée - Exercice 3
+TTITLE34=Beaumont Rag
+TTITLE35=Beaumont Rag - Playback
+TTITLE36=Madison County Breakdown
+TTITLE37=Madison County Breakdown - Playback
+TTITLE38=Flappy Flat
+TTITLE39=Flappy Flat - Playback
+TTITLE40=Doigt ou Mediator - Exercice 1
+TTITLE41=Doigt ou Mediator - Exercice 2
+TTITLE42=Doigt ou Mediator - Exercice 3
+TTITLE43=Doigt ou Mediator - Exercice 4
+TTITLE44=Doigt ou Mediator - Exercice 5
+TTITLE45=Doigt ou Mediator - Exercice 6
+TTITLE46=Doigt ou Mediator - Exercice 7
+TTITLE47=Doigt ou Mediator - Exercice 8
+TTITLE48=Doigt ou Mediator - Exercice 9
+TTITLE49=Basic Memphis
+TTITLE50=Basic Memphis - Playback
+TTITLE51=Step ip up
+TTITLE52=La rythmique de James Burton
+TTITLE53=La rythmique de Luther Perkins
+TTITLE54=Sleepy Mo Boogie
+TTITLE55=Sleepy Mo Boogie - Playback
+TTITLE56=Country électrique - Exercice 1
+TTITLE57=Country électrique - Exercice 2
+TTITLE58=Country électrique - Exercice 3
+TTITLE59=Country électrique - Exercice 4
+TTITLE60=Country électrique - Exercice 5
+TTITLE61=Country électrique - Exercice 6
+TTITLE62=Country chuck
+TTITLE63=Country chuck - Playback
+TTITLE64=Exemples d'effets - pull-off
+TTITLE65=Exemples d'effets - Liasons doubles
+TTITLE66=Exemples d'effets - Deux hammers deux pull off
+TTITLE67=Exemples d'effets - Tiré de corde
+TTITLE68=Exemples d'effets - Tiré de corde 2
+TTITLE69=Exemples d'effets - Tiré de corde à l'unisson
+TTITLE70=Exemples d'effets - Le pre-bend
+TTITLE71=Exemples d'effets - Le pre-bend 2
+TTITLE72=Exemples d'effets - Le pre-bend 3
+TTITLE73=Vidi Vince
+TTITLE74=Vidi Vince - Playback
+TTITLE75=Sausage and Grits
+TTITLE76=Sausage and Grits - Playback
+TTITLE77=Leather Britches
+TTITLE78=Leather Britches - Sock rythm
+TTITLE79=Leather Britches - Solo
+TTITLE80=Country jazz - Exercice 1
+TTITLE81=Country jazz - Exercice 2
+TTITLE82=Country jazz - Exercice 3
+TTITLE83=Country jazz - Exercice 4
+TTITLE84=Country jazz - Exercice 5
+TTITLE85=Country jazz - Exercice 6
+TTITLE86=Country jazz - Exercice 7
+TTITLE87=Blues for SW
+TTITLE88=Blues for SW - Playback
+TTITLE89=La Marche des Branquignols
+TTITLE90=Le B-bender - Exercice 1
+TTITLE91=Le B-bender - Exercice 2
+TTITLE92=Le B-bender - Exercice 3
+TTITLE93=Le B-bender - Exercice 4
+TTITLE94=Bender Circus
+TTITLE95=Bender Circus - Playback
+TTITLE96=Warren's Cottage
+TTITLE97=Warren's Cottage - 2eme version
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+PLAYORDER=

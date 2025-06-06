@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12535
+#	20765
+#	35470
+#	45716
+#
+# Disc length: 794 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3b031805
+DTITLE=Various Artist - COUNTRY VYBER 2
+DYEAR=2003
+DGENRE=Country
+TTITLE0=Vracim se domu - Frantisek Nedved ml.
+TTITLE1=Slapej dal - Tomas Linka
+TTITLE2=Se srdcem kovboje - P.T Vesely
+TTITLE3=Rodne udoli - Tomas Linka
+TTITLE4=Nejsi jedinej muj hrich_Mirek Hoffmann a Zelenaci
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

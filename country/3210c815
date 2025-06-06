@@ -1,0 +1,80 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12590
+#	25965
+#	42312
+#	54942
+#	67515
+#	85920
+#	99250
+#	112127
+#	129710
+#	141250
+#	155830
+#	168962
+#	188967
+#	210040
+#	232167
+#	244412
+#	261827
+#	274862
+#	289580
+#	306585
+#
+# Disc length: 4298 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta1
+#
+DISCID=3210c815
+DTITLE=Merle Haggard - For The Record - Disc 2
+DYEAR=1999
+DGENRE=Country
+TTITLE0=The Roots Of My Raisin'
+TTITLE1=Cherokee Maiden
+TTITLE2=Ramblin' Fever (Duet With Alabama)
+TTITLE3=I'm Always On A Mountain When I Fall
+TTITLE4=It's Been A Great Afternoon
+TTITLE5=Footlights
+TTITLE6=The Way I Am
+TTITLE7=Misery And Gin
+TTITLE8=I Think I'll Just Stay Here And Drink
+TTITLE9=Rainbow Stew
+TTITLE10=My Favorite Memory
+TTITLE11=Big City
+TTITLE12=Pancho And Lefty (Duet With Willie Nelson)
+TTITLE13=Are The Good Times Really Over
+TTITLE14=Going Where The Lonely Go
+TTITLE15=Let's Chase Each Other Around The Room
+TTITLE16=A Place To Fall Apart
+TTITLE17=That's The Way Love Goes (Duet With Jewel)
+TTITLE18=Natural High
+TTITLE19=Kern River
+TTITLE20=Twinkle Twinkle Lucky Star
+EXTD=YEAR: 1999 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+PLAYORDER=

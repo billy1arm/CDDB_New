@@ -1,0 +1,86 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	183
+# 	10883
+# 	21845
+# 	34138
+# 	45350
+# 	56328
+# 	71483
+# 	91415
+# 	102280
+# 	113303
+# 	127375
+# 	138633
+# 	152023
+# 	166295
+# 	181908
+# 	194415
+# 	211650
+# 	220923
+# 	233453
+# 	243158
+# 	252378
+# 	261150
+# 	271018
+#
+# Disc length: 3714 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=340e8017
+DTITLE=Various Artist - Glorious Gospel
+DYEAR=1900
+DGENRE=
+TTITLE0=Wings of a Dove
+TTITLE1=Cup of Loneliness
+TTITLE2=Big Man
+TTITLE3=Belshazah
+TTITLE4=Will the Circle be Unbroken
+TTITLE5=Deck of Cards
+TTITLE6=Learning to Learn
+TTITLE7=Gloryland March
+TTITLE8=Life's Railway to Heaven
+TTITLE9=Rank Strangers to Me
+TTITLE10=From the Manger to the Cross
+TTITLE11=Tramp on the Street
+TTITLE12=Amazing Grace
+TTITLE13=Farther Along
+TTITLE14=What a Friend we Have in Jesus
+TTITLE15=Amen Corner
+TTITLE16=Keep on the Firing Line
+TTITLE17=If Jesus Came to Your House
+TTITLE18=I'll Fly Away
+TTITLE19=Satisfied
+TTITLE20=Family Bible
+TTITLE21=Uncloudy Day
+TTITLE22=Why Me Lord
+EXTD=
+EXTT0=(Ferlin Husky)
+EXTT1=(George Jones)
+EXTT2=(Charlie Rich)
+EXTT3=(Johnny Cash)
+EXTT4=(Jerry Lee Lewis)
+EXTT5=(T. Texas Tyler)
+EXTT6=(Blackwood Brothers)
+EXTT7=(The Masters Family)
+EXTT8=(The Stoneman Family)
+EXTT9=(Stanley Brothers)
+EXTT10=(Cowboy Copas)
+EXTT11=(Wilma Lee and Stoney Cooper)
+EXTT12=(David Houston)
+EXTT13=(Jeannie C. Riley)
+EXTT14=(Reno and Smiley)
+EXTT15=(Archie Campbell)
+EXTT16=(Lewis Family)
+EXTT17=(Red Sovine)
+EXTT18=(Bill Carlisle)
+EXTT19=(Martha Carson)
+EXTT20=(Claude Gray)
+EXTT21=(Mike Lunsford)
+EXTT22=(Nashville Harmonica)
+PLAYORDER=

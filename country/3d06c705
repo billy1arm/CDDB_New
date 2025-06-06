@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     17977
+#     37347
+#     54422
+#     96020
+# 
+# Disc length: 1737 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=3d06c705
+DTITLE=LeAnn Rimes - How Do I Live Dance Mix
+DYEAR=1900
+DGENRE=
+TTITLE0=How Do I Live [Mr. Mig remix (Dance Radio Edit)]
+TTITLE1=How Do I Live [Mr. Mig remix (Club Radio Edit)]
+TTITLE2=How Do I Live [RH Factor Radio Edit]
+TTITLE3=How Do I Live [RH Factor Club Vocal]
+TTITLE4=How Do I Live [Mr. Mig Remix (Club Mix)]
+EXTD=
+EXTT0=\n
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

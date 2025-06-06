@@ -1,0 +1,79 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15203
+#	28528
+#	47650
+#	68888
+#	88986
+#	108974
+#	128396
+#	148735
+#	168451
+#	183385
+#	202484
+#	219116
+#	231463
+#	249288
+#	270471
+#	285614
+#	299301
+#	317099
+#	344428
+#	355827
+#
+# Disc length: 4789 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3b12b315
+DTITLE=Michal Tucny - Gold
+DYEAR=1982
+DGENRE=Country
+TTITLE0=01Posledni kovboj
+TTITLE1=02Snidane v trave
+TTITLE2=03Poveste ho vejs
+TTITLE3=04Modra z dzin
+TTITLE4=05Mediciman
+TTITLE5=06Vsichni jsou uz v Mexiku
+TTITLE6=07Bajecna zenska
+TTITLE7=08Karolina
+TTITLE8=09Stareho psa novzm kouskum nenaucis
+TTITLE9=10Indian Banjo
+TTITLE10=11Dam sbohem rekam
+TTITLE11=12Koukam, jak cela zema vstava
+TTITLE12=13Par rezavejch koleji
+TTITLE13=14Dik za ten stop
+TTITLE14=15Kosmickej vandr
+TTITLE15=16Spim v obili
+TTITLE16=17Tak uz nefnukej
+TTITLE17=18Tam u nebeskych bran
+TTITLE18=19Jak chcete zit bez koni
+TTITLE19=20Cesty toulavy
+TTITLE20=21Posledni kovboj II
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+PLAYORDER=

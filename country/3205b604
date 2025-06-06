@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17750
+#	37275
+#	56675
+#
+# Disc length: 1464 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.2
+#
+DISCID=3205b604
+DTITLE=Garth Brooks - standing outsode the fire
+DYEAR=1900
+DGENRE=
+TTITLE0=Standing Outside The Fire
+TTITLE1=Friends In Low Places
+TTITLE2=Every Now And Then
+TTITLE3=Interview
+EXTD=
+EXTT0=(Jenny Yates/Garth Brooks]\nRondor Music/Control
+EXTT1=(Dewayne Blackwell/Earl Bud Lee]\nBMG Music
+EXTT2=(Buddy Mondlock/Garth Brooks]\nEMI Songs/Rondor Music
+EXTT3=Produced by Allen Reynolds\nExempt
+PLAYORDER=

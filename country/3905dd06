@@ -1,0 +1,35 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	15522
+#	28177
+#	60012
+#	78062
+#	95992
+#
+# Disc length: 1503
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.40 
+# Normalized: r1:TDELIM( - )
+#
+DISCID=3905dd06
+DTITLE=Rebel Rock Six Pack
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Fabulous Thunderbirds - Tuff Enuff
+TTITLE1=New Riders Purple Sage - Panama Red
+TTITLE2=Outlaws - (Ghost) Riders in the Sky
+TTITLE3=Charlie Daniels Band - South's Gonna Do It Again
+TTITLE4=Stevie Ray Vaughan - Change It
+TTITLE5=Greg Allman - I'm No Angel
+EXTD=By "KRB Music Companies"
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=

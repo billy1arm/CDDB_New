@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19970
+#     41600
+#     59617
+# 
+# Disc length: 1048 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=32041604
+DTITLE=Simon Bonney - There Can Only Be One
+DYEAR=1900
+DGENRE=
+TTITLE0=There Can Only Be One
+TTITLE1=Sun Don't Shine
+TTITLE2=A Part Of You
+TTITLE3=Caesar Needs A Brutus
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13782
+#	33592
+#	64400
+#
+# Disc length: 1102 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.82
+#
+DISCID=32044c04
+DTITLE=The Juleps - Just Enough Rope (Live)
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Hottest Thing in Town
+TTITLE1=Out in the Rain
+TTITLE2=Nighthawks
+TTITLE3=Serendipity Dooh-Dah
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

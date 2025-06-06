@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14325
+#	31488
+#	39078
+#	51728
+#
+# Disc length: 909 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3a038b05
+DTITLE=Various Artist - COUNTRY VYBER 1
+DYEAR=2003
+DGENRE=Country
+TTITLE0=Tomas Linka - Vlak pulnocni
+TTITLE1=Mirek Hoffman and Zelenaci - Ma pychu kralu
+TTITLE2=Fr. Nedved ml. - Spolu jedem
+TTITLE3=Milan Dufek - Kvetly maky
+TTITLE4=P. T. Vesely - Sedm dostavniku
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

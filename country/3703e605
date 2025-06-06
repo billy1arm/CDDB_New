@@ -1,0 +1,33 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    182
+#    11755
+#    26220
+#    39927
+#    58542
+#
+# Disc length: 1000 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.4.1  (wjohn@fix.net)
+#
+DISCID=3703e605
+DTITLE=Junior Brown - 
+DTITLE=Junior Brown
+DYEAR=1900
+DGENRE=
+TTITLE0=Highway Patrol
+TTITLE1=That's Easy For You To Say
+TTITLE2=My Wife Thinks You're Dead
+TTITLE3=Lovely Hula Hands
+TTITLE4=Sugarfoot Rag
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

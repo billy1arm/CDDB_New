@@ -1,0 +1,32 @@
+# xmcd
+# Copyright (c) 1998 CDDB Inc.
+#
+# Track frame offsets:
+#	150
+#	13642
+#	32450
+#	48825
+#	68877
+#
+# Disc length: 1097 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: AudioCatalyst 2.10full
+#
+DISCID=33044705
+DTITLE=Quaddra Tonic - Forsaken
+DYEAR=1900
+DGENRE=
+TTITLE0=Forsaken
+TTITLE1=Sloop John B.
+TTITLE2=Ring Of Fire
+TTITLE3=Folsom Prison Blues
+TTITLE4=Some Broken Hearts
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

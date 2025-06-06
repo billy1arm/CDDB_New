@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18357
+#     40417
+#     59237
+# 
+# Disc length: 1080 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=34043604
+DTITLE=Shania Twain - The Woman In Me (Need The Man In You)
+DYEAR=1900
+DGENRE=
+TTITLE0=The Woman In Me (w/o steel guitar)
+TTITLE1=Whose Bed Have Your Boots Been Under
+TTITLE2=Leaving Is The Only Way Out
+TTITLE3=The Woman In Me (LP version)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

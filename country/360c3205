@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24520
+#	49600
+#	70635
+#	115833
+#
+# Disc length: 3124 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 7
+#
+DISCID=360c3205
+DTITLE=上海電影樂團 - 中國佛教音樂 II
+DYEAR=1900
+DGENRE=classical
+TTITLE0=古剎晚鐘
+TTITLE1=靜虛吟
+TTITLE2=拜願
+TTITLE3=彌陀讚
+TTITLE4=普庵咒
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

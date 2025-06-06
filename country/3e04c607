@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 187
+# 14437
+# 25275
+# 38282
+# 48345
+# 60890
+# 76705
+#
+# Disc length: 1224 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=3e04c607
+DTITLE=Floyd Cramer - Great Country Hits
+DYEAR=1900
+DGENRE=country
+TTITLE0=Sleepy Shores
+TTITLE1=Missin' You
+TTITLE2=Back On My Mind Again
+TTITLE3=Help Me Make It Through The Night
+TTITLE4=Sweet Dreams
+TTITLE5=Years
+TTITLE6=Sweet Memories
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

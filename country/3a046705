@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	12992
+#	33842
+#	55275
+#	68237
+#
+# Disc length: 1129 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=3a046705
+DTITLE=Mudhoney and Jimmie Dale Gilmore - Mudhoney and Jimmie Dale Gilmore
+DYEAR=1900
+DGENRE=
+TTITLE0=Tonight I Think I'm Gonna Go Downtown - Mudhoney
+TTITLE1=Blinding Sun - Jimmie Dale Gilmore
+TTITLE2=Buckskin Stallion Blues - Jimmie Dale Gilmore with Mudhoney
+TTITLE3=Tonight I Think I'm Gonna Go Downtown - Jimmie Dale Gilmore
+TTITLE4=Blinding Sun - Mudhoney
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

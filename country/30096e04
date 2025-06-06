@@ -1,0 +1,28 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	44557
+#	90865
+#	134050
+#
+# Disc length: 2416 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=30096e04
+DTITLE=Various Artist - Z Orlíka do Braníka
+DYEAR=1993
+DGENRE=Country
+TTITLE0=Smes 1
+TTITLE1=Smes 2
+TTITLE2=Smes 3
+TTITLE3=Smes 4
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=

@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16192
+#	27583
+#	44442
+#	58120
+#
+# Disc length: 1037 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=3c040b05
+DTITLE=Various Artist - Bama Jams--Country
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Heartstorm
+TTITLE1=Every Kinda Everything
+TTITLE2=Lucky Man
+TTITLE3=Thornridge Road
+TTITLE4=Real Fine Love
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

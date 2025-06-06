@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16310
+#	29031
+#	47805
+#	55845
+#
+# Disc length: 1009 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=3d03ef05
+DTITLE=Sally Timms - Cowboy Sally
+DYEAR=1900
+DGENRE=
+TTITLE0=Seminole Wind
+TTITLE1=Drunk By Noon
+TTITLE2=Old Flames Can't Hold a Candle to You
+TTITLE3=Tennessee Waltz
+TTITLE4=Long Black Veil
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

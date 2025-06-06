@@ -1,0 +1,37 @@
+# xmcd database file
+#
+# Track frame offsets:
+# 150
+# 38305
+# 54448
+# 76882
+# 100572
+# 118500
+# 160679
+#
+# Disc length: 2715 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CD-Runner 2007.01
+#
+DISCID=3d0a9907
+DTITLE=Yonder Mountain String Band - 2005-06-11 Bonnaroo
+DYEAR=1900
+DGENRE=Bluegrass
+TTITLE0=01_If_Youre_Ever_In_Oaklahoma
+TTITLE1=02_Another_Day
+TTITLE2=03_The_Things_Youre_Selling
+TTITLE3=04_Half_Moon_Rising
+TTITLE4=05_Easy_As_Pie
+TTITLE5=06_Ten
+TTITLE6=07_Girlfriend_Is_Better
+EXTD=
+EXTT0=FEDDYM105FL15Kd1
+EXTT1=FEDDYM105FL15Kd1
+EXTT2=FEDDYM105FL15Kd1
+EXTT3=FEDDYM105FL15Kd1
+EXTT4=FEDDYM105FL15Kd1
+EXTT5=FEDDYM105FL15Kd1
+EXTT6=FEDDYM105FL15Kd1
+PLAYORDER=

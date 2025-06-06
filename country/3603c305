@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18154
+#	25984
+#	44658
+#	56302
+#
+# Disc length: 965 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3603c305
+DTITLE=Various Artist - Pohodove Ceske Vanoce
+DYEAR=2002
+DGENRE=Country
+TTITLE0=01 Jiri Korn, Pavla Forstova and Prazsky Detsky Sbor - To K Vanocum Patri (Happy Christmas)
+TTITLE1=02 Karel Cernoch - Rolnicky (Jingle Bells)
+TTITLE2=03 Janek Ledecky - Ryba Rybe
+TTITLE3=04 Hana Zagorova - A V Noci Bude Mraz
+TTITLE4=05 Karel Gott  Alzbetinska Serenada (Elizabethan Serenade)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

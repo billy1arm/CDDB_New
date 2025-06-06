@@ -1,0 +1,83 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11947
+#	27242
+#	37562
+#	49270
+#	64910
+#	79710
+#	98330
+#	113855
+#	131357
+#	144505
+#	158750
+#	172085
+#	186662
+#	197832
+#	210790
+#	222305
+#	237587
+#	250077
+#	266190
+#	277165
+#	292520
+#
+# Disc length: 4100 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=3e100216
+DTITLE=Hoyt Axton - A Rusty Old Halo - Where Did The Money Go
+DYEAR=1900
+DGENRE=Country
+TTITLE0=A Rusty Old Halo
+TTITLE1=Della And The Dealer
+TTITLE2=The Hotel Ritz
+TTITLE3=So Hard To Give It All Up
+TTITLE4=Evangelina
+TTITLE5=Torpedo
+TTITLE6=Viva Pancho Villa
+TTITLE7=Wild Bull Rider
+TTITLE8=In A Young Girl's Mind
+TTITLE9=Gotta Keep Rollin'
+TTITLE10=Everybody's Goin' On The Road
+TTITLE11=Betty La Rue
+TTITLE12=Boozers Are Losers
+TTITLE13=Politicians
+TTITLE14=(When You Dance) You Do Not Tango
+TTITLE15=Smile As You Go By
+TTITLE16=Where Did The Money Go
+TTITLE17=Some People Ride
+TTITLE18=Midnight In Memphis
+TTITLE19=Ease Your Pain
+TTITLE20=The Battle Of New Orleans
+TTITLE21=The House Song
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

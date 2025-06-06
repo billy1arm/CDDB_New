@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14620
+#	34558
+#	51495
+#	69952
+#
+# Disc length: 1218 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 7
+#
+DISCID=3c04c005
+DTITLE=Неизвестный артист - Неизвестный альбом
+DYEAR=1900
+DGENRE=Неизвестный жанр
+TTITLE0=Трек 1
+TTITLE1=Трек 2
+TTITLE2=Трек 3
+TTITLE3=Трек 4
+TTITLE4=Трек 5
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

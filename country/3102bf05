@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	7342
+#	18255
+#	26175
+#	38302
+#
+# Disc length: 705 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=3102bf05
+DTITLE=Western Express - Demo
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Miss Molly
+TTITLE1=Lady Be Good
+TTITLE2=How Blue
+TTITLE3=San Antonio Rose
+TTITLE4=Nightlife
+EXTD=YEAR: 2002 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

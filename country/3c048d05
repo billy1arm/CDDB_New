@@ -1,0 +1,32 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16222
+#     32692
+#     53855
+#     72502
+# 
+# Disc length: 1167 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=3c048d05
+DTITLE=Shania Twain - Come On Over - Promotional Album Sampler
+DYEAR=1900
+DGENRE=
+TTITLE0=You're Still The One
+TTITLE1=Black Eyes, Blue Tears
+TTITLE2=From This Moment On
+TTITLE3=I Won't Leave You Lonely
+TTITLE4=You've Got A Way
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

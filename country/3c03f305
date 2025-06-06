@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13328
+#	31747
+#	47661
+#	62996
+#
+# Disc length: 1013 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=3c03f305
+DTITLE=John Luskey - My Country
+DYEAR=2006
+DGENRE=Country
+TTITLE0=Trouble
+TTITLE1=The House
+TTITLE2=King of the World
+TTITLE3=Just Yesterday
+TTITLE4=She's in Love
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

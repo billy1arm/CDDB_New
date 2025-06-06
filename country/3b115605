@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32436
+#	62822
+#	106481
+#	332550
+#
+# Disc length: 4440 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=3b115605
+DTITLE=MONDO GROSSO feat.UA - 光
+DYEAR=1900
+DGENRE=R&B
+TTITLE0=光(Single Mix)
+TTITLE1=光(Strings Mix)
+TTITLE2=光(Single Mix) Instrumental
+TTITLE3=Data1
+TTITLE4=Data2
+EXTD=ID3G: 14
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

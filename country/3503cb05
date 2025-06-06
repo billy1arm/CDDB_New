@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13140
+#	30852
+#	46444
+#	60627
+#
+# Disc length: 973 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=3503cb05
+DTITLE=John Luskey - My Country II
+DYEAR=2006
+DGENRE=Country
+TTITLE0=Honky Tonk Rhythm
+TTITLE1=Eyes Wide Open
+TTITLE2=Party Girls
+TTITLE3=When She Cries
+TTITLE4=The Way We Roll
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

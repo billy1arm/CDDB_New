@@ -1,0 +1,31 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17328
+#	34761
+#	56956
+#	73167
+#
+# Disc length: 1239 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=3f04d505
+DTITLE=Loren Ryan - Fight EP
+DYEAR=2016
+DGENRE=Country
+TTITLE0=Give Me A Mic
+TTITLE1=Ain't No Stopping You
+TTITLE2=Butterflies
+TTITLE3=Stars
+TTITLE4=Fight
+EXTD=YEAR: 2016
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+PLAYORDER=

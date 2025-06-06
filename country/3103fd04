@@ -1,0 +1,29 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	151
+#	18707
+#	36738
+#	55530
+#
+# Disc length: 1023 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=3103fd04
+DTITLE=JD Myers - Management Promo
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Nothin' Left To Lose
+TTITLE1=Hold On Me
+TTITLE2=Anything For You
+TTITLE3=Paint The Town Blue
+EXTD=\nYEAR: 2000  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=
