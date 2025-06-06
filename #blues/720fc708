@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19866
+#	67960
+#	88496
+#	117501
+#	146607
+#	194763
+#	255121
+#
+# Disc length: 4041 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=720fc708
+DTITLE=Riccardo Villalobos - Max Loderbauer - Re: ECM
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Replob (ECM 2118 Fabula Suite Lugano)
+TTITLE1=Reshadub (ECM 1681 Ignis)
+TTITLE2=Rebird (ECM 1921 Tati)
+TTITLE3=Retikhiy (ECM 1763 Svete Tikhiy)
+TTITLE4=Rekondakion (ECM 1655 - 56 Kanon Pokajanen)
+TTITLE5=Rensenada (ECM 1043 The Jewel in the Lotus)
+TTITLE6=Resole (ECM 1763 Svete Tikhiy) and (ECM 1731 Amicta Sole)
+TTITLE7=Redetach (ECM 2005 The Zoo is Far)
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

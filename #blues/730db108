@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26076
+#	62048
+#	95580
+#	126951
+#	170105
+#	200212
+#	226145
+#
+# Disc length: 3507 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=730db108
+DTITLE=Jim Rotondi - The Pleasure Dome
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=On Y Va (Let's Go)
+TTITLE1=The Breeze and I
+TTITLE2=The Pleasure Dome
+TTITLE3=My Ideal
+TTITLE4=A Bientot
+TTITLE5=Yours Is My Heart Alone
+TTITLE6=Mamacita
+TTITLE7=Hush
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

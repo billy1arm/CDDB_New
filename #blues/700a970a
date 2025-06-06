@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10120
+#	38251
+#	52713
+#	98021
+#	115355
+#	137823
+#	152156
+#	168397
+#	186834
+#
+# Disc length: 2713 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=700a970a
+DTITLE=Willy Michl - Blues and Balladen [1975] (2007)
+DYEAR=2007
+DGENRE=Blues
+TTITLE0=Dichterstress
+TTITLE1=Drah di net um
+TTITLE2=Fliag, Vogel fliag
+TTITLE3=Wintermorgen
+TTITLE4=Mein Traum
+TTITLE5=Die Zeche
+TTITLE6=Entrümpelung
+TTITLE7=Stein der Weisen
+TTITLE8=Waxenstein-Blues
+TTITLE9=Abschied
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#	182
+#	16030
+#	48047
+#	87265
+#	99582
+#	121665
+#	140170
+#	158057
+#	177030
+#	196435
+#
+# Disc length: 3126 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=730c340a
+DTITLE=Ronnie Wood and Bo Didley - Live At The Ritz
+DYEAR=1900
+DGENRE=
+TTITLE0=Road Runner
+TTITLE1=I'm A Man
+TTITLE2=Crackin' Up
+TTITLE3=Hey Bo Diddley
+TTITLE4=Plynth/ Water Down The Drain
+TTITLE5=Ooh La La Song
+TTITLE6=They Dont Make Outlaws Like They Used to
+TTITLE7=Honky Tonk Women
+TTITLE8=Money To Ronnie
+TTITLE9=Who Do You Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

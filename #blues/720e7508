@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43011
+#	86121
+#	124901
+#	161057
+#	184981
+#	209683
+#	241726
+#
+# Disc length: 3703 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=720e7508
+DTITLE=Dexter Gordon - The Complete Trio and Quartet Studio Recordings Disc 6
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Four - Take 1
+TTITLE1=Four - Take 2
+TTITLE2=Catalonian Nights
+TTITLE3=Easy Living - Take 1
+TTITLE4=Easy Living - Take 2
+TTITLE5=Easy Living - Take 4
+TTITLE6=Benji's Bounce
+TTITLE7=Billie's Bounce
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

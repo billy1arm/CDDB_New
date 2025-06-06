@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  23875
+#  40525
+#  62200
+#  82600
+#  100452
+#  120715
+#  147075
+#  165925
+#  184950
+#
+# Disc length: 2732 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=770aaa0a
+DTITLE=Tom Robinson - Last Tango
+DYEAR=1900
+DGENRE=blues
+TTITLE0=Atmospherics - Listen To The Radio
+TTITLE1=Tango an der Wand
+TTITLE2=Surabaya Johnny
+TTITLE3=War Baby
+TTITLE4=2-4-6-8 Motorway
+TTITLE5=Back In The Old Country
+TTITLE6=The Night Tide
+TTITLE7=I Wanna Be Your Cabin Boy
+TTITLE8=Old Friend
+TTITLE9=Glad To Be Gay '87
+EXTD=Germany
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

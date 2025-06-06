@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35210
+#	62642
+#	89004
+#	115285
+#	126368
+#	144510
+#	181545
+#
+# Disc length: 3110 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=720c2408
+DTITLE=Oscar Peterson - 1982 Live at the Cool Jazz Festival NYC
+DYEAR=1982
+DGENRE=Jazz
+TTITLE0=Oscar Peterson - 'Round Midnight/Waltz for Debbie/Misty
+TTITLE1=Oscar Peterson Trio - Nigerian Marketplace
+TTITLE2=Oscar Peterson Trio - Soft Winds
+TTITLE3=Oscar Peterson Trio - City Lights
+TTITLE4=Oscar Peterson Trio - My Little Suede Shoes
+TTITLE5=Oscar Peterson Trio - Lush Life
+TTITLE6=Oscar Peterson Trio - Caravan
+TTITLE7=Oscar Peterson and Herbie Hanc - I Got Rhythm
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

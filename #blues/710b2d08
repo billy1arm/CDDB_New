@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35301
+#	57821
+#	78545
+#	107976
+#	130629
+#	149666
+#	185848
+#
+# Disc length: 2863 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=710b2d08
+DTITLE=Samuel Jersak - The Melody at Night, without You
+DYEAR=2019
+DGENRE=Jazz
+TTITLE0=Polka Dots and Moonbeams
+TTITLE1=Peace
+TTITLE2=Polarlicht
+TTITLE3=You Don't Know What Love Is
+TTITLE4=My Funny Valentine
+TTITLE5=Infant Eyes
+TTITLE6=Cry me a River
+TTITLE7=Somewhere over the Rainbow
+EXTD=YEAR: 2019
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

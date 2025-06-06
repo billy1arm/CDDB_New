@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25421
+#	58022
+#	73849
+#	96231
+#	101611
+#	107880
+#	159114
+#	207811
+#
+# Disc length: 3357 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=770d1b09
+DTITLE=G. Love - Live @ the Cow Haus 1-9-97 Disc 2
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Unknown 01
+TTITLE1=Unknown 02
+TTITLE2=Unknown 03
+TTITLE3=Unknown 04
+TTITLE4=Unknown 05
+TTITLE5=Unknown 06
+TTITLE6=Unknown 07
+TTITLE7=Unknown 08
+TTITLE8=Unknown 09
+EXTD=YEAR: 1997 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

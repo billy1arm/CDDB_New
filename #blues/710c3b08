@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41111
+#	60203
+#	118606
+#	143963
+#	178822
+#	211456
+#	228387
+#
+# Disc length: 3133 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=710c3b08
+DTITLE=Global Jazz Trio - Live in Detroit
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=St.Thomas
+TTITLE1=Mercy,Mercy,Mercy
+TTITLE2=Impressions
+TTITLE3=Come away with me
+TTITLE4=Global Jazz for Peace
+TTITLE5=Cabala's Wish
+TTITLE6=Amazing Grace
+TTITLE7=Three Motifs in Jazz
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

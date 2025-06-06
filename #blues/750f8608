@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	34071
+#	62942
+#	108281
+#	140305
+#	172459
+#	234665
+#	269381
+#
+# Disc length: 3976 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=750f8608
+DTITLE=David Kikoski - Surf's Up
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Oh No
+TTITLE1=Cardboard
+TTITLE2=Four In One
+TTITLE3=A Noite Do Meu Bem
+TTITLE4=Little Melonae
+TTITLE5=Surf's Up
+TTITLE6=Bird Feathers
+TTITLE7=Muito A Vontade
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

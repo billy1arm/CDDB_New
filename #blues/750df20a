@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27112
+#	62482
+#	85745
+#	113462
+#	152310
+#	175465
+#	210400
+#	221697
+#	251560
+#
+# Disc length: 3572 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=750df20a
+DTITLE=Charlie Mariano - Spanish Impression
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Iberia
+TTITLE1=Malaguena
+TTITLE2=Adagio Cardinal
+TTITLE3=Aranjuez
+TTITLE4=Granada
+TTITLE5=Maids Of Cadiz
+TTITLE6=Macarena
+TTITLE7=Lagrima
+TTITLE8=Spanish Gipsy Dance
+TTITLE9=Adelita
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

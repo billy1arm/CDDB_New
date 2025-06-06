@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27510
+#	55092
+#	82382
+#	112355
+#	144142
+#	168390
+#	210530
+#
+# Disc length: 3280 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=720cce08
+DTITLE=Luis Diaz Quintet - On The Edge
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=On The Edge
+TTITLE1=Heat Included
+TTITLE2=Ballad for Lynn
+TTITLE3=Safari
+TTITLE4=Skydive
+TTITLE5=When I Fall In Love
+TTITLE6=Palmieri's Mood
+TTITLE7=Papa Flaco
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

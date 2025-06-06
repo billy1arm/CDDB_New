@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38840
+#	79125
+#	83912
+#	102997
+#	137092
+#	167237
+#	192935
+#	227040
+#
+# Disc length: 3088 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=700c0e09
+DTITLE=WINX - Don't Laugh EP
+DYEAR=1995
+DGENRE=House
+TTITLE0=Don't Laugh (Live Raw Mix)
+TTITLE1=Don't Laugh (Ovum Structred Mix)
+TTITLE2=Don't Laugh (Eternity Mix)
+TTITLE3=Don't Laugh (Sound Factory Mix)
+TTITLE4=Hypnotizin (Original Mix)
+TTITLE5=Hypnotizin (Beatless Mix)
+TTITLE6=Hypnotizin (Remix)
+TTITLE7=Hypnotizin (Live Version)
+TTITLE8=Hypnotizin (Hypnovocal)
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

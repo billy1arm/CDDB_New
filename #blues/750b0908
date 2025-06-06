@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    150
+#    35780
+#    47545
+#    77225
+#    104177
+#    123252
+#    140722
+#    176762
+#
+# Disc length: 2827 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.1.6  (wjohn@fix.net)
+#
+DISCID=750b0908
+DTITLE=James Cotton - Live At Antone's Nightclub
+DYEAR=1900
+DGENRE=
+TTITLE0=Blow Wind
+TTITLE1=Juke
+TTITLE2=It Ain't Right
+TTITLE3=Gone To Main Street
+TTITLE4=Oh Baby
+TTITLE5=Hoochie Coochie Man
+TTITLE6=Eyesight To The Blind
+TTITLE7=Midnight Creeper
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

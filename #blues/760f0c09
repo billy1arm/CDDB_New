@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22592
+#	58719
+#	101530
+#	138404
+#	166850
+#	193080
+#	221387
+#	253984
+#
+# Disc length: 3854 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=760f0c09
+DTITLE=The Little George Band - Silicon Valley Games
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=Silicon Valley Game
+TTITLE1=Walk On Baby
+TTITLE2=Where Have You Been?
+TTITLE3=Early In the Morning
+TTITLE4=The Grinder
+TTITLE5=Bust the Boss
+TTITLE6=Who Got the Money?
+TTITLE7=Sell My Monkey
+TTITLE8=Bring it On Home
+EXTD=ID3G:   0 YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

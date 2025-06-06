@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	29348
+#	55502
+#	71333
+#	100675
+#	126920
+#	159806
+#	190765
+#	224211
+#
+# Disc length: 3295 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=750cdd09
+DTITLE=Martin Sasse - Here We Come
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Groove Machine
+TTITLE1=This Modal Thing
+TTITLE2=Waltz For Katharina
+TTITLE3=Dear McCoy
+TTITLE4=Sail Away
+TTITLE5=On A Clear Day
+TTITLE6=Ballad For Juliane
+TTITLE7=I Had The Craziest Dream
+TTITLE8=Mr. K.
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28707
+#	71094
+#	107414
+#	149885
+#	176428
+#	203981
+#	232186
+#
+# Disc length: 3200 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=780c7e08
+DTITLE=Franklin Clover Project - Two Worlds
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Highway Blues
+TTITLE1=When I Fall In Love
+TTITLE2=Shalabungo
+TTITLE3=I've Never Been In Love Before
+TTITLE4=Prince Of Darkness
+TTITLE5=Love's Question
+TTITLE6=Follow Your Bliss
+TTITLE7=Central Park West
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

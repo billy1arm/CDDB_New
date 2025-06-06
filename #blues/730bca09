@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28255
+#	51097
+#	82567
+#	102337
+#	138240
+#	163047
+#	186480
+#	201077
+#
+# Disc length: 3020 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=730bca09
+DTITLE=Thierry Lang - Thierry Lang
+DYEAR=1997
+DGENRE=Jazz
+TTITLE0=Yellow Story
+TTITLE1=Comrade Conrad
+TTITLE2=Angels Fly
+TTITLE3=If I Should Lose You
+TTITLE4=My Foolish Heart
+TTITLE5=The Blue Peach
+TTITLE6=Oliver's Song
+TTITLE7=Bop Boy
+TTITLE8=Round Midnight
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

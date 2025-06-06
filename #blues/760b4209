@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25512
+#	49825
+#	64252
+#	85250
+#	116750
+#	135482
+#	164250
+#	187087
+#
+# Disc length: 2884 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760b4209
+DTITLE=Amanda Carr - Live in San Giorgio
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Sweet Marta
+TTITLE1=That old devil moon
+TTITLE2=The nearness of you
+TTITLE3=Watch what happens
+TTITLE4=Nothing's wrong
+TTITLE5=They can't take that away from me
+TTITLE6=Night and day
+TTITLE7=Save your love for me
+TTITLE8=Take your time
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

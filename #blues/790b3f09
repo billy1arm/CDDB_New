@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29406
+#	46857
+#	66383
+#	80493
+#	104181
+#	121694
+#	140318
+#	178568
+#
+# Disc length: 2881 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=790b3f09
+DTITLE=Muzio Clementi - Sonates N°1 Op.24 - N°5 Op.25 - N°2 Op.40 - Toccata  (Pietro Spada, piano)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Sonate N°1, Op.24 - I. Allegro assai
+TTITLE1=Sonate N°1, Op.24 - II. Adagio
+TTITLE2=Sonate N°1, Op.24 - III. Arietta con variazoni - Vivace
+TTITLE3=Toccata en si bémol majeur, Op.11
+TTITLE4=Sonate N°5, Op.25 - I. Piuttosto allegro con espressione
+TTITLE5=Sonate N°5, Op.25 - II.Lento e Patetico 
+TTITLE6=Sonate N°5, Op.25 - III. Presto
+TTITLE7=Sonate N°2, Op.40 - I. Molto adagio e sostenuto - Allegro con fuoco e con espressione
+TTITLE8=Sonate N°2, Op.40 - II. Largo mesto e patetico - Allegro tempo I - Presto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

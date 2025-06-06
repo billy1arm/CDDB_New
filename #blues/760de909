@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41202
+#	68435
+#	104330
+#	131285
+#	151207
+#	175650
+#	201655
+#	242842
+#
+# Disc length: 3563 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760de909
+DTITLE=Miles Davis - Champion Selection Series
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=So What
+TTITLE1=My Funny Valentine
+TTITLE2=ByeBye Blackbird
+TTITLE3=Round Midnight
+TTITLE4=When I Fall In Love
+TTITLE5=It Never Entered My Mind
+TTITLE6=Milestones
+TTITLE7=Someday My Prince Will Come
+TTITLE8=Blue In Green
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

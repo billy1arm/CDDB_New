@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32974
+#	53259
+#	72013
+#	98418
+#	116331
+#	145391
+#	170994
+#	197734
+#
+# Disc length: 3151 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760c4d09
+DTITLE=rue de paris - Quiet Motion
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Quiet Motion
+TTITLE1=Embryo
+TTITLE2=Vallée blanche
+TTITLE3=In Love In Vain
+TTITLE4=You Are So Beautifull
+TTITLE5=Minimal Blues
+TTITLE6=Giant Steps
+TTITLE7=Crystal Silence
+TTITLE8=Time After Time
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

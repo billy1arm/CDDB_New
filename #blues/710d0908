@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	6935
+#	35180
+#	70648
+#	105325
+#	147538
+#	194310
+#	214052
+#
+# Disc length: 3339 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=710d0908
+DTITLE=Maitreya Bland - Aletheia
+DYEAR=1999
+DGENRE=New Age
+TTITLE0=01-Prologue
+TTITLE1=02-Aletheia I.
+TTITLE2=03-Aletheia II.
+TTITLE3=04-Aletheia III.
+TTITLE4=05-Aletheia IV.
+TTITLE5=06-Aletheia V.
+TTITLE6=07-Aletheia VI.
+TTITLE7=08-Aletheia VII.
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

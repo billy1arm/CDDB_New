@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30622
+#	62851
+#	96489
+#	127623
+#	162730
+#	188404
+#	227643
+#	254420
+#
+# Disc length: 3650 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=730e4009
+DTITLE=Infinite Quintet - Speak Slowly
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Ghost Town
+TTITLE1=Talk About This
+TTITLE2=Night Callin'
+TTITLE3=Cup Of Bb
+TTITLE4=Song For P.K.
+TTITLE5=Speak Slowly
+TTITLE6=Gone So Fast
+TTITLE7=Gaza
+TTITLE8=After Midnight
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

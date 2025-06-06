@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31996
+#	58586
+#	105563
+#	120850
+#	143268
+#	158372
+#	190862
+#	215404
+#	231276
+#
+# Disc length: 3395 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=730d410a
+DTITLE=Bruno Regnier X'Tet - ''Suite ... de danses''
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Brass dance # 1
+TTITLE1=Anton
+TTITLE2=Cantos y danzas y canto again
+TTITLE3=Fin de danse # 2
+TTITLE4=Alaoud
+TTITLE5=Tit'valse à 3 ou 4
+TTITLE6=La claudicante
+TTITLE7=Barillet
+TTITLE8=Gait
+TTITLE9=Brass dance # 2
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

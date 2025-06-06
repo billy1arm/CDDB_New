@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  19137
+#  48407
+#  99402
+#  121345
+#  140530
+#  191705
+#  213670
+#
+# Disc length: 3731 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.20
+#
+DISCID=720e9108
+DTITLE=Merzbow - Scumtron
+DYEAR=1900
+DGENRE=
+TTITLE0=house of kaya
+TTITLE1=eat beat eat #2
+TTITLE2=elephants memory remix
+TTITLE3=an.mon
+TTITLE4=micromedley
+TTITLE5=ecobondage (ending) Ae remix
+TTITLE6=eat beat eat #1
+TTITLE7=untitled II/1996
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11776
+#	30110
+#	60603
+#	86664
+#	118872
+#	148291
+#	165877
+#	200583
+#
+# Disc length: 2869 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=730b3309
+DTITLE=Santi Vega - Piano Solo
+DYEAR=1995
+DGENRE=New Age
+TTITLE0=Fantasia
+TTITLE1=Espejos
+TTITLE2=Li
+TTITLE3=Caracola
+TTITLE4=Blue
+TTITLE5=Luz
+TTITLE6=Sin tiempo
+TTITLE7=No Tan Lejos
+TTITLE8=Xori
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

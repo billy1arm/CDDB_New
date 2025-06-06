@@ -1,0 +1,40 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22983
+#	70851
+#	97431
+#	126387
+#	157350
+#	188234
+#	213754
+# Disc length: 3225 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=770c9708
+DTITLE=Godfried Bomans - Bomans was de Naam 1/4
+DYEAR=1900
+DGENRE=
+TTITLE0=De Eerste Computer
+TTITLE1=Het Koekoeksei
+TTITLE2=Verwarring in Congo
+TTITLE3=De Tijdbom
+TTITLE4=Het Hoekje Om
+TTITLE5=Vrienden onder Elkaar
+TTITLE6=De Trilogieschijfster
+TTITLE7=Carnaval in Kleef
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

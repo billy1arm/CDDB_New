@@ -1,0 +1,42 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19873
+#	53718
+#	75311
+#	101443
+#	125963
+#	154376
+#	184626
+#	213353
+#
+# Disc length: 3160
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cddb.el 1.0 (Emacs 22.2.1)
+#
+DISCID=710c5609
+DTITLE=Mats Gustafsson - Catapult
+DYEAR=2005
+DGENRE=Jazz
+TTITLE0=Memory of a specific Silence (to Paul Auster)
+TTITLE1=Torparvisa/Angels
+TTITLE2=The Light
+TTITLE3=Catapult of Solitudes (to Paul Auster)
+TTITLE4=The Nut
+TTITLE5=It is. Remember (to Lars Gullin)
+TTITLE6=Flutter
+TTITLE7=Chance Illusions (to Paul Auster)
+TTITLE8=Kungssången
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

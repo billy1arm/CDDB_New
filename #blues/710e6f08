@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37800
+#	73152
+#	106713
+#	145203
+#	178039
+#	214696
+#	245190
+#
+# Disc length: 3697 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=710e6f08
+DTITLE=Voice Of The North Jazz Orchestra - Park Bench Story
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Somethings Stir
+TTITLE1=Alliteration Addict
+TTITLE2=Park Bench Story
+TTITLE3=Lament
+TTITLE4=Sane Stomp
+TTITLE5=The Author's Revised Version
+TTITLE6=You Blue, Me Too!
+TTITLE7=Lost In The Works
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

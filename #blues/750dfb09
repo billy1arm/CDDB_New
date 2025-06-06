@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11009
+#	40377
+#	77155
+#	93442
+#	139532
+#	170940
+#	196999
+#	235310
+#
+# Disc length: 3581 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=750dfb09
+DTITLE=ernstblau - de flygende rooberd
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=strong roots
+TTITLE1=empty room blues
+TTITLE2=samba d'orpheo
+TTITLE3=melinda
+TTITLE4=easy living
+TTITLE5=stella by starlight
+TTITLE6=calypso
+TTITLE7=who chi coo
+TTITLE8=blue boulevard blues
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

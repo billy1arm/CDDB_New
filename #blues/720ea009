@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33225
+#	68700
+#	92625
+#	127425
+#	158775
+#	195675
+#	225750
+#	252375
+#
+# Disc length: 3746 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: freeDBTagger 0.8.2.1
+#
+DISCID=720ea009
+DTITLE=Dragonforce - Inhuman Rampage
+DYEAR=2006
+DGENRE=rock
+TTITLE0=Through the Fire and Flames
+TTITLE1=Revolution Deathsquad
+TTITLE2=Storming the Burning Fields
+TTITLE3=Operation Ground and Pound
+TTITLE4=Body Breakdown
+TTITLE5=Cry for Eternity
+TTITLE6=The Flame of Youth
+TTITLE7=Trail of Broken Hearts
+TTITLE8=Lost Souls In Endless Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

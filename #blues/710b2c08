@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20672
+#	46418
+#	72056
+#	110488
+#	124837
+#	143585
+#	172338
+#
+# Disc length: 2862 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=710b2c08
+DTITLE=Supercussion Vienna - Spartacus
+DYEAR=2001
+DGENRE=Jazz
+TTITLE0=Signation Supercussion
+TTITLE1=Mondoline
+TTITLE2=kurz and bündig
+TTITLE3=Spartacus-Adagio
+TTITLE4=Spartacus-Allegro-Presto
+TTITLE5=Spartacus-Lento-Presto
+TTITLE6=Spartacus-Andante-Accellerando
+TTITLE7=Spartacus-Lento-Allegro-Adagio
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33133
+#	66660
+#	85955
+#	102184
+#	145465
+#	193018
+#	211740
+#
+# Disc length: 3326 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=710cfc08
+DTITLE=Johannes Brahms - Trio Op.114 and Quintette Op.115
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Trio en la mineur pour piano, clarinette et violoncelle, Op.114 - I. Allegro
+TTITLE1=Trio en la mineur pour piano, clarinette et violoncelle, Op.114 - II. Adagio
+TTITLE2=Trio en la mineur pour piano, clarinette et violoncelle, Op.114 - III. Andantino grazioso
+TTITLE3=Trio en la mineur pour piano, clarinette et violoncelle, Op.114 - IV. Allegro
+TTITLE4=Quintette en si mineur pour clarinette, 2 violons, alto et violoncelle, Op.115 - I. Allegro
+TTITLE5=Quintette en si mineur pour clarinette, 2 violons, alto et violoncelle, Op.115 - II. Adagio
+TTITLE6=Quintette en si mineur pour clarinette, 2 violons, alto et violoncelle, Op.115 - III. Andantino
+TTITLE7=Quintette en si mineur pour clarinette, 2 violons, alto et violoncelle, Op.115 - IV. Con moto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

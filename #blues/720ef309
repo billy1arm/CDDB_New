@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21525
+#	67549
+#	87356
+#	104495
+#	169995
+#	213307
+#	233458
+#	264570
+#
+# Disc length: 3829 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=720ef309
+DTITLE=Various Artist - Yehudi Menuhin - Vol.05
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=J.S Bach - Sonata for Solo Violin N°3 in C major, BWV 1005 - I. Adagio  .....  [rec.1934]
+TTITLE1=J.S Bach - Sonata for Solo Violin N°3 in C major, BWV 1005 - II. Fuga
+TTITLE2=J.S Bach - Sonata for Solo Violin N°3 in C major, BWV 1005 - III. Largo
+TTITLE3=J.S Bach - Sonata for Solo Violin N°3 in C major, BWV 1005 - IV. Allegro
+TTITLE4=J.S Bach - Partita for Solo Violin N°2 in D minor, BWV 1004 - V. Ciaccona
+TTITLE5=Béla Bartók - Sonata for Solo Violin - I. Tempo di ciaccona  .....  [rec.1947]
+TTITLE6=Béla Bartók - Sonata for Solo Violin - II. Fuga
+TTITLE7=Béla Bartók - Sonata for Solo Violin - III.Melodia 
+TTITLE8=Béla Bartók - Sonata for Solo Violin - IV. Presto
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

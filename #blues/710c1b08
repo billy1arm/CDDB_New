@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	47331
+#	73774
+#	104953
+#	129251
+#	156199
+#	179510
+#	204460
+#
+# Disc length: 3101 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=710c1b08
+DTITLE=Various Artist - X-Mix Urban Series Issue 7
+DYEAR=1900
+DGENRE=
+TTITLE0=Dancehall Devastation (Pt. 4)
+TTITLE1=Feel Me Flow
+TTITLE2=Rumpshaker
+TTITLE3=One More Chance
+TTITLE4=Summertime
+TTITLE5=Shy Guy
+TTITLE6=Tell Me
+TTITLE7=warm Summer Daze
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

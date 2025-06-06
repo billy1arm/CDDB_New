@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8840
+#	34705
+#	76755
+#	87855
+#	119967
+#	149925
+#	168985
+#	205562
+#
+# Disc length: 3327 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=740cfd09
+DTITLE=Coil - Big Games
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Slant
+TTITLE1=Big Games
+TTITLE2=Eleki Dragon
+TTITLE3=Born in Chicago
+TTITLE4=Rocket 99
+TTITLE5=Land
+TTITLE6=Spoonful
+TTITLE7=Less Than Zero
+TTITLE8=Earth Man
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

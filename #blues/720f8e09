@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26097
+#	54714
+#	83631
+#	127644
+#	150348
+#	176847
+#	209907
+#	252879
+#
+# Disc length: 3984 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=720f8e09
+DTITLE=Ed Anders Quartet - Wholeness
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Milkman
+TTITLE1=Bored
+TTITLE2=Tickle
+TTITLE3=Wholeness
+TTITLE4=Quiet Time
+TTITLE5=Push In Pull Out
+TTITLE6=Time Stops Here
+TTITLE7=Jamie's Birthday
+TTITLE8=Ed's Head
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

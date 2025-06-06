@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34756
+#	53641
+#	99652
+#	131842
+#	152808
+#	186744
+#	218031
+#
+# Disc length: 3165 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=730c5b08
+DTITLE=Chet Baker - Peace
+DYEAR=1982
+DGENRE=Jazz
+TTITLE0=Syzygies (3+1=5)
+TTITLE1=Peace
+TTITLE2=Lament For Thelonious
+TTITLE3=The Song Is You
+TTITLE4=Shadows
+TTITLE5=For Now
+TTITLE6=Syzygies (3+1=5) (Alternate Take)
+TTITLE7=Peace (Alternate Take)
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

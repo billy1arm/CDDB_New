@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	38875
+#	77095
+#	110020
+#	126287
+#	147670
+#	174495
+#	201370
+#
+# Disc length: 3180 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760c6a08
+DTITLE=Max Bruch - Violin Concerto N°1 - Scottish Fantasy (Neville Mariner, Academy St Martin - Akiko Suwanai)
+DYEAR=1900
+DGENRE=Classique
+TTITLE0=Violin Concerto N°1 in G minor Op.26 - I. Vorspiel (Allegro moderato)
+TTITLE1=Violin Concerto N°1 in G minor Op.26 - II. Adagio
+TTITLE2=Violin Concerto N°1 in G minor Op.26 - III. Finale - Alegro energico - Stringendo
+TTITLE3=Scottish Fantasy Op.46 - Einleitung (Grave)
+TTITLE4=Scottish Fantasy Op.46 - I. Adagio cantabile
+TTITLE5=Scottish Fantasy Op.46 - II. Scherzo (Allegro) - Adagio
+TTITLE6=Scottish Fantasy Op.46 - III. Andante sostenuto
+TTITLE7=Scottish Fantasy Op.46 - IV. Finale (Allegro guerriero)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

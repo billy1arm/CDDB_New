@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23410
+#	47762
+#	71552
+#	86662
+#	116625
+#	151325
+#	166730
+#	189420
+#	204795
+#	225090
+#
+# Disc length: 3368 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760d260b
+DTITLE=Various Artist - EMI Jazz Sampler
+DYEAR=1995
+DGENRE=Jazz
+TTITLE0=Joe Lovano - Angel Eyes
+TTITLE1=Jacky Terrasson - Bye Bye Blackbird
+TTITLE2=Kevin Eubanks - Like The Wind
+TTITLE3=Paolo Fresu - Il Lungo Addio
+TTITLE4=Gonzalo Rubalcaba - Con Alma
+TTITLE5=Tim Hagans - Waking Iris
+TTITLE6=Jeanne Lee - Mal Waldron - Goodbye Pork-Pie Hat
+TTITLE7=Kevin Hays - Black Narcissus
+TTITLE8=Geri Allen Trio - Tea For Two
+TTITLE9=Dave Liebman - Solar
+TTITLE10=Kurt Elling - Close Your Eyes
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

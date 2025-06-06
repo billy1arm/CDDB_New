@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	26475
+#	43595
+#	79482
+#	103000
+#	137507
+#	152565
+#	174152
+#	215940
+#
+# Disc length: 3222 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=730c9409
+DTITLE=Mademoiselle Swing Quartet - 52e rue est
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Songe d'Automne
+TTITLE1=Djangology
+TTITLE2=Nuages
+TTITLE3=Valse à Maryse
+TTITLE4=Montagne Ste Geneviève
+TTITLE5=Impromptu
+TTITLE6=Vuelvo al Sur
+TTITLE7=3 Temps pour Danielle
+TTITLE8=Swing Valse
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

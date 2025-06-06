@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     28080
+#     58410
+#     77795
+#     100168
+#     118718
+#     138070
+#     159978
+#     176493
+# 
+# Disc length: 2633 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=700a4709
+DTITLE=Willie Dixon - I Am The Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=Back Door Man
+TTITLE1=I Can't Quit You Baby
+TTITLE2=The Seventh Son
+TTITLE3=Spoonful
+TTITLE4=I Ain't Superstitious
+TTITLE5=You Shook Me
+TTITLE6=I'm Your Hoochie Coochie Man
+TTITLE7=The Little Red Rooster
+TTITLE8=The Same Thing
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

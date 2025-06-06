@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	31797
+#	52730
+#	82925
+#	103547
+#	137645
+#	159100
+#	182730
+#	202630
+#	219850
+#	256330
+#
+# Disc length: 3714 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=760e800b
+DTITLE=Sebastian Dissing Raug Strube Helner Mathilde mm - Toften
+DYEAR=1900
+DGENRE=
+TTITLE0=De syv små dværge
+TTITLE1=Sengetid
+TTITLE2=Kræft
+TTITLE3=Til en gammel ørn
+TTITLE4=Skræp
+TTITLE5=Den første nat alene
+TTITLE6=Lit de parade
+TTITLE7=Pigen fra Havanna
+TTITLE8=Elskovens hunde
+TTITLE9=Småsnak
+TTITLE10=Epilog til Jan Toftlun
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

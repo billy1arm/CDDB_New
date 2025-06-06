@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38145
+#	49314
+#	91198
+#	110272
+#	140021
+#	151690
+#	184109
+#	216432
+#
+# Disc length: 3292 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=770cda09
+DTITLE=Enrico Rava - Easy Living
+DYEAR=2004
+DGENRE=Jazz
+TTITLE0=Cromosomi
+TTITLE1=Drops
+TTITLE2=Sand
+TTITLE3=Easy Living
+TTITLE4=Algir Dalbughi
+TTITLE5=Blancasnow
+TTITLE6=Traveling Night
+TTITLE7=Hornette And The Drums Thing
+TTITLE8=Rain
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

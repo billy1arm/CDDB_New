@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	40325
+#	90870
+#	118955
+#	179362
+#	223445
+#	243597
+#	267357
+#
+# Disc length: 4060 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760fda08
+DTITLE=Otto Klemperer - Beethoven Symphonies Nos. 5 and 8
+DYEAR=1985
+DGENRE=Clasica
+TTITLE0=Symphony No. 5 in C Minor, Op. 67 - I. Allegro con brio
+TTITLE1=Symphony No. 5 in C Minor, Op. 67 - II. Adante con moto - Piu mosso - Tempo I
+TTITLE2=Symphony No. 5 in C Minor, Op. 67 - III. Allegro
+TTITLE3=Symphony No. 5 in C Minor, Op. 67 - IV. Allegro - Presto
+TTITLE4=Symphony No. 8 in F Major, Op. 93 - I. Allegro vivace con brio
+TTITLE5=Symphony No. 8 in F Major, Op. 93 - II. Allegretto scherzando
+TTITLE6=Symphony No. 8 in F Major, Op. 93 - III. Tempo di Menuetto
+TTITLE7=Symphony No. 8 in F Major, Op. 93 - IV. Allegro vivace
+EXTD=Philharmonic Orchestra\nOp. 67: recorded 1959, Abbey Road Studios, London\nOp. 93: recorded 1957, Kingsway Hall, London YEAR: 1985
+EXTT0=Adagio con brio\n
+EXTT1=Andante con motto - Piu\nmosso - Tempo I\n
+EXTT2=Allegro\n
+EXTT3=Allegro - Presto\n
+EXTT4=Allegro vivace con brio\n
+EXTT5=Allegretto scherzando\n
+EXTT6=Tempo di Menuetto\n
+EXTT7=Allegro vivace\n
+PLAYORDER=

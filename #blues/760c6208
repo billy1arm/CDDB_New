@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29385
+#	51519
+#	78975
+#	115338
+#	141684
+#	162832
+#	198694
+#
+# Disc length: 3172 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=760c6208
+DTITLE=Grant Green - Born To Be Blue
+DYEAR=1962
+DGENRE=Jazz
+TTITLE0=Someday My Prince Will Come
+TTITLE1=Born To Be Blue
+TTITLE2=If I Should Lose You
+TTITLE3=Back In Your Own Backyard
+TTITLE4=My One And Only Love
+TTITLE5=Born To Be Blue (alternate take)
+TTITLE6=Cool Blues
+TTITLE7=Outer Space
+EXTD=YEAR: 1962
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

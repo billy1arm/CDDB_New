@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23509
+#	46144
+#	69260
+#	90711
+#	113622
+#	136580
+#	159791
+#	181618
+#	203792
+#	226348
+#
+# Disc length: 3423 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=710d5d0b
+DTITLE=Mankell, Mankell - Mittsommermord - CD 01
+DYEAR=2001
+DGENRE=Hörspiel
+TTITLE0=Prolog
+TTITLE1=Kapitel 1
+TTITLE2=Kapitel 2
+TTITLE3=Kapitel 3
+TTITLE4=Kapitel 4
+TTITLE5=Kapitel 5
+TTITLE6=Kapitel 6
+TTITLE7=Kapitel 7
+TTITLE8=Kapitel 8
+TTITLE9=Kapitel 9
+TTITLE10=Kapitel 10
+EXTD=der hörverlag YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

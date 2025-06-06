@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	22387
+#	43080
+#	76522
+#	96635
+#	117427
+#	137680
+#	172632
+#	198255
+#
+# Disc length: 2795 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=720ae909
+DTITLE=Louis Petrucciani - Loui's Blues
+DYEAR=1989
+DGENRE=Jazz
+TTITLE0=Cross Roads
+TTITLE1=Another Romantic One
+TTITLE2=In A Sentimental Mood
+TTITLE3=Loui's blues
+TTITLE4=Beautiful Love
+TTITLE5=Arrival
+TTITLE6=Misty
+TTITLE7=My Funny Valentine
+TTITLE8=Space
+EXTD=YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24327
+#	64465
+#	81615
+#	124485
+#	155025
+#	182180
+#	203080
+#
+# Disc length: 3226 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=770c9808
+DTITLE=Sivuca - Live at the Village Gate
+DYEAR=1975
+DGENRE=Jazz
+TTITLE0=Adeus Maria Fulo
+TTITLE1=Berimbau
+TTITLE2=It Might Have Been
+TTITLE3=Rancho Fundo
+TTITLE4=Ain't No Sunshine
+TTITLE5=Marina
+TTITLE6=Coisa No.10
+TTITLE7=Batucada
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

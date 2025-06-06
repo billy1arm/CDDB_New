@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28417
+#	66222
+#	99632
+#	138292
+#	166962
+#	194662
+#	231975
+#
+# Disc length: 3484 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=740d9a08
+DTITLE=Toshiko Akiyoshi - Night and Dream
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Night Waltz - You and The Night and The Music
+TTITLE1=Darn That Dream
+TTITLE2=Elsive Dream
+TTITLE3=Get Out and Get Under The Moon
+TTITLE4=When You Wish Upon a Star
+TTITLE5=Dream
+TTITLE6=The Night Has a Thousand Eyes
+TTITLE7=Round about Midnight
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

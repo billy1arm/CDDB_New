@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	39577
+#	52782
+#	69522
+#	87340
+#	111970
+#	131960
+#	155752
+#	180925
+#
+# Disc length: 2870 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=750b3409
+DTITLE=Love Committee - Law and Order
+DYEAR=1900
+DGENRE=
+TTITLE0=Law And Order
+TTITLE1=Tired Of Being Your Fool
+TTITLE2=If You Change Your Mind
+TTITLE3=Cheaters Never Win
+TTITLE4=Pass The Buck
+TTITLE5=Put It In The Back Of Your Mind
+TTITLE6=Give Her Love
+TTITLE7=Just As Long As I Got You
+TTITLE8=Where Will It End
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

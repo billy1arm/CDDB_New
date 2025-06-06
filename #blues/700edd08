@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33770
+#	79957
+#	113972
+#	148443
+#	189433
+#	208743
+#	250033
+#
+# Disc length: 3807 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=700edd08
+DTITLE=Stephen Riley - Easy to remember
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=It's easy to remember
+TTITLE1=Big foot
+TTITLE2=Do you know what it means to miss New Orleans ?
+TTITLE3=What's new
+TTITLE4=Over the rainbow
+TTITLE5=The sheik of araby
+TTITLE6=Yesterdays
+TTITLE7=Ladybird
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34955
+#	56845
+#	92084
+#	129146
+#	159236
+#	187409
+#	215702
+#
+# Disc length: 3287 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=720cd508
+DTITLE=Yves Léveillé - Choregraphie
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Mille Orchidees
+TTITLE1=Encodage
+TTITLE2=Presage
+TTITLE3=U-Bahn
+TTITLE4=Recif
+TTITLE5=Pour ainsi dire
+TTITLE6=Lune et loup
+TTITLE7=Choregraphie
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

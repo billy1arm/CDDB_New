@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30528
+#	76045
+#	106984
+#	148246
+#	188876
+#	222096
+#	269111
+#
+# Disc length: 4065 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=700fdf08
+DTITLE=John Coltane - Stardust Sessions
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Spring Is Here
+TTITLE1=Invitation
+TTITLE2=I'm A Dreamer
+TTITLE3=Love Thy Neighbor
+TTITLE4=Don't Take Your Love From Me
+TTITLE5=My Ideal
+TTITLE6=Stardust
+TTITLE7=I'll Get By
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

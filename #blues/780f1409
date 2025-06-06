@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23970
+#	49358
+#	77081
+#	107952
+#	145656
+#	160849
+#	204718
+#	236510
+#
+# Disc length: 3862 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=780f1409
+DTITLE=Pete Roth - Meridian
+DYEAR=2010
+DGENRE=Jazz
+TTITLE0=Fool's Paradise
+TTITLE1=Giant at Heart
+TTITLE2=Not for me
+TTITLE3=Lullaby
+TTITLE4=How does it feel
+TTITLE5=First Snow
+TTITLE6=Meridian
+TTITLE7=Starcrossed Lover
+TTITLE8=Moodyville
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

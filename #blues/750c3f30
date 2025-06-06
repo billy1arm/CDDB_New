@@ -1,0 +1,161 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9339
+#	12490
+#	14921
+#	18035
+#	19129
+#	20174
+#	21590
+#	22635
+#	25346
+#	26375
+#	27426
+#	28439
+#	29412
+#	30498
+#	31511
+#	32355
+#	33139
+#	33897
+#	34998
+#	36592
+#	37817
+#	39585
+#	41080
+#	42630
+#	44431
+#	48332
+#	50394
+#	54025
+#	61290
+#	65596
+#	72798
+#	77299
+#	85029
+#	91531
+#	103811
+#	110968
+#	124108
+#	134552
+#	153850
+#	162326
+#	177989
+#	182590
+#	190847
+#	199870
+#	216732
+#	220656
+#	227281
+#
+# Disc length: 3137 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=750c3f30
+DTITLE=Dave Celentano - Essential Blues Guitar
+DYEAR=1900
+DGENRE=
+TTITLE0=Introduction (music)
+TTITLE1=Introduction (dialog)
+TTITLE2=Tuning notes
+TTITLE3=Rhythm #1 (dialog and music)
+TTITLE4=Rhythm #2 (music)
+TTITLE5=Rhythm #3 (music)
+TTITLE6=Rhythm #4 (music)
+TTITLE7=Rhythm #5 (music)
+TTITLE8=Turnaround #1 (dialog and music)
+TTITLE9=Turnaround #2 (music)
+TTITLE10=Turnaround #3 (music)
+TTITLE11=Turnaround #4 (music)
+TTITLE12=Turnaround #5 (music)
+TTITLE13=Turnaround #6 (music)
+TTITLE14=Turnaround #7 (music)
+TTITLE15=Turnaround #8 (music)
+TTITLE16=Turnaround #9 (music)
+TTITLE17=Turnaround #10 (music)
+TTITLE18=Turnaround as intro (dialog)
+TTITLE19=Turnaround #1 (music)
+TTITLE20=Turnaround #2 (music)
+TTITLE21=Turnaround as ending (dialog)
+TTITLE22=Turnaround ending #1 (music)
+TTITLE23=Turnaround ending #2 (music)
+TTITLE24=Call and Respond (dialog)
+TTITLE25=Call and Respond (music)
+TTITLE26=Rhythm Tracks (dialog)
+TTITLE27="Rockin' Blues" rhythm and solo
+TTITLE28="Rockin' Blues" rhythm
+TTITLE29="Double the Blues" rhythm and solo
+TTITLE30="Double the Blues" rhythm
+TTITLE31="B.B.'s Blues" rhythm and solo
+TTITLE32="B.B.'s Blues" rhythm
+TTITLE33="Moore Or Less" rhythm and solo
+TTITLE34="Moore Or Less" rhythm
+TTITLE35="Swing It" rhythm and solo
+TTITLE36="Swing It" rhythm
+TTITLE37="Rainy Jazz Blues" rhythm and solo
+TTITLE38="Rainy Jazz Blues" rhythm
+TTITLE39="A.K. Special" rhythm and solo
+TTITLE40="A.K. Special" rhythm
+TTITLE41="Commerical Blues" rhythm and solo
+TTITLE42="Commerical Blues" rhythm
+TTITLE43="Blues Delight" rhythm and solo
+TTITLE44="Blues Delight" rhythm
+TTITLE45="Blues With Hair" rhythm and solo
+TTITLE46="Blues With Hair" rhythm
+TTITLE47=Closing (music and dialog)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+PLAYORDER=

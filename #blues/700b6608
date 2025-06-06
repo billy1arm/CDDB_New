@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26065
+#	66047
+#	96337
+#	109427
+#	135994
+#	162310
+#	193925
+#
+# Disc length: 2920 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=700b6608
+DTITLE=Grenzbereiche - Grenzbereiche
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Count Popula
+TTITLE1=L'après-midi d'un Faufs
+TTITLE2=Sehnsucht nach Meer
+TTITLE3=Gebet
+TTITLE4=Georgeophil, Geoffophob
+TTITLE5=Hinter den Spiegeln
+TTITLE6=Until there was
+TTITLE7=Melodie
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

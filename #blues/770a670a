@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17247
+#     35210
+#     61547
+#     79535
+#     106560
+#     127817
+#     148627
+#     171280
+#     185465
+# 
+# Disc length: 2665 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=770a670a
+DTITLE=Various Artist - Third Rail Screamin'
+DYEAR=1900
+DGENRE=
+TTITLE0=Gonna Scratch Your Name Off The Mailbox
+TTITLE1=Ain't Got No Home
+TTITLE2=I Need A Kiss
+TTITLE3=Do The Right Thing
+TTITLE4=On The Deuce
+TTITLE5=52 Pick-up
+TTITLE6=Down and Dirty
+TTITLE7=Bad Girl
+TTITLE8=To Keep A Lady Waiting
+TTITLE9=Howlin' At The Moon
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37025
+#	69516
+#	97269
+#	130665
+#	157824
+#	196292
+#	223347
+#
+# Disc length: 3430 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=730d6408
+DTITLE=Gato Libre - Shiro
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Dune and Star
+TTITLE1=Waterside
+TTITLE2=Scorpion
+TTITLE3=Falling Star
+TTITLE4=Going Back Home
+TTITLE5=Mountain, River, Sky
+TTITLE6=Memory of Journey
+TTITLE7=Shiro
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

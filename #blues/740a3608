@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24391
+#	51936
+#	74624
+#	98632
+#	126820
+#	142281
+#	169167
+#
+# Disc length: 2616 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=740a3608
+DTITLE=Vic Lewis - Vic Lewis Plays Bossa Nova At Home And Away
+DYEAR=1963
+DGENRE=Jazz
+TTITLE0=Vic's Tune
+TTITLE1=Ricardo
+TTITLE2=Danielle
+TTITLE3=Last Minute Bossa Nova
+TTITLE4=Bossa Nova Scotia
+TTITLE5=Rio
+TTITLE6=Two Note Samba
+TTITLE7=Bossa Nova Blues
+EXTD=YEAR: 1963
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

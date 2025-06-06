@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40290
+#	74927
+#	104630
+#	132110
+#	166930
+#	194385
+#	240712
+#
+# Disc length: 3780 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=770ec208
+DTITLE=Milcho Leviev - The Beatles - When I'm 64
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Get Back
+TTITLE1=Yesterday
+TTITLE2=Here, There and Everywhere
+TTITLE3=Taxman
+TTITLE4=Hey Jude
+TTITLE5=Fool on The Hill
+TTITLE6=Norwegian Wood
+TTITLE7=When I'm 64
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

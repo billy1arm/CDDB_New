@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	55141
+#	90521
+#	126797
+#	160432
+#	190347
+#	224219
+#	258512
+#
+# Disc length: 4000 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta5
+#
+DISCID=770f9e08
+DTITLE=One For All - The Long Haul
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=A Cry for Understanding
+TTITLE1=The Long Haul
+TTITLE2=Echoes in the Night
+TTITLE3=The Poo
+TTITLE4=The Good Life
+TTITLE5=Stash
+TTITLE6=Summer Nights
+TTITLE7=Nothin' To It
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24682
+#	48890
+#	76677
+#	104690
+#	130732
+#	153732
+#	175352
+#	200760
+#
+# Disc length: 3018 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760bc809
+DTITLE=Raffaele Mallozzi - ITINERARIA
+DYEAR=1994
+DGENRE=New Age
+TTITLE0=Vele latine
+TTITLE1=Città nova
+TTITLE2=Fuochi
+TTITLE3=Mercati
+TTITLE4=Come in un viaggio
+TTITLE5=Sogni
+TTITLE6=Verso sud
+TTITLE7=Ritmia
+TTITLE8=Scirocco
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

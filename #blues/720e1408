@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	43360
+#	77264
+#	104143
+#	131998
+#	158436
+#	197939
+#	232390
+#
+# Disc length: 3606 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=720e1408
+DTITLE=John Grout - Dolphin Dreams
+DYEAR=1999
+DGENRE=New Age
+TTITLE0=Dolphin Dreams
+TTITLE1=In Search Of Atlantis
+TTITLE2=Sea Of Tranquility
+TTITLE3=Journey Into The Deep
+TTITLE4=The Abyss
+TTITLE5=Angels Of The Deep
+TTITLE6=The Journey Home
+TTITLE7=Dolphin Dreams (Reprise)
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31174
+#	64248
+#	86441
+#	132283
+#	157465
+#	193759
+#	232453
+#
+# Disc length: 3239 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=740ca508
+DTITLE=Marvin "Doc" Holladay - Sweetness and Light
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Makin' Whoopee
+TTITLE1=St. Thomas
+TTITLE2=Pas de Deux
+TTITLE3=Maqam
+TTITLE4=Drop Me Off In Harlem
+TTITLE5=You Don't Know What Love Is
+TTITLE6=Echoes
+TTITLE7=Sweetness and Light
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

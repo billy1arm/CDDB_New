@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31748
+#	64468
+#	92733
+#	116698
+#	146588
+#	172868
+#	198363
+#	231755
+#
+# Disc length: 3538 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=750dd009
+DTITLE=Kosuke Mine - Plays Standard
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=You are My Everything
+TTITLE1=Beautiful Love
+TTITLE2=Peace
+TTITLE3=Half Nelson
+TTITLE4=Ceora
+TTITLE5=I Hear a Rhapsody
+TTITLE6=Lament
+TTITLE7=Oh, Gee!
+TTITLE8='Round Midnight
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

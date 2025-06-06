@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38726
+#	62541
+#	80166
+#	108384
+#	136732
+#	163099
+#	194305
+#	227735
+#
+# Disc length: 3430 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=710d6409
+DTITLE=Mat Maneri and Denman Maroney - Distich
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Bicinium
+TTITLE1=Brace
+TTITLE2=Couplet
+TTITLE3=Distich
+TTITLE4=Doublet
+TTITLE5=Match
+TTITLE6=Span
+TTITLE7=Twain
+TTITLE8=Yoke
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     33398
+#     68428
+#     89010
+#     115093
+#     142225
+#     171725
+#     196905
+# 
+# Disc length: 2841 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=740b1708
+DTITLE=North German Radio Orchestra - Allegretto II
+DYEAR=1900
+DGENRE=
+TTITLE0=Mozart Symphony No. 41 Jupiter Allegro vivace
+TTITLE1=Mozart Symphony No. 41 Jupiter Andante cantabile
+TTITLE2=Mozart Symphony No. 41 Jupiter Menuetto: Allegretto
+TTITLE3=Mozart Symphony No. 41 Jupiter Molto Allegro
+TTITLE4=Haydn Symphony No.94 Surprise Adagio cantabile
+TTITLE5=Haydn Symphony No.94 Surprise Andante
+TTITLE6=Haydn Symphony No.94 Surprise Menuetto
+TTITLE7=Haydn Symphony No.94 Surprise Finale
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33224
+#	62912
+#	94862
+#	116170
+#	142353
+#	176440
+#	219074
+#
+# Disc length: 3290 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=710cd808
+DTITLE=Michael Blake - Fulfillment
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=Sea Shanty
+TTITLE1=Perimeters
+TTITLE2=The Ballad of Gurtid Singh
+TTITLE3=Arrivals
+TTITLE4=Departures
+TTITLE5=Battle at Baj Baj
+TTITLE6=Exaltation
+TTITLE7=The Soldier and the Saint
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	41762
+#	67262
+#	128612
+#	155387
+#	190417
+#	221612
+#	249162
+#
+# Disc length: 3636 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=700e3208
+DTITLE=Philharmonia Orchestra - Zehetmair - Mozart Music for Violin and Orchestra
+DYEAR=1990
+DGENRE=Concerto
+TTITLE0=Konzertstück in D for Violin and Orchestra D345
+TTITLE1=Polonaise in Bb for Violin and Orchestra D580
+TTITLE2=Rondo in A for Violin and Orchestra D438
+TTITLE3=Romance for Violin and Orchestra in G Op.40
+TTITLE4=Romance for Violin and Orchestra in F Op.50
+TTITLE5=Rondo in Bb for Violin and Orchestra K269
+TTITLE6=Adagio in E for Violin and Orchestra K261
+TTITLE7=Rondo in C for Violin and Orchestra K373
+EXTD=YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

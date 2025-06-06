@@ -1,0 +1,43 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 31234
+# 52730
+# 81550
+# 107223
+# 134966
+# 158295
+# 185017
+# 189493
+#
+# Disc length: 2859 seconds
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDSpectrumPro v3.3.334
+#
+DISCID=760b2909
+DTITLE=Al Jewer - Prairie Plain Song
+DYEAR=1900
+DGENRE=
+TTITLE0=Celtic Song
+TTITLE1=Honor Song
+TTITLE2=Echo Canyon
+TTITLE3=Star Symphony
+TTITLE4=Stormy Fall
+TTITLE5=Walking Eagle
+TTITLE6=Reflection
+TTITLE7=Late Fall
+TTITLE8=Elegy for a Friend
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21772
+#     41525
+#     66407
+#     85882
+#     110847
+#     134695
+#     157725
+#     181900
+# 
+# Disc length: 2730 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=760aa809
+DTITLE=The Controllers - Just in time
+DYEAR=1900
+DGENRE=
+TTITLE0=Temporary Lovers
+TTITLE1=Take it or leave it
+TTITLE2=Just in time
+TTITLE3=Gimmie Watcha got
+TTITLE4=I m in love
+TTITLE5=We are back
+TTITLE6=Let s  stay friend
+TTITLE7=I wanna be with you
+TTITLE8=I m so glad i met you
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

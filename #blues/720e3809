@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22970
+#	42060
+#	58612
+#	79225
+#	113595
+#	139285
+#	168682
+#	197572
+#
+# Disc length: 3642 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=720e3809
+DTITLE=Gerry Mulligan's New Sextet - Idol Gossip
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=01 - Idol Gossip
+TTITLE1=02 - Strayhorn 2
+TTITLE2=03 - Walk on Water
+TTITLE3=04 - Waltzing Mathilda
+TTITLE4=05 - Out Back of the Barn
+TTITLE5=06 - North Atlantic Run
+TTITLE6=07 - Taurus Moon
+TTITLE7=08 - Just Want to Sing and Dance Like Fred Astaire
+TTITLE8=09 - Jazzspeak
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

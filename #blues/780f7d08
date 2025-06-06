@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	32005
+#	66695
+#	99823
+#	135520
+#	162740
+#	197793
+#	268355
+#
+# Disc length: 3967 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=780f7d08
+DTITLE=Herbie Hancock - Jazz Artist Series
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Watermeloln Man
+TTITLE1=Succotash
+TTITLE2=One finger snap
+TTITLE3=Maiden Voyge
+TTITLE4=The eye of the huricane
+TTITLE5=Speak like a child
+TTITLE6=Chameleon
+TTITLE7=Watermelon Man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

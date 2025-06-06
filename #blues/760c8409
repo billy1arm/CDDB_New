@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28979
+#	62873
+#	85317
+#	116369
+#	143453
+#	168042
+#	193579
+#	216806
+#
+# Disc length: 3206 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=760c8409
+DTITLE=Christian Havel - It's Never Too Late
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Blues For Mausu
+TTITLE1=Dorothy's Valentine
+TTITLE2=Bulky Minor
+TTITLE3=Soul Eyes
+TTITLE4=It's Never Too Late
+TTITLE5=Three Ladies From Vienna
+TTITLE6=Fine Wine
+TTITLE7=Hortissimo
+TTITLE8=Donald Duck
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

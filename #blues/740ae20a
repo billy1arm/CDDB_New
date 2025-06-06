@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26657
+#	43855
+#	62685
+#	82982
+#	105827
+#	131027
+#	151895
+#	168422
+#	189232
+#
+# Disc length: 2788 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=740ae20a
+DTITLE=Cusco - Planet Voyage
+DYEAR=1982
+DGENRE=New Age
+TTITLE0=Milky Way
+TTITLE1=Ursa Minor
+TTITLE2=Pisces
+TTITLE3=Swan
+TTITLE4=Andromeda
+TTITLE5=Venus
+TTITLE6=Leo
+TTITLE7=Saturn
+TTITLE8=Mars
+TTITLE9=Pegasus
+EXTD=YEAR: 1982
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

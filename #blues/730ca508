@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	36460
+#	72880
+#	102502
+#	132927
+#	166046
+#	193017
+#	221592
+#
+# Disc length: 3239 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=730ca508
+DTITLE=John St. John - Wolf Canyon
+DYEAR=1996
+DGENRE=New Age
+TTITLE0=The Canyon
+TTITLE1=The Wolf
+TTITLE2=Behold
+TTITLE3=The Rapids
+TTITLE4=Prowler
+TTITLE5=Caves
+TTITLE6=Horizon
+TTITLE7=Canyon Waltz
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

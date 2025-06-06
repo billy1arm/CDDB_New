@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18570
+#	44010
+#	64990
+#	89558
+#	112555
+#	130538
+#	152110
+#	175270
+#
+# Disc length: 2692 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=710a8209
+DTITLE=Junior Wells - on tap
+DYEAR=1991
+DGENRE=Blues
+TTITLE0=what my mama told me
+TTITLE1=so long
+TTITLE2=key to the highway
+TTITLE3=you gotta love her with a feeling
+TTITLE4=the train i ride
+TTITLE5=watch me move
+TTITLE6=someday baby
+TTITLE7=junior's thing
+TTITLE8=goin' down slow
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

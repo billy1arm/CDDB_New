@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13730
+#	49182
+#	82341
+#	108240
+#	128529
+#	154103
+#	185420
+#	211447
+#
+# Disc length: 2908 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=750b5a09
+DTITLE=Trafalgar Trio - De Tout Et Dorien
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=Rosebridge Shuffle
+TTITLE1=Knock On Evans' Door
+TTITLE2=Long Métrage
+TTITLE3=10 Funktion Air
+TTITLE4=Lassagga Dalibaba
+TTITLE5=Madawi
+TTITLE6=De Tout Et Dorien
+TTITLE7=Slap Punk
+TTITLE8=Berceuse Pour Mon Amour
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

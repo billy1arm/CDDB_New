@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21212
+#	36989
+#	59253
+#	81370
+#	105950
+#	140320
+#	155936
+#	175012
+#
+# Disc length: 2574 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=700a0c09
+DTITLE=Aidan Holloway - Demo EP
+DYEAR=2006
+DGENRE=Jazz
+TTITLE0=Transition
+TTITLE1=Riddles Of The Night
+TTITLE2=Cusquena
+TTITLE3=Composed
+TTITLE4=Current State
+TTITLE5=Do You Remember Your First Love?
+TTITLE6=A Short Journey
+TTITLE7=L'Ennui
+TTITLE8=Mystery You
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

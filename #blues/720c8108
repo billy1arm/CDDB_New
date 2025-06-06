@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	24525
+#	57375
+#	86415
+#	139435
+#	164153
+#	189045
+#	208890
+#
+# Disc length: 3203 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=720c8108
+DTITLE=Joe Hughes - Live At Vredenburg CD 2
+DYEAR=1993
+DGENRE=Blues
+TTITLE0=Sack O' Woe
+TTITLE1=How Blue Can You Get
+TTITLE2=Big Boss Man
+TTITLE3=Sweet Sixteen
+TTITLE4=Funky Mama
+TTITLE5=The Things That I Used To Do
+TTITLE6=Albert's Alley
+TTITLE7=Woke up This Morning
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

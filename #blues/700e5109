@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	40296
+#	63847
+#	104390
+#	121522
+#	158169
+#	179552
+#	227785
+#	253014
+#
+# Disc length: 3667 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=700e5109
+DTITLE=Johannes Mössinger - Live
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Joana's Dance
+TTITLE1=Back To The Future
+TTITLE2=Walkin' Out
+TTITLE3=Nowhere
+TTITLE4=Landscapes
+TTITLE5=Norway
+TTITLE6=Space Of Time
+TTITLE7=Cologne
+TTITLE8=Epilog
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

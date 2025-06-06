@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	66760
+#	146073
+#	183456
+#	209097
+#	221051
+#	244559
+#
+# Disc length: 3571 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=710df107
+DTITLE=Abraham - La loi de l'attraction - CD3
+DYEAR=2008
+DGENRE=New Age
+TTITLE0=01-Une journée créative
+TTITLE1=02-L'atelier de création délibérée
+TTITLE2=03-Visualisation créatrice
+TTITLE3=04-Relations humaines
+TTITLE4=05-Notre état de santé
+TTITLE5=06-Habitudes et dépendances
+TTITLE6=07-Qu'est-ce qu'Abraham en retire
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18975
+#	56325
+#	74925
+#	101700
+#	130800
+#	163125
+#	183600
+#
+# Disc length: 2746 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=740ab808
+DTITLE=Bill Evans - You And The Night And The Music
+DYEAR=1980
+DGENRE=Jazz
+TTITLE0=Mornin' Glory
+TTITLE1=Turn Out The Stars
+TTITLE2=Re: Person I Know
+TTITLE3=You And The Night And The Music
+TTITLE4=Laurie
+TTITLE5=Bill's Hit Tune
+TTITLE6=Emily
+TTITLE7=Who Can I Turn To
+EXTD=YEAR: 1980
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

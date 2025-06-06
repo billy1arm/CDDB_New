@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27268
+#	53698
+#	92340
+#	132903
+#	163968
+#	183460
+#	222925
+#	249168
+#
+# Disc length: 3724 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=720e8a09
+DTITLE=Mozart - Mozart - Clarinet Trio K. 498 "Kegelstatt", Clarinet Quartets K. 317d and K.496
+DYEAR=1991
+DGENRE=Classical
+TTITLE0=Trio for Clarinet, Viola and Piano Kegelstatt, K. 498 in E Flat Major - Andante
+TTITLE1=Trio for Clarinet, Viola and Piano Kegelstatt, K. 498 in E Flat Major - Menuett
+TTITLE2=Trio for Clarinet, Viola and Piano Kegelstatt, K. 498 in E Flat Major - Allegro
+TTITLE3=Clarinet Quartet, K. 317d in B Flat Major - Allegro moderato
+TTITLE4=Clarinet Quartet, K. 317d in B Flat Major - Andantino sostenuto e cantabile
+TTITLE5=Clarinet Quartet, K. 317d in B Flat Major - Allegro
+TTITLE6=Clarinet Quartet, K. 496 in F Major - Allegro
+TTITLE7=Clarinet Quartet, K. 496 in F Major - Andante sostenuto quasi larghetto
+TTITLE8=Clarinet Quartet, K. 496 in F Major - Allegro non tanto
+EXTD=YEAR: 1991/92
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

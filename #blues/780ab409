@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	68400
+#	86145
+#	101498
+#	115868
+#	132168
+#	149455
+#	164100
+#	189090
+#
+# Disc length: 2742 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=780ab409
+DTITLE=Udo J�rgens - Der erste Sahne Mix - Das Album
+DYEAR=1997
+DGENRE=Blues
+TTITLE0=Udo Jürgens - Der "Erste Sahne" - Mix
+TTITLE1=Udo Jürgens - Der "Lieben, Leiden, Leben" - Mix
+TTITLE2=Udo Jürgens - Der "Zeit"- Mix
+TTITLE3=Udo Jürgens - Der "Ferien" - Mix
+TTITLE4=Udo Jürgens - Der "Ich bin..." - Mix
+TTITLE5=Udo Jürgens - Der "Himmel und Hölle" - Mix
+TTITLE6=Udo Jürgens - Der "Schmunzel" - Mix
+TTITLE7=Udo Jürgens - Der "Swing" - Mix
+TTITLE8=Udo Jürgens - Der "Erste Sahne" - Mix
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

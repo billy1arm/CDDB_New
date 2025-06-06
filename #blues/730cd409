@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34337
+#	66124
+#	88433
+#	117979
+#	144025
+#	167284
+#	190138
+#	210859
+#
+# Disc length: 3286 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=730cd409
+DTITLE=Gabe Baltazar - Magic Island
+DYEAR=1999
+DGENRE=Jazz
+TTITLE0=Black Sugar
+TTITLE1=Dream Song
+TTITLE2=Trade Winds
+TTITLE3=Surprise Waltz
+TTITLE4=Bird of Paradise
+TTITLE5=Jalapeno Man
+TTITLE6=Paralyzed in Paradise
+TTITLE7=Hang Ten
+TTITLE8=Magic Island
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30772
+#	60464
+#	88323
+#	111879
+#	148877
+#	175646
+#	202893
+#	243362
+#
+# Disc length: 3660 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.84
+#
+DISCID=700e4a09
+DTITLE=Sarah Buechi - Shadow Garden
+DYEAR=2015
+DGENRE=Jazz
+TTITLE0=Lost and Found
+TTITLE1=The Apple
+TTITLE2=Comfort of Illusions
+TTITLE3=Alive
+TTITLE4=Shadow Play
+TTITLE5=Right Nor Wrong
+TTITLE6=Reconnect
+TTITLE7=Irish Garden
+TTITLE8=Ohne Namen
+EXTD=YEAR: 2015
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

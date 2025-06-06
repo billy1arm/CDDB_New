@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31541
+#	58025
+#	90270
+#	113220
+#	138695
+#	165138
+#	186357
+#	202584
+#	233398
+#	249820
+#
+# Disc length: 3604 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=740e120b
+DTITLE=Booker Little - Stardust
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=01 Opening Statement
+TTITLE1=02 Bee Tees Minor Plea
+TTITLE2=03 Life's A Little Blue
+TTITLE3=04 The Grand Valse
+TTITLE4=05 Who Can I Turn Too
+TTITLE5=06 Minor Sweet
+TTITLE6=07 Cycles
+TTITLE7=08 Stardust
+TTITLE8=09 The Confined Few
+TTITLE9=10 Blue De Tambour
+TTITLE10=11 Witchfire
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

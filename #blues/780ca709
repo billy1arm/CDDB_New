@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	151
+#	20087
+#	41195
+#	63416
+#	84378
+#	99449
+#	131448
+#	201883
+#	230658
+#
+# Disc length: 3241 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=780ca709
+DTITLE=Dizzy Dimples - Live in Europe
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Baby Please Don't Go
+TTITLE1=Big Leg Woman
+TTITLE2=Blues With A Feeling
+TTITLE3=Ramblin On My Mind
+TTITLE4=Bad Boy
+TTITLE5=Mama Talk To Your Daughter
+TTITLE6=I'm Going Upstairs
+TTITLE7=Sweet Blood Call
+TTITLE8=Low Down Dirty Shame
+EXTD=YEAR: 2000 ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

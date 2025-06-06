@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     5195
+#     22005
+#     62362
+#     82457
+#     119412
+#     137515
+#     153490
+#     169875
+# 
+# Disc length: 2846 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=790b1c09
+DTITLE=Marvin Gaye - Live
+DYEAR=1900
+DGENRE=
+TTITLE0=If this world were mine
+TTITLE1=I heard it through the grapevine
+TTITLE2=Medley: Come get to this/Let's get it on
+TTITLE3=Joy
+TTITLE4=Third world girl
+TTITLE5=What's going on
+TTITLE6=Ain't nothin' like the real thing
+TTITLE7=Heaven must have sent you
+TTITLE8=Distant lover
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

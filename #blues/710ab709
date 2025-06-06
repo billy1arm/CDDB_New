@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23712
+#	45152
+#	71177
+#	90550
+#	120007
+#	140375
+#	163265
+#	193952
+#
+# Disc length: 2745 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=710ab709
+DTITLE=David Bowie - Young Americans
+DYEAR=1975
+DGENRE=Rock
+TTITLE0=Young Americans
+TTITLE1=Win
+TTITLE2=Fascination
+TTITLE3=Right
+TTITLE4=Somebody up there likes me
+TTITLE5=Across the Universe
+TTITLE6=Can you hear me
+TTITLE7=Fame
+TTITLE8=<data track>
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

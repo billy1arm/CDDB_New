@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22375
+#	62421
+#	96105
+#	128496
+#	173774
+#	209021
+#	232483
+#
+# Disc length: 3800 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=720ed608
+DTITLE=Satoko Fujii - Zakopane (Orchestra Tokyo)
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Negotiation Steps
+TTITLE1=Desert Ship
+TTITLE2=Zee
+TTITLE3=Sakura
+TTITLE4=Tropical Fish
+TTITLE5=Zakopane
+TTITLE6=Trout
+TTITLE7=Inori
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

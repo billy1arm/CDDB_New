@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23628
+#	52104
+#	72476
+#	101501
+#	131864
+#	157183
+#	177106
+#
+# Disc length: 2700 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=700a8a08
+DTITLE=Njet Njet 9 - Dark Soul
+DYEAR=2017
+DGENRE=Jazz
+TTITLE0=Dancing With Demons
+TTITLE1=Kulkuriveljeni Jan
+TTITLE2=Dark Soul
+TTITLE3=High Hopes
+TTITLE4=Maybe In Some Parallel Universe
+TTITLE5=Öis
+TTITLE6=Hour Of The Wolf
+TTITLE7=Wake Up! (Aamu Ristolla)
+EXTD=YEAR: 2017
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

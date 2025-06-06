@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37086
+#	73606
+#	106070
+#	129476
+#	163209
+#	195971
+#	234822
+#	259474
+#
+# Disc length: 3885 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760f2b09
+DTITLE=Greg Chako - Integration
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Coming Home
+TTITLE1=Saito's Serenade 
+TTITLE2=Sulawesi Sky
+TTITLE3=Inspiration Blues
+TTITLE4=From The Heart
+TTITLE5=Integration
+TTITLE6=Poinciana
+TTITLE7=What Happened ?
+TTITLE8=Funky Monkey
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

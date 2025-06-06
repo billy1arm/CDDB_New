@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16854
+#	43564
+#	71332
+#	100340
+#	136339
+#	154291
+#	171993
+#	204380
+#
+# Disc length: 3068 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=730bfa09
+DTITLE=Silverman - Archangel
+DYEAR=2000
+DGENRE=Blues
+TTITLE0=Time is a blade
+TTITLE1=Love me too
+TTITLE2=I get nervous
+TTITLE3=All my life
+TTITLE4=How cruel
+TTITLE5=The blue tree
+TTITLE6=Gun at my head
+TTITLE7=Black rainbow
+TTITLE8=Data
+EXTD=YEAR: 2000 ID3G: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

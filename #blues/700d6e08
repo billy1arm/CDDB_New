@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19507
+#	50911
+#	89910
+#	117134
+#	143399
+#	189739
+#	218806
+#
+# Disc length: 3440 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=700d6e08
+DTITLE=Anja Lechner and Dino Saluzzi - Ojos Negros
+DYEAR=2007
+DGENRE=Jazz
+TTITLE0=Tango a Mi Padre
+TTITLE1=Minguito
+TTITLE2=Esquina
+TTITLE3=Duetto
+TTITLE4=Ojos Negros
+TTITLE5=El Titere
+TTITLE6=Carretas
+TTITLE7=Serenata
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

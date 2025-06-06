@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	70353
+#	75381
+#	76657
+#	122186
+#	145211
+#	158868
+#	181886
+#	207445
+#
+# Disc length: 3010 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=730bc009
+DTITLE=Kamil Holub - Kouzelna zeme
+DYEAR=1994
+DGENRE=New Age
+TTITLE0=Hledani pokladu I
+TTITLE1=Hledani pokladu II
+TTITLE2=Hledani pokladu III
+TTITLE3=Hledani pokladu IV
+TTITLE4=Kouzelna zeme
+TTITLE5=Sedm havranu
+TTITLE6=Cesta z temnot
+TTITLE7=Svetlo
+TTITLE8=Zpoved
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22970
+#	49897
+#	70611
+#	92788
+#	116924
+#	137634
+#	160849
+#	190846
+#
+# Disc length: 3354 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=750d1809
+DTITLE=Max Merseny - Thank Ya´ll
+DYEAR=2011
+DGENRE=Jazz
+TTITLE0=Choo Choo
+TTITLE1=Agi
+TTITLE2=Basement
+TTITLE3=The Fourth
+TTITLE4=Back To New York
+TTITLE5=Colorful World
+TTITLE6=Mäxxx
+TTITLE7=Soul Serenade
+TTITLE8=Thank Ya´ll
+EXTD=YEAR: 2011
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

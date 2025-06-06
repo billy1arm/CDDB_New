@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17898
+#     76170
+#     107575
+#     147088
+#     171580
+#     201768
+#     236625
+#     266300
+# 
+# Disc length: 3714 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=720e8009
+DTITLE=Chuck Brown - This Is A Journey.... Into Time
+DYEAR=1900
+DGENRE=
+TTITLE0=Wind Me Up
+TTITLE1=Do The Right Thing/Harlem Nocturne
+TTITLE2=Since I Fell For You
+TTITLE3=We Need Some Money
+TTITLE4=Red Top
+TTITLE5=TuTu
+TTITLE6=Stormy Monday
+TTITLE7=Foggy Day
+TTITLE8=One Nation
+EXTD=
+EXTT0=
+EXTT1=E. Hagen\n
+EXTT2=Johnson\n
+EXTT3=
+EXTT4=Kynard, Hampton\n
+EXTT5=Marcus Miller\n
+EXTT6=T. Bone Walker\n
+EXTT7=Gershwin, Gershwin\n
+EXTT8=Boyer, Cowan, Thomas\n
+PLAYORDER=

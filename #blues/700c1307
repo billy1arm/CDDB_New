@@ -1,0 +1,38 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	47087
+#	97492
+#	122135
+#	149142
+#	173467
+#	200872
+#
+# Disc length: 3093 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=700c1307
+DTITLE=Benny Carter/Gerry Mulligan - Double Exposure
+DYEAR=1900
+DGENRE=
+TTITLE0=Sweet Georgia Brown
+TTITLE1=Rose Room
+TTITLE2=Jeru
+TTITLE3=Festive Minor
+TTITLE4=North Atlantic Run
+TTITLE5=Taurus Moon
+TTITLE6=Out Back Of The Barn
+EXTD=
+EXTT0=Benny Carter Sextet
+EXTT1=Benny Carter Sextet
+EXTT2=Gerry Mulligan
+EXTT3=Gerry Mulligan
+EXTT4=Gerry Mulligan
+EXTT5=Gerry Mulligan
+EXTT6=Gerry Mulligan
+PLAYORDER=

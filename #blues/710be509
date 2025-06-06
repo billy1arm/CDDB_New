@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20222
+#	58960
+#	84757
+#	105829
+#	146293
+#	165047
+#	183666
+#	202344
+#
+# Disc length: 3047 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,32,406
+#
+DISCID=710be509
+DTITLE=Jimi Hendrix - Astro Man Box Set [CD4]
+DYEAR=2003
+DGENRE=Acid
+TTITLE0=Killing Floor (Live)
+TTITLE1=Experiencing The Blues (Live)
+TTITLE2=Foxy Lady (Live)
+TTITLE3=Red House (Live)
+TTITLE4=Driving South (Live)
+TTITLE5=The Wind Cries Mary (Live)
+TTITLE6=Fire (Live)
+TTITLE7=Little Wing (Live)
+TTITLE8=Purple Haze (Live)
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

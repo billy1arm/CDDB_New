@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25582
+#	54980
+#	76742
+#	94170
+#	115735
+#	139037
+#	150927
+#	174520
+#	200790
+#
+# Disc length: 2929 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=700b6f0a
+DTITLE=Blue Joy - Dawn of the Morning
+DYEAR=1991
+DGENRE=New Age
+TTITLE0=01	Flying Colors 
+TTITLE1=02	Garden Of Zen 
+TTITLE2=03	Impressions 
+TTITLE3=04	Open Windows 
+TTITLE4=05	Dancing Waves 
+TTITLE5=06	Floating 
+TTITLE6=07	City Steps 
+TTITLE7=08	Dawn Of The Morning 
+TTITLE8=09	St.Johann 
+TTITLE9=10	Remember "Jonathan" 
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	34579
+#	67892
+#	111154
+#	141458
+#	177716
+#	231530
+#	259186
+#
+# Disc length: 3935 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=780f5d08
+DTITLE=椎名豊 - Walkin' In The Clouds
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=Joy Of Spring
+TTITLE1=Tuck-A-Way (Trio)
+TTITLE2=Walkin' In The Clouds
+TTITLE3=Bitter Sweet
+TTITLE4=In The Dusk
+TTITLE5=Tuck-A-Way (Quartet)
+TTITLE6=Where Or When
+TTITLE7=II Bs
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

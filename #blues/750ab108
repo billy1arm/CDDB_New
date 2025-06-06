@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31185
+#	51600
+#	73992
+#	100374
+#	126204
+#	139107
+#	183013
+#
+# Disc length: 2739 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=750ab108
+DTITLE=The Bud Shank Quartet - The Bud Shank Quartet
+DYEAR=1956
+DGENRE=Jazz
+TTITLE0=Bag Of Blues
+TTITLE1=Nature Boy
+TTITLE2=All This And Heaven Too
+TTITLE3=Jubilation
+TTITLE4=Do Nothin' Till You Hear From Me
+TTITLE5=Nocturne For Flute
+TTITLE6=Walkin'
+TTITLE7=Carioca
+EXTD=YEAR: 1956
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

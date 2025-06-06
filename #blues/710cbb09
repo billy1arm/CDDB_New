@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14208
+#	30804
+#	57317
+#	71148
+#	87156
+#	102024
+#	124732
+#	138085
+#
+# Disc length: 3261 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=710cbb09
+DTITLE=Steve Pecaro band - 9
+DYEAR=2003
+DGENRE=Blues
+TTITLE0=C'mon Craig
+TTITLE1=Texas Jailhouse
+TTITLE2=Nine
+TTITLE3=Sinkin' Down
+TTITLE4=EyeonI
+TTITLE5=I'm Ready
+TTITLE6=Spoonful
+TTITLE7=Dallas
+TTITLE8=Rain
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

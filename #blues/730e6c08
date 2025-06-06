@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	57876
+#	124678
+#	158309
+#	179791
+#	224544
+#	256401
+#	269428
+#
+# Disc length: 3694 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=730e6c08
+DTITLE=Zim Ngqawana - In Concert (USA) [CD2]
+DYEAR=2008
+DGENRE=Jazz
+TTITLE0=In a Sentimental Mood
+TTITLE1=Biological Warfare
+TTITLE2=Qula Kwedini
+TTITLE3=Homeland
+TTITLE4=Migration to Johannesburg
+TTITLE5=Migration to America
+TTITLE6=Donald's Offering
+TTITLE7=Reprise (Amagoduka)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

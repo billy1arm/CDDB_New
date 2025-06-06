@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26816
+#	68099
+#	88649
+#	115348
+#	153822
+#	195772
+#	223758
+#	265746
+#
+# Disc length: 3917 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=710f4b09
+DTITLE=University of South Florida Jazz Ensembles - Suncoast 1994
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Pentangle
+TTITLE1=Squiggle
+TTITLE2=Quietude
+TTITLE3=Spacin'
+TTITLE4=Second Thoughts
+TTITLE5=Wyrgly
+TTITLE6=Free for All
+TTITLE7=Song for Sister
+TTITLE8=Bolivia
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

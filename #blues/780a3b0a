@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+#
+# Track frame offsets:
+#	150
+#	17675
+#	37350
+#	58600
+#	78350
+#	94488
+#	114976
+#	137314
+#	158364
+#	177402
+#
+# Disc length: 2621
+#
+# Revision: 7
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CoolCD_Studio 1.3.1
+#
+DISCID=780a3b0a
+DTITLE=王菲 - 胡思亂想
+DYEAR=1994
+DGENRE=Pop
+TTITLE0=胡思亂想
+TTITLE1=誓言
+TTITLE2=天與地
+TTITLE3=夢中人
+TTITLE4=知已知彼
+TTITLE5=純情
+TTITLE6=遊戲的終結
+TTITLE7=夢遊
+TTITLE8=藍色時份
+TTITLE9=回憶是紅色天空
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19920
+#	41797
+#	60617
+#	78835
+#	99182
+#	114385
+#	134410
+#	160532
+#	178042
+#
+# Disc length: 2756 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=750ac20a
+DTITLE=janine b. - augenblick
+DYEAR=1900
+DGENRE=Blues
+TTITLE0=ich halte fest daran
+TTITLE1=gib mir zeit
+TTITLE2=niemand ausser dir
+TTITLE3=keinen ort wo's dich nicht gibt
+TTITLE4=manchmal
+TTITLE5=immer noch
+TTITLE6=nur um mich
+TTITLE7=augenblick
+TTITLE8=sie
+TTITLE9=vorbehaltslos
+EXTD=ID3G:   0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

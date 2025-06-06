@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	42032
+#	80657
+#	156557
+#	160082
+#	165857
+#	171257
+#	180895
+#	192407
+#	204782
+#
+# Disc length: 3616 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=700e1e0a
+DTITLE=Boston Symphony Orchestra, Seiji Ozawa - 20th Century Bach: Virtuoso Orchestral Transcriptions
+DYEAR=1992
+DGENRE=Classical
+TTITLE0=Toccata and Fugue in d, BWV 565 (Stokowski)
+TTITLE1=Musikalisches Opfer, BWV 1079 (Webern)
+TTITLE2=Partita in d, BWV 1004 (Hideo Saito)
+TTITLE3=Vom Himmel hoch, BWV 769 (Stravinsky) - Choral
+TTITLE4=Var. I In canone all 'ottava
+TTITLE5=Var. II Alio modo in canone alle quinta
+TTITLE6=Var. III In canone alla settima
+TTITLE7=Var. IV In canone all 'ottava per augmentationem
+TTITLE8=Var. V L'altra sorte del canone al rovescio
+TTITLE9=Prelude and Fugue in Eb, BWV 552 (Schoenberg)
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

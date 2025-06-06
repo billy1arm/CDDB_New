@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18937
+#	48587
+#	100405
+#	148437
+#	182375
+#	205250
+#	222362
+#
+# Disc length: 3368 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760d2608
+DTITLE=Gil Evans - Gil Evans Orchestra Plays The Music Of Jimi Hendrix
+DYEAR=1974
+DGENRE=Jazz
+TTITLE0=Angel
+TTITLE1=Crosstown Traffic
+TTITLE2=Castles Made of Sand - Foxy Lady
+TTITLE3=Up from the Skies
+TTITLE4=1983
+TTITLE5=Voodoo Chile
+TTITLE6=Gypsy Eyes
+TTITLE7=Little Wing
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

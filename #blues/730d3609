@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27067
+#	63645
+#	82840
+#	116930
+#	145072
+#	173052
+#	194575
+#	228825
+#
+# Disc length: 3384 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=730d3609
+DTITLE=Tom van der Geld - Watching the Waves
+DYEAR=2009
+DGENRE=Jazz
+TTITLE0=My one and only love
+TTITLE1=Blame it on my youth
+TTITLE2=Circle
+TTITLE3=Some other time
+TTITLE4=A time for love
+TTITLE5=Skating in Central Park
+TTITLE6=Easy to love
+TTITLE7=Tramonto
+TTITLE8=I remember you
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

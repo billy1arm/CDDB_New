@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19525
+#	41948
+#	71573
+#	85373
+#	100448
+#	148148
+#	181398
+#
+# Disc length: 2626 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=710a4008
+DTITLE=Various Artist - Yardbird and Friends, Volume II
+DYEAR=1988
+DGENRE=Jazz
+TTITLE0=Hot House - Charlie Parker
+TTITLE1=Like Someone In Love - Sonny Rollins
+TTITLE2=Juggin' Around - Eric Dolphy
+TTITLE3=I Got Rhythm - Sidney Bechet
+TTITLE4=Lonely Tenor - Coleman Hawkins
+TTITLE5=Shadow Of Your Smile - Dexter Gordon
+TTITLE6=Star Eyes - Sonny Stitt
+TTITLE7=The Tune Of The Hickory Stick - Cannonball Adderly
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

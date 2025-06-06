@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27461
+#	65972
+#	94897
+#	130110
+#	159395
+#	195063
+#	230047
+#	258914
+#
+# Disc length: 3670 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760e5409
+DTITLE=Ben Riley - Weaver of Dreams
+DYEAR=1996
+DGENRE=Jazz
+TTITLE0=Black Nile
+TTITLE1=Sweet and Lovely
+TTITLE2=Witchcraft
+TTITLE3=Tokudo
+TTITLE4=Weaver of Dreams
+TTITLE5=Solar
+TTITLE6=You Don't Know What Love Is
+TTITLE7=I Mean You
+TTITLE8=Doonda
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	17865
+#	42352
+#	65437
+#	81682
+#	113287
+#	132592
+#	149355
+#
+# Disc length: 2891 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=710b4908
+DTITLE=Dutch Swing College Band - Live In Concert
+DYEAR=1994
+DGENRE=Jazz
+TTITLE0=Dutch Swing College Band - Shimme-Sha-Wabble
+TTITLE1=Dutch Swing College Band - Last Time
+TTITLE2=Dutch Swing College Band - Ole Miss
+TTITLE3=Dutch Swing College Band - Basin Street Blues
+TTITLE4=Dutch Swing College Band - Figety Feet
+TTITLE5=Dutch Swing College Band - Mood Indigo
+TTITLE6=Dutch Swing College Band - Doghouse Blues
+TTITLE7=Dutch Swing College Band - Sweet Georgia Brown
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  33712
+#  56172
+#  97937
+#  125500
+#  153235
+#  186042
+#  215492
+#  248050
+#
+# Disc length: 3603 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=780e1109
+DTITLE=Snap - The Essential Mix Show! CD 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Oasis
+TTITLE1=Vicious Circles
+TTITLE2=Love Above
+TTITLE3=Where Are You?
+TTITLE4=Original
+TTITLE5=Flying Souls
+TTITLE6=Luck Spray
+TTITLE7=Survive
+TTITLE8=Raise Your Hands
+EXTD=
+EXTT0=The Paragiders
+EXTT1=Poltergeist
+EXTT2=Ffinitribe
+EXTT3=16 Bit
+EXTT4=Leftfield
+EXTT5=The Sequencer
+EXTT6=Redeye
+EXTT7=Brothers Grimm
+EXTT8=Boston Bruins
+PLAYORDER=

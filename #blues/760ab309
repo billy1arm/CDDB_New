@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8882
+#	21347
+#	47541
+#	74994
+#	105620
+#	131070
+#	157856
+#	192147
+#
+# Disc length: 2741 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760ab309
+DTITLE=Matthew Schoening - Solo Electric Cello
+DYEAR=2007
+DGENRE=New Age
+TTITLE0=Intro
+TTITLE1=Firewater
+TTITLE2=Desert Dreams
+TTITLE3=Dunes
+TTITLE4=Harmonic Motion
+TTITLE5=Falling Into Position
+TTITLE6=Emotional Clockwork
+TTITLE7=Alignment
+TTITLE8=Bonus. Mystic Sunset
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

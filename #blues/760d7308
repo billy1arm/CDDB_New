@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	58944
+#	100842
+#	124022
+#	155687
+#	190315
+#	224285
+#	238958
+#
+# Disc length: 3445 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=760d7308
+DTITLE=Various Artist - Brahms ~ Verdi - Streichquartette  (Artemis Quartett)
+DYEAR=2000
+DGENRE=Classique
+TTITLE0=Johannes Brahms [1833-1897] - Streichquartette a-moll Op.51 n°2 - I. Allegro non troppo
+TTITLE1=Johannes Brahms - Streichquartette a-moll Op.51 n°2 - II. Andante moderato
+TTITLE2=Johannes Brahms - Streichquartette a-moll Op.51 n°2 - III. Quasi Minuetto, moderato - Allegretto vivace
+TTITLE3=Johannes Brahms - Streichquartette a-moll Op.51 n°2 - IV. Finale. Allegro non assai
+TTITLE4=Giuseppe Verdi [1913-1901] - Streichquartette e-moll - I. Allegro
+TTITLE5=Giuseppe Verdi - Streichquartette e-moll - II. Andantino
+TTITLE6=Giuseppe Verdi - Streichquartette e-moll - III. Prestissimo
+TTITLE7=Giuseppe Verdi - Streichquartette e-moll - IV. Scherzo-Fuga (Allegro assai mosso)
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

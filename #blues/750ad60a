@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	16798
+# 	38622
+# 	55698
+# 	75201
+# 	103862
+# 	124491
+# 	143979
+# 	159555
+# 	174464
+#
+# Disc length: 2776 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=750ad60a
+DTITLE=Hoopsnakes - Ten the Hard Way
+DYEAR=1900
+DGENRE=
+TTITLE0=Cigarettes and Gas
+TTITLE1=Second Guessing, First Impressions
+TTITLE2=It Ain't Easy Bein Me
+TTITLE3=Blues Attack
+TTITLE4=The World Ain't Round
+TTITLE5=Bad Luck
+TTITLE6=Devil Comes Knockin'
+TTITLE7=One Good Reason
+TTITLE8=I've Been a Dreamer
+TTITLE9=Further Down This Road
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

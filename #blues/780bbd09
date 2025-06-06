@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20133
+#	52653
+#	85148
+#	91928
+#	115983
+#	144458
+#	184680
+#	208485
+#
+# Disc length: 3007 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=780bbd09
+DTITLE=Dan Doran Band - Alive in Kansas City
+DYEAR=1900
+DGENRE=
+TTITLE0=Tipitina
+TTITLE1=She Walks Right In/In the Night
+TTITLE2=Who Will the Next Fool Be
+TTITLE3=Benny's Bugle
+TTITLE4=Fat Guy Wiggle
+TTITLE5=Marie
+TTITLE6=I've Got Eyes For You
+TTITLE7=She's Gone
+TTITLE8=Party Girl
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

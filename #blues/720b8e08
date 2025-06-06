@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	25080
+#	66560
+#	97497
+#	121767
+#	142677
+#	164672
+#	192342
+#
+# Disc length: 2960 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=720b8e08
+DTITLE=Pierre Blanchard - Gulf String
+DYEAR=1992
+DGENRE=Jazz
+TTITLE0=Isidora
+TTITLE1=Koid'9
+TTITLE2=Perdoname
+TTITLE3=Folklores
+TTITLE4=Train des sables
+TTITLE5=Lithops
+TTITLE6=Marquesas keys
+TTITLE7=Bodas de Sangue
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     25082
+#     46650
+#     68962
+#     94092
+#     118590
+#     139915
+#     161975
+#     182530
+# 
+# Disc length: 2698 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=750a8809
+DTITLE=Gerald Austin - Open Invitiation
+DYEAR=1900
+DGENRE=
+TTITLE0=Slow Motion
+TTITLE1=Getting Back Into Love
+TTITLE2=Don't You Know How I Feel
+TTITLE3=I'll Go Crazy
+TTITLE4=Never Give Up
+TTITLE5=Tell Me This Night Won't End
+TTITLE6=Open Invitation
+TTITLE7=Still In Love
+TTITLE8=Any Day Now
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

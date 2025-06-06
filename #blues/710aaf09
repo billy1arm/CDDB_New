@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25369
+#	45725
+#	60194
+#	88628
+#	109547
+#	136455
+#	160418
+#	176112
+#
+# Disc length: 2737 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=710aaf09
+DTITLE=Groundhogs - Backs Against The Wall
+DYEAR=1987
+DGENRE=Blues
+TTITLE0=01 - Backs Against The Wall
+TTITLE1=02 - No To Submission
+TTITLE2=03 - Blue Boar Blues
+TTITLE3=04 - Waiting In The Shadows
+TTITLE4=05 - Ain't No Slaver
+TTITLE5=06 - Stick To Your Guns
+TTITLE6=07 - In The Meantime
+TTITLE7=08 - 54146
+TTITLE8=09 - I Want You To Love Me
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

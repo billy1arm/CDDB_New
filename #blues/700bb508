@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31010
+#	58765
+#	92887
+#	115160
+#	146235
+#	172085
+#	203052
+#
+# Disc length: 2999 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=700bb508
+DTITLE=井上信平 - First Take
+DYEAR=2000
+DGENRE=Jazz
+TTITLE0=Only Trust Your Heart
+TTITLE1=Sleepless Night
+TTITLE2=Nearness of You
+TTITLE3=Whisper
+TTITLE4=When the Meadow was Blooming
+TTITLE5=Like Old Time
+TTITLE6=I Wish You Love
+TTITLE7=Two for the Road
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

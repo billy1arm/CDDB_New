@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15234
+#	34781
+#	56607
+#	78944
+#	90050
+#	100552
+#	121137
+#	143835
+#	159979
+#	179685
+#
+# Disc length: 2743 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=720ab50b
+DTITLE=Mighty Mo Rodgers - Blues is my Wailing Wall
+DYEAR=1999
+DGENRE=Blues
+TTITLE0=Blues is my Wailing Wall
+TTITLE1=Took Away the Drum
+TTITLE2=Heaven's Got the Blues
+TTITLE3=No Regrets
+TTITLE4=Tuskegee Blues
+TTITLE5=No Dough
+TTITLE6=The Kennedy Song
+TTITLE7=Sweet Soul Music
+TTITLE8=WIllie B. and Me
+TTITLE9=Gone Fishin'
+TTITLE10=Shame
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

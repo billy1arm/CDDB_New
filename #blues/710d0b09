@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15262
+#	46988
+#	71128
+#	106929
+#	135255
+#	164236
+#	188556
+#	211066
+#
+# Disc length: 3341 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.23
+#
+DISCID=710d0b09
+DTITLE=Al DiMeola - The best of (The Manhattan Years)
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Al DiMeola - Coral
+TTITLE1=Al DiMeola - Etude
+TTITLE2=Al DiMeola - July
+TTITLE3=Al DiMeola - Traces (Of A Tear)
+TTITLE4=Al DiMeola Project - Ballad
+TTITLE5=Al DiMeola Project - Beijing Demons
+TTITLE6=Al DiMeola Project - Maraba
+TTITLE7=Al DiMeola Project - Rhapsody Of Fire
+TTITLE8=Al DiMeola Project - Song To The Pharoah Kings
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

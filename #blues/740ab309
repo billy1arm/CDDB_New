@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	14398
+#	33435
+#	63513
+#	84550
+#	107831
+#	126143
+#	145481
+#	167378
+#
+# Disc length: 2741 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=740ab309
+DTITLE=Mighty Sparrow - The Best Of The Mighty Sparrow
+DYEAR=0
+DGENRE=Blues
+TTITLE0=Philosophy
+TTITLE1=Bag A Sugar
+TTITLE2=Love One Another
+TTITLE3=Obeah Wedding
+TTITLE4=Big Bamboo
+TTITLE5=May May
+TTITLE6=Village Ram
+TTITLE7=Medley
+TTITLE8=The Pump
+EXTD=YEAR: 0
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

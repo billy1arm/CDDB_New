@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	30435
+#	54612
+#	90865
+#	118360
+#	149635
+#	184725
+#	223270
+#
+# Disc length: 3140 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=750c4208
+DTITLE=Ananda - Surya, Le salut au soleil
+DYEAR=1996
+DGENRE=New Age
+TTITLE0=Gambades
+TTITLE1=Au pied du chêne
+TTITLE2=Le salut au soleil
+TTITLE3=Sur le chemin des crêtes
+TTITLE4=La danse des elfes
+TTITLE5=Ecume
+TTITLE6=Au clair de lune
+TTITLE7=Gambades en choeurs
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

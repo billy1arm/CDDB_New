@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23025
+#	42525
+#	64500
+#	85050
+#	106650
+#	131625
+#	156600
+#	181275
+#
+# Disc length: 2764 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=700aca09
+DTITLE=Duke Pearson - Bag's Groove +3
+DYEAR=1900
+DGENRE=Jazz
+TTITLE0=Bag's Groove
+TTITLE1=Le Carrousel(Alt. Take)
+TTITLE2=Le Carrousel
+TTITLE3=I'm An Old Cow Hand(Alt. Take)
+TTITLE4=I'm An Old Cow Hand
+TTITLE5=Jeannine
+TTITLE6=Say You're Mine(Alt. Take)
+TTITLE7=Say You're Mine
+TTITLE8=Exodus
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=
