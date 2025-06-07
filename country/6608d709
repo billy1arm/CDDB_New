@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23527
+#	40611
+#	61001
+#	81589
+#	88823
+#	103914
+#	129661
+#	153026
+#
+# Disc length: 2265 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=6608d709
+DTITLE=Virgil Shaw - Quad Cities
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Water Color
+TTITLE1=Gypsum
+TTITLE2=Twisted Layer
+TTITLE3=Carving Soap
+TTITLE4=Diamond Trade
+TTITLE5=Volvo
+TTITLE6=Back to Eureka
+TTITLE7=Surfboard Shaper
+TTITLE8=For Your Precious Love
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

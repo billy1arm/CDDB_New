@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17390
+#	38830
+#	58137
+#	76547
+#	97465
+#	117185
+#	134445
+#	162007
+#
+# Disc length: 2626 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6a0a4009
+DTITLE=The Textones - Ceder Creek
+DYEAR=1987
+DGENRE=Country
+TTITLE0=Not Afraid
+TTITLE1=Every Angel In Heaven
+TTITLE2=Another Soul Searcher
+TTITLE3=One Love
+TTITLE4=Austin
+TTITLE5=Gotta Get Back Home
+TTITLE6=You Can Run
+TTITLE7=Ceder Creek
+TTITLE8=We CAn Laugh About It
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

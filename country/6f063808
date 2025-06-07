@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 14750
+# 29250
+# 44725
+# 58768
+# 77725
+# 89523
+# 104750
+#
+# Disc length: 1594 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=6f063808
+DTITLE=Earl Thomas Conley - Best Of Earl Thomas Conley Vol. One
+DYEAR=1900
+DGENRE=
+TTITLE0=Fire And Smoke
+TTITLE1=Silent Treatment
+TTITLE2=Smokey Mountain Memories
+TTITLE3=Heavenly Bodies
+TTITLE4=Somewhere Between Right And Wrong
+TTITLE5=I Have Loved You Girl (But Not This Before)
+TTITLE6=Tell Me Why
+TTITLE7=After The Love Slips Away
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

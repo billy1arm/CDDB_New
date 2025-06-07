@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	15850
+#	36087
+#	55572
+#	77285
+#	96192
+#	116405
+#	134135
+#	151952
+#	168482
+#
+# Disc length: 2541 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=6c09eb0a
+DTITLE=Ned Spurlock - I'll Be Seeing You
+DYEAR=1900
+DGENRE=
+TTITLE0=I'll Be Seeing You
+TTITLE1=Smoke Gets In Your Eyes
+TTITLE2=Autumn Leaves
+TTITLE3=Till There Was You
+TTITLE4=Smile
+TTITLE5=You Belong To Me
+TTITLE6=Ain't Misbehavin'
+TTITLE7=Back At Last
+TTITLE8=Sentimental Journey
+TTITLE9=Unforgettable
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

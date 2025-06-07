@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13245
+#	25552
+#	38332
+#	49955
+#	63275
+#	76280
+#	87232
+#	99240
+#	109440
+#
+# Disc length: 1619 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=6f06510a
+DTITLE=Lester Flatt - Lassoes n Spurs
+DYEAR=1900
+DGENRE=
+TTITLE0=February Snow
+TTITLE1=Cabin On The Hill
+TTITLE2=Cuttin' The Grass
+TTITLE3=The Good Old Fashioned Way
+TTITLE4=Roll In My Sweet Baby's Arms
+TTITLE5=Father's Table Grace
+TTITLE6=Foggy Mountain Breakdown
+TTITLE7=The Country Boy
+TTITLE8=Love Is The Key
+TTITLE9=Before You Go
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13607
+#     24752
+#     38537
+#     55327
+#     66432
+#     76675
+#     88592
+#     100295
+#     114637
+# 
+# Disc length: 1703 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=6f06a50a
+DTITLE=Conway Twitty - Conway Twitty his gratest hits
+DYEAR=1900
+DGENRE=
+TTITLE0=After All the Good is Gone
+TTITLE1=As Soon As I Hang The Phone
+TTITLE2=Baby's Gone
+TTITLE3=Don't Cry Joni
+TTITLE4=Hello Darlin'
+TTITLE5=(I Can't Believe) She Gives It All To Me
+TTITLE6=(Lying Here With) Linda on My Mind
+TTITLE7=To See An Angel Cry
+TTITLE8=You've Never Been This Far Before
+TTITLE9=Danny Boy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

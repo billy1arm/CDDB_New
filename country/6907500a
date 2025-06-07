@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#     183
+#     17373
+#     34145
+#     45503
+#     60603
+#     70550
+#     84143
+#     100308
+#     111773
+#     127593
+#
+# Disc length: 1874 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Clarion 0.9.5
+#
+DISCID=6907500a
+DTITLE=Ray Price - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=For The Good Times
+TTITLE1=You're The Best Thing That Ever Happened To Me
+TTITLE2=Crazy Arms
+TTITLE3=Night Life
+TTITLE4=Make The World Go Away
+TTITLE5=Heartaches By The Number
+TTITLE6=She's Got To Be A Saint
+TTITLE7=My Shoes Keep Walking Back To You
+TTITLE8=I Won't Mention It Again
+TTITLE9=City Lights
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

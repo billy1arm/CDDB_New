@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16215
+#	30122
+#	45075
+#	63972
+#	79420
+#	93755
+#	109677
+#	127690
+#	145897
+#
+# Disc length: 2103 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=6608350a
+DTITLE=Country Super Hits Volume 104
+DYEAR=1900
+DGENRE=
+TTITLE0=In Pictures
+TTITLE1=She's Every Woman
+TTITLE2=I Like It, I Love It
+TTITLE3=I'm Not Strong Enough
+TTITLE4=If I Was A Drinking Man
+TTITLE5=No Man's Land
+TTITLE6=Check Yes Or No
+TTITLE7=Love Lessons
+TTITLE8=Sometimes She Forgets
+TTITLE9=Life Goes On
+EXTD=Not the original artists
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

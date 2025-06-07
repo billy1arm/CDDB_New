@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13017
+#     24555
+#     38957
+#     55607
+#     68032
+#     79629
+#     91217
+#     107395
+#     119357
+# 
+# Disc length: 1761 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6f06df0a
+DTITLE=Various Artist - Truckers Jukebox #1
+DYEAR=1900
+DGENRE=
+TTITLE0=Tight Fittin' Jeans
+TTITLE1=Red Bandana
+TTITLE2=God Bless The U.S.A.
+TTITLE3=Rose In Paradise
+TTITLE4=All Alone Am I
+TTITLE5=If It Ain't Broke, Don't Fix It
+TTITLE6=Sweet Dreams
+TTITLE7=You Couldn't Get The Picture
+TTITLE8=Hillbilly Rock
+TTITLE9=San Antonio Stroll
+EXTD=
+EXTT0=Conway Twitty\n
+EXTT1=Merle Haggard\n
+EXTT2=Lee Greenwood\n
+EXTT3=Waylon Jennings\n
+EXTT4=Brenda Lee\n
+EXTT5=John Anderson\n
+EXTT6=Patsy Cline\n
+EXTT7=George Jones\n
+EXTT8=Marty Stuart\n
+EXTT9=Tanya Tucker\n
+PLAYORDER=

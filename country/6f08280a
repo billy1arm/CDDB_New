@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     15072
+#     28585
+#     46412
+#     63197
+#     78962
+#     94695
+#     107795
+#     123087
+#     139932
+# 
+# Disc length: 2090 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6f08280a
+DTITLE=Various Artist - Country Currents
+DYEAR=1900
+DGENRE=
+TTITLE0=Born Country/Alabama
+TTITLE1=Money In The Bank/John Anderson
+TTITLE2=Take It Like a Man/Michelle Wright
+TTITLE3=I Want To Be Loved Like That/Shenandoah
+TTITLE4=Reno/Doug Supernaw
+TTITLE5=Nobody Wins/Radney Foster
+TTITLE6=Except for Monday/Lorrie Morgan
+TTITLE7=My Blue Angel/Aaron Tippin
+TTITLE8=I'm Holding My Own/Lee Roy Parnell
+TTITLE9=When She Cries/Restless Heart
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

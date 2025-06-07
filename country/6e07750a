@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12241
+#	29785
+#	45560
+#	61238
+#	78796
+#	90875
+#	107603
+#	120103
+#	133815
+#
+# Disc length: 1911 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=6e07750a
+DTITLE=Johnny Paycheck - I'M A SURVIVOR
+DYEAR=1996
+DGENRE=Country
+TTITLE0=Your Every Step I Take
+TTITLE1=I'm A Survivor
+TTITLE2=Buried Treasures
+TTITLE3=I.O. Blues
+TTITLE4=Everything Is Changing
+TTITLE5=Palimony
+TTITLE6=I Never Got Over You
+TTITLE7=He Left It All
+TTITLE8=I Can't Quit Drinkin'
+TTITLE9=Ol' Pay Ain't Checked Out Yet
+EXTD=YEAR: 1996 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

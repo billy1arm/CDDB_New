@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11670
+#	24307
+#	35632
+#	49120
+#	63057
+#	77145
+#	90782
+#	103325
+#	114777
+#
+# Disc length: 1695 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=6b069d0a
+DTITLE=Various Artist - Country Gold Vol 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Belles Of Southern Bell
+TTITLE1=The Auctioneer
+TTITLE2=Heartbreak USA
+TTITLE3=Seven Spanish Angels
+TTITLE4=I Love You A Thousand Ways
+TTITLE5=Its a Sin ti Tell a Lie
+TTITLE6=My Special Angel
+TTITLE7=Dark Moon
+TTITLE8=Cry Cry Darlin
+TTITLE9=Mom's and Dad's Watlz
+EXTD=34
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

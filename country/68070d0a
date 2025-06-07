@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12145
+#	23686
+#	39837
+#	52997
+#	64564
+#	79437
+#	93130
+#	111800
+#	122443
+#
+# Disc length: 1807 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=68070d0a
+DTITLE=Various Artist - Jukebox Greats
+DYEAR=2004
+DGENRE=Country
+TTITLE0=Johnny Cash - Ring Of Fire
+TTITLE1=Willie Nelson - On The Road Again
+TTITLE2=Charlie Daniels - The Devil Went Down To Georgia
+TTITLE3=Lynn Anderson - Rose Garden
+TTITLE4=Charlie Rich - The Most Beautiful Girl
+TTITLE5=George Jones - He Stopped Loving Her Today
+TTITLE6=Jimmy Dean - Big Bad John
+TTITLE7=Marty Robbins - El Paso City
+TTITLE8=The Statler Brothers - Flowers On The Wall
+TTITLE9=Tanya Tucker - Delta Dawn
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

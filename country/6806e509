@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11652
+#	22957
+#	32687
+#	56267
+#	66792
+#	76202
+#	87412
+#	111590
+#
+# Disc length: 1767 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD2 v3.00 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=6806e509
+DTITLE=Willie Nelson - On the Road Again
+DYEAR=1900
+DGENRE=
+TTITLE0=On the Road Again
+TTITLE1=Heartaches of a Fool
+TTITLE2=One Day at a Time
+TTITLE3=Me and Bobby McGee
+TTITLE4=Blue Eyes Crying in the Rain
+TTITLE5=If You've Got the Money I've Got the Time
+TTITLE6=Why Are You Pickin' On Me
+TTITLE7=Can I Sleep in Your Arms
+TTITLE8=Uncloudy Day
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15715
+#	68913
+#	77320
+#	137650
+#	144332
+#	202097
+#	223697
+#
+# Disc length: 3788 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6e0eca08
+DTITLE=Pink Floyd - Cruel But Fair (Rev.M) [cd1]
+DYEAR=1975
+DGENRE=Country
+TTITLE0=[tunings]
+TTITLE1=Raving And Drooling
+TTITLE2=[tunings]
+TTITLE3=You Gotta Be Crazy
+TTITLE4=[tunings]
+TTITLE5=Shine On You Crazy Diamond (parts 1-5)
+TTITLE6=Have A Cigar
+TTITLE7=Shine On You Crazy Diamond (parts 6-9)
+EXTD=YEAR: 1975
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	35358
+#	76683
+#	91683
+#	132708
+#	188583
+#	224358
+#	244908
+#
+# Disc length: 4083 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.75
+#
+DISCID=620ff108
+DTITLE=Alfred Brendel - Schubert: Last Three Piano Sonatas - Alfred Brendel (Philips) [CD1]
+DYEAR=1972
+DGENRE=Piano
+TTITLE0=Piano Sonata in C min, D958: I - Allegro
+TTITLE1=Piano Sonata in C min, D958: II - Adagio
+TTITLE2=Piano Sonata in C min, D958: III - Menuetto
+TTITLE3=Piano Sonata in C min, D958: IV - Allegro
+TTITLE4=Piano Sonata in A, D959: I - Allegro
+TTITLE5=Piano Sonata in A, D959: II - Andantino
+TTITLE6=Piano Sonata in A, D959: III - Scherzo
+TTITLE7=Piano Sonata in A, D959: IV - Rondo
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

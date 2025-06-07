@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     24155
+#     36053
+#     48388
+#     62408
+#     79428
+#     96150
+#     113263
+#     125083
+# 
+# Disc length: 1942 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=68079409
+DTITLE=Rich Minus - Rich Minus Collectien (Rose 284)
+DYEAR=1900
+DGENRE=country
+TTITLE0=Rockin the Republicans
+TTITLE1=She's got to move
+TTITLE2=Arm and a leg
+TTITLE3=Mexican Brown
+TTITLE4=Last night I went out
+TTITLE5=Die with my dreams on
+TTITLE6=Santa Ana's foot soldier
+TTITLE7=Laredo Rose
+TTITLE8=Cans
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

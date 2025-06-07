@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	15805
+# 	27762
+# 	40962
+# 	55402
+# 	68665
+# 	83912
+# 	99227
+# 	110347
+# 	123920
+#
+# Disc length: 1826 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=6e07200a
+DTITLE=Keith Whitley - L.A. to Miami
+DYEAR=1900
+DGENRE=
+TTITLE0=Miami, My Amy
+TTITLE1=I've Got The Heart For You
+TTITLE2=I Get The Picture
+TTITLE3=On The Other Hand
+TTITLE4=Hard Livin
+TTITLE5=Ten Feet Away
+TTITLE6=That Stuff
+TTITLE7=Nobody In His Right Mind Would've Left Her
+TTITLE8=Homecoming '63
+TTITLE9=Quittin' Time
+EXTD=
+EXTT0=D Dillon - H Cochran - R Porter
+EXTT1=L Boone - J Greenebaum
+EXTT2=D Cook - P Overstreet
+EXTT3=D Schlitz - P Overstreet
+EXTT4=D Hally
+EXTT5=T Seals - B Sherrill - M Barnes
+EXTT6=S Curtis - R Hellard
+EXTT7=D Dillon
+EXTT8=D Dillon - R Porter
+EXTT9=R Hellard - M Garvin - B James
+PLAYORDER=

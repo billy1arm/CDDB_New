@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13287
+#	24917
+#	41880
+#	59102
+#	81007
+#	103042
+#	117940
+#
+# Disc length: 1755 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=6806d908
+DTITLE=Various Artist - Country Collection, Vol. 1 (Healthy Choice)
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Outbound Plane (Suzy Bogguss)
+TTITLE1=Whatcha Gonna Do With a Cowboy (Chris LeDoux with Garth Brooks)
+TTITLE2=Back in Your Arms Again (Lorrie Morgan)
+TTITLE3=Tryin' to Hide a Fire in the Dark (Billy Dean)
+TTITLE4=Pass It On Down (Alabama)
+TTITLE5=Strawberry Wine (Deana Carter)
+TTITLE6=Change My Mind (John Berry)
+TTITLE7=If Your Heart Ain't Busy Tonight (Tanya Tucker)
+EXTD=YEAR: 1997 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

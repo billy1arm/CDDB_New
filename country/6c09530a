@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 17315
+# 32487
+# 53065
+# 68015
+# 88192
+# 102892
+# 114062
+# 137720
+# 160782
+#
+# Disc length: 2389 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=6c09530a
+DTITLE=Rodney Crowell - Rodney Crowell Super Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Lovin' All Night
+TTITLE1=It's Such A Small World
+TTITLE2=Life Is Messy
+TTITLE3=I Couldn't Leave You If I Tried
+TTITLE4=After All This Time
+TTITLE5=She's Crazy For Leaving
+TTITLE6=Above And Beyond (The Call Of Love)
+TTITLE7=The Last Waltz
+TTITLE8=Alone But Not Alone
+TTITLE9=Things I Wish I'd Said
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

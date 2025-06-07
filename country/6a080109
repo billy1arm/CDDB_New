@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16082
+#	40912
+#	54119
+#	71224
+#	87430
+#	100562
+#	113543
+#	139875
+#
+# Disc length: 2051 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta5
+#
+DISCID=6a080109
+DTITLE=Fred's Variety Group - Pretty Blue Pills
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Route Six-Six
+TTITLE1=Slow Car
+TTITLE2=BirdieLou
+TTITLE3=Cold Wind
+TTITLE4=Barbed Wire
+TTITLE5=Clean Liqouring
+TTITLE6=Purest Heart
+TTITLE7=Waiting For Fall
+TTITLE8=Pillow Case
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

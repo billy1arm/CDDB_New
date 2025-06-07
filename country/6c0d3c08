@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	37690
+#	66649
+#	95826
+#	136112
+#	157161
+#	189404
+#	230570
+#
+# Disc length: 3390 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=6c0d3c08
+DTITLE=Michael Nesmith - Acoustic Prison
+DYEAR=1974
+DGENRE=Country
+TTITLE0=Harmony Constant
+TTITLE1=One Rose
+TTITLE2=The Upside of Goodbye
+TTITLE3=Wax Minute
+TTITLE4=Life, the Unsuspecting Captive
+TTITLE5=Dance between the raindrops
+TTITLE6=Maries Theme
+TTITLE7=Lamppost
+EXTD=YEAR: 1974 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

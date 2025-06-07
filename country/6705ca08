@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	13902
+#	29215
+#	44037
+#	59505
+#	69942
+#	82555
+#	96785
+#
+# Disc length: 1484 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=6705ca08
+DTITLE=Waylon Jennings and Willie Nelson - WW II
+DYEAR=1900
+DGENRE=
+TTITLE0=Roman Candles
+TTITLE1=(Sittin' On) The Dock Of The Bay
+TTITLE2=Lady In The Harbor
+TTITLE3=May I Borrow Some Sugar From You
+TTITLE4=Last Cowboy Song
+TTITLE5=Heroes
+TTITLE6=The Teddy Bear Song
+TTITLE7=Write Your Own Songs
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11005
+#	25733
+#	41385
+#	56358
+#	67558
+#	80718
+#	91748
+#	106273
+#	120538
+#
+# Disc length: 1804 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=68070a0a
+DTITLE=Various Artist - A Nashville Sunday Mornin'
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Johnny Cash/Daddy Sang Bass
+TTITLE1=Tammy Wynette/Just A Closer Walk With Thee
+TTITLE2=Kris Kristofferson/Why Me
+TTITLE3=George Jones/Amazing Grace
+TTITLE4=Connie Smith/Go Tell It On The Mountain
+TTITLE5=Oak Ridge Boys/When I Sing For Him
+TTITLE6=Barbara Mandrell/Satisfied
+TTITLE7=Marty Robbins/Will The Circle Be Unbroken?
+TTITLE8=Ray Price/In The Garden
+TTITLE9=The Statler Brothers/How Great Thou Art
+EXTD=
+EXTT0=Johnny Cash\ntime 2:21\n
+EXTT1=Tammy Wynette\ntime 4:13\n
+EXTT2=Kris Kristofferson\ntime 3:26\n
+EXTT3=Gerge Jones\ntime 3:17\n
+EXTT4=Connie Smith\ntime 2:26\n
+EXTT5=Oak Ridge Boys\ntime 2:53\n
+EXTT6=Barbara Mandrell\ntime 2:24\n
+EXTT7=Marty Robbins\ntime 3:10\n
+EXTT8=Ray Price\ntime 3:08\n
+EXTT9=The Statler Brothers\ntime 3:17\n
+PLAYORDER=

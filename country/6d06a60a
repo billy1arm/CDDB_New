@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13650
+#  25497
+#  37722
+#  52335
+#  64422
+#  76580
+#  86435
+#  99782
+#  113587
+#
+# Disc length: 1704 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=6d06a60a
+DTITLE=Johnny Paycheck - Country Spotlight * Johnny Paycheck
+DYEAR=1900
+DGENRE=country
+TTITLE0=She's All I Got
+TTITLE1=Song and Dance Man
+TTITLE2=Something About You I Love
+TTITLE3=I'm the Only Hell (Mamma Ever Raised)
+TTITLE4=For a Minute There
+TTITLE5=Take This Job and Shove It
+TTITLE6=Mr. Lovemaker
+TTITLE7=Slide Off Your Satin Sheets
+TTITLE8=Someone to Give My Love to
+TTITLE9=Friend, Lover, Wife
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  18025
+#  42555
+#  64675
+#  85138
+#  98700
+#  119348
+#  138980
+#  153173
+#
+# Disc length: 2226 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=6808b009
+DTITLE=Charlie Daniels Band - At His Best
+DYEAR=1900
+DGENRE=
+TTITLE0=The South's Gonna Rise Again
+TTITLE1=Reflections
+TTITLE2=High Lonesome
+TTITLE3=Damn Good Cowboy
+TTITLE4=Texas
+TTITLE5=Tennessee
+TTITLE6=I'll Always Remember That Song
+TTITLE7=Indian Man
+TTITLE8=Orange Blossom Special
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

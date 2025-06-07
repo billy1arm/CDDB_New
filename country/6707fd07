@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23787
+#	37432
+#	76142
+#	88445
+#	104925
+#	119057
+#
+# Disc length: 2047 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6707fd07
+DTITLE=Creedence Clearwater Revival - Bayou Country
+DYEAR=1969
+DGENRE=Country Rock
+TTITLE0=Born On The Bayou
+TTITLE1=Bootleg
+TTITLE2=Graveyard Train
+TTITLE3=Good Golly Miss Molly
+TTITLE4=Penthouse Pauper
+TTITLE5=Proud Mary
+TTITLE6=Keep On Chooglin'
+EXTD=YEAR - 1969\nFantasy  FCD 8387-2 YEAR: 1969
+EXTT0=(John C. Fogerty)
+EXTT1=(John C. Fogerty)
+EXTT2=(John C. Fogerty)
+EXTT3=(Blackwell-Marascalco)
+EXTT4=(John C. Fogerty)
+EXTT5=(John C. Fogerty)
+EXTT6=(John C. Fogerty)
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20749
+#	39593
+#	53967
+#	69602
+#	84490
+#	103458
+#	121076
+#
+# Disc length: 1877 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6d075308
+DTITLE=les Chercheurs d'or - les Chercheurs d'or
+DYEAR=2013
+DGENRE=Country
+TTITLE0=Belle country
+TTITLE1=Shirley
+TTITLE2=Emmenez-moi au saule
+TTITLE3=Adieu, mari !
+TTITLE4=Vallée-Tranquille
+TTITLE5=L'impression que c'est dimanche
+TTITLE6=Dame Corbeau
+TTITLE7=Tout explose
+EXTD=YEAR: 2013
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16742
+#     40554
+#     59589
+#     84895
+#     103087
+#     120431
+#     144824
+#     168998
+#     185339
+# 
+# Disc length: 2685 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=6e0a7b0a
+DTITLE=Coinman, John J. - Man Called Someone
+DYEAR=1900
+DGENRE=
+TTITLE0=Ghost of Hollywood
+TTITLE1=Old Town
+TTITLE2=I'm James Dean
+TTITLE3=The Man Called Someone
+TTITLE4=Desperate Man
+TTITLE5=Heart of Mine
+TTITLE6=Great Divide
+TTITLE7=Stranger in This Country
+TTITLE8=Jenny I Know You
+TTITLE9=Simple Truth
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

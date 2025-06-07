@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21857
+#	45295
+#	62690
+#	93255
+#	105313
+#	123414
+#	154000
+#	197329
+#
+# Disc length: 2763 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=600ac909
+DTITLE=John Huling - Desert Plateaus
+DYEAR=1992
+DGENRE=Native American
+TTITLE0=Wupatiki
+TTITLE1=Canyon Ritual
+TTITLE2=Oasis
+TTITLE3=Night on the Mesa
+TTITLE4=Starlight
+TTITLE5=Monument Valley
+TTITLE6=Desert Plateaus
+TTITLE7=Deep in the Sky
+TTITLE8=Screensaver
+EXTD=YEAR: 1992 ID3G: 64
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10380
+#	23968
+#	38328
+#	50486
+#	61684
+#	77850
+#	88478
+#	99762
+#	112786
+#
+# Disc length: 1730 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: ACXtractor (MTCDDB.DLL V2003.07.15)
+#
+DISCID=6c06c00a
+DTITLE=Ronnie Milsap - There Goes My Heart
+DYEAR=1965
+DGENRE=Country
+TTITLE0=There Goes My Heart
+TTITLE1=Old Lady at the Fair
+TTITLE2=Denver
+TTITLE3=Let's Go Get Stoned
+TTITLE4=Maybe
+TTITLE5=If You Go Away
+TTITLE6=What's Your Game
+TTITLE7=Never Had It So Good
+TTITLE8=1000 Miles From Nowhere
+TTITLE9=Spinning Wheel
+EXTD=ID3G:   2 YEAR: 1965
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

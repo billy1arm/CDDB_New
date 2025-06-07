@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9823
+#	22255
+#	37290
+#	50976
+#	62059
+#	70107
+#
+# Disc length: 1081 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=62043707
+DTITLE=Willie Jones - Merry Christmas Rodeo
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Jingle Bell Rock
+TTITLE1=Merry Christmas Rodeo
+TTITLE2=Christmas Waltz
+TTITLE3=Feliz Navidad
+TTITLE4=Winter Wonderland
+TTITLE5=Let It Snow
+TTITLE6=Frosty The Snowman
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

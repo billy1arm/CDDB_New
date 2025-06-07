@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     15870
+#     35540
+#     62163
+#     81580
+#     103193
+#     119603
+#     137393
+# 
+# Disc length: 2162 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=66087008
+DTITLE=Antonello Venditti - Venditti e segreti
+DYEAR=1900
+DGENRE=
+TTITLE0=Peppino
+TTITLE1=Questa insostenibile leggerezza dell'essere
+TTITLE2=Giulio Cesare
+TTITLE3=Esterina
+TTITLE4=Segreti
+TTITLE5=Rocki, Rambo e Sting
+TTITLE6=Settembre
+TTITLE7=C'  un cuore che batte nel cuore di Roma
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

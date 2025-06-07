@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11012
+#	22575
+#	35312
+#	52512
+#	66087
+#	76500
+#	93787
+#	104712
+#	117587
+#
+# Disc length: 1726 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6506bc0a
+DTITLE=Willie Nelson - The Heart of a Legend (Disk 2)
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Stormy Weather
+TTITLE1=Don't Get Around Much Anymore
+TTITLE2=Ole Buttermilk Sky
+TTITLE3=Wind Beneath My Wings
+TTITLE4=I'm Going To Sit Right Down And Write Myself A Letter
+TTITLE5=Am I Blue
+TTITLE6=Unchained Melody
+TTITLE7=Exactly Like You
+TTITLE8=Old-Fashioned Love
+TTITLE9=That Lucky Old Sun
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=(Just Rolls Around Heaven All Day)
+PLAYORDER=

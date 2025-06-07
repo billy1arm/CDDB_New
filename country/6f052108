@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13848
+#     29870
+#     39733
+#     49768
+#     61820
+#     74458
+#     85233
+# 
+# Disc length: 1315 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=6f052108
+DTITLE=David Allan Coe - Truckin' Outlaw
+DYEAR=1900
+DGENRE=
+TTITLE0=The Ride
+TTITLE1=Willie, Waylon And Me
+TTITLE2=Frankie and Johnnie
+TTITLE3=Truck Drivin' Man
+TTITLE4=Ride 'em Cowboy
+TTITLE5=Tennessee Whiskey
+TTITLE6=Mama Tried
+TTITLE7=White Line Fever
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12851
+#	29441
+#	54265
+#	90368
+#	102537
+#	127822
+#	146752
+#	165273
+#	180310
+#
+# Disc length: 2579 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6f0a110a
+DTITLE=Astor Piazzolla - 03 - Libertango
+DYEAR=1900
+DGENRE=Tango
+TTITLE0=1974 - Pequeña Cancion Para Matilde
+TTITLE1=1974 - El Gordo Triste
+TTITLE2=1974 - Moderato Mistico
+TTITLE3=1974 - Adiós Noñino
+TTITLE4=1974 - Libertango
+TTITLE5=1984 - Ave Maria
+TTITLE6=1975 - Balada Para Un Loco
+TTITLE7=1975 - Olhos De Ressaca
+TTITLE8=1975 - La Muralla De China
+TTITLE9=1975 - Los Pajaros Perdidos
+EXTD=CD Box  3/10
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18889
+#     20466
+#     40858
+#     57278
+#     72052
+#     85655
+#     105551
+#     118628
+# 
+# Disc length: 1808 seconds
+# 
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.0
+# 
+DISCID=64070e09
+DTITLE=Lost Mavericks - Lost Mavericks
+DYEAR=1900
+DGENRE=
+TTITLE0=Any man of mine
+TTITLE1=Desert walk
+TTITLE2=Personal stranger
+TTITLE3=Cowboys afraid of horses
+TTITLE4=Crosseyed cow
+TTITLE5=Move your heart
+TTITLE6=Take it to the limit
+TTITLE7=Full moon full of love
+TTITLE8=Lovers ain't liars
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

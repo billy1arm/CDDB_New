@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15947
+#	32492
+#	45955
+#	63932
+#	82800
+#	98392
+#	120385
+#	136245
+#	148772
+#
+# Disc length: 2287 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=6608ed0a
+DTITLE=Rosanne Cash - Right or Wrong
+DYEAR=1900
+DGENRE=country
+TTITLE0=Right or Wrong
+TTITLE1=Take Me, Take Me
+TTITLE2=Man Smart, Woman Smarter
+TTITLE3=This Has Happened Before
+TTITLE4=Baby, Better Start Turnin' em Down
+TTITLE5=No Memories Hangin' Round
+TTITLE6=Couldn't Do Nothin' Right
+TTITLE7=Seeing's Believing
+TTITLE8=Big River
+TTITLE9=Anybody's Darlin' (Anything But Mine)
+EXTD=1975","Columbia","Rodney Crowell
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

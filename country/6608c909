@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13256
+#	26292
+#	42100
+#	61407
+#	77423
+#	89683
+#	121447
+#	158747
+#
+# Disc length: 2251 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=6608c909
+DTITLE=Neil Young - American Stars 'n' Bars
+DYEAR=1977
+DGENRE=Country
+TTITLE0=01 Old Country Waltz
+TTITLE1=02 Saddle Up The Palomino
+TTITLE2=Hey Babe
+TTITLE3=Hold Back The Tears
+TTITLE4=Bite The Bullet
+TTITLE5=Star Of Bethlehem
+TTITLE6=Will To Love
+TTITLE7=Like A Hurricane
+TTITLE8=HomeGrown
+EXTD=YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15405
+#	31372
+#	48805
+#	60200
+#	75875
+#	90690
+#	99837
+#	111705
+#	129472
+#
+# Disc length: 1956 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=6807a20a
+DTITLE=Gene Watson - A Way To Survive
+DYEAR=1900
+DGENRE=
+TTITLE0=Couldn't Love Have Picked A Better Place To Die
+TTITLE1=Just In Case
+TTITLE2=A Way To Survive
+TTITLE3=When There's Not A Tear Left To My Name
+TTITLE4=You Can't Believe A Thing I Say
+TTITLE5=Someone's Child
+TTITLE6=All Hat No Cattle
+TTITLE7=Fourteen Carat Mind
+TTITLE8=Old Porch Swing
+TTITLE9=Class Reunion
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

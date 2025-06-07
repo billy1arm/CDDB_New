@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21567
+#	43717
+#	61162
+#	93300
+#	108015
+#	121380
+#	139355
+#
+# Disc length: 2158 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6a086c08
+DTITLE=Sundog - Shattered Rhyme
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Rusted Fence
+TTITLE1=Valley's and Trends
+TTITLE2=Country House
+TTITLE3=Fever
+TTITLE4=Payphone
+TTITLE5=Shattered Rhyme
+TTITLE6=Birdflies
+TTITLE7=Fix the Kettle
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

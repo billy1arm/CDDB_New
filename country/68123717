@@ -1,0 +1,85 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17588
+#	32405
+#	50712
+#	65990
+#	81038
+#	97846
+#	113411
+#	131434
+#	148000
+#	162664
+#	176330
+#	194247
+#	209156
+#	225563
+#	237279
+#	252586
+#	266011
+#	280605
+#	296239
+#	306892
+#	322391
+#	333695
+#
+# Disc length: 4665 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=68123717
+DTITLE=Diverse - Country Sertanejo
+DYEAR=2007
+DGENRE=Country
+TTITLE0=01 Aqui o Systema é Bruto, Chitãozinho e Xororo
+TTITLE1=02 Agita ai, Gino e Geno
+TTITLE2=03 Bebedeira, Rick e Renner
+TTITLE3=04 Casa, Comida, Rio Negro e Solimões
+TTITLE4=05 Tremelê, Ze Henrique e Gabriel
+TTITLE5=06 Fera Mansa, Zezé de Camargo e Luciano
+TTITLE6=07 Bebo pra Carai, Gino e Geno
+TTITLE7=08 Virou Saudade, Gian e Giovanni
+TTITLE8=09 Rodeiomania, Zé Henrique e Gabriel
+TTITLE9=10 Galera Coração, Edson e Hudson
+TTITLE10=11 Festa do Peão, Rio Negro e Solimões
+TTITLE11=12 Sem Destino, Chitãozinho e Xororo
+TTITLE12=13 Garrafão, Teodoro e Sampaio
+TTITLE13=14 Jeito de Cowboy, Zé Henrique e Gabriel
+TTITLE14=15 Choradeira, Ataíde e Alexandre
+TTITLE15=16 Vem Brincar de Amar, Guilherme e Santiago
+TTITLE16=17 Sou Parada Dura, Zezé de Camargo e Luciano
+TTITLE17=18 A Galera do Chapeu, Gino e Geno
+TTITLE18=19 O Carro Dela Quebrou, Rio Negro e Solimões
+TTITLE19=20 Garanhão da Madrugada, Teodoro e Sampaio
+TTITLE20=21 Porta Retrato, Edson e Hudson
+TTITLE21=22 Festa Louca, Edson e Hudson
+TTITLE22=23 Rabo de Saia, Edson e Hudson
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+PLAYORDER=

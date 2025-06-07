@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	11458
+#	22743
+#	34643
+#	48473
+#	66523
+#	80895
+#	96303
+#	115745
+#
+# Disc length: 1765 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=6d06e309
+DTITLE=Conway Twitty - The Best Of The Best Of
+DYEAR=1900
+DGENRE=
+TTITLE0=Hello Darlin'
+TTITLE1=It's Only Make Believe
+TTITLE2=Don't Call Him A Cowboy
+TTITLE3=Between Blue Eyes And Jeans
+TTITLE4=The Legend And The Man
+TTITLE5=You've Never Been This Far Before
+TTITLE6=Ain't She Something Else
+TTITLE7=Heartache Tonight
+TTITLE8=Three Times A Lady
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

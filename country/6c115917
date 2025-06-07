@@ -1,0 +1,86 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10125
+#     30487
+#     42412
+#     52337
+#     65612
+#     82025
+#     94287
+#     105212
+#     115900
+#     128462
+#     141625
+#     163912
+#     179050
+#     191700
+#     208987
+#     222387
+#     241025
+#     255600
+#     263937
+#     281350
+#     292275
+#     313662
+# 
+# Disc length: 4443 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6c115917
+DTITLE=Various Artist - Live In Concert
+DYEAR=1900
+DGENRE=
+TTITLE0=Before, The Next Teardrop Falls
+TTITLE1=Casablanca
+TTITLE2=Only You
+TTITLE3=Rock Around The Clock
+TTITLE4=R Cinny Come Lately
+TTITLE5=Unchained Melody
+TTITLE6=Sealed With A Kiss
+TTITLE7=Runaway
+TTITLE8=Smoke Gets in You Eyes
+TTITLE9=Dedicated to the one I Love
+TTITLE10=Stuck On You
+TTITLE11=Sweet Pea
+TTITLE12=Corinna Corinna
+TTITLE13=Dizzy
+TTITLE14=Will you Love me Tomorrow
+TTITLE15=Let It Be Me
+TTITLE16=He Ain't Heavy He's My brothers
+TTITLE17=Jamba Laya
+TTITLE18=Send Me The Pillow You Dream On
+TTITLE19=Key Largo
+TTITLE20=Ebb Tide
+TTITLE21=Wind Beneath My Wings
+TTITLE22=If I said You Had A Beautiful Body
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+PLAYORDER=

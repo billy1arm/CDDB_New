@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12492
+#     24045
+#     34037
+#     45130
+#     56087
+#     69442
+#     82235
+#     94867
+# 
+# Disc length: 1430 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=66059409
+DTITLE=Roy Orbison - The Best of Roy Orbinson
+DYEAR=1900
+DGENRE=
+TTITLE0=I can't Stop Loving You
+TTITLE1=Dream Baby
+TTITLE2=Running Scared
+TTITLE3=Only The Lonely
+TTITLE4=Mean Woman Blues
+TTITLE5=Oh Pretty Woman
+TTITLE6=In Dreams
+TTITLE7=It's Over
+TTITLE8=Crying
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

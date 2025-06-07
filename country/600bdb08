@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	31776
+#	50804
+#	85368
+#	114900
+#	155705
+#	180223
+#	208579
+#
+# Disc length: 3037 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=600bdb08
+DTITLE=TKKG - TKKG 060 DerTeufel vom Waiga-See
+DYEAR=1900
+DGENRE=Kinderhörspiel
+TTITLE0=Gefesselt und geknebelt
+TTITLE1=Angst
+TTITLE2=Maßlos eitel
+TTITLE3=Gute Verlierer
+TTITLE4=Fundunterschlagung
+TTITLE5=Falscher Alarm ?
+TTITLE6=Feuer !
+TTITLE7=Wertvolle Gemälde
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

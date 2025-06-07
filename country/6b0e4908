@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20550
+#	55262
+#	86925
+#	117550
+#	166062
+#	202675
+#	239212
+#
+# Disc length: 3659 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6b0e4908
+DTITLE=Lee Konitz - Motion
+DYEAR=1961
+DGENRE=Jazz
+TTITLE0=I Remember You
+TTITLE1=All Of Me
+TTITLE2=Foolin' Myself
+TTITLE3=You Don't Know What Love Is
+TTITLE4=You'd Be So Nice To Come Home To
+TTITLE5=Out Of Nowhere
+TTITLE6=I'll Remember April
+TTITLE7=It's You Or No One
+EXTD=YEAR: 1961
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

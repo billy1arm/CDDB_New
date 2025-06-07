@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14087
+#	33462
+#	46712
+#	57650
+#	71325
+#	85710
+#	97812
+#	110300
+#
+# Disc length: 1577 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta1
+#
+DISCID=6a062709
+DTITLE=Various Artist - The Music of France
+DYEAR=1995
+DGENRE=Country
+TTITLE0=Mademoiselle Paris
+TTITLE1=La Mer
+TTITLE2=Petite Fleur
+TTITLE3=Parlez-moi d'Amour
+TTITLE4=Et Maintenant (What Now My Love)
+TTITLE5=La Vie En Rose
+TTITLE6=C'est Magnifique
+TTITLE7=L'Amour Des Poetes
+TTITLE8=Medley: Frere Jacques-Alouette-...
+EXTD=YEAR: 1995 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

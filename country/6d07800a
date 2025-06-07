@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  14535
+#  25035
+#  36095
+#  50640
+#  72385
+#  84412
+#  98370
+#  113377
+#  129115
+#
+# Disc length: 1922 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=6d07800a
+DTITLE=Various Artist - Country Pride
+DYEAR=1900
+DGENRE=
+TTITLE0=God Bless The USA
+TTITLE1=The American Dream
+TTITLE2=America The Beautiful
+TTITLE3=American Boy
+TTITLE4=The Americans
+TTITLE5=American Made
+TTITLE6=All American Saturday Night
+TTITLE7=God Must Have Blessed America
+TTITLE8=My Country
+TTITLE9=Bidding America Goodbye (The Auction)
+EXTD=
+EXTT0=Lee Greenwood
+EXTT1=Hank Williams Jr.
+EXTT2=Charlie Rich
+EXTT3=Eddie Rabbit
+EXTT4=Tex Ritter
+EXTT5=The Oak Ridge Boys
+EXTT6=Jo-El Sonnier
+EXTT7=Glen Campbell
+EXTT8=Jud Strunk
+EXTT9=Tanya Tucker
+PLAYORDER=

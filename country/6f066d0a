@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11422
+#     26127
+#     38275
+#     54452
+#     64562
+#     75430
+#     86207
+#     95832
+#     108300
+# 
+# Disc length: 1647 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6f066d0a
+DTITLE=George Jones - George Jones and Tammy Wynette - Greatest Hits Vol. 2
+DYEAR=1900
+DGENRE=
+TTITLE0=We Go Together
+TTITLE1=When I Stop Dreaming
+TTITLE2=Two Story House
+TTITLE3=My Elusive Dreams
+TTITLE4=Something To Brag About
+TTITLE5=A Pair Of Old Sneakers
+TTITLE6=Someone I Used To Know
+TTITLE7=Did You Ever
+TTITLE8=A Lovely Place To Cry
+TTITLE9=The World Needs A Melody
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15752
+#	29037
+#	45377
+#	60775
+#	83630
+#	97547
+#	109737
+#	126765
+#	140870
+#
+# Disc length: 2034 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=6d07f00a
+DTITLE=Johnny Paycheck - Biggest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=I Can't Hold Myself In Line
+TTITLE1=She's All I Got
+TTITLE2=Colorado Cool Aid
+TTITLE3=Yesterday's News Just Hit Home Today
+TTITLE4=The Outlaws Prayer
+TTITLE5=Drinkin And Drivin
+TTITLE6=Fifteen Beers
+TTITLE7=11 Months And 29 Days
+TTITLE8=Friend Lover Wife
+TTITLE9=Take This Job And Shove It
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

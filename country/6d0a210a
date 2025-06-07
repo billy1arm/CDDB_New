@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	16288
+# 	33308
+# 	55610
+# 	77240
+# 	96175
+# 	113760
+# 	131255
+# 	152648
+# 	180495
+#
+# Disc length: 2595 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4
+#
+DISCID=6d0a210a
+DTITLE=Gary Chapman - Everyday Man
+DYEAR=1900
+DGENRE=
+TTITLE0=Everyday Man
+TTITLE1=When We're Together (Love's So Strong)
+TTITLE2=Love History
+TTITLE3=Breakin' Hearts
+TTITLE4=Love Like Blood
+TTITLE5=Around The World
+TTITLE6=The Hurt Is Worth The Chance
+TTITLE7=Love That Girl
+TTITLE8=Cecil (Life Goes On)
+TTITLE9=Your Love Stays With Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

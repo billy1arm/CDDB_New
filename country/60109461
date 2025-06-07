@@ -1,0 +1,308 @@
+# xmcd CD database file
+# Generated: Mi Jan 21 13:32:43 2004 by KSCD
+# 
+# Track frame offsets:
+#       150
+#       3681
+#       7858
+#       10802
+#       13460
+#       17005
+#       20374
+#       24138
+#       27529
+#       30707
+#       34534
+#       38738
+#       41736
+#       45002
+#       48240
+#       52001
+#       55067
+#       57970
+#       60996
+#       63421
+#       66155
+#       69085
+#       71851
+#       75006
+#       78703
+#       81146
+#       84205
+#       87522
+#       90769
+#       94367
+#       98310
+#       101885
+#       105450
+#       108713
+#       112535
+#       115883
+#       120369
+#       123287
+#       126650
+#       129615
+#       135160
+#       137912
+#       140998
+#       143816
+#       146651
+#       149630
+#       152559
+#       156573
+#       160070
+#       162646
+#       165871
+#       168625
+#       172540
+#       175524
+#       178422
+#       183493
+#       187775
+#       192076
+#       196363
+#       200243
+#       204261
+#       207355
+#       210197
+#       213102
+#       216515
+#       219612
+#       222624
+#       225683
+#       228659
+#       232088
+#       236394
+#       240646
+#       245595
+#       249513
+#       252030
+#       254510
+#       257202
+#       259766
+#       262722
+#       265931
+#       268539
+#       271842
+#       274944
+#       278797
+#       282250
+#       285792
+#       288797
+#       292316
+#       294839
+#       297275
+#       300013
+#       302530
+#       305131
+#       307913
+#       309854
+#       313278
+#       315763
+#
+# Disc length: 4246 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Kscd 1.3.3
+#
+DISCID=60109461
+DTITLE=Heimische Vögel - Heimische Vogelstimmen
+DYEAR=1900
+DGENRE=
+TTITLE0=Blaumeise
+TTITLE1=Kohlmeise
+TTITLE2=Haubenmeise
+TTITLE3=Tannenmeise
+TTITLE4=Schwanzmeise
+TTITLE5=Weidenmeise
+TTITLE6=Sumpfmeise
+TTITLE7=Beutelmeise
+TTITLE8=Rotkehlchen
+TTITLE9=Blaukehlchen
+TTITLE10=Braunkehlchen
+TTITLE11=Schwarzkehlchen
+TTITLE12=Gartenrotschwanz
+TTITLE13=Hausrotschwanz
+TTITLE14=Buchfink
+TTITLE15=Bergfink
+TTITLE16=Stieglitz
+TTITLE17=Goldammer
+TTITLE18=Schneeammer
+TTITLE19=Grauammer
+TTITLE20=Rohrammer
+TTITLE21=Gartenbaumlaeufer
+TTITLE22=Waldbaumlaeufer
+TTITLE23=Bachstelze
+TTITLE24=Schafstelze
+TTITLE25=Gebirgsstelze
+TTITLE26=Waldlaubsaenger
+TTITLE27=Berglaubsaenger
+TTITLE28=Moenchsgrasmuecke
+TTITLE29=Gartengrasmuecke
+TTITLE30=Klappergrasmuecke
+TTITLE31=Dorngrasmuecke
+TTITLE32=Sperbergrasmuecke
+TTITLE33=Feldlerche
+TTITLE34=Haubenlerche
+TTITLE35=Heidelerche
+TTITLE36=Grauschnaepper
+TTITLE37=Halsbandschnaepper
+TTITLE38=Trauerschnaepper
+TTITLE39=Kleiber
+TTITLE40=Heckenbraunelle
+TTITLE41=Alpenbraunelle
+TTITLE42=Sommergoldhaehnchen
+TTITLE43=Wintergoldhaehnchen
+TTITLE44=Zaunkoenig
+TTITLE45=Girlitz
+TTITLE46=Zitronengirlitz
+TTITLE47=Erlenzeisig
+TTITLE48=Birkenzeisig
+TTITLE49=Gimpel
+TTITLE50=Gruenling
+TTITLE51=Haenfling
+TTITLE52=Berghaenfling
+TTITLE53=Fichtenkreuzschnabel
+TTITLE54=Amsel
+TTITLE55=Star
+TTITLE56=Singdrossel
+TTITLE57=Misteldrossel
+TTITLE58=Ringdrossel
+TTITLE59=Rotdrossel
+TTITLE60=WAcholderdrossel
+TTITLE61=Feldschirl
+TTITLE62=Rohrschirl
+TTITLE63=Baumpieper
+TTITLE64=Wiesenpieper
+TTITLE65=Brachpieper
+TTITLE66=Wasserpieper
+TTITLE67=Zilpzalp
+TTITLE68=Fitis
+TTITLE69=Gelbspoetter
+TTITLE70=Nachtigall
+TTITLE71=Sprosser
+TTITLE72=Steinschmaetzer
+TTITLE73=Kernbeisser
+TTITLE74=Eichelhaeher
+TTITLE75=Tannenhaeher
+TTITLE76=Elster
+TTITLE77=Rauchschwalbe
+TTITLE78=Mehlschwalbe
+TTITLE79=Uferschwalbe
+TTITLE80=Schilfrohrsaenger
+TTITLE81=Drosselrohrsaenger
+TTITLE82=Sumpfrohrsaenger
+TTITLE83=Teichrohrsaenger
+TTITLE84=Neuntoeter
+TTITLE85=Raubwuerger
+TTITLE86=Rotkopfwuerger
+TTITLE87=Alpendohle
+TTITLE88=Dohle
+TTITLE89=Haussperling
+TTITLE90=Feldsperling
+TTITLE91=Saatkraehe
+TTITLE92=Rabenkraehe
+TTITLE93=Nebelkraehe
+TTITLE94=Kolkrabe
+TTITLE95=Wasseramsel
+TTITLE96=Pirol
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+PLAYORDER=

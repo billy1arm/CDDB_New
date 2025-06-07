@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11942
+#	22542
+#	34482
+#	46535
+#	57780
+#	69442
+#	93410
+#	105090
+#	122030
+#
+# Disc length: 1752 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.78
+#
+DISCID=6e06d60a
+DTITLE=Various Artist - Trucker's Jukebox Vol. 1
+DYEAR=1990
+DGENRE=Country
+TTITLE0=Joe Stampley - Roll On Big Mama
+TTITLE1=George Jones and Johnny Paycheck - Maybelline
+TTITLE2=Johnny Paycheck - Take This Job And Shove It
+TTITLE3=Lefty Frizzell - Cigarettes And Coffee Blues
+TTITLE4=Jim and Jesse - Diesel On My Tail
+TTITLE5=Willie Nelson - On The Road Again
+TTITLE6=David Allen Coe - You Never Even Called Me By My Name
+TTITLE7=Charlie Walker - Truck Drivin' Cat With Nine Wives
+TTITLE8=Charlie Daniels Band - A Few More Rednecks (What This World Needs Is)
+TTITLE9=Flatt and Scruggs - Foggy Mountain Breakdown
+EXTD=YEAR: 1990
+EXTT0=Joe Stampley
+EXTT1=George Jones and Johnny Paycheck
+EXTT2=Johnny Paycheck
+EXTT3=Lefty Frizzell
+EXTT4=Jim and Jesse
+EXTT5=Willie Nelson
+EXTT6=David Allan Coe
+EXTT7=Charlie Walker
+EXTT8=Charlie Daniels Band
+EXTT9=Flatt and Scruggs
+PLAYORDER=

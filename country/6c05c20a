@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10387
+#	23130
+#	34125
+#	46577
+#	56280
+#	69115
+#	80965
+#	88665
+#	99765
+#
+# Disc length: 1476 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=6c05c20a
+DTITLE=Carl Perkins - Best of The Best
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Blue Suede Shoes
+TTITLE1=Boppin' The Blues
+TTITLE2=Dixie Fried
+TTITLE3=Your True Love
+TTITLE4=Matchbox
+TTITLE5=Honey Don't
+TTITLE6=Forever Yours
+TTITLE7=Glad All Over
+TTITLE8=I'm Sorry, I'm Not Sorry
+TTITLE9=Pink Peddle Pushers
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

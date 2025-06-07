@@ -1,0 +1,82 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13485
+#	28455
+#	41872
+#	57725
+#	71902
+#	87145
+#	102462
+#	112632
+#	127092
+#	144135
+#	157497
+#	173787
+#	188457
+#	202095
+#	216267
+#	232135
+#	244887
+#	257390
+#	272185
+#	286817
+#	299277
+#
+# Disc length: 4188 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=61105a16
+DTITLE=Tião Carreiro E Pardinho - Dose Dupla
+DYEAR=1994
+DGENRE=Sertanejo
+TTITLE0=Rei do Gado
+TTITLE1=Boi Soberano
+TTITLE2=Pagode em Brasília
+TTITLE3=A Morte do Carreiro
+TTITLE4=Saudade do Araraquara
+TTITLE5=Irmão de Ferreirinha
+TTITLE6=Três Cuibanas
+TTITLE7=Sucuri
+TTITLE8=Triste Desengano
+TTITLE9=Teu Nome Tem Sete Letras
+TTITLE10=Violeiro Solteiro
+TTITLE11=Preto Fugido
+TTITLE12=Alma de Boêmio
+TTITLE13=Borboleta dee Asfalto
+TTITLE14=Punhal de Falsidade
+TTITLE15=Amigo Sincero
+TTITLE16=Teus Beijos
+TTITLE17=Despedida
+TTITLE18=Nove e Nove
+TTITLE19=Urutu Cruzeiro
+TTITLE20=Minas Gerais
+TTITLE21=Carteiro
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+PLAYORDER=

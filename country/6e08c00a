@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23495
+#	42245
+#	60280
+#	78142
+#	91450
+#	104355
+#	123000
+#	138477
+#	153595
+#
+# Disc length: 2242 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=6e08c00a
+DTITLE=Kenny Rogers - I Prefer The Moonlight
+DYEAR=1900
+DGENRE=Country
+TTITLE0=I Perfer The Moonlight
+TTITLE1=Now And Forever
+TTITLE2=We're Doin' Alright
+TTITLE3=Make No Mistake, She's Mine
+TTITLE4=One More Day
+TTITLE5=She's Ready For Someone To Love Her
+TTITLE6=I Don't Call Him Daddy
+TTITLE7=The Factory
+TTITLE8=We Fell In Love Anyway
+TTITLE9=You Can't Say (You Don't Love Me Anymore)
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

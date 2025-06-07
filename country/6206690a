@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10960
+#     24337
+#     38575
+#     51215
+#     63590
+#     75072
+#     86122
+#     99360
+#     112505
+# 
+# Disc length: 1643 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6206690a
+DTITLE=Slim Whitman - The Best of Slim Whitman
+DYEAR=1900
+DGENRE=
+TTITLE0=Rose Marie
+TTITLE1=I'll Take You Home Again, Kathleen
+TTITLE2=Indian Love Call
+TTITLE3=Secret Love
+TTITLE4=North Wind
+TTITLE5=Cattle Call
+TTITLE6=Keep it a Secret
+TTITLE7=Love Song of the Waterfall
+TTITLE8=China Doll
+TTITLE9=Serenade
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

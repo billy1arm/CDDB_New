@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22675
+#	44880
+#	61305
+#	82230
+#	89498
+#	109533
+#	126253
+#
+# Disc length: 2379 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=68094908
+DTITLE=Sagrado Coração da Terra - Farol da Liberdade
+DYEAR=1991
+DGENRE=Progressive Rock
+TTITLE0=Dança das Fadas
+TTITLE1=Solidariedade
+TTITLE2=Amor Selvagem
+TTITLE3=Pantanal
+TTITLE4=Olívia
+TTITLE5=Farol da Liberdade
+TTITLE6=Raio e Trovão
+TTITLE7=The Central Sun of the Universe
+EXTD=YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

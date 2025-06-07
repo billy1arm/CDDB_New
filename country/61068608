@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7014
+#	22872
+#	38353
+#	58541
+#	74062
+#	91290
+#	109472
+#
+# Disc length: 1672 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=61068608
+DTITLE=Taylor Swift - Live from SoHo
+DYEAR=2008
+DGENRE=Country
+TTITLE0=Umbrella
+TTITLE1=Our Song
+TTITLE2=Teardrops on My Guitar
+TTITLE3=Should've Said No
+TTITLE4=A Place in this World
+TTITLE5=Mary's Song
+TTITLE6=Tim McGraw
+TTITLE7=Picture to Burn
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

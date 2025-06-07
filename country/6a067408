@@ -1,0 +1,41 @@
+# xmcd
+#
+# Track frame offsets:
+#	180
+#	16473
+#	34169
+#	49837
+#	62215
+#	78558
+#	96305
+#	111902
+#
+# Disc length: 1654
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.83.01
+# Normalized: r2:DSETVAR2,TDELIM( - ),TSWAP
+#
+DISCID=6a067408
+DTITLE=Various Artist - Karaoke Country Party Songs
+DYEAR=1980
+DGENRE=KaraokeCD+G
+TTITLE0=Billy Ray Cyrus - Achy Breaky Heart
+TTITLE1=Garth Brooks - Friends In Low Places
+TTITLE2=Brooks and Dunn - Boot Scootin' Boogie
+TTITLE3=Alan Jackson - Chattahoochee
+TTITLE4=Billy Ray Cyrus and Vocals - Achy Breaky Heart
+TTITLE5=Garth Brooks and Vocals - Friends In Low Places
+TTITLE6=Brooks and Dunn and Vocals - Boot Scootin' Boogie
+TTITLE7=Alan Jackson and Vocals - Chattahoochee
+EXTD=KaraokeCD+G
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

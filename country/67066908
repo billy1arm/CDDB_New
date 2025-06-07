@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28787
+#	42970
+#	52234
+#	64542
+#	85374
+#	98456
+#	112061
+#
+# Disc length: 1643 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=67066908
+DTITLE=The Hughes Brothers - Favorites of the Old West
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Cowboy Medley
+TTITLE1=Cool Clear Water
+TTITLE2=Shenandoah
+TTITLE3=Lone Prairie
+TTITLE4=El Paso
+TTITLE5=Tumbling Weeds
+TTITLE6=Streets of Laredo
+TTITLE7=Home on the Range
+EXTD=YEAR: 2001 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

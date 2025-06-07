@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	12025
+# 	23902
+# 	39685
+# 	57402
+# 	69780
+# 	88690
+# 	107597
+# 	123917
+#
+# Disc length: 1882 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=69075809
+DTITLE=Prairie Oyster - Oyster Tracks
+DYEAR=1900
+DGENRE=
+TTITLE0=You Got A Way
+TTITLE1=Rain Rain
+TTITLE2=Play Me Some Honky Tonk Music
+TTITLE3=I'm Learning
+TTITLE4=Juke Joint Johnny
+TTITLE5=Man In The Moon
+TTITLE6=Tom Cat
+TTITLE7=Give A Little More Time
+TTITLE8=Other Side Of Town
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

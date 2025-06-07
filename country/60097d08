@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20445
+#	38257
+#	64856
+#	90563
+#	114933
+#	134019
+#	156494
+#
+# Disc length: 2431 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=60097d08
+DTITLE=G-Greats and Friends - R.F.D.3 ORIGINAL BGM for ALL DRIVERS
+DYEAR=2005
+DGENRE=Rock
+TTITLE0=Intertia drift
+TTITLE1=Test driving
+TTITLE2=Midnight sun
+TTITLE3=Highway corster
+TTITLE4=Scena di notte
+TTITLE5=Re-resolution
+TTITLE6=Predawn road
+TTITLE7=A Whole new days
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

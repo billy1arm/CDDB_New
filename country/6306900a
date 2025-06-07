@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12250
+#	24193
+#	34338
+#	47788
+#	61683
+#	75475
+#	86280
+#	102168
+#	112858
+#
+# Disc length: 1682 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=6306900a
+DTITLE=roy clark - the branson sound
+DYEAR=1900
+DGENRE=
+TTITLE0=Jonnie b. Goode
+TTITLE1=chantilly lace
+TTITLE2=memphis
+TTITLE3=jukebox saturday night
+TTITLE4=too much monkey business
+TTITLE5=tobacco road
+TTITLE6=night life
+TTITLE7=linda lou
+TTITLE8=don't mess around mama
+TTITLE9=candy man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

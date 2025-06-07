@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    150
+#    12095
+#    22985
+#    37582
+#    53650
+#    75177
+#    87240
+#    108172
+#    121390
+#    133637
+#    151022
+#
+# Disc length: 2154 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.1.9  (wjohn@fix.net)
+#
+DISCID=6608680b
+DTITLE=Modern Cowboyz - Modern Cowboyz
+DYEAR=1900
+DGENRE=
+TTITLE0=Loves Not 50/50
+TTITLE1=Dream Of Me
+TTITLE2=The Buckle
+TTITLE3=Cautious Man
+TTITLE4=Heard It In A Love Song
+TTITLE5=Texas Attitude
+TTITLE6=Will The Smokin' Ever End
+TTITLE7=Yesterday's Fool
+TTITLE8=Is It Only Me
+TTITLE9=Waymores Blues
+TTITLE10=All My Life
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

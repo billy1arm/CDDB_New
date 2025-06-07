@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14107
+#	29741
+#	43780
+#	56228
+#	81929
+#	94803
+#
+# Disc length: 1415 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=62058507
+DTITLE=Sawyer - Demo
+DYEAR=1900
+DGENRE=Country
+TTITLE0=7 bridges road
+TTITLE1=independence day
+TTITLE2=long and dusty trail
+TTITLE3=That`s what i like
+TTITLE4=the rose
+TTITLE5=tonight the bottle
+TTITLE6=you can depend on me
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12576
+#	23458
+#	36009
+#	48264
+#	61017
+#	78094
+#	95604
+#	109019
+#	119331
+#
+# Disc length: 1790 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6c06fc0a
+DTITLE=Various Artist - 30 Country Love Songs [CD 1)
+DYEAR=2006
+DGENRE=Country
+TTITLE0=Jonny Cash_I walk the line
+TTITLE1=Georges Jones_Tender years
+TTITLE2=Hank Williams_Love sick blues (live)
+TTITLE3=Eddy Arnold_I'll hold you in my heart (til I can hold you in my arms)
+TTITLE4=Charlie Rich_The most beautiful girl
+TTITLE5=Ray Price_For the good times
+TTITLE6=Doug Stone_Too busy being in love
+TTITLE7=Merle Haggard_My favorite memory
+TTITLE8=Conway Twitty_(I can't believe) She gives it all to me
+TTITLE9=Mickey Gilley_Fool for your love
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

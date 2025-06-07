@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18199
+#     35462
+#     54511
+#     69052
+#     86999
+#     108207
+#     124785
+#     142785
+#     157551
+# 
+# Disc length: 2295 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6c08f50a
+DTITLE=Debra Davis - Uninvited Guests
+DYEAR=1900
+DGENRE=
+TTITLE0=This old man
+TTITLE1=Univited guests
+TTITLE2=I don't wanna be that cool
+TTITLE3=Moon upon my sholder
+TTITLE4=Stella
+TTITLE5=Love is never wrong
+TTITLE6=What's a girl to do
+TTITLE7=Love's a funny thing
+TTITLE8=Takin' the wheel
+TTITLE9=Happy ending
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

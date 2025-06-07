@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11372
+#	27722
+#	45015
+#	61665
+#	77722
+#	99915
+#	117167
+#	133050
+#
+# Disc length: 2009 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=6107d709
+DTITLE=Various Artist - Country Stars of Christmas
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Rudolph the Red Nosed Reindeer
+TTITLE1=What Child is This?
+TTITLE2=O Holy Night
+TTITLE3=Blue Christmas
+TTITLE4=Christmas in Dixie
+TTITLE5=Ave Maria
+TTITLE6=Little Drummer Boy
+TTITLE7=I'll be Home for Christmas
+TTITLE8=Slient Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

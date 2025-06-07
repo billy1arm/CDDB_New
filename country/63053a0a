@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11432
+#	23315
+#	32065
+#	40065
+#	50892
+#	60167
+#	68372
+#	79112
+#	90435
+#
+# Disc length: 1340 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=63053a0a
+DTITLE=Roger Miller - The Best of Country
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Roger Miller - King of the Road
+TTITLE1=Roger Miller - Walkin' in the Sunshine
+TTITLE2=Roger Miller - England Swings
+TTITLE3=Roger Miller - Dang Me
+TTITLE4=Roger Miller - When Two Worlds Collide
+TTITLE5=Roger Miller - Chug a Lug
+TTITLE6=Roger Miller - Do Wacka Do
+TTITLE7=Roger Miller - Kansas City Star
+TTITLE8=Roger Miller - Husbands and Wives
+TTITLE9=Roger Miller - Engine Engine #9
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

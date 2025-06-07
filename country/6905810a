@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 12150
+# 23700
+# 32513
+# 43000
+# 52183
+# 64900
+# 75003
+# 83350
+# 95010
+#
+# Disc length: 1411 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=6905810a
+DTITLE=Del Reeves - Girl On The Billboard
+DYEAR=1900
+DGENRE=
+TTITLE0=Girl On The Billboard
+TTITLE1=The Bells Of Southern Belles
+TTITLE2=One Dime At A Time
+TTITLE3=Lookin'At The World Through A Windshield
+TTITLE4=Good Time Charlie
+TTITLE5=Be Glad
+TTITLE6=Philadelphia Fillies
+TTITLE7=Lay A Little Lovin' On Me
+TTITLE8=Lover's Question
+TTITLE9=Orange Blossom Special
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

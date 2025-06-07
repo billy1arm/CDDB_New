@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16292
+#	31722
+#	46180
+#	60775
+#	77320
+#	94880
+#	106110
+#	126160
+#	141182
+#
+# Disc length: 2105 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=6908370a
+DTITLE=Debbie Jordan - Time Changes
+DYEAR=1900
+DGENRE=
+TTITLE0=Tell Me Why
+TTITLE1=Upside Down
+TTITLE2=The Answer Is Yes
+TTITLE3=Fast Train Outta Here
+TTITLE4=Innocent Men Don't Run
+TTITLE5=Hopeless Love
+TTITLE6=Runaway Train
+TTITLE7=Let's Runaway
+TTITLE8=Time Changes
+TTITLE9=Carry Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

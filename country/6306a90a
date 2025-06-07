@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14257
+#     25510
+#     43665
+#     56410
+#     68645
+#     81137
+#     90945
+#     102965
+#     112635
+# 
+# Disc length: 1707 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6306a90a
+DTITLE=The Whites - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=You Put The Blue In Me
+TTITLE1=Hangin' Around
+TTITLE2=Give Me Back The Old Familiar Feeling
+TTITLE3=If It Ain't Love (Leave It Alone)
+TTITLE4=I Wonder Who's Holding My Baby
+TTITLE5=Love Won't Wait
+TTITLE6=Pins And Needles
+TTITLE7=Forever You
+TTITLE8=When The New Wears Off Our Love
+TTITLE9=Hometown Gossip
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,37 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	129342
+#	188482
+#	194060
+#	198712
+#	215800
+#	228660
+#
+# Disc length: 3142 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=6d0c4407
+DTITLE=Charles Robert Austin (bass), Seattle Symphony Chorus, The Seattle Symphony, Gerard Schwarz - Shostakovich - The Execution of Stepan Razin, op.119 - October, op.131 - Five Fragments, op.42
+DYEAR=2006
+DGENRE=Classical
+TTITLE0=Shostakovich - The Execution of Stepan Razin, op.119
+TTITLE1=Shostakovich - October, op.131
+TTITLE2=Shostakovich - Five Fragments, op 42 - 1. Moderato
+TTITLE3=Shostakovich - Five Fragments, op 42 - 2. Andante
+TTITLE4=Shostakovich - Five Fragments, op 42 - 3. Largo
+TTITLE5=Shostakovich - Five Fragments, op 42 - 4. Moderato
+TTITLE6=Shostakovich - Five Fragments, op 42 - 5. Allegretto
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+PLAYORDER=

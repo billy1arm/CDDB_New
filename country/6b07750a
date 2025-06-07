@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13710
+#     26497
+#     42825
+#     56422
+#     71460
+#     83375
+#     97775
+#     111847
+#     129337
+# 
+# Disc length: 1911 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6b07750a
+DTITLE=Various Artist - Truckers Jukebox #4
+DYEAR=1900
+DGENRE=
+TTITLE0=She's Got You
+TTITLE1=I'm Always On A Mountain When I Fall
+TTITLE2=Somebody's Goona Love You
+TTITLE3=Here's Some Love
+TTITLE4=I'd Just Love To Lay You Down
+TTITLE5=I'm Sorry
+TTITLE6=Little Things
+TTITLE7=Lynda
+TTITLE8=Years
+TTITLE9=Brother Jukebox
+EXTD=
+EXTT0=Patsy Cline\n
+EXTT1=Merle Haggard\n
+EXTT2=Lee Greenwood\n
+EXTT3=Tanya Tucker\n
+EXTT4=Conway Twitty\n
+EXTT5=Patsy Cline\n
+EXTT6=Marty Stuart\n
+EXTT7=Steve Wariner\n
+EXTT8=Barbara Mandrell\n
+EXTT9=Mark Chesnett\n
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13885
+#  30343
+#  41035
+#  55963
+#  76918
+#  91705
+#  105210
+#  122905
+#  142608
+#
+# Disc length: 2176 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.31
+#
+DISCID=6c087e0a
+DTITLE=The Oak Ridge Boys - Monongahela
+DYEAR=1900
+DGENRE=
+TTITLE0=Gonna Take A Lot A Of River (Mississippi, Monongahela, Ohio)
+TTITLE1=I Can Count On You
+TTITLE2=Never Together (But Close Sometimes)
+TTITLE3=No Way Out
+TTITLE4=Beyond Those Years
+TTITLE5=Private Lives
+TTITLE6=Too Many Heartaches
+TTITLE7=Bridges And Walls
+TTITLE8=When Karen Comes Around
+TTITLE9=Taking One Heartbeat (At A Time)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

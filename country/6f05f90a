@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15107
+#     26435
+#     38372
+#     51875
+#     62197
+#     72667
+#     83115
+#     93482
+#     105237
+# 
+# Disc length: 1531 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=6f05f90a
+DTITLE=Many - Six Days On The Roaad
+DYEAR=1900
+DGENRE=
+TTITLE0=Harper Valley P.T.A.
+TTITLE1=It's Such A Pretty World Today
+TTITLE2=Girl On The Billboard
+TTITLE3=Almost Persuaded
+TTITLE4=Hello Walls
+TTITLE5=Hello Fool
+TTITLE6=May The Bird Of Paradise Fly Up Your Nose
+TTITLE7=Six Days On The Toad
+TTITLE8=Skip A Rope
+TTITLE9=Frfom A Jack To A King
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

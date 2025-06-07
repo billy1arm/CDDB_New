@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14432
+#	25715
+#	40757
+#	54030
+#	67642
+#	79500
+#	91195
+#	104467
+#	117017
+#
+# Disc length: 1704 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=6106a60a
+DTITLE=Conway Twitty - The Final Recordings of His Greatest Hits, Vol. 1
+DYEAR=1993
+DGENRE=Country
+TTITLE0=You've Never Been This Far Before
+TTITLE1=Hello Darlin'
+TTITLE2=(lost Her Love) On Our Last Date
+TTITLE3=After All The Good Is Gone
+TTITLE4=The Games That Daddies Play
+TTITLE5=I Can't See Me Without You
+TTITLE6=To See My Angel Cry
+TTITLE7=Danny Boy
+TTITLE8=This Time I've Hurt Her More (Than She Loves Me)
+TTITLE9=As Soon As I Hang Up The Phone
+EXTD=YEAR: 1993 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16537
+#     30415
+#     49212
+#     63762
+#     85062
+#     107160
+#     118755
+#     135660
+#     152392
+# 
+# Disc length: 2219 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6d08a90a
+DTITLE=Tisdel and Thom - Tisdel and Thom
+DYEAR=1900
+DGENRE=
+TTITLE0=Close Today
+TTITLE1=Brahma Song
+TTITLE2=Never Let Go
+TTITLE3=On The Ground
+TTITLE4=Walkin' Trees
+TTITLE5=See The Light
+TTITLE6=Separate Cars
+TTITLE7=Comin' On Home
+TTITLE8=Melina
+TTITLE9=World To Change
+EXTD=
+EXTT0=Brad Tisdel - David Thom
+EXTT1=David Thom
+EXTT2=Brad Tisdel
+EXTT3=David Thom
+EXTT4=Brad Tisdel - David Thom
+EXTT5=Brad Tisdel
+EXTT6=David Thom
+EXTT7=Brad Tisdel
+EXTT8=Brad Tisdel
+EXTT9=David Thom
+PLAYORDER=

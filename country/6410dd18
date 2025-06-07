@@ -1,0 +1,89 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     4600
+#     18175
+#     34750
+#     51475
+#     61150
+#     77125
+#     86038
+#     101125
+#     112825
+#     127375
+#     139150
+#     152350
+#     169990
+#     182425
+#     198490
+#     214300
+#     232198
+#     243550
+#     261775
+#     276100
+#     283675
+#     293950
+#     304975
+# 
+# Disc length: 4319 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=6410dd18
+DTITLE=Doc Watson - Old Timey Concert
+DYEAR=1900
+DGENRE=country
+TTITLE0=Introduction
+TTITLE1=New River Train
+TTITLE2=What Does The Deep Sea Say
+TTITLE3=Sunny Tennessee
+TTITLE4=Walkin' In Jerusalem
+TTITLE5=Sittin' On Top Of The World
+TTITLE6=Pretty Little Pink
+TTITLE7=My Home's Across The Blue Ridge Mountains
+TTITLE8=Slewfoot
+TTITLE9=Little Orphan Girl
+TTITLE10=Long Journey Home
+TTITLE11=Rank Stranger
+TTITLE12=Crawdad
+TTITLE13=Fire On The Mountain
+TTITLE14=Eastbound Train
+TTITLE15=On The Banks Of The Old Tennessee
+TTITLE16=Mountain Dew
+TTITLE17=Corinna Corinna
+TTITLE18=Footprints In The Snow
+TTITLE19=I Saw A Man At The Close Of Day
+TTITLE20=Cackling Hen
+TTITLE21=Wanted Man
+TTITLE22=Way Downtown
+TTITLE23=Will The Circle Be Unbroken
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+PLAYORDER=

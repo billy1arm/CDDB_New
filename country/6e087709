@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23281
+#	45476
+#	54295
+#	74137
+#	78825
+#	96000
+#	112360
+#	142890
+#
+# Disc length: 2169 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6e087709
+DTITLE=Joe Walsh - So What
+DYEAR=1974
+DGENRE=Rock
+TTITLE0=Welcome To The Club
+TTITLE1=Falling Down
+TTITLE2=Pavane Of The Sleeping Beauty
+TTITLE3=Time Out
+TTITLE4=All Night Laundry Mat Blues
+TTITLE5=Turn To Stone
+TTITLE6=Help Me Through The Night
+TTITLE7=County Fair
+TTITLE8=Song For Emma
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

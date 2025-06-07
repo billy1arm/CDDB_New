@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17487
+#	26812
+#	46377
+#	61370
+#	82717
+#	96357
+#	130877
+#	150152
+#	163727
+#
+# Disc length: 2499 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=6f09c10a
+DTITLE=Pale Horse And Rider - Moody Pike
+DYEAR=2004
+DGENRE=Country
+TTITLE0=Stoned In The Evening
+TTITLE1=Lovely Lace
+TTITLE2=Bruises Like Badges
+TTITLE3=Quarters
+TTITLE4=Annabelle
+TTITLE5=In The Cold Of Your Room
+TTITLE6=Weight Of My Soul
+TTITLE7=Winter Slides
+TTITLE8=Route 224
+TTITLE9=The Drinking Boy
+EXTD=YEAR: 2004 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

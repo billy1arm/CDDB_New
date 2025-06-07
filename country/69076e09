@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15810
+#	33926
+#	51216
+#	67330
+#	78180
+#	98712
+#	112819
+#	125122
+#
+# Disc length: 1904 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=69076e09
+DTITLE=Marty Cummins - Old Fool
+DYEAR=2008
+DGENRE=Country
+TTITLE0=Old Fool
+TTITLE1=Hello Nathan
+TTITLE2=My Babe
+TTITLE3=Russian Blues
+TTITLE4=Long Gone Baby Blues
+TTITLE5=Then Say Goodbye
+TTITLE6=Just for Loving You
+TTITLE7=Country Girls
+TTITLE8=I Think it's Called Love
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

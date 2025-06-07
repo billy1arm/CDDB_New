@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10498
+#	18303
+#	31558
+#	43035
+#	53310
+#	62180
+#	77998
+#	91290
+#	109020
+#
+# Disc length: 1667 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=6e06810a
+DTITLE=Oak Ridge Boys and J. D. Sumner And The Stamps - Best Of 2 Super Acts O
+DTITLE=n 1 Great Compact Disc
+DYEAR=1900
+DGENRE=
+TTITLE0=Less Of Me
+TTITLE1=He Will Never Let Me Down
+TTITLE2=At Last
+TTITLE3=Oh, How Much He Cares
+TTITLE4=I Wouldn't Take Nothing For My Journey
+TTITLE5=My Savior Knows
+TTITLE6=The Old Rugged Cross
+TTITLE7=I Believe In The Old Time Way
+TTITLE8=Amazing Grace
+TTITLE9=God Shall Wipe Away All Tears
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

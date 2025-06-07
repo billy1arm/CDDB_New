@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14742
+#	28569
+#	41217
+#	57530
+#	70142
+#	85640
+#	99052
+#
+# Disc length: 1482 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=6105c808
+DTITLE=Lydia Miller - Lydia Miller
+DYEAR=1996
+DGENRE=Country
+TTITLE0=Swim Across
+TTITLE1=Welcome Mat
+TTITLE2=That's What Separates The Men From The Boys
+TTITLE3=Last Word
+TTITLE4=Don't You Want My Love
+TTITLE5=I'm Not Supposed To Love You Anymore
+TTITLE6=This Should Be Good
+TTITLE7=Our Love
+EXTD=YEAR: 1996 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

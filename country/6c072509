@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11657
+#     26785
+#     44552
+#     59317
+#     75462
+#     92222
+#     107617
+#     121850
+# 
+# Disc length: 1831 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=6c072509
+DTITLE=Various Artist - Music for the Horizon
+DYEAR=1900
+DGENRE=
+TTITLE0=So Much For Pretending
+TTITLE1=She's Sure Taking It Well
+TTITLE2=Down Came A Blackbird
+TTITLE3=Be Honest
+TTITLE4=Another Man's Sky
+TTITLE5=I'm Not Supposed to Love You Anymore
+TTITLE6=Divine Intervention
+TTITLE7=Sittin On Go
+TTITLE8=Nobody Knows
+EXTD=
+EXTT0=Bryan White \nFrom the Album Between Now And \nForever\n
+EXTT1=Kevin Sharp\nFrom the Album Measure Of A Man\n
+EXTT2=Lila McCann\nFrom the Album Lila\n
+EXTT3=Thrasher Shiver\nFrom the Album Thrasher Shiver\n
+EXTT4=Royal Wade Kimes\nFrom the Album Another Man's Sky\n
+EXTT5=Bryan White\nFrom the album Between Now And \nForever\n
+EXTT6=Greg Holland\nFrom the album Exception to the Rule\n
+EXTT7=Bryan White\nFrom the album Between Now And \nForever\n
+EXTT8=Kevin Sharp\nFrom the album Measure Of A Man\n
+PLAYORDER=

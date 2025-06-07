@@ -1,0 +1,89 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	9982
+#	21997
+#	33350
+#	47087
+#	59247
+#	70995
+#	81767
+#	94445
+#	105007
+#	115235
+#	125735
+#	135480
+#	146537
+#	157005
+#	166020
+#	176950
+#	191022
+#	202792
+#	212840
+#	228455
+#	239995
+#	250490
+#	266735
+#
+# Disc length: 3746 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=640ea018
+DTITLE=Charlie Feathers - Gone Gone Gone
+DYEAR=1900
+DGENRE=
+TTITLE0=Peepin' Eyes
+TTITLE1=I've Been Deceived
+TTITLE2=Defrost Your Heart
+TTITLE3=Wedding Gown of White
+TTITLE4=We're Getting Closer to Being Apart
+TTITLE5=Bottle to the Baby
+TTITLE6=One Hand Loose
+TTITLE7=Can't Hardly Stand It
+TTITLE8=Bottle to the Baby
+TTITLE9=Everybody's Loving My Baby
+TTITLE10=Too Much Alike
+TTITLE11=When You Come Around
+TTITLE12=When You Decide
+TTITLE13=Nobody's Woman
+TTITLE14=The Man In Love
+TTITLE15=I Forgot To Remember To Forget
+TTITLE16=Uh Huh Honey
+TTITLE17=Mound of Clay
+TTITLE18=Tongue Tied Jill
+TTITLE19=Gone Gone Gone
+TTITLE20=Two To Choose
+TTITLE21=Too Much Alike (alt)
+TTITLE22=Send Me The Pillow That You Dream On
+TTITLE23=Folsom Prison Blues
+EXTD=
+EXTT0=1955 (Feathers]\nCarlin Music Corp.
+EXTT1=1955 (Claunch/Cantrell]\n     Knox Music
+EXTT2=1955 (Claunch/Cantrell]\n     Hi Lo Music
+EXTT3=1955 (Claunch/Cantrell) \n     Knox Music
+EXTT4=1955 (Feathers - Kesler)
+EXTT5=1956 (Feathers/Chastain/Huffman) \n           Mar Kay Music
+EXTT6=1956 (Feathers/Chastain/Huffman) \n           Mar Kay Music
+EXTT7=1956 (Feathers/Chastain/Huffman) \n           Mar Kay Music
+EXTT8=1956 (Feathers/Chastain/Huffman) \n           Mar Kay Music
+EXTT9=1956 (Feathers/Chastain/Huffman) \n           Mar Kay Music
+EXTT10=1957 (Feathers/Chastain/Huffman) \n           Mar Kay Music
+EXTT11=1957 (Feathers/Chastain/Huffman) \n           Mar Kay Music
+EXTT12=1957 (Feathers/Chastain/Huffman) \n           Mar Kay Music
+EXTT13=1957 (Feathers/Chastain/Huffman) \n           Mar Kay Music
+EXTT14=1958 (Feathers/Claunch/Cantrell)
+EXTT15=1979 (Kesler/Feathers)
+EXTT16=1979 (Inman) Copyright Control
+EXTT17=1979 (Acuff)  Copyright Control
+EXTT18=1979 (Chastain/Huffman) \n  Redneck Music
+EXTT19=1979 (Perkins) Knox Music
+EXTT20=1979 (Feathers]\n Redneck Music
+EXTT21=1991 (Feathers/Chastain/Huffman) \n           Mar Kay Music
+EXTT22=® 1979 (Locklin)
+EXTT23=1977 (Cash]\nCarlin Music Corp.
+PLAYORDER=

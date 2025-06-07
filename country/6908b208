@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	21580
+#	32932
+#	43197
+#	56597
+#	76357
+#	92767
+#	109197
+#
+# Disc length: 2228 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.07
+#
+DISCID=6908b208
+DTITLE=John Denver - Rocky Mountain High
+DYEAR=1900
+DGENRE=
+TTITLE0=Rocky Mountain High
+TTITLE1=Paradise
+TTITLE2=Darcy Farrow
+TTITLE3=Mother Nature's Son
+TTITLE4=For Baby (For Bobbie)
+TTITLE5=Prisoners
+TTITLE6=Goodbye Again
+TTITLE7=Season Suite
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

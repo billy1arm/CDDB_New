@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	182
+#	16555
+#	35360
+#	52705
+#	70285
+#	85770
+#	103525
+#	115870
+#	132292
+#	152385
+#
+# Disc length: 2271 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL1
+#
+DISCID=6808dd0a
+DTITLE=Daniele Alexander - I Dream In Color
+DYEAR=1900
+DGENRE=
+TTITLE0=It Wasn't You, It Wasn't Me
+TTITLE1=Two Days A Week
+TTITLE2=How Dreams Get Started
+TTITLE3=Misty Blue
+TTITLE4=Bridge To Yesterday
+TTITLE5=I Dream In Color
+TTITLE6=I Know What I Do Know
+TTITLE7=Take Time
+TTITLE8=Who Can She Turn To
+TTITLE9=Where Did We Go
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

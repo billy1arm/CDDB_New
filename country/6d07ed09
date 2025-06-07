@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	15730
+#	29513
+#	50268
+#	63328
+#	76653
+#	92875
+#	115903
+#	129640
+#
+# Disc length: 2031 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=6d07ed09
+DTITLE=Dan Seals - Early Dan Seals
+DYEAR=1900
+DGENRE=
+TTITLE0=My Baby's Got Good Timing
+TTITLE1=Three Time Loser
+TTITLE2=On The Frontline
+TTITLE3=She Thinks I Still Care
+TTITLE4=Lullaby (Duet With Emmylou Harris)
+TTITLE5=My Old Yellow Car
+TTITLE6=You Still Move Me
+TTITLE7=Oh These Nights
+TTITLE8=In San Antone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

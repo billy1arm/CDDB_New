@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20194
+#	48146
+#	76098
+#	100185
+#	146887
+#	170289
+#	208889
+#
+# Disc length: 3216 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=680c8e08
+DTITLE=Loreena McKennitt - The Book Of Secrets
+DYEAR=1997
+DGENRE=Folklore
+TTITLE0=Prologue
+TTITLE1=The Mummers` Dance
+TTITLE2=Skelling
+TTITLE3=Marco Polo
+TTITLE4=The Highwayman
+TTITLE5=La Serenissima
+TTITLE6=Night Ride Across The Caucasus
+TTITLE7=Dante`s Praver
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  10152
+#  20862
+#  30900
+#  46597
+#  57922
+#  70550
+#  82035
+#  92272
+#  102275
+#
+# Disc length: 1496 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.10
+#
+DISCID=6905d60a
+DTITLE=Patsy Cline - Patsy Cline Sings More Great Songs of Love
+DYEAR=1900
+DGENRE=
+TTITLE0=Heartaches
+TTITLE1=Your Cheatin' Heart
+TTITLE2=Seven Lonely Days
+TTITLE3=Why Can't He Be You
+TTITLE4=Half as Much
+TTITLE5=You Made Me Love You
+TTITLE6=Your Kinda Love
+TTITLE7=That's How a Heartache Begins
+TTITLE8=Have You Ever Been Lonely
+TTITLE9=Lovin' in Vain
+EXTD=
+EXTT0=Patsy Cline
+EXTT1=Patsy Cline
+EXTT2=Patsy Cline
+EXTT3=Patsy Cline
+EXTT4=Patsy Cline
+EXTT5=Patsy Cline
+EXTT6=Patsy Cline
+EXTT7=Patsy Cline
+EXTT8=Patsy Cline
+EXTT9=Patsy Cline
+PLAYORDER=

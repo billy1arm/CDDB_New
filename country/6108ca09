@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15000
+#	31510
+#	45882
+#	63595
+#	88075
+#	104385
+#	118685
+#	135660
+#
+# Disc length: 2252 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=6108ca09
+DTITLE=Charlie Daniels Band - Million Mile Reflections
+DYEAR=1979
+DGENRE=Southern Rock
+TTITLE0=Passing Lane
+TTITLE1=Blue Star
+TTITLE2=Jitterbug
+TTITLE3=Behind Your Eyes
+TTITLE4=Reflections
+TTITLE5=The Devil Went Down To Georgia
+TTITLE6=Mississippi
+TTITLE7=Blind Man
+TTITLE8=Rainbow Ride
+EXTD=YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12952
+#	23782
+#	33747
+#	49229
+#	65276
+#	72968
+#	82233
+#
+# Disc length: 1353 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=6a054708
+DTITLE=Dinamita pa los pollos - Bourbon y otros exitos
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Bourbon
+TTITLE1=Cantante de country
+TTITLE2=Rancho de pollos
+TTITLE3=Pandilleros
+TTITLE4=7 novias para 7 hermanos
+TTITLE5=18 ruedas
+TTITLE6=Locomotion
+TTITLE7=Un agujero en el bolsillo
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

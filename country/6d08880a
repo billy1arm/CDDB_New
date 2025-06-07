@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13625
+#     30812
+#     48077
+#     61675
+#     79150
+#     94195
+#     115115
+#     131405
+#     147752
+# 
+# Disc length: 2186 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6d08880a
+DTITLE=Jon Vezner - Who's Gonna Know
+DYEAR=1900
+DGENRE=
+TTITLE0=Whole Lotta Holes
+TTITLE1=Has Anybody Seen Amy
+TTITLE2=Something Still
+TTITLE3=Time Passes By
+TTITLE4=Where've You Been
+TTITLE5=If I Didn't Love You
+TTITLE6=Don't Let That Hat Go To Your Head
+TTITLE7=The Show
+TTITLE8=I'll Fly Again
+TTITLE9=Who's Gonna Know
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     9925
+#     25612
+#     39110
+#     49407
+#     61267
+#     71727
+#     84792
+#     97887
+#     111317
+# 
+# Disc length: 1639 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=6d06650a
+DTITLE=Roy Clark - Rockin' In The Country
+DYEAR=1900
+DGENRE=
+TTITLE0=Menphis
+TTITLE1=Linda Lou
+TTITLE2=Too Much Monkey Business
+TTITLE3=Don't Mess Around Mama
+TTITLE4=Johnny B. Goode
+TTITLE5=Night Life
+TTITLE6=Juke Box Saturday Night
+TTITLE7=Candy Man
+TTITLE8=Tobacco Road
+TTITLE9=Chantilly Lace
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

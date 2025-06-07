@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11035
+#	20870
+#	38150
+#	47930
+#	62642
+#	73877
+#	83820
+#
+# Disc length: 1273 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=6e04f708
+DTITLE=The Kendalls - Heaven's Just A Sin Away
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Heaven's Just A Sin Away
+TTITLE1=When The Morning Comes
+TTITLE2=Don't Let Me Cross Over
+TTITLE3=I'll Be Hurtin' Either Way
+TTITLE4=Makin' Believe
+TTITLE5=Falling In Love
+TTITLE6=We'll Be Gone
+TTITLE7=Don't Call Me Your Only Sunshine
+EXTD=YEAR: 2001  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

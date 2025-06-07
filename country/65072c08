@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14772
+#	30575
+#	48755
+#	64967
+#	86265
+#	103962
+#	121415
+#
+# Disc length: 1838 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=65072c08
+DTITLE=Various Artist - The Edge
+DYEAR=1900
+DGENRE=
+TTITLE0=That's Not Me
+TTITLE1=Patient Heart
+TTITLE2=Sunday In Memphis
+TTITLE3=Talk To Me
+TTITLE4=Wake Up Screaming
+TTITLE5=Inclemency
+TTITLE6=Throwin' Rocks At The Moon
+TTITLE7=If She Don't Love You
+EXTD=
+EXTT0=Jack Ingram
+EXTT1=Bekka and Billy
+EXTT2=Big House
+EXTT3=Lee Ann Womack
+EXTT4=Gary Allan
+EXTT5=Farmer's Daughter
+EXTT6=The Backsliders
+EXTT7=The Buffalo Club
+PLAYORDER=

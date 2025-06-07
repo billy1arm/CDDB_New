@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13655
+#  24880
+#  37652
+#  47832
+#  59537
+#  71132
+#  80327
+#  93237
+#  105172
+#
+# Disc length: 1512 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.13
+#
+DISCID=6d05e60a
+DTITLE=Jim Reeves - Lassoes'n Spurs
+DYEAR=1900
+DGENRE=
+TTITLE0=Danny Boy
+TTITLE1=My Happiness
+TTITLE2=Roses Are Red (My Love)
+TTITLE3=Is It Really Over
+TTITLE4=Penny Candy
+TTITLE5=Highway To Nowhere
+TTITLE6=I Won't Forget You
+TTITLE7=You'll Never Know
+TTITLE8=Blue Canadian Rockies
+TTITLE9=From A Jack To A King
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=
