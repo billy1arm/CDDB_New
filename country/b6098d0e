@@ -1,0 +1,59 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	11625
+#	27567
+#	40640
+#	51530
+#	63467
+#	79280
+#	91750
+#	105220
+#	115870
+#	131980
+#	146085
+#	160122
+#	172852
+#
+# Disc length: 2447
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 1.21
+# Normalized: r2:DSETVAR1,TDELIM( - );r3:TSWAP
+#
+DISCID=b6098d0e
+DTITLE=Various Artist - Mr Music Country 6-92
+DYEAR=1992
+DGENRE=Country
+TTITLE0=Bill Arwood - On The Edge Of Leaving
+TTITLE1=Charlie Daniels - Talk To Me Fiddle
+TTITLE2=David Allan Coe - Take My Advice
+TTITLE3=Mary Chapin Carpenter - Down In Mary's Land
+TTITLE4=Kenny Wilson - Savannah
+TTITLE5=George Jones - I'm Going Home Like I Never Did Before
+TTITLE6=Keith Palmer - My Arms Tonight
+TTITLE7=Diana Murrell Janson - You'll Be There
+TTITLE8=Larry James - Bone Dry
+TTITLE9=The O'Kanes - Climbing Mountains
+TTITLE10=Collin Raye - All I Can Be (Is A Sweet Memory)
+TTITLE11=Joe Diffie - Startin' Over Blues
+TTITLE12=Tammy Wynette - One Stone At A Time
+TTITLE13=Ricky van Shelton with George Jones - It Hurts As Much In Texas (As Is Did In Tennessee)
+EXTD=www.timmie.dk
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

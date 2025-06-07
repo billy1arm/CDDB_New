@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14524
+#	30695
+#	48663
+#	65785
+#	81364
+#	98764
+#	115300
+#	130642
+#	142299
+#	154447
+#	176866
+#
+# Disc length: 2623 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=b40a3d0c
+DTITLE=Fernan Enriquez - Haunting Melodies
+DYEAR=1900
+DGENRE=Native American
+TTITLE0=The Rose
+TTITLE1=The Sound Of Silence
+TTITLE2=The House Of The Rising Sun
+TTITLE3=Unchained Melody
+TTITLE4=Danny Boy
+TTITLE5=Nights In White Satin
+TTITLE6=El Condor Pasa
+TTITLE7=Amazing Grace
+TTITLE8=Feelings
+TTITLE9=Scarborough Fair
+TTITLE10=Always On My Mind
+TTITLE11=My Heart Will Go On
+EXTD=ID3G: 64
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

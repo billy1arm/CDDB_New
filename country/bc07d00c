@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	12482
+#	30535
+#	41857
+#	56822
+#	73720
+#	85447
+#	97352
+#	107517
+#	116887
+#	127392
+#	144487
+#
+# Disc length: 2002 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=bc07d00c
+DTITLE=Jerry Jeff Walker - Christmas Gonzo Style
+DYEAR=1900
+DGENRE=
+TTITLE0=I'll Be Home For Christmas
+TTITLE1=I'm Dreaming of A White Christmas
+TTITLE2=Santa Claus Is Coming To Town
+TTITLE3=The Christmas Song (Chestnuts Roasting...)
+TTITLE4=Here Comes Santa Claus/Up On The Housetop (medley)
+TTITLE5=Rudolph The Red-Nosed Reindeer
+TTITLE6=Jingle Bells
+TTITLE7=Walking In A Winter Wonderland
+TTITLE8=Frosty The Snowman
+TTITLE9=Jingle Bell Rock
+TTITLE10=The Twelve Days Of Christmas
+TTITLE11=We Wish You A Merry Christmas
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13090
+#	26490
+#	37295
+#	51607
+#	62185
+#	74097
+#	84082
+#	95727
+#	108310
+#	123062
+#	137335
+#	148635
+#
+# Disc length: 2149 seconds
+#
+# Revision: 13
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=bb08630d
+DTITLE=Johnny Horton - Johnny Horton's Greatest Hits
+DYEAR=1987
+DGENRE=Country
+TTITLE0=North To Alaska
+TTITLE1=Whispering Pines
+TTITLE2=Johnny Reb
+TTITLE3=The Mansion You Stole
+TTITLE4=I'm Ready If You're Willing
+TTITLE5=When It's Springtime In Alaska (It's Forty Below)
+TTITLE6=Honky Tonk Man
+TTITLE7=The Battle Of New Orleans
+TTITLE8=All For The Love Of A Girl
+TTITLE9=Sink The Bismarck
+TTITLE10=Commanche (The Brave Horse)
+TTITLE11=Jim Bridger
+TTITLE12=Johnny Freedom
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=(It's Forty Below]\n
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=(The Brave Horse]\n
+EXTT11=
+EXTT12=
+PLAYORDER=

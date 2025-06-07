@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13367
+#	27920
+#	41735
+#	56652
+#	73202
+#	85530
+#	101382
+#	112452
+#	126677
+#	140297
+#	154335
+#
+# Disc length: 2270 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=b208dc0c
+DTITLE=Legends Of The West - Under The Western Sky
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Sioux City Sue
+TTITLE1=Walkin' The Floor Over You
+TTITLE2=I'm So Lonesome I Could Cry
+TTITLE3=Take Me Back To Tulsa
+TTITLE4=Honky Tonk Blues
+TTITLE5=Big Iron
+TTITLE6=Luckenbach Texas
+TTITLE7=I Walk The Line
+TTITLE8=My Heroes Have Always Been Cowboys
+TTITLE9=Ballad Of Jesse James
+TTITLE10=Along The Navajo Trail
+TTITLE11=Strawberry Run
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

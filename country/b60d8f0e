@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21317
+#	42152
+#	63385
+#	80485
+#	98717
+#	115205
+#	133260
+#	150517
+#	169385
+#	187982
+#	204897
+#	226245
+#	244965
+#
+# Disc length: 3473 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=b60d8f0e
+DTITLE=Various Artist - Native American Chant
+DYEAR=1900
+DGENRE=Native American
+TTITLE0=Night Songs
+TTITLE1=War Song
+TTITLE2=The Caller
+TTITLE3=Spot Song
+TTITLE4=Like A Snake
+TTITLE5=Hungry Dog
+TTITLE6=Harvest Dreams Part 1
+TTITLE7=Harvest Dreams Part 2
+TTITLE8=Flying Eagle
+TTITLE9=Eve of the Sun
+TTITLE10=Dancing Squaws
+TTITLE11=Crying Rabbit
+TTITLE12=Cry For Rain Part 1
+TTITLE13=Cry For Rain Part 2
+EXTD=ID3G:  64
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

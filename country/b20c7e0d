@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12446
+#	32509
+#	51786
+#	73777
+#	93901
+#	120992
+#	137175
+#	150600
+#	178214
+#	192225
+#	208738
+#	230604
+#
+# Disc length: 3200 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=b20c7e0d
+DTITLE=Black Lodge Singers - Tribute to the Elders
+DYEAR=1999
+DGENRE=Native American
+TTITLE0=Traditional Song 1
+TTITLE1=Traditional Song 2
+TTITLE2=Traditional Song 3
+TTITLE3=All the Dancers
+TTITLE4=Travel Song
+TTITLE5=Traditional Song 6
+TTITLE6=Traditional Song 7
+TTITLE7=Traditional Song 8
+TTITLE8=Traditional Song 9
+TTITLE9=Dancing and Being Happy
+TTITLE10=Traditional Blood Song
+TTITLE11=Forever More
+TTITLE12=Blessing Song
+EXTD=YEAR: 1999  ID3G:  64
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

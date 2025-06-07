@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19600
+#	36250
+#	49537
+#	64277
+#	78642
+#	98100
+#	109150
+#	125565
+#	143605
+#	156890
+#	172720
+#	185937
+#	203660
+#
+# Disc length: 2940 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=bb0b7a0e
+DTITLE=Hot Hits Country Jukebox Edition - Country Hot Hits #09
+DYEAR=1900
+DGENRE=
+TTITLE0=Shameless
+TTITLE1=Like We Never Had A Broken Heart
+TTITLE2=What Would I Do With Me - (Without You)
+TTITLE3=You Don't Count The Cost
+TTITLE4=Eagle When She Flies
+TTITLE5=For My Broken heart
+TTITLE6=For Crying Out Loud
+TTITLE7=A Picture Of Me Without You
+TTITLE8=Look At Us
+TTITLE9=My Next Broken Heart
+TTITLE10=The Chill Of An Early Fall
+TTITLE11=Cadillac Style
+TTITLE12=Leave Him Out Of This
+TTITLE13=Then Again
+EXTD=
+EXTT0=Brooks - Garth
+EXTT1=Yearwood - Trisha
+EXTT2=Tucker - Tanya
+EXTT3=Dean - Billy
+EXTT4=Parton - Dolly
+EXTT5=McEntire - Reba
+EXTT6=Davis - Daniel
+EXTT7=Morgan - Lorrie
+EXTT8=Gill - Vince
+EXTT9=Brooks and Dunn
+EXTT10=Strait - George
+EXTT11=Kershaw - Sammy
+EXTT12=Wariner - Steve
+EXTT13=Alabama
+PLAYORDER=

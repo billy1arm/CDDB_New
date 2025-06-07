@@ -1,0 +1,57 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	15579
+#	25822
+#	41441
+#	52367
+#	65628
+#	81154
+#	92759
+#	107991
+#	119272
+#	132351
+#	143686
+#	156087
+#
+# Disc length: 2202 seconds
+#
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+#
+DISCID=b108980d
+DTITLE=Charles Trenet - No 2 - Les Eternels vol. 16
+DYEAR=1941
+DGENRE=Chanson
+TTITLE0=Papa Pique Et Maman Coud
+TTITLE1=Un Rien Me Fait Chanter
+TTITLE2=Bonsoir Jolie Madame
+TTITLE3=La Cigale Et La Fourmi
+TTITLE4=La Romance De Paris
+TTITLE5=Swing Troubadour
+TTITLE6=Tout Ca C'est Pour Nous
+TTITLE7=Le Temps Des Cerises
+TTITLE8=Sur Le Fil
+TTITLE9=Le Soleil A Des Rayons De Pluie
+TTITLE10=Devant La Mer
+TTITLE11=Frederica
+TTITLE12=Le Bonheur Ne Passe Qu'une Fois
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

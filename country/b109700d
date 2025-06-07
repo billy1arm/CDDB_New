@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14625
+#	25500
+#	41775
+#	56850
+#	71625
+#	90075
+#	103237
+#	117787
+#	129225
+#	141412
+#	154312
+#	164400
+#
+# Disc length: 2418 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b109700d
+DTITLE=Gunsmoke - West Of The Moon
+DYEAR=1992
+DGENRE=Country
+TTITLE0=Dynamite
+TTITLE1=Sent To The City
+TTITLE2=Simple Heart
+TTITLE3=Heart To Heart
+TTITLE4=West On The Moon
+TTITLE5=Shooting Sam
+TTITLE6=Heading Down The Highway
+TTITLE7=Out Of Love
+TTITLE8=Jack And Jill
+TTITLE9=Best Friend
+TTITLE10=Out Of Your Mind
+TTITLE11=Rosie's Bar
+TTITLE12=Mountain Dew
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

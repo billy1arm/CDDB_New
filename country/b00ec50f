@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17335
+#	37669
+#	58307
+#	78151
+#	100628
+#	123841
+#	137028
+#	157767
+#	173982
+#	193928
+#	211529
+#	225471
+#	245065
+#	257486
+#
+# Disc length: 3783 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=b00ec50f
+DTITLE=Lost Weekend - Harbor Lights And Cowboy Blues
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Cowboy Blues
+TTITLE1=A Malden's Prayer
+TTITLE2=Baby That Sure Would Go Good
+TTITLE3=New Panhandle Rag
+TTITLE4=South
+TTITLE5=Harbor Lights
+TTITLE6=Won't You Ride In My Little Red Wagon
+TTITLE7=What A Little Moonlight Can Do
+TTITLE8=Beaumont Rag
+TTITLE9=Dinah
+TTITLE10=You're Okay
+TTITLE11=Jesusita - Jesse Polka
+TTITLE12=Take The "A" Train
+TTITLE13=Cowboy Waltz
+TTITLE14=Faded Love
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

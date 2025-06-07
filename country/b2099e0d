@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13280
+#	29565
+#	44780
+#	59857
+#	75485
+#	85795
+#	97632
+#	108610
+#	125232
+#	143642
+#	158985
+#	170315
+#
+# Disc length: 2464 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=b2099e0d
+DTITLE=Buddy Miller - Your Love and Other Lies
+DYEAR=1995
+DGENRE=Country
+TTITLE0=You Wrecked Up My Heart
+TTITLE1=Don't Listen to the Wind
+TTITLE2=That's How I Got to Memphis
+TTITLE3=I'm Pretending
+TTITLE4=Through the Eyes of a Broken Heart
+TTITLE5=I Don't Mean Maybe
+TTITLE6=Hold On My Love
+TTITLE7=Hole in My Head
+TTITLE8=Watching Amy Dance
+TTITLE9=I Can't Slow Down
+TTITLE10=My Love Will Follow You
+TTITLE11=You're Running Wild
+TTITLE12=A Girl Like You
+EXTD=YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

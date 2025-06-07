@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11650
+#     23357
+#     37532
+#     48822
+#     63772
+#     82222
+#     99640
+#     111129
+#     124455
+#     134575
+#     145382
+#     159712
+#     174612
+# 
+# Disc length: 2461 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b7099b0e
+DTITLE=Various Artist - Country Music 2
+DYEAR=1900
+DGENRE=
+TTITLE0=9.999.999 Tears (Razzy Bailey)
+TTITLE1=I Hope So (Willie Nelson)
+TTITLE2=Sylvie Marie (Inger Nordstrom and Rhinestone Band)
+TTITLE3=Tom Dooley (Original Kingston Trio)
+TTITLE4=For The Good Times (Kenny Rogers)
+TTITLE5=Waycross Georgia Blues (Alan Borders)
+TTITLE6=I Don t Know What Love Is (Billie Davis and Albert Lee)
+TTITLE7=Angel Band (Porter Wagoner)
+TTITLE8=One Kiss (For Old Times Sake) (Ronnie Dove)
+TTITLE9=Blue Moon Of Kentucky (Bill Monroe)
+TTITLE10=Blue Eyes Crying In The Wind (Ace Cannon)
+TTITLE11=I Dreamed Of Hillbilly Heaven (Tex Ritter)
+TTITLE12=Thief Of Hearts (Joni Bishop)
+TTITLE13=A Thing Called Love (Jimmy Dean)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14866
+#	28839
+#	40897
+#	78460
+#	90551
+#	117907
+#	130309
+#	169819
+#	185331
+#	199966
+#	211054
+#	226164
+#	242053
+#
+# Disc length: 3465 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=bd0d870e
+DTITLE=Sean Wilson - Sings Some Old Some New
+DYEAR=1900
+DGENRE=Country
+TTITLE0=The Leaving of Liverpool
+TTITLE1=A Cottage on the Border between Galway and Mayo
+TTITLE2=Mother's Chair
+TTITLE3=Foxtrot Medley
+TTITLE4=I Know You Are Near
+TTITLE5=Waltz Medley
+TTITLE6=My One and Only Girl from Donegal
+TTITLE7=Quick Step Medley
+TTITLE8=Lough Erins Lovely shore
+TTITLE9=Sing me Lovely Leitrim
+TTITLE10=Happy Anniversary
+TTITLE11=Lovely Derry on the Banks of the Foyle
+TTITLE12=Make it my Own
+TTITLE13=Galway Bay
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

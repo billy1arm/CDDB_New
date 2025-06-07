@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9547
+#	18120
+#	29565
+#	38445
+#	48755
+#	59647
+#	72377
+#	85715
+#	97805
+#	108727
+#	119042
+#	130190
+#	140302
+#
+# Disc length: 2037 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b607f30e
+DTITLE=Various Artist - A Tribute to Hank Williams
+DYEAR=1995
+DGENRE=Country
+TTITLE0=Merle Haggard - Moanin' The Blues
+TTITLE1=Faron Young - Hey, Good Lookin'
+TTITLE2=George Jones and Melba Montgomery - House Of Gold
+TTITLE3=Wanda Jackson - Jambalaya (On The Bayou)
+TTITLE4=Willie Nelson - There'll Be No Teardrops Tonight
+TTITLE5=Sonny James - Lovesick Blues
+TTITLE6=Jody Miller - Your Cheatin' Heart
+TTITLE7=George Jones - Wedding Bells
+TTITLE8=Tennessee Ernie Ford - May You Never Be Alone
+TTITLE9=Nitty Gritty Dirt Band - Honky Tonk Blues
+TTITLE10=Rose Maddox - Move It On Over
+TTITLE11=Glen Campbell - I'm So Lonesome I Could Cry
+TTITLE12=Ferlin Husky - Why Should We Try Anymore
+TTITLE13=Asleep At The Wheel - I'll Never Get Out Of This World Alive
+EXTD=YEAR: 1995
+EXTT0=Merle Haggard\n
+EXTT1=Faron Young\n
+EXTT2=George Jones and Melba Montgomery\n
+EXTT3=Wanda Jackson\n
+EXTT4=Willie Nelson\n
+EXTT5=Sonny James\n
+EXTT6=Jody Miller\n
+EXTT7=George Jones\n
+EXTT8=Tennessee Ernie Ford\n
+EXTT9=Nitty Gritty Dirt Band\n
+EXTT10=Rose Maddox\n
+EXTT11=Glen Campbell\n
+EXTT12=Ferlin Husky\n
+EXTT13=Asleep At The Wheel\n
+PLAYORDER=

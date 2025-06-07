@@ -1,0 +1,313 @@
+# xmcd
+#
+# Track frame offsets: 
+#        150
+#        2970
+#        5217
+#        6937
+#        9635
+#        12445
+#        15807
+#        18940
+#        20915
+#        23835
+#        26807
+#        29202
+#        32612
+#        36550
+#        39705
+#        41142
+#        43495
+#        46277
+#        50147
+#        53252
+#        56457
+#        58707
+#        62145
+#        65650
+#        69332
+#        71787
+#        74897
+#        76892
+#        80577
+#        82897
+#        86010
+#        90272
+#        92935
+#        98257
+#        101435
+#        105252
+#        107200
+#        110422
+#        114492
+#        120215
+#        124215
+#        128875
+#        133522
+#        135347
+#        138030
+#        140542
+#        148162
+#        154970
+#        157202
+#        160492
+#        163885
+#        168432
+#        172450
+#        175392
+#        179110
+#        183302
+#        186825
+#        190117
+#        193142
+#        196442
+#        199932
+#        202585
+#        206935
+#        212065
+#        215640
+#        219392
+#        224152
+#        227937
+#        230655
+#        233657
+#        235725
+#        238075
+#        241060
+#        244385
+#        249610
+#        252060
+#        254800
+#        257317
+#        259715
+#        262712
+#        265265
+#        271700
+#        278057
+#        280330
+#        282917
+#        286600
+#        290110
+#        293500
+#        297135
+#        300822
+#        303877
+#        308787
+#        313807
+#        315780
+#        319562
+#        323250
+#        326317
+#        329965
+#        333177
+#
+# Disc length: 4492 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: ExactAudioCopy v0.99pb5
+#
+DISCID=be118a63
+DTITLE=Jean C. Roché - Oiseaux de votre jardin  - guide sonore
+DYEAR=2007
+DGENRE=Bird Songs
+TTITLE0=Cigogne blanche
+TTITLE1=Faucon crecerellette
+TTITLE2=Faucon crecerelle
+TTITLE3=Tourterelle turque
+TTITLE4=Tourterelle des bois
+TTITLE5=Pigeon biset de ville
+TTITLE6=Pigeon colombin
+TTITLE7=Pigeon ramier
+TTITLE8=Coucou gris
+TTITLE9=Chouette effraie
+TTITLE10=Hibou petit duc
+TTITLE11=Chouette hulotte
+TTITLE12=Chouette cheveche
+TTITLE13=Martinet noir
+TTITLE14=Martinet pale
+TTITLE15=Huppe fasciee
+TTITLE16=Torcol
+TTITLE17=Pic vert
+TTITLE18=Pic epeiche
+TTITLE19=Pic syriaque
+TTITLE20=Pic epeichette
+TTITLE21=Cochevis huppe
+TTITLE22=Alouette des champs
+TTITLE23=Hirondelle de cheminee
+TTITLE24=Hirondelle rousseline
+TTITLE25=Hirondelle de fenetre
+TTITLE26=Bergeronnette grise
+TTITLE27=Troglodyte
+TTITLE28=Accenteur mouchet
+TTITLE29=Agrobate roux
+TTITLE30=Rougegorge
+TTITLE31=Rossignol progne
+TTITLE32=Rossignol philomele
+TTITLE33=Rougequeue noir
+TTITLE34=Rougequeue a front blanc
+TTITLE35=Traquet patre
+TTITLE36=Traquet rieur
+TTITLE37=Merle bleu
+TTITLE38=Merle noir
+TTITLE39=Grive litorne
+TTITLE40=Grive misicienne
+TTITLE41=Grive draine
+TTITLE42=Bouscarle de cetti
+TTITLE43=Hypolais pale
+TTITLE44=Hypolais des oliviers
+TTITLE45=Hypolais icterine
+TTITLE46=Hypolais polyglotte
+TTITLE47=Fauvette passerinette
+TTITLE48=Fauvette melanocephale
+TTITLE49=Fauvette orphee
+TTITLE50=Fauvette orphee orientale
+TTITLE51=Fauvette eperviere
+TTITLE52=Fauvette babillarde
+TTITLE53=Fauvette grisette
+TTITLE54=Fauvette des jardins
+TTITLE55=Fauvette a tete noire
+TTITLE56=Pouillot veloce
+TTITLE57=Pouillot fitis
+TTITLE58=Roitelet huppe
+TTITLE59=Roitelet triple bandeau
+TTITLE60=Gobemouche gris
+TTITLE61=Gobemouche noir
+TTITLE62=Mesange nonnette
+TTITLE63=Mesange huppee
+TTITLE64=Mesange noire
+TTITLE65=Mesange bleue
+TTITLE66=Mesange charbonniere
+TTITLE67=Mesange a longue queue
+TTITLE68=Sittelle torchepot
+TTITLE69=Grimpereau des bois ou familier
+TTITLE70=Grimpereau des jardins ou brachydactyle
+TTITLE71=Loriot d'Europe
+TTITLE72=Pie-grieche ecorcheur
+TTITLE73=Pie-grieche a tete rousse
+TTITLE74=Geai des chenes
+TTITLE75=Pie bleue
+TTITLE76=Pie bavarde
+TTITLE77=Choucas
+TTITLE78=Corbeau freux
+TTITLE79=Corneille noire
+TTITLE80=Etourneau sansonnet
+TTITLE81=Etourneau unicolore
+TTITLE82=Moineau domestique
+TTITLE83=Moineau friquet
+TTITLE84=Moineau soulcie
+TTITLE85=Pinson des arbres
+TTITLE86=Serin cini
+TTITLE87=Verdier
+TTITLE88=Chardonneret
+TTITLE89=Tarin des aulnes
+TTITLE90=Linotte melodieuse
+TTITLE91=Sizerin flamme
+TTITLE92=Roselin cramoisi
+TTITLE93=Bouvreuil pivoine
+TTITLE94=Grosbec
+TTITLE95=Bruant jaune
+TTITLE96=Brant zizi
+TTITLE97=Bruant ortolan
+TTITLE98=Bruant melanocephale
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=

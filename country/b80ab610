@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 13195
+# 21507
+# 37335
+# 50340
+# 68400
+# 77250
+# 90055
+# 99210
+# 114460
+# 126267
+# 138112
+# 151242
+# 168282
+# 181500
+# 193082
+#
+# Disc length: 2744 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b3
+#
+DISCID=b80ab610
+DTITLE=Various Artist - Christmas In The Country
+DYEAR=1900
+DGENRE=
+TTITLE0=Hark The Herald Angels Sing
+TTITLE1=Jolly Old Saint Nicholas
+TTITLE2=White Christmas
+TTITLE3=Jingle Bells
+TTITLE4=It Came Upon A Midnight Clear
+TTITLE5=Up On The Housetop
+TTITLE6=Silent Night
+TTITLE7=Sleigh Ride
+TTITLE8=Blue Christmas
+TTITLE9=Deck The Halls
+TTITLE10=O Christmas Tree
+TTITLE11=We Wish You A Merry Christmas
+TTITLE12=I Heard The Bells On Christmas Day
+TTITLE13=O Little Town Of Bethlehem
+TTITLE14=I'll Be Home For Christmas
+TTITLE15=Let It Snow, Let It Snow
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     5110
+#     29510
+#     49650
+#     68515
+#     95375
+#     120410
+#     146105
+#     169912
+#     184262
+#     203015
+#     217585
+#     245592
+# 
+# Disc length: 3575 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=b20df50d
+DTITLE=Albert Lee and Hogan's Heroes - Live at Montreux
+DYEAR=1900
+DGENRE=
+TTITLE0=Intro
+TTITLE1=Sweet Little Lisa
+TTITLE2=Just Because
+TTITLE3=Evangelina
+TTITLE4=One Way Rider
+TTITLE5=Cannon Ball
+TTITLE6=Seventeenth Summer
+TTITLE7=The Highwayman
+TTITLE8=Real Wild Child
+TTITLE9=Restless
+TTITLE10=Pink Bedroom
+TTITLE11=Country Boy
+TTITLE12=Tear Stained Letter
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

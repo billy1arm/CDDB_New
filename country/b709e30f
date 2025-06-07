@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10312
+#     24642
+#     38840
+#     51977
+#     65825
+#     77982
+#     90037
+#     102400
+#     115612
+#     129875
+#     142897
+#     154595
+#     166657
+#     176912
+# 
+# Disc length: 2533 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b709e30f
+DTITLE=Marcel Martel - Heritage quebecois
+DYEAR=1900
+DGENRE=
+TTITLE0=Quand le soleil dit bonjour
+TTITLE1=Adieu mauvaises reveries
+TTITLE2=Ton coeur est froid
+TTITLE3=Les trois cloches
+TTITLE4=Allo ma patrie
+TTITLE5=Lettre et souvenir
+TTITLE6=Mon coeur est comme un train
+TTITLE7=Dans mes bras ce soir
+TTITLE8=Tu dis que tu m'aimes
+TTITLE9=Mon amour a grandi
+TTITLE10=Fleurs du bon dieu
+TTITLE11=En prison maintenant
+TTITLE12=Un coin du ciel
+TTITLE13=Amenez moi la bas a panama
+TTITLE14=Il faudra m'oublier
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

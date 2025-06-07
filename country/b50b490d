@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     184
+#     21764
+#     35682
+#     49805
+#     66258
+#     87139
+#     103237
+#     113787
+#     138634
+#     154035
+#     171545
+#     183890
+#     198268
+# 
+# Disc length: 2891 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b50b490d
+DTITLE=The DitchDiggers - Cow Patty Bingo
+DYEAR=1900
+DGENRE=
+TTITLE0=Rocket Slide (Ballad of James J. Andrews)
+TTITLE1=Grandpa
+TTITLE2=I Don't Want To Know
+TTITLE3=You Win Again
+TTITLE4=Beauty Queen
+TTITLE5=Rock Star
+TTITLE6=Nothin' Yet
+TTITLE7=Belle Air
+TTITLE8=Redline
+TTITLE9=Diamond Ring
+TTITLE10=Lover On The Side
+TTITLE11=Down The Line
+TTITLE12=The Bottle
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=Written by Hank Williams\n
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

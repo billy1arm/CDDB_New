@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11592
+#	22285
+#	35115
+#	49642
+#	60812
+#	66760
+#	77087
+#	89725
+#	98050
+#	110655
+#	121527
+#	135250
+#	148670
+#
+# Disc length: 2143 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=b7085d0e
+DTITLE=Various Artist - Country Gratest CD3
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Donna Fargo The Happiest Girl In The Whole U.S.A
+TTITLE1=Waylon Jennings - Dream Baby
+TTITLE2=Billie Jo Spears - Dallas
+TTITLE3=Freddy Fender - Since I Met You Baby
+TTITLE4=Dolly Parton - What Do You Think About Loving
+TTITLE5=Jim Reeves - Have I Told You Lately That I Love
+TTITLE6=Gene Autry - Silver Spurs
+TTITLE7=Norma Jean - Let's Go All The Way
+TTITLE8=Del Reeves - Lay A Little Lovin' On Me
+TTITLE9=Alabama - I Go On Loving You
+TTITLE10=Buck Owens - Down On The Corner Of Love
+TTITLE11=Bobby Bare - Marie Leveau
+TTITLE12=David Houston - Almost Resuaded
+TTITLE13=George Jones - Take Me
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

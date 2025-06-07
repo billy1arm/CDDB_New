@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15877
+#	33385
+#	48262
+#	64975
+#	79987
+#	95950
+#	114950
+#	127085
+#	141082
+#	156095
+#	170300
+#	187705
+#	199122
+#
+# Disc length: 2857 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=b50b270e
+DTITLE=Hot Hits Country Jukebox Edition - Country Hot Hits #10
+DYEAR=1900
+DGENRE=
+TTITLE0=Jukebox With A Country Song - A
+TTITLE1=Love Me
+TTITLE2=Going Out Tonight
+TTITLE3=Turn That Radio On
+TTITLE4=After The Lights Go Out
+TTITLE5=I Know Where The Love Lives
+TTITLE6=Mama Don't Forget To Pray For Me
+TTITLE7=Whiskey Ain't Workin' - The
+TTITLE8=Broken Promise Land
+TTITLE9=Fighting For You
+TTITLE10=If You Want To Find Love
+TTITLE11=What Kind Of Fool
+TTITLE12=Month Of Sundays - A
+TTITLE13=I'll Stop Loving You
+EXTD=
+EXTT0=Stone - Doug
+EXTT1=Raye - Collin
+EXTT2=Carpenter - Mary Chapin
+EXTT3=Milsap - Ronnie
+EXTT4=Van Shelton - Ricky
+EXTT5=Ketchum - Hal
+EXTT6=Diamond Rio
+EXTT7=Tritt - Travis
+EXTT8=Chesnutt - Mark
+EXTT9=Pirates Of The Mississippi
+EXTT10=Rogers - Kenny
+EXTT11=Cartwright - Lionel
+EXTT12=Goadin - Vern
+EXTT13=Reid - Mike
+PLAYORDER=

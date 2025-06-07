@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12917
+#     22967
+#     34060
+#     48375
+#     60775
+#     70630
+#     80697
+#     93250
+#     104657
+#     118780
+#     128712
+#     140302
+#     152755
+#     166500
+#     177187
+# 
+# Disc length: 2500 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=bf09c210
+DTITLE=Various Artist - Country Legends
+DYEAR=1900
+DGENRE=
+TTITLE0=Folsom Prison Blues
+TTITLE1=Misery Mansion
+TTITLE2=Oh Lonesome Me
+TTITLE3=Rainy Day Blues
+TTITLE4=I Walk the Line
+TTITLE5=Man With the Blues
+TTITLE6=Ballad of a Teenage Queen
+TTITLE7=Shelter of My Arms
+TTITLE8=Big River
+TTITLE9=Will You Remember Mine?
+TTITLE10=Rock Island Line
+TTITLE11=Night Life
+TTITLE12=Give My Love to Rose
+TTITLE13=A Moment Isn't Very Long
+TTITLE14=Train of Love
+TTITLE15=Blame It on the Times
+EXTD=
+EXTT0=Johnny Cash
+EXTT1=Willie Nelson
+EXTT2=Johnny Cash
+EXTT3=Willie Nelson
+EXTT4=Johnny Cash
+EXTT5=Willie Nelson
+EXTT6=Johnny Cash
+EXTT7=Willie Nelson
+EXTT8=Johnny Cash
+EXTT9=Willie Nelson
+EXTT10=Johnny Cash
+EXTT11=Willie Nelson
+EXTT12=Johnny Cash
+EXTT13=Willie Nelson
+EXTT14=Johnny Cash
+EXTT15=Willie Nelson
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19395
+#	32877
+#	50537
+#	67457
+#	85360
+#	104470
+#	118642
+#	135142
+#	155492
+#	170925
+#	188997
+#
+# Disc length: 2815 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=b00afd0c
+DTITLE=Lee Kernaghan - Hat Town
+DYEAR=1998
+DGENRE=Country
+TTITLE0=Hat Town
+TTITLE1=Bare Essentials
+TTITLE2=Goondiwindi Moon
+TTITLE3=A Few of Us Left
+TTITLE4=When the Snow Falls on the Alice
+TTITLE5=Changi Banjo
+TTITLE6=Cowgirls Do
+TTITLE7=Gettin' Gone
+TTITLE8=Pass the Bottle 'Round
+TTITLE9=The Western Beat
+TTITLE10=Longreach
+TTITLE11=Lonelyville
+EXTD=YEAR: 1998 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

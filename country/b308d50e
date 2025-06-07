@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13030
+#     24133
+#     37485
+#     48258
+#     57830
+#     70145
+#     84395
+#     98845
+#     106975
+#     121835
+#     131043
+#     142980
+#     155415
+# 
+# Disc length: 2263 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b308d50e
+DTITLE=Various Artist - Doggone Country
+DYEAR=1900
+DGENRE=
+TTITLE0=Where Has My Little Dog Gone?
+TTITLE1=Tennessee Hound Dog
+TTITLE2=Dog
+TTITLE3=Bull Dog Down In Sunny Tennessee
+TTITLE4=Old Rattler
+TTITLE5=Dad Gave My Dog Away
+TTITLE6=Hound Dog
+TTITLE7=Ya Gotta Quit Kicking My Dog Aroun'
+TTITLE8=Old Blue
+TTITLE9=I Found My Best Friend In The Dog Pound
+TTITLE10=Fox Chase
+TTITLE11=The Poodle Dog Song
+TTITLE12=Old Shep
+TTITLE13=Oh Where Is My Little Dog Gone
+EXTD=
+EXTT0=Hoosier Hot Shots (1939]\n
+EXTT1=The Osborne Brothers (1977]\n
+EXTT2=The Eddie Adcock Band (1989]\n
+EXTT3=Dock Walsh with The Carolina Tar Heels \n(1962]\n
+EXTT4=Grandpa Jones (1976]\n
+EXTT5=T. Texas Tyler (1948]\n
+EXTT6=Hoosier Hot Shots (1960's]\n
+EXTT7=Gid Tanner and The Skillet Lickers (1926]\n
+EXTT8=Louisiana Honeydroppers (1960's]\n
+EXTT9=Burl Ives (1963]\n
+EXTT10=Earl Taylor and The Stony Mountain Boys \n(1959]\n
+EXTT11=Jimmie Davis (1950]\n
+EXTT12=The Stonemans (1981]\n
+EXTT13=Al Hopkins and The Bucklebusters (1927]\n
+PLAYORDER=

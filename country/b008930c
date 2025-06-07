@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15672
+#	26742
+#	43754
+#	57311
+#	73424
+#	83624
+#	94426
+#	111375
+#	125066
+#	138691
+#	153958
+#
+# Disc length: 2197 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 1.40Release
+#
+DISCID=b008930c
+DTITLE=Jesse Dayton - Tall Texas Tales
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Never Turned My Back on You
+TTITLE1=Every Now and Then
+TTITLE2=Jumped Head First
+TTITLE3=Creek Between Heaven and Hell
+TTITLE4=Harris County Blues
+TTITLE5=Molasses Girl
+TTITLE6=Arkansas Chrome (Duct Tape Song)
+TTITLE7=One Year, Three Months, A Week to the Day
+TTITLE8=Old Faithful
+TTITLE9=Angels Touch
+TTITLE10=The Room Full of Blues
+TTITLE11=BlackJack
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

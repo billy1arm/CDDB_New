@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12166
+#	23695
+#	37840
+#	58527
+#	71389
+#	83938
+#	97027
+#	109250
+#	119935
+#	129165
+#	140970
+#	150219
+#	160979
+#	175658
+#
+# Disc length: 2522 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bf09d80f
+DTITLE=Various Artist - Peace In The Valley
+DYEAR=2003
+DGENRE=Country
+TTITLE0=Jim Reeves - Peace In The Valley
+TTITLE1=Patsy Cline - Walkin' After Midnight
+TTITLE2=Woody Guthrie - Dusty Old Dust
+TTITLE3=Burl Ives - Jesse James
+TTITLE4=Roy Acuff and His Tennesseans - Jole Blon
+TTITLE5=Carter Family - The Mountains Of Tennessee
+TTITLE6=Slim Whitman - Red Sails In The Sunset
+TTITLE7=Kitty Wells - Lonely Side Of town
+TTITLE8=George Jones - (Your Tender Years) Tender Days
+TTITLE9=Faron Young - Hello Walls
+TTITLE10=Hank Williams - You Win Again
+TTITLE11=Johnny Cash - Luther Played The Boogie
+TTITLE12=Merle Haggard - Ida Red
+TTITLE13=Eddy Arnold - Rocking Alone In An Old Rockin' Chair
+TTITLE14=Delmore Brothers - Take It o The Captain
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

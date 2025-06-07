@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12564
+#	25995
+#	40682
+#	55904
+#	72088
+#	89102
+#	104664
+#	119064
+#	134990
+#	151426
+#	167884
+#
+# Disc length: 2501 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: ACXtractor (MTCDDB.DLL V2003.07.15)
+#
+DISCID=b609c30c
+DTITLE=Peter Coad - Outback Chapters
+DYEAR=2009
+DGENRE=Country
+TTITLE0=Back in a Cabin Again
+TTITLE1=Banjo and Henry
+TTITLE2=Old Time Photo
+TTITLE3=The Campbells
+TTITLE4=You've got to go West Young Fella
+TTITLE5=It's a Poor Sort of Man Who Won't Help his Neighbour
+TTITLE6=A Good Season
+TTITLE7=Outback Chapters
+TTITLE8=I Heard a Hillbilly song
+TTITLE9=Wilds of a Nation
+TTITLE10=The Old Saddle
+TTITLE11=The Lights of Cammooweal
+EXTD=ID3G:   2 YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

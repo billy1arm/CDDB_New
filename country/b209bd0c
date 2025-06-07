@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18085
+#	36740
+#	44927
+#	63067
+#	79760
+#	96795
+#	109090
+#	124895
+#	140045
+#	157167
+#	171675
+#
+# Disc length: 2495 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: ACXtractor (MTCDDB.DLL V2003.07.15)
+#
+DISCID=b209bd0c
+DTITLE=Martina McBride - White Christmas
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Do You Hear What I Hear
+TTITLE1=Have Yourself A Merry Little Christmas
+TTITLE2=Let It Snow, Let It Snow, Let It Snow
+TTITLE3=O Come All Ye Faithful
+TTITLE4=The Christmas Song (Chestnuts Roasting On An Open Fire)
+TTITLE5=O Holy Night
+TTITLE6=Silver Bells
+TTITLE7=Away In A Manger
+TTITLE8=White Christmas
+TTITLE9=What Child Is This
+TTITLE10=I'll Be Home For Christmas
+TTITLE11=Silent Night
+EXTD=ID3G:   2 YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

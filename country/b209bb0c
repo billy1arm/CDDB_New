@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18092
+#	36740
+#	44922
+#	63075
+#	79772
+#	96807
+#	109097
+#	124900
+#	140055
+#	157165
+#	171692
+#
+# Disc length: 2493 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b209bb0c
+DTITLE=Martina McBride - White Christmas
+DYEAR=1999
+DGENRE=Christmas
+TTITLE0=Do You Hear What I Hear
+TTITLE1=Have Yourself a Merry Little Christmas
+TTITLE2=Let It Snow, Let It Snow, Let It Snow
+TTITLE3=O Come All Ye Faithful
+TTITLE4=The Christmas Song (Chestnuts Roasting on an Open Fire)
+TTITLE5=O Holy Night
+TTITLE6=Silver Bells
+TTITLE7=Away in a Manger
+TTITLE8=White Christmas
+TTITLE9=What Child Is This
+TTITLE10=I'll Be Home for Christmas
+TTITLE11=Silent Night
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

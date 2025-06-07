@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16487
+#     34415
+#     50787
+#     64812
+#     80825
+#     97437
+#     121390
+#     137190
+#     152992
+#     168647
+#     183667
+# 
+# Disc length: 2621 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=bd0a3b0c
+DTITLE=Emilio Navaira - Lo Mejor De Lo Mejor
+DYEAR=1900
+DGENRE=
+TTITLE0=Qu date
+TTITLE1=D nde Andar ?
+TTITLE2=C mo Le Har ?
+TTITLE3=Ya Ahora Es Tarde
+TTITLE4=Eclipse
+TTITLE5=Lucero De Mi Alma
+TTITLE6=La Rama Del Mesquite
+TTITLE7=Juntos
+TTITLE8=Remedio De Amor
+TTITLE9=Sensaciones
+TTITLE10=Ya
+TTITLE11=Pienso En T 
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

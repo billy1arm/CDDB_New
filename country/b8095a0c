@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28930
+#	42375
+#	51120
+#	64062
+#	80220
+#	101992
+#	110280
+#	125400
+#	140030
+#	155115
+#	170115
+#
+# Disc length: 2396 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=b8095a0c
+DTITLE=The Gourds - Shinebox
+DYEAR=1998
+DGENRE=Alt. Country
+TTITLE0=Gin and Juice
+TTITLE1=Everybody's Missing the Sun
+TTITLE2=Dooley
+TTITLE3=Ziggy Stardust
+TTITLE4=Two Girls
+TTITLE5=Lament
+TTITLE6=Trampled by the Sun
+TTITLE7=Maria
+TTITLE8=Omaha
+TTITLE9=Jones Oh Jones
+TTITLE10=I'm Troubled
+TTITLE11=Plaid Coat
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

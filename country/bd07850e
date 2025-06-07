@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	12728
+#	22598
+#	32940
+#	40703
+#	51280
+#	59438
+#	69290
+#	80743
+#	91688
+#	103793
+#	116423
+#	125080
+#	133333
+#
+# Disc length: 1927 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=bd07850e
+DTITLE=Johnny Cash - I walk the line
+DYEAR=1900
+DGENRE=Country
+TTITLE0=I walk the line
+TTITLE1=Rock island line
+TTITLE2=You win again
+TTITLE3=Hey good lookin'
+TTITLE4=Cold cold heart
+TTITLE5=Sugartime
+TTITLE6=Born to lose
+TTITLE7=Big river
+TTITLE8=I hear that lonesome wind blow
+TTITLE9=Goodnight Irene
+TTITLE10=Folsom prison blues
+TTITLE11=I forgot to remember to forget
+TTITLE12=Wreck of the old 97
+TTITLE13=Oh lonesome me
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

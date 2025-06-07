@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14442
+#	27547
+#	42345
+#	56225
+#	73402
+#	88655
+#	104657
+#	119840
+#	133270
+#	151665
+#	168800
+#
+# Disc length: 2395 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=b109590c
+DTITLE=Diversos - Sertanejo and Forró JT 18
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Saudade da minha Terra (Belmonte e Amaraí)
+TTITLE1=João de Barro (Sérgio Reis)
+TTITLE2=Boneca Cobiçada (Palmeira e Biá)
+TTITLE3=Chalana (Mario Zan)
+TTITLE4=Mágoa de Boiadeiro (Pedro Bento e Zé da Estrada)
+TTITLE5=O Menino da Porteira (Luizinho e Limeira)
+TTITLE6=Flor do Cafezal (Cascatinha e Inhana)
+TTITLE7=Viola Cabloca (Tonico e Tinoco)
+TTITLE8=Não me Abandones (Irmãs Galvão)
+TTITLE9=Romaria (Renato Teixeira)
+TTITLE10=Rio de Lágrimas (Tavares e Zé Negrão)
+TTITLE11=Marvada Pinga (Inezita Barroso)
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

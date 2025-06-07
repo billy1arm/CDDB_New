@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	13436
+#	29952
+#	42600
+#	57426
+#	69856
+#	82389
+#	98593
+#	112225
+#	124346
+#	135060
+#	153538
+#	166665
+#
+# Disc length: 2423 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=ba09750d
+DTITLE=Various Artist - Prvni velky cesky country zpevnik - Special
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Bude to laskou
+TTITLE1=Svatojanska noc
+TTITLE2=Jambalaja
+TTITLE3=Ave Maria
+TTITLE4=Tam pod nebeskou bani
+TTITLE5=V nedeli o pul desate
+TTITLE6=V modrych tmach
+TTITLE7=Marie
+TTITLE8=Nekdy snim
+TTITLE9=Byla to tenkrat past
+TTITLE10=Zit pro lasku
+TTITLE11=Chci se vratit domu
+TTITLE12=Mesto jmenem Bethlehem
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

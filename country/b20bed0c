@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14937
+#	38050
+#	55262
+#	73950
+#	91225
+#	107775
+#	127062
+#	142712
+#	165717
+#	182962
+#	209300
+#
+# Disc length: 3055 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=b20bed0c
+DTITLE=Faith Hill - Love will always win
+DYEAR=1999
+DGENRE=Country
+TTITLE0=This Kiss
+TTITLE1=Love Will Always Win
+TTITLE2=Me
+TTITLE3=Let Me Let Go (Movie Version)
+TTITLE4=Love Ain't Like That
+TTITLE5=Piece Of My Heart
+TTITLE6=The Secret Of Life
+TTITLE7=Better Days
+TTITLE8=I Love You
+TTITLE9=The Hard Way
+TTITLE10=Somebody Stand By Me
+TTITLE11=Let Me Let Go (Bonus Track)
+EXTD=\nYEAR: 1999  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=Bonus Track
+PLAYORDER=

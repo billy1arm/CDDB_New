@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	255
+#	13545
+#	26212
+#	40307
+#	53372
+#	68035
+#	81885
+#	92008
+#	106028
+#	117855
+#	128528
+#	141832
+#	152263
+#	165327
+#	174262
+#	191251
+#
+# Disc length: 2726 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=b30aa310
+DTITLE=Various Artist - Western Movie Hits
+DYEAR=1900
+DGENRE=Country
+TTITLE0=The Good, The Bad and The Ugly - Ennio Morricone
+TTITLE1=The Magnificent Seven - Elmer Bernstein
+TTITLE2=Raindrops Keep Falling on My Head - B_Bacharach, H_David
+TTITLE3=Rio Bravo - Dimitri Tiomkin
+TTITLE4=Once Upon a Time in The West - Ennio Morricone
+TTITLE5=High Noon (Do not Farsake Me) - N_Washington, D_Tiomkin
+TTITLE6=Green Leaves of Summer (The Alamo) - P_F_Webster, D_Tiomkin
+TTITLE7=True Grit - Elmer Bernstein, D_Black
+TTITLE8=High Noon (instrumental) - N_Washington, D_Tiomkin
+TTITLE9=The Return of The Magnificant Seven - Elmer Bernstein
+TTITLE10=Shane - V_Young, M_David
+TTITLE11=The Comancheros - T_Franks
+TTITLE12=Hang`em High - Frontiere
+TTITLE13=How The West Was Won - A_Newman
+TTITLE14=Johnny Guitar - V_Young
+TTITLE15=A Man with The Harmonica - Ennio Morricone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

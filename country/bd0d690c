@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21285
+#	38912
+#	59802
+#	80097
+#	103582
+#	119990
+#	141652
+#	163947
+#	183895
+#	201955
+#	227177
+#
+# Disc length: 3435 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=bd0d690c
+DTITLE=John Cafferty and The Beaver Brown Band - Roadhouse
+DYEAR=1988
+DGENRE=Rock
+TTITLE0=Bound For Glory
+TTITLE1=Victory Dance
+TTITLE2=Song and Dance
+TTITLE3=Killing Time
+TTITLE4=Wheel Of Fortune
+TTITLE5=Burn The Roadhouse Down
+TTITLE6=Penetration
+TTITLE7=Wishing Well
+TTITLE8=Customary Thing
+TTITLE9=Hard Way To Go
+TTITLE10=Higher Ground
+TTITLE11=Road I'm Running
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

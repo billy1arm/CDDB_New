@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	14207
+#	29176
+#	45340
+#	58675
+#	73021
+#	86240
+#	99886
+#	115785
+#	129490
+#	144850
+#	157902
+#	172596
+#	185434
+#
+# Disc length: 2656 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NeoAudio 9.9.9
+#
+DISCID=b50a5e0e
+DTITLE=Límite - Partiéndome el Alma
+DYEAR=1996
+DGENRE=Tex-Mex
+TTITLE0=El Príncipe
+TTITLE1=Me Amarré El Corazón
+TTITLE2=Solo Contigo
+TTITLE3=Juguete
+TTITLE4=Me Duele Tanto
+TTITLE5=Mírame
+TTITLE6=Un Beso
+TTITLE7=Por No Saber De Tí
+TTITLE8=Ya No Insistas
+TTITLE9=Ay, Amor
+TTITLE10=Estoy Aquí
+TTITLE11=No Pude Sacarte De Mí
+TTITLE12=Atrévete
+TTITLE13=Una Carta Mas
+EXTD=YEAR: 1996
+EXTT0=El Pr ncipe \n
+EXTT1=Me Amarre El Coraz n\n
+EXTT2=S lo Contigo\n
+EXTT3=Jugete\n
+EXTT4=Me Duele Tanto\n
+EXTT5=M rame\n
+EXTT6=Un Beso\n
+EXTT7=Por no saber de ti\n
+EXTT8=Ya no insistas\n
+EXTT9=Ay, Amor\n
+EXTT10=Estoy aqu \n
+EXTT11=No pude sacarte de m \n
+EXTT12=Atr vete\n
+EXTT13=Una carta m s\n
+PLAYORDER=

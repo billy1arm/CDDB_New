@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11788
+#	26983
+#	40643
+#	58078
+#	73778
+#	87213
+#	101265
+#	116093
+#	130535
+#	146158
+#	158765
+#	173048
+#	191255
+#
+# Disc length: 2726 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=b80aa40e
+DTITLE=Hot Hits Country Jukebox Edition - Country Hot Hits #07
+DYEAR=1900
+DGENRE=
+TTITLE0=Here's A Quarter (Call Someone Who Cares)
+TTITLE1=Down At The Twist And Shout
+TTITLE2=Shadow Of A Doubt
+TTITLE3=Silver And Gold
+TTITLE4=Down To My Last Teardrop
+TTITLE5=Brand New Man
+TTITLE6=To Be With You
+TTITLE7=Calloused Hands
+TTITLE8=Mirror Mirror
+TTITLE9=Even Now
+TTITLE10=Your Love Is A Miracle
+TTITLE11=All I Can Be (Is A Sweet Memory)
+TTITLE12=Leap Of Faith
+TTITLE13=Small Town Saturday Night
+EXTD=
+EXTT0=
+EXTT1=Carpenter
+EXTT2=Thomas - Earl
+EXTT3=Parton - Dolly
+EXTT4=Tucker - Tanya
+EXTT5=Brooks And Dunn
+EXTT6=Boone - Larry
+EXTT7=Collie - Mark
+EXTT8=Diamond Rio
+EXTT9=Exile
+EXTT10=Chesnutt - Mark
+EXTT11=Raye - Colin
+EXTT12=Cartwright - Lionel
+EXTT13=Ketchum - Hal
+PLAYORDER=

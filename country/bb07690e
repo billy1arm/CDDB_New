@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	12620
+#	22300
+#	33040
+#	43955
+#	52035
+#	61922
+#	72015
+#	83355
+#	93755
+#	104632
+#	112850
+#	124402
+#	134317
+#
+# Disc length: 1899 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=bb07690e
+DTITLE=Johnny cash - I Walk The Line
+DYEAR=1990
+DGENRE=Dream
+TTITLE0=I Walk The Line
+TTITLE1=Rock Island Line
+TTITLE2=Train Of Love
+TTITLE3=I Love You Beacause
+TTITLE4=Guess Things Happen That Way
+TTITLE5=Born To Loose
+TTITLE6=Get Rhythm
+TTITLE7=Big River
+TTITLE8=Cold Cold Heart
+TTITLE9=The Ways Of A Woman In Love
+TTITLE10=Wreck Of The Old
+TTITLE11=Thanks A Lot
+TTITLE12=Hey Porter
+TTITLE13=Sugartime
+EXTD=YEAR: 1990 ID3G: 55
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

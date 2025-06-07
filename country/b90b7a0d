@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15032
+#	32242
+#	52285
+#	71605
+#	85307
+#	97755
+#	110790
+#	125077
+#	139762
+#	155752
+#	169975
+#	199240
+#
+# Disc length: 2940 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=b90b7a0d
+DTITLE=Dolly Parton - Hungry Again
+DYEAR=1998
+DGENRE=Country
+TTITLE0=Hungry Again
+TTITLE1=The Salt In My Tears
+TTITLE2=Honky Tonk Songs
+TTITLE3=Blue Valley Songbird
+TTITLE4=I Wanna Be Back THere
+TTITLE5=When Jesus Comes Calling For Me
+TTITLE6=Time And Tears
+TTITLE7=I'll Never Say Goodbye
+TTITLE8=The Camel's Heart
+TTITLE9=I Still Lost You
+TTITLE10=Paradise Road
+TTITLE11=Shine On
+TTITLE12=Data Track
+EXTD=YEAR: 1998 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

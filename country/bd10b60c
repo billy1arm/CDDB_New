@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33432
+#	56748
+#	74861
+#	94547
+#	119803
+#	135303
+#	156648
+#	193752
+#	215271
+#	252376
+#	272602
+#
+# Disc length: 4280 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=bd10b60c
+DTITLE=Farlanders - Moments
+DYEAR=2000
+DGENRE=Folk
+TTITLE0=Up to the Sky
+TTITLE1=Twilight
+TTITLE2=Fog
+TTITLE3=Easter Song
+TTITLE4=Grey Eyes
+TTITLE5=Through the Orchard
+TTITLE6=Near Kiev
+TTITLE7=Blok
+TTITLE8=7/8
+TTITLE9=Blues
+TTITLE10=Sister
+TTITLE11=Poppy
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

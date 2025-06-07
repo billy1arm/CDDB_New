@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12692
+#	22492
+#	36437
+#	47672
+#	58387
+#	68212
+#	78690
+#	88707
+#	100357
+#	111435
+#	125117
+#
+# Disc length: 1798 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=bd07040c
+DTITLE=Hank Thompson - Best Of The Best
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Wild Side Of Life
+TTITLE1=Rub-A-Dub-Dub
+TTITLE2=Blackboard Of My Heart
+TTITLE3=On Tap, In The Can, Or In The Bottle
+TTITLE4=The Older The Violin, The Sweeter The Music
+TTITLE5=A Six Pack To Go
+TTITLE6=Wake Up, Irene
+TTITLE7=Humpty Dumpty Heart
+TTITLE8=Smkey The Bar
+TTITLE9=Oklahoma Hills
+TTITLE10=Yesterday's Girl
+TTITLE11=Cab Driver
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

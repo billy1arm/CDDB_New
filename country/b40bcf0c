@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  18367
+#  36345
+#  60857
+#  74735
+#  96965
+#  119965
+#  137940
+#  157947
+#  175170
+#  191862
+#  208610
+#
+# Disc length: 3025 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=b40bcf0c
+DTITLE=Jann Browne - Count Me In
+DYEAR=1900
+DGENRE=country
+TTITLE0=Hearts on the Blue Train
+TTITLE1=Ain't No Promise (In the Promised Land)
+TTITLE2=I Have No Witness
+TTITLE3=Trouble's Here
+TTITLE4=Red Moon Over Lugano
+TTITLE5=One Tired Man
+TTITLE6=Dear Loretta
+TTITLE7=Count Me In
+TTITLE8=Baby Goodbye
+TTITLE9=Long Time Gone
+TTITLE10=When the Darkest Hours Pass
+TTITLE11=White Roses
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

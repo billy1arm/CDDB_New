@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     22237
+#     37457
+#     48912
+#     64887
+#     76652
+#     88392
+#     106277
+#     118552
+#     126855
+#     137105
+#     149460
+# 
+# Disc length: 2183 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b308850c
+DTITLE=Various Artist - The Best of Country Vol. 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Texas (When I die)
+TTITLE1=Rose Colored Glasses
+TTITLE2=Happiest Girl in The Whole USA
+TTITLE3=Reconsider Me
+TTITLE4=Before The Next Teardrop Falls
+TTITLE5=Gotta Travel On
+TTITLE6=You Gave Me a Mountain
+TTITLE7=I've Cried
+TTITLE8=Sorrow On the Rocks
+TTITLE9=Big Freight Train Carry Me Home
+TTITLE10=Crazy
+TTITLE11=Peace In the Valley
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

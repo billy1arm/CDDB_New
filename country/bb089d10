@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11175
+#	16085
+#	28260
+#	45215
+#	56470
+#	69233
+#	76033
+#	87644
+#	93078
+#	99830
+#	108128
+#	119411
+#	130718
+#	138599
+#	154956
+#
+# Disc length: 2207 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=bb089d10
+DTITLE=KBULL 98FM - Bullfoonery Too
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Paula Gigl
+TTITLE1=Whos Eating Who
+TTITLE2=Gone Huntin
+TTITLE3=Big Flood
+TTITLE4=Emotional Wreck
+TTITLE5=Sink On It Tonite
+TTITLE6=The Fear That JJs A Clone
+TTITLE7=So Much For Campaigning
+TTITLE8=Beanie Crazy
+TTITLE9=(Theyre Still) Pavin On Mill
+TTITLE10=Make This Film Go Away
+TTITLE11=Lookin For Love
+TTITLE12=Fireman
+TTITLE13=Think Care Deal And Cry
+TTITLE14=Dog Done Gone And Done It
+TTITLE15=Someone Elses Car
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

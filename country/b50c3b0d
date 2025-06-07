@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19512
+#	36047
+#	51042
+#	68737
+#	85235
+#	106565
+#	124227
+#	143750
+#	161010
+#	182722
+#	199492
+#	217300
+#
+# Disc length: 3133 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=b50c3b0d
+DTITLE=Robert leroy - Het beste van Robert Leroy
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Laat mij maar gaan 01
+TTITLE1=Een nacht met jou 02
+TTITLE2=Ik droom alleen nog maar van jou 03
+TTITLE3=Nu jij niets meer wilt 04
+TTITLE4=Wil je me vanavond 05
+TTITLE5=Liefde 06
+TTITLE6=Wie denk je dat je bent 07
+TTITLE7=Ik ben verlieft 08
+TTITLE8=Doe niet zo stom 09
+TTITLE9=Loop nu maar weg van mij 10
+TTITLE10=N'zomers gevoel 11
+TTITLE11=Hou me stevig vast 12
+TTITLE12=Geef de nacht maar de schuld 13
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

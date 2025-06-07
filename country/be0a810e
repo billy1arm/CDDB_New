@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18157
+#	33517
+#	46682
+#	61417
+#	75595
+#	88330
+#	102225
+#	115252
+#	131940
+#	139860
+#	160790
+#	169995
+#	185822
+#
+# Disc length: 2691 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=be0a810e
+DTITLE=Roland Cedermark - Mosippan
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Sommar I Sverige
+TTITLE1=Ja, Vilken Härlig Dag
+TTITLE2=Hambo På Sätervallen
+TTITLE3=Man Ska Alltid Vara Vänner
+TTITLE4=En Lyckostund
+TTITLE5=Skymning Över Silverhöjden
+TTITLE6=Min Romantica
+TTITLE7=Kalle Lustig
+TTITLE8=Var Finns Ni Alla Vänner Från Igår
+TTITLE9=Schottis I Parken
+TTITLE10=Maria Och Jag
+TTITLE11=Spelevinken
+TTITLE12=Brasan Brinner Klar
+TTITLE13=Mosippan
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

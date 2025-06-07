@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21828
+#	39243
+#	56309
+#	74225
+#	92741
+#	115158
+#	133339
+#	154948
+#	179469
+#	195644
+#	214495
+#
+# Disc length: 4493 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=b3118b0c
+DTITLE=gb leighton - It's All Good
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Most Important Night of my Life
+TTITLE1=Fly my plane
+TTITLE2=It's all good
+TTITLE3=Good night blue eyes
+TTITLE4=Trouble with sophia
+TTITLE5=One more night
+TTITLE6=Never walk alone
+TTITLE7=Running back
+TTITLE8=Red dress
+TTITLE9=Bad bad alison
+TTITLE10=Love is easily (the hardest thing to hold)
+TTITLE11=Country road
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13770
+#	29897
+#	42187
+#	60865
+#	73770
+#	85482
+#	96190
+#	109200
+#	121945
+#	134537
+#	147522
+#
+# Disc length: 2137 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51
+#
+DISCID=b008570c
+DTITLE=Jim Nabors - Christmas Album
+DYEAR=1900
+DGENRE=
+TTITLE0=Go Tell It On The Mountain
+TTITLE1=Do You Hear What I Hear?
+TTITLE2=Three Wise Men, Wise Men Three
+TTITLE3=O Holy Night
+TTITLE4=In A Humble Place
+TTITLE5=O Come, All Ye Faithful
+TTITLE6=Jingle Bells
+TTITLE7=Whit Christmas
+TTITLE8=Christmas Eve In My Home Town
+TTITLE9=Sleigh Ride
+TTITLE10=I'll Be Home For Christmas
+TTITLE11=Silent Night, Holy Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

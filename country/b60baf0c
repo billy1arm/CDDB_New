@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14885
+#	30157
+#	44572
+#	66995
+#	87790
+#	101640
+#	121950
+#	140952
+#	164132
+#	185282
+#	209625
+#
+# Disc length: 2993 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=b60baf0c
+DTITLE=Hal Ketchum - Awaiting Redemption
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Days of Wonder
+TTITLE1=Long Way Down
+TTITLE2=You Love Me, Love Me Not
+TTITLE3=Too Many Memories
+TTITLE4=Awaiting Redemption
+TTITLE5=Slow Down Sunset
+TTITLE6=Tell Me
+TTITLE7=The Unforgiven
+TTITLE8=When Blue Was Just a Color
+TTITLE9=Turn of the Wheel
+TTITLE10=Dear Anna Lee
+TTITLE11=Lonely Old Me
+EXTD=YEAR: 1999 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

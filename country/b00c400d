@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20487
+#	39822
+#	54747
+#	76360
+#	88492
+#	112102
+#	126405
+#	144897
+#	161255
+#	180277
+#	199227
+#	216835
+#
+# Disc length: 3138 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=b00c400d
+DTITLE=Brian Joens - Honeywagon
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Destination Home
+TTITLE1=All Is Well
+TTITLE2=Railroad Steel
+TTITLE3=Piece Of Darkness
+TTITLE4=The Tears Of A Clown
+TTITLE5=I Could Get To Like It Here
+TTITLE6=The Red House
+TTITLE7=Shinning
+TTITLE8=Iowa, Idaho, Ohio
+TTITLE9=The Silence
+TTITLE10=Stairway To the Central Time Zone
+TTITLE11=I Have No Name
+TTITLE12=Bachelor Farmer
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

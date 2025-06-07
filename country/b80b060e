@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15188
+#	29128
+#	44100
+#	61903
+#	76128
+#	92518
+#	103708
+#	121080
+#	134195
+#	153213
+#	169030
+#	183565
+#	197883
+#
+# Disc length: 2824 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=b80b060e
+DTITLE=Hot Hits Country Jukebox Edition - Country Hot Hits #15
+DYEAR=1900
+DGENRE=
+TTITLE0=Boot Scootin - Boogie
+TTITLE1=If Your Heart Ain't Busy Tonight
+TTITLE2=Take A Little Trip
+TTITLE3=Woman Loves - A
+TTITLE4=Billy The Kid
+TTITLE5=What Kind Of Fool Do You Think I Am
+TTITLE6=Lyin' Jukebox
+TTITLE7=Aces
+TTITLE8=Runnin' Behind
+TTITLE9=I'll Think Of Something
+TTITLE10=Yard Sale
+TTITLE11=I Wouldn't Have It Any Other Way
+TTITLE12=Where Forever Begins
+TTITLE13=Two-Timin' Me
+EXTD=
+EXTT0=Brooks and Dunn
+EXTT1=Tucker - Tanya
+EXTT2=Alabama
+EXTT3=Wariner - Steve
+EXTT4=Dean - Billy
+EXTT5=Parnell - Lee Roy
+EXTT6=Williams Jr. - Hank
+EXTT7=Bogguss - Suzy
+EXTT8=Lawrence - Tracy
+EXTT9=Chesnutt - Mark
+EXTT10=Kershaw - Sammy
+EXTT11=Tippin - Aaron
+EXTT12=McCoy - Neal
+EXTT13=Remingtons - The
+PLAYORDER=

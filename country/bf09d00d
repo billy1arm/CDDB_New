@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 2001 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12001
+#     29100
+#     41859
+#     52582
+#     62187
+#     72464
+#     86865
+#     102532
+#     115367
+#     128350
+#     148355
+#     167710
+# 
+# Disc length: 2514 seconds
+# 
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=bf09d00d
+DTITLE=Townes Van Zandt - Live and Obscure
+DYEAR=1900
+DGENRE=
+TTITLE0=Dollar Bill Blues
+TTITLE1=Many A Fine Lady
+TTITLE2=Nothin'
+TTITLE3=Pueblo Waltz
+TTITLE4=Talking Thunderbird Blues
+TTITLE5=Rex's Blues
+TTITLE6=White Freightliner Blues
+TTITLE7=Loretta
+TTITLE8=Snake Mountain Blues
+TTITLE9=Waitin' Round To Die
+TTITLE10=Tecumseh Valley
+TTITLE11=Pancho And Lefty
+TTITLE12=You Are Not Needed Now
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,59 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	13567
+#	30897
+#	43950
+#	56110
+#	68947
+#	82515
+#	96132
+#	109785
+#	123292
+#	134397
+#	146855
+#	162060
+#	177055
+#
+# Disc length: 2515
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+# Normalized: r2:DSETVAR1,TDELIM( - )
+#
+DISCID=b109d10e
+DTITLE=Various Artist - Readers Digest - The Top Ten Collection (The top ten Country Showcase)
+DYEAR=1900
+DGENRE=Oldies
+TTITLE0=Dolly Parton - Here you come again
+TTITLE1=Dr. Hook - Sylvia's Mother
+TTITLE2=Marty Robbins - Devil Woman
+TTITLE3=Tammy Wynette - Stand by your man
+TTITLE4=Glen Campbell - Bonaparte's Retreat
+TTITLE5=Faron Young - It's four in the morning
+TTITLE6=Slim Dusty - A pub with no beer
+TTITLE7=The Drifters - On Broadway
+TTITLE8=Johnny Young - All my loving
+TTITLE9=Dusty Springfield - Son-of-a-preacher man
+TTITLE10=Cliff Richard - Lucky Lips
+TTITLE11=Lonnie Donegan - My Old Man's a Dustman
+TTITLE12=Rolf Harris - Jake the peg
+TTITLE13=Pat Boone - Speedy Gonzales
+EXTD=
+EXTT0=Dolly Parton\n
+EXTT1=Dr Hook\n
+EXTT2=Marty Robbins\n
+EXTT3=Tammy Wynette\n
+EXTT4=Glen Campbell\n
+EXTT5=Faron Young\n
+EXTT6=Slim Dusty\n
+EXTT7=The Drifters\n
+EXTT8=Johnny Young\n
+EXTT9=Dusty Springfield\n
+EXTT10=Cliff Richard and the Shadows\n
+EXTT11=Lonnie Donegan\n
+EXTT12=Rolf Harris\n
+EXTT13=Pat Boone\n
+PLAYORDER=

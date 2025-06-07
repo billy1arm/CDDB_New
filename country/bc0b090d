@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	14950
+# 	28067
+# 	44037
+# 	63985
+# 	85330
+# 	103660
+# 	118590
+# 	132760
+# 	146557
+# 	166960
+# 	181807
+# 	197105
+#
+# Disc length: 2827 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=bc0b090d
+DTITLE=John James and Eddie Walker - Side-Steppin'
+DYEAR=1900
+DGENRE=
+TTITLE0='Til the end of the world rolls'round
+TTITLE1=Cash on the barrel head
+TTITLE2=Swing 42
+TTITLE3=Speed of the sound of loneliness
+TTITLE4=Deliah's gone
+TTITLE5=Side-steppin'
+TTITLE6=I won't be home no more
+TTITLE7=My bucket's got a hole in it
+TTITLE8=Sittin' on top of the world
+TTITLE9=Djiango's castle
+TTITLE10=Blue moon backstep
+TTITLE11=Hoping that you're hoping
+TTITLE12=Memories and tears
+EXTD=
+EXTT0=N. Thomas
+EXTT1=Louvin Brothers
+EXTT2=Django Reinhardt
+EXTT3=John Prine
+EXTT4=Trad. arranged James-Walker
+EXTT5=John James
+EXTT6=Hank Williams
+EXTT7=Hank Williams
+EXTT8=Bob Wills
+EXTT9=Django Reinhardt
+EXTT10=John James - Eddie Walker
+EXTT11=Louvin Brothers
+EXTT12=Unknown
+PLAYORDER=

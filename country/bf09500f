@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12383
+#	27405
+#	39707
+#	49842
+#	63176
+#	75188
+#	86952
+#	98913
+#	110875
+#	123254
+#	138450
+#	144853
+#	157685
+#	167726
+#
+# Disc length: 2386 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=bf09500f
+DTITLE=Various Artist - Lost Highway
+DYEAR=2003
+DGENRE=Country
+TTITLE0=Hank Williams - Lost Highway
+TTITLE1=Woody Guthrie - The Great Dust Storm
+TTITLE2=Delmore Brothers - Kentucky Mountain
+TTITLE3=Merle Travis - Too Much Sugar For A Dime
+TTITLE4=Jimmie rodgers - Daddy And Home
+TTITLE5=Roy Rogers - Home On The Range
+TTITLE6=Bob Wills and His Texas Playboys - That's What I Like About The South
+TTITLE7=Ernest Tub - I Love You Because
+TTITLE8=Gene Autry - Blueberry Hill
+TTITLE9=Bill Monroe and His Bluegrass Boys - Muleskinner Blues
+TTITLE10=Weavers - Goodnight Irene
+TTITLE11=Jim Reeves - Have I Told You Lately That I Love You
+TTITLE12=Roy Acuff and His Smoky Mountain Boys - Night Train To Memphis
+TTITLE13=Patsy Cline - Pick Me Up On Your Way Down
+TTITLE14=George Jones - White Lightnin'
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19890
+#	35987
+#	52877
+#	71725
+#	84662
+#	98925
+#	113900
+#	128547
+#	146507
+#	163305
+#	178497
+#
+# Disc length: 2593 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=b00a1f0c
+DTITLE=Janae Coolman - Follow her Heart
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Follow her heart
+TTITLE1=Through these tears
+TTITLE2=Guilty of loving you
+TTITLE3=Mama's Song
+TTITLE4=Good as gone
+TTITLE5=You'll never see me cry
+TTITLE6=Gates of paradise
+TTITLE7=Still looking
+TTITLE8=Whats there left to do
+TTITLE9=Shallow ground
+TTITLE10=God bless daddy
+TTITLE11=Hey you
+EXTD=\nYEAR: 2001  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

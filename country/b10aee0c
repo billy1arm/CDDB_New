@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17862
+#	39552
+#	56600
+#	72110
+#	86085
+#	102200
+#	118305
+#	134222
+#	161125
+#	176955
+#	190625
+#
+# Disc length: 2800 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL1
+#
+DISCID=b10aee0c
+DTITLE=Matt Minglewood - The Promise
+DYEAR=1900
+DGENRE=
+TTITLE0=Some Day I'm Gonna Ride In A Cadillac
+TTITLE1=Last Chance Highway
+TTITLE2=The Promise
+TTITLE3=Where Does Love Go
+TTITLE4=You Win Again
+TTITLE5=Let Somebody Else Drive
+TTITLE6=Runaway
+TTITLE7=Country Boy Gettin' Ready To Rock
+TTITLE8=You're Not Drinking Enough
+TTITLE9=Cajun Stars
+TTITLE10=Rockin' My Redneck Life Away
+TTITLE11=Working Man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

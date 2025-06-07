@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10357
+#	22707
+#	49660
+#	64390
+#	78177
+#	98520
+#	110790
+#	122287
+#	137920
+#	149475
+#	164560
+#	181867
+#	199252
+#
+# Disc length: 2947 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=bb0b810e
+DTITLE=Various Artist - Outlaws And Heroes
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm A One Man Woman (George Jones)
+TTITLE1=Stand By Your Man (Lyle Lovett)
+TTITLE2=You're Not Drinking Enough (Matt Minglewood)
+TTITLE3=Turn Me Around (K.D. Lang)
+TTITLE4=Highwayman (The Highwaymen)
+TTITLE5=Copperhead Road (Steve Earle)
+TTITLE6=Strong Enough To Bend (Tanya Tucker)
+TTITLE7=Why'd You Come In Here Looking Like That (Dolly Parton)
+TTITLE8=Young Country (Hank Williams Jr.)
+TTITLE9=Sweet Dreams (Patsy Cline)
+TTITLE10=It's Such A Small World (Rosanne Cash/Rodney Crowell)
+TTITLE11=Give A Little Love (The Judds)
+TTITLE12=Texas In 1880 (Foster and Lloyd)
+TTITLE13=Slow Train (Breit Bros.)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

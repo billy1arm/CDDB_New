@@ -1,0 +1,60 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+# 150
+# 21205
+# 32948
+# 62560
+# 76002
+# 93351
+# 114822
+# 128861
+# 150364
+# 170651
+# 186804
+# 200685
+# 217177
+# 235849
+#
+# Disc length: 3422 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+#
+DISCID=b40d5c0e
+DTITLE=Nanci Griffith - Winter Marquee
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Speed of the Sound of Loneliness
+TTITLE1=I Wish It Would Rain
+TTITLE2=Boots of Spanish Leather
+TTITLE3=Two for the Road
+TTITLE4=Listen to the Radio
+TTITLE5=There's a Light Beyond These Woods
+TTITLE6=Gulf Coast Highway
+TTITLE7=The Flyer
+TTITLE8=Good Night, New York
+TTITLE9=Traveling Through This Part of You
+TTITLE10=Last Train Home
+TTITLE11=I'm Not Drivin' These Wheels
+TTITLE12=What's That I Hear
+TTITLE13=White Freight Liner
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

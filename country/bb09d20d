@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12685
+#	25544
+#	40100
+#	55524
+#	66470
+#	86147
+#	102995
+#	116703
+#	127156
+#	140707
+#	153400
+#	169474
+#
+# Disc length: 2516 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=bb09d20d
+DTITLE=Helt Oncale Band - Country Classics
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Jambalaya
+TTITLE1=Folsom Prison Blues
+TTITLE2=Six Days On The Road
+TTITLE3=San Antonio Rose
+TTITLE4=Jole Blon
+TTITLE5=City Of New Orleans
+TTITLE6=Summertime Blues
+TTITLE7=Your Cheatin' Heart
+TTITLE8=Walking The Floor
+TTITLE9=Tennessee Waltz
+TTITLE10=Orange Blossom Special
+TTITLE11=Mississippi You're On My Mind
+TTITLE12=Country Roads
+EXTD=YEAR: 2000 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

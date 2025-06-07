@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21272
+#     38689
+#     57943
+#     77770
+#     88055
+#     105314
+#     123236
+#     139018
+#     155988
+#     165387
+#     180394
+#     193694
+#     211788
+#     228890
+# 
+# Disc length: 3302 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=b80ce40f
+DTITLE=V rios - Sucessos Setanejos 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Estou Apaixonado
+TTITLE1=Nem Dormindo Consigo Te Esquecer
+TTITLE2=Eu Juro
+TTITLE3=Cara Metade
+TTITLE4=Chalana
+TTITLE5=Aus ncia
+TTITLE6=Na Hora do Adeus
+TTITLE7=Paix o ou Loucura
+TTITLE8=Te Amo, Te Amo, Te Amo
+TTITLE9=Estrada da Vida
+TTITLE10=Vaner o do Coroa
+TTITLE11=Pagode em Bras lia
+TTITLE12=Fog o de Lenha/Atalho/Porta do Mundo
+TTITLE13=ndia
+TTITLE14=Caminhoneiro do Amor
+EXTD=
+EXTT0=Jo o Paulo and Daniel\n
+EXTT1=Gian and Giovani\n
+EXTT2=Lenadro and Leonardo\n
+EXTT3=Rick and Renner\n
+EXTT4=Almir Sater\n
+EXTT5=Chrytian and Ralf\n
+EXTT6=MAtogrosso and Mathias\n
+EXTT7=Maur cio and Maury\n
+EXTT8=Dalvan\n
+EXTT9=Milino rio and Jos  Rico\n
+EXTT10=S rgio Reis\n
+EXTT11=Ti o Carreiro and Pardinho\n
+EXTT12=M rio and Bruno\n
+EXTT13=Cascatinha and Inhana\n
+EXTT14=Sula Miranda\n
+PLAYORDER=

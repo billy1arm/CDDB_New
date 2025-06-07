@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14417
+#	27988
+#	42021
+#	54098
+#	63164
+#	72954
+#	82821
+#	91748
+#	103610
+#	117443
+#	130149
+#	140178
+#	166617
+#	178780
+#
+# Disc length: 2570 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=bb0a080f
+DTITLE=Various Artist - Country Stars Vol. 1
+DYEAR=1900
+DGENRE=Country
+TTITLE0=My Special Angel \Bobby Helms
+TTITLE1=The Old Country Church \The Oak Ridge Boys
+TTITLE2=I Feel The Country Calling Me \Mac Davis
+TTITLE3=You'll Lose A Good Thing \Freddy Fender
+TTITLE4=Good Time Charlie \Del Reeves
+TTITLE5=Half My Hearts In Texas \Ernest Tubb
+TTITLE6=Red Sails In The Sunset \Johnny Lee
+TTITLE7=Jambalaya \Hank Williams Sr.
+TTITLE8=I Hope So \Willie Nelson
+TTITLE9=Another Song, Another Drink \Ricky Skaggs
+TTITLE10=Ruby, Don't Take Your Love To Town \Kenny Rogers
+TTITLE11=Gone \Ferlin Husky
+TTITLE12=I.O.U. \Jimmy Dean
+TTITLE13=I Walk The Line \Johnny Cash
+TTITLE14=High Noon \Tex Ritter
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=
