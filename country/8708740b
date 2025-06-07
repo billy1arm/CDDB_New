@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13387
+#	28622
+#	46735
+#	65880
+#	80590
+#	95615
+#	108060
+#	122529
+#	135637
+#	152327
+#
+# Disc length: 2166 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=8708740b
+DTITLE=Kieran Kane - Dead Rekoning
+DYEAR=1900
+DGENRE=
+TTITLE0=This Dirty Little Town
+TTITLE1=He Never Knew What Hit Him
+TTITLE2=Cool Me Down
+TTITLE3=Bell Ringing In An Empty Sky
+TTITLE4=Je Suis Tres Contendre
+TTITLE5=Ramblin' Man
+TTITLE6=Eight More Miles
+TTITLE7=If It's Not Love
+TTITLE8=Find Somebody New
+TTITLE9=So Many Miles
+TTITLE10=Love's Gonna Live Here
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

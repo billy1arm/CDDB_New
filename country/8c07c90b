@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13802
+#	28507
+#	41010
+#	51980
+#	63782
+#	76740
+#	92717
+#	105515
+#	117965
+#	134147
+#
+# Disc length: 1995 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=8c07c90b
+DTITLE=Wylie and The Wild West - Total Yodel!
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Ol' Montan
+TTITLE1=Rose-Marie
+TTITLE2=When The Cactus Is In Bloom
+TTITLE3=Big Sky Lullaby
+TTITLE4=Lovesick Blues
+TTITLE5=Teardrops In My Heart
+TTITLE6=Blue Yodel No.1 - T For Texas
+TTITLE7=Chime Bells
+TTITLE8=Waiting For A Train
+TTITLE9=Cowpoke
+TTITLE10=Yodeling Fool
+EXTD=Rounder CD 11661-3162-2YEAR: 2001  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19060
+#     36890
+#     49500
+#     69395
+#     82198
+#     95378
+#     109690
+#     125225
+#     147930
+# 
+# Disc length: 2166 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8708740a
+DTITLE=Lee Greenwood - If There's Any Justice
+DYEAR=1900
+DGENRE=
+TTITLE0=If There's Any Justice
+TTITLE1=We Could Have Been
+TTITLE2=Somebody Stop Me (Before I Love You)
+TTITLE3=My Lover's Eyes
+TTITLE4=Let's Make The Most Love
+TTITLE5=Touch And Go Crazy
+TTITLE6=Someone
+TTITLE7=I'm Here To Love You
+TTITLE8=Silver Dollars
+TTITLE9=Somebody's Leaving
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

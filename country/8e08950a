@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15931
+#	36344
+#	48400
+#	65889
+#	91438
+#	104798
+#	122774
+#	132144
+#	145108
+#
+# Disc length: 2199 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8e08950a
+DTITLE=Various Artist - 44000 Angels-Volume 4
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Winter Wonderland- Bryan White
+TTITLE1=Silent Night- Steve Wariner
+TTITLE2=If We Make it Through December- Merle Haggard
+TTITLE3=Have Yourself a Merry Little Christmas- Joe Diffie
+TTITLE4=Good News- Kathy Mattea
+TTITLE5=Blue Christmas- Clay Walker
+TTITLE6=Daddy Stuff- Sammy Kershaw
+TTITLE7=Old Toy Trains- Roger Miller
+TTITLE8=O Holy Night- Lee Greenwood
+TTITLE9='Tis the Season Medley- Leonard Bearstein Symphony Orchestra
+EXTD=YEAR: 2001 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

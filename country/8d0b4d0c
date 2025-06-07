@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18295
+#	34423
+#	52605
+#	70583
+#	91865
+#	107485
+#	124398
+#	144233
+#	165175
+#	182333
+#	201990
+#
+# Disc length: 2895 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8d0b4d0c
+DTITLE=Maryen Cairns  - For Eternity
+DYEAR=1900
+DGENRE=country
+TTITLE0='Lest We Forget
+TTITLE1=Breaking
+TTITLE2=The Concert Bitch
+TTITLE3=This Dream 
+TTITLE4=My Weakness
+TTITLE5=For Eternity
+TTITLE6=Another Way
+TTITLE7=The Collector
+TTITLE8=Sad City
+TTITLE9=Stayaway
+TTITLE10=How Could I?
+TTITLE11=Gone
+EXTD=Submitted By WinSko\n\nCountry\nl
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

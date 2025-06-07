@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19970
+#	40053
+#	59778
+#	77963
+#	95698
+#	113713
+#	137408
+#	157418
+#	175205
+#
+# Disc length: 2623 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=8b0a3d0a
+DTITLE=Edgar Struble - Piano Country
+DYEAR=1900
+DGENRE=
+TTITLE0=Crazy
+TTITLE1=If Tomorrow Never Comes
+TTITLE2=I'm So Lonesome I Could Cry
+TTITLE3=Don't It Make My Brown Eyes Blue
+TTITLE4=Cowboys and Kids
+TTITLE5=Desparado
+TTITLE6=Through the Years
+TTITLE7=He Stopped Lovin' Her Today
+TTITLE8=I Will Always Love You
+TTITLE9=Tennessee Waltzin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    182
+#    10195
+#    19610
+#    40475
+#    58275
+#    70400
+#    82215
+#    95547
+#    107150
+#    120135
+#
+# Disc length: 1753 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.4.1  (wjohn@fix.net)
+#
+DISCID=8206d70a
+DTITLE=Various Artist - 
+DTITLE=100 Proof Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Tequila
+TTITLE1=Chug-A-Lug - Roger Miller
+TTITLE2=Escape (The Pina Colada Song)
+TTITLE3=I'm Gonna Hire a Wino to Decorate Our Home
+TTITLE4=Jose Cuervo
+TTITLE5=Drinkin' Wine Spo-Dee-O-Dee
+TTITLE6=One Scotch, One Bourbon, One Beer
+TTITLE7=I Got Loaded
+TTITLE8=Million Light Beers Ago
+TTITLE9=Scotch and Soda
+EXTD=
+EXTT0=The Champs
+EXTT1=Roger Miller
+EXTT2=Rupert Holmes
+EXTT3=David Frizzell
+EXTT4=Shelly West
+EXTT5=Jerry Lee Lewis
+EXTT6=Amos Milburn
+EXTT7=Peppermint Harris
+EXTT8=David Frizzell
+EXTT9=The Kingston Trio
+PLAYORDER=

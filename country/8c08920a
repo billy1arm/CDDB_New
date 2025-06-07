@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	17925
+#	32787
+#	49897
+#	65237
+#	81927
+#	98017
+#	113897
+#	130052
+#	148565
+#
+# Disc length: 2196 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=8c08920a
+DTITLE=David Slater - Be With Me
+DYEAR=1900
+DGENRE=
+TTITLE0=Be With Me
+TTITLE1=One Of My Reasons Why
+TTITLE2=She Will
+TTITLE3=We Fell In Love Anyway
+TTITLE4=Between A Rock And A Heartbreak
+TTITLE5=No More Tears
+TTITLE6=That Close
+TTITLE7=Whatcha Gonna Do About Her
+TTITLE8=From Now On
+TTITLE9=Nothin' Like Love
+EXTD=1989/CDP 7 91181 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

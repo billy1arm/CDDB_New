@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18100
+#	33515
+#	54640
+#	70820
+#	86722
+#	105630
+#	114900
+#	132585
+#	155120
+#
+# Disc length: 2312 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=8309060a
+DTITLE=Kim Schwartz - Gone Walk About
+DYEAR=1900
+DGENRE=
+TTITLE0=I've Got Your Number
+TTITLE1=Maybe Not
+TTITLE2=He Never Forgets
+TTITLE3=If You've Got Love
+TTITLE4=What The Cowgirls Do
+TTITLE5=Step by Step
+TTITLE6=If I Culd Make A Livin'
+TTITLE7=Fools Goldmine
+TTITLE8=Take My Hand, Take My Heart
+TTITLE9=Makin' Love For Lost Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

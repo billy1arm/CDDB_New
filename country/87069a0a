@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	12717
+#	23177
+#	31785
+#	43310
+#	57497
+#	72820
+#	89885
+#	101432
+#	114980
+#
+# Disc length: 1692 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=87069a0a
+DTITLE=Herb Jeffries - The Bronze Buckaroo (Rides Again)
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm A Happy Cowboy
+TTITLE1=Texas To A "T"
+TTITLE2=Pay Day Blues
+TTITLE3=Tumbling Tumbleweeds
+TTITLE4=Nine Hundred Miles
+TTITLE5=Cow Cow Boogie
+TTITLE6=Lonesome Rider Blues
+TTITLE7=You, You Darlin'
+TTITLE8=Down Home Cowboy
+TTITLE9=Back In The Saddle Again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

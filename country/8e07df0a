@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11747
+#	22307
+#	37267
+#	53995
+#	67020
+#	86750
+#	105942
+#	119477
+#	136157
+#
+# Disc length: 2017 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta1
+#
+DISCID=8e07df0a
+DTITLE=Dalton Adams - Will You Marry Me?
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Dangerous
+TTITLE1=Will You Marry Me?
+TTITLE2=0-2 Sexy In 4.5
+TTITLE3=Fire Water
+TTITLE4=Bluer Than Blue
+TTITLE5=Mule Goin' Blind
+TTITLE6=Awsh
+TTITLE7=Kick Jump Klickity Klack
+TTITLE8=That's What Kids Are For
+TTITLE9=I'm A Son Of A Bitch
+EXTD=YEAR: 1999 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	14300
+#	26967
+#	37205
+#	48482
+#	62272
+#	72537
+#	85122
+#	99105
+#	109252
+#
+# Disc length: 1572
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 1.21
+# Normalized: r1:TDELIM( - )
+#
+DISCID=8106220a
+DTITLE=Various Artist - Old Time Christmas
+DYEAR=1998
+DGENRE=country
+TTITLE0=Marty Robbins - Hark The Herald Angels Sing
+TTITLE1=The Chuck Wagon Gang - While Shepherds Watched Their Flocks
+TTITLE2=Jody Miller - O Holy Night
+TTITLE3=The Brothers Four - What Child Is This? (Greensleeves)
+TTITLE4=The Clancy Brothers - Angels We Have Heard On High
+TTITLE5=Sally Ann Howes - It Came Upon A Midnight Clear
+TTITLE6=Tony Harper - Jingle Bells
+TTITLE7=Jody Miller - Cherry Tree Carol
+TTITLE8=The Clancy Brothers - Lovely Far Off City
+TTITLE9=Sally Ann Howes - O Little Town Of Bethlehem
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

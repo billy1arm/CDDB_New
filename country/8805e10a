@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12297
+#     21887
+#     32410
+#     44967
+#     55372
+#     68665
+#     77202
+#     89837
+#     104587
+# 
+# Disc length: 1507 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8805e10a
+DTITLE=Dolly Parton - Jolene
+DYEAR=1900
+DGENRE=
+TTITLE0=Jolene
+TTITLE1=when someone wants to leave
+TTITLE2=River of happiness
+TTITLE3=Earley Morning Breeze
+TTITLE4=Highlight Of My Life
+TTITLE5=I Will Always Love You
+TTITLE6=Randy
+TTITLE7=Living On Memories Of You
+TTITLE8=Lonely Coming' Down
+TTITLE9=It Must Be You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

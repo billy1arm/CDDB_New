@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	12220
+#	24435
+#	33650
+#	45667
+#	57922
+#	69692
+#	79577
+#	91627
+#	101450
+#	113595
+#	122462
+#
+# Disc length: 1744 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=8706ce0c
+DTITLE=Ernest Ashworth - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Talk Back Trembling Lips
+TTITLE1=I Love To Dance With Annie
+TTITLE2=Everybody But Me
+TTITLE3=I Take the Chance
+TTITLE4=The DJ Cried
+TTITLE5=A Week In The Country
+TTITLE6=Push In A Corner
+TTITLE7=Because I Cared
+TTITLE8=At Ease Heart
+TTITLE9=I Wish
+TTITLE10=Sad Face
+TTITLE11=A New Heart
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

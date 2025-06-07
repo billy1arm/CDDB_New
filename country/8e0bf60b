@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21214
+#	42881
+#	62461
+#	84586
+#	103686
+#	123174
+#	148704
+#	168056
+#	186452
+#	212513
+#
+# Disc length: 3064 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=8e0bf60b
+DTITLE=John Wibberley - Fear and The Lost Highway
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Eyre Highway
+TTITLE1=Sally
+TTITLE2=Geoffrey Brown
+TTITLE3=One Time
+TTITLE4=Priscilla
+TTITLE5=All The Wrong Reasons
+TTITLE6=Closer To You
+TTITLE7=Dogs Last Dinner
+TTITLE8=It's So Hard
+TTITLE9=Curiosity
+TTITLE10=Peacemaker
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

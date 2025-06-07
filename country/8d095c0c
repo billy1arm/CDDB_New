@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	16120
+#	30195
+#	44270
+#	60283
+#	81745
+#	93870
+#	104570
+#	118170
+#	130695
+#	147058
+#	166120
+#
+# Disc length: 2398 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=8d095c0c
+DTITLE=Various Artist - Country Love Songs
+DYEAR=1900
+DGENRE=
+TTITLE0=Angel In Disguise (Earl Thomas Conley)
+TTITLE1=I Fell In Love Again Last Night (Forester Sisters)
+TTITLE2=I Always Get Lucky With You (Gerge Jones)
+TTITLE3=You're Getting To Me Again (Lorrie Morgan)
+TTITLE4=Wind Beneath My Wings (Gary Morris)
+TTITLE5=You've Got A Good Love Comin' (Lee Greenwood)
+TTITLE6=I've Never Loved Anyone More (Lynn Anderson)
+TTITLE7=I Loved 'Em Every One (T.G.Sheppard)
+TTITLE8=Love Me With All Your Heart (Johnny Rodriguez)
+TTITLE9=Nothing Sure Looked Good On You (Gene Watson)
+TTITLE10=Secret Love (Freddy Fender)
+TTITLE11=All Tangled Up In Love (Gus Hardin)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

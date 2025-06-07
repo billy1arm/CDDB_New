@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#    150
+#    14697
+#    31412
+#    44317
+#    58970
+#    75505
+#    89900
+#    103755
+#    120905
+#    133700
+#
+# Disc length: 1997 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.4.5  (wjohn@am-woljo.com)
+#
+DISCID=8607cb0a
+DTITLE=Ray Stevens - 
+DTITLE=A Brighter Day - Volume 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Everybody Needs a Rainbow
+TTITLE1=Walk a Mile in My Shoes
+TTITLE2=One and Only You
+TTITLE3=Set the Children Free
+TTITLE4=Mr. Businessman
+TTITLE5=A Brighter Day
+TTITLE6=Have a LIttle Talk with Myself
+TTITLE7=Get Together
+TTITLE8=Come Around
+TTITLE9=Everything is Beautiful
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

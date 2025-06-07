@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16445
+#	30252
+#	45652
+#	60895
+#	79452
+#	96252
+#	112977
+#	124467
+#	140797
+#
+# Disc length: 2091 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=8208290a
+DTITLE=Olivia Newton-John - Don't Stop Believin'
+DYEAR=1976
+DGENRE=Pop
+TTITLE0=Don't Stop Believin'
+TTITLE1=A Thousand Conversations
+TTITLE2=Compassionate Man
+TTITLE3=New-Born Babe
+TTITLE4=Hey, Mr. Dreammaker
+TTITLE5=Every Face Tells A Story
+TTITLE6=Sam
+TTITLE7=Love, You Hold The Key
+TTITLE8=I'll Bet You A Kangaroo
+TTITLE9=The Last Time You Loved
+EXTD=more info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Composer;Date,Artist,Location,State,Country) YEAR: 1976 ID3G: 13
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

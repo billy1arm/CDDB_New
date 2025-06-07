@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9136
+#	23600
+#	33744
+#	45365
+#	57275
+#	69264
+#	80648
+#	90557
+#	102832
+#	113884
+#	126332
+#
+# Disc length: 1841 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=8c072f0c
+DTITLE=Chet Atkins - Picks on the Beatles
+DYEAR=2005
+DGENRE=Country
+TTITLE0=I Feel Fine
+TTITLE1=Yesterday
+TTITLE2=If I Fell
+TTITLE3=Can't Buy Me Love
+TTITLE4=I'll Cry Instead
+TTITLE5=Things We Said Today
+TTITLE6=Hard Day's Night
+TTITLE7=I'll Follow the Sun
+TTITLE8=She's a Woman
+TTITLE9=And I Love Her
+TTITLE10=Michelle
+TTITLE11=She Loves You
+EXTD=ID3G:   2 YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

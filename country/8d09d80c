@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	151
+#	13717
+#	29572
+#	47024
+#	63990
+#	79647
+#	93739
+#	109599
+#	128480
+#	143630
+#	160628
+#	174911
+#
+# Disc length: 2522 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=8d09d80c
+DTITLE=Le Ann Etheridge - Half A World Away
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Wasted Too Much Time
+TTITLE1=Soft, Warm and Dark
+TTITLE2=Half A World Away
+TTITLE3=Things You Never Said
+TTITLE4=Someone To Hold On To Me
+TTITLE5=One Day More
+TTITLE6=Poor Little Misguided One
+TTITLE7=Some Of Shelly's Blues
+TTITLE8=In Perfect Time
+TTITLE9=Waiting For A Train
+TTITLE10=The Way I Feel
+TTITLE11=Blue, Red and Grey
+EXTD=\nYEAR: 2001  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

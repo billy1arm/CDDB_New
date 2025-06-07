@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	11107
+#	26140
+#	38227
+#	55327
+#	64795
+#	76707
+#	89505
+#	104202
+#	114100
+#	129900
+#
+# Disc length: 1985 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8c07bf0b
+DTITLE=Various Artist - Southern Gospel Quartet Classics - Vol 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Can He, Could He, Would He, Did He
+TTITLE1=Room at the Cross for You
+TTITLE2=Glory to His Name
+TTITLE3=He Touched Me
+TTITLE4=Heaven's Jubilee
+TTITLE5=Steal Away
+TTITLE6=Leaning on the Everlasting Arms
+TTITLE7=The Old Rugged Cross
+TTITLE8=Daddy Sang Bass
+TTITLE9=God on the Mountain
+TTITLE10=Wonderful Peace
+EXTD=By Brentwood Music\nSplit Track Recording
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

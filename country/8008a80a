@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17361
+#	35892
+#	50297
+#	68328
+#	87014
+#	104566
+#	119200
+#	136277
+#	151471
+#
+# Disc length: 2218 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8008a80a
+DTITLE=Pit Pony - Already Broken
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Already Broken
+TTITLE1=Broken Moon
+TTITLE2=Cresta Run
+TTITLE3=Cosa Nostra
+TTITLE4=Cloud 8
+TTITLE5=Quarter Horse Town
+TTITLE6=Baby Wolf
+TTITLE7=Smaller Fish
+TTITLE8=St. Catherine's Lament
+TTITLE9=Friday 13th Pat 2
+EXTD=YEAR: 1999 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

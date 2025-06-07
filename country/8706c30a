@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	13572
+#	26340
+#	40360
+#	52492
+#	64532
+#	77060
+#	89732
+#	104107
+#	117865
+#
+# Disc length: 1733 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8706c30a
+DTITLE=Hank Snow - My Early Country Favorites
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Sunny Side of The Mountain
+TTITLE1=Within This Broken Heart Of Mine
+TTITLE2=Bluer Than Blue
+TTITLE3=Rose Of The Rio
+TTITLE4=The days are Long, I'm Weary
+TTITLE5=I'll Tell The World That I Love You
+TTITLE6=Blue Ranger
+TTITLE7=The Galveston Rose
+TTITLE8=When That Someone You Love Doesn't Love You
+TTITLE9=You Played Love on The Strings Of My Heart
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

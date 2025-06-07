@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 13812
+# 24037
+# 37152
+# 50497
+# 63250
+# 78612
+# 89115
+# 100927
+# 115235
+#
+# Disc length: 1721 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=8006b70a
+DTITLE=Johnny Paycheck - Hits Home
+DYEAR=1900
+DGENRE=
+TTITLE0=Someone To Give My Love To
+TTITLE1=No Way Out
+TTITLE2=She's All I Got
+TTITLE3=Slide Off Of Your Satin Sheets
+TTITLE4=The Man From Bowling Green
+TTITLE5=Yesterday's News Just Hit Home Today
+TTITLE6=I Sleep With Her Memory Every Night
+TTITLE7=Take This Job And Shove It
+TTITLE8=I'm The Only Hell (Mama Ever Raised)
+TTITLE9=Friend, Lover, Wife
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

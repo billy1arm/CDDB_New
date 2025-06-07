@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	33845
+#	69900
+#	107637
+#	136677
+#	163062
+#	191460
+#	211835
+#	255352
+#	276405
+#	304020
+#
+# Disc length: 4427 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8d11490b
+DTITLE=伶楽舎 - 陰陽乃占楽　安倍晴明式占術と雅楽
+DYEAR=2002
+DGENRE=Country
+TTITLE0=春鶯囀遊声〜一行の賦（プロローグ）
+TTITLE1=長沙女引（天蓬星／流運星…貪狼星）
+TTITLE2=神楽音取・阿知女作法（天内星／流運星…巨門星）
+TTITLE3=陪臚（天心星／流運星…武曲星）
+TTITLE4=総角の歌（天柱星／流運星…破軍星）
+TTITLE5=迦陵頻急（天任星／流運星…左輔星）
+TTITLE6=?（天衝星／流運星…禄存星）
+TTITLE7=胡飲酒破（天輔星／流運星…文曲星）
+TTITLE8=小乱声・陵王乱序（天禽星／流運星…廉貞星）
+TTITLE9=美作（天英星／流運星…右弼星）
+TTITLE10=合歓塩（エピローグ）
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

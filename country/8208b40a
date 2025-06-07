@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13670
+#	27682
+#	45817
+#	61537
+#	85800
+#	103850
+#	118402
+#	139472
+#	152142
+#
+# Disc length: 2230 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=8208b40a
+DTITLE=Various Artist - Today's Hit Country
+DYEAR=1993
+DGENRE=Country
+TTITLE0=brooks and dunn - brand new man
+TTITLE1=mark chesnutt - brother jukebox
+TTITLE2=vince gill - look at us
+TTITLE3=alabama - down home
+TTITLE4=the judds - love can build a bridge
+TTITLE5=john anderson - seminole wind
+TTITLE6=diamond rio - mirror mirror
+TTITLE7=lorrie morgan - something in red
+TTITLE8=aaron tippin - there ain't nothing wrong with the radio
+TTITLE9=pam tillis - maybe it was memphis
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

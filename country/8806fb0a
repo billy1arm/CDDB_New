@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14950
+#	29212
+#	42275
+#	54425
+#	67737
+#	81250
+#	94762
+#	109012
+#	122212
+#
+# Disc length: 1789 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8806fb0a
+DTITLE=The Carter Family - Inducted Into The Hall Of Fame 1970
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Wildwood Flower
+TTITLE1=Can The Circle Be Unbroken
+TTITLE2=Lulu Walls
+TTITLE3=Black Jack David
+TTITLE4=Gospel Ship
+TTITLE5=My Old Virginia Home
+TTITLE6=Gathering Flowers From The Hillside
+TTITLE7=Don't Forget Me Little Darling
+TTITLE8=I'm Thinking Tonight Of My Blue Eyes
+TTITLE9=He Took A White Rose From Her Hair
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

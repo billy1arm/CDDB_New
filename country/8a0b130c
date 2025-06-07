@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10020
+#     28142
+#     45820
+#     58535
+#     83427
+#     104892
+#     119587
+#     135942
+#     151340
+#     169567
+#     188140
+# 
+# Disc length: 2837 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8a0b130c
+DTITLE=Rod Taylor - A Philmont Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=The Philmont Hymn
+TTITLE1=This Land is Your Land
+TTITLE2=Paradise
+TTITLE3=Fox On the Run
+TTITLE4=Ballad of Spider John
+TTITLE5=New Mexico Rain
+TTITLE6=In the Real West
+TTITLE7=Georgetown
+TTITLE8=Sweet Baby James
+TTITLE9=Blowin' in the Wind
+TTITLE10=One of these Days
+TTITLE11=Goodnight, Irene
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

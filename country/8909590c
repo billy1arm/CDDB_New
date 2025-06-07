@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14125
+#	29225
+#	44737
+#	61537
+#	76575
+#	91250
+#	105550
+#	120925
+#	136575
+#	150187
+#	163875
+#
+# Disc length: 2395 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8909590c
+DTITLE=Die Flippers - Gold - CD 2 (LC 8410)
+DYEAR=1992
+DGENRE=Deutsch
+TTITLE0=Mona Lisa
+TTITLE1=Moskau im Regen
+TTITLE2=Rhodos
+TTITLE3=Sommerwind
+TTITLE4=Rote Rosen
+TTITLE5=Santa Maria goodbye
+TTITLE6=Sieben Tage Sonnenschein
+TTITLE7=Wenn es Nacht wird
+TTITLE8=Herzen brauche Zärtlichkeit
+TTITLE9=Monja
+TTITLE10=Sonnenschein am Strand von San Jose 
+TTITLE11=Adios heisst auf Wiedersehn
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	18672
+# 	35437
+# 	52300
+# 	69637
+# 	93815
+# 	109937
+# 	129137
+# 	152037
+# 	167487
+# 	185485
+#
+# Disc length: 2699 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.2
+#
+DISCID=8e0a890b
+DTITLE=John Denver - Dreamland Express
+DYEAR=1900
+DGENRE=
+TTITLE0=Dreamland Express
+TTITLE1=Claudette
+TTITLE2=Gimme Your Love
+TTITLE3=Got My Heart Set On You
+TTITLE4=If Ever
+TTITLE5=The Harder They Fall
+TTITLE6=Don't Close Your Eyes Tonight
+TTITLE7=A Wild Heart Looking For Home
+TTITLE8=I'm In The Mood To Be Desired
+TTITLE9=Trail Of Tears
+TTITLE10=African Sunrise
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

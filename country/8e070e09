@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  38340
+#  52360
+#  64282
+#  74847
+#  88760
+#  103745
+#  116012
+#  125785
+#
+# Disc length: 1808 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.30
+#
+DISCID=8e070e09
+DTITLE=Johnny Cash - Blood, Sweat and Tears
+DYEAR=1900
+DGENRE=
+TTITLE0=The Legend of John Henry's Hammer
+TTITLE1=Tell Him I'm Gone
+TTITLE2=Another Man Done Gone
+TTITLE3=Busted
+TTITLE4=Casey Jones
+TTITLE5=Nine Pound Hammer
+TTITLE6=Chain Gang
+TTITLE7=Waiting for A Train
+TTITLE8=Roughneck
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

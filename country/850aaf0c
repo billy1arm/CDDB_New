@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16934
+#	35333
+#	53399
+#	68365
+#	86313
+#	105426
+#	121633
+#	137448
+#	155538
+#	170074
+#	185799
+#
+# Disc length: 2737 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=850aaf0c
+DTITLE=Jessica Andrews - Who Am I
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Now I Know
+TTITLE1=Every Time
+TTITLE2=I Don't Like Anymore
+TTITLE3=Karma
+TTITLE4=Helplessly, Hoplessly, Recklessly
+TTITLE5=Who Am I
+TTITLE6=These Wings
+TTITLE7=Never Had It So Good
+TTITLE8=Make Me Love You
+TTITLE9=Wishing Well
+TTITLE10=Good Friend To Me
+TTITLE11=Show Me Heaven
+EXTD=YEAR: 2001 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

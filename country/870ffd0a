@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	38580
+#	66100
+#	107860
+#	115250
+#	132037
+#	164885
+#	208600
+#	228490
+#	257257
+#
+# Disc length: 4095 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=870ffd0a
+DTITLE=Chopin, Frederic - Piano Sonata No.2 etc. (Mikhail Pletnev)
+DYEAR=1988
+DGENRE=Classical
+TTITLE0=Piano Sonata No.2 in B flat minor, Op.35 - 1. Grave - Doppio movimento
+TTITLE1=Piano Sonata No.2 in B flat minor, Op.35 - 2. Scherzo
+TTITLE2=Piano Sonata No.2 in B flat minor, Op.35 - 3. Marche funebre. Lento
+TTITLE3=Piano Sonata No.2 in B flat minor, Op.35 - 4. Finale. Presto
+TTITLE4=Nocturne, Op.15 - No.2 in F sharp major
+TTITLE5=Nocturne, Op.62 - No.2 in E major
+TTITLE6=Barcarolle in F sharp major, Op.60
+TTITLE7=Nocturne, Op.72 - No.2 in C sharp minor
+TTITLE8=Nocturne, Op.48 - No.1 in C minor
+TTITLE9=Scherzo No.2 in B flat minor, Op.31
+EXTD=YEAR: 1988 ID3G: 32
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

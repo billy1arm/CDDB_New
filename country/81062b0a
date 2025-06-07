@@ -1,0 +1,47 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	9905
+#	20240
+#	37155
+#	49212
+#	60657
+#	76062
+#	87240
+#	97440
+#	107172
+#
+# Disc length: 1581
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+# Normalized: r1:DSWAP,DSETVAR1,TDELIM( - );r2:TSWAP
+#
+DISCID=81062b0a
+DTITLE=Various Artist - Strictly Trucking
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Del Reeves - Looking at the World Through a Windshield
+TTITLE1=Dave Dudley - Six Days on the Road
+TTITLE2=Ferlin Husky - Giddyup Go
+TTITLE3=Red Steagull - Truck Driving Man
+TTITLE4=Willis Brothers - Give Me Forty Acres (To Turn this Rig Around)
+TTITLE5=Red Simpson - I'm a Truck
+TTITLE6=Johnny Russell - King of the Road
+TTITLE7=Stoney Cooper and Wilma Lee - There's a Big Wheel
+TTITLE8=Dennis Olson - Truck Drivin' Outlaw
+TTITLE9=Al Hirt and Ace Cannon - Gotta Travel On
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13405
+#     24997
+#     38872
+#     53480
+#     67387
+#     80765
+#     95367
+#     108077
+#     118915
+# 
+# Disc length: 1812 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8307120a
+DTITLE=Various Artist - Platinum Country
+DYEAR=1900
+DGENRE=
+TTITLE0=Love's Got a Hold On You - Alan Jackson
+TTITLE1=Take Your Memory with you - Vince Gill
+TTITLE2=If Your Heart Ain't Busy Tonight- Tanya Tucker
+TTITLE3=Some Girls Do - Sawyer Brown
+TTITLE4=Norma Jean Riley - Diamond RIO
+TTITLE5=My Next Broken Heart - Brooks and Dunn
+TTITLE6=Don't Tell Me What To Do - Pam Tillis
+TTITLE7=There Ain't Nothin' Wrong With The Radio - Aaron Tippin
+TTITLE8=Old Flames with New Names - Mark Chestnut
+TTITLE9=Could've Been Me - Billy Ray Cyrus
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

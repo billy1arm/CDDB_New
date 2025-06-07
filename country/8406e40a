@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11343
+#	26393
+#	39590
+#	54455
+#	65193
+#	78765
+#	89710
+#	104053
+#	119633
+#
+# Disc length: 1766 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8406e40a
+DTITLE=Various Artist - Number 1 Country Stars - Vol. 4
+DYEAR=1996
+DGENRE=Country
+TTITLE0=Above And Beyond (The Call of Love) - Rodney Crowell
+TTITLE1=Nothing I Can Do About It Now - Willie Nelson
+TTITLE2=Fourteen Minutes Old - Doug Stone
+TTITLE3=Let's Stop Talkin' About It - Janie Frickie
+TTITLE4=From A Jack To A King - Ricky Van Shelton
+TTITLE5=The Church On Cumberland Road - Shenandoah
+TTITLE6=Uncle Pen - Ricky Skaggs
+TTITLE7=Tennessee Flatt Top Box - Rosanne Cash
+TTITLE8=Crazy For Your Love - Exile
+TTITLE9=Your Heart's Not In It - Janie Frickie
+EXTD=YEAR: 1996
+EXTT0=Rodney Crowell
+EXTT1=Willie Nelson
+EXTT2=Doug Stone
+EXTT3=Janie Frickie
+EXTT4=Ricky Van Shelton
+EXTT5=Shenandoah
+EXTT6=Ricky Skaggs
+EXTT7=Rosanne Cash
+EXTT8=Exile
+EXTT9=Janie Frickie
+PLAYORDER=

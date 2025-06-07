@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16810
+#	38770
+#	55130
+#	73637
+#	90585
+#	106440
+#	121197
+#	139375
+#	154410
+#
+# Disc length: 2346 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=8209280a
+DTITLE=Emmylou Harris - Luxury Liner
+DYEAR=1900
+DGENRE=
+TTITLE0=Luxury Liner
+TTITLE1=Panch and Lefty
+TTITLE2=Making Believe
+TTITLE3=You're Supposed To Be Feeling Good
+TTITLE4=I'll Be Your San Antonio Rose
+TTITLE5=(You Never Can Tell) C'est La Vie
+TTITLE6=When I Stop Dreaming
+TTITLE7=Hello Stranger
+TTITLE8=She
+TTITLE9=Tulsa Queen
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

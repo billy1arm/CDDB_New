@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11492
+#	19668
+#	38063
+#	54338
+#	63993
+#	78475
+#	99280
+#	109925
+#	126640
+#	144328
+#
+# Disc length: 2172 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=89087a0b
+DTITLE=Various Artist - Country Christmas 2002
+DYEAR=2002
+DGENRE=Christmas
+TTITLE0=Lee Ann Womack - The Man With A Bag
+TTITLE1=Martina Mcbride - Let It Snow! Let It Snow! Let It Snow!
+TTITLE2=Jo Dee Messina - Oh Holy Night
+TTITLE3=Toby Keith - All I Want For Christmas
+TTITLE4=George Strait - Santa's On His Way
+TTITLE5=Gary Allan - Let's Be Naughty (And Save Santa The Trip)
+TTITLE6=Jamie O'Neal - Silent Night
+TTITLE7=Trick Pony - Winter Wonderland
+TTITLE8=Blake Shelton - I'll Be Home For Christmas
+TTITLE9=John Michael Montgomery - The Christmas Song
+TTITLE10=Lila McCann - Christmas Time Is Here Again
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

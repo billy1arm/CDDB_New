@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17893
+#	31191
+#	47519
+#	62827
+#	81072
+#	96899
+#	115892
+#	133939
+#	152397
+#	168688
+#
+# Disc length: 2451 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8809910b
+DTITLE=Taylor Swift - Taylor Swift
+DYEAR=2008
+DGENRE=Country
+TTITLE0=1 - Taylor Swift - Tim McGraw
+TTITLE1=2 - Taylor Swift - Picture to Burn
+TTITLE2=3 - Taylor Swift - Teardrops on my Guitar
+TTITLE3=4 - Taylor Swift - A Place in This World
+TTITLE4=5 - Taylor Swift - Cold As You
+TTITLE5=6 - Taylor Swift - The Outside
+TTITLE6=7 - Taylor Swift - Tied Together With a Smile
+TTITLE7=8 - Taylor Swift - Stay Beautiful
+TTITLE8=9 - Taylor Swift - Should've Said No
+TTITLE9=10 - Taylor Swift - Mary's Song
+TTITLE10=11 - Taylor Swift - Our Song
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

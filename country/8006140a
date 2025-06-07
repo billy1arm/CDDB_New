@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10710
+#	21397
+#	32872
+#	44097
+#	57547
+#	68085
+#	79747
+#	93210
+#	106410
+#
+# Disc length: 1558 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8006140a
+DTITLE='Little' Jimmy Dickens - Inducted Into The Hall of Fame, 1983
+DYEAR=1998
+DGENRE=Country
+TTITLE0=May The Bird of Paradise Fly Up Your Nose
+TTITLE1=A-Sleeping At The Foot of The Bed
+TTITLE2=Country Boy
+TTITLE3=Out Behind The Barn
+TTITLE4=My Heart's Bouquet
+TTITLE5=Hillbilly Fever
+TTITLE6=Take An Old 'Tater (And Wait)
+TTITLE7=The Violet And A Rose
+TTITLE8=Another Bridge To Burn
+TTITLE9=Alabam
+EXTD=YEAR: 1998 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

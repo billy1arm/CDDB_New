@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17142
+#	33174
+#	49751
+#	63308
+#	88530
+#	102249
+#	114184
+#	133391
+#	147423
+#
+# Disc length: 2322 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30PlusFR
+#
+DISCID=8409100a
+DTITLE=Compil - Texas one star
+DYEAR=1900
+DGENRE=Country
+TTITLE0=01 - Painted ladies - W. A. Ran
+TTITLE1=02 - Friend of the devil - Jerry 
+TTITLE2=03 - Luckenbach, Texas - Chips Moman
+TTITLE3=04 - Me and my uncle - Phill
+TTITLE4=05 - In my own way - Cardwell
+TTITLE5=06 - Fast train - Billy Joe Shaver
+TTITLE6=07 - Bluebirds are singing for me - traditional
+TTITLE7=08- - Wild horses - Migk Jagger
+TTITLE8=09 - Here I am again - Rich Helt
+TTITLE9=10 - Desperados waiting for the train - Guy Clark
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

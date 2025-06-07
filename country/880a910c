@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13610
+#	28517
+#	47244
+#	66446
+#	83293
+#	100497
+#	119904
+#	135981
+#	151631
+#	168063
+#	187500
+#
+# Disc length: 2707 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=880a910c
+DTITLE=Fairplay - Ein Fall für Zwei
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Ein Fall für Zwei
+TTITLE1=Es tut nicht mehr weh (solang J.Daniels zu mir hält)
+TTITLE2=Wenn ein Mann...
+TTITLE3=Highwaydesperado
+TTITLE4=Außer Tresen nichts gewesen
+TTITLE5=Schatten und Licht
+TTITLE6=Ich bin da
+TTITLE7=Jeder Mensch braucht ein Zuhaus
+TTITLE8=Countrynight im Bürgerhaus
+TTITLE9=Hart, hart, hart
+TTITLE10=Gelegenheit macht Liebe
+TTITLE11=Märchenschloß
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

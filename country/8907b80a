@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13618
+#     22718
+#     33010
+#     41750
+#     52393
+#     62425
+#     70743
+#     131978
+#     138735
+# 
+# Disc length: 1978 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8907b80a
+DTITLE=Gene Autry - Christmas Classics
+DYEAR=1900
+DGENRE=
+TTITLE0=Rudolph the Red Nose Reindeer
+TTITLE1=Jingle Bells
+TTITLE2=Here Comes Santa Claus
+TTITLE3=Frosy the Snowman
+TTITLE4=Buone Natale
+TTITLE5=Silver Bells
+TTITLE6=32 Feet and Eight little Tails
+TTITLE7=The Story of the Nativity
+TTITLE8=Silent Night
+TTITLE9=Up on the House Top
+EXTD=
+EXTT0=Rudolph the Red Nose Reindeer\n
+EXTT1=Jingle Bells\n
+EXTT2=Here Comes Santa Claus\n
+EXTT3=Frosty the Snowman\n
+EXTT4=Buone Natale\n
+EXTT5=Silver Bells\n
+EXTT6=32 Feet and Eight little Tails\n
+EXTT7=The Story of the Nativity\n
+EXTT8=Silent Night\n
+EXTT9=Up on the House Top\n
+PLAYORDER=

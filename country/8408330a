@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#       182
+#       15057
+#       32967
+#       46022
+#       62805
+#       80197
+#       95255
+#       110182
+#       125087
+#       143110
+#
+# Disc length: 2101 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8408330a
+DTITLE=Michelle Wright - Michelle Wright
+DYEAR=1900
+DGENRE=
+TTITLE0=All You Really Wanna Do
+TTITLE1=New Kind Of Love
+TTITLE2=Woman's Intuition
+TTITLE3=Wide Open
+TTITLE4=Not Enough Love To Go 'Round
+TTITLE5=The Longest Night
+TTITLE6=The Dust Ain't Settled Yet
+TTITLE7=A Heartbeat Away
+TTITLE8=Like A Hurricane
+TTITLE9=As Far As Lonely Goes
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

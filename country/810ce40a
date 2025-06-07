@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	24218
+#	48793
+#	76270
+#	99026
+#	123632
+#	149790
+#	168808
+#	195741
+#	223890
+#
+# Disc length: 3302 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta1
+#
+DISCID=810ce40a
+DTITLE=Traditional Native American Music - Spirit of the Wind
+DYEAR=1999
+DGENRE=Native American
+TTITLE0=Kisaka (Rejoice)
+TTITLE1=Cheyenne Chief
+TTITLE2=Lene Tawi (Flute Song)
+TTITLE3=Mourning Song for a Chief
+TTITLE4=Klawulacha (Totem)
+TTITLE5=Father-Sun
+TTITLE6=Spirit Dance
+TTITLE7=Ockaya
+TTITLE8=Mountain Chant
+TTITLE9=Moons Lullaby
+EXTD=YEAR: 1999 ID3G:  64
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

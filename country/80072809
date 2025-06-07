@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14097
+#	45172
+#	56225
+#	66585
+#	78605
+#	89807
+#	106417
+#	122550
+#
+# Disc length: 1834 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=80072809
+DTITLE=Tanya Tucker - Live
+DYEAR=1900
+DGENRE=
+TTITLE0=Halfway To Heaven
+TTITLE1=Medley
+TTITLE2=The Jamestown Ferry
+TTITLE3=Somebody Buy This Cowgirl A Beer
+TTITLE4=Can I See You Tonight
+TTITLE5=Pecos Promenade
+TTITLE6=The Night They Drove Old Dixie Down
+TTITLE7=Delta Dawn
+TTITLE8=Texas (When I Die)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9825
+#	23005
+#	33905
+#	48552
+#	60570
+#	72512
+#	87290
+#	99235
+#	112302
+#	127629
+#
+# Disc length: 1885 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=82075b0b
+DTITLE=Frankie Laine - Frankie Laine -  Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Rawhide
+TTITLE1=Moonlight Gambler
+TTITLE2=I Believe
+TTITLE3=Don't Fence Me In
+TTITLE4=Strange Lade In Town
+TTITLE5=Rose, Rose, I Love You
+TTITLE6=There Must Be A Reason
+TTITLE7=Answer Me, My Love
+TTITLE8=High Noon
+TTITLE9=Jealousy
+TTITLE10=Cool Water
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

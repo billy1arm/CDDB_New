@@ -1,0 +1,47 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	11895
+#	27078
+#	38568
+#	58348
+#	71793
+#	85248
+#	101548
+#	115213
+#	128850
+#
+# Disc length: 1904
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.11 
+# Normalized: r0:DSETVAR1,TDELIM( - )
+#
+DISCID=85076e0a
+DTITLE=Various Artist - Country Festival
+DYEAR=1900
+DGENRE=Country
+TTITLE0=The Kendalls - I'm Already Blue
+TTITLE1=Joe Sun - Old Flames
+TTITLE2=The Cates - I've Been Loving You Too  Long
+TTITLE3=Max D. Barnes - Cowboys Are Common As Sin
+TTITLE4=Sheila Andrews - Love Me Like A Woman
+TTITLE5=Joe SUn - I'd Rather Go On Hurting
+TTITLE6=The Kendalls - Just Like Real People
+TTITLE7=The Cates - Make Love To Me
+TTITLE8=Max D. Barnes - Rough Around The Edges
+TTITLE9=Sheila Andrews (with Joe Sun) - What I Had With You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

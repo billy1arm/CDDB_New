@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16337
+#	34697
+#	51420
+#	64630
+#	78582
+#	96577
+#	110132
+#	128237
+#	146302
+#
+# Disc length: 2142 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=8b085c0a
+DTITLE=The Bellamy Brothers - Crazy From The Heart
+DYEAR=1900
+DGENRE=
+TTITLE0=Crazy From the Heart
+TTITLE1=I'll Give You All My Love Tonight
+TTITLE2=Santa Fe
+TTITLE3=It's Raining Girls
+TTITLE4=Ying Yang
+TTITLE5=Melt down
+TTITLE6=Ramblin' Again
+TTITLE7=We Don't Wanna Go For It
+TTITLE8=Your Name
+TTITLE9=White Trash
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

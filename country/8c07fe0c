@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15612
+#	25280
+#	41455
+#	52715
+#	65222
+#	76580
+#	87482
+#	101965
+#	116405
+#	128400
+#	143312
+#
+# Disc length: 2048 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=8c07fe0c
+DTITLE=Roland Cedermark - Roland Cedermark In Country
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Help Me Make It Through The Night
+TTITLE1=Roses Are Red
+TTITLE2=Green Green Grass Of Home
+TTITLE3=Oh, Lonesome Me
+TTITLE4=I Can't Help It
+TTITLE5=Tennessee Waltz
+TTITLE6=Jambalaya
+TTITLE7=I Love You Because
+TTITLE8=Johnny Guitar
+TTITLE9=Nya Vindar
+TTITLE10=Symfoni
+TTITLE11=My Old Kentucky Home
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	8547
+#	22947
+#	33830
+#	46572
+#	57165
+#	71780
+#	85137
+#	97860
+#	108367
+#	122827
+#	132015
+#
+# Disc length: 1952 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=83079e0c
+DTITLE=Jim Reeves - Twelve Songs Of Christmas
+DYEAR=1900
+DGENRE=
+TTITLE0=Jingle Bells
+TTITLE1=Blue Christmas
+TTITLE2=Senor Santa Claus
+TTITLE3=An Old Christmas Card
+TTITLE4=The Merry Christmas Polka
+TTITLE5=White Christmas
+TTITLE6=Silver Bells
+TTITLE7=C-H-R-I-S-T-M-A-S
+TTITLE8=O Little Town Of Bethlehem
+TTITLE9=Mary's Little Boy Child
+TTITLE10=Oh Come, All Ye Faithful (Adeste Fideles)
+TTITLE11=Silent Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

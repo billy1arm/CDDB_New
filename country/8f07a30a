@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19842
+#     34495
+#     47130
+#     61352
+#     74407
+#     87127
+#     99847
+#     112335
+#     131140
+# 
+# Disc length: 1957 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8f07a30a
+DTITLE=Various Artist - The Top Country Hits of 1994
+DYEAR=1900
+DGENRE=
+TTITLE0=I swear
+TTITLE1=Summertime Blues
+TTITLE2=what the Cowgirls do
+TTITLE3=Third rock from the sun
+TTITLE4=Down on the farm
+TTITLE5=XXX's and OOO's
+TTITLE6=Wink
+TTITLE7=A good run of Bad luck
+TTITLE8=Little rock
+TTITLE9=That Ain't no way to go
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

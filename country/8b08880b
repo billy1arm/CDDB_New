@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10045
+#	23727
+#	39005
+#	53227
+#	72937
+#	88590
+#	103577
+#	117802
+#	130452
+#	147482
+#
+# Disc length: 2186 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8b08880b
+DTITLE=Clay Walker - If I Could Make A Living
+DYEAR=1994
+DGENRE=Country
+TTITLE0=If I Could Make A Living
+TTITLE1=The Melrose Avenue Cinema Two
+TTITLE2=My Heart Will Never Know
+TTITLE3=What Do You Want For Nothin'
+TTITLE4=This Woman And This Man
+TTITLE5=Boogie Till The Cows Come Home
+TTITLE6=Heartache Highway
+TTITLE7=You Make It Look So Easy
+TTITLE8=Lose Your Memory
+TTITLE9=Money Ain't Everything
+TTITLE10=Down By The Riverside
+EXTD=YEAR: 1994 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

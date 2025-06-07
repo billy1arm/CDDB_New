@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9997
+#	20619
+#	30280
+#	38200
+#	50689
+#	58445
+#	67760
+#	76850
+#	88172
+#	95580
+#	108260
+#
+# Disc length: 1572 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=8f06220c
+DTITLE=Steve Sparkman - Smith Ridge
+DYEAR=1900
+DGENRE=
+TTITLE0=Booger Mule
+TTITLE1=Clinch Mountain Backstep
+TTITLE2=Smith Ridge
+TTITLE3=Careless Love
+TTITLE4=Hard Times
+TTITLE5=Slick Willie
+TTITLE6=Lisa's Joy
+TTITLE7=Big Tilda
+TTITLE8=Roundeye
+TTITLE9=Chicken Reel
+TTITLE10=Mastertone March
+TTITLE11=Cripple Creek
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

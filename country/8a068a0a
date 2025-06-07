@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10642
+#	22453
+#	34731
+#	46010
+#	57254
+#	65914
+#	80719
+#	95864
+#	107878
+#
+# Disc length: 1676 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8a068a0a
+DTITLE=The People - Country Legends Volume 2
+DYEAR=2004
+DGENRE=Country
+TTITLE0=Kris Kristofferson - Help Me Make It Through The Night
+TTITLE1=Kenny Rogers - Me and Bobby McGee
+TTITLE2=Willie Nelson - Shelter Yourr Arms
+TTITLE3=Tmmy Wynette - Stand By Your Man
+TTITLE4=Lynn Anderson - Even Cowgirls Get The Blue
+TTITLE5=Jim Reeves - If You Were Mine
+TTITLE6=Jeannie C Riley - Herper Valley P.T.A.
+TTITLE7=Billie Jo Spears - Blanket On The Ground
+TTITLE8=Charlie Rich - The Most Beautiful Girl In The World
+TTITLE9=Billy Swan - I can Help
+EXTD=YEAR: 2004 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd
+# Copyright (c) 1998 CDDB Inc.
+#
+# Track frame offsets:
+#	150
+#	10604
+#	24580
+#	47266
+#	65969
+#	83330
+#	98510
+#	114983
+#	140915
+#	158107
+#	173404
+#	192877
+#
+# Disc length: 2838 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.70
+#
+DISCID=870b140c
+DTITLE=Various Artist - Pickin' on Clapton
+DYEAR=1900
+DGENRE=
+TTITLE0=Cocaine
+TTITLE1=Promises
+TTITLE2=Sunshine of Your Love
+TTITLE3=Knockin' on Heaven's Door
+TTITLE4=Wonderful Tonight
+TTITLE5=Lay Down Sally
+TTITLE6=After Midnight
+TTITLE7=Layla
+TTITLE8=I Shot the Sheriff
+TTITLE9=Crossroads
+TTITLE10=Tears in Heaven
+TTITLE11=White Room
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

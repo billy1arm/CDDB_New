@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13550
+#  25120
+#  34972
+#  48370
+#  62590
+#  74315
+#  87917
+#  99517
+#  123775
+#  133845
+#
+# Disc length: 1920 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.20
+#
+DISCID=8b077e0b
+DTITLE=Waylon Jennings - Cowboys, Sisters, Rascals and Dirt
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm Little
+TTITLE1=I Just Can't Wait
+TTITLE2=When I Get Big
+TTITLE3=All of my Sisters are Girls
+TTITLE4=A Bad Day
+TTITLE5=Dirt
+TTITLE6=Cowboy Movies
+TTITLE7=If I Could Only Fly
+TTITLE8=Useless (The Little Horse That Wouldn't Grow)
+TTITLE9=Small Packages
+TTITLE10=Shooter's Theme
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	11197
+# 	23167
+# 	34112
+# 	51437
+# 	66917
+# 	80160
+# 	96192
+# 	106460
+# 	119605
+#
+# Disc length: 1771 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=8c06e90a
+DTITLE=Crystal Gayle - Classic Crystal
+DYEAR=1900
+DGENRE=
+TTITLE0=Somebody Loves You
+TTITLE1=Don't It Make My Brown Eyes Blue
+TTITLE2=Ready For The Times To Get Better
+TTITLE3=You Never Miss A Real Good Thing ('Til He Says Goodbye)
+TTITLE4=When I Dream
+TTITLE5=I'll Do It All Over Again
+TTITLE6=I'll Get Over You
+TTITLE7=Wrong Road Again
+TTITLE8=Talking In Your Sleep
+TTITLE9=Why Have You Left The One You Left Me For
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

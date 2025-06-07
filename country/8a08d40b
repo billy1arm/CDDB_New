@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  16775
+#  33462
+#  43467
+#  62690
+#  74800
+#  84920
+#  101287
+#  120022
+#  137352
+#  156527
+#
+# Disc length: 2262 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8a08d40b
+DTITLE=Steve Young - Rock Salt and Nails
+DYEAR=1900
+DGENRE=country
+TTITLE0=That's How Strong My Love Is
+TTITLE1=Rock Salt and Nails
+TTITLE2=I'm a One Woman Man
+TTITLE3=Coyote
+TTITLE4=Gonna Find Me a Bluebird
+TTITLE5=Love in My Time
+TTITLE6=Seven Bridges Road
+TTITLE7=Kenny's Song
+TTITLE8=Holler in the Swamp
+TTITLE9=Hoboin'
+TTITLE10=My Sweet Love Ain't Around
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

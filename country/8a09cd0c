@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	225
+#	19780
+#	34797
+#	50195
+#	63000
+#	76747
+#	98450
+#	117202
+#	130015
+#	142947
+#	159595
+#	172905
+#
+# Disc length: 2512 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8a09cd0c
+DTITLE=Roger Whittaker - A Time For Peace
+DYEAR=1900
+DGENRE=country
+TTITLE0=Hallelujah It's Christmas
+TTITLE1=Mighty Like A Rose
+TTITLE2=Christmas Song
+TTITLE3=Country Christmas
+TTITLE4=Darcy The Dragon
+TTITLE5=The Govenor's Dream
+TTITLE6=Momma Mary
+TTITLE7=Guten Abend Gute Nacht
+TTITLE8=Home For Christmas
+TTITLE9=A Time For Peace
+TTITLE10=Christmas Is Here Again
+TTITLE11=Tiny Angels
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

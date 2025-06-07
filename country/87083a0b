@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	200
+#	14590
+#	30752
+#	47647
+#	60950
+#	74815
+#	90852
+#	105025
+#	119075
+#	131590
+#	146385
+#
+# Disc length: 2108 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5.4
+#
+DISCID=87083a0b
+DTITLE=E-Flat Porch Band - Porch Music
+DYEAR=1900
+DGENRE=
+TTITLE0=I Don't Worry About A Thing
+TTITLE1=Tore Down
+TTITLE2=Do Re Mi
+TTITLE3=Deep River Blues
+TTITLE4=Lonesome Cowboy Lullaby
+TTITLE5=White Freight Liner Blues
+TTITLE6=Sunday Street
+TTITLE7=Branson
+TTITLE8=Pig Meat
+TTITLE9=Two Trains
+TTITLE10=No Moon At All
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

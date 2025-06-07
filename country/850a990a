@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21254
+#	48788
+#	73918
+#	88876
+#	116860
+#	131605
+#	151900
+#	166886
+#	190731
+#
+# Disc length: 2715 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta1
+#
+DISCID=850a990a
+DTITLE=Good Sons - Wines, lines and valentines
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Angels in the end
+TTITLE1=When I was an outlaw
+TTITLE2=Mathilda
+TTITLE3=Fade away
+TTITLE4=The sun won't shine today
+TTITLE5=The losing kind
+TTITLE6=Cosmic fireworks
+TTITLE7=Romeo hit the road
+TTITLE8=Higher ground
+TTITLE9=35 regrets
+EXTD=YEAR: 1997 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

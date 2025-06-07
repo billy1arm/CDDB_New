@@ -1,0 +1,54 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17699
+#	32930
+#	46707
+#	67099
+#	83914
+#	99469
+#	116259
+#	130801
+#	144260
+#	165281
+#	180046
+#
+# Disc length: 2631 seconds
+#
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=890a450c
+DTITLE=Michel Fugain - Bravo et merci !
+DYEAR=2007
+DGENRE=Chanson
+TTITLE0=Je parlerai de toi
+TTITLE1=Amours grigri
+TTITLE2=La vie
+TTITLE3=La terre est servie
+TTITLE4=J'ai chanté
+TTITLE5=La rue du babouin
+TTITLE6=Alleluia
+TTITLE7=Ca dure un jour
+TTITLE8=Les imbéciles heureux
+TTITLE9=Le président
+TTITLE10=Derriere une chanson
+TTITLE11=Bravo et merci
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

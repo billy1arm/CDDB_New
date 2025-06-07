@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	17562
+#	30135
+#	44617
+#	63295
+#	76450
+#	92375
+#	113132
+#	127805
+#	141940
+#	156432
+#
+# Disc length: 2300 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta0
+#
+DISCID=8008fa0b
+DTITLE=Trace Adkins - Big Time
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Big Time
+TTITLE1=Took Her To The Moon
+TTITLE2=The Rest Of Mine
+TTITLE3=Snowball In El Paso
+TTITLE4=See Jane Run
+TTITLE5=Twenty-Four, Seven
+TTITLE6=Hold You Now
+TTITLE7=Nothin' But Taillights
+TTITLE8=Lonely Won't Leave Me Alone
+TTITLE9=Out of My Dreams
+TTITLE10=Wayfaring Stranger
+EXTD=YEAR: 1997 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

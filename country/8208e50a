@@ -1,0 +1,46 @@
+# xmcd
+#
+# Track frame offsets:
+#	182
+#	16957
+#	30570
+#	47790
+#	63537
+#	82180
+#	98387
+#	113670
+#	133732
+#	149362
+#
+# Disc length: 2279 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: MusicManager 7.2.0.0 
+#
+DISCID=8208e50a
+DTITLE=Confederate Railroad - Notorious
+DYEAR=1994
+DGENRE=Country
+TTITLE0=Daddy Never Was The Cadillac Kind
+TTITLE1=Summer In Dixie
+TTITLE2=I Am Just A Rebel
+TTITLE3=Elvis And Andy
+TTITLE4=Notorious
+TTITLE5=Redneck Romeo
+TTITLE6=Hunger Pains
+TTITLE7=Roll The Dice
+TTITLE8=Move Over Madonna
+TTITLE9=Three Verses
+EXTD=more info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Composer;Date,Artist,Location,State,Country) YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

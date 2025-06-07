@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16585
+#	31743
+#	48580
+#	66763
+#	86878
+#	103758
+#	116425
+#	130285
+#	146705
+#
+# Disc length: 2156 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=84086a0a
+DTITLE=Various Artist - No.1 Country Stars Vol. 7
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Exile - She's Too Good To Be True
+TTITLE1=Ricky Van Shelton - Living Proof
+TTITLE2=Shenandoah - Two Dozen Roses
+TTITLE3=Rosanne Cash - Runaway Train
+TTITLE4=Rodney Crowell - After All This Time
+TTITLE5=Ricky Skeggs - Cajun Moon
+TTITLE6=Vern Gosdin - I'm Still Crazy
+TTITLE7=Ricky Van Shelton - Statue Of A Fool
+TTITLE8=Shenandoah - Ghost In This House
+TTITLE9=Joe Diffie - Home
+EXTD=
+EXTT0=Exile
+EXTT1=Ricky Van Shelton
+EXTT2=Shenandoah
+EXTT3=Rosanne Cash
+EXTT4=Rodney Crowell
+EXTT5=Ricky Skaggs
+EXTT6=Vern Gosdin
+EXTT7=Ricky Van Shelton
+EXTT8=Shenandoah
+EXTT9=Joe Diffie
+PLAYORDER=

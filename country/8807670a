@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19073
+#	32305
+#	44125
+#	51368
+#	71953
+#	88040
+#	100214
+#	121276
+#	136091
+#
+# Disc length: 1897 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8807670a
+DTITLE=Fred Eaglesmith - Fred J. Eaglesmith
+DYEAR=1979
+DGENRE=Country
+TTITLE0=Old Coach Driver
+TTITLE1=Trough The Motions
+TTITLE2=Take Your Things
+TTITLE3=Do You Love Me Now
+TTITLE4=The Highway Callin'
+TTITLE5=Take Her in Your Arms
+TTITLE6=Comes and Goes
+TTITLE7=The Town of Clarkson
+TTITLE8=Someday It Will All Be Gone
+TTITLE9=Rainy Day Blues
+EXTD=YEAR: 1979 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

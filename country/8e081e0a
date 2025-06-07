@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	13955
+#	26572
+#	44932
+#	57937
+#	72237
+#	88610
+#	108177
+#	124935
+#	139590
+#
+# Disc length: 2080 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8e081e0a
+DTITLE=Steve Wariner - Laredo
+DYEAR=1990
+DGENRE=Country
+TTITLE0=I Can See Arkansas
+TTITLE1=Precious Thing
+TTITLE2=Where Fools Are Kings
+TTITLE3=L-O-V-E, Love
+TTITLE4=She's In Love
+TTITLE5=The Domino Theory
+TTITLE6=There For Awhile
+TTITLE7=I Wanna Go Back
+TTITLE8=While I'm Holding You Tonight
+TTITLE9=When Times Were Hard
+EXTD=more info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Composer;Date,Artist,Location,State,Country) YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

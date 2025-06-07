@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13250
+#     28233
+#     44535
+#     56368
+#     77580
+#     98148
+#     115623
+#     129395
+#     146865
+# 
+# Disc length: 2140 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=83085a0a
+DTITLE=Various Artist - COUNTRY LOVE SONGS
+DYEAR=1900
+DGENRE=
+TTITLE0=I WILL ALWAYS LOVE YOU
+TTITLE1=NOBODY
+TTITLE2=WHEN WE MAKE LOVE
+TTITLE3=I HAVE LOVED YOU, GIRL
+TTITLE4=WITH YOU
+TTITLE5=IN LOVE
+TTITLE6=THE MOON IS STILL OVER HER SHOULDER
+TTITLE7=OLD FLAME
+TTITLE8=BOTH TO EACH OTHER
+TTITLE9=TILL I LOVED YOU
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

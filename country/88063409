@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18562
+#     30250
+#     44872
+#     59831
+#     73125
+#     79310
+#     89587
+#     110236
+# 
+# Disc length: 1590 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=88063409
+DTITLE=Red Sovine - Giddy-Up-Go
+DYEAR=1900
+DGENRE=
+TTITLE0=Giddy-Up-Go
+TTITLE1=Hitch Hiking Girl
+TTITLE2=Bringing Mary Home
+TTITLE3=I'd Love To Make Love To You
+TTITLE4=Flesh And Blood
+TTITLE5=Wildcat Run
+TTITLE6=I'll Sail My Ship Alone
+TTITLE7=Daddy
+TTITLE8=Lonely Arms Of Mine
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

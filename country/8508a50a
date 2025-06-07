@@ -1,0 +1,49 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	20422
+#	40042
+#	53732
+#	71560
+#	85592
+#	100717
+#	118355
+#	130150
+#	149605
+#
+# Disc length: 2215 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8508a50a
+DTITLE=Glen Campbell - Home For The Holidays
+DYEAR=1900
+DGENRE=
+TTITLE0=The Christmas Song
+TTITLE1=Away In A Manger Medley: Away In A Manger/O Little Town
+TTITLE1=Of Bethlehem/The First Noel
+TTITLE2=It Came Upon A Midnight Clear
+TTITLE3=Little Drummer Boy
+TTITLE4=What Child Is This?
+TTITLE5=I'll Be Home For Christmas
+TTITLE6=Hark The Herald Angels Medley: O Come, O Come Emmanuel/
+TTITLE6=We Three Kings/Hark The Herald Angels
+TTITLE7=Silent Night
+TTITLE8=Have Yourself A Merry Little Christmas
+TTITLE9=O Holy Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

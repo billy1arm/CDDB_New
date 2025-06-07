@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18325
+#	38402
+#	53535
+#	71277
+#	87390
+#	117200
+#	134435
+#	154357
+#	172380
+#	190715
+#
+# Disc length: 2872 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8c0b360b
+DTITLE=Sherri Youngward - Faces Memories Places
+DYEAR=1900
+DGENRE=
+TTITLE0=Beyond These Skies
+TTITLE1=Broadway - "The Matthew 25 song"
+TTITLE2=Stories
+TTITLE3=I Believe
+TTITLE4=Words
+TTITLE5=Underneath It All
+TTITLE6=Pedestal
+TTITLE7=Wisdom Waits
+TTITLE8=Restore
+TTITLE9=His Eyes Never Close
+TTITLE10=Peace
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15695
+#     32410
+#     47715
+#     65530
+#     86427
+#     104300
+#     116922
+#     132710
+#     149567
+# 
+# Disc length: 2214 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8e08a40a
+DTITLE=Eddy Raven - Temporary Sanity
+DYEAR=1900
+DGENRE=
+TTITLE0=Zydeco Lady
+TTITLE1=Holding On To You
+TTITLE2=In A Letter To You
+TTITLE3=Island
+TTITLE4=Little Sheba
+TTITLE5=Sooner Or Later
+TTITLE6=Bayou Boys
+TTITLE7=A Woman's Place
+TTITLE8=Angel Fire
+TTITLE9=Risky Business
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

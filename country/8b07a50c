@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12903
+#	26175
+#	39400
+#	53635
+#	63130
+#	72198
+#	83575
+#	95783
+#	105788
+#	116660
+#	135760
+#
+# Disc length: 1959 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8b07a50c
+DTITLE=Caetano Veloso, Gal Costa, Gilberto Gil and Maria Bethânia
+DTITLE=Various Artist - Serie Documento - Caetano, Gal, Gil and Bethânia
+DYEAR=1900
+DGENRE=
+TTITLE0=Cavaleiro
+TTITLE1=Eu Vim da Bahia
+TTITLE2=Roda
+TTITLE3=Pra Que Mentir?
+TTITLE4=Samba Em Paz
+TTITLE5=Sol Negro
+TTITLE6=Procissão
+TTITLE7=Sim, Foi Você
+TTITLE8=Iemanjá
+TTITLE9=Viramundo
+TTITLE10=Sorte
+TTITLE11=X do Problema
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

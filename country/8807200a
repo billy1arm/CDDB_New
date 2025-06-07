@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	182
+# 	13050
+# 	26145
+# 	44225
+# 	55945
+# 	68712
+# 	79530
+# 	94375
+# 	111812
+# 	124120
+#
+# Disc length: 1826 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=8807200a
+DTITLE=Hank Williams, Sr. and Hank Williams, Jr. - The Best of Hank and Hank
+DYEAR=1900
+DGENRE=
+TTITLE0=There's A Tear In My Beer
+TTITLE1=Jambalaya (On The Bayou)
+TTITLE2=Family Tradition
+TTITLE3=Kaw-Liga
+TTITLE4=Your Cheatin' Heart
+TTITLE5=Why Don't You Love Me
+TTITLE6=You Win Again
+TTITLE7=The Conversation
+TTITLE8=Hank
+TTITLE9=If You Don't Like Hank Williams
+EXTD=
+EXTT0=Hank Williams, Sr. and Hank Williams, Jr.
+EXTT1=Hank Williams, Sr.
+EXTT2=Hank Williams, Jr.
+EXTT3=Hank Williams, Sr.
+EXTT4=Hank Williams, Jr.
+EXTT5=Hank Williams, Sr.
+EXTT6=Hank Williams, Jr.
+EXTT7=Hank Williams, Jr.
+EXTT8=Hank Williams, Jr.
+EXTT9=Hank Williams, Jr.
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21322
+#	40697
+#	58245
+#	76280
+#	79477
+#	101440
+#	118810
+#	138982
+#	157652
+#	176362
+#
+# Disc length: 2616 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL0
+#
+DISCID=850a360b
+DTITLE=Ronnie Milsap - True Believer
+DYEAR=1900
+DGENRE=
+TTITLE0=Desire
+TTITLE1=I'm Playing For You
+TTITLE2=Somebody's Gonna Get That Girl
+TTITLE3=Better Off With The Blues
+TTITLE4=Hoss Allen Segue
+TTITLE5=True Believer
+TTITLE6=These Foolish Things (Remind Me Of You)
+TTITLE7=A Million Years 'Til Then
+TTITLE8=Desperate Man
+TTITLE9=Civil War
+TTITLE10=Please Jesus (Send My Baby Home To Me)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

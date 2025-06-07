@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17402
+#	30721
+#	44653
+#	57633
+#	78932
+#	94185
+#	118251
+#	131284
+#	140673
+#
+# Disc length: 2193 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=88088f0a
+DTITLE=Don Sampson - Coyote
+DYEAR=1983
+DGENRE=Country
+TTITLE0=Way Thw Wind Blows
+TTITLE1=Thief In Mexico
+TTITLE2=You Are The One
+TTITLE3=Call Me The Blues
+TTITLE4=Way Of A Rose
+TTITLE5=Down On The Slow Side
+TTITLE6=Love Is Like A Wheel
+TTITLE7=Stranger
+TTITLE8=Blanket Of Stars
+TTITLE9=Fine Wine Love
+EXTD=YEAR: 1983 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21295
+#	40857
+#	63658
+#	86805
+#	108668
+#	137577
+#	157452
+#	179024
+#	197221
+#
+# Disc length: 2872 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=800b360a,850b360a,990b360a
+DTITLE=Roberto Vecchioni - Sogna, ragazzo, sogna
+DYEAR=1999
+DGENRE=Pop Italiano
+TTITLE0=Sogna, ragazzo, sogna
+TTITLE1=Vorrei essere tua madre
+TTITLE2=Vedrai
+TTITLE3=Canzone per Alda Merini
+TTITLE4=I commedianti
+TTITLE5=Alamo
+TTITLE6=Incubi ricorrenti del sognatore Olsen
+TTITLE7=Ho sognato di vivere
+TTITLE8=Ritratto di signora in raso rosa
+TTITLE9=Il più grande spettacolo del mondo
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20217
+#	32525
+#	47850
+#	64925
+#	80050
+#	93555
+#	109032
+#	121637
+#	138025
+#
+# Disc length: 2000 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8107ce0a
+DTITLE=Banks Brothers - Mile To Ride
+DYEAR=1900
+DGENRE=
+TTITLE0=Snow Upon The High Plains
+TTITLE1=Tripping On Clover
+TTITLE2=Mile To Ride
+TTITLE3=Lucky Ones
+TTITLE4=Mallacoota Scooter
+TTITLE5=Bark Like A Dog
+TTITLE6=Kind Of Man
+TTITLE7=To The Water
+TTITLE8=Fiddler's Ball
+TTITLE9=Rolls Royce
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

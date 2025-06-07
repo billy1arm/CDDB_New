@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19110
+#	40042
+#	56490
+#	74517
+#	88982
+#	105205
+#	122900
+#	142480
+#	168032
+#
+# Disc length: 2423 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=8809750a
+DTITLE=Alabama - Lassoes n Spurs
+DYEAR=1900
+DGENRE=
+TTITLE0=Why Lady Why
+TTITLE1=I Taught Her Everything She Knows
+TTITLE2=Crusin'
+TTITLE3=Tar Top
+TTITLE4=Old Flame
+TTITLE5=Feels So Right
+TTITLE6=True, True Housewife
+TTITLE7=You're My Explanation For Living
+TTITLE8=Can't Forget About You
+TTITLE9=Get It While It's Hot
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

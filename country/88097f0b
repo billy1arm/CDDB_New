@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18975
+#	38475
+#	51000
+#	64950
+#	81900
+#	101550
+#	114375
+#	127725
+#	145800
+#	164400
+#
+# Disc length: 2433 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=88097f0b
+DTITLE=Mostly Robinson - Guess Who Is Here
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Guess Who Is Here
+TTITLE1=I Live For You Only
+TTITLE2=Lay Around And Love On You
+TTITLE3=Sweet Memorres
+TTITLE4=The Sun's Out Again
+TTITLE5=Yes We Were There
+TTITLE6=Busted
+TTITLE7=I Wish You Could Be Here
+TTITLE8=Rusty, Ragged Car
+TTITLE9=Let's Do It Over Again
+TTITLE10=A Place In The Sun
+EXTD=YEAR: 1997 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

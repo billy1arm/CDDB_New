@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 13435
+# 28020
+# 42472
+# 52907
+# 66230
+# 83110
+# 95122
+# 111832
+# 123542
+#
+# Disc length: 1776 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=8c06ee0a
+DTITLE=George Jones - And Friends
+DYEAR=1900
+DGENRE=
+TTITLE0=Size Seven Round (Made Of Gold)
+TTITLE1=Yesterday's Wine
+TTITLE2=If I Could Bottle This Up
+TTITLE3=Maybellene
+TTITLE4=We're Gonna Hold On
+TTITLE5=Bartender's Blues
+TTITLE6=We Must Have Been Out Of Our Minds
+TTITLE7=Night Life
+TTITLE8=You Never Looked That Good When You Were Mine
+TTITLE9=I Gotta Get Drunk
+EXTD=
+EXTT0=With Lacy J. Dalton
+EXTT1=With Merle Haggard
+EXTT2=With Shelby Lynne
+EXTT3=With Johnny Paycheck
+EXTT4=With Tammy Wynette
+EXTT5=With James Taylor
+EXTT6=With Melba Montgomery
+EXTT7=With Waylon Jennings
+EXTT8=With Patti Page
+EXTT9=With Willie Nelson
+PLAYORDER=

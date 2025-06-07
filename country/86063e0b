@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    187
+#    9920
+#    21425
+#    33347
+#    43587
+#    54800
+#    64110
+#    74175
+#    86320
+#    98355
+#    110780
+#
+# Disc length: 1600 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.3.9a  (wjohn@fix.net)
+#
+DISCID=86063e0b
+DTITLE=Loretta Lynn - 
+DTITLE=Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Come Home A 'Drinkin (With Lovin' on Yo
+TTITLE1=Before I'm Over You
+TTITLE2=If You're Not Gone Too Long
+TTITLE3=Dear Uncle Sam
+TTITLE4=The Other Woman
+TTITLE5=Wine Women and Song
+TTITLE6=You Ain't Woman Enough
+TTITLE7=Blue Kentucky Girl
+TTITLE8=Success
+TTITLE9=The Home You're Tearin' Down
+TTITLE10=Happy Birthday
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

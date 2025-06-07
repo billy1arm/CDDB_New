@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8384
+#	19302
+#	32455
+#	51315
+#	63689
+#	74607
+#	85315
+#	96564
+#	107598
+#
+# Disc length: 1584 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=83062e0a
+DTITLE=Various Artist - The 50's Decade - Country Hits
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Don Gibson - Blue Blue Day
+TTITLE1=Mitchell Torok - Caribbean
+TTITLE2=Ray Price - City Lights
+TTITLE3=Wink Martindale - Deck Of Cards
+TTITLE4=Bobby Helms - Fraulein
+TTITLE5=Ferlin Husky - Gone
+TTITLE6=Marvin Rainwater - Gonna Find Me A Bluebird
+TTITLE7=Don Gibson - Oh Lonesome Me
+TTITLE8=Hank Locklin - Send Me The Pillow You Dream On
+TTITLE9=Stonewall Jackson - Waterloo
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

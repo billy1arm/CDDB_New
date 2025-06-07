@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     9112
+#     19562
+#     39985
+#     58612
+#     62165
+#     79267
+#     90320
+#     105660
+#     120450
+#     133097
+#     146000
+# 
+# Disc length: 2019 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8f07e10c
+DTITLE=Don McLean - Playin' Favorites
+DYEAR=1900
+DGENRE=
+TTITLE0=Sitting on top of the World
+TTITLE1=Living with the blues
+TTITLE2=Mountains O'Mourne
+TTITLE3=Fool's Paradise
+TTITLE4=Love o Love
+TTITLE5=Medley:Bill Cheatham/Old Joe Clark
+TTITLE6=Everyday
+TTITLE7=Ancient History
+TTITLE8=Over the mountains
+TTITLE9=Lovesick blues
+TTITLE10=New mule skinners blues
+TTITLE11=Happy trails
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

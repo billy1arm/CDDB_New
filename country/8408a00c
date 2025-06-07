@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15292
+#	31827
+#	45847
+#	60668
+#	72819
+#	88532
+#	101149
+#	112851
+#	127872
+#	139570
+#	152828
+#
+# Disc length: 2210 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=8408a00c
+DTITLE=Jake Murphy - Made In The Shade
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Nitty Gritty
+TTITLE1=Almost Home
+TTITLE2=It's Just a Heartache
+TTITLE3=That Memory
+TTITLE4=Honey Do Honey Don't
+TTITLE5=In the Last Days of the Cold War
+TTITLE6=Made In The Shade
+TTITLE7=Eight Pounds of Love
+TTITLE8=I Believe in You
+TTITLE9=Hard Dog
+TTITLE10=Four Minus Three
+TTITLE11=Hell On Wheels
+EXTD=\nYEAR: 2000  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

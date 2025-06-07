@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20275
+#     35177
+#     54570
+#     68900
+#     89500
+#     106202
+#     125755
+#     141495
+#     158695
+# 
+# Disc length: 2355 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8e09310a
+DTITLE=Anne Murray - As I Am
+DYEAR=1900
+DGENRE=
+TTITLE0=Flying On Your Own
+TTITLE1=If I Don't Fall Tonight
+TTITLE2=You Make Me Curious
+TTITLE3=As I Am
+TTITLE4=I'm Losing Your Love
+TTITLE5=I'll Be Your Eyes
+TTITLE6=Slow All Night
+TTITLE7=Who, But You
+TTITLE8=Take It From My Heart
+TTITLE9=Slow Passin' Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

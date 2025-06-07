@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	16213
+#	31368
+#	44483
+#	60025
+#	74820
+#	92133
+#	107555
+#	123935
+#	138828
+#
+# Disc length: 2064 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=80080e0a
+DTITLE=Hank Williams Jr. - Out Of Left Field
+DYEAR=1993
+DGENRE=Country
+TTITLE0=Everything Comes Down To Money And Love
+TTITLE1=Diamond Mine
+TTITLE2=Blue Lady In A Red Mercedes
+TTITLE3=Both Sides Of Goodbye
+TTITLE4=Warm In Dallas
+TTITLE5=Out Of Left Field
+TTITLE6=Hide And Seek
+TTITLE7=Hold What You've Got
+TTITLE8=I'm Tired
+TTITLE9=Dirty Mind
+EXTD=more info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Compose YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

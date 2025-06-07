@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 14993
+# 25378
+# 37293
+# 49660
+# 60368
+# 71928
+# 86330
+# 95760
+# 106908
+#
+# Disc length: 1606 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=8c06440a
+DTITLE=George Jones - The Best Of The Best Of
+DYEAR=1900
+DGENRE=
+TTITLE0=He Stopped Loving Her Today
+TTITLE1=Walk Through This World With Me
+TTITLE2=White Lightning
+TTITLE3=Take Me
+TTITLE4=Sometimes You Just Can't Win
+TTITLE5=The Window Up Above
+TTITLE6=If Drinkin' Don't Kill Me (Her Memory Will)
+TTITLE7=The Race Is On
+TTITLE8=Say It's Not You
+TTITLE9=A Good Year For The Roses
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

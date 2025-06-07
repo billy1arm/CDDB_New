@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14440
+#     26043
+#     37163
+#     49990
+#     64470
+#     77075
+#     89710
+#     102763
+#     115855
+# 
+# Disc length: 1717 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8a06b30a
+DTITLE=Freddy Fender - Freddy Fender Greatest Hits Volume 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Wild Side Of Life
+TTITLE1=Before The Next Teardrop Falls
+TTITLE2=Mathilda
+TTITLE3=You'll Lose A Good Thing
+TTITLE4=Since I Met You Baby
+TTITLE5=Almost Pesuaded
+TTITLE6=Enter My Heart
+TTITLE7=The Girl Who Waits On Tables
+TTITLE8=Going Out With The Tide
+TTITLE9=Silver Wings
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

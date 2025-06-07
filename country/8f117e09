@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     7200
+#     16970
+#     70337
+#     125085
+#     188115
+#     252437
+#     275217
+#     306690
+# 
+# Disc length: 4480 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8f117e09
+DTITLE=Hank Williams by Sammy Kershaw - The Legend of Hank Williams 1/2
+DYEAR=1900
+DGENRE=
+TTITLE0=Introduction by Sammy Kershaw
+TTITLE1=Beginning
+TTITLE2=The Log Train (excerpts)
+TTITLE3=Meeting Audrey
+TTITLE4=Move It On Over (excerpt)
+TTITLE5=Lovesick Blues
+TTITLE6=I'm So Lonesome I Could Cry (excerpt)
+TTITLE7=Long Gone Lonesome Blues (excerpt)
+TTITLE8=Cold Cold Heart
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

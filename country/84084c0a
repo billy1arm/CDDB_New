@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15625
+#	31125
+#	45962
+#	61412
+#	76200
+#	93722
+#	108600
+#	125507
+#	141712
+#
+# Disc length: 2126 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.23
+#
+DISCID=84084c0a
+DTITLE=Dolly Parton - Real Love
+DYEAR=1985
+DGENRE=Country
+TTITLE0=Think About Love
+TTITLE1=Tie Our Love (In A Double Knot)
+TTITLE2=We Got Too Much
+TTITLE3=It's Such A Heartache
+TTITLE4=Don't Call It Love
+TTITLE5=Real Love (Duet With Kenny Rogers)
+TTITLE6=I Can't Be True
+TTITLE7=Once In A Very Blue Moon
+TTITLE8=Come Back To Me
+TTITLE9=I Hope You're Never Happy
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=Duet with Kenny Rogers\n
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

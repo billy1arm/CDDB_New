@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#  183
+#  19265
+#  39695
+#  60373
+#  84870
+#  99465
+#  114953
+#  130725
+#  147508
+#  162995
+#  185708
+#
+# Disc length: 2695 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Advanced CD Ripper Pro 2.0
+#
+DISCID=8d0a850b
+DTITLE=Varios - Tremendos Exitos Latinos Cdº1
+DYEAR=1991
+DGENRE=Latin
+TTITLE0=Track01
+TTITLE1=Track02
+TTITLE2=Track03
+TTITLE3=Track04
+TTITLE4=Track05
+TTITLE5=Track06
+TTITLE6=Track07
+TTITLE7=Track08
+TTITLE8=Track09
+TTITLE9=Track10
+TTITLE10=Track11
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

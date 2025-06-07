@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 16097
+# 28320
+# 42012
+# 61172
+# 74835
+# 96447
+# 112710
+# 128745
+# 142667
+# 164305
+#
+# Disc length: 2406 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b9
+#
+DISCID=8b09640b
+DTITLE=Merle Haggard - His Epic Hits, The First 11
+DYEAR=1984
+DGENRE=Country
+TTITLE0=Reasons to Quit
+TTITLE1=You Take Me For Granted
+TTITLE2=That's The Way Love Goes
+TTITLE3=Are the Good Times Really Over (I Wish A Buck Was Still Silver)
+TTITLE4=Big City
+TTITLE5=Pancho And Lefty
+TTITLE6=Someday When Things Are Good
+TTITLE7=What Am I Gonna Do (With The Rest Of My Life)
+TTITLE8=My Favorite Memory
+TTITLE9=Going Where The Lonely Go
+TTITLE10=C. C. Waterback
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=I Wish a Buck Was Still Silver
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=With The Rest Of My Life
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

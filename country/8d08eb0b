@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14107
+#	29637
+#	42805
+#	54702
+#	68260
+#	84037
+#	96300
+#	113200
+#	126200
+#	143515
+#
+# Disc length: 2285 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=8d08eb0b
+DTITLE=Cumberland County Line - Throwdown
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Throwdown
+TTITLE1=Country Ain't
+TTITLE2=Somebody Goes
+TTITLE3=Take Love
+TTITLE4=16 Goin' On 35
+TTITLE5=Last Call Girl
+TTITLE6=Suspicions
+TTITLE7=Keeper of the Flame
+TTITLE8=Just Can't Lose
+TTITLE9=My Ride Done Died
+TTITLE10=Under Your Spell
+EXTD=\nYEAR: 2002  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

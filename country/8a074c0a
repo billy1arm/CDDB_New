@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11467
+#	28420
+#	42452
+#	56767
+#	68100
+#	83875
+#	98967
+#	110370
+#	127067
+#
+# Disc length: 1870 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=8a074c0a
+DTITLE=Shelby Lynne - Sunrise
+DYEAR=1989
+DGENRE=Country
+TTITLE0=The Hurtin' Side
+TTITLE1=Little Bits And Pieces
+TTITLE2=Thinking About You Again
+TTITLE3=This Time I Almost Made It
+TTITLE4=What About This Girl
+TTITLE5=Till You Wer Gone
+TTITLE6=I Love You So Much It Hurts
+TTITLE7=That's Where It Hurts
+TTITLE8=I'm Confessin'
+TTITLE9=Your Love Stays With Me
+EXTD=\n\nYEAR: 1989  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

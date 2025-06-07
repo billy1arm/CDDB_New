@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14170
+#	26170
+#	39253
+#	45897
+#	60300
+#	72331
+#	80965
+#	103301
+#	112558
+#	123999
+#
+# Disc length: 2122 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8b08480b
+DTITLE=Bob Howe - Go West
+DYEAR=2006
+DGENRE=Country
+TTITLE0=Ghost Riders In The Sky
+TTITLE1=The Lone Ranger
+TTITLE2=High Noon
+TTITLE3=Bonanza
+TTITLE4=Last Cowboy Waltz
+TTITLE5=Red River Valley-Rock
+TTITLE6=Yakety Axe
+TTITLE7=Apache-Geronimo
+TTITLE8=Diamondtina Yodel
+TTITLE9=Magnificent Seven
+TTITLE10=Johnny Guitar
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

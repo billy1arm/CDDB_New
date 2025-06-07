@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10652
+#	24272
+#	35780
+#	49197
+#	62047
+#	73967
+#	85005
+#	98827
+#	111700
+#
+# Disc length: 1634 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8506600a
+DTITLE=George Jones - All-Time Greatest Hits -- Volume I
+DYEAR=1900
+DGENRE=Country
+TTITLE0=The Race is On
+TTITLE1=My Favorite Lies
+TTITLE2=Tender Years
+TTITLE3=The Window Up Above
+TTITLE4=She Thinks I Still Care
+TTITLE5=White Lightnin'
+TTITLE6=Walk Through This World With Me
+TTITLE7=She's Mine
+TTITLE8=I'll Share My World With You
+TTITLE9=Why Baby Why
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

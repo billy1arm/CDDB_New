@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20417
+#     37645
+#     54352
+#     71395
+#     89517
+#     106710
+#     121967
+#     137460
+#     154990
+#     178215
+# 
+# Disc length: 2624 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=830a3e0b
+DTITLE=Gary Fjellgaard - Heart of a Dream
+DYEAR=1900
+DGENRE=
+TTITLE0=Cowboy in your Heart
+TTITLE1=The Moon is out to get you
+TTITLE2=Colour of your Collar
+TTITLE3=Old Fashion Romance
+TTITLE4=Cry in the Wilderness
+TTITLE5=In my Heart
+TTITLE6=Dance with this old Cowboy
+TTITLE7=Children of the Street
+TTITLE8=Driftwood Town
+TTITLE9=Somewhere on the Island
+TTITLE10=Heart of a Dream
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

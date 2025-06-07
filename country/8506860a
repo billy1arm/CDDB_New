@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     12340
+#     22967
+#     34717
+#     45742
+#     55922
+#     69307
+#     80962
+#     96440
+#     110247
+# 
+# Disc length: 1672 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8506860a
+DTITLE=Hank Thompson - Hank Thompson Greatest Songs/Volume Two
+DYEAR=1900
+DGENRE=
+TTITLE0=Oklahoma Hills
+TTITLE1=Rub-A-Dub-Dub
+TTITLE2=Waiting In The Lobby Of Your Heart
+TTITLE3=The Blackboard Of My Heart
+TTITLE4=Whoa Sailor
+TTITLE5=Breakin' The Rules
+TTITLE6=Anybody's Girl
+TTITLE7=That's What Sells The Wine
+TTITLE8=Tears Are Only Rain
+TTITLE9=A Girl In The Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

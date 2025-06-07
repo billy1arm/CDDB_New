@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15120
+#     26935
+#     38677
+#     50662
+#     66400
+#     83707
+#     96315
+#     112402
+#     130577
+# 
+# Disc length: 1949 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=83079b0a
+DTITLE=Vicente Fernandez - Mi Amigo El Tordillo
+DYEAR=1900
+DGENRE=
+TTITLE0=Caballo Alazan Lucero
+TTITLE1=Caballo Bayo
+TTITLE2=Caballo Blanco
+TTITLE3=Caballo Prieto Afamado
+TTITLE4=Caballo Prieto Azabache
+TTITLE5=El Alazan Y El Rosillo
+TTITLE6=El Cantador
+TTITLE7=El Moro De Cumpas
+TTITLE8=El Potro Lobo Gateado
+TTITLE9=Mi Amigo El Tordillo
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

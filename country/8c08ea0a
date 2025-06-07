@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20007
+#	37754
+#	58371
+#	71349
+#	85938
+#	104571
+#	120720
+#	134473
+#	157137
+#
+# Disc length: 2284 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=8c08ea0a
+DTITLE=Shiloh Quartet - A Shiloh Christmas
+DYEAR=2002
+DGENRE=Country
+TTITLE0=When Christmas Comes
+TTITLE1=Little Drummer Boy
+TTITLE2=Salvation's Wondrous Treasure
+TTITLE3=Go Tell Everyone
+TTITLE4=Silent Night
+TTITLE5=O Holy Night
+TTITLE6=White Christmas
+TTITLE7=Emanuel God Is With Us
+TTITLE8=Mary Did You Know
+TTITLE9=O Come All Ye Faithful
+EXTD=\nYEAR: 2002  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

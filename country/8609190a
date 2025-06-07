@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 19750
+# 33990
+# 48460
+# 66790
+# 86810
+# 105997
+# 125372
+# 143820
+# 157435
+#
+# Disc length: 2331 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b2
+#
+DISCID=8609190a
+DTITLE=Girls Next Door - What a Girl Next Door Could Do
+DYEAR=1900
+DGENRE=
+TTITLE0=What a Girl Next Door Could Do
+TTITLE1=Easy To Find
+TTITLE2=I Can Hear my Heart Begin to Cry
+TTITLE3=You're the Rock, You're the Rebel
+TTITLE4=Comin' off of You
+TTITLE5=Posse's out of You
+TTITLE6=Without Your Love
+TTITLE7=Message from my Heart
+TTITLE8=Dancin' Shoes
+TTITLE9=Quiet Night
+EXTD=(c) (p) 1987 MTM Records
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	12840
+#	28007
+#	41980
+#	58677
+#	71775
+#	86817
+#	101430
+#	117347
+#	129900
+#
+# Disc length: 1938 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=8707900a
+DTITLE=Butch Baker - We Will
+DYEAR=1989
+DGENRE=Country
+TTITLE0=Our Little Corner
+TTITLE1=You Wrote The Book On Love
+TTITLE2=We Will
+TTITLE3=Wonderful Tonight
+TTITLE4=Playing With Her Sweet Thing
+TTITLE5=Working Class
+TTITLE6=Goodbye Only Comes In Blue
+TTITLE7=How Long Should You Miss Someone
+TTITLE8=Calm After The Storm
+TTITLE9=Party People
+EXTD=\nYEAR: 1989  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     9735
+#     20780
+#     34302
+#     50997
+#     64027
+#     75462
+#     89600
+#     100662
+#     113142
+# 
+# Disc length: 1642 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8206680a
+DTITLE=Charley Pride - Charley Pride:Special Collector's Edition-Vol 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Kiss An Angel Good Morning
+TTITLE1=Is Anybody Goin' To San Antone
+TTITLE2=Amazing Love
+TTITLE3=Roll On Mississippi
+TTITLE4=I Don't Think She's In Love Anymore
+TTITLE5=Missin' You
+TTITLE6=Sea Of Heartbreak
+TTITLE7=Walk On By
+TTITLE8=Kaw-Liga
+TTITLE9=Just Between You And Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

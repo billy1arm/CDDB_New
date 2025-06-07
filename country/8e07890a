@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11725
+#	26003
+#	46989
+#	59079
+#	71706
+#	84056
+#	101860
+#	117735
+#	130900
+#
+# Disc length: 1931 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8e07890a
+DTITLE=Chet Atkins - Superpickers
+DYEAR=1974
+DGENRE=Country
+TTITLE0=01 Paramaribo
+TTITLE1=02 Fiddlin' Around
+TTITLE2=03 Mr Bojangles
+TTITLE3=04 Beef and Biscuits
+TTITLE4=05 Sweet Dreams
+TTITLE5=06 Just Another Rag
+TTITLE6=07 Canadian Pacific
+TTITLE7=08 City of New Orleans
+TTITLE8=09 Bells of Saint Mary's
+TTITLE9=10 Are You From Dixie
+EXTD=YEAR: 1974
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

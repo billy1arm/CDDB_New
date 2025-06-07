@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     180
+#     17477
+#     33519
+#     51047
+#     69365
+#     83331
+#     100532
+#     117353
+#     132404
+#     151253
+#     165044
+#     184997
+# 
+# Disc length: 2673 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=830a6f0c
+DTITLE=Graham Bleasdale - Lookin' For Love
+DYEAR=1900
+DGENRE=
+TTITLE0=Too Busy Lovin' You
+TTITLE1=Do You Like Me Like I Like You
+TTITLE2=In This Heart Of Mine
+TTITLE3=Lookin' For Love
+TTITLE4=It Must Be Love
+TTITLE5=Thats My Desire
+TTITLE6=Look At Him
+TTITLE7=Could A Lady Like You Forgive A Fool Like Me
+TTITLE8=Tell Me One Last Time
+TTITLE9=Why Do You Do The Things You Do?
+TTITLE10=Recovery Blues
+TTITLE11=Brothers Forever
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     190
+#     12622
+#     34532
+#     46117
+#     63300
+#     82782
+#     94390
+#     119802
+#     133832
+#     149772
+# 
+# Disc length: 2293 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8e08f30a
+DTITLE=Tony Furtado - Swamped
+DYEAR=1900
+DGENRE=
+TTITLE0=John Henry
+TTITLE1=Swamped
+TTITLE2=Glory at the Meeting House
+TTITLE3=Old Homestead Waltz
+TTITLE4=Daddio
+TTITLE5=Crossing the Severn
+TTITLE6=Celtic Medley:The Road to Donegal/Collier's Jig/The Broken Pledge
+TTITLE7=Golden Eagle Hornpipe
+TTITLE8=Blues for Alice
+TTITLE9=Salutations
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

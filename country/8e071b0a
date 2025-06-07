@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15907
+#	29690
+#	47640
+#	59502
+#	74730
+#	89062
+#	98670
+#	111117
+#	123717
+#
+# Disc length: 1821 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8e071b0a
+DTITLE=John Anderson - Blue Skies Again
+DYEAR=1987
+DGENRE=Country
+TTITLE0=Blue Skies Again
+TTITLE1=There's Nothing Left For Me To Take Granted
+TTITLE2=Quittin' Time
+TTITLE3=Just For You
+TTITLE4=Somewhere Between Ragged And Right
+TTITLE5=When Your Yellow Brick Road Turns Blue
+TTITLE6=His And Hers
+TTITLE7=I Make It Hard To Loose
+TTITLE8=Lying In Her Arms
+TTITLE9=It's Hard To Keep This Ship Together
+EXTD=YEAR: 1987 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

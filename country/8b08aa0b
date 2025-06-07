@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10720
+#	23793
+#	37295
+#	53655
+#	73178
+#	84008
+#	107908
+#	123448
+#	133590
+#	152803
+#
+# Disc length: 2220 seconds
+#
+# Revision: 8
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8b08aa0b
+DTITLE=Various Artist - Country Christmas
+DYEAR=1997
+DGENRE=Christmas
+TTITLE0=Rudolph, The Red Nosed Reindeer  -  John Michael Montgomery
+TTITLE1=I'll Be Home For Christmas  -  Bryan White
+TTITLE2=Blue Christmas  -  Clay Walker
+TTITLE3=Oh Holy Night  -  Martina McBride
+TTITLE4=Have Yourself A Merry Little Christmas  -  Kevin Sharp
+TTITLE5=Redneck 12 Days Of Christmas  -  Jeff Foxworthy
+TTITLE6=Silver Bells  -  Travis Trit
+TTITLE7=Merry Christmas Darling  -  Neal McCoy
+TTITLE8=Santa Claus Is Coming To Town  -  Mila Mason
+TTITLE9=Silent Night  -  Dwight Yoakum
+TTITLE10=Please Come Home For Christmas  -  Anita Cochran
+EXTD=YEAR: 1997
+EXTT0=John Michael Montgomery
+EXTT1=Bryan White
+EXTT2=Clay Walker
+EXTT3=Martina McBride
+EXTT4=Kevin Sharp
+EXTT5=Jeff Foxworthy
+EXTT6=Travis Tritt
+EXTT7=Neal McCoy
+EXTT8=Mila Mason
+EXTT9=Dwight Yoakam
+EXTT10=Anita Cochran
+PLAYORDER=

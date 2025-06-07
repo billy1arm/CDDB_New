@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10147
+#	22867
+#	33702
+#	47455
+#	60350
+#	70822
+#	83300
+#	96752
+#	107730
+#	119300
+#	130735
+#
+# Disc length: 1883 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=8607590c
+DTITLE=Willie Nelson - ...and then I wrote
+DYEAR=1900
+DGENRE=
+TTITLE0=Touch Me
+TTITLE1=Wake Me When It's Over
+TTITLE2=Hello Walls
+TTITLE3=Funny How Time Slips Away
+TTITLE4=Crazy
+TTITLE5=The Part Where I Cry
+TTITLE6=Mr. Record Man
+TTITLE7=Three Days
+TTITLE8=One Step Beyond
+TTITLE9=Undo The Right
+TTITLE10=Darkness On The Face Of The Earth
+TTITLE11=Where My House Lives
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

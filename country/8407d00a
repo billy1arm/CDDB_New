@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12535
+#     26608
+#     39963
+#     58075
+#     74513
+#     89335
+#     108708
+#     123915
+#     135870
+# 
+# Disc length: 2002 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8407d00a
+DTITLE=Michael Banks - Wonder Why
+DYEAR=1900
+DGENRE=
+TTITLE0=Chasing Sunday Down
+TTITLE1=Thinking Straight
+TTITLE2=Lacy's Love
+TTITLE3=Wonder Why
+TTITLE4=Boots
+TTITLE5=I Don't Drink
+TTITLE6=So Hard Loving You
+TTITLE7=I'll Build You A Boat
+TTITLE8=My Lullaby
+TTITLE9=My Kinda Girl
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

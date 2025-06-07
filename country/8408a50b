@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17550
+#	30950
+#	45600
+#	60350
+#	76337
+#	90575
+#	104637
+#	121250
+#	136787
+#	148875
+#
+# Disc length: 2215 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8408a50b
+DTITLE=Various Artist - Jukebox Dancing
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Aint going down
+TTITLE1=Indian outlaw
+TTITLE2=Chattahoochie
+TTITLE3=Bubba shot the jukebox
+TTITLE4=A jukebox with a country song
+TTITLE5=Honky tonk blues
+TTITLE6=Thinkin problem
+TTITLE7=Fast as you
+TTITLE8=Pick up man
+TTITLE9=The whiskey aint working
+TTITLE10=Prop me up beside the jukebox
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

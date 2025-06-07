@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  180
+#  18006
+#  32401
+#  51411
+#  71150
+#  91634
+#  110649
+#  127337
+#  148911
+#  165853
+#
+# Disc length: 2406 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=8409640a
+DTITLE=Eddie Lee - Horses On The Moon
+DYEAR=1900
+DGENRE=
+TTITLE0=Diamond Jane
+TTITLE1=Carved In Stone
+TTITLE2=Latter Day Cowboy
+TTITLE3=Some Place Far Away
+TTITLE4=Horses On The Moon
+TTITLE5=Outlaw Love
+TTITLE6=Crossfire Hurricane
+TTITLE7=Which Side R U On
+TTITLE8=Rusty 'Ol American Dream
+TTITLE9=First Chance I Get
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

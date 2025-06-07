@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14833
+#	25718
+#	44020
+#	60163
+#	73920
+#	89070
+#	101168
+#	120655
+#	135905
+#
+# Disc length: 1972 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8b07b20a
+DTITLE=Flying Burrito Brothers - Live From Europe
+DYEAR=1900
+DGENRE=
+TTITLE0=Streets Of Baltimore
+TTITLE1=Cash On The Barrelhead
+TTITLE2=Mystery Train
+TTITLE3=Christine's Tune (Devil In Disguise)
+TTITLE4=Take A City Bride
+TTITLE5=Come A Little Closer
+TTITLE6=Blue Eyes
+TTITLE7=Citizen Kane
+TTITLE8=Don't Go Down The Drain
+TTITLE9=Help Is On The Way
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

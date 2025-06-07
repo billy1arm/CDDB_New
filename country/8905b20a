@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10314
+#	21257
+#	33696
+#	43862
+#	54318
+#	64299
+#	72667
+#	86516
+#	98726
+#
+# Disc length: 1460 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8905b20a
+DTITLE=Johnny Cash - Collection disques d'or
+DYEAR=2010
+DGENRE=Country
+TTITLE0=Hey Porter
+TTITLE1=Cry, Cry, Cry
+TTITLE2=I Walk the Line
+TTITLE3=Get Rhythm
+TTITLE4=There You Go
+TTITLE5=Ballad of a Teenage Queen
+TTITLE6=Guess Things Happen That Way
+TTITLE7=Don't Take Your Guns To Town
+TTITLE8=Home Of The Blues
+TTITLE9=Train Of Love
+EXTD=YEAR: 2010
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

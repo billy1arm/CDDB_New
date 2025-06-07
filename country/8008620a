@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13337
+#	31632
+#	46727
+#	61237
+#	79177
+#	95377
+#	109390
+#	126052
+#	142137
+#
+# Disc length: 2148 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8008620a
+DTITLE=Tanya Tucker - Girls Like Me
+DYEAR=1900
+DGENRE=country
+TTITLE0=One Love At A Time
+TTITLE1=I'll Come Back As Another Woman
+TTITLE2=Fool, Fool Heart
+TTITLE3=Just Another Love
+TTITLE4=Girls Like Me
+TTITLE5=Somebody To Care
+TTITLE6=It's Only Over For You
+TTITLE7=Daddy Long Legs
+TTITLE8=You Could Change My Mind
+TTITLE9=Still Hold On
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

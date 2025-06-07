@@ -1,0 +1,46 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12777
+#	21668
+#	38216
+#	46817
+#	59728
+#	72320
+#	84479
+#	99287
+#	112034
+# Disc length: 1689 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=8306970a
+DTITLE=Various Artist - Legends of Southern Gospel - CD3
+DYEAR=1900
+DGENRE=
+TTITLE0=Take Up Thy Cross - J.D. Sumner and The Stamps
+TTITLE1=Old Time Religion - Hovie Lister and The Statesmen
+TTITLE2=Because He Lives - The Blackwood Brothers
+TTITLE3=Day Of Rejoicing - The Oak Ridge Boys
+TTITLE4=What A Friend We Have In Jesus - The Masters Five
+TTITLE5=Jesus Loves Me - The Kingsmen
+TTITLE6=Somebody Loves Me - The Speers
+TTITLE7=Sweet Jesus - Wendy Bagwell and The Sunlighters
+TTITLE8=You'll Never Walk Alone - The Oak Ridge Boys
+TTITLE9=Victory In Jesus - J.D. Sumner and The Stamps
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

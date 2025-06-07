@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11710
+#     27007
+#     42100
+#     57130
+#     71177
+#     86375
+#     103880
+#     116805
+#     132452
+# 
+# Disc length: 1946 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8607980a
+DTITLE=Various Artist - Hot New Country
+DYEAR=1900
+DGENRE=
+TTITLE0=Whatcha Gonna Do With A Cowboy/Chris Ledoux (with Garth Brooks)
+TTITLE1=Hangin' In/Tanya Tucker
+TTITLE2=Get A Little Closer/Ricky Lynn Gregg
+TTITLE3=Radio Active/Bryan Austin
+TTITLE4=Billy The Kid/Billy Dean
+TTITLE5=You Wouldn't Say That To A Stranger/Suzy Bogguss
+TTITLE6=Your Love Amazes Me/John Berry
+TTITLE7=Hello Goodbye/Pearl River
+TTITLE8=Man Behind The Wheel/Charlie Floyd
+TTITLE9=Give Me A Ring Sometime/Lisa Brokop
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

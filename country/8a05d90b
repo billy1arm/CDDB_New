@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     180
+#     9421
+#     17388
+#     25563
+#     34286
+#     45530
+#     56759
+#     65802
+#     77638
+#     88444
+#     97307
+# 
+# Disc length: 1499 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8a05d90b
+DTITLE=Roger Miller - Roger Miller Volume 3
+DYEAR=1900
+DGENRE=
+TTITLE0=Chug-A-Lug
+TTITLE1=Dang Me
+TTITLE2=Do Wacka Do
+TTITLE3=England Swings
+TTITLE4=Husbands And Wives
+TTITLE5=King Of The Road
+TTITLE6=My Uncle Used To Love Me But She Dies
+TTITLE7=Walking In The Sunshine
+TTITLE8=When Two Worlds Collide
+TTITLE9=You Can't Rollerskate In A Buffalo Herd
+TTITLE10=Me And Bobby McGee
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

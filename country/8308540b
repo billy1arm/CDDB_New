@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  15272
+#  34795
+#  46747
+#  61967
+#  75947
+#  87752
+#  108580
+#  124132
+#  136150
+#  149617
+#
+# Disc length: 2134 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8308540b
+DTITLE=Scott Joss - Souveniers
+DYEAR=1900
+DGENRE=country
+TTITLE0=Doin' Time in Bakersfield
+TTITLE1=Mary Got a Baby
+TTITLE2=I Never Got Anywhere With You
+TTITLE3=She's So Lonely
+TTITLE4=Workin' Girl
+TTITLE5=Home Before Dark
+TTITLE6=Souvenirs
+TTITLE7=One of the Lonely
+TTITLE8=Stay Out of My Arms
+TTITLE9=My baby's Gone
+TTITLE10=Country King of the Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

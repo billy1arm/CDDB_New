@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	10808
+#	21598
+#	30160
+#	41928
+#	53303
+#	64170
+#	74388
+#	86728
+#	99658
+#	110460
+#
+# Disc length: 1602 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8b06400b
+DTITLE=Various Artist - Country - Vol.2
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Patsy Cline - Honky Tonk Merry Go Round
+TTITLE1=Waylon Jennings - Sally Was A Good Old Girl
+TTITLE2=Conway Twitty - Blue Is The Way I Feel
+TTITLE3=Willie Nelson - Is There Something On Your Mind
+TTITLE4=B. J. Thomas - How Many Tears Will It Take
+TTITLE5=Donna Fargo - Wishful Thinking
+TTITLE6=Faron Young - Hello Walls
+TTITLE7=Stonewall Jackson - Ol´ Blue
+TTITLE8=Faron Young - I´m A Free Man Now
+TTITLE9=Faron Young - Wire Me Up
+TTITLE10=Buck Owens - Rhythm And Booze
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

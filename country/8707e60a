@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12740
+#	28057
+#	39773
+#	56507
+#	79466
+#	92072
+#	110345
+#	124141
+#	140129
+#
+# Disc length: 2024 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8707e60a
+DTITLE=John Schneider - Quiet Man
+DYEAR=1982
+DGENRE=Country
+TTITLE0=Dreamin'
+TTITLE1=I Need Someone To Miss
+TTITLE2=In The Driver's Seat
+TTITLE3=Hurts Like The Devil
+TTITLE4=Quiet Man
+TTITLE5=Livin' For Saturday Night
+TTITLE6=Every Night With You
+TTITLE7=They Got Nothin' On Him
+TTITLE8=A Love Like Ours
+TTITLE9=Love Letters In The Sand
+EXTD=YEAR: 1982 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

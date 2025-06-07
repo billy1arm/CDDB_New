@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19760
+#     36812
+#     55597
+#     72755
+#     89477
+#     106860
+#     125147
+#     140772
+#     158975
+# 
+# Disc length: 2313 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.3 PL1
+# 
+DISCID=8709070a
+DTITLE=Graeme Connors - The Return
+DYEAR=1900
+DGENRE=
+TTITLE0=Prodigal Son
+TTITLE1=One Honest Tear
+TTITLE2=A sacred place
+TTITLE3=Helpless Heart
+TTITLE4=You've got something
+TTITLE5=Train
+TTITLE6=I'm gonna talk you off your feet
+TTITLE7=Quiet Love
+TTITLE8=An old piece of wood
+TTITLE9=Reckless Heart
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

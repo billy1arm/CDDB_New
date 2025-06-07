@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15180
+#     29710
+#     45885
+#     57285
+#     69822
+#     80622
+#     96485
+#     115802
+#     130290
+#     144772
+# 
+# Disc length: 2185 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8608870b
+DTITLE=Kayce Glasse - Smooth as Glasse
+DYEAR=1900
+DGENRE=
+TTITLE0=Let the Cowboy Dance
+TTITLE1=So Wrong
+TTITLE2=Sweet Dreams
+TTITLE3=Miss Otis Regrets
+TTITLE4=Blue
+TTITLE5=Turn the Cards Slowly
+TTITLE6=Wayward Wind
+TTITLE7=Crazy
+TTITLE8=Miss Celie's Blues
+TTITLE9=Cow Cow Boogie
+TTITLE10=Jitterbug Waltz
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

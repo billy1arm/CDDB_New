@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20255
+#     36083
+#     55358
+#     70360
+#     81658
+#     99425
+#     116283
+#     132025
+#     147918
+# 
+# Disc length: 2300 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8608fa0a
+DTITLE=Bill Janovitz - Lonesome Billy
+DYEAR=1900
+DGENRE=
+TTITLE0=Girl's Club
+TTITLE1=Think of All
+TTITLE2=Shoulder
+TTITLE3=Gaslight
+TTITLE4=Ghost in my Piano
+TTITLE5=Strangers
+TTITLE6=My Funny Valentine
+TTITLE7=Peninsula
+TTITLE8=Talking to the Queen
+TTITLE9=Red Balloon
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14325
+#	31137
+#	46325
+#	60092
+#	73235
+#	87410
+#	101962
+#	119750
+#	135022
+#
+# Disc length: 2025 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8107e70a
+DTITLE=Lee Greenwood - Somebody's Gonna Love You
+DYEAR=1900
+DGENRE=country
+TTITLE0=I.O.U
+TTITLE1=Somebody's Gonna Love You
+TTITLE2=Going, Going, Gone
+TTITLE3=Call It What You Want To (It's Still Love)
+TTITLE4=Barely Holding On
+TTITLE5=Love Won't Let Us Say Goodbye
+TTITLE6=Ladies Love
+TTITLE7=The Wind Beneath My Wings
+TTITLE8=Think About The Good Times
+TTITLE9=Someone Who Remembers
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

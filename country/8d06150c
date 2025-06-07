@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9560
+#	19977
+#	25762
+#	35297
+#	44900
+#	52820
+#	63070
+#	77615
+#	85662
+#	95612
+#	104712
+#
+# Disc length: 1559 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=8d06150c
+DTITLE=Patsy Cline - Live - Volume Two
+DYEAR=1989
+DGENRE=Country
+TTITLE0=Strange
+TTITLE1=When Your House Is Not A Home
+TTITLE2=Turn the Cards Slowly
+TTITLE3=Yes, I Know Why
+TTITLE4=Side By Side
+TTITLE5=Come On In And Make Yourself At Home
+TTITLE6=Stupid Cupid
+TTITLE7=The Wayward Wind
+TTITLE8=For Rent
+TTITLE9=Shoes
+TTITLE10=Stop Look And Listen
+TTITLE11=Just A Closer Walk With Thee
+EXTD=\n\nYEAR: 1989  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

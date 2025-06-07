@@ -1,0 +1,42 @@
+# xmcd CD database file
+# Copyright (C) 2009 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     59150
+#     80675
+#     109025
+#     119975
+#     146750
+#     177125
+#     193250
+# 
+# Disc length: 3357 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=800d1b08
+DTITLE=Daniele Lombardi - Russian Futurism [CD 1) - Mosolov, Alexander (1900
+DTITLE=1973) - Piano Works
+DYEAR=1900
+DGENRE=
+TTITLE0=Son No.4 Op. 11
+TTITLE1=Turkmenian Nights - I. Andante Con Moto
+TTITLE2=Turkmenian Nights - Ii. Lento
+TTITLE3=Turkmenian Nights - Iii. Allegro
+TTITLE4=Son No.5 Op.12 - I. Allegro Affanato
+TTITLE5=Son No.5 Op.12 - Ii. Elegia
+TTITLE6=Son No.5 Op.12 - Iii. Scherzo Marciale
+TTITLE7=Son No.5 Op.12 - Iv. Adagio Languente E Patetico
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

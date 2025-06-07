@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 9597
+# 19652
+# 30320
+# 42510
+# 56545
+# 70862
+# 81504
+# 95085
+# 107160
+# 120532
+#
+# Disc length: 1769 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=8b06e70b
+DTITLE=Alvin Crow - Texas Classic
+DYEAR=1900
+DGENRE=
+TTITLE0=Fiddler's Lady
+TTITLE1=Sands Of Texas
+TTITLE2=One Foot In The Grave
+TTITLE3=Dynamite Diana
+TTITLE4=Turkey Texas
+TTITLE5=Rearview Mirror
+TTITLE6=Chains On Me
+TTITLE7=Nyquil Blues
+TTITLE8=When I Stop Lovin' You
+TTITLE9=Foolish Faith
+TTITLE10=Just Dropped By To See The Show
+EXTD=Broken Spoke Records\n3201 South Lamar\nAustin, TX 78704\n(512) 442-6189
+EXTT0=Alvin Crow
+EXTT1=Gene Autry
+EXTT2=Roger Crabtree
+EXTT3=Alvin Crow
+EXTT4=Herb Steiner
+EXTT5=Bobby Earl Smith
+EXTT6=Alvin Crow
+EXTT7=Herb Steiner
+EXTT8=Jesse Ashlock
+EXTT9=Leslie Simon
+EXTT10=Judy Clark
+PLAYORDER=

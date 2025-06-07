@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15987
+#     32452
+#     51797
+#     70465
+#     87080
+#     103312
+#     116060
+#     132597
+#     146380
+# 
+# Disc length: 2179 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8608810a
+DTITLE=George Canyon - George Canyon
+DYEAR=1900
+DGENRE=
+TTITLE0=My Loves Unchanged
+TTITLE1=I'll Burn That Bridge
+TTITLE2=Love To Burn
+TTITLE3=Scotia Home
+TTITLE4=Ironwolf
+TTITLE5=The Shaft
+TTITLE6=Way Too Much
+TTITLE7=Angelyna
+TTITLE8=Enough Said
+TTITLE9=Her Everything
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

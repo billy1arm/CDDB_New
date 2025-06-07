@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	12576
+#	25574
+#	35510
+#	47793
+#	61371
+#	73795
+#	85791
+#	101702
+#	117999
+#	138037
+#
+# Disc length: 1980 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta5_freedb
+#
+DISCID=8f07ba0b
+DTITLE=Lone Star Trio - Lone Star Trio
+DYEAR=1900
+DGENRE=
+TTITLE0=Her Love is True
+TTITLE1=Hot Rockin Mama
+TTITLE2=The One I Need
+TTITLE3=Make Believin
+TTITLE4=Makin Love
+TTITLE5=Fool No More
+TTITLE6=What Goes Around
+TTITLE7=Make Up Your Mind
+TTITLE8=Peep Show Baby
+TTITLE9=You Hit the Old Dance
+TTITLE10=Hall of the Mountain King
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

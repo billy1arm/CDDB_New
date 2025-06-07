@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     15880
+#     27307
+#     44410
+#     58440
+#     78020
+#     95167
+#     111805
+#     128522
+#     149015
+# 
+# Disc length: 2163 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8208710a
+DTITLE=Patrick Norman - 10 Grands Succes
+DYEAR=1900
+DGENRE=
+TTITLE0=On part au soleil
+TTITLE1=Papillon
+TTITLE2=Lady
+TTITLE3=C'est la saison
+TTITLE4=Crois en l'amour
+TTITLE5=Lucille
+TTITLE6=C'est pour toi que je chante
+TTITLE7=Je serai toujours la
+TTITLE8=Mon vieux copain
+TTITLE9=D'ou que tu viennes
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

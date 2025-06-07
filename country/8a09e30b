@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21712
+#     37912
+#     55639
+#     74612
+#     90900
+#     103530
+#     116715
+#     132075
+#     153062
+#     176812
+# 
+# Disc length: 2533 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8a09e30b
+DTITLE=Diesel Doug and the Long Haul Truckers - An Angel Not A Saint
+DYEAR=1900
+DGENRE=
+TTITLE0=Never Lookin' Down
+TTITLE1=Wicked Ways
+TTITLE2=Not Much to Say
+TTITLE3=A Girl Like You
+TTITLE4=All Over
+TTITLE5=Another One Like Me
+TTITLE6=Gold Wing Mama
+TTITLE7=An Angel Not A Saint
+TTITLE8=I Don't Enjoy It Anymore
+TTITLE9=One Light
+TTITLE10=18 Wheels of Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+#
+# Track frame offsets:
+#	182
+#	15322
+#	29335
+#	44630
+#	62565
+#	76925
+#	97210
+#	113807
+#	126762
+#	144247
+#	167085
+#
+# Disc length: 2476
+#
+# Revision: 9
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CoolCD_Studio 1.4
+#
+DISCID=8b09aa0b
+DTITLE=Clay Walker - Live, Laugh, Love
+DYEAR=1900
+DGENRE=Country
+TTITLE0=She's Always Right
+TTITLE1=Lose Some Sleep Tonight
+TTITLE2=Holding Her And Loving You
+TTITLE3=Cold Hearted
+TTITLE4=If A Man Ain't Thinking ('Bout His Woman)
+TTITLE5=Once In A Lifetime Love
+TTITLE6=It Ain't Called Heartland (For Nothin')
+TTITLE7=Woman Thing
+TTITLE8=This Time Love
+TTITLE9=The Chain Of Love
+TTITLE10=Live, Laugh, Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

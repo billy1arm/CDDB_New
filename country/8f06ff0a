@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  15687
+#  28945
+#  42522
+#  56457
+#  68985
+#  80832
+#  95895
+#  109107
+#  122842
+#
+# Disc length: 1793 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.10
+#
+DISCID=8f06ff0a
+DTITLE=Conway Twitty - Conway Twitty: Some of My Best, Vol. 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Touch the Hand
+TTITLE1=After All the Good Is Gone
+TTITLE2=The Games that Daddies' Play
+TTITLE3=Fifteen Years Ago
+TTITLE4=This Time I've Hurt Her more (Than She Loves Me)
+TTITLE5=Linda on My Mind
+TTITLE6=(Lost Her Love) On Our Last Date
+TTITLE7=Danny Boy
+TTITLE8=Baby's Gone
+TTITLE9=I'm Not Though Loving You Yet
+EXTD=\n
+EXTT0=Conway Twitty
+EXTT1=Conway Twitty
+EXTT2=Conway Twitty
+EXTT3=Conway Twitty
+EXTT4=Conway Twitty
+EXTT5=Conway Twitty
+EXTT6=Conway Twitty
+EXTT7=Conway Twitty
+EXTT8=Conway Twitty
+EXTT9=Conway Twitty
+PLAYORDER=

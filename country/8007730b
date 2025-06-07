@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10872
+#	26550
+#	39585
+#	53377
+#	66062
+#	80632
+#	93310
+#	105560
+#	117335
+#	129977
+#
+# Disc length: 1909 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=8007730b
+DTITLE=Don Williams - Best Of Vol. II
+DYEAR=1900
+DGENRE=
+TTITLE0=Love Me Tonight
+TTITLE1=Till All The Rivers Run Dry
+TTITLE2=Rake And Ramblin' Man
+TTITLE3=I'm Just A Country Boy
+TTITLE4=Some Broken Hearts Never Mend
+TTITLE5=Tulsa Time
+TTITLE6=She Never Knew Me
+TTITLE7=Falling In Love
+TTITLE8=I've Got A Winner In You
+TTITLE9=You're My Best Friend
+TTITLE10=Say It Again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

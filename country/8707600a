@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	17623
+#	31225
+#	45593
+#	60663
+#	74858
+#	91448
+#	103985
+#	117223
+#	127905
+#
+# Disc length: 1890 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8707600a
+DTITLE=Kenny Rogers - Duets
+DYEAR=1984
+DGENRE=Country
+TTITLE0=We've Got Tonight ( 1983 ) - Kenny Rogers and Sheena Easton
+TTITLE1=Everytime Two Fools Collide ( 1978 ) - Kenny Rogers and Dottie West
+TTITLE2=Another Somebody Done Somebody Wrong Song ( 1979 ) - Kenny Rogers and Dottie West
+TTITLE3=Til I Can Make it on My Own ( 1979 ) - Kenny Rogers and Dottie West
+TTITLE4=All I Ever Need Is You ( 1979 ) - Kenny Rogers and Dottie West
+TTITLE5=Don't Fall in Love With a Dreamer ( 1980 ) - Kenny Rogers and Kim Carnes
+TTITLE6=Baby I'm a Want You ( 1978 ) - Kenny Rogers and Dottie West
+TTITLE7=Together Again ( 1979 ) - Kenny Rogers and Dottie West
+TTITLE8=Anyone Who Isn't Me Tonight ( 1978 ) - Kenny Rogers and Dottie West
+TTITLE9=That's the Way it Could Have Been ( 1978 ) - Kenny Rogers and Dottie West
+EXTD=0\n\n\n YEAR: 1984
+EXTT0=Sheena Easton
+EXTT1=Dottie West
+EXTT2=Dottie West
+EXTT3=Dottie West
+EXTT4=Dottie West
+EXTT5=Kim Carnes
+EXTT6=Dottie West
+EXTT7=Dottie West
+EXTT8=Dottie West
+EXTT9=Dottie West
+PLAYORDER=

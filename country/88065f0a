@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14438
+#     26888
+#     37228
+#     49145
+#     61348
+#     73628
+#     88535
+#     101255
+#     110058
+# 
+# Disc length: 1633 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=88065f0a
+DTITLE=Ernest Tubb and Various Artists - Ernest Tubb and Friends
+DYEAR=1900
+DGENRE=
+TTITLE0=It's Been So Long Darling
+TTITLE1=The Woman Make A Fool Out Of Me
+TTITLE2=Set Up Two Glasses, Joe
+TTITLE3=You're The Only Good Thing That's Happpened To Me
+TTITLE4=Thanks A Lot
+TTITLE5=Yesterday's Winner Is A Loser Today
+TTITLE6=I Wonder Why You Said Goodbye
+TTITLE7=Dear Judge
+TTITLE8=That Wild And Wicked Look In Your Eyes
+TTITLE9=One More Day
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

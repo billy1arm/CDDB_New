@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	10545
+#	21597
+#	33070
+#	48302
+#	58040
+#	69347
+#	81317
+#	93065
+#	104312
+#	115655
+#	128290
+#
+# Disc length: 1874 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.2
+#
+DISCID=8407500c
+DTITLE=Patsy Cline - The Very Best of Patsy Cline
+DYEAR=1900
+DGENRE=
+TTITLE0=Pick Me Up On Your Way Down
+TTITLE1=Stop The World (And Let Me Off)
+TTITLE2=Crazy Dreams
+TTITLE3=Then You'll Know
+TTITLE4=Love Me Honey Do
+TTITLE5=Just Out Of Reach
+TTITLE6=If I Could Only Stay Asleep
+TTITLE7=Let The Tear Drops Fall
+TTITLE8=Dear God
+TTITLE9=Hungry For Love
+TTITLE10=Just a Closer Walk With Thee
+TTITLE11=A Poor Man's Rose (Or A Rich Man's Gold)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

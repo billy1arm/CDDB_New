@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18405
+#	33220
+#	47915
+#	65607
+#	90410
+#	115047
+#	141595
+#	158407
+#	177880
+#	204407
+#
+# Disc length: 3066 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8a0bf80b
+DTITLE=Lucinda Williams - Essence
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Lonely Girls
+TTITLE1=Steal Your Love
+TTITLE2=I Envy The Wind
+TTITLE3=Blue
+TTITLE4=Out Of Touch
+TTITLE5=Are You Down
+TTITLE6=Essence
+TTITLE7=Reason To Cry
+TTITLE8=Get Right With God
+TTITLE9=Bus To Baton Rouge
+TTITLE10=Broken Butterflies
+EXTD=YEAR: 2001 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

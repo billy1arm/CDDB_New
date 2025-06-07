@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 13508
+# 27768
+# 38201
+# 50380
+# 64671
+# 75351
+# 87870
+# 100644
+# 116167
+# 127755
+# 141184
+#
+# Disc length: 2160 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1d1
+#
+DISCID=89086e0c
+DTITLE=The Oak Ridge Boys - The Oak Ridge Boys--Revival #1
+DYEAR=1900
+DGENRE=
+TTITLE0=Joshua Fit The Battle Of Jericho
+TTITLE1=This Little Light Of Mine
+TTITLE2=Farther Along
+TTITLE3=I Feel Like Travelin On
+TTITLE4=I Love To Tell The Story
+TTITLE5=On The Jericho Road
+TTITLE6=Tis So Sweet To Trust In Jesus
+TTITLE7=The Old Gospel Ship
+TTITLE8=Where Could I Go But To The Lord
+TTITLE9=In The Garden
+TTITLE10=I Saw The Light
+TTITLE11=What A Friend We Have In Jesus
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

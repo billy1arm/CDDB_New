@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	180
+#	17041
+#	28557
+#	46927
+#	64423
+#	73275
+#	82970
+#	98983
+#	108841
+#	122994
+#
+# Disc length: 1851 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=8507390a
+DTITLE=Hoot Owls, The/Girls in Black
+DYEAR=1900
+DGENRE=
+TTITLE0=Motorcycle Boy
+TTITLE1=Public Enemy No. 1
+TTITLE2=My Wicked Little Witch
+TTITLE3=Depart From Me
+TTITLE4=Laura Has a Blackbelt
+TTITLE5=The Cat Came Back
+TTITLE6=Diamonds in the Sea
+TTITLE7=Pizza Man
+TTITLE8=Girl in Black
+TTITLE9=She's a School Teacher
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

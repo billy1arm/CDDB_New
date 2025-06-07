@@ -1,0 +1,47 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	15427
+#	30437
+#	44697
+#	63547
+#	78685
+#	96690
+#	113015
+#	128867
+#	148880
+#
+# Disc length: 2324
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+# Normalized: r1:DSETVAR1,TDELIM( - );r2:TSWAP
+#
+DISCID=8e09120a
+DTITLE=Various Artist - A Taste Of Country
+DYEAR=1900
+DGENRE=
+TTITLE0=Suzy Bogguss - Just Like The Weather
+TTITLE1=Tanya Tucker - Sneaky Moon
+TTITLE2=Chris LeDoux - She's Tough
+TTITLE3=Billy Dean - Hammer Down
+TTITLE4=John Berry - What's In It For Me
+TTITLE5=Ricky Lynn Gregg - Cheyenne
+TTITLE6=Tanya Tucker - Rainbow Rider
+TTITLE7=Suzy Bogguss - Don't Wanna
+TTITLE8=Charlie Floyd - Southbound Train
+TTITLE9=Billy Dean - Steam Roller
+EXTD=
+EXTT0=Just Like The Weather - Suzy Bogguss
+EXTT1=Sneaky Moon - Tanya Tucker
+EXTT2=She's Tough - Chris LeDous
+EXTT3=Hammer Down - Billy Dean
+EXTT4=What's In It For Me - John Berry
+EXTT5=Cheyenne - Ricky Lynn Gregg
+EXTT6=Rainbow Rider - Tanya Tucker
+EXTT7=Don't Wanna - Suzy Bogguss
+EXTT8=Southbound Train - Charlie Floyd
+EXTT9=Steam Roller - Billy Dean
+PLAYORDER=

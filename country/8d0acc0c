@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17262
+#	37618
+#	53865
+#	68914
+#	87258
+#	100490
+#	115878
+#	130554
+#	140773
+#	158758
+#	187643
+#
+# Disc length: 2766 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8d0acc0c
+DTITLE=Jean-Louis Murat - Taormina
+DYEAR=2006
+DGENRE=Chanson française
+TTITLE0=Caillou
+TTITLE1=Le chemin des poneys
+TTITLE2=Taormina
+TTITLE3=Au dedans de moi
+TTITLE4=L'heure du berger
+TTITLE5=Est-ce bien l'amour
+TTITLE6=Maudits
+TTITLE7=La raie manta
+TTITLE8=Billy
+TTITLE9=Démariés
+TTITLE10=Accueille moi paysage
+TTITLE11=Gengis
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16457
+#	40402
+#	63080
+#	86432
+#	112265
+#	130895
+#	152147
+#	170475
+#	186775
+#
+# Disc length: 2765 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.07
+#
+DISCID=820acb0a
+DTITLE=«Белый день» - Балалайка in Rock
+DYEAR=1900
+DGENRE=
+TTITLE0=Queen and Deep Purple
+TTITLE1=Иисус Христос - Суперзвезда
+TTITLE2=Машина Времени
+TTITLE3=Boney-M
+TTITLE4=World Pop Medley
+TTITLE5=ABBA
+TTITLE6=American Medley
+TTITLE7=Italian Medley
+TTITLE8=Sc. Joplin Ragtimes
+TTITLE9=The Beatles
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

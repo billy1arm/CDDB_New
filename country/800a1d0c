@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     17442
+#     33087
+#     46455
+#     66872
+#     84530
+#     97682
+#     112530
+#     129170
+#     144420
+#     160512
+#     178167
+# 
+# Disc length: 2591 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=800a1d0c
+DTITLE=Various Artist - Sabadao Sertanejo
+DYEAR=1900
+DGENRE=
+TTITLE0=Alegria Geral
+TTITLE1=Loucura Demais
+TTITLE2=As Vezes Tu, As Vezes Eu
+TTITLE3=Pout-Porri - Remix Samba
+TTITLE4=Baby
+TTITLE5=Fio de Cabelo
+TTITLE6=Mexe Mexe
+TTITLE7=Sai Dessa Coracao
+TTITLE8=Poderosa
+TTITLE9=Me Liga, Me Grita, Me Chama
+TTITLE10=A Flor Do Olodum
+TTITLE11=Clareia
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18215
+#     29525
+#     40812
+#     52042
+#     63932
+#     76947
+#     90887
+#     108722
+#     121225
+#     138870
+#     154190
+# 
+# Disc length: 2232 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8f08b60c
+DTITLE=Willie Nelson - Six hours at Pedernales
+DYEAR=1900
+DGENRE=
+TTITLE0=Nothing's changed, Nothing's new
+TTITLE1=Chase the moon
+TTITLE2=Are you sure
+TTITLE3=The party's over
+TTITLE4=We're not talking anymore
+TTITLE5=Turn me loose and let me swing
+TTITLE6=Once you're past the blues
+TTITLE7=It won't be easy
+TTITLE8=Stray Cats, Cowbowys, and Girls of the night
+TTITLE9=The best worst thing
+TTITLE10=It should be easier now
+TTITLE11=My own Peculiar way
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

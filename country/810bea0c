@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15045
+#	27945
+#	46992
+#	61913
+#	83618
+#	100393
+#	118626
+#	150013
+#	166394
+#	186034
+#	191097
+#
+# Disc length: 3052 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=810bea0c
+DTITLE=Daybreak - First Light
+DYEAR=2003
+DGENRE=Bluegrass
+TTITLE0=Fast Legs
+TTITLE1=Newground Breakdown
+TTITLE2=Catch Me When I Fall
+TTITLE3=Paul Revere's Ride
+TTITLE4=Mending Wall
+TTITLE5=All I Need
+TTITLE6=The Town of Mabou
+TTITLE7=Groove Grove
+TTITLE8=Down By the Salley Gardens
+TTITLE9=Osmosis
+TTITLE10=Deep River
+TTITLE11=Terra Blue
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

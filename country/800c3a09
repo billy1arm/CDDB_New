@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15212
+#	55539
+#	74974
+#	115922
+#	126665
+#	130740
+#	160999
+#	176897
+#
+# Disc length: 3132 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=800c3a09
+DTITLE=Geraldinho, Hamilton Carneiro e André e Andrade - Trova, Prosa e Viola
+DYEAR=1009
+DGENRE=Comedy
+TTITLE0=Hamilton Carneiro - Introdução à Folia do Divino
+TTITLE1=Geraldinho - A Namoradinha
+TTITLE2=André and Andrade - Mariinha
+TTITLE3=Geraldinho - O Osso
+TTITLE4=Hamilton Carneiro - Dez Marias
+TTITLE5=André and Andrade - Marimbondo
+TTITLE6=Geraldinho - O Causo do Marimbondo
+TTITLE7=André and Andrade - Invencione
+TTITLE8=Geraldinho - O Causo da Bicicleta
+EXTD=
+EXTT0=Hamilton Carneiro e Geradinho
+EXTT1=Geraldinho
+EXTT2=André e Andrade
+EXTT3=Geraldinho
+EXTT4=Hamilton Carneiro
+EXTT5=André e Andrade
+EXTT6=Geraldinho
+EXTT7=André e Andrade
+EXTT8=Geraldinho
+PLAYORDER=

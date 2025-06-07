@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16285
+#     31972
+#     46390
+#     57215
+#     74190
+#     85785
+#     102907
+#     117200
+#     129725
+# 
+# Disc length: 1923 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8707810a
+DTITLE=Various Artist - Country Doubles
+DYEAR=1900
+DGENRE=
+TTITLE0=Something Up My Sleeve - Suzy Boggus/Billy Dean
+TTITLE1=We Fell In Love Anyway - Cleve Francis/Patti Austin
+TTITLE2=We're Both To Blame - Lee Greenwood/Tanya Tucker
+TTITLE3=Bye Bye Love - Lacy J. Dalton/Eddie Rabbit
+TTITLE4=Angels Love Bad Men - Barbara Mandrell/Waylon Jennings
+TTITLE5=What'cha Gonna Do With A Cowboy - Chris LeDoux/Garth Brooks
+TTITLE6=Don't Underestimate Love - The Nitty Gritty Dirt Band/Suzy Bogguss
+TTITLE7=Cowboys Like A Little Rock And Roll - Chris LeDoux/Charlie Daniels
+TTITLE8=Hopelessly Yours - Lee Greenwood/Suzy Boggus
+TTITLE9=Don't Go Out - Tanya Tucker/T. Graham Brown
+EXTD=
+EXTT0=Suzy Boggus/Billy Dean\n
+EXTT1=Cleve Francis/Patti Austin\n
+EXTT2=Lee Greenwood/Tanya Tucker\n
+EXTT3=Lacy J. Dalton/Eddie Rabbit\n
+EXTT4=Barbara Mandrell/Waylon Jennings\n
+EXTT5=Chris LeDoux/Garth Brooks\n
+EXTT6=The Nitty Gritty Dirt Band/Suzy Bogguss\n
+EXTT7=Chris LeDoux/Charlie Daniels\n
+EXTT8=Lee Greenwood/Suzy Boggus\n
+EXTT9=Tanya Tucker/T. Graham Brown\n
+PLAYORDER=

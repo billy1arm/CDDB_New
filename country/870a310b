@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     4560
+#     26837
+#     48875
+#     63435
+#     84110
+#     104850
+#     122215
+#     139350
+#     153812
+#     174910
+# 
+# Disc length: 2611 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=870a310b
+DTITLE=z f - un
+DYEAR=1900
+DGENRE=
+TTITLE0=Cafe        ~Tu l'as embrasse?~
+TTITLE1=Escalation
+TTITLE2=2 H
+TTITLE3=Jealousy
+TTITLE4=S   b G    
+TTITLE5=Q   ~Album Version~
+TTITLE6=O     B  ?
+TTITLE7=
+TTITLE8=Cafe        ~Je l'ai embrasse.~~
+TTITLE9=p b   R K      
+TTITLE10=Q  
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

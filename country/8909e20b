@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16237
+#	34705
+#	54372
+#	69841
+#	87389
+#	100602
+#	123936
+#	141993
+#	161617
+#	178276
+#
+# Disc length: 2532 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8909e20b
+DTITLE=Stewart Eastham - Sunset N' Western
+DYEAR=2002
+DGENRE=Country
+TTITLE0=drivin_down
+TTITLE1=pickup
+TTITLE2=sunset western
+TTITLE3=corner of my mind
+TTITLE4=blues on sleeve
+TTITLE5=its_on
+TTITLE6=another_beer
+TTITLE7=next time around
+TTITLE8=baby_baby
+TTITLE9=drivin_acoutic
+TTITLE10=little woman
+EXTD=YEAR: 2002 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

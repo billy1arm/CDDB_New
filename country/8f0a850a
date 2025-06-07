@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16319
+#     37327
+#     55980
+#     72532
+#     99242
+#     117940
+#     141562
+#     158858
+#     181807
+# 
+# Disc length: 2695 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8f0a850a
+DTITLE=The Cyrus Clarke Band - Sunrise on the Radio
+DYEAR=1900
+DGENRE=
+TTITLE0=Sunrise on the Radio
+TTITLE1=Red Tail Hawk
+TTITLE2=Across the Borderline
+TTITLE3=The Shape I'm In
+TTITLE4=Stand and Deliver
+TTITLE5=Honky Tonk Moon
+TTITLE6=Night Train to Paris
+TTITLE7=Little Girl Blue
+TTITLE8=Another Pretty Day
+TTITLE9=Love is Sure
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14361
+#	27230
+#	41525
+#	54670
+#	69077
+#	87122
+#	97059
+#	120375
+#	136758
+#	157384
+#
+# Disc length: 2380 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=89094a0b
+DTITLE=John Denver - Seine groﬂen Erfolge CD 1
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Take Me Home, Country Roads
+TTITLE1=Follow Me
+TTITLE2=Starwood in Aspen
+TTITLE3=For Baby (For Bobbie)
+TTITLE4=Rhymes And Reasons
+TTITLE5=Leaving, On A Jet Plane
+TTITLE6=The Eagle And The Hawk
+TTITLE7=Sunshine On My Shoulders
+TTITLE8=Goodbye Again
+TTITLE9=Poems, Prayers And Promises
+TTITLE10=Rocky Mountain High
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

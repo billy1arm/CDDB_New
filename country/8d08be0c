@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     9075
+#     21075
+#     33825
+#     51787
+#     65100
+#     79950
+#     91387
+#     105412
+#     120187
+#     134775
+#     152587
+# 
+# Disc length: 2240 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8d08be0c
+DTITLE=The Nashville Bluegrass Band - My Native Home
+DYEAR=1900
+DGENRE=
+TTITLE0=Up Above My Head
+TTITLE1=Monroebillia
+TTITLE2=My Native Home
+TTITLE3=Baby Blue Eyes
+TTITLE4=Blind Bartimus
+TTITLE5=Doghouse Blues
+TTITLE6=Prodigal Son
+TTITLE7=Endless Sleep
+TTITLE8=On My Mind
+TTITLE9=Carrol County Blues
+TTITLE10=Brand New Tennessee Waltz
+TTITLE11=Blue and Lonesome
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

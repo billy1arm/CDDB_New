@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     9325
+#     22275
+#     32262
+#     48762
+#     61490
+#     75225
+#     91750
+#     103150
+#     116200
+#     129087
+#     141012
+# 
+# Disc length: 2012 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8a07da0c
+DTITLE=Gran Banda Taurina - Los Mejores Pasodobles
+DYEAR=1900
+DGENRE=
+TTITLE0=Espa a ca i
+TTITLE1=El Vito
+TTITLE2=Yo quiero ser matador
+TTITLE3=En er mundo
+TTITLE4=Soldadito espa ol
+TTITLE5=Manolete
+TTITLE6=Luna de Espa a
+TTITLE7=Dauder
+TTITLE8=El gato montes
+TTITLE9=Aguero
+TTITLE10=Reyes del ruedo
+TTITLE11=Capote de grana y oro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

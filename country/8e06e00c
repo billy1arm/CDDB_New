@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    150
+#    10872
+#    21010
+#    31757
+#    42317
+#    51505
+#    61540
+#    72807
+#    85435
+#    97710
+#    107105
+#    120675
+#
+# Disc length: 1762 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8e06e00c
+DTITLE=Patsy Cline - Sweet Dreams
+DYEAR=1900
+DGENRE=country
+TTITLE0=San Antonio Rose
+TTITLE1=Seven Lonely Days
+TTITLE2=Your Cheatin' Heart
+TTITLE3=Lovesick Blues
+TTITLE4=Walking After Midnight
+TTITLE5=Foolin' Round
+TTITLE6=Half As Much
+TTITLE7=I Fall to Pieces
+TTITLE8=Crazy
+TTITLE9=Blue Moon of Kentucky
+TTITLE10=She's Got You
+TTITLE11=Sweet Dreams
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

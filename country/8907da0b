@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11782
+#	22800
+#	36370
+#	53522
+#	66207
+#	81192
+#	94997
+#	109260
+#	120787
+#	134547
+#
+# Disc length: 2012 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=8907da0b
+DTITLE=Anita Perras - Way Beyond The Blue
+DYEAR=1993
+DGENRE=Country
+TTITLE0=Can't You Just Stay Gone
+TTITLE1=Somewhere Under The Rainbow
+TTITLE2=Way Beyond The Blue
+TTITLE3=If I Didn't Have You In My World
+TTITLE4=This Time It's For Me
+TTITLE5=Road To Your Heart
+TTITLE6=It Might As Well Be Me
+TTITLE7=It Reminds Me Of You
+TTITLE8=Love Is A Rock
+TTITLE9=Chances Are
+TTITLE10=I've Got A Travellin' Heart
+EXTD=\nYEAR: 1993  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16807
+#	36852
+#	54657
+#	70497
+#	86430
+#	101787
+#	117885
+#	133320
+#	151067
+#	165727
+#
+# Disc length: 2398 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8f095c0b
+DTITLE=Benny Wilson - Fool's Moon
+DYEAR=1900
+DGENRE=
+TTITLE0=Fool's Moon
+TTITLE1=Shoot Me If I Run
+TTITLE2=In It For The Kid
+TTITLE3=Honky-Tonk Holler
+TTITLE4=Delta Dream
+TTITLE5=My Hearts Running
+TTITLE6=On A Roll
+TTITLE7=Take The Fall
+TTITLE8=Outlaw Heart
+TTITLE9=Falling
+TTITLE10=Finishing Touch
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

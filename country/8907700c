@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	10025
+# 	22075
+# 	33810
+# 	44767
+# 	55827
+# 	66897
+# 	79577
+# 	90262
+# 	101597
+# 	113222
+# 	128282
+#
+# Disc length: 1906 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=8907700c
+DTITLE=Wanda Jackson - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Let's Have A Party
+TTITLE1=Right Or Wrong
+TTITLE2=In The Middle Of A Heartache
+TTITLE3=Tears Will Be The Chaser For Your Wine
+TTITLE4=Fancy Satin Pillows
+TTITLE5=The Box It Came In
+TTITLE6=A Woman Lives For Love
+TTITLE7=Both Sides Of The Line
+TTITLE8=I Gotta Know
+TTITLE9=If I Cried Everytime You Hurt Me
+TTITLE10=Back Then
+TTITLE11=I Forgot More Than You'll Ever Know
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

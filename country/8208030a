@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     12923
+#     27558
+#     45688
+#     63745
+#     76553
+#     89445
+#     102195
+#     115193
+#     134835
+# 
+# Disc length: 2053 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=8208030a
+DTITLE=The Normaltown Flyers - The Normaltown Flyers
+DYEAR=1900
+DGENRE=
+TTITLE0=Rockin' The Love Boat
+TTITLE1=Crying On The Inside
+TTITLE2=Lying To Myself
+TTITLE3=I Just Couldn't Stay Away
+TTITLE4=Pickup Truck Rock 'n' Roll
+TTITLE5=The Taco Stand
+TTITLE6=Don't Call Me In The Morning
+TTITLE7=I Can't Fall In Love Again
+TTITLE8=Up Above The Clouds
+TTITLE9=The Big Man Sez
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

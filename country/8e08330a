@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     15840
+#     29205
+#     42207
+#     62930
+#     74492
+#     91945
+#     107350
+#     124932
+#     140935
+# 
+# Disc length: 2101 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=8e08330a
+DTITLE=Marty Brown - Cryin', Lovin', Leavin'
+DYEAR=1900
+DGENRE=
+TTITLE0=You Must Be Mistakin' Me
+TTITLE1=Cryin', Lovin', Leavin'
+TTITLE2=Too Blue To Crow
+TTITLE3=Shameful Lies
+TTITLE4=Cherokee Boogie
+TTITLE5=Summer's Gone
+TTITLE6=It Tortures Me
+TTITLE7=Watch It Burn
+TTITLE8=Why Do You Crucify Me
+TTITLE9=I Love Only You (Duet With Joy Lynn White)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

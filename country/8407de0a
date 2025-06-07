@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21507
+#     34222
+#     50282
+#     62810
+#     77002
+#     92605
+#     106327
+#     119367
+#     137192
+# 
+# Disc length: 2016 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8407de0a
+DTITLE=The Smith Sister - Roadrunner
+DYEAR=1900
+DGENRE=
+TTITLE0=The River and The Moon
+TTITLE1=Dancyville Road
+TTITLE2=Crazy Over You
+TTITLE3=River Roll On
+TTITLE4=Fire of Change
+TTITLE5=Virginai
+TTITLE6=French Broad River Waltz
+TTITLE7=All Through Throwing Good Love After Bad
+TTITLE8=Closer Now Than Ever
+TTITLE9=The Bramble and The Rose
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	19677
+#	36712
+#	52825
+#	66787
+#	85187
+#	102327
+#	121510
+#	143385
+#	162725
+#	180410
+#
+# Disc length: 2719 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=870a9d0b
+DTITLE=Vince Gill - When Love Finds You
+DYEAR=1994
+DGENRE=Country
+TTITLE0=Whenever You Come Around
+TTITLE1=You Better Think Twice
+TTITLE2=A Real Lady's Man
+TTITLE3=What The Cowgirls Do
+TTITLE4=When Love Finds You
+TTITLE5=If There's Anything I Can Do
+TTITLE6=South Side Of Dixie
+TTITLE7=Maybe Tonight
+TTITLE8=Which Bridge To Cross (Which Bridge To Burn)
+TTITLE9=If I Had My Way
+TTITLE10=Go Rest High On That Mountain
+EXTD=This entry into the CDDB correctly uses capital letters in the song tit
+EXTD=les. ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

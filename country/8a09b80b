@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16980
+#	33703
+#	48158
+#	62238
+#	79193
+#	93730
+#	113573
+#	131290
+#	154420
+#	170365
+#
+# Disc length: 2490 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8a09b80b
+DTITLE=T. Graham Brown - Bumper To Bumper
+DYEAR=1990
+DGENRE=Country
+TTITLE0=Moonshadow Road
+TTITLE1=You Can't Make Her Love You
+TTITLE2=I'm Expecting Miracles
+TTITLE3=If You Could Only See Me Now
+TTITLE4=I'm Sending One Up For You
+TTITLE5=I've Been Loving You Too Long
+TTITLE6=Eyes Wide Open
+TTITLE7=Bring A Change
+TTITLE8=Blues Of The Month Club
+TTITLE9=For Real
+TTITLE10=We Tote The Note
+EXTD=more info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Composer;Date,Artist,Location,State,Country) YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

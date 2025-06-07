@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  23340
+#  41857
+#  56125
+#  75937
+#  95335
+#  113229
+#  126900
+#  145105
+#  159965
+#  172112
+#
+# Disc length: 2545 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8609ef0b
+DTITLE=Cheri Knight - The Knitter
+DYEAR=1900
+DGENRE=country
+TTITLE0=The Knitter
+TTITLE1=Megalith
+TTITLE2=Down By the Water
+TTITLE3=Light in the Road
+TTITLE4=Last Barn Dance
+TTITLE5=Wishing Well
+TTITLE6=That I Might See
+TTITLE7=Waiting For Sara
+TTITLE8=Spellbound
+TTITLE9=Paper Wings
+TTITLE10=Very Last Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

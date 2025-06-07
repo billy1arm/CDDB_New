@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17355
+#	32760
+#	45975
+#	60947
+#	76375
+#	90210
+#	105262
+#	124310
+#	134845
+#	151775
+#	168405
+#
+# Disc length: 2464 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL1
+#
+DISCID=80099e0c
+DTITLE=Gibson And Mileti With The Shmmoozers
+DYEAR=1900
+DGENRE=
+TTITLE0=I Got Over Her
+TTITLE1=Don't Wanna Play
+TTITLE2=Matchbook Lover
+TTITLE3=Whoever You Are
+TTITLE4=Can't Find Merle
+TTITLE5=What's One More Day
+TTITLE6=Cross The Tracks
+TTITLE7=Love Me Knot
+TTITLE8=Get A Job
+TTITLE9=The House
+TTITLE10=Destination Anywhere
+TTITLE11=The Best Thing
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

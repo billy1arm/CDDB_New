@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11654
+#	25421
+#	32903
+#	48111
+#	61919
+#	74420
+#	85913
+#	96604
+#	109406
+#
+# Disc length: 1636 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8806620a
+DTITLE=Waylon and Willie - Super Hits
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Mammas Don't Let Your Babies Grow Up To Be Cowboys
+TTITLE1=The Year 2003 Minus 25
+TTITLE2=Heaven And Hell
+TTITLE3=(Sittin' On) The Dock Of The Bay
+TTITLE4=Don't Cuss The Fiddle
+TTITLE5=Heros
+TTITLE6=Pick Up The Tempo
+TTITLE7=I Can Get Off On You
+TTITLE8=Just To Satisfy You
+TTITLE9=Good Hearted Woman
+EXTD=YEAR: 1999 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

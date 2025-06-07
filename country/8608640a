@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20605
+#     36077
+#     49125
+#     62577
+#     79332
+#     95685
+#     111077
+#     125417
+#     144395
+# 
+# Disc length: 2150 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8608640a
+DTITLE=Frazier River - Frazier River
+DYEAR=1900
+DGENRE=
+TTITLE0=Everything About You
+TTITLE1=That's Why I'm Here
+TTITLE2=Money Don't Make People
+TTITLE3=She Got What She Deserves
+TTITLE4=Last Request
+TTITLE5=I Don't Want to See You Again
+TTITLE6=Tangled Up in Texas
+TTITLE7=Birminghmam Steel
+TTITLE8=Heaven is Smiling
+TTITLE9=It Won't Bring Her Back
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

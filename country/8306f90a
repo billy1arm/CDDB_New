@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11367
+#	22837
+#	36417
+#	48190
+#	61547
+#	71875
+#	93630
+#	104810
+#	119575
+#
+# Disc length: 1787 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=8306f90a
+DTITLE=Merle Haggard, George Jones, Conway Twitty - Living Legends
+DYEAR=1992
+DGENRE=Country
+TTITLE0=Conway Twitty - Hello Darlin'
+TTITLE1=George Jones - A Picture Of Me (Without You)
+TTITLE2=Merle Haggard - Big City
+TTITLE3=Conway Twitty - (Lying Here With) Linda On My Mind
+TTITLE4=Merle Haggard - My Favorite Memory
+TTITLE5=George Jones - The Race Is On
+TTITLE6=Merle Haggard - Going Where The Lonely Go
+TTITLE7=Conway Twitty - It's Only Make Believe
+TTITLE8=George Jones - He Stopped Loving Her Today
+TTITLE9=Merle Haggard and George Jones - Yesterday's Wine
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

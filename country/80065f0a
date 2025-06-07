@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	15560
+#	27590
+#	37487
+#	52310
+#	61532
+#	71587
+#	84132
+#	94245
+#	108100
+#
+# Disc length: 1633 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=80065f0a
+DTITLE=The Statler Brothers - Music, Memories and You
+DYEAR=1990
+DGENRE=Country
+TTITLE0=Small Small World
+TTITLE1=Nobody Else
+TTITLE2=Jealous Eyes
+TTITLE3=Holding On
+TTITLE4=Think Of Me
+TTITLE5=You Gave Yourself Away
+TTITLE6=I Never Once Got Tired Of You
+TTITLE7=What's On My Mind
+TTITLE8=He Is There
+TTITLE9=My Music, My Memories and You
+EXTD=YEAR: 1990 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

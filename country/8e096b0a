@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	21767
+#	40992
+#	57292
+#	74102
+#	90745
+#	110700
+#	131245
+#	145712
+#	165852
+#
+# Disc length: 2413 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8e096b0a
+DTITLE=Simone - Cristal
+DYEAR=1900
+DGENRE=
+TTITLE0=Tinha de Ser
+TTITLE1=Sonhos (Arrastao dos Pescadores)
+TTITLE2=Cristal
+TTITLE3=Labios Vermelhos
+TTITLE4=Agua na Boca
+TTITLE5=Amor no Coracao
+TTITLE6=Voce E Real
+TTITLE7=Princesa
+TTITLE8=Meu Marfim
+TTITLE9=A Outra
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

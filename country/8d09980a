@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	18790
+#	35212
+#	52782
+#	72917
+#	89965
+#	108392
+#	127012
+#	143880
+#	164397
+#
+# Disc length: 2458 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8d09980a
+DTITLE=Kenny Rogers - Greatest Country Hits, Volume 3
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Buried Treasure
+TTITLE1=Eyes That See In The Dark
+TTITLE2=This Woman
+TTITLE3=They Don't Make Them Like They Used To
+TTITLE4=Midsummer Nights
+TTITLE5=I Don't Call Him Daddy
+TTITLE6=Now And Forever
+TTITLE7=The Stranger
+TTITLE8=The Heart of The Matter
+TTITLE9=This Love We Share
+EXTD=YEAR: 2001 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 2007 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14528
+#     36100
+#     59188
+#     80940
+#     117551
+#     136766
+#     150243
+#     169021
+#     195888
+# 
+# Disc length: 2963 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=810b910a
+DTITLE=Tim Flannery - Kentucky Towns
+DYEAR=1900
+DGENRE=
+TTITLE0=Road Into Town
+TTITLE1=Kentucky Waltz
+TTITLE2=Foot of the Cross
+TTITLE3=He Ain't Coming Down the Mountain
+TTITLE4=Molly Gram
+TTITLE5=Kentucky Towns
+TTITLE6=Bury Me Beneath the Willow
+TTITLE7=Judas Kiss
+TTITLE8=Living Stream
+TTITLE9=By the Mark
+EXTD=Submitted by ecto@cox.net
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

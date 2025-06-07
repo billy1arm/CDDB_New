@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13425
+#     27967
+#     40400
+#     56900
+#     71745
+#     83592
+#     96040
+#     109157
+#     126950
+# 
+# Disc length: 1864 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8a07460a
+DTITLE=Charlie Rich - Charlie Rich Super Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Behind Closed Doors
+TTITLE1=On My Knees
+TTITLE2=The Most Beautiful Girl
+TTITLE3=Life's Little Ups and Downs
+TTITLE4=A Woman Left Lonely
+TTITLE5=Set Me Free
+TTITLE6=A Very Special Love Song
+TTITLE7=Spanish Eyes
+TTITLE8=My Elusive Dreams
+TTITLE9=Pieces of My Life
+EXTD=
+EXTT0=Kenny O'Dell\n
+EXTT1=Charlie Rich\n
+EXTT2=Norris Wilson\nBilly Sherrill\nRory Bourke\n
+EXTT3=Margaret Ann Rich\n
+EXTT4=Dan Penn\nDewey Spooner Oldham\n
+EXTT5=Curly Putman\n
+EXTT6=Norris Wilson\nBilly Sherrill\n
+EXTT7=Bert Kaempfert\nEddie Snyder\nCharles Singleton\n
+EXTT8=Curly Putman\nBilly Sherrill\n
+EXTT9=Troy Seals\n
+PLAYORDER=

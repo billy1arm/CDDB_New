@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	13312
+# 	28407
+# 	41360
+# 	56960
+# 	73562
+# 	90090
+# 	105775
+# 	120652
+# 	134677
+#
+# Disc length: 1972 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3
+#
+DISCID=8307b20a
+DTITLE=Bellamy Brothers - Reality Check
+DYEAR=1900
+DGENRE=
+TTITLE0=Too Late
+TTITLE1=I Could Be Persuaded
+TTITLE2=Have A Little Compassion
+TTITLE3=Was There Life Before This Love
+TTITLE4=Makin' Promises
+TTITLE5=What's This World Coming To
+TTITLE6=Forever Ain't Long Enough
+TTITLE7=How Can You Be Everywhere At The Same Time
+TTITLE8=I Don't Wanna Lose You
+TTITLE9=Reality Check
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

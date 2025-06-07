@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  15630
+#  30672
+#  43787
+#  58425
+#  73165
+#  90407
+#  114407
+#  132565
+#  144780
+#
+# Disc length: 2088 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8b08260a
+DTITLE=The Strayhorns - The Strayhorns
+DYEAR=1900
+DGENRE=country
+TTITLE0=Don't Get Above Your Raisin'
+TTITLE1=She Thinks I Still Care
+TTITLE2=Just In Case
+TTITLE3=Mind Your Own Business (with Alan Jackson)
+TTITLE4=Chattahoochee
+TTITLE5=Ramblin' Fever
+TTITLE6=Workin' Man Blues
+TTITLE7=Misery Loves Company
+TTITLE8=What Kind Of Man (with Alan Jackson)
+TTITLE9=Stray Hornpipe
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

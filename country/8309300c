@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13127
+#  23327
+#  46202
+#  56327
+#  67877
+#  83402
+#  104552
+#  119402
+#  132377
+#  150190
+#  168115
+#
+# Disc length: 2354 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: KiC 2.1 - (C) 1996-1998 Alwin Hoogerdijk
+#
+DISCID=8309300c
+DTITLE=Byron Berline - Dad's Favorites
+DYEAR=1900
+DGENRE=
+TTITLE0=Coming Down From Denver
+TTITLE1=New Broom
+TTITLE2=Grey Eagle
+TTITLE3=B and B Rag
+TTITLE4=Redbird
+TTITLE5=Ragtime Annie
+TTITLE6=Limerock
+TTITLE7=Stone's Rag
+TTITLE8=Miller's Reel
+TTITLE9=Arkansas Traveler
+TTITLE10=Sweet Memories Waltz
+TTITLE11=Birmingham Fling
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

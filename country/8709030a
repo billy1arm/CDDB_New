@@ -1,0 +1,46 @@
+# xmcd
+#
+# Track frame offsets:
+#	182
+#	19127
+#	37115
+#	56577
+#	69035
+#	86067
+#	97382
+#	127967
+#	139890
+#	159447
+#
+# Disc length: 2309 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: dBpowerAMP V4.0
+#
+DISCID=8709030a
+DTITLE=Gilles Descoteaux - Ton Enfant N'est Pas Le Notre
+DYEAR=1900
+DGENRE=country
+TTITLE0=Je Chante Comme Willie
+TTITLE1=Tu Me Pardonnes Encore
+TTITLE2=Tu Me Manques
+TTITLE3=Les Mots-Cles
+TTITLE4=Tu N'es Pas Libre
+TTITLE5=Ma Musique
+TTITLE6=Le Blues D'la Serveuse
+TTITLE7=Avec Ou Sans Toe
+TTITLE8=Ton Enfant N'est Pas Le Notre
+TTITLE9=J'ai Peur De Vivre
+EXTD=J'ai corrigé les titres pour mettre des Majuscules, et enlevé les accents qui ne s'insèrent pas bien dans les tags ID3..\nClément Hébert
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

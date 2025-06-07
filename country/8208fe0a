@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	16206
+#	41491
+#	55372
+#	71619
+#	87411
+#	102554
+#	122584
+#	135860
+#	155066
+#
+# Disc length: 2304 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8208fe0a
+DTITLE=God Speed - Let Me Introduce You
+DYEAR=1900
+DGENRE=
+TTITLE0=The Lord Up Above (Must Be Country)
+TTITLE1=I've Been There
+TTITLE2=Let Me Introduce You
+TTITLE3=My Best Friend
+TTITLE4=God Speed
+TTITLE5=Lord Keep A Hold
+TTITLE6=Deliverance And Mercy
+TTITLE7=Calmer Of The Storm
+TTITLE8=Greatest Of These
+TTITLE9=I Need You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

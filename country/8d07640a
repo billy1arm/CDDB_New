@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19380
+#     33177
+#     43310
+#     57707
+#     70007
+#     88107
+#     102102
+#     111500
+#     124002
+# 
+# Disc length: 1894 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8d07640a
+DTITLE=Various Artist - Country Music Classics - Volume XII Mid 70's
+DYEAR=1900
+DGENRE=
+TTITLE0=El Paso City
+TTITLE1=Is It Worng (For Loving You)
+TTITLE2=What A Man My Man Is
+TTITLE3=Stranger
+TTITLE4=Broken Lady
+TTITLE5=One Piece At A Time
+TTITLE6=The Grand Tour
+TTITLE7=If You've Got The Money I've Got The Time
+TTITLE8=A Very Special Love Song
+TTITLE9=I Can Help
+EXTD=
+EXTT0=Marty Robbins
+EXTT1=Sony James
+EXTT2=Lynn Anderson
+EXTT3=Johnny Duncan
+EXTT4=Larry Gatlin And The Gatlin Brothers Band
+EXTT5=Johnny Cash
+EXTT6=George Jones
+EXTT7=Willie Nelson
+EXTT8=Charlie Rich
+EXTT9=Billy Swan
+PLAYORDER=

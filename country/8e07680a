@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 13170
+# 27380
+# 44857
+# 58475
+# 71647
+# 81447
+# 98577
+# 114272
+# 126070
+#
+# Disc length: 1898 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=8e07680a
+DTITLE=Barbara Mandrell - The Barbara Mandrell Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=I Wish That I Could Fall In Love Today
+TTITLE1=You've Become The Dream
+TTITLE2=Child Support
+TTITLE3=Mirror Mirror
+TTITLE4=Feed The Fire
+TTITLE5=The Key's In The Mailbox
+TTITLE6=Angels Love Bad Men
+TTITLE7=Sure Feels Good
+TTITLE8=My Train Of Thought
+TTITLE9=I'll Leave Something Good Behind
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

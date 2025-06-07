@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12545
+#	27764
+#	41800
+#	52552
+#	63204
+#	74355
+#	87698
+#	108019
+#	118961
+#
+# Disc length: 1785 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8106f70a
+DTITLE=Kenny Rogers - For The Good Times
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Ruben James
+TTITLE1=For The Good Times
+TTITLE2=Loser
+TTITLE3=Goodtime Liberator
+TTITLE4=Homemade Lies
+TTITLE5=If Wishes Were Horses
+TTITLE6=It's Gonna Get Better
+TTITLE7=Lay It Down
+TTITLE8=Last Few Threads Of Love
+TTITLE9=Heed The Call
+EXTD=YEAR: 2001 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

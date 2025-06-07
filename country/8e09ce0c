@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17845
+#     35410
+#     51145
+#     67315
+#     85530
+#     105752
+#     123152
+#     141145
+#     160327
+#     175627
+#     188455
+# 
+# Disc length: 2512 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8e09ce0c
+DTITLE=Reba Mcentire - If You See Him
+DYEAR=1900
+DGENRE=
+TTITLE0=If You See Him, If You See Her
+TTITLE1=On Honest Heart
+TTITLE2=I Wouldn't Know
+TTITLE3=I'll Give You Something To Miss
+TTITLE4=Invisible
+TTITLE5=Up And Flying
+TTITLE6=Forever Love
+TTITLE7=Face To Face
+TTITLE8=Heart Hush
+TTITLE9=Lonely Alone
+TTITLE10=Wrong Night
+TTITLE11=All This Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	17282
+# 	35077
+# 	52952
+# 	67860
+# 	88070
+# 	102020
+# 	116705
+# 	135897
+# 	151437
+# 	166615
+# 	185337
+#
+# Disc length: 2655 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=860a5d0c
+DTITLE=Rodney Crowell - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Lovin' All Night
+TTITLE1=Even Cowgirls Get The Blues
+TTITLE2=What Kind Of Love
+TTITLE3=I Couldn't Leave You If I Tried
+TTITLE4=After All This Time
+TTITLE5=Talking To A Stranger
+TTITLE6=She's Crazy For Leaving
+TTITLE7=Many A Long and Lonesome Highway
+TTITLE8=If Looks Could Kill
+TTITLE9=It's Such A Small World
+TTITLE10=Things I Wish I'd Said
+TTITLE11=Standing On A Rock
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

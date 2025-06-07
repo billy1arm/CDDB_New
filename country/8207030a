@@ -1,0 +1,49 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11635
+#	24455
+#	34437
+#	50080
+#	70715
+#	81800
+#	92892
+#	110345
+#	124147
+#
+# Disc length: 1797 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8207030a
+DTITLE=Charley Pride - Charley Pride:Special Collector's Editio
+DTITLE=n-Vol 2
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm Just Me
+TTITLE1=Hope You're Feelin' Me Like I'm Feelin' You (Hal Ketchu
+TTITLE1=m)
+TTITLE2=Someone Loves You Honey
+TTITLE3=Burgers And Fries
+TTITLE4=You're So Good When You're Bad
+TTITLE5=Does My Ring Hurt Your Finger
+TTITLE6=Mississippi Cotton Pickin' Delta Town
+TTITLE7=Just For The Love Of It (Joe Diffie)
+TTITLE8=Burnin' Down The Town (Travis Tritt)
+TTITLE9=I Know One
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

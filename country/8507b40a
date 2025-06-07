@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     17373
+#     30698
+#     43893
+#     54655
+#     66660
+#     78280
+#     92035
+#     109085
+#     124968
+# 
+# Disc length: 1974 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8507b40a
+DTITLE=Michael Nesmith - And The Hits Just Keep on Comin'
+DYEAR=1900
+DGENRE=
+TTITLE0=Tomorrow and Me
+TTITLE1=The Upside of Good-Bye
+TTITLE2=Lady Love
+TTITLE3=Listening
+TTITLE4=Two Different Roads
+TTITLE5=The Candidate
+TTITLE6=Different Drum
+TTITLE7=Harmony Constant
+TTITLE8=Keep On
+TTITLE9=Roll With the Flow
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

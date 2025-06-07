@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     11613
+#     28173
+#     42710
+#     58235
+#     71255
+#     86820
+#     103455
+#     119103
+# 
+# Disc length: 1888 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=89075e09
+DTITLE=Eddie Rabbitt - Classics Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=B-B-B-Burnin' Up With Love
+TTITLE1=Step By Step
+TTITLE2=The Best Year Of My Life
+TTITLE3=Years After You
+TTITLE4=Warning Sign
+TTITLE5=Someone Could Lose A Heart Tonight
+TTITLE6=You Can't Run From Love
+TTITLE7=Our Love Will Survive
+TTITLE8=Nobody Loves Me Like My Baby
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

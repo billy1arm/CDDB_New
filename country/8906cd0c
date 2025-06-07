@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     9987
+#     20175
+#     31062
+#     41635
+#     54227
+#     65955
+#     75285
+#     85632
+#     97372
+#     108225
+#     120087
+# 
+# Disc length: 1743 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8906cd0c
+DTITLE=George Jones - The Classic Years
+DYEAR=1900
+DGENRE=
+TTITLE0=Too Much Water
+TTITLE1=Don't Stop The Music
+TTITLE2=Will the Circle Be Unbroken
+TTITLE3=Treasure Of Love
+TTITLE4=White Lightnin'
+TTITLE5=Revendooer Man
+TTITLE6=Big Harlan Taylor
+TTITLE7=Why, Baby, Why
+TTITLE8=You Better Treat Your Man Right
+TTITLE9=Glad To Let Her Go
+TTITLE10=You're Still On My Mine
+TTITLE11=Tender Years
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

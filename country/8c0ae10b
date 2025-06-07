@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16870
+#     36917
+#     59367
+#     82725
+#     96525
+#     113240
+#     134395
+#     156447
+#     170367
+#     188810
+# 
+# Disc length: 2787 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8c0ae10b
+DTITLE=Joel Feeney - ...Life Is But A Dream
+DYEAR=1900
+DGENRE=
+TTITLE0=Say The Word
+TTITLE1=Somewhere
+TTITLE2=What Kind of Man
+TTITLE3=By Heart
+TTITLE4=Blue Kentucky Moon
+TTITLE5=Wasted Words
+TTITLE6=Everything To Me
+TTITLE7=No Sign of Life
+TTITLE8=Life Is But A Dream
+TTITLE9=Tears Don't Lie
+TTITLE10=Last To Know
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

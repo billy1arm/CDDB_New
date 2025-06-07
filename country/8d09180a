@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19033
+#	36177
+#	58493
+#	76493
+#	92054
+#	111540
+#	126825
+#	137908
+#	159556
+#
+# Disc length: 2330 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8d09180a
+DTITLE=Paul Gross and David Keeley - Two Houses
+DYEAR=1900
+DGENRE=
+TTITLE0=Ride Forever
+TTITLE1=Voodoo
+TTITLE2=Desert and Rain
+TTITLE3=Two Houses
+TTITLE4=Blind Man
+TTITLE5=Promise Us the Night
+TTITLE6=Angels
+TTITLE7=Man on a Bicycle
+TTITLE8=Papa's Front Porch
+TTITLE9=After the War
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

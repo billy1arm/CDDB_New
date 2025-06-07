@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17737
+#	30930
+#	51600
+#	61882
+#	77695
+#	92785
+#	108645
+#	123460
+#	135267
+#	150850
+#
+# Disc length: 2174 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=81087c0b
+DTITLE=Sundance Café - Sundance Café
+DYEAR=1997
+DGENRE=Country
+TTITLE0=It Only Hurts When The Sun Goes Down
+TTITLE1=Last Second Chance
+TTITLE2=Love Child
+TTITLE3=River Of Love
+TTITLE4=Gimmee One Good Reason
+TTITLE5=All I Know
+TTITLE6=Only Game In Town
+TTITLE7=Sunset Moon
+TTITLE8=Take A Little Time
+TTITLE9=Struck By Love
+TTITLE10=I Can't Close My Eyes
+EXTD=YEAR: 1997 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

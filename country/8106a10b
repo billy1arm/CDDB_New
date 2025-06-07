@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9827
+#	20727
+#	32745
+#	44557
+#	58552
+#	69967
+#	82692
+#	93707
+#	104507
+#	116287
+#
+# Disc length: 1699 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8106a10b
+DTITLE=Patsy Cline - Today, Tomorrow,  And Forever
+DYEAR=1900
+DGENRE=Country
+TTITLE0=I'm Moving Along
+TTITLE1=I Can See an Angel Walking
+TTITLE2=Let The Teardrops Fall
+TTITLE3=I've Loved And Lost Again
+TTITLE4=A Chuch, A Courtroom And Then Goodbye
+TTITLE5=Cry Not For Me
+TTITLE6=Fingerprints
+TTITLE7=I Cried All The Way To The Alter
+TTITLE8=I Don't Wanna`
+TTITLE9=Crazy Dreams
+TTITLE10=Hidin` Out
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

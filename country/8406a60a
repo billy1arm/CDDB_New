@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12462
+#	26232
+#	37147
+#	51005
+#	64327
+#	77605
+#	89052
+#	101055
+#	114075
+#
+# Disc length: 1704 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.3 PL0
+#
+DISCID=8406a60a
+DTITLE=Glen Campbell - The Ultimate Glen Campbell
+DYEAR=1900
+DGENRE=
+TTITLE0=By The Time I Get To Phoenix
+TTITLE1=Wichita Lineman
+TTITLE2=It's Only Make Believe
+TTITLE3=Country Boy
+TTITLE4=Southern Nights
+TTITLE5=Gentle On My Mind
+TTITLE6=Dreams of the Everyday Housewife
+TTITLE7=Galveston
+TTITLE8=Honey Come Back
+TTITLE9=Rhinestone Cowboy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

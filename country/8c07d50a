@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15715
+#     29680
+#     43645
+#     58507
+#     71527
+#     87637
+#     105672
+#     122330
+#     134842
+# 
+# Disc length: 2007 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8c07d50a
+DTITLE=Moe Bandy - Many Mansions
+DYEAR=1900
+DGENRE=
+TTITLE0=A Long Way From Home
+TTITLE1=Brotherly Love
+TTITLE2=The Rareset Flowers
+TTITLE3=My Wish For You
+TTITLE4=Ain't Nothin' Gonna Slow This Train Down
+TTITLE5=Many Mansions
+TTITLE6=This Night Won't Last Forever
+TTITLE7=Yuppie Love
+TTITLE8=Charlie
+TTITLE9=Goin' Through The Motions
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

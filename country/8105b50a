@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 13457
+# 26942
+# 38132
+# 47037
+# 58582
+# 68422
+# 77335
+# 87545
+# 97140
+#
+# Disc length: 1463 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=8105b50a
+DTITLE=Claude King - American Originals
+DYEAR=1900
+DGENRE=
+TTITLE0=Tiger Woman
+TTITLE1=Wolverton Mountain
+TTITLE2=Big River, Big Man
+TTITLE3=I've Got The World By The Tail
+TTITLE4=The burning Of Atlanta
+TTITLE5=The Comancheros
+TTITLE6=Sheepskin Valley
+TTITLE7=I'm Building A Bridge
+TTITLE8=Catch A Little Raindrop
+TTITLE9=All For The Love Of A Girl
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

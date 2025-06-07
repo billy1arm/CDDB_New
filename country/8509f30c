@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13594
+#	28254
+#	43546
+#	63034
+#	84122
+#	99226
+#	110902
+#	124526
+#	140606
+#	157606
+#	173490
+#
+# Disc length: 2549 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8509f30c
+DTITLE=Uncle Bud's - The Lectrowood Experience
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Back In The USSR
+TTITLE1=Smokin' In The Boysroom
+TTITLE2=Glory Days
+TTITLE3=455 Rocket
+TTITLE4=Is She Really Going Out With Him
+TTITLE5=The Letter
+TTITLE6=School's Out
+TTITLE7=Fat Bottom Girls
+TTITLE8=Money For Nothing
+TTITLE9=Hot Legs
+TTITLE10=Little Miss Can't Be Wrong
+TTITLE11=Light My Fire
+EXTD=YEAR: 2001 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

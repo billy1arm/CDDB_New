@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	34308
+#	51618
+#	68385
+#	79500
+#	90303
+#	108753
+#	123965
+#	135473
+#	148803
+#	161020
+#
+# Disc length: 2343 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8b09250b
+DTITLE=Saskia and Serge - The Best From The West
+DYEAR=1900
+DGENRE=
+TTITLE0=The Country Disco Train
+TTITLE1=Together Again
+TTITLE2=Blanket On The Ground
+TTITLE3=Let It Be Me
+TTITLE4=It's So Easy
+TTITLE5=Yippy Ah Yeah
+TTITLE6=Rose Garden
+TTITLE7=The End Of The World
+TTITLE8=Play Me That Song One More Time
+TTITLE9=Yakety Gags
+TTITLE10=Tennessee Waltz
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

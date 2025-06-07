@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13232
+#	28787
+#	46045
+#	63082
+#	79257
+#	95810
+#	113835
+#	128895
+#	144500
+#
+# Disc length: 2167 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8308750a
+DTITLE=Country Super Hits Volume 101
+DYEAR=1900
+DGENRE=
+TTITLE0=Mi Vida Loca
+TTITLE1=Thinkin' About You
+TTITLE2=The Heart Is A Lonely Hunter
+TTITLE3=Shut Up And Kiss Me
+TTITLE4=Clown In Your Rodeo
+TTITLE5=That's How You Know
+TTITLE6=Whose Bed Have Your Boots Been Under
+TTITLE7=Take Me As I Am
+TTITLE8=Find OUt What's Happenin'
+TTITLE9=You Don't Even Know Who I Am
+EXTD=Not the orginal artists...
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

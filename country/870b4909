@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     71883
+#     89938
+#     103440
+#     122480
+#     146453
+#     154318
+#     156395
+#     173703
+# 
+# Disc length: 2891 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.0
+# 
+DISCID=870b4909
+DTITLE=Neue Russische Kammermusik - Neue Russische Kammermusik
+DYEAR=1900
+DGENRE=
+TTITLE0=Cadenzas in transition
+TTITLE1=Intrduction
+TTITLE2=Pas de deux
+TTITLE3=Danse de trois
+TTITLE4=Variation
+TTITLE5=Davlouri
+TTITLE6=Pantomine
+TTITLE7=Pas de deux final
+TTITLE8=Premier fragment symphonique
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

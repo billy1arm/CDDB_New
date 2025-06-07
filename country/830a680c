@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15362
+#	32610
+#	53032
+#	65275
+#	80937
+#	100420
+#	117062
+#	135835
+#	154087
+#	166812
+#	180820
+#
+# Disc length: 2666 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=830a680c
+DTITLE=Chrystian e Ralf - Sertanejo and Forró JT 4
+DYEAR=1900
+DGENRE=Country
+TTITLE0=O Ipê e o Prisioneiro
+TTITLE1=Perdoa
+TTITLE2=Basta um Olhar
+TTITLE3=Minha Estrela é Você
+TTITLE4=Sentimentos
+TTITLE5=Uma Canção pra Nós Dois
+TTITLE6=Beijo Gelado
+TTITLE7=Confidências
+TTITLE8=O Amor não é Paixão
+TTITLE9=Sentimento Louco
+TTITLE10=Diz pra Ela
+TTITLE11=Mande a Solidão pra Outro Lugar
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

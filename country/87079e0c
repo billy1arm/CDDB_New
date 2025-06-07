@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  12462
+#  24847
+#  37955
+#  50575
+#  62497
+#  75780
+#  86647
+#  99187
+#  109982
+#  123255
+#  134342
+#
+# Disc length: 1952 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.10
+#
+DISCID=87079e0c
+DTITLE=Hank Williams, Sr. - Hank Williams, Sr.: Lonesome Blues
+DYEAR=1900
+DGENRE=
+TTITLE0=I Ain't Got Nothin' But Times
+TTITLE1=Cold, Cold Heart
+TTITLE2=Jambalaya (On the Bayou)
+TTITLE3=I'm So Lonesome I Could Cry
+TTITLE4=Long Gone Lonesome Blues
+TTITLE5=Hey, Good Lookin'
+TTITLE6=Let's Turn Back the Years
+TTITLE7=I Won't Be Home No More
+TTITLE8=Why Don't You Love Me
+TTITLE9=I've Been Down that Road Before
+TTITLE10=(I Heard that) Lonesome Whistle
+TTITLE11=Lost Highway
+EXTD=
+EXTT0=I Ain't Got Nothin' But Times
+EXTT1=Hank Williams, Sr.
+EXTT2=Hank Williams, Sr.
+EXTT3=Hank Williams, Sr.
+EXTT4=Hank Williams, Sr.
+EXTT5=Hank Williams, Sr.
+EXTT6=Hank Williams, Sr.
+EXTT7=Hank Williams, Sr.
+EXTT8=Hank Williams, Sr.
+EXTT9=Hank Williams, Sr.
+EXTT10=Hank Williams, Sr.
+EXTT11=Hank Williams, Sr.
+PLAYORDER=

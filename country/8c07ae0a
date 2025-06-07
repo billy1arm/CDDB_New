@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 14850
+# 27792
+# 40927
+# 56862
+# 68732
+# 85387
+# 100092
+# 118637
+# 133250
+#
+# Disc length: 1968 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b2
+#
+DISCID=8c07ae0a
+DTITLE=Janie Frikie - Black and White
+DYEAR=1900
+DGENRE=
+TTITLE0=Till I Can't Take it Anymore
+TTITLE1=He's Breathing Down my Neck
+TTITLE2=Take Me Like a Vacation
+TTITLE3=Nothing Left to Say
+TTITLE4=Comin' Apart at the Seams
+TTITLE5=Always Have Always Will
+TTITLE6=Don't Put it Past My Heart
+TTITLE7=When A Woman Cries
+TTITLE8=He's Making a Long Story Short
+TTITLE9=I'd Take You Back Again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

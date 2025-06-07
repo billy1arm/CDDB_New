@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     215
+#     12661
+#     26603
+#     43622
+#     58861
+#     75926
+#     89541
+#     104217
+#     117734
+#     129393
+# 
+# Disc length: 1970 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8907b00a
+DTITLE=Scooter Lee - High Test Love
+DYEAR=1900
+DGENRE=
+TTITLE0=Rompin' Stompin'
+TTITLE1=High Test Love
+TTITLE2=Shadows In the Night
+TTITLE3=What Kind of Fool
+TTITLE4=It's A Merry Go Round
+TTITLE5=Twistin' The Night Away
+TTITLE6=Honey Hush
+TTITLE7=Rock and Roll Waltz
+TTITLE8=You Know Where I Am
+TTITLE9=If You Only Knew
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

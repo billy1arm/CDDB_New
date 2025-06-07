@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	14802
+# 	25312
+# 	34325
+# 	53190
+# 	66035
+# 	81522
+# 	98285
+# 	107795
+# 	122885
+#
+# Disc length: 1894 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=8507640a
+DTITLE=Gail Davies - The Best of Gail Davies
+DYEAR=1900
+DGENRE=
+TTITLE0=Someone Is Looking For Someone Like You
+TTITLE1=I'll Be There
+TTITLE2=Blue Heartache
+TTITLE3=Grandma's Song
+TTITLE4=Bucket To The South
+TTITLE5=You're A Hard Dog To Keep Under The Porch
+TTITLE6=Round The Clock Lovin
+TTITLE7=Singing The Blues
+TTITLE8=Unwed Fathers
+TTITLE9=Jagged Edge Of A Broken Heart
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

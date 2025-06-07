@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	18320
+#	35517
+#	48122
+#	63332
+#	84595
+#	100122
+#	122850
+#	132897
+#	149972
+#
+# Disc length: 2240 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8908be0a
+DTITLE=Multiple - Southern Harmony Volume One
+DYEAR=1900
+DGENRE=
+TTITLE0=Champion of Love - Cathedral Quartet
+TTITLE1=I Lean On You Lord - Florida Boys
+TTITLE2=City Lights - Mid-South Boys
+TTITLE3=Thanks - Nelons
+TTITLE4=Midnight Cry - Gold City
+TTITLE5=Let's have A Revival - Hemphills
+TTITLE6=Heartbeat - Singing Americans
+TTITLE7=Double Dose - Dixie Melody Boys
+TTITLE8=For Every Generation - Talleys
+TTITLE9=There's A Miracle In Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17435
+#	34107
+#	44255
+#	60790
+#	79975
+#	92747
+#	107097
+#	125004
+#	140392
+#	154777
+#	168212
+#
+# Disc length: 2455 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=8d09950c
+DTITLE=The Cockman Family - When I Pray
+DYEAR=1900
+DGENRE=
+TTITLE0=When I Pray
+TTITLE1=Child Of The King
+TTITLE2=The Fourth Man
+TTITLE3=I Saw A Man
+TTITLE4=Jesus Hold My Hand
+TTITLE5=Welcome To The Promised Land
+TTITLE6=Blessings In Disguise
+TTITLE7=At The Cross
+TTITLE8=Have A Little Talk With Jesus
+TTITLE9=Meeting In The Air
+TTITLE10=A Beautiful Life
+TTITLE11=His Eye Is On The Sparrow
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

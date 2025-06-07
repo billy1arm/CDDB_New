@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     16975
+#     42912
+#     55575
+#     71602
+#     89745
+#     109762
+#     126620
+#     150587
+#     167547
+# 
+# Disc length: 2423 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8109750a
+DTITLE=Neal Black and The Healers - Neal Black and The Healers
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm Gonna Cry
+TTITLE1=I Don't Get The Blues
+TTITLE2=Steppin' Out
+TTITLE3=A Thousand Yesterdays
+TTITLE4=Out Of The Hole
+TTITLE5=Lost Without You
+TTITLE6=Pink Chainsaw Boogie
+TTITLE7=Bridge In Tennesee
+TTITLE8=Hell On The Highway
+TTITLE9=Somebody Call Mama
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

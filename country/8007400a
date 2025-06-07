@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10810
+#	21820
+#	40302
+#	58672
+#	71017
+#	85027
+#	96612
+#	108817
+#	125605
+#
+# Disc length: 1858 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=8007400a
+DTITLE=George and Lucky Riders - Honky Tonkin' Too Long
+DYEAR=1900
+DGENRE=
+TTITLE0=I've been Honky Tonkin' Too Long
+TTITLE1=You're Like a Star
+TTITLE2=Part Times a Lady
+TTITLE3=Seperate Lives
+TTITLE4=Cigarettes and Coffee Blues
+TTITLE5=Last Rights
+TTITLE6=Broken Shattered Wings
+TTITLE7=Don't Stop
+TTITLE8=Better Than You
+TTITLE9=So Long
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	225
+# 	14174
+# 	29506
+# 	42175
+# 	56517
+# 	68736
+# 	86361
+# 	97207
+# 	111363
+# 	122422
+#
+# Disc length: 1824 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=86071d0a
+DTITLE=Ginger Weeks - Whatever It Takes
+DYEAR=1900
+DGENRE=
+TTITLE0=I Call This Love
+TTITLE1=I'll Be There
+TTITLE2=Go Granny Go
+TTITLE3=Whatever It Takes
+TTITLE4=Party Of A Lifetime
+TTITLE5=What Mercy Sees
+TTITLE6=Take That
+TTITLE7=Save My Place
+TTITLE8=Alive and Kickin
+TTITLE9=Daddy Let Me Drive
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

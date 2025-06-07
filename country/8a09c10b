@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14517
+#     34400
+#     52992
+#     70910
+#     86895
+#     102835
+#     118155
+#     137362
+#     154620
+#     167390
+# 
+# Disc length: 2499 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8a09c10b
+DTITLE=The Big Dream - The Big Dream
+DYEAR=1900
+DGENRE=
+TTITLE0=So Far Away
+TTITLE1=Cool rain
+TTITLE2=Mirror Of Mercy
+TTITLE3=No Tomorrow
+TTITLE4=Norman Rockwell World
+TTITLE5=Mystery Of Your Love
+TTITLE6=Different From Me
+TTITLE7=No Matter Where
+TTITLE8=The Road I Choose
+TTITLE9=Forgiven
+TTITLE10=Then Came Sunday
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

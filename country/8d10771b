@@ -1,0 +1,98 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13870
+#	24562
+#	37342
+#	49597
+#	58604
+#	72178
+#	81809
+#	92788
+#	103043
+#	112522
+#	122893
+#	135650
+#	150273
+#	161974
+#	176141
+#	190663
+#	201336
+#	212002
+#	225044
+#	236452
+#	249669
+#	264595
+#	275823
+#	286401
+#	298192
+#	307406
+#
+# Disc length: 4217 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8d10771b
+DTITLE=Frankie Laine - The Collection
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Riders in the Sky
+TTITLE1=Hummingbird
+TTITLE2=Cry of the Wild Goose
+TTITLE3=High Noon (do not forsake me)
+TTITLE4=Rawhide
+TTITLE5=Cool Water
+TTITLE6=Gunfight at OK Corral
+TTITLE7=The 3.10 to Yuma
+TTITLE8=The hanging Tree
+TTITLE9=Blazing Saddles
+TTITLE10=I believe
+TTITLE11=Granada
+TTITLE12=Jealousy
+TTITLE13=Strange Lady in Town
+TTITLE14=Don't fence me in
+TTITLE15=There must be a reason
+TTITLE16=Sixteen Tons
+TTITLE17=A woman in Love
+TTITLE18=Moonlight Gambler
+TTITLE19=Answer Me
+TTITLE20=Wheel of Fortune
+TTITLE21=Jezebel
+TTITLE22=Rose, Rose I love you
+TTITLE23=Hey Good Lookin' (with Jo Stafford)
+TTITLE24=In the Cool, Cool, Cool of the Evening (with Jo Stafford)
+TTITLE25=Hambone (with Jo Stafford)
+TTITLE26=Sugarbush (with Doris Day)
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+PLAYORDER=

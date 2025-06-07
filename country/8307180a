@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	22538
+#	33250
+#	43875
+#	53863
+#	66563
+#	81200
+#	91688
+#	107913
+#	126700
+#
+# Disc length: 1818 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8307180a
+DTITLE=Various Country Artist - Greatest Country Christmas Hits
+DTITLE=Various Artist - Volume One
+DYEAR=1900
+DGENRE=
+TTITLE0=O Come All Ye Faithful
+TTITLE1=What Child Is This?
+TTITLE2=Silent Night
+TTITLE3=Jingle Bell Rock
+TTITLE4=Rudolph The Red Nosed Reindeer
+TTITLE5=Christmas Time Down South
+TTITLE6=Away In A Manger
+TTITLE7=O Little Town Of Bethlehem
+TTITLE8=O Holy Night
+TTITLE9=Jingle Bells
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

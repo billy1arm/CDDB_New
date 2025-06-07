@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	11353
+#	22430
+#	36201
+#	47955
+#	61854
+#	75050
+#	86866
+#	97966
+#	109562
+#	121575
+#	137064
+#
+# Disc length: 2018 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8c07e00c
+DTITLE=Conway Twitty - Greatest Hits
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Hello Darlin'
+TTITLE1=As Soon As I Hang Up The Phone
+TTITLE2=Baby's Gone
+TTITLE3=I'm Not Through Loving You Yet
+TTITLE4=Fifteen Years Ago
+TTITLE5=After All The Good Is Gone
+TTITLE6=(Lying Here With) Linda On My Mind
+TTITLE7=It's Only Make Believe
+TTITLE8=To See An Angel Cry
+TTITLE9=She Needs Someone To Hold Her (When She Cries)
+TTITLE10=Touch The Hand
+TTITLE11=You've Never Been This Far Before
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

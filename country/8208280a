@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	16445
+# 	30252
+# 	45652
+# 	60895
+# 	79452
+# 	96252
+# 	112977
+# 	124467
+# 	140797
+#
+# Disc length: 2090 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3
+#
+DISCID=8208280a
+DTITLE=Olivia Newton John - Don't Stop Believin
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Stop Believin
+TTITLE1=A Thousand Conversations
+TTITLE2=Compassionate Man
+TTITLE3=New-Born Babe
+TTITLE4=Hey Mr. Dreammaker
+TTITLE5=Every Face Tells a Story
+TTITLE6=Sam
+TTITLE7=Love You Hold the Key
+TTITLE8=I'll Bet You a Kangaroo
+TTITLE9=The Last Time You Loved
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

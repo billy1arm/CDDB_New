@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14810
+#	27640
+#	41970
+#	57725
+#	69072
+#	85407
+#	102840
+#	119607
+#
+# Disc length: 1818 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=84071809
+DTITLE=Judds - Talk About Love
+DYEAR=1900
+DGENRE=
+TTITLE0=Talk About Love
+TTITLE1=If I Were You
+TTITLE2=Sleeping Heart
+TTITLE3=Cow Cow Boogie
+TTITLE4=Blue Nun Cafe
+TTITLE5=In My Dreams
+TTITLE6=The Sweetest Gift
+TTITLE7=Dream Chaser
+TTITLE8=Old Pictures
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

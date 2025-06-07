@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     225
+#     14960
+#     24047
+#     36815
+#     47485
+#     61460
+#     72537
+#     85022
+#     96640
+#     109207
+# 
+# Disc length: 1594 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8706370a
+DTITLE=Frankie Laine - Moonlight Gambler
+DYEAR=1900
+DGENRE=
+TTITLE0=Jezebel
+TTITLE1=Rawhide
+TTITLE2=Moonlight Gambler
+TTITLE3=Hummingbird
+TTITLE4=Don't fence me in
+TTITLE5=Rose, Rose, I love you
+TTITLE6=High Noon
+TTITLE7=Mule Train
+TTITLE8=Granada
+TTITLE9=Sixteen Tons
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

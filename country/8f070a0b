@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13275
+#     23625
+#     37350
+#     50100
+#     63075
+#     71625
+#     82800
+#     98700
+#     114975
+#     123300
+# 
+# Disc length: 1804 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8f070a0b
+DTITLE=Slim Whitman - Best Loved Favorites
+DYEAR=1900
+DGENRE=
+TTITLE0=Red Sails In The Sunset
+TTITLE1=Anytime You're Feeling Lonely
+TTITLE2=You Are My Sunshine
+TTITLE3=Half As Much
+TTITLE4=Please Release Me
+TTITLE5=I'll Get By
+TTITLE6=The Wayward Wind
+TTITLE7=Down In The Valley
+TTITLE8=I Wish I Was Eighteen Again
+TTITLE9=Have You Ever Been Lonely
+TTITLE10=Before The Next Teardrop Falls
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

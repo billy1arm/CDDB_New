@@ -1,0 +1,97 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12805
+#	24985
+#	39190
+#	51130
+#	63647
+#	77245
+#	90920
+#	104010
+#	117210
+#	126732
+#	139370
+#	152170
+#	165315
+#	178185
+#	191942
+#	206650
+#	219047
+#	231352
+#	243920
+#	256317
+#	267860
+#	279400
+#	289767
+#	301460
+#	313275
+#	322757
+#
+# Disc length: 4445 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=84115b1b
+DTITLE=Various Artist - Classic Country Music Smithsonian Volume 2
+DYEAR=1990
+DGENRE=Country
+TTITLE0=Al Dexter and his Troopers - Pistol Packin' Mama
+TTITLE1=Elton Britt - There's a Star Spangled Banner Waving Somewhere
+TTITLE2=Eddy Arnold - The Cattle Call
+TTITLE3=Roy Acuff and his Smoky Mountain Boys - Wabash Cannon Ball
+TTITLE4=Blue Sky Boys - Kentucky
+TTITLE5=Moon Mullican and his Showboys - New Pretty Blonde
+TTITLE6=Maddox Brothers and Rose - Philadelphia Lawyer
+TTITLE7=Merle Travis - I Am a Pilgrim
+TTITLE8=Bill Monroe and his Blue Grass Boys - It's Mighty Dark to Travel
+TTITLE9=Flatt and Scruggs and the Foggy Mountain Boys - Randy Lynn Rag
+TTITLE10=Floyd Tillman - Slipping Around
+TTITLE11=Molly O'Day with the Cumberland Mountain Folks - The Tramp on the Street
+TTITLE12=Hank Snow and his Rainbow Ranch Boys - I'm Moving On
+TTITLE13=Jimmy Dickens - Take an Old Cold Tater
+TTITLE14=Pee Wee King and his Golden West Cowboys - Tennessee Waltz
+TTITLE15=Red Foley - Peace in the Valley
+TTITLE16=Hank Williams - Lovesick Blues
+TTITLE17=Hank Williams - Your Cheating Heart
+TTITLE18=Lefty Frizzell - I Love You a Thousand Ways
+TTITLE19=Hank Thompson and his Brazos Valley Boys - The Wild Side of Life
+TTITLE20=Kitty Wells - It Wasn't God Who Made Honky Tonk Angels
+TTITLE21=Webb Pierce - Slowly
+TTITLE22=Chet Atkins - Country Gentleman
+TTITLE23=Eddy Arnold - I Really Don't Want to Know
+TTITLE24=Tennessee Ernie Ford - Sixteen Tons
+TTITLE25=Elvis Presley - Blue Moon of Kentucky
+TTITLE26=Everly Brothers - Bye Bye Love
+EXTD=YEAR: 1990
+EXTT0=Al Dexter and his Troopers
+EXTT1=Elton Britt
+EXTT2=Eddy Arnold
+EXTT3=Roy Acuff and his Smoky Mountain Boys
+EXTT4=Blue Sky Boys
+EXTT5=Moon Mullican and his Showboys
+EXTT6=Maddox Brothers and Rose
+EXTT7=Merle Travis
+EXTT8=Bill Monroe and his Blue Grass Boys
+EXTT9=Lester Flatt and Earl Scruggs and the Foggy Mountain Boys
+EXTT10=Floyd Tillman
+EXTT11=Molly O'Day with the Cumberland Mountain Folks
+EXTT12=Hank Snow and his Rainbow Ranch Boys
+EXTT13=Jimmy Dickens
+EXTT14=Pee Wee King and his Golden West Cowboys
+EXTT15=Red Foley
+EXTT16=Hank Williams
+EXTT17=Hank Williams
+EXTT18=Lefty Frizzell
+EXTT19=Hank Thompson and his Brazos Valley Boys
+EXTT20=Kitty Wells
+EXTT21=Webb Pierce
+EXTT22=Chet Atkins
+EXTT23=Eddy Arnold
+EXTT24=Tennessee Ernie Ford
+EXTT25=Elvis Presley
+EXTT26=Everly Brothers
+PLAYORDER=

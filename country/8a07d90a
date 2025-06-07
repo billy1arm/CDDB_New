@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	187
+# 	16950
+# 	29872
+# 	45670
+# 	60562
+# 	76637
+# 	88985
+# 	103440
+# 	116240
+# 	134335
+#
+# Disc length: 2011 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=8a07d90a
+DTITLE=Jonathan Edwards - The Natural Thing
+DYEAR=1900
+DGENRE=
+TTITLE0=It's A Natural Thing
+TTITLE1=Dime A Dance Romance
+TTITLE2=My Baby's A Country Song
+TTITLE3=Look What We Made (When We Made Love)
+TTITLE4=Back Up Grinnin'
+TTITLE5=We Need To Be Locked Away
+TTITLE6=Fewer Threads Than These
+TTITLE7=It's Easy To Write A Love Song
+TTITLE8=Where Did We Go Right
+TTITLE9=On God's Green Earth
+EXTD=
+EXTT0=M McAnally - T Brasfield
+EXTT1=C Bickhardt
+EXTT2=J Valentini - R Smith - M Chapman
+EXTT3=D Loggins - R Smith - M Chapman
+EXTT4=D Goodman
+EXTT5=T Haselden - S Munsey
+EXTT6=B JOnes - K Welch - G Micholson
+EXTT7=G Nicholson - J Edwards
+EXTT8=D Loggins - D Schlitz
+EXTT9=C Bickhardt - D Schlitz
+PLAYORDER=

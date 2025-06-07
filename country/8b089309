@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13132
+#	34179
+#	57203
+#	74091
+#	95126
+#	110894
+#	129436
+#	146580
+#
+# Disc length: 2197 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.74
+#
+DISCID=8b089309
+DTITLE=Branded - It's Alright
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Gotta Go
+TTITLE1=It's Alright
+TTITLE2=More Than A Memory
+TTITLE3=You Pick Me Up
+TTITLE4=Branded
+TTITLE5=One Life
+TTITLE6=The Window Shows
+TTITLE7=Bring Back The Times
+TTITLE8=I Think About God
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

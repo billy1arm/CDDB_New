@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 2003 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14797
+#     36564
+#     55378
+#     73683
+#     90952
+#     108330
+#     123830
+#     142699
+#     159092
+#     175156
+# 
+# Disc length: 2674 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8a0a700b
+DTITLE=Aaron Lines - Living Out Loud
+DYEAR=1900
+DGENRE=
+TTITLE0=Love Changes Everything
+TTITLE1=I Will Be There
+TTITLE2=Close
+TTITLE3=Living Out Loud
+TTITLE4=Turn It Up (I Like The Sound Of That)
+TTITLE5=You Can't Hide Beautiful
+TTITLE6=Knock On Wood
+TTITLE7=Old Days New
+TTITLE8=She Called Me Kansas
+TTITLE9=You Get The Picture
+TTITLE10=I Can't Live Without Your Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

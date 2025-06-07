@@ -1,0 +1,48 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13188
+#	27775
+#	41559
+#	57637
+#	71397
+#	89359
+#	101360
+#	116367
+#	134061
+#
+# Disc length: 2041 seconds
+#
+# Submitted via: cddb-tool 0.4.7
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=8407f70a
+DTITLE=Rocky Votolato - Television Of Saints
+DYEAR=2012
+DGENRE=Country
+TTITLE0=Little Spring
+TTITLE1=Ghost Writer
+TTITLE2=Fool's Gold
+TTITLE3=Above The Water
+TTITLE4=Sunlight
+TTITLE5=Television Of Saints
+TTITLE6=Start Over
+TTITLE7=Sparks
+TTITLE8=Writing Fiction
+TTITLE9=Crooked Arrows
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

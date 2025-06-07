@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 13770
+# 25975
+# 36623
+# 50330
+# 62113
+# 76015
+# 95698
+# 109073
+# 124390
+#
+# Disc length: 1825 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=85071f0a
+DTITLE=Conway Twitty - Conway Twitty's Greatest Hits Vol 2
+DYEAR=1900
+DGENRE=
+TTITLE0=You've Never Been This Far Before
+TTITLE1=Linda On My Mind
+TTITLE2=It's Only Make Believe
+TTITLE3=Baby's Gone
+TTITLE4=I'm Not Through Loving You Yet
+TTITLE5=The Games That Daddy's Play
+TTITLE6=Don't Cry Joni
+TTITLE7=After All The Good Is Gone
+TTITLE8=(Lost Her Love) On Our Last Date
+TTITLE9=She Needs Someone To Hold Her (When She Cries)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

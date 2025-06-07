@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16975
+#	31290
+#	56097
+#	83352
+#	102875
+#	127615
+#	154077
+#	171367
+#	191410
+#	218470
+#	235495
+#
+# Disc length: 3394 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=8a0d400c
+DTITLE=Various Artist - World Flutes 1
+DYEAR=1900
+DGENRE=Native American
+TTITLE0=Kazu Matsui  - Shakuhachi flute
+TTITLE1=R. Carlos Nakai - Native American flute
+TTITLE2=G.S. Sachdev - Bansuri Bamboo flute
+TTITLE3=Joanie Madden - Whistle
+TTITLE4=Ara Tlkatlian - Siku, Moxenio, Pincullo, Quena flutes
+TTITLE5=Nawang Khechog - Tibetan Bamboo flute
+TTITLE6=Steve Gorn - Bansure Bamboo flute and synth
+TTITLE7=Kazu Matsui - Shakuhachi flute
+TTITLE8=R. Carlos Nakai - Native American flute
+TTITLE9=G.S. Sachdev - Bansuri Bamboo flute
+TTITLE10=Joanie Madden - Whistle
+TTITLE11=Ara Tokatlian - Siku, Moxenio, Pincullo, Quena flutes
+EXTD=ID3G:  64
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

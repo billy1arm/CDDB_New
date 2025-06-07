@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16200
+#     33522
+#     49485
+#     67742
+#     81737
+#     99510
+#     117279
+#     132915
+#     147625
+# 
+# Disc length: 2113 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8f083f0a
+DTITLE=Clinton River - Clinton River
+DYEAR=1900
+DGENRE=
+TTITLE0=Where's The Fire?
+TTITLE1=Midnight Rodeo
+TTITLE2=Runnin' Down The Road
+TTITLE3=Alabama Rain
+TTITLE4=Gone (With A Capital G)
+TTITLE5=Am I Losin' You?
+TTITLE6=In The Heart Of Texas
+TTITLE7=I Know Better
+TTITLE8=What Am I Doing Hangin' Round?
+TTITLE9=Saddle Up
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

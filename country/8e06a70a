@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	14337
+#	27225
+#	39637
+#	55167
+#	65067
+#	77222
+#	89802
+#	104557
+#	117537
+#
+# Disc length: 1705 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8e06a70a
+DTITLE=Various Artist - The 101 Greatest Country Hits Vol 9: Country Classics
+DYEAR=1994
+DGENRE=Country
+TTITLE0=Jeannie C. Riley - Harper Valley P.T.A.
+TTITLE1=Claude King - Wolverton Mountain
+TTITLE2=Jack Blanchard and Misty Morgan - Tennessee Birdwalk
+TTITLE3=Cal Smith - Country Bumpkin
+TTITLE4=Ned Miller - From A Jack To A King
+TTITLE5=Johnny Paycheck - Take This Job And Shove It
+TTITLE6=Porter Wagoner - The Carroll County Accident
+TTITLE7=Sandy Posey - Put Your Hand In The Hand
+TTITLE8=Ace Cannon -  Hey, Good lookin'
+TTITLE9=Little Jimmy Dickens - May The Bird Of Paradise Fly Up Your Nose
+EXTD=YEAR: 1994
+EXTT0=JEANNIE C. RILEY
+EXTT1=CLAUDE KING
+EXTT2=JACK BLANCHARD and MISTY MORGAN
+EXTT3=CAL SMITH
+EXTT4=NED MILLER
+EXTT5=JOHNNY PAYCHECK
+EXTT6=PORTER WAGONER
+EXTT7=SANDY POSEY
+EXTT8=ACE CANNON
+EXTT9=LITTLE JIMMY DICKENS
+PLAYORDER=

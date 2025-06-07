@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10855
+#     21785
+#     34218
+#     45768
+#     53615
+#     64315
+#     75148
+#     91933
+#     102985
+#     116545
+#     129825
+# 
+# Disc length: 1933 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=80078b0c
+DTITLE=Harlan Howard - All Time Favorite Country Songwriter
+DYEAR=1900
+DGENRE=country
+TTITLE0=Busted
+TTITLE1=Heartcahes By The Number
+TTITLE2=Too Many Rivers
+TTITLE3=I Don't Belive I'll Fall In Love Today
+TTITLE4=Above and Beyond (The Call of Love)
+TTITLE5=I've Got A Tiger By The Tail
+TTITLE6=The Everglades
+TTITLE7=Mary Ann Regrets
+TTITLE8=Pick Me Up On Your Way Down
+TTITLE9=Call Me Mister In-Between
+TTITLE10=I Fall To Pieces
+TTITLE11=The Blizzard
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

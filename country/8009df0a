@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     24742
+#     46367
+#     66652
+#     80265
+#     96200
+#     109332
+#     124700
+#     151172
+#     169025
+# 
+# Disc length: 2529 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=8009df0a
+DTITLE=Ray Stevens - Surely You Joust
+DYEAR=1900
+DGENRE=
+TTITLE0=Southern Air
+TTITLE1=People's Court
+TTITLE2=Bionie and the Robotics
+TTITLE3=Makin' the Best of a Bad Situation
+TTITLE4=Fat
+TTITLE5=Can He Love You Half As Much As I
+TTITLE6=Smokey Mountain Rattlesnake Retreat
+TTITLE7=The Camping Trip
+TTITLE8=Camp Werthehekahwee
+TTITLE9=Dudley DoRite (Of the Highway Patrol)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

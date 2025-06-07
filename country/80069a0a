@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 13885
+# 25810
+# 37957
+# 52157
+# 69240
+# 80782
+# 91732
+# 104482
+# 117380
+#
+# Disc length: 1692 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=80069a0a
+DTITLE=Jimmy Dean - American Originals
+DYEAR=1900
+DGENRE=
+TTITLE0=Big Bad John
+TTITLE1=The Cajun Queen
+TTITLE2=Sixteen Tons
+TTITLE3=P. T . 109
+TTITLE4=Dear Ivan
+TTITLE5=Mind Your Own Business
+TTITLE6=The Little Black Book
+TTITLE7=Money, Marbles And Chalk
+TTITLE8=Life's Railway To Heaven
+TTITLE9=The First Thing Every Morning (And The Last Thing Every Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

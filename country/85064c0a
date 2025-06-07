@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13270
+#	25525
+#	35470
+#	48920
+#	61302
+#	74537
+#	86245
+#	96470
+#	110495
+#
+# Disc length: 1614 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=85064c0a
+DTITLE=Lynn Anderson - Country Spotlight
+DYEAR=1900
+DGENRE=
+TTITLE0=Rose Garden
+TTITLE1=How Can I Unlove You
+TTITLE2=What A Man, My Man Is
+TTITLE3=Keep Me In Mind
+TTITLE4=Listen To A Country Song
+TTITLE5=Top Of The World
+TTITLE6=You're My Man
+TTITLE7=Fool Me
+TTITLE8=Cry
+TTITLE9=Silver Threads and Golden Needles
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

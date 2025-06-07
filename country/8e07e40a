@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15945
+#	29602
+#	44940
+#	57607
+#	73850
+#	89317
+#	108817
+#	121335
+#	137060
+#
+# Disc length: 2022 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=8e07e40a
+DTITLE=Oak Ridge Boys - Step On Out
+DYEAR=1900
+DGENRE=
+TTITLE0=Touch A Hand, Make A Friend
+TTITLE1=Ophelia
+TTITLE2=Love Is Everywhere
+TTITLE3=Only One I Love
+TTITLE4=Roll Tennessee River
+TTITLE5=Little Things
+TTITLE6=Class Reunion
+TTITLE7=Staying Afloat
+TTITLE8=Come On In (You Did the Best You Could)
+TTITLE9=Step On Out
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

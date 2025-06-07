@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15622
+#     30532
+#     44360
+#     65490
+#     78320
+#     94050
+#     109290
+#     126807
+#     140557
+# 
+# Disc length: 2060 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=82080a0a
+DTITLE=Conway Twitty - Red Neckin' Love Makin' Night
+DYEAR=1900
+DGENRE=
+TTITLE0=Cheatin' Fire
+TTITLE1=I Made You A Woman
+TTITLE2=Slow Love Makin'
+TTITLE3=Red Neckin' Love Makin' Night
+TTITLE4=Tight Fittin' Jeans
+TTITLE5=Over Thirty (Not Over The Hill)
+TTITLE6=Hearts
+TTITLE7=Love Salvation
+TTITLE8=We Had It All
+TTITLE9=I'm Already Taken
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

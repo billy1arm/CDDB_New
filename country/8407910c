@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10872
+#	23477
+#	37637
+#	50580
+#	60870
+#	76287
+#	89532
+#	98950
+#	110495
+#	121150
+#	133507
+#
+# Disc length: 1939 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.2
+#
+DISCID=8407910c
+DTITLE=Loretta Lynn - Hymns
+DYEAR=1900
+DGENRE=
+TTITLE0=Everybody Wants To Go To Heave
+TTITLE1=Where No One Stands Alone
+TTITLE2=When They Ring Those Golden Bells
+TTITLE3=(Therell be) Peace In The Valley
+TTITLE4=If I Could Hear My Mother Pray Again
+TTITLE5=The Third Man
+TTITLE6=How Great Thou Art
+TTITLE7=Old Camp Meetin' Time
+TTITLE8=When I Hear My Children Pray
+TTITLE9=In The Sweet Bye And Bye
+TTITLE10=Where I Learned To Pray 
+TTITLE11=I'd Rather Have Jesus
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

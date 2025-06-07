@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15412
+#     36462
+#     52222
+#     64030
+#     85990
+#     97375
+#     113665
+#     132105
+#     154002
+# 
+# Disc length: 2216 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8508a60a
+DTITLE=Billy and Terry Smith - Long Live the Dead: A Tribute to the Grateful D
+DTITLE=ead
+DYEAR=1900
+DGENRE=
+TTITLE0=Friend of the Devil
+TTITLE1=U.S. Blues
+TTITLE2=Uncle John's Band
+TTITLE3=Sugar Magnolia
+TTITLE4=Touch of Gray
+TTITLE5=Casey Jones
+TTITLE6=Ripple
+TTITLE7=Truckin'
+TTITLE8=Sugaree
+TTITLE9=Alabama Getaway
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

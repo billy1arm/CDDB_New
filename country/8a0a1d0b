@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18194
+#	39940
+#	56506
+#	73120
+#	90213
+#	116202
+#	128448
+#	146682
+#	162279
+#	176744
+#
+# Disc length: 2591 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=8a0a1d0b
+DTITLE=ЧайФ - Симпатии
+DYEAR=2000
+DGENRE=Rock
+TTITLE0=Белая лошадь
+TTITLE1=Молодая шпана
+TTITLE2=Проложите, проложите
+TTITLE3=Не спи, Серёга
+TTITLE4=Новые легионы
+TTITLE5=Танец на цыпочках
+TTITLE6=Соня любит Петю
+TTITLE7=Зима была лютой
+TTITLE8=Прощай детка (Детка, прощай)
+TTITLE9=Бери шенель
+TTITLE10=Каждую ночь
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

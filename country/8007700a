@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15700
+#	27352
+#	36850
+#	51910
+#	65790
+#	80270
+#	98237
+#	109042
+#	123372
+#
+# Disc length: 1906 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=8007700a
+DTITLE=Clint Black - Put Yourself In My Shoes
+DYEAR=1900
+DGENRE=
+TTITLE0=Put Yourself In My Shoes
+TTITLE1=The Gulf Of Mexico
+TTITLE2=One More Payment
+TTITLE3=Where Are You Now
+TTITLE4=The Old Man
+TTITLE5=This Nightlife
+TTITLE6=Loving Blind
+TTITLE7=Muddy Water
+TTITLE8=A Heart Like Mine
+TTITLE9=The Goodnight-Loving
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

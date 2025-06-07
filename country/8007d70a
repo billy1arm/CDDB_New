@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14132
+#	31565
+#	48885
+#	62990
+#	75850
+#	90455
+#	104195
+#	122815
+#	133250
+#
+# Disc length: 2009 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta0
+#
+DISCID=8007d70a
+DTITLE=George Strait - Carrying Your Love With Me
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Round About Way
+TTITLE1=Carrying Your Love With Me
+TTITLE2=One Night At A Time
+TTITLE3=She'll Leave You With A Smile
+TTITLE4=Won't You Come Home (And Talk To A Stranger)
+TTITLE5=Today My World Slipped Away
+TTITLE6=I've Got A Funny Feeling
+TTITLE7=The Nerve
+TTITLE8=That's Me (Every Chance I Get)
+TTITLE9=A Real Good Place To Start
+EXTD=YEAR: 1997 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

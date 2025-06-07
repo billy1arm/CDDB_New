@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 15905
+# 30705
+# 49192
+# 64550
+# 80997
+# 97047
+# 108532
+# 127055
+# 144620
+#
+# Disc length: 2062 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=8a080c0a
+DTITLE=Merle Haggard - His Best
+DYEAR=1900
+DGENRE=
+TTITLE0=I Don't Want To Sober Up Tonight
+TTITLE1=When My Blue Moon Turns To Gold Again
+TTITLE2=Make-Up And Faded Blue Jeans
+TTITLE3=Love Me When You Can
+TTITLE4=Leonard
+TTITLE5=No One To Sing For (But The Band)
+TTITLE6=Back To The Barrooms Again
+TTITLE7=Wake Up
+TTITLE8=Roses In The Winter
+TTITLE9=The Running Kind
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

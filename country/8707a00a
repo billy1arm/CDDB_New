@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 12345
+# 28025
+# 41295
+# 56067
+# 73765
+# 88392
+# 100950
+# 116687
+# 129315
+#
+# Disc length: 1954 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=8707a00a
+DTITLE=Larry Gatlin and The Gatlin Brothers - Pure 'N Simple
+DYEAR=1900
+DGENRE=
+TTITLE0=I Might Be What You're Lookin'For
+TTITLE1=If Love Won't Heal You Lady
+TTITLE2=Your Door
+TTITLE3=#1 Heartache Place
+TTITLE4=Rain 
+TTITLE5=Healin' Stream
+TTITLE6=Goin' Around In Circles
+TTITLE7=When She Holds Me
+TTITLE8=Go Or Stay
+TTITLE9=Needless To Say
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

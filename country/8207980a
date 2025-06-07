@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	12637
+# 	29994
+# 	44757
+# 	57882
+# 	70717
+# 	87312
+# 	99120
+# 	114090
+# 	131380
+#
+# Disc length: 1946 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=8207980a
+DTITLE=Helen Hayes - Tell me I'm crazy
+DYEAR=1900
+DGENRE=country
+TTITLE0=You really had me going
+TTITLE1=Nothin' but the wheel
+TTITLE2=Just like the weather
+TTITLE3=Feeling kind of lonely tonight
+TTITLE4=Mi vida loca (My crazy life)
+TTITLE5=Tell me I'm crazy
+TTITLE6=I try to think about Elvis
+TTITLE7=Honky tonk moon
+TTITLE8=For reasons I've forgotten
+TTITLE9=Life #9
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

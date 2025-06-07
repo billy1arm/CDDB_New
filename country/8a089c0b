@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 12928
+# 30565
+# 45878
+# 59073
+# 76710
+# 93900
+# 109860
+# 121898
+# 132868
+# 149070
+#
+# Disc length: 2206 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=8a089c0b
+DTITLE=Barbara Mandrell - Greatest Country Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=One Of A Kind Pair Of Fools
+TTITLE1=Years
+TTITLE2=Crazy Arms
+TTITLE3=I Wish I Could Fall In Love Today
+TTITLE4=Child Support
+TTITLE5=Angels Love Bad Men
+TTITLE6=Sure Feels Good
+TTITLE7=My Train Of Thought
+TTITLE8=I'll Be Your Jukebox Tonight
+TTITLE9=Just To Satisfy You
+TTITLE10=I Was Country When Country Wasn't Cool
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=With Ray Price
+EXTT3=
+EXTT4=
+EXTT5=With Waylon Jennings
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=With George Jones
+PLAYORDER=

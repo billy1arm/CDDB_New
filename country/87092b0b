@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15296
+#	29625
+#	47296
+#	61529
+#	75656
+#	92190
+#	107000
+#	125064
+#	140737
+#	157026
+#
+# Disc length: 2349 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=87092b0b,8b092b0b
+DTITLE=Tim Allen - Childhood memories
+DYEAR=1997
+DGENRE=Folk
+TTITLE0=World in Motion
+TTITLE1=Lay Down Sally
+TTITLE2=Forgotton old friends
+TTITLE3=Rivers without an End
+TTITLE4=Rodeo Days
+TTITLE5=Childhood Memories
+TTITLE6=Simple man
+TTITLE7=For America
+TTITLE8=Nothing But Lies
+TTITLE9=The Greyhound line
+TTITLE10=Children of the Night
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16477
+#	30972
+#	52305
+#	71117
+#	92744
+#	108211
+#	125568
+#	142030
+#	157580
+#
+# Disc length: 2380 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=82094a0a
+DTITLE=Ty Herndon - Steam
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Lookin' For The Good Life
+TTITLE1=Steam
+TTITLE2=Putting The Brakes On Time
+TTITLE3=I Can't Do It All
+TTITLE4=No Mercy
+TTITLE5=In A New York Second
+TTITLE6=That's Wall I Call Love
+TTITLE7=Pray For Me
+TTITLE8=A Love Like That
+TTITLE9=You Can Leave Your Hat On
+EXTD=\nYEAR: 1999  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

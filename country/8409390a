@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14390
+#     33660
+#     48545
+#     64770
+#     84618
+#     99503
+#     123560
+#     141845
+#     159293
+# 
+# Disc length: 2363 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.0
+# 
+DISCID=8409390a
+DTITLE=McGuinn, Clark and Hillman - McGuinn, Clark and Hillman
+DYEAR=1900
+DGENRE=
+TTITLE0=Long long time
+TTITLE1=Little mama
+TTITLE2=Don't you write her off
+TTITLE3=Surrender to me
+TTITLE4=Backstage pass
+TTITLE5=Stopping trafic
+TTITLE6=Feelin' higher
+TTITLE7=Sad boy
+TTITLE8=Release me girl
+TTITLE9=Bye bye, baby
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

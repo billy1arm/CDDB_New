@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	200
+# 	14122
+# 	36847
+# 	57275
+# 	76402
+# 	92327
+# 	105287
+# 	118440
+# 	133590
+# 	147012
+# 	157800
+#
+# Disc length: 2285 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.2
+#
+DISCID=8808eb0b
+DTITLE=Robert Earl Keen, Jr. - West Textures
+DYEAR=1989
+DGENRE=Country
+TTITLE0=Sing One For Sister
+TTITLE1=The Road Goes On Forever
+TTITLE2=Maria
+TTITLE3=Sonora's Death Row
+TTITLE4=Mariano
+TTITLE5=Don't Turn Out The Light
+TTITLE6=Leavin' Tennessee
+TTITLE7=Jennifer Johnson and Me
+TTITLE8=The Five Pound Bass
+TTITLE9=It's The Little Things
+TTITLE10=Love's A Word I Never Throw Around
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

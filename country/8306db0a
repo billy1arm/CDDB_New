@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     16625
+#     29505
+#     44430
+#     55220
+#     66855
+#     81377
+#     93740
+#     109070
+#     120645
+# 
+# Disc length: 1757 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=8306db0a
+DTITLE=Denis Champoux - Guitare Country vol 4
+DYEAR=1900
+DGENRE=
+TTITLE0=River Blue
+TTITLE1=Mon petit kaki
+TTITLE2=Personne au monde
+TTITLE3=Votre mariage
+TTITLE4=L'homme a la canne blanche
+TTITLE5=Mon enfant je te pardonne
+TTITLE6=Quand on aime la vie
+TTITLE7=Tu t'en vas
+TTITLE8=Sans toi
+TTITLE9=Ce n'est qu'un reve
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

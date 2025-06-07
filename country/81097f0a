@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18635
+#     37245
+#     53747
+#     77345
+#     92940
+#     110432
+#     127665
+#     145135
+#     164047
+# 
+# Disc length: 2433 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=81097f0a
+DTITLE=Charlie Karp and The Name Droppers - Charlie Karp and The Name Droppers
+DYEAR=1900
+DGENRE=
+TTITLE0=Givin' It All  I Got
+TTITLE1=Hold Me Tight (Talk Dirty)
+TTITLE2=Breakin' Each Others Heart
+TTITLE3=The Streets (Are A Lonely Place)
+TTITLE4=Too Bad On Your Birthday
+TTITLE5=Rock And Roll
+TTITLE6=Yes I Will
+TTITLE7=I Surrender
+TTITLE8=Sweet Little Angel
+TTITLE9=Diddy Wah Diddy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

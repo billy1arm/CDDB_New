@@ -1,0 +1,46 @@
+# xmcd
+#
+# Track frame offsets:
+#	182
+#	12995
+#	40912
+#	55297
+#	71002
+#	94380
+#	107482
+#	127052
+#	142727
+#	164270
+#
+# Disc length: 2570 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: dBpowerAMP V4.0
+#
+DISCID=870a080a
+DTITLE=OldAndInTheWay,SanFrancisco,CA - OldAndInTheWay;RykoRCD16009
+DYEAR=1973
+DGENRE=Bluegrass
+TTITLE0=PigInAPen(1973,OldAndInTheWay,SanFrancisco,CA)
+TTITLE1=MidnightMoonlight(PeterRowan;1973,OldAndInTheWay,SanFrancisco,CA)
+TTITLE2=OldAndInTheWay(DavidGrisman;1973,OldAndInTheWay,SanFrancisco,CA)
+TTITLE3=Knockin'OnYourDoor(1973,OldAndInTheWay,SanFrancisco,CA)
+TTITLE4=HoboSong,The(JackBonus;1973,OldAndInTheWay,SanFrancisco,CA)
+TTITLE5=PanamaRed(PeterRowan;1973,OldAndInTheWay,SanFrancisco,CA)
+TTITLE6=WildHorses(MickJagger,KeithRichard;1973,OldAndInTheWay,SanFrancisco,CA)
+TTITLE7=KissimmeeKid(VassarClements;1973,OldAndInTheWay,SanFrancisco,CA)
+TTITLE8=WhiteDove(CarterStanley;1973,OldAndInTheWay,SanFrancisco,CA)
+TTITLE9=LandOfTheNavajo(PeterRowan;1973,OldAndInTheWay,SanFrancisco,CA)
+EXTD=more info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Composer;Date,Artist,Location,State,Country)
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

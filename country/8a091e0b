@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#     150
+#     16275
+#     29325
+#     46500
+#     62250
+#     81900
+#     97350
+#     112500
+#     131925
+#     145200
+#     161775
+#
+# Disc length: 2336 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Clarion 0.9.1
+#
+DISCID=8a091e0b
+DTITLE=The Mavericks - Music for All Occasions
+DYEAR=1900
+DGENRE=
+TTITLE0=Foolish Heart
+TTITLE1=One Step Away
+TTITLE2=Here Comes The Rain
+TTITLE3=Missing You
+TTITLE4=All You Ever Do Is Bring Me Down
+TTITLE5=My Secret Flame
+TTITLE6=The Writing On The Wall
+TTITLE7=Loving You
+TTITLE8=If You Only Knew
+TTITLE9=I'm Not Gonna Cry For You
+TTITLE10=Something Stupid
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

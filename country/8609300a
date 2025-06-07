@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15620
+#	33132
+#	51007
+#	70075
+#	88887
+#	102875
+#	119135
+#	135742
+#	156457
+#
+# Disc length: 2354 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta1
+#
+DISCID=8609300a
+DTITLE=David Lee Murphy - Gettin' Out The Good Stuff
+DYEAR=1996
+DGENRE=Country
+TTITLE0=Every Time I Get Around You
+TTITLE1=The Road You Leave Behind
+TTITLE2=She's Really Something To See
+TTITLE3=Genuine Rednecks
+TTITLE4=100 Years Too Late
+TTITLE5=Born That Way
+TTITLE6=Breakfast In Birmingham
+TTITLE7=Gettin' Out The Good Stuff
+TTITLE8=I've Been A Rebel (And It Don't Pay)
+TTITLE9=Pirates Cove
+EXTD=YEAR: 1996 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17492
+#	36213
+#	55140
+#	78288
+#	98431
+#	119451
+#	137641
+#	158609
+#	182657
+#	204312
+#	225444
+#
+# Disc length: 3286 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=850cd40c
+DTITLE=The Vagaband - Town and Country
+DYEAR=2012
+DGENRE=Country
+TTITLE0=Lend Me Your Ears
+TTITLE1=An Ocean
+TTITLE2=Itchy Fingers
+TTITLE3=The Ballad Of El Molino
+TTITLE4=The Bad and The Ugly
+TTITLE5=Do Me Like You Did
+TTITLE6=The River
+TTITLE7=Send In The Cavalry
+TTITLE8=Sixteen Tons
+TTITLE9=Potent Symphony
+TTITLE10=Tripping On Cheese
+TTITLE11=My Maria
+EXTD=YEAR: 2012
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

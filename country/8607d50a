@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     15525
+#     30627
+#     43217
+#     60432
+#     69740
+#     86650
+#     101427
+#     121247
+#     134770
+# 
+# Disc length: 2007 seconds
+# 
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.1
+# 
+DISCID=8607d50a
+DTITLE=Various Artist - Rockin' Country
+DYEAR=1900
+DGENRE=
+TTITLE0=The Wanderer-Eddie Rabbitt
+TTITLE1=(Sittin' On) The Dock Of The Bay-Waylon and Willie
+TTITLE2=Mountain Of Love-Charley Pride
+TTITLE3=Save The Last Dance For Me-Dolly Parton with The Jordanaires
+TTITLE4=Brown Eyed Handsome Man-Waylon Jennings
+TTITLE5=Hurt-Juice Newton
+TTITLE6=Let It Be-Chet Atkins
+TTITLE7=I Heard It Through The Grapevine-Ronnie Milsap
+TTITLE8=Fire And Rain-Willie Nelson
+TTITLE9=Down On The Corner-Jerry Reed
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

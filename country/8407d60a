@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	16625
+#	33987
+#	47990
+#	57687
+#	71125
+#	92212
+#	105975
+#	122925
+#	135750
+#
+# Disc length: 2008 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=8407d60a
+DTITLE=Waylon Jennings - Waylon's Greatest Hits Vol. 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Looking For Suzanne
+TTITLE1=The Conversation
+TTITLE2=Waltz Me To Heaven
+TTITLE3=Theme From The Dukes of Hazzard
+TTITLE4=Don't You Think This Outlaw Bit's Done Got Out Of Hand
+TTITLE5=I Ain't Living Long Like This
+TTITLE6=Come With Me
+TTITLE7=America
+TTITLE8=Shine
+TTITLE9=Women Do Know How To Carry On
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

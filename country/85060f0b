@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12280
+#	22450
+#	33755
+#	45042
+#	54715
+#	65637
+#	74350
+#	83140
+#	93845
+#	106060
+#
+# Disc length: 1553 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=85060f0b
+DTITLE=Johnny Cash - I Walk the Line
+DYEAR=1993
+DGENRE=Country
+TTITLE0=I walk the Line
+TTITLE1=Ballad of a Teenage Queen
+TTITLE2=Belshazza
+TTITLE3=Cry Cry Cry
+TTITLE4=Down the Street to 301
+TTITLE5=Get Rhythm
+TTITLE6=I Guess things Happen that Way
+TTITLE7=I Forgot to Remember to Forget
+TTITLE8=Straight A's in Love
+TTITLE9=Thanks a Lot
+TTITLE10=The Ways of a Woman in Love
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

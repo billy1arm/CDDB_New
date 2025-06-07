@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 195
+# 16797
+# 32752
+# 57650
+# 69055
+# 95137
+# 117235
+# 135120
+# 149677
+# 169382
+#
+# Disc length: 2522 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=8909d80a
+DTITLE=Scott Nygaard - No Hurry
+DYEAR=1900
+DGENRE=
+TTITLE0=Mary and the Soldier
+TTITLE1=Fiddle Tune Medley: Big Sciota - Acorn Hill - Anna Livia
+TTITLE2=Meadville
+TTITLE3=Bury Me Beneath the Willow
+TTITLE4=Never Will I Marry
+TTITLE5=It Happened
+TTITLE6=Strong and True
+TTITLE7=Wheatstraw
+TTITLE8=No Hurry
+TTITLE9=Red Apple Rag
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

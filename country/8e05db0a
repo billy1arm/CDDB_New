@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10435
+#	23798
+#	35800
+#	47038
+#	56669
+#	67388
+#	77606
+#	89772
+#	101118
+#
+# Disc length: 1501 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=8e05db0a
+DTITLE=Willie Nelson - 10 Classic songs
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Blame it on the times
+TTITLE1=Everything but you
+TTITLE2=Happiness lives next door
+TTITLE3=I`m gonna lose a lot of teardrops
+TTITLE4=Let´s pretend
+TTITLE5=Touch me (live)
+TTITLE6=Broken promises
+TTITLE7=I can`t find the time
+TTITLE8=Is there something on you mind?
+TTITLE9=The last letter (live)
+EXTD=YEAR: 2001 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=
