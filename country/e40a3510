@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12405
+#	24937
+#	37010
+#	48972
+#	62737
+#	74530
+#	86375
+#	98652
+#	111392
+#	122977
+#	135665
+#	147622
+#	158672
+#	171500
+#	184180
+#
+# Disc length: 2615 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=e40a3510
+DTITLE=Grandpa Jones - 16 Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Mountain Dew
+TTITLE1=15 Cents Is All I Got
+TTITLE2=Eight More Miles To Louisville
+TTITLE3=Uncle Eff's Got The Coon
+TTITLE4=East Bound Freight Train
+TTITLE5=She's The Stepping Out Kind
+TTITLE6=I'm My Own Grandpa
+TTITLE7=Old Rattler's Treed Again
+TTITLE8=Old Rattler
+TTITLE9=Are You From Dixie
+TTITLE10=There's A Hole In The Ground
+TTITLE11=Grandpa Boogie
+TTITLE12=My Old Red River Home
+TTITLE13=It's Raining Here This Morning
+TTITLE14=Here Rattler Here
+TTITLE15=Jonah And The Whale
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

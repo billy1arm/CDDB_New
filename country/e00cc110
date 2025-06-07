@@ -1,0 +1,66 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12732
+#	28625
+#	40530
+#	58207
+#	73507
+#	92067
+#	106160
+#	123715
+#	143077
+#	157037
+#	172560
+#	185357
+#	201472
+#	214342
+#	227680
+#
+# Disc length: 3267 seconds
+#
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=e00cc110
+DTITLE=Michel Delpech - Les Talents Du Siecle
+DYEAR=1999
+DGENRE=Chanson Francaise
+TTITLE0=Le Loir Et Cher (1977)
+TTITLE1=Chez Laurette (1977)
+TTITLE2=Je T'attendais (1974)
+TTITLE3=Quand J'etais Chanteur (1975)
+TTITLE4=Trente Manieres De Quitter Une Fille "Fifty Ways To Leave Your Lover" (1979)
+TTITLE5=Tu Me Fais Planer (1975)
+TTITLE6=Un Jour Tu Verras (1974)
+TTITLE7=Il Faut Regarder Les Etoiles (1976)
+TTITLE8=Les Divorces (1973)
+TTITLE9=Le Chasseur (1974)
+TTITLE10=Pour Un Flirt (1975)
+TTITLE11=Inventaire 71 (Enregistrement public) (1974)
+TTITLE12=Que Marianne Etait Jolie (1972)
+TTITLE13=62, Nos Quinze Ans (1972)
+TTITLE14=Rimbaud Chanterait (1973)
+TTITLE15=Wight Is Wight (1969)
+EXTD=
+EXTT0=M. Delpech - J.M. Rivat - M. Pelay
+EXTT1=M. Delpech - R. Vincent
+EXTT2=M. Delpech - J.M. Rivat - M. Pelay
+EXTT3=M. Delpech - J.M. Rivat - R. Vincent
+EXTT4=M. Delpech - J.M. Rivat - P. Simon
+EXTT5=M. Delpech - J.M. Rivat - C. Morgan
+EXTT6=Mouloudji - G. Van Parys
+EXTT7=M. Delpech - R. Vincent
+EXTT8=M. Delpech - J.M. Rivat - R. Vincent
+EXTT9=M. Delpech - J.M. Rivat - M. Pelay
+EXTT10=M. Delpech - R. Vincent
+EXTT11=M. Delpech - P. Delanoe - R. Vincent
+EXTT12=M. Delpech - P. Papadiamandis
+EXTT13=M. Delpech - G. Skornic
+EXTT14=J.M. Rivat - R. Vincent
+EXTT15=M. Delpech - R. Vincent
+PLAYORDER=

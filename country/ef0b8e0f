@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17517
+#	30152
+#	42487
+#	59897
+#	73937
+#	89167
+#	99217
+#	115192
+#	132587
+#	149655
+#	164455
+#	186315
+#	197777
+#	208487
+#
+# Disc length: 2960 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ef0b8e0f
+DTITLE=Willie Nelson - Willie Nelson And Friends
+DYEAR=1900
+DGENRE=
+TTITLE0=Take It To The Limit (With Waylon Jennings)
+TTITLE1=Angel Eyes (With Emmylou Harris)
+TTITLE2=I'm Movin' On (With Hank Snow)
+TTITLE3=Faded Love (With Ray Price)
+TTITLE4=Old Friends (With Ray Price)
+TTITLE5=Jim, I Wore A Tie Today (With Waylon Jennings, Johnny Cash and Kris Kristofferson)
+TTITLE6=I Gotta Get Drunk (With George Jones)
+TTITLE7=Reasons To Quit (With Merle Haggard)
+TTITLE8=Seven Spanish Angels (With Ray Charles)
+TTITLE9=Loving You Was Easier (Than Anything I'll Ever Do Again) (With Dyan Cannon)
+TTITLE10=You Show Me Yours (And I'll Show You Mine) (With Amy Irving)
+TTITLE11=They All Went To Mexico (With Carlos Santana)
+TTITLE12=Hello Walls (With Faron Young)
+TTITLE13=There Stands The Glass (With Webb Pierce)
+TTITLE14=Heartbreak Hotel (With Leon Russell)
+EXTD=
+EXTT0=+ Waylon Jennings
+EXTT1=+ Emmylou Harris\n
+EXTT2=+ Hank Snow\n
+EXTT3=+ Ray Price
+EXTT4=+ Ray Price\n
+EXTT5=+ Waylon Jennings, \nJohnny Cash, \nKris Kristofferson
+EXTT6=+ George Jones
+EXTT7=+ Merle Haggard
+EXTT8=+ Ray Charles
+EXTT9=+ Dyan Cannon
+EXTT10=+ Any Irving
+EXTT11=+ Carlos Santana
+EXTT12=+ Faron Young
+EXTT13=+ Webb Pierce
+EXTT14=
+PLAYORDER=

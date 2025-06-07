@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11685
+#	22175
+#	33790
+#	47562
+#	60945
+#	75002
+#	85415
+#	102087
+#	115320
+#	128102
+#	140552
+#	159365
+#	172020
+#	180162
+#	196840
+#	205432
+#	217897
+#	228577
+#
+# Disc length: 3359 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ed0d1d13
+DTITLE=Johnny Cash - The Best of Johnny Cash
+DYEAR=1988
+DGENRE=Country
+TTITLE0=I walk the line
+TTITLE1=Bonanza
+TTITLE2=Ring of fire
+TTITLE3=Don't take your guns to town
+TTITLE4=Don't think twice, it's alright
+TTITLE5=Orange Blossom Special
+TTITLE6=Big River
+TTITLE7=The streets of Laredo
+TTITLE8=If I were a carpenter
+TTITLE9=The one on the right is on the left
+TTITLE10=Jackson
+TTITLE11=Sunday morning coming down
+TTITLE12=Remember the Alamo
+TTITLE13=Five feet high and rising
+TTITLE14=A boy named Sue
+TTITLE15=Guess things happen that way
+TTITLE16=Folsom Prison Blues
+TTITLE17=Give my love to Rose
+TTITLE18=Danny Boy
+EXTD=YEAR: 1988
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

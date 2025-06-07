@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9527
+#	21365
+#	31392
+#	39422
+#	51290
+#	61832
+#	76442
+#	89310
+#	108990
+#	120812
+#	133012
+#	138945
+#	155447
+#	168122
+#	184432
+#	194460
+#	214950
+#
+# Disc length: 3046 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=ef0be412
+DTITLE=Various Artist - Legends of Country: The Great Gentlemen of Country
+DYEAR=1997
+DGENRE=Country
+TTITLE0=George Jones - The Race Is On
+TTITLE1=Johnny Cash - The Highwayman [Live]
+TTITLE2=Boxcar Willie - King of the Road
+TTITLE3=Willie Nelson - Things to Remember
+TTITLE4=Kenny Rogers - Me and Bobby McGee
+TTITLE5=Charley Pride - Oklahoma Morning [Live]
+TTITLE6=Johnny Rodriguez - How Could I Love Her So Much [Live]
+TTITLE7=Don Williams - Where Do I Go from Here
+TTITLE8=Merle Haggard - The Bottle Let Me Down [Live]
+TTITLE9=Johnny Cash - Sixteen Tons [Live]
+TTITLE10=Boxcar Willie - Hobo Heaven [Live]
+TTITLE11=Jim Reeves - Have I Told You Lately That I Love You [Live]
+TTITLE12=Bobby Bare - Marie Lavaux [Live]
+TTITLE13=Willie Nelson - I Just Don't Understand
+TTITLE14=Merle Haggard - Ramblin' Fever [Live]
+TTITLE15=Don Williams - Take My Hand for a While
+TTITLE16=Gary Morris - The Wind Beneath My Wings [Live]
+TTITLE17=Kenny Rogers - Ruby, Don't Take Your Love to Town
+EXTD=CDDBSort:various_artists,legends_of_country_the_great_gentlemen_of_country - YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

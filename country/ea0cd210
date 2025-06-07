@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	15020
+#	31007
+#	45820
+#	61857
+#	72442
+#	89820
+#	107907
+#	121272
+#	137517
+#	149382
+#	164832
+#	175217
+#	193390
+#	208900
+#	219635
+#
+# Disc length: 3284 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 7
+#
+DISCID=ea0cd210
+DTITLE=Western Union - Country and Truckerhits
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Auf Der Autobahn
+TTITLE1=Bärenstark
+TTITLE2=Ich Möcht' So Gerne Mal Nach Nashville
+TTITLE3=Dieselcowboys Und Countrymusic
+TTITLE4=Countrymusic Nachts Bis Um Halb Vier
+TTITLE5=Heiße Bräute Und Kühles Bier
+TTITLE6=Silbervogel
+TTITLE7=Unser Lied Im Radio
+TTITLE8=Detroit City (live)
+TTITLE9=Six Days On The Road (live)
+TTITLE10=Some Broken Hearts Never Mind (live)
+TTITLE11=King Of The Road (live)
+TTITLE12=I Can't Stop Loving You (live)
+TTITLE13=Green, Green Grass Of Home (live)
+TTITLE14=Truck Drivin' Man (live)
+TTITLE15=Country Roads (live)
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

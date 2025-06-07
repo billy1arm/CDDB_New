@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16609
+#	41149
+#	54744
+#	69027
+#	91169
+#	102422
+#	121193
+#	134203
+#	149589
+#	163639
+#	180440
+#	194328
+#	217858
+#	231262
+#	249702
+#
+# Disc length: 3498 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=e00da810
+DTITLE=John Denver - The Ultimate Selection
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Leaving On A Jet Plane
+TTITLE1=Sweet Surrender
+TTITLE2=Annie's Song
+TTITLE3=How Can I Leave You Again
+TTITLE4=Falling Out Of Love
+TTITLE5=Follow Me
+TTITLE6=Fly Away
+TTITLE7=Love Again
+TTITLE8=Friends With You
+TTITLE9=Starwood In Aspen
+TTITLE10=Like A Sad Song
+TTITLE11=Rocky Mountain Suite
+TTITLE12=Sunshine On Shoulders
+TTITLE13=Whispering Jesse
+TTITLE14=Dreamland Express
+TTITLE15=This Old Guitar
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

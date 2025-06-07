@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13002
+#	29968
+#	44648
+#	57965
+#	70841
+#	80958
+#	93573
+#	105633
+#	123529
+#	136634
+#	148841
+#	160019
+#	171744
+#	182661
+#	195831
+#
+# Disc length: 2750 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,39,0213
+#
+DISCID=ec0abc10
+DTITLE=Varouis - Country Legends - Ruby Tuesday
+DYEAR=1900
+DGENRE=Country
+TTITLE0=01 Johnny Cash - Folsom Prison Blues
+TTITLE1=02 Merle Haggard - Today I Started Loving You Again
+TTITLE2=03 Jeannie C. Riley - Harper Valley PTA
+TTITLE3=04 Boxcar Willie - San Antonio Rose
+TTITLE4=05 Charley Pride - Crystal Chandeliers
+TTITLE5=06 Patti Page - A Poor Man's Roses
+TTITLE6=07 Kenny Rogers and The First Edition - Elvira
+TTITLE7=08 Roger Miller - Little Green Apples
+TTITLE8=09 Buck Owens - Country Girl (Leavin' Dirty Tracks)
+TTITLE9=10 Don Williams and Poco Seco Singers - Ruby Tuesday
+TTITLE10=11 Frankie Laine - High Noon (Do Not Forsake Me)
+TTITLE11=12 Patsy Cline - Stop the World (And Let Me Off)
+TTITLE12=13 Willie Nelson - I'll Stay Around
+TTITLE13=14 Lynn Anderson - Someday Soon
+TTITLE14=15 Hank Williams - Calling You
+TTITLE15=16 Waylon Jennings - Burning Memories
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

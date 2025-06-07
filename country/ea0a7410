@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  183
+#  11940
+#  27020
+#  39200
+#  56163
+#  73005
+#  81945
+#  92890
+#  104905
+#  118880
+#  129478
+#  137420
+#  148910
+#  161140
+#  173220
+#  188000
+#
+# Disc length: 2678 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=ea0a7410
+DTITLE=Misc - Country Love Songs - Vol. 2
+DYEAR=1900
+DGENRE=
+TTITLE0=The Happiest Girl In The Whole
+TTITLE1=For The Good Times
+TTITLE2=Let It Me Be
+TTITLE3=Blue Bayou
+TTITLE4=I Let My Mind Wonder
+TTITLE5=Mean Old Greyhound Bus
+TTITLE6=I Cried All The Way
+TTITLE7=On Her Way
+TTITLE8=Mr. Walker It's All Over
+TTITLE9=Cold Cold Heart
+TTITLE10=Wasted Days And Wasted Nights
+TTITLE11=No One Cared As Much
+TTITLE12=Two Little Orphans
+TTITLE13=You Don't Have To Say You Love Me
+TTITLE14=And So Will You My Love
+TTITLE15=Sleep Comes Easy
+EXTD=Lilo
+EXTT0=Donna Fargo
+EXTT1=Kenny Rogers
+EXTT2=Everly Brothers
+EXTT3=Lynn Anderson
+EXTT4=Willie Nelson
+EXTT5=Waylon Jennings
+EXTT6=Patsy Cline
+EXTT7=Don Williams
+EXTT8=Billie Jo Spears
+EXTT9=Johnny Cash
+EXTT10=Freddie Fender
+EXTT11=Oak Ridge Boys
+EXTT12=Dolly Parton
+EXTT13=Linn Anderson
+EXTT14=Willie Nelson
+EXTT15=Kenny Rogers
+PLAYORDER=

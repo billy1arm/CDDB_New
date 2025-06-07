@@ -1,0 +1,66 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14543
+#	28451
+#	42844
+#	57263
+#	70783
+#	85579
+#	99050
+#	113712
+#	141397
+#	154451
+#	163156
+#	179080
+#	192405
+#	207485
+#	219559
+#
+# Disc length: 3077 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+#
+DISCID=ed0c0310
+DTITLE=Various Artist - Chansons De France Vol.2 CD3
+DYEAR=2005
+DGENRE=Chanson
+TTITLE0=Juliette Gréco - Si Tu T'imagines
+TTITLE1=Henri Salvador - A Saint-Germain Des Prés
+TTITLE2=Charles Trenet - Que Reste-t-il De Nos Amours
+TTITLE3=Edith Piaf - L'accordéoniste
+TTITLE4=Jean Sablon - Je Tire Ma Révérence
+TTITLE5=André Claveau - Domino
+TTITLE6=Charles Aznavour - Et Bailler Et Dormir
+TTITLE7=Yves Montand - Clémentine
+TTITLE8=Marie Dubas - La Charlotte
+TTITLE9=Lys Gauty - Le Bonheur Est Entré Dans Mon Coeur
+TTITLE10=Georges Brassens - Hécatombe
+TTITLE11=Georgius - Les Archers Du Roy
+TTITLE12=Fréhel - Comme Un Moineau
+TTITLE13=Berthe Sylva - Le P'tit Bosco
+TTITLE14=Pills and Tabet - Le Vieux Chateau
+TTITLE15=Charles Aznavour and Pierre Roche - Boule De Gomme
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

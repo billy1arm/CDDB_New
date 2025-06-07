@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18003
+#	28547
+#	48229
+#	65139
+#	78174
+#	94330
+#	107573
+#	121411
+#	134876
+#	150897
+#	169529
+#	181869
+#	193570
+#	209536
+#	226586
+#	242197
+#	255410
+#
+# Disc length: 3536 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=e10dce12
+DTITLE=vyber - Hvezdy 1
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Zas praska v krbu drivi
+TTITLE1=Panenka
+TTITLE2=Montgomery
+TTITLE3=Dnes mame party
+TTITLE4=Slamu v botach nosim
+TTITLE5=V tomhle mrtvym busi
+TTITLE6=Whisky ma barvu tvych vlasu
+TTITLE7=Vrchol v dali
+TTITLE8=Co nevidet se sejdem
+TTITLE9=Zlaty udoli
+TTITLE10=Taboraku plapolej
+TTITLE11=Trampsky posuci
+TTITLE12=Japonecka
+TTITLE13=Rakosi
+TTITLE14=Cajova ruze
+TTITLE15=Karlinsky nabrezi
+TTITLE16=Maly dum nad skalou
+TTITLE17=Hvezdy
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13400
+#	24767
+#	43200
+#	54630
+#	67917
+#	86127
+#	99417
+#	109767
+#	127472
+#	143377
+#	157880
+#	174592
+#	188810
+#	199235
+#	215132
+#
+# Disc length: 3056 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=e50bee10
+DTITLE=Various Artist - The Winners [CD2]
+DYEAR=1993
+DGENRE=Country
+TTITLE0=High, Dry And Homeless - Slim Dusty
+TTITLE1=Kanga - Pixie
+TTITLE2=The Shame - Michael Roycroft
+TTITLE3=Makin' It Easy - Jeanette James
+TTITLE4=Country's Really Big These Days - Lee Kernaghan
+TTITLE5=All That I Need - James Blundell
+TTITLE6=Love Is The Bottom Line - Jeanette James
+TTITLE7=Goanna - Peter Horan
+TTITLE8=Radio Santa - Gina Jeffreys
+TTITLE9=A Drover's Wife - Colin Buchanan
+TTITLE10=Back Of Beyond - Warren Derwent
+TTITLE11=Single Drop - Fargone Beauties
+TTITLE12=Lasseter's Reef Of Gold - Brian Letton
+TTITLE13=Butt's Boogie - Lindsay Butler
+TTITLE14=Winter Winds - Shorty Ranger
+TTITLE15=This Is Australia Calling - John Williamson
+EXTD=YEAR: 1993
+EXTT0=Slim Dusty and Anne Kirkpatrick
+EXTT1=Pixie
+EXTT2=Michael Roycroft
+EXTT3=Jeanette James
+EXTT4=Lee Kernaghan
+EXTT5=James Blundell
+EXTT6=Jeanette James and Alan Caswell
+EXTT7=Peter Horan
+EXTT8=Gina Jeffreys
+EXTT9=Colin Buchanan
+EXTT10=Warren Derwent
+EXTT11=The Fargone Beauties
+EXTT12=Brian Letton
+EXTT13=Lindsay Butler
+EXTT14=Shorty Ranger
+EXTT15=John Williamson
+PLAYORDER=

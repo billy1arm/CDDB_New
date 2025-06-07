@@ -1,0 +1,98 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	300
+#	15840
+#	34834
+#	49947
+#	63559
+#	82423
+#	96784
+#	111274
+#	127386
+#	143224
+#	157660
+#	173706
+#	185707
+#	198791
+#	218124
+#	238990
+#
+# Disc length: 3402 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.67 - http://www.feurio.com
+#
+DISCID=e90d4610
+DTITLE=Various Artist - The Best Of 80's Country
+DYEAR=1987
+DGENRE=Country-Rock
+TTITLE0=Don Williams - Then It's Love
+TTITLE1=Ed Bruce - Memphis Roots
+TTITLE2=Marie Osmond (with Paul Davis) - You're Still New To Me
+TTITLE3=T. Graham Brown - I Tell It Like It Used To Be
+TTITLE4=Eddie Rabbitt - Letter From Home
+TTITLE5=Vince Gill - Turn Me Loose
+TTITLE6=Tanya Tucker - Just Another Love
+TTITLE7=Ronnie Milsap - Stranger In My House
+TTITLE8=The Judds - John Deere Tractor
+TTITLE9=Dobie Gray - From Where I Stand
+TTITLE10=Sylvia - Read All About It
+TTITLE11=Mel McDaniel - Stand On It
+TTITLE12=Sawyer Brown - Out Goin' Cattin'
+TTITLE13=Gail Davies - Jagged Edge Of A Broken Heart
+TTITLE14=Dan Seals - Out On The Front Line
+TTITLE15=Alabama - Feels So Right
+EXTD=Songwriter: Various\r\nKomponist: Various\r\nArrangement: Original sound 
+EXTD=Recordings made by Capitol Records Inc., EMI-America Records and 
+EXTD=RCA/Ariola Records Ltd. \r\nKommentar: (p)1987 Music For Please/EMI 
+EXTD=Records Ltd. Hayes MIDDX, upc 5099941578810 \r\n
+EXTT0=Songwriter: Dennis Linde\r\nKomponist: EMI Music Publ. 
+EXTT0=Ltd\r\nArrangement: Don Williams and Garth Fundis, \r\nKommentar: (p)1986 
+EXTT0=Capitol Records Inc.\r\n
+EXTT1=Songwriter: Ed Bruce\r\nKomponist: Drum Drop music\r\nArrangement: Ed 
+EXTT1=Bruce and Blake Mevis for Southwind Music Inc.\r\nKommentar: (p)1986 
+EXTT1=RCA/Ariola International\r\n
+EXTT2=Songwriter: Paul Overstreet, Paul Davis)\r\nKomponist: Writers Group 
+EXTT2=Music/ Scarlet Moon Music/ Web IV Music\r\nArrangement: Paul 
+EXTT2=Worley\r\nKommentar: (p)1986 Capitol Records Inc.\r\n
+EXTT3=Songwriter: R. Hellard, M. Garvin, B. Jones\r\nKomponist: EMI Music 
+EXTT3=Publ. Ltd\r\nArrangement: Bud Logan\r\nKommentar: (p)1986 Capitol 
+EXTT3=Records Inc.\r\n
+EXTT4=Songwriter: Reed Nielsen\r\nKomponist: Englishtown Music\r\nArrangement: 
+EXTT4=Richard landis for Outlandis Productions\r\nKommentar: (p)1986 
+EXTT4=RCA/Ariola International.\r\n
+EXTT5=Songwriter: Vince Gill\r\nKomponist: Criterion Music Corp/ Lorna Music 
+EXTT5=Co Ltd. (MCPS)\r\nArrangement: Emory L. Gordy, Jr.\r\nKommentar: (p)1984 
+EXTT5=RCA Corporation\r\n
+EXTT6=Songwriter: Paul Davis\r\nKomponist: Web IV Music\r\nArrangement: jerry 
+EXTT6=Crutchfield\r\nKommentar: (p)1986 Capitol Records Inc.\r\n
+EXTT7=Songwriter: Mike Reid\r\nKomponist: Lodge hall Music Inc\r\nArrangement: 
+EXTT7=Ronnie Milsap and Tom Collins\r\nKommentar: (p)1983 RCA Records\r\n
+EXTT8=Songwriter: Lawrence Hammond\r\nKomponist: SBK United 
+EXTT8=Partnership\r\nArrangement: Brent Maher for Maher 
+EXTT8=Productions\r\nKommentar: (p)1984 RCA/Ariola International\r\n
+EXTT9=Songwriter: J. Kimball, T. Schuyler\r\nKomponist: Sweet Angel Music/ 
+EXTT9=Michael H. goldsen, Inc/ Writers Group Music/ Bethehem 
+EXTT9=Music\r\nArrangement: Harold Sheed\r\nKommentar: (p)1986 Capitol Records 
+EXTT9=Inc.\r\n
+EXTT10=Songwriter: Kent M. Robbins, Todd Cerney\r\nKomponist: Chriswald Music/ 
+EXTT10=Hopi Sound/ Rondor Music (LDN) Ltd\r\nArrangement: Brent Maher for 
+EXTT10=Maher Productions\r\nKommentar: (p)1985 RCA Records\r\n
+EXTT11=Songwriter: Bruce Springsteen\r\nKomponist: Zomba Music Publishers 
+EXTT11=Ltd\r\nArrangement: Jerry Kennedy\r\nKommentar: (p)1986 Capitol Records 
+EXTT11=Inc.\r\n
+EXTT12=Songwriter: M. Miller, R. Scruggs\r\nKomponist: Screen Germs/ EMI Music 
+EXTT12=ltd\r\nArrangement: Randy L. Scruggs\r\nKommentar: (p)1986 Capitol 
+EXTT12=Records Inc.\r\n
+EXTT13=Songwriter: Walker Igleheart, Mike Joyce\r\nKomponist: Black Note 
+EXTT13=Publ./ Greeser Publ.\r\nArrangement: Gail Davies and Lelaud Sklar for 
+EXTT13=Little Chickadee Productions\r\nKommentar: (p)1984 RCA Records\r\n
+EXTT14=Songwriter: Dan Seals\r\nKomponist: MCPS\r\nArrangement: Kyle 
+EXTT14=Lehning\r\nKommentar: (p)1986 EMI America Records, a divison of Capitol 
+EXTT14=Records Inc.\r\n
+EXTT15=Songwriter: Randy Owens\r\nKomponist: Maypop Music\r\nArrangement: 
+EXTT15=Alabama, Larry McBride and Harold Shedd\r\nKommentar: (p)1981 RCA/Ariola 
+EXTT15=International\r\n
+PLAYORDER=

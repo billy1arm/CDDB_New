@@ -1,0 +1,314 @@
+# xmcd CD database file
+# Generated: mar jan 30 13:50:36 2006 by KSCD
+# 
+# Track frame offsets:
+#       182
+#       2607
+#       6017
+#       10545
+#       14640
+#       17950
+#       22555
+#       24965
+#       28437
+#       31600
+#       36342
+#       40892
+#       44062
+#       47377
+#       51117
+#       53355
+#       55800
+#       57645
+#       59737
+#       65187
+#       71665
+#       77752
+#       81300
+#       87492
+#       90715
+#       93017
+#       96850
+#       101402
+#       104345
+#       109425
+#       112787
+#       117585
+#       121927
+#       125512
+#       127627
+#       130805
+#       132385
+#       135702
+#       139612
+#       143457
+#       147132
+#       149975
+#       152112
+#       155015
+#       158290
+#       161040
+#       162302
+#       165910
+#       170152
+#       172920
+#       175515
+#       181942
+#       184582
+#       187390
+#       190967
+#       193877
+#       198182
+#       200327
+#       202815
+#       206542
+#       209437
+#       212735
+#       215957
+#       218795
+#       221477
+#       223707
+#       226302
+#       229127
+#       236407
+#       241455
+#       244925
+#       248310
+#       251655
+#       255995
+#       267882
+#       270760
+#       274495
+#       277897
+#       280082
+#       284647
+#       288270
+#       292437
+#       296155
+#       298757
+#       301162
+#       303370
+#       305785
+#       308792
+#       311185
+#       314902
+#       317692
+#       322282
+#       325252
+#       328595
+#       331710
+#       335047
+#       337280
+#       340037
+#       343325
+#
+# Disc length: 4616 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: Kscd 1.3.3
+#
+DISCID=e7120663
+DTITLE=Tous les oiseaux d'Europe - vol. 2 - des Tétras aux Gangas
+DYEAR=1900
+DGENRE=
+TTITLE0=2-01 - Lagopède des saules -  Lagopus lagopus
+TTITLE1=2-02 - Lagopède alpin - Lagopus mutus
+TTITLE2=2-03 - Tétras lyre - Tetrao tetrix
+TTITLE3=2-04 - Grand Tétras - Tetrao urogallus
+TTITLE4=2-05 - Gélinotte des bois - Bonasa bonasia
+TTITLE5=2-06 - Faisan de Colchide - Phasianus colchicus
+TTITLE6=2-07 - Caille des blés - Coturnix coturnix
+TTITLE7=2-08 - Perdrix choukar - Alectoris chukar
+TTITLE8=2-09 - Perdrix bartavelle - Alectoris graeca
+TTITLE9=2-10 - Perdrix rouge - Alectoris rufa
+TTITLE10=2-11 - Perdrix gambra - Alectoris barbara
+TTITLE11=2-12 - Perdrix grise - Perdrix perdrix
+TTITLE12=2-13 - Turnix d'Andalousie - Turnix sylvatica
+TTITLE13=2-14 - Râle d'eau - Rallus aquaticus
+TTITLE14=2-15 - Marouette ponctuée - Porzana porzana
+TTITLE15=2-16 - Marouette poussin - Porzana parva
+TTITLE16=2-17 - Marouette de Baillon - Porzana pusilla
+TTITLE17=2-18 - Râle des genêts - Crex crex
+TTITLE18=2-19 - Poule sultane - Porphyrio porphyrio
+TTITLE19=2-20 - Poule d'eau - Gallinula chloropus
+TTITLE20=2-21 - Foulque noire - Fulica atra
+TTITLE21=2-22 - Foulque à crête - Fulica cristata
+TTITLE22=2-23 - Grue cendrée - Grus grus
+TTITLE23=2-24 - Outarde canepetière - Tetrax tetrax
+TTITLE24=2-25 - Grande Outarde - Otis tarda
+TTITLE25=2-26 - Huîtrier pie - Haematopus otralegus
+TTITLE26=2-27 - Echasse blanche - Himantopus himantopus
+TTITLE27=2-28 - Avocette - Recurvirostra avosetta
+TTITLE28=2-29 - Oedicnème criard - Burhinus oedicnemus
+TTITLE29=2-30 - Glaréole à collier - lareola pratincola
+TTITLE30=2-31 - Petit gravelot - Charadrius dubius
+TTITLE31=2-32 - Grand Gravelot - Charadrius hiaticula
+TTITLE32=2-33 - Gravelot à collier interrompu - Charadrius alexandrinus
+TTITLE33=2-34 - Pluvier guignard - Charadrius morinellus
+TTITLE34=2-35 - Pluvier doré - Pluvialis apricaria
+TTITLE35=2-36 - Pluvier argenté - Pluvialis squatarola
+TTITLE36=2-37 - Vanneau éperonné - Vanellus spinosus
+TTITLE37=2-38 - Vanneau huppé - Vanellus vanellus
+TTITLE38=2-39 - Bécasseau maubèche - Calidris canutus
+TTITLE39=2-40 - Bécasseau sanderling - Calidris alba
+TTITLE40=2-41 - Bécasseau minute - Calidris minuta
+TTITLE41=2-42 - Bécasseau de Temminck - Calidris temminckii
+TTITLE42=2-43 - Bécasseau violet - Calidris maritima
+TTITLE43=2-44 - Bécasseau variable - Calidris alpina
+TTITLE44=2-45 - Bécasseau falcinelle - Limicola falcinellus
+TTITLE45=2-46 - Combattant varié - Philomachus pugnax
+TTITLE46=2-47 - Bécassine sourde - Lymnocryptes minumus
+TTITLE47=2-48 - Bécassine des marais - Galllinago gallinago
+TTITLE48=2-49 - Bécassine double - Gallinago media
+TTITLE49=2-50 - Bécasse des bois - Scolopax rusticola
+TTITLE50=2-51 - Barge à queue noire - Limosa limosa
+TTITLE51=2-52 - Barge rousse - Limosa lapponica
+TTITLE52=2-53 - Courlis corlieu - Numenius phaeopus
+TTITLE53=2-54 - Courlis cendré - Numenius arquata
+TTITLE54=2-55 - Chevalier arlequin - Tringa erythropus
+TTITLE55=2-56 - Chevalier gambette - Tringa totanus
+TTITLE56=2-57 - Chevalier aboyeur - Tringa nebularia
+TTITLE57=2-58 - Chevalier culblanc - Tringa ochropus
+TTITLE58=2-59 - Chevalier sylvain - Tringa glareola
+TTITLE59=2-60 - Chevalier guignette - Actitis hypoleucos
+TTITLE60=2-61 - Tournepierre à collier - Arenaria interpres
+TTITLE61=2-62 - phalarope à bec étroit - Phalaropus lobatus
+TTITLE62=2-63 - Labbe parasite - Stercorarius parasiticus
+TTITLE63=2-64 - Labbe à longue queue - Stercorarius longicaudus
+TTITLE64=2-65 - Grand Labbe - Stercorarius skua
+TTITLE65=2-66 - Mouette mélanocéphale - Larus melanocephalus
+TTITLE66=2-67 - Mouette pygmée - Larus minutus
+TTITLE67=2-68 - Mouette rieuse - Larus ridibundus
+TTITLE68=2-69 - Gpéland railleur - Larus genei
+TTITLE69=2-70 - Goéland cendré - Larus canus
+TTITLE70=2-71 - Mouette tridactyle - Rissa tridactyla
+TTITLE71=2-72 - Goéland d'Audoin - Larus audouinii
+TTITLE72=2-73 - Goéland brun - Larus fuscus
+TTITLE73=2-74 - Goéland argenté, Goéland leucophée - Larus argentatus, Larus cachinnans
+TTITLE74=2-75 - Goéland bourgmestre - Larus hyperboreus
+TTITLE75=2-76 - Goéland marin - Larus marinus
+TTITLE76=2-77 - Sterne hansel - Gelochelidos nilotica
+TTITLE77=2-78 - Sterne caspienne - Sterna caspia
+TTITLE78=2-79 - Sterne caugek - Sterna sandvicensis
+TTITLE79=2-80 - Sterne de Dougall - Sterna dougallii
+TTITLE80=2-81 - Sterne pierregarin - Sterna hirundo
+TTITLE81=2-82 - Sterne arctique - Sterna paradisaea
+TTITLE82=2-83 - Sterne naine - Sterna albifrons
+TTITLE83=2-84 - Guiffette moustac - Chlidonias hybridus
+TTITLE84=2-85 - Guiffette noire - Chlidonias niger
+TTITLE85=2-86 - Guiffette leucoptère - Chlidonias leucopterus
+TTITLE86=2-87 - Guillemot de Troïl - Uria aalge
+TTITLE87=2-88 - Guillemot de Brünnich - Uria lomvia
+TTITLE88=2-89 - Petit Pingouin - Alca torda
+TTITLE89=2-90 - Guillemot à miroir - Ceppus grylle
+TTITLE90=2-91 - Mergule nain - Alle alle
+TTITLE91=2-92 - Macareux moine - Fratercula arctica
+TTITLE92=2-93 - Tourterelle turque - Streptopelia decaocto
+TTITLE93=2-94 - Tourterelle des bois - Streptopelia turtur
+TTITLE94=2-95 - Pigeon biset domestique - Columbia livia
+TTITLE95=2-96 - Pigeon colombin - Columbia oenas
+TTITLE96=2-97 - Pigeon ramier - Columbia palumbus
+TTITLE97=2-98 - Ganga unibande - Pterocles orientalis
+TTITLE98=2-99 - Ganga cata - Pterocles alchata
+EXTD=Français - Latin
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=

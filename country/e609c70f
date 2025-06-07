@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10332
+#     21925
+#     35685
+#     47425
+#     59737
+#     74830
+#     84522
+#     94875
+#     110102
+#     121497
+#     134625
+#     148767
+#     165375
+#     177555
+# 
+# Disc length: 2505 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=e609c70f
+DTITLE=Various Artist - Country Fried TV Tunes
+DYEAR=1900
+DGENRE=
+TTITLE0=Hawaii Five-O
+TTITLE1=Pink Panther
+TTITLE2=I'll Be There For You (Theme From Friends)
+TTITLE3=Green Acres
+TTITLE4=The Fishing Hole (Theme From The Andy Griffith Show)
+TTITLE5=Rockford Files
+TTITLE6=Merrily We Roll Along (Theme From Merrie Melodies)
+TTITLE7=I Dream Of Jeannie
+TTITLE8=Star Trek
+TTITLE9=I Love Lucy
+TTITLE10=Where Everybody Knows Your Name (Theme From Cheers)
+TTITLE11=Batman
+TTITLE12=William Tell Overture (Them From The Lone Ranger)
+TTITLE13=Love And Marriage (Theme From Married With Children)
+TTITLE14=Mission Impossible
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

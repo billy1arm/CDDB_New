@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13380
+#	27545
+#	43645
+#	56912
+#	66660
+#	77677
+#	90135
+#	104795
+#	123307
+#	139257
+#	152600
+#	166960
+#	181455
+#	195220
+#	209802
+#
+# Disc length: 3005 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.95
+#
+DISCID=e80bbb10
+DTITLE=Various Artist - Legends (All Time Country Greats)
+DYEAR=1987
+DGENRE=Country
+TTITLE0=Dr Hook - Sharing the night together
+TTITLE1=Willye Nelson - Why do I have to choose
+TTITLE2=Charley Pride - Roll on Mississippi
+TTITLE3=Moe Brandy - Yesterday once more
+TTITLE4=Jim Reeves - When the two worlds collide
+TTITLE5=Don Gibson - (I'd be a) legend in my time
+TTITLE6=George Hamiltion IV - Crystal chandeliers
+TTITLE7=Glen Campbell - Rhinestone cowboy
+TTITLE8=Marty Robbins - The air that I breathe
+TTITLE9=Johnny Cash - The greatest love affair
+TTITLE10=Charlie Rich - Behind closed doors
+TTITLE11=George Jones - Good year for the roses
+TTITLE12=Slim Whitman - My elusive dream
+TTITLE13=Conway Twitty - We had it all
+TTITLE14=Willie Nelson - Yesterday's wine
+TTITLE15=Alabama - The closer you get
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

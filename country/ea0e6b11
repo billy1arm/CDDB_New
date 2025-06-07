@@ -1,0 +1,69 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	19670
+# 	33602
+# 	49437
+# 	68465
+# 	85152
+# 	101947
+# 	122297
+# 	138780
+# 	154527
+# 	167200
+# 	183572
+# 	197632
+# 	213037
+# 	229915
+# 	245862
+# 	260580
+#
+# Disc length: 3693 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=ea0e6b11
+DTITLE=Olivia Newton-John - Back to the Basics - The Essential Collecti
+DTITLE=on 1971-1992
+DYEAR=1900
+DGENRE=
+TTITLE0=Deeper Than a River
+TTITLE1=Not Gonna Be the One
+TTITLE2=I Want to be Wanted
+TTITLE3=I Need Love
+TTITLE4=Twist of Fate
+TTITLE5=Physical
+TTITLE6=Magic
+TTITLE7=Deeper Than the Night
+TTITLE8=A Little More Love
+TTITLE9=You're The One That I Want
+TTITLE10=Summer Nights
+TTITLE11=Hopelessly Devoted to You
+TTITLE12=Please Mr. Please
+TTITLE13=Sam
+TTITLE14=Have You Never Been Mellow
+TTITLE15=If You Love Me (Let Me Know)
+TTITLE16=I Honestly Love You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

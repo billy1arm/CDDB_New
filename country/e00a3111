@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11212
+#	21450
+#	32547
+#	48202
+#	59180
+#	70675
+#	80812
+#	90400
+#	100445
+#	113767
+#	124165
+#	138310
+#	148752
+#	157577
+#	168127
+#	180417
+#
+# Disc length: 2611 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=e00a3111
+DTITLE=Various Artist - Songs of America's Railroads - Volume 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Night Train to Memphis
+TTITLE1=Bringing in the Georgia Mail
+TTITLE2=Southern Train
+TTITLE3=Lonesome Whistle Blues
+TTITLE4=Midnight Train
+TTITLE5=Freight Train Blues
+TTITLE6=Freight Train Boogie
+TTITLE7=Riding on the Midnight Train
+TTITLE8=Freight Train
+TTITLE9=Fireball Express
+TTITLE10=Wreck of the #9
+TTITLE11=Wreck of the 1262
+TTITLE12=Wreck of the Old 97
+TTITLE13=Wabash Cannonball
+TTITLE14=Riding on the L&N
+TTITLE15=The L&N Don't Stop Here Anymore
+TTITLE16=Train Medley
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

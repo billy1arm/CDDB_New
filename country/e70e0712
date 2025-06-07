@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12214
+#	24122
+#	37015
+#	49126
+#	64536
+#	77044
+#	95124
+#	110634
+#	122676
+#	137495
+#	151278
+#	169496
+#	185265
+#	202616
+#	216309
+#	232688
+#	248213
+#
+# Disc length: 3593 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5.3
+#
+DISCID=e70e0712
+DTITLE=Diverse dt. - Goldene Zeiten
+DYEAR=1900
+DGENRE=
+TTITLE0=Oh my Darling
+TTITLE1=Marmor, Stein und Eisen bricht
+TTITLE2=A Banda
+TTITLE3=Weisst Du wohin
+TTITLE4=Schön ist es auf der Welt zu sein
+TTITLE5=Ich wünsch mir ne kleine Mietzekatze
+TTITLE6=Tränen lügen nicht
+TTITLE7=Deine Spuren im Sand
+TTITLE8=Tanze Samba mit mir
+TTITLE9=Der Junge mit der Mundharmonika
+TTITLE10=Dschingis Khan
+TTITLE11=Santa Maria
+TTITLE12=Adios Amor
+TTITLE13=Jenseits von Eden
+TTITLE14=Ein bisschen Frieden
+TTITLE15=Verdammt ich lieb Dich
+TTITLE16=Butterfly
+TTITLE17=Ruf Teddyb r Eins-Vier
+EXTD=
+EXTT0=Ronny
+EXTT1=Drafi Deutscher
+EXTT2=France Gall
+EXTT3=Karel Gott
+EXTT4=Roy Black and Anita
+EXTT5=Wum s Gesang
+EXTT6=Michael Holm
+EXTT7=Howard Carpendale
+EXTT8=Tony Holiday
+EXTT9=Bernd Cl ver
+EXTT10=Dschingis Khan
+EXTT11=Roland Kaiser
+EXTT12=Andy Borg
+EXTT13=Nino de Angelo
+EXTT14=Nicole
+EXTT15=Matthias Reim
+EXTT16=Danyel Gerard
+EXTT17=Johnny Hill
+PLAYORDER=

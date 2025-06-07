@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+#
+# Track frame offsets:
+#	150
+#	18592
+#	35948
+#	50507
+#	65573
+#	76401
+#	93830
+#	110240
+#	126841
+#	141578
+#	156228
+#	174431
+#	191161
+#	205045
+#	218546
+#	236565
+#
+# Disc length: 3317
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CoolCD_Studio 1.4
+#
+DISCID=ed0cf310
+DTITLE=Diamond Rio - 16 Biggest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=How Your Life Makes Me Feel
+TTITLE1=Walkin' Away
+TTITLE2=Holdin'
+TTITLE3=Meet In The Middle
+TTITLE4=Unbelievable
+TTITLE5=Beautiful Mess
+TTITLE6=One More Day
+TTITLE7=Love A Little Stronger
+TTITLE8=Oh Me, Oh My, Sweet Baby
+TTITLE9=Mirror Mirror
+TTITLE10=You're Gone
+TTITLE11=Nowhere Bound
+TTITLE12=Norma Jean Riley
+TTITLE13=In A Week Or Two
+TTITLE14=I Believe
+TTITLE15=This Romeo Ain't Got Julie Yet
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

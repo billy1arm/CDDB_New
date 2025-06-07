@@ -1,0 +1,66 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15625
+#	29645
+#	46440
+#	58264
+#	75735
+#	87210
+#	109797
+#	127590
+#	139155
+#	157255
+#	167985
+#	184115
+#	208812
+#	221927
+#	241852
+#
+# Disc length: 3385 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=e80d3710
+DTITLE=Verschiedene - So schön klingt Blasmusik - Folge 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Regimentskinder (Marsch) - Stadtkapelle Wilten
+TTITLE1=Schöne Pragerin (Polka) - Ernst Mosch u.s. Orig. Egerländer Musikanten
+TTITLE2=O Mein Papa - Walter Scholz
+TTITLE3=Unter dem Doppeladler (Marsch) - Militärmusik Tirol
+TTITLE4=Im Stillen Hain (Walzer) - Robert Payer u.s. Orig. Burgenlandkapelle
+TTITLE5=Guttenberg Marsch - Militärmusik Salzburg
+TTITLE6=Czardas (Solo F. Tuba) - Polizeiorchester Potsdam
+TTITLE7=An der Moldau (Polkau) - Neue Böhmische Blasmusik
+TTITLE8=Schönfeld Marsch - Orig. Tiroler Kaiserjägermusik
+TTITLE9=Im Wäldchen (Walzer) - Hans Kriso u.s. Egerländer Kapelle
+TTITLE10=Die Lustigen Finken (Solo F. 3 Flöten) - Prager Blasorchester
+TTITLE11=Der Gassenhauer (Polka) - Kurt Pascher u.s. Bähmerwälder Musikanten
+TTITLE12=Florentiner Marsch - Rundfunkblasorchester Leipzig
+TTITLE13=Zwei Elegante Herrn (Solo f. 2 Tenorhörner) - Georg Stich and d. Blasor
+TTITLE13=chester Allgäu
+TTITLE14=Semper Iuvenalis (Marsch) - Musikkorps Garmisch
+TTITLE15=Dixie Fingers (Solo) - Vöckla Musikanten
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

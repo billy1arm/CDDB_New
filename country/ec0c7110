@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18355
+#	29405
+#	40741
+#	57590
+#	71220
+#	89595
+#	107504
+#	119957
+#	133669
+#	151109
+#	169678
+#	181234
+#	195404
+#	206591
+#	224625
+#
+# Disc length: 3187 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=ec0c7110
+DTITLE=Atomic Deluxe - Stories from the New West
+DYEAR=1900
+DGENRE=
+TTITLE0=Wish You Well
+TTITLE1=Pass That Bottle
+TTITLE2=Eighteen Wheels
+TTITLE3=Too Much Drinkin'
+TTITLE4=Doin' My Time
+TTITLE5=Sweet Lou
+TTITLE6=Another Day
+TTITLE7=You Used to Call Me Baby
+TTITLE8=Atomic Deluxe
+TTITLE9=10 Shades of Blue
+TTITLE10=Sometimes
+TTITLE11=Beggin' for Love
+TTITLE12=The Desert is Cryin'
+TTITLE13=You're Still On My Mind
+TTITLE14=Along the Navajo Trail
+TTITLE15=Seein' Double Boogie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

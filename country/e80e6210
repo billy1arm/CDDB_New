@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16488
+#	33952
+#	52605
+#	69327
+#	86832
+#	103722
+#	121388
+#	138676
+#	155129
+#	172817
+#	190416
+#	207682
+#	224661
+#	241717
+#	259162
+#
+# Disc length: 3684 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=e80e6210
+DTITLE=Al Stevens - 40 Years
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Yakety Yak
+TTITLE1=I would like to see you again
+TTITLE2=The river
+TTITLE3=Hello my baby
+TTITLE4=Adilida
+TTITLE5=Peg of my heart
+TTITLE6=Rocky mountain music
+TTITLE7=Sold
+TTITLE8=Knock, knock, knock
+TTITLE9=I just want to dance with you
+TTITLE10=Don't come running back to me
+TTITLE11=Sea of heartbreak
+TTITLE12=When will I be loved
+TTITLE13=Are you teasing me
+TTITLE14=I can see clearly now
+TTITLE15=Snap your fingers
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

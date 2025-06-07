@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	1518
+#	32478
+#	47643
+#	64555
+#	77190
+#	93338
+#	110240
+#	127863
+#	142085
+#	158595
+#	176888
+#	195725
+#	222828
+#	241890
+#	251898
+#	277570
+#	294873
+#
+# Disc length: 3944 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=ee0f6612
+DTITLE=Swiss German Dixie Corporation - Swiss German Dixie Corporation II
+DYEAR=1992
+DGENRE=Country
+TTITLE0=Jingle
+TTITLE1=Ice Cream
+TTITLE2=Canal Street Blues
+TTITLE3=Panama Rag
+TTITLE4=Struttin' with some barbeque
+TTITLE5=Everybody loves my baby
+TTITLE6=I wanna' girl
+TTITLE7=Some of these days
+TTITLE8=Weary blues
+TTITLE9=After you've gone
+TTITLE10=Creole love call
+TTITLE11=Blues my naughty sweetie
+TTITLE12=Savoy blues
+TTITLE13=Darke eyes
+TTITLE14=Dippermouth Blues
+TTITLE15=Mood indigo
+TTITLE16=Doctor Jazz
+TTITLE17=Jingle
+EXTD=YEAR: 1992 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15315
+#	27262
+#	39042
+#	52905
+#	63602
+#	75615
+#	89400
+#	101000
+#	115320
+#	125040
+#	133545
+#	143785
+#	158867
+#	167055
+#	176620
+#	190332
+#	204282
+#
+# Disc length: 2842 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=eb0b1812
+DTITLE=Willie Nelson - Face of a Fighter
+DYEAR=1900
+DGENRE=
+TTITLE0=Face of a fighter
+TTITLE1=End of understanding
+TTITLE2=Some other time
+TTITLE3=A moment isn't very long
+TTITLE4=Blame it on the times
+TTITLE5=I hope so
+TTITLE6=Everything but you
+TTITLE7=Is there something on your mind
+TTITLE8=Will you remember mine
+TTITLE9=(I'm) Building heartaches
+TTITLE10=Slow down old world
+TTITLE11=Healing hands of time
+TTITLE12=And so will you my love
+TTITLE13=Things to remember
+TTITLE14=One step beyond
+TTITLE15=Undo the right
+TTITLE16=Home is where you're happy
+TTITLE17=Why are you picking on me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

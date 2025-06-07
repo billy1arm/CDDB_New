@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18377
+#	36027
+#	48627
+#	64740
+#	81887
+#	95205
+#	110492
+#	128102
+#	146515
+#	166080
+#	178707
+#	195302
+#	212250
+#	229077
+#	250405
+#	265162
+#
+# Disc length: 3885 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=e80f2b11
+DTITLE=Trisha Yearwood - Songbook
+DYEAR=1997
+DGENRE=Country
+TTITLE0=How Do I Live
+TTITLE1=The Song Remembers When
+TTITLE2=The Wrong Side Of Memphis
+TTITLE3=In Another's Eyes (Duet with Garth Brooks)
+TTITLE4=The Woman Before Me
+TTITLE5=Perfect Love
+TTITLE6=Thinkin' About You
+TTITLE7=Down On My Knees
+TTITLE8=She's In Love With The Boy
+TTITLE9=Walkaway Joe
+TTITLE10=XXX's And OOO's
+TTITLE11=Like We Never Had A Broken Heart
+TTITLE12=A Lover Is Forever
+TTITLE13=Believe Me Baby I Lied
+TTITLE14=On A Bus To St Cloud
+TTITLE15=You Can Sleep While I Drive
+TTITLE16=The Flame
+EXTD=YEAR: 1997  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     13270
+#     27215
+#     40297
+#     53325
+#     65097
+#     79900
+#     91817
+#     104620
+#     118627
+#     129932
+#     140925
+#     153357
+#     164692
+#     177495
+#     188935
+# 
+# Disc length: 2689 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=e00a7f10
+DTITLE=Tex Ritter - Tex Ritter
+DYEAR=1900
+DGENRE=
+TTITLE0=Sam Hall
+TTITLE1=Get Along Little Dogies
+TTITLE2=Lady Killin' Cowboy
+TTITLE3=Bill, The Bar Fly
+TTITLE4=My Brown Eyed Texas Rose
+TTITLE5=(Take Me Back To My) Boots and Saddles
+TTITLE6=The Hills of Old Wyomin'
+TTITLE7=We'll Rest at the End of the Trail
+TTITLE8=High, Wide and Handsome
+TTITLE9=I'm a Natural Born Cowboy
+TTITLE10=Ride, Ride, Ride
+TTITLE11=Sing, Cowboy, Sing
+TTITLE12=When It's LampLighting Time in the Valley
+TTITLE13=Singin' in the Saddle
+TTITLE14=Ai Viva Tequila
+TTITLE15=Out on the Lone Prairie
+EXTD=
+EXTT0=1935\n
+EXTT1=1935\n
+EXTT2=1935\n
+EXTT3=1935\n
+EXTT4=1935\n
+EXTT5=1935\n
+EXTT6=1936\n
+EXTT7=1936\n
+EXTT8=1936\n
+EXTT9=1937\n
+EXTT10=1937\n
+EXTT11=1937\n
+EXTT12=1939\n
+EXTT13=1939\n
+EXTT14=1939\n
+EXTT15=1936\n
+PLAYORDER=

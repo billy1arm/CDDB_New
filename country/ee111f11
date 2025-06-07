@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16837
+#	30241
+#	40928
+#	56720
+#	72479
+#	94461
+#	115293
+#	135615
+#	163625
+#	184015
+#	200202
+#	226056
+#	257668
+#	273498
+#	290542
+#	307648
+#
+# Disc length: 4385 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=ee111f11
+DTITLE=Чиж&С - Избранное
+DYEAR=1900
+DGENRE=Country
+TTITLE0=В Старинном Городе О.
+TTITLE1=Вечная Молодость
+TTITLE2=Мышка (Колыбельная Хиппи)
+TTITLE3=Русская (Хочу Чаю)
+TTITLE4=Солдат На Привале
+TTITLE5=ОК
+TTITLE6=О Любви
+TTITLE7=Вот Пуля Просвистела
+TTITLE8=Полонез
+TTITLE9=Эрогенная Зона
+TTITLE10=Прекрасное Воскресеньe
+TTITLE11=Сен Симилья
+TTITLE12=Перекресток
+TTITLE13=Поход
+TTITLE14=Под Звездами Балканскими
+TTITLE15=На Поле Танки Грохотали
+TTITLE16=Бомбардировщики
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=
