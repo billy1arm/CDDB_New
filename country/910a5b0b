@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     185
+#     20352
+#     36525
+#     54260
+#     79085
+#     98142
+#     110422
+#     137300
+#     148435
+#     167190
+#     177152
+# 
+# Disc length: 2653 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=910a5b0b
+DTITLE=Tom Russell - Cowboy Real
+DYEAR=1900
+DGENRE=
+TTITLE0=El Llano Estacado
+TTITLE1=A Bad Half Hour
+TTITLE2=The Basque
+TTITLE3=Claude Dallas
+TTITLE4=Navajo Rug
+TTITLE5=Indian Cowboy
+TTITLE6=Gallo Del Cielo
+TTITLE7=Rayburn Crane
+TTITLE8=Sonora's Death Row
+TTITLE9=Zane Grey
+TTITLE10=Roanie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

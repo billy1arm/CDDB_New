@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14850
+#	49125
+#	74347
+#	98812
+#	119287
+#	148125
+#	167312
+#	180337
+#	202972
+#	229407
+#
+# Disc length: 3309 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Feurio! 1.65 - http://www.feurio.com
+#
+DISCID=980ceb0b
+DTITLE=Navajo - Chants
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Intro Prelude
+TTITLE1=Tor-Cheney-Nahana
+TTITLE2=Ly-O-Lay Ale Loya
+TTITLE3=Ya-Na-Hana
+TTITLE4=Dawa
+TTITLE5=Gitchi-Manidoo 
+TTITLE6=Yeha-Noha
+TTITLE7=Ta-Was-Ne 
+TTITLE8=Heya-Hee
+TTITLE9=Canto Chamamico
+TTITLE10=Yo-Hey-O-Hee
+EXTD=Songs and Dances of the native American People\r\nPerformed by Navajo
+EXTT0=How The West Was Won
+EXTT1=Winter Ceremony
+EXTT2=The Counter Clockwise Circle
+EXTT3=Celebrate Wild Rice
+EXTT4=The Credel Song
+EXTT5=Advice For The Young
+EXTT6=Wishes Of Happiness And Prosperity
+EXTT7=Elevation
+EXTT8=The Inter-tribal Song To Stop The Rain
+EXTT9=Heal The Soul
+EXTT10=Brandishing Tomahawk
+PLAYORDER=

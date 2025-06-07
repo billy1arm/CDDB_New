@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11353
+#     20383
+#     31815
+#     52908
+#     67270
+#     80263
+#     91315
+#     102593
+#     112453
+#     123845
+#     135420
+# 
+# Disc length: 2017 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=9607df0c
+DTITLE=Marty Robbins - Marty Robbins # 1 Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Begging to you
+TTITLE1=Ruby Ann
+TTITLE2=The story of life
+TTITLE3=El Paso
+TTITLE4=Don't Worry
+TTITLE5=Devil Woman
+TTITLE6=Singing the Blues
+TTITLE7=A White Sport Coat and a Pink Carnation
+TTITLE8=Stairway of Love
+TTITLE9=Ribbon of Darkness
+TTITLE10=Among My Souvenirs
+TTITLE11=My Woman, My Woman, My Wife
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

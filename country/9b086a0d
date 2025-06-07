@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11530
+#	26850
+#	40502
+#	55250
+#	70547
+#	80320
+#	91017
+#	99902
+#	111637
+#	127857
+#	140942
+#	152540
+#
+# Disc length: 2156 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=9b086a0d
+DTITLE=Doyle Lawson and Quicksilver - Heavenly Treasures
+DYEAR=1900
+DGENRE=
+TTITLE0=I Dreamed Of A Great Judgment Morning
+TTITLE1=Gone Away
+TTITLE2=Too Much To Gain To Lose
+TTITLE3=I'm Afraid I Can't Make It Alone
+TTITLE4=I Was, I Am, I Will
+TTITLE5=A Lover Of The Lord
+TTITLE6=Lay Your Burdens At His Feet
+TTITLE7=My Rock
+TTITLE8=Jesus Walked On The Water
+TTITLE9=God Sent An Angel
+TTITLE10=Jezebel
+TTITLE11=I'm Gonna Be Moving
+TTITLE12=When The Sun Of My Life Goes Down
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

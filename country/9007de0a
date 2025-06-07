@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#       150
+#       14997
+#       29622
+#       44625
+#       59090
+#       76215
+#       86990
+#       100650
+#       117060
+#       133132
+#
+# Disc length: 2016 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9007de0a
+DTITLE=Vern Gosdin - Nickels And Dimes And Love
+DYEAR=1900
+DGENRE=
+TTITLE0=Nickels And Dime And Love
+TTITLE1=Back When
+TTITLE2=Where The Tail Grass Grows
+TTITLE3=Bury Me In A Jukebox
+TTITLE4=Any Old Miracle
+TTITLE5=I Like My Country Music
+TTITLE6=Two Good People With A Love Gone Bad
+TTITLE7=What Are We Gonna Do About Me
+TTITLE8=Gone In A Heartbeat
+TTITLE9=A Better Time To Say Goodbye
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

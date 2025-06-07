@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10975
+#	23700
+#	41527
+#	54582
+#	68625
+#	80512
+#	109962
+#	134985
+#	160710
+#	194617
+#
+# Disc length: 2847 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=960b1d0b
+DTITLE=Bob Dylan - Subterranean Homesick Blues
+DYEAR=1967
+DGENRE=Country
+TTITLE0=Subterranean Homesick Blues
+TTITLE1=She Belongs To Me
+TTITLE2=Maggie's Farm
+TTITLE3=Love Minus Zero/No Limit
+TTITLE4=Outlaw Blues
+TTITLE5=On The Road Again
+TTITLE6=Bob Dylan's 115th Dream
+TTITLE7=Mr. Tambourine Man
+TTITLE8=Gates Of Eden
+TTITLE9=It's Alright, Ma (I'm Only Bleeding)
+TTITLE10=It's All Over Now, Baby Blue
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

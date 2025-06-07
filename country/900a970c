@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15880
+#	33140
+#	46450
+#	64660
+#	78332
+#	93987
+#	107230
+#	124200
+#	146662
+#	166662
+#	184115
+#
+# Disc length: 2713 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=900a970c
+DTITLE=Townes Van Zandt - Texas Rain - The Texas Hill Country Recordings
+DYEAR=2001
+DGENRE=Country
+TTITLE0=If I Needed You (with Emmylou Harris)
+TTITLE1=Pancho and Lefty (with Freddy Fender, Rubin Ramos and The Texas Revolution)
+TTITLE2=Waiting Around To Die (with Calvin Russell)
+TTITLE3=Blue Wind Blew (with Jerry Jeff Walker)
+TTITLE4=Kathleen (with The Chromatics)
+TTITLE5=No Lonsome Tune (with Willie Nelson)
+TTITLE6=Brother Flower (with Kimmie Rhodes)
+TTITLE7=Two Girls (with Doug Sahm)
+TTITLE8=Marie (with Willie Nelson)
+TTITLE9=Quicksilver Daydreams Of Maria (with Freddy Fender, Rubin Ramos and The Texas Revolution)
+TTITLE10=Snowin' On Raton (with James McMurtry)
+TTITLE11=At My Window (with Kathy Mattea)
+EXTD=YEAR: 2001
+EXTT0=With Emmylou Harris
+EXTT1=With Freddy Fender, Rubin Ranos and The Texas Revolution, Doug Sahm and Augie Meyer
+EXTT2=With Calvin Russell
+EXTT3=With Jerry Jeff Walker
+EXTT4=With The Chromatics
+EXTT5=With Willie Nelson
+EXTT6=With Kimmie Rhodes
+EXTT7=With Doug Sahm
+EXTT8=With Willie Nelson
+EXTT9=With Freddy Fender, Rubin Ranos and The Texas Revolution, Doug Sahm and Augie Meyer
+EXTT10=With James McMurtry
+EXTT11=With Kathy Mattea
+PLAYORDER=

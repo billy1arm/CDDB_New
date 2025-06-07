@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  21112
+#  33700
+#  44510
+#  59250
+#  73462
+#  84660
+#  101100
+#  115810
+#  132537
+#
+# Disc length: 1946 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=9707980a
+DTITLE=Various Artist - Biggest Country Hits of the 90's Vol. 1
+DYEAR=1900
+DGENRE=
+TTITLE0=The American Dream
+TTITLE1=Precious Things
+TTITLE2=All My Old Flames Have New Names
+TTITLE3=Tempted
+TTITLE4=Every Step of the Way
+TTITLE5=Chains
+TTITLE6=One Bridge I Didn't Burn
+TTITLE7=Walk On
+TTITLE8=Even The Man In The Moon Is Crying
+TTITLE9=It's You Again
+EXTD=
+EXTT0=Oakridge Boys\n
+EXTT1=Steve Wariner\n
+EXTT2=Mark Chestnut\n
+EXTT3=Marty Stuart\n
+EXTT4=McBride and The Ride\n
+EXTT5=Patty Loveless
+EXTT6=Conway Twitty\n
+EXTT7=Reba McEntire\n
+EXTT8=Mark Collie\n
+EXTT9=Skip Ewing\n
+PLAYORDER=

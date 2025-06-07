@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15632
+#     29957
+#     42605
+#     55252
+#     69915
+#     82602
+#     96070
+#     107885
+#     121575
+#     132940
+#     144515
+# 
+# Disc length: 2108 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9d083a0c
+DTITLE=Varios - Musica Nacional 3
+DYEAR=1900
+DGENRE=
+TTITLE0=Alondra fugitiva - Olimpo Cardenas
+TTITLE1=Corazon que no olvida - Dr.Eduardo Brito
+TTITLE2=Momentos de dolor - Fausto Gortaire
+TTITLE3=Eso es cari o - Noe Morales
+TTITLE4=Recordando tu olvido - Pepe Jaramillo
+TTITLE5=Como si fuera un ni o - Hugo Enriquez
+TTITLE6=Ay de mi - Olimpo Cardenas
+TTITLE7=Manabi - Dr. Eduardo Brito
+TTITLE8=Gotas de ajenjo - Fausto Gortaire
+TTITLE9=Sinverguenza - Noe Morales
+TTITLE10=Ausencia - Pepe Jaramillo
+TTITLE11=Adios mi vida - Hugo Enriquez
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

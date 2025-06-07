@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     19202
+#     39645
+#     54042
+#     70400
+#     102552
+#     123822
+#     140852
+#     164805
+#     178980
+# 
+# Disc length: 2644 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=960a520a
+DTITLE=Julie Daraiche - La voie de ton coeur
+DYEAR=1900
+DGENRE=
+TTITLE0=La poule a collin
+TTITLE1=Meddley de valse
+TTITLE2=Les quatres rubans
+TTITLE3=La vieille bouteille
+TTITLE4=Le canadien errant
+TTITLE5=La voie de ton coeur
+TTITLE6=Nous on chantent
+TTITLE7=L'enfant que j'ai perdu
+TTITLE8=Moi et paul
+TTITLE9=Mes yeux voiles
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

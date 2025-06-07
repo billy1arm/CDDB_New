@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 182
+# 12940
+# 28885
+# 40672
+# 59012
+# 70637
+# 89357
+# 108797
+# 127337
+# 142002
+# 159807
+# 175147
+#
+# Disc length: 2549 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=9f09f30c
+DTITLE=Terry Radigan - Pawnbroker's Daughter
+DYEAR=1900
+DGENRE=
+TTITLE0=Only Mama that'll Walk the Line
+TTITLE1=1970 #1 Song Cadillac
+TTITLE2=You're Gonna Change
+TTITLE3=Never Gonna Fall in Love Again
+TTITLE4=Half a Million Teardrops
+TTITLE5=Mama's Waitin' Up
+TTITLE6=Sleeping
+TTITLE7=Pawnbroker's Daughter
+TTITLE8=Two Faces Have I
+TTITLE9=Missing You
+TTITLE10=The Right Thing
+TTITLE11=So Wrong for So Long
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

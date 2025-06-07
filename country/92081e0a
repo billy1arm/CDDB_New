@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    150
+#    21830
+#    35562
+#    52290
+#    68117
+#    81150
+#    97755
+#    111237
+#    127140
+#    140117
+#
+# Disc length: 2080 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.4.1  (wjohn@fix.net)
+#
+DISCID=92081e0a
+DTITLE=Various Artist - 
+DTITLE=Greatest Country Hits of the 80's - 1984
+DYEAR=1900
+DGENRE=
+TTITLE0=City Of New Orleans
+TTITLE1=That's The Way Love Goes
+TTITLE2=Mona Lisa Lost Her Smile
+TTITLE3=Honey (Open That Door)
+TTITLE4=Where's The Dress
+TTITLE5=I Don't Want To Be A Memory
+TTITLE6=You've Really Got A Hold On Me
+TTITLE7=Two Car Garage
+TTITLE8=Your Heart's Not In It
+TTITLE9=To All The Girls I've Loved Before
+EXTD=
+EXTT0=Willie Nelson
+EXTT1=Merle Haggard
+EXTT2=David Allan Coe
+EXTT3=Ricky Skaggs
+EXTT4=Moe Bandy and Joe Stampley
+EXTT5=Exile
+EXTT6=Mickey Gilley
+EXTT7=B. J. Thomas
+EXTT8=Janie Frickie
+EXTT9=Willie Nelson and Julio Iglesias
+PLAYORDER=

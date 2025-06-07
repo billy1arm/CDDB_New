@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16293
+#	31323
+#	47395
+#	65243
+#	80743
+#	95020
+#	111523
+#	129455
+#	151975
+#	167115
+#
+# Disc length: 2520 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9109d60b
+DTITLE=Chitãozinho and Xororó - Nossas canções preferidas
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Faz um ano
+TTITLE1=Tenho ciúme de tudo
+TTITLE2=Será que eu sou
+TTITLE3=O último julgamento
+TTITLE4=Galopeira
+TTITLE5=Cheiro de relva
+TTITLE6=Manhã de sol
+TTITLE7=Adeus solidão
+TTITLE8=O que mais você quer de mim
+TTITLE9=Terra querida
+TTITLE10=De coração para coração
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

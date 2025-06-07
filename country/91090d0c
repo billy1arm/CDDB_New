@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12053
+#	24171
+#	36356
+#	52001
+#	66998
+#	86502
+#	103529
+#	118794
+#	137019
+#	152129
+#	165939
+#
+# Disc length: 2319 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=91090d0c
+DTITLE=Slim Dusty/Things I See Around Me
+DYEAR=1900
+DGENRE=
+TTITLE0=Things I see around me
+TTITLE1=Blackened quarts are boiling
+TTITLE2=cop the lot
+TTITLE3=not much to show
+TTITLE4=commerical D.T's
+TTITLE5=Harry Bowden Derelict
+TTITLE6=Smiles
+TTITLE7=Three Rivers Hotel
+TTITLE8=End of the canning stock route
+TTITLE9=Good old days
+TTITLE10=last of the bushman
+TTITLE11=old bull stag
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

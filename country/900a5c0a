@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	161
+#	25903
+#	46346
+#	67314
+#	88636
+#	104919
+#	125192
+#	144725
+#	160143
+#	180071
+#
+# Disc length: 2654 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=900a5c0a
+DTITLE=Délcio Tavares - Italianíssimo vol. III
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Estremi
+TTITLE1=Io Che Amo Solo Te
+TTITLE2=Appassionato
+TTITLE3=Duce de Felicita
+TTITLE4=Tu
+TTITLE5=Encantado Incantatore
+TTITLE6=Rondinella
+TTITLE7=Innanorati
+TTITLE8=Amore Infinito
+TTITLE9=Il Mondo
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

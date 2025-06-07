@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 10720
+# 21512
+# 33665
+# 43260
+# 53552
+# 64782
+# 79012
+# 91050
+# 102652
+# 113860
+# 126097
+#
+# Disc length: 1845 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=9a07330c
+DTITLE=George Jones - The New Favorites Of
+DYEAR=1900
+DGENRE=
+TTITLE0=Three's A Crowd
+TTITLE1=Poor Little Rich Boy
+TTITLE2=Root Beer
+TTITLE3=What Am I Worth
+TTITLE4=She Once Lived Here
+TTITLE5=Imitation Of Love
+TTITLE6=Open Pit Mine
+TTITLE7=Beggar To A King
+TTITLE8=She Thinks I Still Care
+TTITLE9=Running Bear
+TTITLE10=Best Guitar Picker
+TTITLE11=Sometimes You Just Can't Win
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

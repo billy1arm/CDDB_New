@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12123
+#	21381
+#	40713
+#	51004
+#	72677
+#	84961
+#	101169
+#	114557
+#	128167
+#	150049
+#	162398
+#
+# Disc length: 2351 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta8
+#
+DISCID=90092d0c
+DTITLE=John Miller - Hey There
+DYEAR=2004
+DGENRE=Country
+TTITLE0=Hey There
+TTITLE1=Wonder Why
+TTITLE2=Old Folks
+TTITLE3=Namely You
+TTITLE4=Baltimore Oriole
+TTITLE5=Bye Bye Blackbird
+TTITLE6=The Very Thought of You
+TTITLE7=When I See You
+TTITLE8=I Could Write A Book
+TTITLE9=The Nearness of You
+TTITLE10=I Thought About You
+TTITLE11=Moon River
+EXTD=YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

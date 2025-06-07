@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13050
+#     24442
+#     37815
+#     51065
+#     63880
+#     81512
+#     99777
+#     115567
+#     130597
+#     137575
+#     149542
+# 
+# Disc length: 2163 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=9008710c
+DTITLE=Doc Watson - Ballads From Deep Gap
+DYEAR=1900
+DGENRE=country
+TTITLE0=Roll in My Sweet Baby's Arms
+TTITLE1=My Rough and Rowdy Ways
+TTITLE2=The Wreck of the Old Number 9
+TTITLE3=Gambler's Yodel
+TTITLE4=The Cuckoo
+TTITLE5=Stack O'Lee
+TTITLE6=Willie Moore
+TTITLE7=Travelin' Man
+TTITLE8=The Tragic Romance
+TTITLE9=Texas Gales (instr.)
+TTITLE10=The Lawson Family Murder
+TTITLE11=Alabama Bound
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

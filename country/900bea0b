@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17378
+#	37381
+#	62037
+#	80275
+#	103555
+#	124448
+#	143381
+#	163034
+#	182425
+#	206813
+#
+# Disc length: 3052 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=900bea0b
+DTITLE=Rodney Crowell - Fate's Right Hand
+DYEAR=2005
+DGENRE=Country
+TTITLE0=Still Learning How To Fly
+TTITLE1=Fate's Right Hand
+TTITLE2=Earthbound
+TTITLE3=Time To Go Inward
+TTITLE4=The Man In Me
+TTITLE5=Ridin' Out The Storm
+TTITLE6=Preachin' To The Choir
+TTITLE7=It's A Different World Now
+TTITLE8=Come On Funny Feelin'
+TTITLE9=Adam's Song
+TTITLE10=This Too Will Pass
+EXTD=YEAR: 2005 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

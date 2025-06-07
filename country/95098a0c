@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  15551
+#  31110
+#  46180
+#  59202
+#  80462
+#  93090
+#  108098
+#  119395
+#  137845
+#  153627
+#  163211
+#
+# Disc length: 2444 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: KiC 2.1 - (C) 1996-1998 Alwin Hoogerdijk
+#
+DISCID=95098a0c
+DTITLE=Richard Greene and The Grass Is Greener - Sales Tax Toddle
+DYEAR=1900
+DGENRE=
+TTITLE0=Drunken Man's Dream
+TTITLE1=Along About Daybreak
+TTITLE2=Sales Tax Toddle
+TTITLE3=With Body and Soul
+TTITLE4=Done Gone Waltz
+TTITLE5=My Little Georgia Rose
+TTITLE6=I'll Be Sixteen Next Sunday
+TTITLE7=Close By
+TTITLE8=16 Days in Georgia
+TTITLE9=Last Ride
+TTITLE10=No One But My Darlin'
+TTITLE11=Little Rabbit
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	24424
+#	44968
+#	63541
+#	88693
+#	107770
+#	126371
+#	146288
+#	171962
+#	192944
+#	233446
+#
+# Disc length: 3362 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=980d200b
+DTITLE=Chute Nine - Love and Hate
+DYEAR=2005
+DGENRE=Country
+TTITLE0=1. Do You Still Do It
+TTITLE1=2. The Night The Boys Went Out
+TTITLE2=3. Call That Girl
+TTITLE3=4. 80 Acres
+TTITLE4=5. Hound Dog
+TTITLE5=6. Every Breth You Take
+TTITLE6=7. Reason Enough
+TTITLE7=8. Can You Fill That
+TTITLE8=9. Music American
+TTITLE9=10. Space Filler for Hedden Track, no music
+TTITLE10=11. You Aint Seen Nothin Like it - 2005
+EXTD=YEAR: 2005 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  14322
+#  25360
+#  36130
+#  47870
+#  60297
+#  71407
+#  82477
+#  92287
+#  102650
+#  111820
+#  124332
+#
+# Disc length: 1787 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=9f06f90c
+DTITLE=Lester Flatt and Earl Scruggs - Songs Of The Famous Carter Family
+DYEAR=1900
+DGENRE=
+TTITLE0=Keep On The Sunny Side
+TTITLE1=Foggy Mountain Top
+TTITLE2=False-Hearted Lover
+TTITLE3=Jimmy Brown The Newsboy
+TTITLE4=You Are My Flower
+TTITLE5=On The Rock Where Moses Stood
+TTITLE6=Forsaken Love
+TTITLE7=The Homestead On The Farm
+TTITLE8=Pickin' In The Wildwood
+TTITLE9=Worried Man Blues
+TTITLE10=The Storms Are On The Ocean
+TTITLE11=Gathering Flowers From The Hillside
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

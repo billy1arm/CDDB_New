@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	13370
+#	25827
+#	37715
+#	49610
+#	60547
+#	72900
+#	84105
+#	95700
+#	105645
+#	117965
+#	130250
+#
+# Disc length: 1900 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=94076a0c
+DTITLE=Hank Williams Sr. - A Country Legend Volume 3
+DYEAR=1900
+DGENRE=
+TTITLE0=Wedding Bells
+TTITLE1=Cold Cold Heart
+TTITLE2=Long Gone Lonesome Blues
+TTITLE3=Why Should We Try Anymore
+TTITLE4=Moanin' The Blues
+TTITLE5=Howlin' At The Moon
+TTITLE6=Crazy Heart
+TTITLE7=Baby, We're Really In Love
+TTITLE8=Honky Tonk Blues
+TTITLE9=Half As Much
+TTITLE10=Your Cheatin' Heart
+TTITLE11=I Saw The Light
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

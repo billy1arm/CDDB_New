@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13965
+#     31250
+#     48515
+#     65045
+#     78605
+#     94348
+#     110423
+#     127325
+#     142228
+# 
+# Disc length: 2081 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9a081f0a
+DTITLE=Chapman, Cee Cee - Twist Of Fate
+DYEAR=1900
+DGENRE=
+TTITLE0=Frontier Justice
+TTITLE1=Twist Of Fate
+TTITLE2=You Lie
+TTITLE3=Waitin' For The Deal To Go Down
+TTITLE4=The End Of A Heartache
+TTITLE5=Gone But Not Forgotten
+TTITLE6=Rainbow Rider
+TTITLE7=Love Is A Liar
+TTITLE8=Back To Santa Fe
+TTITLE9=A Winter's Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

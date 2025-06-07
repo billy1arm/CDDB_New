@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13685
+#	22512
+#	38320
+#	54360
+#	70110
+#	95090
+#	107917
+#	118462
+#	136282
+#	169705
+#	186025
+#
+# Disc length: 2759 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.5
+#
+DISCID=940ac50c
+DTITLE=Graymalkin - Das Zeltfest
+DYEAR=1900
+DGENRE=
+TTITLE0=Beim Kesslerwirt
+TTITLE1=Das Zeltfest
+TTITLE2=Lied kaputt
+TTITLE3=Da Teifl
+TTITLE4=Einfacher - Bettlleit
+TTITLE5=S 35
+TTITLE6=Grasllied
+TTITLE7=Nussdorfer Drahdiham
+TTITLE8=Perspektiven
+TTITLE9=Streckenstillegung
+TTITLE10=Wida daham
+TTITLE11=vuam hamfoahn
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

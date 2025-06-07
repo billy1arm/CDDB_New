@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     15657
+#     30772
+#     47870
+#     62737
+#     78862
+#     93592
+#     104495
+#     120522
+#     137232
+#     156015
+#     170150
+# 
+# Disc length: 2601 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=950a270c
+DTITLE=Jim Lauderdale - Every Second Counts
+DYEAR=1900
+DGENRE=
+TTITLE0=It's Time When It's Time
+TTITLE1=That's Not The Way It Works
+TTITLE2=Don't Build Your World Around It
+TTITLE3=Always On The Outside
+TTITLE4=Charmed
+TTITLE5=Fireball
+TTITLE6=Every Second Counts
+TTITLE7=Echo
+TTITLE8=Ready To Ramble
+TTITLE9=I'm Still Learning How To Crawl
+TTITLE10=If You Look Real Close
+TTITLE11=Bluebell
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

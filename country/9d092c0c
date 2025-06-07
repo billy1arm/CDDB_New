@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12330
+#     26045
+#     39895
+#     53452
+#     67862
+#     88607
+#     103382
+#     118797
+#     135187
+#     147600
+#     155847
+# 
+# Disc length: 2350 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9d092c0c
+DTITLE=Saunders - Kane and Del - Tea For Three
+DYEAR=1900
+DGENRE=
+TTITLE0=Precious Darling
+TTITLE1=Here Comes The Sun
+TTITLE2=Like Love
+TTITLE3=Pearls of Wisdom
+TTITLE4=The Light
+TTITLE5=Red Roses
+TTITLE6=Bright Side
+TTITLE7=Eternal Flame
+TTITLE8=Bluegrass Love
+TTITLE9=Dreaming
+TTITLE10=Hit City Hot City
+TTITLE11=I Shall be Released
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

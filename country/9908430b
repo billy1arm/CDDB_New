@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     17582
+#     29552
+#     41915
+#     58347
+#     72562
+#     87867
+#     101532
+#     116775
+#     129257
+#     144057
+# 
+# Disc length: 2117 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9908430b
+DTITLE=Various Artist - 70's Hits Country
+DYEAR=1900
+DGENRE=
+TTITLE0=All For The Love Of Sunshine
+TTITLE1=Don't It Make My Brown Eyes Blue
+TTITLE2=If We Make It Through December
+TTITLE3=Blanket On The Ground
+TTITLE4=Big In Vegas
+TTITLE5=I'm Not Lisa
+TTITLE6=Southern Nights
+TTITLE7=Love In The Hot Afternoon
+TTITLE8=Thats Why I Love You Like I Do
+TTITLE9=The Letter That Johnny Walker Read
+TTITLE10=If I Said You Had A Beautiful Body
+EXTD=
+EXTT0=Hank William's Jr.\n
+EXTT1=Crystal Gayle\n
+EXTT2=Merle Haggard\n
+EXTT3=Billie Joe Spears\n
+EXTT4=Buck Owens\n
+EXTT5=Jessi Coulter\n
+EXTT6=Glen Campbell\n
+EXTT7=Gene Watson\n
+EXTT8=Sonny James\n
+EXTT9=Asleep At The Wheel\n
+EXTT10=Bellamy Bros.\n
+PLAYORDER=

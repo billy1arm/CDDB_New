@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13192
+#	23377
+#	35075
+#	45027
+#	57400
+#	67805
+#	81900
+#	94455
+#	105360
+#	118230
+#	127452
+#
+# Disc length: 1846 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9c07340c
+DTITLE=Jim Reeves - Distant Drums
+DYEAR=1900
+DGENRE=
+TTITLE0=Distant Drums
+TTITLE1=Is It Really Over?
+TTITLE2=I Missed Me
+TTITLE3=Snow Flake
+TTITLE4=A Letter To My Heart
+TTITLE5=Losing Your Love
+TTITLE6=This Is It
+TTITLE7=Not Until The Next Time
+TTITLE8=Good Morning Self
+TTITLE9=Where Does A Broken Heart Go?
+TTITLE10=Overnight
+TTITLE11=The Gods Were Angry With Me
+EXTD=Produced By Chet Atkins
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

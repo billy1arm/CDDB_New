@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  9411
+#  26510
+#  37277
+#  49328
+#  63203
+#  75514
+#  92165
+#  104108
+#  116972
+#  127304
+#
+# Disc length: 1852 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Advanced CD Ripper Pro 2.0
+#
+DISCID=9c073a0b
+DTITLE=David Allan Coe - Ive Got Something To Say
+DYEAR=2004
+DGENRE=
+TTITLE0=Track01
+TTITLE1=Track02
+TTITLE2=Track03
+TTITLE3=Track04
+TTITLE4=Track05
+TTITLE5=Track06
+TTITLE6=Track07
+TTITLE7=Track08
+TTITLE8=Track09
+TTITLE9=Track10
+TTITLE10=Track11
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

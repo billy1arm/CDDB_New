@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	180
+# 	16345
+# 	30425
+# 	44790
+# 	56925
+# 	70705
+# 	88665
+# 	100975
+# 	118405
+# 	133055
+# 	150815
+# 	166910
+#
+# Disc length: 2413 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=9e096b0c
+DTITLE=Marco Paulo - Eu tenho dois amores
+DYEAR=1900
+DGENRE=
+TTITLE0=Eu tenho dois amores
+TTITLE1=Sou tão feliz
+TTITLE2=Canção proibída
+TTITLE3=Tu és mulher não és uma santa
+TTITLE4=Ninguém, Ninguém
+TTITLE5=Mulher sentimental
+TTITLE6=Tão amantes que nós fomos
+TTITLE7=O mais feliz do mundo
+TTITLE8=Love Story
+TTITLE9=Amar é saber perdoar
+TTITLE10=Anita
+TTITLE11=Quem vier por bem
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

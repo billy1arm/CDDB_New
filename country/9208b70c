@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15865
+#     30032
+#     43745
+#     56570
+#     71312
+#     88120
+#     94895
+#     101922
+#     121770
+#     140897
+#     153982
+# 
+# Disc length: 2233 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9208b70c
+DTITLE=Diversos - Fiesta de los Andes
+DYEAR=1900
+DGENRE=
+TTITLE0=El Condor Pasa
+TTITLE1=Mama India
+TTITLE2=Monte Punku
+TTITLE3=Amanecer
+TTITLE4=El canto del sicuri
+TTITLE5=El mambo
+TTITLE6=Fiesta del Senor
+TTITLE7=Galopera
+TTITLE8=Guarania para una Estrella
+TTITLE9=Anoranza de mi tierra
+TTITLE10=Tambores del Uruguai
+TTITLE11=El Humahuaqueno
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

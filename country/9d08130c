@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15447
+#	28205
+#	41770
+#	53325
+#	66910
+#	79120
+#	93727
+#	103327
+#	114525
+#	129537
+#	142650
+#
+# Disc length: 2069 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=9d08130c
+DTITLE=Doyle Lawson And Quicksilver - Treasures Money Can't Buy
+DYEAR=1900
+DGENRE=
+TTITLE0=You've Been An Inspiration To Me
+TTITLE1=Treasures That Money Can't Buy
+TTITLE2=Journey To The Son
+TTITLE3=No Other Fountain
+TTITLE4=He Must Have Loved Me A Lot
+TTITLE5=Buckle Of The Bible Belt
+TTITLE6=Angel Unaware
+TTITLE7=It's Alright
+TTITLE8=Praising The Risen Lamb
+TTITLE9=He Satisfies
+TTITLE10=Just A Little Talk With Jesus
+TTITLE11=Somewhere In Heaven
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

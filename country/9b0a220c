@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11105
+#	25080
+#	46252
+#	64947
+#	80812
+#	98445
+#	113807
+#	131802
+#	144492
+#	159110
+#	178877
+#
+# Disc length: 2596 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=9b0a220c
+DTITLE=Green Hill Instrumental Classic - Nashville Country 2
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Chattahoochee
+TTITLE1=All My Ex's Live In Texas
+TTITLE2=Friends In Low Places
+TTITLE3=Crazy
+TTITLE4=Forever and Ever, Amen
+TTITLE5=I Will Always Love You
+TTITLE6=Independence Day
+TTITLE7=Look At Us
+TTITLE8=Killin Time
+TTITLE9=El Paso
+TTITLE10=I Swear
+TTITLE11=King Of The Road
+EXTD=YEAR: 1999 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

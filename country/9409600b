@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15982
+#	36777
+#	53752
+#	70210
+#	86735
+#	94922
+#	118220
+#	131505
+#	146142
+#	160195
+#
+# Disc length: 2402 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9409600b
+DTITLE=Carolyn Mark - Party Girl
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Don't Come Over Baby
+TTITLE1=Edmonton
+TTITLE2=In A Valley
+TTITLE3=Not Another Other Woman
+TTITLE4=Both Ways
+TTITLE5=Leaning on the Everlasting Arms
+TTITLE6=The Way Back
+TTITLE7=Unlisted
+TTITLE8=Hazy Memory
+TTITLE9=Moonbeam
+TTITLE10=Small Victory
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

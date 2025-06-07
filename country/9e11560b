@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23450
+#	41696
+#	64215
+#	81463
+#	104051
+#	119071
+#	139509
+#	160115
+#	180452
+#	209724
+#
+# Disc length: 4440 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9e11560b
+DTITLE=Madredeus - Faluas Do Tejo
+DYEAR=2005
+DGENRE=Fado
+TTITLE0=Lisboa Rainha do Mar
+TTITLE1=Fado das Dúvidas
+TTITLE2=Adoro Lisboa
+TTITLE3=Névoas da Madrugada
+TTITLE4=Faluas do Tejo
+TTITLE5=No Meu Jardim (Sementes à Terra)
+TTITLE6=O Cais Distante
+TTITLE7=Na Estrada de Santiago
+TTITLE8=Lá de Fora
+TTITLE9=O Canto da Saudade (PAM)
+TTITLE10=COPY PROTECTION (Data Track)
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

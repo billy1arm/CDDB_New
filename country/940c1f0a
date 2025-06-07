@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19565
+#	45945
+#	65850
+#	86985
+#	116985
+#	145370
+#	181650
+#	202842
+#	216612
+#
+# Disc length: 3105 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=940c1f0a
+DTITLE=Dan Crary - Guitar
+DYEAR=1900
+DGENRE=
+TTITLE0=Cotton Patch Rag
+TTITLE1=Stanley Brothers Medley
+TTITLE2=Sweet Laree
+TTITLE3=Memories Of Mozart
+TTITLE4=The Green In The Blue Medley
+TTITLE5=Tom and Jerry
+TTITLE6=Bill Monroe Medley
+TTITLE7=Sally Ann
+TTITLE8=The Blackbird
+TTITLE9=Foggy Mountain Special
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

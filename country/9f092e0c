@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13295
+#	24762
+#	40402
+#	53969
+#	68812
+#	80935
+#	93344
+#	107357
+#	118608
+#	132365
+#	161862
+#
+# Disc length: 2352 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=9f092e0c
+DTITLE=Gordon Lightfoot - The Way I Feel
+DYEAR=1974
+DGENRE=Country
+TTITLE0=Walls
+TTITLE1=If You Got It
+TTITLE2=Softly
+TTITLE3=Crossroads
+TTITLE4=A Minor Ballad
+TTITLE5=Go-Go Round
+TTITLE6=Rosanna
+TTITLE7=Home From The Forest
+TTITLE8=I'll Be Allright
+TTITLE9=Song For A Winter's Night
+TTITLE10=Canadian Railroad Trilogy
+TTITLE11=The Way I Feel
+EXTD=YEAR: 1974 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

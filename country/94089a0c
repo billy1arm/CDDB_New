@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10620
+#	21117
+#	28458
+#	43724
+#	60719
+#	70392
+#	84624
+#	99106
+#	113329
+#	123313
+#	137589
+#
+# Disc length: 2204 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta5_freedb
+#
+DISCID=94089a0c
+DTITLE=Junkyard Dogs - Good Livin' Platter
+DYEAR=1900
+DGENRE=
+TTITLE0=Good Livin'
+TTITLE1=View From Here
+TTITLE2=Drug Store
+TTITLE3=Breakin' The Law
+TTITLE4=Unwanted Man
+TTITLE5=Ambition
+TTITLE6=Born To Cry
+TTITLE7=Gates Of Steel
+TTITLE8=Lightning Bar Blues
+TTITLE9=Evil Runs Free
+TTITLE10=I Wanna Be Your Boyfriend
+TTITLE11=Mudhead
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

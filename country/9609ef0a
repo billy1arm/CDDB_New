@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  19010
+#  37001
+#  51667
+#  70152
+#  89130
+#  104956
+#  121648
+#  140502
+#  173238
+#
+# Disc length: 2545 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Advanced CD Ripper Pro 2.0
+#
+DISCID=9609ef0a
+DTITLE=Albert Lee - Road Runner
+DYEAR=2006
+DGENRE=Country
+TTITLE0=(I'm A ) Road Runner
+TTITLE1=I'll Stop Loving You
+TTITLE2=Rock Of Your Love
+TTITLE3=Julie's House
+TTITLE4=Didn't Start Livin'
+TTITLE5=The Moon Is A Harsh Mistress
+TTITLE6=Livin' It Down
+TTITLE7=Working On Love
+TTITLE8=Payola Blues
+TTITLE9=Dimming Of The Day
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

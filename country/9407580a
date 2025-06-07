@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     12505
+#     28250
+#     41625
+#     58345
+#     74560
+#     86085
+#     99055
+#     112167
+#     126480
+# 
+# Disc length: 1882 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9407580a
+DTITLE=Waylon Jennings - New Classic Waylon
+DYEAR=1900
+DGENRE=
+TTITLE0=Working Without A Net
+TTITLE1=Will The Wolfe Survive
+TTITLE2=What You'll Do When I'm Gone
+TTITLE3=Rose In Paradise
+TTITLE4=Fallin' Out
+TTITLE5=Rough And Roudy Days
+TTITLE6=If Ole Hank Could Only See Us Now
+TTITLE7=How Much Is  Worth To Live In L.A.
+TTITLE8=Which way Do I Go (Now That I'm Gone)
+TTITLE9=Trouble Man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	17523
+# 	28038
+# 	51743
+# 	65240
+# 	82825
+# 	100853
+# 	120395
+# 	138490
+# 	151383
+# 	161963
+# 	183790
+#
+# Disc length: 2728 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=9d0aa60c
+DTITLE=Willie Nelson - His Very Best
+DYEAR=1900
+DGENRE=
+TTITLE0=Stardust
+TTITLE1=Blue Eyes Crying In The Rain
+TTITLE2=Me and Bobby McGee
+TTITLE3=I Love You A Thousand Ways
+TTITLE4=All  Of Me
+TTITLE5=Help Me Make It Through The Night
+TTITLE6=Georgia On My Mind
+TTITLE7=Red Headed Stranger
+TTITLE8=Me And Paul
+TTITLE9=Island In The Sea
+TTITLE10=City Of New Orleans
+TTITLE11=Uncloudy Day
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

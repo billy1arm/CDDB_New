@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17594
+#	32230
+#	47924
+#	63835
+#	76454
+#	88765
+#	105069
+#	121031
+#	138770
+#	156645
+#	176153
+#
+# Disc length: 2573 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=920a0b0c
+DTITLE=Shania Twain - All Fired Up, No Place To Go
+DYEAR=2007
+DGENRE=Country
+TTITLE0=All Fired Up, No Place To Go
+TTITLE1=Wild And Wicked
+TTITLE2=The Heart Is Blind
+TTITLE3=ForThe Love
+TTITLE4=Bite My Lip
+TTITLE5=Two Hearts One Love
+TTITLE6=Luv Eyes
+TTITLE7=Send It With Love
+TTITLE8=It's Alright
+TTITLE9=Hate to Love
+TTITLE10=Lost My Heart
+TTITLE11=Don't Give Me That
+EXTD=YEAR: 2007 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

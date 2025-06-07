@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20344
+#	30194
+#	46915
+#	60454
+#	71891
+#	91001
+#	102539
+#	115746
+#	130633
+#	149775
+#	164618
+#
+# Disc length: 2371 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9f09410c
+DTITLE=Georges Hamel - Chansons du Patrimoine - volume 2
+DYEAR=2003
+DGENRE=Country
+TTITLE0=Grand-maman
+TTITLE1=Simples oeillets
+TTITLE2=Les noces de diamant
+TTITLE3=La mer argentée
+TTITLE4=Un songe avant l'aurore
+TTITLE5=L'automne dans ma vallée
+TTITLE6=Au clair de la lune
+TTITLE7=À tes noces
+TTITLE8=Des roses pour maman
+TTITLE9=Le soleil d'avril
+TTITLE10=Petit Pierre
+TTITLE11=J'ai passé mon enfance
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

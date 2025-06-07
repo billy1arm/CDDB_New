@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20477
+#	35977
+#	48372
+#	64475
+#	78562
+#	102162
+#	120947
+#	140702
+#	158965
+#	179292
+#
+# Disc length: 2579 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=990a110b
+DTITLE=Norma O'Hara Murphy - Sweet Rain
+DYEAR=1995
+DGENRE=Country
+TTITLE0=Rain
+TTITLE1=Other Woman
+TTITLE2=Grandad
+TTITLE3=Do You Ever
+TTITLE4=Life Is What You Make It
+TTITLE5=Glenrowan
+TTITLE6=Roughrider
+TTITLE7=Blood Red Rose
+TTITLE8=Old FJ
+TTITLE9=Melbourne Cup
+TTITLE10=Everybody Please Go Home
+EXTD=YEAR: 1995 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

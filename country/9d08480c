@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     14015
+#     29445
+#     44525
+#     55870
+#     70295
+#     83392
+#     96320
+#     109820
+#     123512
+#     138270
+#     151852
+# 
+# Disc length: 2122 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9d08480c
+DTITLE=Eddy Arnold - Christmas Time
+DYEAR=1900
+DGENRE=
+TTITLE0=Put A Ribbon In Your Hair
+TTITLE1=The Christmas Song
+TTITLE2=Christmas Can't Be Far Away
+TTITLE3=Joy To The World
+TTITLE4=One Christmas Eve Long Ago
+TTITLE5=Oh Christmas Tree/Jingle Bells
+TTITLE6=Away In The Manger
+TTITLE7=I'll Be Home For Christmas
+TTITLE8=Just Like Christmas
+TTITLE9=Here Come Santa Claus
+TTITLE10=Oh Come All Ye Faithful
+TTITLE11=Silent Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

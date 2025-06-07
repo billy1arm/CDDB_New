@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+# Track frame offsets: 
+# 150
+# 12129
+# 25741
+# 39773
+# 56653
+# 70130
+# 82896
+# 94247
+# 109365
+# 123565
+# 140921
+# 156063
+# 
+# Disc length: 2221 seconds
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: MusicMatchJukebox 5.00.0142
+# 
+DISCID=9908ab0c
+DTITLE=David Peterson and 1946 - The Howling Blue Winds
+DYEAR=1900
+DGENRE=
+TTITLE0=New Pair Of Glasses
+TTITLE1=Wall Around My Heart
+TTITLE2=Have You Come To Say Goodbye
+TTITLE3=The Drunkard's Hell
+TTITLE4=The Howling Blue Winds
+TTITLE5=I'll Never Take No For An Answer
+TTITLE6=Reno Bound
+TTITLE7=Foggy River
+TTITLE8=That Home Above
+TTITLE9=Freight Train Blues
+TTITLE10=Midnight Tears
+TTITLE11=You'd Better Get Right
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

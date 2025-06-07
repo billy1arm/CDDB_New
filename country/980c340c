@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20375
+#     30980
+#     71657
+#     88782
+#     109180
+#     154730
+#     177150
+#     196005
+#     205547
+#     221217
+#     229110
+# 
+# Disc length: 3126 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=980c340c
+DTITLE=Banda Sinfonica Metropolitana De quito, Orquesta de Instrumentos Andi
+DTITLE=nos, Coro Mixto Ciudad de Quito - Musica Sacra Ecuatoriana
+DYEAR=1900
+DGENRE=
+TTITLE0=Salve Regina
+TTITLE1=Ave Maria
+TTITLE2=La muerte de Pedro Carbo
+TTITLE3=Kyrie
+TTITLE4=Gloria
+TTITLE5=Credo
+TTITLE6=Sanctus y Benedictus
+TTITLE7=Agnus Dei
+TTITLE8=Se or ten piedad
+TTITLE9=Gloria
+TTITLE10=Santo
+TTITLE11=Cordero de Dios
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

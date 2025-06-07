@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	11650
+# 	24262
+# 	40550
+# 	56450
+# 	69550
+# 	89012
+# 	97262
+# 	108687
+# 	119812
+# 	131612
+#
+# Disc length: 1858 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=9907400b
+DTITLE=Various Artist - Giant Country Christmas Volume 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Rockin' Little Christmas
+TTITLE1=Blue Christmas
+TTITLE2=Star Of Bethlehem
+TTITLE3=The Christmas Song
+TTITLE4=I'll Be Home For Christmas
+TTITLE5=Reason For The Season
+TTITLE6=Santa's On Vacation
+TTITLE7=Walk All The Way To Memphis
+TTITLE8=The Working Elf Blues
+TTITLE9=Christmas Angel
+TTITLE10=A Mighty Fortress/angles We Have Heard On High
+EXTD=
+EXTT0=Carlene Carter
+EXTT1=Clay Walker
+EXTT2=Rhonda Vincent
+EXTT3=Kenny Rogers
+EXTT4=Laura Vida
+EXTT5=Orrall and Wright
+EXTT6=Dennis Robbins
+EXTT7=Deborah Allen
+EXTT8=Doron Norwood
+EXTT9=Chad Mullins
+EXTT10=
+PLAYORDER=

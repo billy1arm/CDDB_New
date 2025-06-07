@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14920
+#     27985
+#     37580
+#     52157
+#     64622
+#     75662
+#     91840
+#     105117
+#     120352
+#     133155
+#     145127
+# 
+# Disc length: 2137 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9308570c
+DTITLE=Varios - Rancheras 4 Mexico por siempre
+DYEAR=1900
+DGENRE=
+TTITLE0=No soy monedita de oro
+TTITLE1=Fallaste corazon
+TTITLE2=La cama de piedra
+TTITLE3=Anillo de compromiso
+TTITLE4=La cigarra
+TTITLE5=El tiempo que te quede libre
+TTITLE6=Cucurrucucu paloma
+TTITLE7=A medias de la noche
+TTITLE8=La noche de mi mal
+TTITLE9=Adios mariquita linda
+TTITLE10=Tu camino y el mio
+TTITLE11=Paloma negra
+EXTD=
+EXTT0=
+EXTT1=\n\n\n
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14102
+#	28300
+#	43690
+#	58455
+#	72252
+#	86662
+#	103230
+#	120537
+#	133965
+#
+# Disc length: 1980 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=9d07ba0a
+DTITLE=Dana McVicker - Dana McVicker
+DYEAR=1900
+DGENRE=
+TTITLE0=That Ain't Love
+TTITLE1=Rock-A-Bye Heart
+TTITLE2=Call Me a Fool
+TTITLE3=I Know That Car
+TTITLE4=I'm Linely for You Only
+TTITLE5=I'm Loving the Wrong Man Again
+TTITLE6=Two Women, One Man
+TTITLE7=Let's Keep It That Way
+TTITLE8=It's All So New to Me
+TTITLE9=Wrong End of the Rainbow
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

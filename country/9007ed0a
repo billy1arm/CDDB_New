@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14015
+#     28027
+#     42587
+#     57040
+#     71397
+#     87385
+#     103487
+#     118392
+#     132000
+# 
+# Disc length: 2031 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=9007ed0a
+DTITLE=Steve Hill - Gold Highway
+DYEAR=1900
+DGENRE=
+TTITLE0=Gold Highway
+TTITLE1=I'll Go On
+TTITLE2=Chapter Of Life
+TTITLE3=Different Rivers Run
+TTITLE4=Flip Side Of Love
+TTITLE5=Well Enough
+TTITLE6=Long Gone
+TTITLE7=If You Leave Me Now
+TTITLE8=Blue Moon Rising
+TTITLE9=God's Plan
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

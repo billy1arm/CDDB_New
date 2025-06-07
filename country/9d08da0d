@@ -1,0 +1,57 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13157
+#  28100
+#  43052
+#  58520
+#  71695
+#  84695
+#  94650
+#  105147
+#  114605
+#  127695
+#  142580
+#  153410
+#
+# Disc length: 2268 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=9d08da0d
+DTITLE=Jim Lauderdale - Whisper
+DYEAR=1900
+DGENRE=country
+TTITLE0=Goodbye Song
+TTITLE1=Whisper
+TTITLE2=Sometimes
+TTITLE3=Take Me Down A Path (My Heart Won't Know)
+TTITLE4=She Used To Say That To Me
+TTITLE5=In Harm's Way
+TTITLE6=Without You Here It's Not The Same
+TTITLE7=It's Hard To Keep A Secret Anymore
+TTITLE8=We're Gone
+TTITLE9=What Do You Say To That
+TTITLE10=You're Tempting Me
+TTITLE11=Hole In My Head
+TTITLE12=I'll Lead You Home (Featuring Ralph Stanley and the Clinch Mount
+TTITLE12=ain Boys)
+EXTD=
+EXTT0=Lauderdale, Jim
+EXTT1=Lauderdale, Jim
+EXTT2=Lauderdale, Jim
+EXTT3=Lauderdale, Jim
+EXTT4=Lauderdale, Jim
+EXTT5=Lauderdale, Jim
+EXTT6=Lauderdale, Jim
+EXTT7=Lauderdale, Jim
+EXTT8=Lauderdale, Jim
+EXTT9=Lauderdale, Jim
+EXTT10=Lauderdale, Jim
+EXTT11=Lauderdale, Jim
+EXTT12=Lauderdale, Jim
+PLAYORDER=

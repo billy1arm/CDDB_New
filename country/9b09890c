@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18125
+#	34912
+#	46600
+#	61650
+#	77900
+#	92937
+#	109312
+#	123387
+#	140162
+#	153562
+#	170537
+#
+# Disc length: 2443 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=9b09890c
+DTITLE=Roland Cedermark - Den Första Gång Jag Såg Dej
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Så Länge Solen Ger Oss Ljus
+TTITLE1=Kom Hem Igen, Kära Vän
+TTITLE2=Den Första Gång Jag Såg Dej
+TTITLE3=Min Ros Til Dej
+TTITLE4=Höstvisa
+TTITLE5=Du Ska Tro Mej
+TTITLE6=En Famn Full Av Kärlek
+TTITLE7=Får Jag Lämna Några Blommor
+TTITLE8=Ville
+TTITLE9=Minnet Av Dej Har Jag Kvar
+TTITLE10=Kärleken Gör  Dej Vimsig Och Yr
+TTITLE11=Nocturne
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

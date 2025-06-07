@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     11100
+#     25160
+#     34315
+#     44822
+#     55622
+#     68030
+#     79967
+#     90357
+#     100642
+#     115735
+#     125470
+# 
+# Disc length: 1805 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=95070b0c
+DTITLE=Jim Reeves - Greatest Hits from Jim Reeves
+DYEAR=1900
+DGENRE=
+TTITLE0=Welcome to My World
+TTITLE1=This Is It
+TTITLE2=I Won't Forget You
+TTITLE3=He'll Have To Go
+TTITLE4=I Guess I'm Crazy
+TTITLE5=I Love You Because
+TTITLE6=Am I Losing You
+TTITLE7=Losing Your Love
+TTITLE8=I'm Getting Better
+TTITLE9=Blue Side of Lonesome
+TTITLE10=Is This Me?
+TTITLE11=Is It Really Over?
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

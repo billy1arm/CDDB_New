@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16840
+#	30293
+#	43360
+#	57273
+#	78338
+#	96968
+#	111720
+#	124040
+#	139755
+#	156110
+#	172830
+#
+# Disc length: 2538 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9709e80c
+DTITLE=Wild West - Another Chance At Yesterday
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Think You're The One
+TTITLE1=I'm Doin' Life
+TTITLE2=Another Chance At Yesterday
+TTITLE3=Too Late To Run
+TTITLE4=Mama Says
+TTITLE5=When You Were Mine
+TTITLE6=This Freedom's Killing Me
+TTITLE7=If This Is What Love Is About
+TTITLE8=Bottle And The Glass
+TTITLE9=Big Boys Never Cry
+TTITLE10=This Time I'll Pass
+TTITLE11=Instrumental Version This Time I'll Pass
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	14768
+#	25943
+#	40358
+#	52128
+#	67140
+#	83643
+#	96803
+#	108565
+#	119220
+#
+# Disc length: 1807 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=93070d0a
+DTITLE=Jodle Birge - Tusind Røde Roser
+DYEAR=1900
+DGENRE=
+TTITLE0=Tusind røde roser
+TTITLE1=Jeg venter ved min telefon
+TTITLE2=Onkel Tom
+TTITLE3=Måneskin
+TTITLE4=Tre små ord
+TTITLE5=Nørby's slot
+TTITLE6=Kom hjem til  mig
+TTITLE7=Når en mand er forelsket
+TTITLE8=Intercity 10:00
+TTITLE9=Rigtige venner
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

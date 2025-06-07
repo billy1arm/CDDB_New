@@ -1,0 +1,57 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12240
+#     27765
+#     41562
+#     54762
+#     70212
+#     83637
+#     94512
+#     105765
+#     116490
+#     127290
+#     138087
+#     150315
+# 
+# Disc length: 2190 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=90088c0d
+DTITLE=George Jones and Tammy Wynette - The Best Of George Jones and Tammy Wynet
+DTITLE=te-Disk 2
+DYEAR=1900
+DGENRE=
+TTITLE0=It's An Old Love Thing
+TTITLE1=All I Have To Offer You Is Me
+TTITLE2=Golden Ring
+TTITLE3=Let's Build A World Together
+TTITLE4=The World Needs A Melody
+TTITLE5=We're Gonna Hold On
+TTITLE6=After The Fire Is Gone
+TTITLE7=We Go Together
+TTITLE8=Take Me
+TTITLE9=Never Ending Song Of Love
+TTITLE10=Near You
+TTITLE11=Two Story House
+TTITLE12=The Ceremony
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

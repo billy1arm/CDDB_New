@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17335
+#	29260
+#	46717
+#	60870
+#	76380
+#	94482
+#	112980
+#	131890
+#	148812
+#	164375
+#	188632
+#
+# Disc length: 4770 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9412a00c
+DTITLE=Vonda Shepard - Chinatown
+DYEAR=2002
+DGENRE=Pop
+TTITLE0=Rainy Days
+TTITLE1=Chinatown
+TTITLE2=My Whole World
+TTITLE3=Lose My Way
+TTITLE4=Rain Or Shine
+TTITLE5=Downtime
+TTITLE6=Gyroscope
+TTITLE7=In July
+TTITLE8=The Sunset Marquis
+TTITLE9=7 Days
+TTITLE10=Promising Grey Day
+TTITLE11=Data Track (Copy Protection)
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14138
+#	25913
+#	35223
+#	47250
+#	55263
+#	69480
+#	80460
+#	95655
+#	109123
+#	127108
+#
+# Disc length: 1846 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.50
+#
+DISCID=9707340b
+DTITLE=Bob Paisley and the Southern Grass - No Vacancy
+DYEAR=1900
+DGENRE=
+TTITLE0=No Vacancy
+TTITLE1=Have I Stayed Away Too Long
+TTITLE2=Whose Shoulder Will You Cry On
+TTITLE3=I Still Got 99
+TTITLE4=Fiddler's Dream
+TTITLE5=Dig a Hole in the Meadow
+TTITLE6=Mother Knows Best
+TTITLE7=At the End of a Long Lonely Day
+TTITLE8=Sundown and Sorrow
+TTITLE9=Don't Let Me Cross Over
+TTITLE10=Turkey Hill
+EXTD=The Band\nBob Paisley - Lead and tenor vocals, rhythm guitar\nDan Paisl
+EXTD=ey - Vocals, guitar\nMichael Paisley - Bass\nSteve Huber - Baritone voc
+EXTD=al harmony, Banjo\nJack Leiderman - Fiddle, mandolin
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

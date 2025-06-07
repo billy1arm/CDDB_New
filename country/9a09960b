@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#    150
+#    17970
+#    36450
+#    53075
+#    72745
+#    87132
+#    101440
+#    109910
+#    130805
+#    148547
+#    169660
+#
+# Disc length: 2456 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.4.4b  (wjohn@fix.net)
+#
+DISCID=9a09960b
+DTITLE=Cathryn Craig - 
+DTITLE=Cathryn Craig
+DYEAR=1900
+DGENRE=
+TTITLE0=runnin from love
+TTITLE1=talk to you
+TTITLE2=are you out there
+TTITLE3=never
+TTITLE4=colorado
+TTITLE5=love coming down on me
+TTITLE6=my window faces the south
+TTITLE7=new paint
+TTITLE8=voyager
+TTITLE9=if you don't weaken
+TTITLE10=alone again tonight
+EXTD=Goldrush - GOLDCD002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

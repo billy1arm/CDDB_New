@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	17587
+# 	37882
+# 	56760
+# 	68315
+# 	85087
+# 	97440
+# 	114660
+# 	127920
+# 	141967
+# 	161447
+# 	178862
+#
+# Disc length: 2632 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4
+#
+DISCID=9b0a460c
+DTITLE=Various Artist - Thai Country Love
+DYEAR=1900
+DGENRE=
+TTITLE0=Country Love
+TTITLE1=Promise before gone
+TTITLE2=When tide is down, a bird is singing
+TTITLE3=10,000
+TTITLE4=Love sucks
+TTITLE5=A lot of good-lookin'
+TTITLE6=Open your heart
+TTITLE7=Slut
+TTITLE8=When a bird is singing, I'm sad
+TTITLE9=Wait for me
+TTITLE10=Good bye, my friend
+TTITLE11=So Selfish
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

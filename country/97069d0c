@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11617
+#	21060
+#	30212
+#	42075
+#	52432
+#	64512
+#	70110
+#	81645
+#	92805
+#	103087
+#	117045
+#
+# Disc length: 1695 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD2 v3.00 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=97069d0c
+DTITLE=Willie Nelson - Night Life
+DYEAR=1900
+DGENRE=
+TTITLE0=Night Life
+TTITLE1=Right from Wrong
+TTITLE2=Waiting Time
+TTITLE3=I'll Stay Around
+TTITLE4=Broken Promises
+TTITLE5=Happiness Lives Next Door
+TTITLE6=The Ghost
+TTITLE7=I'm Gonna Lose a Lot of Teardrops
+TTITLE8=Go Away
+TTITLE9=Pride Wins Again
+TTITLE10=No Tomorrow in Sight
+TTITLE11=A Now Way to Cry
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

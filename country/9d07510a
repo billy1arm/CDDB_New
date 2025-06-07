@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    183
+#    14180
+#    28168
+#    43065
+#    57115
+#    67163
+#    86850
+#    99413
+#    112383
+#    125908
+#
+# Disc length: 1875 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.1.9  (wjohn@fix.net)
+#
+DISCID=9d07510a
+DTITLE=Gene Watson - Back In The Fire
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Waste It On The Blues
+TTITLE1=Dreams Of A Dreamer
+TTITLE2=Somewhere Over You
+TTITLE3=Back In The Fire
+TTITLE4=Ain't No Fun To Be Alone In San Antone
+TTITLE5=The Great Divide
+TTITLE6=Just How Little I Know
+TTITLE7=She Found The Key
+TTITLE8=The Jukebox Played Along
+TTITLE9=When A Fool Learns
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

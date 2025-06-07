@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#     150
+#     16060
+#     31957
+#     47502
+#     71315
+#     85667
+#     105790
+#     123855
+#     138337
+#     159985
+#     175812
+#     195415
+#     208425
+#
+# Disc length: 2873 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: Clarion 0.9.4
+#
+DISCID=970b370d
+DTITLE=The Permanent Cure - Country Archives
+DYEAR=1900
+DGENRE=
+TTITLE0=My Yellow Rose Of Texas
+TTITLE1=Paradise
+TTITLE2=Doh Ray Me
+TTITLE3=He'll Have To Go
+TTITLE4=How The Years Have Flown
+TTITLE5=Longhaired Country Boy
+TTITLE6=I'm So Lonesome I Could Cry
+TTITLE7=Don't Fall In Love With Me Darlin'
+TTITLE8=Copperhead Road
+TTITLE9=New York Town
+TTITLE10=Banks Of The Ohio
+TTITLE11=Blaze Of Glory
+TTITLE12=Victory Rag
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11325
+#     28827
+#     42247
+#     53220
+#     70825
+#     86317
+#     105130
+#     116985
+#     133350
+#     150432
+#     164220
+# 
+# Disc length: 2392 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9a09560c
+DTITLE=Anne Kirkpatrick - Cry Like A Man
+DYEAR=1900
+DGENRE=
+TTITLE0=You Can Believe In Me
+TTITLE1=Many Mothers
+TTITLE2=Goin' Strong, Goin' Wrong
+TTITLE3=Are You Wasting My Time
+TTITLE4=Change Your Name
+TTITLE5=She's Goin' Again
+TTITLE6=The Heart Of The Land
+TTITLE7=Old Home Town
+TTITLE8=Hit and Run
+TTITLE9=Cry Like A Man
+TTITLE10=Forever Never Felt So Far Away
+TTITLE11=That's All You Ever Got From me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

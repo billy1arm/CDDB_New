@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19302
+#     36487
+#     46925
+#     60070
+#     70045
+#     85817
+#     100912
+#     116155
+#     128555
+#     143930
+#     161355
+# 
+# Disc length: 2372 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9909420c
+DTITLE=Various Artist - Romantic Guitar For Lovers
+DYEAR=1900
+DGENRE=
+TTITLE0=Waiting For A Girl Like You
+TTITLE1=I Just Call To Say I Love You
+TTITLE2=A Time For Us
+TTITLE3=Besame Mucho
+TTITLE4=L'espagnole
+TTITLE5=Scarborough Fair
+TTITLE6=Romance De Amour
+TTITLE7=Te Vaglio Tanto Bene
+TTITLE8=It's Now or Never
+TTITLE9=Telephone Me!
+TTITLE10=La Boheme
+TTITLE11=Woman In Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

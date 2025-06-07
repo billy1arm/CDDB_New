@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14850
+#     37800
+#     57075
+#     70577
+#     84677
+#     101400
+#     113555
+#     131400
+#     144825
+#     156377
+#     177480
+# 
+# Disc length: 2572 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=990a0a0c
+DTITLE=Ian McNamara - Macca Tracks
+DYEAR=1900
+DGENRE=
+TTITLE0=I Took My Trombone To Tamworth
+TTITLE1=The Man With The Big Hat
+TTITLE2=I'll Ask Her
+TTITLE3=Dongalongarook
+TTITLE4=My Old Black Billy
+TTITLE5=Fry Me Kangaroo Brown
+TTITLE6=Black Stump Stomp
+TTITLE7=The Timeless Land
+TTITLE8=Holden Ute
+TTITLE9=Cootamundra (On The Main Trunk Line)
+TTITLE10=Pennies From Heaven
+TTITLE11=The Stringybark Tree
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     15690
+#     27282
+#     42505
+#     57382
+#     71050
+#     85965
+#     100377
+#     113640
+#     131622
+#     144070
+# 
+# Disc length: 2102 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9408340b
+DTITLE=Charley Pride - Best of Chrley Pride
+DYEAR=1900
+DGENRE=
+TTITLE0=WHOLE LOTTA LOVE ON THE LINE
+TTITLE1=SAIL AWAY
+TTITLE2=MOODY WOMAN
+TTITLE3=WHITE HOUSES
+TTITLE4=CAN'T STOP THE MISSISSIPPI
+TTITLE5=HEAVEN HELP US ALL
+TTITLE6=I MADE LOVE TO YOU IN MY MIND
+TTITLE7=AFTER ME, AFTER YOU
+TTITLE8=THE MORE I DO
+TTITLE9=YOU PUT IT THERE
+TTITLE10=AMY'S EYES
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

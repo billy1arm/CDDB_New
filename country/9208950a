@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19970
+#     36812
+#     54627
+#     71450
+#     87672
+#     102610
+#     117397
+#     133380
+#     151297
+# 
+# Disc length: 2199 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=9208950a
+DTITLE=Steve Hill - Feathers And Stone
+DYEAR=1900
+DGENRE=
+TTITLE0=For The Love Of A Woman
+TTITLE1=Living On The Edge
+TTITLE2=I Know You Know
+TTITLE3=I'm Still Alive
+TTITLE4=Hurricane
+TTITLE5=El Camino Royal
+TTITLE6=Small Town
+TTITLE7=Jack
+TTITLE8=Train From Santa Fe
+TTITLE9=Run Boy Run
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

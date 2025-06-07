@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15400
+#	32150
+#	47400
+#	58900
+#	82050
+#	98175
+#	114087
+#	131075
+#	144950
+#	159575
+#	177650
+#
+# Disc length: 2575 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=9b0a0d0c
+DTITLE=Olivia Newton-John - Let Me Be There (Import)
+DYEAR=1974
+DGENRE=Country
+TTITLE0=Take Me Home Country Roads
+TTITLE1=Amoureuse
+TTITLE2=Brotherly Love
+TTITLE3=Heartbreaker
+TTITLE4=Rosewater
+TTITLE5=You Ain't Got The Right
+TTITLE6=Feeling Best
+TTITLE7=Being On The Loosing End
+TTITLE8=Let Me Be There
+TTITLE9=Music Makes My Day
+TTITLE10=Leaving
+TTITLE11=If We Try
+EXTD=YEAR: 1974 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10554
+#	28140
+#	49784
+#	63699
+#	78545
+#	89352
+#	101073
+#	115204
+#	129072
+#	140841
+#	154077
+# Disc length: 2409 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.744
+#
+DISCID=9c09670c
+DTITLE=Hooverville - Lucky Rabbit's Foot
+DYEAR=1900
+DGENRE=
+TTITLE0=Lucky Rabbit's Foot
+TTITLE1=Alston Lynne
+TTITLE2=Bended Knee
+TTITLE3=Sangre De Cristo
+TTITLE4=Don't Forget Your Station
+TTITLE5=Southbound Train
+TTITLE6=One Hundred Thousand Stars
+TTITLE7=Lover's Prayer
+TTITLE8=Better Than You
+TTITLE9=Red Clay Farm
+TTITLE10=Between the Lines
+TTITLE11=Fairly Good Man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

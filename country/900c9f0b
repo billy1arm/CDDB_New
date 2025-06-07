@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24345
+#	57255
+#	75710
+#	89250
+#	113462
+#	131237
+#	146827
+#	170222
+#	191960
+#	225782
+#
+# Disc length: 3233 seconds
+#
+# Revision: 12
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=900c9f0b
+DTITLE=The Allman Brothers Band - The Best of The Allman Brothers Band
+DYEAR=2000
+DGENRE=Southern Rock
+TTITLE0=Whipping Post
+TTITLE1=Dreams
+TTITLE2=Revival
+TTITLE3=Midnight Rider
+TTITLE4=Hot 'Lanta
+TTITLE5=Melissa
+TTITLE6=Stand Back
+TTITLE7=Blue Sky
+TTITLE8=Ramblin' Man
+TTITLE9=Jessica
+TTITLE10=Crazy Love
+EXTD=YEAR: 2000 ID3G:  56
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13625
+#	27101
+#	43783
+#	69220
+#	84725
+#	104356
+#	122539
+#	136407
+#	156170
+#	175183
+#	195474
+#
+# Disc length: 2871 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=940b350c
+DTITLE=Wilco - Wilco (The Album) [Bonus Track]
+DYEAR=2009
+DGENRE=Country
+TTITLE0=Wilco (The Song)
+TTITLE1=Deeper Down
+TTITLE2=One Wing
+TTITLE3=Bull Black Nova
+TTITLE4=You And I
+TTITLE5=You Never Know
+TTITLE6=Country Disappeared
+TTITLE7=Solitaire
+TTITLE8=I'll Fight
+TTITLE9=Sunny Feeling
+TTITLE10=Everlasting Everything
+TTITLE11=Dark Neon
+EXTD=YEAR: 2009
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

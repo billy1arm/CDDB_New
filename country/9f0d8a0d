@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17290
+#	40285
+#	58382
+#	88372
+#	103715
+#	118047
+#	143425
+#	157680
+#	174267
+#	197362
+#	208045
+#	229560
+#
+# Disc length: 3468 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9f0d8a0d
+DTITLE=Heritage - A Christmas Heritage
+DYEAR=1900
+DGENRE=
+TTITLE0=Greensleeves
+TTITLE1=Christmas Eve
+TTITLE2=In the Bleak Midwinter
+TTITLE3=Gypsy Winter
+TTITLE4=O Come, O Come Emmanuel
+TTITLE5=The Promise of Spring
+TTITLE6=It Came Upon a Midnight Clear
+TTITLE7=Newgrange
+TTITLE8=Charity
+TTITLE9=On a Quiet Night
+TTITLE10=Patapan
+TTITLE11=Shalom Aleichem/Breakin' Up Christmas
+TTITLE12=Go Tell It On The Mountain
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

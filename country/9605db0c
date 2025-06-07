@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12605
+#	18423
+#	25405
+#	36400
+#	43733
+#	54325
+#	63075
+#	68818
+#	77110
+#	84400
+#	102175
+#
+# Disc length: 1501 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=9605db0c
+DTITLE=Buck Owens - You're For Me
+DYEAR=1900
+DGENRE=country
+TTITLE0=House Down The Block
+TTITLE1=Blue Love
+TTITLE2=You're For Me
+TTITLE3=Down On The Corner Of Love
+TTITLE4=Please Don't Take Her From Me
+TTITLE5=It Don't Show On Me
+TTITLE6=Why Don't Mommy Stay With Daddy and Me
+TTITLE7=Three Dimension Love
+TTITLE8=Honeysuckle
+TTITLE9=That Ain't Right Baby
+TTITLE10=Leavin' Dirty Tracks
+TTITLE11=After The Dance
+EXTD=Submitted by WinSkol\n\nCountry
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

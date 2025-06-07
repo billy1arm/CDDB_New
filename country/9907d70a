@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     12155
+#     29215
+#     43313
+#     56705
+#     74558
+#     90188
+#     104908
+#     118905
+#     135745
+# 
+# Disc length: 2009 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=9907d70a
+DTITLE=Karen Staley - Wildest Dreams
+DYEAR=1900
+DGENRE=country
+TTITLE0=So Good To Be In Love
+TTITLE1=Tumbleweed
+TTITLE2=Give Me One Good Reason
+TTITLE3=That's Not The Kind Of Love I Need Tonight
+TTITLE4=Now and Then
+TTITLE5=He Thinks He's James Dean
+TTITLE6=Wildest Dreams
+TTITLE7=Looks Like Rain
+TTITLE8=Only The Heart
+TTITLE9=Keep Walkin' On
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

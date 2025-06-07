@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16005
+#	34953
+#	48773
+#	71090
+#	84510
+#	97275
+#	116455
+#	128658
+#	139810
+#	153683
+#
+# Disc length: 2241 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9108bf0b
+DTITLE=Elba Ramalho - Remexer
+DYEAR=1900
+DGENRE=
+TTITLE0=Remexer
+TTITLE1=So Se For a Dois
+TTITLE2=Sonho de Uma Noite de Verao
+TTITLE3=Odile, Odila
+TTITLE4=Boca do Balao
+TTITLE5=Nenem Mulher
+TTITLE6=Chorando e Cantando
+TTITLE7=Forro temperado
+TTITLE8=Vestido Suado
+TTITLE9=Sai da Frente
+TTITLE10=Caia na Real
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

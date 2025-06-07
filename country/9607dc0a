@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	12707
+# 	27957
+# 	45320
+# 	57585
+# 	74132
+# 	87675
+# 	101752
+# 	116865
+# 	135385
+#
+# Disc length: 2014 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=9607dc0a
+DTITLE=John Anderson - Paradise
+DYEAR=1900
+DGENRE=
+TTITLE0=Paradise
+TTITLE1=Long hard lesson learned
+TTITLE2=The band plays on
+TTITLE3=My kind of crazy
+TTITLE4=Let the guitar do the talkin'
+TTITLE5=30,000 feet
+TTITLE6=It wouldn't kill me
+TTITLE7=Love comes back around
+TTITLE8=Bad weather
+TTITLE9=They spent forever
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

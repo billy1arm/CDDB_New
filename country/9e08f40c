@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17493
+#	31938
+#	44103
+#	57100
+#	72008
+#	86818
+#	99370
+#	114115
+#	127360
+#	141105
+#	154133
+#
+# Disc length: 2294 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=9e08f40c
+DTITLE=Lecia - For altid
+DYEAR=1900
+DGENRE=
+TTITLE0=Har du glemt (har du?)
+TTITLE1=Bli'r det nogensinde os 2?
+TTITLE2=For altid
+TTITLE3=Drømmer lidt om dig
+TTITLE4=I morgen
+TTITLE5=Cowgirl-medley
+TTITLE6=Ligge ved siden af dig
+TTITLE7=Doktor, doktor
+TTITLE8=En smule kærlighed
+TTITLE9=Hold mig fast
+TTITLE10=Sig mig
+TTITLE11=Det bedste ved kærlighed
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13048
+#	27970
+#	42358
+#	63470
+#	79878
+#	107748
+#	132658
+#	150530
+#	173018
+#	183623
+#	204333
+#
+# Disc length: 2874 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=9f0b380c
+DTITLE=Bob Dylan - Billboard Hits U.S.A.
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Blowin`In The Wind
+TTITLE1=The Times They Are A-Changing
+TTITLE2=I Want You
+TTITLE3=Rainy Day Woman
+TTITLE4=It Ain`t Me Babe
+TTITLE5=Like A Rolling Stone
+TTITLE6=Mr. Tamboutine Man
+TTITLE7=Positively 4th Street
+TTITLE8=Just Like A Woman
+TTITLE9=Subterranean Homesick Blues
+TTITLE10=Master Of War
+TTITLE11=Knockin`On Heaven`s Door
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

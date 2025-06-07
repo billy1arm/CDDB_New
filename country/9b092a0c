@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	14315
+#	29027
+#	51370
+#	66347
+#	81740
+#	87162
+#	97967
+#	120407
+#	137235
+#	159255
+#	168770
+#
+# Disc length: 2348 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.07
+#
+DISCID=9b092a0c
+DTITLE=John Denver - Aerie
+DYEAR=1900
+DGENRE=
+TTITLE0=Starwood In Aspen
+TTITLE1=Everyday
+TTITLE2=Casey's Last Ride
+TTITLE3=City Of New Orleans
+TTITLE4=Friends With You
+TTITLE5=60 Second Song For A Bank
+TTITLE6=Blow Up Your TV
+TTITLE7=All Of My Memories
+TTITLE8=She Won't Let Me Fly Away
+TTITLE9=Readjustment Blues
+TTITLE10=The Eagle And The Hawk
+TTITLE11=Tools
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	16295
+# 	33142
+# 	52295
+# 	72665
+# 	87515
+# 	103197
+# 	119072
+# 	134792
+# 	153977
+#
+# Disc length: 2234 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=9708b80a
+DTITLE=James Blundell - Hand It Down
+DYEAR=1900
+DGENRE=
+TTITLE0=Age Of Grace
+TTITLE1=Time On His Hand
+TTITLE2=The Blue Heeler
+TTITLE3=Water
+TTITLE4=Rock Me
+TTITLE5=Hand It Down
+TTITLE6=There Walks A Man
+TTITLE7=I'm Afraid
+TTITLE8=Meanwhile
+TTITLE9=Across The Mile
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

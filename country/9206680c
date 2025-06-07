@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9438
+#	11442
+#	21782
+#	34291
+#	44686
+#	57095
+#	68893
+#	83968
+#	93983
+#	104447
+#	112983
+#
+# Disc length: 1642 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=9206680c
+DTITLE=Henry Mancini, Al Hirt and Perez Prado - 3 Great Bands
+DYEAR=1963
+DGENRE=Rock
+TTITLE0=Tender is the Night
+TTITLE1=Bluesy
+TTITLE2=Blueberry Hill
+TTITLE3=Pick Yourself Up
+TTITLE4=Caravan
+TTITLE5=I Only Have Eyes for You
+TTITLE6=Till There Was You
+TTITLE7=In a Mellow Tone
+TTITLE8=It's a Long, Long Way to Tipperary
+TTITLE9=The World Is Waiting for the Sunrise
+TTITLE10=Para Mi
+TTITLE11=L'hippopotame
+EXTD=ID3G:  17 YEAR: 1963
+EXTT0=Henry Mancini
+EXTT1=Henry Mancini
+EXTT2=Al Hirt
+EXTT3=Al Hirt
+EXTT4=Perez Prado
+EXTT5=Perez Prado
+EXTT6=Henry Mancini
+EXTT7=Henry Mancini
+EXTT8=Al Hirt
+EXTT9=Al Hirt
+EXTT10=Perez Prado
+EXTT11=Perez Prado
+PLAYORDER=

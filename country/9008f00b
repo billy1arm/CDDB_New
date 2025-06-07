@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12572
+#	28110
+#	43702
+#	61010
+#	75297
+#	89652
+#	105732
+#	119045
+#	134542
+#	151497
+#
+# Disc length: 2290 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=9008f00b
+DTITLE=Dolly Parton - Eagle When She Flies
+DYEAR=1991
+DGENRE=Country
+TTITLE0=If You Need Me
+TTITLE1=Rockin' Years (duet Ricky Van Shelton)
+TTITLE2=Country Road
+TTITLE3=Silver And Gold
+TTITLE4=Eagle When She Flies
+TTITLE5=Best Woman Wins (duet Lorrie Morgan)
+TTITLE6=What A Heartache
+TTITLE7=Runaway Feelin'
+TTITLE8=Dreams Do Come True
+TTITLE9=Family
+TTITLE10=Wildest Dreams
+EXTD=YEAR: 1991 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

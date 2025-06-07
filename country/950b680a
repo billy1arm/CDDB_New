@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	24020
+#	42952
+#	59225
+#	73652
+#	110137
+#	125040
+#	140115
+#	158962
+#	181002
+#
+# Disc length: 2922 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=950b680a
+DTITLE=Alabama - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=She And I
+TTITLE1=Mountain Music
+TTITLE2=Feels So Right
+TTITLE3=Old Flame
+TTITLE4=Tennessee River
+TTITLE5=Love In The First Degree
+TTITLE6=40 Hour Week(For A Livin')
+TTITLE7=Why Lady Why
+TTITLE8=The Fans
+TTITLE9=My Home's In Alabama
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

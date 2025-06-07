@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21600
+#     39082
+#     55157
+#     71550
+#     85475
+#     101752
+#     118920
+#     139462
+#     153190
+#     167455
+# 
+# Disc length: 2431 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=95097d0b
+DTITLE=Lee Greenwood - If Only For One Night
+DYEAR=1900
+DGENRE=
+TTITLE0=If Only For One Night
+TTITLE1=I Go Crazy
+TTITLE2=Opinion On Love
+TTITLE3=I Love The Way He Left You
+TTITLE4=We Fell In Love Anyway
+TTITLE5=Any Way The Law Allows
+TTITLE6=Comin' Apart At The Dreams
+TTITLE7=My Heart Is On The Line
+TTITLE8='Til Then
+TTITLE9=Home To Alaska
+TTITLE10=God Bless Canada
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

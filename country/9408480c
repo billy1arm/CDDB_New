@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19117
+#	30435
+#	43682
+#	57482
+#	80000
+#	93037
+#	103790
+#	120480
+#	131042
+#	143265
+#	156352
+#
+# Disc length: 2122 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=9408480c
+DTITLE=Bill Monroe and The Bluegrass Boys - Live At The Opry
+DYEAR=1900
+DGENRE=
+TTITLE0=New Mule Skinner Blues
+TTITLE1=Molly And Tenbrooks
+TTITLE2=Footprints In The Snow
+TTITLE3=Sittin' Alone In The Moonlight
+TTITLE4=Precious Memories
+TTITLE5=Rawhide
+TTITLE6=My Sweet Darlin'
+TTITLE7=In The Pines
+TTITLE8=Love, Please Come Home
+TTITLE9=Pike County Breakdown
+TTITLE10=I'm Working On A Building
+TTITLE11=Theme
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

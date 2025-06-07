@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	13240
+#	22807
+#	34952
+#	48145
+#	59317
+#	71612
+#	84022
+#	93052
+#	104060
+#	116805
+#	126890
+#
+# Disc length: 1794 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9507000c
+DTITLE=Hank Williams Jr. and Hank Williams Sr. - Gospel Favorites
+DYEAR=1995
+DGENRE=Gospel
+TTITLE0=A House Of Gold
+TTITLE1=Wait For The Light To Shine
+TTITLE2=I'm Gonna Sing
+TTITLE3=Jesus, Don't Give Up On Me
+TTITLE4=Wealth Won't Save Your Soul
+TTITLE5=Calling You
+TTITLE6=I Saw The Light
+TTITLE7=I'm Going Home
+TTITLE8=The Prodigal Son
+TTITLE9=When God Comes And Gathers His Jewels
+TTITLE10=Are You Building A Temple In Heaven
+TTITLE11=Jesus Is Calling
+EXTD=YEAR: 1995
+EXTT0=Hank Williams, Jr.
+EXTT1=Hank Williams, Jr.
+EXTT2=Hank Williams, Jr.
+EXTT3=Hank Williams, Jr.
+EXTT4=Hank Williams, Jr.
+EXTT5=Hank Williams, Jr.
+EXTT6=Hank Williams, Sr.
+EXTT7=Hank Williams, Sr.
+EXTT8=Hank Williams, Sr.
+EXTT9=Hank Williams, Sr.
+EXTT10=Hank Williams, Sr.
+EXTT11=Hank Williams, Sr.
+PLAYORDER=

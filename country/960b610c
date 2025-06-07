@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15545
+#	29607
+#	44549
+#	63944
+#	77327
+#	93563
+#	109019
+#	128921
+#	144115
+#	158588
+#	179101
+#
+# Disc length: 2915 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=960b610c
+DTITLE=Paul Hébert - Les pauvres riches
+DYEAR=2007
+DGENRE=Country
+TTITLE0=Mon bateau de papier
+TTITLE1=Les pauvres riches
+TTITLE2=La même rengaine
+TTITLE3=Maître musicien
+TTITLE4=The White Horse Breakdown
+TTITLE5=Le printemps
+TTITLE6=Tu est la seule
+TTITLE7=Tourterelle
+TTITLE8=Bonjour Bonheur
+TTITLE9=Victoria
+TTITLE10=La fin
+TTITLE11=Petite Marie
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

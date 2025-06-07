@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11742
+#	26480
+#	42382
+#	57531
+#	70980
+#	84056
+#	97886
+#	113084
+#	126317
+#	138888
+#	155128
+#
+# Disc length: 2237 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9c08bb0c
+DTITLE=El Chapo - Tu, Yo y La Luna
+DYEAR=2006
+DGENRE=Country
+TTITLE0=Tu, Yo y La Luna
+TTITLE1=Para Que Regreses
+TTITLE2=Pa' Que Rebuelcas El Agua
+TTITLE3=Si Yo Fuera Ladrón
+TTITLE4=Morenita Piel Canela
+TTITLE5=Jineteando
+TTITLE6=Recostada En La Cama
+TTITLE7=Entre Cobijas
+TTITLE8=Ladrona
+TTITLE9=Amarla Es Un Placer
+TTITLE10=Corazon De Mi Amor
+TTITLE11=Quiero Contigo
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10084
+#	21534
+#	33631
+#	49942
+#	62642
+#	76043
+#	95083
+#	106852
+#	119837
+#	138320
+#
+# Disc length: 2152 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.30 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9308660b
+DTITLE=Dead Crickets - Two Tons of Steel
+DYEAR=1900
+DGENRE=
+TTITLE0=Two Tons of Steel
+TTITLE1=Lovely Senorita
+TTITLE2=There Goes My Baby
+TTITLE3=Lonely Love
+TTITLE4=Transparent Heart
+TTITLE5=Woman of Love
+TTITLE6=No Comfort
+TTITLE7=Three Words
+TTITLE8=You Can Count on Me
+TTITLE9=Heart Won't Say Goodbye
+TTITLE10=Take Me Now
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

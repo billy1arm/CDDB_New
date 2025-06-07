@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12392
+#	21879
+#	31930
+#	46315
+#	60833
+#	74495
+#	88463
+#	99560
+#	110832
+#	121775
+#
+# Disc length: 1787 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9006f90b
+DTITLE=Johnny Cash - Any Old Wind That Blows
+DYEAR=1973
+DGENRE=Country
+TTITLE0=Any Old Wind That Blows
+TTITLE1=Kentucky Straight
+TTITLE2=The Loving Gift
+TTITLE3=The Good Earth
+TTITLE4=Best Friend
+TTITLE5=Oney
+TTITLE6=The Ballad Of Annie Palmer
+TTITLE7=Too Little, Too Late
+TTITLE8=If I Had A Hammer
+TTITLE9=Country Trash
+TTITLE10=Welcome Back Jesus
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12145
+#     26715
+#     41975
+#     59022
+#     74347
+#     89545
+#     103410
+#     118300
+#     136412
+# 
+# Disc length: 2007 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=9a07d50a
+DTITLE=John Schneider - John Schneider's Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=I've been around enough to know
+TTITLE1=Country Girls
+TTITLE2=It's a short walk from heaven to hell
+TTITLE3=I'm gonna leave you tomorrow
+TTITLE4=What's a memory like you (doing in a love like this)
+TTITLE5=You're the last thing I needed tonight
+TTITLE6=At the sound of the tone
+TTITLE7=Take the long way home
+TTITLE8=Love, You ain't seen the last of me
+TTITLE9=If it was anyone but you
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

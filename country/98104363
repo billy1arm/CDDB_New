@@ -1,0 +1,314 @@
+# xmcd
+#
+# Track frame offsets:
+# 150
+# 1804
+# 4711
+# 7873
+# 12195
+# 15024
+# 18137
+# 20228
+# 21707
+# 23456
+# 25808
+# 31308
+# 33745
+# 36906
+# 40323
+# 43621
+# 46193
+# 48772
+# 51027
+# 54108
+# 56692
+# 59988
+# 64187
+# 68778
+# 71728
+# 75176
+# 79187
+# 82642
+# 85972
+# 88669
+# 92653
+# 96167
+# 101502
+# 106549
+# 110567
+# 113048
+# 118163
+# 123150
+# 127057
+# 130839
+# 132786
+# 135878
+# 141639
+# 143346
+# 146321
+# 149035
+# 151161
+# 153524
+# 159130
+# 162660
+# 165657
+# 169287
+# 172467
+# 174531
+# 176530
+# 178028
+# 179946
+# 182987
+# 186976
+# 191690
+# 197545
+# 202252
+# 204839
+# 206575
+# 211203
+# 214608
+# 218679
+# 221953
+# 225861
+# 229010
+# 233961
+# 236916
+# 238965
+# 242046
+# 244754
+# 246667
+# 248630
+# 251057
+# 254160
+# 256910
+# 259536
+# 262862
+# 265679
+# 268393
+# 270808
+# 273156
+# 275413
+# 277752
+# 280499
+# 282836
+# 285462
+# 288826
+# 291086
+# 293087
+# 295795
+# 301150
+# 302774
+# 305200
+# 308529
+#
+# Disc length: 4165 seconds
+#
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.90 
+#
+DISCID=98104363
+DTITLE=Verschiedene Vögel - Vogelstimmen-CD Vögel in Europa Rob Hume
+DYEAR=2007
+DGENRE=Vocal
+TTITLE0=Prachttaucher Balzrufe
+TTITLE1=Zwergtaucher I Rufe II Rufe Winter
+TTITLE2=Eissturmvogel Rufe im Nest
+TTITLE3=Rohrdommel Rufe
+TTITLE4=Graureiher I Flugruf II Rufe Altvogel
+TTITLE5=Höckerschwan I Warnruf II Rufe Jungvogel
+TTITLE6=Singschwan Rufe
+TTITLE7=Zwergschwan Rufe
+TTITLE8=Kurzschnabelgans Rufe
+TTITLE9=Graugans Rufe
+TTITLE10=Kanadagans I Rufe II Rufe Schwarm
+TTITLE11=Ringelgans Rufe
+TTITLE12=Stockente I Quaken Ente II Rufe Küken
+TTITLE13=Pfeifente I Rufe II Rufe
+TTITLE14=Wanderfalke I Rufe II Warnrufe am Nest
+TTITLE15=Rebhuhn I Gesang männchen II Rufe
+TTITLE16=Wachtel Gesang
+TTITLE17=Fasan Rufe
+TTITLE18=Wachtelkönig Gesang
+TTITLE19=Teichhuhn Rufe
+TTITLE20=Blässhuhn I Rufe II Rufe Küken
+TTITLE21=Austernfischer I Trillerbalz II Rufe
+TTITLE22=Sandregenpfeifer Flugruf
+TTITLE23=Kiebitzregenpfeifer Rufe
+TTITLE24=Goldregenpfeifer I Rufe II Rufe Sommer
+TTITLE25=Kiebitz I Flugruf II Rufe
+TTITLE26=Alpenstrandläufer I Rufe II Altvogel, Kontaktrufe
+TTITLE27=Flussuferläufer I Rufe
+TTITLE28=Waldwasserläufer I Rufe II Flugruf
+TTITLE29=Rotschenkel Flugruf
+TTITLE30=Grünschenkel Rufe
+TTITLE31=Großer Brachvogel I Rufe II Gesang
+TTITLE32=Bekassine I Meckern II Flugruf
+TTITLE33=Lachmöwe I Rufe Schwarm II Rufe
+TTITLE34=Silbermöwe Rufe
+TTITLE35=Dreizehenmöwe Rufe Kolonie
+TTITLE36=Flussseeschwalbe I Rufe II Altvogel, Kontaktrufe
+TTITLE37=Hohltaube Gesang
+TTITLE38=Ringeltaube Gesang
+TTITLE39=Türkentaube Gesang
+TTITLE40=Turteltaube Gesang
+TTITLE41=Waldkauz I Gesang II Rufe
+TTITLE42=Schleiereule Rufe
+TTITLE43=Ziegenmelker Gesang
+TTITLE44=Mauersegler Rufe
+TTITLE45=Wiedehopf Gesang
+TTITLE46=Grünspecht Rufe
+TTITLE47=Buntspecht I Trommeln, Rufe II Flugruf
+TTITLE48=Feldlerche I Gesang II Rufe
+TTITLE49=Haubenlerche Rufe
+TTITLE50=Heidelerche Gesang
+TTITLE51=Rauchschwalbe Gesang
+TTITLE52=Wiesenpieper Gesang
+TTITLE53=Baumpieper Gesang
+TTITLE54=Bachstelze Rufe
+TTITLE55=Schafstelze Rufe
+TTITLE56=Gebirgsstelze Rufe
+TTITLE57=Zaunkönig Gesang
+TTITLE58=Heckenbraunelle Gesang
+TTITLE59=Rotkehlchen I Gesang II Rufe
+TTITLE60=Nachtigall Gesang
+TTITLE61=Hausrotschwanz Gesang
+TTITLE62=Schwarzkehlchen Rufe
+TTITLE63=Singdrossel Gesang
+TTITLE64=Misteldrossel Gesang
+TTITLE65=Amsel Gesang
+TTITLE66=Gartengrasmücke Gesang
+TTITLE67=Mönchsgrasmücke Gesang
+TTITLE68=Schilfrohrsänger Gesang
+TTITLE69=Teichrohrsänger Gesang
+TTITLE70=Drosselrohrsänger Gesang
+TTITLE71=Seidensänger Gesang
+TTITLE72=Fitis Gesang
+TTITLE73=Zilpzalp Gesang
+TTITLE74=Wintergoldhähnchen Gesang
+TTITLE75=Kohlmeise Gesang
+TTITLE76=Tannenmeise Gesang
+TTITLE77=Blaumeise Gesang
+TTITLE78=Weidenmeise Rufe
+TTITLE79=Sumpfmeise Rufe
+TTITLE80=Schwanzmeise Rufe
+TTITLE81=Kleiber Rufe
+TTITLE82=Pirol Gesang
+TTITLE83=Elster Rufe
+TTITLE84=Eichelhäher Rufe
+TTITLE85=Dohle Rufe
+TTITLE86=Saatkrähe Rufe
+TTITLE87=Rabenkrähe Rufe
+TTITLE88=Kolkrabe Rufe
+TTITLE89=Star Gesang
+TTITLE90=Haussperling Rufe
+TTITLE91=Buchfink Gesang
+TTITLE92=Bluthänfling Flugruf
+TTITLE93=Stieglitz Rufe
+TTITLE94=Grünfink Gesang
+TTITLE95=Gimpel Rufe
+TTITLE96=Fichtenkreuzschnabel Rufe
+TTITLE97=Goldammer Gesang
+TTITLE98=Grauammer Gesang
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=

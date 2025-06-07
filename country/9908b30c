@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	215
+#	12765
+#	24632
+#	36487
+#	48805
+#	61252
+#	73800
+#	90122
+#	101165
+#	113127
+#	129600
+#	152867
+#
+# Disc length: 2229 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9908b30c
+DTITLE=Square Dance Music and Calls
+DYEAR=1900
+DGENRE=
+TTITLE0=The Town and Country Square Dance
+TTITLE1=Old Joe Clark
+TTITLE2=Buffalo Gal
+TTITLE3=Soldiers Joy
+TTITLE4=Joe's Been A-Gittin' There
+TTITLE5=Flop-Eared Mule
+TTITLE6=Billy's Hornpipe
+TTITLE7=Blue Jay Rag
+TTITLE8=Arkansas Traveler
+TTITLE9=Turkey In The Straw
+TTITLE10=Jim's Guitar Rag
+TTITLE11=Mississippi Sawyer
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11755
+#     26798
+#     41498
+#     56945
+#     73913
+#     86218
+#     99623
+#     111705
+#     124515
+# 
+# Disc length: 1834 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9507280a
+DTITLE=George Strait - Holding My Own
+DYEAR=1900
+DGENRE=
+TTITLE0=You're Right I'm Wrong
+TTITLE1=Holding My Own
+TTITLE2=Gone As A Girl Can Get
+TTITLE3=So Much Like My Dad
+TTITLE4=Trains Make Me Lonesome
+TTITLE5=All Of Me (Loves All Of You)
+TTITLE6=Wonderland Of Love
+TTITLE7=Faults And All
+TTITLE8=It's Alright With Me
+TTITLE9=Here We Go Again
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

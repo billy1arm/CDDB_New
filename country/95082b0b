@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     17802
+#     31577
+#     42090
+#     52362
+#     62885
+#     79365
+#     94417
+#     109615
+#     122882
+#     143530
+# 
+# Disc length: 2093 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=95082b0b
+DTITLE=Flying Burrito Bros - Last of the Red Hot Burritos
+DYEAR=1900
+DGENRE=
+TTITLE0=Devil in Disguise
+TTITLE1=Six Days on the Road
+TTITLE2=My Uncle
+TTITLE3=Dixie Breakdown
+TTITLE4=Don't Let your Deal Go Down
+TTITLE5=Orange Blossom Special
+TTITLE6=Ain't That a Lot of Love
+TTITLE7=High Fashion Queen
+TTITLE8=Don't Fight It
+TTITLE9=Hot Burrito #2
+TTITLE10=Losing Game
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

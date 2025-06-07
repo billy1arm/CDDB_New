@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  175
+#  9517
+#  19745
+#  30815
+#  43645
+#  59575
+#  73115
+#  82170
+#  94470
+#  106270
+#  118622
+#  132782
+#
+# Disc length: 1937 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=9b078f0c
+DTITLE=Charley Pride - 36 All-Time Greatest Hits - Volume 1
+DYEAR=1900
+DGENRE=country
+TTITLE0=Kiss An Angel Good Mornin'
+TTITLE1=Just Between You and Me
+TTITLE2=Wings of a Dove
+TTITLE3=Blue Eyes Crying in the Rain
+TTITLE4=The Power of Love
+TTITLE5=Let a Little Love Come In
+TTITLE6=Honky Tonk Blues
+TTITLE7=Night Games
+TTITLE8=She's Just An Old Love Turned Memory
+TTITLE9=Stagger Lee
+TTITLE10=A Shoulder to Cry On
+TTITLE11=I'd Rather Love You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

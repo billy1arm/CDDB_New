@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15000
+#	28100
+#	40850
+#	53600
+#	67787
+#	88025
+#	105600
+#	119225
+#	128450
+#	138825
+#	156375
+#
+# Disc length: 2320 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=90090e0c
+DTITLE=Country Express - Folge 3
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Detour - Setting me up
+TTITLE1=George and Lucky Riders - Too much and not enough
+TTITLE2=Kimmie Rhodes - Rock your baby
+TTITLE3=Tommy Cash - Six white horses
+TTITLE4=The Lynn Morris Band - Red line to shady grove
+TTITLE5=Tom Russell - Hurricane season
+TTITLE6=Jill Morris - Quittin' time
+TTITLE7=Detour - Choo choo ch'boogie
+TTITLE8=Drifters Caravan - Great speckle bird
+TTITLE9=Tommy Cash - That certain one
+TTITLE10=Texas Radio - Kenny
+TTITLE11=George and Lucky Riders - Welcome home
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

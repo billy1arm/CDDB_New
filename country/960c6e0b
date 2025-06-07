@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27625
+#	60421
+#	69908
+#	109767
+#	120266
+#	141111
+#	165908
+#	182008
+#	202060
+#	218181
+#
+# Disc length: 3184 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=960c6e0b
+DTITLE=Löwenzahn - Peter auf Schatzsuche
+DYEAR=2007
+DGENRE=Children's Music
+TTITLE0=Der Goldfisch
+TTITLE1=Am Bärstädter Hafen
+TTITLE2=Bau Dir ein U-Boot
+TTITLE3=An Bord
+TTITLE4=Lied: Eine U-Bootfahrt ist lustig
+TTITLE5=Unter Wasser
+TTITLE6=Bau Dir ein Periskop
+TTITLE7=U-Bootspiel
+TTITLE8=Die Geheimbotschaft
+TTITLE9=Noch ein Experiment
+TTITLE10=Fragen über Fragen
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

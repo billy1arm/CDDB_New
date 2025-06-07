@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     18715
+#     37090
+#     56102
+#     73085
+#     90132
+#     103520
+#     123770
+#     139232
+#     153007
+#     163915
+#     177352
+# 
+# Disc length: 2615 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9e0a350c
+DTITLE=Mike Ireland and Holler - Learning How to Live
+DYEAR=1900
+DGENRE=
+TTITLE0=House Of Secrets
+TTITLE1=Worst of All
+TTITLE2=Headed For a Fall
+TTITLE3=Biggest Torch in Town
+TTITLE4=Don't Call This Love
+TTITLE5=Banks of the Ohio
+TTITLE6=Christmas Past
+TTITLE7=Graveyard Song
+TTITLE8=Cold, Cold Comfort
+TTITLE9=Some Things You Lose
+TTITLE10=Cry
+TTITLE11=Learning How to Live
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

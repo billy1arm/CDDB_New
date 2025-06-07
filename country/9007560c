@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     15107
+#     27062
+#     39000
+#     49810
+#     59602
+#     72007
+#     82090
+#     93767
+#     104670
+#     117780
+#     131067
+# 
+# Disc length: 1880 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=9007560c
+DTITLE=Slim Whitman - All-Time Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Indian Love Call
+TTITLE1=Keep it a Secret
+TTITLE2=Secret Love
+TTITLE3=Rose Marie
+TTITLE4=The Cattle Call
+TTITLE5=More Than Yesterday
+TTITLE6=The Twelfth of Never
+TTITLE7=Rainbows are Back in Style
+TTITLE8=Happy Street
+TTITLE9=Guess Who
+TTITLE10=Something Beautiful (To Remember)
+TTITLE11=It's A Sin To Tell a Lie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

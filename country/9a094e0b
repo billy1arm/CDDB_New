@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#    150
+#    17448
+#    35426
+#    49290
+#    66672
+#    83842
+#    96085
+#    109773
+#    127260
+#    138721
+#    169540
+#
+# Disc length: 2384 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.4.4b  (wjohn@fix.net)
+#
+DISCID=9a094e0b
+DTITLE=Chely Wright - 
+DTITLE=Let Me In
+DYEAR=1900
+DGENRE=
+TTITLE0=Shut Up And Drive
+TTITLE1=Let Me In
+TTITLE2=Your Woman Misses her man
+TTITLE3=Emma Jean's Guitar
+TTITLE4=I Already Do
+TTITLE5=Just Another Heartache
+TTITLE6=Is It Love Yet?
+TTITLE7=Before You Lie
+TTITLE8=Feelin' Single and Seein' Double
+TTITLE9=10 lb. Heart
+TTITLE10=Enhanced CD Track
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=Do Not Play
+PLAYORDER=

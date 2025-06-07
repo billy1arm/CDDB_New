@@ -1,0 +1,49 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13056
+#	27762
+#	44418
+#	60923
+#	74129
+#	92135
+#	113291
+#	129496
+#	145552
+#	156657
+# Disc length: 2342 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=9009240b
+DTITLE=Joe Nichols - Singer In A Band
+DYEAR=1900
+DGENRE=
+TTITLE0=Joe Nichols - the shade
+TTITLE1=Joe Nichols - singer in a band
+TTITLE2=Joe Nichols - don't ruin it for the rest of
+TTITLE3=Joe Nichols - i wish that wasn't all
+TTITLE4=Joe Nichols - if i ever get her back
+TTITLE5=Joe Nichols - if nobody believed in you
+TTITLE6=Joe Nichols - farewell party
+TTITLE7=Joe Nichols - things like that (these
+TTITLE8=Joe Nichols - revelation
+TTITLE9=Joe Nichols - what's a guy gotta do
+TTITLE10=Joe Nichols - no time to cry
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

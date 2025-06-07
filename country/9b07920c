@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 182
+# 14527
+# 25707
+# 38477
+# 49417
+# 59690
+# 72922
+# 86345
+# 98927
+# 110530
+# 123875
+# 136120
+#
+# Disc length: 1940 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=9b07920c
+DTITLE=Slim Whitman - Greatest Hits
+DYEAR=1990
+DGENRE=Country
+TTITLE0=Indian Love Call
+TTITLE1=Keep It A Secret
+TTITLE2=Secret Love
+TTITLE3=Rose-Marie
+TTITLE4=It's A Sin To Tell A Lie
+TTITLE5=Guess Who
+TTITLE6=Something Beautiful (To Remember)
+TTITLE7=North Wind
+TTITLE8=The Cattle Call
+TTITLE9=Love Song Of The Waterfall
+TTITLE10=Shutters And Boards
+TTITLE11=I Remember You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

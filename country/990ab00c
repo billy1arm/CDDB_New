@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13897
+#	31095
+#	48992
+#	67002
+#	81022
+#	97620
+#	113857
+#	134190
+#	151765
+#	173025
+#	186550
+#
+# Disc length: 2738 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=990ab00c
+DTITLE=Wayne Mason - Between Frames
+DYEAR=1900
+DGENRE=
+TTITLE0=Walking That View Around
+TTITLE1=Window Calling Day
+TTITLE2=Inside Of Pain
+TTITLE3=No Questions Asked
+TTITLE4=Staying Away From Corners
+TTITLE5=Senorita Is Gone
+TTITLE6=Thunder In A Cold Land
+TTITLE7=Roll My Penny
+TTITLE8=Between Frames
+TTITLE9=It's A Shame
+TTITLE10=Better Off Dancing
+TTITLE11=Third Time This Year
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

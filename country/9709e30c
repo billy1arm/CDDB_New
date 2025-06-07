@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	200
+#	12775
+#	27137
+#	41412
+#	56940
+#	76077
+#	94555
+#	111332
+#	133252
+#	145020
+#	158707
+#	170190
+#
+# Disc length: 2533 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=9709e30c
+DTITLE=Ranch Romance - Blue Blazes
+DYEAR=1991
+DGENRE=Country
+TTITLE0=Heartaches
+TTITLE1=What's Wrong With You
+TTITLE2=Blue Blazes
+TTITLE3=Indeed I Do
+TTITLE4=Arizona Moon
+TTITLE5=Racin' Burnin' Bridges
+TTITLE6=Buckaroo
+TTITLE7=Lost Heart
+TTITLE8=Cuttin' A Rug
+TTITLE9=Trouble
+TTITLE10=Babydoll
+TTITLE11=Lucky One
+EXTD=YEAR: 1991 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

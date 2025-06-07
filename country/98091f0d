@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 8117
+# 18525
+# 38945
+# 49495
+# 62995
+# 77850
+# 86602
+# 97752
+# 109150
+# 122322
+# 135955
+# 166545
+#
+# Disc length: 2337 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=98091f0d
+DTITLE=Randy Erwin - Back Home
+DYEAR=1900
+DGENRE=country
+TTITLE0=Show Me The Way To Go Home
+TTITLE1=I Ain't Got Nobody
+TTITLE2=Drunkard"s Blues
+TTITLE3=The Bottle Swallowed Ed
+TTITLE4=One More Waltz, Mary Rose
+TTITLE5=Leona's Kind of Fool
+TTITLE6=The Id Polka
+TTITLE7=South of the  Border
+TTITLE8=Waiting For a Train
+TTITLE9=Any Old Time
+TTITLE10=Maria Elena
+TTITLE11=Victor Knew
+TTITLE12=When You Wish Upon A Star
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

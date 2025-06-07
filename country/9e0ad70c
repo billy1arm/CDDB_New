@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  17110
+#  37265
+#  52845
+#  73900
+#  87230
+#  105745
+#  129257
+#  147115
+#  166557
+#  175870
+#  190385
+#
+# Disc length: 2777 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=9e0ad70c
+DTITLE=Sackville - These Last Songs
+DYEAR=1900
+DGENRE=
+TTITLE0=Sydney Mines
+TTITLE1=Closthesline
+TTITLE2=Good Citizen
+TTITLE3=Upstate
+TTITLE4=Tie Back Yr Hair
+TTITLE5=Lines and Barriers
+TTITLE6=The Frame-Up
+TTITLE7=Bender
+TTITLE8=Invisible Ink
+TTITLE9=Her Ghost Will One Day Rise Again
+TTITLE10=Border Towns
+TTITLE11=Pioneers
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17027
+#     34530
+#     49425
+#     65602
+#     81382
+#     99335
+#     115852
+#     130430
+#     146360
+#     165725
+#     183010
+# 
+# Disc length: 2624 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9f0a3e0c
+DTITLE=Nina and Mike - Amore Mio
+DYEAR=1900
+DGENRE=
+TTITLE0=Der Stern von Montego
+TTITLE1=Amore Mio
+TTITLE2=Fernados Bodega
+TTITLE3=Paradise Island
+TTITLE4=Mit dem S dwind um die Welt
+TTITLE5=Heute Nacht und f r immer
+TTITLE6=San Angelo
+TTITLE7=Che Bella
+TTITLE8=La Colomba
+TTITLE9=Fahrende Musikanten
+TTITLE10=Adios Goodbye
+TTITLE11=Unser Lied
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

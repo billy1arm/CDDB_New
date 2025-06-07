@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13480
+#     26645
+#     41492
+#     57617
+#     73140
+#     86075
+#     106275
+#     118170
+#     131952
+# 
+# Disc length: 1915 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9907790a
+DTITLE=Flying Wranglers - Cowboys for Jesus
+DYEAR=1900
+DGENRE=
+TTITLE0=Range in the Sky
+TTITLE1=Circuit Ridin' Preacher
+TTITLE2=Church out on the Plains
+TTITLE3=The Last Cattle Call
+TTITLE4=When the Cowboys Sing Again
+TTITLE5=I'm Never Alone on the Lone Prairie
+TTITLE6=Ayudanos Dios
+TTITLE7=Cowboys for Jesus
+TTITLE8=It Was The Lord
+TTITLE9=When The Roll Is Called Up Yonder
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

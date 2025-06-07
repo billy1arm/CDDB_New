@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	15752
+# 	26785
+# 	52312
+# 	69930
+# 	91720
+# 	108090
+# 	132775
+# 	155070
+# 	174782
+# 	190202
+# 	206702
+#
+# Disc length: 3095 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=930c150c
+DTITLE=Jack Ingram - Live at Adairs
+DYEAR=1900
+DGENRE=
+TTITLE0=Attitude and Driving
+TTITLE1=Able Bodied Man
+TTITLE2=Elmo Lincoln
+TTITLE3=Run Away With You
+TTITLE4=These Days
+TTITLE5=Politics and Religion
+TTITLE6=Mary Go Round
+TTITLE7=Making Plans
+TTITLE8=She's Gone
+TTITLE9=I'll Catch You When You Fall
+TTITLE10=Hang Down Your Head
+TTITLE11=Make My Heart Flutter
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

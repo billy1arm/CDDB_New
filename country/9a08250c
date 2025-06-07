@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13063
+#	29438
+#	38355
+#	52258
+#	65545
+#	78403
+#	95975
+#	107435
+#	121135
+#	132898
+#	143398
+#
+# Disc length: 2087 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=9a08250c
+DTITLE=The Spencers - Country Gospel Favorites
+DYEAR=1900
+DGENRE=
+TTITLE0=Crying In The Chapel
+TTITLE1=House Of Gold
+TTITLE2=Try A Little Kindness
+TTITLE3=Great Speckled Bird
+TTITLE4=Suppertime
+TTITLE5=Peace In The Valley
+TTITLE6=In The Garden
+TTITLE7=On The Wings Of A Dove
+TTITLE8=God Bless The U.S.A.
+TTITLE9=Why Me Lord
+TTITLE10=I Saw The LIght
+TTITLE11=One Day At A Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

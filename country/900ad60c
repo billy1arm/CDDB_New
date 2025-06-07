@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  183
+#  14900
+#  30085
+#  45783
+#  71023
+#  88683
+#  105113
+#  123598
+#  145588
+#  162390
+#  183150
+#  195618
+#
+# Disc length: 2776 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.15
+#
+DISCID=900ad60c
+DTITLE=Grant and Forsyth - Country Love Songs
+DYEAR=1900
+DGENRE=
+TTITLE0=Sometimes When We Touch
+TTITLE1=Somewhere Between
+TTITLE2=Always On My Mind
+TTITLE3=Medley
+TTITLE4=Nobody Loves Me
+TTITLE5=To Know You Is to Love You
+TTITLE6=An American Trilogy
+TTITLE7=I'll Still Be Loving You
+TTITLE8=Turn Between Two Lovers
+TTITLE9=Medley
+TTITLE10=Love Letters
+TTITLE11=Make Believe
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

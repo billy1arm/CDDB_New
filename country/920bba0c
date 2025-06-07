@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20242
+#	38551
+#	53809
+#	67527
+#	85783
+#	107764
+#	127639
+#	145868
+#	163611
+#	182757
+#	201013
+#
+# Disc length: 3004 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer 1.60beta16
+#
+DISCID=920bba0c
+DTITLE=Montgomery Gentry - My Town
+DYEAR=1900
+DGENRE=
+TTITLE0=My Town
+TTITLE1=Break My Heart Again
+TTITLE2=Scarecrow
+TTITLE3=Bad For Good
+TTITLE4=Speed
+TTITLE5=Hell Yeah
+TTITLE6=Lonesome
+TTITLE7=Why Do I Feel Like Running
+TTITLE8=Free Fall
+TTITLE9=Lie Before You Leave
+TTITLE10=For The Money
+TTITLE11=Good Clean Fun
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

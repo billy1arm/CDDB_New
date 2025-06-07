@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14532
+#	32622
+#	46037
+#	62095
+#	84302
+#	93985
+#	108482
+#	127062
+#	138480
+#	154390
+#	174385
+#
+# Disc length: 2481 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=9909af0c
+DTITLE=The Kingsmen - You're Not Alone
+DYEAR=1900
+DGENRE=
+TTITLE0=Even John Couldn"t Tell It
+TTITLE1=Come To The Water
+TTITLE2=I'm Ready To See My Lord
+TTITLE3=So Much Mercy
+TTITLE4=You're Not Alone
+TTITLE5=I Love To Tell
+TTITLE6=Family Bible
+TTITLE7=Here Comes The Bride
+TTITLE8=Jesus Won My Battle
+TTITLE9=Use His Name
+TTITLE10=He Is No Stranger To Me
+TTITLE11=Wake Up
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

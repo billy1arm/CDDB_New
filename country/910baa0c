@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16470
+#	34700
+#	56250
+#	82515
+#	101677
+#	122187
+#	137027
+#	160522
+#	178240
+#	180532
+#	199082
+#
+# Disc length: 2988 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=910baa0c
+DTITLE=ЧайФ - Пусть все будет так, как ты захочешь
+DYEAR=1994
+DGENRE=Rock
+TTITLE0=Я тебя не нашёл (уже)
+TTITLE1=Четверо парней
+TTITLE2=Пусть тебе приснится
+TTITLE3=Но это так
+TTITLE4=Город мой
+TTITLE5=17 лет
+TTITLE6=Джип-Бип-Папа
+TTITLE7=Давай просто уйдем
+TTITLE8=Антипаравозная
+TTITLE9=Песня рыб
+TTITLE10=Тайный знак
+TTITLE11=Для меня
+EXTD=YEAR: 1994
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

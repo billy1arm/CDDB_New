@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13660
+#     25205
+#     36744
+#     54386
+#     70740
+#     85788
+#     100536
+#     114230
+#     125565
+#     141089
+#     159656
+# 
+# Disc length: 2395 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=9909590c
+DTITLE=Scooter Lee - New Album
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Walk Away With My Heart
+TTITLE1=Last Time Uh-Huh
+TTITLE2=Heartbreak Hotel (a tribute)
+TTITLE3=Can't Help It
+TTITLE4=No Options Here
+TTITLE5=Baby Once I Get You
+TTITLE6=Losing My Mind
+TTITLE7=The Way Things Are
+TTITLE8=Daniels Boys
+TTITLE9=Commit Me For Hangin' On
+TTITLE10=Last Time Uh-Huh (dance mix)
+TTITLE11=Baby Once I Get You (dance mix)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

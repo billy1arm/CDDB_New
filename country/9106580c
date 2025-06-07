@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12885
+#	22125
+#	32547
+#	42887
+#	53112
+#	62072
+#	72842
+#	82957
+#	92697
+#	102610
+#	112775
+#
+# Disc length: 1626 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=9106580c
+DTITLE=Milton Banana Trio - Balançando
+DYEAR=1966
+DGENRE=Bossa Nova
+TTITLE0=Cidade Vazia
+TTITLE1=Barquinho Diferente
+TTITLE2=São Salvador
+TTITLE3=Amanhã
+TTITLE4=Improviso
+TTITLE5=A Resposta
+TTITLE6=Somho De Um Carnaval
+TTITLE7=Feitinho Pro Poeta
+TTITLE8=Aruanda
+TTITLE9=Tristeza
+TTITLE10=Ora Bolas
+TTITLE11=Encanto Triste
+EXTD=YEAR: 1966
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

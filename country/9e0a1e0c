@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 14740
+# 30350
+# 46485
+# 65618
+# 80365
+# 98440
+# 114148
+# 127495
+# 141373
+# 157908
+# 178210
+#
+# Disc length: 2592 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=9e0a1e0c
+DTITLE=Kris Kristofferson - 36 All-Time Great Hits-Disc 2:Me and Bobby McGee
+DYEAR=1900
+DGENRE=
+TTITLE0=The Taker
+TTITLE1=Why Me
+TTITLE2=Casey's Last Ride
+TTITLE3=Me and Bobby McGee
+TTITLE4=Darby's Castle
+TTITLE5=Sugar Man
+TTITLE6=Shake Hands with the Devil
+TTITLE7=Duvalier's Dream
+TTITLE8=Jody and the Kid
+TTITLE9=Come Sundown
+TTITLE10=Sunday Mornin' Comin' Down
+TTITLE11=Border Lord
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

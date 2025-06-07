@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15042
+#	35222
+#	47317
+#	66442
+#	85110
+#	97005
+#	111080
+#	124902
+#	140852
+#	153410
+#
+# Disc length: 2291 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta0
+#
+DISCID=9008f10b
+DTITLE=Victor Sanz - Destination Unknown
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Destination Unkown
+TTITLE1=One Forever
+TTITLE2=I'm Gonna To Be There
+TTITLE3=Only You
+TTITLE4=I Go Crazy
+TTITLE5=It's About Time
+TTITLE6=Remembering The Future
+TTITLE7=You Could Have Fooled Me
+TTITLE8=Now I'm On My Own
+TTITLE9=More Than I Want To Know
+TTITLE10=I Go Crazy (Supanish Version)
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

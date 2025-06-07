@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 13150
+# 26217
+# 42392
+# 58567
+# 78232
+# 93102
+# 110620
+# 127165
+# 142072
+# 158327
+# 176040
+#
+# Disc length: 2616 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=9e0a360c
+DTITLE=Barbara Mandrell - It Works For Me
+DYEAR=1900
+DGENRE=
+TTITLE0=Ten Pound Hammer
+TTITLE1=To My Heart
+TTITLE2=Heart From A Stone
+TTITLE3=I Won't Be Home Tonight
+TTITLE4=Get Here
+TTITLE5=Your One And Only
+TTITLE6=Temptation
+TTITLE7=Love By Any Name
+TTITLE8=A Little Time For Us
+TTITLE9=Just Like Me
+TTITLE10=Weight Of The World
+TTITLE11=Have I Told You Lately
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

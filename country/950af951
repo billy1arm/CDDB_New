@@ -1,0 +1,259 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9150
+#	17550
+#	25050
+#	32100
+#	40500
+#	46650
+#	55800
+#	64200
+#	71100
+#	79500
+#	87000
+#	94050
+#	102450
+#	108600
+#	117750
+#	126150
+#	133050
+#	137250
+#	141000
+#	144600
+#	148350
+#	151800
+#	156000
+#	157050
+#	158100
+#	159300
+#	160350
+#	161550
+#	162562
+#	163724
+#	164999
+#	165899
+#	167211
+#	168148
+#	169085
+#	170135
+#	171485
+#	171935
+#	172910
+#	173810
+#	174410
+#	174935
+#	175685
+#	176285
+#	177635
+#	178535
+#	179135
+#	180147
+#	181459
+#	182321
+#	183671
+#	184458
+#	185395
+#	186520
+#	187457
+#	188732
+#	189932
+#	191132
+#	192782
+#	193382
+#	194507
+#	195257
+#	195894
+#	196644
+#	197431
+#	198143
+#	198705
+#	199305
+#	199942
+#	201104
+#	202154
+#	202716
+#	203616
+#	204703
+#	205640
+#	206427
+#	207289
+#	208001
+#	209013
+#	210063
+#
+# Disc length: 2811 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=950af951
+DTITLE=Varios - El Bosque De Tuo
+DYEAR=2008
+DGENRE=Country
+TTITLE0=Sintonía del Método: Pío y Tuo
+TTITLE1=Canción del Buho Tuo
+TTITLE2=Voy Al Colegio
+TTITLE3=El Arbol de Navidad
+TTITLE4=La Casa Donde Vivo
+TTITLE5=Nuestro Cuerpo
+TTITLE6=Me Gusta La Fruta
+TTITLE7=La Granja de Kiriko
+TTITLE8=Vamos Al Parque
+TTITLE9=Cancion de Tuo (Instrumental)
+TTITLE10=Me Gusta Ir AL Colegio (Instrumental)
+TTITLE11=El Arbol de Navidad (Instrumental)
+TTITLE12=La Casa Donde Vivo (Instrumental)
+TTITLE13=Nuestro Cuerpo (Instrumental)
+TTITLE14=Me Gusta La Fruta (Instrumental)
+TTITLE15=La Granja de Kiriko (Instrumental)
+TTITLE16=Vamos Al Parque (Instrumental)
+TTITLE17=Hello, Bye-bye
+TTITLE18=I Sit Down, I Stand Up, I Kiss
+TTITLE19=Eyes, Mouth, Hands and Feet
+TTITLE20=Wash and Drink
+TTITLE21=My Cat and My Dog
+TTITLE22=One, Two, Red-Yellow
+TTITLE23=Murmullo
+TTITLE24=Construccion
+TTITLE25=Coches
+TTITLE26=Pisadas
+TTITLE27=Lluvia y Tormenta
+TTITLE28=Pajaros
+TTITLE29=Cisterna
+TTITLE30=Lavadora
+TTITLE31=Olla A Presión
+TTITLE32=Patatas Fritas
+TTITLE33=Batidora
+TTITLE34=TEñefono
+TTITLE35=Aspiradora
+TTITLE36=Radio
+TTITLE37=Puerta
+TTITLE38=Pandereta
+TTITLE39=Zambomba
+TTITLE40=Oveja
+TTITLE41=Paluas
+TTITLE42=Zapateo
+TTITLE43=Oler
+TTITLE44=Respirar
+TTITLE45=Comer
+TTITLE46=Gato
+TTITLE47=Risas
+TTITLE48=Niño Llorando
+TTITLE49=Niños Pelota
+TTITLE50=Viento
+TTITLE51=Estornudo
+TTITLE52=Grifo
+TTITLE53=Lavamanos
+TTITLE54=Lavar los Dientes
+TTITLE55=Ducha
+TTITLE56=Cubiertos
+TTITLE57=Comer Manzana
+TTITLE58=Cumpleaños
+TTITLE59=Kikiriki
+TTITLE60=Gallinas
+TTITLE61=Cerdito
+TTITLE62=Oveja
+TTITLE63=Patos
+TTITLE64=Vaca
+TTITLE65=Caballo
+TTITLE66=Perro
+TTITLE67=Gato
+TTITLE68=Pajaros
+TTITLE69=Leon
+TTITLE70=Elefante
+TTITLE71=Jrafa
+TTITLE72=Coche
+TTITLE73=Avion
+TTITLE74=Barco
+TTITLE75=Trafico
+TTITLE76=Bici
+TTITLE77=Moto
+TTITLE78=Bomberos
+TTITLE79=Policia
+TTITLE80=Ambulancia
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+PLAYORDER=

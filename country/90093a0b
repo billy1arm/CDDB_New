@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#     150
+#     15140
+#     31402
+#     50127
+#     65132
+#     81260
+#     95287
+#     112747
+#     129690
+#     141825
+#     153732
+#
+# Disc length: 2364 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jack 3.1.1
+#
+DISCID=90093a0b
+DTITLE=The Cactus Brothers - 24 Hrs., 7 Days A Week
+DYEAR=1900
+DGENRE=
+TTITLE0=This Love's Gona Fly
+TTITLE1=Lodi
+TTITLE2=24 Hrs., 7 Days A Week
+TTITLE3=Highway Patrol
+TTITLE4=A Woman's Touch
+TTITLE5=Secret Language
+TTITLE6=Love Me Too
+TTITLE7=He Never Got Enough Love
+TTITLE8=You're The Reason
+TTITLE9=Redhead
+TTITLE10=Chains Of Freedom
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+#
+# Track frame offsets:
+#	150
+#	13032
+#	24674
+#	43916
+#	57139
+#	71786
+#	83789
+#	97635
+#	112956
+#	129326
+#	141963
+#	152159
+#
+# Disc length: 2175
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CoolCD_Studio 1.4
+#
+DISCID=98087d0c
+DTITLE=Various Artist - Queens Of Country - Slippin' Around
+DYEAR=2004
+DGENRE=
+TTITLE0=Lynn Anderson - Rose Garden
+TTITLE1=Crystal Gayle - Don't It Make My Brown Eyes Blue
+TTITLE2=Bobbie Gentry - Ode To Billie Joe
+TTITLE3=Tanya Tucker - Delta Dawn
+TTITLE4=Rose Maddox - Philadelphia Lawyer
+TTITLE5=Wanda Jackson - Right Or Wrong
+TTITLE6=Barbara Fairchild - Teddy Bear Song
+TTITLE7=Jessi Colter - I'm Not Lisa
+TTITLE8=Crystal Gayle - I'll Get Over You
+TTITLE9=Linda Ronstadt - I Can't Help It (If I'm Still In Love With 
+TTITLE9=You)
+TTITLE10=Margaret Whiting - Slippin' Around
+TTITLE11=Jean Shepard - A Satisfied Mind
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

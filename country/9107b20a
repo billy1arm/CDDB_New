@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14842
+#     29100
+#     42514
+#     57980
+#     71705
+#     85672
+#     100812
+#     117172
+#     133092
+# 
+# Disc length: 1972 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9107b20a
+DTITLE=Barbara Mandrell and Lee Greenwood - Meant For Each Other
+DYEAR=1900
+DGENRE=
+TTITLE0=To Me
+TTITLE1=Can't Get Too Much Of A Good Thing
+TTITLE2=I'LL Never Stop Loving You
+TTITLE3=We're A Perfect Match
+TTITLE4=We Were Meant For Each Other
+TTITLE5=It Should Have Been Love By Now
+TTITLE6=Soft Shoulder
+TTITLE7=Now You See Us, Now You Don't
+TTITLE8=One On One, Eye To Eye, Heart To Heart
+TTITLE9=Held Over
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 14860
+# 26207
+# 40210
+# 50710
+# 66720
+# 79215
+# 92460
+# 107675
+# 119425
+#
+# Disc length: 1742 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=9006cc0a
+DTITLE=The Oak Ridge Boys - The Best Of The Oak Ridge Boys
+DYEAR=1900
+DGENRE=
+TTITLE0=The Baptism Of Jesse Taylor
+TTITLE1=Loves Me Like A Rock
+TTITLE2=Why Me
+TTITLE3=Rhythm Guitar
+TTITLE4=Freedom For The Stallion
+TTITLE5=Heaven Bound
+TTITLE6=He's Gonna Smile On Me
+TTITLE7=There Must Be A Better Way
+TTITLE8=Where The Soul Never Dies
+TTITLE9=Family Reunion
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

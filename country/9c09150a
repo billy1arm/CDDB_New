@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 18728
+# 37033
+# 53715
+# 67370
+# 88075
+# 113948
+# 131750
+# 148998
+# 164305
+#
+# Disc length: 2327 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b3
+#
+DISCID=9c09150a
+DTITLE=Kevin Hood - The Writing's On The Wall
+DYEAR=1900
+DGENRE=
+TTITLE0=The Writing's On The Wall
+TTITLE1=Unfailing Love
+TTITLE2=Hold On
+TTITLE3=Dealin' With The Pressure
+TTITLE4=Keep Me Close
+TTITLE5=Just In Time
+TTITLE6=Finally Found The Way
+TTITLE7=You Can't Do It Alone
+TTITLE8=Gone
+TTITLE9=I Am
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

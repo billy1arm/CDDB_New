@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	187
+# 	14667
+# 	28557
+# 	43252
+# 	58707
+# 	70692
+# 	93405
+# 	110727
+# 	125612
+# 	141187
+#
+# Disc length: 2102 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.2
+#
+DISCID=9108340a
+DTITLE=Ronnie Milsap - Stranger Things Have Happened
+DYEAR=1989
+DGENRE=Country
+TTITLE0=Stranger Things Have Happened
+TTITLE1=Don't You Ever Get Tired (Of Hurting Me)
+TTITLE2=A Woman In Love
+TTITLE3=You Snap Your Fingers (And I'm Back In Your Hands)
+TTITLE4=Starting Today
+TTITLE5=Roll The Dice
+TTITLE6=I Feel Like I'm Cheating On You
+TTITLE7=I Never Expected To See You
+TTITLE8=Houston Solution
+TTITLE9=Southern Roots
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

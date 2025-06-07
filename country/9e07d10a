@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14560
+#     27545
+#     43592
+#     55337
+#     74667
+#     87597
+#     101652
+#     122100
+#     134985
+# 
+# Disc length: 2003 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9e07d10a
+DTITLE=Country Dance Club USA - Dance Hall Delights
+DYEAR=1900
+DGENRE=
+TTITLE0=Rock My World (Little Country Girl)
+TTITLE1=If Bubba Can Dance (I Can Too)
+TTITLE2=American Honky-Tonk Bar Assciation
+TTITLE3=My Baby Loves Me
+TTITLE4=I Swear
+TTITLE5=Live Until I Die
+TTITLE6=That's My Story
+TTITLE7=John Deere Green
+TTITLE8=State Of Mind
+TTITLE9=Reckless
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

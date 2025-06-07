@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  187
+#  11950
+#  22525
+#  39425
+#  55750
+#  72400
+#  88475
+#  104125
+#  127425
+#  141025
+#
+# Disc length: 2108 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.10
+#
+DISCID=92083a0a
+DTITLE=Merle Haggard and Willie Nelson - Merle Haggard and Willie Nelson: Gos
+DTITLE=pel's Best
+DYEAR=1900
+DGENRE=
+TTITLE0=What a Friend We Have in Jesus
+TTITLE1=He Walks with Me
+TTITLE2=The Old Rugged Cross
+TTITLE3=Swing Low Sweet Chariot
+TTITLE4=Stand by Me
+TTITLE5=In God's Eyes
+TTITLE6=Tell It to Jesus
+TTITLE7=It Is No Secret (What God Can Do)
+TTITLE8=Softly and Tenderly
+TTITLE9=There Shall Be Showers of Blessings
+EXTD=
+EXTT0=Merle Haggard
+EXTT1=Merle Haggard
+EXTT2=Merle Haggard
+EXTT3=Merle Haggard
+EXTT4=Willie Nelson
+EXTT5=Willie Nelson
+EXTT6=Willie Nelson
+EXTT7=Willie Nelson
+EXTT8=Merle Haggard
+EXTT9=Willie Nelson
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14682
+#	26865
+#	42477
+#	55662
+#	76850
+#	90187
+#	104807
+#	124586
+#	137907
+#	150952
+#	167192
+#
+# Disc length: 2405 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9509630c
+DTITLE=Emerson Drive - Albulm Advance
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Evidence
+TTITLE1=I see heaven
+TTITLE2=Passionate Desperate Love
+TTITLE3=Say My Name
+TTITLE4=Only God
+TTITLE5=I Should be Sleeping
+TTITLE6=Looking Over My Shoulder
+TTITLE7=Light of Day
+TTITLE8=Hollywood Kiss
+TTITLE9=C'Mon Lets Experience
+TTITLE10=Stone Angel
+TTITLE11=Its All About You
+EXTD=YEAR: 2001 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

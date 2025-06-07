@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	187
+# 	14320
+# 	29907
+# 	44632
+# 	61415
+# 	78682
+# 	92290
+# 	109172
+# 	123680
+# 	140772
+#
+# Disc length: 2051 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4
+#
+DISCID=9108010a
+DTITLE=Skip Ewing - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Your Memory Wins Again
+TTITLE1=I Don't Have Far To Fall
+TTITLE2=Burin' A Hole In My Heart
+TTITLE3=The Gospel According To Luke
+TTITLE4=The Coast Of Colorado
+TTITLE5=It's You Again
+TTITLE6=It Wasn't His Child
+TTITLE7=If A mAn Could Live On Love Alone
+TTITLE8=I'm Your Man
+TTITLE9=The Dotted Line
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 182
+# 16725
+# 31372
+# 46912
+# 58742
+# 73160
+# 87062
+# 103205
+# 117862
+# 136255
+# 150837
+# 164922
+#
+# Disc length: 2420 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=9909720c
+DTITLE=Billy Joe Royal - Looking Ahead
+DYEAR=1986
+DGENRE=country
+TTITLE0=Burned Like A Rocket
+TTITLE1=Run Around Town
+TTITLE2=Old Bridges Burn Slow
+TTITLE3=Good Thing
+TTITLE4=The HardTimes
+TTITLE5=I'm Not A Rock (I'm A Rolling Stone)
+TTITLE6=Boardwalk Angel
+TTITLE7=Sad Cliches
+TTITLE8=You'd Better Go
+TTITLE9=I Miss You Already
+TTITLE10=We've Both Got A Lot To Learn
+TTITLE11=Another Endless Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

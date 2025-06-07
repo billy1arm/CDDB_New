@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16515
+#     36820
+#     53467
+#     77004
+#     91685
+#     121007
+#     142112
+#     163225
+#     182057
+#     197460
+#     214285
+# 
+# Disc length: 3144 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=900c460c
+DTITLE=St len Fjellvang Band - One Step Away
+DYEAR=1900
+DGENRE=
+TTITLE0=Bad dreams
+TTITLE1=When the stoms are blowing
+TTITLE2=Another kind of love
+TTITLE3=Heaven
+TTITLE4=Use yor time
+TTITLE5=Hymn
+TTITLE6=Mother's eyes
+TTITLE7=Lift me up
+TTITLE8=Holy promise
+TTITLE9=Valley of tears
+TTITLE10=Shadow of the promised land
+TTITLE11=Forgive and forget
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

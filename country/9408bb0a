@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  14770
+#  28762
+#  46864
+#  62562
+#  86732
+#  104679
+#  119167
+#  140197
+#  152812
+#
+# Disc length: 2237 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=9408bb0a
+DTITLE=Various Artist - Today's Hit Country
+DYEAR=1900
+DGENRE=
+TTITLE0=Janie Baker's Love Slave
+TTITLE1=Brother Jukebox
+TTITLE2=Look At Us
+TTITLE3=Down Home
+TTITLE4=Love Can Build A  Bridge
+TTITLE5=Seminole Wind
+TTITLE6=Mirror Mirror
+TTITLE7=Something In Red
+TTITLE8=There Ain't Nothing Wrong With The Radio
+TTITLE9=Maybe It Was Memphis
+EXTD=
+EXTT0=SHENANDOAH
+EXTT1=MARK CHESNUTT
+EXTT2=VINCE GILL
+EXTT3=ALABAMA
+EXTT4=JUDDS
+EXTT5=JOHN ANDERSON
+EXTT6=DIAMOND RIO
+EXTT7=LORRIE MORGAN
+EXTT8=AARON TIPPIN
+EXTT9=PAM TILLIS
+PLAYORDER=

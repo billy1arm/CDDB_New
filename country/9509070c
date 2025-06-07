@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	225
+# 	10807
+# 	25272
+# 	39857
+# 	49692
+# 	62152
+# 	77422
+# 	91435
+# 	118850
+# 	131400
+# 	143130
+# 	157015
+#
+# Disc length: 2314 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=9509070c
+DTITLE=Stomping Tom Conners - "Live" At The Horseshoe
+DYEAR=1900
+DGENRE=
+TTITLE0=Happy Rovin' Cowboy
+TTITLE1=Big Joe Mufferaw
+TTITLE2=Come Where We're At
+TTITLE3=The Green, Green Grass Of Home No.2
+TTITLE4=Spin, Spin
+TTITLE5=Muleskinner Blues
+TTITLE6=Horseshoe Hotel Song
+TTITLE7=I've Been Everywhere
+TTITLE8=Sudbury Saturday Night
+TTITLE9=Bus Tour To Nashville
+TTITLE10=Luke's Guitar
+TTITLE11=Bud The Spud
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

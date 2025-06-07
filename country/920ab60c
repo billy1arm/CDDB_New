@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16717
+#	31450
+#	47975
+#	64714
+#	79152
+#	92460
+#	107465
+#	125750
+#	142357
+#	157737
+#	174837
+#
+# Disc length: 2744 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=920ab60c
+DTITLE=Chrystian and Ralf - Estação Paraiso
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Só Mais um Caso de Amor
+TTITLE1=O Show Vai Começar
+TTITLE2=Minha História com Você
+TTITLE3=Romance Acabado
+TTITLE4=O Quanto Dói a Solidão
+TTITLE5=Já Passou
+TTITLE6=Poeira no Vento
+TTITLE7=Distância
+TTITLE8=Estação Paraíso
+TTITLE9=Amor Demais
+TTITLE10=Camas Separadas
+TTITLE11=Coisas de Atriz
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

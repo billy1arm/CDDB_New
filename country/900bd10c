@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     22000
+#     54922
+#     70607
+#     90245
+#     101762
+#     119432
+#     135150
+#     151007
+#     164940
+#     183780
+#     205040
+# 
+# Disc length: 3027 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=900bd10c
+DTITLE=Clancy - Go With The Flow
+DYEAR=1900
+DGENRE=
+TTITLE0=Go With The Flow
+TTITLE1=And The Sugar Cane Grows (The Pub Poem)
+TTITLE2=Rum (Cane Cutter's Cordial)
+TTITLE3=7 Years Today
+TTITLE4=The Bloomfield Track
+TTITLE5=They Say It Will Never Happen (Low Isles Song)
+TTITLE6=I Can See
+TTITLE7=Cane Train
+TTITLE8=What About Me
+TTITLE9=I Stole A Kiss (From A Married Woman)
+TTITLE10=Going To Palmer River
+TTITLE11=Guilty
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

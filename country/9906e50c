@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 182
+# 9400
+# 20167
+# 27082
+# 39427
+# 51412
+# 62787
+# 72835
+# 85662
+# 95075
+# 110790
+# 120802
+#
+# Disc length: 1767 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=9906e50c
+DTITLE=Fess Parker - Great American Heroes
+DYEAR=1900
+DGENRE=
+TTITLE0=Daniel Boone
+TTITLE1=Little Nathan
+TTITLE2=Jim Bowie
+TTITLE3=Abraham Lincoln (The Tall American)
+TTITLE4=George Washington
+TTITLE5=Patric Henry (The Patriot)
+TTITLE6=Ballad of Davy Crockett
+TTITLE7=Andrew Jackson (Old Hickory)
+TTITLE8=Ben Franklin
+TTITLE9=Lewis and Clark
+TTITLE10=Johnny Clem
+TTITLE11=Ole Kit Carson
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

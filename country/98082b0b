@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13435
+#     30365
+#     44089
+#     61932
+#     79122
+#     93905
+#     105030
+#     118492
+#     134760
+#     145967
+# 
+# Disc length: 2093 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=98082b0b
+DTITLE=Tonya Rae - Tonya Rae
+DYEAR=1900
+DGENRE=
+TTITLE0=Your Coffee's On The Table
+TTITLE1=I've Been There Too
+TTITLE2=Take A Number
+TTITLE3=Convince Me
+TTITLE4=River Of Love
+TTITLE5=I Know Where There's One
+TTITLE6=The Best Of Me
+TTITLE7=The Last One
+TTITLE8=Love Never Hurt Nobody
+TTITLE9=Right Person At The Right Time
+TTITLE10=Heart Like A Wheel
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

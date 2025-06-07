@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12925
+#	30525
+#	45545
+#	59937
+#	93750
+#	115125
+#	135525
+#	163137
+#	175877
+#	184200
+#	197377
+#
+# Disc length: 2864 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9d0b2e0c
+DTITLE=Friedemann - Indian Summer
+DYEAR=1987
+DGENRE=Country
+TTITLE0=Sunshower
+TTITLE1=The Eye of the Dragonfly
+TTITLE2=Sentimental Elegance
+TTITLE3=Sourdos
+TTITLE4=Indian Summer
+TTITLE5=November Winds
+TTITLE6=Lichterloh
+TTITLE7=Flight of the Heron
+TTITLE8=Russian River Ballad
+TTITLE9=Short Reminiscence of a long Summer
+TTITLE10=Open Mind
+TTITLE11=Kuterevka
+EXTD=YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

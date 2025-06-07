@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23475
+#	41625
+#	65660
+#	78185
+#	106204
+#	123007
+#	145654
+#	164350
+#	185446
+#	209840
+#	228724
+#
+# Disc length: 3376 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,39,0213
+#
+DISCID=9f0d2e0c
+DTITLE=Claire Martin - He Never Mentioned Love
+DYEAR=1900
+DGENRE=Country
+TTITLE0=01 - He Never Mentioned Love
+TTITLE1=02 - Forget Me
+TTITLE2=03 - Everything Must Change
+TTITLE3=04 - Travllin Light
+TTITLE4=05 - The Musi That Makes Me Dance
+TTITLE5=06 - All Nicht Long
+TTITLE6=08 - A Song For You
+TTITLE7=09 - Slowly But Shirley
+TTITLE8=10 - Youre Nearer
+TTITLE9=11 - L.A. Breakdown
+TTITLE10=12 - Slowtime
+TTITLE11=13 - The Sun Died
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

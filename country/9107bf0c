@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10500
+#	24875
+#	32550
+#	42640
+#	60664
+#	76277
+#	87457
+#	99877
+#	110697
+#	125805
+#	135585
+#
+# Disc length: 1985 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9107bf0c
+DTITLE=Riders In The Sky - Yodel the Cowboy Way
+DYEAR=1998
+DGENRE=Cowboy Songs
+TTITLE0=That's How the Yodel Was Born
+TTITLE1=Here Comes the Santa Fe
+TTITLE2=Cowpoke
+TTITLE3=Riding the Winds of the West
+TTITLE4=Back in the Saddle Again
+TTITLE5=Blue Montana Skies
+TTITLE6=Singing a Song to the Sky
+TTITLE7=The First Cowboy Song
+TTITLE8=Yodel Blues
+TTITLE9=When the Bloom Is on the Sage
+TTITLE10=At the End of the Rainbow Trail
+TTITLE11=Desert Serenade
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=Gene Autry version\n
+EXTT5=
+EXTT6=
+EXTT7=with Chris O'Connell\n
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

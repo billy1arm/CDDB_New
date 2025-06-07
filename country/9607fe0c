@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7760
+#	20937
+#	31690
+#	43812
+#	57530
+#	69157
+#	84525
+#	94195
+#	109782
+#	129075
+#	141202
+#
+# Disc length: 2048 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9607fe0c
+DTITLE=Frank McCloud and Rawhide - Rebels, Outlaws, Cheatin' Hearts
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Rawhide
+TTITLE1=Dixie
+TTITLE2=Hey, Good Lookin' 
+TTITLE3=High Noon
+TTITLE4=Your Creatin' Heart
+TTITLE5=Ballad Of Jesse James
+TTITLE6=Kaw-Liga
+TTITLE7=Johnny Yuma - The Rebel
+TTITLE8=Ballad Of John and Yoko
+TTITLE9=Ghost Riders In The Sky
+TTITLE10=Summertime Blues
+TTITLE11=Sixteen Tons
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

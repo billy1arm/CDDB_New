@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	9515
+#	19632
+#	31120
+#	43762
+#	56192
+#	65850
+#	78002
+#	91475
+#	104757
+#	117830
+#	128932
+#
+# Disc length: 1847 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=9d07350c
+DTITLE=Chet Atkins - Greatest Hits Volume 3
+DYEAR=1998
+DGENRE=Instrumental
+TTITLE0=Freight Train
+TTITLE1=Wildwood Flower
+TTITLE2=Amazing Grace
+TTITLE3=Wabash Cannon Ball
+TTITLE4=Wimoweh
+TTITLE5=Copper Kettle
+TTITLE6=Rocky Top
+TTITLE7=Birmingham Jail
+TTITLE8=After Midnight
+TTITLE9=Abilene
+TTITLE10=John Henry
+TTITLE11=Will The Circle Be Unbroken
+EXTD=YEAR: 1998 ID3G: 33
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

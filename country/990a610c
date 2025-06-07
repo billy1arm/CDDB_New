@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15859
+#	32097
+#	46110
+#	67320
+#	85477
+#	98575
+#	116675
+#	133802
+#	147827
+#	160867
+#	181765
+#
+# Disc length: 2659 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=990a610c
+DTITLE=DW James - Jack Of All Trades
+DYEAR=1900
+DGENRE=
+TTITLE0=Last Of The Red Hot Fools
+TTITLE1=If I Loved You Less
+TTITLE2=I Treat That Bad Woman Good...
+TTITLE3=Heartbeat (Away)
+TTITLE4=Rose Tattoo
+TTITLE5=Wichita
+TTITLE6=Too Old To Remember
+TTITLE7=Jack Of All Trades
+TTITLE8=Long Time (Gettin' Over U.)
+TTITLE9=Crazy (If I Can't Have U.)
+TTITLE10=What Did I Do
+TTITLE11=Too Busy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

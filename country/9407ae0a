@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     14747
+#     29335
+#     43245
+#     56065
+#     69725
+#     85720
+#     102350
+#     117805
+#     134937
+# 
+# Disc length: 1968 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9407ae0a
+DTITLE=Asleep At The Wheel - The Best Of ...
+DYEAR=1900
+DGENRE=
+TTITLE0=The Letter That Johnny Walker Read
+TTITLE1=Bump Bounce Boogie
+TTITLE2=Miles And Miles Of Texas
+TTITLE3=Route 66
+TTITLE4=Nothin' Takes The Place Of You
+TTITLE5=The Trouble With Lovin' Today
+TTITLE6=Choo Choo Ch'boogie
+TTITLE7=Texas, Me And You
+TTITLE8=Jumpin' At The Woodside
+TTITLE9=We've Gone As Far As We Can Go
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

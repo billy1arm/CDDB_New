@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	175
+#	12480
+#	26505
+#	40210
+#	55140
+#	74942
+#	90425
+#	99245
+#	114015
+#	127150
+#	150337
+#	169275
+#
+# Disc length: 2390 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=9609540c
+DTITLE=Hugh Moffatt - Troubador
+DYEAR=1900
+DGENRE=
+TTITLE0=The Way Love Is
+TTITLE1=Rose Of My Heart
+TTITLE2=I'll Leave The Rest To You
+TTITLE3=Somewhere In Kansas
+TTITLE4=How Could I Love Her So Much
+TTITLE5=Roses, Love And Promises
+TTITLE6=Hard Times Come Again No More
+TTITLE7=Last Night I Dreamed Of Loving You
+TTITLE8=Praise The Lord And Send Me The Money
+TTITLE9=The Devil Took The Rest
+TTITLE10=The Old Songs
+TTITLE11=For Mary
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

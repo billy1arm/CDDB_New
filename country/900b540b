@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  18555
+#  37512
+#  60434
+#  81615
+#  98021
+#  119691
+#  139402
+#  160199
+#  177966
+#  197047
+#
+# Disc length: 2902 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.30
+#
+DISCID=900b540b
+DTITLE=Dean Brothers - Wild West Hero
+DYEAR=1900
+DGENRE=
+TTITLE0=Wild West Hero
+TTITLE1=Limbo Lady
+TTITLE2=Hey Operator
+TTITLE3=My Baby Thinks She's A Train
+TTITLE4=You're Gonna Miss Me
+TTITLE5=The Bull Ride
+TTITLE6=Wild West Hero (DM)
+TTITLE7=Limbo Lady (DM)
+TTITLE8=My Baby Thinks She's A Train (DM)
+TTITLE9=You're Gonna Miss Me (DM)
+TTITLE10=The Bull Ride (DM)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

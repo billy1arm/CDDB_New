@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17320
+#     28557
+#     34965
+#     48437
+#     57962
+#     81637
+#     90990
+#     108577
+#     115779
+#     129907
+#     136050
+# 
+# Disc length: 2281 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9108e70c
+DTITLE=Sandman - Roll Out, Cowboy
+DYEAR=1900
+DGENRE=
+TTITLE0=Roll Out, Cowboy
+TTITLE1=Talkin' Bored to Death Hormel Chili Blues
+TTITLE2=Food
+TTITLE3=12-ft.-High Tires and a 12-yr.-Old Girlfriend
+TTITLE4=Everything is Free
+TTITLE5=lower-case blues
+TTITLE6=Ronald McDonald
+TTITLE7=Heart-Break Was Her Name
+TTITLE8=199 DUZ
+TTITLE9=Tribute to Rapper's Delight
+TTITLE10=Tribute to John Cage (80 seconds of silence)
+TTITLE11=Untitled Freestyle #1
+EXTD=
+EXTT0=
+EXTT1=\n
+EXTT2=\n
+EXTT3=
+EXTT4=\n
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=\n
+EXTT10=
+EXTT11=\n
+PLAYORDER=

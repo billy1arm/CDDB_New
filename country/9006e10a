@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     9555
+#     28378
+#     40263
+#     52355
+#     65680
+#     82028
+#     94400
+#     106130
+#     116768
+# 
+# Disc length: 1763 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9006e10a
+DTITLE=Tammy Wynette - Always Gets It Right
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Come Home a Drinkin' (With Lovin' On Your Mind)
+TTITLE1=Little Things
+TTITLE2=Til' I Get It Right
+TTITLE3=Stand By Your Man
+TTITLE4=Apartment #9
+TTITLE5=I Almost Forgot
+TTITLE6=Cry, Cry Again
+TTITLE7=I Don't Wanna Play House
+TTITLE8=I Still Believe In Fairytales
+TTITLE9=Next To You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

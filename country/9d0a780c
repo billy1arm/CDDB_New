@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16367
+#	32720
+#	49807
+#	66715
+#	79395
+#	95450
+#	111325
+#	128885
+#	150225
+#	166302
+#	183950
+#
+# Disc length: 2682 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=9d0a780c
+DTITLE=Gian and Giovani - Sertanejo and Forró JT 2
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Papel de Chiclete
+TTITLE1=Não Vá Embora
+TTITLE2=Espelho das Águas
+TTITLE3=Chuva de Saudade
+TTITLE4=Eu Acredito Nela
+TTITLE5=Viagem Louca
+TTITLE6=Por Ela
+TTITLE7=Medo
+TTITLE8=Vou te Procurar
+TTITLE9=Pedindo Trégua
+TTITLE10=O Amor Acabou
+TTITLE11=Dói
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

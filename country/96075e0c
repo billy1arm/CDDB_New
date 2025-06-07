@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  10902
+#  24002
+#  33890
+#  49122
+#  59495
+#  72575
+#  84640
+#  97955
+#  109157
+#  119347
+#  131375
+#
+# Disc length: 1888 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.23
+#
+DISCID=96075e0c
+DTITLE=Alisa Jones - Old Time Gospel Hymns
+DYEAR=1900
+DGENRE=
+TTITLE0=Church in the Wildwood
+TTITLE1=Amazing Grace
+TTITLE2=Unclouded Day
+TTITLE3=Life's Railway to Heaven
+TTITLE4=leaning on the Everlasting Arms
+TTITLE5=Softly and Tenderly
+TTITLE6=Shall We Gather at the River
+TTITLE7=Come Thou Fount
+TTITLE8=Angel Band
+TTITLE9=Old Time Religion
+TTITLE10=In the Sweet Bye and Bye
+TTITLE11=What a Friend We Have in Jesus
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

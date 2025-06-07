@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	13887
+# 	25050
+# 	41050
+# 	52750
+# 	61825
+# 	76412
+# 	92437
+# 	104875
+# 	116700
+# 	126525
+#
+# Disc length: 1932 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=90078a0b
+DTITLE=Charley Pride - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Never Been So Loved (In All My Life)
+TTITLE1=Missin' You
+TTITLE2=You're My Jamaica
+TTITLE3=When I Stop Leaving (I'll Be Gone)
+TTITLE4=Honky Tonk Blues
+TTITLE5=Burgers and Fries
+TTITLE6=Roll On Mississippi
+TTITLE7=A Whole Lotta Things To Sing About
+TTITLE8=She's Just An Old Love Turned Memory
+TTITLE9=Someone Loves You Honey
+TTITLE10=Where Do I Put Her Memory
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

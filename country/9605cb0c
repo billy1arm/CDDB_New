@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	7625
+#	16445
+#	25255
+#	38770
+#	44452
+#	56662
+#	65207
+#	74615
+#	85017
+#	93125
+#	103140
+#
+# Disc length: 1485 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.07.15)
+#
+DISCID=9605cb0c
+DTITLE=Various Artist - Old Time Country Christmas
+DYEAR=1998
+DGENRE=Instrumental
+TTITLE0=Joy to the World
+TTITLE1=Good King Wenseslas
+TTITLE2=Away in a Manger
+TTITLE3=What Child is This
+TTITLE4=Deck the Halls
+TTITLE5=O Come, O Come Emmanuel
+TTITLE6=Carol of the Birds
+TTITLE7=Angels We Have Heard On High
+TTITLE8=Silent Night
+TTITLE9=Hark the Herald Angels Sing
+TTITLE10=God Rest Ye merry Gentlemen
+TTITLE11=O Come All Ye Faithful
+EXTD=ID3G:  33 YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

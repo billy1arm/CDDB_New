@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14634
+#     23807
+#     35869
+#     47346
+#     60033
+#     69359
+#     88517
+#     100097
+#     110248
+#     119797
+#     128453
+# 
+# Disc length: 1823 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9a071d0c
+DTITLE=Various Artist - In Love In Paris
+DYEAR=1900
+DGENRE=
+TTITLE0=Plasir D'Amour
+TTITLE1=Fleur De Paris
+TTITLE2=Marchands De Muguet Fascination
+TTITLE3=Julot L'Argentin
+TTITLE4=De Suresnes Jusqu'a passy
+TTITLE5=Potpourri
+TTITLE6=A Lysandre
+TTITLE7=Allons Au Bois D'Meudon
+TTITLE8=Et Comment Java
+TTITLE9=Chaussee D'Antin
+TTITLE10=Folies-Bergee
+TTITLE11=In Love In Paris
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

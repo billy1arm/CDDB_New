@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14175
+#	32000
+#	51717
+#	64020
+#	84245
+#	102505
+#	122352
+#	134725
+#	148982
+#
+# Disc length: 2278 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=9808e40a
+DTITLE=The Johner Brothers - Ten More Miles
+DYEAR=1995
+DGENRE=Country
+TTITLE0=Ten More Miles
+TTITLE1=First Love
+TTITLE2=These Walls
+TTITLE3=A Little Too Late
+TTITLE4=Feel So Bad
+TTITLE5=Hillybilly, Country Boy
+TTITLE6=Home In Our Heart
+TTITLE7=Some Lonely Women
+TTITLE8=Livin' The Way I Am
+TTITLE9=Children Of The Wildworld
+EXTD=\nYEAR: 1995  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

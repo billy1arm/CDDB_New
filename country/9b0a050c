@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12542
+#	25375
+#	42032
+#	61707
+#	85415
+#	100445
+#	120060
+#	134085
+#	149430
+#	164327
+#	182310
+#
+# Disc length: 2567 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=9b0a050c
+DTITLE=K99 - County Cares For Kids Vol#1
+DYEAR=1995
+DGENRE=Country
+TTITLE0=Woodie Purcell - Enuff's Enuff
+TTITLE1=Jay Louis Clementi - Darlin'
+TTITLE2=Jerry Shaffer - He Left Her Crying
+TTITLE3=Bob Purcell - She Don't Love Here
+TTITLE4=The Rogues - Wild Bull Fighter
+TTITLE5=Jerry Shaffer - Makin' Me Blue
+TTITLE6=Bob Purcell - Just A Whisper
+TTITLE7=The Rogues - By Gone Cowboy
+TTITLE8=Jay Louis Clementi - Workin' Mom
+TTITLE9=Jerry Shaffer - Heart Of Steel
+TTITLE10=The Rogues - Few Years Back
+TTITLE11=Jay Louis Clementi - Fire In My Heart
+EXTD=YEAR: 1995  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

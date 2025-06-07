@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18020
+#	34040
+#	53000
+#	70427
+#	85092
+#	101000
+#	121532
+#	134555
+#	150877
+#	169067
+#	185990
+#
+# Disc length: 2760 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=920ac60c
+DTITLE=Warren Brothers - Beautiful Day In The Cold Cruel World
+DYEAR=1998
+DGENRE=Country
+TTITLE0=Guilty
+TTITLE1=Surviving Emily
+TTITLE2=Better Man
+TTITLE3=Greyhound Bus
+TTITLE4=The Enemy
+TTITLE5=Loneliest Girl In The World
+TTITLE6=Cold Cruel World
+TTITLE7=She Wants To Rock
+TTITLE8=I Tried
+TTITLE9=The One I Can't Live Without
+TTITLE10=Just Another Sad Song
+TTITLE11=Nowhere Fast
+EXTD=\n YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11452
+#     22772
+#     35290
+#     47445
+#     59505
+#     70810
+#     80417
+#     94892
+#     108977
+#     122130
+#     134125
+# 
+# Disc length: 1916 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=98077a0c
+DTITLE=Bill Monroe and the Blue Grass Boys - In The Pines
+DYEAR=1900
+DGENRE=
+TTITLE0=New Mule Skinner Blues
+TTITLE1=Sittin' Alone in the Moonlight
+TTITLE2=Uncle Pen
+TTITLE3=Footprints in the Snow
+TTITLE4=Cabin of Love
+TTITLE5=Close By
+TTITLE6=Blue Moon of Kentucky
+TTITLE7=In the Pines
+TTITLE8=My Little Georgia Rose
+TTITLE9=The First Whippoorwill
+TTITLE10=Plant Some Flowers by My Grave
+TTITLE11=Used to Be
+EXTD=
+EXTT0=Jimmy Rodgers, George Vaughn\n
+EXTT1=Bill Monroe\n
+EXTT2=Bill Monroe\n
+EXTT3=Rupert Jones\n
+EXTT4=Birch Monroe\n
+EXTT5=Bill Monroe, Robert H. Van Winkle\n
+EXTT6=Bill Monroe\n
+EXTT7=Jimmie Davis, Clayton McMichen\n
+EXTT8=Bill Monroe\n
+EXTT9=Bill Monroe\n
+EXTT10=Jimie Davis, Robert McClendon\n
+EXTT11=Bill Monroe\n
+PLAYORDER=

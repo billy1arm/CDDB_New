@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14304
+#	30138
+#	44521
+#	63541
+#	78712
+#	94740
+#	113640
+#	132976
+#	152761
+#	169224
+#	188335
+#
+# Disc length: 2700 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=900a8a0c
+DTITLE=Sampler - Die wunderbare Welt der Mundharmonika
+DYEAR=2008
+DGENRE=Country
+TTITLE0=Down By The Riverside
+TTITLE1=Moon River
+TTITLE2=Heart Of Gold
+TTITLE3=Colorado Sundown
+TTITLE4=Stand By Me
+TTITLE5=Spiel mir das Lied vom Tod
+TTITLE6=The Streets Of Berlin
+TTITLE7=Rose Of Allendale
+TTITLE8=What A Beautiful Land
+TTITLE9=Blowin' In The Wind
+TTITLE10=This Velvet Sky
+TTITLE11=Take Me Home, Country Roads
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

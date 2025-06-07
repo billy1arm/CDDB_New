@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20705
+#	40160
+#	51932
+#	71932
+#	85295
+#	102090
+#	118055
+#	134577
+#	149975
+#
+# Disc length: 3990 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=9f0f940a
+DTITLE=Brooks and Dunn - Brand New Man
+DYEAR=1900
+DGENRE=
+TTITLE0=Brand New Man
+TTITLE1=My Next Broken Heart
+TTITLE2=Cool Drink Of Water
+TTITLE3=Cheating On The Blues
+TTITLE4=Neon Moon
+TTITLE5=Lost And Found
+TTITLE6=I've Got A Lot To Learn
+TTITLE7=Boot Scootin' Boogie
+TTITLE8=I'm No Good
+TTITLE9=Still In Love With You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

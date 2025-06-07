@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14667
+#	32360
+#	50652
+#	65782
+#	80442
+#	97467
+#	117357
+#	137212
+#	145895
+#
+# Disc length: 2194 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=9708900a
+DTITLE=The Bulla Family - You've Got to Stand for Something
+DYEAR=1900
+DGENRE=
+TTITLE0=You've Got to Stand for Something
+TTITLE1=Grandpa
+TTITLE2=Sally Goodin
+TTITLE3=Daddy's Love
+TTITLE4=Judah's Advance
+TTITLE5=What a Friend We Have in Jesus
+TTITLE6=Love Waits
+TTITLE7=He Walked on Water
+TTITLE8=Nervous Breakdown
+TTITLE9=God's Own Lamb
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

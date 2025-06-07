@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13427
+#     27457
+#     45425
+#     63850
+#     74952
+#     90035
+#     106720
+#     123680
+#     138325
+#     153625
+#     165840
+# 
+# Disc length: 2402 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9b09600c
+DTITLE=Norm Bodkin and Kenny Kitching - Country's Best
+DYEAR=1900
+DGENRE=
+TTITLE0=Walk Right Back
+TTITLE1=Blanket on the Ground
+TTITLE2=Silver Wings
+TTITLE3=When You and I Were Young Maggie
+TTITLE4=Tennessee Waltz
+TTITLE5=Fraulein
+TTITLE6=I Fall to Pieces
+TTITLE7=And I Love You So
+TTITLE8=Me and Bobby McGee
+TTITLE9=When the Harvest Days are Over Jessie Dear
+TTITLE10=Six Days on the Road
+TTITLE11=Satin Sheets
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

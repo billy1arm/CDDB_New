@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16878
+#	29784
+#	43789
+#	59574
+#	71177
+#	90763
+#	102552
+#	121090
+#	132936
+#	151540
+#	166888
+#
+# Disc length: 2502 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=9909c40c
+DTITLE=James Taylor Curtis - James Tatlor Curtis
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Eighteen Days
+TTITLE1=Looking for a honkey tonk angel
+TTITLE2=Midnight Hauler
+TTITLE3=Could I ask you not to dance
+TTITLE4=A man you'll always be
+TTITLE5=Did I just catch you on a good day
+TTITLE6=Only dog in the house
+TTITLE7=I need you
+TTITLE8=Keep her out of my dreams
+TTITLE9=I'm going crazy
+TTITLE10=Country as can be
+TTITLE11=Are you listening Uncle Sam
+EXTD=\nYEAR: 2001  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

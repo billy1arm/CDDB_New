@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15000
+#	25725
+#	43800
+#	56925
+#	71400
+#	80475
+#	91425
+#	107700
+#	123975
+#	135525
+#	146325
+#
+# Disc length: 2124 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=99084a0c
+DTITLE=The Everly Brothers - Pass The Chicken And Listen
+DYEAR=1972
+DGENRE=Country
+TTITLE0=Lay It Down
+TTITLE1=Husbands And Wives
+TTITLE2=Woman Don't You Try To Tie Me Down
+TTITLE3=Sweet Memories
+TTITLE4=Ladies Love Outlaws
+TTITLE5=Not Fade Away
+TTITLE6=Watchin' It Go
+TTITLE7=Paradise
+TTITLE8=Somebody Nobody Knows
+TTITLE9=Good Hearted Woman
+TTITLE10=A Nickel For The Fiddler
+TTITLE11=Rocky Top
+EXTD=YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	160
+# 	13980
+# 	30835
+# 	41110
+# 	55060
+# 	69647
+# 	83037
+# 	99235
+# 	112460
+# 	129910
+# 	143037
+#
+# Disc length: 2129 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=90084f0b
+DTITLE=The Wolverines - Running Free
+DYEAR=1900
+DGENRE=
+TTITLE0=If I Had My Way
+TTITLE1=Like Your Mamma Said
+TTITLE2=Don't Let This Poor Boy Down
+TTITLE3=Nashville, Tennessee
+TTITLE4=The Wolverine
+TTITLE5=Shame, Shame, Shame
+TTITLE6=Baby I'm Drowning
+TTITLE7=Running Free
+TTITLE8=I Want To Be All Over You
+TTITLE9=Everybody's Got To Win
+TTITLE10=They Like It
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

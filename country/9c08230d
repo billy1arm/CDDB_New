@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	10350
+#	21570
+#	31572
+#	46647
+#	57972
+#	68847
+#	82550
+#	94550
+#	112697
+#	122675
+#	134860
+#	147075
+#
+# Disc length: 2086 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=9c08230d
+DTITLE=Stompin' Tom Connors - To It And At It
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Prince Edward Island, Happy Birthday
+TTITLE1=To It And At It
+TTITLE2=Keepin' Nora Waitin'
+TTITLE3=Marten Hartwell Story
+TTITLE4=New Brunswick And Mary
+TTITLE5=Moonlight Lady
+TTITLE6=Muk Luk Shoo
+TTITLE7=Manitoba
+TTITLE8=Don Messer Story
+TTITLE9=Alcan Run
+TTITLE10=Pizza Pie Love
+TTITLE11=Golden Gone By
+TTITLE12=Cornflakes
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  20945
+#  33995
+#  45915
+#  57145
+#  67665
+#  79512
+#  92582
+#  103580
+#  117900
+#  126857
+#  144615
+#
+# Disc length: 2076 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=94081a0c
+DTITLE=Toni Stricker - Toni Stricker - erdverbunden
+DYEAR=1900
+DGENRE=
+TTITLE0=Abend im Weingarten
+TTITLE1=Die Prozession
+TTITLE2=Baba's Tanz
+TTITLE3=Zaertlichkeit
+TTITLE4=Kindergeheimnisse
+TTITLE5=Verwehte Jahre
+TTITLE6=Ostwind
+TTITLE7=Gedanken
+TTITLE8=Schatten
+TTITLE9=Morgentau
+TTITLE10=Tanze, meine Traurigkeit
+TTITLE11=Erdverbunden
+EXTD=Toni Stricker - Geige
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

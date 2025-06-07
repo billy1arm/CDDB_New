@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  9726
+#  22097
+#  36138
+#  50507
+#  64273
+#  81120
+#  97942
+#  108287
+#  120750
+#  135384
+#  144173
+#
+# Disc length: 2042 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=9007f80c
+DTITLE=Moe Bandy - Watching Over You
+DYEAR=1900
+DGENRE=
+TTITLE0=I Believe
+TTITLE1=Just A Closer Walk
+TTITLE2=Peace In The Valley
+TTITLE3=Watching Over You
+TTITLE4=Amazing Grace
+TTITLE5=Many Mansions
+TTITLE6=Jesus, You're My Hero
+TTITLE7=I'll Fly Away
+TTITLE8=In The Sweet Bye and Bye
+TTITLE9=Wayfarin' Stranger
+TTITLE10=Clap Your Hands
+TTITLE11=Swing Low, Sweet Chariot
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

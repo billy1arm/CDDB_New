@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18451
+#	40117
+#	61671
+#	83409
+#	106578
+#	127633
+#	149353
+#	174697
+#	197113
+#	215904
+#	232016
+#
+# Disc length: 3565 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=9a0deb0c
+DTITLE=Select Mix - Select Mix - Country Essentials Volume 6
+DYEAR=2008
+DGENRE=Country
+TTITLE0=Keith Anderson - Pickin Wildflowers (BPM 76)
+TTITLE1=Gary Allan - Watching Airplanes (BPM 80)
+TTITLE2=Tim McGraw - Where The Green Grass Grows (BPM 80)
+TTITLE3=Faith Hill - Mississippi Girl (BPM 84)
+TTITLE4=Sugarland - Baby Girl (BPM 84)
+TTITLE5=Sammy Kershaw - She Don't Know She's Beautiful (BPM 116)
+TTITLE6=Brooks and Dunn - My Maria (BPM 125)
+TTITLE7=Kenny Chesney and George Strait - Shiftwork (BPM 129)
+TTITLE8=Alan Jackson - Small Town Southern Man (BPM 133)
+TTITLE9=Garth Brooks - Aint Going Down ('Till The Sun Comes Up) (BPM 170)
+TTITLE10=Toby Keith - Get My Drink On (BPM 200)
+TTITLE11=Brooks and Dunn VS. Shania Twain - Boot Scootin' Medley (BPM 130)
+EXTD=YEAR: 2008
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

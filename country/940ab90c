@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12387
+#	26356
+#	43694
+#	60756
+#	76521
+#	90522
+#	112162
+#	134411
+#	149010
+#	172940
+#	184876
+#
+# Disc length: 2747 seconds
+#
+# Revision: 9
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=940ab90c
+DTITLE=Les Cowboys Fringants - 12 grandes chansons - Sur mon canapé (2cd)
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Marcel Galarneau
+TTITLE1=Le plombier
+TTITLE2=Spécial #6
+TTITLE3=Maurice au bistro
+TTITLE4=Goldie
+TTITLE5=Denise Martinez
+TTITLE6=Mon pays (reel des aristocrates)
+TTITLE7=Le quai de Berthier
+TTITLE8=Grosse femme
+TTITLE9=La gosse à Comeau
+TTITLE10=La culbute
+TTITLE11=Banlieue
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

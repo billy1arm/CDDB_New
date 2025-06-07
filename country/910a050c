@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    150
+#    14842
+#    33127
+#    48485
+#    61535
+#    77805
+#    100610
+#    117310
+#    132252
+#    143700
+#    157805
+#    173235
+#
+# Disc length: 2567 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.4.1  (wjohn@fix.net)
+#
+DISCID=910a050c
+DTITLE=Various Artist - 
+DTITLE=The Class of Country 1985-1989
+DYEAR=1900
+DGENRE=
+TTITLE0=A Woman In Love
+TTITLE1=You Can Dream Of Me
+TTITLE2=Never Be You
+TTITLE3=No Matter How High
+TTITLE4=I'm No Stranger To The Rain
+TTITLE5=You Still Love Me
+TTITLE6=Rose In Parade
+TTITLE7=Dixie Road
+TTITLE8=Timber, I'm Falling In Love
+TTITLE9=I'll Leave This World Loving You
+TTITLE10=What's A Memory Like You
+TTITLE11=I'll Still Be Loving You
+EXTD=Hip-O Records HIPD-40043
+EXTT0=Ronnie Milsap
+EXTT1=Steve Wariner
+EXTT2=Rosanne Cash
+EXTT3=Oak Ridge Boys
+EXTT4=Keith Whitley
+EXTT5=Dan Seals
+EXTT6=Waylon Jennings
+EXTT7=Lee Greenwood
+EXTT8=Patty Loveless
+EXTT9=Ricky Van Shelton
+EXTT10=(Doing In A Love Like This) /John Schneider
+EXTT11=Restless Heart
+PLAYORDER=

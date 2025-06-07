@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10937
+#	21500
+#	34212
+#	46850
+#	57925
+#	70475
+#	80700
+#	98262
+#	108087
+#	120412
+#	130537
+#
+# Disc length: 1865 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=9107470c
+DTITLE=Johnny Cash - Inspirations
+DYEAR=1998
+DGENRE=Country
+TTITLE0=daddy sang bass
+TTITLE1=rock of ages
+TTITLE2=the old rugged cross
+TTITLE3=peace in the valley
+TTITLE4=he'll understand and say well done
+TTITLE5=he turned water into wine
+TTITLE6=keep on the sunny side
+TTITLE7=were you there(when they crucified my lord)
+TTITLE8=the great speckled bird
+TTITLE9=thats enough
+TTITLE10=these hands
+TTITLE11=amen
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

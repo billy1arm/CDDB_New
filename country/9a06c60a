@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15740
+#     29950
+#     40917
+#     55987
+#     65747
+#     74720
+#     91395
+#     103862
+#     116632
+# 
+# Disc length: 1736 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=9a06c60a
+DTITLE=Gold City - Lord Do it Again
+DYEAR=1900
+DGENRE=
+TTITLE0=Lord Do It Again
+TTITLE1=I've Been to Calvary
+TTITLE2=The Dearest Friend I Ever Had
+TTITLE3=How Big Is God
+TTITLE4=When I Move
+TTITLE5=Wonderful Time Up There
+TTITLE6=Then I Met The Master
+TTITLE7=It Feels So Good
+TTITLE8=Somebody Touched The Lord
+TTITLE9=I Hold A Clear Title
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

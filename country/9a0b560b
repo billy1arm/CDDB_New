@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  20907
+#  29882
+#  46712
+#  59590
+#  76367
+#  107255
+#  136285
+#  173040
+#  185422
+#  202212
+#
+# Disc length: 2904 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Advanced CD Ripper Pro 2.0
+#
+DISCID=9a0b560b
+DTITLE=µÃµ½ - unknown
+DYEAR=2003
+DGENRE=other
+TTITLE0=Track01
+TTITLE1=Track02
+TTITLE2=Track03
+TTITLE3=Track04
+TTITLE4=Track05
+TTITLE5=Track06
+TTITLE6=Track07
+TTITLE7=Track08
+TTITLE8=Track09
+TTITLE9=Track10
+TTITLE10=Track11
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11210
+#	19812
+#	30180
+#	43297
+#	54515
+#	72620
+#	84410
+#	96005
+#	112052
+#	124870
+#
+# Disc length: 1836 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.2
+#
+DISCID=92072a0b
+DTITLE=Jimmy Buchanan - To Love and Live Together
+DYEAR=1900
+DGENRE=
+TTITLE0=Carolina Saturday Night
+TTITLE1=Livin' the Good Life
+TTITLE2=To Love and Live Together
+TTITLE3=Everytime You Stumble, I Fall
+TTITLE4=Child of the Sun
+TTITLE5=Little Bit of Lovin'
+TTITLE6=You Sure Made It Rain on My Parade
+TTITLE7=Sundown and Sorrow
+TTITLE8=Your Turn to Cry
+TTITLE9=Gone and Left Me Blues
+TTITLE10=Once Upon a Fiddle
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

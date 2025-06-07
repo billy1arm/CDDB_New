@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18582
+#	32570
+#	47177
+#	63185
+#	78130
+#	93065
+#	107812
+#	121677
+#	136907
+#	152997
+#	170247
+#
+# Disc length: 2492 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=9109ba0c
+DTITLE=Terry Radigan - Radigan
+DYEAR=2000
+DGENRE=Country
+TTITLE0=My Love Is Real
+TTITLE1=Goodbye
+TTITLE2=Blink
+TTITLE3=The Things You'll Do
+TTITLE4=Everything Starts Out Small
+TTITLE5=So What
+TTITLE6=Happiness
+TTITLE7=When I Get Around You
+TTITLE8=Let Him Go
+TTITLE9=Love Wouldn't Lie to Me
+TTITLE10=When It Comes to You
+TTITLE11=50 Kisses
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

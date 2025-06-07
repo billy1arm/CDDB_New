@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11885
+#	20092
+#	36587
+#	48180
+#	58350
+#	70800
+#	78920
+#	91557
+#	104597
+#	113547
+#	125565
+#
+# Disc length: 1881 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=9f07570c
+DTITLE=Roland Cedermark - Två Solröda Segel
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Två Solröda Segel
+TTITLE1=Just A Gigolo
+TTITLE2=Golden Earrings
+TTITLE3=Ramblin' Rose
+TTITLE4=Rock Around The Clock
+TTITLE5=How Near Is Love
+TTITLE6=Två Små Fåglar På En Gren
+TTITLE7=En Prästkrage I Min Hand
+TTITLE8=Only You
+TTITLE9=Red River Rock
+TTITLE10=Send Me The Pillow
+TTITLE11=Låt Vår Kärlek Aldrig Dö
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

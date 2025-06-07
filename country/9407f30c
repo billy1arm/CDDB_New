@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11552
+#     24510
+#     38287
+#     49805
+#     63175
+#     76410
+#     90312
+#     104057
+#     116950
+#     129225
+#     139942
+# 
+# Disc length: 2037 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9407f30c
+DTITLE=Julio Jaramillo - La Musica De Julio Jaramillo 4 Cinco centavitos
+DYEAR=1900
+DGENRE=
+TTITLE0=Cinco centavitos
+TTITLE1=Miedo de hablarte
+TTITLE2=De cigarro en cigarro
+TTITLE3=Un disco mas
+TTITLE4=Alma mia
+TTITLE5=Naufrago de amor
+TTITLE6=El alma en los labios
+TTITLE7=Que te perdone Dios
+TTITLE8=Falsia
+TTITLE9=Cicatrices
+TTITLE10=Se me olvido otra vez
+TTITLE11=Deuda
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

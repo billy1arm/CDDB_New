@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17300
+#     31317
+#     48327
+#     63667
+#     78760
+#     98110
+#     118565
+#     134995
+#     149627
+#     167820
+# 
+# Disc length: 2421 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9509730b
+DTITLE=Joe Diffie - Honkytonk Atitude
+DYEAR=1900
+DGENRE=
+TTITLE0=Honkytonk Atitude
+TTITLE1=I'm not thru Losing You
+TTITLE2=Prop me Up beside the Jukebox
+TTITLE3=If I had any Pride Left at all
+TTITLE4=I can Walk the Line if it Ain't too Straight
+TTITLE5=Somewhere under the Rainbow
+TTITLE6=John Deere Green
+TTITLE7=In my Own Backyard
+TTITLE8=Here Comes the Train
+TTITLE9=And that was the Easy Part
+TTITLE10=Cold Budweiser and a Sweet Tater
+EXTD=
+EXTT0=By Joe Diffie and Lee Bogan\n
+EXTT1=By Chris Waters Lonnie Wilson and Joe \nDiffie\n
+EXTT2=Rick Blaylock and Kerry Kurt Phillips and\nHoward Perdew\n
+EXTT3=By Troy Seals and Eddie Setser and\nJohn Greenbaum\n
+EXTT4=Kerry Kurt Phillips and Randy Boudreaux\n
+EXTT5=Jerry Laseter and Kerry Kurt Phillips and\nScott Blackwell\n
+EXTT6=By Dennis Linde\n
+EXTT7=By Andy Spooner and Kerry Kurt Phillips \nand Joe Diffie\n
+EXTT8=L. David Lewis\n
+EXTT9=By Wendell Mobley and John Jarrard\n
+EXTT10=By Teddy Gentry and Greg Fowler and \nRonnie Rogers\n
+PLAYORDER=

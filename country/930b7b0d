@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15042
+#	31854
+#	55707
+#	79245
+#	94328
+#	112665
+#	133876
+#	145290
+#	159232
+#	174529
+#	188399
+#	202830
+#
+# Disc length: 2941 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=930b7b0d
+DTITLE=Bobbilynn Band - Halfway Home
+DYEAR=1900
+DGENRE=Country
+TTITLE0=A Little Bit of You
+TTITLE1=A Little Too Much
+TTITLE2=Alive Inside My Heart
+TTITLE3=April's Song
+TTITLE4=Can't Get A Handle on You
+TTITLE5=Can't Go Back
+TTITLE6=Fool
+TTITLE7=Halfway Home
+TTITLE8=Like A Freight Train
+TTITLE9=Lovesick Cowgirls
+TTITLE10=My Heart Still Belongs to You
+TTITLE11=When I Lost You
+TTITLE12=When I'm Lying Close to You (Iva's Song)
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

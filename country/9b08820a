@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13480
+#  29822
+#  43847
+#  61967
+#  83037
+#  100800
+#  119050
+#  134317
+#  148350
+#
+# Disc length: 2180 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.30
+#
+DISCID=9b08820a
+DTITLE=Various Artist - Unbeatable Wheatables/Unbeatable Country
+DYEAR=1900
+DGENRE=
+TTITLE0=I Wouldn't Have It Any Other Way
+TTITLE1=Forever's As Far As I'll Go
+TTITLE2=What A Woman Wants
+TTITLE3=I Never Knew Lonely
+TTITLE4=Something Red
+TTITLE5=State Of Mind
+TTITLE6=First Time For Everything
+TTITLE7=Have Mercy
+TTITLE8=He Ain't Worth Missing
+TTITLE9=Goodbye Says It All
+EXTD=
+EXTT0=Aaron Tippen
+EXTT1=Alabama
+EXTT2=Lari White
+EXTT3=Vince Gill
+EXTT4=Lorrie Morgan
+EXTT5=Clint Black
+EXTT6=Little Texas
+EXTT7=The Judds
+EXTT8=Toby Keith
+EXTT9=Blackhawk
+PLAYORDER=

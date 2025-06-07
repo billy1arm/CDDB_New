@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15006
+#	29916
+#	46914
+#	62674
+#	75919
+#	90106
+#	105385
+#	120840
+#	135295
+#	150636
+#	161844
+#	178937
+#	193323
+#
+# Disc length: 2742 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta9
+#
+DISCID=9c0ab40e
+DTITLE=Apvedcels - Ta bija,ta bus
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Ta bija,ta bus
+TTITLE1=Puika
+TTITLE2=Zemenes
+TTITLE3=Kamer
+TTITLE4=Lauj,lai lietas notiek
+TTITLE5=Par pavasari
+TTITLE6=Odi
+TTITLE7=Janis
+TTITLE8=Kometa
+TTITLE9=Veja
+TTITLE10=Merija
+TTITLE11=Veca pils
+TTITLE12=Lietus
+TTITLE13=Jauka dzive
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

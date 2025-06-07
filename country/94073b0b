@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13922
+#     25872
+#     33817
+#     44820
+#     57237
+#     67012
+#     77832
+#     92380
+#     116190
+#     126295
+# 
+# Disc length: 1853 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=94073b0b
+DTITLE=Jimmy Dean - Jimmy Dean's Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Big Bad John
+TTITLE1=The Cajun Queen
+TTITLE2=Harvest of Sunshine
+TTITLE3=Little Black Book
+TTITLE4=Steel Men
+TTITLE5=The First Thing Ev'ry Morning (And The Last Thing Ev'ry Night)
+TTITLE6=Sam Hill
+TTITLE7=P.T. 109
+TTITLE8=To A Sleeping Beauty
+TTITLE9=The Farmer and the Lord
+TTITLE10=I Won't Go Huntin' with You Jake
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

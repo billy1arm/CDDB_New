@@ -1,0 +1,53 @@
+# xmcd
+# Copyright (c) 1998 CDDB Inc.
+#
+# Track frame offsets:
+#	182
+#	11697
+#	23947
+#	33652
+#	45145
+#	58825
+#	67122
+#	77685
+#	86692
+#	96942
+#	109602
+#	120712
+#
+# Disc length: 1847 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.70
+#
+DISCID=9807350c
+DTITLE=Various Artist - Cowboy Christmas, A
+DYEAR=1900
+DGENRE=
+TTITLE0=Christmas On The Plains
+TTITLE1=The Night Before Christmas (In Texas, That Is)
+TTITLE2=Merry Texas Christmas You All!
+TTITLE3=Christmas Carols By The Old Corral
+TTITLE4=Santa Claus Is Ridin' The Trail
+TTITLE5=A Root'n Toot'n Santa Claus
+TTITLE6=Get A Christmas Tree For Johnny
+TTITLE7=Santa's Gonna Come In A Stagecoach
+TTITLE8=I'm Gonna Lasso Santa Claus
+TTITLE9=Silver Bells
+TTITLE10=Christmas For Cowboys
+TTITLE11=Cowboy's Christmas
+EXTD=
+EXTT0=Roy Rodgers and Dale Evans\n
+EXTT1=Gene Autry with the Cass County Boys \nand Carl Cotner's Orchestra\n
+EXTT2=Ernest Tubb with the Beasley Sisters\n
+EXTT3=Tex Ritter\n
+EXTT4=Dick Haymes\n
+EXTT5=Tennessee Ernie Ford\n
+EXTT6=The Horse Soldiers\n
+EXTT7=Buck Owens\n
+EXTT8=Brenda Lee\n
+EXTT9=Clint Walker\n
+EXTT10=John Denver\n
+EXTT11=Wayne Newton\n
+PLAYORDER=

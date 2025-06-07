@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  19970
+#  34287
+#  48590
+#  79097
+#  90085
+#  101240
+#  120337
+#  131205
+#  139145
+#  152160
+#  168147
+#
+# Disc length: 2455 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: KiC 2.1 - (C) 1996-1998 Alwin Hoogerdijk
+#
+DISCID=9809950c
+DTITLE=BLUEGRASS COLLECTIONS - Blue Ribbon Guitar
+DYEAR=1900
+DGENRE=
+TTITLE0=Mark O'Connor - Blackberry Blossom
+TTITLE1=David Grier - Tarnation
+TTITLE2=Norman Blake and Tony Rice and Doc Watson - Salt Creek
+TTITLE3=Ronnie and Rob McCoury - Shake Your Hips
+TTITLE4=Russ Barenberg - Cooley's Reel
+TTITLE5=Scott Nygaard - Bury Me Beneath the Willow
+TTITLE6=Dan Crary - Huckeberry Hornpipe
+TTITLE7=Wyatt Rice - Back Up and Push
+TTITLE8=Doc and Merle Watson - Fisher's Hornpipe and Devil's Dream
+TTITLE9=Tony Rice - Big Mon
+TTITLE10=Norman Blake - Fiddler's Dram and Whiskey Before Breakfast
+TTITLE11=Old Old House - Country Cooking
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

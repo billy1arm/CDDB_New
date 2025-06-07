@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	151
+#	16584
+#	33665
+#	49284
+#	60468
+#	77372
+#	94366
+#	111385
+#	129060
+#	149291
+#	167271
+#	184842
+#
+# Disc length: 2872 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=920b360c
+DTITLE=Ricardo Arjona - Animal Nocturno
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Libre
+TTITLE1=Mi primera vez
+TTITLE2=Mujeres
+TTITLE3=Tiempo en una botella
+TTITLE4=Como olvidarte
+TTITLE5=Solo
+TTITLE6=Baila conmigo
+TTITLE7=Quien diria
+TTITLE8=Te encontraré
+TTITLE9=Así de ilogico
+TTITLE10=Animal Nocturno
+TTITLE11=Jesus es verbo, no sustantivo
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

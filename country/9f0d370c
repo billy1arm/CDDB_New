@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16739
+#	47341
+#	66774
+#	69937
+#	98185
+#	124176
+#	157472
+#	175532
+#	192905
+#	215765
+#	233700
+#
+# Disc length: 3385 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=9f0d370c
+DTITLE=Kevin Deal - Lovin' Shootin' Cryin' and Dyin'
+DYEAR=1998
+DGENRE=Country
+TTITLE0=Head On
+TTITLE1=Vengeance
+TTITLE2=Grandpa
+TTITLE3=Amazing Grace (by John Newton)
+TTITLE4=Don't Tell Me
+TTITLE5=Good-Bye My Love
+TTITLE6=Sleep at Night
+TTITLE7=Only In My Dreams
+TTITLE8=Wild Woman
+TTITLE9=Walk Away
+TTITLE10=Back Door No More
+TTITLE11=Darkside of the Blues
+EXTD=YEAR: 1998 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

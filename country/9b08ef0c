@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13260
+#	27510
+#	38450
+#	56790
+#	70702
+#	84320
+#	102850
+#	115220
+#	131520
+#	140500
+#	156837
+#
+# Disc length: 2289 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=9b08ef0c
+DTITLE=Tim Watson and Black Creek - Tim Watson and Black Creek
+DYEAR=1900
+DGENRE=
+TTITLE0=Battle of Kuwait
+TTITLE1=Red Wing
+TTITLE2=Livin' On The Bayou
+TTITLE3=Cotton Eyed Joe
+TTITLE4=mama Don't Allow
+TTITLE5=Big Mamou
+TTITLE6=Orange Blossom Special
+TTITLE7=Silver Eagle
+TTITLE8=Ragtime Annie
+TTITLE9=Diggy Liggy Lo
+TTITLE10=I'll Always Love You
+TTITLE11=Alabama Fire Breathin' Fiddlin' Man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

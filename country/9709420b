@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19572
+#     33427
+#     50587
+#     68957
+#     79057
+#     96502
+#     110595
+#     127179
+#     146540
+#     160785
+# 
+# Disc length: 2372 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=9709420b
+DTITLE=Collin Raye - I think about you
+DYEAR=1900
+DGENRE=
+TTITLE0=I THINK ABOUT YOU
+TTITLE1=NOT THAT DIFFERENT
+TTITLE2=ON THE VERGE
+TTITLE3=ONE BOY, ONE GIRL
+TTITLE4=SWEET MISS BEHAVIN'
+TTITLE5=HEART FULL OF RAIN
+TTITLE6=WHAT IF JESUS COMES BACK LIKE THAT
+TTITLE7=THE TIME MACHINE
+TTITLE8=I LOVE BEING WRONG
+TTITLE9=I VOLUNTEER
+TTITLE10=LOVE REMAINS
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

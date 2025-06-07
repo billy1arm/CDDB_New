@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14010
+#	25912
+#	41312
+#	57285
+#	71835
+#	87055
+#	101242
+#	115532
+#	133500
+#	147770
+#	165507
+#
+# Disc length: 2361 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=9a09370c
+DTITLE=Brian Young - Voice Of The Outback
+DYEAR=1992
+DGENRE=Country
+TTITLE0=Kakadu
+TTITLE1=Big Old Gumtree
+TTITLE2=Darby's Castle
+TTITLE3=Waiting In The Wings
+TTITLE4=Broke
+TTITLE5=Ships Of The Desert
+TTITLE6=Round and Round
+TTITLE7=Land Of My Birth
+TTITLE8=I'm Not Too Proud
+TTITLE9=Champion In The Making
+TTITLE10=The Era Is Not Over Yet
+TTITLE11=Let's All Give It A Go
+EXTD=YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  10100
+#  26630
+#  38882
+#  51062
+#  65422
+#  79757
+#  89215
+#  102035
+#  114212
+#  126015
+#  139130
+#
+# Disc length: 2035 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=9707f10c
+DTITLE=Merle Haggard - Greatest No. 1 Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Mama Tried
+TTITLE1=Hungry Eyes
+TTITLE2=Okie From Muskogie
+TTITLE3=Workin' Man Blues
+TTITLE4=I'm a Lonesome Fugitive
+TTITLE5=Branded Man
+TTITLE6=The Legend of Bonnie and Clyde
+TTITLE7=Sing Me Back Home
+TTITLE8=Everybody's Had the Blues
+TTITLE9=Carolyn
+TTITLE10=Kentucky Gambler
+TTITLE11=Cherokee Maiden
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=
