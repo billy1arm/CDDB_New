@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18082
+#	29812
+#	43970
+#	61647
+#	79970
+#	94992
+#	110880
+#	128280
+#	143902
+#	162690
+#	179085
+#
+# Disc length: 2642 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=ac0a500c
+DTITLE=Various Artist - America's Country - Legendary Songwriters
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Mr. Bojangles
+TTITLE1=Working Man's Blues
+TTITLE2=I'm That Kind of Girl
+TTITLE3=Mama's Don't Let Your Babies Grow up to be Cowboys
+TTITLE4=Going Out of My Mind
+TTITLE5=I Couldn't Leave You if I Tried
+TTITLE6=A Girl Like You
+TTITLE7=The Coast of Colorado
+TTITLE8=Evangelina
+TTITLE9=The Gambler
+TTITLE10=Adios Amigo
+TTITLE11=Me and Bobby McGee
+EXTD=YEAR: 1997 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

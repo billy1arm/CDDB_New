@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21895
+#     37152
+#     52442
+#     68697
+#     83192
+#     94715
+#     105497
+#     126245
+#     138765
+#     152667
+#     170475
+# 
+# Disc length: 2404 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a009620c
+DTITLE=The Nitty Gritty Dirt Band - The Many Sides of the Nitty Gritty Dirt 
+DTITLE=Band: COUNTRY ROCK
+DYEAR=1900
+DGENRE=
+TTITLE0=Will The Circle Be Unbroken
+TTITLE1=Jambalaya
+TTITLE2=Shot Full Of Love
+TTITLE3=You Are My Flower
+TTITLE4=Dance Litttle Jean
+TTITLE5=Foggy Mountain Breakdown
+TTITLE6=Honky Tonkin'
+TTITLE7=Fire In The Sky
+TTITLE8=Diggy Liggy Lo
+TTITLE9=Never Together
+TTITLE10=Cosmic Cowboy
+TTITLE11=Rocky Top
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

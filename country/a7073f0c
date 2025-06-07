@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10577
+#	21627
+#	33380
+#	43672
+#	55255
+#	65897
+#	77117
+#	89915
+#	101397
+#	114562
+#	125022
+#
+# Disc length: 1857 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a7073f0c
+DTITLE=Patsy Cline - Today, Tomorrow, And Forever
+DYEAR=1900
+DGENRE=Country
+TTITLE0=To Many Secrets
+TTITLE1=Honky Tonk Merry Go Round
+TTITLE2=In Care of the Blues
+TTITLE3=Three Cigarettes In An Ashtray
+TTITLE4=Lonely Street
+TTITLE5=Lovesick Blues
+TTITLE6=I Can't Forget
+TTITLE7=Just A Little Closer Walk With Thee
+TTITLE8=That Wonderful Someone
+TTITLE9=Life's Railway To Heaven
+TTITLE10=He Will Do for You
+TTITLE11=Then You'll Know
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,345 @@
+# xmcd
+#
+# Track frame offsets: 
+#        150
+#        3573
+#        9011
+#        11205
+#        13118
+#        14647
+#        15454
+#        16579
+#        17629
+#        18642
+#        19486
+#        20386
+#        21690
+#        22440
+#        27540
+#        35865
+#        44340
+#        52740
+#        64140
+#        75709
+#        86828
+#        89678
+#        91816
+#        94816
+#        95911
+#        97231
+#        112288
+#        113751
+#        115369
+#        117051
+#        119901
+#        121583
+#        124024
+#        126229
+#        141679
+#        146249
+#        147454
+#        148438
+#        150346
+#        152244
+#        157269
+#        160329
+#        161784
+#        164428
+#        165298
+#        166798
+#        169461
+#        171726
+#        180494
+#        182084
+#        187522
+#        188497
+#        190408
+#        191402
+#        192835
+#        194282
+#        195479
+#        196767
+#        198026
+#        199087
+#        200702
+#        201721
+#        209915
+#        210785
+#        211655
+#        212525
+#        213395
+#        214265
+#        215135
+#        216005
+#        216920
+#        217835
+#        218705
+#        219800
+#        221019
+#        222801
+#        224470
+#        226435
+#        228442
+#        230392
+#        232455
+#        244995
+#        246630
+#        248670
+#        251022
+#        253374
+#        255383
+#        257392
+#        258172
+#        259004
+#        260464
+#        261894
+#        263549
+#        264262
+#
+# Disc length: 3541 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: ExactAudioCopy v0.90a11
+#
+DISCID=a00dd35e
+DTITLE=Tom Kolb - Music Theory (Hal Leonard Guitar Method)
+DYEAR=1900
+DGENRE=
+TTITLE0=Tuning
+TTITLE1=Chapter 1: The Fretboard - Octave Excercise
+TTITLE2=Chapter 2: Theory Basics - The Musical Alphabet
+TTITLE3=Chapter 2: Theory Basics - Ties
+TTITLE4=Chapter 2: Theory Basics - Chord Stacks
+TTITLE5=Chapter 2: Theory Basics - Tablature Notation
+TTITLE6=Chapter 3: Scales And Key Signatures - C Major Scale
+TTITLE7=Chapter 3: Scales And Key Signatures - A Major Scale
+TTITLE8=Chapter 3: Scales And Key Signatures - Bb Major Scale
+TTITLE9=Chapter 3: Scales And Key Signatures - Flat(b) Keys
+TTITLE10=Chapter 3: Scales And Key Signatures - Sharp(#) Keys
+TTITLE11=Chapter 3: Scales And Key Signatures - C Major and A Minor Scal
+TTITLE11=es
+TTITLE12=Chapter 4: Intervals - Melodic And Harmonic Intervals
+TTITLE13=Chapter 4: Intervals - Ear Training  Drill #1 (Which Interval
+TTITLE13=?)
+TTITLE14=Chapter 4: Intervals - Ear Training  Drill #1 (Which Interval
+TTITLE14=?)
+TTITLE15=Chapter 4: Intervals - Ear Training  Drill #1 (Which Interval
+TTITLE15=?)
+TTITLE16=Chapter 4: Intervals - Ear Training  Drill #1 (Which Interval
+TTITLE16=?)
+TTITLE17=Chapter 5: Triads - Ear Training  Drill #2 (Which Triad?)
+TTITLE18=Chapter 5: Triads - Ear Training  Drill #2 (Which Triad?)
+TTITLE19=Chapter 5: Triads - Ear Training  Drill #2 (Which Triad?)
+TTITLE20=Chapter 6: Harmonizing The Major Scale - C Major Scale Harmon
+TTITLE20=ized In Thirds
+TTITLE21=Chapter 6: Harmonizing The Major Scale - C Major Scale Triads
+TTITLE21=Harmonized In Seventh Chords
+TTITLE22=Chapter 8: Harmonizing The Minor Scale - A Minor Scale Harmon
+TTITLE22=ized In Thirds
+TTITLE23=Chapter 8: Harmonizing The Minor Scale - A Minor Scale Triads
+TTITLE23=Harmonized In Seventh Chords
+TTITLE24=Chapter 8: Harmonizing The Minor Scale - A Minor Scale Triads
+TTITLE24=Harmonized In Seventh Chords (2)
+TTITLE25=Chapter 8: Harmonizing The Minor Scale - Ear Training Drill #
+TTITLE25=3 (Chord Types)
+TTITLE26=Chapter 9: Determining Key Centers - Major Key Centers
+TTITLE27=Chapter 9: Determining Key Centers - Minor Key Centers
+TTITLE28=Chapter 9: Determining Key Centers - Leading Tones
+TTITLE29=Chapter 9: Determining Key Centers - Modulation
+TTITLE30=Chapter 9: Determining Key Centers - Modal Interchange
+TTITLE31=Chapter 9: Determining Key Centers - Modal Interchange
+TTITLE32=Chapter 9: Determining Key Centers - Modal Interchange
+TTITLE33=Chapter 9: Determining Key Centers - Ear Training Drill #4 (M
+TTITLE33=ajor or Minor?)
+TTITLE34=Chapter 10: Blues Harmony And Pentatonic Scales - The 12-Bar 
+TTITLE34=Blues Progression
+TTITLE35=Chapter 10: Blues Harmony And Pentatonic Scales - The 12-Bar 
+TTITLE35=Blues Progression Variation
+TTITLE36=Chapter 10: Blues Harmony And Pentatonic Scales - The 12-Bar 
+TTITLE36=Blues Progression Turnaround
+TTITLE37=Chapter 10: Blues Harmony And Pentatonic Scales - The 8-Bar B
+TTITLE37=lues Progression
+TTITLE38=Chapter 10: Blues Harmony And Pentatonic Scales - The 8-Bar B
+TTITLE38=lues Progression Variation
+TTITLE39=Chapter 10: Blues Harmony And Pentatonic Scales - The 16-Bar 
+TTITLE39=Blues Progression
+TTITLE40=Chapter 10: Blues Harmony And Pentatonic Scales - The Minor12
+TTITLE40=Bar Blues Progression
+TTITLE41=Chapter 10: Blues Harmony And Pentatonic Scales - A Minor Pen
+TTITLE41=tatonic And Blues Scale
+TTITLE42=Chapter 10: Blues Harmony And Pentatonic Scales - A Minor Pen
+TTITLE42=tatonic Scale
+TTITLE43=Chapter 10: Blues Harmony And Pentatonic Scales - A Blues Sca
+TTITLE43=le
+TTITLE44=Chapter 10: Blues Harmony And Pentatonic Scales - C Major And
+TTITLE44=Pentatonic Scale
+TTITLE45=Chapter 10: Blues Harmony And Pentatonic Scales - C Major Pen
+TTITLE45=tatonic Scale
+TTITLE46=Chapter 10: Blues Harmony And Pentatonic Scales - A Major/Min
+TTITLE46=or Mixed Pentatonic Scale
+TTITLE47=Chapter 10: Blues Harmony And Pentatonic Scales - Ear Trainin
+TTITLE47=g Drill #5 (Which Scale?)
+TTITLE48=Chapter 11: Modes And Modal Harmony - C Major Scales (C to C,
+TTITLE48=D to D)
+TTITLE49=Chapter 11: Modes And Modal Harmony - All Modes Of The C Majo
+TTITLE49=r Scale
+TTITLE50=Chapter 11: Modes And Modal Harmony - C Major Chord Harmony
+TTITLE51=Chapter 11: Modes And Modal Harmony - Modal Harmony And Scale
+TTITLE51=s
+TTITLE52=Chapter 11: Modes And Modal Harmony - Harmonizing D Dorian
+TTITLE53=Chapter 11: Modes And Modal Harmony - Harmonizing D Dorian
+TTITLE54=Chapter 11: Modes And Modal Harmony - Ionian
+TTITLE55=Chapter 11: Modes And Modal Harmony - Dorian
+TTITLE56=Chapter 11: Modes And Modal Harmony - Phrygian
+TTITLE57=Chapter 11: Modes And Modal Harmony - Lydian
+TTITLE58=Chapter 11: Modes And Modal Harmony - Mixolydian
+TTITLE59=Chapter 11: Modes And Modal Harmony - Aeolian
+TTITLE60=Chapter 11: Modes And Modal Harmony - Locrian
+TTITLE61=Chapter 11: Modes And Modal Harmony - Ear Training Drill #6 (
+TTITLE61=Which Mode?)
+TTITLE62=Chapter 12: Other Scales And Modes - A Harmonic Minor Scale
+TTITLE63=Chapter 12: Other Scales And Modes - A Phrygian Dominant Scal
+TTITLE63=e
+TTITLE64=Chapter 12: Other Scales And Modes - A Melodic Minor Scale
+TTITLE65=Chapter 12: Other Scales And Modes - C Lydian Dominant Scale
+TTITLE66=Chapter 12: Other Scales And Modes - A Locrian #2 Scale
+TTITLE67=Chapter 12: Other Scales And Modes - A Super Locrian Scale
+TTITLE68=Chapter 12: Other Scales And Modes - C Lydian Augmented Scale
+TTITLE69=Chapter 12: Other Scales And Modes - A Diminished Scale
+TTITLE70=Chapter 12: Other Scales And Modes - A Dominant Diminished Sc
+TTITLE70=ale
+TTITLE71=Chapter 12: Other Scales And Modes - C Whole Tone Scale
+TTITLE72=Chapter 12: Other Scales And Modes - C Chromatic Scale
+TTITLE73=Chapter 12: Other Scales And Modes - Arpeggios
+TTITLE74=Chapter 12: Other Scales And Modes - A Minor Triad Arpeggios
+TTITLE75=Chapter 12: Other Scales And Modes - C Major Triad Arpeggios
+TTITLE76=Chapter 12: Other Scales And Modes - Cmaj7 Arpeggios
+TTITLE77=Chapter 12: Other Scales And Modes - Cm7 Arpeggios
+TTITLE78=Chapter 12: Other Scales And Modes - C7 Arpeggios
+TTITLE79=Chapter 12: Other Scales And Modes - Cm7b5 Arpeggios
+TTITLE80=Chapter 12: Other Scales And Modes - Ear Training Drill #7 (W
+TTITLE80=hich Scale?)
+TTITLE81=Chapter 13: Chord Substitutions And Reharmonization - Chord E
+TTITLE81=mbellishment
+TTITLE82=Chapter 13: Chord Substitutions And Reharmonization - Diatoni
+TTITLE82=c Chord Substitution
+TTITLE83=Chapter 13: Chord Substitutions And Reharmonization - C Major
+TTITLE83=Chord Reharmonization
+TTITLE84=Chapter 13: Chord Substitutions And Reharmonization - C Major
+TTITLE84=Chord Reharmonization
+TTITLE85=Chapter 13: Chord Substitutions And Reharmonization - D Minor
+TTITLE85=Chord Reharmonization
+TTITLE86=Chapter 13: Chord Substitutions And Reharmonization - D Minor
+TTITLE86=Chord Reharmonization
+TTITLE87=Chapter 13: Chord Substitutions And Reharmonization - Triad A
+TTITLE87=nd 7th Arpeggio Substitution
+TTITLE88=Chapter 13: Chord Substitutions And Reharmonization - Triad A
+TTITLE88=nd 7th Arpeggio Substitution
+TTITLE89=Chapter 13: Chord Substitutions And Reharmonization - Flat-Fi
+TTITLE89=ve Substitution
+TTITLE90=Chapter 13: Chord Substitutions And Reharmonization - Seconda
+TTITLE90=ry Dominant Substitution
+TTITLE91=Chapter 13: Chord Substitutions And Reharmonization - Diminis
+TTITLE91=hed 7th Chord Substitution
+TTITLE92=Chapter 13: Chord Substitutions And Reharmonization - Diminis
+TTITLE92=hed 7th Chord Substitution
+TTITLE93=Chapter 13: Chord Substitutions And Reharmonization - Ear Tra
+TTITLE93=ining (Diminished 7th Chord Substitutions)
+EXTD=This is a CD that accompanys the Hal Leonard Guitar Method book "
+EXTD=Music Theory".
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+PLAYORDER=

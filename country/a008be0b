@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     14267
+#     27695
+#     45495
+#     60505
+#     74365
+#     91215
+#     107242
+#     119555
+#     137805
+#     148747
+# 
+# Disc length: 2240 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a008be0b
+DTITLE=Joan Kennedy - Higher Ground
+DYEAR=1900
+DGENRE=
+TTITLE0=You Said It
+TTITLE1=I Need To Hear It From You
+TTITLE2=Dream On
+TTITLE3=I've Seen Enough To Know
+TTITLE4=Breakin' All Over Town
+TTITLE5=Countin' On You This Time
+TTITLE6=Talk To My Heart
+TTITLE7=Appalachian Gold
+TTITLE8=Circle of Love
+TTITLE9=Love Is A Leap Of Faith
+TTITLE10=Higher Ground
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

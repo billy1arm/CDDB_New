@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15229
+#     26952
+#     38886
+#     52035
+#     65706
+#     81150
+#     92934
+#     105197
+#     116731
+#     131936
+#     145072
+# 
+# Disc length: 2120 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a608460c
+DTITLE=Joe Bob Barnhill - Joe Bob Barnhill And Route 66
+DYEAR=1900
+DGENRE=
+TTITLE0=Moonlight Serenade
+TTITLE1=Leap Frog
+TTITLE2=Satin Doll
+TTITLE3=Woodchoppers Ball
+TTITLE4=Night Train
+TTITLE5=Sunrise Serenade
+TTITLE6=Stirng Of Pearls
+TTITLE7=Stardust
+TTITLE8=Jersey Bounce
+TTITLE9=In The Mood
+TTITLE10=Pennsylvania 6 5000
+TTITLE11=Joe Bob's Boogie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

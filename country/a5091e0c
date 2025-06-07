@@ -1,0 +1,55 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18072
+#	30000
+#	42615
+#	57935
+#	74432
+#	87590
+#	104887
+#	115422
+#	127820
+#	141507
+#	156002
+#
+# Disc length: 2336 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a5091e0c
+DTITLE=Riders In The Sky - Public Coyboy #1: The Music of Gene 
+DTITLE=Autry
+DYEAR=1900
+DGENRE=
+TTITLE0=Back In The Saddle Again
+TTITLE1=Sioux City Sue
+TTITLE2=Mexicali Rose
+TTITLE3=You Are My Sunshine
+TTITLE4=Have I Told You Lately That I Love You?
+TTITLE5=Can't Shake the Sands of Texas From My Shoes
+TTITLE6=That Silver Haired Daddy of Mine
+TTITLE7=Be Honest With Me
+TTITLE8=Blue Canadian Rockies
+TTITLE9=Lonely River
+TTITLE10=South Of The Border
+TTITLE11=Ridin' Down The Canyon
+EXTD=Rounder CD 0410\nRanger Doug: acoustic guitar, vocals\nToo
+EXTD=Slim: bunkhouse bass, vocals\nWoody Paul: fiddle, vocals
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	6008
+#	31520
+#	45985
+#	66483
+#	80008
+#	100918
+#	115190
+#	133265
+#	149468
+#	164233
+#	181808
+#
+# Disc length: 2739 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta4
+#
+DISCID=a20ab10c
+DTITLE=Mado - El tobogan loco
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Galome
+TTITLE1=El tobogan loco
+TTITLE2=Bohemia
+TTITLE3=El tiovivo
+TTITLE4=Hey djengo
+TTITLE5=Magic girl
+TTITLE6=Fuck you
+TTITLE7=Love revolution
+TTITLE8=Jaco
+TTITLE9=La rosa negra
+TTITLE10=Keep the power
+TTITLE11=Irresolus
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11147
+#     27122
+#     41247
+#     55995
+#     69417
+#     86987
+#     101535
+#     114477
+#     126312
+#     139615
+#     158090
+# 
+# Disc length: 2320 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a3090e0c
+DTITLE=Dustin Evans - Man Behind The Mask
+DYEAR=1900
+DGENRE=
+TTITLE0=Faded Love
+TTITLE1=Man Behind The Mask
+TTITLE2=A Little Sentimental
+TTITLE3=Move From The Window
+TTITLE4=Quit Pickin' On Me
+TTITLE5=All The Way
+TTITLE6=She's A Natrual
+TTITLE7=Thunder Road
+TTITLE8=Turn Around And Look At Me
+TTITLE9=Crying' Doesn't Pay
+TTITLE10=I Couldn't Tell
+TTITLE11=Living For Today
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

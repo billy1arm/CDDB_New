@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21682
+#	35219
+#	56504
+#	84369
+#	108100
+#	133312
+#	154791
+#	175072
+#	195009
+#	219561
+#	244400
+#
+# Disc length: 3507 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a40db10c
+DTITLE=Alabama 3 - La Peste
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Too Sick to Pray
+TTITLE1=Mansion on the Hill
+TTITLE2=Sad Eyed Lady of the Lowlife
+TTITLE3=Walking in my Sleep
+TTITLE4=Wade into the Water
+TTITLE5=Hotel California
+TTITLE6=Cocaine (Killed my Community)
+TTITLE7=The Thrills Have Gone
+TTITLE8=2129
+TTITLE9=Strange
+TTITLE10=Sinking Feeling
+TTITLE11=Woke Up This Morning
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

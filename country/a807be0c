@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  175
+#  12897
+#  24240
+#  35915
+#  48852
+#  60795
+#  74952
+#  86137
+#  97387
+#  109367
+#  121687
+#  137845
+#
+# Disc length: 1984 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=a807be0c
+DTITLE=Charley Pride - 36 All-Time Greatest Hits - Volume 2
+DYEAR=1900
+DGENRE=country
+TTITLE0=Mountain of Love
+TTITLE1=Hello Darlin'
+TTITLE2=Too Hard to Say I'm Sorry
+TTITLE3=A Place for the Lonesome
+TTITLE4=The Top of the World
+TTITLE5=I Can't Believe That You've Stopped Loving Me
+TTITLE6=Does My Ring Hurt Your Finger
+TTITLE7=One of These Days
+TTITLE8=I'm So Lonesome I Could Cry
+TTITLE9=You'll Still be the One
+TTITLE10=Love on a Blue Rainy Day
+TTITLE11=Help Me Make it Through the Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

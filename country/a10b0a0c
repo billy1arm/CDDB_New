@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19372
+#	37312
+#	57015
+#	76907
+#	92242
+#	109155
+#	123955
+#	146052
+#	160300
+#	179385
+#	196610
+#
+# Disc length: 2828 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a10b0a0c
+DTITLE=Lace - Lace
+DYEAR=1999
+DGENRE=Country
+TTITLE0=I want a man
+TTITLE1=Life is good
+TTITLE2=Angel
+TTITLE3=I cry real tears
+TTITLE4=Kiss 'em all
+TTITLE5=You could've had me
+TTITLE6=Texas Ranger
+TTITLE7=He can't talk without his hands
+TTITLE8=So gone
+TTITLE9=Swept away
+TTITLE10=True Love (never goes out of style)
+TTITLE11=If not for loving you
+EXTD=YEAR: 1999 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

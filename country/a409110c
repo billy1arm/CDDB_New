@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     222
+#     17100
+#     30480
+#     41732
+#     55020
+#     72290
+#     89372
+#     102182
+#     123242
+#     134295
+#     148157
+#     161230
+# 
+# Disc length: 2323 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=a409110c
+DTITLE=Tish Hinojosa - Taos to Tennesse
+DYEAR=1900
+DGENRE=
+TTITLE0=Midnight Moonlight
+TTITLE1=Prairie Moon
+TTITLE2=According to My Heart
+TTITLE3=Taos to Tennessee
+TTITLE4=River
+TTITLE5=Amanecer
+TTITLE6=Please Be With Me
+TTITLE7=Crazy Wind and Flashing Yellows
+TTITLE8=The Highway Calls
+TTITLE9=Who Showed You the Way to My Heart
+TTITLE10=Let Me Remember
+TTITLE11=Always
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 2003 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14860
+#     32877
+#     47186
+#     61737
+#     78451
+#     99877
+#     114272
+#     125981
+#     139917
+#     157454
+#     171823
+# 
+# Disc length: 2492 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=ab09ba0c
+DTITLE=Bryan White - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Love Is In The Right Place
+TTITLE1=Rebecca Lynn
+TTITLE2=Sittin' On Go
+TTITLE3=I'm Not Suppose To Love You Anymore
+TTITLE4=How Long
+TTITLE5=From This Moment On
+TTITLE6=That's Another Song
+TTITLE7=So Much For Pretending
+TTITLE8=Way You Look At Me
+TTITLE9=One Small Miracle
+TTITLE10=Look At Me Now
+TTITLE11=Someone Else's Star
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

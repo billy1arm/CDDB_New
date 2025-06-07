@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21818
+#	43893
+#	63239
+#	75727
+#	96681
+#	117685
+#	131834
+#	152543
+#	172178
+#	198632
+#	226929
+#
+# Disc length: 3579 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=ad0df90c
+DTITLE=Leslie Woods and Dark Mountain Orchid - The Luxury Of Sin
+DYEAR=1900
+DGENRE=
+TTITLE0=Train
+TTITLE1=Everyday Fevers
+TTITLE2=I am What
+TTITLE3=Little Bit of Me
+TTITLE4=Sky So Pale
+TTITLE5=Say Anything
+TTITLE6=I Was Younger Then
+TTITLE7=Cami
+TTITLE8=Heart Is Black
+TTITLE9=What I Thought
+TTITLE10=Save It For Me
+TTITLE11=Heroin
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

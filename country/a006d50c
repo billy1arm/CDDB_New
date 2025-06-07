@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	11198
+#	22433
+#	32735
+#	43030
+#	53858
+#	65045
+#	75965
+#	88909
+#	99505
+#	110253
+#	120713
+#
+# Disc length: 1751 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a006d50c
+DTITLE=Patsy Cline - Walking After Midnight
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Walking After Midnight
+TTITLE1=Honky Tonk Merry Go Round
+TTITLE2=Hungry For Love
+TTITLE3=I've Loved And Lost Again
+TTITLE4=Just A Closer Walk With Thee
+TTITLE5=Fingerprints
+TTITLE6=That Wonderful Someone
+TTITLE7=Stop the World And Let Me Off
+TTITLE8=Then You'll Know
+TTITLE9=The Heart You Break May Be Your Own
+TTITLE10=Too Many Secrets
+TTITLE11=Walkin' Dream 
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

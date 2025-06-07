@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	27575
+#	52359
+#	74562
+#	92589
+#	124658
+#	146620
+#	174898
+#	194910
+#	212172
+#
+# Disc length: 3165 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a00c5b0a
+DTITLE=Bill Miller - Reservation Road - Live
+DYEAR=1992
+DGENRE=Native American
+TTITLE0=Reservation Road
+TTITLE1=Different Drum
+TTITLE2=Tumbleweed
+TTITLE3=Street of Dreams
+TTITLE4=Folsom Prison Blues
+TTITLE5=Ordinary Man
+TTITLE6=Orphan Child
+TTITLE7=Still on the Run
+TTITLE8=Melissa
+TTITLE9=Geronimo's Cadillac
+EXTD=YEAR: 1992 ID3G:  64
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

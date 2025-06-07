@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18399
+#	33401
+#	53100
+#	68892
+#	86704
+#	102191
+#	113233
+#	132435
+#	155427
+#	169844
+#	193198
+#
+# Disc length: 2757 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a20ac30c
+DTITLE=The Cruzeros - El Nino
+DYEAR=2002
+DGENRE=Country
+TTITLE0=This Old Road
+TTITLE1=Piece of Stone
+TTITLE2=Going There With Grace
+TTITLE3=Tangled Up in You
+TTITLE4=Am I Losing You
+TTITLE5=Close as it Gets to Goodbye
+TTITLE6=Dig Myself Out of This Hole
+TTITLE7=Can't Find a Way
+TTITLE8=Roses and a Cross
+TTITLE9=Not Gonna Get too Close to Me
+TTITLE10=Believe Me I Know
+TTITLE11=Beautiful What's Her Name
+EXTD=YEAR: 2002 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

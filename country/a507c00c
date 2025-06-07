@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 14837
+# 29237
+# 40112
+# 50087
+# 64862
+# 76412
+# 92612
+# 104687
+# 115787
+# 125387
+# 136562
+#
+# Disc length: 1986 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1d1
+#
+DISCID=a507c00c
+DTITLE=Willie Nelson - Sweet Memories  - 36 All-Time Favorites Vol 2
+DYEAR=1900
+DGENRE=
+TTITLE0=What Now My Love
+TTITLE1=Sweet Memories
+TTITLE2=Good Times
+TTITLE3=Bring Me Sunshine
+TTITLE4=Little Things
+TTITLE5=One In A Row
+TTITLE6=Streets of Laredo
+TTITLE7=Born To Lose
+TTITLE8=Minstrel Man
+TTITLE9=Mountain Dew
+TTITLE10=Crazy Arms
+TTITLE11=Johnny ONe Time
+EXTD=\t
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

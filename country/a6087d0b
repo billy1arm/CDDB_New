@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     14332
+#     27657
+#     43757
+#     62685
+#     73267
+#     87880
+#     101175
+#     115365
+#     131597
+#     146735
+# 
+# Disc length: 2175 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a6087d0b
+DTITLE=Red Steagall - Born To This Land
+DYEAR=1900
+DGENRE=
+TTITLE0=Panhandle Wind
+TTITLE1=Born To This Land
+TTITLE2=The Wagon Tongue
+TTITLE3=Comanche Moon
+TTITLE4=Dust
+TTITLE5=One More Lick
+TTITLE6=Dodge City
+TTITLE7=Ride For The Brand
+TTITLE8=When The Cimarron Was Red And On The Rise
+TTITLE9=Fort Phantom Hill
+TTITLE10=One Empty Cot In The Bunkhouse
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

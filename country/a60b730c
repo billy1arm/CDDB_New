@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 2007 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13685
+#     27970
+#     49115
+#     61817
+#     83935
+#     103970
+#     123087
+#     148762
+#     169372
+#     186242
+#     203655
+# 
+# Disc length: 2933 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a60b730c
+DTITLE=Robin Flower and Libby McLaren - A Kiss From the Angel of Change
+DYEAR=1900
+DGENRE=
+TTITLE0=Angel of Change
+TTITLE1=Mason's Apron Set
+TTITLE2=My Darlin' Doesn't Live Here Anymore
+TTITLE3=Our Cats
+TTITLE4=I Won't Say Goodbye To You
+TTITLE5=Terrible Time
+TTITLE6=Kybash Jinx
+TTITLE7=My Mother's Purse
+TTITLE8=New Year'sEve Waltz
+TTITLE9=The Wolf Song
+TTITLE10=The Ringer
+TTITLE11=Antananarivo
+EXTD=Submitted by ecto@cox.net
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

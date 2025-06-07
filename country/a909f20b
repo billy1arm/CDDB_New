@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 17100
+# 35160
+# 50082
+# 67950
+# 95215
+# 111667
+# 125425
+# 141380
+# 153522
+# 170535
+#
+# Disc length: 2548 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b9
+#
+DISCID=a909f20b
+DTITLE=Olivia Newton-John - Making A Good Thing Better
+DYEAR=1900
+DGENRE=
+TTITLE0=Making A Good Thing Better
+TTITLE1=Slow Dancing
+TTITLE2=Ring Of Fire
+TTITLE3=Coolin' Down
+TTITLE4=Don't Cry For Me Argentina
+TTITLE5=Sad Songs
+TTITLE6=You Won't See Me Cry
+TTITLE7=So Easy To Begin
+TTITLE8=I Think I'll Say Goodbye
+TTITLE9=Don't Ask A Friend
+TTITLE10=If Love Is Real
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

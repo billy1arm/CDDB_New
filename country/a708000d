@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  9600
+#  20850
+#  32625
+#  41175
+#  57600
+#  75450
+#  85200
+#  93450
+#  105750
+#  115875
+#  129150
+#  140700
+#
+# Disc length: 2050 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=a708000d
+DTITLE=Loretta Lynn - Loretta Lynn: All Time Gospel Favorites-Disk Two
+DYEAR=1900
+DGENRE=
+TTITLE0=Will the Circle Be Unbroken
+TTITLE1=In the Garden
+TTITLE2=I'd Rather Have Jesus
+TTITLE3=I'll Fly Away
+TTITLE4=Softly and Tenderly
+TTITLE5=A Message from Jesus
+TTITLE6=Unclouded Day
+TTITLE7=Old Time Religion
+TTITLE8=Put You Hand in the Hand
+TTITLE9=If I Could Hear My Mother Pray Again
+TTITLE10=The Church in the Wildwood
+TTITLE11=I Believe
+TTITLE12=When They Ring Those Golden Bells
+EXTD=
+EXTT0=Loretta Lynn
+EXTT1=Loretta Lynn
+EXTT2=Loretta Lynn
+EXTT3=Loretta Lynn
+EXTT4=Loretta Lynn
+EXTT5=Loretta Lynn with Ernest Ray Lynn
+EXTT6=Unclouded Day
+EXTT7=Loretta Lynn
+EXTT8=Loretta Lynn
+EXTT9=Loretta Lynn
+EXTT10=Loretta Lynn
+EXTT11=Loretta Lynn
+EXTT12=Loretta Lynn
+PLAYORDER=

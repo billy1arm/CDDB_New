@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     39575
+#     60185
+#     97655
+#     126125
+#     164870
+#     183723
+#     192885
+#     234995
+#     267458
+#     286818
+#     323653
+# 
+# Disc length: 4732 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a2127a0c
+DTITLE=Various Artist - Franz Schubert In Performance (2 of 2 CDs)
+DYEAR=1900
+DGENRE=
+TTITLE0=Sonata for Arpeggione and Piano, D.821
+TTITLE1=
+TTITLE2=
+TTITLE3=Three Piano Pieces, D. 821
+TTITLE4=
+TTITLE5=
+TTITLE6=The Trout, D.550
+TTITLE7=Piano Quintet in A Major, Trout, D. 667
+TTITLE8=
+TTITLE9=
+TTITLE10=
+TTITLE11=
+EXTD=
+EXTT0=Yuri Bashmet, viola\nMikhail Muntian, piano
+EXTT1=
+EXTT2=
+EXTT3=Andre Watts, piano\n
+EXTT4=
+EXTT5=
+EXTT6=Bryn Terfel, baritone\nMalcom Martineau, piano
+EXTT7=Kalichstein-Laredo-Robinson Truo\nMichael Tree, viola\nJulius Levine, 
+EXTT7=double bass
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

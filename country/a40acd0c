@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16615
+#	32000
+#	44265
+#	52347
+#	70895
+#	77725
+#	93737
+#	103387
+#	116842
+#	130277
+#	195190
+#
+# Disc length: 2767 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=a40acd0c
+DTITLE=Willie Nelson - Willie And Family Live - Disc 1
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Whiskey River
+TTITLE1=Stay A Little Longer
+TTITLE2=Funny How The Time Slips Away
+TTITLE3=Crazy
+TTITLE4=Night Life
+TTITLE5=If You've Got The Money I've Got The Time
+TTITLE6=Mammas Don't Let Your Babies Grow Up To Be Cowboys
+TTITLE7=I Can Get Off On You
+TTITLE8=If You Could Touch Her At All
+TTITLE9=Good Hearted Woman
+TTITLE10=Red Headed Stranger Medley
+TTITLE11=Under The Double Eagle
+EXTD=\nYEAR: 2000  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=r, Just As I Am
+EXTT11=
+PLAYORDER=

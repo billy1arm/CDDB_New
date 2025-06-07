@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18015
+#	34490
+#	48182
+#	63862
+#	79995
+#	91510
+#	104855
+#	116852
+#	130930
+#	141615
+#	154570
+#
+# Disc length: 2301 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.60beta5_freedb
+#
+DISCID=a008fb0c
+DTITLE=Various Artist - Pickin' on Jimmy Buffett: A Bluegrass Tribute
+DYEAR=1900
+DGENRE=
+TTITLE0=Margaritaville
+TTITLE1=Son of a Son of A Sailor
+TTITLE2=Fins
+TTITLE3=Volcano
+TTITLE4=Havana Daydreamin'
+TTITLE5=Why Don't We Get Drunk
+TTITLE6=Come Monday
+TTITLE7=Cheeseburger in Paradise
+TTITLE8=Changes in Latittudes, Changes in Attitudes
+TTITLE9=Boat Drinks
+TTITLE10=Grapefruit - Juicyfruit
+TTITLE11=A Pirate Looks at 40
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

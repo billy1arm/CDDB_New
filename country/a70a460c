@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16213
+#     33688
+#     55713
+#     73380
+#     87358
+#     98933
+#     117003
+#     133003
+#     149248
+#     165268
+#     183153
+# 
+# Disc length: 2632 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a70a460c
+DTITLE=Willie Nelson - The Best of Willie Nelson
+DYEAR=1900
+DGENRE=
+TTITLE0=To All The Girls I've Loved Before
+TTITLE1=Stardust
+TTITLE2=The City Of New Orleans
+TTITLE3=All Of Me
+TTITLE4=My Heros Have Always Been Cowboys
+TTITLE5=On The Road Again
+TTITLE6=Help Me Make It Through The Night
+TTITLE7=Let It Be Me
+TTITLE8=Blue Skies
+TTITLE9=Always On My Mind
+TTITLE10=Georgia On My Mind
+TTITLE11=Why Do I Have To Choose
+EXTD=
+EXTT0=with Julio Iglesias\n
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

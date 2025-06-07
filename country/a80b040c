@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#       150
+#       21347
+#       37535
+#       53097
+#       71907
+#       89927
+#       108177
+#       126932
+#       144892
+#       163395
+#       178735
+#       196872
+#
+# Disc length: 2822 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a80b040c
+DTITLE=DeltaTango - DeltaTango
+DYEAR=1900
+DGENRE=
+TTITLE0=Memory Lane
+TTITLE1=Let It Rain
+TTITLE2=So Sorry
+TTITLE3=In Love
+TTITLE4=Temptation Walks
+TTITLE5=Don't Turn Me Away
+TTITLE6=When Love Has No Name
+TTITLE7=Lonely Music
+TTITLE8=Heartbreak City
+TTITLE9=One Of These Days
+TTITLE10=When I Give You My Love
+TTITLE11=Under The Influence
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

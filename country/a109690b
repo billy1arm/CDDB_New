@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13945
+#	31830
+#	43952
+#	56240
+#	71777
+#	87505
+#	106442
+#	124177
+#	141642
+#	158282
+#
+# Disc length: 2411 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a109690b
+DTITLE=Jason Boland and The Stragglers - Truckstop Diaries
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Truckstop Diaries
+TTITLE1=Shot Full Of Holes
+TTITLE2=Tennessee Whiskey
+TTITLE3=Mexican Holiday
+TTITLE4=Much Better Now
+TTITLE5=Traveling Jones
+TTITLE6=She Deserves What She Gets
+TTITLE7=Gear And Dust
+TTITLE8=Falling With Style
+TTITLE9=St. Valentine
+TTITLE10=Can't Figure How
+EXTD=YEAR: 2001 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

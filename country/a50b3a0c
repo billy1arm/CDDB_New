@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19640
+#     35150
+#     51995
+#     71672
+#     87870
+#     105522
+#     127192
+#     147210
+#     161485
+#     176362
+#     197025
+# 
+# Disc length: 2876 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a50b3a0c
+DTITLE=Garth Brooks - A New Direction In Music
+DYEAR=1900
+DGENRE=
+TTITLE0=Shameless
+TTITLE1=What She's Doing Now
+TTITLE2=The Thunder Rolls
+TTITLE3=Friends In Low Places
+TTITLE4=Burning Bridges
+TTITLE5=Rodeo
+TTITLE6=In Lonesome Dove
+TTITLE7=The River
+TTITLE8=Wild Horses
+TTITLE9=Mr Blue
+TTITLE10=Cowboy Bill
+TTITLE11=Wolves
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

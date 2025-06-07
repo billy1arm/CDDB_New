@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16383
+#	33653
+#	53941
+#	71897
+#	92258
+#	107199
+#	129602
+#	145417
+#	165909
+#	185921
+#	201782
+#
+# Disc length: 2938 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=ae0b780c
+DTITLE=Steve Tenpenny Band - Westbound Sun
+DYEAR=2004
+DGENRE=Country
+TTITLE0=Texas Girl
+TTITLE1=Westbound Sun
+TTITLE2=Mexico
+TTITLE3=Star-Crossed Lover
+TTITLE4=Annie's Song
+TTITLE5=Dixieland High
+TTITLE6=Angel
+TTITLE7=Train to Nowhere
+TTITLE8=Good Beer and Good Buddies
+TTITLE9=Look Again
+TTITLE10=San Antone
+TTITLE11=Sylvia Plath
+EXTD=YEAR: 2004 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

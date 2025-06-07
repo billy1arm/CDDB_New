@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15268
+#	26659
+#	41058
+#	49497
+#	67608
+#	92800
+#	105518
+#	115293
+#	131275
+#	147666
+#	167047
+#	172800
+#
+# Disc length: 2378 seconds
+#
+# Revision: 37
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a509480d
+DTITLE=Pink Floyd - The Wall [CD 1)
+DYEAR=1979
+DGENRE=Classic Rock
+TTITLE0=In The Flesh?
+TTITLE1=The Thin Ice
+TTITLE2=Another Brick In The Wall (Part I)
+TTITLE3=The Happiest Days Of Our Lives
+TTITLE4=Another Brick In The Wall (Part II)
+TTITLE5=Mother
+TTITLE6=Goodbye Blue Sky
+TTITLE7=Empty Spaces
+TTITLE8=Young Lust
+TTITLE9=One Of My Turns
+TTITLE10=Don't Leave Me Now
+TTITLE11=Another Brick In The Wall (Part III)
+TTITLE12=Goodbye Cruel World
+EXTD=uf YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

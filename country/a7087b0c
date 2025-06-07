@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14522
+#	28145
+#	38417
+#	54657
+#	69232
+#	81070
+#	93225
+#	112205
+#	121452
+#	131777
+#	147490
+#
+# Disc length: 2173 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=a7087b0c
+DTITLE=TRIBORD - J'parle en cajun
+DYEAR=1900
+DGENRE=Country
+TTITLE0=J'parle en cajun
+TTITLE1=Les zaricos
+TTITLE2=La danse de la limonade
+TTITLE3=Une femme aux yeux bleu
+TTITLE4=Pêcher aux îles
+TTITLE5=U.I.C
+TTITLE6=Saulnierville station
+TTITLE7=Le p'tit rocher
+TTITLE8=Boire ma bouteille
+TTITLE9=Le gros party
+TTITLE10=Vivre a la baie
+TTITLE11=Trois mois d'été
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

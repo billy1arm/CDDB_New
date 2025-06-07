@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  182
+#  11627
+#  24580
+#  37030
+#  50440
+#  65325
+#  77040
+#  86497
+#  98712
+#  112442
+#  124917
+#  137617
+#
+# Disc length: 1958 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.31
+#
+DISCID=a007a40c
+DTITLE=Various Artist - Hymns From the Bayou
+DYEAR=1900
+DGENRE=
+TTITLE0=Old Time Religion
+TTITLE1=How Great Thou Art
+TTITLE2=The Unclouded Day
+TTITLE3=Precious Memories
+TTITLE4=Amazing Grace
+TTITLE5=Swing Low, Sweet Chariot
+TTITLE6=I'll Fly Away
+TTITLE7=Old Country Church
+TTITLE8=What a Friend We Have in Jesus
+TTITLE9=Jesus Loves Me
+TTITLE10=Sweet Hour of Prayer
+TTITLE11=In This Sweet Bye and Bye
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

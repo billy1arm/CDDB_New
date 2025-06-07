@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18373
+#	36032
+#	48636
+#	64745
+#	82006
+#	95311
+#	110601
+#	128209
+#	146632
+#	166183
+#	178820
+#
+# Disc length: 2606 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a20a2c0c
+DTITLE=Trisha Yearwood - (Songbook) A Collection Of Hits
+DYEAR=1900
+DGENRE=Country
+TTITLE0=How Do I Live
+TTITLE1=The Song Remembers When
+TTITLE2=The Wrong Side Of Memphis
+TTITLE3=In Another's Eyes
+TTITLE4=The Woman Before Me
+TTITLE5=Perfect Love
+TTITLE6=Thinkin' About You
+TTITLE7=Down On My Knees
+TTITLE8=She's In Love With The Boy
+TTITLE9=Walkaway Joe
+TTITLE10=XXX's and OOO's (An American Girl)
+TTITLE11=Like We Never Had A Broken Heart
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

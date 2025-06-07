@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  14850
+#  27705
+#  44072
+#  58215
+#  72072
+#  87235
+#  102617
+#  117735
+#  132390
+#
+# Disc length: 1927 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.15
+#
+DISCID=a207850a
+DTITLE=Merle Haggard - Greatest Hits of the 80's
+DYEAR=1990
+DGENRE=Country
+TTITLE0=Yesterday's Wine
+TTITLE1=Let's Chase Each Other Around the Room
+TTITLE2=A Place to Fall Apart
+TTITLE3=Natural High
+TTITLE4=I Had A Beautiful Time
+TTITLE5=A Friend in California
+TTITLE6=Twinkle, Twinkle Lucky Star
+TTITLE7=Chill Factor
+TTITLE8=5:01 Blues
+TTITLE9=A Better Love Next Time
+EXTD=Songs 1-4 AAD\nSongs 5-10 DDD\n
+EXTT0=Merle Haggard, George Jones
+EXTT1=Merle Haggard
+EXTT2=Merle Haggard
+EXTT3=Merle Haggard, Janie Frickie
+EXTT4=Merle Haggard
+EXTT5=Merle Haggard
+EXTT6=Merle Haggard
+EXTT7=Merle Haggard
+EXTT8=Merle Haggard
+EXTT9=Merle Haggard
+PLAYORDER=

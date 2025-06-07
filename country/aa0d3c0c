@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16265
+#     39442
+#     62277
+#     85452
+#     105790
+#     128227
+#     157402
+#     172390
+#     189602
+#     215065
+#     231640
+# 
+# Disc length: 3390 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=aa0d3c0c
+DTITLE=Sally Oldfield - Mirrors - The Most Beautiful Songs
+DYEAR=1900
+DGENRE=
+TTITLE0=Mirrors
+TTITLE1=Morning Of My Life
+TTITLE2=Mandala
+TTITLE3=Celebration
+TTITLE4=The Sun In My Eyes
+TTITLE5=Woman Of The Night
+TTITLE6=Water Bearer
+TTITLE7=Song Of The Lamp
+TTITLE8=You Set My Gypsy Blood Free
+TTITLE9=Path With A Heart
+TTITLE10=Weaver
+TTITLE11=Playing In The Flame
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

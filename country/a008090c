@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  12115
+#  30887
+#  43455
+#  59537
+#  71315
+#  85530
+#  96722
+#  110955
+#  123430
+#  135282
+#  144292
+#
+# Disc length: 2059 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: KiC 2.1 - (C) 1996-1998 Alwin Hoogerdijk
+#
+DISCID=a008090c
+DTITLE=Kenny Baker - Kenny Baker Plays Bill Monroe
+DYEAR=1900
+DGENRE=
+TTITLE0=Road to Columbus
+TTITLE1=Brown County Breakdown
+TTITLE2=Lonesome Moonlight Waltz
+TTITLE3=Jerusalem Ridge
+TTITLE4=Monroe's Hornpipe
+TTITLE5=Cheyenne
+TTITLE6=Big Sandy River
+TTITLE7=Stoney Lonesome
+TTITLE8=Mississippi Waltz
+TTITLE9=Wheel Hoss
+TTITLE10=Fiddler's Pastime
+TTITLE11=Ashland Breakdown
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

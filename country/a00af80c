@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15700
+#	33152
+#	50482
+#	67097
+#	89610
+#	106170
+#	123787
+#	141387
+#	158052
+#	173775
+#	189635
+#
+# Disc length: 2810 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=a00af80c
+DTITLE=Collin Raye - Tracks
+DYEAR=2000
+DGENRE=Country
+TTITLE0=She's All That
+TTITLE1=I Want To Be There
+TTITLE2=Completely
+TTITLE3=Couldn't Last A Moment
+TTITLE4=You Will Always Be Mine
+TTITLE5=A Long Way To Go
+TTITLE6=Harder Cards
+TTITLE7=Landing In Love
+TTITLE8=Loving This Way (Duet With Bobbie Eakes)
+TTITLE9=You Still Take Me There
+TTITLE10=Water And Bridges
+TTITLE11=She's Gonna Fly
+EXTD=\nYEAR: 2000  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

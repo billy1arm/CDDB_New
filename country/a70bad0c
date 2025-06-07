@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18407
+#	37379
+#	64556
+#	83785
+#	102395
+#	123683
+#	139265
+#	152218
+#	174116
+#	198644
+#	210937
+#
+# Disc length: 2991 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a70bad0c
+DTITLE=Micky and The Motorcars - Which Way From Here
+DYEAR=2002
+DGENRE=Country
+TTITLE0=Which Way From Here
+TTITLE1=Come Runnin'
+TTITLE2=Cold Northern Town
+TTITLE3=Rambler's Blues
+TTITLE4=Finding Me
+TTITLE5=Stranger in the Mirror
+TTITLE6=Mary Mary
+TTITLE7=Empty Hands
+TTITLE8=What Do You Have For Love
+TTITLE9=Be There For Me
+TTITLE10=The Band Song
+TTITLE11=Shaft
+EXTD=YEAR: 2002 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

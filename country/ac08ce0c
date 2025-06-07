@@ -1,0 +1,55 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12612
+#     26100
+#     39912
+#     53737
+#     65225
+#     77300
+#     89400
+#     102612
+#     112462
+#     133825
+#     154362
+# 
+# Disc length: 2256 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=ac08ce0c
+DTITLE=Various Artist - Western Swing
+DYEAR=1900
+DGENRE=
+TTITLE0=Doughboy Rag - Light Crust Doughboys
+TTITLE1=Talking About You - Milton Brown and His Musical Brownies
+TTITLE2=Messin' Around - Roy Newman and His Boys
+TTITLE3=Osage Stomp - Bob Wills and His Texas Playboys
+TTITLE4=I Told Them All About You - Hank Penny and His Radio Cowboys
+TTITLE5=Alamo Rag - Adolph Hofner and His San Antonians
+TTITLE6=Detour - Spade Cooley and His Orchestra
+TTITLE7=Smoke! Smoke! Smoke! (That Cigarette) Tex Williams and His Western C
+TTITLE7=aravan
+TTITLE8=New Green Light - Hank Thompson and His Brazos Valley Boys
+TTITLE9=Night Life - Ray Price
+TTITLE10=I Think I'll Just Stay Here And Drink - Merle Haggard and The Stran
+TTITLE10=gers
+TTITLE11=Boogie Back To Texas - Asleep At The Wheel
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

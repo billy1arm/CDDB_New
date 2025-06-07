@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     11035
+#     23905
+#     37927
+#     55987
+#     68885
+#     80937
+#     95847
+#     109575
+#     124382
+#     142047
+#     156040
+# 
+# Disc length: 2294 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a808f40c
+DTITLE=Various Artist - The Dukes of Hazard
+DYEAR=1900
+DGENRE=
+TTITLE0=Good Ol' Boys
+TTITLE1=The General Lee
+TTITLE2=Laughing All The Way To The Bank
+TTITLE3=Up On Cripple Creek
+TTITLE4=Cover Girl Eyes
+TTITLE5=In The Driver's Seat
+TTITLE6=Flash
+TTITLE7=Down Home American Girl
+TTITLE8=Duelin' Dukes
+TTITLE9=Keep Between Them Ditches
+TTITLE10=Ballad Of The General Lee
+TTITLE11=Them Good Ol' Boys Are Bad
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

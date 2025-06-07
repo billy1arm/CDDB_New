@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18217
+#	34520
+#	51620
+#	69737
+#	85705
+#	103727
+#	121232
+#	138307
+#	156362
+#	172340
+#	187000
+#
+# Disc length: 2793 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a80ae70c
+DTITLE=Terri Clark - How I Feel
+DYEAR=1998
+DGENRE=Country
+TTITLE0=I'm Alright
+TTITLE1=Now That I Found You
+TTITLE2=Everytime I Cry
+TTITLE3=That's How I Feel
+TTITLE4=You're Easy On The Eyes
+TTITLE5=Getting Even With The Blues
+TTITLE6=Till I Get There
+TTITLE7=Not Getting Over You
+TTITLE8=This Ole Heart
+TTITLE9=Cure For The Commone Heartache
+TTITLE10=That's Me Not Loving You
+TTITLE11=Unsung Hero
+EXTD=YEAR: 1998 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

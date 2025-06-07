@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25175
+#	44377
+#	67275
+#	87545
+#	108007
+#	126707
+#	140982
+#	156460
+#	171282
+#	191460
+#
+# Disc length: 2843 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=aa0b190b
+DTITLE=Kathy Mattea - Love Travels
+DYEAR=1997
+DGENRE=Folk
+TTITLE0=Love Travels
+TTITLE1=Sending Me Angels
+TTITLE2=Patiently Waiting
+TTITLE3=If That's What You Call Love
+TTITLE4=Further and Further Away
+TTITLE5=455 Rocket
+TTITLE6=I'm On Your Side
+TTITLE7=The Bridge
+TTITLE8=All Roads to the River
+TTITLE9=The End of the Line
+TTITLE10=Beautiful Fool
+EXTD=YEAR: 1997 ID3G: 80
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

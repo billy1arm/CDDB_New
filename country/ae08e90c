@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12526
+#	28950
+#	44658
+#	58975
+#	73042
+#	85426
+#	98608
+#	111823
+#	130904
+#	144234
+#	154888
+#
+# Disc length: 2283 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=ae08e90c
+DTITLE=Slim Dusty/On The Move
+DYEAR=1900
+DGENRE=
+TTITLE0=on the move
+TTITLE1=my time
+TTITLE2=indian pacific
+TTITLE3=finally made it home
+TTITLE4=you know what I mean
+TTITLE5=anyday woman
+TTITLE6=isa
+TTITLE7=the front row
+TTITLE8=billy mac
+TTITLE9=highway blues
+TTITLE10=Joe (don't let your music kill you)
+TTITLE11=What am I doing in this town
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

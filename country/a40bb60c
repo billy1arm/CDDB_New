@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22174
+#	35612
+#	61368
+#	76343
+#	95801
+#	117856
+#	135559
+#	148743
+#	169093
+#	189243
+#	210209
+#
+# Disc length: 3000 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=a40bb60c
+DTITLE=Inca Empire - Brightness of the ANDES
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Mohicano(Ecuador)
+TTITLE1=Amazonas(Bolivia)
+TTITLE2=El condor pasa(Peru)
+TTITLE3=Quien sera(Mexico)
+TTITLE4=Pastor solitario(D.R)
+TTITLE5=Agua dulce y amor(Bolivia)
+TTITLE6=Purimy(Ecuador)
+TTITLE7=Quizas, Quizas(Mexico)
+TTITLE8=Let it salsa(D.R)
+TTITLE9=Es asi(Bolivia)
+TTITLE10=Island of Galapagos(D.R)
+TTITLE11=Besame Mucho(Mexico)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

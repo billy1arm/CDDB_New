@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17585
+#	32482
+#	46242
+#	62452
+#	78407
+#	90745
+#	106402
+#	120297
+#	136487
+#	152510
+#	165235
+#	178727
+#	196015
+#	210635
+#
+# Disc length: 2961 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=ad0b8f0f
+DTITLE=Hot Hits Country Jukebox Edition - Country Hot Hits #08
+DYEAR=1900
+DGENRE=
+TTITLE0=Rodeo
+TTITLE1=Someday
+TTITLE2=Hurt Me Bad (In A Real Good Way)
+TTITLE3=You Couldn't Get The Picture
+TTITLE4=Ball And Chain
+TTITLE5=New Way (To Light Up An Old Flame)
+TTITLE6=As Simple As That
+TTITLE7=Speak Of The Devil
+TTITLE8=Same Old Star
+TTITLE9=Light At The End Of The Tunnel
+TTITLE10=Put Yourself In My Place
+TTITLE11=Nothing's Changed Here
+TTITLE12=Keep It Between The Lines
+TTITLE13=Tempted
+TTITLE14=Here Comes My Baby
+EXTD=
+EXTT0=Brooks - Garth
+EXTT1=Jackson - Alan
+EXTT2=Loveless - Patty\n
+EXTT3=Gones - George
+EXTT4=Overstreet - Paul
+EXTT5=Diffie - Joe
+EXTT6=Reid - Mike
+EXTT7=Pirates Of The Mississippi
+EXTT8=McBride and The Ride
+EXTT9=Watson - B. B.
+EXTT10=Tillis - Pam
+EXTT11=Yoakam - Dwight
+EXTT12=VanShelton - Ricky
+EXTT13=Stuart - Marty
+EXTT14=West - Dottie
+PLAYORDER=

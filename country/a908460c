@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13482
+#     29265
+#     40602
+#     54460
+#     67817
+#     85472
+#     97375
+#     109370
+#     123112
+#     133505
+#     145327
+# 
+# Disc length: 2120 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a908460c
+DTITLE=Julio Jaramillo - La Musica De Julio Jaramillo 3 Guayaquil de mis amo
+DTITLE=res
+DYEAR=1900
+DGENRE=
+TTITLE0=Guayaquil de mis amores
+TTITLE1=Ranchito mio
+TTITLE2=Hilda
+TTITLE3=Rosario de besos
+TTITLE4=Ayer y hoy
+TTITLE5=Ilusion de amor
+TTITLE6=De corazon a corazon
+TTITLE7=Perdonemonos
+TTITLE8=Amelia
+TTITLE9=Pasion de amor
+TTITLE10=Galopera
+TTITLE11=Vete de mi
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

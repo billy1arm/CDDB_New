@@ -1,0 +1,53 @@
+# xmcd
+#
+# Track frame offsets:
+# 150
+# 17082
+# 34460
+# 51805
+# 67565
+# 84825
+# 101205
+# 121940
+# 142737
+# 163047
+# 186532
+# 209657
+#
+# Disc length: 3070 seconds
+#
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.70 
+#
+DISCID=a20bfc0c
+DTITLE=Rick Tippe - DANCE ON
+DYEAR=1997
+DGENRE=line dance
+TTITLE0=TRIPLE THREATH
+TTITLE1=L-O-V-E
+TTITLE2=HARDWOOD STOMP
+TTITLE3=DANCE ON
+TTITLE4=YOU´RE KILLIN´ME
+TTITLE5=WAITIN´ON A SLOWDANCE
+TTITLE6=triple threat
+TTITLE7=l-o-v-e
+TTITLE8=hardwood stomp
+TTITLE9=dance on
+TTITLE10=you´re killin´me
+TTITLE11=waitin on a slow dance
+EXTD=extended-a-mix and dance mix\nproduced chris rolin and rick tippe\nmulti music inc. canada\nCANADA
+EXTT0=BPM 152 dancemix
+EXTT1=BPM 104
+EXTT2=BPM 120
+EXTT3=BPM 134
+EXTT4=BPM 142
+EXTT5=BPM 194
+EXTT6=bpm 152 extended-a mix
+EXTT7=bpm 104
+EXTT8=bpm 120
+EXTT9=bpm 134
+EXTT10=bpm 142
+EXTT11=bpm 194
+PLAYORDER=

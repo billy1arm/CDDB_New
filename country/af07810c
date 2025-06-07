@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13412
+#     26482
+#     38947
+#     50902
+#     62745
+#     72712
+#     83662
+#     96152
+#     108457
+#     119605
+#     132015
+# 
+# Disc length: 1923 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=af07810c
+DTITLE=Hank Williams - The Hits Volume One
+DYEAR=1900
+DGENRE=
+TTITLE0=Hey, Good Lookin'
+TTITLE1=Jambalaya (On The Bayou)
+TTITLE2=Move It On Over
+TTITLE3=Long Gone Lonesome Blues
+TTITLE4=Settin' the Woods on Fire
+TTITLE5=Honky Tonk Blues
+TTITLE6=Why Don't You Love Me
+TTITLE7=Honky Tonkin'
+TTITLE8=Lost Highway
+TTITLE9=(I Heard That) Lonesome Whistle
+TTITLE10=I Saw The Light
+TTITLE11=Lovesick Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

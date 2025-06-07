@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 11959
+# 24640
+# 35300
+# 50367
+# 64122
+# 74612
+# 86200
+# 95422
+# 105870
+# 116190
+# 126772
+#
+# Disc length: 1879 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=a307550c
+DTITLE=Marty Robbins - The Song Of Robbins
+DYEAR=1957
+DGENRE=Country
+TTITLE0=Lovesick Blues
+TTITLE1=I'm So Lonesome I Could Cry
+TTITLE2=It's Too Late Now To Worry Anymore
+TTITLE3=Rose Of Ol' Pawnee
+TTITLE4=I Never Let You Cross My Mind
+TTITLE5=I Hang My Head And Cry
+TTITLE6=You Only Want Me When You're Lonely
+TTITLE7=Moanin' The Blues
+TTITLE8=I'll Step Aside
+TTITLE9=All The World Is Lonely Now
+TTITLE10=Bouquet Of Roses
+TTITLE11=Have I Told You Lately That I Love You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

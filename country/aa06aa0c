@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	10392
+#	20962
+#	31405
+#	43307
+#	52637
+#	62970
+#	73847
+#	83945
+#	92755
+#	102982
+#	116205
+#
+# Disc length: 1708 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=aa06aa0c
+DTITLE=Jimmie Rodgers - Best Of Jimmie Rodgers
+DYEAR=1900
+DGENRE=country
+TTITLE0=Honeycomb
+TTITLE1=Kisses Sweeter Than Wine
+TTITLE2=Oh-Oh I'm Falling In Love Again
+TTITLE3=Secretly
+TTITLE4=Make Me A Miracle
+TTITLE5=Are You Really Mine
+TTITLE6=The Wizard
+TTITLE7=Bimbombey
+TTITLE8=Woman From Liberia
+TTITLE9=Tucumcari
+TTITLE10=Danny Boy
+TTITLE11=It's Over
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

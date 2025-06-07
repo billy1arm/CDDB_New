@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17222
+#	29440
+#	43325
+#	58315
+#	72202
+#	84562
+#	97832
+#	106000
+#	118812
+#	129647
+#	146760
+#
+# Disc length: 2138 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=ab08580c
+DTITLE=Various Artist - Ulimate Country Classics [CD3]
+DYEAR=1900
+DGENRE=Country
+TTITLE0=convoy_c w mccall
+TTITLE1=wasted days and wasted nights_freddy fender
+TTITLE2=if loving you is wrong_barbara mandrell
+TTITLE3=another somebody done somebody wrong song_b j thomas
+TTITLE4=lady lay down_john conlee
+TTITLE5=some broken hearts never mend_don williams
+TTITLE6=here`s some love_tanya tucker
+TTITLE7=that`s the way loves goes_johnny rodriguze
+TTITLE8=faster horses_tom t hall
+TTITLE9=i believe in you_mel tillis
+TTITLE10=all for the love of sunshine_hank williams jr
+TTITLE11=lovesick blues_hank williams sr
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

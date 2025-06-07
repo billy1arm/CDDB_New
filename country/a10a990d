@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	3127
+#	19370
+#	33807
+#	48895
+#	63889
+#	79725
+#	94257
+#	108090
+#	123487
+#	141497
+#	160157
+#	183747
+#
+# Disc length: 2715 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=a10a990d
+DTITLE=Sikaduo - Pekoni Business
+DYEAR=1995
+DGENRE=Country
+TTITLE0=Intro: Pekoni-business
+TTITLE1=Felicia
+TTITLE2=Huraa, huraa
+TTITLE3=Hi ho, let's go!!!
+TTITLE4=Ukrainalainen tuopinkohotuslaulu
+TTITLE5=Munamies
+TTITLE6=Kourin. kourin
+TTITLE7=Sikafarmarin porsaankyljys-rap
+TTITLE8=Nana
+TTITLE9=Psyko (hitskomix)
+TTITLE10=Kourin, kourin (mexsikamix)
+TTITLE11=Huraa, huraa (texmix)
+TTITLE12=Nana (hopealyhtymix)
+EXTD=YEAR: 1995 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

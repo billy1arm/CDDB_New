@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	13398
+#	25675
+#	37348
+#	50460
+#	62648
+#	74680
+#	89730
+#	100210
+#	112573
+#	128000
+#	141380
+#
+# Disc length: 2038 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ad07f40c
+DTITLE=Various Artist - Country Chart Toppers
+DYEAR=1992
+DGENRE=Country
+TTITLE0=Rose Garden - Lynn Anderson
+TTITLE1=Take This Job and Shove It - Johnny Paycheck 
+TTITLE2=Help Me Make It through the Night - Sammi Smith
+TTITLE3=It's Four in the Morning - Faron Young
+TTITLE4=Funny Face - Donna Fargo
+TTITLE5=There Goes My Everything - Jack Greene
+TTITLE6=Harper Valley P.T.A - Jeannie C. Riley
+TTITLE7=Abilene - George Hamilton IV
+TTITLE8=Satin Sheets - Jeanne Pruett
+TTITLE9=No Charge - Melba Montgomery
+TTITLE10=Don't Break the Hart that Loves You - Margo Smith
+TTITLE11=Leon Ashley - Laura (What's He Got that I Ain't Got)
+EXTD=YEAR: 1992
+EXTT0=Lynn Anderson
+EXTT1=Johnny Paycheck
+EXTT2=Sammi Smith
+EXTT3=Faron Young
+EXTT4=Donna Fargo
+EXTT5=Jack Greene
+EXTT6=Jeannie C. Riley
+EXTT7=George Hamilton IV
+EXTT8=Jeanne Pruett
+EXTT9=Melba Montgomery
+EXTT10=Margo Smith
+EXTT11=Leaon Ashley
+PLAYORDER=

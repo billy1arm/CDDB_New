@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 16275
+# 35865
+# 55845
+# 72425
+# 84902
+# 103455
+# 121427
+# 136482
+# 156415
+# 172372
+# 195037
+#
+# Disc length: 2997 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=ad0bb30c
+DTITLE=Judd Grossman - Judd Grossman
+DYEAR=1900
+DGENRE=country
+TTITLE0=Poor Me
+TTITLE1=James Dean
+TTITLE2=Blue Heart
+TTITLE3=Because I Feel Like It
+TTITLE4=Come to My Village
+TTITLE5=Five Hundred Miles Away From Home
+TTITLE6=Rita
+TTITLE7=Waterfalls
+TTITLE8=Mountain of Trouble
+TTITLE9=When It's Time
+TTITLE10=Christmas Tree
+TTITLE11=This Town
+EXTD=Charlie CD3\n1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

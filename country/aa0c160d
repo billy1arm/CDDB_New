@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19060
+#	37945
+#	60962
+#	77375
+#	92127
+#	110995
+#	125600
+#	140012
+#	155615
+#	167897
+#	189025
+#	212220
+#
+# Disc length: 3096 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=aa0c160d
+DTITLE=České srdce - Znamení
+DYEAR=2000
+DGENRE=Folk
+TTITLE0=10. století
+TTITLE1=Znamení
+TTITLE2=Bosou nohou žárem
+TTITLE3=Slepej maják
+TTITLE4=Irsky Jig
+TTITLE5=Na schodech před rájem
+TTITLE6=Na kraji světa
+TTITLE7=Čekám
+TTITLE8=Můžeš letět
+TTITLE9=Kruh
+TTITLE10=Jaro, léto, podzim, zima
+TTITLE11=Obyčejnej den s Bonem
+TTITLE12=Poslední oheň
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

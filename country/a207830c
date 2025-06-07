@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	11060
+#	23437
+#	36655
+#	48982
+#	60592
+#	73310
+#	84922
+#	96677
+#	108402
+#	120380
+#	132937
+#
+# Disc length: 1925 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=a207830c
+DTITLE=Hank Williams Sr. - A Country Legend Volume 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Why Don't you Love Me
+TTITLE1=Lovesick Blues
+TTITLE2=Mind Your Own Business
+TTITLE3=Lost Highway
+TTITLE4=My Bucket's Got A Hole In It
+TTITLE5=I Just Don't Like This Kind Of Living
+TTITLE6=My Son Calls Another Man Daddy
+TTITLE7=Mansion On The Hill
+TTITLE8=Dear John
+TTITLE9=Take These Chains From My Heart
+TTITLE10=I'm So Lonesome I Could Cry
+TTITLE11=Wear;y Blues From Waitin'
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

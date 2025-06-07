@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10499
+#	26332
+#	37693
+#	49662
+#	59145
+#	73429
+#	91917
+#	114517
+#	128205
+#	147628
+#	158559
+#
+# Disc length: 2275 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a608e10c
+DTITLE=Creedence Clearwater Revival - A tribute to Creedence Clearwater Revi
+DTITLE=val
+DYEAR=1968
+DGENRE=Country
+TTITLE0=Bar Moon Rising
+TTITLE1=Have You Ever Seen The Rain
+TTITLE2=Hey Tonight
+TTITLE3=Up Around The Band
+TTITLE4=Trayelin' Band
+TTITLE5=Lodi
+TTITLE6=Midnight Special
+TTITLE7=Born On The Bayou
+TTITLE8=Proud Mary
+TTITLE9=Susie Q
+TTITLE10=Lookin' out My Back Door
+TTITLE11=Green River
+EXTD=YEAR: 1968 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

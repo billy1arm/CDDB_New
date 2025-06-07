@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  16250
+#  31822
+#  44967
+#  59035
+#  76230
+#  89095
+#  102152
+#  115872
+#  131127
+#  142972
+#  157887
+#
+# Disc length: 2351 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=a1092d0c
+DTITLE=Great Western Orchestra - GWO
+DYEAR=1900
+DGENRE=
+TTITLE0=Vagabond
+TTITLE1=Wind Out In Reno
+TTITLE2=Train Of Life
+TTITLE3=Ride On
+TTITLE4=Big Iron
+TTITLE5=Your Image Of Me
+TTITLE6=Ain't No Cowgirls In New Orleans
+TTITLE7=Spanish Is A Loving Tongue
+TTITLE8=Cowgirls Lullaby
+TTITLE9=Curly Bob
+TTITLE10=When You Wish Upon A Star
+TTITLE11=Waltz Of The Flowers
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

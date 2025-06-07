@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13253
+#     34378
+#     54895
+#     77883
+#     96695
+#     114893
+#     131660
+#     146985
+#     163355
+#     181378
+# 
+# Disc length: 2712 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a10a960b
+DTITLE=Willie and Bobbie Nelson - I'dRather Have Jesus
+DYEAR=1900
+DGENRE=
+TTITLE0=Old Time Religion
+TTITLE1=I'dRather Have Jesus
+TTITLE2=Just A Little Talk With Jesus
+TTITLE3=Where He Leads Me
+TTITLE4=Revive Us Again
+TTITLE5=Sweet By and Bye
+TTITLE6=Where The Soul Never Dies
+TTITLE7=I'll Fly Away
+TTITLE8=The Lily Of TheValley
+TTITLE9=Are You Washed In The Blood?
+TTITLE10=When We All Get To Heaven
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

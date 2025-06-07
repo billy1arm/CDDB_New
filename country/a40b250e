@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16368
+#	31449
+#	48328
+#	62338
+#	76819
+#	89115
+#	105048
+#	120917
+#	132906
+#	148565
+#	165269
+#	182704
+#	198152
+#
+# Disc length: 2855 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a40b250e
+DTITLE=Various Artist - Hot Hits Country Vol. 74
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Be Stupid (You Know I Love You) - Shania Twain
+TTITLE1=It's Not Over - Mark Chesnutt
+TTITLE2=I Wanna Fall In Love - Lila McCann
+TTITLE3=I Can Love You Better - Dixie Chicks
+TTITLE4=Ther's Only You - Kevin Sharp
+TTITLE5=Just Another Heartache - Chely Wright
+TTITLE6=One Of Those Nights Tonight - Lorrie Morgan
+TTITLE7=Drive Me Crazy - The Thompson Brothers Band
+TTITLE8=The Kind Of Heart That Breaks - Chris Cummings
+TTITLE9=Little Blue Dot - James Bonamy
+TTITLE10=What A Woman Knows - Kris Tyler
+TTITLE11=The Next Step - Jim Collins
+TTITLE12=What's Come Over You - Paul Brandt
+TTITLE13=The Day That She Left Tulsa (In A Chevy) - Wade Hayes
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	11687
+# 	28320
+# 	50560
+# 	67962
+# 	81837
+# 	110592
+# 	123502
+# 	137747
+# 	162372
+# 	176007
+# 	203372
+#
+# Disc length: 2928 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=a30b6e0c
+DTITLE=The Marshall Tucker Band - Country Tucker
+DYEAR=1900
+DGENRE=
+TTITLE0=Hillbilly Band
+TTITLE1=This Ol' Cowboy
+TTITLE2=Heard It In A Love Song
+TTITLE3=Searchin' For A Rainbow
+TTITLE4=See You Later, I'm Gone
+TTITLE5=Desert Skies
+TTITLE6=Long Hard Ride
+TTITLE7=Fire On The Mountain
+TTITLE8=Never Trust A Stranger
+TTITLE9=Property Line
+TTITLE10=Can't You See
+TTITLE11=Blue Ridge Mountain Sky
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

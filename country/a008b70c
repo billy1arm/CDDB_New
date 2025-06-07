@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	16538
+#	28299
+#	43598
+#	57736
+#	72081
+#	84973
+#	96172
+#	115363
+#	128084
+#	145173
+#	155770
+#
+# Disc length: 2233 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=a008b70c
+DTITLE=Fred Rai - Die schönsten Pferdelieder mit
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Wer die Menschen kennt
+TTITLE1=Geisterreiter
+TTITLE2=Es hängt ein Pferdehalfter an der Wand
+TTITLE3=Ohne Pferde
+TTITLE4=Der Mann mit dem Pferd
+TTITLE5=Von den blauen Bergen
+TTITLE6=Hü-o-hoh, alter Schimmel
+TTITLE7=Auch ein Pferd hat ein Recht
+TTITLE8=Steppenreiter
+TTITLE9=Amigo
+TTITLE10=Old Strawberry
+TTITLE11=Hopp, hopp, hopp
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

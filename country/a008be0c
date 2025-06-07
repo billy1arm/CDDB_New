@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	15680
+# 	30472
+# 	45047
+# 	59040
+# 	73017
+# 	84707
+# 	99942
+# 	112857
+# 	126190
+# 	139430
+# 	157322
+#
+# Disc length: 2240 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=a008be0c
+DTITLE=The Warratahs - Wildcard
+DYEAR=1900
+DGENRE=
+TTITLE0=Wild Card
+TTITLE1=Fools Paradise
+TTITLE2=Real World
+TTITLE3=Down Your Street
+TTITLE4=Meantime
+TTITLE5=Bitter End
+TTITLE6=Backlog of Love
+TTITLE7=Turn Around
+TTITLE8=Brown Eyed Handsome Man
+TTITLE9=Don't Start Honey
+TTITLE10=I'm Not Blue
+TTITLE11=Akautangi Way (Instrumental)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

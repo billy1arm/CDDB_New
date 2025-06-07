@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     17752
+#     35670
+#     56475
+#     68912
+#     85412
+#     108635
+#     127207
+#     143257
+#     161407
+#     174912
+#     190430
+# 
+# Disc length: 2802 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=a40af00c
+DTITLE=Asleep at the Wheel - Still Swingin Volume 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Take Me Back To Tulsa
+TTITLE1=Blues Stay Away From Me
+TTITLE2=Trouble In Mind
+TTITLE3=Problem Drinker
+TTITLE4=Ruler Of My Heart
+TTITLE5=Let Me Go Home Whisky
+TTITLE6=Blues For Dixie
+TTITLE7=Fat Boy Rag
+TTITLE8=Choo Choo Ch' Boogie
+TTITLE9=The Same Rope
+TTITLE10=Texas Me and You
+TTITLE11=Jumpin' At The Woodside
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

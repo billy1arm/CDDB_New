@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10200
+#	21150
+#	36525
+#	46125
+#	55110
+#	66750
+#	78600
+#	91125
+#	104325
+#	115110
+#	131025
+#	141310
+#
+# Disc length: 2052 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=af08020d
+DTITLE=Early, Bernie - Cdn. - Chaser For The Blues
+DYEAR=2006
+DGENRE=Country
+TTITLE0=Chaser For the Blues
+TTITLE1=Oh California
+TTITLE2=Goodbye Alice
+TTITLE3=Rock Doll
+TTITLE4=Your Kisses Kill Me
+TTITLE5=Marie Antionette
+TTITLE6=Yes, Honestly
+TTITLE7=Guessing Game
+TTITLE8=The Ferris Wheel
+TTITLE9=Evelina
+TTITLE10=Fibbin'
+TTITLE11=Please Stop Me
+TTITLE12=The Beginning
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12559
+#	24967
+#	33298
+#	45814
+#	55725
+#	67545
+#	78158
+#	95318
+#	109117
+#	121004
+#	135835
+#	147260
+#	155741
+#	167695
+#
+# Disc length: 2477 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a409ab0f
+DTITLE=Johnny Cash - The Man In Black - His Greatest Hits [CD1)
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Folsom Prison Blues
+TTITLE1=I Walk The Line
+TTITLE2=Guess Things Happen That Way
+TTITLE3=Jackson
+TTITLE4=Ballad Of A Teenage Queen
+TTITLE5=Flesh And Blood
+TTITLE6=Daddy Sang Bass
+TTITLE7=A Boy Named Sue
+TTITLE8=Don't Take Your Guns To Town
+TTITLE9=Ring Of Fire
+TTITLE10=There Ain't No Good Chain Gang
+TTITLE11=Big River
+TTITLE12=The Rebel-Johnny Yumr
+TTITLE13=What Is Truth
+TTITLE14=One Piece At A Time
+EXTD=ID3G:   2
+EXTT0=Live
+EXTT1=
+EXTT2=
+EXTT3=With June Carter Cash
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=Live
+EXTT8=
+EXTT9=With The Carter Family
+EXTT10=With Waylon Jennings
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

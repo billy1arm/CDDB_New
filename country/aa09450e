@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	225
+#	11802
+#	25110
+#	36927
+#	47151
+#	60120
+#	70173
+#	79999
+#	94538
+#	109792
+#	122468
+#	139797
+#	153799
+#	164468
+#
+# Disc length: 2376 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=aa09450e
+DTITLE=Kenny Rogers - 2CD set
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Me and Bobby McGee
+TTITLE1=Shine On Ruby Mountain
+TTITLE2=A Poem for my Little Lady
+TTITLE3=Ticket to Nowhere
+TTITLE4=Rugy, Dont' Take Your Love to Town
+TTITLE5=GoodTime Liberator
+TTITLE6=Where Does Rosie Go?
+TTITLE7=Heed The Call
+TTITLE8=Tell it All Brother
+TTITLE9=Love Woman
+TTITLE10=Something's Burnin'
+TTITLE11=Loser
+TTITLE12=We All Got to help Each Other
+TTITLE13=I'm Gonna Sing You a Sad Song
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

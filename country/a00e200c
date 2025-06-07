@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	185
+#	7615
+#	16615
+#	36812
+#	65447
+#	108095
+#	129240
+#	147735
+#	202265
+#	224730
+#	243785
+#	252190
+#
+# Disc length: 3618 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=a00e200c
+DTITLE=The Bar-J Wranglers - Live on Stage
+DYEAR=1900
+DGENRE=
+TTITLE0=Cowboy Jubilee
+TTITLE1=Tumbling Tumbleweeds
+TTITLE2=Skyball Paint
+TTITLE3=He's a Killer
+TTITLE4=Listen to a Mockingbird
+TTITLE5=Rooster's Revenge
+TTITLE6=Long Night's Ride
+TTITLE7=Medley: Lone Prarie - Red River Valley - Cool Water - Texas Plains - S
+TTITLE7=trawberry Roan - Orange Blossom Special
+TTITLE8=Foolish Questions
+TTITLE9=Shenandoah
+TTITLE10=So Long to the Red River Valley
+TTITLE11=Cowboy Camp Meeting
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

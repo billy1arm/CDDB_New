@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16632
+#	37264
+#	52718
+#	73352
+#	90603
+#	110341
+#	127815
+#	142317
+#	161313
+#	186116
+#	207464
+#	228049
+#
+# Disc length: 3215 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=ab0c8d0d
+DTITLE=Houston Marchman - Leavin' Dallas
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Fort Worth
+TTITLE1=Leavin' Dallas
+TTITLE2=South Texas Rain
+TTITLE3=Viet Nashville
+TTITLE4=Bill Longley
+TTITLE5=Wheels
+TTITLE6=Train Wreck
+TTITLE7=Still In San Antone
+TTITLE8=Come On Baby
+TTITLE9=Caleb and Ray Dawn
+TTITLE10=Saddle Up
+TTITLE11=Two Sisters
+TTITLE12=Worry Me
+EXTD=YEAR: 1999 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

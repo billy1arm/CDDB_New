@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	17382
+#	28095
+#	43987
+#	59080
+#	76077
+#	92980
+#	110797
+#	132750
+#	157060
+#	176710
+#	192052
+#
+# Disc length: 2845 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a20b1b0c
+DTITLE=Steven Seagal - Unknown CD for MusicBrainz and FreeDB
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Travis Tritt - Back Up Against The Wall
+TTITLE1=Marty Stuart - Give Me Back My Heart
+TTITLE2=the Lynns - Woman to Woman
+TTITLE3=Kostas - Don't Start A Fire (If You Can't Put It Out)
+TTITLE4=Mark Collie, Jeff Wood and Aaron Tippin - Fire Down Below
+TTITLE5=Randy Scruggs - Desert Breeze
+TTITLE6=Randy Travis - Paradise
+TTITLE7=Alabama - Pass It Down
+TTITLE8=Richie Sambora - Long Way Around
+TTITLE9=Russ Taff - I'd Walk Through Fire
+TTITLE10=Taj Mahal and Steven Seagal - Dark Angel
+TTITLE11=Marty Grebb - Fire In The Hole
+EXTD=YEAR: 1997
+EXTT0=Travis Tritt\n
+EXTT1=Marty Stuart
+EXTT2=The Lynns
+EXTT3=Kostas
+EXTT4=Mark Collie, Jeff Wood, Aaron Tippin
+EXTT5=Randy Scruggs, Steven Segal
+EXTT6=Randy Travis
+EXTT7=Alabama
+EXTT8=Richie Sambora
+EXTT9=Russ Taff
+EXTT10=Taj Mahal, Steven Segal
+EXTT11=Marty Grebb
+PLAYORDER=

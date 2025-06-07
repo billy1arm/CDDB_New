@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15377
+#	28590
+#	41723
+#	56116
+#	72337
+#	87825
+#	104816
+#	119138
+#	133055
+#	146039
+#
+# Disc length: 2183 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a708850b
+DTITLE=Joe Sun - Old Flames
+DYEAR=1978
+DGENRE=Country
+TTITLE0=01 - Old Flames (Can't Hold A Candle To You)
+TTITLE1=02 - Blue Ribbon Blues
+TTITLE2=03 - I Came On Business For The King
+TTITLE3=04 - Born Too Late
+TTITLE4=05 - Ozark Mountain Lullaby
+TTITLE5=06 - Midnight Train Of Memories
+TTITLE6=07 - High And Dry
+TTITLE7=08 - This Body That I Call My Home
+TTITLE8=09 - That Evil Child
+TTITLE9=10 - Narration_ Danny Dill and Marijohn Wilkin
+TTITLE10=11 - Long Black Veil
+EXTD=YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 12866
+# 34729
+# 52797
+# 64281
+# 82298
+# 97149
+# 112507
+# 126148
+# 140760
+# 154449
+# 169270
+#
+# Disc length: 2406 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=a309640c
+DTITLE=Bill Cooley - Unravel'd
+DYEAR=1900
+DGENRE=
+TTITLE0=Nancy Lee
+TTITLE1=Landslide
+TTITLE2=Uprising
+TTITLE3=Myrtle
+TTITLE4=Cafe Boulogne
+TTITLE5=No Brainer
+TTITLE6=Unravel'd by the Road
+TTITLE7=An Isolated Incident
+TTITLE8=Into the Night
+TTITLE9=Lumpfish Lullabye
+TTITLE10=Travis T. Davis
+TTITLE11=Avila
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

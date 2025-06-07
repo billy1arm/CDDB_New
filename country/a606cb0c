@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12175
+#	23900
+#	36825
+#	49425
+#	59575
+#	70875
+#	80125
+#	89550
+#	100075
+#	110075
+#	120425
+#
+# Disc length: 1741 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=a606cb0c
+DTITLE=Jim Reeves - Am I Losing You
+DYEAR=1900
+DGENRE=
+TTITLE0=Mexican Joe
+TTITLE1=Yonder Comes a Sucker
+TTITLE2=Four Walls
+TTITLE3=Bimbo
+TTITLE4=Partners
+TTITLE5=Anna Maria
+TTITLE6=I Know One
+TTITLE7=Billy Bayoe
+TTITLE8=He'll Have to Go
+TTITLE9=Stand at Your Window
+TTITLE10=Am I Losing You
+TTITLE11=I'm Getting Better
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

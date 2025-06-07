@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12632
+#     25245
+#     37302
+#     52695
+#     64789
+#     74155
+#     87437
+#     106597
+#     123237
+#     137020
+#     149557
+# 
+# Disc length: 2162 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=af08700c
+DTITLE=Varios - Rancheras 3 Homenaje a Vicente Fernandez
+DYEAR=1900
+DGENRE=
+TTITLE0=Volver , volver
+TTITLE1=De que manera te olvido
+TTITLE2=La ley del monte
+TTITLE3=Cruz de olvido
+TTITLE4=Las llaves de mi alma
+TTITLE5=Libro abierto
+TTITLE6=Mujeres divinas
+TTITLE7=Lastima que seas ajena
+TTITLE8=Por tu maldito amor
+TTITLE9=El arracadas
+TTITLE10=La ley de la vida
+TTITLE11=Camino inseguro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

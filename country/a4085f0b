@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     13212
+#     27647
+#     45970
+#     59817
+#     76877
+#     88835
+#     102600
+#     115342
+#     137170
+#     148327
+# 
+# Disc length: 2145 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=a4085f0b
+DTITLE=Tanya Tucker - Greatest Country Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=One Love At a Time
+TTITLE1=Just Another Love
+TTITLE2=I'll Come Back As Another Woman
+TTITLE3=It's Only For You
+TTITLE4=Love Me Like You Used To
+TTITLE5=Walking Shoes
+TTITLE6=Lizzie and the Rainman
+TTITLE7=San Antonio Stroll
+TTITLE8=Texas When I Die
+TTITLE9=Pecos Promenade
+TTITLE10=Can I See You Tonight
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

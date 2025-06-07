@@ -1,0 +1,54 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16388
+#	38391
+#	53149
+#	72681
+#	86542
+#	101963
+#	119039
+#	136179
+#	156902
+#	183454
+#	202206
+#
+# Disc length: 2947 seconds
+#
+# Submitted via: cddb-tool 0.4.7
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=af0b810c
+DTITLE=Zumba Fitness - Basic 2
+DYEAR=2010
+DGENRE=misc
+TTITLE0=El Tango De La Bodega
+TTITLE1=Sabrosura
+TTITLE2=Hecha Pa'lante
+TTITLE3=Samba Groove
+TTITLE4=El Choclo
+TTITLE5=Djobi Djoba
+TTITLE6=Alabina
+TTITLE7=Xibom Bom Bom
+TTITLE8=Amores De Colores
+TTITLE9=Del Puente Pa Alla
+TTITLE10=Plane To PR
+TTITLE11=Fin De Semana
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

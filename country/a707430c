@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12775
+#	26152
+#	39682
+#	52277
+#	63660
+#	73075
+#	85205
+#	94062
+#	105100
+#	118485
+#	130597
+#
+# Disc length: 1861 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a707430c
+DTITLE=Merle Haggard - Sing Me Back Home
+DYEAR=1995
+DGENRE=Country
+TTITLE0=Sing Me Back Home
+TTITLE1=Look Over Me
+TTITLE2=Son of Hickory Holler's Tramp
+TTITLE3=Wine Take Me Back
+TTITLE4=If You See My Baby
+TTITLE5=Where Does The Good Times Go?
+TTITLE6=I'll Leave The Bottle On The Bar
+TTITLE7=My Past Is Present
+TTITLE8=Home Is Where The Kid Grows Up
+TTITLE9=Mom and Dad's Waltz
+TTITLE10=Good Times
+TTITLE11=Seeing Eye Dog
+EXTD=YEAR: 1995 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

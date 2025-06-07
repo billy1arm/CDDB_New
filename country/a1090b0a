@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     15655
+#     36697
+#     52445
+#     66945
+#     85777
+#     97050
+#     116465
+#     134667
+#     148382
+# 
+# Disc length: 2317 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a1090b0a
+DTITLE=Joel Feeney - Joel Feeney and Western Front
+DYEAR=1900
+DGENRE=
+TTITLE0=It's A Beautiful Life
+TTITLE1=Diamonds
+TTITLE2=Poor Billy
+TTITLE3=Long Road Back
+TTITLE4=The Lady's Not Lost to the Sea
+TTITLE5=The Tennessee Hills
+TTITLE6=The Harder I Fall
+TTITLE7=One Good Reason
+TTITLE8=If Anything Could Be
+TTITLE9=When I Find My Resting Place
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

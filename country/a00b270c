@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21476
+#	34905
+#	53830
+#	79546
+#	97803
+#	117048
+#	138399
+#	155713
+#	176201
+#	193507
+#	211386
+#
+# Disc length: 2857 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=a00b270c
+DTITLE=Roger Creager - I Got The Guns
+DYEAR=2000
+DGENRE=country
+TTITLE0=Storybook
+TTITLE1=Mother's A Redneck, Too
+TTITLE2=What's A Lonely Girl To Do
+TTITLE3=I Got The Guns
+TTITLE4=Rancho Grande
+TTITLE5=The Day You Went Away
+TTITLE6=A Feeling I Get
+TTITLE7=Things Look Good Around Here
+TTITLE8=Should've Learned By Now
+TTITLE9=Love
+TTITLE10=Goodbye
+TTITLE11=Bonus Track
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

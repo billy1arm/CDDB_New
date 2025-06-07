@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13300
+#	29673
+#	40484
+#	54743
+#	66656
+#	80615
+#	97239
+#	108832
+#	123818
+#	132016
+#	142691
+#
+# Disc length: 2140 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=ac085a0c
+DTITLE=Rose Maddox and John Jorgenson - The Moon Is Rising
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Down To The River
+TTITLE1=The Moon Is Rising
+TTITLE2=Stand Up Fool
+TTITLE3=No Better Place
+TTITLE4=Old Greyhound
+TTITLE5=What Makes Me Hang Around
+TTITLE6=Love's Worth More Than Gold
+TTITLE7=Love Me Or Leave Me Alone
+TTITLE8=Silver Eagle
+TTITLE9=For The Last Time Today
+TTITLE10=Love Is Spoken Here
+TTITLE11=Shine Like A Star
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

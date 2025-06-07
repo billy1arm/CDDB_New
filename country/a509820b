@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14050
+#	28810
+#	44950
+#	61920
+#	77117
+#	96250
+#	111102
+#	125645
+#	140712
+#	161025
+#
+# Disc length: 2436 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a509820b
+DTITLE=Smolik Jakub - Nejvetsi hity country
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Reknete ji
+TTITLE1=Vzdalene bubny
+TTITLE2=Nedelni rano
+TTITLE3=Vincent
+TTITLE4=Chvili jen chvili
+TTITLE5=Tam u nebeskych bran
+TTITLE6=Oh ruby
+TTITLE7=Blizzard
+TTITLE8=Posledni kovboj
+TTITLE9=Bajecna zenska
+TTITLE10=Pry chlapi nebreci
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

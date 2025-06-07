@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    183
+#    18870
+#    41913
+#    59088
+#    75575
+#    96205
+#    109670
+#    126380
+#    142395
+#    160358
+#    175720
+#    189030
+#
+# Disc length: 2810 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=a40af80c
+DTITLE=Rodney Crowell - Collection
+DYEAR=1900
+DGENRE=country
+TTITLE0=Ashes By Now
+TTITLE1='Til I Gain Control Again
+TTITLE2=Voila, An American Dream
+TTITLE3=Queen Of Hearts
+TTITLE4=Shame On The Moon
+TTITLE5=Old Pipliner
+TTITLE6=Stars On The Water
+TTITLE7=Heartbroke
+TTITLE8=I Don't Have To Crawl
+TTITLE9=Leaving Louisiana In The Broad Daylight
+TTITLE10=Victim of a Fool
+TTITLE11=I Ain't Living Long Like This
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

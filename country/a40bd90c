@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18870
+#	35457
+#	54340
+#	69672
+#	86847
+#	106267
+#	132260
+#	141325
+#	157830
+#	172272
+#	201942
+#
+# Disc length: 3035 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=a40bd90c
+DTITLE=Bill Withers - Lovely Days
+DYEAR=1900
+DGENRE=
+TTITLE0=Lovely day
+TTITLE1=Use me
+TTITLE2=Ain't no sunshine (7 the eclipse mix)
+TTITLE3=Harlem
+TTITLE4=Kissing my love
+TTITLE5=Lean on me
+TTITLE6=Steppin' right along
+TTITLE7=Grandma's hands
+TTITLE8=Lonely town/Lonely street
+TTITLE9=Who is he, what is he to you
+TTITLE10=Lovely day
+TTITLE11=Ain't no sunshine (The total eclipse mix)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

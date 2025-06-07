@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12850
+#	29575
+#	47582
+#	59283
+#	70846
+#	81755
+#	97473
+#	112406
+#	126630
+#	143850
+#
+# Disc length: 2055 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a808050b
+DTITLE=Wylie Gustafson - Christmas for Cowboys
+DYEAR=2007
+DGENRE=Country
+TTITLE0=Go Tell it on the Mountain
+TTITLE1=Christmas for Cowboys
+TTITLE2=In the Bleak Midwinter
+TTITLE3=Behold that Star
+TTITLE4=I Heard the Bells on Christmas Day
+TTITLE5=Christmas Time's a Coming
+TTITLE6=Silent Night
+TTITLE7=The Gifts They Gave
+TTITLE8=O Little Town of Bethlehem
+TTITLE9=Beautiful Star of Bethlehem
+TTITLE10=Away in a Manger
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

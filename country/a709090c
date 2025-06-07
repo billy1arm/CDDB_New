@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14256
+#	25341
+#	41792
+#	56037
+#	70301
+#	87553
+#	101288
+#	114159
+#	127193
+#	140893
+#	154595
+#
+# Disc length: 2315 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a709090c
+DTITLE=Dalibor Janda - Deset prstu pro zivot
+DYEAR=1998
+DGENRE=Pop
+TTITLE0=Pada hvezda
+TTITLE1=Kdyz laska dostane spad
+TTITLE2=Bohuzel
+TTITLE3=Ofsajd
+TTITLE4=Stolety starec
+TTITLE5=Nadoraz
+TTITLE6=Modre nad hlavou
+TTITLE7=Hledal jsem lasku
+TTITLE8=Tvrde musis dal
+TTITLE9=Hadej
+TTITLE10=Mas se lip nez ja
+TTITLE11=Deset prstu pro zivot
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

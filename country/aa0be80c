@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14797
+#	30900
+#	50755
+#	67982
+#	83567
+#	105860
+#	124987
+#	145115
+#	162312
+#	185210
+#	202437
+#
+# Disc length: 3050 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=aa0be80c
+DTITLE=Faith Hill - Faith
+DYEAR=1998
+DGENRE=Country
+TTITLE0=This Kiss
+TTITLE1=You Give Me Love
+TTITLE2=Let Me Let Go
+TTITLE3=Love Ain't Like That
+TTITLE4=Better Days
+TTITLE5=My Wild Frontier
+TTITLE6=The Secret Of Life
+TTITLE7=Just To Hear You Say That You Love Me
+TTITLE8=Me
+TTITLE9=I Love You
+TTITLE10=The Hard Way
+TTITLE11=Somebody Stand By Me
+EXTD=YEAR: 1998 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=with Tim McGraw\n
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

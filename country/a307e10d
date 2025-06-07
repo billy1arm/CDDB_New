@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	13237
+# 	24085
+# 	35817
+# 	45960
+# 	57820
+# 	69902
+# 	82862
+# 	95132
+# 	103132
+# 	116482
+# 	129155
+# 	139972
+#
+# Disc length: 2019 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=a307e10d
+DTITLE=Hank Williams - American Legend:  Hank Williams
+DYEAR=1900
+DGENRE=country
+TTITLE0=My Heart Would Know (The Osborne Brothers)
+TTITLE1=Why Don't You Love Me? (Hank Williams)
+TTITLE2=Singing Waterfall (Molly O'Day)
+TTITLE3=Move it on Over (Rose Maddox)
+TTITLE4=You Win Again (Hank Williams)
+TTITLE5=A Mansion on the Hill (Tompall and the Glasier Brothers)
+TTITLE6=I Don't Care if Tomorrow Never Comes (Molly O'Day)
+TTITLE7=On the Banks of the Old Ponchartrain (Rose Maddox)
+TTITLE8=Fool About Your (Hank Williams)
+TTITLE9=My Sweet Love Ain't Around (The Osborne Brothers)
+TTITLE10=When God Comes to Gather Up His Jewels (Molly O'Day)
+TTITLE11=Honky-Tonkin' (Rose Maddox)
+TTITLE12=My Son Calls Another Man Daddy (Hank Williams)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

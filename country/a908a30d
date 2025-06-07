@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     15760
+#     28125
+#     41355
+#     55212
+#     70617
+#     80492
+#     92117
+#     104782
+#     115465
+#     125332
+#     139580
+#     153737
+# 
+# Disc length: 2213 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a908a30d
+DTITLE=Engelbert Humperdinck - Release me
+DYEAR=1900
+DGENRE=
+TTITLE0=Release me
+TTITLE1=quiet nights
+TTITLE2=yours untill tomorrow
+TTITLE3=there's a kind of hush
+TTITLE4=this is my song
+TTITLE5=misty blue
+TTITLE6=take my heart
+TTITLE7=how near i your love
+TTITLE8=walk through this world
+TTITLE9=if i were you
+TTITLE10=talking love
+TTITLE11=my world
+TTITLE12=ten guitars
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13827
+#     24512
+#     37125
+#     51012
+#     65180
+#     79535
+#     92235
+#     105850
+#     119777
+#     133575
+#     148302
+# 
+# Disc length: 2165 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=ac08730c
+DTITLE=Julio Jaramillo - La Musica De Julio Jaramillo 2 Fatalidad
+DYEAR=1900
+DGENRE=
+TTITLE0=Fatalidad
+TTITLE1=Senderito de amor
+TTITLE2=Arrepentida
+TTITLE3=Sombras
+TTITLE4=Miente el viento
+TTITLE5=Interrogacion
+TTITLE6=De hinojos
+TTITLE7=Hojas muertas
+TTITLE8=Consuelo amargo
+TTITLE9=Claro de luna
+TTITLE10=Volver
+TTITLE11=Para ti madrecita
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

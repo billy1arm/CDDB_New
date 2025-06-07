@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	14220
+#	26757
+#	38270
+#	50495
+#	63695
+#	76795
+#	89757
+#	101920
+#	110595
+#	121370
+#	137382
+#
+# Disc length: 2078 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=a2081c0c
+DTITLE=Luigi Tenco - Le canzoni di Luigi Tenco
+DYEAR=1997
+DGENRE=Pop
+TTITLE0=Ciao amore, ciao
+TTITLE1=Lontano, lontano
+TTITLE2=Io sono uno
+TTITLE3=Uno di questi giorni ti sposerò
+TTITLE4=Se sapessi come fai
+TTITLE5=Io vorrei essere là
+TTITLE6=Un giorno dopo l'altro
+TTITLE7=Ognuno è libero
+TTITLE8=Amore, amore mio
+TTITLE9=E se ci diranno
+TTITLE10=Vedrai, vedrai
+TTITLE11=Ciao amore, ciao (li vidi tornare)
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

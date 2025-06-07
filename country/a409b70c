@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14625
+#     31313
+#     50925
+#     64750
+#     81825
+#     98925
+#     119325
+#     131075
+#     144075
+#     160275
+#     172875
+# 
+# Disc length: 2489 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a409b70c
+DTITLE=Donnie Marsico - Bolt Out Of The Blue
+DYEAR=1900
+DGENRE=
+TTITLE0=Bolt Out Of The Blue
+TTITLE1=I Will Stand By You
+TTITLE2=Undeniable Feeling
+TTITLE3=Hold On To The Night
+TTITLE4=Your Kisses Don't Lie
+TTITLE5=(Love Can) Hurt You, Haunt You, Heal You
+TTITLE6=Woman In Chaings
+TTITLE7=Heaven Help Me
+TTITLE8=Clinging To The Vine
+TTITLE9=Into The Night
+TTITLE10=Long Gone Blues
+TTITLE11=The Boy Was Born To Rock 'N' Roll
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

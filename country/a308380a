@@ -1,0 +1,47 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	11850
+#	22425
+#	39322
+#	55650
+#	72300
+#	88362
+#	104025
+#	127325
+#	140925
+#
+# Disc length: 2106
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.00 
+# Normalized: r0:TDELIM( - ),TSWAP
+#
+DISCID=a308380a
+DTITLE=Merle Haggard and Willie Nelson - Gospel's Best - Merle Haggard and Willie Nelson
+DYEAR=1993
+DGENRE=Gospel
+TTITLE0=Merle Haggard - What A Friend We Have In Jesus
+TTITLE1=Merle Haggard - He Walks With Me
+TTITLE2=Merle Haggard - The Old Rugged Cross
+TTITLE3=Merle Haggard - Swing Low Sweet Chariot
+TTITLE4=Willie Nelson - Stand By Me
+TTITLE5=Willie Nelson - In God's Eyes
+TTITLE6=Willie Nelson - Tell It To Jesus
+TTITLE7=Willie Nelson - It Is No Secret (What God Can Do)
+TTITLE8=Merle Haggard - Softly And Tenderly
+TTITLE9=Willie Nelson - There Shall Be Showers Of Blessings
+EXTD=MCAD-20478
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

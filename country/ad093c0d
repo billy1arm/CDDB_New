@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	200
+#	13737
+#	34512
+#	49242
+#	59777
+#	76612
+#	96157
+#	108605
+#	121860
+#	134387
+#	146645
+#	156087
+#	168425
+#
+# Disc length: 2366 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.2
+#
+DISCID=ad093c0d
+DTITLE=Mike Cross - Carolina Sky
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Need Another Hit
+TTITLE1=The Green of His Eyes
+TTITLE2=Carolina Sky
+TTITLE3=Old Shoe
+TTITLE4=A Night on the Town
+TTITLE5=Not For the Love I Can Take
+TTITLE6=Say What You Mean
+TTITLE7=Jenny
+TTITLE8=Dark Angel
+TTITLE9=Learning to Live on Love
+TTITLE10=The Drunkard
+TTITLE11=Katie's Tune
+TTITLE12=Pidgeon on the Gate
+EXTD=
+EXTT0=Don't Need Another Hit\n
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

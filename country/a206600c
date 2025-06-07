@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10695
+#	19177
+#	27797
+#	38177
+#	50220
+#	61435
+#	71812
+#	78565
+#	89537
+#	101320
+#	112350
+#
+# Disc length: 1634 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=a206600c
+DTITLE=Waylon Jennings - Burning Memories
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Burning Memories
+TTITLE1=Abilene
+TTITLE2=Love's Gonna Live Here Again
+TTITLE3=Money (Thats What I Want)
+TTITLE4=Don't Think Twice, It's Alright
+TTITLE5=Sally Was A Good Old Girl
+TTITLE6=Lorena
+TTITLE7=It's So Easy
+TTITLE8=Dream Baby
+TTITLE9=Crying
+TTITLE10=Big Mamou
+TTITLE11=White Lightning
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

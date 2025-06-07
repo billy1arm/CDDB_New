@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	20735
+#	45531
+#	58379
+#	72869
+#	93036
+#	108970
+#	127709
+#	151436
+#	167667
+#	187273
+#	201733
+#
+# Disc length: 3018 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a80bc80c
+DTITLE=Tantowi Yahya - Country Manado
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Biar Jo
+TTITLE1=Pulang Jo
+TTITLE2=Malam Minggu
+TTITLE3=Balada Pelaut
+TTITLE4=Pigi Jo Deng Dia
+TTITLE5=Kalo Mo Pikir
+TTITLE6=Nyanda Mo Balaeng
+TTITLE7=Polo Pa Kita
+TTITLE8=Mo Bilang Apa
+TTITLE9=So Nyanda Guna
+TTITLE10=Balada Pelaut (minus one)
+TTITLE11=Pulang Jo (minus one)
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

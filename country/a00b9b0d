@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+#
+# Track frame offsets:
+#	150
+#	19159
+#	34516
+#	50433
+#	67353
+#	82949
+#	100717
+#	120384
+#	138615
+#	157633
+#	171244
+#	189771
+#	207871
+#
+# Disc length: 2973
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CoolCD_Studio 1.4
+#
+DISCID=a00b9b0d
+DTITLE=Alan Jackson - Red Like A Rose
+DYEAR=2006
+DGENRE=
+TTITLE0=Anywhere On Earth You Are
+TTITLE1=Good Imitation Of The Blues
+TTITLE2=Like Red On A Rose
+TTITLE3=Nobody Said That It Would Be Easy
+TTITLE4=Don't Change On Me
+TTITLE5=The Firefly's Song
+TTITLE6=Wait A Minute
+TTITLE7=Had It Not Been You
+TTITLE8=A Woman's Love
+TTITLE9=Don't Ask Why
+TTITLE10=As Lovely As You
+TTITLE11=Where Do I Go From Here (A Trucker's Song)
+TTITLE12=Bluebird
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

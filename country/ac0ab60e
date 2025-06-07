@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10405
+#	27802
+#	43180
+#	56262
+#	67745
+#	82795
+#	94807
+#	114675
+#	129110
+#	145927
+#	159820
+#	170590
+#	187270
+#
+# Disc length: 2744 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ac0ab60e
+DTITLE=Various Artist - Tinsel Tunes - More Holiday Treats From Sugar Hill
+DYEAR=1996
+DGENRE=Bluegrass
+TTITLE0=Chris Hillman and Herb Petersen - Blue Christmas Lights
+TTITLE1=Sam Bush - Sleigh Ride
+TTITLE2=O'Brien, Molly - In The Bleak Midwinter
+TTITLE3=The Nashville Bluegrass Band - Christmas Story
+TTITLE4=Lonesome River Band - All I Want Is Mary For Christmas
+TTITLE5=Kathy Kallick and The Little Big Band - Ring The Bells At Midnight
+TTITLE6=The Laurel Canyon Ramblers - Christmas Is Coming To Town
+TTITLE7=Chris Thile - Bring A Torch, Jeanette Isabella
+TTITLE8=Brother Boys - I'll Be Home For Christmas
+TTITLE9=Psychograss - On A Quiet Night
+TTITLE10=The Fairfield Four and NBB - The Last Month Of The Year
+TTITLE11=Don Dixon and Marti Jones - Ever Day Will Be Like A Holiday
+TTITLE12=Chesapeake - Christmas Swing
+TTITLE13=Keen, Robert Earl - Merry Christmas From The Family
+EXTD=YEAR: 1996
+EXTT0=Chris Hillman and Herb Pedersen\n
+EXTT1=Sam Bush\n
+EXTT2=Mollie O'Brien\n
+EXTT3=The Nashville Bluegrass Band\n
+EXTT4=The Lonesome River Band\n
+EXTT5=Kathy Kallick and the Little Big Band\n
+EXTT6=The Laurel Canyon Ramblers\n
+EXTT7=Chris Thile\n
+EXTT8=Brother Boys\n
+EXTT9=Psychograss\n
+EXTT10=The Fairfield Four and NBB\n\n
+EXTT11=Don Dixon and Marti Jones\n
+EXTT12=Chesapeake\n
+EXTT13=Robert Earl Keen\n
+PLAYORDER=

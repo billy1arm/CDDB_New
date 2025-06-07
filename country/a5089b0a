@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	14007
+# 	33720
+# 	43875
+# 	59970
+# 	83240
+# 	104087
+# 	118857
+# 	132267
+# 	146237
+#
+# Disc length: 2205 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=a5089b0a
+DTITLE=Roger Whittaker - Classic Collections Vol, 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Scarlett Ribbons
+TTITLE1=Leaving On A Jet Plane
+TTITLE2=Tenderly
+TTITLE3=Harbor Lights
+TTITLE4=You Don't Know Me
+TTITLE5=Try To Remember
+TTITLE6=You Needed Me
+TTITLE7=Vaya Con Dios
+TTITLE8=Stranger On the Shore
+TTITLE9=Always On My Mind
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

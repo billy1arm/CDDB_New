@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14145
+#     28587
+#     44027
+#     59915
+#     75217
+#     87870
+#     102280
+#     115982
+#     129500
+#     144767
+#     157332
+# 
+# Disc length: 2279 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a408e50c
+DTITLE=Leif Norbergs - Highway to Hellsingland
+DYEAR=1900
+DGENRE=
+TTITLE0=Highway to hell
+TTITLE1=Smoke on the water
+TTITLE2=Speed king
+TTITLE3=Satisfaction
+TTITLE4=Child in time
+TTITLE5=Love hurts
+TTITLE6=Stairway to heaven
+TTITLE7=Everyones looking
+TTITLE8=I was made for loving you
+TTITLE9=Paranoid
+TTITLE10=Jump
+TTITLE11=The final countdown
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

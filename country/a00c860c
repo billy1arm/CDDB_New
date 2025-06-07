@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19282
+#     34006
+#     62121
+#     81902
+#     102178
+#     117484
+#     136734
+#     159157
+#     180439
+#     199117
+#     220472
+# 
+# Disc length: 3208 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a00c860c
+DTITLE=Ty Thomas - Ty Thomas - The Story Behind The Songs
+DYEAR=1900
+DGENRE=
+TTITLE0=dancin' in the wind
+TTITLE1=far away smile
+TTITLE2=a love like yours 'n mine
+TTITLE3=so in love
+TTITLE4=take me away
+TTITLE5=lonely days 'n lonely nights
+TTITLE6=don't run away
+TTITLE7=it's all a dream
+TTITLE8=pretty girl, lonely guy
+TTITLE9=the lady loves roses
+TTITLE10=ways of the world
+TTITLE11=further from the flame
+EXTD=
+EXTT0=Song titles and Artist name are printed in \nall lower-case letters.\n
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

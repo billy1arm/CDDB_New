@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     14735
+#     32002
+#     49842
+#     63810
+#     84010
+#     103520
+#     115297
+#     128295
+#     146012
+#     162545
+#     175682
+#     190130
+# 
+# Disc length: 2804 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a20af20d
+DTITLE=Bill and Bonnie Hearne - Diamonds in the Rough
+DYEAR=1900
+DGENRE=
+TTITLE0=Grapes on the Vine
+TTITLE1=Alison Lives by the Big Bend
+TTITLE2=Muley Brown
+TTITLE3=Georgetown
+TTITLE4=Wild Geese
+TTITLE5=Walk Through the Bottomland
+TTITLE6=Bluebonnet Girl
+TTITLE7=Invitation to the Blues
+TTITLE8=Going Back to Georgia
+TTITLE9=Rose of Sharon
+TTITLE10=Sweet Desert Rose
+TTITLE11=Every Drop of Water
+TTITLE12=New Mexico Rain
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

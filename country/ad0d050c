@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21617
+#	49262
+#	65045
+#	82702
+#	96835
+#	117579
+#	129675
+#	150660
+#	182547
+#	202230
+#	230017
+#
+# Disc length: 3335 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=ad0d050c
+DTITLE=Mickey Newbury - Live In England
+DYEAR=1900
+DGENRE=
+TTITLE0=Angeline
+TTITLE1=Cortelia Clark
+TTITLE2=Song of Sorrow
+TTITLE3=His Eye is on the Sparrow
+TTITLE4=Sailor Sailor
+TTITLE5=Ramblin' Blues
+TTITLE6=Danny Boy
+TTITLE7=Easy Street
+TTITLE8='Frisco Depot
+TTITLE9=Shenandoah
+TTITLE10=San Fransisco Mabel Joy
+TTITLE11=American Trilogy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

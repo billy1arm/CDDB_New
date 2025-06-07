@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21750
+#	37012
+#	52237
+#	66490
+#	80965
+#	96452
+#	111720
+#	126347
+#	141947
+#
+# Disc length: 2168 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.07.15)
+#
+DISCID=a708760a
+DTITLE=Assorted Artists - Country Skies
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Sage Rider
+TTITLE1=Texas Lil's
+TTITLE2=Still Getting Over You
+TTITLE3=Shaky Puddin'
+TTITLE4=Magpie Swing
+TTITLE5=Pickin' And Grinnin'
+TTITLE6=Swingin' Caboose
+TTITLE7=Southern Comfort
+TTITLE8=In Cahoots
+TTITLE9=Drifter's Lament
+EXTD=ID3G:   2 YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

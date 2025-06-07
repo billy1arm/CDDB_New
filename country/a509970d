@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14552
+#     32442
+#     43730
+#     60767
+#     74300
+#     88767
+#     100605
+#     117127
+#     136152
+#     146765
+#     155315
+#     169392
+# 
+# Disc length: 2457 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a509970d
+DTITLE=Jerry Lee Lewis - Live!
+DYEAR=1900
+DGENRE=
+TTITLE0=I Got a Woman
+TTITLE1=CC Rider
+TTITLE2=Keep My Motor Runnin'
+TTITLE3=Who Will The Next Fool Be
+TTITLE4=Sweet Little Sixteen
+TTITLE5=Careless Hands
+TTITLE6=Shorty
+TTITLE7=You Win Again
+TTITLE8=Georgia on My Mind
+TTITLE9=Chantilly Lace
+TTITLE10=Great Balls Of Fire
+TTITLE11=Whole Lotta Shaking Going On
+TTITLE12=Meat Man
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15995
+#	33573
+#	52008
+#	67290
+#	80928
+#	100783
+#	115793
+#	130416
+#	146240
+#	158035
+#	172907
+#
+# Disc length: 2492 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=a809ba0c
+DTITLE=R.B. Stone - Country Rocker
+DYEAR=2004
+DGENRE=Country
+TTITLE0=Cowboy Boots And Telecasters
+TTITLE1=Lifes Lessons
+TTITLE2=Albuquerque Skies
+TTITLE3=Ramblin Heart
+TTITLE4=Autumn
+TTITLE5=Let Me Into Your Heart
+TTITLE6=A Little Bit of Rock and Roll
+TTITLE7=Serarchin for a Feeling
+TTITLE8=Gotta Let Her Know
+TTITLE9=Standin On Top of The World
+TTITLE10=Leave Lonely Alone
+TTITLE11=Sweet Dreams
+EXTD=YEAR: 2004 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

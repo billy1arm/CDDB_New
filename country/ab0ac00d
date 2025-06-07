@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18174
+#	39394
+#	56974
+#	74775
+#	92624
+#	115145
+#	126533
+#	139118
+#	150410
+#	160650
+#	178576
+#	188366
+#
+# Disc length: 2754 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ab0ac00d
+DTITLE=Mattanza - Viaggio
+DYEAR=2007
+DGENRE=Folklore
+TTITLE0=Quaresimali
+TTITLE1=Nebbia a la Valle
+TTITLE2=Brigante se More
+TTITLE3=Kalavrisella
+TTITLE4=Vacci Canzuna Mia
+TTITLE5=Mundu a Scali
+TTITLE6=Jeu Sugnu Ambasciatori
+TTITLE7=Mattanza
+TTITLE8='Stati
+TTITLE9=Aniti
+TTITLE10=Violina
+TTITLE11='Rriggiu
+TTITLE12=Vitti na Crozza
+EXTD=YEAR: 2007
+EXTT0=Viaggio - EtnoCalabrese
+EXTT1=Viaggio - EtnoCalabrese
+EXTT2=Viaggio - EtnoCalabrese
+EXTT3=Viaggio - EtnoCalabrese
+EXTT4=Viaggio - EtnoCalabrese
+EXTT5=Viaggio - EtnoCalabrese
+EXTT6=Viaggio - EtnoCalabrese
+EXTT7=Viaggio - EtnoCalabrese
+EXTT8=Viaggio - EtnoCalabrese
+EXTT9=Viaggio - EtnoCalabrese
+EXTT10=Viaggio - EtnoCalabrese
+EXTT11=Viaggio - EtnoCalabrese
+EXTT12=Viaggio - EtnoCalabrese
+PLAYORDER=

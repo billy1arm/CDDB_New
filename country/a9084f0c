@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15890
+#     32370
+#     44130
+#     57407
+#     66357
+#     80607
+#     94832
+#     111380
+#     122250
+#     134820
+#     146587
+# 
+# Disc length: 2129 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a9084f0c
+DTITLE=Leandro e Leonardo - Os Grandes Sucessos
+DYEAR=1900
+DGENRE=
+TTITLE0=Pense em Mim
+TTITLE1=Entre tapas e beijos
+TTITLE2=Doce Mist rio
+TTITLE3=Casa, separa
+TTITLE4=Fui dando porrada
+TTITLE5=Festa de Rodeio
+TTITLE6=Temporal de amor
+TTITLE7=Achei uma louca
+TTITLE8=Mexe mexe
+TTITLE9=Dor de amor n o tem jeito
+TTITLE10=Tudo de novo
+TTITLE11=Entre um gole e outro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

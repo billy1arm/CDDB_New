@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     155
+#     10825
+#     25545
+#     38245
+#     56797
+#     67327
+#     78372
+#     91037
+#     104722
+#     112235
+#     128887
+#     141035
+# 
+# Disc length: 2029 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a407eb0c
+DTITLE=D.L. Menard - Cajun Saturday Night
+DYEAR=1900
+DGENRE=
+TTITLE0=Cajun Saturday Night
+TTITLE1=Why Should We Try Anymore
+TTITLE2=This Little Girl
+TTITLE3=Wedding Bells
+TTITLE4=The Judge Did Not Believe My Story
+TTITLE5=Green Oak Tree
+TTITLE6=Letters Have No Arms
+TTITLE7=A House of Gold
+TTITLE8=The Bachelor's Life
+TTITLE9=On the Banks of the Old Pontchartrain
+TTITLE10=My Son Calls Another Man Daddy
+TTITLE11=Long Gone Lonesome Blues
+EXTD=
+EXTT0=D.L.Menard\n
+EXTT1=H. Williams\n
+EXTT2=D.L. Menard\n
+EXTT3=C. Boone\n
+EXTT4=D.L. Menard\n
+EXTT5=D.L. Menard\n
+EXTT6=A. Gibson and E. Tubb\n
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

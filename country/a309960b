@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+# 150
+# 13485
+# 28685
+# 43477
+# 57055
+# 74547
+# 92875
+# 112172
+# 128020
+# 143872
+# 160117
+# 
+# Disc length: 2456 seconds
+# 
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: SuperSonic v3.01
+# 
+DISCID=a309960b
+DTITLE=The Judds - Classic Gold Disk 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Girls Night Out
+TTITLE1=Have Mercy
+TTITLE2=Mama He's Crazy
+TTITLE3=Let Me Tell You About Love
+TTITLE4=The Sweetest Gift
+TTITLE5=Love Is Alive
+TTITLE6=Grampa (Tell Me 'bout The Good Old Days)
+TTITLE7=John Deere Tractor
+TTITLE8=Why Not Me
+TTITLE9=Guardian Angels
+TTITLE10=Love Can Build A Bridge
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

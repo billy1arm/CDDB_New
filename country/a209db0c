@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17000
+#	28775
+#	40660
+#	55165
+#	74097
+#	94927
+#	108532
+#	124600
+#	138017
+#	154627
+#	164240
+#
+# Disc length: 2525 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a209db0c
+DTITLE=Vlak na Dobris - Dedecek z Brd
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Dedecek z Brd
+TTITLE1=Vlak na Dobris
+TTITLE2=Jackova Pisen
+TTITLE3=Maly domek
+TTITLE4=Cabuzy
+TTITLE5=Myslivecek
+TTITLE6=Zidovska svatba
+TTITLE7=Sestnacte stoleti
+TTITLE8=Chytili jsme ratlika
+TTITLE9=Clovek prichazi do let
+TTITLE10=Vylet na Krivoklat
+TTITLE11=Po Palavkym moste
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

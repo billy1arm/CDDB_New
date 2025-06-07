@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12907
+#     24172
+#     36297
+#     47520
+#     59192
+#     70237
+#     85932
+#     99562
+#     109125
+#     120555
+#     124437
+# 
+# Disc length: 1835 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a207290c
+DTITLE=Varios - Rancheras 1 Saludos Mexicanos
+DYEAR=1900
+DGENRE=
+TTITLE0=La negra
+TTITLE1=Las ma anitas
+TTITLE2=En tu dia
+TTITLE3=Ma anitas tapatias
+TTITLE4=Las golondrinas
+TTITLE5=Felicidades
+TTITLE6=Mi vejez
+TTITLE7=Jarabe tapatio
+TTITLE8=Ma anitas a mi madre
+TTITLE9=Nochecitas mexicanas
+TTITLE10=Cumplea os feliz
+TTITLE11=Mi ni a bonita
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

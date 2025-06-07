@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12395
+#     23933
+#     36938
+#     49468
+#     55788
+#     66355
+#     78598
+#     89588
+#     101325
+#     113038
+#     125945
+# 
+# Disc length: 1836 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a9072a0c
+DTITLE=Hank Williams, Sr. - Jambalaya
+DYEAR=1900
+DGENRE=
+TTITLE0=Cold, Cold Heart
+TTITLE1=Kaw-Liga
+TTITLE2=Hey, Good Lookin'
+TTITLE3=I'm So Lonesome I Could Cry
+TTITLE4=Dear John
+TTITLE5=I Can't Help It If I'm Still In Love With You
+TTITLE6=I Saw the Light
+TTITLE7=Go On and Break, You Crazy Heart
+TTITLE8=You Win Again
+TTITLE9=A Mansion on the Hill
+TTITLE10=Jambalaya
+TTITLE11=Your Cheatin' Heart
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

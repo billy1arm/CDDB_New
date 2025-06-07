@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13820
+#     36475
+#     51950
+#     66345
+#     85020
+#     101295
+#     117415
+#     137695
+#     158095
+#     175620
+#     193450
+# 
+# Disc length: 2718 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a40a9c0c
+DTITLE=Kelli Lidell - His Heart Hers And Mine
+DYEAR=1900
+DGENRE=
+TTITLE0=I'll Go Honkey Tonkin' Too
+TTITLE1=Famous In His Dreams
+TTITLE2=You've Done It Again
+TTITLE3=You've Got Your Eyes Wide Open (But Don't See A Thing)
+TTITLE4=His Heart Hers and Mine
+TTITLE5=Good Old Country Song
+TTITLE6=Return To El Paso
+TTITLE7=Here Today Gone Tomorrow
+TTITLE8=Darlin'
+TTITLE9=The Bigger They Are
+TTITLE10=Famous (Memphis Style)
+TTITLE11=Primrose Lane
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

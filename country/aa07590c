@@ -1,0 +1,52 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12867
+#	23853
+#	35823
+#	48677
+#	61451
+#	74441
+#	88230
+#	100418
+#	106699
+#	118365
+#	130571
+# Disc length: 1883 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=aa07590c
+DTITLE=The Oak Ridge Boys Quartet - Country Gospel
+DYEAR=1900
+DGENRE=
+TTITLE0=You'll Never Walk Alone
+TTITLE1=Walk With Me
+TTITLE2=Time Has Made a Change in Me
+TTITLE3=Dear Jesus Abide With Me
+TTITLE4=In the Shelter of His Arms
+TTITLE5=This Old Country Church
+TTITLE6=Hide Thou Me
+TTITLE7=When I Lay My Burden Down
+TTITLE8=The Christian Way
+TTITLE9=No One Cared So Much
+TTITLE10=On the Sunny Banks
+TTITLE11=It's Different Now
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

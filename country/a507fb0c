@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 225
+# 12745
+# 24527
+# 34900
+# 50790
+# 62542
+# 77975
+# 90972
+# 102690
+# 115080
+# 128752
+# 141890
+#
+# Disc length: 2046 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1
+#
+DISCID=a507fb0c
+DTITLE=Stompin' Tom Conners - My Stompin' Grounds
+DYEAR=1900
+DGENRE=
+TTITLE0=My Stompin' Grounds
+TTITLE1=The Bridge Came Tumblin' Down
+TTITLE2=Snowmobile Song
+TTITLE3="Wop" May
+TTITLE4=Cross Canada
+TTITLE5=Tillsonburg
+TTITLE6=Tribute to Wilf Carter
+TTITLE7=Song of the Irish Moss
+TTITLE8=Song of the Peddler
+TTITLE9=Bonnie Belinda
+TTITLE10=Name the Capital
+TTITLE11=Song of the Cohoe
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

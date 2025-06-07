@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	13080
+#	26672
+#	40065
+#	53825
+#	66857
+#	78832
+#	95915
+#	107145
+#	119382
+#	131002
+#	141675
+#
+# Disc length: 2083 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=ac08210c
+DTITLE=Sivuca - Selecao de Ouro - Sivuca
+DYEAR=1900
+DGENRE=
+TTITLE0=Xanana
+TTITLE1=Queixo de Cobra
+TTITLE2=Alagamar
+TTITLE3=Vale do Rio do Peixe
+TTITLE4=Sao Joao de Sapoti
+TTITLE5=Forro Chorado
+TTITLE6=Quadrilha do Bacurau
+TTITLE7=Feira de Itabaiana
+TTITLE8=Dancando em Pipirituba
+TTITLE9=Fava de Cheiro
+TTITLE10=Forro em Santa Luzia
+TTITLE11=furiosa de Quipapa
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

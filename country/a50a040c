@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	16168
+#	29115
+#	44130
+#	57010
+#	75705
+#	99603
+#	114038
+#	137215
+#	151230
+#	170708
+#	187485
+#
+# Disc length: 2566 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a50a040c
+DTITLE=Tom Kell - One Sad Night
+DYEAR=1991
+DGENRE=Country
+TTITLE0=The Girl with the Single Rose
+TTITLE1=Only Heaven Knows
+TTITLE2=Texas Has Nothin' on Me
+TTITLE3=Can't Tell You Why
+TTITLE4=Losin' You
+TTITLE5=One Sad Night in Kerrville
+TTITLE6=The Rain
+TTITLE7=Lonely Town
+TTITLE8=Don't Fool Me when We're Young
+TTITLE9=How Does the Reckless Heart Survive
+TTITLE10=Walk Away
+TTITLE11=Walk Away (reprise)
+EXTD=more info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Composer;Date,Artist,Location,State,Country) YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

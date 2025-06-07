@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11440
+#     19767
+#     30662
+#     50797
+#     67230
+#     77215
+#     88850
+#     103030
+#     118705
+#     129595
+#     139722
+# 
+# Disc length: 2079 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a6081d0c
+DTITLE=Various Artist - Fire on the Strings (Vol. I)
+DYEAR=1900
+DGENRE=
+TTITLE0=Limehouse Blues - Eddie Adcock
+TTITLE1=Carter Country - Joe Maphis
+TTITLE2=Over the Rainbow - Arthur Smith and Don Reno
+TTITLE3=Bluegrass Concerto - Sonny Osborne
+TTITLE4=Stalk of the Cat, Part 1 - Eddie Adcock
+TTITLE5=12th Street Rag - Don Reno and Arthur Smith
+TTITLE6=Sugar Moon - Merle Travis
+TTITLE7=Black Mountain Rag - Eddie Adcock
+TTITLE8=Liebestraum - Joe Maphis
+TTITLE9=Sonner's Stomp - Eddie Adcock
+TTITLE10=Water Baby Boogie - Arthur Smith and Joe Maphis
+TTITLE11=Goodbye My Bluebelle - Eddie Adcock
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

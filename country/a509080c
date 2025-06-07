@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     15267
+#     28400
+#     43690
+#     58482
+#     74137
+#     87275
+#     100050
+#     114767
+#     131352
+#     147562
+#     157980
+# 
+# Disc length: 2314 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a509080c
+DTITLE=Oneil Devost - Debranchez moi
+DYEAR=1900
+DGENRE=
+TTITLE0=Ceux qui n'aiment pas oneil devost
+TTITLE1=Arrete de te vanter
+TTITLE2=Debranchez moi
+TTITLE3=Laisser jouer les enfants
+TTITLE4=Les canadiens de montreal
+TTITLE5=Boire pour oublier
+TTITLE6=Quand le telephone sonne
+TTITLE7=Un robineux dans montreal
+TTITLE8=L'impressario
+TTITLE9=La danseuse nue
+TTITLE10=Le pti gars d'iroquois
+TTITLE11=Ne me dis plus
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

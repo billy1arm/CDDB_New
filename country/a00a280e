@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9990
+#	21062
+#	32898
+#	47622
+#	65251
+#	82103
+#	102906
+#	115165
+#	129995
+#	143287
+#	154437
+#	166016
+#	180197
+#
+# Disc length: 2602 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=a00a280e
+DTITLE=Johnny Cash - American III - Solitary Man
+DYEAR=2000
+DGENRE=Country
+TTITLE0=I Won't Back Down
+TTITLE1=Solitary Man
+TTITLE2=That Lucky Old Sun
+TTITLE3=One
+TTITLE4=Nobody
+TTITLE5=I See A Darkness
+TTITLE6=Mercy Seat
+TTITLE7=Would You Lay With Me In A Field Of Stone
+TTITLE8=Field of Diamonds
+TTITLE9=Before My Time
+TTITLE10=Country Trash
+TTITLE11=Mary of the Wild Moor
+TTITLE12=I'm Leavin' Now
+TTITLE13=Wayfaring Stranger
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

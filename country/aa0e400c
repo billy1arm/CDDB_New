@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22275
+#	44250
+#	67275
+#	90375
+#	111525
+#	135525
+#	153675
+#	176250
+#	203475
+#	227100
+#	250350
+#
+# Disc length: 3650 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 7
+#
+DISCID=aa0e400c
+DTITLE=Thanh Tuyen - Tran Thien Thanh
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Tam su nguoi linh tre
+TTITLE1=Mua xuan la kho
+TTITLE2=Tuyet trang
+TTITLE3=Tinh dau tinh cuoi
+TTITLE4=Mua dong cua anh
+TTITLE5=Anh khong chet dau anh
+TTITLE6=Phut giao mua
+TTITLE7=Tinh thien thu
+TTITLE8=Mot doi yeu anh
+TTITLE9=Anh ve voi em
+TTITLE10=Chieu tren pha tam giang
+TTITLE11=Ta tu trong dem
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

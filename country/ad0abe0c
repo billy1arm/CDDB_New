@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21025
+#     33372
+#     49490
+#     68212
+#     85320
+#     104205
+#     119207
+#     135235
+#     145527
+#     163770
+#     177985
+# 
+# Disc length: 2752 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=ad0abe0c
+DTITLE=Mamou - Mamou
+DYEAR=1900
+DGENRE=
+TTITLE0=Jolie Blonde
+TTITLE1=Un Homme De Pitie'
+TTITLE2=Between The Lines
+TTITLE3=Bayou Teche
+TTITLE4=Be'be' Catin
+TTITLE5=La Valse De Balfa
+TTITLE6=Les Flammes D'En Fer
+TTITLE7=Hurricane
+TTITLE8=Madam Boso
+TTITLE9=La Louisiane
+TTITLE10='Tit Galop Pour Momou
+TTITLE11=La Danse De Mardi Gras
+EXTD=
+EXTT0=
+EXTT1=\n\n
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

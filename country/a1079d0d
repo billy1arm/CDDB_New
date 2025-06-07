@@ -1,0 +1,88 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     9865
+#     20480
+#     31365
+#     44827
+#     57242
+#     65797
+#     75722
+#     86657
+#     99017
+#     111325
+#     120012
+#     133677
+# 
+# Disc length: 1951 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=a1079d0d
+DTITLE=Tim Austin, Barry Bales, Ronnie Bowman, Aubrey Haynie, James King, Dw
+DTITLE=ight McCall, Dale Perry, Don Rigsby, James Alan Shelton, Junior Sisk,
+DTITLE=Charlie Sizemore, Craig Smith, Scottie Sparks, Adam Steffey, Ernie T
+DTITLE=hacker, Dan Tyminski - The Stanley Tradition Gospel Tradition - Songs
+DTITLE=About Our Savior
+DYEAR=1900
+DGENRE=
+TTITLE0=Take Your Shoes Off Moses
+TTITLE1=Darkest Hour Is Just Before Dawn
+TTITLE2=Traveling the Highway Home
+TTITLE3=Zion's Hill
+TTITLE4=Cry From the Cross
+TTITLE5=My Lord's Going to Set Me Free
+TTITLE6=Paul and Silas
+TTITLE7=Will He Wait a Little Longer
+TTITLE8=I Am Weary, Let Me Rest
+TTITLE9=Harbor of Love
+TTITLE10=I Am the Man, Thomas
+TTITLE11=Let Me Walk, Lord, By Your Side
+TTITLE12=Purple Robe
+EXTD=
+EXTT0=Dan Tyminiski, Lead Vocal\nDwight McCall, Tenor Vocal\nTime Austin, Rh
+EXTT0=ythm Guitar\nAdam Steffey, Mandolin\nGraig Smith, Banjo\nBarry  Bales,
+EXTT0=Bass\nAubrey Haynie, Fiddle\n
+EXTT1=James King, Lead Vocal\nDan Tyminski, Mandolin and Tenor Vocal\nTim Aust
+EXTT1=in, Rhythm Guitar\nJames Alan Shelton, Lead Guitar\nCraig Smith, Banjo
+EXTT1=\nBarry Bales, Bass\nAubrey Haynie, Fiddle\n
+EXTT2=Ernie Thacker, Lead Vocal\nDon Rigsby, Tenor Vocal\nDan Tyminski, Bari
+EXTT2=tone Vocal\nTim Austin, Rhythm Guitar\nAdam Steffey, Mandolin\nCraig S
+EXTT2=mith, Banjo\nBaryy Bales, Bass\nAubrey Haynie\n
+EXTT3=Scottie Sparks, Lead Vocal\nDan Tyminski, Tenor and Baritone Vocal\nTim 
+EXTT3=Austin, Rhythm Guitar\nJames Alan Shelton, Rhythm and Lead Guitar\nDan T
+EXTT3=yminski, Mandolin\nCraig Smith, Banjo\nBarry Bales, Bass\nAubrey Hayni
+EXTT3=e, Fiddle
+EXTT4=Charlie Sizemore, Lead Vocal\nDan Tyminski, Mandolin and Tenor Vocal\nTi
+EXTT4=m Austin, Rhythm Guitar\nCraig Smith, Banjo\nBarry Bales, Bass\nAubrey
+EXTT4=Haynie, Fiddle
+EXTT5=Junior Sisk, Lead Vocal\nDon Rigsby, Tenor Vocal\nDan Tyminski, Mandol
+EXTT5=in and Baritone Vocal\nDale Perry, Bass Vocal\nTim Austin, Rhythm Guitar
+EXTT5=\nCraig Smith, Banjo\nBarry Bales, Bass\nAubrey Haynie, Fiddle
+EXTT6=Ronnie Bowman, Lead Vocal\nDan Tyminski, Mandolin and Tenor Vocal\nTim A
+EXTT6=ustin, Rhythm Guitar\nJames Alan Shelton, Lead Guitar\nCraig Smith, Ba
+EXTT6=njo\nBarry Bales, Bass\nAubrey Haynie, Fiddle
+EXTT7=James King, Lead Vocal\nDon Rigsby, Tenor Vocal\nDan Tyminski, Mandoli
+EXTT7=n and Baritone Vocal\nTim Austin, Rhythm Guitar\nCraig Smith, Banjo\nBar
+EXTT7=ry Bales, Bass\nAubrey Haynie, Fiddle
+EXTT8=Charlie Sizemore, Lead Vocal\nDan Tyminski, Tenor and Baritone Vocal\nTi
+EXTT8=m Austin, Rhythm Guitar\nDanTyminski, Mandolin\nCraig Smith, Banjo\nBa
+EXTT8=rry Bales, Bass\nAubrey Haynie, Fiddle
+EXTT9=Charlie Sizemore, Lead Vocal\nDan Tyminski, Tenor and Baritone Vocal\nDa
+EXTT9=le Perry, Bass Vocal\nTim Austin, Rhythm Guitar\nDan Tyminski, Mandoli
+EXTT9=n\nJames Alan Shelton, Lead Guitar\nBarry Bales, Bass
+EXTT10=Scottie Sparks, Lead Vocal\nDan Tyminski, Tenor and Baritone Vocal\nTim
+EXTT10=Austin, Rhythm Guitar\nJames Alan Shelton, Lead Guitar\nAdam Steffey
+EXTT10=Mandolin\nCraig Smith, Banjo\nBarry Bales, Bass\nAubrey Haynie, Fidd
+EXTT10=le
+EXTT11=Dan Tyminski, Mandonlin and Lead Vocal\nDwight McCall, Tenor Vocal\nTim
+EXTT11=Austin, Rhythn Guitar\nJames Alan Shelton, Lead Guitar\nCraig Smith,
+EXTT11=Banjo\nBarry Bales, Bass\nAubrey Haynie, Fiddle
+EXTT12=Junior Sisk, Lead Vocal\nDan Tyminski, Mandolin\nTim Austin, Rhythm G
+EXTT12=uitar\nJames Alan Shelton, Lead Guitar\nCraig Smith, Banjo\nBarry Bal
+EXTT12=es, Bass\nAubrey Haynie, Fiddle
+PLAYORDER=

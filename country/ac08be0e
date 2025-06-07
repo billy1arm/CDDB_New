@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10312
+#	23900
+#	29570
+#	45995
+#	57952
+#	71042
+#	84767
+#	97267
+#	105760
+#	118607
+#	129472
+#	144217
+#	154770
+#
+# Disc length: 2240 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=ac08be0e
+DTITLE=The Doggone Cowboys - The Best of The Doggone Cowboys
+DYEAR=1900
+DGENRE=
+TTITLE0=Cowpoke
+TTITLE1=Streets of Laredo
+TTITLE2=Leather Britches
+TTITLE3=Colorado Sky
+TTITLE4=San Antonio Rose
+TTITLE5=Dueling Encounters
+TTITLE6=Doggone Cowboy
+TTITLE7=Pinto Pal
+TTITLE8=Orange Blossom Special
+TTITLE9=Mariah
+TTITLE10=Colorado Home
+TTITLE11=Red River Valley
+TTITLE12=Chuckwagon Cook Song
+TTITLE13=Hot Rod Lincoln
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=
