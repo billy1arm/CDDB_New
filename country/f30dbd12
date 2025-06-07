@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12716
+#	22853
+#	40354
+#	56313
+#	69867
+#	85356
+#	97066
+#	113102
+#	124603
+#	137487
+#	154128
+#	170730
+#	186988
+#	204788
+#	218956
+#	235024
+#	249548
+#
+# Disc length: 3519 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta1
+#
+DISCID=f30dbd12
+DTITLE=Westwood - Spirits in the wind
+DYEAR=1998
+DGENRE=Country
+TTITLE0=Spirits in the wind
+TTITLE1=Sound of your voice
+TTITLE2=Long time gone
+TTITLE3=After all this time
+TTITLE4=Since you've been gone
+TTITLE5=Only a question of time
+TTITLE6=Runnin' blind
+TTITLE7=If you can see me standing here
+TTITLE8=Winter morning
+TTITLE9=Want me to come back
+TTITLE10=Endlessly for you
+TTITLE11=Bad news in the morning
+TTITLE12=Windows of a train
+TTITLE13=Without you
+TTITLE14=I want to be with you
+TTITLE15=I can't ignore the rain
+TTITLE16=Best days of your life
+TTITLE17=Seein' em cry
+EXTD=YEAR: 1998 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

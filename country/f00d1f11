@@ -1,0 +1,68 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    182
+#    15652
+#    33025
+#    48547
+#    64577
+#    77687
+#    91760
+#    104502
+#    118695
+#    134280
+#    149230
+#    162905
+#    179402
+#    193352
+#    207075
+#    218020
+#    238572
+#
+# Disc length: 3361 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.4.0c  (wjohn@fix.net)
+#
+DISCID=f00d1f11
+DTITLE=What a wonderful world
+DYEAR=1900
+DGENRE=
+TTITLE0=Born free
+TTITLE1=Song sung blue
+TTITLE2=Everything is beautiful
+TTITLE3=All of my life
+TTITLE4=Unchained melody
+TTITLE5=Green green grass of home
+TTITLE6=It's all in the game
+TTITLE7=make the world go away
+TTITLE8=The twelfth of never
+TTITLE9=It's so easy
+TTITLE10=What a wonderful world
+TTITLE11=Imagine
+TTITLE12=Stranger on the shore
+TTITLE13=Hold on tight
+TTITLE14=I love you because
+TTITLE15=Your song
+TTITLE16=Goodbye to the rain
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

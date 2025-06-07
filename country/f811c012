@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	17412
+#	36660
+#	55425
+#	80760
+#	97957
+#	114262
+#	133855
+#	152692
+#	167505
+#	186920
+#	203612
+#	222832
+#	242860
+#	263517
+#	283115
+#	304770
+#	320307
+#
+# Disc length: 4546 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=f811c012
+DTITLE=森進一 - 全曲集　Disc1
+DYEAR=1998
+DGENRE=歌謡曲
+TTITLE0=女のためいき
+TTITLE1=女の波止場
+TTITLE2=命かれても
+TTITLE3=盛り場ブルース
+TTITLE4=花と蝶
+TTITLE5=ひとり酒場で
+TTITLE6=年上の女
+TTITLE7=港町ブルース
+TTITLE8=波止場女のブルース
+TTITLE9=望郷
+TTITLE10=おふくろさん
+TTITLE11=流れのブルース
+TTITLE12=放浪船
+TTITLE13=冬の旅
+TTITLE14=襟裳岬
+TTITLE15=さらば友よ
+TTITLE16=さざんか
+TTITLE17=雨の桟橋
+EXTD=YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

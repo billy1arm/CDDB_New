@@ -1,0 +1,77 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12723
+#     23450
+#     36345
+#     46773
+#     56493
+#     68253
+#     80120
+#     90980
+#     107340
+#     119403
+#     129688
+#     140398
+#     153010
+#     165138
+#     176633
+#     187800
+#     200020
+#     209225
+#     226620
+# 
+# Disc length: 3184 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=f90c6e14
+DTITLE=Various Artist - 20 Greatest Hits 1961
+DYEAR=1900
+DGENRE=
+TTITLE0=She Thinks I Still Care
+TTITLE1=Wings of a Dove
+TTITLE2=Wolverton Mountain
+TTITLE3=If A Woman Answers
+TTITLE4=I'll Have Another Cup of Coffee
+TTITLE5=Sweet Dreams
+TTITLE6=Signed, Sealed and Delivered
+TTITLE7=Eyes of Love
+TTITLE8=Pinball Machine
+TTITLE9=Send Me The Pillow
+TTITLE10=Charlie's Shoes
+TTITLE11=Please Help Me I'm Falling
+TTITLE12=A Wound Time Can't Erase
+TTITLE13=You're the Reason
+TTITLE14=Each Moment Spent With You
+TTITLE15=Oklahoma Hills
+TTITLE16=Right or Wrong
+TTITLE17=Am I That Easy To Forget
+TTITLE18=Don't Let Me Cross Over
+TTITLE19=Crazy
+EXTD=
+EXTT0=George Jones\n\n\n
+EXTT1=Ferlin Husky\n
+EXTT2=Claude King\n
+EXTT3=Leroy Van Dyke\n
+EXTT4=Claude Gray\n
+EXTT5=Don Gibson\n
+EXTT6=Cowboy Copas\n
+EXTT7=Margie Singleton\n
+EXTT8=Lonnie Irving\n
+EXTT9=Sammi Smith\n
+EXTT10=Billy Walker\n
+EXTT11=Hank Locklin\n
+EXTT12=Stonewall Jackson\n
+EXTT13=Bobby Edwards\n
+EXTT14=Ernie Ashworth\n
+EXTT15=Hank Thompson\n
+EXTT16=Wanda Jackson\n
+EXTT17=Skeeter Davis\n
+EXTT18=The Kendalls\n
+EXTT19=Dottie West\n
+PLAYORDER=

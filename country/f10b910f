@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17267
+#     29955
+#     42360
+#     59865
+#     73967
+#     89272
+#     99262
+#     115312
+#     132707
+#     149655
+#     164500
+#     186292
+#     197795
+#     208592
+# 
+# Disc length: 2963 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=f10b910f
+DTITLE=Willie Nelson - Willie Nelson And Friends
+DYEAR=1900
+DGENRE=
+TTITLE0=Take It To The Limit
+TTITLE1=Angel Eyes
+TTITLE2=I'm Movin' On
+TTITLE3=Faded Love
+TTITLE4=Old Friends
+TTITLE5=Jim, I Wore A Tie Today
+TTITLE6=I Gotta Get Drunk
+TTITLE7=Reasons To Quit
+TTITLE8=Seven Spanish Angels
+TTITLE9=Loving You Was Easier (Than Anything I'll Ever Do Again)
+TTITLE10=You Show Me Yours (And I'll Show You Mine)
+TTITLE11=They All Went To Mexico
+TTITLE12=Hello Walls
+TTITLE13=There Stands The Glass
+TTITLE14=Heartbreak Hotel
+EXTD=
+EXTT0=+ Waylon Jennings
+EXTT1=+ Emmylou Harris\n
+EXTT2=+ Hank Snow\n
+EXTT3=+ Ray Price
+EXTT4=+ Ray Price\n
+EXTT5=+ Waylon Jennings, \nJohnny Cash, \nKris Kristofferson
+EXTT6=+ George Jones
+EXTT7=+ Merle Haggard
+EXTT8=+ Ray Charles
+EXTT9=+ Dyan Cannon
+EXTT10=+ Any Irving
+EXTT11=+ Carlos Santana
+EXTT12=+ Faron Young
+EXTT13=+ Webb Pierce
+EXTT14=
+PLAYORDER=

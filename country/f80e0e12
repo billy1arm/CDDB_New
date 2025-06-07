@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18225
+#	30575
+#	44475
+#	54150
+#	71488
+#	88875
+#	103913
+#	115363
+#	133588
+#	146500
+#	160013
+#	175513
+#	192088
+#	208050
+#	222013
+#	235888
+#	248238
+#
+# Disc length: 3600 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=f80e0e12
+DTITLE=Willie Nelson - His Greatest and Finest Performances
+DYEAR=9999
+DGENRE=Country
+TTITLE0=Help Me Make It Through The Night
+TTITLE1=Crazy Arms
+TTITLE2=(Now and Then There's) A Fool Such As I
+TTITLE3=In The Jailhouse Now
+TTITLE4=Faded Love
+TTITLE5=Funny How Time Slips Away
+TTITLE6=Little Old Fashion Karma
+TTITLE7=Hello Walls
+TTITLE8=Night Life
+TTITLE9=Party's Over
+TTITLE10=I Love You A Thousand Ways
+TTITLE11=I'd Have To Be Crazy
+TTITLE12=Don't Ever Get Tired Of Hurting Me
+TTITLE13=Let It Be Me
+TTITLE14=Release Me
+TTITLE15=The Highwayman
+TTITLE16=I'm Moving On
+TTITLE17=City Of New Orleans
+EXTD=YEAR: 9999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

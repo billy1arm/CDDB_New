@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17935
+#	29638
+#	42835
+#	61893
+#	77265
+#	94775
+#	115057
+#	134555
+#	147095
+#	166170
+#	176037
+#	192402
+#	219337
+#	230580
+#	251162
+#	266815
+#
+# Disc length: 3838 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,33,916
+#
+DISCID=f10efc11
+DTITLE=Yoram Gaon - Haosef 5
+DYEAR=1985
+DGENRE=Israeli
+TTITLE0=Lo Tenatzch Oti 
+TTITLE1=Od lo Ahavti Dye
+TTITLE2=Yesh Makom
+TTITLE3=Achari Hageshem
+TTITLE4=Simanay Derech
+TTITLE5=Or Veyeroshalaim
+TTITLE6=Henny Kaan
+TTITLE7=Ptach Lano Shaar
+TTITLE8=Ezkor Et Haderech
+TTITLE9=Hashir Elaich
+TTITLE10=Rocj Shtot
+TTITLE11=Haayara Shel Tovia
+TTITLE12=Bafdur
+TTITLE13=Keren Sahar
+TTITLE14=Balada Lachovesh
+TTITLE15=Eitach Vebilaadaich
+TTITLE16=Ben
+EXTD=YEAR: 1985
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

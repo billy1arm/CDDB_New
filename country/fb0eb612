@@ -1,0 +1,72 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13865
+#	30506
+#	46416
+#	60678
+#	78951
+#	93282
+#	110744
+#	125838
+#	141340
+#	155845
+#	174503
+#	189781
+#	202846
+#	220439
+#	237148
+#	250870
+#	264492
+#
+# Disc length: 3768 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+#
+DISCID=fb0eb612
+DTITLE=Robert Cogoi - Les inédits Vol.5
+DYEAR=2006
+DGENRE=Chanson
+TTITLE0=Le Navigateur Solitaire
+TTITLE1=Vis Vaille Que Vaille
+TTITLE2=Le Temps Du Temps Des Années 60
+TTITLE3=Quand On Est Seul
+TTITLE4=Mon Amour
+TTITLE5=Chante Tes Chansons
+TTITLE6=Une Chanson D'autrefois
+TTITLE7=Petite Lady
+TTITLE8=Elle
+TTITLE9=Partir Pour T'oublier
+TTITLE10=A Coeur Ouvert
+TTITLE11=Quand Les Bateaux
+TTITLE12=Tellement Je T'aime
+TTITLE13=T'en Fais Pas Robert
+TTITLE14=Oh! Sylvina
+TTITLE15=Viva L'amore
+TTITLE16=La Vie En Bleu
+TTITLE17=Les Arpents Dorés (Instr.) [musique du film]
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

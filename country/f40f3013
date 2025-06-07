@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	225
+#	11306
+#	14132
+#	34723
+#	45552
+#	58603
+#	69079
+#	77928
+#	84258
+#	100389
+#	111420
+#	126985
+#	153757
+#	170309
+#	186016
+#	203348
+#	215429
+#	234520
+#	254572
+#
+# Disc length: 3891 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=f40f3013
+DTITLE=Fanfare Ciocarlia - Iag Bari
+DYEAR=2001
+DGENRE=Blasmusik
+TTITLE0=Doina (Westside Blues)
+TTITLE1=Wild Silence (with Dan Armenca)
+TTITLE2=Iag Bari (The Big Longing, with Dan Armenca)
+TTITLE3=Dusty Road
+TTITLE4=Lume, lume (World, World, with 'The Bulgarian Voices ANGELITE')
+TTITLE5=Jocul Boldenilor (with Costel Vasilescu)
+TTITLE6=Hora Din Petrosnitza
+TTITLE7=Banatzena
+TTITLE8=Tu Romnie (Don't Go Away, with Dan Armeanca and Rom Bengale)
+TTITLE9=Moliendo Cafe
+TTITLE10=Balada Lui Ioan
+TTITLE11=Besh o Drom (Keep On Walking, with Rom Bengale)
+TTITLE12=Hora Andalusia
+TTITLE13=Hurichestra
+TTITLE14=So te Kerau? (What Shall I Do)
+TTITLE15=Hora Lautareasca (with Costel Vasilescu)
+TTITLE16=Ginduri De Om Batrin (Old Man Thinking)
+TTITLE17=Bubamara
+TTITLE18=Daten-CD
+EXTD=YEAR: 2001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=

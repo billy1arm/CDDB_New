@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14512
+#	28619
+#	42881
+#	57533
+#	71227
+#	83978
+#	101520
+#	118958
+#	133679
+#	146460
+#	156262
+#	171040
+#	186429
+#	200913
+#	214376
+#
+# Disc length: 3020 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=fb0bca10
+DTITLE=Dr. Hook - The Complete Collection (4 of 4)
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Years From Now
+TTITLE1=What Do You Want
+TTITLE2=Love Monster
+TTITLE3=Girls Can Get It
+TTITLE4=Body Talking
+TTITLE5=That Didn't Hurt To Bad
+TTITLE6=Heart Like Yours And Mine
+TTITLE7=Baby Makes Her Blue Jeans Talk
+TTITLE8=Loveline
+TTITLE9=Feels Good
+TTITLE10=Bubbling Up
+TTITLE11=I Never Got To Know Her
+TTITLE12=Here Comes The Blues Again
+TTITLE13=Pleasure And Pain
+TTITLE14=There's A Light
+TTITLE15=You Can't Take It With You
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

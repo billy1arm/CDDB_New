@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16095
+#	33877
+#	49080
+#	64482
+#	80227
+#	96005
+#	114667
+#	128250
+#	147762
+#	168375
+#	187610
+#	197962
+#	216387
+#	231712
+#	250057
+#	271762
+#	282787
+#
+# Disc length: 3999 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=fd0f9d12
+DTITLE=Various Artist - The Country Collection
+DYEAR=1993
+DGENRE=Country
+TTITLE0=Mary-Chapin Carpenter - I Feel Lucky
+TTITLE1=Rodney Crowell - What Kind Of Love
+TTITLE2=Somebody's Darling - That's Why I Wear Black
+TTITLE3=Billy Ray Cyrus - Achy Bracky Heart
+TTITLE4=John Prine - All The Best
+TTITLE5=Dolly Parton - Slow Dancing With The Moon
+TTITLE6=Darden Smith - Loving Arms
+TTITLE7=Steven Ackles - Hey You!
+TTITLE8=Rosanne Cash - The Wheel
+TTITLE9=Willie Nelson and Bob Dylan - Heartland
+TTITLE10=Claudia Scott - Heard You On My Radio
+TTITLE11=The Kentucky Headhunters - It's Chitlin' Time
+TTITLE12=The Jayhawks - Two Angels
+TTITLE13=Johnny Cash - A Backstage Pass
+TTITLE14=Chet Atkins and Mark Knopfler - Poor Boy Blues
+TTITLE15=Steinar Albrigsten and Tom Pacheco - Big Storm Comin'
+TTITLE16=Joy White - Little Tears
+TTITLE17=Ricky van Shelton - Keep It Between The Lines
+EXTD=YEAR: 1993
+EXTT0=Mary-Chapin Carpenter
+EXTT1=Rodney Crowell
+EXTT2=Somebody's darling
+EXTT3=Billy Ray Cyrus
+EXTT4=John Prince
+EXTT5=Dolly Parton
+EXTT6=Darden Smith
+EXTT7=Stephen Ackles
+EXTT8=Rosanne Cash
+EXTT9=Willie Nelson and Bob Dylan
+EXTT10=Claudia Scott
+EXTT11=The Kentucky Headhunters
+EXTT12=The Jayhawks
+EXTT13=Johnny Cash
+EXTT14=Chet Atkins and Mark Knopfler
+EXTT15=Steinar Albrigtsen and Tom Pacheco
+EXTT16=Joy White
+EXTT17=Ricky Van Shelton
+PLAYORDER=

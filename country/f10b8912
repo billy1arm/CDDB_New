@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13100
+#	24925
+#	37937
+#	49062
+#	57537
+#	69775
+#	82575
+#	99762
+#	111825
+#	123550
+#	132375
+#	140962
+#	153250
+#	169637
+#	179550
+#	196075
+#	209075
+#
+# Disc length: 2955 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=f10b8912
+DTITLE=Jonny Cash - I Walk The Line (In Concert)
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Fulsome Prison Blues
+TTITLE1=These hands
+TTITLE2=Peace In The Valey
+TTITLE3=Rock Island Line
+TTITLE4=The Wall
+TTITLE5=I Still Miss Someone
+TTITLE6=Ring Of Fire
+TTITLE7=Sunday Mornin Coming Don
+TTITLE8=The Highwayman
+TTITLE9=Big River
+TTITLE10=I Got Stripes
+TTITLE11=Get Rythm
+TTITLE12=Sixteens Tons
+TTITLE13=A Boy Named Sue
+TTITLE14=Help Me
+TTITLE15=City Of New Orleans
+TTITLE16=Long BLack Veil
+TTITLE17=Jackson
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	14530
+#	34557
+#	49235
+#	65400
+#	84167
+#	96640
+#	118220
+#	130240
+#	145650
+#	165965
+#	182817
+#	195722
+#	208622
+#	221320
+#	232345
+#	244755
+#
+# Disc length: 3433 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=f30d6711
+DTITLE=Nitty Gritty Dirt Band - Will The Circle Be Unbroken I – Disc One
+DYEAR=1972
+DGENRE=Bluegrass
+TTITLE0=Grand Ole Opry Song
+TTITLE1=Keep On The Sunny Side
+TTITLE2=Nashville Blues
+TTITLE3=You Are My Flower
+TTITLE4=The Precious Jewel
+TTITLE5=Dark As A Dungeon
+TTITLE6=Tennesse Stud
+TTITLE7=Black Mountain Rag
+TTITLE8=The Wreck On The Highway
+TTITLE9=The End Of The World
+TTITLE10=I Saw The Light
+TTITLE11=Sunny Side Of The Mountain
+TTITLE12=Nine Pound Hammer
+TTITLE13=Losin' You (Might Be The Best Thing Yet)
+TTITLE14=Honky Tonkin'
+TTITLE15=You Don't Know My Mind
+TTITLE16=My Walkin' Shoes
+EXTD=Disc 1 YEAR: 1972
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

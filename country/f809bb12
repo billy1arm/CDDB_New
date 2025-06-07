@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10605
+#	19843
+#	30436
+#	36923
+#	47803
+#	58378
+#	68812
+#	77636
+#	89261
+#	101707
+#	110924
+#	121424
+#	131933
+#	144673
+#	158334
+#	166366
+#	176196
+#
+# Disc length: 2493 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta2
+#
+DISCID=f809bb12
+DTITLE=Verschiedene - Volksmusik aus dem oberen Inntal
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Gruß aus EBBS - Tiroler Tanzbod'nmusig
+TTITLE1=Unter Liachtn - Leiblfinger Volksmusikanten
+TTITLE2=Gastl Boarischer - Gastl Stub'nmusig
+TTITLE3=A Finkal, A Zeisal - Telfer Tanzlmusig
+TTITLE4=Bormannlandler - Familienmusik Gapp
+TTITLE5=Hansl Walzer - Tiroler Tanzbod'nmusig
+TTITLE6=Heussschober Polka - Tiroler Tanzbod'nmusig
+TTITLE7=Höhenberg Marsch - Leiblfinger Volksmusikanten
+TTITLE8=Larchenwiesen Landler - Gastl Stub'nmusig
+TTITLE9=A Bömisches Polkal - Telfer Tanzlmusig
+TTITLE10=Heut hock ma z'samm - Familienmusik Gapp
+TTITLE11=Postfeld Landler - Telfer Hackbrett und Flötenmusig
+TTITLE12=Oana für'n Woid aussi - Leiblfinger Volksmusikanten
+TTITLE13=Mühlfeld Polka - Gastl Stub'nmusig
+TTITLE14=Beim Dorfwirt - Telfer Tanzlmusig
+TTITLE15=Auf da Hausbank - Familienmusik Gapp
+TTITLE16=Barmstoana Landler - Telfer Hackbrett und Flötenmusig
+TTITLE17=Tirolrt Landler - Tiroler Tanzbod'nmusig
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

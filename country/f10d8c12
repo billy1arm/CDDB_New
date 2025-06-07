@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	12562
+#	26150
+#	38485
+#	60750
+#	77917
+#	91665
+#	103280
+#	119325
+#	130187
+#	142305
+#	159142
+#	177280
+#	189127
+#	200805
+#	217875
+#	229770
+#	243680
+#
+# Disc length: 3470 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=f10d8c12
+DTITLE=Nashville All Stars - Country Romance
+DYEAR=1900
+DGENRE=
+TTITLE0=Stand by your man
+TTITLE1=I will always love you
+TTITLE2=All I ever need is you
+TTITLE3=Love can build a bridge
+TTITLE4=Blue Bayou
+TTITLE5=Annie's Song
+TTITLE6=Some borken hearts never mend
+TTITLE7=To all the girls I've loved before
+TTITLE8=Help me make it through the night
+TTITLE9=Don't it make my borwn eyes blue
+TTITLE10=Islands in the stream
+TTITLE11=Lady
+TTITLE12=Crazy arms
+TTITLE13=I love you because
+TTITLE14=You decorated my life
+TTITLE15=Before the next teardrop falls
+TTITLE16=You're gonna love yourself in the morning
+TTITLE17=Always on my mind
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

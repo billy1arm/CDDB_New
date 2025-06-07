@@ -1,0 +1,67 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12379
+#	28706
+#	44979
+#	58591
+#	71400
+#	87524
+#	101766
+#	115849
+#	137220
+#	155991
+#	167390
+#	183590
+#	200457
+#	219057
+#	231742
+#	253573
+#
+# Disc length: 3551 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=fc0ddd11
+DTITLE=Various Artist - Cajun and Zydeco - 'The Best in Homebrew'
+DYEAR=2003
+DGENRE=Country
+TTITLE0=Michael Doucet and Beausoleil - Les Veuves de la Coulée
+TTITLE1=Eddie LeJeune - Bayou Chêne Waltz
+TTITLE2=T-Mamou - Hackberry Hop
+TTITLE3=Rosie Ledet - Lover None Helaire
+TTITLE4=Dewey Balfa - J'ai pleurer
+TTITLE5=Paul Daigle, Robert Elkins and Cajun Gold - Le Two-Step A Paul Daig
+TTITLE6=Nathan Abshire - I Don't Hurt Anymore
+TTITLE7=Don Rich - Little Cajun Girl
+TTITLE8=Charivari - Femmes
+TTITLE9=Magnolia Sisters - Hippi Taiaut
+TTITLE10=Boozoo Chavis - Zydeco Homebrew
+TTITLE11=Courtney Granger - Depuis l'age de quinze ans
+TTITLE12=Rockin' Sidney - Go Chere Go
+TTITLE13=Steve Riley and the Mamou Playboys - Enterre moi pas
+TTITLE14=Johnnie Allan - The Strings of your Heart
+TTITLE15=Geno Delafose - JoAnn, JoAnn
+TTITLE16=Michael Doucet and Beausoleil - Two Step des Frères Mathieu
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=

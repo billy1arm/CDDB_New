@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10925
+#	21840
+#	39940
+#	55505
+#	66662
+#	82812
+#	100082
+#	110122
+#	122107
+#	131802
+#	143970
+#	157727
+#	173307
+#	185532
+#	197755
+#	212617
+#	222332
+#
+# Disc length: 3225 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.30 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=f50c9712
+DTITLE=Mixed Artists - Country and Western Classics volume three
+DYEAR=1900
+DGENRE=
+TTITLE0=Johnny Tillotson - Send me the pillow that you dream on
+TTITLE1=Patsy Cline - I cried all the way to the alter
+TTITLE2=Ricky Nelson - Garden Party
+TTITLE3=Ray Pillow - How do I hide from a memory (live)
+TTITLE4=Loretta Lynn - Hey Loretta (live)
+TTITLE5=Branda Lee - Comin' on strong (live)
+TTITLE6=Billie Jo Spears - For the good times
+TTITLE7=Faron Young - Hello walls
+TTITLE8=Kenny Rogers and The First Edition - Reuben James
+TTITLE9=Dolly Parton - Release me
+TTITLE10=Johnny Paycheck - Take this job and shove it
+TTITLE11=Lobo - Me and you and a dog named Boo
+TTITLE12=Jo South - Games people play
+TTITLE13=Karl Denver - Mexicali rose
+TTITLE14=Ray Price - Rain and tears
+TTITLE15=Jeannie C Riley - Harper Valley PTA
+TTITLE16=Ned Miller - From a jack to a king
+TTITLE17=Lee Hazlewood - The ballad of lucky jordan
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

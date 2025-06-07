@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10142
+#	21655
+#	29282
+#	37860
+#	46622
+#	57035
+#	66697
+#	78570
+#	86802
+#	95982
+#	107932
+#	117587
+#	128822
+#	136747
+#	147840
+#	155510
+#	166350
+#
+# Disc length: 2339 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=fb092112
+DTITLE=Johnny Cash - Original Rockabilly
+DYEAR=1958
+DGENRE=Country
+TTITLE0=Get Rhythm
+TTITLE1=Wide Open Road
+TTITLE2=Hey Good Looking
+TTITLE3=I Fogot To Remember To Forget
+TTITLE4=Katy Too
+TTITLE5=There You Go
+TTITLE6=Ballad Of A Teenage Queen
+TTITLE7=Doin' My Time
+TTITLE8=Country Boy
+TTITLE9=Blue Train
+TTITLE10=Home Of The Blues
+TTITLE11=Rock Island Line
+TTITLE12=Oh Lonesome Me
+TTITLE13=Sugartime
+TTITLE14=Mean Eyed Cat
+TTITLE15=Come In Stranger
+TTITLE16=I Heard That Lonesome Whistle
+TTITLE17=Luther Plays the Boogie
+EXTD=\nYEAR: 1958  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

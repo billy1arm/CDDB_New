@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+#
+# Track frame offsets:
+#	150
+#	19684
+#	32459
+#	50175
+#	62328
+#	78943
+#	94488
+#	112616
+#	132095
+#	151274
+#	169756
+#	192655
+#	206341
+#	222963
+#	235429
+#	253840
+#	270692
+#	282983
+#
+# Disc length: 3993
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CoolCD_Studio 1.3.1
+#
+DISCID=fb0f9712
+DTITLE=Various Artist - The New Country Album
+DYEAR=1900
+DGENRE=
+TTITLE0=Goodbye Earl - Dixie Chicks
+TTITLE1=It must be love - Alan Jackson
+TTITLE2=There is no Arizona  - Jamie O'Neill
+TTITLE3=TV or me - Melinda Schneider
+TTITLE4=Good Friends - Adam Brand
+TTITLE5=Jimmy's got a girlfriend - The Wilkinsons
+TTITLE6=It's a great day to be alive - Travis Tritt
+TTITLE7=She couldn't change me - Montgomery Gentry
+TTITLE8=Oh Romeo - Mindy McCready
+TTITLE9=Carlene - Phil Vassar
+TTITLE10=The chain of love - Clay Walker
+TTITLE11=A rose is a rose - Meredith Edwards
+TTITLE12=Couldn't last a moment - Colin Raye
+TTITLE13=Honey I do /Danni Leigh
+TTITLE14=Oklahoma - Billy Gillman
+TTITLE15=Nobody's got it all - John Anderson
+TTITLE16=I fall to pieces - Loretta Lynn
+TTITLE17=Love away the night - Adam Brand and Melinda Schneider
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

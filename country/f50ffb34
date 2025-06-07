@@ -1,0 +1,172 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	8255
+#	20057
+#	33677
+#	38150
+#	40582
+#	43937
+#	49417
+#	52560
+#	58470
+#	68687
+#	75087
+#	87202
+#	96047
+#	100290
+#	108160
+#	113420
+#	118627
+#	121637
+#	139142
+#	143712
+#	159860
+#	163590
+#	180365
+#	183762
+#	187102
+#	190652
+#	193852
+#	198167
+#	201567
+#	202637
+#	213055
+#	214562
+#	216815
+#	219987
+#	226952
+#	228455
+#	232015
+#	235695
+#	238167
+#	242220
+#	246010
+#	254237
+#	268945
+#	273022
+#	275355
+#	277140
+#	283325
+#	286512
+#	288960
+#	293225
+#	299550
+#
+# Disc length: 4093 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=f50ffb34
+DTITLE=Roussel - Roussel Bacchus et Ariane, Le Festin de L'Araignée
+DYEAR=1996
+DGENRE=Classical
+TTITLE0=Roussel Bacchus et Ariane 01 Act I Introduction
+TTITLE1=Roussel Bacchus et Ariane 02 Youth and maidens at play
+TTITLE2=Roussel Bacchus et Ariane 03 Labyrinthine dance
+TTITLE3=Roussel Bacchus et Ariane 04 Bacchus appears disguised. The Dance is interrupted
+TTITLE4=Roussel Bacchus et Ariane 05 Bacchus envelops Ariadne in his black cloak. Ariadne faints
+TTITLE5=Roussel Bacchus et Ariane 06 Theseus and his companions rush at Bacchus. He reveals himself to them
+TTITLE6=Roussel Bacchus et Ariane 07 The clouds gather in the sky
+TTITLE7=Roussel Bacchus et Ariane 08 The sub reappears
+TTITLE8=Roussel Bacchus et Ariane 09 Dance of Bacchus
+TTITLE9=Roussel Bacchus et Ariane 10 Ariadne, still asleep, dances with Bacchus
+TTITLE10=Roussel Bacchus et Ariane 11 Bacchus lays Ariadne on the rock
+TTITLE11=Roussel Bacchus et Ariane 12 Act II: Ariadne sleeps
+TTITLE12=Roussel Bacchus et Ariane 13 Ariadne awakes. She looks about her
+TTITLE13=Roussel Bacchus et Ariane 14 She falls into the arms of Bacchus. They relive their dream dance, now awake
+TTITLE14=Roussel Bacchus et Ariane 15 Bacchus dances alone
+TTITLE15=Roussel Bacchus et Ariane 16 The Kiss
+TTITLE16=Roussel Bacchus et Ariane 17 The Dionysian spell
+TTITLE17=Roussel Bacchus et Ariane 18 The worshippers of Bacchus process
+TTITLE18=Roussel Bacchus et Ariane 19 Danse d'Ariane
+TTITLE19=Roussel Bacchus et Ariane 20 Dance of Ariane and Bacchus
+TTITLE20=Roussel Bacchus et Ariane 21 Bacchanale
+TTITLE21=Roussel Bacchus et Ariane 22 The coronation of Ariadne
+TTITLE22=Roussel Le Festin de L'Araignée 01 Prelude
+TTITLE23=Roussel Le Festin de L'Araignée 02 A garden. The spider sits in her web. She surveys her surroundings
+TTITLE24=Roussel Le Festin de L'Araignée 03 Entrance of the ants. They find a rose petal
+TTITLE25=Roussel Le Festin de L'Araignée 04 With great effort they lift the petal and carry it away
+TTITLE26=Roussel Le Festin de L'Araignée 05 The spider daydreams and watches the garden
+TTITLE27=Roussel Le Festin de L'Araignée 06 The spider mends her web
+TTITLE28=Roussel Le Festin de L'Araignée 07 Entrance of the dung beetles
+TTITLE29=Roussel Le Festin de L'Araignée 08 The ants return... A butterfly appears
+TTITLE30=Roussel Le Festin de L'Araignée 09 Dance of the butterfly
+TTITLE31=Roussel Le Festin de L'Araignée 10 The spider invites the butterfly to dance closer to her web
+TTITLE32=Roussel Le Festin de L'Araignée 11 The butterfly is caught in web and stuggles. Death of the butterfly
+TTITLE33=Roussel Le Festin de L'Araignée 12 The spider rejoices. The spider frees the butterfly and takes it to her larder
+TTITLE34=Roussel Le Festin de L'Araignée 13 The spider dances
+TTITLE35=Roussel Le Festin de L'Araignée 14 Suddenly fruits come crashing down
+TTITLE36=Roussel Le Festin de L'Araignée 15 Entrance of the fruit worms
+TTITLE37=Roussel Le Festin de L'Araignée 16 Warlike entrance of two praying mantises
+TTITLE38=Roussel Le Festin de L'Araignée 17 The ants circle
+TTITLE39=Roussel Le Festin de L'Araignée 18 The mantises challenge each other to a a duel and fight
+TTITLE40=Roussel Le Festin de L'Araignée 19 The mantises become caught in the web. The spider dances
+TTITLE41=Roussel Le Festin de L'Araignée 20 Hatching of the mayfly
+TTITLE42=Roussel Le Festin de L'Araignée 21 The dance of the mayfly
+TTITLE43=Roussel Le Festin de L'Araignée 22 The mayfly stops, exhausted. The insects pay respects. He rejoices their advances
+TTITLE44=Roussel Le Festin de L'Araignée 23 The ants leave
+TTITLE45=Roussel Le Festin de L'Araignée 24 The worms come out of the fruit
+TTITLE46=Roussel Le Festin de L'Araignée 25 Dance of the mayfly and the fruit worms
+TTITLE47=Roussel Le Festin de L'Araignée 26 Death of the mayfly
+TTITLE48=Roussel Le Festin de L'Araignée 27 Spider begins her feast as one mantis escapes and kills her
+TTITLE49=Roussel Le Festin de L'Araignée 28 Death throes of the spider
+TTITLE50=Roussel Le Festin de L'Araignée 29 Funeral of the mayfly
+TTITLE51=Roussel Le Festin de L'Araignée 30 Funeral cortege sets off and disappears into distance. Night falls on a deserted garden
+EXTD=YEAR: 1996
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+PLAYORDER=

@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12675
+#	31125
+#	46575
+#	64275
+#	84000
+#	99750
+#	115575
+#	133275
+#	145275
+#	162075
+#	173550
+#	193350
+#	205650
+#	218850
+#	233250
+#	246900
+#	260925
+#
+# Disc length: 3702 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=f20e7412
+DTITLE=Various Artist - Prvni liga - idoly ceske country
+DYEAR=2005
+DGENRE=Country
+TTITLE0=Nebe, peklo, raj - Vera Martinova
+TTITLE1=O, Pane nas - Vera Martinova
+TTITLE2=Mas ho akorat - Vera Martinova
+TTITLE3=Jen mou vinou - Jakub Smolik
+TTITLE4=Nejsi ma - Jakub Smolik
+TTITLE5=Holka s bilou halenou - Jakub Smolik
+TTITLE6=Vilem pece housky - Nada Urbankova
+TTITLE7=Zavidim - Nada Urbankova
+TTITLE8=Svatebni pruvod - Nada Urbankova
+TTITLE9=Hrac - Petr Spaleny
+TTITLE10=Dama pri tele - Petr Spaleny
+TTITLE11=Lady - Petr Spaleny
+TTITLE12=Zvednete kotvy - Jan Vancura
+TTITLE13=Vitam vas - Jan Vancura
+TTITLE14=Pole s bavlnou - Jan Vancura
+TTITLE15=Tom Dooley - Mirek Hoffmann
+TTITLE16=Zatoka - Mirek Hoffmann
+TTITLE17=Dam si pres rameno pingl - Mirek Hoffmann
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

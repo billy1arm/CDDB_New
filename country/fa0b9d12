@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12709
+#	22615
+#	40215
+#	55500
+#	77882
+#	87167
+#	98215
+#	110832
+#	122850
+#	133335
+#	142645
+#	145300
+#	161422
+#	172410
+#	182732
+#	197082
+#	211105
+#
+# Disc length: 2975 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=fa0b9d12
+DTITLE=Various Artist - Freight Train Special - Volume 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Leaving Tennessee
+TTITLE1=My Dixie Home
+TTITLE2=Train 45
+TTITLE3=New River Train
+TTITLE4=Orange Blossom Special
+TTITLE5=Wild and Reckless Hobo
+TTITLE6=Waiting for a Train
+TTITLE7=Hobo Bill's Last Ride
+TTITLE8=Mystery of the #5
+TTITLE9=Wreck of the Old 97
+TTITLE10=Southern Cannonball
+TTITLE11=Train 45
+TTITLE12=In the Pines
+TTITLE13=Life's Railway to Heaven
+TTITLE14=Gospel Train
+TTITLE15=A Hero's Death
+TTITLE16=The Evening Train
+TTITLE17=Baggage Coach Ahead
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

@@ -1,0 +1,73 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16151
+#	32755
+#	45882
+#	64920
+#	84554
+#	97001
+#	109364
+#	128288
+#	145529
+#	156947
+#	172761
+#	188837
+#	204986
+#	221432
+#	240375
+#	252425
+#	266837
+#	292938
+#
+# Disc length: 4440 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=fa115613
+DTITLE=Country Legends - Country Legends - Cd 1
+DYEAR=1900
+DGENRE=Country
+TTITLE0=01- Willie Nelson - Always On My Mind
+TTITLE1=02- Anne Murray - You Needed Me
+TTITLE2=03- Dr. Hook - Sharing The Night Together
+TTITLE3=04- Bobbie Gentry - Ode To Billy Joe
+TTITLE4=05- Kenny Rogers - Coward Of The County
+TTITLE5=06- Dolly Parton - 9 To 5
+TTITLE6=07- Johynny Cash - I Walk The Line
+TTITLE7=08- Juice Newton - Angel Of The Morning
+TTITLE8=09- Don Mclean - Crying
+TTITLE9=10- Cristal Gayle - Don't Make My Brown Eyes Blue
+TTITLE10=11- Nitty Gritty Dirt Band - An American Dream
+TTITLE11=12- Billie Joe Spears - Blanket On The Ground 
+TTITLE12=13- Joe South - Games People Play
+TTITLE13=14- Kenny Rogers - Lucille
+TTITLE14=15- Nanci Griffith - From A Distance
+TTITLE15=16- Tammy Wynette - Stand By Your Man
+TTITLE16=17- Glen Campbell - Rhinestone Cowboy
+TTITLE17=18- Olivia Newton John - Take Me Home Country Roads
+TTITLE18=Datatrack 19
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+PLAYORDER=
