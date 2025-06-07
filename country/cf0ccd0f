@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13110
+#	24557
+#	85627
+#	91520
+#	109000
+#	121055
+#	135430
+#	144410
+#	168467
+#	187437
+#	200157
+#	210502
+#	222625
+#	234470
+#
+# Disc length: 3279 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=cf0ccd0f
+DTITLE=Bob Wills And His Texas Playboys - Strictly By Ear
+DYEAR=1900
+DGENRE=
+TTITLE0=Beaumont Rag
+TTITLE1=Cotton Patch Blues
+TTITLE2=Rare Interview With Bob Wills
+TTITLE3=Arkansas Traveller
+TTITLE4=The Last Letter
+TTITLE5=Blues For Dixie
+TTITLE6=Take The "A" Train
+TTITLE7=Cotton Eyed Joe
+TTITLE8=Sittin' On Top Of The World
+TTITLE9=Tuxedo Junction
+TTITLE10=Corinna, Corinna
+TTITLE11=Sugar Blues
+TTITLE12=Silver Bells
+TTITLE13=There'll Be Some Changes Made
+TTITLE14=Twin Guitar Special
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

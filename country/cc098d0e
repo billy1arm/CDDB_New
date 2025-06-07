@@ -1,0 +1,60 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13287
+#	29612
+#	40212
+#	51932
+#	68392
+#	80057
+#	92912
+#	103657
+#	120612
+#	134717
+#	146182
+#	158587
+#	170787
+#
+# Disc length: 2447 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=cc098d0e
+DTITLE=Roland Cedermark - Spelar Vackra Visor
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Lyckan
+TTITLE1=Höstvisa
+TTITLE2=Beatrice-Aurore
+TTITLE3=Den Första Gång Jag Såg Dig
+TTITLE4=Farväl Till Sommaren
+TTITLE5=Lilla Vackra Anna
+TTITLE6=Flicka Från Backafall
+TTITLE7=Barndomshemmet
+TTITLE8=Dan Andersson Medley: Helgdagskväll I Timmerkojan Jag Väntar... Sizz
+TTITLE8=i
+TTITLE9=Får Jag Lämna Några Blommor
+TTITLE10=Visa Vid Midsommartid
+TTITLE11=Sommarbrevet
+TTITLE12=Cecilia Lind: Baladen Om Fredrik Åkare
+TTITLE13=Nocturne: Sov På Min Arm
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

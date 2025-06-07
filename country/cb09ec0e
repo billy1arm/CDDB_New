@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	187
+# 	18430
+# 	35192
+# 	47537
+# 	60365
+# 	69482
+# 	86165
+# 	97390
+# 	107637
+# 	121140
+# 	135622
+# 	148845
+# 	162620
+# 	173880
+#
+# Disc length: 2542 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=cb09ec0e
+DTITLE=Various Artist - Great Ladies of Country Music
+DYEAR=1900
+DGENRE=
+TTITLE0=Do Ya'
+TTITLE1=Hurt
+TTITLE2=I'm Not That Lonely Yet
+TTITLE3=Till You're Gone
+TTITLE4=I Wouldn't Buy A Used Care From Him
+TTITLE5=Snapshot
+TTITLE6=Just One Time
+TTITLE7=I'm A Lover (Not A Fighter)
+TTITLE8=Paper Mansions
+TTITLE9=You're The Only One
+TTITLE10=I'm Not Through Loving You Yet
+TTITLE11=Sweet Dreams
+TTITLE12=Love Is The Foundation
+TTITLE13=Fadded Love
+EXTD=
+EXTT0=K.T. Oslin
+EXTT1=Juice Newton
+EXTT2=Reba McEntire
+EXTT3=Barbara Mandrell
+EXTT4=Norma Jean
+EXTT5=Sylvia
+EXTT6=Connie Smith
+EXTT7=Skeeter Davis
+EXTT8=Dottoe West
+EXTT9=Dolly Parton
+EXTT10=Louise Mandrell
+EXTT11=Emmylou Harris
+EXTT12=Loretta Lynn
+EXTT13=Patsy Cline
+PLAYORDER=

@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	12008
+#	27023
+#	34983
+#	47253
+#	57380
+#	66023
+#	76490
+#	89413
+#	102130
+#	113763
+#	124923
+#	140990
+#	153225
+#	165368
+#	177945
+#
+# Disc length: 2530 seconds
+#
+# Revision: 6
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c709e010
+DTITLE=Various Artist - The Best Of Country and Western Vol.1
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Donna Fargo-US Of America
+TTITLE1=Kenny Rogers-For The Good Times
+TTITLE2=Willie Nelson-Things To Remember
+TTITLE3=Lynn Anderson-Listen To A Country Song
+TTITLE4=Johnny Cash-There You Go
+TTITLE5=Waylon Jennings-Love's Gonna Live Here
+TTITLE6=George Jones-With Half A Heart
+TTITLE7=Dolly Parton-Little Blossom
+TTITLE8=Oak Ridge Boys-The Old Country Church
+TTITLE9=Billie Jo Spears-Try A Little Kindness
+TTITLE10=Willie Nelson-Suffering Alone
+TTITLE11=Lynn Anderson-You Needed Me
+TTITLE12=Kenny Rogers-Reuben James
+TTITLE13=The Everly Brothers-Let It Be Me
+TTITLE14=Johnny Cash-Folsom Prison Blues
+TTITLE15=Don Williams-On Her Way To Be A Woman
+EXTD=Produced by Masters Records, Roermond, Holland
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

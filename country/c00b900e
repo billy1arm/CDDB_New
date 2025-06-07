@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17481
+#	32516
+#	50946
+#	71025
+#	86163
+#	105217
+#	117109
+#	134560
+#	147986
+#	159588
+#	173087
+#	187905
+#	205993
+#
+# Disc length: 2962 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=c00b900e
+DTITLE=Various Artist - Mr. Music Country 10-07
+DYEAR=2007
+DGENRE=Country
+TTITLE0=Jason Boland and The Stragglers - Gear And Dust
+TTITLE1=Kevin Fowler - Senorita Mas Fina
+TTITLE2=Patty Booker and Rick Shea - I Know What's Wrong (but I just can't get it right)
+TTITLE3=The Red Dirt Rangers - Enjoy The Ride
+TTITLE4=Two Tons Of Steel - Car Seat
+TTITLE5=Jann Browne - Thought I Had It All
+TTITLE6=Dale Watson - As Long As The Bottle's Full
+TTITLE7=Becca Dalrymple - No Man's Land
+TTITLE8=Huston Marchman - Dark Black Irish Eyes
+TTITLE9=Perley Curtis - Skinny Dipping With Paris Hilton
+TTITLE10=Hillfillies - You Had Your Chance
+TTITLE11=Cheetah Palomina - Until Then
+TTITLE12=Hermann Lammers Meyer with Annie B - So What Am I Doin'
+TTITLE13=George Jones - Lonesome Valley
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

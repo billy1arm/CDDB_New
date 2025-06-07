@@ -1,0 +1,55 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11820
+#	28235
+#	41898
+#	57163
+#	71233
+#	88370
+#	106240
+#	126598
+#	145195
+#	163355
+#	176120
+#	196200
+#
+# Disc length: 2806 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=cd0af40d
+DTITLE=Steve Earle - Essential Steve Earle
+DYEAR=1993
+DGENRE=Country
+TTITLE0=Guitar Town
+TTITLE1=Hillbilly Highway
+TTITLE2=The Devil's Right Hand
+TTITLE3=Goodbye's All We Got Left To Say
+TTITLE4=Six Days On The Road
+TTITLE5=Someday
+TTITLE6=Good Ol' Boy (Gettin' Tough)
+TTITLE7=Copperhead Road
+TTITLE8=The Rain Came Down
+TTITLE9=I Ain't Ever Satisfied
+TTITLE10=Nowhere  Road
+TTITLE11=The Week Of Living Dangerously
+TTITLE12=Continental Trailways Blues
+EXTD=YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

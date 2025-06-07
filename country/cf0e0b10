@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	15011
+#	36894
+#	50959
+#	68277
+#	84964
+#	98678
+#	117369
+#	135392
+#	148325
+#	166906
+#	181957
+#	198906
+#	218843
+#	236347
+#	253066
+#
+# Disc length: 3597 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=cf0e0b10
+DTITLE=Various Artist - Country Fever Vol. 1
+DYEAR=2001
+DGENRE=Country
+TTITLE0=That's As Close As I'l Get To Loving You
+TTITLE1=Strawberry Wine
+TTITLE2=Billy The Kid
+TTITLE3=On The Verge
+TTITLE4=Here's Your Sign
+TTITLE5=Thinkin' Problem
+TTITLE6=Angels, Among Us
+TTITLE7=Seminole Wind
+TTITLE8=My Crazy Life
+TTITLE9=My Love
+TTITLE10=Carried Away
+TTITLE11=You're Gone
+TTITLE12=I Swear
+TTITLE13=Rodeo
+TTITLE14=One Way Ticket
+TTITLE15=I'm Not Supposed To Love You, Anymore
+EXTD=ID3G:   2 YEAR: 2001
+EXTT0=Aaron Tippin
+EXTT1=Deanna Carter
+EXTT2=Billy Dean
+EXTT3=Collin Raye
+EXTT4=Bill Engvall
+EXTT5=David Ball
+EXTT6=Alabama
+EXTT7=John Anderson
+EXTT8=Pam Tillis
+EXTT9=Little Texas
+EXTT10=George Strait
+EXTT11=Diamond Rio
+EXTT12=John Michael Montgomery
+EXTT13=Garth Brooks
+EXTT14=LeAnn Rimes
+EXTT15=Bryan White
+PLAYORDER=

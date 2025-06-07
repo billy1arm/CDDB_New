@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 11155
+# 22407
+# 31095
+# 44285
+# 56767
+# 69750
+# 79542
+# 95622
+# 106017
+# 117627
+# 129482
+# 142302
+# 152817
+# 167415
+# 180117
+#
+# Disc length: 2593 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=ce0a1f10
+DTITLE=Hank Thompson - The Country Music Hall Of Fame
+DYEAR=1900
+DGENRE=
+TTITLE0=On Tap, In The Can, Or In The Bottle
+TTITLE1=Smoky The Bar
+TTITLE2=Mutiny On The Monotony
+TTITLE3=Most Of All
+TTITLE4=It's Better To Have Loved A Little (Than To Never Have Loved At All)
+TTITLE5=Tomorrow Night (You'll Have Another Sweetheart)
+TTITLE6=Swing Wide Your Gate Of Love
+TTITLE7=The Mark Of A Heel
+TTITLE8=Across The Alley From The Alamo
+TTITLE9=The Older The Violin, The Sweeter The Music
+TTITLE10=I'll Sign My Heart Away
+TTITLE11=Annie Over
+TTITLE12=Simple Simon, Simple Heart
+TTITLE13=Just An Old Flame
+TTITLE14=Time Wounds All Heels
+TTITLE15=Money, Trouble And Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

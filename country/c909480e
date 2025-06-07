@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14335
+#	25425
+#	36565
+#	47040
+#	59087
+#	72747
+#	82587
+#	95747
+#	107875
+#	127450
+#	137115
+#	151730
+#	165900
+#
+# Disc length: 2378 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL1
+#
+DISCID=c909480e
+DTITLE=Acoustic Endeavors
+DYEAR=1900
+DGENRE=
+TTITLE0=Highway Blues
+TTITLE1=If You Would
+TTITLE2=O'Reily's Mule
+TTITLE3=Love Don't Live Here Anymore
+TTITLE4=My Song
+TTITLE5=Raintree Country
+TTITLE6=Self Portrait
+TTITLE7=Cold And Rainy Shore
+TTITLE8=Span Of Time
+TTITLE9=Jonesborough
+TTITLE10=But It's Not
+TTITLE11=Flowers For Emily
+TTITLE12=Coming Down
+TTITLE13=The Street
+EXTD=Common Folk Productions, BMI\nCommon Folk CD-0001
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,313 @@
+# xmcd
+#
+# Track frame offsets:
+#	183
+#	3558
+#	7923
+#	11108
+#	14960
+#	17943
+#	21273
+#	23305
+#	25690
+#	29545
+#	35693
+#	39110
+#	41685
+#	43873
+#	47903
+#	50158
+#	51915
+#	56508
+#	58563
+#	61653
+#	64438
+#	67803
+#	70645
+#	74500
+#	77030
+#	82700
+#	85393
+#	88260
+#	90723
+#	94200
+#	97853
+#	102998
+#	108488
+#	112348
+#	118955
+#	123583
+#	130535
+#	134588
+#	137258
+#	142253
+#	146268
+#	149120
+#	152450
+#	158133
+#	162455
+#	166563
+#	169138
+#	171628
+#	174998
+#	176968
+#	179173
+#	181095
+#	183363
+#	184955
+#	189938
+#	192225
+#	196113
+#	199745
+#	203973
+#	207138
+#	210683
+#	213078
+#	216235
+#	219013
+#	223578
+#	227475
+#	229630
+#	231690
+#	233968
+#	235955
+#	238598
+#	243838
+#	248400
+#	251518
+#	254125
+#	256198
+#	258105
+#	260150
+#	263130
+#	265965
+#	268665
+#	272775
+#	275610
+#	277998
+#	281410
+#	284315
+#	287763
+#	291133
+#	293695
+#	295878
+#	298160
+#	303573
+#	306038
+#	307738
+#	312280
+#	315833
+#	317975
+#	319678
+#	323160
+#
+# Disc length: 4371 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCDDAExtractor 16.0.9.1
+#
+DISCID=cf111163
+DTITLE=Tous les oiseaux d'Europe - vol. 1 - des Plongeons aux Faucons
+DYEAR=1900
+DGENRE=Country
+TTITLE0=1-01 - Plongeon catmarin - Gavia stellata
+TTITLE1=1-02 - Plongeon arctique - Gavia arctica
+TTITLE2=1-03 - GrÃ¨ge castagneux - Tachybaptus ruficollis
+TTITLE3=1-04 - GrÃ¨be huppÃ© - Podiceps cristatus
+TTITLE4=1-05 - GrÃ¨be jougris - Podiceps griseigena
+TTITLE5=1-06 - GrÃ¨be esclavon - Podiceps auritus
+TTITLE6=1-07 - GrÃ¨be Ã  cou noir - Podiceps nigricollis
+TTITLE7=1-08 - Fulmar - Fulmarus glacialis
+TTITLE8=1-09 - Puffin cendrÃ© - Calonectris diomedea
+TTITLE9=1-10 - Puffin des anglais - Puffinus puffinus
+TTITLE10=1-11 - PÃ©trel tempÃªte - Hydrobates pelagicus
+TTITLE11=1-12 - PÃ©trel culblanc - Oceanidroma leucorhoa
+TTITLE12=1-13 - Fou de bassan - Sula bassana
+TTITLE13=1-14 - Grand cormoran - Phalacrocorax carbo
+TTITLE14=1-15 - Cormoran huppÃ© - Phalacrocorax aristotelis
+TTITLE15=1-16 - Cormoran pygmÃ©e - Phalacrocorax pygmaeus
+TTITLE16=1-17 - PÃ©lican blanc - Pelecanus onocrotalus
+TTITLE17=1-18 - PÃ©lican frisÃ© - Pelecanus crispus
+TTITLE18=1-19 - Butor Ã©toilÃ© - Botaurus stellaris
+TTITLE19=1-20 - Blongios nain - Ixobrychus minutus
+TTITLE20=1-21 - HÃ©ron bihoreau - Nycticorax nicticorax
+TTITLE21=1-22 - HÃ©ron crabier - Ardeola ralloides
+TTITLE22=1-23 - HÃ©ron garde-boeuf - Bubulcus ibis
+TTITLE23=1-24 - Aigrette garzette - Egretta garzetta
+TTITLE24=1-25 - HÃ©ron cendrÃ© - Ardea cinerea
+TTITLE25=1-26 - HÃ©ron pourprÃ© - Ardea Purpurea
+TTITLE26=1-27 - Cigogne blanche - Ciconia ciconia
+TTITLE27=1-28 - Cigogne noire - Ciconia nigra
+TTITLE28=1-29 - Ibis falcinelle - Plegadis falcinellus
+TTITLE29=1-30 - Spatule blanche - Platalea leucorodia
+TTITLE30=1-31 - Flamant rose - Phoenicopterus ruber
+TTITLE31=1-32 - Cygne muet - Cygnus oler
+TTITLE32=1-33 - Cygne de Bewick - Cygnus columbianus
+TTITLE33=1-34 - Cygne chanteur - Cygnus cygnus
+TTITLE34=1-35 - Oie des moissons - Anser fabalis
+TTITLE35=1-36 - Oie Ã  bec court - Anser brachyrhynchus
+TTITLE36=1-37 - Oie rieuse - Anser albifrons
+TTITLE37=1-38 - Oie naine - Anser erythropus
+TTITLE38=1-39 - Oie cendrÃ©e - Anser anser
+TTITLE39=1-40 - Bernache nonnette - Branta leucopsis
+TTITLE40=1-41 - Bernache cravant - Branta bernicla
+TTITLE41=1-42 - Bernache du Canada - Branta canadensis
+TTITLE42=1-43 - Tadorne de Belon - Tadorna tadorna
+TTITLE43=1-44 - Tadorne casarca - Tadorna ferruginea
+TTITLE44=1-45 - Canard siffleur - Anas penelope
+TTITLE45=1-46 - Canard chipeau - Anas strepera
+TTITLE46=1-47 - Sarcelle d'hiver - Anas crecca
+TTITLE47=1-48 - Canard colvert - Anas platyrhynchos
+TTITLE48=1-49 - Canard pilet - Anas acuta
+TTITLE49=1-50 - Sarcelle d'Ã©tÃ© - Anas querquedula
+TTITLE50=1-51 - Canard souchet - Anas clypeata
+TTITLE51=1-52 - Sarcelle marbrÃ©e - Anas angustirostris
+TTITLE52=1-53 - Nette rousse - Netta rufina
+TTITLE53=1-54 - Fuligule milouin - Aythya ferina
+TTITLE54=1-55 - Fuligule nyroca - Aythya nyroca
+TTITLE55=1-56 - Fuligule morillon - Aythya fuligula
+TTITLE56=1-57 - Fuligule milouinan - Aythya marila
+TTITLE57=1-58 - Eider Ã  duvet - Aythya mollissima
+TTITLE58=1-59 - Harelde de Miquelon - Clangula hyemalis
+TTITLE59=1-60 - Marcreuse noire - Melanitta nigra
+TTITLE60=1-61 - Macreuse brune - Melanitta fusca
+TTITLE61=1-62 - Garrot Ã  oeil d'or - Bucephala clangula
+TTITLE62=1-63 - Harle huppÃ© - Mergus serratos
+TTITLE63=1-64 - Harle biÃ¨vre - Mergus merganser
+TTITLE64=1-65 - Erismature Ã  tÃªte blanche - Oxyura leucocephala
+TTITLE65=1-66 - GypaÃ«te barbu - Gypaetus barbatus
+TTITLE66=1-67 - Vautour percnoptÃ¨re - Neophron percnopterus
+TTITLE67=1-68 - Vautour fauve - Gyps fulvus
+TTITLE68=1-69 - Vautour moine - Aegypius monachus
+TTITLE69=1-70 - Balbuzard pÃªcheur - Pandion haliaetus
+TTITLE70=1-71 - Pygargue Ã  queue blanche - Haliaetus albicilla
+TTITLE71=1-72 - CircaÃ«te Jean-le-Blanc - Circaetus gallicus
+TTITLE72=1-73 - Aigle impÃ©rial - Aquila heliaca
+TTITLE73=1-74 - Aigle royal - Aquila chrysaetos
+TTITLE74=1-75 - Aigle bottÃ© - Hieraaetus pennatus
+TTITLE75=1-76 - Aigle de Bonelli - Hieraaetus fasciatus
+TTITLE76=1-77 - BondrÃ©e apivore - Pernis apivorus
+TTITLE77=1-78 - Elanion blanc - Elanus caeruleus
+TTITLE78=1-79 - Milan noir - Milvus migrans
+TTITLE79=1-80 - Milan royal - Milvus milvus
+TTITLE80=1-81 - Buse variable - Buteo buteo
+TTITLE81=1-82 - Buse fÃ©roce - Buteo rufinus
+TTITLE82=1-83 - Buse pattue - Buteo lagopus
+TTITLE83=1-84 - Busard des roseaux - Circus aeruginosus
+TTITLE84=1-85 - Busard Saint Martin - Circus cyaneus
+TTITLE85=1-86 - Busard cendrÃ© - Circus pygargus
+TTITLE86=1-87 - Autour des Palombes - Accipiter gantilis
+TTITLE87=1-88 - Epervier d'Europe - Accipiter nisus
+TTITLE88=1-89 - Epervier Ã  pieds courts - Accipiter brevipes
+TTITLE89=1-90 - Faucon crÃ©cerellette - Falco naumanni
+TTITLE90=1-91 - Faucon crÃ©cerelle - Falco tinninculus
+TTITLE91=1-92 - Faucon kobez - Falco vespertinus
+TTITLE92=1-93 - Faucon Ã©merillon - Falco columbarius
+TTITLE93=1-94 - Faucon hoberau - Falco subbuteo
+TTITLE94=1-95 - Faucon d'Eleonore - Falco eleonorae
+TTITLE95=1-96 - Faucon lanier - Falco biarmicus
+TTITLE96=1-97 - Faucon sacre - Falco cherrug
+TTITLE97=1-98 - Faucon gerfaut - Falco rusticolus
+TTITLE98=1-99 - Faucon pÃ¨lerin - Falco peregrinus
+EXTD=FranÃ§ais - Latin
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=

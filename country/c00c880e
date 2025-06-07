@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16125
+#     34597
+#     49702
+#     69775
+#     88210
+#     107135
+#     120872
+#     138930
+#     157445
+#     177280
+#     191547
+#     206010
+#     223767
+# 
+# Disc length: 3210 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.1
+# 
+DISCID=c00c880e
+DTITLE=Di Scherling - Country After Midnight
+DYEAR=1900
+DGENRE=
+TTITLE0=Help Me Make It Through The Night
+TTITLE1=I Will Always Love You
+TTITLE2=Somewhere In My Broken Heart
+TTITLE3=Blues Eyes Crying In The Rain
+TTITLE4=The Dance
+TTITLE5=What Else Is There To Do
+TTITLE6=Last Date
+TTITLE7=Sometimes When We Touch
+TTITLE8=Desparado
+TTITLE9=You Were Always On My Mind
+TTITLE10=By The Time I Get To Phoenix
+TTITLE11=Talking In Your Sleep
+TTITLE12=Be Quiet Heart (He's Coming This Way)
+TTITLE13=Unchained Melody
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=Original music by Di Scherling\n
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=Original music by Di Scherling\n
+EXTT13=
+PLAYORDER=

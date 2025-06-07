@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23925
+#	40295
+#	63255
+#	93305
+#	110890
+#	130895
+#	147107
+#	161517
+#	178002
+#	202667
+#	215590
+#	240447
+#	259922
+#
+# Disc length: 3784 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=c40ec60e
+DTITLE=Waylon Jennings and The Waymore Blues Band - Never Say Die (Live)
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Closing In On The Fire
+TTITLE1=Waymore's Blues (featuring John Anderson)
+TTITLE2=Never Say Die
+TTITLE3=Medley: Amanda/A Couple More Years
+TTITLE4=Drift Away
+TTITLE5=Nothing Catches Jesus By Surprise
+TTITLE6=Good Hearted Woman
+TTITLE7=I'm Not Lisa (featuring Jessi Colter)
+TTITLE8=Storms Never Last (featuring Jessi Colter)
+TTITLE9=Never Been To Spain
+TTITLE10=(I'm A) Ramblin' Man (featuring Montgomery Gentry)
+TTITLE11=Goin' Down Rockin'
+TTITLE12=I've Always Been Crazy (featuring Travis Tritt)
+TTITLE13=Can't You See
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=Special Guest Appearance\nby  John Anderson
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=Special Guest Appearance\nby Jessi Colter
+EXTT8=Special Guest Appearance\nby Jessi Colter
+EXTT9=
+EXTT10=Special Guest Appearance\nby Montgomery Gentry
+EXTT11=
+EXTT12=Special Guest Appearance by\nTravis Tritt
+EXTT13=
+PLAYORDER=

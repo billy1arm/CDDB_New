@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12350
+#     27777
+#     46532
+#     61450
+#     72535
+#     90437
+#     102517
+#     119287
+#     133010
+#     146830
+#     162480
+#     177160
+#     191520
+# 
+# Disc length: 2739 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=c10ab10e
+DTITLE=Hank Cochran, Billy Don Burns - Desperate Men
+DYEAR=1900
+DGENRE=
+TTITLE0=Desperate Men
+TTITLE1=I Wish It Was That Easy Going Home
+TTITLE2=Patsy
+TTITLE3=Memories Cost A Lot
+TTITLE4=That Old Friend of Mine
+TTITLE5=Dead Or Alive
+TTITLE6=Outlaws At The Cross
+TTITLE7=Way To Mexico
+TTITLE8=Diabolo's Highway
+TTITLE9=No Shortage of the Blues
+TTITLE10=Woman Be Careful
+TTITLE11=Outskirts of Desperate
+TTITLE12=I'd Better Write It Down
+TTITLE13=Brothers of the Music
+EXTD=
+EXTT0=Billy Don Burns\n
+EXTT1=Hank Cochran and Billy Don Burns\n
+EXTT2=Hank Cochran\n
+EXTT3=Billy Don Burns\n
+EXTT4=Hank Cochran and Billy Don Burns\n
+EXTT5=Billy Don Burns\n
+EXTT6=Billy Don Burns and Bruce Channel\n
+EXTT7=Hank Cochran\n
+EXTT8=Billy Don Burns\n
+EXTT9=Billy Don Burns, Mack Vickery, \nHank Cochran, J.W. Younger\n
+EXTT10=Billy Don Burns, Red Lane and Clinton \nGregory\n
+EXTT11=Billy Don Burns\n
+EXTT12=Hank Cochran\n
+EXTT13=Billy Don Burns\n
+PLAYORDER=

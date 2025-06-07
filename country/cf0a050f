@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12403
+#	30057
+#	41166
+#	50761
+#	59958
+#	69066
+#	79999
+#	91985
+#	102571
+#	129706
+#	139722
+#	150739
+#	162021
+#	179079
+#
+# Disc length: 2567 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=cf0a050f
+DTITLE=Various Artist - The Country Box - 08
+DYEAR=2007
+DGENRE=Country
+TTITLE0=Freddy Fender - Wasted Days and Wasted Nights
+TTITLE1=Ferlin Husky - Convoy
+TTITLE2=Don Gibson - Sea Of Heartbreak
+TTITLE3=Sandy Posey - Born A Woman
+TTITLE4=Jean Shephard - Second Fiddle (To An Old Guitar)
+TTITLE5=Del Reeves - Good Time Charlie's
+TTITLE6=Johnny Russell - Blue Eyes Crying In The Rain
+TTITLE7=Barbara Fairchild - Colour Of My World
+TTITLE8=Nat Stuckey - Plastic Saddle
+TTITLE9=Jimmy Dean - To A Sleeping Beauty
+TTITLE10=Susan Raye - Pitty Pitty Patter
+TTITLE11=Connie Smith - Then and Only Then
+TTITLE12=Kitty Wells - (It Wasn't God Who Made) Honky Tonk Angels
+TTITLE13=Ray Price - For The Good Times
+TTITLE14=Lynn Anderson - Top Of The World
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

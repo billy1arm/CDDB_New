@@ -1,0 +1,58 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13672
+#	23247
+#	33326
+#	46203
+#	58414
+#	68715
+#	87279
+#	99435
+#	108875
+#	117688
+#	126223
+#	139588
+#	157321
+#
+# Disc length: 2251 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.60beta1
+#
+DISCID=c108c90e
+DTITLE=Cop - Par minut
+DYEAR=1997
+DGENRE=Bluegrass
+TTITLE0=Dva tulaci
+TTITLE1=Flam
+TTITLE2=Mavej stuj
+TTITLE3=Jen ji
+TTITLE4=Epizoda
+TTITLE5=Se psy
+TTITLE6=Moonlight, Midnight
+TTITLE7=Kamion
+TTITLE8=Pres draty
+TTITLE9=Baby
+TTITLE10=Smoke, Smoke, Smoke
+TTITLE11=Ma dati, dal
+TTITLE12=Par minut
+TTITLE13=Jsem volnej
+EXTD=YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

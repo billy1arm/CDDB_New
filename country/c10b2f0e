@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14825
+#	30962
+#	44652
+#	62765
+#	79827
+#	90997
+#	110807
+#	122262
+#	140052
+#	153287
+#	168977
+#	185617
+#	200957
+#
+# Disc length: 2865 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=c10b2f0e
+DTITLE=Hot Hits Country Jukebox Edition - Country Hot Hits #25
+DYEAR=1900
+DGENRE=
+TTITLE0=Every Little Thing
+TTITLE1=Reno
+TTITLE2=Money In The Bank
+TTITLE3=What Might Have Been
+TTITLE4=Tell Me About It
+TTITLE5=Chattahoochee
+TTITLE6=Hard Way - The
+TTITLE7=Holdin' Heaven
+TTITLE8=Down On My Knees
+TTITLE9=Can't Break It To My Heart
+TTITLE10=Thousand Miles From Nowhere - A
+TTITLE11=Easier Said Than Done
+TTITLE12=Mond Of Her Own - A
+TTITLE13=Ol' Red
+EXTD=
+EXTT0=Carter - Carlene
+EXTT1=Supernaw - Doug
+EXTT2=Anderson - John
+EXTT3=Little Texas
+EXTT4=Tucker - Tanya and McClinton D.
+EXTT5=Jackson - Alan
+EXTT6=Carpenter - Mary-Chapin
+EXTT7=Byrd - Tracy
+EXTT8=Yearwood - Trisha
+EXTT9=Lawrence - Tracy
+EXTT10=Yoakam - Dwight
+EXTT11=Foster - Radney
+EXTT12=Berry - John
+EXTT13=Rogers - Kenny
+PLAYORDER=

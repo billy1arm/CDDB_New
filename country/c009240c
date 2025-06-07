@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18612
+#     34887
+#     49737
+#     62187
+#     74787
+#     88660
+#     101937
+#     115435
+#     132537
+#     145962
+#     159612
+# 
+# Disc length: 2342 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=c009240c
+DTITLE=Don Williams - The Very Best Of Don Williams
+DYEAR=1900
+DGENRE=
+TTITLE0=I Believe In You
+TTITLE1=Love Is On A Roll
+TTITLE2=We've Got A Good Fire Goin'
+TTITLE3=Some Broken Hearts Never Mend
+TTITLE4=You're My Best Friend
+TTITLE5=I'm Just A Country Boy
+TTITLE6=Say It Again
+TTITLE7=I Wouldn't Want To Live If You Didn't Love Me
+TTITLE8=Heartbeat In The Darkness
+TTITLE9=Miracles
+TTITLE10=Stay Young
+TTITLE11=Thats The Thing About Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

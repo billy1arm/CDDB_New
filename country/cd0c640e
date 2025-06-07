@@ -1,0 +1,60 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	222
+#	21582
+#	43487
+#	63440
+#	81922
+#	98645
+#	113505
+#	126310
+#	140010
+#	161460
+#	182672
+#	201107
+#	210310
+#	221685
+#
+# Disc length: 3174 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer 1.60beta16
+#
+DISCID=cd0c640e
+DTITLE=Textones - Back in Time
+DYEAR=1900
+DGENRE=
+TTITLE0=Trying To Hold On
+TTITLE1=Slip Away
+TTITLE2=Redemption Song
+TTITLE3=I Second That Emotion
+TTITLE4=Through the Canyon
+TTITLE5=Love Out of Control
+TTITLE6=What Do You Want With Me?
+TTITLE7=Back in Time
+TTITLE8=Gotta Get That Feelin' Back
+TTITLE9=Something To Believe In
+TTITLE10=Jokers Are Wild
+TTITLE11=If I Could Be
+TTITLE12=We Don't Get Along
+TTITLE13=Standing in the Line
+EXTD=Compilation CD  - all tracks previously unreleased\nDemon Fiend CD179\n
+EXTD=1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

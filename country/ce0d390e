@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	225
+#	22405
+#	40637
+#	57747
+#	73715
+#	86417
+#	102895
+#	117985
+#	139102
+#	158365
+#	179235
+#	196910
+#	212750
+#	231455
+#
+# Disc length: 3388 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=ce0d390e
+DTITLE=Americanta Preú - Condor Pasa Perú
+DYEAR=1900
+DGENRE=
+TTITLE0=Sin Palabras
+TTITLE1=Pío - Pío
+TTITLE2=Si Te Vas
+TTITLE3=Cerrito de Huaynarroque
+TTITLE4=Jarabe Tapatío
+TTITLE5=Florcitay Del Campo
+TTITLE6=Palomitay
+TTITLE7=Paja Brava
+TTITLE8=Pasito Tun-Tun
+TTITLE9=El Chuòo
+TTITLE10=Vaso De Cristal
+TTITLE11=Somos Tunantes
+TTITLE12=Negro José
+TTITLE13=Condor Pasa
+EXTD=América Nuestra Esperanza
+EXTT0=Ecuador
+EXTT1=Perú
+EXTT2=Bolivia
+EXTT3=Perú
+EXTT4=México
+EXTT5=Bolivia
+EXTT6=Perú
+EXTT7=Perú
+EXTT8=Ecuador
+EXTT9=Bolivia
+EXTT10=Perú
+EXTT11=Bolivia
+EXTT12=Uruguay
+EXTT13=Perú
+PLAYORDER=

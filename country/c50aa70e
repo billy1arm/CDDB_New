@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  15625
+#  29697
+#  45290
+#  59035
+#  74185
+#  86750
+#  101790
+#  115837
+#  130880
+#  144810
+#  159892
+#  175887
+#  190335
+#
+# Disc length: 2729 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.12
+#
+DISCID=c50aa70e
+DTITLE=Jimmie Rodgers - Jimmie Rodgers First Sessions
+DYEAR=1900
+DGENRE=country
+TTITLE0=Blue Yodel
+TTITLE1=The Soldier's Sweetheart
+TTITLE2=Ben Dewberry's Final Run
+TTITLE3=Sleep, Baby, Sleep
+TTITLE4=Mother Was a Lady
+TTITLE5=Dear Old Sunny South by the Sea
+TTITLE6=Away Out on the Mountain
+TTITLE7=Treasures Untold
+TTITLE8=Blue Yodel No. 11
+TTITLE9=The Sailor's Plea
+TTITLE10=In the Jailhouse Now
+TTITLE11=Memphis Yodel
+TTITLE12=The Breakman's Blues
+TTITLE13=Blue Yodel No. 3
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

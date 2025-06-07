@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17982
+#	33520
+#	51127
+#	64912
+#	83325
+#	101695
+#	116085
+#	129162
+#	143572
+#	160430
+#	177217
+#	192337
+#	207575
+#
+# Disc length: 3001 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.2
+#
+DISCID=c10bb70e
+DTITLE=Collin Raye - Direct Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Little Rock
+TTITLE1=I Think About You
+TTITLE2=Not That Different
+TTITLE3=That's My Story
+TTITLE4=If I Were You
+TTITLE5=One Boy, One Girl
+TTITLE6=In This Life
+TTITLE7=My Kind of Girl
+TTITLE8=That Was A River
+TTITLE9=What The Heart Wants
+TTITLE10=The Gift
+TTITLE11=Open Arms
+TTITLE12=Little Red Rodeo
+TTITLE13=Love, Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

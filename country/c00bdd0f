@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19500
+#     32825
+#     46262
+#     63762
+#     78100
+#     91487
+#     104462
+#     121137
+#     134500
+#     151050
+#     170587
+#     185125
+#     197325
+#     215587
+# 
+# Disc length: 3039 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=c00bdd0f
+DTITLE=Various Artist - County Ballads
+DYEAR=1900
+DGENRE=
+TTITLE0=From A Distance
+TTITLE1=Amarillo By Morning
+TTITLE2=Right Time Of The Night
+TTITLE3=The Weekend
+TTITLE4=(If Loving You Is Wrong) I Don't Want To Be Right
+TTITLE5=Smoke Gets In Your Eyes
+TTITLE6=I Fall To Pieces
+TTITLE7=It Was Almost Like A Song
+TTITLE8=I Will Always Love You
+TTITLE9=Forever As Far As I'll Go
+TTITLE10=Grandpa (Tell Me 'Bout The Good Old Days)
+TTITLE11=I.O.U.
+TTITLE12=I'm Sorry
+TTITLE13=High and Dry
+TTITLE14=Blue Kentucky Girl
+EXTD=
+EXTT0=Nanci Griffith\n
+EXTT1=
+EXTT2=Jennifer Warnes\n
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=Patsy Cline\n
+EXTT7=
+EXTT8=Dolly Parton\n
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=Brenda Lee\n
+EXTT13=
+EXTT14=
+PLAYORDER=

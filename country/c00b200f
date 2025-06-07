@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Generated: Sun Aug 25 09:36:21 2002 by KSCD
+# 
+# Track frame offsets:
+#       150
+#       12476
+#       23818
+#       34329
+#       44129
+#       53311
+#       76111
+#       97054
+#       116428
+#       134457
+#       151320
+#       166264
+#       179769
+#       192096
+#       203438
+#
+# Disc length: 2850 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Kscd 1.3.3
+#
+DISCID=c00b200f
+DTITLE=Band In A Box - Banjo Backup Tunes
+DYEAR=1900
+DGENRE=
+TTITLE0=Old Joe Clark 55bpm
+TTITLE1=Old Joe Clark 60bpm
+TTITLE2=Old Joe Clark 65bpm
+TTITLE3=Old Joe Clark 70bpm
+TTITLE4=Old Joe Clark 75bpm
+TTITLE5=Blueridge Cabin Home 55bpm
+TTITLE6=Blueridge Cabin Home 60bpm
+TTITLE7=Blueridge Cabin Home 65bpm
+TTITLE8=Blueridge Cabin Home 70bpm
+TTITLE9=Blueridge Cabin Home 75bpm
+TTITLE10=Foggy Mountain Breakdown 45bpm
+TTITLE11=Foggy Mountain Breakdown 50bpm
+TTITLE12=Foggy Mountain Breakdown 55bpm
+TTITLE13=Foggy Mountain Breakdown 60bpm
+TTITLE14=Foggy Mountain Breakdown 65bpm
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

@@ -1,0 +1,64 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20830
+#	36212
+#	38322
+#	56777
+#	73667
+#	76452
+#	91760
+#	114282
+#	115937
+#	129557
+#	166770
+#	168647
+#	185725
+#	213845
+#
+# Disc length: 3173 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.0
+#
+DISCID=c60c630f
+DTITLE=Dan Crary - Jammed If I Do
+DYEAR=1900
+DGENRE=
+TTITLE0=St. Anne's Reel
+TTITLE1=B and B Rag
+TTITLE2=Conversation With Doc Watson
+TTITLE3=Whistlin' Rufus - Ragtime Annie
+TTITLE4=Banjo Signal
+TTITLE5=Conversation With Tony Rice
+TTITLE6=Cattle In The Cane
+TTITLE7=Twin Reel
+TTITLE8=Conversation With Beppe Gambetta
+TTITLE9=Foggy Mountain Special
+TTITLE10=Tribute To Don Reno
+TTITLE11=Conversation With Norman Blake
+TTITLE12=Uncle Herman's Hornpipe
+TTITLE13=Irish Tune Suite
+TTITLE14=Durang's Hornpipe
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=with Doc Watson
+EXTT4=
+EXTT5=
+EXTT6=with Tony Rice\n
+EXTT7=
+EXTT8=
+EXTT9=with Beppe Gambetta
+EXTT10=Songs:\n\nRemington Ride\nHome Sweet Home\nGreen Mountain Hop\nFollow
+EXTT10=The Leader\n
+EXTT11=
+EXTT12=with Norman Blake\n
+EXTT13=songs:\n\nPort Mhuineachain\nNora Crionna\nGarrai Na Bhfeileoig\nOld 
+EXTT13=Hag\nOld Hag You Have Killed Me\nThe Session\n
+EXTT14=
+PLAYORDER=

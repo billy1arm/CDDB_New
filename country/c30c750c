@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     14875
+#     38975
+#     51530
+#     70940
+#     94003
+#     119463
+#     137680
+#     162665
+#     183395
+#     201678
+#     221480
+# 
+# Disc length: 3191 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=c30c750c
+DTITLE=Toy Caldwell - Toy Caldwell
+DYEAR=1900
+DGENRE=
+TTITLE0=I Hear The South Calling Me
+TTITLE1=Midnight Promises
+TTITLE2=Love Turns Mean
+TTITLE3=Fly Eagle Fly
+TTITLE4=This Ol' Cowboy
+TTITLE5=Night Life
+TTITLE6=Trouble In Dixie
+TTITLE7=Shadow Rider
+TTITLE8=Wrong Right
+TTITLE9=Texas (On My Mind)
+TTITLE10=Mexico
+TTITLE11=Why Am I Crying
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

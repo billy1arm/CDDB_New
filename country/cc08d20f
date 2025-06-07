@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12152
+#	25165
+#	37960
+#	48930
+#	60625
+#	71347
+#	74942
+#	85215
+#	97930
+#	109135
+#	118355
+#	131065
+#	143060
+#	153180
+#
+# Disc length: 2260 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=cc08d20f
+DTITLE=Bob Wills - Roly Poly
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Roly Poly
+TTITLE1=Faded Love
+TTITLE2=Ida Red
+TTITLE3=I'm Gonna Be Boss
+TTITLE4=C Jam Blues
+TTITLE5=Take Me Back to Tulsa
+TTITLE6=Texas Playboy Theme
+TTITLE7=Sooner or Later
+TTITLE8=All Night Long
+TTITLE9=Let's Get It Over
+TTITLE10=Ole San Antonio Rose
+TTITLE11=If He's Moving In
+TTITLE12=Cotton Eyed Joe
+TTITLE13=Honeysuckle Rose
+TTITLE14=Oh Monah
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

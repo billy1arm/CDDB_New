@@ -1,0 +1,56 @@
+# xmcd CD database file
+# Copyright (C) 2001 CDDB, Inc.
+#
+# Track frame offsets:
+#	150
+#	13639
+#	22396
+#	36561
+#	51445
+#	69730
+#	87284
+#	101946
+#	112128
+#	133745
+#	153065
+#	171644
+#	186649
+#
+# Disc length: 2628 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 3.2
+#
+DISCID=cc0a420d
+DTITLE=Joe Goldmark - All Hat - No Cattle
+DYEAR=1900
+DGENRE=
+TTITLE0=Highlife
+TTITLE1=Because They're Young
+TTITLE2=Rico's Lament
+TTITLE3=Hey Girl
+TTITLE4=Wacky Walk
+TTITLE5=Her Strut
+TTITLE6=Whispering Pines
+TTITLE7=Skokiaan
+TTITLE8=China Cat Sunflower
+TTITLE9=Sweet Dreams
+TTITLE10=The Way
+TTITLE11=Sabor A Mi
+TTITLE12=Eight Miles High
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

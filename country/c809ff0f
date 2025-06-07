@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	11912
+#	22742
+#	35507
+#	46822
+#	59255
+#	74515
+#	92682
+#	105235
+#	119587
+#	134042
+#	145957
+#	158210
+#	169532
+#	180487
+#
+# Disc length: 2561 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=c809ff0f
+DTITLE=Various Artist - Country Superstars Acclaim
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Willie Nelson - Is there something on your mind
+TTITLE1=Patsy Cline - Stop, look and listen
+TTITLE2=Faron Young - Four in the morning
+TTITLE3=Donna Fargo - Wishful thinkin'
+TTITLE4=Kenn Rogers - Reuben James
+TTITLE5=Anne Murray - Both sides now
+TTITLE6=Johnny Paycheck - Billy Jack Washburn
+TTITLE7=Willie Nelson - Shelter of my arms
+TTITLE8=B J Thomas - I'd rather be lonely
+TTITLE9=Patsy Cline - Then you'll know
+TTITLE10=Dolly Parton - Letter to heaven
+TTITLE11=Stonewall Jackson - Ol' Blue
+TTITLE12=Waylon Jennings - Sally was a good old girl
+TTITLE13=Faron young - Wine me up
+TTITLE14=Billie Jo Spears - Ease the want in me
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

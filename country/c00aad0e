@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  12525
+#  30825
+#  47250
+#  60900
+#  74250
+#  87150
+#  102300
+#  117150
+#  133650
+#  148875
+#  162375
+#  176925
+#  191850
+#
+# Disc length: 2735 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.61
+#
+DISCID=c00aad0e
+DTITLE=Various Artist - 80's Country
+DYEAR=1900
+DGENRE=
+TTITLE0=Rock with the Rhythm of the Rain
+TTITLE1=Do Ya'
+TTITLE2=Strong Heart
+TTITLE3=Crying My Heart Out Over You
+TTITLE4=Larry Gatlin
+TTITLE5=Can't Stop My Heart From Loving You
+TTITLE6=Love in the First Degree
+TTITLE7=Seven Year Ache
+TTITLE8=Once in a Blue Moon
+TTITLE9=Somebody Lied
+TTITLE10=It'll Be Me
+TTITLE11=Got my Hear set on you
+TTITLE12=My Only Love
+TTITLE13=True Love Ways
+EXTD=
+EXTT0=Judds
+EXTT1=K. T. Oslin
+EXTT2=T. G. Shepherd
+EXTT3=Ricky Scaggs
+EXTT4=Larry Gatlin
+EXTT5=O'Kanes
+EXTT6=Alabama
+EXTT7=Rosanne Cash
+EXTT8=Earl Thomas Conley
+EXTT9=Rick Van Shelton
+EXTT10=Exile
+EXTT11=John Conlee
+EXTT12=Statler Brothers
+EXTT13=Mickey Gilley
+PLAYORDER=

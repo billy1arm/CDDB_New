@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16937
+#	30907
+#	44460
+#	64682
+#	73115
+#	90020
+#	100565
+#	113895
+#	128245
+#	140935
+#	153670
+#	167350
+#	182750
+#	195482
+#	212460
+#
+# Disc length: 3020 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=cc0bca10
+DTITLE=Tim Chandell - Collection
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Breaking Up
+TTITLE1=Return To Me
+TTITLE2=Talk To Me
+TTITLE3=At Last
+TTITLE4=It's Rainning
+TTITLE5=Hold Me Once More
+TTITLE6=Think It Over
+TTITLE7=Legend In My Time
+TTITLE8=On Your Love
+TTITLE9=Just Like To Say I Love You
+TTITLE10=Dream Of Love
+TTITLE11=I Am Falling Too
+TTITLE12=Miles Ahead
+TTITLE13=Keep Going Round
+TTITLE14=I Believe In Love
+TTITLE15=Go On With Your Wedding
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

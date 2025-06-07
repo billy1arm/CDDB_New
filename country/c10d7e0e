@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1998 Ti Kan
+# 
+# Track frame offsets:
+#     180
+#     22320
+#     38191
+#     51085
+#     70880
+#     86649
+#     100700
+#     117517
+#     128942
+#     145113
+#     161289
+#     178892
+#     190597
+#     204168
+# 
+# Disc length: 3456 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=c10d7e0e
+DTITLE=Various Artist - Select Trax Vol.9: Country Cookin'
+DYEAR=1900
+DGENRE=
+TTITLE0=Strawberry Wine
+TTITLE1=Goodnight Sweetheart
+TTITLE2=Ain't Got Nothing On Us
+TTITLE3=Like The Rain
+TTITLE4=Nobody Knows
+TTITLE5=Friends Don't Drive Friends
+TTITLE6=Believe Me Baby (I Lied)
+TTITLE7=BR5-49
+TTITLE8=Tic Toc
+TTITLE9=Blue Side Of Town
+TTITLE10=Have We Forgotten What Love Is
+TTITLE11=Cotton Eyed Joe
+TTITLE12=Charlie
+TTITLE13=Nights Like This
+EXTD=
+EXTT0=Performed By Deanna Carter\n
+EXTT1=Performed By David Kersh\n
+EXTT2=Performed By John Michael Montgomery\n
+EXTT3=Performed By Clint Black\n
+EXTT4=Performed By Kevin Sharp\n
+EXTT5=Performed By Deryl Dodd\n
+EXTT6=Performed By Trisha Yearwood\n
+EXTT7=Performed By Cherokee Boogie\n
+EXTT8=Performed By Leon Robert Jr.\n
+EXTT9=Performed By Austin City Limits\n
+EXTT10=Performed By Crystal Bernard\n
+EXTT11=Performed By Isaac Payton Sweat\n
+EXTT12=Performed By J.C. Eason\n
+EXTT13=Performed By Steve Azar\n
+PLAYORDER=

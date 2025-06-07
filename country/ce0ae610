@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11980
+#	26017
+#	38692
+#	52712
+#	67362
+#	82852
+#	97537
+#	112255
+#	125157
+#	139247
+#	150960
+#	162800
+#	175560
+#	185940
+#	197540
+#
+# Disc length: 2792 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=ce0ae610
+DTITLE=Ernest Tubb - Country Music Hall of Fame Series
+DYEAR=1991
+DGENRE=Country
+TTITLE0=Walking the Floor Over You
+TTITLE1=Our Baby's Book
+TTITLE2=You Nearly Lose Your Mind
+TTITLE3=Tomorrow Never Comes
+TTITLE4=Soldier's Last Letter
+TTITLE5=It's Been So Long Darling
+TTITLE6=Seaman's Blues
+TTITLE7=Forever Is Ending Today
+TTITLE8=Have You Ever Been Lonely
+TTITLE9=Letters Have No Arms
+TTITLE10=Throw Your Love My Way
+TTITLE11=Fortunes in Memories
+TTITLE12=Love Lifted Me
+TTITLE13=Two Glasses, Joe
+TTITLE14=Thanks a Lot
+TTITLE15=Waltz Across Texas
+EXTD=YEAR: 1991  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

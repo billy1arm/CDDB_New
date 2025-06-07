@@ -1,0 +1,57 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14668
+#	28493
+#	44535
+#	64778
+#	79198
+#	98333
+#	112158
+#	130185
+#	148090
+#	165660
+#	185855
+#	212855
+#
+# Disc length: 3463 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=c50d850d
+DTITLE=Mindy McCready - If I Don't Stay The Night
+DYEAR=1900
+DGENRE=
+TTITLE0=What If I Do?
+TTITLE1=This Is Me
+TTITLE2=If I Don't Stay The Night
+TTITLE3=Cross Against The Moon
+TTITLE4=For A Good Time Call
+TTITLE5=Oh Romeo
+TTITLE6=The Other Side Of This Kiss
+TTITLE7=You'll Never Know
+TTITLE8=Fine Art Of HOlding A Woman
+TTITLE9=Only A Whisper
+TTITLE10=Long, Long Time
+TTITLE11=Oh Romeo (UK Remix)
+TTITLE12=CDPLUS Data Track
+EXTD=(P)&(C) 1998 BMG Entertainment\nBNA 74321 60885 2\nadvanceCD (cont
+EXTD=ains data track in CDPLUS format)
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=

@@ -1,0 +1,63 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    150
+#    21155
+#    36937
+#    51967
+#    67227
+#    78092
+#    89410
+#    102542
+#    112857
+#    130477
+#    150432
+#    160927
+#    176060
+#    190722
+#    204487
+#
+# Disc length: 2890 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.4.0  (wjohn@fix.net)
+#
+DISCID=c80b480f
+DTITLE=Various Artist - 
+DTITLE=Country Sacred Music
+DYEAR=1900
+DGENRE=
+TTITLE0=Uncloudy Day
+TTITLE1=The Wonders You Perform
+TTITLE2=Prodigal Son
+TTITLE3=Me And Jesus
+TTITLE4=In The Sweet Bye And Bye
+TTITLE5=Turn Your Radio On
+TTITLE6=Just A Closer Walk With Thee
+TTITLE7=Nearer My God To Thee
+TTITLE8=Heaven's Just A Prayer Away
+TTITLE9=Amazing Grace
+TTITLE10=Wings Of A Dove
+TTITLE11=What A Friend We Have In Jesus
+TTITLE12=Take My Hand, Precious Lord
+TTITLE13=Just Over In The Glory Land
+TTITLE14=I Saw The Light
+EXTD=Disk 1 of two
+EXTT0=Willie Nelson
+EXTT1=Tammy Wynette
+EXTT2=Larry Gatlin and The Gatlin Brothers
+EXTT3=Tom T. Hall
+EXTT4=Loretta Lynn
+EXTT5=The Statler Brothers
+EXTT6=Patsy Cline
+EXTT7=The Jordanaires
+EXTT8=Dolly Parton
+EXTT9=Glen Campbell
+EXTT10=Ferlin Husky
+EXTT11=Barbara Mandrell
+EXTT12=Tennessee Ernie Ford
+EXTT13=Bill Monroe
+EXTT14=Hank Williams
+PLAYORDER=

@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	151
+#	20565
+#	33788
+#	51019
+#	72837
+#	91442
+#	110324
+#	130293
+#	145967
+#	167831
+#	187992
+#	203520
+#	217509
+#	230300
+#	249616
+#
+# Disc length: 3603 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=c30e110f
+DTITLE=Various Artist - Inkañan - The Best Music of the Andes
+DYEAR=1995
+DGENRE=Folk
+TTITLE0=/EL CONDOR PASA/Daniel Alomia Robles
+TTITLE1=/EL HUMAHUAQUENOS/Edmundo Sadivar
+TTITLE2=/LEJANIAS/Victor Ferrel
+TTITLE3=/LA FLOR DE LA CANELA/Chabuca Granda
+TTITLE4=/ISCANHUAYA/Edwin Robert
+TTITLE5=/PALOMAR/Tradicional,Cuzco-Peru
+TTITLE6=/SARIRI/LUCIANO Callejas
+TTITLE7=/BUSCANDOTE/Miguel Nieva,Illich Ramon
+TTITLE8=/EL COMERCIANTE/Tradicional Ecuador
+TTITLE9=/NO TO ENGANES/Godofredo Valverde
+TTITLE10=/VUELVE/Godofredo Valvrede
+TTITLE11=/CHEJTA/Juan Luis Palomares
+TTITLE12=/ROSARIO DE ASIA/Isaac Jeldre
+TTITLE13=/COMO LAS AVES/Pedro Arriola
+TTITLE14=/ACHACACHI/Gutierrez,Choqu
+EXTD=INKANAN\n\nThe Best Music of Andes YEAR: 1995
+EXTT0=Yaravi
+EXTT1=Carnavalito
+EXTT2=Trote
+EXTT3=Vals
+EXTT4=Trote
+EXTT5=Huayno
+EXTT6=Tinku
+EXTT7=Tobas
+EXTT8=San Juanito
+EXTT9=Saya
+EXTT10=Tinku
+EXTT11=Trote
+EXTT12=Cancion
+EXTT13=Huayno
+EXTT14=Sikuri
+PLAYORDER=

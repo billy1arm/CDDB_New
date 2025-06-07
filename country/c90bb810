@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+#
+# Track frame offsets:
+#	150
+#	13650
+#	26025
+#	39600
+#	53475
+#	71325
+#	87300
+#	101325
+#	112650
+#	126150
+#	138525
+#	152100
+#	165975
+#	183825
+#	199800
+#	213825
+#
+# Disc length: 3002
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CoolCD_Studio 1.5
+#
+DISCID=c90bb810
+DTITLE=Party Time Karaoke - SYB-1609
+DYEAR=2005
+DGENRE=Karaoke Country
+TTITLE0=Patsy Cline - Crazy
+TTITLE1=Willie Nelson - On The Road Again
+TTITLE2=Tammy Wynette - Stand By Your Man
+TTITLE3=Johnny Cash - I Walk The Line
+TTITLE4=Kenny Rogers - Lucille
+TTITLE5=Lynn Anderson - Rose Garden
+TTITLE6=Hank Williams - Your Cheatin' Heart
+TTITLE7=Kitty Wells - I Can't Stop Lovin' You
+TTITLE8=Patsy Cline - Crazy
+TTITLE9=Willie Nelson - On The Road Again
+TTITLE10=Tammy Wynette - Stand By Your Man
+TTITLE11=Johnny Cash - I Walk The Line
+TTITLE12=Kenny Rogers - Lucille
+TTITLE13=Lynn Anderson - Rose Garden
+TTITLE14=Hank Williams - Your Cheatin' Heart
+TTITLE15=Kitty Wells - I Can't Stop Lovin' You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

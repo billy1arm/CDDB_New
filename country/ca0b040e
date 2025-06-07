@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11015
+#	32415
+#	42497
+#	60397
+#	71917
+#	84957
+#	105565
+#	118352
+#	134150
+#	147970
+#	163130
+#	180740
+#	192150
+#
+# Disc length: 2822 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=ca0b040e
+DTITLE=Rex Allen - Arizona Cowboy
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Arizona Cowboy
+TTITLE1=Little Joe The Wrangler
+TTITLE2=Windy Bill
+TTITLE3=Streets Of Laredo
+TTITLE4=Moonshine Steer
+TTITLE5=Just Call Me Lonesome
+TTITLE6=Droop Ears
+TTITLE7=Tyin' Knots In The Devil's Tail
+TTITLE8=Catfish John
+TTITLE9=Reflex Reaction
+TTITLE10=When The Work's All Done This Fall
+TTITLE11=Fireman Cowboy
+TTITLE12=Fiddle Medley
+TTITLE13=Braggin' Drunk From Wilcox
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

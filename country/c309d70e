@@ -1,0 +1,60 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#    150
+#    13165
+#    24082
+#    39775
+#    51677
+#    61795
+#    73862
+#    86185
+#    102382
+#    115960
+#    128100
+#    147095
+#    160432
+#    178040
+#
+# Disc length: 2521 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 5.1.0  (wjohn@am-woljo.com)
+#
+DISCID=c309d70e
+DTITLE=Dulcimer Dan and the Blue Skies Band - 
+DTITLE=The Best of Old-Time Hymns
+DYEAR=1900
+DGENRE=
+TTITLE0=In The Garden
+TTITLE1=In the Sweet By and By
+TTITLE2=Sweet Hour of Prayer
+TTITLE3=I saw the Light
+TTITLE4=Just a Closer Walk With Thee
+TTITLE5=Amazing Grace
+TTITLE6=What a Friend We Have In Jesus
+TTITLE7=The Ash Grove
+TTITLE8=Morning Has Broken
+TTITLE9=Simple Gifts
+TTITLE10=Southwind
+TTITLE11=Will the Circle Be Unbroken
+TTITLE12=How Great Thou Art
+TTITLE13=Wayfaring Stranger
+EXTD=Hammered Dulcimer, Fiddle, Flute, Guitar, Bass, Piano
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

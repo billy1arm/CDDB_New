@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12880
+#     23960
+#     38045
+#     48042
+#     52957
+#     63240
+#     72830
+#     85427
+#     96385
+#     108477
+#     120487
+#     131330
+#     140540
+#     151057
+#     162882
+# 
+# Disc length: 2262 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=c808d410
+DTITLE=Sourdough Slim - Yodeling Cowboy
+DYEAR=1900
+DGENRE=
+TTITLE0=Out On The Lone Prairie
+TTITLE1=The Cowboy Romeo
+TTITLE2=Patent Leather Boots
+TTITLE3=The Gal I Left Behind
+TTITLE4=San Antonio Rose
+TTITLE5=Goodbye Old Paint
+TTITLE6=Ragtime Cowboy Joe
+TTITLE7=Yodel/Carson's Waltz
+TTITLE8=Wagontrain Rollin' West
+TTITLE9=Chime Bells Yodel
+TTITLE10=When The Bloom Is On The Sage
+TTITLE11=The Chuckwagon Waltz
+TTITLE12=Buffalo Gals
+TTITLE13=When It's Night-time In Nevada
+TTITLE14=The Musket Came Down From The Door
+TTITLE15=So Long Ol' Pal
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

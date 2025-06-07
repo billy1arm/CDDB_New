@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14890
+#	30043
+#	44678
+#	58353
+#	74557
+#	87870
+#	103517
+#	119923
+#	137493
+#	151800
+#	165368
+#	179838
+#	195385
+#
+# Disc length: 2811 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=c50af90e
+DTITLE=Hot Hits Country Jukebox Edition - Country Hot Hits #34
+DYEAR=1900
+DGENRE=
+TTITLE0=Girls With Guitars
+TTITLE1=Take These Chains From My Heart
+TTITLE2=Oh What A Thrill
+TTITLE3=Thinkin' Problem
+TTITLE4=Something Already Gone
+TTITLE5=Falling Out Of Love
+TTITLE6=Talk Some
+TTITLE7=That Ain't No Way To Go
+TTITLE8=Spilled Perfume
+TTITLE9=National Working Woman's Holiday
+TTITLE10=Just Once
+TTITLE11=Love A Little Stronger
+TTITLE12=Independence Day
+TTITLE13=Hangin' In
+EXTD=
+EXTT0=Judd - Wynonna
+EXTT1=Parnell - Lee Roy
+EXTT2=Mavericks
+EXTT3=Ball - David
+EXTT4=Carter - Carlene
+EXTT5=Wiggins - John and Audrey
+EXTT6=Cyrus - Billy Ray
+EXTT7=Brooks and Dunn
+EXTT8=Tillis - Pam
+EXTT9=Kershaw - Sammy
+EXTT10=Murphy - David Lee
+EXTT11=Diamond Rio
+EXTT12=McBride - Martina
+EXTT13=Tucker - Tanya
+PLAYORDER=

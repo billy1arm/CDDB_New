@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12580
+#	23962
+#	33770
+#	55885
+#	67865
+#	77055
+#	87250
+#	95850
+#	106530
+#	116685
+#	129445
+#	140562
+#	151417
+#	163502
+#	174817
+#
+# Disc length: 2474 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.07
+#
+DISCID=c209a810
+DTITLE=The Walter Gruener Kapelle - Holiday in Switzerland
+DYEAR=1900
+DGENRE=
+TTITLE0=Ferien Im Buendnerland
+TTITLE1=Kissing Polka
+TTITLE2=D'Ubermuetige Sahn
+TTITLE3=Brienzer Biirli
+TTITLE4=Mit Goend Net Hei
+TTITLE5=Yodeling Girl
+TTITLE6=Ferien In Den Bergen
+TTITLE7=Morge Frueh Wenn D'Sunne Lacht
+TTITLE8=Die Gumpesel
+TTITLE9=Frohe Aelpler
+TTITLE10=Tavern in the Forest
+TTITLE11=Am Sami Si Hochzeit
+TTITLE12=High on a Mountain Peak
+TTITLE13=Frohsinn
+TTITLE14=Sunday Yodeling
+TTITLE15=Clarinet Polka
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

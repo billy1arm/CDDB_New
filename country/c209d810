@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13120
+#	24860
+#	35397
+#	46950
+#	57555
+#	67560
+#	77877
+#	91025
+#	102220
+#	112700
+#	124762
+#	136132
+#	147960
+#	160810
+#	170775
+#
+# Disc length: 2522 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=c209d810
+DTITLE=Charley Pride - 16 Top Tracks
+DYEAR=1900
+DGENRE=
+TTITLE0=Crystal Chandeliers
+TTITLE1=Act Naturally
+TTITLE2=Does My Ring Hurt Your Finger
+TTITLE3=The Day The World Stood Still
+TTITLE4=Love Turned Her That Way
+TTITLE5=The Last Thing On My Mind
+TTITLE6=Just Between You And Me
+TTITLE7=Apartment No. 9
+TTITLE8=I Know One
+TTITLE9=The Happiness Of Having You
+TTITLE10=My Eyes Can Only See As Far As You
+TTITLE11=Help Me Make It Through The Night
+TTITLE12=She's Just An Old Love Turned Memory
+TTITLE13=Rhinestone Cowboy
+TTITLE14=Someone Loves You Honey
+TTITLE15=Where Do I Put Her Memory
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=
