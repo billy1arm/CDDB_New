@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13932
+#	27382
+#	43222
+#	58060
+#	74602
+#	90245
+#	102875
+#	115402
+#	129100
+#	143085
+#	158830
+#	172750
+#	188080
+#	203552
+#	214985
+#
+# Disc length: 3106 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta9
+#
+DISCID=dc0c2010
+DTITLE=Various Artist - Walk The Line
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Southern Kickin' Finger lickin' Twangin' Rockin' Boogie - T Cane Honey
+TTITLE1=Thats My Story - Nashville Cats
+TTITLE2=Hang In There Superman - Nashville Cats
+TTITLE3=Walkin' The Line - Dave Sheriff
+TTITLE4=Back In Your Arms Again - Nashville Cats
+TTITLE5=Cannibals - Nashville Cats
+TTITLE6=I Forgot To Remember - The Dean Brothers
+TTITLE7=Cowboy Stomp - Nashville Cats
+TTITLE8=Life Is Good - Nashville Cats
+TTITLE9=Set Me Free - Des Horsfall
+TTITLE10=Black Coffee - Nashville Cats
+TTITLE11=Daddy's Money - Nashville Cats
+TTITLE12=I Need Somebody - The Cheap Seats
+TTITLE13=My Maria - Nashville Cats
+TTITLE14=Cherokee Boogie - Nashville Cats
+TTITLE15=Party's Over - Tim Ambler
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

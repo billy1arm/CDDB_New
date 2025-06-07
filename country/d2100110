@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14265
+#	33457
+#	49022
+#	62395
+#	76827
+#	92622
+#	115970
+#	131715
+#	146632
+#	166605
+#	178000
+#	191202
+#	202845
+#	231310
+#	258397
+#
+# Disc length: 4099 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: mwyoung 1.0
+#
+DISCID=d2100110
+DTITLE=Wayne Hancock - Wild, Free and Reckless
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Kansas City Blues
+TTITLE1=Lookin' For Better Days
+TTITLE2=Flat Land Boogie
+TTITLE3=Smell That Bread
+TTITLE4=Blue Suede Shoes
+TTITLE5=Tonight The Rain Is Coming Down
+TTITLE6=Drive On
+TTITLE7=Going Back To Texas
+TTITLE8=Wild, Free And Reckless
+TTITLE9=That's Why I Ride
+TTITLE10=It's Saturday Night
+TTITLE11=Gone Gone Gone
+TTITLE12=Gonna Be Some Trouble
+TTITLE13=Mornin' Noon And Night
+TTITLE14=You Don't Have To Cry
+TTITLE15=Data Track
+EXTD=LABEL=ARK 21 Records\nID=186 810 043 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

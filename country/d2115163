@@ -1,0 +1,313 @@
+# xmcd
+#
+# Track frame offsets: 
+#        182
+#        2052
+#        4040
+#        6117
+#        8845
+#        12220
+#        14490
+#        17517
+#        19612
+#        21522
+#        23697
+#        28257
+#        31025
+#        36580
+#        38352
+#        40580
+#        42437
+#        45030
+#        48650
+#        51225
+#        54542
+#        56957
+#        59922
+#        62045
+#        65235
+#        67917
+#        71422
+#        77470
+#        80847
+#        85000
+#        88937
+#        91667
+#        95405
+#        99887
+#        106737
+#        120272
+#        123435
+#        126537
+#        129662
+#        131902
+#        139837
+#        143365
+#        145280
+#        147210
+#        152122
+#        155917
+#        159315
+#        164682
+#        171105
+#        173747
+#        175755
+#        182180
+#        184430
+#        187187
+#        191180
+#        193857
+#        196160
+#        199267
+#        202227
+#        208550
+#        214252
+#        220807
+#        224677
+#        227387
+#        229937
+#        232905
+#        236360
+#        238707
+#        243617
+#        247112
+#        249795
+#        254427
+#        257645
+#        261312
+#        264577
+#        268227
+#        271715
+#        274860
+#        276912
+#        278075
+#        280660
+#        285485
+#        288352
+#        290765
+#        294157
+#        295977
+#        298790
+#        300845
+#        303305
+#        307235
+#        308915
+#        310375
+#        314180
+#        317287
+#        319842
+#        322057
+#        324827
+#        327370
+#        329497
+#
+# Disc length: 4435 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: ExactAudioCopy v1.0b1
+#
+DISCID=d2115163
+DTITLE=Jean C. Roché - Die Vogelstimmen Europas 4
+DYEAR=1990
+DGENRE=Vogelstimmen
+TTITLE0=Seidengrasmücke
+TTITLE1=Provencegrasmücke
+TTITLE2=Brillengrasmücke
+TTITLE3=Weißbartgrasmücke
+TTITLE4=Samtkopfgrasmücke
+TTITLE5=Maskengrasmücke
+TTITLE6=Orpheusgrasmücke (westliche Rasse)
+TTITLE7=Orpheusgrasmücke (östliche Rasse)
+TTITLE8=Sperbergrasmücke
+TTITLE9=Klappergrasmücke
+TTITLE10=Dorngrasmücke
+TTITLE11=Gartengrasmücke
+TTITLE12=Mönchsgrasmücke
+TTITLE13=Grünlaubsänger
+TTITLE14=Wanderlaubsänger
+TTITLE15=Berglaubsänger
+TTITLE16=Waldlaubsänger
+TTITLE17=Zilpzalp
+TTITLE18=Fitis
+TTITLE19=Wintergoldhähnchen
+TTITLE20=Sommergoldhähnchen
+TTITLE21=Grauschnäpper
+TTITLE22=Zwergschnäpper
+TTITLE23=Trauerschnäpper
+TTITLE24=Halsbandschnäpper
+TTITLE25=Bartmeise
+TTITLE26=Sumpfmeise
+TTITLE27=Trauermeise
+TTITLE28=Weidenmeise
+TTITLE29=Alpenmeise
+TTITLE30=Lapplandmeise
+TTITLE31=Haubenmeise
+TTITLE32=Tannenmeise
+TTITLE33=Blaumeise
+TTITLE34=Kohlmeise
+TTITLE35=Schwanzmeise
+TTITLE36=Beutelmeise
+TTITLE37=Mauerläufer
+TTITLE38=Korsenkleiber
+TTITLE39=Kleiber
+TTITLE40=Felsenkleiber
+TTITLE41=Waldbaumläufer
+TTITLE42=Gartenbaumläufer
+TTITLE43=Pirol
+TTITLE44=Neuntöter
+TTITLE45=Schwarzstimmwürger
+TTITLE46=Raubwürger
+TTITLE47=Rotkopfwürger
+TTITLE48=Maskenwürger
+TTITLE49=Tannenhäher
+TTITLE50=Eichelhäher
+TTITLE51=Unglückshäher
+TTITLE52=Blauelster
+TTITLE53=Elster
+TTITLE54=Alpendohle
+TTITLE55=Alpenkrähe
+TTITLE56=Dohle
+TTITLE57=Saatkrähe
+TTITLE58=Aaskrähe (Raben- Nebelkrähe)
+TTITLE59=Kohlkrabe
+TTITLE60=Star
+TTITLE61=Einfarbstar
+TTITLE62=Haussperling
+TTITLE63=Weidensperling
+TTITLE64=Feldsperling
+TTITLE65=Steinsperling
+TTITLE66=Schneefink
+TTITLE67=Buckfink
+TTITLE68=Bergfink
+TTITLE69=Girlitz
+TTITLE70=Zitronenzeisig
+TTITLE71=Grünfink
+TTITLE72=Stieglitz
+TTITLE73=Erlenzeisig
+TTITLE74=Bluthänfling
+TTITLE75=Berghänfling
+TTITLE76=Birkenzeisig
+TTITLE77=Polarbirkenzeisig
+TTITLE78=Karmingimpel
+TTITLE79=Bindenkreuzschnabel
+TTITLE80=Fichtenkreuzschnabel
+TTITLE81=Kiefernkreuzschnabel
+TTITLE82=Hakengimpel
+TTITLE83=Gimpel
+TTITLE84=Kernbeißer
+TTITLE85=Spornammer
+TTITLE86=Schneeammer
+TTITLE87=Goldammer
+TTITLE88=Zaunammer
+TTITLE89=Zippammer
+TTITLE90=Türkenammer
+TTITLE91=Ortolan
+TTITLE92=Grauortolan
+TTITLE93=Waldammer
+TTITLE94=Zwergammer
+TTITLE95=Weidenammer
+TTITLE96=Rohrammer
+TTITLE97=Kappenammer
+TTITLE98=Grauammer
+EXTD=Deutsch
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=

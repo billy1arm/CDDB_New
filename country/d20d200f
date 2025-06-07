@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	27657
+#	47106
+#	65112
+#	77478
+#	98599
+#	110178
+#	129045
+#	143351
+#	155352
+#	173800
+#	191114
+#	211129
+#	222293
+#	236220
+#
+# Disc length: 3362 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=d20d200f
+DTITLE=Various Artist - big al's country homestead
+DYEAR=1900
+DGENRE=Country
+TTITLE0=tom russel - gallo del ciello
+TTITLE1=jerry hanlon - walzing through ireland 
+TTITLE2=the brooklyn cowboys - californ 
+TTITLE3=marston ferry - honey 
+TTITLE4=big al downing - mr jones 
+TTITLE5=murry hartin - aquip sale 
+TTITLE6=pat drummond - flicker of an eye 
+TTITLE7=sanity claus - merry bloody xmas
+TTITLE8=victoria shaw - waiikiki cowboy 
+TTITLE9=big al downing - mr jones the final chapter 
+TTITLE10=jo el sonnier - huppes taiauts 
+TTITLE11=paddy o'brien out to california 
+TTITLE12=ronnie smith - corn bread and love 
+TTITLE13=virginia lee - horse'n around 
+TTITLE14=gary james - collarenabri boy
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

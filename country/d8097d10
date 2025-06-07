@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12063
+#	23068
+#	32960
+#	45880
+#	55823
+#	66303
+#	79850
+#	91193
+#	102500
+#	113980
+#	126958
+#	136965
+#	147865
+#	161835
+#	171470
+#
+# Disc length: 2431 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=d8097d10
+DTITLE=Sons Of The Pioneers - Songs Of The Trail
+DYEAR=1900
+DGENRE=
+TTITLE0=When My Blue Moon Turns To Gold Again
+TTITLE1=Ole Faithful
+TTITLE2=Chant Of The Wanderer
+TTITLE3=South Of The Border
+TTITLE4=San Antonio Rose
+TTITLE5=Sierra Nevada
+TTITLE6=Columbus Stockade Blues
+TTITLE7=The Singing Hills
+TTITLE8=That Lucky Old Sun
+TTITLE9=Be Honest With Me
+TTITLE10=I Can't Help It
+TTITLE11=Don't Fence Me In
+TTITLE12=Caroling In The Morning
+TTITLE13=When It's Springtime In The Rockies
+TTITLE14=Moonlight On The Colorado
+TTITLE15=I Love You Truly
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

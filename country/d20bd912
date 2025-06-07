@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9731
+#	19705
+#	30361
+#	45502
+#	60089
+#	72004
+#	86015
+#	102004
+#	113667
+#	127582
+#	142670
+#	156765
+#	169152
+#	178992
+#	192780
+#	206254
+#	217842
+#
+# Disc length: 3035 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50beta10
+#
+DISCID=d20bd912
+DTITLE=Various Artist - Country Gospel 36 All-Time Favorites
+DYEAR=2003
+DGENRE=Country
+TTITLE0=Albert Brumley Jr. and Merle Haggard - Turn Your Radio On
+TTITLE1=Albert Brumley Jr. and Glen Campbell - I'd Rather Be An Old Time Christian
+TTITLE2=Albert Brumley Jr. and Lee Greenwood - The Love of the Lord
+TTITLE3=Albert Brumley Jr. and Florida Boys - The Prettiest Flowers
+TTITLE4=Albert Brumley Jr. and Tommy Overstreet - If We Never Meet Again
+TTITLE5=Albert Brumley Jr. and Mel Tillis - Flowers in the Wildwood
+TTITLE6=Albert Brumley Jr. and Crystal Gayle - It's Really Surprising
+TTITLE7=Albert Brumley Jr. - Led By the Master's Hand
+TTITLE8=Albert Brumley Jr. and Chuck Wagon Gang - When I Looked Up and He Looked Down
+TTITLE9=Albert Brumley Jr. and Merle Haggard - I'll Fly Away
+TTITLE10=Albert Brumley Jr. and Sons of the Pioneers - It's Twilight Time Again
+TTITLE11=Albert Brumley Jr. and Chet Atkins - Did You Ever Go Sailin'
+TTITLE12=Albert Brumley Jr., Larry Gatlin, and Lamar Alexander - I'm Bound for That City
+TTITLE13=Albert Brumley Jr. and Hank Thompson - Camping In Canaan's Land
+TTITLE14=Albert Brumley Jr. and Johnny Russell - Nobody Answered Me
+TTITLE15=Albert Brumley Jr. and Bill Anderson - The Old Village Church on the Hill
+TTITLE16=Albert Brumley Jr. and Chester Smith - The Blood That Stained the Old Rugged Cross
+TTITLE17=Albert Brumley Jr. and LeRoy Van Dyke - That Old Time Preacher Man
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

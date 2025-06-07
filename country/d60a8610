@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	12617
+#	23955
+#	39251
+#	52621
+#	62778
+#	75320
+#	87770
+#	101207
+#	116091
+#	130252
+#	145338
+#	158015
+#	170155
+#	181253
+#	194166
+#
+# Disc length: 2696 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=d60a8610
+DTITLE=Country - Sampler - 16 Greatest Line Dance Hits
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Gene Watson - No One Will Ever Know
+TTITLE1=Tom T. Hall - Ravishing Ruby
+TTITLE2=Johnny Rodriguez - How Could I Love Her So Much
+TTITLE3=Bobba Bare - 500 Miles From Home
+TTITLE4=Gail Davies - I'll Be There
+TTITLE5=Everly Brothers - When Will I Be Loved
+TTITLE6=Johnny Paycheck - I'm Not Looking Back Anymore
+TTITLE7=Tammy Wynette - Stand By Your Man
+TTITLE8=Hoyt Axton - Evangelina
+TTITLE9=Forrester Sisters - I Fell In Love Again Last Night
+TTITLE10=Jeannie C. Riley - Harper Valley PTA
+TTITLE11=Charlie Rich - Behind Closed Doors
+TTITLE12=Dottie West - Here Comes My Baby
+TTITLE13=Darrell McCall - Pins And Needles
+TTITLE14=Everly Brothers - 'Til I Kissed You
+TTITLE15=Willie Nelson - You Wouldn't Cross The Street To Say Goodbye
+EXTD=X YEAR: 2001
+EXTT0=GENE WATSON
+EXTT1=TOM T. HALL
+EXTT2=JOHNNY RODRIGUEZ
+EXTT3=BOBBY BARE
+EXTT4=GAIL DAVIES
+EXTT5=THE EVERLY BROTHERS
+EXTT6=JOHNNY PAYCHECK
+EXTT7=TAMMY WYNETTE
+EXTT8=HOYT AXTON
+EXTT9=THE FORRESTERS SISTERS
+EXTT10=JEANNIE C. RILEY
+EXTT11=CHARLIE RICH
+EXTT12=DOTTIE WEST
+EXTT13=DARRELL McCALL
+EXTT14=THE EVERLY BROTHERS
+EXTT15=WILLIE NELSON
+PLAYORDER=

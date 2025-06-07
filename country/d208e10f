@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10882
+#     23775
+#     36235
+#     47987
+#     58380
+#     68362
+#     81500
+#     93000
+#     104680
+#     115400
+#     126430
+#     135555
+#     147757
+#     160867
+# 
+# Disc length: 2275 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=d208e10f
+DTITLE=Roland Lebrun - Heritage Quebecois
+DYEAR=1900
+DGENRE=
+TTITLE0=L'adieu du soldat
+TTITLE1=Un baiser puis bonsoir
+TTITLE2=La priere d'une maman
+TTITLE3=N'oublie pas ta priere
+TTITLE4=La destinee
+TTITLE5=Courageux canadiens
+TTITLE6=Grand maman
+TTITLE7=Ne pleure plus
+TTITLE8=Reviens petit papa
+TTITLE9=La lettre d'un soldat Canadien
+TTITLE10=La complainte d'une mere
+TTITLE11=Retour du printemps
+TTITLE12=Adieu cherie
+TTITLE13=Amour victoir liberte
+TTITLE14=Priere exaucee
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

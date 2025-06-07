@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12875
+#	23737
+#	35505
+#	47090
+#	57112
+#	69705
+#	80497
+#	91492
+#	103177
+#	115477
+#	127385
+#	137977
+#	151340
+#	172430
+#
+# Disc length: 2454 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.81
+#
+DISCID=db09940f
+DTITLE=Various Artist - Classic Country Early '60s
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Patsy Cline - I Fall to Pieces
+TTITLE1=Faron Young - Hello Walls
+TTITLE2=Jim Reeves - Welcome to My World
+TTITLE3=Don Gibson - Sea of Heartbreak
+TTITLE4=George Hamilton IV - Abilene
+TTITLE5=Bobbie Bare - Detroit City
+TTITLE6=Dave Dudley - Six Days on the Road
+TTITLE7=Buck Owens - My Heart Skips a Beat
+TTITLE8=George Jones - She Thinks I Still Care
+TTITLE9=Roy Drusky - Three Heartsin a Tangle
+TTITLE10=Skeeter Davis - The End of the World
+TTITLE11=Connie Smith - Once a Day
+TTITLE12=Carl Butler - Don't Let Me Cross Over
+TTITLE13=Marty Robbins - El Paso
+TTITLE14=The Everly Brothers - Let It Be Me
+EXTD=YEAR: 1999
+EXTT0=Patsy Kline
+EXTT1=Faron Young
+EXTT2=Jim Reeves
+EXTT3=Don Gibson
+EXTT4=George Hamilton IV
+EXTT5=Bobby Bare
+EXTT6=Dave Dudley
+EXTT7=Buck Owens
+EXTT8=George Jones
+EXTT9=Roy Drusky
+EXTT10=Skeeter Davis
+EXTT11=Connie Smith
+EXTT12=Carl Butler
+EXTT13=Marty Robbins
+EXTT14=The everly Brothers
+PLAYORDER=

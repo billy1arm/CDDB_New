@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17017
+#	29542
+#	42097
+#	54755
+#	67347
+#	79842
+#	94452
+#	108310
+#	116572
+#	132165
+#	144760
+#	156600
+#	168135
+#	179630
+#	192152
+#
+# Disc length: 2757 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=db0ac310
+DTITLE=The Kentucky Moonshiners - Just for fun
+DYEAR=1994
+DGENRE=Country
+TTITLE0=There is a time
+TTITLE1=Nellie Kane
+TTITLE2=Cold frosty morning
+TTITLE3=Sittin on top of the world
+TTITLE4=Old home place
+TTITLE5=Foggy mountain breakdown
+TTITLE6=Raised by the railroad line
+TTITLE7=Riverroad
+TTITLE8=Trudy´s Breakdown
+TTITLE9=You ain´t goin´ nowhere
+TTITLE10=East Virginia blues
+TTITLE11=Ragtime annie
+TTITLE12=Walking down the line
+TTITLE13=Moonshiner
+TTITLE14=Poorhouse blues
+TTITLE15=Duelling banjos
+EXTD=YEAR: 1994 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9475
+#	20735
+#	31320
+#	43260
+#	52489
+#	63150
+#	72385
+#	85302
+#	96265
+#	107075
+#	117210
+#	129072
+#	139732
+#	151595
+#	162707
+#
+# Disc length: 2295 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=db08f510
+DTITLE=Roy Rogers and Dale Evans - 16 Great Songs of the Old West
+DYEAR=1900
+DGENRE=
+TTITLE0=Song Wagon
+TTITLE1=I Ride An Old Paint
+TTITLE2=Whoppee Ti Yi Yo
+TTITLE3=Home On The Range
+TTITLE4=The Old Chisholm Trail
+TTITLE5=Colorado Trail
+TTITLE6=The Railroad Corral
+TTITLE7=Tumbling Tumbleweeds
+TTITLE8=Cool Water
+TTITLE9=The Streets Of Laredo
+TTITLE10=The Night Hearding Song
+TTITLE11=Red River Valley
+TTITLE12=Doney Gal
+TTITLE13=Goodbye Old Paint
+TTITLE14=Bury Me Out On The Lone Praire
+TTITLE15=The Cowman's Prayer
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

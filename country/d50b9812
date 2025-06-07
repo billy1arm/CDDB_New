@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11995
+#	24140
+#	38558
+#	49503
+#	61878
+#	75145
+#	86213
+#	99308
+#	110675
+#	124508
+#	137495
+#	150868
+#	164388
+#	175500
+#	186703
+#	199128
+#	211005
+#
+# Disc length: 2970 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=d50b9812
+DTITLE=Hank Williams - Ramblin' man
+DYEAR=1950
+DGENRE=Country
+TTITLE0=Dear John
+TTITLE1=Just waitin'
+TTITLE2=Men with broken hearths'
+TTITLE3=I can't help it (if I'm still in love with you)
+TTITLE4=Howlin' at the Moon
+TTITLE5=Hey, good lookin'
+TTITLE6=My hearth would know
+TTITLE7=The pale horse and his rider
+TTITLE8=A home in heaven
+TTITLE9=Ramblin' man
+TTITLE10=Pictures from life's other side
+TTITLE11=I've been down that road before
+TTITLE12=I dreamed about mama last night
+TTITLE13=(I heard that) Lonesome whistle
+TTITLE14=Crazy heart
+TTITLE15=Half as much
+TTITLE16=I'd still want you
+TTITLE17=Baby, we're really in love
+EXTD=YEAR: 1950
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

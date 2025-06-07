@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16231
+#	31756
+#	46650
+#	62250
+#	73160
+#	88950
+#	104509
+#	118850
+#	135791
+#	150321
+#	164791
+#	179280
+#	195410
+#	209527
+#	221168
+#
+# Disc length: 3111 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=da0c2510
+DTITLE=Marcos e Fernado - Ao vivo em Uberlândia
+DYEAR=2000
+DGENRE=Folk
+TTITLE0=Fica combinado
+TTITLE1=De lua
+TTITLE2=Agora chora
+TTITLE3=Minha namorada
+TTITLE4=Eu quero você só pra mim
+TTITLE5=Sua jogada
+TTITLE6=É nisso que dá
+TTITLE7=Amigo namorado ou ficante
+TTITLE8=Amor sem juízo
+TTITLE9=Eu e você
+TTITLE10=Eu não quero mais você
+TTITLE11=Te mando flores
+TTITLE12=É paixão
+TTITLE13=Confie em mim
+TTITLE14=Viciado em outra paixão
+TTITLE15=Se quer beijar na boca
+EXTD=ID3G:  80 YEAR: 2000
+EXTT0=participação de Jorge e Mateus
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=participação de Bruno e Marrone
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

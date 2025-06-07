@@ -1,0 +1,60 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     200
+#     17905
+#     39205
+#     58192
+#     72252
+#     100772
+#     125487
+#     147502
+#     165700
+#     185087
+#     196185
+#     215302
+#     223990
+#     234475
+# 
+# Disc length: 3316 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=d30cf20e
+DTITLE=Charlie Daniels - The Door
+DYEAR=1900
+DGENRE=
+TTITLE0=The Business Of Love
+TTITLE1=Washed In The Blood
+TTITLE2=Jesus Died For You
+TTITLE3=Sunday Morning
+TTITLE4=Protected By Prayer
+TTITLE5=Lay It On The Line
+TTITLE6=Praying To The Wrong God
+TTITLE7=Two Out Of Three
+TTITLE8=End Of The World
+TTITLE9=Jerusalem Trilogy: The Birth
+TTITLE10=My Chosen One
+TTITLE11=Crucify Him
+TTITLE12=Jerusalem's Shame
+TTITLE13=Joy In The Morning
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=tracks 10-14 are all listed as track 10 on the jacket\\nso, the Jerusa
+EXTT9=lem Trilogy refers to 10-14
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14445
+#	31905
+#	49489
+#	65002
+#	79385
+#	96532
+#	114500
+#	130455
+#	143570
+#	160207
+#	172952
+#	186787
+#	202417
+#
+# Disc length: 2865 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=d10b2f0e
+DTITLE=Various Artist - Hot Hits Country Vol. 51
+DYEAR=1900
+DGENRE=
+TTITLE0=I Know She Still Loves Me - George Strait
+TTITLE1=All You Ever Do Is Bring Me Down - The Mavericks
+TTITLE2=Only You (And You Alone) - Travis Tritt
+TTITLE3=Heaven In My Woman's Eyes - Tracy Byrd
+TTITLE4=It Wouldn't Hurt To Have Wings - Mark Chesnutt
+TTITLE5=Country Crazy - Little Texas
+TTITLE6=Not That Different - Collin Raye
+TTITLE7=Without Your Love - Aaron Tippin
+TTITLE8=No News - Lonestar
+TTITLE9=Hypnotize The Moon - Clay Walker
+TTITLE10=Paradise - John Anderson
+TTITLE11=Standing Tall - Lorrie Morgan
+TTITLE12=Ripples - 4 Runner
+TTITLE13=Too Much Fun - Daryle Singletary
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

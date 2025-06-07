@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  15600
+#  27900
+#  40575
+#  51675
+#  62250
+#  73500
+#  84375
+#  99675
+#  116700
+#  136575
+#  149100
+#  164400
+#  181800
+#  199050
+#  211800
+#
+# Disc length: 3032 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=df0bd610
+DTITLE=Misc - Tomy Presents Country
+DYEAR=1900
+DGENRE=
+TTITLE0=Achy Breaky Heart
+TTITLE1=Rockin' With Rhythm Of The River
+TTITLE2=Ruben James
+TTITLE3=Too Gone Too Long
+TTITLE4=Hot Dog
+TTITLE5=Walk That Way
+TTITLE6=I'll Be Your Yukebox Tonight
+TTITLE7=Highway Robbery
+TTITLE8=Could've Been Me
+TTITLE9=The River
+TTITLE10=Where I Reach The Place
+TTITLE11=Tom Wopat
+TTITLE12=Big Wheels In The Moonlight
+TTITLE13=Slow Passin' Time
+TTITLE14=You're My Best Friend
+TTITLE15=Home
+EXTD=Lilo
+EXTT0=Billy Ray Cyrus
+EXTT1=Judds
+EXTT2=Kenny Rogers
+EXTT3=Randy Travis
+EXTT4=Buck Owens
+EXTT5=Mel Me Daniel
+EXTT6=Barbara Mandrell
+EXTT7=Tanya Tucker
+EXTT8=Billy Ray Cyrus
+EXTT9=Garth Brooks
+EXTT10=Wynonna
+EXTT11=Tom Wopat
+EXTT12=Dan Seals
+EXTT13=Anne Murray
+EXTT14=Don Williams
+EXTT15=Specs Hildebrand
+PLAYORDER=

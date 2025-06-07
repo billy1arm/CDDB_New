@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	9237
+#	20602
+#	30932
+#	40838
+#	50894
+#	60112
+#	76252
+#	86975
+#	97666
+#	111166
+#	125294
+#	135801
+#	147737
+#	158694
+#	169085
+#	180021
+#	192278
+#
+# Disc length: 2718 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=d10a9c12
+DTITLE=Buck Owens - Streets Of Bakersfield - Greatest Hits Volume 2
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Buckaroo
+TTITLE1=Cryin' Time
+TTITLE2=Think Of Me
+TTITLE3=A-11
+TTITLE4=How Long Will My Baby Be Gone
+TTITLE5=It Takes People Like You (To Make People Like Me)
+TTITLE6=Sweet Rosie Jones
+TTITLE7=Who's Gonna Mow Your Grass
+TTITLE8=Johnny B. Goode
+TTITLE9=Tall Dark Stranger
+TTITLE10=Big In Vegas
+TTITLE11=The Kansas City Song
+TTITLE12=Bridge Over Troubled Water
+TTITLE13=Ruby
+TTITLE14=Rollin' In My Sweet Baby's Arms
+TTITLE15=I'll Still Be Waiting For You
+TTITLE16=Made In Japan
+TTITLE17=Streets Of Bakersfield
+EXTD=YEAR: 1999
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13880
+#	27715
+#	40055
+#	56400
+#	68370
+#	85145
+#	98055
+#	114460
+#	125655
+#	142025
+#	158830
+#	174660
+#	189705
+#	202725
+#	212500
+#
+# Disc length: 3027 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=da0bd110
+DTITLE=Various Artist - Procissao de gado
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Berrante de Madalena
+TTITLE1=Busca Boida
+TTITLE2=Amanheceu, Peguei a viola
+TTITLE3=Pantaneiro
+TTITLE4=Fazenda da Saudade
+TTITLE5=Romaria
+TTITLE6=Cabocla Teresa
+TTITLE7=Como e bom ser boiadeiro
+TTITLE8=Flor do cafezal
+TTITLE9=Galopada
+TTITLE10=Magoa de Boiadeiro
+TTITLE11=Boiada,triste Boiada
+TTITLE12=Cortador de Cana
+TTITLE13=O meu sertao
+TTITLE14=Nao tive nada para carregar
+TTITLE15=Alma de Chico Mineiro
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

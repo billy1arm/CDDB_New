@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13226
+#	25557
+#	35981
+#	49496
+#	66270
+#	85074
+#	93132
+#	107225
+#	124321
+#	138165
+#	151828
+#	163352
+#	182111
+#	193923
+#
+# Disc length: 2818 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=d30b000f
+DTITLE=Johnny Cash - The Man In Black - His Greatest Hits [CD2)
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Man In Black
+TTITLE1=Understand Your Man
+TTITLE2=There You Go
+TTITLE3=Tennesse Flat-Top Box
+TTITLE4=Girl From North Country
+TTITLE5=Sunday Morning Coming Down
+TTITLE6=Five Feet High And Rising
+TTITLE7=Orange Blossom Special
+TTITLE8=(Ghost) Riders In The Sky
+TTITLE9=Highwayman
+TTITLE10=If I Were A Carpenter
+TTITLE11=A Thing Called Love
+TTITLE12=The Ballad Of Ira Hayes
+TTITLE13=I Still Miss Someone
+TTITLE14=Were Your There (When They Crucified My Lord)
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=Johnny Cash W/Bob Dylan
+EXTT5=
+EXTT6=
+EXTT7=Johnny Cash W/ Charlie McCoy, Boots Randolph and Car
+EXTT8=
+EXTT9=Johnny Cash W/Kris Kristofferson, Waylon Jennings
+EXTT10=Johnny Cash W/ June Carter Cash
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=Johnny Cash W/ The Carter Family
+PLAYORDER=

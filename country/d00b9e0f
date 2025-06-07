@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13315
+#     27792
+#     42977
+#     60172
+#     73797
+#     90010
+#     104282
+#     119020
+#     131305
+#     147210
+#     164022
+#     179265
+#     193902
+#     208580
+# 
+# Disc length: 2976 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=d00b9e0f
+DTITLE=Various Artist - Just Rustin' In The Country
+DYEAR=1900
+DGENRE=
+TTITLE0=Roll Like A Wheel
+TTITLE1=In This Life
+TTITLE2=Passionate Kisses
+TTITLE3=Honky Tonk Attitude
+TTITLE4=Something Big
+TTITLE5=A Couple Of Good Years Left
+TTITLE6=Texas Tattoo
+TTITLE7=You Will
+TTITLE8=Coming On Strong
+TTITLE9=Never Knew Love
+TTITLE10=He Feels Guilty To Me
+TTITLE11=Fortunate Home
+TTITLE12=Farther Done The Line
+TTITLE13=More Where That Came From
+TTITLE14=Just Enough Rope
+EXTD=
+EXTT0=Cassandra Vasik\n
+EXTT1=Collin Raye\n
+EXTT2=Mary-Chapin Carpenter \n
+EXTT3=Joe Diffie\n
+EXTT4=Tracey Prescott\n
+EXTT5=Ricky Van Shelton\n
+EXTT6=Gibson Miller Band\n
+EXTT7=Patty Loveless\n
+EXTT8=The Blue Shadows\n
+EXTT9=Doug Stone\n
+EXTT10=Bobie Cryner\n
+EXTT11=Tim Thorney\n
+EXTT12=Willie Nelson\n
+EXTT13=Dolly Parton\n
+EXTT14=Rick Trevino\n
+PLAYORDER=

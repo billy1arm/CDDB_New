@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     11945
+#     24333
+#     37495
+#     50720
+#     64070
+#     74883
+#     86258
+#     98595
+#     110308
+#     122608
+#     133733
+#     144820
+#     157908
+#     169558
+#     181795
+# 
+# Disc length: 2582 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=d50a1410
+DTITLE=Hank Williams - Greatest
+DYEAR=1900
+DGENRE=
+TTITLE0=A Mansion on the Hill
+TTITLE1=Move It On Over
+TTITLE2=Wedding Bells
+TTITLE3=Mind Your Own Business
+TTITLE4=You're Gonna Change
+TTITLE5=Moanin' the Blues
+TTITLE6=Nobody's Lonesome for Me
+TTITLE7=Cold Cold Heart
+TTITLE8=Dear John
+TTITLE9=Howlin' at the Moon
+TTITLE10=Crazy Heart
+TTITLE11=Lonesome Whistle
+TTITLE12=Jambalaya (On the Bayou)
+TTITLE13=Kaw-Liga
+TTITLE14=Your Cheatin' Heart
+TTITLE15=Take These Chains from My Heart
+EXTD=
+EXTT0=(Rose-Williams]\n
+EXTT1=(Williams]\n
+EXTT2=(Boone]\n
+EXTT3=(Williams]\n
+EXTT4=(Williams]\n
+EXTT5=(Williams]\n
+EXTT6=(Williams]\n
+EXTT7=(Williams]\n
+EXTT8=(Ritter-Gass]\n
+EXTT9=(Williams]\n
+EXTT10=(Murray-Rose]\n
+EXTT11=(Davis-Williams]\n
+EXTT12=(Williams]\n
+EXTT13=(Williams-Rose]\n
+EXTT14=(Williams]\n
+EXTT15=(Rose-Heath]\n
+PLAYORDER=

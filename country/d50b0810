@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12912
+#	24170
+#	36918
+#	56848
+#	68289
+#	83058
+#	92887
+#	100895
+#	111554
+#	119608
+#	135067
+#	149589
+#	165099
+#	183684
+#	197878
+#
+# Disc length: 2826 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=d50b0810
+DTITLE=Various Artist - Legends Of Country
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Waltz Across Texas
+TTITLE1=Thanks A Lot
+TTITLE2=Rave On
+TTITLE3=Matchbox
+TTITLE4=Crazy Arms
+TTITLE5=You Win Again
+TTITLE6=Hello Walls
+TTITLE7=Live Fast, Love Hard, Die Young
+TTITLE8=Take This Job And Shove It
+TTITLE9=I'm Ragged But I'm Right
+TTITLE10=Midnight Hauler
+TTITLE11=She Left Love All Over Me
+TTITLE12=Detroit City
+TTITLE13=Marie Laveau
+TTITLE14=Before The Next Teardrop Falls
+TTITLE15=Can't Stop Loving You
+EXTD=YEAR: 2000
+EXTT0=ernest tubb
+EXTT1=ernest tubb
+EXTT2=carl perkins
+EXTT3=carl perkins
+EXTT4=jerry lee lewis
+EXTT5=jerry lee lewis
+EXTT6=faron young
+EXTT7=faron young
+EXTT8=johnny paycheck
+EXTT9=johnny paycheck
+EXTT10=razzy bailey
+EXTT11=razzy bailey
+EXTT12=bobby bare
+EXTT13=bobby bare
+EXTT14=freddy fender
+EXTT15=
+PLAYORDER=

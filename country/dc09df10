@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13425
+#     25488
+#     36875
+#     48875
+#     58213
+#     72550
+#     85988
+#     100638
+#     110413
+#     118563
+#     130788
+#     144275
+#     157213
+#     167288
+#     178650
+# 
+# Disc length: 2529 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=dc09df10
+DTITLE=Jim Reeves - Distant Drums
+DYEAR=1900
+DGENRE=
+TTITLE0=Distant Drums
+TTITLE1=Welcome to my world
+TTITLE2=Just walking in the rain
+TTITLE3=Have you ever been lonely
+TTITLE4=I won't forget you
+TTITLE5=I fall to pieces
+TTITLE6=The white cliffs of Dover
+TTITLE7=Guilty
+TTITLE8=The Hawaiian Wedding Song
+TTITLE9=Your are my love
+TTITLE10=In the misty moonlight
+TTITLE11=You'll never know
+TTITLE12=I can't stop loving you
+TTITLE13=Somewhere along the line
+TTITLE14=Someday
+TTITLE15=How's the world treating you
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

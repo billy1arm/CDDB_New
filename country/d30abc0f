@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  9570
+#  19132
+#  35877
+#  51502
+#  62577
+#  80400
+#  104615
+#  119535
+#  132975
+#  146600
+#  159180
+#  172992
+#  185947
+#  196625
+#
+# Disc length: 2750 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.32
+#
+DISCID=d30abc0f
+DTITLE=Various Artist - The Country Wedding Album
+DYEAR=1900
+DGENRE=
+TTITLE0=Wedding march from "LOHENGRIN"
+TTITLE1=Canon in D Major
+TTITLE2=When you say nothing at all
+TTITLE3='Til the rivers all run dry
+TTITLE4='Til I found you
+TTITLE5=True heart
+TTITLE6=Love can build a bridge
+TTITLE7=My only love
+TTITLE8=We were meant for each other
+TTITLE9=I wouldn't change you if I could
+TTITLE10=Always
+TTITLE11=All I have to offer you (is me)
+TTITLE12=Have I told you lately that I love you
+TTITLE13=Trumpet Voluntary
+TTITLE14=Wedding march from "A MIDSUMMER NIGHT'S DREAM"
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=KEITH WHITLEY
+EXTT3=DON WILLIAMS
+EXTT4=MARTY STEWART
+EXTT5=OAK RIDGE BOYS
+EXTT6=JUDDS
+EXTT7=STATLER BROTHERS
+EXTT8=LEE GREENWOOD
+EXTT9=RICKY SKAGGS
+EXTT10=PATSY CLINE
+EXTT11=CHARLEY PRIDE
+EXTT12=RED FOLEY
+EXTT13=
+EXTT14=
+PLAYORDER=

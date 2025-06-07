@@ -1,0 +1,62 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     12280
+#     28425
+#     46110
+#     69935
+#     82505
+#     98597
+#     114842
+#     131605
+#     149355
+#     171092
+#     186645
+#     209212
+#     223367
+#     239607
+# 
+# Disc length: 3394 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=da0d400f
+DTITLE=Edu Lobo - Premio Shell para a Musica Brasileira 1994
+DYEAR=1900
+DGENRE=
+TTITLE0=Ponteiro
+TTITLE1=Aleluia
+TTITLE2=Upa Neguinho
+TTITLE3=Arrast o
+TTITLE4=Cord o da Saideira
+TTITLE5=Vento Bravo
+TTITLE6=Candeias
+TTITLE7=Viola Fora de Moda
+TTITLE8=Pr  Dizer Adeus
+TTITLE9=Mem rias de Marta Sar 
+TTITLE10=Corrupi o
+TTITLE11=Beatriz
+TTITLE12=Choro Bandido
+TTITLE13=Valsa Brasileira
+TTITLE14=Ponteiro
+EXTD=
+EXTT0=Quareto Novo\n
+EXTT1=Elis Regina e Edu Lobo\n
+EXTT2=Edu Lobo\n
+EXTT3=Edu Lobo\n
+EXTT4=Edu Lobo\n
+EXTT5=Edu Lobo\n
+EXTT6=Edu Lobo\n
+EXTT7=Edu Lobo\n
+EXTT8=Edu Lobo\n
+EXTT9=Edu Lobo\n
+EXTT10=Edu Lobo\n
+EXTT11=Milton Nascimento\n
+EXTT12=Chico Buarque\n
+EXTT13=Edu Lobo\n
+EXTT14=Edu Lobo\n
+PLAYORDER=

@@ -1,0 +1,71 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15335
+#	27258
+#	39055
+#	52960
+#	63688
+#	75785
+#	89625
+#	101240
+#	115683
+#	125430
+#	133983
+#	144263
+#	159400
+#	167625
+#	177115
+#	190810
+#	204790
+#
+# Disc length: 2847 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=de0b1d12
+DTITLE=Willie Nelson - Love songs
+DYEAR=1900
+DGENRE=
+TTITLE0=Face of a fighter
+TTITLE1=End of understanding
+TTITLE2=Some other time
+TTITLE3=A moment isn't very long
+TTITLE4=Blame it on the times
+TTITLE5=I hope so
+TTITLE6=Everything but you
+TTITLE7=Is there something on your mind
+TTITLE8=Will you remember mine
+TTITLE9=(I'm) Building heartaches
+TTITLE10=Slow down old world
+TTITLE11=Healing hands of time
+TTITLE12=And so will you my love
+TTITLE13=Things to remember
+TTITLE14=One step beyond
+TTITLE15=Undo the right
+TTITLE16=Home is where you're happy
+TTITLE17=Why are you picking on me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

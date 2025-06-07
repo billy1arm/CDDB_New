@@ -1,0 +1,59 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19757
+#	30817
+#	45687
+#	59225
+#	78635
+#	92735
+#	114717
+#	128587
+#	145340
+#	164675
+#	178485
+#	191470
+#	208377
+#
+# Disc length: 3042 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=d00be00e
+DTITLE=Various Artist - alt.country
+DYEAR=1900
+DGENRE=
+TTITLE0=Al You Ever Do Is Bring Me Down - The Mavericks
+TTITLE1=Lines Around Your Eyes - Lucinda Williams
+TTITLE2=Even If It's Wrong - BR5-49
+TTITLE3=Windfall - Son Volt
+TTITLE4=All Just to Get to You - Joe Ely
+TTITLE5=Two More Bottles of Wine - Emmylou Harris
+TTITLE6=Yesterday Tomorrow Was Today - SHAVER
+TTITLE7=Is Anybody Goin' to San Antone - The Texas Tornados
+TTITLE8=Telephone Road - Steve Earle
+TTITLE9=Poet's Highway - Jr. Gone Wild
+TTITLE10=My Wife Thinks You're Dead - Junior Brown
+TTITLE11=Just One More Time - The Derailers
+TTITLE12=My Baby - Cindy Church
+TTITLE13=Return of the Grievous Angel - Gram Parsons
+EXTD="The Best in Alternative Country"
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+PLAYORDER=

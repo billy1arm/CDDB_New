@@ -1,0 +1,65 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998  Ti Kan
+#
+# Track frame offsets:
+#	183
+#	12520
+#	24190
+#	37033
+#	48063
+#	56465
+#	68538
+#	81310
+#	98330
+#	110273
+#	121635
+#	133770
+#	149968
+#	159713
+#	176030
+#	186600
+#
+# Disc length: 2730 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.3 PL0
+#
+DISCID=d70aa810
+DTITLE=Johnny Cash - Live In The Ring Of Fire
+DYEAR=1900
+DGENRE=
+TTITLE0=Folsom Prison Blues
+TTITLE1=These Hands
+TTITLE2=Peace In The Valley
+TTITLE3=Rock Island Line
+TTITLE4=The Wall
+TTITLE5=I Still Miss Someone
+TTITLE6=Ring Of Fire
+TTITLE7=Sunday Morning Coming Down
+TTITLE8=The Highwayman
+TTITLE9=Big River
+TTITLE10=Sixteen Tons
+TTITLE11=A Boy Named Sue
+TTITLE12=Help Me
+TTITLE13=City Of New Orleans
+TTITLE14=If I Were A Carpenter
+TTITLE15=Orange Blossom Special
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+PLAYORDER=

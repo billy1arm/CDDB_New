@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12775
+#	29778
+#	54155
+#	69079
+#	87117
+#	111839
+#	131778
+#	145831
+#	163621
+#	177503
+#	206077
+#	220287
+#	244775
+#	269026
+#
+# Disc length: 3824 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cdripper 1,0,15,908
+#
+DISCID=dd0eee0f
+DTITLE=Jason Boland and the Stragglers - Live at Billy Bob's
+DYEAR=2002
+DGENRE=Country
+TTITLE0=01 Drinkin' Song
+TTITLE1=02 Tennessee Whiskey 
+TTITLE2=03 Shot Full of Holes
+TTITLE3=04 Proud Souls
+TTITLE4=05 Pearl Snaps 
+TTITLE5=06 Mexico or Crazy
+TTITLE6=07 Somewhere Down in Texas
+TTITLE7=08 Telephone Romeo
+TTITLE8=09 When I'm Stoned
+TTITLE9=10 Falling With Style
+TTITLE10=11 Ponies
+TTITLE11=12 Mary
+TTITLE12=13 Truckstop Diaries
+TTITLE13=14 Song for You
+TTITLE14=16 Big shot Rich Man
+EXTD=YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+PLAYORDER=

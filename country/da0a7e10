@@ -1,0 +1,64 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13237
+#	27180
+#	40265
+#	53292
+#	65062
+#	79867
+#	91782
+#	104587
+#	118595
+#	129900
+#	140892
+#	153322
+#	164660
+#	177462
+#	188900
+#
+# Disc length: 2688 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.83
+#
+DISCID=da0a7e10
+DTITLE=Ritter, Tex - Tex Ritter  Country Music Hall Of Fame Series
+DYEAR=1991
+DGENRE=Country
+TTITLE0=Sam Hall
+TTITLE1=Get Along Little Dogies
+TTITLE2=Lady Killin' Cowboy
+TTITLE3=Bill, The Bar Fly
+TTITLE4=My Brown Eyed Texas Rose
+TTITLE5=(Take Me Back To My) Boots And Saddles
+TTITLE6=The Hills Of Old Wyomin'
+TTITLE7=We'll Rest At The End Of The Trail
+TTITLE8=High, Wide And Handsome
+TTITLE9=I'm A Natural Born Cowboy
+TTITLE10=Ride, Ride, Ride
+TTITLE11=Sing, Cowboy, Sing
+TTITLE12=When It's Lamplighting Time In The Valley
+TTITLE13=Singin' In The Saddle
+TTITLE14=Ai Viva Tequila
+TTITLE15=Out On The Lone Prairie
+EXTD=YEAR: 1991
+EXTT0=1935\n
+EXTT1=1935\n
+EXTT2=1935\n
+EXTT3=1935\n
+EXTT4=1935\n
+EXTT5=1935\n
+EXTT6=1936\n
+EXTT7=1936\n
+EXTT8=1936\n
+EXTT9=1937\n
+EXTT10=1937\n
+EXTT11=1937\n
+EXTT12=1939\n
+EXTT13=1939\n
+EXTT14=1939\n
+EXTT15=1936\n
+PLAYORDER=

@@ -1,0 +1,313 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	3318
+#	6282
+#	9395
+#	12535
+#	15482
+#	19471
+#	22368
+#	25362
+#	28280
+#	31279
+#	36247
+#	39231
+#	42181
+#	45044
+#	47823
+#	50392
+#	53314
+#	56221
+#	59113
+#	62183
+#	65164
+#	68537
+#	71674
+#	76132
+#	78742
+#	83602
+#	87413
+#	90989
+#	94118
+#	97571
+#	101086
+#	104332
+#	107406
+#	110592
+#	113553
+#	116861
+#	119711
+#	122964
+#	126428
+#	129521
+#	132473
+#	135318
+#	138418
+#	141472
+#	144056
+#	146670
+#	149702
+#	153632
+#	155933
+#	158224
+#	161354
+#	164552
+#	169030
+#	173344
+#	177389
+#	180667
+#	183912
+#	187246
+#	190239
+#	193278
+#	196504
+#	200162
+#	202619
+#	205964
+#	208955
+#	213130
+#	216270
+#	219350
+#	222138
+#	224986
+#	228110
+#	231054
+#	233654
+#	236367
+#	239539
+#	242593
+#	245177
+#	248111
+#	250252
+#	253505
+#	257312
+#	260964
+#	264038
+#	267895
+#	270608
+#	274163
+#	277398
+#	281111
+#	284756
+#	287433
+#	290599
+#	293580
+#	296743
+#	299438
+#	302310
+#	305255
+#	307824
+#	309191
+#
+# Disc length: 4202 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: audiograbber 1.83.01
+#
+DISCID=d8106863
+DTITLE=Lang Elliott Et. Al. - The Frogs and Toads of North America
+DYEAR=1900
+DGENRE=Alternative
+TTITLE0=Green Treefrog
+TTITLE1=Barking Treefrog
+TTITLE2=Pine Barrens Treefrog
+TTITLE3=Squirrel Treefrog
+TTITLE4=Pine Woods Treefrog
+TTITLE5=Gray Treefrog
+TTITLE6=Cope's Gray Treefrog
+TTITLE7=Bird-voiced Treefrog
+TTITLE8=Arizona Treefrog
+TTITLE9=Canyon Treefrog
+TTITLE10=Spring Peeper
+TTITLE11=Little Grass Frog
+TTITLE12=Ornate Chorus Frog
+TTITLE13=Strecker's Chorus Frog
+TTITLE14=Midland Chorus Frog
+TTITLE15=Upland Chorus Frog
+TTITLE16=New Jersey Chorus Frog
+TTITLE17=Cajun Chorus Frog
+TTITLE18=Boreal Chorus Frog
+TTITLE19=Southern Chorus Frog
+TTITLE20=Brimley's Chorus Frog
+TTITLE21=Mountain Chorus Frog
+TTITLE22=Spotted Chorus Frog
+TTITLE23=Pacific Chorus Frog
+TTITLE24=California Chorus Frog
+TTITLE25=Northern Cricket Frog
+TTITLE26=Southern Cricket Frog
+TTITLE27=Cuban Treefrog
+TTITLE28=Lowland Burrowing Treefrog
+TTITLE29=Mexican Treefrog
+TTITLE30=American Toad
+TTITLE31=Fowler's Toad
+TTITLE32=Woodhouse's Toad
+TTITLE33=Southern Toad
+TTITLE34=Oak Toad
+TTITLE35=Coastal Plain Toad
+TTITLE36=Texas Toad
+TTITLE37=Houston Toad
+TTITLE38=Cane Toad
+TTITLE39=Great Plains Toad
+TTITLE40=Canadian Toad
+TTITLE41=Wyoming Toad
+TTITLE42=Red-spotted Toad
+TTITLE43=Green Toad
+TTITLE44=Sonoran Green Toad
+TTITLE45=Sonoran Desert Toad
+TTITLE46=Arizona Toad
+TTITLE47=Western Toad
+TTITLE48=Amargosa Toad
+TTITLE49=Black Toad
+TTITLE50=Arroyo Toad
+TTITLE51=Yosemite Toad
+TTITLE52=Bullfrog
+TTITLE53=Green Frog
+TTITLE54=Pig Frog
+TTITLE55=Mink Frog
+TTITLE56=Wood Frog
+TTITLE57=Carpenter Frog
+TTITLE58=Florida Bog Frog
+TTITLE59=River Frog
+TTITLE60=Crawfish Frog
+TTITLE61=Gopher Frog
+TTITLE62=Dusky Gopher Frog
+TTITLE63=Pickerel Frog
+TTITLE64=Northern Leopard Frog
+TTITLE65=Southern Leopard Frog
+TTITLE66=Plains Leopard Frog
+TTITLE67=Rio Grande Leopard Frog
+TTITLE68=Relict Leopard Frog
+TTITLE69=Chiricahua Leopard Frog
+TTITLE70=Lowland Leopard Frog
+TTITLE71=Tarahuma Frog
+TTITLE72=Cascades Frog
+TTITLE73=Northern Red-legged Frog
+TTITLE74=California Red-leffed Frog
+TTITLE75=Oregon Spotted Frog
+TTITLE76=Columbia Spotted Frog
+TTITLE77=Foothill Yellow-legged Frog
+TTITLE78=Sierra Madre Yellow-legged Frog
+TTITLE79=Sierra Nevada Yellow-legged Frog
+TTITLE80=Eastern Spadefoot
+TTITLE81=Hurter's Spadefoot
+TTITLE82=Couch's Spadefoot
+TTITLE83=Plains Spadefoot
+TTITLE84=Great Basin Spadefoot
+TTITLE85=New Mexico Spadefoot
+TTITLE86=Western Spadefoot
+TTITLE87=Eastern Narrowmouth Toad
+TTITLE88=Great Plains Narrowmouth Toad
+TTITLE89=Sheep Frog
+TTITLE90=Greenhouse Frog
+TTITLE91=Puerto Rican Coqui
+TTITLE92=Cliff Chirping Frog
+TTITLE93=Spotted Chirping Frog
+TTITLE94=Rio Grande Chirping Frog
+TTITLE95=Barking Frog
+TTITLE96=White-lipped Frog
+TTITLE97=Rocky Mountain Tailed Frog/Pacific Tailed Frog
+TTITLE98=Mexican Burowing Toad/African Clawed Frog
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=

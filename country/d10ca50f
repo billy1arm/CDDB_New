@@ -1,0 +1,61 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17289
+#	32803
+#	50010
+#	64015
+#	80257
+#	96700
+#	113427
+#	130841
+#	146773
+#	163053
+#	179411
+#	195627
+#	209531
+#	227154
+#
+# Disc length: 3239 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.07.15)
+#
+DISCID=d10ca50f
+DTITLE=Various Artist - Mixed Country Volume 8 Disk 2
+DYEAR=2006
+DGENRE=Country
+TTITLE0=Would You Go With Me
+TTITLE1=Sommertime
+TTITLE2=New Strings
+TTITLE3=The Last Of A Dying Breed
+TTITLE4=What Hurts The Most
+TTITLE5=Me And My Gang
+TTITLE6=Kill Me Now
+TTITLE7=Local Girls
+TTITLE8=Call Me Crazy
+TTITLE9=Leave The Pieces
+TTITLE10=When The Stars Go Blue
+TTITLE11=A Little Too Late
+TTITLE12=Get Drunk And Be Somebody
+TTITLE13=As Good As I Once Was
+TTITLE14=Swing
+EXTD=ID3G:   2 YEAR: 2006
+EXTT0=Josh Turner
+EXTT1=Kenney Chesney
+EXTT2=Miranda Lambert
+EXTT3=Neal McCoy
+EXTT4=Rascal Flatts
+EXTT5=Rascal Flatts
+EXTT6=Rio Grand
+EXTT7=Ronnie Milsap
+EXTT8=The Last Trailers
+EXTT9=The Wreckers
+EXTT10=Tim McGraw
+EXTT11=Toby Keith
+EXTT12=Toby Keith
+EXTT13=Toby Keith
+EXTT14=Trace  Atkins
+PLAYORDER=
