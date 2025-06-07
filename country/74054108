@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12211
+#	22376
+#	37372
+#	49104
+#	62135
+#	74764
+#	86341
+#
+# Disc length: 1347 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=74054108
+DTITLE=Loran Marshall - Electrifying Hot Hits
+DYEAR=2006
+DGENRE=Country
+TTITLE0=It's Just Like You Don't Know Me
+TTITLE1=Drinkin' For My Thinkin'
+TTITLE2=Speedy's Racing Hot Rod
+TTITLE3=Let's Support Our Troops
+TTITLE4=Free
+TTITLE5=Life
+TTITLE6=Farrah's Faucet
+TTITLE7=She's Still Waiting
+EXTD=YEAR: 2006
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

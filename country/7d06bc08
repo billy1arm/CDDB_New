@@ -1,0 +1,41 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	14645
+#	26212
+#	41220
+#	59747
+#	74872
+#	92452
+#	112082
+#
+# Disc length: 1726 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7d06bc08
+DTITLE=Double Barrel - Australia's Most Wanted
+DYEAR=1900
+DGENRE=Country
+TTITLE0=One step at a Time
+TTITLE1=Take me back
+TTITLE2=Something about you baby
+TTITLE3=Foxy Lady
+TTITLE4=Getting over you
+TTITLE5=House of Hell
+TTITLE6=ANZAC's
+TTITLE7=Forever
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

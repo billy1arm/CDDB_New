@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	17237
+# 	38412
+# 	53557
+# 	69120
+# 	87880
+# 	104227
+# 	114147
+# 	144515
+# 	156977
+#
+# Disc length: 2379 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7709490a
+DTITLE=Various Artist - New Country * Volume 3 * Number 10
+DYEAR=1900
+DGENRE=
+TTITLE0=Geno's Two Step/Geno Delafose
+TTITLE1=Shine Them Buckles/The Bellamy Brothers
+TTITLE2=Too Lonely Too Long/Marty Brown
+TTITLE3=I Won't Cry/Sweethearts Of The Rodeo
+TTITLE4=Leave the Past Behind/Joe Nichols
+TTITLE5=Deep in the West/Waylon Jennings
+TTITLE6=Palms of Victory/New Coon Creek Girls
+TTITLE7=Prodigal Daughter/Michelle Shocked
+TTITLE8=The Cold Hard Facts/Del McCoury
+TTITLE9=Hero's Son/Rees Shad
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=Cotton Eyed Joe
+EXTT8=
+EXTT9=
+PLAYORDER=

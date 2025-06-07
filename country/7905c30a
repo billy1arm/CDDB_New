@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12790
+#     21632
+#     33237
+#     42652
+#     54417
+#     64962
+#     75015
+#     84592
+#     96485
+# 
+# Disc length: 1477 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7905c30a
+DTITLE=Various Country - Country Gold
+DYEAR=1900
+DGENRE=
+TTITLE0=Folsom Prison Blue
+TTITLE1=Invisible Tears
+TTITLE2=Am I That Easy To Forget
+TTITLE3=Six Days On The Road
+TTITLE4=Three Hearts In A Tangle
+TTITLE5=Please Help Me I'm Fallin'
+TTITLE6=Young Love
+TTITLE7=From A Jack To A King
+TTITLE8=Your Cheating Heart
+TTITLE9=Mack The Knife
+EXTD=
+EXTT0=Johnny Cash
+EXTT1=Ned Miller
+EXTT2=Carl Belew
+EXTT3=Dave Dudley
+EXTT4=Roy Drusky
+EXTT5=Hank Locklin
+EXTT6=Leroy Van Dyke
+EXTT7=Ned Miller
+EXTT8=James O'Gwynn
+EXTT9=Dave Dudley
+PLAYORDER=

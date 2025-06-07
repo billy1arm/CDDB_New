@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18457
+#     32492
+#     51120
+#     67417
+#     88705
+#     104235
+#     130602
+#     154152
+# 
+# Disc length: 2403 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=7a096109
+DTITLE=New Grass Revival - Barren County
+DYEAR=1900
+DGENRE=
+TTITLE0=Dancin' With The Angels
+TTITLE1=In The Plan
+TTITLE2=How About You
+TTITLE3=Crazy In The Night
+TTITLE4=Don't Look Back
+TTITLE5=Spring Peepers
+TTITLE6=Souvenir Bottles
+TTITLE7=Goin' To The Fair
+TTITLE8=Lee Highway Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

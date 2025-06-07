@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 13817
+# 26282
+# 35842
+# 46952
+# 56247
+# 69087
+# 86100
+# 97707
+# 106479
+#
+# Disc length: 1552 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=7a060e0a
+DTITLE=Buck Owens - Half A Buck  Greatest Duets
+DYEAR=1900
+DGENRE=
+TTITLE0=Act Naturally
+TTITLE1=Crying Time
+TTITLE2=We're Gonna Get Together
+TTITLE3=Mental Cruelty
+TTITLE4=Let The Whole World Keep On Turnin'
+TTITLE5=Under Your Spell Again
+TTITLE6=The Great White Horse
+TTITLE7=Loose Talk
+TTITLE8=Too Old To Cut The Mustard
+TTITLE9=Togetherness
+EXTD=
+EXTT0=With Ringo Starr
+EXTT1=With Emmylou Harris
+EXTT2=With Susan Raye
+EXTT3=With Rose Maddox
+EXTT4=With Buddy Alan
+EXTT5=Dwight Yoakam
+EXTT6=With Susan Raye
+EXTT7=With Rose Maddox
+EXTT8=With Buddy Alan
+EXTT9=With Susan Raye
+PLAYORDER=

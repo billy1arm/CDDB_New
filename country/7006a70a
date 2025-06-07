@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	13162
+#	25697
+#	39652
+#	52607
+#	63337
+#	75732
+#	87617
+#	101290
+#	113810
+#
+# Disc length: 1705 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7006a70a
+DTITLE=Slim Whitman - Birmingham Jail
+DYEAR=1966
+DGENRE=Country
+TTITLE0=Birmingham Jail
+TTITLE1=Walbash Waltz
+TTITLE2=Paint A Rose On The Garden Wall
+TTITLE3=I'll Do As Much For You Someday
+TTITLE4=Let's Go To Church (Next Sunday Morning)
+TTITLE5=I'm Casting My Lasso Towards The Sky
+TTITLE6=There's A Rainbow In Every Teardrop
+TTITLE7=Tears can Never Drown The Flame (That's In My Heart)
+TTITLE8=I'm Crying For You
+TTITLE9=I'll Never Pass This Way Again
+EXTD=YEAR: 1966 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

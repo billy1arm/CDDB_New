@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	11233
+# 	29040
+# 	45313
+# 	68773
+# 	85868
+# 	106160
+# 	126228
+# 	139275
+# 	153120
+#
+# Disc length: 2295 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7f08f50a
+DTITLE=Rodney Crowell - Soul Searchin'
+DYEAR=1900
+DGENRE=
+TTITLE0=Above And Beyond
+TTITLE1=Soul Searchin'
+TTITLE2=She Loves The Jerk
+TTITLE3=The Last Waltz
+TTITLE4=Stay (Don't Be Cruel)
+TTITLE5=Looking For You
+TTITLE6=Faith Is Mine
+TTITLE7=We Gotta Go On Meeting Like This
+TTITLE8=Crazy Baby
+TTITLE9=Now That We're Alone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

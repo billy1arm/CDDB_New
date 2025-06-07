@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16120
+#     25715
+#     41645
+#     55212
+#     68077
+#     81162
+#     93135
+#     104710
+#     121152
+# 
+# Disc length: 1897 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7407670a
+DTITLE=Merle Gaggard - That's The Way Love Goes
+DYEAR=1900
+DGENRE=
+TTITLE0=What Am I Going To Do With The Rest Of My Life
+TTITLE1=I'm Going To Paint Me A Bed Of Roses.
+TTITLE2=Someday When Things Are Good.
+TTITLE3=That's The Way Love Goes
+TTITLE4=Carryin Fire
+TTITLE5=Don't Seem Like We've Been Together  All Our  Lives
+TTITLE6=If You Hated Me
+TTITLE7=Love Will Find You
+TTITLE8=The Last Boat Of The Day
+TTITLE9=I Think I'll Stay
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

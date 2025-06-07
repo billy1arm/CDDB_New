@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  11342
+#  22382
+#  36595
+#  48572
+#  60405
+#  71630
+#  88507
+#  98257
+#  109865
+#
+# Disc length: 1600 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=7e063e0a
+DTITLE=Conway Twitty -  Number Ones
+DYEAR=1900
+DGENRE=
+TTITLE0=It's Only Make Believe
+TTITLE1=As Soon As I Hang Up The Phone
+TTITLE2=You've Never Been This Far Before
+TTITLE3=She Needs Someone To Hold Her
+TTITLE4=I Can't See Me Without You 
+TTITLE5=Hello Darlin
+TTITLE6=Don't Cry Joni
+TTITLE7=I'll Try
+TTITLE8=To See An Angel Cry
+TTITLE9=(I Can't Believe) She Gives It All To Me 
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

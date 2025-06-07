@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     12105
+#     25835
+#     39882
+#     60087
+#     76545
+#     91762
+#     105675
+#     117675
+#     132030
+#     147870
+# 
+# Disc length: 2124 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=75084a0b
+DTITLE=Brakin' Tradition - Music Man
+DYEAR=1900
+DGENRE=
+TTITLE0=Rollin' on the Sea
+TTITLE1=Music Man
+TTITLE2=Johnny Rye
+TTITLE3=Together
+TTITLE4=Old Schoolyard
+TTITLE5=The Kathaleen
+TTITLE6=Send Me a Picture
+TTITLE7=Charlie
+TTITLE8=Listen To Me People
+TTITLE9=Can't Get Enough of You
+TTITLE10=Sleepy Head
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

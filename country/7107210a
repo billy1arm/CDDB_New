@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	15830
+#	27787
+#	40987
+#	55427
+#	68690
+#	83937
+#	99252
+#	110372
+#	123945
+#
+# Disc length: 1827 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7107210a
+DTITLE=Keith Whitley - L.A. To Miami
+DYEAR=1985
+DGENRE=Country
+TTITLE0=Miami, My Amy
+TTITLE1=I've Got The Heart For You
+TTITLE2=I Get The Picture
+TTITLE3=On The Other Hand
+TTITLE4=Hard Livin'
+TTITLE5=Ten Feet Away
+TTITLE6=That Stuff
+TTITLE7=Nobody In His Right Mind Would've Left Her
+TTITLE8=Homecoming '63
+TTITLE9=Quittin' Time
+EXTD=YEAR: 1985
+EXTT0=D Dillon - H Cochran - R Porter
+EXTT1=L Boone - J Greenebaum
+EXTT2=D Cook - P Overstreet
+EXTT3=D Schlitz - P Overstreet
+EXTT4=D Hally
+EXTT5=T Seals - B Sherrill - M Barnes
+EXTT6=S Curtis - R Hellard
+EXTT7=D Dillon
+EXTT8=D Dillon - R Porter
+EXTT9=R Hellard - M Garvin - B James
+PLAYORDER=

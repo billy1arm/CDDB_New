@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13055
+#	25875
+#	34762
+#	48662
+#	58162
+#	69910
+#	78362
+#	89635
+#	101425
+#
+# Disc length: 1523 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=7e05f10a
+DTITLE=Jim Reeves - Jim Reeves Pure Gold Volumn 1
+DYEAR=1978
+DGENRE=Country
+TTITLE0=Four Walls
+TTITLE1=Goodnight Irene
+TTITLE2=Why Do I Love You (Melody Of Love)
+TTITLE3=Auf Wiedersh'n Sweetheart
+TTITLE4=The Hawaiian Wedding Song
+TTITLE5=Welcome to My World
+TTITLE6=From a Jack to a King
+TTITLE7=My Happiness
+TTITLE8=Mona Lisa
+TTITLE9=You'll Never Know
+EXTD=YEAR: 1978
+EXTT0=(Moore-Campbell) BMI
+EXTT1=(Ledbetter-Lomax) BMI
+EXTT2=(Davis-Englemann) ASCAP Produced by Chet Atkins
+EXTT3=(Sexton-Turner-Storch) BMI Produced by Anita Kerr
+EXTT4=(Hoffman-Manning-King) ASCAP Produced by Chet Atkins
+EXTT5=(Winkler-Hathcock) BMI Produced by Chet Atkins
+EXTT6=(Miller) BMI Produced by Jerry Bradley, Overdub Production
+EXTT7=(Bergantine-Peterson) BMI
+EXTT8=(Livingston-Evans) ASCAP
+EXTT9=(Gordon-Warren) ASCAP Produced by Jerry Bradley, Overdub Production. Arranged by Anita Kerr
+PLAYORDER=

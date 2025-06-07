@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14577
+#     30255
+#     51255
+#     68495
+#     84340
+#     101635
+#     114512
+#     131877
+#     151265
+# 
+# Disc length: 2243 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7708c10a
+DTITLE=Helen Darling - Helen Darling
+DYEAR=1900
+DGENRE=
+TTITLE0=Jenny Come Back
+TTITLE1=I Haven't Found It Yet
+TTITLE2=Into the Storm
+TTITLE3=Twist and Turn
+TTITLE4=When the Butterflies Have Flown Away
+TTITLE5=Black and White and Blue
+TTITLE6=I Love Him I Think
+TTITLE7=That's How You Know It's Love
+TTITLE8=Next To Love
+TTITLE9=Even God Must Get the Blues
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

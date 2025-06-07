@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	13105
+#	23387
+#	50447
+#	62857
+#	77370
+#	88885
+#	101812
+#	112170
+#	122675
+#
+# Disc length: 1779 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7b06f10a
+DTITLE=Various Artist - Country Stars Vol. 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Ruby - Kenny Rogers
+TTITLE1=Gone - Ferlin Husky
+TTITLE2=I.O.U. Jimmy Dean
+TTITLE3=Walk The Line - Johnny Cash
+TTITLE4=High Noon - Tex Ritter
+TTITLE5=Six Days On The Road - Dave Dudly
+TTITLE6=Fraulin - Bobby Helms
+TTITLE7=Walk Throught This World With me - George Jones
+TTITLE8=Money - Waylon Jennings
+TTITLE9=Down On The Corner Of Love - Buck Owens
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

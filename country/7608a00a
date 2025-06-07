@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15977
+#     30080
+#     48377
+#     64717
+#     83710
+#     99727
+#     116797
+#     134555
+#     152770
+# 
+# Disc length: 2210 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7608a00a
+DTITLE=Chris Blevins - Blue Dancer
+DYEAR=1900
+DGENRE=
+TTITLE0=This World Has Never Been Free
+TTITLE1=I'll Stand Alone
+TTITLE2=Blue Dancer
+TTITLE3=Dance Right Back Again
+TTITLE4=The Laughing Wind
+TTITLE5=One Sip Of Georgia Rain
+TTITLE6=Streetfight
+TTITLE7=Secret Life Of The Heart
+TTITLE8=Earthbound
+TTITLE9=The Meaning Of Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

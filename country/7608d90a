@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	152
+#	18017
+#	34097
+#	55240
+#	71452
+#	87427
+#	105490
+#	120135
+#	141040
+#	157177
+#
+# Disc length: 2267 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7608d90a
+DTITLE=Vince Gill - Super Hits
+DYEAR=1996
+DGENRE=Country
+TTITLE0=I Never Knew Lonely
+TTITLE1=Oklahoma Borderline
+TTITLE2=Losing Your Love
+TTITLE3=Half A Chance
+TTITLE4=Cinderella
+TTITLE5=The Radio
+TTITLE6=Savannah (Don't You Ever Think Of Me)
+TTITLE7=With You
+TTITLE8=Baby That's Tough
+TTITLE9=Everybody's Sweetheart
+EXTD=YEAR: 1996 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

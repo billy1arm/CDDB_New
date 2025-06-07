@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 11740
+# 21975
+# 34420
+# 45715
+# 54940
+# 66115
+# 75435
+# 87190
+# 97440
+#
+# Disc length: 1449 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=7e05a70a
+DTITLE=George Jones - Greatest Hits - Volume 2
+DYEAR=1900
+DGENRE=
+TTITLE0=White Lightning
+TTITLE1=Walk Through This World With Me
+TTITLE2=If My Heart Had Windows
+TTITLE3=I'll Share My World With You
+TTITLE4=Old Brush Arbors
+TTITLE5=Once A Day
+TTITLE6=The World's Worst Loser
+TTITLE7=Accidentally On Purpose
+TTITLE8=Developing My Pictures
+TTITLE9=I'm Wasting Good Paper
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

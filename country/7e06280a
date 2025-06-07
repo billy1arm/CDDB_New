@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13892
+#	26662
+#	37412
+#	49645
+#	66240
+#	75845
+#	88035
+#	96725
+#	105362
+#
+# Disc length: 1578 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7e06280a
+DTITLE=Jones, George and Tammy Wynette - Golden Ring
+DYEAR=1900
+DGENRE=
+TTITLE0=Golden Ring
+TTITLE1=Even The Bad Times Are Good
+TTITLE2=Near You
+TTITLE3=Cryin' Time
+TTITLE4=I've Seen Better Days
+TTITLE5=Did You Ever?
+TTITLE6=Tattletale Eyes
+TTITLE7=I'll Be There (If You Ever Want Me)
+TTITLE8=If You Don't, Somebody Else Will
+TTITLE9=Keep The Change
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

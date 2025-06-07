@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     12415
+#     26672
+#     39670
+#     49577
+#     62535
+#     78925
+#     91192
+#     108087
+#     119760
+# 
+# Disc length: 1779 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7506f10a
+DTITLE=Merle Haggard - The One and Only
+DYEAR=1900
+DGENRE=
+TTITLE0=Okie From Muskogee
+TTITLE1=The Fugitive
+TTITLE2=Sing Me Back Home
+TTITLE3=Mama Tried
+TTITLE4=The Fightin' Side Of Me
+TTITLE5=Mama's Hungry Eyes
+TTITLE6=Everybody's Had The Blues
+TTITLE7=Today I Started Loving You Again
+TTITLE8=Carolyn
+TTITLE9=I Threw Away The Rose
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

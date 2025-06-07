@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17365
+#     31609
+#     48259
+#     60449
+#     71914
+#     83722
+#     101031
+#     111880
+#     130190
+# 
+# Disc length: 1989 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7607c30a
+DTITLE=Kevin Griffin - Never Ending Silence
+DYEAR=1900
+DGENRE=
+TTITLE0=Never ending Silence
+TTITLE1=Devel on my Left Sholder
+TTITLE2=Taking you for Granted
+TTITLE3=Two Hearts Joined
+TTITLE4=Take me Out
+TTITLE5=Back in your Arms Again
+TTITLE6=I'll never forget you
+TTITLE7=Country Beat
+TTITLE8=Only in my Dreams
+TTITLE9=Grandpa played the Fiddle
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 10515
+# 21645
+# 34377
+# 46807
+# 58950
+# 70367
+# 81157
+# 91782
+# 106582
+#
+# Disc length: 1575 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=7a06250a
+DTITLE=Jerry Wallace - Jerry Wallace's Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Primrose Lane
+TTITLE1=How The Time Flies
+TTITLE2=In The Misty Moonlight
+TTITLE3=Shutters And Boards
+TTITLE4=To Get To You
+TTITLE5=There She Goes
+TTITLE6=Blue Jean Baby
+TTITLE7=Little Coco Palm 
+TTITLE8=Don't Give Up On Me
+TTITLE9=If You Leave Me Tonight I'll Cry
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

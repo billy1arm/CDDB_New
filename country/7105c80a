@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11965
+#	23412
+#	33910
+#	44095
+#	55785
+#	66760
+#	75557
+#	88510
+#	100022
+#
+# Disc length: 1482 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=7105c80a
+DTITLE=Patsy Cline - Classic Country
+DYEAR=1997
+DGENRE=Country
+TTITLE0=Walkin' After Midnight
+TTITLE1=The Heart You Break May Be Your Own
+TTITLE2=Three Cigaretts In The Ashtray
+TTITLE3=Walking Dream
+TTITLE4=Cry Not For Me
+TTITLE5=Angel
+TTITLE6=Come On In
+TTITLE7=Fingerprints
+TTITLE8=I've Loved And Lost Again
+TTITLE9=Just Out Of Reach
+EXTD=\nYEAR: 1997  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

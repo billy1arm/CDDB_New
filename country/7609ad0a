@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	17702
+# 	41800
+# 	56270
+# 	80442
+# 	97885
+# 	114665
+# 	131682
+# 	152362
+# 	169410
+#
+# Disc length: 2479 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7609ad0a
+DTITLE=Michael James - Closer To The Fire
+DYEAR=1900
+DGENRE=
+TTITLE0=Love Will
+TTITLE1=It Wasn't His Child
+TTITLE2=Family Tree
+TTITLE3=Closer To The Fire
+TTITLE4=The Kite
+TTITLE5=Roll Back Again
+TTITLE6=The Light You Shine On Me
+TTITLE7=Handfulls of Dust
+TTITLE8=Weather the Storm
+TTITLE9=Grant Me the Grace
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

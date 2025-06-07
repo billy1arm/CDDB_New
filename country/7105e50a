@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	11821
+#	22119
+#	33042
+#	45460
+#	55737
+#	67122
+#	78904
+#	90488
+#	101449
+#
+# Disc length: 1511 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7105e50a
+DTITLE=Patsy Cline - Good Old Country
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Crazy Dreams
+TTITLE1=How Can I Face Tomorrow
+TTITLE2=I Cried All The Way to the Altar
+TTITLE3=A Poor Man's Roses(Or a Rich Man's Gold)
+TTITLE4=Walking Dream
+TTITLE5=That Wonderful Someone
+TTITLE6=I've Loved and Lost Again
+TTITLE7=Walking After Midnight
+TTITLE8=Stop Look and Listen
+TTITLE9=The Heart You Break May Be Your Own
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	11665
+#	26810
+#	40428
+#	55218
+#	68468
+#	82088
+#	94648
+#	108673
+#	121120
+#
+# Disc length: 1801 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=7e07070a
+DTITLE=Mel McDaniel - Stand Up
+DYEAR=1900
+DGENRE=
+TTITLE0=Stand Up
+TTITLE1=Reminders
+TTITLE2=Make It With The Blues
+TTITLE3=If You Still Want A Fool Around
+TTITLE4=Shoe String
+TTITLE5=Thank You Nadine
+TTITLE6=Worn Out Shoe
+TTITLE7=Love Is Goin' 'Round
+TTITLE8=Doctor's Orders
+TTITLE9=Whatever Gets You Through The Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

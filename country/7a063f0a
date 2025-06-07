@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10312
+#	21382
+#	36007
+#	50250
+#	63020
+#	72562
+#	83540
+#	92475
+#	104837
+#
+# Disc length: 1601 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7a063f0a
+DTITLE=Tex Ritter - Greatest Hits
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Boll Weevil
+TTITLE1=Green Grow The Lilacs
+TTITLE2=Conversation With A Gun
+TTITLE3=The Fool's Paradise
+TTITLE4=High Noon
+TTITLE5=Froggy Went A Courtin'
+TTITLE6=Have I Stayed Away Too Long
+TTITLE7=The Keeper Of The Key
+TTITLE8=The Gallows Pole
+TTITLE9=I Dreamed Of A Hill-Billy Heaven
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

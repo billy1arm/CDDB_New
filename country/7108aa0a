@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17777
+#	34432
+#	49257
+#	68365
+#	83275
+#	99372
+#	115925
+#	130432
+#	150277
+#
+# Disc length: 2220 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=7108aa0a
+DTITLE=Kenny Rogers - Lady and more favorite love songs
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Kenny Rogers - Lady
+TTITLE1=Kenny Rogers - Don't Fall in Love with a Dreamer (w/Kim Carnes)
+TTITLE2=Kenny Rogers - A Love Song
+TTITLE3=Kenny Rogers - She Believes in Me
+TTITLE4=Kenny Rogers - Share Your Love with Me
+TTITLE5=Kenny Rogers - The Gambler
+TTITLE6=Kenny Rogers - You Decorated My Life
+TTITLE7=Kenny Rogers - Love the World Away
+TTITLE8=Kenny Rogers - Through the Years
+TTITLE9=Kenny Rogers - Love Will Turn You Around
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

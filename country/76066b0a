@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     12585
+#     25195
+#     38462
+#     50427
+#     62662
+#     75557
+#     88062
+#     99947
+#     111707
+# 
+# Disc length: 1645 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=76066b0a
+DTITLE=Hank Williams, Sr. - Hank Williams, Sr.
+DYEAR=1900
+DGENRE=
+TTITLE0=COLD COLD HEART
+TTITLE1=I'M SO LONESOME I COULD CRY
+TTITLE2=HEY, GOOD LOOKIN'
+TTITLE3=LONG GONE LONESOME BLUES
+TTITLE4=YOUR CHEATIN' HEART
+TTITLE5=I'M A LONG GONE DADDY
+TTITLE6=I WON'T BE HOME NO MORE
+TTITLE7=YOU WIN AGAIN
+TTITLE8=DEAR JOHN
+TTITLE9=WHY SHOULD WE TRY ANYMORE
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

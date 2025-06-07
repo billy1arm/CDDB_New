@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11095
+#	22625
+#	33782
+#	42067
+#	54017
+#	68472
+#	90532
+#	99350
+#	110577
+#	120400
+#	129630
+#
+# Disc length: 1836 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7d072a0c
+DTITLE=Riders In The Sky - Harmony Ranch
+DYEAR=1991
+DGENRE=Country
+TTITLE0=Harmony Ranch
+TTITLE1=How Does He Yodel?
+TTITLE2=Great Grand-Dad
+TTITLE3=The Big Corral
+TTITLE4=Pecos Bill
+TTITLE5=I Always Do
+TTITLE6=One Little Coyote
+TTITLE7=Come and Get It
+TTITLE8=The Cowboy's A-B-C
+TTITLE9=Face: The Music
+TTITLE10=Cody of the Pony Express
+TTITLE11=Prairie Lullabye
+EXTD=YEAR: 1991 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

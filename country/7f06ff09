@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16180
+#     31917
+#     46175
+#     59852
+#     74137
+#     85185
+#     102657
+#     119442
+# 
+# Disc length: 1793 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7f06ff09
+DTITLE=Various Artist - Mercury's Triple Play
+DYEAR=1900
+DGENRE=
+TTITLE0=Should've Been A Cowboy
+TTITLE1=Wish I Didn't Know Now
+TTITLE2=He Ain't Worth Missing
+TTITLE3=What Made You Say That
+TTITLE4=Still Under The Weather
+TTITLE5=Dance With The One That Brought You
+TTITLE6=Moonlight and Magnolias
+TTITLE7=Love's Not Made Of Steel
+TTITLE8=As Far As My Eyes Can See
+EXTD=
+EXTT0=Toby Keith\n
+EXTT1=Toby Keith\n
+EXTT2=Toby Keith\n
+EXTT3=Shania Twain\n
+EXTT4=Shania Twain\n
+EXTT5=Shania Twain\n
+EXTT6=John Brannen\n
+EXTT7=John Brannen\n
+EXTT8=John Brannen\n
+PLAYORDER=

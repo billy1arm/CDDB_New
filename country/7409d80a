@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#       150
+#       21912
+#       45457
+#       63845
+#       79225
+#       100375
+#       120175
+#       135350
+#       156975
+#       175087
+#
+# Disc length: 2522 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7409d80a
+DTITLE=K.T. Oslin - This Woman
+DYEAR=1900
+DGENRE=
+TTITLE0=This Woman
+TTITLE1=Money
+TTITLE2=Round The Clock Lovin'
+TTITLE3=Where Is A Woman To Go
+TTITLE4=Hold Me
+TTITLE5=Hey Bobby
+TTITLE6=She Don't Talk Like Us No More
+TTITLE7=Jealous
+TTITLE8=Didn't Expect It To Go Down This Way
+TTITLE9=Truly Blue
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

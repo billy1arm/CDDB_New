@@ -1,0 +1,49 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12108
+#	28612
+#	44373
+#	60813
+#	77935
+#	91228
+#	107876
+#	119306
+#	136573
+#	152338
+# Disc length: 2228 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b42PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=7508b20b
+DTITLE=The Handsome Family - In the Air
+DYEAR=2000
+DGENRE=Rock
+TTITLE0=Don't be scared
+TTITLE1=The Sad Milkman
+TTITLE2=In the Air
+TTITLE3=A Beautiful Thing
+TTITLE4=So Much Wine
+TTITLE5=Up Falling Rock Hill
+TTITLE6=Poor, Poor Lenore
+TTITLE7=When That Helicopter Comes
+TTITLE8=Grandmother Waits for you
+TTITLE9=Lie Down
+TTITLE10=My Beautiful Bride
+EXTD=\n\nYEAR: 2000  ID3G:  17\n\nYEAR: 2000  ID3G:  17
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

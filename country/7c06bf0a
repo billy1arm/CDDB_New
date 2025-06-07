@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	16422
+#	26842
+#	39435
+#	50147
+#	62055
+#	76810
+#	91580
+#	104317
+#	119730
+#
+# Disc length: 1729 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7c06bf0a
+DTITLE=Various Artist - The Best in Christian Country Music
+DYEAR=1900
+DGENRE=
+TTITLE0=Whispering Hope
+TTITLE1=There is Power in the Blood
+TTITLE2=Just as I am
+TTITLE3=Wings of a Dove
+TTITLE4=I saw the Light
+TTITLE5=Peace in the Valley
+TTITLE6=How Great Thou Art
+TTITLE7=An Uncloudy Day
+TTITLE8=Precious Memories
+TTITLE9=It is no Secret
+EXTD=
+EXTT0=Jim Ed Brown
+EXTT1=Don Gibson
+EXTT2=Jan Howard
+EXTT3=Ferlin Husky
+EXTT4=Bill Phillips
+EXTT5=Kenny Price
+EXTT6=Ray Price
+EXTT7=Jeanne Pruett
+EXTT8=The Jordanaires
+EXTT9=Margo Smith
+PLAYORDER=

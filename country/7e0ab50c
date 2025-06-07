@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	23355
+#	34535
+#	48000
+#	60200
+#	75705
+#	100232
+#	112947
+#	128905
+#	147952
+#	165100
+#	181282
+#
+# Disc length: 2743 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=7e0ab50c
+DTITLE=Pat Mendoza and Tom June - Storm Clouds
+DYEAR=1900
+DGENRE=Native American
+TTITLE0=Storm Clouds
+TTITLE1=The Distant Hills
+TTITLE2=Echo's Dream
+TTITLE3=Comes The Night Wind
+TTITLE4=Autumn's Gift
+TTITLE5=Beyond The Clouds (For Dona)
+TTITLE6=Autumn's Ghost
+TTITLE7=Eventide
+TTITLE8=Beneath The Cottonwoods
+TTITLE9=Across From African Shores (For Keith Gill)
+TTITLE10=The African-Lakota-Spanish Suite (The Warrior's Song)
+TTITLE11=Along The Oregon Coast
+EXTD=ID3G: 64
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

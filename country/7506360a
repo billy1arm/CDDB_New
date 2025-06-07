@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11615
+#	21860
+#	33670
+#	47795
+#	58727
+#	69785
+#	81102
+#	93337
+#	106777
+#
+# Disc length: 1592 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7506360a
+DTITLE=Charlie McCoy - Greatest Hits
+DYEAR=1982
+DGENRE=Country
+TTITLE0=Today I Started Lovin You Again
+TTITLE1=Wabash Cannonball
+TTITLE2=RElease Me
+TTITLE3=I Really Don't Want to Know
+TTITLE4=Silver Threads and Golden Needles
+TTITLE5=I'm So Lonesome I Could Cry
+TTITLE6=Boogie Woogie
+TTITLE7=I Can't Help It If I'm Still In Love with You
+TTITLE8=Shenandoah
+TTITLE9=Orange Blossom Special
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

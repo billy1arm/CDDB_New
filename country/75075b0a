@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18020
+#     28000
+#     43450
+#     56700
+#     71575
+#     84275
+#     100512
+#     113295
+#     124825
+# 
+# Disc length: 1885 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=75075b0a
+DTITLE=The Neilsons - The Neilsons
+DYEAR=1900
+DGENRE=
+TTITLE0=This Old Highway
+TTITLE1=Say Goodbye
+TTITLE2=We'll Hold On
+TTITLE3=The Man Upstairs
+TTITLE4=I've Gotta Know
+TTITLE5=There'd Be Something Wrong
+TTITLE6=Windows To The Past
+TTITLE7=Let's Dance
+TTITLE8=Don't Give Up On Me Darlin'
+TTITLE9=I Need Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	35290
+#	71468
+#	87244
+#	117678
+#	148109
+#	164599
+#	190414
+#
+# Disc length: 2934 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CdAid (MTCDDB.DLL V2003.12.21)
+#
+DISCID=740b7408
+DTITLE=Shania Twain - Party For Two (The Remixes)
+DYEAR=2004
+DGENRE=Country
+TTITLE0=Party For Two (Almighty Uptown Mix)
+TTITLE1=Party For Two (Almighty Uptown Dub)
+TTITLE2=Party For Two (Almighty Uptown Radio Edit)
+TTITLE3=Party For Two (Almighty Downtown Mix)
+TTITLE4=Party For Two (Almighty Downtown Dub)
+TTITLE5=Party For Two (Almighty Radio Edit)
+TTITLE6=Party For Two (Kenny Hayes Remix)
+TTITLE7=Party For Two (LMC Remix)
+EXTD=ID3G:   2 YEAR: 2004
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

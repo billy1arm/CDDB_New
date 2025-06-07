@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9787
+#	24365
+#	46374
+#	61987
+#	82423
+#	98599
+#	120219
+#	135313
+#	148889
+#
+# Disc length: 2177 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=76087f0a
+DTITLE=Sunset Pioneers - Music Memories Of The Cowboys
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Ride Cowboy Ride
+TTITLE1=Back In The Saddle
+TTITLE2=Red River Valley
+TTITLE3=Git Along Little Dogies
+TTITLE4=Home On The Range
+TTITLE5=Ghost Riders In The Sky
+TTITLE6=Tumbling Tumbleweeds
+TTITLE7=Skyball Paint
+TTITLE8=Amazing Grace
+TTITLE9=Sunset Farewell
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

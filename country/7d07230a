@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	14167
+# 	28165
+# 	41970
+# 	57067
+# 	71262
+# 	84815
+# 	97017
+# 	107812
+# 	122252
+#
+# Disc length: 1829 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7d07230a
+DTITLE=Rhonda Vincent - Written In The Stars
+DYEAR=1900
+DGENRE=
+TTITLE0=What Else Could I Do?
+TTITLE1=Written In The Stars
+TTITLE2=Ain't That Love
+TTITLE3=In Your Loneliness
+TTITLE4=Mama Knows The Highway
+TTITLE5=When Love Arrives
+TTITLE6=Passin' Of The Train
+TTITLE7=I Do My Cryin' At Night
+TTITLE8=I'm Not Over You
+TTITLE9=If You Were Me
+EXTD=
+EXTT0=Author:Curtis Wright/Robert Ellis Orrall
+EXTT1=Author:  Robert Ellis Orrall/Cathy Majeski
+EXTT2=Author:  Kostas
+EXTT3=Author:  Harley Allen
+EXTT4=Author:  Charles John Quarto/Pete Wasner
+EXTT5=Author:  Harley Allen
+EXTT6=Author:  Jim Rushing/Gene Nelson
+EXTT7=Author:  Lefty Frizzell/Sanger D. Schafer/A.L. Owens
+EXTT8=Author:  Carl Jackson/Melba Montgomery
+EXTT9=Author:  Tro Seals/Graham Lyle
+PLAYORDER=

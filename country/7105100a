@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13237
+#	22170
+#	32290
+#	40880
+#	51297
+#	61197
+#	69265
+#	75792
+#	87410
+#
+# Disc length: 1298 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7105100a
+DTITLE=Gene Autry - The Singing Cowboy Sings Christmas
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Rudolph The Red Nosed Reindeer
+TTITLE1=Jingle Bells
+TTITLE2=Here Comes Santa Claus
+TTITLE3=Frosty The Snowman
+TTITLE4=Buone Natale
+TTITLE5=Silver Bells
+TTITLE6=Thirty-Two Feet and Eight Little Tails
+TTITLE7=Silent Night
+TTITLE8=Up On The House Top
+TTITLE9=Santa Claus Is Coming To Town
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

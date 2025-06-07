@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14155
+#	28790
+#	42560
+#	61932
+#	79385
+#	95697
+#	114300
+#	129162
+#
+# Disc length: 1952 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=77079e09
+DTITLE=Marty Stuart - Marty Stuart
+DYEAR=1900
+DGENRE=
+TTITLE0=Arlene
+TTITLE1=All Because Of You
+TTITLE2=The Shape I'm In
+TTITLE3=Hometown Heroes
+TTITLE4=Honky Tonker
+TTITLE5=Do You Really Want My Lovin'
+TTITLE6=Maria [Love To See You Again]
+TTITLE7=Heart Of Stone
+TTITLE8=Beyond The Great Divide
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

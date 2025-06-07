@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 16422
+# 27270
+# 38432
+# 53852
+# 67410
+# 78767
+# 92572
+# 103160
+# 118180
+#
+# Disc length: 1700 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=7c06a20a
+DTITLE=Gene Watson - Little By Little
+DYEAR=1900
+DGENRE=
+TTITLE0=Little By Little
+TTITLE1=My Memories Of You
+TTITLE2=The Chesapeake Bay
+TTITLE3=Leavin's Been Comin' (For A Long, Long Time)
+TTITLE4=The Ballad Of Richard Lindsey
+TTITLE5=Forever Again
+TTITLE6=With Any Luck At All
+TTITLE7=Growing Apart
+TTITLE8=She Has No Memory Of Me
+TTITLE9=Drinkin' My Way Back Home
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

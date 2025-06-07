@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11262
+#     20367
+#     31207
+#     43730
+#     55510
+#     71945
+#     85352
+#     97517
+#     110710
+# 
+# Disc length: 1677 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=72068b0a
+DTITLE=Marty Robbins - American Originals
+DYEAR=1900
+DGENRE=
+TTITLE0=Singing The Blues
+TTITLE1=Ruby Ann
+TTITLE2=She Was Only Seventeen (He Was One Year More)
+TTITLE3=Tonight Carmen
+TTITLE4=The Girl With Gardenias In Her Hair
+TTITLE5=Adios Amigo
+TTITLE6=Girl From Spanish Town
+TTITLE7=I'll Go On Alone
+TTITLE8=Cowboy In The Continental Suit
+TTITLE9=Some Memories
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	225
+#	13373
+#	24513
+#	38258
+#	50185
+#	62930
+#	74408
+#	94245
+#	102828
+#
+# Disc length: 1611 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51
+#
+DISCID=7b064809
+DTITLE=Various Artist - Country Christmas
+DYEAR=1900
+DGENRE=
+TTITLE0=Rudolph The Red-Nosed Reindeer
+TTITLE1=Jingle Bells
+TTITLE2=The Little Drummer Boy
+TTITLE3=Santa Claus is Coming To Town
+TTITLE4=Peace In The Valley
+TTITLE5=Sleigh Bells
+TTITLE6=Amazing Grace
+TTITLE7=Day of Rejoicing
+TTITLE8=O Litle Town of Bethlehem/Silent Night/Joy to the World
+EXTD=
+EXTT0=Gene Autry
+EXTT1=Bobby Helms\n
+EXTT2=
+EXTT3=Harry Simeone Chorale\n
+EXTT4=Porter Wagoner
+EXTT5=Gene Autry\n
+EXTT6=Suzanne Prentice\n
+EXTT7=The Oak Ridge Boys\n
+EXTT8=Medley\n
+PLAYORDER=

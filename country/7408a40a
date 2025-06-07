@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  17493
+#  32915
+#  47217
+#  61060
+#  76222
+#  90588
+#  110362
+#  129089
+#  148578
+#
+# Disc length: 2214 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Advanced CD Ripper Pro 2.0
+#
+DISCID=7408a40a
+DTITLE=Gail Davies - Where is a Woman to Go
+DYEAR=1984
+DGENRE=Country
+TTITLE0=1 Audio Track
+TTITLE1=2 Audio Track
+TTITLE2=3 Audio Track
+TTITLE3=4 Audio Track
+TTITLE4=5 Audio Track
+TTITLE5=6 Audio Track
+TTITLE6=7 Audio Track
+TTITLE7=8 Audio Track
+TTITLE8=9 Audio Track
+TTITLE9=10 Audio Track
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

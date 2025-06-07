@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13288
+#     27165
+#     36500
+#     47140
+#     56783
+#     70150
+#     83525
+#     93805
+#     105450
+# 
+# Disc length: 1561 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7b06170a
+DTITLE=Freddy Fender - Freddy Fender Greatist Hits Volume 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Wated Days And Wasted Nights
+TTITLE1=Baby I Want To Love You
+TTITLE2=Running Back
+TTITLE3=A Man Can Cry
+TTITLE4=But I Do
+TTITLE5=Just  Because
+TTITLE6=Mean Woman Blues
+TTITLE7=Crazy Baby
+TTITLE8=I'm Leaving It All Up To You
+TTITLE9=Sweet Summer Day
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

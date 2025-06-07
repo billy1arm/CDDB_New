@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15000
+#	26352
+#	45130
+#	61392
+#	76795
+#	100485
+#	112547
+#	133512
+#	151942
+#	165600
+#	181302
+#
+# Disc length: 2643 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=740a510c
+DTITLE=Major Dundee Band - Continental Cowboy
+DYEAR=1900
+DGENRE=
+TTITLE0=Continental Cowboy
+TTITLE1=Sometimes love
+TTITLE2=It turned out to be you
+TTITLE3=Wochedun
+TTITLE4=Sweet little Liza
+TTITLE5=Me and Jack
+TTITLE6=Adieu Cherie
+TTITLE7=Said and done
+TTITLE8=Loretta
+TTITLE9=Good old country song
+TTITLE10=The tide is high
+TTITLE11=Come on Rosie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

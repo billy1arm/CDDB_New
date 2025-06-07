@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13825
+#	32242
+#	51652
+#	71785
+#	92159
+#	111582
+#	126817
+#
+# Disc length: 2008 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta3
+#
+DISCID=7a07d608
+DTITLE=38 Special - Special Delivery
+DYEAR=1978
+DGENRE=Rock
+TTITLE0=I'm A Fool for You
+TTITLE1=Turnin' To You
+TTITLE2=Travelin' Man
+TTITLE3=I Been A Mover
+TTITLE4=What Can I Do
+TTITLE5=Who's Been Messin'
+TTITLE6=Can't Keep A Good Man Down
+TTITLE7=Take Me Back
+EXTD=Produced by Dan Hartman\n YEAR: 1978
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

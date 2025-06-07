@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19488
+#	36422
+#	55544
+#	69108
+#	89304
+#	99610
+#	122024
+#	138754
+#	151495
+#
+# Disc length: 2342 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=7c09240a
+DTITLE=Mad Bull Country Band - Mad Bull Country Band
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Isso é Barretos
+TTITLE1=Mad Bull
+TTITLE2=Às Vezes
+TTITLE3=Quando Ela Tentava
+TTITLE4=Flores Mortas
+TTITLE5=Homem de Valor
+TTITLE6=Solidão
+TTITLE7=Could've Been Me
+TTITLE8=I'm in a Hurry
+TTITLE9=Friends in Low Places
+EXTD=YEAR: 2000  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

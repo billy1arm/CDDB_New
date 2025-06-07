@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     21962
+#     40605
+#     55542
+#     77362
+#     92575
+#     109254
+#     124527
+#     143232
+#     158540
+#     176295
+# 
+# Disc length: 2535 seconds
+# 
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+# 
+DISCID=7409e50b
+DTITLE=Linda Blaze - Next Move
+DYEAR=1900
+DGENRE=country
+TTITLE0=Our Town
+TTITLE1=Love Will Find Its Own Time
+TTITLE2=In Love
+TTITLE3=Alone Once More
+TTITLE4=Raging Heart
+TTITLE5=Tennessee
+TTITLE6=Pain In My Heart
+TTITLE7=These Things
+TTITLE8=Send Me No Love
+TTITLE9=Hollywood Cowboy
+TTITLE10=Next Move
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

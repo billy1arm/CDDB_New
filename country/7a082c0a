@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20165
+#     34555
+#     50345
+#     66287
+#     82845
+#     97537
+#     113482
+#     126575
+#     143887
+# 
+# Disc length: 2094 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7a082c0a
+DTITLE=T. G. Sheppard - Livin' On The Edge
+DYEAR=1900
+DGENRE=
+TTITLE0=Doncha
+TTITLE1=Crazy In The Heart
+TTITLE2=Like A Time Bomb
+TTITLE3=Fooled Around ANd Fell In Love
+TTITLE4=Love It Out On Me
+TTITLE5=In Over My Heart
+TTITLE6=You're Mine Tonight
+TTITLE7=A Great Work Of Art
+TTITLE8=Hunger For You
+TTITLE9=Banging My Heart Aganist The Wall
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

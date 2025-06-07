@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	18230
+#	33015
+#	42755
+#	60537
+#	75322
+#	91845
+#	103935
+#	120552
+#	133450
+#	151567
+#
+# Disc length: 2237 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDmax 1.4
+#
+DISCID=7708bb0b
+DTITLE=Matt King - Five O'Clock Hero
+DYEAR=1900
+DGENRE=
+TTITLE0=A Woman's Tears
+TTITLE1=Five O'Clock Hero
+TTITLE2=I Wrote The Book
+TTITLE3=A Woman Like You
+TTITLE4=Pray For Hardwood
+TTITLE5=September Rain
+TTITLE6=Back To The River
+TTITLE7=A Perfect Mistake
+TTITLE8=Stompin' Ground
+TTITLE9=Destiny
+TTITLE10=Roots
+EXTD=
+EXTT0=4:01
+EXTT1=3:17
+EXTT2=2:08
+EXTT3=3:57
+EXTT4=3:15
+EXTT5=3:42
+EXTT6=2:41
+EXTT7=3:41
+EXTT8=2:51
+EXTT9=4:00
+EXTT10=
+PLAYORDER=

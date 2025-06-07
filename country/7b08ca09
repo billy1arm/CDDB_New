@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14948
+#	31448
+#	45863
+#	63586
+#	87849
+#	104199
+#	118517
+#	135550
+#
+# Disc length: 2252 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=7b08ca09
+DTITLE=The Charlie Daniels Band - Million Mile Reflections
+DYEAR=1900
+DGENRE=
+TTITLE0=Passing Lane
+TTITLE1=Blue Star
+TTITLE2=Jitterburg
+TTITLE3=Behind Your Eyes
+TTITLE4=Reflections
+TTITLE5=The Devil Went Down To Georgia
+TTITLE6=Mississippi
+TTITLE7=Blind Man 
+TTITLE8=Rainbow Ride
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

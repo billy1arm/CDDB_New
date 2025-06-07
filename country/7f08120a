@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	17755
+#	28100
+#	42346
+#	56528
+#	73703
+#	91097
+#	106848
+#	119327
+#	138275
+#
+# Disc length: 2068 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=7f08120a
+DTITLE=Tammy K - Nothing Lasts Forever
+DYEAR=1900
+DGENRE=
+TTITLE0=Nothing Lasts Forever
+TTITLE1=We're Gonna Do It Right This Time
+TTITLE2=Am I Really Alone
+TTITLE3=That's What Makes Me Stay
+TTITLE4=Too Soon To Tell
+TTITLE5=You Gotta Give a Little
+TTITLE6=I Guess I was Dreamin'
+TTITLE7=When Two Hearts Become One
+TTITLE8=Till It's Gone
+TTITLE9=How Will I Survive
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

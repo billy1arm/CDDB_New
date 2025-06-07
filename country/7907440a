@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	16660
+#	32532
+#	43650
+#	57277
+#	70487
+#	82630
+#	98865
+#	113107
+#	124432
+#
+# Disc length: 1862 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=7907440a
+DTITLE=Slim Whitman - Precious Memories
+DYEAR=1900
+DGENRE=
+TTITLE0=Precious Memories
+TTITLE1=Whispering Hope
+TTITLE2=Everybody Needs Someone To Care
+TTITLE3=I Know Who Holds Tomorrow
+TTITLE4=Sunrise
+TTITLE5=I'll Fly Away
+TTITLE6=Who At My Door Is Standing
+TTITLE7=Beyond The Sunset
+TTITLE8=Have Thine Own Way Lord
+TTITLE9=Suppertime
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

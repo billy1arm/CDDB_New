@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16735
+#	33545
+#	48800
+#	61830
+#	80505
+#	91935
+#	106275
+#	125082
+#	142105
+#
+# Disc length: 2158 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.18
+#
+DISCID=7d086c0a
+DTITLE=Righteous Brothers - Unchained Melody - Best Of Righteous Brothers
+DYEAR=1990
+DGENRE=Rock
+TTITLE0=Unchained Melody (Re-recorded version)
+TTITLE1=You've Lost That Lovin' Feelin'
+TTITLE2=(You're My) Soul And Inspiration
+TTITLE3=Ebbtide
+TTITLE4=Just Once In My Life
+TTITLE5=Little Latin Lupe Lu
+TTITLE6=My Babe
+TTITLE7=Try To Find Another Woman
+TTITLE8=American Rock And Roll
+TTITLE9=Georgia On My Mind
+EXTD=0\n\n\n YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

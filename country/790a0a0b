@@ -1,0 +1,49 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16787
+#	33951
+#	54767
+#	64572
+#	84765
+#	97831
+#	119122
+#	134743
+#	158594
+#	175010
+#
+# Disc length: 2572 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=790a0a0b
+DTITLE=Green Line 6 - GL6 CD 1
+DYEAR=2019
+DGENRE=Country
+TTITLE0=101-p12-radio show
+TTITLE1=102-p17-Caught in the Crowd
+TTITLE2=103-p33-Robot Lawyer 1
+TTITLE3=104-p33-Robot Lawyer 2
+TTITLE4=105-p37-weaponisation of mathematics
+TTITLE5=106-p47-digital art
+TTITLE6=107-p55-interview
+TTITLE7=108-p58-activist voices 1
+TTITLE8=109-p60-MLK Bio
+TTITLE9=110-p61-activist voices 2
+TTITLE10=111-p61-interview with jason roberts
+EXTD=YEAR: 2019
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

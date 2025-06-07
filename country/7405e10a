@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  10202
+#  23110
+#  37870
+#  49427
+#  61285
+#  70727
+#  82830
+#  91835
+#  102530
+#
+# Disc length: 1507 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.14
+#
+DISCID=7405e10a
+DTITLE=Johnny Horton - American Originals
+DYEAR=1900
+DGENRE=
+TTITLE0=Honky Tonk Man
+TTITLE1=North To Alaska
+TTITLE2=Sink The Bismark
+TTITLE3=The Battle Of New Orleans
+TTITLE4=When It's Springtime In Alaska (It's Forty Below)
+TTITLE5=I'm Comming Home
+TTITLE6=Sleepy-Eyed John
+TTITLE7=I'm A One Woman Man
+TTITLE8=Johnny Reb
+TTITLE9=I Got A Hole In My Pirogue
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

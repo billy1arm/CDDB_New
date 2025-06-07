@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15300
+#     31780
+#     50360
+#     64670
+#     75442
+#     90930
+#     102887
+#     122497
+#     135687
+#     148080
+# 
+# Disc length: 2144 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7b085e0b
+DTITLE=Waylon Jennings - Ol' Waylon
+DYEAR=1900
+DGENRE=
+TTITLE0=Lukenbach,Texas
+TTITLE1=If You See Me Getting Smaller
+TTITLE2=Lucille
+TTITLE3=SweetCaroline
+TTITLE4=I Think I'm Gonna Kill Myself
+TTITLE5=Belle Of The Ball
+TTITLE6=Medley of Elvis Hits(That's All Right/My Baby Left Me
+TTITLE7=Till I Gain Control Again
+TTITLE8=Brand New Goodbye Song
+TTITLE9=Satin Sheets
+TTITLE10=This Is Getting Funny(But There Ain't Nobody Laughing)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

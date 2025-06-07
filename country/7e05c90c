@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9190
+#	17290
+#	26295
+#	36565
+#	46640
+#	57712
+#	67767
+#	76480
+#	85680
+#	92582
+#	102395
+#
+# Disc length: 1483 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=7e05c90c
+DTITLE=Curtis McPeake - Dueling Banjos, The
+DYEAR=1900
+DGENRE=
+TTITLE0=Dueling Banjos
+TTITLE1=Worried Man
+TTITLE2=Brassy Bluegrass
+TTITLE3=Home Sweet Home
+TTITLE4=Fireball
+TTITLE5=Sally Goodin'
+TTITLE6=Doodlin' Banjos(Part 1)
+TTITLE7=Red Dress
+TTITLE8=Black Mountain Rag
+TTITLE9=Old Joe Clark
+TTITLE10=Ruby
+TTITLE11=Doodlin' Banjos(Part 2)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

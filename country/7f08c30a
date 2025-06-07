@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	16300
+#	34165
+#	46912
+#	70827
+#	83792
+#	98687
+#	116100
+#	134150
+#	153277
+#
+# Disc length: 2245 seconds
+#
+# Revision: 7
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=7f08c30a
+DTITLE=The Charlie Daniels Band - A Decade Of Hits
+DYEAR=1983
+DGENRE=Country
+TTITLE0=The Devil Went Down To Georgia
+TTITLE1=The South's Gonna Do It Again
+TTITLE2=Stroker's Theme
+TTITLE3=Uneasy Rider
+TTITLE4=Let It Roll
+TTITLE5=In America
+TTITLE6=Still In Saigon
+TTITLE7=Long Haired Country Boy
+TTITLE8=The Legend Of Wooley Swamp
+TTITLE9=Everytime I See Him
+EXTD=YEAR: 1983 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

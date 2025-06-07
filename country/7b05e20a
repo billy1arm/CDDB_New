@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 182
+# 13645
+# 24742
+# 34915
+# 45220
+# 57450
+# 69542
+# 80010
+# 90507
+# 101717
+#
+# Disc length: 1508 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=7b05e20a
+DTITLE=David Houston - Best Of David Houston
+DYEAR=1900
+DGENRE=
+TTITLE0=Almost Persuaded
+TTITLE1=Baby Baby (I Know You're A Lady)
+TTITLE2=You Mean The World To Me
+TTITLE3=With One Exception
+TTITLE4=Mountain Of Love
+TTITLE5=Already It's Heaven
+TTITLE6=Have A Little Faith
+TTITLE7=A Woman Always Knows
+TTITLE8=Livin' In A House Full Of Love
+TTITLE9=A Loser's Cathedral
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

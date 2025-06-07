@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14283
+#	31108
+#	46749
+#	64467
+#	78225
+#	94961
+#	110409
+#	125045
+#	138117
+#
+# Disc length: 2048 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7d07fe0a
+DTITLE=Tracie Lynn - Is Anybody Listening
+DYEAR=1900
+DGENRE=
+TTITLE0=A Man Like You
+TTITLE1=Don't Blame It On The Whiskey
+TTITLE2=Is Anybody Listening
+TTITLE3=The Silence
+TTITLE4=Throw Me A Loveline
+TTITLE5=I Know Your Lying (Cuz Your Lips Are Moving)
+TTITLE6=I Don't Need You
+TTITLE7=Color Me Blue
+TTITLE8=Someone To Forget
+TTITLE9=Why Can't Love Find Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

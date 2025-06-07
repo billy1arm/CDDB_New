@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     11652
+#     23940
+#     33610
+#     44737
+#     58585
+#     67810
+#     80425
+#     91692
+#     106195
+# 
+# Disc length: 1554 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7706100a
+DTITLE=Various Artist - Country Music Classics - Volume IX Mid 60's
+DYEAR=1900
+DGENRE=
+TTITLE0=Ribbon Of Darkness
+TTITLE1=Understand Your Man
+TTITLE2=The First Thing Ev'ry Morning (And The Last Thing Ev'ry Night)
+TTITLE3=May The Bird Of Paradise Fly Up Your Nose
+TTITLE4=Saginaw, Michigan
+TTITLE5=Tippy Toeing
+TTITLE6=B.J. The D.J.
+TTITLE7=Burning Memories
+TTITLE8=Don't Touch Me
+TTITLE9=Flowers On The Wall
+EXTD=
+EXTT0=Marty Robbins
+EXTT1=Johnny Cash
+EXTT2=Jimmy Dean
+EXTT3=Little Jimmy Dickens
+EXTT4=Lefty Frizzell
+EXTT5=The Harden Trio
+EXTT6=Stonewall Jackson
+EXTT7=Ray Price
+EXTT8=Jeannie Seely
+EXTT9=Statler Brothers
+PLAYORDER=

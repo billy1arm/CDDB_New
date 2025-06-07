@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16175
+#     31587
+#     46382
+#     62697
+#     82840
+#     102112
+#     118305
+#     131467
+#     145832
+# 
+# Disc length: 2164 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7608720a
+DTITLE=T. G. Sheppard - Biggest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Fooled Around and Fell in Love
+TTITLE1=You're My First Lady
+TTITLE2=In Over My Heart
+TTITLE3=Half Past Forever (Till I'm Blue in the Heart)
+TTITLE4=Doncha
+TTITLE5=One For the Money
+TTITLE6=Strong Heart
+TTITLE7=A Great Work of Art
+TTITLE8=Crazy in the Heart
+TTITLE9=Changes
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

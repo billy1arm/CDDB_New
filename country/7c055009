@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10607
+#	20703
+#	28890
+#	37475
+#	54278
+#	69669
+#	80865
+#	94407
+#
+# Disc length: 1362 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7c055009
+DTITLE=Whiskey and Co - s/t
+DYEAR=2003
+DGENRE=Country
+TTITLE0=High Life
+TTITLE1=Southbound Train
+TTITLE2=Barroom Women
+TTITLE3=Catch My Fall
+TTITLE4=Pockets Full of Dust
+TTITLE5=Empty Bottle
+TTITLE6=Pills (Crushed Up)
+TTITLE7=Screen Door
+TTITLE8=High Tonight
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

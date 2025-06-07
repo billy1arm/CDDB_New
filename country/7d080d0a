@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13972
+#     30957
+#     47027
+#     60514
+#     76337
+#     94587
+#     108250
+#     122937
+#     138725
+# 
+# Disc length: 2063 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7d080d0a
+DTITLE=Rick Tippe - Should'a Seen her comin'
+DYEAR=1900
+DGENRE=
+TTITLE0=Should'a Seen Her Comin'
+TTITLE1=Rescue Me
+TTITLE2=Two Broken Hearted Fools
+TTITLE3=The Wheel Of Love
+TTITLE4=Bad Heart Day
+TTITLE5=Copper Prairie Sky
+TTITLE6=She Could Have It All
+TTITLE7=Stetson Moon
+TTITLE8=Love Don't Get Better
+TTITLE9=Fields of Forever
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=Is A Life Timeride\n
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

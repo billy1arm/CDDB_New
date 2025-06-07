@@ -1,0 +1,45 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    150
+#    18320
+#    33147
+#    50977
+#    66615
+#    84745
+#    100442
+#    115554
+#    130525
+#
+# Disc length: 2013 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.3.9a  (wjohn@fix.net)
+#
+DISCID=7607db09
+DTITLE=Distant Thunder, The - 
+DTITLE=You're The Reason
+DYEAR=1900
+DGENRE=
+TTITLE0=Forever
+TTITLE1=You're The Reason
+TTITLE2=Country Song
+TTITLE3=Feeling Blue Feeling
+TTITLE4=Dream Of You
+TTITLE5=Goodbye
+TTITLE6=City Lights
+TTITLE7=Someone Just Like You
+TTITLE8=Father's Eyes
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

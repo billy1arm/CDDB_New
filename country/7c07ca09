@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15902
+#	32934
+#	47668
+#	64380
+#	79252
+#	96204
+#	112276
+#	132508
+#
+# Disc length: 1996 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7c07ca09
+DTITLE=Edwards and Norton - Old and Rusty
+DYEAR=2001
+DGENRE=Country
+TTITLE0=I Live Hard
+TTITLE1=Gunfighter
+TTITLE2=Sailin' Away
+TTITLE3=Bad Luck Day
+TTITLE4=Heart on the Line
+TTITLE5=No Man's Land
+TTITLE6=B-Plus Man
+TTITLE7=Pockey Way
+TTITLE8=Vegas Buffet
+EXTD=YEAR: 2001 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

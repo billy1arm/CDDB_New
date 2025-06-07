@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16209
+#     44870
+#     61600
+#     84059
+#     102778
+#     120170
+#     137710
+#     153061
+#     171958
+#     205109
+# 
+# Disc length: 2982 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7b0ba40b
+DTITLE=Jerry Jeff Walker - Scamp
+DYEAR=1900
+DGENRE=
+TTITLE0=Down in Texas
+TTITLE1=Life on the Road
+TTITLE2=Love Changes Everything
+TTITLE3=Manny's Hat Song
+TTITLE4=He Was a Friend of Mine
+TTITLE5=Higher Ground
+TTITLE6=Bad Girl
+TTITLE7=Life's Too Short
+TTITLE8=Long Old Dusty Road
+TTITLE9=Let 'Er Go
+TTITLE10=Last Song
+EXTD=\nURL: http://www.io.com/~ccamden/jjw/ "Jerry Jeff Walker"
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

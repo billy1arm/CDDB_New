@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13320
+#     28610
+#     40345
+#     55290
+#     70572
+#     87832
+#     104252
+#     119370
+#     135830
+# 
+# Disc length: 1995 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7c07c90a
+DTITLE=T. G. Sheppard - Crossroads
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Say It With Diamonds (Say It With Love)
+TTITLE1=Nothing To It
+TTITLE2=You Still Do
+TTITLE3=I Know All About Her
+TTITLE4=The Invitation
+TTITLE5=She Didn't Break My Heart
+TTITLE6=While I'm Here
+TTITLE7=Just As Lng
+TTITLE8=Something Worth Waiting For
+TTITLE9=There's A Lot Of Heart In This Ol' Hear Of Mine!
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

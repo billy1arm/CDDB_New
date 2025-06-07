@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	15515
+#	35582
+#	48932
+#	65810
+#	87477
+#	100885
+#	122380
+#	138475
+#	154635
+#
+# Disc length: 2283 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7e08e90a
+DTITLE=Sammy Kershaw - Covers The Hits
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Third Rate Romance
+TTITLE1=More Than I Can Say
+TTITLE2=If I Fell
+TTITLE3=Chevy Van
+TTITLE4=Fire And Rain
+TTITLE5=Memphis, Tennessee
+TTITLE6=Angie
+TTITLE7=I Got A Name
+TTITLE8=I Know A Little
+TTITLE9=Little Bit More
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

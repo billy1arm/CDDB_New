@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15292
+#	38900
+#	49510
+#	61422
+#	89870
+#	116962
+#	130580
+#	149617
+#
+# Disc length: 2250 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL1
+#
+DISCID=7d08c809
+DTITLE=Peter Rowan
+DYEAR=1900
+DGENRE=
+TTITLE0=Outlaw Love
+TTITLE1=Break My Heart Again
+TTITLE2=A Woman In Love
+TTITLE3=When I Was A Cowboy
+TTITLE4=Land Of The Navajo
+TTITLE5=The Free Mexican Airforce
+TTITLE6=Panama Red
+TTITLE7=Midnite Moonlite
+TTITLE8=The Gypsy King's Farewell
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

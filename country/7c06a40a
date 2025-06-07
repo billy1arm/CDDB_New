@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11932
+#	24487
+#	42072
+#	54925
+#	67337
+#	78930
+#	92160
+#	101610
+#	115207
+#
+# Disc length: 1702 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=7c06a40a
+DTITLE=Tammy Wynette - Collector's Edition
+DYEAR=1998
+DGENRE=country
+TTITLE0=There's No Use Hanging On
+TTITLE1=Greener Than The Grass (We Laid On)
+TTITLE2=Easy Come, Easy Go
+TTITLE3=What's Your Mama's Name, Child
+TTITLE4=He Loves Me All The Way
+TTITLE5=I Don't Wanna Play House
+TTITLE6=You Can Be Replaced
+TTITLE7=Your Good Girl's Gonna Go Bad
+TTITLE8=D-I-V-O-R-C-E
+TTITLE9=Stand By Your Man
+EXTD=YEAR: 1998 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

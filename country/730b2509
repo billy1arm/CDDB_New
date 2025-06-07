@@ -1,0 +1,43 @@
+# xmcd database file
+#
+# Track frame offsets:
+# 150
+# 35564
+# 43517
+# 52467
+# 59413
+# 82171
+# 107042
+# 127633
+# 165130
+#
+# Disc length: 2855 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CD-Runner 2007.01
+#
+DISCID=730b2509
+DTITLE=Yonder Mountain String Band - 2005-06-11 Bonnaroo
+DYEAR=1900
+DGENRE=Bluegrass
+TTITLE0=01_My_Gal
+TTITLE1=02_Troubled_Mind
+TTITLE2=03_Twenty_Eyes
+TTITLE3=04_Troubled_Mind
+TTITLE4=05_Just_the_Same
+TTITLE5=06_Finally_Saw_The_Light
+TTITLE6=07_Red_Bird
+TTITLE7=08_Dear_Prudence
+TTITLE8=09_No_Expectations
+EXTD=
+EXTT0=FEDDYM105FL15Kd2
+EXTT1=FEDDYM105FL15Kd2
+EXTT2=FEDDYM105FL15Kd2
+EXTT3=FEDDYM105FL15Kd2
+EXTT4=FEDDYM105FL15Kd2
+EXTT5=FEDDYM105FL15Kd2
+EXTT6=FEDDYM105FL15Kd2
+EXTT7=FEDDYM105FL15Kd2
+EXTT8=FEDDYM105FL15Kd2
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     12807
+#     28557
+#     42930
+#     53632
+#     68357
+#     82892
+#     97057
+#     111590
+#     123847
+# 
+# Disc length: 1870 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=73074c0a
+DTITLE=Tammy Wynette - Best Loved Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=We're Strangers Again (w Randy Travis)
+TTITLE1=The Wonders You Perform
+TTITLE2=Crying In The Rain
+TTITLE3=I Still Believe In Fairy Tales
+TTITLE4=He Was There (When I Needed You)
+TTITLE5=Alive And Well
+TTITLE6=Starting Over
+TTITLE7=Unwed Fathers
+TTITLE8=Another Chance
+TTITLE9=Sometimes When We Touch (w Mark Gray)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

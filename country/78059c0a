@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  10512
+#  20817
+#  31185
+#  40635
+#  51540
+#  63252
+#  74955
+#  87072
+#  99035
+#
+# Disc length: 1438 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.10
+#
+DISCID=78059c0a
+DTITLE=Bob Wills - Bob Wills and The Texas Cowboys: San Antonio Rose And Ot
+DTITLE=her Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=San Antonio Rose
+TTITLE1=Stay All Night (Stay a Little Longer)
+TTITLE2=A Maiden's Prayer
+TTITLE3=Bubbles in My Beer
+TTITLE4=It Makes No Difference Now
+TTITLE5=Take Me Back to Tulsa
+TTITLE6=Time Changes Everything
+TTITLE7=Heart to Heart talk
+TTITLE8=Right or Wrong
+TTITLE9=Roly Poly
+EXTD=
+EXTT0=Bob Wills
+EXTT1=Bob Wills
+EXTT2=Bob Wills
+EXTT3=Bob Wills
+EXTT4=Bob Wills
+EXTT5=Bob Wills
+EXTT6=Bob Wills
+EXTT7=Bob Wills
+EXTT8=Bob Wills
+EXTT9=Bob Wills
+PLAYORDER=

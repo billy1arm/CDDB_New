@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14107
+#	30143
+#	48403
+#	64515
+#	84172
+#	103840
+#	119126
+#	133904
+#
+# Disc length: 1984 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7607be09
+DTITLE=Smokin' Gunz - Cowboy Chronic
+DYEAR=2003
+DGENRE=Country
+TTITLE0=come back home
+TTITLE1=my lady
+TTITLE2=against the wall
+TTITLE3=honky tonk nights
+TTITLE4=lonely man
+TTITLE5=diana
+TTITLE6=anywhere but here
+TTITLE7=something more
+TTITLE8=one more time
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

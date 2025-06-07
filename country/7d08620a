@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	16678
+# 	33280
+# 	46870
+# 	65123
+# 	80803
+# 	95433
+# 	111205
+# 	127985
+# 	145038
+#
+# Disc length: 2148 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7d08620a
+DTITLE=Shenandoah - Coming Home
+DYEAR=1900
+DGENRE=
+TTITLE0=Next To You, Next To Me
+TTITLE1=She's All I've Got Going
+TTITLE2=Puttin' New Roots Down
+TTITLE3=Sunday In The South
+TTITLE4=She's A Natural
+TTITLE5=See If I Care
+TTITLE6=She Makes The Coming Home (Worth Being Gone)
+TTITLE7=Changes
+TTITLE8=Daddy's Little Man
+TTITLE9=Ghost In This House
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

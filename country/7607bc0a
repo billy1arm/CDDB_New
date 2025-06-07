@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 182
+# 13315
+# 26755
+# 43122
+# 57072
+# 72045
+# 82577
+# 98037
+# 111370
+# 129880
+#
+# Disc length: 1982 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=7607bc0a
+DTITLE=Tom Jones - Tom Jones Greatest Songs
+DYEAR=1900
+DGENRE=
+TTITLE0=She's A Lady
+TTITLE1=I (Who Have Nothing)
+TTITLE2=Say You'll Stay Until Tomorrow
+TTITLE3=Letter To Luciille
+TTITLE4=Daughter Of Darkness
+TTITLE5=Till
+TTITLE6=Puppet Man
+TTITLE7=Resurrection Shuffle
+TTITLE8=Lean On Me
+TTITLE9=My Way
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

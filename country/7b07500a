@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13762
+#	26972
+#	40665
+#	52752
+#	65957
+#	85112
+#	99470
+#	113090
+#	127897
+#
+# Disc length: 1874 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7b07500a
+DTITLE=Charley Pride - Charley Pride:Special Collectors Edition
+DTITLE=Vol 3
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm So Afraid Of Losing You Again
+TTITLE1=She's Too Good To Be True
+TTITLE2=All I Have To Offer You Is Me
+TTITLE3=She's Just An Old Love Turned Memory
+TTITLE4=I'll Be Leaving Alone
+TTITLE5=Where Do I Put Her Memory
+TTITLE6=Never Been So Loved  ( In All My Life )
+TTITLE7=Mountain Of Love
+TTITLE8=For Today ( Hal Ketchum )
+TTITLE9=Crystal Chandeliers
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

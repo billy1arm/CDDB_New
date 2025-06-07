@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11596
+#	24943
+#	35588
+#	47264
+#	57302
+#	73018
+#	83586
+#	99541
+#	114457
+#
+# Disc length: 1756 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7206da0a
+DTITLE=Kenny Rogers - Ticket to Nowhere
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Me and Bobby McGee
+TTITLE1=Sleep Comes Easy
+TTITLE2=She Even Woke Up To Say Goodbye
+TTITLE3=What Am I Gonna Do
+TTITLE4=Where Does Rosie Go
+TTITLE5=The Way It Used To Be
+TTITLE6=Ticket To Nowhere
+TTITLE7=Tulsa Turnaround
+TTITLE8=Tell It All Brother
+TTITLE9=Something's Burning
+EXTD=YEAR: 2001 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

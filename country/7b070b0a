@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     16667
+#     27280
+#     41667
+#     55400
+#     69972
+#     79480
+#     89837
+#     104362
+#     121537
+# 
+# Disc length: 1805 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7b070b0a
+DTITLE=Willie Nelson - Yesterday's Wine
+DYEAR=1900
+DGENRE=
+TTITLE0=Intro - Medley - Where's the Show - Let Me Be A Man
+TTITLE1=In God's Eyes
+TTITLE2=Family Bible
+TTITLE3=It's Not For Me To Understand
+TTITLE4=Medley - These Are Difficult Times - Remember the Good Times
+TTITLE5=Summer of Roses
+TTITLE6=December Day
+TTITLE7=Yesterday's Wine
+TTITLE8=Me and Paul
+TTITLE9=Goin' Home
+EXTD=\nURL: http://www.justicerecords.com/ "JUSTICE RECORDS' HOME"
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

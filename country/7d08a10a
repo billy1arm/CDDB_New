@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	18895
+# 	44736
+# 	60181
+# 	73126
+# 	92654
+# 	105431
+# 	120928
+# 	138334
+# 	155115
+#
+# Disc length: 2211 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7d08a10a
+DTITLE=Southern Edge - Southern Edge
+DYEAR=1900
+DGENRE=
+TTITLE0=Let Me Hear It From You
+TTITLE1=Southern Edge
+TTITLE2=The Promise
+TTITLE3=Cowboy Thing
+TTITLE4=Don't Take Her For Granted
+TTITLE5=Real Hard Ride
+TTITLE6=Honkey Tonk Heaven
+TTITLE7=Too Hot To Handle
+TTITLE8=Headin' For A Heartache
+TTITLE9=Never Knew Lonely
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

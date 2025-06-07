@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11370
+#	22657
+#	34050
+#	45235
+#	57830
+#	75290
+#	90025
+#	101037
+#	118005
+#	132697
+#
+# Disc length: 1970 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.07
+#
+DISCID=7007b00b
+DTITLE=Larry Lawrence Statland - Faithful Street
+DYEAR=1900
+DGENRE=
+TTITLE0=Faithful Street
+TTITLE1=Interstate Blues
+TTITLE2=Lonesome For The Country
+TTITLE3=One More Hour
+TTITLE4=Chance At Love
+TTITLE5=My Arms Again
+TTITLE6=Legion Hall Waltz
+TTITLE7=Lipstick Traces
+TTITLE8=The Road Away from Love
+TTITLE9=Central Time
+TTITLE10=Greyhound Afternoon
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

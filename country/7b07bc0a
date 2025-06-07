@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19052
+#	33100
+#	46257
+#	58115
+#	73482
+#	90970
+#	108772
+#	123047
+#	134345
+#
+# Disc length: 1982 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=7b07bc0a
+DTITLE=Earl Thomas Conley - Lassoes n Spurs
+DYEAR=1900
+DGENRE=
+TTITLE0=Somewhere Between Right And Wrong
+TTITLE1=Heavenly Bodies
+TTITLE2=Changes Of Love
+TTITLE3=I Have Loved You Girl (But Not Like This Before)
+TTITLE4=Tell Me Why
+TTITLE5=As Low As You Can Go
+TTITLE6=Angel In Disguise
+TTITLE7=Home So Fine
+TTITLE8=This Time I've Hurt Her More (Than She Loves Me)
+TTITLE9=Silent Treatment
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

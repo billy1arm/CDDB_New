@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28160
+#	49688
+#	73083
+#	94063
+#	123061
+#	143070
+#	157749
+#	176740
+#
+# Disc length: 2528 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7109de09
+DTITLE=Suki and Ding - Suki and Ding Present Children's favorite songs
+DYEAR=2003
+DGENRE=Country
+TTITLE0=Torah
+TTITLE1=Pesach
+TTITLE2=Midos
+TTITLE3=Brachos
+TTITLE4=Around the Year
+TTITLE5=Good Morning
+TTITLE6=Kosher
+TTITLE7=Shabbos
+TTITLE8=Loshon Horah
+EXTD=YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13281
+#	31220
+#	40266
+#	52554
+#	67989
+#	80389
+#	91090
+#	108415
+#	116873
+# Disc length: 1671 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=7206850a
+DTITLE=Various Artist - Legends of Southern Gospel - CD1
+DYEAR=1900
+DGENRE=
+TTITLE0=The Old Country Church - The Oak Ridge Boys
+TTITLE1=Amazing Grace - J.D. Sumner and The Stamps
+TTITLE2=My Soul Belongs To Jesus - The LeFevres
+TTITLE3=How Great Thou Art - Hovie Lister and The Statesmen
+TTITLE4=Release Me From My Sin - The Blackwood Brothers
+TTITLE5=When I Lay My Burdens Down - The Oak Ridge Boys
+TTITLE6=My God Won't Let Me Down - The Kingsmen
+TTITLE7=Walk With Me - The Masters Five
+TTITLE8=I'll Live In Glory - The Speers
+TTITLE9=Goodbye Devil - Wendy Bagwell and The Sunlighters
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

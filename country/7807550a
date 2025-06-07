@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17010
+#	32480
+#	46067
+#	58672
+#	69972
+#	87720
+#	101097
+#	112850
+#	130020
+#
+# Disc length: 1879 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7807550a
+DTITLE=Clay Blaker And The Texas Honky-Tonk Band - Layin' It Al
+DTITLE=l On The Line
+DYEAR=1900
+DGENRE=
+TTITLE0=She Lays It All On The Line
+TTITLE1=I Can't Convince My Heart
+TTITLE2=Forever Be Mine
+TTITLE3=Long Gone Mama
+TTITLE4=Touch Me
+TTITLE5=The Dark Side Of Town
+TTITLE6=King Of Fools
+TTITLE7=These Lonely Hands Of Mine
+TTITLE8=I'm Never Gonna Let You Go
+TTITLE9=If You Can't Take The Heat
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

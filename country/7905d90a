@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    150
+#    12572
+#    22842
+#    32772
+#    43705
+#    55217
+#    66612
+#    78165
+#    87657
+#    99135
+#
+# Disc length: 1499 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.4.1  (wjohn@fix.net)
+#
+DISCID=7905d90a
+DTITLE=Willie Nelson - 
+DTITLE=Country Willie
+DYEAR=1900
+DGENRE=
+TTITLE0=Country Willie
+TTITLE1=There'll Be No Teardrops Tonight
+TTITLE2=Right Or Wrong
+TTITLE3=I'll Walk Alone
+TTITLE4=Take Me As I Am (Or Let Me Go)
+TTITLE5=Night Life
+TTITLE6=Seasons Of My Heart
+TTITLE7=Columbus Stockade Blues
+TTITLE8=There Goes A Man
+TTITLE9=The Last Letter
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

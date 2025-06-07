@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  12637
+#  25007
+#  38197
+#  48664
+#  62460
+#  74430
+#  85687
+#  96915
+#  107670
+#
+# Disc length: 1601 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.14
+#
+DISCID=7e063f0a
+DTITLE=The Browns - The Browns Family Bible
+DYEAR=1900
+DGENRE=
+TTITLE0=Amazing Grace
+TTITLE1=Uncloudy Day
+TTITLE2=Mansion Over The Hilltop
+TTITLE3=I'll Fly Away
+TTITLE4=Family Bible
+TTITLE5=He'll Set Your Fields On Fire
+TTITLE6=Life's Railway To Heaven
+TTITLE7=I'll Meet You In The Morning
+TTITLE8=The Family Who Prays
+TTITLE9=How Great Thou Art
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     10715
+#     23145
+#     38757
+#     48157
+#     56592
+#     66492
+#     79872
+#     92412
+#     106957
+# 
+# Disc length: 1580 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=72062a0a
+DTITLE=Various Artist - Through the Years - Country Hits of the 60s Vol 1
+DYEAR=1900
+DGENRE=
+TTITLE0=He'll have to Go (Jim Reeves0
+TTITLE1=Crazy (Patsy Cline)
+TTITLE2=Mama Sang A Song (Bill Anderson)
+TTITLE3=The Ballad of Jed Clampett (Flatt and Sruggs& The Foggy Mountain Boys)
+TTITLE4=Dang Me (Roger Miller)
+TTITLE5=Before You Go (Buck Owens)
+TTITLE6=Almost Persuaded (David Houston)
+TTITLE7=By the Time I Get To Phoenix (Glen Campbell)
+TTITLE8=Harper Valley PTA (Jeannie C. Riley)
+TTITLE9=I Love You More Today (Conay Twitty)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

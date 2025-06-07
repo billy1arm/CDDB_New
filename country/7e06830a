@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10447
+#	22270
+#	33867
+#	44612
+#	55770
+#	69540
+#	81902
+#	95350
+#	113610
+#
+# Disc length: 1669 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7e06830a
+DTITLE=Conway Twitty - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Lonely Blue Boy
+TTITLE1=What Am I Living For
+TTITLE2=What a Dream
+TTITLE3=It's Only Make Believe
+TTITLE4=Hello' Darlin
+TTITLE5=You've Never Been This Far Before
+TTITLE6=Linda On My Mind
+TTITLE7=Slow Hand
+TTITLE8=Heartache Tonight
+TTITLE9=Don't Call Him A Cowboy
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

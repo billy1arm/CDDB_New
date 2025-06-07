@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13070
+#	31232
+#	45887
+#	60590
+#	73427
+#	90005
+#	106817
+#	118587
+#	131197
+#
+# Disc length: 1939 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=7b07910a
+DTITLE=Lee Greenwood - You've Got A Good Love Comin'
+DYEAR=1900
+DGENRE=
+TTITLE0=You've Got A Good Love Comin'
+TTITLE1=(I Found) Love In Time
+TTITLE2=I Don't Want To Wake You
+TTITLE3=Love Me Like I'm Leavin' Tonight
+TTITLE4=Worth It For The Ride
+TTITLE5=Two Heart Sernade
+TTITLE6=Fool's Gold
+TTITLE7=Lean, Mean, Lovin' Machine
+TTITLE8=Even Love Can't Save Us Now
+TTITLE9=God Bless The U.S.A.
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     25547
+#     43955
+#     67232
+#     86472
+#     102947
+#     120815
+#     142642
+#     158177
+#     180365
+# 
+# Disc length: 2626 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=720a400a
+DTITLE=Tu Quyen - Tu Quyen 1
+DYEAR=1900
+DGENRE=
+TTITLE0=HOI TI`NH YE^U
+TTITLE1=CHIE^'C LA' MUA` DO^NG
+TTITLE2=NU. CUO`I XA VAN'G
+TTITLE3=DA^U' TI`NH SA^`U
+TTITLE4=MO^.NG DE.P DANG DO'?
+TTITLE5=CON YE^U
+TTITLE6=KHI CO' CHA`NG
+TTITLE7=VO`NG TAY NGUO`I A^'Y
+TTITLE8=TI`NH NO^`NG
+TTITLE9=NGA`N DOI` CHO` MONG
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13700
+#     28987
+#     39975
+#     53825
+#     66162
+#     78225
+#     93500
+#     108750
+#     124725
+# 
+# Disc length: 1882 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7907580a
+DTITLE=Various Artist - Greatest Country Classics
+DYEAR=1900
+DGENRE=
+TTITLE0=Coal Miners Daughter/ Loretta Lynn
+TTITLE1=Rose Colored Glassed/ John Conlee
+TTITLE2=Hello Darlin'/ Conway Twitty
+TTITLE3=Lizzie And The Rainman/ Tanya Tucker
+TTITLE4=Crazy/ Patsy Cline
+TTITLE5=Elvira/ The Oak Ridge Boys
+TTITLE6=Satin Sheets/ Jeannie Pruett
+TTITLE7=Harper Valley P.T.A. Jeanie C. Riley
+TTITLE8='Till The Rivers All Run Dry/ Don Williams
+TTITLE9=Country Bumpkin Cal Smith
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

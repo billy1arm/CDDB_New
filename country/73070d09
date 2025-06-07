@@ -1,0 +1,45 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     185
+#     13055
+#     26022
+#     43647
+#     56135
+#     71805
+#     85905
+#     103640
+#     120265
+# 
+# Disc length: 1807 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=73070d09
+DTITLE=Various Artist - Country's Greatest Hits Vo. 9 - 80's Country Duets
+DYEAR=1900
+DGENRE=
+TTITLE0=Dwight Yoakam and Buck Owens - Streets Of Bakersfield
+TTITLE1=Waylon Jennings and Willie Nelson - Just To Satisfy You
+TTITLE2=Anne Murray With Dave Loggins - Nobody Loves Me Like You Do
+TTITLE3=Glen Campbell and Rita Coolidge - Somethin'  'Bout You Baby I Like
+TTITLE4=Crystal Gayle and Gary Morris - Makin' Up For Lost Time
+TTITLE5=Glen Campbell with Steve Wariner - The Hand That Rocks The Cradle
+TTITLE6=Eddie Rabbitt and Crystal Gayle - You And I
+TTITLE7=Tanya Tucker, Paul Davis and Paul Overstreet - I Won't Take Less Than 
+TTITLE7=Your Love
+TTITLE8=Frizzell and West - You're The Reason God Made Oklahoma
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

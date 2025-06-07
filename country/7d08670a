@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	15732
+#	36930
+#	50490
+#	68140
+#	85610
+#	97640
+#	118890
+#	129320
+#	143237
+#
+# Disc length: 2153 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7d08670a
+DTITLE=Robin Lee - The Best Of Robin Lee
+DYEAR=2000
+DGENRE=Country
+TTITLE0=When Love Comes Callin'
+TTITLE1=Black Velvet
+TTITLE2=Younger Love
+TTITLE3=Love Letter
+TTITLE4=Heart On A Chain
+TTITLE5=Back To Bein' Blue
+TTITLE6=I'd Walk Through Fire
+TTITLE7=Nothin' But You
+TTITLE8=How About Goodbye
+TTITLE9=Shine A Light On A Lie
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

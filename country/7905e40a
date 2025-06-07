@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  11620
+#  22155
+#  32362
+#  44115
+#  54830
+#  67340
+#  78000
+#  88370
+#  99117
+#
+# Disc length: 1510 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=7905e40a
+DTITLE=Patsy Cline and Loretta Lynn - Dear God
+DYEAR=1900
+DGENRE=
+TTITLE0=Dear God
+TTITLE1=He Will Do For You
+TTITLE2=Working For The Lord
+TTITLE3=The Old Rugged Cross
+TTITLE4=I Can See An Angel
+TTITLE5=If You Miss Heaven (You'll Miss It All)
+TTITLE6=Everybody Wants To Go To Heaven
+TTITLE7=If I Could Hear My Mother Pray Again
+TTITLE8=In The Sweet Bye And Bye
+TTITLE9=When They Ring Those Golden Bells
+EXTD=
+EXTT0=Patsy Cline
+EXTT1=Patsy Cline
+EXTT2=Patsy Cline
+EXTT3=Loretta Lynn
+EXTT4=Patsy Cline
+EXTT5=Loretta Lynn
+EXTT6=Loretta Lynn
+EXTT7=Loretta Lynn
+EXTT8=Loretta Lynn
+EXTT9=Loretta Lynn
+PLAYORDER=

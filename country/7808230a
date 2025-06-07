@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17351
+#	30718
+#	43996
+#	60880
+#	77670
+#	91775
+#	110744
+#	124113
+#	137136
+#
+# Disc length: 2085 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=7808230a
+DTITLE=Stella Parton - Appalachian Blues
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Up In The Holler
+TTITLE1=Child Of My Body
+TTITLE2=Lover's Dream
+TTITLE3=Wayfaring Stranger
+TTITLE4=The Missing Part
+TTITLE5=I'll Think About Shadows
+TTITLE6=I Draw From The Well
+TTITLE7=One Honest Love
+TTITLE8=song Bird's Heart
+TTITLE9=Satisfied Mind
+EXTD=YEAR: 2001  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

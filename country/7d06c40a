@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12492
+#	23460
+#	33907
+#	52280
+#	66027
+#	80227
+#	90245
+#	100450
+#	114745
+#
+# Disc length: 1734 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.07
+#
+DISCID=7d06c40a
+DTITLE=Charley Pride - Super Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Let the Chips Fall
+TTITLE1=I know One
+TTITLE2=Does My Ring Hurt Your Finger
+TTITLE3=Where Do I Put Her Memory
+TTITLE4=All I Have To Offer You Is Me
+TTITLE5=I'm So Afraid of Losing You Again
+TTITLE6=Is Anybody Goin' To San Antone
+TTITLE7=Just Between You and Me
+TTITLE8=Burgers and Fries
+TTITLE9=Let Me Live
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

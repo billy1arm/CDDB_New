@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10455
+#	24007
+#	34490
+#	47075
+#	57250
+#	68537
+#	80092
+#	92047
+#	104705
+#
+# Disc length: 1536 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=7f05fe0a
+DTITLE=Various Artist - Country Music Cavalcade - Midnight In Memphis
+DYEAR=1900
+DGENRE=Country
+TTITLE0=It's Only Make Believe
+TTITLE1=Patches
+TTITLE2=I really Don't Want To Know
+TTITLE3=Corinne Corinna
+TTITLE4=Lonely Blue Boy
+TTITLE5=Help Me Make It Through The Night
+TTITLE6=Gonna Find Me A Bluebird
+TTITLE7=It's All In The Game
+TTITLE8=I'm So Lonesome I could Cry
+TTITLE9=Walk On By
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

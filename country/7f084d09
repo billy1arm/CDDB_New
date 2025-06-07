@@ -1,0 +1,45 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	21460
+#	34402
+#	54375
+#	74352
+#	89910
+#	106577
+#	120975
+#	137940
+#
+# Disc length: 2127 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7f084d09
+DTITLE=The Geezinslaws - Feelin' Good, Gittin' Up, Gittin' Dow
+DTITLE=n
+DYEAR=1900
+DGENRE=
+TTITLE0=Help, I'm White And I Can't Get Down
+TTITLE1=Copenhagen
+TTITLE2=You Belong To Me
+TTITLE3=Let's Think About Living
+TTITLE4=The Diet Song
+TTITLE5=I Kissed The Bus
+TTITLE6=Someone Sweet To Love
+TTITLE7=Peel Me A Nanner
+TTITLE8=Bluebird
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     12792
+#     26277
+#     45180
+#     60235
+#     73220
+#     89680
+#     105897
+#     119150
+#     131235
+# 
+# Disc length: 1937 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7d078f0a
+DTITLE=Country Dance Kings - Country Club U.S.A. Cowboy Rhythms
+DYEAR=1900
+DGENRE=
+TTITLE0=What's It To You
+TTITLE1=One More Last Chance
+TTITLE2=The Call Of The Wild
+TTITLE3=Queen Of My Double Wide Trailer
+TTITLE4=A Little Less Talk And A Lot More Action
+TTITLE5=Fast As You
+TTITLE6=Mercury Blues
+TTITLE7=Easy Come, Easy Go
+TTITLE8=Wild One
+TTITLE9=The Boys and Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

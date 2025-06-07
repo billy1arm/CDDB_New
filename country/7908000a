@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	15520
+#	30322
+#	51675
+#	65642
+#	76815
+#	88665
+#	105067
+#	118702
+#	133132
+#
+# Disc length: 2050 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7908000a
+DTITLE=Roger Ballard - A Little Piece Of Heavan
+DYEAR=1900
+DGENRE=
+TTITLE0=That's the Bad Thing About a Girl
+TTITLE1=A Little Piece of Heaven
+TTITLE2=Way Beyond the Blue
+TTITLE3=Prove Me Wrong
+TTITLE4=Home Of the Blues
+TTITLE5=Two Steps in the Right Direction
+TTITLE6=You Can't Get There From Here
+TTITLE7=Go on and Cry
+TTITLE8=Slow Movin Storm
+TTITLE9=Dark Side Of Love
+EXTD=43
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

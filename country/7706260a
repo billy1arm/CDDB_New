@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9312
+#	19347
+#	31905
+#	45605
+#	59055
+#	70472
+#	84115
+#	98020
+#	106302
+#
+# Disc length: 1576 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=7706260a
+DTITLE=The Primitive Quartet - Safely Home
+DYEAR=1900
+DGENRE=
+TTITLE0=He'll Do The Same For You
+TTITLE1=Sixty Four Roses
+TTITLE2=A Letter From Home
+TTITLE3=God's Coloring Book
+TTITLE4=That Great Final Crossing
+TTITLE5=Lord You've Been So Good
+TTITLE6=Safely Home
+TTITLE7=The Love Of God
+TTITLE8=Directions To Heaven
+TTITLE9=Oh What A Savior
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

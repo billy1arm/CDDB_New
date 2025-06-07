@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     180
+#     12567
+#     26128
+#     44352
+#     57457
+#     72296
+#     84002
+#     99036
+#     114039
+#     125065
+# 
+# Disc length: 1902 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=79076c0a
+DTITLE=Freddy Fender - Freddy Fender Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Wasted Days and Wasted Nights
+TTITLE1=Before the Next Teardrop Falls
+TTITLE2=Secret Love
+TTITLE3=Tell It Like It Is
+TTITLE4=Cielito Lindo Is My Lady
+TTITLE5=Walking Piece of Heaven
+TTITLE6=I Can't Stop Loving You
+TTITLE7=The Rains Came
+TTITLE8=Sugar Coated Love
+TTITLE9=Jambalya
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

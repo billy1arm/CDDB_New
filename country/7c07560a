@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	183
+#	12933
+#	29145
+#	40225
+#	54600
+#	67743
+#	83595
+#	98885
+#	115010
+#	126285
+#
+# Disc length: 1880 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: jetAudio 7
+#
+DISCID=7c07560a
+DTITLE=The Statler Brothers - Atlanta Blue
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Atlanta Blue
+TTITLE1=If It Makes Any Difference
+TTITLE2=(Let's Just) Take One Night At A Time
+TTITLE3=Angel In Her Face
+TTITLE4=Hollywood
+TTITLE5=One Takes The Blame
+TTITLE6=Give It Your Best
+TTITLE7=No Love Lost
+TTITLE8=One Size Fits All
+TTITLE9=My Only Love
+EXTD=
+EXTT0=D Reid
+EXTT1=D Reid - H Reid
+EXTT2=K Reid
+EXTT3=D Reid
+EXTT4=D Reid
+EXTT5=D Reid
+EXTT6=D Reid
+EXTT7=J Rimel - J Fortune
+EXTT8=J Rimel
+EXTT9=J Fortune
+PLAYORDER=

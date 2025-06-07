@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     200
+#     14605
+#     27020
+#     44940
+#     59147
+#     75370
+#     90432
+#     105855
+#     118845
+#     131285
+# 
+# Disc length: 1905 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7a076f0a
+DTITLE=Young, Holly Stannard - You theMan
+DYEAR=1900
+DGENRE=
+TTITLE0=You the Man
+TTITLE1=When You Come Back Home
+TTITLE2=Written in the Stars
+TTITLE3=Lover's Prayer
+TTITLE4=Still Got a Hold
+TTITLE5=Hey Handsome
+TTITLE6=Where Do I Go From Here
+TTITLE7=Bad Times
+TTITLE8=Try to Tell Me
+TTITLE9=For Baby
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

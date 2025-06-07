@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1997  Ti Kan
+#
+# Track frame offsets:
+#	182
+#	16722
+#	32355
+#	49860
+#	66925
+#	83180
+#	99285
+#	116155
+#	129902
+#	143292
+#
+# Disc length: 2136 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL0
+#
+DISCID=7108560a
+DTITLE=The Johner Brothers/My Brother and Me
+DYEAR=1900
+DGENRE=
+TTITLE0=My Brother and Me
+TTITLE1=That's How the Boys Play
+TTITLE2=Leave Your Leavin' Me Alone
+TTITLE3=To Keep the Country Boy Alive
+TTITLE4=One Horse Town
+TTITLE5=Starting Right Now
+TTITLE6=If I Had Us
+TTITLE7=Light in My Life
+TTITLE8=That's Alright
+TTITLE9=Smooth Bottom Autumn
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

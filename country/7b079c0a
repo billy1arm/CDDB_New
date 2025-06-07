@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13150
+#	28950
+#	46212
+#	61795
+#	75625
+#	88950
+#	103650
+#	118725
+#	135070
+#
+# Disc length: 1950 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=7b079c0a
+DTITLE=Earl Thomas Conley - Treadin' Water
+DYEAR=1900
+DGENRE=
+TTITLE0=Too Hot To Handle
+TTITLE1=Love Don't Care (Whose Heart It Breaks)
+TTITLE2=Labor of Love
+TTITLE3=Your Love Says All There Is
+TTITLE4=Love's On The Move Again
+TTITLE5=Chance of Lovin' You
+TTITLE6=Honor Bound
+TTITLE7=Treadin' Water
+TTITLE8=Feels Like A Saturday Night
+TTITLE9=Turn This Bus Around
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

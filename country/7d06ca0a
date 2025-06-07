@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	12432
+#	26300
+#	37322
+#	51950
+#	66945
+#	78847
+#	93062
+#	105635
+#	118305
+#
+# Disc length: 1740 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.01 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7d06ca0a
+DTITLE=Shane Barmby - Let's Talk About Us
+DYEAR=1900
+DGENRE=
+TTITLE0=Let's Talk About Us
+TTITLE1=Love's Back In Style
+TTITLE2=All Riled Up
+TTITLE3=Look What Love Can Do
+TTITLE4=A Rainbow Of Our Own
+TTITLE5=You're The Reason
+TTITLE6=Why Did You Leave Me? (Why Did You Take My Shoes)
+TTITLE7=Ridin' And Ropin'
+TTITLE8=I Wonder Who's Missing You Now
+TTITLE9=That's Just Bar Talk
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

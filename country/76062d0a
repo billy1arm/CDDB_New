@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     9495
+#     23263
+#     35990
+#     46578
+#     58853
+#     71565
+#     80618
+#     90448
+#     104593
+# 
+# Disc length: 1583 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=76062d0a
+DTITLE=Charley Pride - The Ultimate Charley Pride
+DYEAR=1900
+DGENRE=
+TTITLE0=Kiss An Angel Good Morning
+TTITLE1=Never Been So Loved
+TTITLE2=I'd Rather Love You
+TTITLE3=I'm Just Me
+TTITLE4=Night Games
+TTITLE5=Mountain Of Love
+TTITLE6=Honky Tonk Blues
+TTITLE7=Someone Loves You Honey
+TTITLE8=A Shoulder To Cry On
+TTITLE9=Amazing Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

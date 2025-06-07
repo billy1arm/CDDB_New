@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	182
+# 	19267
+# 	35990
+# 	54445
+# 	70130
+# 	92497
+# 	109555
+# 	129712
+# 	150785
+# 	174085
+# 	189090
+#
+# Disc length: 2770 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.2
+#
+DISCID=7e0ad00b
+DTITLE=The Bel-Vistas - Somewhere Along The Line
+DYEAR=1900
+DGENRE=
+TTITLE0=Matter Of Time
+TTITLE1=The Ordinary Man
+TTITLE2=Crazy Bill
+TTITLE3=Somewhere Along The Line
+TTITLE4=Love On The Rebound
+TTITLE5=Hard Times (For Women And Children)
+TTITLE6=Dyin' At Your Feet
+TTITLE7=All He Really Wants
+TTITLE8=Any Other Stranger
+TTITLE9=Mercy
+TTITLE10=Another Long Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

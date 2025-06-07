@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     25705
+#     53222
+#     71532
+#     88070
+#     107842
+#     127297
+#     145312
+#     165200
+# 
+# Disc length: 2355 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=79093109
+DTITLE=David Buskin - Robin Batteau - B&B
+DYEAR=1900
+DGENRE=
+TTITLE0=These Nights
+TTITLE1=Guinevere (Lancelot's Tune)
+TTITLE2=When I Write My Novel
+TTITLE3=You're Not A Kid Anymore
+TTITLE4=Contessa
+TTITLE5=The Eyes Of My Beholder
+TTITLE6=Stars In Their Eyes
+TTITLE7=A Little More Each Time
+TTITLE8=Never Cry Wolf
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

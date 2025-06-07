@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	29679
+#	67247
+#	92291
+#	120465
+#	146551
+#	173682
+#	202900
+#	227943
+#
+# Disc length: 3420 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=780d5a09
+DTITLE=Jonas Steur - Born For The Night - CD 2
+DYEAR=2007
+DGENRE=Trance
+TTITLE0=Jonas Steur - Tales From The South (Album Version)
+TTITLE1=Jonas Steur - Flow
+TTITLE2=Jonas Steur - City Lights
+TTITLE3=Jonas Steur - Silent Wave
+TTITLE4=Jonas Steur - 7 Clouds
+TTITLE5=Jonas Steur - Palma Solane
+TTITLE6=Jonas Steur - Red Shores
+TTITLE7=Jonas Steur - Second Turn
+TTITLE8=Jonas Steur - Castamara
+EXTD=YEAR: 2007
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

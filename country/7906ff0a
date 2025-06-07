@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  187
+#  13880
+#  27690
+#  40525
+#  53150
+#  68337
+#  80140
+#  94575
+#  108495
+#  122437
+#
+# Disc length: 1793 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.31
+#
+DISCID=7906ff0a
+DTITLE=Gary Stewart - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Drinkin' Thing
+TTITLE1=Out of Hand
+TTITLE2=She's Actin' Single (I'm Drinkin' Doubles)
+TTITLE3=Flat Natural Born Good-Timin' Man
+TTITLE4=Quits
+TTITLE5=Ten Years of This
+TTITLE6=Whiskey Trip
+TTITLE7=Single Again
+TTITLE8=Your Place Or Mine
+TTITLE9=Let's Forget That We're Married
+EXTD=all previously released
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

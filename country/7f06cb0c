@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     15262
+#     24822
+#     36257
+#     45757
+#     57837
+#     68415
+#     78982
+#     88285
+#     101482
+#     112190
+#     121532
+# 
+# Disc length: 1741 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7f06cb0c
+DTITLE=Chet Atkins - The Other Chet Atkins
+DYEAR=1900
+DGENRE=
+TTITLE0=Beging The Beguine
+TTITLE1=Sabrosa
+TTITLE2=Yours (Qui reme Mucho)
+TTITLE3=Siboney
+TTITLE4=The Streets Of Laredo
+TTITLE5=Delicado
+TTITLE6=Peanut Vendor
+TTITLE7=El Relicario
+TTITLE8=Maria Elena
+TTITLE9=Marcheta
+TTITLE10=Tzena Tzena Tzena
+TTITLE11=Poinciana (Song Of The Tree)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13830
+#	37096
+#	59324
+#	76308
+#	101862
+#	119010
+#	132493
+#
+# Disc length: 2030 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=7207ec08
+DTITLE=Audrey Auld - Hey Warden
+DYEAR=2015
+DGENRE=Country
+TTITLE0=Hey Warden
+TTITLE1=Poor Joe
+TTITLE2=Walls
+TTITLE3=I Am Not What I Have Done
+TTITLE4=Oh Love
+TTITLE5=Naked and Nameless
+TTITLE6=Bread and Roses
+TTITLE7=Sunshine
+EXTD=YEAR: 2015 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

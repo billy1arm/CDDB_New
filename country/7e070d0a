@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	14255
+# 	26575
+# 	39957
+# 	53195
+# 	67237
+# 	80710
+# 	95112
+# 	109625
+# 	122300
+#
+# Disc length: 1807 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7e070d0a
+DTITLE=Petula Clark - The Best Of Petula Clark Vol 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Downtown
+TTITLE1=I Know A Place
+TTITLE2=Don't Sleep In The Subway
+TTITLE3=The Other Man's Grass
+TTITLE4=Don't Give Up
+TTITLE5=Sailor
+TTITLE6=He Made Me A Woman
+TTITLE7=It Don't Matter To Me
+TTITLE8=For All We Know
+TTITLE9=I Couldn't Live Without Your Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

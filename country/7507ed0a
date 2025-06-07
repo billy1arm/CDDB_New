@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 15432
+# 29315
+# 47517
+# 61032
+# 73872
+# 88635
+# 106807
+# 121677
+# 136405
+#
+# Disc length: 2031 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=7507ed0a
+DTITLE=John Conlee - Harmony
+DYEAR=1900
+DGENRE=
+TTITLE0=Harmony
+TTITLE1=Got My Heart Set On You
+TTITLE2=Class Reunion
+TTITLE3=She Told Me So
+TTITLE4=I'll Be Seeing You
+TTITLE5=For A Little While
+TTITLE6=Cars
+TTITLE7=You've Got A Right
+TTITLE8=The Carpenter
+TTITLE9=The Day He Turned Sixty-Five
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  17350
+#  37813
+#  61272
+#  79995
+#  104345
+#  123600
+#  141247
+#  164307
+#  182327
+#
+# Disc length: 2670 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: KiC 2.1 - (C) 1996-1998 Alwin Hoogerdijk
+#
+DISCID=780a6c0a
+DTITLE=Robert Earl Keen - Picnic
+DYEAR=1900
+DGENRE=
+TTITLE0=Undone
+TTITLE1=Over the Watefall
+TTITLE2=Levelland
+TTITLE3=I Wonder Where My Baby Is Tonight
+TTITLE4=Oh Rosie
+TTITLE5=Runnin' with ihe Night
+TTITLE6=The Coming Home of the Son and Brother
+TTITLE7=Shades of Gray
+TTITLE8=Fourth of July
+TTITLE9=Then Came Lo Mein
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

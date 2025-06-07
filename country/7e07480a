@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15526
+#	29031
+#	43881
+#	57159
+#	72238
+#	84346
+#	99078
+#	114458
+#	128183
+#
+# Disc length: 1866 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7e07480a
+DTITLE=Ronnie Milsap - A Rose By Any Other Name
+DYEAR=1975
+DGENRE=Country
+TTITLE0=She Even Woke Me Up To Say Goodbye
+TTITLE1=Please Don't Tell Me How The Story Ends
+TTITLE2=You And Me, Me And You
+TTITLE3=I Just Can't Help Believin'
+TTITLE4=Keep On Smiling
+TTITLE5=A Rose By Any Other Name
+TTITLE6=Crying
+TTITLE7=Blue Skies Of Montana
+TTITLE8=Why
+TTITLE9=Loving You's A Natural Thing
+EXTD=YEAR: 1975 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

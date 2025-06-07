@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     187
+#     11905
+#     28255
+#     40577
+#     54935
+#     68292
+#     78880
+#     92467
+#     109380
+#     122990
+# 
+# Disc length: 1837 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=74072b0a
+DTITLE=Merle Haggard - What A Friend We Have In Jesus
+DYEAR=1900
+DGENRE=
+TTITLE0=What A Friend We Have In Jesus
+TTITLE1=Swing Low Sweet Chariot
+TTITLE2=Suppertime
+TTITLE3=Why Me
+TTITLE4=When God Comes And Gathers His Jewels
+TTITLE5=He Walks With Me
+TTITLE6=Where No One Stands Alone
+TTITLE7=The Old Rugged Cross
+TTITLE8=Softly And Tenderly
+TTITLE9=One Day At A Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

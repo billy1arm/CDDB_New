@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13890
+#	29582
+#	46955
+#	61910
+#	78130
+#	92200
+#	105990
+#	119910
+#	135155
+#
+# Disc length: 1998 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=7c07cc0a
+DTITLE=Trader Price - Trader Price
+DYEAR=1900
+DGENRE=
+TTITLE0=Lately Rose
+TTITLE1=Too Easy Gone
+TTITLE2=The Line Forms On The Right
+TTITLE3=Rainman
+TTITLE4=Sad Eyes
+TTITLE5=Unspoken
+TTITLE6=From One Lover to Another
+TTITLE7=Karma Road
+TTITLE8=Hideaway
+TTITLE9=Who's Gonna Know
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

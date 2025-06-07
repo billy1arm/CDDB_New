@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12900
+#	26695
+#	40512
+#	53290
+#	71080
+#	84075
+#	97712
+#	110402
+#	124127
+#	137025
+#
+# Disc length: 2018 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=7a07e00b
+DTITLE=Clinton Gregory - Music 'N Me
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Moccasin Man
+TTITLE1=Couldn't Love Have Picked A Better Place To Die
+TTITLE2=Made For Loving You
+TTITLE3=Back On Track
+TTITLE4=Nobody's Darlin'
+TTITLE5=She Put The Music In Me
+TTITLE6=Darlin' Does He
+TTITLE7=Love Is A Road
+TTITLE8=Loving On Backstreets
+TTITLE9=You Can't Take It With You
+TTITLE10=I Can't Be Myself
+EXTD=\nYEAR:       ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

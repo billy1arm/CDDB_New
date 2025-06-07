@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12335
+#	24850
+#	38712
+#	51150
+#	60950
+#	71980
+#	86217
+#	99377
+#	112910
+#
+# Disc length: 1759 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=7706dd0a
+DTITLE=Bobby Lee Springfield - All Fired Up
+DYEAR=1987
+DGENRE=Country
+TTITLE0=Hank Drank
+TTITLE1=Teenage Darling
+TTITLE2=Chain Gang
+TTITLE3=I Need A Girlfriend
+TTITLE4=Wild Cat
+TTITLE5=Al lFired Up
+TTITLE6=What's He Doing In My World
+TTITLE7=Opry Time
+TTITLE8=Till You Got A Hold Of Me
+TTITLE9=Jesus, You've Been A Friend To Me
+EXTD=more info\nMillenniumMusicProjectFormat, syntax as follows:\nTitle{Subtitle}[info](Lyricist;Composer;Date,Artist,Location)[info]\ncorrections to: windking3@yahoo.com YEAR: 1987
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

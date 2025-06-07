@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     16155
+#     27460
+#     40657
+#     53770
+#     72702
+#     83267
+#     98865
+#     110615
+#     119527
+# 
+# Disc length: 1771 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7c06e90a
+DTITLE=Oneil Devost - TPS
+DYEAR=1900
+DGENRE=
+TTITLE0=TPS
+TTITLE1=Salut trucker
+TTITLE2=Plume a la main
+TTITLE3=Je chante le rock
+TTITLE4=Hommage aux brayons
+TTITLE5=Harley kid
+TTITLE6=Pauvre chez les hommes
+TTITLE7=Mets d'la vie dans ma vie
+TTITLE8=La vie de tous les musiciens
+TTITLE9=Qu'as tu donc fait de ta vie
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 12640
+# 25500
+# 38872
+# 50362
+# 68967
+# 80280
+# 90517
+# 108947
+# 122537
+#
+# Disc length: 1785 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b8
+#
+DISCID=7106f70a
+DTITLE=Bill Monroe and His Bluegrass Boys - Bluegrass '87
+DYEAR=1987
+DGENRE=country
+TTITLE0=The Long Bow
+TTITLE1=Mighty Dark To Travel
+TTITLE2=Music Valley Waltz
+TTITLE3=Jekyll Island
+TTITLE4=The Old Crossroads
+TTITLE5=The Old Brown Country Barn
+TTITLE6=Stay Away From Me
+TTITLE7=Bluest Man In Town
+TTITLE8=Angels, Rock Me To Sleep
+TTITLE9=Dancin' In Brancin'
+EXTD=MCA Records\nMCAD-5970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	12012
+#	31945
+#	46030
+#	57222
+#	70820
+#	80270
+#	88887
+#	96360
+#	123152
+#
+# Disc length: 1708 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7106aa0a
+DTITLE=Riders In The Sky - Saturday Morning With
+DYEAR=1900
+DGENRE=
+TTITLE0=Texas Plains
+TTITLE1=Back In The Saddle Again
+TTITLE2=Riders In The Sky
+TTITLE3=That's How The Yodel Was Born
+TTITLE4=Someone's Got To Do It
+TTITLE5=Ride Cowboy Ride
+TTITLE6=The Queen Elizabeth Trio
+TTITLE7=There's A Blue Sky Out Yonder
+TTITLE8=Cattle Call
+TTITLE9=So Long Saddle Pals
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

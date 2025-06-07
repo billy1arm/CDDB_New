@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16910
+#	31482
+#	41267
+#	52207
+#	61407
+#	76482
+#	87330
+#	99562
+#	106907
+#
+# Disc length: 1626 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7906580a
+DTITLE=Bob Dylan - Nashville Skyline
+DYEAR=1969
+DGENRE=Country
+TTITLE0=Girl From The North Country (With Johnny Cash)
+TTITLE1=Nashville Skyline Rag
+TTITLE2=To Be Alone With You
+TTITLE3=I Threw It All Away
+TTITLE4=Peggy Day
+TTITLE5=Lay Lady Lay
+TTITLE6=One More Night
+TTITLE7=Tell Me That It Isn't True
+TTITLE8=Country Pie
+TTITLE9=Tonight I'll Be Staying Here With You
+EXTD=YEAR: 1969 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

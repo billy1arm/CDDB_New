@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	12120
+# 	21927
+# 	36070
+# 	50220
+# 	60890
+# 	77767
+# 	94022
+# 	108962
+# 	123235
+#
+# Disc length: 1815 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7107150a
+DTITLE=Asleep at the Wheel - 10
+DYEAR=1900
+DGENRE=
+TTITLE0=Way Down Texas Way
+TTITLE1=Tulsa Straight Ahead
+TTITLE2=Coast to Coast
+TTITLE3=House of Blue Lights
+TTITLE4=Blowin' Like a Bandit
+TTITLE5=I Want a New Drug
+TTITLE6=Big Foot Stomp
+TTITLE7=Boogie Back to Texas
+TTITLE8=String of Pars
+TTITLE9=Blues Stay Away From Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

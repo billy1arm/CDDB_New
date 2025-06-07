@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 187
+# 15697
+# 29675
+# 46450
+# 61720
+# 72535
+# 90180
+# 104470
+# 123262
+#
+# Disc length: 1891 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=72076109
+DTITLE=The Oak Ridge Boys - The Best Of The Oak Ridge Boys # 2
+DYEAR=1993
+DGENRE=Country
+TTITLE0=Lucky Moon
+TTITLE1=Your Love Made Me This Way
+TTITLE2=Change My Mind
+TTITLE3=Baby On Board
+TTITLE4=Walkin' After Midnight
+TTITLE5=Fall
+TTITLE6=Standin' By The River
+TTITLE7=(You're My) Soul And Inspiration
+TTITLE8=Stay With Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

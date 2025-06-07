@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	17887
+# 	39862
+# 	52725
+# 	67200
+# 	84187
+# 	95062
+# 	121312
+# 	138000
+# 	153112
+# 	172687
+#
+# Disc length: 2502 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4
+#
+DISCID=7909c40b
+DTITLE=John Hartford - Morning Bugle
+DYEAR=1900
+DGENRE=
+TTITLE0=Streetcar
+TTITLE1=Nobody Eats at Linebaugh's Anymore
+TTITLE2=Howard Hughes' Blues
+TTITLE3=All Fall Down
+TTITLE4=On the Road
+TTITLE5=Morning Bugle
+TTITLE6=Old Joe Clark
+TTITLE7=My Rag
+TTITLE8=Late Last Night
+TTITLE9=Got No Place to Go
+TTITLE10=Bye-bye
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

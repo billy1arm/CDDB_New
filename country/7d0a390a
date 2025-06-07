@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18413
+#	32380
+#	50674
+#	67560
+#	96178
+#	113709
+#	133256
+#	154103
+#	177650
+#
+# Disc length: 2619 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7d0a390a
+DTITLE=Desperado - Promit ca nu mai beau
+DYEAR=2001
+DGENRE=Country
+TTITLE0=Suntem de la tara
+TTITLE1=Cuplul ideal
+TTITLE2=Betivan ratat
+TTITLE3=Promit ca nu mai beau
+TTITLE4=Nu le dau carnetul
+TTITLE5=Am cazanul meu
+TTITLE6=Unde pleci si cind te-ntorci
+TTITLE7=Pe o pizza si un suc
+TTITLE8=Easy rider
+TTITLE9=Sunt cowboy si sunt burlac
+EXTD=YEAR: 2001 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

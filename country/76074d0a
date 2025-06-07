@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	182
+# 	16635
+# 	30502
+# 	43355
+# 	55992
+# 	69942
+# 	82052
+# 	97642
+# 	112932
+# 	125750
+#
+# Disc length: 1871 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=76074d0a
+DTITLE=Mark Chesnutt - Too Cold At Home
+DYEAR=1900
+DGENRE=
+TTITLE0=Too Cold At Home
+TTITLE1=Brother Jukebox
+TTITLE2=Blame It On Texas
+TTITLE3=Your Love Is A Miracle
+TTITLE4=Broken Promise Land
+TTITLE5=Too Good A Memory
+TTITLE6=Friends In Low Places
+TTITLE7=Lucky Man
+TTITLE8=Hey You There In The Mirror
+TTITLE9=Danger At My Door
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

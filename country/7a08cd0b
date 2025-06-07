@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14059
+#	31552
+#	46882
+#	64145
+#	76040
+#	92595
+#	106952
+#	123142
+#	139737
+#	152587
+#
+# Disc length: 2255 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=7a08cd0b
+DTITLE=Tony Hoops - Drive 'Til The Tank Runs Dry
+DYEAR=1900
+DGENRE=country
+TTITLE0=Heartbreak Hall Of Shame
+TTITLE1=Drive 'Til The Tank Runs Dry
+TTITLE2=When A Sad Song Turns A Tear
+TTITLE3=Losin' Kind Of Love
+TTITLE4=Give Up The Ghost
+TTITLE5=A Place In My Heart
+TTITLE6=One Track Mind
+TTITLE7=Neverlasting Love
+TTITLE8=On A Wing And A Prayer
+TTITLE9=One More Rusty Bucket Down My Well
+TTITLE10=All I Can Do
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

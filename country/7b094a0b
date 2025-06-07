@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     6027
+#     19020
+#     32567
+#     46665
+#     65360
+#     82892
+#     111065
+#     127807
+#     145112
+#     163300
+# 
+# Disc length: 2380 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7b094a0b
+DTITLE=Cripple Creek Band - Cripple Creek Band Iive In Nashville
+DYEAR=1900
+DGENRE=
+TTITLE0=Soldier's Joy
+TTITLE1=Honky-Tonk Blues
+TTITLE2=As Long As You Love Me
+TTITLE3=Fishin' In The Dark
+TTITLE4=Last Thing To Know
+TTITLE5=Devil's Box
+TTITLE6=Sultans Of Swing
+TTITLE7=Let's Talk About Women
+TTITLE8=Devil Went Down To Georgia
+TTITLE9=Games People Play
+TTITLE10=Trouble
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

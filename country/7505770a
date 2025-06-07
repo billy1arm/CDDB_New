@@ -1,0 +1,46 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9253
+#	21761
+#	34108
+#	46338
+#	55790
+#	65504
+#	73694
+#	83183
+#	91874
+# Disc length: 1401 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=7505770a
+DTITLE=Various Artist - Legends of Southern Gospel - CD2
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm Glory Bound - The Carter Family
+TTITLE1=In the Shelter of His Arms - The Oak Ridge Boys
+TTITLE2=Peace Like a River - The Blackwood Brothers
+TTITLE3=God Is My Shepherd - J.D. Sumner and The Stamps
+TTITLE4=King Jesus - The Kingsmen Quartet
+TTITLE5=In My Father's House - Hovie Lister and The Statesmen
+TTITLE6=This Little Light Of Mine - The Masters Five
+TTITLE7=Singing Shouting Praying - The Carter Family
+TTITLE8=So High - The LeFevres
+TTITLE9=Dear Jesus Abide With Me - The Oak Ridge Boys
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

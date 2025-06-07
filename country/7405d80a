@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	10762
+#	20769
+#	32640
+#	45964
+#	58307
+#	68752
+#	77690
+#	88287
+#	100550
+#
+# Disc length: 1498 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=7405d80a
+DTITLE=Pat Boone - The Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Ain't That A Shame
+TTITLE1=Don't Forbid Me
+TTITLE2=I Almost Lost My Mind
+TTITLE3=I'll Be Home
+TTITLE4=April Love
+TTITLE5=Love Letters In The Sand
+TTITLE6=Why Baby Why
+TTITLE7=Remember You're Mine
+TTITLE8=Moody River
+TTITLE9=Speedy Gonzales
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

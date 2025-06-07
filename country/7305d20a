@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11855
+#	22510
+#	34180
+#	46497
+#	58545
+#	68997
+#	80517
+#	91115
+#	100907
+#
+# Disc length: 1492 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=7305d20a
+DTITLE=Moe Bandy and Joe Stampley - Greatest hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Just good ol' boys
+TTITLE1=Let's hear it for the working man
+TTITLE2=Holding the bag
+TTITLE3=Honky tonk queen
+TTITLE4=Two beers away
+TTITLE5=Hey Joe (hey Moe)
+TTITLE6=The girl don't ever get lonely
+TTITLE7=Tell ole I ain't here, He better get on home
+TTITLE8=When it comes to Cowgirls (We just can't say no)
+TTITLE9=Thank goodness it's friday
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

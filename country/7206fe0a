@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	12665
+# 	23950
+# 	39200
+# 	50545
+# 	63890
+# 	80403
+# 	92208
+# 	106930
+# 	120868
+#
+# Disc length: 1792 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=7206fe0a
+DTITLE=Tracy Byrd - Tracy Bryd
+DYEAR=1900
+DGENRE=
+TTITLE0=That's The Thing About A Memory
+TTITLE1=Back In The Swing Of Things
+TTITLE2=Someone To Give My Love To
+TTITLE3=Holdin' Heaven
+TTITLE4=Why
+TTITLE5=An Out Of Control Raging Fire
+TTITLE6=Hat Trick
+TTITLE7=Why Don't That Telephone Ring
+TTITLE8=Edge Of A Memory
+TTITLE9=Talk To Me Texas
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

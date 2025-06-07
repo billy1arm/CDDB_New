@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16152
+#	30780
+#	42172
+#	58815
+#	73735
+#	83677
+#	103147
+#	120385
+#	134282
+#
+# Disc length: 2002 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7807d00a
+DTITLE=Dixie Chicks - Wide Open Spaces
+DYEAR=1900
+DGENRE=Country
+TTITLE0=I can love you better
+TTITLE1=Wide Open Spaces
+TTITLE2=Loving Arms
+TTITLE3=There's Your Trouble
+TTITLE4=You Were Mine
+TTITLE5=Never Say Die
+TTITLE6=Tonight The Heartache's On Me
+TTITLE7=Let 'Er Rip
+TTITLE8=Once You've Loved Somebody
+TTITLE9=I'll Take Care of You
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

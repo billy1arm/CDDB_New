@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	15527
+#	32637
+#	47095
+#	62307
+#	80482
+#	99825
+#	114797
+#	131962
+#	149912
+#
+# Disc length: 2184 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7e08860a
+DTITLE=Chad Brock - Yes!
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Yes!
+TTITLE1=Hey Mister
+TTITLE2=Young Enough To Know It All
+TTITLE3=The Visit
+TTITLE4=She Does
+TTITLE5=Love Lives
+TTITLE6=This
+TTITLE7=You Had to Be There
+TTITLE8=A Country Boy Can Survive
+TTITLE9=If I Were You
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

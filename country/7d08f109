@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     183
+#     14113
+#     27195
+#     46933
+#     74255
+#     97290
+#     118378
+#     139638
+#     153158
+# 
+# Disc length: 2291 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7d08f109
+DTITLE=Michael Nesmith - Tantamount to Treason   Volume One
+DYEAR=1900
+DGENRE=
+TTITLE0=Mama Rocker
+TTITLE1=Lazy Lady
+TTITLE2=You Are My One
+TTITLE3=In The Afternoon
+TTITLE4=Highway 99 With Melange
+TTITLE5=Wax Minute
+TTITLE6=Bonaparte's Retreat
+TTITLE7=Talking to the Wall
+TTITLE8=She Thinks I Still Care
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

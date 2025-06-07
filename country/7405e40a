@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	11344
+#	19948
+#	32537
+#	44338
+#	55593
+#	66626
+#	78329
+#	92675
+#	102951
+#
+# Disc length: 1510 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7405e40a
+DTITLE=Patsy Cline - Remembering Patsy
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Stranger in My Arms
+TTITLE1=Come on In
+TTITLE2=Finger Prints
+TTITLE3=Honky Tonk Merry Go-Round
+TTITLE4=Hungry for Love
+TTITLE5=I Can't Forget
+TTITLE6=I've Loved and Lost Again
+TTITLE7=Then You'll Know
+TTITLE8=Three Cigarettes in an Ashtray
+TTITLE9=Walking Dream
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

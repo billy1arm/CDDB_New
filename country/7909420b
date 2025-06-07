@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	9995
+#	23485
+#	42365
+#	57010
+#	74015
+#	90835
+#	101962
+#	123887
+#	135762
+#	154522
+#
+# Disc length: 2372 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.1 PL2
+#
+DISCID=7909420b
+DTITLE=Mary Chapin Carpenter/State of the Heart
+DYEAR=1900
+DGENRE=
+TTITLE0=How Do
+TTITLE1=Something Of A Dreamer
+TTITLE2=Never Had It So Good
+TTITLE3=Read My Lips
+TTITLE4=This Shirt
+TTITLE5=Quittin' Time
+TTITLE6=Down In Mary's Land
+TTITLE7=Goodbye Again
+TTITLE8=Too Tired
+TTITLE9=Slow Country Dance
+TTITLE10=It Don't Bring you
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

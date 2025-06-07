@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18850
+#	34697
+#	53520
+#	72390
+#	89007
+#	108750
+#	125650
+#	143437
+#	161710
+#
+# Disc length: 2465 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b42PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta7
+#
+DISCID=7d099f0a
+DTITLE=Kenny Rogers - A Decade of Hits
+DYEAR=1900
+DGENRE=Pop
+TTITLE0=Morning Desire
+TTITLE1=The Vows Go Unbroken
+TTITLE2=Buried Treasure
+TTITLE3=Islands in the Stream
+TTITLE4=Crazy
+TTITLE5=What About Me
+TTITLE6=Twenty Years Ago
+TTITLE7=Make No Mistake, She's Mine
+TTITLE8=Tomb of the Unknown Love
+TTITLE9=I Prefer the Moonlight
+EXTD=ID3G: 13
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

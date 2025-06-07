@@ -1,0 +1,46 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18272
+#	33475
+#	52617
+#	68117
+#	83890
+#	106140
+#	131722
+#	148205
+#	170250
+# Disc length: 2544 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDCOPY 4.900
+#
+DISCID=7d09ee0a
+DTITLE=Patty Loveless - Strong Heart
+DYEAR=2000
+DGENRE=Country
+TTITLE0=You're So Cool
+TTITLE1=The Last Thing on My Mind
+TTITLE2=My Heart Will Never Break This Way Again
+TTITLE3=You Don't Get No More
+TTITLE4=That's the Kind of Mood I'm In
+TTITLE5=Thirsty
+TTITLE6=Strong Heart
+TTITLE7=The Key of Love
+TTITLE8=She Never Stopped Loving Him
+TTITLE9=Pieces on the Ground
+EXTD=YEAR: 2000 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

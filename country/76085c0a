@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	15882
+#	32302
+#	53145
+#	68935
+#	85467
+#	98382
+#	111820
+#	126505
+#	144315
+#
+# Disc length: 2142 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21 - (C) 1996 Greg Leichner
+#
+DISCID=76085c0a
+DTITLE=Assorted - Dale Earnhart Winston Cup Collection Limited Edition
+DYEAR=1900
+DGENRE=
+TTITLE0=Sunday Money (Brooks&Dunn)
+TTITLE1=Mercury Blues (Alan Jackson)
+TTITLE2=On The Road (Lee Roy Parnell)
+TTITLE3=Nobody Wins (Radney Foster)
+TTITLE4=Every Once In A While (Black Hawk)
+TTITLE5=Don't Rock The Jukebox (alan Jackson)
+TTITLE6=Brand New Man (Brooks&Dunn)
+TTITLE7=Meet Me In The Middle (Diamoud Rio)
+TTITLE8=Take It Like A Man (Michelle Wright)
+TTITLE9=The Tips Of My Fingers (SteveWariner)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

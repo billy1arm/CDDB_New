@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	182
+# 	11720
+# 	32710
+# 	47650
+# 	62740
+# 	77032
+# 	92442
+# 	106727
+# 	118945
+# 	129222
+#
+# Disc length: 1978 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7507b80a
+DTITLE=LeAnn Rimes - Unchained Melody
+DYEAR=1900
+DGENRE=
+TTITLE0=Cowboy's Sweetheart
+TTITLE1=I Will Always Love You
+TTITLE2=Blue Moon Of Kentucky
+TTITLE3=River Of Love
+TTITLE4=The Rest Is History
+TTITLE5=Broken Wing
+TTITLE6=Yesterday
+TTITLE7=Sure Thing
+TTITLE8=Share My Love
+TTITLE9=Unchained Melody
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

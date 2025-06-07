@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	13215
+#	28985
+#	42782
+#	55755
+#	75112
+#	89065
+#	99805
+#	117622
+#	129787
+#
+# Disc length: 1909 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7407730a
+DTITLE=Tanya Tucker - Lizzie And The Rain Man
+DYEAR=1900
+DGENRE=
+TTITLE0=San Antonio Stroll
+TTITLE1=Pride of Franklin County
+TTITLE2=You've Got Me To Hold On To
+TTITLE3=After The Thrill Is Gone
+TTITLE4=Lover Goodbye
+TTITLE5=Lizzie And The Rain Man
+TTITLE6=Son Of A Preacher Man
+TTITLE7=My Cowboy's Getting Old
+TTITLE8=Ridin' Rainbows
+TTITLE9=Dream Lover
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=Glenn Campbell
+PLAYORDER=

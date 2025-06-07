@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	17803
+#	34725
+#	54893
+#	71592
+#	86123
+#	99308
+#	117171
+#	129751
+#	148757
+#
+# Disc length: 2263 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7e08d50a
+DTITLE=Downpilot - The Kind Of Shine
+DYEAR=2009
+DGENRE=Country
+TTITLE0=All The Ghosts Will Walk
+TTITLE1=Chelsea Turnaround
+TTITLE2=Hell On The Turnpike
+TTITLE3=The Regrade
+TTITLE4=Flicker
+TTITLE5=In The Morning
+TTITLE6=Rider
+TTITLE7=28 1/2
+TTITLE8=A Shot
+TTITLE9=Carry The Water
+EXTD=YEAR: 2009 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

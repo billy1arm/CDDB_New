@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	14370
+#	25455
+#	37167
+#	51312
+#	62572
+#	76675
+#	93777
+#	107570
+#	119122
+#
+# Disc length: 1731 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=7e06c10a
+DTITLE=Jack Blanchard and Misty Morgan - Back In Harmony
+DYEAR=1992
+DGENRE=Country
+TTITLE0=Sea of heartbreak
+TTITLE1=Because we love
+TTITLE2=I'll never be free
+TTITLE3=Memories of you
+TTITLE4=Back in harmony
+TTITLE5=Dream a little dream of me
+TTITLE6=Shame on the moon
+TTITLE7=Hands
+TTITLE8=The one you really love
+TTITLE9=Crossing the line
+EXTD=\n\nYEAR: 1992  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

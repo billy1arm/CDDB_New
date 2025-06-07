@@ -1,0 +1,47 @@
+# xmcd
+#
+# Track frame offsets:
+#	150
+#	13280
+#	30940
+#	49727
+#	65785
+#	79530
+#	95637
+#	113500
+#	128357
+#	142060
+#
+# Disc length: 2107
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: FreeRIP 2.52 
+# Normalized: r0:TDELIM( - );r1:TSWAP
+#
+DISCID=7d08390a
+DTITLE=Various Artist - G*A*C More Country Hits Volume 2
+DYEAR=1999
+DGENRE=Country
+TTITLE0=James Bonamy - Dog on a Toolbox
+TTITLE1=Joe Diffie - Bigger than the Beatles
+TTITLE2=Stephanie Bently - The Hopechest Song
+TTITLE3=Wade Hayes - The Day that She Left Tulsa (In a Chevy)
+TTITLE4=Ricochet - Daddy's Money
+TTITLE5=The Kinleys - Just Between You and Me
+TTITLE6=Colin Raye - Little Rock
+TTITLE7=Rosanne Cash - Seven Year Ache
+TTITLE8=Cash, Waylon, Willie and Kristofferson - The Highwayman
+TTITLE9=Patty Loveless - Blame It on your Heart
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

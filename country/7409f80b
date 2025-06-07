@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15030
+#     35290
+#     50597
+#     67940
+#     84775
+#     101385
+#     120815
+#     141062
+#     159480
+#     177655
+# 
+# Disc length: 2554 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7409f80b
+DTITLE=Mike Shields - Grace Motel
+DYEAR=1900
+DGENRE=
+TTITLE0=Buffalo Row
+TTITLE1=Motel Row
+TTITLE2=What She Could Have Had
+TTITLE3=She's Right Here
+TTITLE4=Step Back (See the Big Picture)
+TTITLE5=Tragic
+TTITLE6=Confession
+TTITLE7=The Old Neighbourhood
+TTITLE8=So Hard
+TTITLE9=Brave Little Soldier
+TTITLE10=When Things Don't Go As Planned
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

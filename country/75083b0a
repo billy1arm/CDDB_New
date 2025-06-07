@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15355
+#	30445
+#	44995
+#	61005
+#	75582
+#	93207
+#	113722
+#	128025
+#	139892
+#
+# Disc length: 2109 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 1.4
+#
+DISCID=75083b0a
+DTITLE=Suzy Bogguss -- Something Up My Sleeve
+DYEAR=1900
+DGENRE=
+TTITLE0=Diamonds and Tears
+TTITLE1=Just Like The Weather
+TTITLE2=I Keep Comin' Back
+TTITLE3=You Never Will
+TTITLE4=You'd Be The One
+TTITLE5=Hey Cinderella
+TTITLE6=Souvenirs
+TTITLE7=You Wouldn't Say That To A Stranger
+TTITLE8=No Green Eyes
+TTITLE9=Something Up My Sleeve (Duet With Billy Dean)
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

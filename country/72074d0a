@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	187
+#	14850
+#	22420
+#	38405
+#	52672
+#	68422
+#	78837
+#	93632
+#	107572
+#	123097
+#
+# Disc length: 1871 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=72074d0a
+DTITLE=The Inspirations - What's That I Hear
+DYEAR=1900
+DGENRE=
+TTITLE0=What's That I Hear
+TTITLE1=I'll Understand It Bye And Bye
+TTITLE2=Let Me Tell It Once Again
+TTITLE3=That Same God
+TTITLE4=Rock Of Ages
+TTITLE5=One Day
+TTITLE6=Take Him Down
+TTITLE7=Did You Tell Someone About Jesus
+TTITLE8=Eye Of The Storm
+TTITLE9=Bend Away Down Low
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

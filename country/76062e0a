@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	10157
+#	22082
+#	32420
+#	44182
+#	54732
+#	68407
+#	80207
+#	93187
+#	105117
+#
+# Disc length: 1584 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=76062e0a
+DTITLE=Sons Of The Pioneers - San Anotnio Rose
+DYEAR=1996
+DGENRE=Country
+TTITLE0=San Antonio Rose
+TTITLE1=When My Blue Moon Turns To Gold Again
+TTITLE2=Listen To The Mocking Bird
+TTITLE3=Have I Told You Lately That I Love You?
+TTITLE4=Cold, Cold Heart
+TTITLE5=Columbus Stockade Blues
+TTITLE6=I'll Hold You In My Heart
+TTITLE7=Crazy Arms
+TTITLE8=Almost
+TTITLE9=Green Fields
+EXTD=YEAR: 1996 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

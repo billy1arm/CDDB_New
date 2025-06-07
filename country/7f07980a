@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     14690
+#     26042
+#     38652
+#     56277
+#     73120
+#     86257
+#     102840
+#     115880
+#     129692
+# 
+# Disc length: 1946 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7f07980a
+DTITLE=The Louisiana Boys - Limited Edition
+DYEAR=1900
+DGENRE=
+TTITLE0=Louisiana Boys
+TTITLE1=If It Ain't One Thing It's Another
+TTITLE2=Let Me Take You Dancing
+TTITLE3=All These Things
+TTITLE4=Knock Down Drag Out
+TTITLE5=Back On The Road Again
+TTITLE6=That's When You Need Me Girl
+TTITLE7=Tryin' To Fill My Baby's Shoes
+TTITLE8=When Was The Last Time
+TTITLE9=Friends
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

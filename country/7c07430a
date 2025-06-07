@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	12458
+# 	27798
+# 	43708
+# 	54455
+# 	71298
+# 	84683
+# 	100208
+# 	113973
+# 	127875
+#
+# Disc length: 1861 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.2
+#
+DISCID=7c07430a
+DTITLE=Doug Stone - Faith in Me Faith in You
+DYEAR=1900
+DGENRE=
+TTITLE0=You Won't Outlive Me
+TTITLE1=Faith In Me, Faith in You
+TTITLE2=Sometime I Forget
+TTITLE3=Born in the Dark
+TTITLE4=Down on My Knees
+TTITLE5=Enough About Me (Let's Talk About You)
+TTITLE6=I Do All My Crying (On the Inside)
+TTITLE7=Honky Tonk Mona Lisa
+TTITLE8=You're Not That Easy to Forget
+TTITLE9=Look Where She Is Today
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16685
+#     33060
+#     48792
+#     65847
+#     84405
+#     100642
+#     118937
+#     135355
+#     149077
+# 
+# Disc length: 2215 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7c08a50a
+DTITLE=Various Artist - Budweiser CCMA Fan's Choice Award
+DYEAR=1900
+DGENRE=
+TTITLE0=One Good Man * Michelle Wright
+TTITLE1=North Country * The Rankin Family
+TTITLE2=Such A Lonely One * Prairie Oyster
+TTITLE3=Bad Day For Trains * Patricia Conroy
+TTITLE4=I'm Gonna Drive You Out Of My Mind * Charlie Major
+TTITLE5=I'm Somebody * Charlie Major
+TTITLE6=What Do You Care * Patricia Conroy
+TTITLE7=Did You Fall In Love With Me * Prarie Oyster
+TTITLE8=Lisa Brown * The Rankin Family
+TTITLE9=Now and Then * Michelle Wright
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

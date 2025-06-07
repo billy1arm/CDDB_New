@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20460
+#	39777
+#	57407
+#	72872
+#	89152
+#	122785
+#	141982
+#	165590
+#
+# Disc length: 2377 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7b094709
+DTITLE=Willie Barker - Flat caps and Turpentine
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Midnight Blues
+TTITLE1=Burn me Down
+TTITLE2=Dog Faced Man
+TTITLE3=Whiskey Train
+TTITLE4=Don't Look Back
+TTITLE5=Pride
+TTITLE6=Talkin' to yourself
+TTITLE7=Party Girl
+TTITLE8=All my Life
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

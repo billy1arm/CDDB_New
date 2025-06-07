@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     13227
+#     24732
+#     36220
+#     45737
+#     57545
+#     66832
+#     78532
+#     90762
+#     101550
+# 
+# Disc length: 1503 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=7e05dd0a
+DTITLE=Lester Flatt and Earl Scruggs - Flatt and Scruggs
+DYEAR=1900
+DGENRE=
+TTITLE0=I'll Go Stepping Too
+TTITLE1=Dear Old Dixie
+TTITLE2=No Doubt About It
+TTITLE3=You Put Me On My Feet
+TTITLE4=Before I Met You
+TTITLE5=Foggy Mountain Special
+TTITLE6=Till The End Of The World Rolls 'Round
+TTITLE7=What's Good About It
+TTITLE8=Who Knows Right From Wrong
+TTITLE9=Cabin On The Hill
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10688
+#	24972
+#	35210
+#	50699
+#	64192
+#	84273
+#	98649
+#	116389
+#	134241
+#
+# Disc length: 1961 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=7e07a70a
+DTITLE=Hank Williams Jr. - A Tribute To My Father
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Honky Tonkin'
+TTITLE1=Are You Sure Hank Done It This Way
+TTITLE2=Lovesick Blues
+TTITLE3=Ballad Of Hank Williams
+TTITLE4=A Whole Lot Of Hank
+TTITLE5=Kaw-Liga
+TTITLE6=Move It On Over
+TTITLE7=The Conversation
+TTITLE8=You're Gonna Change (Or I'm Gonna Leave)
+TTITLE9=If You Don't Like Hank Williams
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

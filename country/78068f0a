@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-2000  Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12632
+#	25557
+#	38597
+#	48617
+#	63895
+#	74260
+#	91470
+#	102305
+#	114770
+#
+# Disc length: 1681 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.6 PL0
+#
+DISCID=78068f0a
+DTITLE=Charlie Rich - The Very Best of Charlie Rich
+DYEAR=1900
+DGENRE=
+TTITLE0=Behind Closed Doors
+TTITLE1=Good Time Charlie's Got the Blues
+TTITLE2=The Most Beautiful Girl
+TTITLE3=Mohair Sam
+TTITLE4=On My Knees
+TTITLE5=Lonely Weekends
+TTITLE6=My Elusive Dreams
+TTITLE7=There Won't Be Anymore
+TTITLE8=Who Will the Next Fool Be?
+TTITLE9=Rollin' with the Flow
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

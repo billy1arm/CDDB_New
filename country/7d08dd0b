@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	225
+#	17455
+#	32394
+#	48682
+#	61652
+#	75584
+#	92345
+#	104925
+#	125309
+#	139070
+#	157800
+#
+# Disc length: 2272 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7d08dd0b
+DTITLE=Kate James - Homewrecker, Heartbreaker
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Bring Me Water
+TTITLE1=Fool For You Honey
+TTITLE2=Holdin' On To Nothin'
+TTITLE3=Homewrecker, Heartbreaker
+TTITLE4=Lonely Nights
+TTITLE5=My Heart's Been Broken
+TTITLE6=Picture Show
+TTITLE7=Poor Little Fool
+TTITLE8=Rollin' Hills
+TTITLE9=Sing Me To Sleep
+TTITLE10=Treat You Right
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

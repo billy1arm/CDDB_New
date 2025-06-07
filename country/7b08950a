@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  15030
+#  35912
+#  51995
+#  67732
+#  82667
+#  100772
+#  113800
+#  126730
+#  143725
+#
+# Disc length: 2199 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.31
+#
+DISCID=7b08950a
+DTITLE=Various Artist - Today's Country Gospel
+DYEAR=1900
+DGENRE=Country
+TTITLE0=The Prodigal Son
+TTITLE1=Our Time Is Coming
+TTITLE2=Only Here For A Little While
+TTITLE3=Daddy's Hands
+TTITLE4=Searchin' Love
+TTITLE5=Another Trip To The Well
+TTITLE6=Let Not Your Heart Be Troubled
+TTITLE7=Man With A Hammer
+TTITLE8=He's Always There Fro You
+TTITLE9=Walking In Jerusalem
+EXTD=
+EXTT0=Larry Gatlin and The Gatlin Brothers
+EXTT1=Brooks and Dunn
+EXTT2=Billy Dean
+EXTT3=Holly Dunn
+EXTT4=Glen Campbell
+EXTT5=Sawyer Brown
+EXTT6=The Forester Sisters
+EXTT7=Mike Reid
+EXTT8=The Statler Brothers
+EXTT9=Ricky Skaggs
+PLAYORDER=

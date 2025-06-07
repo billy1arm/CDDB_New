@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  155
+#  18307
+#  31525
+#  48000
+#  65147
+#  77925
+#  94502
+#  108040
+#  135417
+#  158290
+#  175675
+#  210342
+#
+# Disc length: 3047 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=7c0be50c
+DTITLE=Tom Russell  - Poor Man's Dream
+DYEAR=1900
+DGENRE=country
+TTITLE0=Blue Wing
+TTITLE1=The Heart of a Working Man
+TTITLE2=Veteran's Day
+TTITLE3=Walkin on the Moon
+TTITLE4=Outbound Plane
+TTITLE5=Bergenfield
+TTITLE6=Spanish Burgundy
+TTITLE7=Gallo Del Cielo
+TTITLE8=La Frontera
+TTITLE9=Navajo Rug
+TTITLE10=Under the Gun/The White Trash Song
+TTITLE11=Northern Towns
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

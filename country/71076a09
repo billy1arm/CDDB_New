@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16135
+#	27780
+#	41990
+#	58337
+#	77217
+#	92660
+#	108935
+#	124880
+#
+# Disc length: 1900 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=71076a09
+DTITLE=Various Artist - Rural Routes
+DYEAR=1999
+DGENRE=Country
+TTITLE0=Lila McCann -- With You
+TTITLE1=Jon Randall -- She Don't Believe in Fairy Tales
+TTITLE2=Ronnie Bowman -- The Man I'm Trying to Be
+TTITLE3=Montgomery Gentry -- Self-Made Man
+TTITLE4=Chalee Tennison -- Someone Else's Turn to Cry
+TTITLE5=Mark Nessler -- Used to the Pain
+TTITLE6=Kelly Willis -- Not Forgotten You
+TTITLE7=Emmylou Harris, Linda Rondstadt, Dolly Parton -- After the Goldrush
+TTITLE8=Don Williams -- Ride On
+EXTD=YEAR: 1999 ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

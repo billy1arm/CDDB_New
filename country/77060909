@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18472
+#	29905
+#	42075
+#	52145
+#	65110
+#	75475
+#	88035
+#	101490
+#
+# Disc length: 1547 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=77060909
+DTITLE=Tommy Cash - 25th Anniversary Album
+DYEAR=1900
+DGENRE=
+TTITLE0=Thoughts On The Flag
+TTITLE1=All By My Lonesome
+TTITLE2=Hank and George, Lefty and Me
+TTITLE3=Guess Things Happen That Way
+TTITLE4=Whatever It Takes
+TTITLE5=Old Memories Are Hard To Lose
+TTITLE6=We've Got Love
+TTITLE7=Too Little, Too Late
+TTITLE8=What Do We Call It Now
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

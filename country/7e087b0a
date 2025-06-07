@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     17230
+#     32322
+#     51492
+#     64320
+#     77452
+#     92277
+#     104157
+#     116132
+#     132042
+# 
+# Disc length: 2173 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7e087b0a
+DTITLE=Seven Little Sisters - Cow Trousers
+DYEAR=1900
+DGENRE=
+TTITLE0=Long Way
+TTITLE1=Play It Clean
+TTITLE2=Where The Wind Blows
+TTITLE3=Role Reversal Drama, Set In Middle America
+TTITLE4='Til You Lie Dead
+TTITLE5=Concrete And Glass
+TTITLE6=Miss Perey's/Sally Gardens
+TTITLE7=As The Crow Flies
+TTITLE8=River Song
+TTITLE9=Way To Go
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

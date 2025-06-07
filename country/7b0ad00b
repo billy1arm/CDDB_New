@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	16895
+#	32255
+#	48030
+#	64402
+#	85512
+#	100965
+#	115270
+#	140320
+#	162225
+#	177010
+#
+# Disc length: 2770 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta3
+#
+DISCID=7b0ad00b
+DTITLE=Brent Titcomb - Beyond Appearances
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Black Water Rising
+TTITLE1=Glory Come, Glory Go
+TTITLE2=Bay Of Sails
+TTITLE3=It's A Lovely Day
+TTITLE4=It Remains To Be Seen
+TTITLE5=Talk To Me
+TTITLE6=Before My Time
+TTITLE7=It's You
+TTITLE8=Mesa Vista
+TTITLE9=Bring Back The Love
+TTITLE10=Tibetan Bells
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12320
+#	22565
+#	35305
+#	45193
+#	53310
+#	63168
+#	74545
+#	82815
+#	95258
+#	105998
+#	117920
+#
+# Disc length: 1711 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=7606ad0c
+DTITLE=Johnny Cash - Greatist Hits
+DYEAR=1900
+DGENRE=Country
+TTITLE0=I Walk The Line
+TTITLE1=There You Go
+TTITLE2=Folsum Prison Blues
+TTITLE3=Ballad Of A Teenage Queen
+TTITLE4=Guess Things Happen That Way
+TTITLE5=The Way Of A Woman In Love
+TTITLE6=Big River
+TTITLE7=Katey Too
+TTITLE8=Next In Line
+TTITLE9=Train Of Love
+TTITLE10=You're The Nearest Thing To Heaven
+TTITLE11=Fools Hall Of Fame
+EXTD=ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

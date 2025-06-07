@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	12885
+#	25185
+#	35780
+#	49867
+#	59932
+#	68336
+#	78705
+#	88011
+#
+# Disc length: 1326 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL2 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=76052c09
+DTITLE=Mel Tillis - Detroit City
+DYEAR=2000
+DGENRE=Country
+TTITLE0=Detroit City
+TTITLE1=Crazy Arms
+TTITLE2=Daddy Sang Bass
+TTITLE3=Games People Play
+TTITLE4=Good Deal Lucille
+TTITLE5=My Special Angel
+TTITLE6=Tormented Heart
+TTITLE7=Burning Memories
+TTITLE8=I Love You Drops
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

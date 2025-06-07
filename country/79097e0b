@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13027
+#  31105
+#  47355
+#  60877
+#  77147
+#  92527
+#  109540
+#  125035
+#  145102
+#  163537
+#
+# Disc length: 2432 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.35
+#
+DISCID=79097e0b
+DTITLE=Mike Reid - Twilight Town
+DYEAR=1900
+DGENRE=
+TTITLE0=A Man With A Hammer
+TTITLE1=Some Somebody
+TTITLE2=Back In The Fire
+TTITLE3=Keep On Walkin'
+TTITLE4=Call Home
+TTITLE5=Hurtin' Side
+TTITLE6=Working With The Right Tools
+TTITLE7=One Night
+TTITLE8=I'll Never Have The Heart (To Leave This Town)
+TTITLE9=Love Without Mercy
+TTITLE10=I Can't Make You Love Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

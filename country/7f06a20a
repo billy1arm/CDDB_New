@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	10770
+#	22332
+#	37267
+#	49375
+#	60932
+#	78165
+#	87605
+#	101765
+#	114987
+#
+# Disc length: 1700 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta8
+#
+DISCID=7f06a20a
+DTITLE=70s Cuntry - A year in your life
+DYEAR=1970
+DGENRE=Country
+TTITLE0=Willie Nelson-Blue Eyes Crying In the Rain
+TTITLE1=Crystal Gayle-Dont'it make My brown eyes blue
+TTITLE2=Waylor Jennings-Luckenbach, Texas
+TTITLE3=Larry Gatln and The Gatlin Brothers-All the gold in California
+TTITLE4=Sammi Smith-Help me make it through the night
+TTITLE5=Ray Price-For the good time
+TTITLE6=Dottie West-Country Sunshine
+TTITLE7=Charley Pride-A shoulder to cry on
+TTITLE8=Dolly Parton-I will always love you
+TTITLE9=Gary Stewart-She's actin'single (I'm drinkin'doubles)
+EXTD=YEAR: 1970 ID3G: 2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

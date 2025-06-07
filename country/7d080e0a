@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     15615
+#     30620
+#     45650
+#     64882
+#     78275
+#     93195
+#     109157
+#     126882
+#     141172
+# 
+# Disc length: 2064 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7d080e0a
+DTITLE=Lee Greenwood - Lee Greenwoods Christmas To Christmas
+DYEAR=1900
+DGENRE=
+TTITLE0=Let It Snow,Let Snow,Let It Snow
+TTITLE1=Christmas To Christmas
+TTITLE2=When The Rain Turns To Snow
+TTITLE3=Tennessee Christmas
+TTITLE4=I'll Be Home For Christmas
+TTITLE5=Lone Star Christmas
+TTITLE6=The Greatest Gift Of All
+TTITLE7=Bring Christmas Home
+TTITLE8=The Christmas Song
+TTITLE9=On Holy Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

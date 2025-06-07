@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18010
+#	35421
+#	49324
+#	65241
+#	82704
+#	97290
+#	118111
+#	139931
+#
+# Disc length: 2146 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=7a086009
+DTITLE=Gary Jennings - Hobo's Heaven
+DYEAR=2005
+DGENRE=Country
+TTITLE0=Hobo's Heaven
+TTITLE1=My Habit
+TTITLE2=American Dream
+TTITLE3=Let's Fall In Love Again
+TTITLE4=Father N' Son
+TTITLE5=Memphis Child
+TTITLE6=Letter To Mama
+TTITLE7=Prisoner In Love
+TTITLE8=Ole Friend
+EXTD=YEAR: 2005
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	9935
+# 	24572
+# 	42135
+# 	53610
+# 	67327
+# 	79112
+# 	94095
+# 	108395
+# 	122650
+#
+# Disc length: 1783 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7706f50a
+DTITLE=Various Artist - Christmas For The 90's - 1
+DYEAR=1900
+DGENRE=
+TTITLE0=Rockin' Around The Christmas Tree
+TTITLE1=Blue Christmas
+TTITLE2=Winter Wonderland
+TTITLE3=Jingle Bell Rock
+TTITLE4=I'll Be Home For Christmas
+TTITLE5=God Rest Ye Merry Gentlemen
+TTITLE6=The Little Drummer Boy
+TTITLE7=The Christmas Song
+TTITLE8=Silver Bells
+TTITLE9=Thank God For Kids
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

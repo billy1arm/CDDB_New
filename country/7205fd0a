@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	182
+#	10680
+#	22532
+#	33345
+#	47632
+#	57687
+#	69952
+#	79582
+#	89690
+#	101832
+#
+# Disc length: 1535 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL3 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7205fd0a
+DTITLE=Various Artist - Country Hits of the 60's
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Wings of a Dove/Ferlin Husky
+TTITLE1=Right or Wrong/Wanda Jackson
+TTITLE2=Hello Walls/Faron Young
+TTITLE3=I Dreamed of Hilly-Billy Heaven/Tex Ritter
+TTITLE4=Touch Me/Willie Nelson
+TTITLE5=The Tip of My Fingers/Roy Clark
+TTITLE6=The Race is On/George Jones
+TTITLE7=Your the Only World I Know/Sonny James
+TTITLE8=Girl On The Billboard/Del Reeves
+TTITLE9=Gentle On My Mind/Glen Cambell
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

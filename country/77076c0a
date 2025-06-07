@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     16520
+#     35795
+#     50800
+#     66190
+#     78035
+#     91045
+#     105995
+#     117560
+#     130210
+# 
+# Disc length: 1902 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=77076c0a
+DTITLE=Tina Turner - Tina Turner Country Classics
+DYEAR=1900
+DGENRE=
+TTITLE0=Lay It Down
+TTITLE1=Lovin' Him Was Easier
+TTITLE2=Good Hearted Woman
+TTITLE3=If This Was Our Last Time
+TTITLE4=Stand By Your Man
+TTITLE5=Freedom To Stay
+TTITLE6=We Had It All
+TTITLE7=Soul Deep
+TTITLE8=If It's Alright With You
+TTITLE9=You Ain't Woman Emough To Take My Man
+EXTD=
+EXTT0=Thomas
+EXTT1=Kristofferson
+EXTT2=Jennings/Nelson
+EXTT3=Frazier
+EXTT4=Wynette/Sherill
+EXTT5=Hoover
+EXTT6=Seals/Fritts
+EXTT7=Carson Thompson
+EXTT8=O'Dell/Henley
+EXTT9=Lynn
+PLAYORDER=

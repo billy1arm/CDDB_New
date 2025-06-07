@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	18334
+#	32687
+#	45678
+#	59536
+#	79392
+#	91289
+#	102392
+#	112987
+#	132292
+#
+# Disc length: 1999 seconds
+#
+# Revision: 22
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=7f07cd0a
+DTITLE=Hank Williams Jr. - Greatest Hits Vol. 01
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Family Tradition
+TTITLE1=Whiskey Bent And Hell Bound
+TTITLE2=Women I've Never Had
+TTITLE3=Old Habits
+TTITLE4=Kaw-Liga
+TTITLE5=Dixie On My Mind
+TTITLE6=Texas Women
+TTITLE7=The American Dream
+TTITLE8=A Country Boy Can Survive
+TTITLE9=All My Rowdy Friends ( Have Settled Down )
+EXTD=ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     13515
+#     23082
+#     38340
+#     50867
+#     67915
+#     83180
+#     97052
+#     109012
+#     121980
+# 
+# Disc length: 1822 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=76071c0a
+DTITLE=John Anderson - Too Tough To Tame
+DYEAR=1900
+DGENRE=
+TTITLE0=Too Tough To Tame
+TTITLE1=Guitars That Won't Stay In Tune
+TTITLE2=The Tears That I Cry
+TTITLE3=Tryin' To Make A Livin' On The Road
+TTITLE4=Maybe Go Down
+TTITLE5=Who's Lovin' My Baby
+TTITLE6=When The Darkness Falls
+TTITLE7=She Worships The Quicksand That I Walk On
+TTITLE8=Bamboo Annie
+TTITLE9=There Was A Time When I Was Alone
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

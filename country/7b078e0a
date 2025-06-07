@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	182
+# 	6495
+# 	17360
+# 	30497
+# 	44597
+# 	55475
+# 	72305
+# 	89482
+# 	106207
+# 	121532
+#
+# Disc length: 1936 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4
+#
+DISCID=7b078e0a
+DTITLE=John Berry - Holy Night
+DYEAR=1900
+DGENRE=
+TTITLE0=Joy to the World
+TTITLE1=God Rest Ye Merry Gentlemen
+TTITLE2=I'll Be Home for Christmas
+TTITLE3=Away in a Manger
+TTITLE4=O Come All Ye Faithful
+TTITLE5=Little Drummer Boy
+TTITLE6=The Christmas Song
+TTITLE7=Silent Night
+TTITLE8=O Come Emmanuel
+TTITLE9=O Holy Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

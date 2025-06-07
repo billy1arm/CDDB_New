@@ -1,0 +1,101 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	4380
+#	15745
+#	30032
+#	45232
+#	56055
+#	69485
+#	82317
+#	93417
+#	102175
+#	112685
+#	131577
+#	139072
+#	151022
+#	165315
+#	174762
+#	184652
+#	190237
+#	205297
+#	214605
+#	225197
+#	246172
+#	254997
+#	272387
+#	281667
+#	286332
+#	304982
+#	314640
+#
+# Disc length: 4322 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: xmcd 2.2 PL1
+#
+DISCID=7a10e01c
+DTITLE=Johnny Gimble - The Texas Fiddle Collection
+DYEAR=1900
+DGENRE=
+TTITLE0=Sallie Gooden
+TTITLE1=Black and White Rag
+TTITLE2=Silver Bell
+TTITLE3=Goodnight Waltz
+TTITLE4=Under the Double Eagle
+TTITLE5=Crafton Blues
+TTITLE6=Darling Nellie Gray
+TTITLE7=Fat Boy Rag
+TTITLE8=Down Yonder
+TTITLE9=Ragtime Annie
+TTITLE10=On the Alamo
+TTITLE11=Barefoot Fiddler
+TTITLE12=Twilight Waltz
+TTITLE13=Twinkle, Little Star
+TTITLE14=Red Wing
+TTITLE15=Flower of Mexico
+TTITLE16=Carroll County Blues
+TTITLE17=Draggin' the Bow
+TTITLE18=Dreamy Eyes Waltz
+TTITLE19=Lime Rock
+TTITLE20=Rainy Day Monday Blues
+TTITLE21=Alabama Jubilee
+TTITLE22=Tuxedo Junction
+TTITLE23=Beaumont Rag
+TTITLE24=Big 'Taters in Sandy Land
+TTITLE25=Texas Jole Blon'
+TTITLE26=Rubber Dolly
+TTITLE27=Breakdown on the Freeway
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+PLAYORDER=

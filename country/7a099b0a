@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     20865
+#     37582
+#     61990
+#     81202
+#     102807
+#     121780
+#     138865
+#     148817
+#     168182
+# 
+# Disc length: 2461 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7a099b0a
+DTITLE=Laurie Wheeler - From the Land of Dreams
+DYEAR=1900
+DGENRE=
+TTITLE0=Daylight in the Swamp
+TTITLE1=Utah Moon
+TTITLE2=Baton Rouge
+TTITLE3=Nobody Sings 'em Like Ray
+TTITLE4=Four
+TTITLE5=Louisa
+TTITLE6=Love Made a Gypsy Out of Me
+TTITLE7=Easy to be Happy
+TTITLE8=Hey Daddy-O
+TTITLE9=That's All
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

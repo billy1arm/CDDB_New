@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	14285
+# 	25597
+# 	39822
+# 	52350
+# 	68727
+# 	85317
+# 	97600
+# 	112927
+# 	125940
+#
+# Disc length: 1882 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7607580a
+DTITLE=Reba McEntire - Have I Got A Deal For You
+DYEAR=1900
+DGENRE=
+TTITLE0=I'm In Love All Over
+TTITLE1=She's Single Again
+TTITLE2=The Great Divide
+TTITLE3=Have I Got A Deal For You
+TTITLE4=Red Roses (Won't Work Now)
+TTITLE5=Only In My Mind
+TTITLE6=She's The One Loving You Now
+TTITLE7=Whose Heartache Is This Anyway
+TTITLE8=I Don't Need Nothin' You Ain't Got
+TTITLE9=Don't Forget Your Way Home
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

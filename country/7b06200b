@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 9300
+# 22840
+# 33828
+# 46440
+# 55980
+# 65688
+# 76758
+# 88010
+# 98653
+# 109230
+#
+# Disc length: 1570 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=7b06200b
+DTITLE=Buck Owens - All - Time Greatest Hits Volume 2
+DYEAR=1900
+DGENRE=
+TTITLE0=Love's Gonna Live Here 
+TTITLE1=Tall Dark Stranger
+TTITLE2=Ruby (Are You Mad At Your Man)
+TTITLE3=Your Tender Loving Care
+TTITLE4=Second Fiddle
+TTITLE5=Johnny B. Goode
+TTITLE6=Above And Beyond
+TTITLE7=Open Up Your Heart
+TTITLE8=The Kansas City Song
+TTITLE9=Where Does The Good Times Go
+TTITLE10=Gonna Have Love
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

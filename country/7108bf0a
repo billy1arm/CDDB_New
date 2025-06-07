@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19580
+#     31960
+#     47712
+#     62537
+#     78025
+#     95262
+#     109672
+#     125167
+#     142697
+# 
+# Disc length: 2241 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7108bf0a
+DTITLE=The Johner Brothers - Some Kind Of Magic
+DYEAR=1900
+DGENRE=
+TTITLE0=Goodbye For Good
+TTITLE1=I Don't Wanna Know
+TTITLE2=Old Gang
+TTITLE3=Where The Highway Divides
+TTITLE4=If It Was You
+TTITLE5=Right On Time
+TTITLE6=Why Did I Mistake You
+TTITLE7=Stranded In Love
+TTITLE8=Thank God I'm A Country Boy
+TTITLE9=Bigger Man Than Me
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=Written by Brad Johner and Rob Hewes\n
+EXTT8=Written By John Denver\n
+EXTT9=
+PLAYORDER=

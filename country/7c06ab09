@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13195
+#  28517
+#  39087
+#  52320
+#  65042
+#  81845
+#  96742
+#  111907
+#
+# Disc length: 1709 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.12
+#
+DISCID=7c06ab09
+DTITLE=Various Artist - Three Decades of Country
+DYEAR=1900
+DGENRE=
+TTITLE0=You're the First Time I've Thought About Leavin
+TTITLE1=Crime of Passion
+TTITLE2=Blue Eyes Crying in the Rain
+TTITLE3=Talking in Your Sleep
+TTITLE4=San Antonio Stroll
+TTITLE5=When you Say Nothing at All
+TTITLE6=I Couldn't Leave You if I Tried
+TTITLE7=Sacred Ground
+TTITLE8=Second Thought
+EXTD=
+EXTT0=Reba McEntire
+EXTT1=Ricky Van Shelton
+EXTT2=Willie Nelson
+EXTT3=Crystal Gale
+EXTT4=Tanya Tucker
+EXTT5=Keith Whitley
+EXTT6=Rodney Crowell
+EXTT7=McBride and the Ride
+EXTT8=Eddie Rabbitt
+PLAYORDER=

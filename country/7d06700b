@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11140
+#	22652
+#	33270
+#	43912
+#	54392
+#	65775
+#	78305
+#	90012
+#	99395
+#	110697
+#
+# Disc length: 1650 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.51.3
+#
+DISCID=7d06700b
+DTITLE=Ferlin Husky - Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=Gone
+TTITLE1=A Dear John Letter
+TTITLE2=Wings Of A Dove
+TTITLE3=Just For You
+TTITLE4=Once
+TTITLE5=Every Step Of The Way
+TTITLE6=I Can't Stop Loving You
+TTITLE7=I Feel Better All Over
+TTITLE8=My Reason For Living
+TTITLE9=Heavenly Sunshine
+TTITLE10=I Really Don't Want To Know
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

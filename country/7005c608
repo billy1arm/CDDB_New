@@ -1,0 +1,40 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14522
+#	27707
+#	39727
+#	55197
+#	69357
+#	81562
+#	95110
+#
+# Disc length: 1480 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=7005c608
+DTITLE=Scott Turner - Late Night Rendezvous
+DYEAR=2000
+DGENRE=Country
+TTITLE0=B.Y.O.B.
+TTITLE1=Stop and Drink it Over
+TTITLE2=Train on My One Track Mind
+TTITLE3=Strangers on the Street
+TTITLE4=These Ole Walls Don't Care What They Say
+TTITLE5=Going Uptown Tonight
+TTITLE6=New Record Low
+TTITLE7=I Can't Put My Arms Around a Memory
+EXTD=YEAR: 2000
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=

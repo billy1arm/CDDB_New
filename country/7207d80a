@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     19740
+#     32157
+#     46155
+#     58655
+#     71300
+#     85837
+#     99180
+#     114837
+#     132832
+# 
+# Disc length: 2010 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.2
+# 
+DISCID=7207d80a
+DTITLE=Jo-El Sonnier - Hello Happiness Again
+DYEAR=1900
+DGENRE=
+TTITLE0=Cafe Du Monde
+TTITLE1=Cry Like A Baby
+TTITLE2=Someday I Will Lead The Parade
+TTITLE3=Hello Happiness Again
+TTITLE4=Field Of Love
+TTITLE5='65 Blue
+TTITLE6=So Lonesome In My Heart
+TTITLE7=Hole In The Clouds
+TTITLE8=Is My Love Enough?
+TTITLE9=French Quarter Moon
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

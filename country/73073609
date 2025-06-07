@@ -1,0 +1,44 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	13622
+#	22720
+#	33012
+#	41757
+#	52392
+#	62425
+#	70742
+#	131965
+#
+# Disc length: 1848 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.07
+#
+DISCID=73073609
+DTITLE=Gene Autry - His Christmas Album
+DYEAR=1900
+DGENRE=
+TTITLE0=Rudolph The Red Nosed Reindeer
+TTITLE1=Jingle Bells
+TTITLE2=Here Comes Santa Claus
+TTITLE3=Frosty The Snowman
+TTITLE4=Buone Natale
+TTITLE5=Silver Bells
+TTITLE6=32 Feet and Eight Little Tails
+TTITLE7=The Story of the Nativity
+TTITLE8=Silent Night
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

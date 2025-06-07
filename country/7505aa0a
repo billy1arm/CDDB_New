@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1996 Ti Kan
+#
+# Track frame offsets:
+# 150
+# 13225
+# 24575
+# 36800
+# 45812
+# 56112
+# 66662
+# 76087
+# 88225
+# 98287
+#
+# Disc length: 1452 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: inCDius 1.1b5
+#
+DISCID=7505aa0a
+DTITLE=Grandpa Jones - Pickin' And A Grinnin'
+DYEAR=1900
+DGENRE=
+TTITLE0=Away Out On The Mountain
+TTITLE1=My Carolina Sunshine Girl
+TTITLE2=Hobo Bill
+TTITLE3=Waiting For A Train
+TTITLE4=Don't Look Back
+TTITLE5=T For Texas
+TTITLE6=Peach Pickin' Time In Georgia
+TTITLE7=My Little Lady
+TTITLE8=Brakeman's Blues
+TTITLE9=Falling Leaves
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

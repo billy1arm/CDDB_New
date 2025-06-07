@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  12310
+#  32205
+#  41007
+#  53892
+#  63440
+#  76397
+#  86667
+#  103517
+#  115987
+#
+# Disc length: 1700 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDWizzard Release:4.24
+#
+DISCID=7e06a20a
+DTITLE=Commander Cody - Country Casanova
+DYEAR=1900
+DGENRE=
+TTITLE0=Country Casanova
+TTITLE1=Shall We Meet (Beyond the River)
+TTITLE2=My Window Faces the South
+TTITLE3=One Man's Meat (Is Another Man's Poison)
+TTITLE4=Everybody's Doin' It
+TTITLE5=Rock That Boogie
+TTITLE6=Rave On
+TTITLE7=Smoke! Smoke! Smoke! (That Cigarette)
+TTITLE8=Sister Sue
+TTITLE9=Honeysuckle Honey
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

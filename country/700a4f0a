@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     18192
+#     36457
+#     53805
+#     75917
+#     93762
+#     116300
+#     139140
+#     161520
+#     178757
+# 
+# Disc length: 2641 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=700a4f0a
+DTITLE=B.J. Thomas - Still Standing Here
+DYEAR=1900
+DGENRE=
+TTITLE0=A Southern Girl On A Summer Night
+TTITLE1=Now That Love Is On Our Side Again
+TTITLE2=Back Against The Wall
+TTITLE3=Red Letter Days
+TTITLE4=Two Wrongs Made It Right
+TTITLE5=I'm So Glad I'm Standing Here Today
+TTITLE6=You Make Me Feel Brand New
+TTITLE7=Let Me Be Your Shelter
+TTITLE8=Man To Conquer All
+TTITLE9=What I See In Her Is You
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

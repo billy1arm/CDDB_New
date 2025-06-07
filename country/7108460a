@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15837
+#     31212
+#     45942
+#     66337
+#     82100
+#     96487
+#     113475
+#     128312
+#     143725
+# 
+# Disc length: 2120 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.3
+# 
+DISCID=7108460a
+DTITLE=Olav Stedje - Ta meg med
+DYEAR=1900
+DGENRE=
+TTITLE0=Storbynatt
+TTITLE1=Kj rleik
+TTITLE2=Vi vandrar saman
+TTITLE3=Valentino
+TTITLE4=Lykkesmed
+TTITLE5=Ta meg med
+TTITLE6=Svart rose
+TTITLE7=Hyttetur
+TTITLE8=N r ho er hj  meg
+TTITLE9=Berre vener
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

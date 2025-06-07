@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	15495
+# 	27073
+# 	43250
+# 	56433
+# 	69958
+# 	85020
+# 	98830
+# 	115385
+# 	135220
+# 	154128
+#
+# Disc length: 2334 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7d091c0b
+DTITLE=High Noon - phone calls
+DYEAR=1900
+DGENRE=
+TTITLE0=Too Good For Me
+TTITLE1=Hustle Bustle City
+TTITLE2=Month of Blue Mondays
+TTITLE3=Can't Get Enough
+TTITLE4=Do You Remember
+TTITLE5=Phone Call For Julie
+TTITLE6=Sixteen Tons
+TTITLE7=I Could Be The One
+TTITLE8=The Vow
+TTITLE9=I Believe
+TTITLE10=What We Know Now
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=Not Listed on the CD Insert
+EXTT9=
+EXTT10=
+PLAYORDER=

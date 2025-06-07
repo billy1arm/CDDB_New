@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	14382
+#	31820
+#	47250
+#	64750
+#	83470
+#	96362
+#	112290
+#	129860
+#	156482
+#
+# Disc length: 2378 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7609480a
+DTITLE=Gary Morris - These Days
+DYEAR=1990
+DGENRE=Country
+TTITLE0=Workin' Man Blues
+TTITLE1=Love Don't Work That Way
+TTITLE2=How Did I Get Here
+TTITLE3=Don't Throw Wood (On A Dying Fire)
+TTITLE4=Miles Across The Bedroom
+TTITLE5=Let Me, Let Me
+TTITLE6=My Finest Hour
+TTITLE7=These Days
+TTITLE8=Somebody Lives There
+TTITLE9=Time Will Tell
+EXTD=more info - MillenniumMusicProjectFormat - SYNTAX=SongTitle{Subtitle}[miscInfo](Lyricist;Composer;Date,Artist,Location,State,Country) YEAR: 1990
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

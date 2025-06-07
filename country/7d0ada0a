@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	19912
+#	38237
+#	58002
+#	88825
+#	107045
+#	124620
+#	152340
+#	170025
+#	191412
+#
+# Disc length: 2780 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: CDValet v3.31 - Copyright (c) 1997 Greg Leichner
+#
+DISCID=7d0ada0a
+DTITLE=John Andrew Parks - John Andrew Parks
+DYEAR=1900
+DGENRE=
+TTITLE0=Daddy On The Radio
+TTITLE1=Ten Gallon Dreams
+TTITLE2=The Way I Feel
+TTITLE3=Planet Texas
+TTITLE4=Do A Little Dance
+TTITLE5=Veronica
+TTITLE6=The Ghost Of Johnny Ringo
+TTITLE7=The Joke's On You
+TTITLE8=Rainbow On A Rainy Day
+TTITLE9=Nocturnal Light
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

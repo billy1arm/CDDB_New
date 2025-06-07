@@ -1,0 +1,53 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+# 
+# Track frame offsets:
+#     150
+#     15973
+#     30118
+#     41083
+#     61615
+#     76983
+#     94723
+#     106208
+#     125575
+#     138288
+#     151930
+#     167078
+# 
+# Disc length: 2400 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.4
+# 
+DISCID=7f095e0c
+DTITLE=Heritage - Making The Best Of It
+DYEAR=1900
+DGENRE=
+TTITLE0=Don't Say Goodbye If You Love Me
+TTITLE1=I'm Not Over You
+TTITLE2=Why Don't You Tell Me So
+TTITLE3=It'll Take Love
+TTITLE4=Heaven
+TTITLE5=Just Like You
+TTITLE6=Dark Hollow
+TTITLE7=Old Flames
+TTITLE8=Sweetest Gift
+TTITLE9=Sum Of Marcy's Blues
+TTITLE10=Never Alone
+TTITLE11=Love And Wealth
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=

@@ -1,0 +1,50 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  150
+#  13105
+#  26697
+#  44212
+#  57937
+#  75500
+#  90050
+#  105487
+#  121610
+#  135295
+#  147162
+#
+# Disc length: 2111 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=7e083d0b
+DTITLE=The Vidalias - Melodyland
+DYEAR=1900
+DGENRE=country
+TTITLE0=Faking It
+TTITLE1=Tokens of Affliction
+TTITLE2=Carry Me
+TTITLE3=Something She Said
+TTITLE4=End of the Night
+TTITLE5=Loser Leave Town
+TTITLE6=When I Woke Up This Morning
+TTITLE7=Innocent Bystander
+TTITLE8=I'm Gone
+TTITLE9=Play Me For a Fool
+TTITLE10=Quittin' Time
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=

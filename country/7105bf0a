@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	12792
+#	25197
+#	36772
+#	48027
+#	59812
+#	69292
+#	79530
+#	88835
+#	98772
+#
+# Disc length: 1473 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=7105bf0a
+DTITLE=Various Artist - Country Hits of the 50's
+DYEAR=1950
+DGENRE=Country
+TTITLE0=Chattanoogie Shoe Shine Boy
+TTITLE1=Cold Cold Heart
+TTITLE2=It Wasn't God Who Made Honky Tonk Angels
+TTITLE3=Let Me Be The One
+TTITLE4=I Really Don't Want To Know
+TTITLE5=In the Jailhouse Now
+TTITLE6=Blue Suede Shoes
+TTITLE7=Wake Up Little Susie
+TTITLE8=Ballad of a Teenage Queen
+TTITLE9=Country Girl
+EXTD=\nYEAR: 1950  ID3G:   2
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

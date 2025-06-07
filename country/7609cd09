@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25065
+#	42360
+#	67285
+#	80115
+#	95715
+#	112800
+#	142527
+#	161182
+#
+# Disc length: 2511 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.1PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7609cd09
+DTITLE=Stampeders - From The Fire
+DYEAR=1973
+DGENRE=Country
+TTITLE0=Manitou
+TTITLE1=Wildfire
+TTITLE2=Me And My Stone
+TTITLE3=Goodbye Goodbye
+TTITLE4=Chariots Of The Gods
+TTITLE5=Rocky Mountain Home
+TTITLE6=Child Of The Midnight Sun
+TTITLE7=Ride In The Wind
+TTITLE8=Running Wild
+EXTD=YEAR: 1973
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

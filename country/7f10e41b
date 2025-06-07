@@ -1,0 +1,98 @@
+# xmcd CD database file
+# Copyright (C) 1993-1999 CDDB, Inc.
+#
+# Track frame offsets:
+#	150
+#	12448
+#	22789
+#	32638
+#	44550
+#	55755
+#	65532
+#	76821
+#	89662
+#	102035
+#	116161
+#	126761
+#	136934
+#	146648
+#	162722
+#	176319
+#	186570
+#	197706
+#	216086
+#	228224
+#	240452
+#	252866
+#	266489
+#	277935
+#	288776
+#	303570
+#	314411
+#
+# Disc length: 4326
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CoolCD_Studio 1.4
+#
+DISCID=7f10e41b
+DTITLE=Gene Vincent - The Country Side
+DYEAR=1900
+DGENRE=
+TTITLE0=Waltz Of The Wind
+TTITLE1=Blues Stay Away From Me
+TTITLE2=Your Cheatin' Heart
+TTITLE3=Frankie and Johnnie
+TTITLE4=You Belong to Me
+TTITLE5=Rocky Road Blues
+TTITLE6=Hey, Good Lookin'
+TTITLE7=I Can't Help It (If I'm Still in Love With You)
+TTITLE8=The Wayward Wind
+TTITLE9=Beautiful Brown Eyes
+TTITLE10=Greenback Dollar
+TTITLE11=Blue Eyes Crying in the Rain
+TTITLE12=Pistol Packin' Mama
+TTITLE13=You Are My Sunshine
+TTITLE14=I'm a Lonesome Fugitive
+TTITLE15=Lonely Street
+TTITLE16=Am I That Easy to Forget
+TTITLE17=In the Pines
+TTITLE18=Rainbow at Midnight
+TTITLE19=Black Letter
+TTITLE20=White Lightnin'
+TTITLE21=Circle Never Broken
+TTITLE22=(I Heard That) Lonesome Whistle
+TTITLE23=Danse Colinda
+TTITLE24=500 Miles Away from Home
+TTITLE25=Oh Lonesome Me
+TTITLE26=I'm Movin' On
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+PLAYORDER=

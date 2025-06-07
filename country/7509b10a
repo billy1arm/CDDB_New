@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+# 
+# Track frame offsets:
+#     182
+#     15587
+#     42220
+#     56157
+#     67545
+#     89417
+#     106905
+#     129552
+#     151392
+#     169022
+# 
+# Disc length: 2483 seconds
+# 
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 4.0.1
+# 
+DISCID=7509b10a
+DTITLE=Kevin Welch - Life Down Here On Earth
+DYEAR=1900
+DGENRE=
+TTITLE0=Pushing Up Daisies
+TTITLE1=Troublesome Times
+TTITLE2=Wilson's Tracks
+TTITLE3=I Feel Fine Today
+TTITLE4=A Feast Of Bread And Water
+TTITLE5=Wishing For You
+TTITLE6=Kicking Back In Amsterdam
+TTITLE7=The Love I Have For You
+TTITLE8=One Way Rider
+TTITLE9=Life Down Here On Earth
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

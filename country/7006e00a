@@ -1,0 +1,46 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	13025
+#	24562
+#	38962
+#	55612
+#	68037
+#	79635
+#	91222
+#	107400
+#	119362
+#
+# Disc length: 1762 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50Beta7
+#
+DISCID=7006e00a
+DTITLE=Various Artist - Truckers Jukebox #1
+DYEAR=1900
+DGENRE=Country
+TTITLE0=Conway Twitty/Tight Fittin' Jeans
+TTITLE1=Merle Haggard/Red Bandana
+TTITLE2=Lee Greenwood/God Bless The U.S.A.
+TTITLE3=Waylon Jennings/Rose In Paradise
+TTITLE4=Brenda Lee/All Alone Am I
+TTITLE5=John Anderson/If It Ain't Broke, Don't Fix It
+TTITLE6=Patsy Cline/Sweet Dreams
+TTITLE7=George Jones/You Couldn't Get The Picture
+TTITLE8=Marty Stuart/Hillbilly Rock
+TTITLE9=Tanya Tucker/San Antonio Stroll
+EXTD=
+EXTT0=Conway Twitty\n
+EXTT1=Merle Haggard\n
+EXTT2=Lee Greenwood\n
+EXTT3=Waylon Jennings\n
+EXTT4=Brenda Lee\n
+EXTT5=John Anderson\n
+EXTT6=Patsy Cline\n
+EXTT7=George Jones\n
+EXTT8=Marty Stuart\n
+EXTT9=Tanya Tucker\n
+PLAYORDER=

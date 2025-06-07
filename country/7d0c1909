@@ -1,0 +1,43 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28150
+#	55190
+#	73870
+#	88797
+#	115695
+#	140577
+#	156352
+#	181262
+#
+# Disc length: 3099 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.79
+#
+DISCID=7d0c1909
+DTITLE=Bob Dylan - Highway 61 Revisited
+DYEAR=1967
+DGENRE=Country
+TTITLE0=Like A Rolling Stone
+TTITLE1=Tombstone Blues
+TTITLE2=It Takes A Lot To Laugh, It Takes A Train To Cry
+TTITLE3=From A Buick 6
+TTITLE4=Ballad Of A Thin Man
+TTITLE5=Queen Jane Approximately
+TTITLE6=Highway 61 Revisited
+TTITLE7=Just Like Tom Thumb's Blues
+TTITLE8=Desolation Row
+EXTD=YEAR: 1967
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=

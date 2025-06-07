@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	150
+# 	18850
+# 	34845
+# 	53210
+# 	69805
+# 	86500
+# 	98642
+# 	115925
+# 	136277
+# 	152840
+#
+# Disc length: 2288 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.3.1
+#
+DISCID=7408ee0a
+DTITLE=Rodney Crowell - Let The Picture Paint Itself
+DYEAR=1900
+DGENRE=
+TTITLE0=Let The Picture Paint Itself
+TTITLE1=Give My Heart A Rest
+TTITLE2=Stuff That Works
+TTITLE3=Big Heart
+TTITLE4=Loving You Makes Me Strong
+TTITLE5=The Best Years Of Our Lives
+TTITLE6=I Don't Fall In Love So Easy
+TTITLE7=That Ol' Door
+TTITLE8=The Rose Of Memphis
+TTITLE9=Once In A While
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

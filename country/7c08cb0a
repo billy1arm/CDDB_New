@@ -1,0 +1,48 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18262
+#	37378
+#	53482
+#	69534
+#	83912
+#	99825
+#	116263
+#	130696
+#	149280
+#
+# Disc length: 2253 seconds
+#
+# Submitted via: cddb-tool 0.4.5
+#
+#blues,classical,country,data,folk,jazz,newage,reggae,rock,soundtrack,misc
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+#
+DISCID=7c08cb0a
+DTITLE=Don Burke - Song Of Autumn
+DYEAR=1999
+DGENRE=Folk
+TTITLE0=The Hill
+TTITLE1=Annie And Son
+TTITLE2=Prodigal Son
+TTITLE3=Sur Le Toit
+TTITLE4=Funny What People Call Home
+TTITLE5=Dans La Ville
+TTITLE6=Portrait Of A Girl
+TTITLE7=Waltz Made For Fools
+TTITLE8=Lost And Found
+TTITLE9=Chanson De l'Automne
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1997 Ti Kan
+#
+# Track frame offsets:
+#  187
+#  13142
+#  22637
+#  33672
+#  45255
+#  57492
+#  69745
+#  81650
+#  90977
+#  105430
+#
+# Disc length: 1587 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.4PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: Gronk 1.4
+#
+DISCID=7506310a
+DTITLE=Ernest Tubb - Retrospective - Volume 3
+DYEAR=1900
+DGENRE=country
+TTITLE0=Too Old To Cut The Mustard
+TTITLE1=Boogie Woogie Baby
+TTITLE2=Thirty Days
+TTITLE3=Thanks A Lot
+TTITLE4=Mr. and Mrs. Used To Be
+TTITLE5=Pass The Booze
+TTITLE6=Waltz Across Texas
+TTITLE7=Walking The Floor Over To You
+TTITLE8=Hey La La
+TTITLE9=Driftwood On The River
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=

@@ -1,0 +1,47 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	182
+# 	12997
+# 	27835
+# 	43280
+# 	54147
+# 	68167
+# 	80700
+# 	94562
+# 	112847
+# 	125332
+#
+# Disc length: 1909 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.4b41PL1 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=7607730a
+DTITLE=The Gatlin Brothers - the Gatlin Brothers Greatest Hits
+DYEAR=1900
+DGENRE=
+TTITLE0=All The Gold in California
+TTITLE1=I Just Wish You Were Someone I Love
+TTITLE2=Bitter They Are, Harder They Fall
+TTITLE3=I Don't Wanna Cry
+TTITLE4=Houston (Means I'm One Day Closer To You)
+TTITLE5=Broken Lady
+TTITLE6=Night Time Magic
+TTITLE7=I've Done Enough Dyin' Today
+TTITLE8=Statues Without Hearts
+TTITLE9=Love is Just a Game
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=
